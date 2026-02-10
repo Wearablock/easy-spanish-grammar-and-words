@@ -79,9 +79,9 @@ class UserSettingsDao extends DatabaseAccessor<AppDatabase>
         defaultValue: StudyConstants.defaultDailyGoal);
   }
 
-  Future<void> setDailyGoal(int chapterCount) {
+  Future<void> setDailyGoal(int topicCount) {
     final validCount =
-        chapterCount.clamp(1, StudyConstants.maxDailyGoalChapters);
+        topicCount.clamp(1, StudyConstants.maxDailyGoalTopics);
     return setInt(SettingKeys.dailyGoal, validCount);
   }
 

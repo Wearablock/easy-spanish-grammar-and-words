@@ -20,14 +20,14 @@ class StudyConstants {
   /// 신규 학습 최소 보장 문제 수
   static const int minNewLearningCount = 5;
 
-  /// 기본 일일 학습 챕터 수
-  static const int defaultDailyChapters = 2;
+  /// 기본 일일 학습 토픽 수
+  static const int defaultDailyTopics = 2;
 
   /// 기본 일일 학습 목표 (문제 수, DAO에서 사용)
   static const int defaultDailyGoal = 15;
 
-  /// 최대 일일 목표 챕터 수
-  static const int maxDailyGoalChapters = 5;
+  /// 최대 일일 목표 토픽 수
+  static const int maxDailyGoalTopics = 5;
 }
 
 /// CEFR 레벨 관련 상수
