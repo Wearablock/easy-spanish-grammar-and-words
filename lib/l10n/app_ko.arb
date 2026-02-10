@@ -200,5 +200,20 @@
 
   "ttsSettings": "TTS 설정",
   "ttsAutoPlay": "자동 재생",
-  "ttsAutoPlayDesc": "정답 확인 시 스페인어 자동 발음"
+  "ttsAutoPlayDesc": "정답 확인 시 스페인어 자동 발음",
+
+  "showHint": "힌트 보기",
+  "nextQuestion": "다음 문제",
+  "keyPoints": "핵심 포인트",
+  "theoryComplete": "학습 완료",
+  "excellentComplete": "훌륭해요!",
+  "goodComplete": "잘했어요!",
+  "phaseResults": "단계별 결과",
+  "additionalStudy": "추가 학습하기",
+  "continueReviewWithCount": "이어서 복습 ({count}개 남음)",
+  "@continueReviewWithCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  }
 }

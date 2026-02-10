@@ -366,6 +366,35 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get ttsAutoPlayDesc => '答对时自动播放西班牙语发音';
+
+  @override
+  String get showHint => '查看提示';
+
+  @override
+  String get nextQuestion => '下一题';
+
+  @override
+  String get keyPoints => '要点';
+
+  @override
+  String get theoryComplete => '学习完成';
+
+  @override
+  String get excellentComplete => '太棒了！';
+
+  @override
+  String get goodComplete => '做得好！';
+
+  @override
+  String get phaseResults => '阶段结果';
+
+  @override
+  String get additionalStudy => '继续学习';
+
+  @override
+  String continueReviewWithCount(int count) {
+    return '继续复习（剩余$count题）';
+  }
 }
 
 /// The translations for Chinese, using the Han script (`zh_Hant`).
@@ -730,4 +759,33 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
 
   @override
   String get ttsAutoPlayDesc => '答對時自動播放西班牙語發音';
+
+  @override
+  String get showHint => '查看提示';
+
+  @override
+  String get nextQuestion => '下一題';
+
+  @override
+  String get keyPoints => '要點';
+
+  @override
+  String get theoryComplete => '學習完成';
+
+  @override
+  String get excellentComplete => '太棒了！';
+
+  @override
+  String get goodComplete => '做得好！';
+
+  @override
+  String get phaseResults => '階段結果';
+
+  @override
+  String get additionalStudy => '繼續學習';
+
+  @override
+  String continueReviewWithCount(int count) {
+    return '繼續複習（剩餘$count題）';
+  }
 }

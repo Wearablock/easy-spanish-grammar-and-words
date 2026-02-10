@@ -368,4 +368,33 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get ttsAutoPlayDesc => 'ออกเสียงสเปนอัตโนมัติเมื่อตอบถูก';
+
+  @override
+  String get showHint => 'ดูคำใบ้';
+
+  @override
+  String get nextQuestion => 'คำถามถัดไป';
+
+  @override
+  String get keyPoints => 'ประเด็นสำคัญ';
+
+  @override
+  String get theoryComplete => 'เสร็จสิ้น';
+
+  @override
+  String get excellentComplete => 'ยอดเยี่ยม!';
+
+  @override
+  String get goodComplete => 'ทำได้ดี!';
+
+  @override
+  String get phaseResults => 'ผลลัพธ์ตามขั้นตอน';
+
+  @override
+  String get additionalStudy => 'เรียนต่อ';
+
+  @override
+  String continueReviewWithCount(int count) {
+    return 'ทบทวนต่อ (เหลือ $count ข้อ)';
+  }
 }

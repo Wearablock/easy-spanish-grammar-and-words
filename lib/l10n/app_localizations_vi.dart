@@ -368,4 +368,33 @@ class AppLocalizationsVi extends AppLocalizations {
 
   @override
   String get ttsAutoPlayDesc => 'Tự động phát âm tiếng Tây Ban Nha khi đúng';
+
+  @override
+  String get showHint => 'Xem gợi ý';
+
+  @override
+  String get nextQuestion => 'Câu tiếp theo';
+
+  @override
+  String get keyPoints => 'Điểm chính';
+
+  @override
+  String get theoryComplete => 'Hoàn thành';
+
+  @override
+  String get excellentComplete => 'Xuất sắc!';
+
+  @override
+  String get goodComplete => 'Làm tốt lắm!';
+
+  @override
+  String get phaseResults => 'Kết quả theo giai đoạn';
+
+  @override
+  String get additionalStudy => 'Học thêm';
+
+  @override
+  String continueReviewWithCount(int count) {
+    return 'Tiếp tục ôn tập (còn $count câu)';
+  }
 }

@@ -367,4 +367,33 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get ttsAutoPlayDesc => 'نطق الإسبانية تلقائياً عند الإجابة الصحيحة';
+
+  @override
+  String get showHint => 'عرض التلميح';
+
+  @override
+  String get nextQuestion => 'السؤال التالي';
+
+  @override
+  String get keyPoints => 'النقاط الرئيسية';
+
+  @override
+  String get theoryComplete => 'إكمال';
+
+  @override
+  String get excellentComplete => 'ممتاز!';
+
+  @override
+  String get goodComplete => 'عمل جيد!';
+
+  @override
+  String get phaseResults => 'نتائج المراحل';
+
+  @override
+  String get additionalStudy => 'متابعة الدراسة';
+
+  @override
+  String continueReviewWithCount(int count) {
+    return 'متابعة المراجعة ($count متبقية)';
+  }
 }

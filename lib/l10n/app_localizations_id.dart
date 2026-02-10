@@ -368,4 +368,33 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get ttsAutoPlayDesc => 'Ucapkan bahasa Spanyol otomatis saat benar';
+
+  @override
+  String get showHint => 'Lihat petunjuk';
+
+  @override
+  String get nextQuestion => 'Pertanyaan berikutnya';
+
+  @override
+  String get keyPoints => 'Poin penting';
+
+  @override
+  String get theoryComplete => 'Selesai';
+
+  @override
+  String get excellentComplete => 'Luar biasa!';
+
+  @override
+  String get goodComplete => 'Bagus!';
+
+  @override
+  String get phaseResults => 'Hasil per fase';
+
+  @override
+  String get additionalStudy => 'Lanjut belajar';
+
+  @override
+  String continueReviewWithCount(int count) {
+    return 'Lanjut ulasan ($count tersisa)';
+  }
 }

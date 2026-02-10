@@ -130,5 +130,20 @@
 
   "ttsSettings": "TTS設定",
   "ttsAutoPlay": "自動再生",
-  "ttsAutoPlayDesc": "正解確認時にスペイン語を自動発音"
+  "ttsAutoPlayDesc": "正解確認時にスペイン語を自動発音",
+
+  "showHint": "ヒントを見る",
+  "nextQuestion": "次の問題",
+  "keyPoints": "ポイント",
+  "theoryComplete": "学習完了",
+  "excellentComplete": "素晴らしい！",
+  "goodComplete": "よくできました！",
+  "phaseResults": "段階別結果",
+  "additionalStudy": "追加学習",
+  "continueReviewWithCount": "復習を続ける（残り{count}問）",
+  "@continueReviewWithCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  }
 }

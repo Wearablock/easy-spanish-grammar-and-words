@@ -130,5 +130,20 @@
 
   "ttsSettings": "Configuración TTS",
   "ttsAutoPlay": "Reproducción automática",
-  "ttsAutoPlayDesc": "Pronunciar español automáticamente al acertar"
+  "ttsAutoPlayDesc": "Pronunciar español automáticamente al acertar",
+
+  "showHint": "Ver pista",
+  "nextQuestion": "Siguiente pregunta",
+  "keyPoints": "Puntos clave",
+  "theoryComplete": "Completar",
+  "excellentComplete": "¡Excelente!",
+  "goodComplete": "¡Buen trabajo!",
+  "phaseResults": "Resultados por fase",
+  "additionalStudy": "Seguir estudiando",
+  "continueReviewWithCount": "Seguir repasando ({count} restantes)",
+  "@continueReviewWithCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  }
 }

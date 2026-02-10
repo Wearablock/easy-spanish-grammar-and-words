@@ -130,5 +130,20 @@
 
   "ttsSettings": "Настройки TTS",
   "ttsAutoPlay": "Автовоспроизведение",
-  "ttsAutoPlayDesc": "Автоматическое произношение при правильном ответе"
+  "ttsAutoPlayDesc": "Автоматическое произношение при правильном ответе",
+
+  "showHint": "Показать подсказку",
+  "nextQuestion": "Следующий вопрос",
+  "keyPoints": "Ключевые моменты",
+  "theoryComplete": "Завершить",
+  "excellentComplete": "Отлично!",
+  "goodComplete": "Хорошая работа!",
+  "phaseResults": "Результаты по этапам",
+  "additionalStudy": "Продолжить обучение",
+  "continueReviewWithCount": "Продолжить повторение (осталось {count})",
+  "@continueReviewWithCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  }
 }

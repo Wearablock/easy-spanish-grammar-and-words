@@ -16,71 +16,97 @@ class ProgressScreen extends StatelessWidget {
         title: Text(l10n.progress),
       ),
       body: SingleChildScrollView(
-        padding: const EdgeInsets.all(16),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            // 전체 마스터리
-            Card(
-              child: Padding(
-                padding: const EdgeInsets.all(16),
-                child: Column(
-                  children: [
-                    Text(
-                      l10n.overallProgress,
-                      style: theme.textTheme.titleSmall,
-                    ),
-                    const SizedBox(height: 16),
-                    Stack(
-                      alignment: Alignment.center,
-                      children: [
-                        SizedBox(
-                          width: 120,
-                          height: 120,
-                          child: CircularProgressIndicator(
-                            value: 0.0,
-                            strokeWidth: 10,
-                            backgroundColor: theme.colorScheme.outline
-                                .withValues(alpha: 0.15),
-                            color: theme.colorScheme.primary,
-                          ),
-                        ),
-                        Text(
-                          '0%',
-                          style: theme.textTheme.headlineMedium,
-                        ),
-                      ],
-                    ),
-                    const SizedBox(height: 8),
-                    Text(
-                      '0 / 1,120',
-                      style: theme.textTheme.bodySmall,
-                    ),
-                  ],
+            // 전체 마스터리 — 화면 전체 너비
+            Container(
+              width: double.infinity,
+              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 24),
+              decoration: BoxDecoration(
+                color: theme.colorScheme.primary.withValues(alpha: 0.05),
+                border: Border(
+                  bottom: BorderSide(
+                    color: theme.colorScheme.outline.withValues(alpha: 0.12),
+                  ),
                 ),
+              ),
+              child: LayoutBuilder(
+                builder: (context, constraints) {
+                  final indicatorSize =
+                      (constraints.maxWidth * 0.35).clamp(100.0, 160.0);
+                  final strokeWidth = indicatorSize * 0.08;
+
+                  return Column(
+                    children: [
+                      Text(
+                        l10n.overallProgress,
+                        style: theme.textTheme.titleSmall,
+                      ),
+                      const SizedBox(height: 20),
+                      Stack(
+                        alignment: Alignment.center,
+                        children: [
+                          SizedBox(
+                            width: indicatorSize,
+                            height: indicatorSize,
+                            child: CircularProgressIndicator(
+                              value: 0.0,
+                              strokeWidth: strokeWidth,
+                              backgroundColor: theme.colorScheme.outline
+                                  .withValues(alpha: 0.15),
+                              color: theme.colorScheme.primary,
+                            ),
+                          ),
+                          Text(
+                            '0%',
+                            style: theme.textTheme.headlineMedium?.copyWith(
+                              fontWeight: FontWeight.bold,
+                            ),
+                          ),
+                        ],
+                      ),
+                      const SizedBox(height: 12),
+                      Text(
+                        l10n.questionsMastered(0, 1120),
+                        style: theme.textTheme.bodySmall?.copyWith(
+                          color: theme.colorScheme.outline,
+                        ),
+                      ),
+                    ],
+                  );
+                },
               ),
             ),
             const SizedBox(height: 24),
 
             // 레벨별 진행률
-            Text(
-              l10n.levelProgress,
-              style: theme.textTheme.titleSmall,
+            Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 16),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(
+                    l10n.levelProgress,
+                    style: theme.textTheme.titleSmall,
+                  ),
+                  const SizedBox(height: 12),
+                  _buildLevelTile(
+                      context, 'A1', l10n.levelNameA1, AppColors.levelA1, 0.0),
+                  _buildLevelTile(
+                      context, 'A2', l10n.levelNameA2, AppColors.levelA2, 0.0),
+                  _buildLevelTile(
+                      context, 'B1', l10n.levelNameB1, AppColors.levelB1, 0.0),
+                  _buildLevelTile(
+                      context, 'B2', l10n.levelNameB2, AppColors.levelB2, 0.0),
+                  _buildLevelTile(
+                      context, 'C1', l10n.levelNameC1, AppColors.levelC1, 0.0),
+                  _buildLevelTile(
+                      context, 'C2', l10n.levelNameC2, AppColors.levelC2, 0.0),
+                  const SizedBox(height: 16),
+                ],
+              ),
             ),
-            const SizedBox(height: 12),
-
-            _buildLevelTile(
-                context, 'A1', l10n.levelNameA1, AppColors.levelA1, 0.0),
-            _buildLevelTile(
-                context, 'A2', l10n.levelNameA2, AppColors.levelA2, 0.0),
-            _buildLevelTile(
-                context, 'B1', l10n.levelNameB1, AppColors.levelB1, 0.0),
-            _buildLevelTile(
-                context, 'B2', l10n.levelNameB2, AppColors.levelB2, 0.0),
-            _buildLevelTile(
-                context, 'C1', l10n.levelNameC1, AppColors.levelC1, 0.0),
-            _buildLevelTile(
-                context, 'C2', l10n.levelNameC2, AppColors.levelC2, 0.0),
           ],
         ),
       ),

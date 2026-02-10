@@ -130,5 +130,20 @@
 
   "ttsSettings": "Impostazioni TTS",
   "ttsAutoPlay": "Riproduzione automatica",
-  "ttsAutoPlayDesc": "Pronuncia spagnolo automaticamente alla risposta corretta"
+  "ttsAutoPlayDesc": "Pronuncia spagnolo automaticamente alla risposta corretta",
+
+  "showHint": "Mostra suggerimento",
+  "nextQuestion": "Prossima domanda",
+  "keyPoints": "Punti chiave",
+  "theoryComplete": "Completare",
+  "excellentComplete": "Eccellente!",
+  "goodComplete": "Ottimo lavoro!",
+  "phaseResults": "Risultati per fase",
+  "additionalStudy": "Continua a studiare",
+  "continueReviewWithCount": "Continua la revisione ({count} rimanenti)",
+  "@continueReviewWithCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  }
 }

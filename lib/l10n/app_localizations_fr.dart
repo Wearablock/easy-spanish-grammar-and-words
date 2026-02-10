@@ -375,4 +375,33 @@ class AppLocalizationsFr extends AppLocalizations {
   @override
   String get ttsAutoPlayDesc =>
       'Prononcer l\'espagnol automatiquement en cas de bonne réponse';
+
+  @override
+  String get showHint => 'Voir l\'indice';
+
+  @override
+  String get nextQuestion => 'Question suivante';
+
+  @override
+  String get keyPoints => 'Points clés';
+
+  @override
+  String get theoryComplete => 'Terminer';
+
+  @override
+  String get excellentComplete => 'Excellent !';
+
+  @override
+  String get goodComplete => 'Bien joué !';
+
+  @override
+  String get phaseResults => 'Résultats par phase';
+
+  @override
+  String get additionalStudy => 'Continuer à étudier';
+
+  @override
+  String continueReviewWithCount(int count) {
+    return 'Continuer la révision ($count restants)';
+  }
 }

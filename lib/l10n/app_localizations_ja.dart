@@ -366,4 +366,33 @@ class AppLocalizationsJa extends AppLocalizations {
 
   @override
   String get ttsAutoPlayDesc => '正解確認時にスペイン語を自動発音';
+
+  @override
+  String get showHint => 'ヒントを見る';
+
+  @override
+  String get nextQuestion => '次の問題';
+
+  @override
+  String get keyPoints => 'ポイント';
+
+  @override
+  String get theoryComplete => '学習完了';
+
+  @override
+  String get excellentComplete => '素晴らしい！';
+
+  @override
+  String get goodComplete => 'よくできました！';
+
+  @override
+  String get phaseResults => '段階別結果';
+
+  @override
+  String get additionalStudy => '追加学習';
+
+  @override
+  String continueReviewWithCount(int count) {
+    return '復習を続ける（残り$count問）';
+  }
 }

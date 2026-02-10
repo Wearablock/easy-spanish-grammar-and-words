@@ -130,5 +130,20 @@
 
   "ttsSettings": "TTS设置",
   "ttsAutoPlay": "自动播放",
-  "ttsAutoPlayDesc": "答对时自动播放西班牙语发音"
+  "ttsAutoPlayDesc": "答对时自动播放西班牙语发音",
+
+  "showHint": "查看提示",
+  "nextQuestion": "下一题",
+  "keyPoints": "要点",
+  "theoryComplete": "学习完成",
+  "excellentComplete": "太棒了！",
+  "goodComplete": "做得好！",
+  "phaseResults": "阶段结果",
+  "additionalStudy": "继续学习",
+  "continueReviewWithCount": "继续复习（剩余{count}题）",
+  "@continueReviewWithCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  }
 }

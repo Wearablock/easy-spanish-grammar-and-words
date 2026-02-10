@@ -371,4 +371,33 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get ttsAutoPlayDesc =>
       'Автоматическое произношение при правильном ответе';
+
+  @override
+  String get showHint => 'Показать подсказку';
+
+  @override
+  String get nextQuestion => 'Следующий вопрос';
+
+  @override
+  String get keyPoints => 'Ключевые моменты';
+
+  @override
+  String get theoryComplete => 'Завершить';
+
+  @override
+  String get excellentComplete => 'Отлично!';
+
+  @override
+  String get goodComplete => 'Хорошая работа!';
+
+  @override
+  String get phaseResults => 'Результаты по этапам';
+
+  @override
+  String get additionalStudy => 'Продолжить обучение';
+
+  @override
+  String continueReviewWithCount(int count) {
+    return 'Продолжить повторение (осталось $count)';
+  }
 }

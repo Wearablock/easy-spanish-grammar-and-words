@@ -130,5 +130,20 @@
 
   "ttsSettings": "TTS Settings",
   "ttsAutoPlay": "Auto Play",
-  "ttsAutoPlayDesc": "Auto-pronounce Spanish on correct answer"
+  "ttsAutoPlayDesc": "Auto-pronounce Spanish on correct answer",
+
+  "showHint": "Show Hint",
+  "nextQuestion": "Next Question",
+  "keyPoints": "Key Points",
+  "theoryComplete": "Complete",
+  "excellentComplete": "Excellent!",
+  "goodComplete": "Good Job!",
+  "phaseResults": "Phase Results",
+  "additionalStudy": "Study More",
+  "continueReviewWithCount": "Continue Review ({count} remaining)",
+  "@continueReviewWithCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  }
 }

@@ -366,4 +366,33 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get ttsAutoPlayDesc => '정답 확인 시 스페인어 자동 발음';
+
+  @override
+  String get showHint => '힌트 보기';
+
+  @override
+  String get nextQuestion => '다음 문제';
+
+  @override
+  String get keyPoints => '핵심 포인트';
+
+  @override
+  String get theoryComplete => '학습 완료';
+
+  @override
+  String get excellentComplete => '훌륭해요!';
+
+  @override
+  String get goodComplete => '잘했어요!';
+
+  @override
+  String get phaseResults => '단계별 결과';
+
+  @override
+  String get additionalStudy => '추가 학습하기';
+
+  @override
+  String continueReviewWithCount(int count) {
+    return '이어서 복습 ($count개 남음)';
+  }
 }

@@ -800,6 +800,60 @@ abstract class AppLocalizations {
   /// In ko, this message translates to:
   /// **'정답 확인 시 스페인어 자동 발음'**
   String get ttsAutoPlayDesc;
+
+  /// No description provided for @showHint.
+  ///
+  /// In ko, this message translates to:
+  /// **'힌트 보기'**
+  String get showHint;
+
+  /// No description provided for @nextQuestion.
+  ///
+  /// In ko, this message translates to:
+  /// **'다음 문제'**
+  String get nextQuestion;
+
+  /// No description provided for @keyPoints.
+  ///
+  /// In ko, this message translates to:
+  /// **'핵심 포인트'**
+  String get keyPoints;
+
+  /// No description provided for @theoryComplete.
+  ///
+  /// In ko, this message translates to:
+  /// **'학습 완료'**
+  String get theoryComplete;
+
+  /// No description provided for @excellentComplete.
+  ///
+  /// In ko, this message translates to:
+  /// **'훌륭해요!'**
+  String get excellentComplete;
+
+  /// No description provided for @goodComplete.
+  ///
+  /// In ko, this message translates to:
+  /// **'잘했어요!'**
+  String get goodComplete;
+
+  /// No description provided for @phaseResults.
+  ///
+  /// In ko, this message translates to:
+  /// **'단계별 결과'**
+  String get phaseResults;
+
+  /// No description provided for @additionalStudy.
+  ///
+  /// In ko, this message translates to:
+  /// **'추가 학습하기'**
+  String get additionalStudy;
+
+  /// No description provided for @continueReviewWithCount.
+  ///
+  /// In ko, this message translates to:
+  /// **'이어서 복습 ({count}개 남음)'**
+  String continueReviewWithCount(int count);
 }
 
 class _AppLocalizationsDelegate

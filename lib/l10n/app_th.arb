@@ -130,5 +130,20 @@
 
   "ttsSettings": "ตั้งค่า TTS",
   "ttsAutoPlay": "เล่นอัตโนมัติ",
-  "ttsAutoPlayDesc": "ออกเสียงสเปนอัตโนมัติเมื่อตอบถูก"
+  "ttsAutoPlayDesc": "ออกเสียงสเปนอัตโนมัติเมื่อตอบถูก",
+
+  "showHint": "ดูคำใบ้",
+  "nextQuestion": "คำถามถัดไป",
+  "keyPoints": "ประเด็นสำคัญ",
+  "theoryComplete": "เสร็จสิ้น",
+  "excellentComplete": "ยอดเยี่ยม!",
+  "goodComplete": "ทำได้ดี!",
+  "phaseResults": "ผลลัพธ์ตามขั้นตอน",
+  "additionalStudy": "เรียนต่อ",
+  "continueReviewWithCount": "ทบทวนต่อ (เหลือ {count} ข้อ)",
+  "@continueReviewWithCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  }
 }
