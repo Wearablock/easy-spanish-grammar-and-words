@@ -8,6 +8,9 @@ class StudyConstants {
   /// 최대 SRS 레벨
   static const int maxLevel = 5;
 
+  /// 완전 습득 레벨 (= maxLevel, DAO에서 참조)
+  static const int masteryLevel = 5;
+
   /// 오답 복습 최대 문제 수
   static const int maxWrongReviewCount = 10;
 
@@ -19,6 +22,12 @@ class StudyConstants {
 
   /// 기본 일일 학습 챕터 수
   static const int defaultDailyChapters = 2;
+
+  /// 기본 일일 학습 목표 (문제 수, DAO에서 사용)
+  static const int defaultDailyGoal = 15;
+
+  /// 최대 일일 목표 챕터 수
+  static const int maxDailyGoalChapters = 5;
 }
 
 /// CEFR 레벨 관련 상수
