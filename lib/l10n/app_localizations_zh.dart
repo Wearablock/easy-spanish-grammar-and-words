@@ -395,6 +395,46 @@ class AppLocalizationsZh extends AppLocalizations {
   String continueReviewWithCount(int count) {
     return '继续复习（剩余$count题）';
   }
+
+  @override
+  String get totalStudied => '总学习题数';
+
+  @override
+  String get accuracyRate => '正确率';
+
+  @override
+  String get studyDays => '学习天数';
+
+  @override
+  String get studyTime => '学习时间';
+
+  @override
+  String get currentStreak => '当前连续学习';
+
+  @override
+  String get longestStreak => '最长连续学习';
+
+  @override
+  String get streakEncouragement => '坚持学习，实力会不断提升！';
+
+  @override
+  String get noStudyYet => '还没有学习记录';
+
+  @override
+  String daysUnit(int count) {
+    return '$count天';
+  }
+
+  @override
+  String minutes(int count) {
+    return '$count分钟';
+  }
+
+  @override
+  String get selectDailyGoal => '选择每日学习量';
+
+  @override
+  String get selectTargetLevel => '选择目标级别';
 }
 
 /// The translations for Chinese, using the Han script (`zh_Hant`).
@@ -788,4 +828,44 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
   String continueReviewWithCount(int count) {
     return '繼續複習（剩餘$count題）';
   }
+
+  @override
+  String get totalStudied => '總學習題數';
+
+  @override
+  String get accuracyRate => '正確率';
+
+  @override
+  String get studyDays => '學習天數';
+
+  @override
+  String get studyTime => '學習時間';
+
+  @override
+  String get currentStreak => '目前連續學習';
+
+  @override
+  String get longestStreak => '最長連續學習';
+
+  @override
+  String get streakEncouragement => '堅持學習，實力會不斷提升！';
+
+  @override
+  String get noStudyYet => '還沒有學習記錄';
+
+  @override
+  String daysUnit(int count) {
+    return '$count天';
+  }
+
+  @override
+  String minutes(int count) {
+    return '$count分鐘';
+  }
+
+  @override
+  String get selectDailyGoal => '選擇每日學習量';
+
+  @override
+  String get selectTargetLevel => '選擇目標級別';
 }

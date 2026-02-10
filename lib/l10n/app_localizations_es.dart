@@ -400,4 +400,44 @@ class AppLocalizationsEs extends AppLocalizations {
   String continueReviewWithCount(int count) {
     return 'Seguir repasando ($count restantes)';
   }
+
+  @override
+  String get totalStudied => 'Total estudiado';
+
+  @override
+  String get accuracyRate => 'Tasa de acierto';
+
+  @override
+  String get studyDays => 'Días de estudio';
+
+  @override
+  String get studyTime => 'Tiempo de estudio';
+
+  @override
+  String get currentStreak => 'Racha actual';
+
+  @override
+  String get longestStreak => 'Racha más larga';
+
+  @override
+  String get streakEncouragement => '¡Sigue estudiando para mejorar!';
+
+  @override
+  String get noStudyYet => 'Aún no hay registros de estudio';
+
+  @override
+  String daysUnit(int count) {
+    return '$count días';
+  }
+
+  @override
+  String minutes(int count) {
+    return '$count min';
+  }
+
+  @override
+  String get selectDailyGoal => 'Seleccionar meta diaria';
+
+  @override
+  String get selectTargetLevel => 'Seleccionar nivel objetivo';
 }

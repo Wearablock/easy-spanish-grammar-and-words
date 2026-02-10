@@ -395,4 +395,44 @@ class AppLocalizationsJa extends AppLocalizations {
   String continueReviewWithCount(int count) {
     return '復習を続ける（残り$count問）';
   }
+
+  @override
+  String get totalStudied => '総学習問題';
+
+  @override
+  String get accuracyRate => '正答率';
+
+  @override
+  String get studyDays => '学習日数';
+
+  @override
+  String get studyTime => '学習時間';
+
+  @override
+  String get currentStreak => '現在の連続学習';
+
+  @override
+  String get longestStreak => '最長連続学習';
+
+  @override
+  String get streakEncouragement => 'コツコツ学習すれば実力がぐんぐん伸びます！';
+
+  @override
+  String get noStudyYet => 'まだ学習記録がありません';
+
+  @override
+  String daysUnit(int count) {
+    return '$count日';
+  }
+
+  @override
+  String minutes(int count) {
+    return '$count分';
+  }
+
+  @override
+  String get selectDailyGoal => '1日の学習量を選択';
+
+  @override
+  String get selectTargetLevel => '目標レベルを選択';
 }

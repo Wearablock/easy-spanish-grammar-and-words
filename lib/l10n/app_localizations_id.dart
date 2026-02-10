@@ -397,4 +397,44 @@ class AppLocalizationsId extends AppLocalizations {
   String continueReviewWithCount(int count) {
     return 'Lanjut ulasan ($count tersisa)';
   }
+
+  @override
+  String get totalStudied => 'Total dipelajari';
+
+  @override
+  String get accuracyRate => 'Tingkat akurasi';
+
+  @override
+  String get studyDays => 'Hari belajar';
+
+  @override
+  String get studyTime => 'Waktu belajar';
+
+  @override
+  String get currentStreak => 'Seri saat ini';
+
+  @override
+  String get longestStreak => 'Seri terpanjang';
+
+  @override
+  String get streakEncouragement => 'Terus belajar untuk berkembang!';
+
+  @override
+  String get noStudyYet => 'Belum ada data belajar';
+
+  @override
+  String daysUnit(int count) {
+    return '$count hari';
+  }
+
+  @override
+  String minutes(int count) {
+    return '$count menit';
+  }
+
+  @override
+  String get selectDailyGoal => 'Pilih target harian';
+
+  @override
+  String get selectTargetLevel => 'Pilih level target';
 }

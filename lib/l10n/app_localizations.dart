@@ -854,6 +854,78 @@ abstract class AppLocalizations {
   /// In ko, this message translates to:
   /// **'이어서 복습 ({count}개 남음)'**
   String continueReviewWithCount(int count);
+
+  /// No description provided for @totalStudied.
+  ///
+  /// In ko, this message translates to:
+  /// **'총 학습 문제'**
+  String get totalStudied;
+
+  /// No description provided for @accuracyRate.
+  ///
+  /// In ko, this message translates to:
+  /// **'정답률'**
+  String get accuracyRate;
+
+  /// No description provided for @studyDays.
+  ///
+  /// In ko, this message translates to:
+  /// **'학습 일수'**
+  String get studyDays;
+
+  /// No description provided for @studyTime.
+  ///
+  /// In ko, this message translates to:
+  /// **'학습 시간'**
+  String get studyTime;
+
+  /// No description provided for @currentStreak.
+  ///
+  /// In ko, this message translates to:
+  /// **'현재 연속 학습'**
+  String get currentStreak;
+
+  /// No description provided for @longestStreak.
+  ///
+  /// In ko, this message translates to:
+  /// **'최장 연속 학습'**
+  String get longestStreak;
+
+  /// No description provided for @streakEncouragement.
+  ///
+  /// In ko, this message translates to:
+  /// **'꾸준히 학습하면 실력이 쑥쑥 올라요!'**
+  String get streakEncouragement;
+
+  /// No description provided for @noStudyYet.
+  ///
+  /// In ko, this message translates to:
+  /// **'아직 학습 기록이 없어요'**
+  String get noStudyYet;
+
+  /// No description provided for @daysUnit.
+  ///
+  /// In ko, this message translates to:
+  /// **'{count}일'**
+  String daysUnit(int count);
+
+  /// No description provided for @minutes.
+  ///
+  /// In ko, this message translates to:
+  /// **'{count}분'**
+  String minutes(int count);
+
+  /// No description provided for @selectDailyGoal.
+  ///
+  /// In ko, this message translates to:
+  /// **'일일 학습량 선택'**
+  String get selectDailyGoal;
+
+  /// No description provided for @selectTargetLevel.
+  ///
+  /// In ko, this message translates to:
+  /// **'목표 레벨 선택'**
+  String get selectTargetLevel;
 }
 
 class _AppLocalizationsDelegate

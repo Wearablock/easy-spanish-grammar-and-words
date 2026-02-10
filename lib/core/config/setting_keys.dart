@@ -41,20 +41,19 @@ abstract class SettingKeys {
   static const String onboardingCompleted = 'onboarding_completed';
 }
 
-/// 일일 학습 목표 옵션 (챕터 기준)
+/// 일일 학습 목표 옵션 (토픽 기준)
 enum DailyGoalOption {
-  oneChapter(1, '1챕터'),
-  twoChapters(2, '2챕터'),
-  threeChapters(3, '3챕터');
+  oneTopic(1),
+  twoTopics(2),
+  threeTopics(3);
 
-  final int chapterCount;
-  final String label;
+  final int topicCount;
 
-  const DailyGoalOption(this.chapterCount, this.label);
+  const DailyGoalOption(this.topicCount);
 
   static DailyGoalOption? fromValue(int value) {
     for (final option in DailyGoalOption.values) {
-      if (option.chapterCount == value) {
+      if (option.topicCount == value) {
         return option;
       }
     }

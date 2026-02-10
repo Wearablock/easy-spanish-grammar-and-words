@@ -400,4 +400,44 @@ class AppLocalizationsRu extends AppLocalizations {
   String continueReviewWithCount(int count) {
     return 'Продолжить повторение (осталось $count)';
   }
+
+  @override
+  String get totalStudied => 'Всего изучено';
+
+  @override
+  String get accuracyRate => 'Точность';
+
+  @override
+  String get studyDays => 'Дней обучения';
+
+  @override
+  String get studyTime => 'Время обучения';
+
+  @override
+  String get currentStreak => 'Текущая серия';
+
+  @override
+  String get longestStreak => 'Лучшая серия';
+
+  @override
+  String get streakEncouragement => 'Продолжайте учиться, чтобы расти!';
+
+  @override
+  String get noStudyYet => 'Пока нет данных об обучении';
+
+  @override
+  String daysUnit(int count) {
+    return '$count дн.';
+  }
+
+  @override
+  String minutes(int count) {
+    return '$count мин';
+  }
+
+  @override
+  String get selectDailyGoal => 'Выбрать дневную цель';
+
+  @override
+  String get selectTargetLevel => 'Выбрать целевой уровень';
 }

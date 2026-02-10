@@ -396,4 +396,44 @@ class AppLocalizationsAr extends AppLocalizations {
   String continueReviewWithCount(int count) {
     return 'متابعة المراجعة ($count متبقية)';
   }
+
+  @override
+  String get totalStudied => 'إجمالي المدروس';
+
+  @override
+  String get accuracyRate => 'نسبة الدقة';
+
+  @override
+  String get studyDays => 'أيام الدراسة';
+
+  @override
+  String get studyTime => 'وقت الدراسة';
+
+  @override
+  String get currentStreak => 'السلسلة الحالية';
+
+  @override
+  String get longestStreak => 'أطول سلسلة';
+
+  @override
+  String get streakEncouragement => 'استمر في الدراسة لتتحسن!';
+
+  @override
+  String get noStudyYet => 'لا توجد سجلات دراسة بعد';
+
+  @override
+  String daysUnit(int count) {
+    return '$count أيام';
+  }
+
+  @override
+  String minutes(int count) {
+    return '$count دقيقة';
+  }
+
+  @override
+  String get selectDailyGoal => 'اختيار الهدف اليومي';
+
+  @override
+  String get selectTargetLevel => 'اختيار المستوى المستهدف';
 }

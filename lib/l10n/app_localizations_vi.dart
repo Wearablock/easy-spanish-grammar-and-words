@@ -397,4 +397,44 @@ class AppLocalizationsVi extends AppLocalizations {
   String continueReviewWithCount(int count) {
     return 'Tiếp tục ôn tập (còn $count câu)';
   }
+
+  @override
+  String get totalStudied => 'Tổng đã học';
+
+  @override
+  String get accuracyRate => 'Tỉ lệ đúng';
+
+  @override
+  String get studyDays => 'Số ngày học';
+
+  @override
+  String get studyTime => 'Thời gian học';
+
+  @override
+  String get currentStreak => 'Chuỗi hiện tại';
+
+  @override
+  String get longestStreak => 'Chuỗi dài nhất';
+
+  @override
+  String get streakEncouragement => 'Tiếp tục học để tiến bộ!';
+
+  @override
+  String get noStudyYet => 'Chưa có dữ liệu học';
+
+  @override
+  String daysUnit(int count) {
+    return '$count ngày';
+  }
+
+  @override
+  String minutes(int count) {
+    return '$count phút';
+  }
+
+  @override
+  String get selectDailyGoal => 'Chọn mục tiêu hàng ngày';
+
+  @override
+  String get selectTargetLevel => 'Chọn cấp độ mục tiêu';
 }

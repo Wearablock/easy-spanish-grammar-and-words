@@ -399,4 +399,44 @@ class AppLocalizationsIt extends AppLocalizations {
   String continueReviewWithCount(int count) {
     return 'Continua la revisione ($count rimanenti)';
   }
+
+  @override
+  String get totalStudied => 'Totale studiato';
+
+  @override
+  String get accuracyRate => 'Tasso di precisione';
+
+  @override
+  String get studyDays => 'Giorni di studio';
+
+  @override
+  String get studyTime => 'Tempo di studio';
+
+  @override
+  String get currentStreak => 'Serie attuale';
+
+  @override
+  String get longestStreak => 'Serie più lunga';
+
+  @override
+  String get streakEncouragement => 'Continua a studiare per migliorare!';
+
+  @override
+  String get noStudyYet => 'Ancora nessun dato di studio';
+
+  @override
+  String daysUnit(int count) {
+    return '$count giorni';
+  }
+
+  @override
+  String minutes(int count) {
+    return '$count min';
+  }
+
+  @override
+  String get selectDailyGoal => 'Seleziona obiettivo giornaliero';
+
+  @override
+  String get selectTargetLevel => 'Seleziona livello obiettivo';
 }

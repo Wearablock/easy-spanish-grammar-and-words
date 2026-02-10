@@ -2,9 +2,12 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_riverpod/legacy.dart';
 import '../../core/utils/question_selector.dart';
 import '../../services/study_service.dart';
+import '../database/app_database.dart';
+import '../models/question.dart';
 import '../models/study_session.dart';
 import 'database_providers.dart';
 import 'question_providers.dart';
+import 'topic_providers.dart';
 
 // ============================================================
 // Core Providers
@@ -139,4 +142,42 @@ final overallSummaryProvider =
     FutureProvider<Map<String, dynamic>>((ref) async {
   final db = ref.watch(appDatabaseProvider);
   return db.dailyStatsDao.getOverallSummary();
+});
+
+// ============================================================
+// Wrong Answers with Questions
+// ============================================================
+
+/// 오답 + 문제 정보 통합 모델
+class WrongAnswerWithQuestion {
+  final WrongAnswer wrongAnswer;
+  final Question? question;
+
+  const WrongAnswerWithQuestion({
+    required this.wrongAnswer,
+    this.question,
+  });
+}
+
+/// 미해결 오답 + 문제 정보 통합 Provider
+final wrongAnswersWithQuestionsProvider =
+    FutureProvider.autoDispose<List<WrongAnswerWithQuestion>>((ref) async {
+  final wrongAnswersDao = ref.watch(wrongAnswersDaoProvider);
+  final questionRepo = ref.watch(questionRepositoryProvider);
+  final locale = ref.watch(currentLocaleProvider);
+
+  final wrongAnswers = await wrongAnswersDao.getAllWrongAnswers();
+  if (wrongAnswers.isEmpty) return [];
+
+  final questionIds = wrongAnswers.map((w) => w.questionId).toList();
+  final questions = await questionRepo.getQuestionsByIds(questionIds, locale);
+
+  final questionMap = {for (final q in questions) q.id: q};
+
+  return wrongAnswers.map((wa) {
+    return WrongAnswerWithQuestion(
+      wrongAnswer: wa,
+      question: questionMap[wa.questionId],
+    );
+  }).toList();
 });

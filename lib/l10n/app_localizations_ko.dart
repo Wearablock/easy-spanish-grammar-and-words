@@ -395,4 +395,44 @@ class AppLocalizationsKo extends AppLocalizations {
   String continueReviewWithCount(int count) {
     return '이어서 복습 ($count개 남음)';
   }
+
+  @override
+  String get totalStudied => '총 학습 문제';
+
+  @override
+  String get accuracyRate => '정답률';
+
+  @override
+  String get studyDays => '학습 일수';
+
+  @override
+  String get studyTime => '학습 시간';
+
+  @override
+  String get currentStreak => '현재 연속 학습';
+
+  @override
+  String get longestStreak => '최장 연속 학습';
+
+  @override
+  String get streakEncouragement => '꾸준히 학습하면 실력이 쑥쑥 올라요!';
+
+  @override
+  String get noStudyYet => '아직 학습 기록이 없어요';
+
+  @override
+  String daysUnit(int count) {
+    return '$count일';
+  }
+
+  @override
+  String minutes(int count) {
+    return '$count분';
+  }
+
+  @override
+  String get selectDailyGoal => '일일 학습량 선택';
+
+  @override
+  String get selectTargetLevel => '목표 레벨 선택';
 }

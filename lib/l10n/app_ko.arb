@@ -215,5 +215,28 @@
     "placeholders": {
       "count": {"type": "int"}
     }
-  }
+  },
+
+  "totalStudied": "총 학습 문제",
+  "accuracyRate": "정답률",
+  "studyDays": "학습 일수",
+  "studyTime": "학습 시간",
+  "currentStreak": "현재 연속 학습",
+  "longestStreak": "최장 연속 학습",
+  "streakEncouragement": "꾸준히 학습하면 실력이 쑥쑥 올라요!",
+  "noStudyYet": "아직 학습 기록이 없어요",
+  "daysUnit": "{count}일",
+  "@daysUnit": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "minutes": "{count}분",
+  "@minutes": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "selectDailyGoal": "일일 학습량 선택",
+  "selectTargetLevel": "목표 레벨 선택"
 }
