@@ -1,0 +1,76 @@
+{
+  "q_gram_a1_01_001": {
+    "question": "___ libro es interesante.",
+    "correct": "El",
+    "wrong": ["La", "Los", "Las"],
+    "explanation": "'libro'는 남성 단수 명사이므로 정관사 'el'을 사용합니다.\n- el libro (남성 단수)\n- la mesa (여성 단수)",
+    "hint": "libro는 -o로 끝나는 남성 명사입니다"
+  },
+  "q_gram_a1_01_002": {
+    "question": "'la mesa'에서 'mesa'의 뜻은?",
+    "correct": "탁자",
+    "wrong": ["의자", "책", "집"],
+    "explanation": "mesa는 '탁자'를 의미하는 여성 명사입니다.\n- la mesa = 그 탁자\n- una mesa = 하나의 탁자"
+  },
+  "q_gram_a1_01_003": {
+    "question": "그 고양이는 작다.",
+    "correct": "El gato es pequeño.",
+    "wrong": [
+      "La gata es pequeña.",
+      "Los gatos son pequeños.",
+      "El gato es grande."
+    ],
+    "explanation": "'고양이' = gato (남성), '작다' = pequeño\n정관사 el + 남성 단수 형용사 pequeño를 사용합니다.",
+    "hint": "고양이 = gato (남성명사)"
+  },
+  "q_gram_a1_01_004": {
+    "question": "___ casas son bonitas.",
+    "correct": "Las",
+    "wrong": ["Los", "La", "El"],
+    "explanation": "'casas'는 여성 복수 명사이므로 정관사 'las'를 사용합니다.\n- la casa (여성 단수) → las casas (여성 복수)",
+    "hint": "casas는 casa의 복수형입니다"
+  },
+  "q_gram_a1_01_005": {
+    "question": "'un perro'에서 'un'의 역할은?",
+    "correct": "남성 단수 부정관사",
+    "wrong": ["여성 단수 부정관사", "남성 복수 부정관사", "남성 단수 정관사"],
+    "explanation": "'un'은 남성 단수 부정관사입니다.\n- un (남성 단수), una (여성 단수)\n- unos (남성 복수), unas (여성 복수)"
+  },
+  "q_gram_a1_02_001": {
+    "question": "Yo ___ estudiante. (ser 동사 활용)",
+    "correct": "soy",
+    "wrong": ["eres", "es", "somos"],
+    "explanation": "ser 동사의 1인칭 단수(yo) 활용은 'soy'입니다.\n- yo soy, tú eres, él/ella es",
+    "conjugation_info": "ser - 현재형: soy, eres, es, somos, sois, son"
+  },
+  "q_gram_a1_02_002": {
+    "question": "Tú ___ muy inteligente.",
+    "correct": "eres",
+    "wrong": ["soy", "es", "son"],
+    "explanation": "ser 동사의 2인칭 단수(tú) 활용은 'eres'입니다.\n본질적 특성을 나타낼 때 ser를 사용합니다.",
+    "hint": "tú = 너 (2인칭 단수)"
+  },
+  "q_gram_a1_02_003": {
+    "question": "Nosotros ___ coreanos. (ser 동사 활용)",
+    "correct": "somos",
+    "wrong": ["soy", "son", "sois"],
+    "explanation": "ser 동사의 1인칭 복수(nosotros) 활용은 'somos'입니다.\n국적을 나타낼 때 ser를 사용합니다.",
+    "conjugation_info": "ser - 현재형: soy, eres, es, somos, sois, son"
+  },
+  "q_gram_a1_02_004": {
+    "question": "Ella es profesora.",
+    "correct": "그녀는 교수이다.",
+    "wrong": [
+      "그녀는 학생이다.",
+      "그는 교수이다.",
+      "그녀는 예쁘다."
+    ],
+    "explanation": "ella = 그녀, es = ser의 3인칭 단수, profesora = 여성 교수\nser + 직업: '~이다'로 해석합니다."
+  },
+  "q_gram_a1_02_005": {
+    "question": "'usted'는 어떤 상황에서 사용하나요?",
+    "correct": "격식을 차리는 상황",
+    "wrong": ["친한 친구 사이", "가족 간의 대화", "어린아이에게"],
+    "explanation": "usted는 격식체 2인칭입니다.\n- tú: 친구, 가족 등 친밀한 관계\n- usted: 처음 만난 사람, 윗사람 등 격식이 필요한 상황"
+  }
+}

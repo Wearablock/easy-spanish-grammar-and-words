@@ -1,0 +1,76 @@
+{
+  "q_gram_a1_01_001": {
+    "question": "___ libro es interesante.",
+    "correct": "El",
+    "wrong": ["La", "Los", "Las"],
+    "explanation": "'libro' is a masculine singular noun, so the definite article 'el' is used.\n- el libro (masculine singular)\n- la mesa (feminine singular)",
+    "hint": "libro ends in -o, which makes it masculine"
+  },
+  "q_gram_a1_01_002": {
+    "question": "What does 'mesa' mean in 'la mesa'?",
+    "correct": "table",
+    "wrong": ["chair", "book", "house"],
+    "explanation": "mesa means 'table' and is a feminine noun.\n- la mesa = the table\n- una mesa = a table"
+  },
+  "q_gram_a1_01_003": {
+    "question": "The cat is small.",
+    "correct": "El gato es pequeño.",
+    "wrong": [
+      "La gata es pequeña.",
+      "Los gatos son pequeños.",
+      "El gato es grande."
+    ],
+    "explanation": "'cat' = gato (masculine), 'small' = pequeño\nUse the definite article el + masculine singular adjective pequeño.",
+    "hint": "cat = gato (masculine noun)"
+  },
+  "q_gram_a1_01_004": {
+    "question": "___ casas son bonitas.",
+    "correct": "Las",
+    "wrong": ["Los", "La", "El"],
+    "explanation": "'casas' is a feminine plural noun, so the definite article 'las' is used.\n- la casa (feminine singular) → las casas (feminine plural)",
+    "hint": "casas is the plural form of casa"
+  },
+  "q_gram_a1_01_005": {
+    "question": "What is the role of 'un' in 'un perro'?",
+    "correct": "masculine singular indefinite article",
+    "wrong": ["feminine singular indefinite article", "masculine plural indefinite article", "masculine singular definite article"],
+    "explanation": "'un' is the masculine singular indefinite article.\n- un (masc. sg.), una (fem. sg.)\n- unos (masc. pl.), unas (fem. pl.)"
+  },
+  "q_gram_a1_02_001": {
+    "question": "Yo ___ estudiante. (conjugate ser)",
+    "correct": "soy",
+    "wrong": ["eres", "es", "somos"],
+    "explanation": "The first person singular (yo) conjugation of ser is 'soy'.\n- yo soy, tú eres, él/ella es",
+    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son"
+  },
+  "q_gram_a1_02_002": {
+    "question": "Tú ___ muy inteligente.",
+    "correct": "eres",
+    "wrong": ["soy", "es", "son"],
+    "explanation": "The second person singular (tú) conjugation of ser is 'eres'.\nSer is used to describe essential characteristics.",
+    "hint": "tú = you (2nd person singular)"
+  },
+  "q_gram_a1_02_003": {
+    "question": "Nosotros ___ coreanos. (conjugate ser)",
+    "correct": "somos",
+    "wrong": ["soy", "son", "sois"],
+    "explanation": "The first person plural (nosotros) conjugation of ser is 'somos'.\nSer is used to express nationality.",
+    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son"
+  },
+  "q_gram_a1_02_004": {
+    "question": "Ella es profesora.",
+    "correct": "She is a professor.",
+    "wrong": [
+      "She is a student.",
+      "He is a professor.",
+      "She is pretty."
+    ],
+    "explanation": "ella = she, es = 3rd person singular of ser, profesora = female professor\nser + profession: translates as 'to be'."
+  },
+  "q_gram_a1_02_005": {
+    "question": "When is 'usted' used?",
+    "correct": "In formal situations",
+    "wrong": ["With close friends", "In family conversations", "With children"],
+    "explanation": "Usted is the formal form of 'you'.\n- tú: friends, family, close relationships\n- usted: strangers, elders, formal situations"
+  }
+}
