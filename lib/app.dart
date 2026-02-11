@@ -21,7 +21,7 @@ class EspanolBiteApp extends ConsumerWidget {
 
     return MaterialApp(
       onGenerateTitle: (context) =>
-          AppLocalizations.of(context)?.appTitle ?? 'Español Bite',
+          AppLocalizations.of(context)?.appTitle ?? 'Easy Spanish',
       debugShowCheckedModeBanner: false,
 
       // 테마
