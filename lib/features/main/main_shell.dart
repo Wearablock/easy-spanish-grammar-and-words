@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../core/config/setting_keys.dart';
+import '../../core/widgets/banner_ad_widget.dart';
 import '../../data/providers/database_providers.dart';
 import '../../data/providers/notification_providers.dart';
 import '../../data/providers/topic_providers.dart';
@@ -99,9 +100,17 @@ class _MainShellState extends ConsumerState<MainShell>
     _updateNotificationStrings(l10n);
 
     return Scaffold(
-      body: IndexedStack(
-        index: _currentIndex,
-        children: _screens,
+      body: Column(
+        children: [
+          Expanded(
+            child: IndexedStack(
+              index: _currentIndex,
+              children: _screens,
+            ),
+          ),
+          // 배너 광고 (네비바 위)
+          const BannerAdWidget(),
+        ],
       ),
       bottomNavigationBar: NavigationBar(
         selectedIndex: _currentIndex,

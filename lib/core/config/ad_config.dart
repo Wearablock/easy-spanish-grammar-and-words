@@ -42,12 +42,18 @@ class AdConfig {
   // 프로덕션 광고 ID (실제 ID로 교체 필요)
   // ============================================================
 
-  static const String _prodBannerIdAndroid = 'ca-app-pub-xxx/xxx';
-  static const String _prodBannerIdIOS = 'ca-app-pub-xxx/xxx';
-  static const String _prodInterstitialIdAndroid = 'ca-app-pub-xxx/xxx';
-  static const String _prodInterstitialIdIOS = 'ca-app-pub-xxx/xxx';
-  static const String _prodRewardedIdAndroid = 'ca-app-pub-xxx/xxx';
-  static const String _prodRewardedIdIOS = 'ca-app-pub-xxx/xxx';
+  static const String _prodBannerIdAndroid =
+      'ca-app-pub-8841058711613546/1279953611';
+  static const String _prodBannerIdIOS =
+      'ca-app-pub-8841058711613546/2784606974';
+  static const String _prodInterstitialIdAndroid =
+      'ca-app-pub-8841058711613546/9533848151';
+  static const String _prodInterstitialIdIOS =
+      'ca-app-pub-8841058711613546/8743520402';
+  static const String _prodRewardedIdAndroid =
+      'ca-app-pub-8841058711613546/8966871943';
+  static const String _prodRewardedIdIOS =
+      'ca-app-pub-8841058711613546/7845361960';
 
   // ============================================================
   // 광고 ID Getter

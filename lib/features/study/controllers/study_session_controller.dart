@@ -2,10 +2,12 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_riverpod/legacy.dart';
 import '../../../data/models/study_session.dart';
 import '../../../data/models/question.dart';
+import '../../../data/providers/premium_provider.dart';
 import '../../../data/providers/study_providers.dart';
 import '../../../data/providers/question_providers.dart';
 import '../../../data/providers/topic_providers.dart';
 import '../../../data/providers/database_providers.dart';
+import '../../../services/ad_service.dart';
 
 enum StudySessionStatus {
   initial,
@@ -168,6 +170,12 @@ class StudySessionController extends StateNotifier<StudySessionState> {
     final session = state.session;
     if (session == null) return;
 
+    // 이론 → 퀴즈 전환 시 전면 광고
+    final isPremium = _ref.read(isPremiumProvider);
+    if (!isPremium) {
+      await AdService().showInterstitialAd();
+    }
+
     session.moveNext();
 
     if (session.isCompleted) {
@@ -236,6 +244,12 @@ class StudySessionController extends StateNotifier<StudySessionState> {
 
     final studyService = _ref.read(studyServiceProvider);
     await studyService.completeSession(session);
+
+    // 세션 완료 시 전면 광고
+    final isPremium = _ref.read(isPremiumProvider);
+    if (!isPremium) {
+      await AdService().showInterstitialAd();
+    }
 
     _invalidateProgressProviders();
 

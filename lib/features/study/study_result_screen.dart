@@ -2,8 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../core/theme/app_colors.dart';
 import '../../data/models/study_session.dart';
+import '../../data/providers/premium_provider.dart';
 import '../../data/providers/study_providers.dart';
 import '../../l10n/app_localizations.dart';
+import '../../services/ad_service.dart';
 import 'controllers/study_session_controller.dart';
 import 'study_session_screen.dart';
 
@@ -55,7 +57,7 @@ class _StudyResultScreenState extends ConsumerState<StudyResultScreen> {
               height: 80,
               decoration: const BoxDecoration(
                 shape: BoxShape.circle,
-                color: AppColors.correct,
+                color: AppColors.primary,
               ),
               child: const Icon(Icons.check, color: Colors.white, size: 48),
             ),
@@ -272,8 +274,8 @@ class _StudyResultScreenState extends ConsumerState<StudyResultScreen> {
                 onPressed: () => _startNewSession(isReview: true),
                 child: Text(
                     l10n.continueReviewWithCount(summary.reviewDueCount)),
-              )
-            else if (summary.hasNextTopic)
+              ),
+            if (!summary.allTopicsCompleted)
               ElevatedButton(
                 onPressed: () => _startNewSession(isReview: false),
                 child: Text(l10n.additionalStudy),
@@ -301,8 +303,15 @@ class _StudyResultScreenState extends ConsumerState<StudyResultScreen> {
     );
   }
 
-  void _startNewSession({required bool isReview}) {
+  void _startNewSession({required bool isReview}) async {
+    // 추가 학습/복습 시작 전 전면 광고
+    final isPremium = ref.read(isPremiumProvider);
+    if (!isPremium) {
+      await AdService().showInterstitialAd();
+    }
+
     ref.invalidate(studySessionControllerProvider);
+    if (!mounted) return;
     Navigator.pushReplacement(
       context,
       MaterialPageRoute(

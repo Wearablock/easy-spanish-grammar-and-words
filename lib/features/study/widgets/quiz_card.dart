@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../../data/models/question.dart';
+import '../../../data/providers/premium_provider.dart';
 import '../../../data/providers/tts_providers.dart';
 import '../../../l10n/app_localizations.dart';
+import '../../../services/ad_service.dart';
 import 'question_header.dart';
 import 'option_button.dart';
 import 'explanation_card.dart';
@@ -29,6 +31,7 @@ class _QuizCardState extends ConsumerState<QuizCard> {
   int? _selectedIndex;
   bool _answered = false;
   bool _showHint = false;
+  bool _isLoadingAd = false;
 
   @override
   void initState() {
@@ -118,11 +121,45 @@ class _QuizCardState extends ConsumerState<QuizCard> {
 
           // 힌트 버튼
           if (widget.question.hasHint && !_showHint && !_answered)
-            TextButton.icon(
-              onPressed: () => setState(() => _showHint = true),
-              icon: const Icon(Icons.lightbulb_outline, size: 18),
-              label: Text(l10n.showHint),
-            ),
+            _isLoadingAd
+                ? const Padding(
+                    padding: EdgeInsets.symmetric(vertical: 8),
+                    child: SizedBox(
+                      width: 24,
+                      height: 24,
+                      child: CircularProgressIndicator(strokeWidth: 2),
+                    ),
+                  )
+                : TextButton.icon(
+                    onPressed: _onHintTap,
+                    icon: const Icon(Icons.lightbulb_outline, size: 18),
+                    label: Row(
+                      mainAxisSize: MainAxisSize.min,
+                      children: [
+                        Text(l10n.showHint),
+                        if (!ref.watch(isPremiumProvider)) ...[
+                          const SizedBox(width: 4),
+                          Container(
+                            padding: const EdgeInsets.symmetric(
+                                horizontal: 4, vertical: 1),
+                            decoration: BoxDecoration(
+                              color: theme.colorScheme.secondary
+                                  .withValues(alpha: 0.15),
+                              borderRadius: BorderRadius.circular(4),
+                            ),
+                            child: Text(
+                              'AD',
+                              style: theme.textTheme.labelSmall?.copyWith(
+                                color: theme.colorScheme.secondary,
+                                fontWeight: FontWeight.bold,
+                                fontSize: 10,
+                              ),
+                            ),
+                          ),
+                        ],
+                      ],
+                    ),
+                  ),
 
           // 힌트 표시
           if (_showHint && widget.question.hint != null) ...[
@@ -219,6 +256,42 @@ class _QuizCardState extends ConsumerState<QuizCard> {
 
     if (isCorrect) {
       _autoPlayTts();
+    }
+  }
+
+  Future<void> _onHintTap() async {
+    final isPremium = ref.read(isPremiumProvider);
+    final adService = AdService();
+
+    if (isPremium) {
+      // 프리미엄: 광고 없이 힌트 표시
+      setState(() => _showHint = true);
+      return;
+    }
+
+    if (adService.isRewardedAdReady) {
+      await adService.showRewardedAd(
+        onRewarded: (reward) {
+          if (mounted) setState(() => _showHint = true);
+        },
+      );
+    } else {
+      // 광고 미준비: 즉석 로드 시도
+      setState(() => _isLoadingAd = true);
+      final loaded = await adService.tryLoadRewardedAd();
+      if (!mounted) return;
+
+      if (loaded) {
+        await adService.showRewardedAd(
+          onRewarded: (reward) {
+            if (mounted) setState(() => _showHint = true);
+          },
+        );
+      } else {
+        // 폴백: 광고 없이 힌트 표시
+        setState(() => _showHint = true);
+      }
+      if (mounted) setState(() => _isLoadingAd = false);
     }
   }
 
