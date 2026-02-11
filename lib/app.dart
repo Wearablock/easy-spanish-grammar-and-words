@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:upgrader/upgrader.dart';
 
 import 'core/theme/app_theme.dart';
 import 'data/providers/database_providers.dart';
@@ -54,7 +55,11 @@ class EspanolBiteApp extends ConsumerWidget {
         Locale('id'),
       ],
 
-      home: const MainShell(),
+      home: UpgradeAlert(
+        showIgnore: false,
+        showLater: true,
+        child: const MainShell(),
+      ),
     );
   }
 }
