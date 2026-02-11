@@ -65,6 +65,19 @@ class StudyService {
     );
   }
 
+  /// 오답노트 재도전 세션 생성 (특정 문제 ID 기반)
+  StudySession createWrongAnswersRetrySession(List<String> questionIds) {
+    return StudySession(
+      id: DebugUtils.now.millisecondsSinceEpoch.toString(),
+      startedAt: DebugUtils.now,
+      wrongReviewIds: questionIds,
+      spacedReviewIds: [],
+      newQuestionIds: [],
+      newTopicIds: [],
+      newQuestionsByTopic: {},
+    );
+  }
+
   /// 복습 필요 여부 확인
   Future<bool> hasReviewDue() async {
     final count = await _questionSelector.getReviewDueCount();

@@ -3,6 +3,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../data/providers/study_providers.dart';
 import '../../l10n/app_localizations.dart';
+import '../study/study_session_screen.dart';
 import 'widgets/wrong_answer_card.dart';
 
 class WrongAnswersScreen extends ConsumerWidget {
@@ -55,11 +56,33 @@ class WrongAnswersScreen extends ConsumerWidget {
           }
 
           return ListView.builder(
-            padding: const EdgeInsets.all(16),
+            padding: const EdgeInsets.fromLTRB(16, 16, 16, 80),
             itemCount: items.length,
             itemBuilder: (context, index) {
               return WrongAnswerCard(item: items[index]);
             },
+          );
+        },
+      ),
+      floatingActionButton: wrongAnswersAsync.whenOrNull(
+        data: (items) {
+          final ids = items
+              .where((e) => e.question != null)
+              .map((e) => e.wrongAnswer.questionId)
+              .toList();
+          if (ids.isEmpty) return null;
+          return FloatingActionButton.extended(
+            onPressed: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (_) =>
+                      StudySessionScreen(wrongAnswerIds: ids),
+                ),
+              );
+            },
+            icon: const Icon(Icons.replay),
+            label: Text(l10n.wrongReview),
           );
         },
       ),

@@ -12,8 +12,13 @@ import 'widgets/quiz_card.dart';
 
 class StudySessionScreen extends ConsumerStatefulWidget {
   final bool isReviewOnly;
+  final List<String>? wrongAnswerIds;
 
-  const StudySessionScreen({super.key, this.isReviewOnly = false});
+  const StudySessionScreen({
+    super.key,
+    this.isReviewOnly = false,
+    this.wrongAnswerIds,
+  });
 
   @override
   ConsumerState<StudySessionScreen> createState() =>
@@ -26,7 +31,9 @@ class _StudySessionScreenState extends ConsumerState<StudySessionScreen> {
     super.initState();
     WidgetsBinding.instance.addPostFrameCallback((_) {
       final controller = ref.read(studySessionControllerProvider.notifier);
-      if (widget.isReviewOnly) {
+      if (widget.wrongAnswerIds != null) {
+        controller.startWrongAnswersSession(widget.wrongAnswerIds!);
+      } else if (widget.isReviewOnly) {
         controller.startReviewSession();
       } else {
         controller.startSession();
@@ -151,7 +158,9 @@ class _StudySessionScreenState extends ConsumerState<StudySessionScreen> {
               onPressed: () {
                 final controller =
                     ref.read(studySessionControllerProvider.notifier);
-                if (widget.isReviewOnly) {
+                if (widget.wrongAnswerIds != null) {
+                  controller.startWrongAnswersSession(widget.wrongAnswerIds!);
+                } else if (widget.isReviewOnly) {
                   controller.startReviewSession();
                 } else {
                   controller.startSession();
