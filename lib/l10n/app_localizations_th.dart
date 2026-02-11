@@ -361,13 +361,34 @@ class AppLocalizationsTh extends AppLocalizations {
   String get vibrationDesc => 'สั่นเมื่อตอบถูก/ผิด';
 
   @override
-  String get ttsSettings => 'ตั้งค่า TTS';
+  String get ttsSettings => 'ตั้งค่าเสียง';
 
   @override
   String get ttsAutoPlay => 'เล่นอัตโนมัติ';
 
   @override
   String get ttsAutoPlayDesc => 'ออกเสียงสเปนอัตโนมัติเมื่อตอบถูก';
+
+  @override
+  String get ttsSpeechRate => 'ความเร็ว';
+
+  @override
+  String get ttsVoice => 'เสียง';
+
+  @override
+  String get ttsVoiceDefault => 'ค่าเริ่มต้น';
+
+  @override
+  String get ttsSpeedSlow => 'ช้า';
+
+  @override
+  String get ttsSpeedNormal => 'ปกติ';
+
+  @override
+  String get ttsSpeedFast => 'เร็ว';
+
+  @override
+  String get ttsTestPlay => 'ฟังตัวอย่าง';
 
   @override
   String get showHint => 'ดูคำใบ้';

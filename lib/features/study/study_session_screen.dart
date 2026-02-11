@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../data/models/study_session.dart';
 import '../../data/providers/topic_providers.dart';
+import '../../data/providers/tts_providers.dart';
 import '../../l10n/app_localizations.dart';
 import 'controllers/study_session_controller.dart';
 import 'study_result_screen.dart';
@@ -38,11 +39,12 @@ class _StudySessionScreenState extends ConsumerState<StudySessionScreen> {
     final l10n = AppLocalizations.of(context)!;
     final state = ref.watch(studySessionControllerProvider);
 
-    // 완료 시 결과 화면으로 이동
+    // 완료 시 TTS 중지 후 결과 화면으로 이동
     ref.listen(studySessionControllerProvider, (previous, next) {
       if (next.status == StudySessionStatus.completed &&
           previous?.status != StudySessionStatus.completed &&
           next.session != null) {
+        ref.read(ttsServiceProvider).stop();
         Navigator.pushReplacement(
           context,
           MaterialPageRoute(
@@ -61,6 +63,7 @@ class _StudySessionScreenState extends ConsumerState<StudySessionScreen> {
         if (!didPop && state.status == StudySessionStatus.inProgress) {
           final shouldExit = await _showExitConfirmDialog(l10n);
           if (shouldExit == true && context.mounted) {
+            ref.read(ttsServiceProvider).stop();
             ref.read(studySessionControllerProvider.notifier).cancelSession();
             Navigator.pop(context);
           }
@@ -223,6 +226,7 @@ class _StudySessionScreenState extends ConsumerState<StudySessionScreen> {
     if (state.status == StudySessionStatus.inProgress) {
       final shouldExit = await _showExitConfirmDialog(l10n);
       if (shouldExit == true && mounted) {
+        ref.read(ttsServiceProvider).stop();
         ref.read(studySessionControllerProvider.notifier).cancelSession();
         Navigator.pop(context);
       }

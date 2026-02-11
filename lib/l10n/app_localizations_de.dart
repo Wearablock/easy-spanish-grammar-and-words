@@ -363,7 +363,7 @@ class AppLocalizationsDe extends AppLocalizations {
   String get vibrationDesc => 'Vibration bei richtiger/falscher Antwort';
 
   @override
-  String get ttsSettings => 'TTS-Einstellungen';
+  String get ttsSettings => 'Spracheinstellungen';
 
   @override
   String get ttsAutoPlay => 'Automatische Wiedergabe';
@@ -371,6 +371,27 @@ class AppLocalizationsDe extends AppLocalizations {
   @override
   String get ttsAutoPlayDesc =>
       'Spanisch automatisch aussprechen bei richtiger Antwort';
+
+  @override
+  String get ttsSpeechRate => 'Geschwindigkeit';
+
+  @override
+  String get ttsVoice => 'Stimme';
+
+  @override
+  String get ttsVoiceDefault => 'Standard';
+
+  @override
+  String get ttsSpeedSlow => 'Langsam';
+
+  @override
+  String get ttsSpeedNormal => 'Normal';
+
+  @override
+  String get ttsSpeedFast => 'Schnell';
+
+  @override
+  String get ttsTestPlay => 'Vorschau';
 
   @override
   String get showHint => 'Hinweis anzeigen';

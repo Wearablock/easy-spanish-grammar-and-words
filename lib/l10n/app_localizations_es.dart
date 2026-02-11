@@ -364,13 +364,34 @@ class AppLocalizationsEs extends AppLocalizations {
   String get vibrationDesc => 'Vibración al acertar/fallar';
 
   @override
-  String get ttsSettings => 'Configuración TTS';
+  String get ttsSettings => 'Configuración de voz';
 
   @override
   String get ttsAutoPlay => 'Reproducción automática';
 
   @override
   String get ttsAutoPlayDesc => 'Pronunciar español automáticamente al acertar';
+
+  @override
+  String get ttsSpeechRate => 'Velocidad';
+
+  @override
+  String get ttsVoice => 'Voz';
+
+  @override
+  String get ttsVoiceDefault => 'Predeterminada';
+
+  @override
+  String get ttsSpeedSlow => 'Lento';
+
+  @override
+  String get ttsSpeedNormal => 'Normal';
+
+  @override
+  String get ttsSpeedFast => 'Rápido';
+
+  @override
+  String get ttsTestPlay => 'Vista previa';
 
   @override
   String get showHint => 'Ver pista';

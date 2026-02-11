@@ -361,13 +361,34 @@ class AppLocalizationsVi extends AppLocalizations {
   String get vibrationDesc => 'Rung khi đúng/sai';
 
   @override
-  String get ttsSettings => 'Cài đặt TTS';
+  String get ttsSettings => 'Cài đặt giọng nói';
 
   @override
   String get ttsAutoPlay => 'Tự động phát';
 
   @override
   String get ttsAutoPlayDesc => 'Tự động phát âm tiếng Tây Ban Nha khi đúng';
+
+  @override
+  String get ttsSpeechRate => 'Tốc độ';
+
+  @override
+  String get ttsVoice => 'Giọng nói';
+
+  @override
+  String get ttsVoiceDefault => 'Mặc định';
+
+  @override
+  String get ttsSpeedSlow => 'Chậm';
+
+  @override
+  String get ttsSpeedNormal => 'Bình thường';
+
+  @override
+  String get ttsSpeedFast => 'Nhanh';
+
+  @override
+  String get ttsTestPlay => 'Nghe thử';
 
   @override
   String get showHint => 'Xem gợi ý';

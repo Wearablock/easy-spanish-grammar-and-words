@@ -175,6 +175,24 @@ class UserSettingsDao extends DatabaseAccessor<AppDatabase>
     return setBool(SettingKeys.ttsAutoPlay, enabled);
   }
 
+  Future<double> getTtsSpeechRate() async {
+    final value = await getValue(SettingKeys.ttsSpeechRate);
+    if (value == null) return 0.45;
+    return double.tryParse(value) ?? 0.45;
+  }
+
+  Future<void> setTtsSpeechRate(double rate) {
+    return setValue(SettingKeys.ttsSpeechRate, rate.toString());
+  }
+
+  Future<String?> getTtsVoice() async {
+    return getValue(SettingKeys.ttsVoice);
+  }
+
+  Future<void> setTtsVoice(String? voiceName) {
+    return setValue(SettingKeys.ttsVoice, voiceName);
+  }
+
   // ── 언어 설정 ──
 
   Future<String> getLocale() async {
@@ -279,6 +297,8 @@ class UserSettingsDao extends DatabaseAccessor<AppDatabase>
     await setBool(SettingKeys.soundEnabled, true);
     await setBool(SettingKeys.vibrationEnabled, true);
     await setBool(SettingKeys.ttsAutoPlay, false);
+    await setValue(SettingKeys.ttsSpeechRate, '0.45');
+    await deleteKey(SettingKeys.ttsVoice);
   }
 
   Future<Map<String, String?>> exportSettings() async {

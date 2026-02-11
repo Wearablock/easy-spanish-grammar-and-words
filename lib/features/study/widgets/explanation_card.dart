@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_markdown/flutter_markdown.dart';
 
 class ExplanationCard extends StatelessWidget {
   final String explanation;
@@ -28,9 +29,13 @@ class ExplanationCard extends StatelessWidget {
           ),
           const SizedBox(width: 12),
           Expanded(
-            child: Text(
-              explanation,
-              style: theme.textTheme.bodyMedium,
+            child: MarkdownBody(
+              data: explanation,
+              styleSheet: MarkdownStyleSheet.fromTheme(theme).copyWith(
+                p: theme.textTheme.bodyMedium,
+              ),
+              shrinkWrap: true,
+              softLineBreak: true,
             ),
           ),
         ],

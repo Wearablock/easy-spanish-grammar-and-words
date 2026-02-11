@@ -359,13 +359,34 @@ class AppLocalizationsJa extends AppLocalizations {
   String get vibrationDesc => '正解/不正解時に振動フィードバック';
 
   @override
-  String get ttsSettings => 'TTS設定';
+  String get ttsSettings => '音声設定';
 
   @override
   String get ttsAutoPlay => '自動再生';
 
   @override
   String get ttsAutoPlayDesc => '正解確認時にスペイン語を自動発音';
+
+  @override
+  String get ttsSpeechRate => '再生速度';
+
+  @override
+  String get ttsVoice => '音声の選択';
+
+  @override
+  String get ttsVoiceDefault => 'デフォルト';
+
+  @override
+  String get ttsSpeedSlow => '遅い';
+
+  @override
+  String get ttsSpeedNormal => '普通';
+
+  @override
+  String get ttsSpeedFast => '速い';
+
+  @override
+  String get ttsTestPlay => '試聴';
 
   @override
   String get showHint => 'ヒントを見る';

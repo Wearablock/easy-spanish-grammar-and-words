@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../../data/models/question.dart';
+import '../../../data/providers/tts_providers.dart';
 import '../../../l10n/app_localizations.dart';
 import 'question_header.dart';
 import 'option_button.dart';
 import 'explanation_card.dart';
+import 'tts_button.dart';
 
 class QuizCard extends ConsumerStatefulWidget {
   final Question question;
@@ -101,11 +103,25 @@ class _QuizCardState extends ConsumerState<QuizCard> {
 
           // 선택지
           ...List.generate(_shuffledOptions.length, (index) {
-            return OptionButton(
-              index: index,
-              text: _shuffledOptions[index],
-              optionState: _getOptionState(index),
-              onTap: () => _onOptionSelected(index),
+            return Row(
+              children: [
+                Expanded(
+                  child: OptionButton(
+                    index: index,
+                    text: _shuffledOptions[index],
+                    optionState: _getOptionState(index),
+                    onTap: () => _onOptionSelected(index),
+                  ),
+                ),
+                if (_answered)
+                  Padding(
+                    padding: const EdgeInsets.only(left: 4, bottom: 12),
+                    child: TtsButton(
+                      text: _shuffledOptions[index],
+                      iconSize: 18,
+                    ),
+                  ),
+              ],
             );
           }),
 
@@ -155,5 +171,37 @@ class _QuizCardState extends ConsumerState<QuizCard> {
     final isCorrect = index == _correctIndex;
     final selectedAnswer = _shuffledOptions[index];
     widget.onAnswered(isCorrect, selectedAnswer);
+
+    if (isCorrect) {
+      _autoPlayTts();
+    }
+  }
+
+  Future<void> _autoPlayTts() async {
+    final autoPlay = await ref.read(ttsAutoPlayProvider.future);
+    if (!autoPlay) return;
+
+    final q = widget.question;
+    final String textToSpeak;
+
+    switch (q.type) {
+      case QuestionType.fillBlank:
+      case QuestionType.conjugation:
+        textToSpeak = q.question.replaceAll('___', q.correct);
+      case QuestionType.translation:
+        if (q.translationDir == TranslationDirection.esToKo) {
+          textToSpeak = q.question;
+        } else {
+          textToSpeak = q.correct;
+        }
+      case QuestionType.listening:
+      case QuestionType.sentenceOrder:
+        textToSpeak = q.question;
+      case QuestionType.meaning:
+      case QuestionType.context:
+        textToSpeak = q.correct;
+    }
+
+    ref.read(ttsServiceProvider).speak(textToSpeak);
   }
 }

@@ -359,13 +359,34 @@ class AppLocalizationsKo extends AppLocalizations {
   String get vibrationDesc => '정답/오답 시 진동 피드백';
 
   @override
-  String get ttsSettings => 'TTS 설정';
+  String get ttsSettings => '음성 설정';
 
   @override
   String get ttsAutoPlay => '자동 재생';
 
   @override
   String get ttsAutoPlayDesc => '정답 확인 시 스페인어 자동 발음';
+
+  @override
+  String get ttsSpeechRate => '재생 속도';
+
+  @override
+  String get ttsVoice => '음성 선택';
+
+  @override
+  String get ttsVoiceDefault => '기본 음성';
+
+  @override
+  String get ttsSpeedSlow => '느리게';
+
+  @override
+  String get ttsSpeedNormal => '보통';
+
+  @override
+  String get ttsSpeedFast => '빠르게';
+
+  @override
+  String get ttsTestPlay => '미리 듣기';
 
   @override
   String get showHint => '힌트 보기';

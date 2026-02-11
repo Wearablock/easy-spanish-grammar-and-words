@@ -363,13 +363,34 @@ class AppLocalizationsEn extends AppLocalizations {
   String get vibrationDesc => 'Haptic feedback on correct/wrong answers';
 
   @override
-  String get ttsSettings => 'TTS Settings';
+  String get ttsSettings => 'Voice Settings';
 
   @override
   String get ttsAutoPlay => 'Auto Play';
 
   @override
   String get ttsAutoPlayDesc => 'Auto-pronounce Spanish on correct answer';
+
+  @override
+  String get ttsSpeechRate => 'Speech Rate';
+
+  @override
+  String get ttsVoice => 'Voice';
+
+  @override
+  String get ttsVoiceDefault => 'Default';
+
+  @override
+  String get ttsSpeedSlow => 'Slow';
+
+  @override
+  String get ttsSpeedNormal => 'Normal';
+
+  @override
+  String get ttsSpeedFast => 'Fast';
+
+  @override
+  String get ttsTestPlay => 'Preview';
 
   @override
   String get showHint => 'Show Hint';

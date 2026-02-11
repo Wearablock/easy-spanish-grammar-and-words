@@ -362,7 +362,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get vibrationDesc => 'Vibrazione alla risposta corretta/sbagliata';
 
   @override
-  String get ttsSettings => 'Impostazioni TTS';
+  String get ttsSettings => 'Impostazioni voce';
 
   @override
   String get ttsAutoPlay => 'Riproduzione automatica';
@@ -370,6 +370,27 @@ class AppLocalizationsIt extends AppLocalizations {
   @override
   String get ttsAutoPlayDesc =>
       'Pronuncia spagnolo automaticamente alla risposta corretta';
+
+  @override
+  String get ttsSpeechRate => 'Velocità';
+
+  @override
+  String get ttsVoice => 'Voce';
+
+  @override
+  String get ttsVoiceDefault => 'Predefinita';
+
+  @override
+  String get ttsSpeedSlow => 'Lento';
+
+  @override
+  String get ttsSpeedNormal => 'Normale';
+
+  @override
+  String get ttsSpeedFast => 'Veloce';
+
+  @override
+  String get ttsTestPlay => 'Anteprima';
 
   @override
   String get showHint => 'Mostra suggerimento';

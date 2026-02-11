@@ -786,7 +786,7 @@ abstract class AppLocalizations {
   /// No description provided for @ttsSettings.
   ///
   /// In ko, this message translates to:
-  /// **'TTS 설정'**
+  /// **'음성 설정'**
   String get ttsSettings;
 
   /// No description provided for @ttsAutoPlay.
@@ -800,6 +800,48 @@ abstract class AppLocalizations {
   /// In ko, this message translates to:
   /// **'정답 확인 시 스페인어 자동 발음'**
   String get ttsAutoPlayDesc;
+
+  /// No description provided for @ttsSpeechRate.
+  ///
+  /// In ko, this message translates to:
+  /// **'재생 속도'**
+  String get ttsSpeechRate;
+
+  /// No description provided for @ttsVoice.
+  ///
+  /// In ko, this message translates to:
+  /// **'음성 선택'**
+  String get ttsVoice;
+
+  /// No description provided for @ttsVoiceDefault.
+  ///
+  /// In ko, this message translates to:
+  /// **'기본 음성'**
+  String get ttsVoiceDefault;
+
+  /// No description provided for @ttsSpeedSlow.
+  ///
+  /// In ko, this message translates to:
+  /// **'느리게'**
+  String get ttsSpeedSlow;
+
+  /// No description provided for @ttsSpeedNormal.
+  ///
+  /// In ko, this message translates to:
+  /// **'보통'**
+  String get ttsSpeedNormal;
+
+  /// No description provided for @ttsSpeedFast.
+  ///
+  /// In ko, this message translates to:
+  /// **'빠르게'**
+  String get ttsSpeedFast;
+
+  /// No description provided for @ttsTestPlay.
+  ///
+  /// In ko, this message translates to:
+  /// **'미리 듣기'**
+  String get ttsTestPlay;
 
   /// No description provided for @showHint.
   ///

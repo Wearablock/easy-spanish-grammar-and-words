@@ -359,13 +359,34 @@ class AppLocalizationsZh extends AppLocalizations {
   String get vibrationDesc => '答对/答错时振动反馈';
 
   @override
-  String get ttsSettings => 'TTS设置';
+  String get ttsSettings => '语音设置';
 
   @override
   String get ttsAutoPlay => '自动播放';
 
   @override
   String get ttsAutoPlayDesc => '答对时自动播放西班牙语发音';
+
+  @override
+  String get ttsSpeechRate => '播放速度';
+
+  @override
+  String get ttsVoice => '语音选择';
+
+  @override
+  String get ttsVoiceDefault => '默认';
+
+  @override
+  String get ttsSpeedSlow => '慢速';
+
+  @override
+  String get ttsSpeedNormal => '正常';
+
+  @override
+  String get ttsSpeedFast => '快速';
+
+  @override
+  String get ttsTestPlay => '试听';
 
   @override
   String get showHint => '查看提示';
@@ -792,13 +813,34 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
   String get vibrationDesc => '答對/答錯時振動回饋';
 
   @override
-  String get ttsSettings => 'TTS設定';
+  String get ttsSettings => '語音設定';
 
   @override
   String get ttsAutoPlay => '自動播放';
 
   @override
   String get ttsAutoPlayDesc => '答對時自動播放西班牙語發音';
+
+  @override
+  String get ttsSpeechRate => '播放速度';
+
+  @override
+  String get ttsVoice => '語音選擇';
+
+  @override
+  String get ttsVoiceDefault => '預設';
+
+  @override
+  String get ttsSpeedSlow => '慢速';
+
+  @override
+  String get ttsSpeedNormal => '正常';
+
+  @override
+  String get ttsSpeedFast => '快速';
+
+  @override
+  String get ttsTestPlay => '試聽';
 
   @override
   String get showHint => '查看提示';

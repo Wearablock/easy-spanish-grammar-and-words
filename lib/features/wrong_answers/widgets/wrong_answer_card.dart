@@ -1,18 +1,21 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_markdown/flutter_markdown.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../../core/theme/app_colors.dart';
 import '../../../data/providers/study_providers.dart';
 import '../../../l10n/app_localizations.dart';
+import '../../study/widgets/tts_button.dart';
 
-class WrongAnswerCard extends StatefulWidget {
+class WrongAnswerCard extends ConsumerStatefulWidget {
   final WrongAnswerWithQuestion item;
 
   const WrongAnswerCard({super.key, required this.item});
 
   @override
-  State<WrongAnswerCard> createState() => _WrongAnswerCardState();
+  ConsumerState<WrongAnswerCard> createState() => _WrongAnswerCardState();
 }
 
-class _WrongAnswerCardState extends State<WrongAnswerCard> {
+class _WrongAnswerCardState extends ConsumerState<WrongAnswerCard> {
   bool _expanded = false;
 
   String _extractCefrLevel(String levelId) {
@@ -31,6 +34,7 @@ class _WrongAnswerCardState extends State<WrongAnswerCard> {
     final cefrLevel = _extractCefrLevel(wa.levelId);
     final levelColor = AppColors.getLevelColor(cefrLevel);
     final questionText = q?.question ?? wa.questionId;
+    final hasBlank = questionText.contains('___');
 
     return Card(
       margin: const EdgeInsets.only(bottom: 12),
@@ -81,12 +85,22 @@ class _WrongAnswerCardState extends State<WrongAnswerCard> {
               ),
               const SizedBox(height: 10),
 
-              // Question text
-              Text(
-                questionText,
-                style: theme.textTheme.bodyMedium,
-                maxLines: _expanded ? null : 2,
-                overflow: _expanded ? null : TextOverflow.ellipsis,
+              // Question text + TTS (빈칸 없는 경우만)
+              Row(
+                children: [
+                  Expanded(
+                    child: Text(
+                      questionText,
+                      style: theme.textTheme.bodyMedium,
+                      maxLines: _expanded ? null : 2,
+                      overflow: _expanded ? null : TextOverflow.ellipsis,
+                    ),
+                  ),
+                  if (!hasBlank) ...[
+                    const SizedBox(width: 4),
+                    TtsButton(text: questionText, iconSize: 18),
+                  ],
+                ],
               ),
 
               // Expanded details
@@ -105,6 +119,7 @@ class _WrongAnswerCardState extends State<WrongAnswerCard> {
                               l10n.correctAnswer,
                               q.correct,
                               AppColors.correct,
+                              showTts: true,
                             ),
                             if (wa.lastWrongAnswer != null) ...[
                               const SizedBox(height: 8),
@@ -124,9 +139,15 @@ class _WrongAnswerCardState extends State<WrongAnswerCard> {
                                 ),
                               ),
                               const SizedBox(height: 4),
-                              Text(
-                                q.explanation,
-                                style: theme.textTheme.bodySmall,
+                              MarkdownBody(
+                                data: q.explanation,
+                                styleSheet:
+                                    MarkdownStyleSheet.fromTheme(theme)
+                                        .copyWith(
+                                  p: theme.textTheme.bodySmall,
+                                ),
+                                shrinkWrap: true,
+                                softLineBreak: true,
                               ),
                             ],
                           ],
@@ -149,8 +170,9 @@ class _WrongAnswerCardState extends State<WrongAnswerCard> {
     BuildContext context,
     String label,
     String value,
-    Color valueColor,
-  ) {
+    Color valueColor, {
+    bool showTts = false,
+  }) {
     final theme = Theme.of(context);
     return Row(
       crossAxisAlignment: CrossAxisAlignment.start,
@@ -173,6 +195,10 @@ class _WrongAnswerCardState extends State<WrongAnswerCard> {
             ),
           ),
         ),
+        if (showTts) ...[
+          const SizedBox(width: 4),
+          TtsButton(text: value, iconSize: 16),
+        ],
       ],
     );
   }

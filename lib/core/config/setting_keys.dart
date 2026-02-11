@@ -25,6 +25,8 @@ abstract class SettingKeys {
 
   // TTS
   static const String ttsAutoPlay = 'tts_auto_play';
+  static const String ttsSpeechRate = 'tts_speech_rate';
+  static const String ttsVoice = 'tts_voice';
 
   // 언어
   static const String locale = 'locale';

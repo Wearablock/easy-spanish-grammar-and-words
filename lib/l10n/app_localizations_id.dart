@@ -361,13 +361,34 @@ class AppLocalizationsId extends AppLocalizations {
   String get vibrationDesc => 'Getar saat benar/salah';
 
   @override
-  String get ttsSettings => 'Pengaturan TTS';
+  String get ttsSettings => 'Pengaturan suara';
 
   @override
   String get ttsAutoPlay => 'Putar otomatis';
 
   @override
   String get ttsAutoPlayDesc => 'Ucapkan bahasa Spanyol otomatis saat benar';
+
+  @override
+  String get ttsSpeechRate => 'Kecepatan';
+
+  @override
+  String get ttsVoice => 'Suara';
+
+  @override
+  String get ttsVoiceDefault => 'Default';
+
+  @override
+  String get ttsSpeedSlow => 'Lambat';
+
+  @override
+  String get ttsSpeedNormal => 'Normal';
+
+  @override
+  String get ttsSpeedFast => 'Cepat';
+
+  @override
+  String get ttsTestPlay => 'Pratinjau';
 
   @override
   String get showHint => 'Lihat petunjuk';

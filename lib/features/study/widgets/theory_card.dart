@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_markdown/flutter_markdown.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../../data/models/topic.dart';
 import '../../../l10n/app_localizations.dart';
+import 'tts_button.dart';
 
 class TheoryCard extends ConsumerWidget {
   final Topic topic;
@@ -48,15 +50,23 @@ class TheoryCard extends ConsumerWidget {
             ),
           ),
 
-          // 스페인어 제목 (있으면)
+          // 스페인어 제목 (있으면) + TTS
           if (topic.titleEs != null && topic.titleEs!.isNotEmpty) ...[
             const SizedBox(height: 4),
-            Text(
-              topic.titleEs!,
-              style: theme.textTheme.titleMedium?.copyWith(
-                color: theme.colorScheme.outline,
-                fontStyle: FontStyle.italic,
-              ),
+            Row(
+              children: [
+                Expanded(
+                  child: Text(
+                    topic.titleEs!,
+                    style: theme.textTheme.titleMedium?.copyWith(
+                      color: theme.colorScheme.outline,
+                      fontStyle: FontStyle.italic,
+                    ),
+                  ),
+                ),
+                const SizedBox(width: 4),
+                TtsButton(text: topic.titleEs!),
+              ],
             ),
           ],
 
@@ -66,9 +76,13 @@ class TheoryCard extends ConsumerWidget {
 
           // 이론 내용
           if (topic.theory.isNotEmpty)
-            Text(
-              topic.theory,
-              style: theme.textTheme.bodyLarge?.copyWith(height: 1.6),
+            MarkdownBody(
+              data: topic.theory,
+              styleSheet: MarkdownStyleSheet.fromTheme(theme).copyWith(
+                p: theme.textTheme.bodyLarge?.copyWith(height: 1.6),
+              ),
+              shrinkWrap: true,
+              softLineBreak: true,
             ),
 
           // 핵심 포인트
@@ -125,25 +139,36 @@ class TheoryCard extends ConsumerWidget {
                                 ),
                               ),
                             ),
-                            if (vocab.pronunciation != null)
+                            TtsButton(text: vocab.word, iconSize: 18),
+                            if (vocab.pronunciation != null) ...[
+                              const SizedBox(width: 4),
                               Text(
                                 vocab.pronunciation!,
                                 style: theme.textTheme.bodySmall?.copyWith(
                                   color: theme.colorScheme.outline,
                                 ),
                               ),
+                            ],
                           ],
                         ),
                         const SizedBox(height: 4),
                         Text(vocab.meaning),
                         if (vocab.example != null) ...[
                           const SizedBox(height: 4),
-                          Text(
-                            vocab.example!,
-                            style: theme.textTheme.bodySmall?.copyWith(
-                              fontStyle: FontStyle.italic,
-                              color: theme.colorScheme.outline,
-                            ),
+                          Row(
+                            children: [
+                              Expanded(
+                                child: Text(
+                                  vocab.example!,
+                                  style: theme.textTheme.bodySmall?.copyWith(
+                                    fontStyle: FontStyle.italic,
+                                    color: theme.colorScheme.outline,
+                                  ),
+                                ),
+                              ),
+                              const SizedBox(width: 4),
+                              TtsButton(text: vocab.example!, iconSize: 16),
+                            ],
                           ),
                         ],
                       ],

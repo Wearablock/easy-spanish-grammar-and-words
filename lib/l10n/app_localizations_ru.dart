@@ -363,7 +363,7 @@ class AppLocalizationsRu extends AppLocalizations {
   String get vibrationDesc => 'Вибрация при правильном/неправильном ответе';
 
   @override
-  String get ttsSettings => 'Настройки TTS';
+  String get ttsSettings => 'Настройки голоса';
 
   @override
   String get ttsAutoPlay => 'Автовоспроизведение';
@@ -371,6 +371,27 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get ttsAutoPlayDesc =>
       'Автоматическое произношение при правильном ответе';
+
+  @override
+  String get ttsSpeechRate => 'Скорость';
+
+  @override
+  String get ttsVoice => 'Голос';
+
+  @override
+  String get ttsVoiceDefault => 'По умолчанию';
+
+  @override
+  String get ttsSpeedSlow => 'Медленно';
+
+  @override
+  String get ttsSpeedNormal => 'Нормально';
+
+  @override
+  String get ttsSpeedFast => 'Быстро';
+
+  @override
+  String get ttsTestPlay => 'Предпросмотр';
 
   @override
   String get showHint => 'Показать подсказку';

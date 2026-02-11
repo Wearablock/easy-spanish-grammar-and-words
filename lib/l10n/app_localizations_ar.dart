@@ -360,13 +360,34 @@ class AppLocalizationsAr extends AppLocalizations {
   String get vibrationDesc => 'اهتزاز عند الإجابة الصحيحة/الخاطئة';
 
   @override
-  String get ttsSettings => 'إعدادات TTS';
+  String get ttsSettings => 'إعدادات الصوت';
 
   @override
   String get ttsAutoPlay => 'تشغيل تلقائي';
 
   @override
   String get ttsAutoPlayDesc => 'نطق الإسبانية تلقائياً عند الإجابة الصحيحة';
+
+  @override
+  String get ttsSpeechRate => 'السرعة';
+
+  @override
+  String get ttsVoice => 'الصوت';
+
+  @override
+  String get ttsVoiceDefault => 'الافتراضي';
+
+  @override
+  String get ttsSpeedSlow => 'بطيء';
+
+  @override
+  String get ttsSpeedNormal => 'عادي';
+
+  @override
+  String get ttsSpeedFast => 'سريع';
+
+  @override
+  String get ttsTestPlay => 'معاينة';
 
   @override
   String get showHint => 'عرض التلميح';
