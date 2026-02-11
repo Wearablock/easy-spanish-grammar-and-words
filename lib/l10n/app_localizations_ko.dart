@@ -314,7 +314,7 @@ class AppLocalizationsKo extends AppLocalizations {
   String get studyNotification => '학습 알림';
 
   @override
-  String get dailyNotification => '매일 정해진 시간에 알림';
+  String get dailyNotification => '하루 이상 접속하지 않으면 학습 알림';
 
   @override
   String get notificationOff => '알림 꺼짐';
@@ -456,4 +456,19 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get selectTargetLevel => '목표 레벨 선택';
+
+  @override
+  String get notificationMsg1 => '스페인어 실력이 기다리고 있어요! 오늘도 한 걸음 나아가볼까요?';
+
+  @override
+  String get notificationMsg2 => '어제 배운 내용, 기억나시나요? 복습하면 더 오래 기억돼요!';
+
+  @override
+  String get notificationMsg3 => '매일 조금씩, 꾸준히! 오늘의 스페인어 학습을 시작해보세요.';
+
+  @override
+  String get notificationMsg4 => '¡Hola! 스페인어가 보고 싶었어요. 오늘도 함께 공부해요!';
+
+  @override
+  String get notificationMsg5 => '학습 연속 기록이 끊기기 전에! 지금 바로 시작해볼까요?';
 }

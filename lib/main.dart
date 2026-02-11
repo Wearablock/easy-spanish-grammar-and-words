@@ -3,6 +3,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import 'app.dart';
 import 'core/config/app_config.dart';
+import 'services/notification_service.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -20,8 +21,8 @@ void main() async {
   // TODO: IAP 초기화
   // await IAPService().initialize();
 
-  // TODO: 알림 서비스 초기화
-  // await NotificationService().initialize();
+  // 알림 서비스 초기화
+  await NotificationService().initialize();
 
   runApp(
     const ProviderScope(

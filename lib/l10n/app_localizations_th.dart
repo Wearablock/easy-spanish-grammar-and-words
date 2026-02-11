@@ -316,7 +316,7 @@ class AppLocalizationsTh extends AppLocalizations {
   String get studyNotification => 'แจ้งเตือนการเรียน';
 
   @override
-  String get dailyNotification => 'แจ้งเตือนรายวันตามเวลาที่ตั้ง';
+  String get dailyNotification => 'แจ้งเตือนเรียนเมื่อไม่เข้าแอปเกิน 1 วัน';
 
   @override
   String get notificationOff => 'ปิดการแจ้งเตือน';
@@ -458,4 +458,23 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get selectTargetLevel => 'เลือกระดับเป้าหมาย';
+
+  @override
+  String get notificationMsg1 =>
+      'ภาษาสเปนกำลังรอคุณอยู่! พร้อมก้าวหน้าอีกขั้นวันนี้ไหม?';
+
+  @override
+  String get notificationMsg2 =>
+      'จำสิ่งที่เรียนเมื่อวานได้ไหม? ทบทวนช่วยให้จำได้นานขึ้น!';
+
+  @override
+  String get notificationMsg3 => 'ทีละนิดทุกวัน! เริ่มเรียนภาษาสเปนวันนี้เลย';
+
+  @override
+  String get notificationMsg4 =>
+      '¡Hola! คิดถึงคุณนะ มาเรียนภาษาสเปนด้วยกันวันนี้!';
+
+  @override
+  String get notificationMsg5 =>
+      'อย่าให้สถิติการเรียนต่อเนื่องขาด! เริ่มเรียนตอนนี้เลย';
 }

@@ -316,7 +316,8 @@ class AppLocalizationsVi extends AppLocalizations {
   String get studyNotification => 'Nhắc nhở học';
 
   @override
-  String get dailyNotification => 'Nhắc nhở hàng ngày theo giờ đã đặt';
+  String get dailyNotification =>
+      'Nhắc nhở học tập khi không truy cập hơn 1 ngày';
 
   @override
   String get notificationOff => 'Tắt thông báo';
@@ -458,4 +459,24 @@ class AppLocalizationsVi extends AppLocalizations {
 
   @override
   String get selectTargetLevel => 'Chọn cấp độ mục tiêu';
+
+  @override
+  String get notificationMsg1 =>
+      'Tiếng Tây Ban Nha đang chờ bạn! Sẵn sàng tiến thêm một bước hôm nay?';
+
+  @override
+  String get notificationMsg2 =>
+      'Bạn còn nhớ bài học hôm qua không? Ôn tập giúp nhớ lâu hơn!';
+
+  @override
+  String get notificationMsg3 =>
+      'Mỗi ngày một chút! Bắt đầu bài học tiếng Tây Ban Nha hôm nay.';
+
+  @override
+  String get notificationMsg4 =>
+      '¡Hola! Chúng tôi nhớ bạn. Hãy cùng học tiếng Tây Ban Nha hôm nay!';
+
+  @override
+  String get notificationMsg5 =>
+      'Đừng để chuỗi ngày học bị gián đoạn! Bắt đầu ngay bây giờ.';
 }

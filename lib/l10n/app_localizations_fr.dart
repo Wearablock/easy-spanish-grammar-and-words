@@ -321,7 +321,8 @@ class AppLocalizationsFr extends AppLocalizations {
   String get studyNotification => 'Rappel d\'étude';
 
   @override
-  String get dailyNotification => 'Rappel quotidien à l\'heure fixée';
+  String get dailyNotification =>
+      'Rappel d\'étude après plus d\'un jour d\'inactivité';
 
   @override
   String get notificationOff => 'Notifications désactivées';
@@ -465,4 +466,24 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get selectTargetLevel => 'Choisir le niveau cible';
+
+  @override
+  String get notificationMsg1 =>
+      'Ton espagnol t\'attend ! Prêt à avancer encore aujourd\'hui ?';
+
+  @override
+  String get notificationMsg2 =>
+      'Tu te souviens de ce que tu as appris hier ? Réviser aide à mieux retenir !';
+
+  @override
+  String get notificationMsg3 =>
+      'Un peu chaque jour ! Commence ta leçon d\'espagnol aujourd\'hui.';
+
+  @override
+  String get notificationMsg4 =>
+      '¡Hola ! Tu nous as manqué. Étudions l\'espagnol ensemble aujourd\'hui !';
+
+  @override
+  String get notificationMsg5 =>
+      'Ne brise pas ta série ! Commence à étudier maintenant.';
 }

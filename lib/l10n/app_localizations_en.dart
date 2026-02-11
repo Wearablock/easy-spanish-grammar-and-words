@@ -318,7 +318,7 @@ class AppLocalizationsEn extends AppLocalizations {
   String get studyNotification => 'Study Notification';
 
   @override
-  String get dailyNotification => 'Daily reminder at set time';
+  String get dailyNotification => 'Study reminder when inactive for over a day';
 
   @override
   String get notificationOff => 'Notification off';
@@ -460,4 +460,24 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get selectTargetLevel => 'Select Target Level';
+
+  @override
+  String get notificationMsg1 =>
+      'Your Spanish skills are waiting! Ready to take another step today?';
+
+  @override
+  String get notificationMsg2 =>
+      'Remember what you learned yesterday? Reviewing helps you remember longer!';
+
+  @override
+  String get notificationMsg3 =>
+      'A little every day goes a long way! Start your Spanish lesson today.';
+
+  @override
+  String get notificationMsg4 =>
+      '¡Hola! We\'ve missed you. Let\'s study Spanish together today!';
+
+  @override
+  String get notificationMsg5 =>
+      'Don\'t break your streak! Start studying now before it\'s too late.';
 }

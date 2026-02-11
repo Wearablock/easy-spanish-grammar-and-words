@@ -39,6 +39,44 @@ class _QuizCardState extends ConsumerState<QuizCard> {
   int get _correctIndex =>
       widget.question.getCorrectIndex(_shuffledOptions);
 
+  /// 선택지가 스페인어인지 (한국어 선택지에는 TTS 숨김)
+  bool get _areOptionsSpanish {
+    final q = widget.question;
+    if (q.type == QuestionType.translation &&
+        q.translationDir == TranslationDirection.esToKo) {
+      return false; // 선택지가 한국어
+    }
+    if (q.type == QuestionType.meaning || q.type == QuestionType.context) {
+      return false; // 선택지가 한국어 뜻
+    }
+    return true;
+  }
+
+  /// 괄호 힌트 제거 — "Yo ___ estudiante. (ser 동사 활용)" → "Yo ___ estudiante."
+  static final _trailingParen = RegExp(r'\s*\([^)]*\)\s*$');
+  String _stripHint(String text) => text.replaceAll(_trailingParen, '').trim();
+
+  /// 정답 확인 후 문제 텍스트의 TTS 재생용 스페인어 텍스트
+  String? get _questionTtsText {
+    final q = widget.question;
+    switch (q.type) {
+      case QuestionType.fillBlank:
+      case QuestionType.conjugation:
+        return _stripHint(q.question).replaceAll('___', q.correct);
+      case QuestionType.translation:
+        if (q.translationDir == TranslationDirection.esToKo) {
+          return q.question; // 문제가 스페인어
+        }
+        return null; // koToEs: 문제가 한국어
+      case QuestionType.listening:
+      case QuestionType.sentenceOrder:
+        return q.question;
+      case QuestionType.meaning:
+      case QuestionType.context:
+        return null; // 문제가 한국어
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     final l10n = AppLocalizations.of(context)!;
@@ -69,6 +107,13 @@ class _QuizCardState extends ConsumerState<QuizCard> {
             questionText: widget.question.question,
             questionContext: widget.question.context,
           ),
+
+          // 정답 확인 후 문제 텍스트 TTS (문장형 스페인어)
+          if (_answered && _questionTtsText != null)
+            Padding(
+              padding: const EdgeInsets.only(top: 4),
+              child: TtsButton(text: _questionTtsText!, iconSize: 20),
+            ),
           const SizedBox(height: 8),
 
           // 힌트 버튼
@@ -113,7 +158,7 @@ class _QuizCardState extends ConsumerState<QuizCard> {
                     onTap: () => _onOptionSelected(index),
                   ),
                 ),
-                if (_answered)
+                if (_answered && _areOptionsSpanish)
                   Padding(
                     padding: const EdgeInsets.only(left: 4, bottom: 12),
                     child: TtsButton(
@@ -187,7 +232,7 @@ class _QuizCardState extends ConsumerState<QuizCard> {
     switch (q.type) {
       case QuestionType.fillBlank:
       case QuestionType.conjugation:
-        textToSpeak = q.question.replaceAll('___', q.correct);
+        textToSpeak = _stripHint(q.question).replaceAll('___', q.correct);
       case QuestionType.translation:
         if (q.translationDir == TranslationDirection.esToKo) {
           textToSpeak = q.question;

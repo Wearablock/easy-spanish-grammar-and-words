@@ -314,7 +314,7 @@ class AppLocalizationsJa extends AppLocalizations {
   String get studyNotification => '学習通知';
 
   @override
-  String get dailyNotification => '毎日決まった時間に通知';
+  String get dailyNotification => '1日以上アクセスしないと学習通知';
 
   @override
   String get notificationOff => '通知オフ';
@@ -456,4 +456,19 @@ class AppLocalizationsJa extends AppLocalizations {
 
   @override
   String get selectTargetLevel => '目標レベルを選択';
+
+  @override
+  String get notificationMsg1 => 'スペイン語力が待っています！今日も一歩進みましょう。';
+
+  @override
+  String get notificationMsg2 => '昨日学んだこと、覚えていますか？復習すると記憶が長持ちします！';
+
+  @override
+  String get notificationMsg3 => '毎日コツコツ！今日のスペイン語学習を始めましょう。';
+
+  @override
+  String get notificationMsg4 => '¡Hola！スペイン語が恋しいです。今日も一緒に勉強しましょう！';
+
+  @override
+  String get notificationMsg5 => '連続学習記録が途切れる前に！今すぐ始めませんか？';
 }

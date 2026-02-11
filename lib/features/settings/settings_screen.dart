@@ -9,6 +9,7 @@ import '../../core/theme/app_colors.dart';
 import '../../data/providers/database_providers.dart';
 import '../../data/providers/study_providers.dart';
 import '../../data/providers/topic_providers.dart';
+import '../../data/providers/notification_providers.dart';
 import '../../data/providers/tts_providers.dart';
 import '../../l10n/app_localizations.dart';
 import '../../services/tts_service.dart';
@@ -228,6 +229,16 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
             value: _notificationEnabled,
             onChanged: (value) async {
               final dao = ref.read(userSettingsDaoProvider);
+              final service = ref.read(notificationServiceProvider);
+
+              if (value) {
+                final granted = await service.requestPermission();
+                if (!granted) return;
+                await service.scheduleInactivityReminder();
+              } else {
+                await service.cancelReminder();
+              }
+
               await dao.setNotificationEnabled(value);
               setState(() => _notificationEnabled = value);
             },

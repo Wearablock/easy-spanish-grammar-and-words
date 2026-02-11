@@ -316,7 +316,8 @@ class AppLocalizationsId extends AppLocalizations {
   String get studyNotification => 'Pengingat belajar';
 
   @override
-  String get dailyNotification => 'Pengingat harian pada waktu yang ditentukan';
+  String get dailyNotification =>
+      'Pengingat belajar jika tidak mengakses lebih dari satu hari';
 
   @override
   String get notificationOff => 'Notifikasi mati';
@@ -458,4 +459,24 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get selectTargetLevel => 'Pilih level target';
+
+  @override
+  String get notificationMsg1 =>
+      'Kemampuan bahasa Spanyolmu menunggu! Siap melangkah lebih jauh hari ini?';
+
+  @override
+  String get notificationMsg2 =>
+      'Masih ingat pelajaran kemarin? Mengulang membantu mengingat lebih lama!';
+
+  @override
+  String get notificationMsg3 =>
+      'Sedikit setiap hari! Mulai pelajaran bahasa Spanyolmu hari ini.';
+
+  @override
+  String get notificationMsg4 =>
+      '¡Hola! Kami merindukanmu. Ayo belajar bahasa Spanyol bersama hari ini!';
+
+  @override
+  String get notificationMsg5 =>
+      'Jangan putus rekor belajarmu! Mulai belajar sekarang.';
 }

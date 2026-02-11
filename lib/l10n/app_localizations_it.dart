@@ -317,7 +317,8 @@ class AppLocalizationsIt extends AppLocalizations {
   String get studyNotification => 'Promemoria studio';
 
   @override
-  String get dailyNotification => 'Promemoria giornaliero all\'ora stabilita';
+  String get dailyNotification =>
+      'Promemoria di studio dopo più di un giorno di inattività';
 
   @override
   String get notificationOff => 'Notifiche disattivate';
@@ -460,4 +461,24 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get selectTargetLevel => 'Seleziona livello obiettivo';
+
+  @override
+  String get notificationMsg1 =>
+      'Il tuo spagnolo ti aspetta! Pronto a fare un altro passo oggi?';
+
+  @override
+  String get notificationMsg2 =>
+      'Ricordi cosa hai imparato ieri? Ripassare aiuta a ricordare meglio!';
+
+  @override
+  String get notificationMsg3 =>
+      'Un po\' ogni giorno! Inizia la tua lezione di spagnolo oggi.';
+
+  @override
+  String get notificationMsg4 =>
+      '¡Hola! Ci sei mancato. Studiamo spagnolo insieme oggi!';
+
+  @override
+  String get notificationMsg5 =>
+      'Non interrompere la tua serie! Inizia a studiare adesso.';
 }

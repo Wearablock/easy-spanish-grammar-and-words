@@ -314,7 +314,7 @@ class AppLocalizationsZh extends AppLocalizations {
   String get studyNotification => '学习提醒';
 
   @override
-  String get dailyNotification => '每天定时提醒';
+  String get dailyNotification => '超过一天未访问时发送学习提醒';
 
   @override
   String get notificationOff => '通知已关闭';
@@ -456,6 +456,21 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get selectTargetLevel => '选择目标级别';
+
+  @override
+  String get notificationMsg1 => '你的西班牙语在等你！今天也来进步一点吧？';
+
+  @override
+  String get notificationMsg2 => '还记得昨天学的内容吗？复习能记得更久！';
+
+  @override
+  String get notificationMsg3 => '每天一点点，坚持就是胜利！开始今天的西班牙语学习吧。';
+
+  @override
+  String get notificationMsg4 => '¡Hola！好久不见，今天一起学西班牙语吧！';
+
+  @override
+  String get notificationMsg5 => '别让连续学习记录中断！现在就开始吧。';
 }
 
 /// The translations for Chinese, using the Han script (`zh_Hant`).
@@ -768,7 +783,7 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
   String get studyNotification => '學習提醒';
 
   @override
-  String get dailyNotification => '每天定時提醒';
+  String get dailyNotification => '超過一天未訪問時發送學習提醒';
 
   @override
   String get notificationOff => '通知已關閉';
@@ -910,4 +925,19 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
 
   @override
   String get selectTargetLevel => '選擇目標級別';
+
+  @override
+  String get notificationMsg1 => '你的西班牙語在等你！今天也來進步一點吧？';
+
+  @override
+  String get notificationMsg2 => '還記得昨天學的內容嗎？複習能記得更久！';
+
+  @override
+  String get notificationMsg3 => '每天一點點，堅持就是勝利！開始今天的西班牙語學習吧。';
+
+  @override
+  String get notificationMsg4 => '¡Hola！好久不見，今天一起學西班牙語吧！';
+
+  @override
+  String get notificationMsg5 => '別讓連續學習記錄中斷！現在就開始吧。';
 }

@@ -220,6 +220,7 @@ class StudySessionController extends StateNotifier<StudySessionState> {
   void _invalidateProgressProviders() {
     _ref.invalidate(appStatsProvider);
     _ref.invalidate(levelDistributionProvider);
+    _ref.invalidate(wrongAnswersWithQuestionsProvider);
   }
 
   /// 세션 중단

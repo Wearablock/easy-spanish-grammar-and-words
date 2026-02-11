@@ -696,7 +696,7 @@ abstract class AppLocalizations {
   /// No description provided for @dailyNotification.
   ///
   /// In ko, this message translates to:
-  /// **'매일 정해진 시간에 알림'**
+  /// **'하루 이상 접속하지 않으면 학습 알림'**
   String get dailyNotification;
 
   /// No description provided for @notificationOff.
@@ -968,6 +968,36 @@ abstract class AppLocalizations {
   /// In ko, this message translates to:
   /// **'목표 레벨 선택'**
   String get selectTargetLevel;
+
+  /// 동기부여 알림 메시지 1
+  ///
+  /// In ko, this message translates to:
+  /// **'스페인어 실력이 기다리고 있어요! 오늘도 한 걸음 나아가볼까요?'**
+  String get notificationMsg1;
+
+  /// 동기부여 알림 메시지 2
+  ///
+  /// In ko, this message translates to:
+  /// **'어제 배운 내용, 기억나시나요? 복습하면 더 오래 기억돼요!'**
+  String get notificationMsg2;
+
+  /// 동기부여 알림 메시지 3
+  ///
+  /// In ko, this message translates to:
+  /// **'매일 조금씩, 꾸준히! 오늘의 스페인어 학습을 시작해보세요.'**
+  String get notificationMsg3;
+
+  /// 동기부여 알림 메시지 4
+  ///
+  /// In ko, this message translates to:
+  /// **'¡Hola! 스페인어가 보고 싶었어요. 오늘도 함께 공부해요!'**
+  String get notificationMsg4;
+
+  /// 동기부여 알림 메시지 5
+  ///
+  /// In ko, this message translates to:
+  /// **'학습 연속 기록이 끊기기 전에! 지금 바로 시작해볼까요?'**
+  String get notificationMsg5;
 }
 
 class _AppLocalizationsDelegate

@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../../core/theme/app_colors.dart';
+import '../../../data/models/question.dart';
 import '../../../data/providers/study_providers.dart';
 import '../../../l10n/app_localizations.dart';
 import '../../study/widgets/tts_button.dart';
@@ -22,6 +23,45 @@ class _WrongAnswerCardState extends ConsumerState<WrongAnswerCard> {
     // levelId format: 'grammar_a1' or 'vocab_a2' → extract 'a1' or 'a2'
     final parts = levelId.split('_');
     return parts.length >= 2 ? parts.last : levelId;
+  }
+
+  /// 문제 텍스트가 스페인어인지 (TTS 표시 여부)
+  bool _isQuestionSpanish(Question q) {
+    switch (q.type) {
+      case QuestionType.fillBlank:
+      case QuestionType.conjugation:
+      case QuestionType.listening:
+      case QuestionType.sentenceOrder:
+        return true;
+      case QuestionType.translation:
+        return q.translationDir == TranslationDirection.esToKo;
+      case QuestionType.meaning:
+      case QuestionType.context:
+        return false; // 문제가 한국어
+    }
+  }
+
+  /// 정답이 스페인어인지 (TTS 표시 여부)
+  bool _isCorrectSpanish(Question q) {
+    switch (q.type) {
+      case QuestionType.fillBlank:
+      case QuestionType.conjugation:
+      case QuestionType.listening:
+      case QuestionType.sentenceOrder:
+        return true;
+      case QuestionType.translation:
+        return q.translationDir == TranslationDirection.koToEs;
+      case QuestionType.meaning:
+      case QuestionType.context:
+        return false; // 정답이 한국어 뜻
+    }
+  }
+
+  /// 괄호 힌트 제거 (TTS용)
+  static final _trailingParen = RegExp(r'\s*\([^)]*\)\s*$');
+  String _questionTtsText(Question q) {
+    final text = q.question.replaceAll(_trailingParen, '').trim();
+    return text.replaceAll('___', q.correct);
   }
 
   @override
@@ -85,7 +125,7 @@ class _WrongAnswerCardState extends ConsumerState<WrongAnswerCard> {
               ),
               const SizedBox(height: 10),
 
-              // Question text + TTS (빈칸 없는 경우만)
+              // Question text + TTS (스페인어인 경우만)
               Row(
                 children: [
                   Expanded(
@@ -96,9 +136,12 @@ class _WrongAnswerCardState extends ConsumerState<WrongAnswerCard> {
                       overflow: _expanded ? null : TextOverflow.ellipsis,
                     ),
                   ),
-                  if (!hasBlank) ...[
+                  if (q != null && _isQuestionSpanish(q)) ...[
                     const SizedBox(width: 4),
-                    TtsButton(text: questionText, iconSize: 18),
+                    TtsButton(
+                      text: hasBlank ? _questionTtsText(q) : questionText,
+                      iconSize: 18,
+                    ),
                   ],
                 ],
               ),
@@ -119,7 +162,7 @@ class _WrongAnswerCardState extends ConsumerState<WrongAnswerCard> {
                               l10n.correctAnswer,
                               q.correct,
                               AppColors.correct,
-                              showTts: true,
+                              showTts: _isCorrectSpanish(q),
                             ),
                             if (wa.lastWrongAnswer != null) ...[
                               const SizedBox(height: 8),

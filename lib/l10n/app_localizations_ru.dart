@@ -318,7 +318,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get dailyNotification =>
-      'Ежедневное напоминание в установленное время';
+      'Напоминание об учёбе при отсутствии более суток';
 
   @override
   String get notificationOff => 'Уведомления выключены';
@@ -461,4 +461,24 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get selectTargetLevel => 'Выбрать целевой уровень';
+
+  @override
+  String get notificationMsg1 =>
+      'Твой испанский ждёт тебя! Готов сделать ещё один шаг сегодня?';
+
+  @override
+  String get notificationMsg2 =>
+      'Помнишь, что учил вчера? Повторение помогает запомнить надолго!';
+
+  @override
+  String get notificationMsg3 =>
+      'Каждый день понемногу! Начни урок испанского сегодня.';
+
+  @override
+  String get notificationMsg4 =>
+      '¡Hola! Мы скучали. Давай учить испанский вместе сегодня!';
+
+  @override
+  String get notificationMsg5 =>
+      'Не прерывай свою серию! Начни заниматься прямо сейчас.';
 }
