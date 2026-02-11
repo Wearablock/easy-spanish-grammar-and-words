@@ -40,6 +40,9 @@ dependencies:
   # Markdown Rendering
   flutter_markdown: ^0.7.6+2
 
+  # WebView
+  webview_flutter: ^4.13.0
+
   # Fonts & Icons
   google_fonts: ^6.2.1
   phosphor_flutter: ^2.1.0
@@ -55,6 +58,9 @@ dependencies:
   # Sound & Haptic Feedback
   audioplayers: ^6.1.0
   vibration: ^2.0.0
+
+  # Splash Screen
+  flutter_native_splash: ^2.4.7
 
   # Firebase (flutterfire configure 후 주석 해제)
   # firebase_core: ^4.3.0
@@ -84,3 +90,32 @@ flutter:
     - assets/data/questions/meta/
     - assets/data/questions/ko/
     - assets/data/questions/en/
+
+# App Icon
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/app_icon.png"
+  adaptive_icon_background: "#FFFBF5"
+  adaptive_icon_foreground: "assets/icon/app_icon.png"
+  remove_alpha_ios: true
+  min_sdk_android: 21
+
+# Splash Screen
+flutter_native_splash:
+  color: "#FFFBF5"
+  color_dark: "#121212"
+  image: assets/splash/splash_logo.png
+  branding: assets/splash/splash_branding.png
+  branding_mode: bottom
+  branding_bottom_padding: 50
+  android_12:
+    color: "#FFFBF5"
+    color_dark: "#121212"
+    image: assets/splash/splash_logo_android12.png
+    branding: assets/splash/splash_branding.png
+    branding_mode: bottom
+    branding_bottom_padding: 50
+  ios: true
+  android: true
+  web: false

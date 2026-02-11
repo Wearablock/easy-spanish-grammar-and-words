@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Support - Español Bite</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="logo">
+        <img src="logo.png" alt="Español Bite">
+        <h1>Español Bite</h1>
+      </div>
+      <div class="lang-selector">
+        <button class="lang-btn" onclick="toggleDropdown()">
+          <span id="currentLang">English</span>
+          <svg viewBox="0 0 24 24"><path d="M7 10l5 5 5-5z"/></svg>
+        </button>
+        <div id="langDropdown" class="lang-dropdown">
+          <button class="lang-option active" onclick="switchLang('en')">English</button>
+          <button class="lang-option" onclick="switchLang('ko')">한국어</button>
+          <button class="lang-option" onclick="switchLang('ja')">日本語</button>
+          <button class="lang-option" onclick="switchLang('zh')">简体中文</button>
+          <button class="lang-option" onclick="switchLang('zh-TW')">繁體中文</button>
+          <button class="lang-option" onclick="switchLang('de')">Deutsch</button>
+          <button class="lang-option" onclick="switchLang('fr')">Français</button>
+          <button class="lang-option" onclick="switchLang('es')">Español</button>
+          <button class="lang-option" onclick="switchLang('pt')">Português</button>
+          <button class="lang-option" onclick="switchLang('it')">Italiano</button>
+          <button class="lang-option" onclick="switchLang('ru')">Русский</button>
+          <button class="lang-option" onclick="switchLang('ar')">العربية</button>
+          <button class="lang-option" onclick="switchLang('th')">ภาษาไทย</button>
+          <button class="lang-option" onclick="switchLang('vi')">Tiếng Việt</button>
+          <button class="lang-option" onclick="switchLang('id')">Bahasa Indonesia</button>
+        </div>
+      </div>
+    </header>
+
+    <!-- English -->
+    <main id="content-en" class="content-section active">
+      <h2>Support</h2>
+      <p>Thank you for using Español Bite. If you have any questions, issues, or feedback, please don't hesitate to reach out.</p>
+
+      <h3>Frequently Asked Questions</h3>
+      <div class="faq-item"><strong>Q. How does spaced repetition work?</strong><p>Questions you answer correctly are reviewed at increasing intervals (1, 1, 3, 7, 14, 30 days). This helps you remember vocabulary and grammar long-term.</p></div>
+      <div class="faq-item"><strong>Q. Can I study without an internet connection?</strong><p>Yes. All content is stored locally on your device. You can study offline anytime.</p></div>
+      <div class="faq-item"><strong>Q. How do I remove ads?</strong><p>You can purchase the "Remove Ads" option in Settings to enjoy an ad-free experience.</p></div>
+      <div class="faq-item"><strong>Q. How do I reset my study progress?</strong><p>Go to Settings > Data > Reset Study Records. Please note this action cannot be undone.</p></div>
+      <div class="faq-item"><strong>Q. Which DELE levels are supported?</strong><p>We currently support A1 through C2 levels for both grammar and vocabulary.</p></div>
+      <div class="faq-item"><strong>Q. Is my data backed up to a server?</strong><p>No. All data is stored locally on your device. If you uninstall the app, your data will be deleted.</p></div>
+
+      <h3>Contact Us</h3>
+      <div class="contact-info">
+        <p><strong>Email:</strong> <a href="mailto:admin@wearablock.com">admin@wearablock.com</a></p>
+        <p><strong>Company:</strong> Wearablock Inc.</p>
+        <p><strong>Address:</strong> 288-5, Gimpo Hangang 11-ro, Gimpo-si, Gyeonggi-do, South Korea</p>
+      </div>
+      <p>We typically respond within 1-2 business days.</p>
+    </main>
+
+    <!-- Korean -->
+    <main id="content-ko" class="content-section">
+      <h2>고객 지원</h2>
+      <p>Español Bite를 이용해 주셔서 감사합니다. 궁금한 점이나 문제가 있으시면 언제든지 연락해 주세요.</p>
+
+      <h3>자주 묻는 질문</h3>
+      <div class="faq-item"><strong>Q. 간격 반복 학습은 어떻게 작동하나요?</strong><p>정답을 맞힌 문제는 점점 늘어나는 간격(1, 1, 3, 7, 14, 30일)으로 복습됩니다. 이를 통해 어휘와 문법을 장기적으로 기억할 수 있습니다.</p></div>
+      <div class="faq-item"><strong>Q. 인터넷 없이 학습할 수 있나요?</strong><p>네. 모든 콘텐츠는 기기에 로컬로 저장됩니다. 언제든지 오프라인으로 학습할 수 있습니다.</p></div>
+      <div class="faq-item"><strong>Q. 광고를 제거하려면 어떻게 하나요?</strong><p>설정 > 프리미엄에서 '광고 제거'를 구매하시면 광고 없이 이용할 수 있습니다.</p></div>
+      <div class="faq-item"><strong>Q. 학습 기록을 초기화하려면 어떻게 하나요?</strong><p>설정 > 데이터 > 학습 기록 초기화로 이동하세요. 이 작업은 되돌릴 수 없으니 주의하세요.</p></div>
+      <div class="faq-item"><strong>Q. 어떤 DELE 레벨을 지원하나요?</strong><p>현재 문법과 어휘 모두 A1부터 C2까지 지원합니다.</p></div>
+      <div class="faq-item"><strong>Q. 데이터가 서버에 백업되나요?</strong><p>아니요. 모든 데이터는 기기에 로컬로만 저장됩니다. 앱을 삭제하면 데이터도 함께 삭제됩니다.</p></div>
+
+      <h3>문의하기</h3>
+      <div class="contact-info">
+        <p><strong>이메일:</strong> <a href="mailto:admin@wearablock.com">admin@wearablock.com</a></p>
+        <p><strong>회사명:</strong> 주식회사 웨어러블록</p>
+        <p><strong>주소:</strong> 경기도 김포시 김포한강11로 288-5</p>
+      </div>
+      <p>보통 영업일 기준 1~2일 이내에 답변드립니다.</p>
+    </main>
+
+    <!-- Japanese -->
+    <main id="content-ja" class="content-section">
+      <h2>サポート</h2>
+      <p>Español Biteをご利用いただきありがとうございます。ご質問や問題がございましたら、お気軽にお問い合わせください。</p>
+
+      <h3>よくある質問</h3>
+      <div class="faq-item"><strong>Q. 間隔反復学習はどのように機能しますか？</strong><p>正解した問題は、徐々に長くなる間隔（1、1、3、7、14、30日）で復習されます。これにより、語彙や文法を長期的に記憶できます。</p></div>
+      <div class="faq-item"><strong>Q. インターネットなしで学習できますか？</strong><p>はい。すべてのコンテンツはデバイスにローカル保存されています。いつでもオフラインで学習できます。</p></div>
+      <div class="faq-item"><strong>Q. 広告を削除するにはどうすればいいですか？</strong><p>設定 > プレミアムから「広告削除」を購入すると、広告なしでご利用いただけます。</p></div>
+      <div class="faq-item"><strong>Q. 学習記録をリセットするにはどうすればいいですか？</strong><p>設定 > データ > 学習記録リセットに進んでください。この操作は元に戻せませんのでご注意ください。</p></div>
+      <div class="faq-item"><strong>Q. どのDELEレベルに対応していますか？</strong><p>現在、文法と語彙の両方でA1からC2まで対応しています。</p></div>
+      <div class="faq-item"><strong>Q. データはサーバーにバックアップされますか？</strong><p>いいえ。すべてのデータはデバイスにローカルでのみ保存されます。アプリを削除するとデータも削除されます。</p></div>
+
+      <h3>お問い合わせ</h3>
+      <div class="contact-info">
+        <p><strong>メール:</strong> <a href="mailto:admin@wearablock.com">admin@wearablock.com</a></p>
+        <p><strong>会社:</strong> Wearablock Inc.</p>
+        <p><strong>住所:</strong> 韓国 京畿道 金浦市 金浦漢江11路 288-5</p>
+      </div>
+      <p>通常、1〜2営業日以内にご返信いたします。</p>
+    </main>
+
+    <!-- Chinese Simplified -->
+    <main id="content-zh" class="content-section">
+      <h2>客户支持</h2>
+      <p>感谢您使用 Español Bite。如有任何问题或反馈，请随时联系我们。</p>
+
+      <h3>常见问题</h3>
+      <div class="faq-item"><strong>Q. 间隔重复学习是如何工作的？</strong><p>答对的题目会以递增的间隔（1、1、3、7、14、30天）进行复习，帮助您长期记忆词汇和语法。</p></div>
+      <div class="faq-item"><strong>Q. 可以离线学习吗？</strong><p>可以。所有内容都存储在您的设备上，随时可以离线学习。</p></div>
+      <div class="faq-item"><strong>Q. 如何去除广告？</strong><p>在设置 > 高级中购买"去除广告"即可享受无广告体验。</p></div>
+      <div class="faq-item"><strong>Q. 如何重置学习记录？</strong><p>前往设置 > 数据 > 重置学习记录。请注意此操作不可撤销。</p></div>
+      <div class="faq-item"><strong>Q. 支持哪些DELE级别？</strong><p>目前语法和词汇均支持A1至C2级别。</p></div>
+      <div class="faq-item"><strong>Q. 数据会备份到服务器吗？</strong><p>不会。所有数据仅存储在您的设备上。卸载应用后数据将被删除。</p></div>
+
+      <h3>联系我们</h3>
+      <div class="contact-info">
+        <p><strong>邮箱:</strong> <a href="mailto:admin@wearablock.com">admin@wearablock.com</a></p>
+        <p><strong>公司:</strong> Wearablock Inc.</p>
+        <p><strong>地址:</strong> 韩国 京畿道 金浦市 金浦汉江11路 288-5</p>
+      </div>
+      <p>我们通常会在1-2个工作日内回复。</p>
+    </main>
+
+    <!-- Chinese Traditional -->
+    <main id="content-zh-TW" class="content-section">
+      <h2>客戶支援</h2>
+      <p>感謝您使用 Español Bite。如有任何問題或意見，請隨時與我們聯繫。</p>
+
+      <h3>常見問題</h3>
+      <div class="faq-item"><strong>Q. 間隔重複學習是如何運作的？</strong><p>答對的題目會以遞增的間隔（1、1、3、7、14、30天）進行複習，幫助您長期記憶詞彙和文法。</p></div>
+      <div class="faq-item"><strong>Q. 可以離線學習嗎？</strong><p>可以。所有內容都儲存在您的裝置上，隨時可以離線學習。</p></div>
+      <div class="faq-item"><strong>Q. 如何移除廣告？</strong><p>在設定 > 進階中購買「移除廣告」即可享受無廣告體驗。</p></div>
+      <div class="faq-item"><strong>Q. 如何重置學習記錄？</strong><p>前往設定 > 資料 > 重置學習記錄。請注意此操作無法復原。</p></div>
+      <div class="faq-item"><strong>Q. 支援哪些DELE級別？</strong><p>目前文法和詞彙均支援A1至C2級別。</p></div>
+      <div class="faq-item"><strong>Q. 資料會備份到伺服器嗎？</strong><p>不會。所有資料僅儲存在您的裝置上。解除安裝應用程式後資料將被刪除。</p></div>
+
+      <h3>聯繫我們</h3>
+      <div class="contact-info">
+        <p><strong>信箱:</strong> <a href="mailto:admin@wearablock.com">admin@wearablock.com</a></p>
+        <p><strong>公司:</strong> Wearablock Inc.</p>
+        <p><strong>地址:</strong> 韓國 京畿道 金浦市 金浦漢江11路 288-5</p>
+      </div>
+      <p>我們通常會在1-2個工作日內回覆。</p>
+    </main>
+
+    <!-- German -->
+    <main id="content-de" class="content-section">
+      <h2>Support</h2>
+      <p>Vielen Dank, dass Sie Español Bite verwenden. Bei Fragen oder Problemen kontaktieren Sie uns gerne.</p>
+
+      <h3>Häufig gestellte Fragen</h3>
+      <div class="faq-item"><strong>Q. Wie funktioniert die Spaced-Repetition-Methode?</strong><p>Richtig beantwortete Fragen werden in zunehmenden Abständen (1, 1, 3, 7, 14, 30 Tage) wiederholt. So können Sie Vokabeln und Grammatik langfristig behalten.</p></div>
+      <div class="faq-item"><strong>Q. Kann ich ohne Internet lernen?</strong><p>Ja. Alle Inhalte werden lokal auf Ihrem Gerät gespeichert. Sie können jederzeit offline lernen.</p></div>
+      <div class="faq-item"><strong>Q. Wie entferne ich Werbung?</strong><p>Unter Einstellungen > Premium können Sie „Werbung entfernen" kaufen.</p></div>
+      <div class="faq-item"><strong>Q. Wie setze ich meinen Lernfortschritt zurück?</strong><p>Gehen Sie zu Einstellungen > Daten > Lernfortschritt zurücksetzen. Diese Aktion kann nicht rückgängig gemacht werden.</p></div>
+      <div class="faq-item"><strong>Q. Welche DELE-Stufen werden unterstützt?</strong><p>Derzeit unterstützen wir A1 bis C2 für Grammatik und Wortschatz.</p></div>
+      <div class="faq-item"><strong>Q. Werden meine Daten auf einem Server gesichert?</strong><p>Nein. Alle Daten werden nur lokal auf Ihrem Gerät gespeichert. Beim Deinstallieren der App werden die Daten gelöscht.</p></div>
+
+      <h3>Kontakt</h3>
+      <div class="contact-info">
+        <p><strong>E-Mail:</strong> <a href="mailto:admin@wearablock.com">admin@wearablock.com</a></p>
+        <p><strong>Unternehmen:</strong> Wearablock Inc.</p>
+        <p><strong>Adresse:</strong> 288-5, Gimpo Hangang 11-ro, Gimpo-si, Gyeonggi-do, Südkorea</p>
+      </div>
+      <p>Wir antworten in der Regel innerhalb von 1-2 Werktagen.</p>
+    </main>
+
+    <!-- French -->
+    <main id="content-fr" class="content-section">
+      <h2>Assistance</h2>
+      <p>Merci d'utiliser Español Bite. Pour toute question ou problème, n'hésitez pas à nous contacter.</p>
+
+      <h3>Questions fréquentes</h3>
+      <div class="faq-item"><strong>Q. Comment fonctionne la répétition espacée ?</strong><p>Les questions auxquelles vous répondez correctement sont révisées à intervalles croissants (1, 1, 3, 7, 14, 30 jours). Cela vous aide à mémoriser le vocabulaire et la grammaire sur le long terme.</p></div>
+      <div class="faq-item"><strong>Q. Puis-je étudier sans connexion Internet ?</strong><p>Oui. Tout le contenu est stocké localement sur votre appareil. Vous pouvez étudier hors ligne à tout moment.</p></div>
+      <div class="faq-item"><strong>Q. Comment supprimer les publicités ?</strong><p>Achetez l'option « Supprimer les publicités » dans Paramètres > Premium.</p></div>
+      <div class="faq-item"><strong>Q. Comment réinitialiser ma progression ?</strong><p>Allez dans Paramètres > Données > Réinitialiser les données d'étude. Cette action est irréversible.</p></div>
+      <div class="faq-item"><strong>Q. Quels niveaux DELE sont pris en charge ?</strong><p>Nous prenons actuellement en charge les niveaux A1 à C2 pour la grammaire et le vocabulaire.</p></div>
+      <div class="faq-item"><strong>Q. Mes données sont-elles sauvegardées sur un serveur ?</strong><p>Non. Toutes les données sont stockées uniquement sur votre appareil. La désinstallation de l'application supprime les données.</p></div>
+
+      <h3>Nous contacter</h3>
+      <div class="contact-info">
+        <p><strong>E-mail :</strong> <a href="mailto:admin@wearablock.com">admin@wearablock.com</a></p>
+        <p><strong>Société :</strong> Wearablock Inc.</p>
+        <p><strong>Adresse :</strong> 288-5, Gimpo Hangang 11-ro, Gimpo-si, Gyeonggi-do, Corée du Sud</p>
+      </div>
+      <p>Nous répondons généralement dans un délai de 1 à 2 jours ouvrables.</p>
+    </main>
+
+    <!-- Spanish -->
+    <main id="content-es" class="content-section">
+      <h2>Soporte</h2>
+      <p>Gracias por usar Español Bite. Si tiene alguna pregunta o problema, no dude en contactarnos.</p>
+
+      <h3>Preguntas frecuentes</h3>
+      <div class="faq-item"><strong>Q. ¿Cómo funciona la repetición espaciada?</strong><p>Las preguntas que respondas correctamente se repasan a intervalos crecientes (1, 1, 3, 7, 14, 30 días). Esto te ayuda a recordar el vocabulario y la gramática a largo plazo.</p></div>
+      <div class="faq-item"><strong>Q. ¿Puedo estudiar sin conexión a Internet?</strong><p>Sí. Todo el contenido se almacena localmente en tu dispositivo. Puedes estudiar sin conexión en cualquier momento.</p></div>
+      <div class="faq-item"><strong>Q. ¿Cómo elimino los anuncios?</strong><p>Compra la opción "Eliminar anuncios" en Ajustes > Premium.</p></div>
+      <div class="faq-item"><strong>Q. ¿Cómo restablezco mi progreso de estudio?</strong><p>Ve a Ajustes > Datos > Restablecer registros de estudio. Esta acción no se puede deshacer.</p></div>
+      <div class="faq-item"><strong>Q. ¿Qué niveles DELE están disponibles?</strong><p>Actualmente admitimos los niveles A1 a C2 tanto en gramática como en vocabulario.</p></div>
+      <div class="faq-item"><strong>Q. ¿Se respaldan mis datos en un servidor?</strong><p>No. Todos los datos se almacenan únicamente en tu dispositivo. Al desinstalar la aplicación, los datos se eliminan.</p></div>
+
+      <h3>Contáctanos</h3>
+      <div class="contact-info">
+        <p><strong>Correo:</strong> <a href="mailto:admin@wearablock.com">admin@wearablock.com</a></p>
+        <p><strong>Empresa:</strong> Wearablock Inc.</p>
+        <p><strong>Dirección:</strong> 288-5, Gimpo Hangang 11-ro, Gimpo-si, Gyeonggi-do, Corea del Sur</p>
+      </div>
+      <p>Normalmente respondemos en 1-2 días hábiles.</p>
+    </main>
+
+    <!-- Portuguese -->
+    <main id="content-pt" class="content-section">
+      <h2>Suporte</h2>
+      <p>Obrigado por usar o Español Bite. Se tiver dúvidas ou problemas, entre em contato conosco.</p>
+
+      <h3>Perguntas frequentes</h3>
+      <div class="faq-item"><strong>Q. Como funciona a repetição espaçada?</strong><p>As questões respondidas corretamente são revisadas em intervalos crescentes (1, 1, 3, 7, 14, 30 dias). Isso ajuda a memorizar vocabulário e gramática a longo prazo.</p></div>
+      <div class="faq-item"><strong>Q. Posso estudar sem internet?</strong><p>Sim. Todo o conteúdo é armazenado localmente no seu dispositivo. Você pode estudar offline a qualquer momento.</p></div>
+      <div class="faq-item"><strong>Q. Como removo os anúncios?</strong><p>Compre a opção "Remover anúncios" em Configurações > Premium.</p></div>
+      <div class="faq-item"><strong>Q. Como redefino meu progresso?</strong><p>Vá para Configurações > Dados > Redefinir registros de estudo. Essa ação não pode ser desfeita.</p></div>
+      <div class="faq-item"><strong>Q. Quais níveis DELE são suportados?</strong><p>Atualmente suportamos os níveis A1 a C2 para gramática e vocabulário.</p></div>
+      <div class="faq-item"><strong>Q. Meus dados são armazenados em um servidor?</strong><p>Não. Todos os dados são armazenados apenas localmente. Ao desinstalar o app, os dados são excluídos.</p></div>
+
+      <h3>Fale conosco</h3>
+      <div class="contact-info">
+        <p><strong>E-mail:</strong> <a href="mailto:admin@wearablock.com">admin@wearablock.com</a></p>
+        <p><strong>Empresa:</strong> Wearablock Inc.</p>
+        <p><strong>Endereço:</strong> 288-5, Gimpo Hangang 11-ro, Gimpo-si, Gyeonggi-do, Coreia do Sul</p>
+      </div>
+      <p>Normalmente respondemos em 1-2 dias úteis.</p>
+    </main>
+
+    <!-- Italian -->
+    <main id="content-it" class="content-section">
+      <h2>Assistenza</h2>
+      <p>Grazie per aver scelto Español Bite. Per domande o problemi, non esitare a contattarci.</p>
+
+      <h3>Domande frequenti</h3>
+      <div class="faq-item"><strong>Q. Come funziona la ripetizione spaziata?</strong><p>Le domande a cui rispondi correttamente vengono ripassate a intervalli crescenti (1, 1, 3, 7, 14, 30 giorni). Questo ti aiuta a memorizzare vocabolario e grammatica a lungo termine.</p></div>
+      <div class="faq-item"><strong>Q. Posso studiare senza Internet?</strong><p>Sì. Tutti i contenuti sono salvati localmente sul tuo dispositivo. Puoi studiare offline in qualsiasi momento.</p></div>
+      <div class="faq-item"><strong>Q. Come rimuovo la pubblicità?</strong><p>Acquista l'opzione "Rimuovi pubblicità" in Impostazioni > Premium.</p></div>
+      <div class="faq-item"><strong>Q. Come resetto i miei progressi?</strong><p>Vai su Impostazioni > Dati > Ripristina dati di studio. Questa azione non può essere annullata.</p></div>
+      <div class="faq-item"><strong>Q. Quali livelli DELE sono supportati?</strong><p>Attualmente supportiamo i livelli da A1 a C2 per grammatica e vocabolario.</p></div>
+      <div class="faq-item"><strong>Q. I miei dati vengono salvati su un server?</strong><p>No. Tutti i dati sono conservati solo localmente. Disinstallando l'app, i dati vengono eliminati.</p></div>
+
+      <h3>Contattaci</h3>
+      <div class="contact-info">
+        <p><strong>Email:</strong> <a href="mailto:admin@wearablock.com">admin@wearablock.com</a></p>
+        <p><strong>Azienda:</strong> Wearablock Inc.</p>
+        <p><strong>Indirizzo:</strong> 288-5, Gimpo Hangang 11-ro, Gimpo-si, Gyeonggi-do, Corea del Sud</p>
+      </div>
+      <p>Di solito rispondiamo entro 1-2 giorni lavorativi.</p>
+    </main>
+
+    <!-- Russian -->
+    <main id="content-ru" class="content-section">
+      <h2>Поддержка</h2>
+      <p>Спасибо, что используете Español Bite. Если у вас есть вопросы или проблемы, свяжитесь с нами.</p>
+
+      <h3>Часто задаваемые вопросы</h3>
+      <div class="faq-item"><strong>Q. Как работает интервальное повторение?</strong><p>Вопросы, на которые вы ответили правильно, повторяются через увеличивающиеся интервалы (1, 1, 3, 7, 14, 30 дней). Это помогает запоминать лексику и грамматику надолго.</p></div>
+      <div class="faq-item"><strong>Q. Можно ли учиться без интернета?</strong><p>Да. Весь контент хранится локально на вашем устройстве. Вы можете заниматься офлайн в любое время.</p></div>
+      <div class="faq-item"><strong>Q. Как убрать рекламу?</strong><p>Купите опцию «Убрать рекламу» в разделе Настройки > Премиум.</p></div>
+      <div class="faq-item"><strong>Q. Как сбросить прогресс обучения?</strong><p>Перейдите в Настройки > Данные > Сбросить данные обучения. Это действие необратимо.</p></div>
+      <div class="faq-item"><strong>Q. Какие уровни DELE поддерживаются?</strong><p>В настоящее время мы поддерживаем уровни от A1 до C2 по грамматике и лексике.</p></div>
+      <div class="faq-item"><strong>Q. Сохраняются ли данные на сервере?</strong><p>Нет. Все данные хранятся только локально. При удалении приложения данные удаляются.</p></div>
+
+      <h3>Связаться с нами</h3>
+      <div class="contact-info">
+        <p><strong>Email:</strong> <a href="mailto:admin@wearablock.com">admin@wearablock.com</a></p>
+        <p><strong>Компания:</strong> Wearablock Inc.</p>
+        <p><strong>Адрес:</strong> 288-5, Gimpo Hangang 11-ro, Gimpo-si, Gyeonggi-do, Южная Корея</p>
+      </div>
+      <p>Обычно мы отвечаем в течение 1-2 рабочих дней.</p>
+    </main>
+
+    <!-- Arabic -->
+    <main id="content-ar" class="content-section" dir="rtl">
+      <h2>الدعم</h2>
+      <p>شكرًا لاستخدامك Español Bite. إذا كانت لديك أي أسئلة أو مشاكل، لا تتردد في التواصل معنا.</p>
+
+      <h3>الأسئلة الشائعة</h3>
+      <div class="faq-item"><strong>س. كيف يعمل التكرار المتباعد؟</strong><p>تتم مراجعة الأسئلة التي تجيب عليها بشكل صحيح على فترات متزايدة (1، 1، 3، 7، 14، 30 يومًا). هذا يساعدك على تذكر المفردات والقواعد على المدى الطويل.</p></div>
+      <div class="faq-item"><strong>س. هل يمكنني الدراسة بدون إنترنت؟</strong><p>نعم. جميع المحتويات مخزنة محليًا على جهازك. يمكنك الدراسة بدون اتصال في أي وقت.</p></div>
+      <div class="faq-item"><strong>س. كيف أزيل الإعلانات؟</strong><p>اشترِ خيار "إزالة الإعلانات" من الإعدادات > المميز.</p></div>
+      <div class="faq-item"><strong>س. كيف أعيد تعيين تقدمي الدراسي؟</strong><p>انتقل إلى الإعدادات > البيانات > إعادة تعيين سجلات الدراسة. لا يمكن التراجع عن هذا الإجراء.</p></div>
+      <div class="faq-item"><strong>س. ما مستويات DELE المدعومة؟</strong><p>ندعم حاليًا المستويات من A1 إلى C2 في القواعد والمفردات.</p></div>
+      <div class="faq-item"><strong>س. هل يتم نسخ بياناتي احتياطيًا على خادم؟</strong><p>لا. جميع البيانات مخزنة محليًا فقط. عند حذف التطبيق، يتم حذف البيانات.</p></div>
+
+      <h3>اتصل بنا</h3>
+      <div class="contact-info">
+        <p><strong>البريد الإلكتروني:</strong> <a href="mailto:admin@wearablock.com">admin@wearablock.com</a></p>
+        <p><strong>الشركة:</strong> Wearablock Inc.</p>
+        <p><strong>العنوان:</strong> 288-5, Gimpo Hangang 11-ro, Gimpo-si, Gyeonggi-do, كوريا الجنوبية</p>
+      </div>
+      <p>نرد عادةً خلال 1-2 أيام عمل.</p>
+    </main>
+
+    <!-- Thai -->
+    <main id="content-th" class="content-section">
+      <h2>ศูนย์ช่วยเหลือ</h2>
+      <p>ขอบคุณที่ใช้ Español Bite หากมีคำถามหรือปัญหาใดๆ สามารถติดต่อเราได้ตลอดเวลา</p>
+
+      <h3>คำถามที่พบบ่อย</h3>
+      <div class="faq-item"><strong>Q. การทบทวนแบบเว้นระยะทำงานอย่างไร?</strong><p>คำถามที่คุณตอบถูกจะถูกทบทวนในช่วงเวลาที่เพิ่มขึ้น (1, 1, 3, 7, 14, 30 วัน) ช่วยให้จำคำศัพท์และไวยากรณ์ได้ในระยะยาว</p></div>
+      <div class="faq-item"><strong>Q. สามารถเรียนโดยไม่มีอินเทอร์เน็ตได้หรือไม่?</strong><p>ได้ เนื้อหาทั้งหมดจัดเก็บในเครื่องของคุณ สามารถเรียนออฟไลน์ได้ตลอดเวลา</p></div>
+      <div class="faq-item"><strong>Q. จะลบโฆษณาได้อย่างไร?</strong><p>ซื้อตัวเลือก "ลบโฆษณา" ในการตั้งค่า > พรีเมียม</p></div>
+      <div class="faq-item"><strong>Q. จะรีเซ็ตความคืบหน้าการเรียนได้อย่างไร?</strong><p>ไปที่การตั้งค่า > ข้อมูล > รีเซ็ตบันทึกการเรียน การดำเนินการนี้ไม่สามารถย้อนกลับได้</p></div>
+      <div class="faq-item"><strong>Q. รองรับระดับ DELE ใดบ้าง?</strong><p>ปัจจุบันรองรับระดับ A1 ถึง C2 สำหรับไวยากรณ์และคำศัพท์</p></div>
+      <div class="faq-item"><strong>Q. ข้อมูลถูกสำรองไปยังเซิร์ฟเวอร์หรือไม่?</strong><p>ไม่ ข้อมูลทั้งหมดจัดเก็บในเครื่องเท่านั้น เมื่อถอนการติดตั้งแอป ข้อมูลจะถูกลบ</p></div>
+
+      <h3>ติดต่อเรา</h3>
+      <div class="contact-info">
+        <p><strong>อีเมล:</strong> <a href="mailto:admin@wearablock.com">admin@wearablock.com</a></p>
+        <p><strong>บริษัท:</strong> Wearablock Inc.</p>
+        <p><strong>ที่อยู่:</strong> 288-5, Gimpo Hangang 11-ro, Gimpo-si, Gyeonggi-do, เกาหลีใต้</p>
+      </div>
+      <p>เรามักจะตอบกลับภายใน 1-2 วันทำการ</p>
+    </main>
+
+    <!-- Vietnamese -->
+    <main id="content-vi" class="content-section">
+      <h2>Hỗ trợ</h2>
+      <p>Cảm ơn bạn đã sử dụng Español Bite. Nếu có bất kỳ câu hỏi hay vấn đề nào, hãy liên hệ với chúng tôi.</p>
+
+      <h3>Câu hỏi thường gặp</h3>
+      <div class="faq-item"><strong>Q. Phương pháp lặp lại ngắt quãng hoạt động như thế nào?</strong><p>Các câu hỏi bạn trả lời đúng sẽ được ôn tập theo khoảng thời gian tăng dần (1, 1, 3, 7, 14, 30 ngày). Điều này giúp bạn ghi nhớ từ vựng và ngữ pháp lâu dài.</p></div>
+      <div class="faq-item"><strong>Q. Tôi có thể học ngoại tuyến không?</strong><p>Có. Tất cả nội dung được lưu trữ cục bộ trên thiết bị của bạn. Bạn có thể học ngoại tuyến bất cứ lúc nào.</p></div>
+      <div class="faq-item"><strong>Q. Làm sao để xóa quảng cáo?</strong><p>Mua tùy chọn "Xóa quảng cáo" trong Cài đặt > Cao cấp.</p></div>
+      <div class="faq-item"><strong>Q. Làm sao để đặt lại tiến trình học?</strong><p>Đi tới Cài đặt > Dữ liệu > Đặt lại hồ sơ học tập. Hành động này không thể hoàn tác.</p></div>
+      <div class="faq-item"><strong>Q. Những cấp độ DELE nào được hỗ trợ?</strong><p>Hiện tại chúng tôi hỗ trợ các cấp độ từ A1 đến C2 cho cả ngữ pháp và từ vựng.</p></div>
+      <div class="faq-item"><strong>Q. Dữ liệu có được sao lưu lên máy chủ không?</strong><p>Không. Tất cả dữ liệu chỉ được lưu trữ cục bộ. Khi gỡ cài đặt ứng dụng, dữ liệu sẽ bị xóa.</p></div>
+
+      <h3>Liên hệ</h3>
+      <div class="contact-info">
+        <p><strong>Email:</strong> <a href="mailto:admin@wearablock.com">admin@wearablock.com</a></p>
+        <p><strong>Công ty:</strong> Wearablock Inc.</p>
+        <p><strong>Địa chỉ:</strong> 288-5, Gimpo Hangang 11-ro, Gimpo-si, Gyeonggi-do, Hàn Quốc</p>
+      </div>
+      <p>Chúng tôi thường phản hồi trong vòng 1-2 ngày làm việc.</p>
+    </main>
+
+    <!-- Indonesian -->
+    <main id="content-id" class="content-section">
+      <h2>Dukungan</h2>
+      <p>Terima kasih telah menggunakan Español Bite. Jika ada pertanyaan atau masalah, jangan ragu untuk menghubungi kami.</p>
+
+      <h3>Pertanyaan yang Sering Diajukan</h3>
+      <div class="faq-item"><strong>Q. Bagaimana cara kerja pengulangan berjarak?</strong><p>Pertanyaan yang dijawab dengan benar akan diulang dalam interval yang meningkat (1, 1, 3, 7, 14, 30 hari). Ini membantu Anda mengingat kosakata dan tata bahasa dalam jangka panjang.</p></div>
+      <div class="faq-item"><strong>Q. Bisakah saya belajar tanpa internet?</strong><p>Ya. Semua konten disimpan secara lokal di perangkat Anda. Anda bisa belajar offline kapan saja.</p></div>
+      <div class="faq-item"><strong>Q. Bagaimana cara menghapus iklan?</strong><p>Beli opsi "Hapus Iklan" di Pengaturan > Premium.</p></div>
+      <div class="faq-item"><strong>Q. Bagaimana cara mereset progres belajar?</strong><p>Buka Pengaturan > Data > Reset Data Belajar. Tindakan ini tidak dapat dibatalkan.</p></div>
+      <div class="faq-item"><strong>Q. Level DELE apa saja yang didukung?</strong><p>Saat ini kami mendukung level A1 hingga C2 untuk tata bahasa dan kosakata.</p></div>
+      <div class="faq-item"><strong>Q. Apakah data saya dicadangkan ke server?</strong><p>Tidak. Semua data hanya disimpan secara lokal. Saat menghapus aplikasi, data akan terhapus.</p></div>
+
+      <h3>Hubungi Kami</h3>
+      <div class="contact-info">
+        <p><strong>Email:</strong> <a href="mailto:admin@wearablock.com">admin@wearablock.com</a></p>
+        <p><strong>Perusahaan:</strong> Wearablock Inc.</p>
+        <p><strong>Alamat:</strong> 288-5, Gimpo Hangang 11-ro, Gimpo-si, Gyeonggi-do, Korea Selatan</p>
+      </div>
+      <p>Kami biasanya merespons dalam 1-2 hari kerja.</p>
+    </main>
+
+    <footer>
+      <p>&copy; <span id="copyright-year"></span> Wearablock Inc. All rights reserved.</p>
+    </footer>
+  </div>
+
+  <script>
+    const langNames = {
+      'en': 'English', 'ko': '한국어', 'ja': '日本語',
+      'zh': '简体中文', 'zh-TW': '繁體中文', 'de': 'Deutsch',
+      'fr': 'Français', 'es': 'Español', 'pt': 'Português',
+      'it': 'Italiano', 'ru': 'Русский', 'ar': 'العربية',
+      'th': 'ภาษาไทย', 'vi': 'Tiếng Việt', 'id': 'Bahasa Indonesia'
+    };
+
+    function switchLang(lang) {
+      document.querySelectorAll('.content-section').forEach(el => el.classList.remove('active'));
+      document.querySelectorAll('.lang-option').forEach(el => el.classList.remove('active'));
+
+      const contentEl = document.getElementById('content-' + lang);
+      if (contentEl) {
+        contentEl.classList.add('active');
+      } else {
+        document.getElementById('content-en').classList.add('active');
+        lang = 'en';
+      }
+
+      document.getElementById('currentLang').textContent = langNames[lang] || 'English';
+
+      const options = document.querySelectorAll('.lang-option');
+      options.forEach(opt => {
+        if (opt.getAttribute('onclick').includes("'" + lang + "'")) {
+          opt.classList.add('active');
+        }
+      });
+
+      document.getElementById('langDropdown').classList.remove('show');
+    }
+
+    function toggleDropdown() {
+      document.getElementById('langDropdown').classList.toggle('show');
+    }
+
+    document.addEventListener('click', function(e) {
+      if (!e.target.closest('.lang-selector')) {
+        document.getElementById('langDropdown').classList.remove('show');
+      }
+    });
+
+    document.addEventListener('DOMContentLoaded', function() {
+      const urlParams = new URLSearchParams(window.location.search);
+      const lang = urlParams.get('lang');
+      if (lang) switchLang(lang);
+
+      const yearEl = document.getElementById('copyright-year');
+      if (yearEl) yearEl.textContent = new Date().getFullYear();
+    });
+  </script>
+</body>
+</html>

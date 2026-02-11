@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:url_launcher/url_launcher.dart';
-
 import '../../core/config/app_config.dart';
 import '../../core/config/constants.dart';
 import '../../core/config/setting_keys.dart';
@@ -13,6 +11,7 @@ import '../../data/providers/notification_providers.dart';
 import '../../data/providers/tts_providers.dart';
 import '../../l10n/app_localizations.dart';
 import '../../services/tts_service.dart';
+import 'webview_screen.dart';
 
 class SettingsScreen extends ConsumerStatefulWidget {
   const SettingsScreen({super.key});
@@ -76,16 +75,15 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
     }
   }
 
-  Future<void> _openUrl(String url) async {
-    final uri = Uri.parse(url);
-    if (await canLaunchUrl(uri)) {
-      await launchUrl(uri, mode: LaunchMode.externalApplication);
-    } else if (mounted) {
-      final l10n = AppLocalizations.of(context)!;
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(content: Text(l10n.cannotOpenLink)),
-      );
-    }
+  void _openWebView(String title, String url) {
+    final locale = Localizations.localeOf(context);
+    final fullUrl = WebViewScreen.buildUrl(url, locale);
+    Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (_) => WebViewScreen(title: title, url: fullUrl),
+      ),
+    );
   }
 
   Map<String, String> _getLevelNames(AppLocalizations l10n) {
@@ -322,19 +320,20 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
             leading: const Icon(Icons.description_outlined),
             title: Text(l10n.termsOfService),
             trailing: const Icon(Icons.chevron_right),
-            onTap: () => _openUrl(AppConfig.termsUrl),
+            onTap: () => _openWebView(l10n.termsOfService, AppConfig.termsUrl),
           ),
           ListTile(
             leading: const Icon(Icons.privacy_tip_outlined),
             title: Text(l10n.privacyPolicy),
             trailing: const Icon(Icons.chevron_right),
-            onTap: () => _openUrl(AppConfig.privacyUrl),
+            onTap: () =>
+                _openWebView(l10n.privacyPolicy, AppConfig.privacyUrl),
           ),
           ListTile(
             leading: const Icon(Icons.mail_outline),
             title: Text(l10n.support),
             trailing: const Icon(Icons.chevron_right),
-            onTap: () => _openUrl(AppConfig.supportUrl),
+            onTap: () => _openWebView(l10n.support, AppConfig.supportUrl),
           ),
           ListTile(
             leading: const Icon(Icons.info_outline),

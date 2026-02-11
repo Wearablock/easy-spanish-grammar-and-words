@@ -49,7 +49,9 @@ class AppConfig {
   // 외부 URL
   // ============================================================
 
-  static const String termsUrl = 'https://example.com/terms';
-  static const String privacyUrl = 'https://example.com/privacy';
-  static const String supportUrl = 'https://example.com/support';
+  static const String _baseUrl =
+      'https://wearablock.github.io/easy-spanish-grammar-and-words';
+  static const String termsUrl = '$_baseUrl/terms.html';
+  static const String privacyUrl = '$_baseUrl/privacy.html';
+  static const String supportUrl = '$_baseUrl/support.html';
 }
