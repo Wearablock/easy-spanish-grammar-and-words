@@ -23,8 +23,8 @@ class StudyConstants {
   /// 기본 일일 학습 토픽 수
   static const int defaultDailyTopics = 2;
 
-  /// 기본 일일 학습 목표 (문제 수, DAO에서 사용)
-  static const int defaultDailyGoal = 15;
+  /// 기본 일일 학습 목표 (토픽 수, DAO에서 사용)
+  static const int defaultDailyGoal = 2;
 
   /// 최대 일일 목표 토픽 수
   static const int maxDailyGoalTopics = 5;

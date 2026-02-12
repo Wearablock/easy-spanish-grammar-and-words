@@ -495,4 +495,25 @@ class AppLocalizationsFr extends AppLocalizations {
   @override
   String get notificationMsg5 =>
       'Ne brise pas ta série ! Commence à étudier maintenant.';
+
+  @override
+  String get howManyTopics => 'Combien de sujets par jour ?';
+
+  @override
+  String get oneTopic => '1 sujet';
+
+  @override
+  String get twoTopics => '2 sujets';
+
+  @override
+  String get threeTopics => '3 sujets';
+
+  @override
+  String get lightStart => 'Début léger';
+
+  @override
+  String get moderateAmount => 'Quantité modérée';
+
+  @override
+  String get intensiveStudy => 'Étude intensive';
 }

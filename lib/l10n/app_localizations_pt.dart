@@ -491,4 +491,25 @@ class AppLocalizationsPt extends AppLocalizations {
   @override
   String get notificationMsg5 =>
       'Não quebre sua sequência! Comece a estudar agora.';
+
+  @override
+  String get howManyTopics => 'Quantos temas por dia?';
+
+  @override
+  String get oneTopic => '1 tema';
+
+  @override
+  String get twoTopics => '2 temas';
+
+  @override
+  String get threeTopics => '3 temas';
+
+  @override
+  String get lightStart => 'Início leve';
+
+  @override
+  String get moderateAmount => 'Quantidade moderada';
+
+  @override
+  String get intensiveStudy => 'Estudo intensivo';
 }

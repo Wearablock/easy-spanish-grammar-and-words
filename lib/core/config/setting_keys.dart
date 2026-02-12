@@ -84,20 +84,65 @@ enum ThemeModeOption {
 
 /// 언어 옵션
 enum LanguageOption {
-  system('system', '시스템 설정', null),
-  korean('ko', '한국어', 'ko'),
-  english('en', 'English', 'en'),
-  japanese('ja', '日本語', 'ja'),
-  chineseSimplified('zh-Hans', '简体中文', 'zh-Hans'),
-  chineseTraditional('zh-Hant', '繁體中文', 'zh-Hant'),
-  spanish('es', 'Español', 'es'),
-  portuguese('pt', 'Português', 'pt');
+  system('system', null),
+  korean('ko', 'ko'),
+  english('en', 'en'),
+  japanese('ja', 'ja'),
+  chineseSimplified('zh-Hans', 'zh-Hans'),
+  chineseTraditional('zh-Hant', 'zh-Hant'),
+  german('de', 'de'),
+  french('fr', 'fr'),
+  spanish('es', 'es'),
+  portuguese('pt', 'pt'),
+  italian('it', 'it'),
+  russian('ru', 'ru'),
+  arabic('ar', 'ar'),
+  thai('th', 'th'),
+  vietnamese('vi', 'vi'),
+  indonesian('id', 'id');
 
   final String value;
-  final String label;
   final String? localeCode;
 
-  const LanguageOption(this.value, this.label, this.localeCode);
+  const LanguageOption(this.value, this.localeCode);
+
+  /// 각 언어의 네이티브 이름 (시스템 옵션은 null → l10n 사용)
+  String? get nativeLabel {
+    switch (this) {
+      case LanguageOption.system:
+        return null; // l10n.languageSystem 사용
+      case LanguageOption.korean:
+        return '한국어';
+      case LanguageOption.english:
+        return 'English';
+      case LanguageOption.japanese:
+        return '日本語';
+      case LanguageOption.chineseSimplified:
+        return '简体中文';
+      case LanguageOption.chineseTraditional:
+        return '繁體中文';
+      case LanguageOption.german:
+        return 'Deutsch';
+      case LanguageOption.french:
+        return 'Français';
+      case LanguageOption.spanish:
+        return 'Español';
+      case LanguageOption.portuguese:
+        return 'Português';
+      case LanguageOption.italian:
+        return 'Italiano';
+      case LanguageOption.russian:
+        return 'Русский';
+      case LanguageOption.arabic:
+        return 'العربية';
+      case LanguageOption.thai:
+        return 'ไทย';
+      case LanguageOption.vietnamese:
+        return 'Tiếng Việt';
+      case LanguageOption.indonesian:
+        return 'Bahasa Indonesia';
+    }
+  }
 
   static LanguageOption fromValue(String value) {
     return LanguageOption.values.firstWhere(

@@ -110,9 +110,9 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
     }
   }
 
-  String _getLanguageLabel(String localeValue) {
+  String _getLanguageLabel(AppLocalizations l10n, String localeValue) {
     final option = LanguageOption.fromValue(localeValue);
-    return option.label;
+    return option.nativeLabel ?? l10n.languageSystem;
   }
 
   @override
@@ -251,7 +251,7 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
             leading: const Icon(Icons.language),
             title: Text(l10n.language),
             trailing: Text(
-              _getLanguageLabel(_locale),
+              _getLanguageLabel(l10n, _locale),
               style: theme.textTheme.bodyMedium,
             ),
             onTap: () => _showLanguageDialog(l10n),
@@ -547,25 +547,93 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
   }
 
   Future<void> _showDailyGoalDialog(AppLocalizations l10n) async {
+    var customCount = _dailyGoal;
+    var isCustom = DailyGoalOption.fromValue(_dailyGoal) == null;
+
     final result = await showDialog<int>(
       context: context,
       builder: (context) {
-        return SimpleDialog(
-          title: Text(l10n.selectDailyGoal),
-          children: DailyGoalOption.values.map((option) {
-            return SimpleDialogOption(
-              onPressed: () => Navigator.pop(context, option.topicCount),
-              child: Row(
-                children: [
-                  Text(l10n.topicsUnit(option.topicCount)),
-                  if (option.topicCount == _dailyGoal) ...[
-                    const Spacer(),
-                    const Icon(Icons.check, size: 20),
-                  ],
+        return StatefulBuilder(
+          builder: (context, setDialogState) {
+            return SimpleDialog(
+              title: Text(l10n.selectDailyGoal),
+              children: [
+                // 기본 옵션들
+                ...DailyGoalOption.values.map((option) {
+                  final selected =
+                      !isCustom && _dailyGoal == option.topicCount;
+                  return SimpleDialogOption(
+                    onPressed: () =>
+                        Navigator.pop(context, option.topicCount),
+                    child: Row(
+                      children: [
+                        Text(l10n.topicsUnit(option.topicCount)),
+                        if (selected) ...[
+                          const Spacer(),
+                          const Icon(Icons.check, size: 20),
+                        ],
+                      ],
+                    ),
+                  );
+                }),
+
+                const Divider(),
+
+                // 커스텀 옵션
+                SimpleDialogOption(
+                  onPressed: () {
+                    setDialogState(() {
+                      isCustom = true;
+                    });
+                  },
+                  child: Row(
+                    children: [
+                      Text(l10n.customSetting),
+                      if (isCustom) ...[
+                        const Spacer(),
+                        const Icon(Icons.check, size: 20),
+                      ],
+                    ],
+                  ),
+                ),
+
+                // 커스텀 슬라이더
+                if (isCustom) ...[
+                  Padding(
+                    padding: const EdgeInsets.symmetric(horizontal: 24),
+                    child: Row(
+                      children: [
+                        const Text('1'),
+                        Expanded(
+                          child: Slider(
+                            value: customCount.toDouble(),
+                            min: 1,
+                            max: 5,
+                            divisions: 4,
+                            label: l10n.topicsUnit(customCount),
+                            onChanged: (value) {
+                              setDialogState(() {
+                                customCount = value.round();
+                              });
+                            },
+                          ),
+                        ),
+                        const Text('5'),
+                      ],
+                    ),
+                  ),
+                  Padding(
+                    padding: const EdgeInsets.symmetric(horizontal: 24),
+                    child: FilledButton(
+                      onPressed: () =>
+                          Navigator.pop(context, customCount),
+                      child: Text(l10n.confirm),
+                    ),
+                  ),
                 ],
-              ),
+              ],
             );
-          }).toList(),
+          },
         );
       },
     );
@@ -589,7 +657,7 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
               onPressed: () => Navigator.pop(context, option.value),
               child: Row(
                 children: [
-                  Text(option.label),
+                  Text(option.nativeLabel ?? l10n.languageSystem),
                   if (option.value == _locale) ...[
                     const Spacer(),
                     const Icon(Icons.check, size: 20),

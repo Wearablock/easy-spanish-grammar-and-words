@@ -1,0 +1,268 @@
+import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+
+import '../../core/config/setting_keys.dart';
+import '../../data/providers/database_providers.dart';
+import '../../l10n/app_localizations.dart';
+
+/// 최초 실행 시 일일 학습량 설정 온보딩 화면
+class OnboardingScreen extends ConsumerStatefulWidget {
+  final VoidCallback onComplete;
+
+  const OnboardingScreen({
+    super.key,
+    required this.onComplete,
+  });
+
+  @override
+  ConsumerState<OnboardingScreen> createState() => _OnboardingScreenState();
+}
+
+class _OnboardingScreenState extends ConsumerState<OnboardingScreen> {
+  int _selectedTopicCount = 2;
+  bool _isCustom = false;
+  bool _isSaving = false;
+
+  @override
+  Widget build(BuildContext context) {
+    final theme = Theme.of(context);
+    final l10n = AppLocalizations.of(context)!;
+
+    return Scaffold(
+      body: SafeArea(
+        child: Padding(
+          padding: const EdgeInsets.all(24),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.stretch,
+            children: [
+              const Spacer(flex: 1),
+
+              // 아이콘
+              Icon(
+                Icons.menu_book_rounded,
+                size: 80,
+                color: theme.colorScheme.primary,
+              ),
+
+              const SizedBox(height: 24),
+
+              // 제목
+              Text(
+                l10n.welcome,
+                style: theme.textTheme.headlineMedium?.copyWith(
+                  fontWeight: FontWeight.bold,
+                ),
+                textAlign: TextAlign.center,
+              ),
+
+              const SizedBox(height: 12),
+
+              // 설명
+              Text(
+                l10n.howManyTopics,
+                style: theme.textTheme.titleMedium?.copyWith(
+                  color: theme.colorScheme.onSurfaceVariant,
+                ),
+                textAlign: TextAlign.center,
+              ),
+
+              const SizedBox(height: 8),
+
+              Text(
+                l10n.canChangeInSettings,
+                style: theme.textTheme.bodyMedium?.copyWith(
+                  color: theme.colorScheme.outline,
+                ),
+                textAlign: TextAlign.center,
+              ),
+
+              const SizedBox(height: 32),
+
+              // 주제 선택 카드
+              Card(
+                child: Padding(
+                  padding: const EdgeInsets.symmetric(vertical: 8),
+                  child: Column(
+                    children: [
+                      // 기본 옵션들
+                      ...DailyGoalOption.values.map((option) {
+                        final isSelected = !_isCustom &&
+                            _selectedTopicCount == option.topicCount;
+                        return _buildOptionTile(
+                          title: _getOptionLabel(option, l10n),
+                          subtitle:
+                              _getOptionDescription(option.topicCount, l10n),
+                          isSelected: isSelected,
+                          onTap: () {
+                            setState(() {
+                              _selectedTopicCount = option.topicCount;
+                              _isCustom = false;
+                            });
+                          },
+                        );
+                      }),
+
+                      const Divider(height: 1),
+
+                      // 커스텀 옵션
+                      _buildOptionTile(
+                        title: l10n.customSetting,
+                        subtitle: _isCustom
+                            ? l10n.topicsUnit(_selectedTopicCount)
+                            : null,
+                        isSelected: _isCustom,
+                        onTap: () {
+                          setState(() {
+                            _isCustom = true;
+                          });
+                        },
+                      ),
+
+                      // 커스텀 슬라이더
+                      if (_isCustom) ...[
+                        Padding(
+                          padding: const EdgeInsets.symmetric(horizontal: 24),
+                          child: Row(
+                            children: [
+                              const Text('1'),
+                              Expanded(
+                                child: Slider(
+                                  value: _selectedTopicCount.toDouble(),
+                                  min: 1,
+                                  max: 5,
+                                  divisions: 4,
+                                  label: l10n.topicsUnit(_selectedTopicCount),
+                                  onChanged: (value) {
+                                    setState(() {
+                                      _selectedTopicCount = value.round();
+                                    });
+                                  },
+                                ),
+                              ),
+                              const Text('5'),
+                            ],
+                          ),
+                        ),
+                      ],
+                    ],
+                  ),
+                ),
+              ),
+
+              const Spacer(flex: 2),
+
+              // 시작 버튼
+              FilledButton(
+                onPressed: _isSaving ? null : _saveAndContinue,
+                style: FilledButton.styleFrom(
+                  minimumSize: const Size.fromHeight(56),
+                ),
+                child: _isSaving
+                    ? const SizedBox(
+                        width: 24,
+                        height: 24,
+                        child: CircularProgressIndicator(
+                          strokeWidth: 2,
+                          color: Colors.white,
+                        ),
+                      )
+                    : Text(
+                        l10n.start,
+                        style: const TextStyle(fontSize: 18),
+                      ),
+              ),
+
+              const SizedBox(height: 16),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+
+  Widget _buildOptionTile({
+    required String title,
+    String? subtitle,
+    required bool isSelected,
+    required VoidCallback onTap,
+  }) {
+    final theme = Theme.of(context);
+
+    return ListTile(
+      leading: Icon(
+        isSelected ? Icons.check_circle : Icons.circle_outlined,
+        color:
+            isSelected ? theme.colorScheme.primary : theme.colorScheme.outline,
+      ),
+      title: Text(
+        title,
+        style: TextStyle(
+          fontWeight: isSelected ? FontWeight.w600 : FontWeight.normal,
+          color: isSelected
+              ? theme.colorScheme.primary
+              : theme.colorScheme.onSurface,
+        ),
+      ),
+      subtitle: subtitle != null ? Text(subtitle) : null,
+      onTap: onTap,
+    );
+  }
+
+  String _getOptionLabel(DailyGoalOption option, AppLocalizations l10n) {
+    switch (option) {
+      case DailyGoalOption.oneTopic:
+        return l10n.oneTopic;
+      case DailyGoalOption.twoTopics:
+        return l10n.twoTopics;
+      case DailyGoalOption.threeTopics:
+        return l10n.threeTopics;
+    }
+  }
+
+  String _getOptionDescription(int topicCount, AppLocalizations l10n) {
+    switch (topicCount) {
+      case 1:
+        return l10n.lightStart;
+      case 2:
+        return l10n.moderateAmount;
+      case 3:
+        return l10n.intensiveStudy;
+      default:
+        return '';
+    }
+  }
+
+  Future<void> _saveAndContinue() async {
+    setState(() {
+      _isSaving = true;
+    });
+
+    try {
+      final dao = ref.read(userSettingsDaoProvider);
+
+      // 학습량 설정 저장
+      await dao.setDailyGoal(_selectedTopicCount);
+
+      // 온보딩 완료 기록
+      await dao.completeOnboarding();
+
+      // 최초 실행 기록
+      await dao.recordFirstLaunch();
+
+      // 메인 화면으로 이동
+      widget.onComplete();
+    } catch (e) {
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text('Error: $e')),
+        );
+      }
+    } finally {
+      if (mounted) {
+        setState(() {
+          _isSaving = false;
+        });
+      }
+    }
+  }
+}

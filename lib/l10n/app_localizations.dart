@@ -1016,6 +1016,48 @@ abstract class AppLocalizations {
   /// In ko, this message translates to:
   /// **'학습 연속 기록이 끊기기 전에! 지금 바로 시작해볼까요?'**
   String get notificationMsg5;
+
+  /// 온보딩 일일 학습량 질문
+  ///
+  /// In ko, this message translates to:
+  /// **'하루에 몇 주제를 학습할까요?'**
+  String get howManyTopics;
+
+  /// No description provided for @oneTopic.
+  ///
+  /// In ko, this message translates to:
+  /// **'1주제'**
+  String get oneTopic;
+
+  /// No description provided for @twoTopics.
+  ///
+  /// In ko, this message translates to:
+  /// **'2주제'**
+  String get twoTopics;
+
+  /// No description provided for @threeTopics.
+  ///
+  /// In ko, this message translates to:
+  /// **'3주제'**
+  String get threeTopics;
+
+  /// No description provided for @lightStart.
+  ///
+  /// In ko, this message translates to:
+  /// **'가볍게 시작'**
+  String get lightStart;
+
+  /// No description provided for @moderateAmount.
+  ///
+  /// In ko, this message translates to:
+  /// **'적당한 학습량'**
+  String get moderateAmount;
+
+  /// No description provided for @intensiveStudy.
+  ///
+  /// In ko, this message translates to:
+  /// **'집중 학습'**
+  String get intensiveStudy;
 }
 
 class _AppLocalizationsDelegate

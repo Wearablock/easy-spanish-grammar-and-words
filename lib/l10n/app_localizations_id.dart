@@ -488,4 +488,25 @@ class AppLocalizationsId extends AppLocalizations {
   @override
   String get notificationMsg5 =>
       'Jangan putus rekor belajarmu! Mulai belajar sekarang.';
+
+  @override
+  String get howManyTopics => 'Berapa topik per hari?';
+
+  @override
+  String get oneTopic => '1 topik';
+
+  @override
+  String get twoTopics => '2 topik';
+
+  @override
+  String get threeTopics => '3 topik';
+
+  @override
+  String get lightStart => 'Mulai ringan';
+
+  @override
+  String get moderateAmount => 'Jumlah sedang';
+
+  @override
+  String get intensiveStudy => 'Belajar intensif';
 }

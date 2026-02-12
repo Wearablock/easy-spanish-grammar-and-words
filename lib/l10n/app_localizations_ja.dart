@@ -480,4 +480,25 @@ class AppLocalizationsJa extends AppLocalizations {
 
   @override
   String get notificationMsg5 => '連続学習記録が途切れる前に！今すぐ始めませんか？';
+
+  @override
+  String get howManyTopics => '1日に何トピック学習しますか？';
+
+  @override
+  String get oneTopic => '1トピック';
+
+  @override
+  String get twoTopics => '2トピック';
+
+  @override
+  String get threeTopics => '3トピック';
+
+  @override
+  String get lightStart => '軽くスタート';
+
+  @override
+  String get moderateAmount => 'ちょうどいい量';
+
+  @override
+  String get intensiveStudy => '集中学習';
 }

@@ -1,7 +1,6 @@
 import 'dart:ui' show PlatformDispatcher;
 
 import 'package:flutter/material.dart';
-import 'package:flutter_native_splash/flutter_native_splash.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../core/config/setting_keys.dart';
@@ -38,7 +37,6 @@ class _MainShellState extends ConsumerState<MainShell>
     super.initState();
     WidgetsBinding.instance.addObserver(this);
     _initContentLocale();
-    FlutterNativeSplash.remove();
   }
 
   /// 저장된 언어 설정으로 콘텐츠 로케일 초기화

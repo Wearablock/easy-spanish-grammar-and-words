@@ -490,4 +490,25 @@ class AppLocalizationsRu extends AppLocalizations {
   @override
   String get notificationMsg5 =>
       'Не прерывай свою серию! Начни заниматься прямо сейчас.';
+
+  @override
+  String get howManyTopics => 'Сколько тем в день?';
+
+  @override
+  String get oneTopic => '1 тема';
+
+  @override
+  String get twoTopics => '2 темы';
+
+  @override
+  String get threeTopics => '3 темы';
+
+  @override
+  String get lightStart => 'Лёгкий старт';
+
+  @override
+  String get moderateAmount => 'Умеренная нагрузка';
+
+  @override
+  String get intensiveStudy => 'Интенсивное обучение';
 }

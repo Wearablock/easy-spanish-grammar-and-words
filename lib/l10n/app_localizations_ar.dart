@@ -485,4 +485,25 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get notificationMsg5 => 'لا تكسر سلسلة تعلمك! ابدأ الدراسة الآن.';
+
+  @override
+  String get howManyTopics => 'كم موضوعاً في اليوم؟';
+
+  @override
+  String get oneTopic => 'موضوع واحد';
+
+  @override
+  String get twoTopics => 'موضوعان';
+
+  @override
+  String get threeTopics => '3 مواضيع';
+
+  @override
+  String get lightStart => 'بداية خفيفة';
+
+  @override
+  String get moderateAmount => 'كمية معتدلة';
+
+  @override
+  String get intensiveStudy => 'دراسة مكثفة';
 }

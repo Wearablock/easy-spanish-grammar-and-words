@@ -486,4 +486,25 @@ class AppLocalizationsTh extends AppLocalizations {
   @override
   String get notificationMsg5 =>
       'อย่าให้สถิติการเรียนต่อเนื่องขาด! เริ่มเรียนตอนนี้เลย';
+
+  @override
+  String get howManyTopics => 'วันละกี่หัวข้อ?';
+
+  @override
+  String get oneTopic => '1 หัวข้อ';
+
+  @override
+  String get twoTopics => '2 หัวข้อ';
+
+  @override
+  String get threeTopics => '3 หัวข้อ';
+
+  @override
+  String get lightStart => 'เริ่มต้นเบาๆ';
+
+  @override
+  String get moderateAmount => 'ปริมาณพอดี';
+
+  @override
+  String get intensiveStudy => 'เรียนเข้มข้น';
 }

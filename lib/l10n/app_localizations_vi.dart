@@ -488,4 +488,25 @@ class AppLocalizationsVi extends AppLocalizations {
   @override
   String get notificationMsg5 =>
       'Đừng để chuỗi ngày học bị gián đoạn! Bắt đầu ngay bây giờ.';
+
+  @override
+  String get howManyTopics => 'Mỗi ngày học bao nhiêu chủ đề?';
+
+  @override
+  String get oneTopic => '1 chủ đề';
+
+  @override
+  String get twoTopics => '2 chủ đề';
+
+  @override
+  String get threeTopics => '3 chủ đề';
+
+  @override
+  String get lightStart => 'Bắt đầu nhẹ nhàng';
+
+  @override
+  String get moderateAmount => 'Lượng vừa phải';
+
+  @override
+  String get intensiveStudy => 'Học tập chuyên sâu';
 }

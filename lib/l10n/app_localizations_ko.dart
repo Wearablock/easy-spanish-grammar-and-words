@@ -480,4 +480,25 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get notificationMsg5 => '학습 연속 기록이 끊기기 전에! 지금 바로 시작해볼까요?';
+
+  @override
+  String get howManyTopics => '하루에 몇 주제를 학습할까요?';
+
+  @override
+  String get oneTopic => '1주제';
+
+  @override
+  String get twoTopics => '2주제';
+
+  @override
+  String get threeTopics => '3주제';
+
+  @override
+  String get lightStart => '가볍게 시작';
+
+  @override
+  String get moderateAmount => '적당한 학습량';
+
+  @override
+  String get intensiveStudy => '집중 학습';
 }

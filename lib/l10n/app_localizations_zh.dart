@@ -480,6 +480,27 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get notificationMsg5 => '别让连续学习记录中断！现在就开始吧。';
+
+  @override
+  String get howManyTopics => '每天学习几个主题？';
+
+  @override
+  String get oneTopic => '1个主题';
+
+  @override
+  String get twoTopics => '2个主题';
+
+  @override
+  String get threeTopics => '3个主题';
+
+  @override
+  String get lightStart => '轻松开始';
+
+  @override
+  String get moderateAmount => '适量学习';
+
+  @override
+  String get intensiveStudy => '集中学习';
 }
 
 /// The translations for Chinese, using the Han script (`zh_Hant`).
@@ -958,4 +979,25 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
 
   @override
   String get notificationMsg5 => '別讓連續學習記錄中斷！現在就開始吧。';
+
+  @override
+  String get howManyTopics => '每天學習幾個主題？';
+
+  @override
+  String get oneTopic => '1個主題';
+
+  @override
+  String get twoTopics => '2個主題';
+
+  @override
+  String get threeTopics => '3個主題';
+
+  @override
+  String get lightStart => '輕鬆開始';
+
+  @override
+  String get moderateAmount => '適量學習';
+
+  @override
+  String get intensiveStudy => '集中學習';
 }
