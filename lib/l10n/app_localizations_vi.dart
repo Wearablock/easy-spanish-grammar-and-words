@@ -313,6 +313,15 @@ class AppLocalizationsVi extends AppLocalizations {
   String get restorePurchases => 'Khôi phục mua hàng';
 
   @override
+  String get purchaseFailed => 'Mua hàng thất bại';
+
+  @override
+  String get purchasesRestored => 'Đã khôi phục giao dịch mua';
+
+  @override
+  String get productNotAvailable => 'Không thể tải sản phẩm';
+
+  @override
   String get studyNotification => 'Nhắc nhở học';
 
   @override

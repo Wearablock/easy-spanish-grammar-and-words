@@ -1,37 +1,1533 @@
 {
   "q_vocab_a1_01_001": {
-    "question": "'¡Hola!'의 뜻은?",
+    "question": "'hola'의 뜻은?",
     "correct": "안녕!",
-    "wrong": ["감사합니다", "잘 가!", "실례합니다"],
-    "explanation": "Hola는 스페인어에서 가장 기본적인 인사 표현으로, 시간대에 관계없이 사용할 수 있습니다."
+    "wrong": [
+      "안녕히 가세요",
+      "감사합니다",
+      "부탁합니다"
+    ],
+    "explanation": "'Hola'는 스페인어에서 가장 기본적인 인사 표현으로, 시간대에 관계없이 사용할 수 있습니다."
   },
   "q_vocab_a1_01_002": {
-    "question": "감사합니다",
-    "correct": "Gracias",
-    "wrong": ["Perdón", "Hola", "Adiós"],
-    "explanation": "'감사합니다'는 스페인어로 'Gracias'입니다.\n'대단히 감사합니다'는 'Muchas gracias'입니다."
+    "question": "'gracias'의 뜻은?",
+    "correct": "감사합니다",
+    "wrong": [
+      "부탁합니다",
+      "미안합니다",
+      "안녕하세요"
+    ],
+    "explanation": "'Gracias'는 '감사합니다'라는 뜻입니다. 'Muchas gracias'라고 하면 '대단히 감사합니다'가 됩니다."
   },
   "q_vocab_a1_01_003": {
-    "question": "Buenos días",
-    "correct": "좋은 아침 (오전 인사)",
-    "wrong": ["좋은 오후", "잘 자요", "안녕히 가세요"],
-    "explanation": "Buenos días는 오전에 사용하는 인사입니다.\n- Buenos días (오전)\n- Buenas tardes (오후)\n- Buenas noches (저녁/밤)"
+    "question": "Buenos ___, ¿cómo estás?",
+    "correct": "días",
+    "wrong": [
+      "noches",
+      "gracias",
+      "hola"
+    ],
+    "explanation": "'Buenos días'는 '좋은 아침'이라는 뜻으로, 오전에 사용하는 인사입니다."
   },
   "q_vocab_a1_01_004": {
-    "question": "카페에서 커피를 주문하며 정중하게 부탁할 때 적절한 표현은?",
-    "correct": "Un café, por favor.",
+    "question": "'por favor'의 뜻은?",
+    "correct": "부탁합니다 / 제발",
     "wrong": [
-      "Un café, gracias.",
-      "¡Dame un café!",
-      "Quiero café."
+      "감사합니다",
+      "실례합니다",
+      "안녕히 가세요"
     ],
-    "explanation": "'por favor'는 '부탁합니다/제발'이라는 뜻으로, 요청할 때 정중하게 사용합니다.",
-    "context": "카페에서 주문하는 상황"
+    "explanation": "'Por favor'는 정중하게 요청할 때 사용하는 표현으로, 한국어의 '부탁합니다' 또는 '제발'에 해당합니다."
   },
   "q_vocab_a1_01_005": {
-    "question": "'Adiós'의 뜻은?",
-    "correct": "안녕히 가세요 / 잘 가",
-    "wrong": ["안녕", "감사합니다", "좋은 아침"],
-    "explanation": "Adiós는 헤어질 때 사용하는 인사입니다.\n비슷한 표현: Hasta luego (나중에 봐요), Hasta mañana (내일 봐요)"
+    "question": "'Lo siento mucho'에서 'lo siento'의 뜻은?",
+    "correct": "미안합니다",
+    "wrong": [
+      "기쁩니다",
+      "피곤합니다",
+      "괜찮습니다"
+    ],
+    "explanation": "'Lo siento'는 직역하면 '그것을 느낍니다'이지만 '미안합니다'라는 뜻으로 사용됩니다. 'Mucho'는 '매우'라는 뜻을 더합니다."
+  },
+  "q_vocab_a1_01_006": {
+    "question": "내일 봐요!",
+    "correct": "¡Hasta mañana!",
+    "wrong": [
+      "¡Hasta luego!",
+      "¡Buenas noches!",
+      "¡Adiós para siempre!"
+    ],
+    "explanation": "'Hasta mañana'는 '내일까지'라는 뜻으로, 다음 날 만날 상대에게 하는 인사입니다."
+  },
+  "q_vocab_a1_01_007": {
+    "question": "'¡Gracias! — De nada.'에서 'de nada'의 뜻은?",
+    "correct": "천만에요",
+    "wrong": [
+      "물론이죠",
+      "문제없어요",
+      "안녕히 가세요"
+    ],
+    "explanation": "'De nada'는 직역하면 '아무것도 아닌 것에 대해'이지만, 'gracias'에 대한 표준 응답으로 '천만에요'라는 뜻입니다."
+  },
+  "q_vocab_a1_01_008": {
+    "question": "¿Cómo estás?",
+    "correct": "어떻게 지내?",
+    "wrong": [
+      "이름이 뭐야?",
+      "어디서 왔어?",
+      "몇 살이야?"
+    ],
+    "explanation": "'¿Cómo estás?'는 비격식으로 안부를 묻는 표현입니다. 격식체는 '¿Cómo está usted?'입니다."
+  },
+  "q_vocab_a1_01_009": {
+    "question": "길에서 실수로 누군가를 부딪쳤을 때 뭐라고 말할까요?",
+    "correct": "¡Perdón!",
+    "wrong": [
+      "¡Hola!",
+      "¡Gracias!",
+      "¡Adiós!"
+    ],
+    "explanation": "'Perdón'은 '미안합니다/실례합니다'라는 뜻으로, 실수로 다른 사람을 방해했을 때 사용합니다.",
+    "context": "붐비는 거리를 걸을 때"
+  },
+  "q_vocab_a1_01_010": {
+    "question": "늦은 밤 친구 집을 나설 때 뭐라고 인사할까요?",
+    "correct": "¡Buenas noches!",
+    "wrong": [
+      "¡Buenos días!",
+      "¡Buenas tardes!",
+      "¡Hola!"
+    ],
+    "explanation": "'Buenas noches'는 '안녕히 주무세요/좋은 밤'이라는 뜻으로, 저녁에 인사나 작별 인사 모두 사용됩니다.",
+    "context": "밤늦게 친구 집을 떠날 때"
+  },
+  "q_vocab_a1_02_001": {
+    "question": "'madre'의 뜻은?",
+    "correct": "어머니",
+    "wrong": [
+      "아버지",
+      "언니/누나",
+      "할머니"
+    ],
+    "explanation": "'Madre'는 '어머니'라는 뜻입니다. 비격식 표현은 'mamá'입니다."
+  },
+  "q_vocab_a1_02_002": {
+    "question": "Mi ___ se llama Carlos. Es el esposo de mi madre.",
+    "correct": "padre",
+    "wrong": [
+      "hermano",
+      "hijo",
+      "abuelo"
+    ],
+    "explanation": "'Padre'는 '아버지'라는 뜻입니다. 문장은 '나의 아버지 이름은 카를로스입니다. 그는 나의 어머니의 남편입니다.'라는 뜻입니다."
+  },
+  "q_vocab_a1_02_003": {
+    "question": "'hermana'의 뜻은?",
+    "correct": "자매 / 여자 형제",
+    "wrong": [
+      "남자 형제",
+      "사촌",
+      "이모/고모"
+    ],
+    "explanation": "'Hermana'는 여성형으로 '자매'라는 뜻입니다. 남성형 'hermano'는 '형제'를 의미합니다."
+  },
+  "q_vocab_a1_02_004": {
+    "question": "'abuelo'의 뜻은?",
+    "correct": "할아버지",
+    "wrong": [
+      "삼촌",
+      "아버지",
+      "사촌"
+    ],
+    "explanation": "'Abuelo'는 '할아버지'라는 뜻입니다. 'Abuela'는 '할머니'이고, 복수형 'abuelos'는 '조부모'를 의미합니다."
+  },
+  "q_vocab_a1_02_005": {
+    "question": "우리 삼촌은 마드리드에 살아요.",
+    "correct": "Mi tío vive en Madrid.",
+    "wrong": [
+      "Mi primo vive en Madrid.",
+      "Mi abuelo vive en Madrid.",
+      "Mi sobrino vive en Madrid."
+    ],
+    "explanation": "'Tío'는 '삼촌/외삼촌'이라는 뜻입니다. 여성형 'tía'는 '이모/고모'를 의미합니다."
+  },
+  "q_vocab_a1_02_006": {
+    "question": "'Ella es mi esposa'에서 'esposa'의 뜻은?",
+    "correct": "아내",
+    "wrong": [
+      "여자친구",
+      "친구",
+      "자매"
+    ],
+    "explanation": "'Esposa'는 '아내'라는 뜻입니다. 'Esposo'는 '남편'을 의미합니다. 결혼한 배우자를 가리키는 격식체 표현입니다."
+  },
+  "q_vocab_a1_02_007": {
+    "question": "파티에서 여자 친구(platonic)를 소개할 때 어떤 단어를 사용할까요?",
+    "correct": "amiga",
+    "wrong": [
+      "novia",
+      "prima",
+      "vecina"
+    ],
+    "explanation": "'Amiga'는 '여자 친구(우정)'라는 뜻입니다. 'Novia'를 사용하면 '여자친구(연인)'가 되어 의미가 달라집니다.",
+    "context": "파티에서 친구를 소개할 때"
+  },
+  "q_vocab_a1_02_008": {
+    "question": "'Mi primo tiene diez años'에서 'primo'의 뜻은?",
+    "correct": "사촌",
+    "wrong": [
+      "형제",
+      "조카",
+      "아들"
+    ],
+    "explanation": "'Primo'(남성형)는 '사촌'이라는 뜻입니다. 여성형은 'prima'입니다. 문장은 '내 사촌은 열 살입니다'라는 뜻입니다."
+  },
+  "q_vocab_a1_02_009": {
+    "question": "Tengo dos hermanos y una hermana.",
+    "correct": "나는 남자 형제 둘과 여자 형제 하나가 있습니다.",
+    "wrong": [
+      "나는 여자 형제 둘과 남자 형제 하나가 있습니다.",
+      "나는 사촌 둘과 여자 형제 하나가 있습니다.",
+      "나는 친구 둘과 여자 형제 하나가 있습니다."
+    ],
+    "explanation": "'Hermanos'는 '형제들'의 남성 복수형이고, 'hermana'는 '자매'를 의미합니다."
+  },
+  "q_vocab_a1_02_010": {
+    "question": "이웃이 가족에 대해 물어봅니다. '나는 부모님과 함께 살아요'를 스페인어로 어떻게 말할까요?",
+    "correct": "Vivo con mis padres.",
+    "wrong": [
+      "Vivo con mis amigos.",
+      "Vivo con mis hermanos.",
+      "Vivo con mis abuelos."
+    ],
+    "explanation": "'Padres'는 '부모님'이라는 뜻입니다. 'Padre'(아버지)의 복수형이지만, 복수로 쓰면 양쪽 부모 모두를 가리킵니다.",
+    "context": "이웃과 가족에 대해 이야기할 때"
+  },
+  "q_vocab_a1_03_001": {
+    "question": "'hora'의 뜻은?",
+    "correct": "시간 / 시",
+    "wrong": [
+      "분",
+      "일",
+      "주"
+    ],
+    "explanation": "'Hora'는 '시간' 또는 '시'라는 뜻입니다. '¿Qué hora es?'는 '지금 몇 시예요?'라는 뜻입니다."
+  },
+  "q_vocab_a1_03_002": {
+    "question": "'por la mañana'에서 'mañana'의 뜻은?",
+    "correct": "아침",
+    "wrong": [
+      "오후",
+      "저녁",
+      "밤"
+    ],
+    "explanation": "'Mañana'는 'por la'와 함께 쓰면 '아침'을 의미합니다. 다른 문맥에서는 '내일'이라는 뜻도 됩니다."
+  },
+  "q_vocab_a1_03_003": {
+    "question": "Son las tres y ___. (3:30)",
+    "correct": "media",
+    "wrong": [
+      "cuarto",
+      "punto",
+      "minuto"
+    ],
+    "explanation": "'Media'는 '반'이라는 뜻입니다. 'Son las tres y media'는 '세 시 반입니다'(직역: 셋과 반)라는 뜻입니다."
+  },
+  "q_vocab_a1_03_004": {
+    "question": "'reloj'의 뜻은?",
+    "correct": "시계",
+    "wrong": [
+      "달력",
+      "알람",
+      "타이머"
+    ],
+    "explanation": "'Reloj'는 벽시계(clock)와 손목시계(watch) 모두를 의미할 수 있습니다."
+  },
+  "q_vocab_a1_03_005": {
+    "question": "'Son las cinco en punto'에서 'en punto'의 뜻은?",
+    "correct": "정각",
+    "wrong": [
+      "거의",
+      "대략",
+      "약"
+    ],
+    "explanation": "'En punto'는 '정각' 또는 '딱'이라는 뜻입니다. 'Son las cinco en punto'는 '정확히 다섯 시입니다'라는 뜻입니다."
+  },
+  "q_vocab_a1_03_006": {
+    "question": "한 시입니다.",
+    "correct": "Es la una.",
+    "wrong": [
+      "Son las una.",
+      "Es el uno.",
+      "Son la una."
+    ],
+    "explanation": "1시에는 'Es la una'(단수)를 사용합니다. 다른 모든 시간에는 'Son las...'(복수)를 사용합니다."
+  },
+  "q_vocab_a1_03_007": {
+    "question": "'Buenas tardes'에서 'tarde'의 뜻은?",
+    "correct": "오후",
+    "wrong": [
+      "아침",
+      "밤",
+      "저녁"
+    ],
+    "explanation": "'Tarde'는 '오후'라는 뜻입니다. 'Buenas tardes'는 대략 정오부터 해질녘까지 사용됩니다."
+  },
+  "q_vocab_a1_03_008": {
+    "question": "¿Qué hora es? — Son las dos y cuarto.",
+    "correct": "몇 시예요? — 두 시 십오 분입니다.",
+    "wrong": [
+      "몇 시예요? — 두 시 사십오 분입니다.",
+      "몇 시예요? — 두 시 반입니다.",
+      "무슨 요일이에요? — 화요일입니다."
+    ],
+    "explanation": "'Cuarto'는 '4분의 1'이라는 뜻입니다. 'Son las dos y cuarto'는 '두 시 십오 분'(2시에서 15분 지남)입니다."
+  },
+  "q_vocab_a1_03_009": {
+    "question": "길에서 모르는 사람에게 시간을 물어보려면 뭐라고 말할까요?",
+    "correct": "Perdone, ¿qué hora es?",
+    "wrong": [
+      "¡Hola! ¿Qué día es?",
+      "¿Cuánto cuesta?",
+      "¿Dónde está el reloj?"
+    ],
+    "explanation": "'Perdone, ¿qué hora es?'는 시간을 정중하게 묻는 표현입니다. 'Perdone'은 '실례합니다'의 격식체입니다.",
+    "context": "길에서 시간을 물어볼 때"
+  },
+  "q_vocab_a1_03_010": {
+    "question": "친구가 보통 몇 시에 일어나는지 묻습니다. '나는 아침 일곱 시에 일어나요'를 스페인어로 어떻게 말할까요?",
+    "correct": "Me despierto a las siete de la mañana.",
+    "wrong": [
+      "Me despierto a las siete de la noche.",
+      "Me despierto a la siete de la mañana.",
+      "Me duermo a las siete de la mañana."
+    ],
+    "explanation": "'A las siete de la mañana'는 '아침 일곱 시에'라는 뜻입니다. 1시를 제외한 모든 시간에 'a las'를 사용합니다('a la una').",
+    "context": "일상 생활에 대해 이야기할 때"
+  },
+  "q_vocab_a1_04_001": {
+    "question": "'lunes'의 뜻은?",
+    "correct": "월요일",
+    "wrong": [
+      "화요일",
+      "금요일",
+      "일요일"
+    ],
+    "explanation": "'Lunes'는 '월요일'이라는 뜻입니다. 스페인어에서 요일은 대문자로 쓰지 않습니다."
+  },
+  "q_vocab_a1_04_002": {
+    "question": "El primer mes del año es ___.",
+    "correct": "enero",
+    "wrong": [
+      "febrero",
+      "marzo",
+      "diciembre"
+    ],
+    "explanation": "'Enero'는 '1월'로, 한 해의 첫 번째 달입니다. 요일과 마찬가지로 스페인어에서 월도 대문자로 쓰지 않습니다."
+  },
+  "q_vocab_a1_04_003": {
+    "question": "'verano'의 뜻은?",
+    "correct": "여름",
+    "wrong": [
+      "겨울",
+      "봄",
+      "가을"
+    ],
+    "explanation": "'Verano'는 '여름'입니다. 사계절은: primavera(봄), verano(여름), otoño(가을), invierno(겨울)입니다."
+  },
+  "q_vocab_a1_04_004": {
+    "question": "'semana'의 뜻은?",
+    "correct": "주",
+    "wrong": [
+      "월",
+      "일",
+      "년"
+    ],
+    "explanation": "'Semana'는 '주'라는 뜻입니다. 'Fin de semana'는 '주말'을 의미합니다."
+  },
+  "q_vocab_a1_04_005": {
+    "question": "토요일과 일요일",
+    "correct": "sábado y domingo",
+    "wrong": [
+      "viernes y sábado",
+      "lunes y martes",
+      "jueves y viernes"
+    ],
+    "explanation": "'Sábado'는 토요일이고 'domingo'는 일요일입니다. 이 두 날이 합쳐져 'fin de semana'(주말)가 됩니다."
+  },
+  "q_vocab_a1_04_006": {
+    "question": "'Me gusta la primavera'에서 'primavera'의 뜻은?",
+    "correct": "봄",
+    "wrong": [
+      "여름",
+      "가을",
+      "겨울"
+    ],
+    "explanation": "'Primavera'는 '봄'이라는 뜻입니다. 문장은 '나는 봄이 좋아요'라는 뜻입니다."
+  },
+  "q_vocab_a1_04_007": {
+    "question": "누군가가 오늘이 무슨 요일인지 묻습니다. 오늘은 수요일입니다. 어떻게 대답할까요?",
+    "correct": "Hoy es miércoles.",
+    "wrong": [
+      "Hoy es martes.",
+      "Hoy es jueves.",
+      "Hoy es viernes."
+    ],
+    "explanation": "'Miércoles'는 '수요일'입니다. 'e'에 악센트가 있다는 점에 유의하세요. 'Hoy es...'는 '오늘은...'이라는 뜻입니다.",
+    "context": "누군가가 무슨 요일인지 물어볼 때"
+  },
+  "q_vocab_a1_04_008": {
+    "question": "'En invierno hace frío'에서 'invierno'의 뜻은?",
+    "correct": "겨울",
+    "wrong": [
+      "가을",
+      "여름",
+      "봄"
+    ],
+    "explanation": "'Invierno'는 '겨울'이라는 뜻입니다. 문장은 '겨울에는 춥습니다'라는 뜻입니다."
+  },
+  "q_vocab_a1_04_009": {
+    "question": "Hoy es viernes. Mañana es ___.",
+    "correct": "오늘은 금요일입니다. 내일은 토요일입니다.",
+    "wrong": [
+      "오늘은 금요일입니다. 내일은 목요일입니다.",
+      "오늘은 금요일입니다. 내일은 일요일입니다.",
+      "오늘은 목요일입니다. 내일은 금요일입니다."
+    ],
+    "explanation": "'Viernes'는 금요일이고, 금요일 다음 날은 'sábado'(토요일)입니다."
+  },
+  "q_vocab_a1_04_010": {
+    "question": "회의 일정을 잡으려고 합니다. '회의는 목요일에 있습니다'를 스페인어로 어떻게 말할까요?",
+    "correct": "La reunión es el jueves.",
+    "wrong": [
+      "La reunión es el martes.",
+      "La reunión es el miércoles.",
+      "La reunión es la jueves."
+    ],
+    "explanation": "요일 앞에 관사 'el'(단수) 또는 'los'(복수/습관)를 사용합니다. 'El jueves'는 '목요일에'라는 뜻입니다.",
+    "context": "직장에서 회의 일정을 잡을 때"
+  },
+  "q_vocab_a1_05_001": {
+    "question": "'rojo'의 뜻은?",
+    "correct": "빨간색",
+    "wrong": [
+      "파란색",
+      "초록색",
+      "노란색"
+    ],
+    "explanation": "'Rojo'는 '빨간색'이라는 뜻입니다. 대부분의 형용사처럼 형태가 변합니다: rojo(남성형), roja(여성형)."
+  },
+  "q_vocab_a1_05_002": {
+    "question": "'blanco'의 뜻은?",
+    "correct": "하얀색",
+    "wrong": [
+      "검은색",
+      "회색",
+      "갈색"
+    ],
+    "explanation": "'Blanco'는 '하얀색'이라는 뜻입니다. 반대말은 'negro'(검은색)입니다."
+  },
+  "q_vocab_a1_05_003": {
+    "question": "El cielo es ___. (The sky is ___)",
+    "correct": "azul",
+    "wrong": [
+      "rojo",
+      "verde",
+      "amarillo"
+    ],
+    "explanation": "'Azul'은 '파란색'이라는 뜻입니다. 대부분의 색 형용사와 달리, 'azul'은 남성형/여성형이 변하지 않습니다."
+  },
+  "q_vocab_a1_05_004": {
+    "question": "'negro'의 뜻은?",
+    "correct": "검은색",
+    "wrong": [
+      "하얀색",
+      "회색",
+      "갈색"
+    ],
+    "explanation": "'Negro'는 '검은색'이라는 뜻입니다. 일반 형용사 규칙을 따릅니다: negro(남성형), negra(여성형)."
+  },
+  "q_vocab_a1_05_005": {
+    "question": "'El sol es amarillo'에서 'amarillo'의 뜻은?",
+    "correct": "노란색",
+    "wrong": [
+      "주황색",
+      "빨간색",
+      "하얀색"
+    ],
+    "explanation": "'Amarillo'는 '노란색'이라는 뜻입니다. 문장은 '태양은 노란색입니다'라는 뜻입니다."
+  },
+  "q_vocab_a1_05_006": {
+    "question": "그 차는 초록색입니다.",
+    "correct": "El coche es verde.",
+    "wrong": [
+      "El coche es rojo.",
+      "El coche es azul.",
+      "La coche es verde."
+    ],
+    "explanation": "'Verde'는 '초록색'이라는 뜻입니다. 'Coche'(자동차)는 남성 명사이므로 'el'을 사용합니다. 'Verde'는 성별에 따라 변하지 않습니다."
+  },
+  "q_vocab_a1_05_007": {
+    "question": "'El gato es gris'에서 'gris'의 뜻은?",
+    "correct": "회색",
+    "wrong": [
+      "갈색",
+      "하얀색",
+      "검은색"
+    ],
+    "explanation": "'Gris'는 '회색'이라는 뜻입니다. 'Azul', 'verde'처럼 남성형/여성형이 변하지 않습니다."
+  },
+  "q_vocab_a1_05_008": {
+    "question": "¿De qué color es la naranja?",
+    "correct": "오렌지는 무슨 색이에요?",
+    "wrong": [
+      "오렌지는 어디에 있어요?",
+      "오렌지는 얼마예요?",
+      "오렌지 좋아해요?"
+    ],
+    "explanation": "'¿De qué color es...?'는 '...은/는 무슨 색이에요?'라는 뜻으로, 스페인어에서 색을 묻는 표준 표현입니다."
+  },
+  "q_vocab_a1_05_009": {
+    "question": "옷가게에서 셔츠가 분홍색도 있는지 물어보고 싶습니다. 뭐라고 말할까요?",
+    "correct": "¿Tiene esta camisa en rosa?",
+    "wrong": [
+      "¿Tiene esta camisa en rojo?",
+      "¿Tiene esta camisa en marrón?",
+      "¿Tiene esta falda en rosa?"
+    ],
+    "explanation": "'Rosa'는 '분홍색'이라는 뜻입니다. '¿Tiene... en rosa?'는 분홍색이 있는지 자연스럽게 묻는 표현입니다.",
+    "context": "옷가게에서 쇼핑할 때"
+  },
+  "q_vocab_a1_05_010": {
+    "question": "친구가 좋아하는 색을 물어봅니다. '내가 가장 좋아하는 색은 파란색이야'를 스페인어로 어떻게 말할까요?",
+    "correct": "Mi color favorito es el azul.",
+    "wrong": [
+      "Mi color favorito es el rojo.",
+      "Mi color favorita es la azul.",
+      "Mi color favorito es el verde."
+    ],
+    "explanation": "'Color'는 남성 명사이므로 'favorito'('favorita'가 아님)를 사용합니다. 'Azul'은 '파란색'이라는 뜻입니다.",
+    "context": "친구와 좋아하는 색에 대해 이야기할 때"
+  },
+  "q_vocab_a1_06_001": {
+    "question": "'agua'의 뜻은?",
+    "correct": "물",
+    "wrong": [
+      "우유",
+      "주스",
+      "커피"
+    ],
+    "explanation": "'agua'는 '물'이라는 뜻입니다. 여성 명사이지만, 단수형에서는 'el agua'로 씁니다 (두 개의 'a' 소리가 연속되는 것을 피하기 위해)."
+  },
+  "q_vocab_a1_06_002": {
+    "question": "Quiero un ___ con leche, por favor.",
+    "correct": "café",
+    "wrong": [
+      "pan",
+      "arroz",
+      "pollo"
+    ],
+    "explanation": "'café con leche'는 '우유를 넣은 커피'라는 뜻으로, 스페인과 중남미에서 매우 인기 있는 음료입니다."
+  },
+  "q_vocab_a1_06_003": {
+    "question": "'pan'의 뜻은?",
+    "correct": "빵",
+    "wrong": [
+      "쌀",
+      "고기",
+      "치즈"
+    ],
+    "explanation": "'pan'은 '빵'이라는 뜻입니다. 스페인어권 국가에서 빵은 가장 기본적인 식품 중 하나입니다."
+  },
+  "q_vocab_a1_06_004": {
+    "question": "'pollo'의 뜻은?",
+    "correct": "닭고기",
+    "wrong": [
+      "생선",
+      "소고기",
+      "돼지고기"
+    ],
+    "explanation": "'pollo'는 '닭고기'라는 뜻입니다. 고기 전체를 가리키는 단어는 'carne'입니다."
+  },
+  "q_vocab_a1_06_005": {
+    "question": "나는 오렌지 주스 한 잔을 원한다.",
+    "correct": "Quiero un vaso de zumo de naranja.",
+    "wrong": [
+      "Quiero un vaso de leche de naranja.",
+      "Quiero una taza de zumo de naranja.",
+      "Quiero un vaso de vino de naranja."
+    ],
+    "explanation": "'zumo'는 '주스'라는 뜻입니다 (스페인에서 사용, 중남미에서는 'jugo'). 'vaso'는 '컵/잔'입니다."
+  },
+  "q_vocab_a1_06_006": {
+    "question": "'El pescado está fresco'에서 'pescado'의 뜻은?",
+    "correct": "생선 (음식)",
+    "wrong": [
+      "닭고기",
+      "고기",
+      "새우"
+    ],
+    "explanation": "'pescado'는 음식으로서의 '생선'을 뜻합니다. 살아있는 물고기는 'pez'라고 합니다. 이 문장은 '생선이 신선하다'라는 뜻입니다."
+  },
+  "q_vocab_a1_06_007": {
+    "question": "식당에서 웨이터가 음료 주문을 물어봅니다. 맥주를 주문하려면 뭐라고 말할까요?",
+    "correct": "Una cerveza, por favor.",
+    "wrong": [
+      "Un café, por favor.",
+      "Un té, por favor.",
+      "Un agua, por favor."
+    ],
+    "explanation": "'cerveza'는 '맥주'라는 뜻입니다. 'Una cerveza, por favor'는 식당에서 맥주를 정중하게 주문하는 표현입니다.",
+    "context": "식당에서 음료를 주문하는 상황"
+  },
+  "q_vocab_a1_06_008": {
+    "question": "'La ensalada está rica'에서 'ensalada'의 뜻은?",
+    "correct": "샐러드",
+    "wrong": [
+      "수프",
+      "샌드위치",
+      "오믈렛"
+    ],
+    "explanation": "'ensalada'는 '샐러드'라는 뜻입니다. 여기서 'rica'는 '맛있다'라는 의미입니다. 이 문장은 '샐러드가 맛있다'라는 뜻입니다."
+  },
+  "q_vocab_a1_06_009": {
+    "question": "Me gustan las frutas y las verduras.",
+    "correct": "나는 과일과 채소를 좋아한다.",
+    "wrong": [
+      "나는 고기와 생선을 좋아한다.",
+      "나는 빵과 치즈를 좋아한다.",
+      "나는 커피와 차를 좋아한다."
+    ],
+    "explanation": "'frutas'는 '과일', 'verduras'는 '채소'라는 뜻입니다. 'me gustan'은 복수 명사와 함께 쓰는 '~을 좋아하다'입니다."
+  },
+  "q_vocab_a1_06_010": {
+    "question": "스페인 가정에 초대받아 음식을 대접받았습니다. 정중하게 수락하려면 뭐라고 말할까요?",
+    "correct": "Sí, gracias. Tiene muy buena pinta.",
+    "wrong": [
+      "No quiero nada.",
+      "Dame más comida.",
+      "No me gusta la comida española."
+    ],
+    "explanation": "'Tiene muy buena pinta'는 '아주 맛있어 보인다'라는 뜻입니다. 음식을 대접받을 때 감사하게 수락하는 정중한 표현입니다.",
+    "context": "다른 사람의 집에서 음식을 대접받는 상황"
+  },
+  "q_vocab_a1_07_001": {
+    "question": "'cabeza'의 뜻은?",
+    "correct": "머리",
+    "wrong": [
+      "손",
+      "발",
+      "팔"
+    ],
+    "explanation": "'cabeza'는 '머리'라는 뜻입니다. 'Me duele la cabeza'는 '머리가 아프다(두통이 있다)'라는 의미입니다."
+  },
+  "q_vocab_a1_07_002": {
+    "question": "'mano'의 뜻은?",
+    "correct": "손",
+    "wrong": [
+      "발",
+      "팔",
+      "손가락"
+    ],
+    "explanation": "'mano'는 '손'이라는 뜻입니다. 참고: -o로 끝나지만 여성 명사입니다 (la mano)."
+  },
+  "q_vocab_a1_07_003": {
+    "question": "No puedo caminar, me duele el ___.",
+    "correct": "pie",
+    "wrong": [
+      "ojo",
+      "dedo",
+      "diente"
+    ],
+    "explanation": "'pie'는 '발'이라는 뜻입니다. 이 문장은 '걸을 수 없다, 발이 아프다'라는 의미입니다."
+  },
+  "q_vocab_a1_07_004": {
+    "question": "'ojo'의 뜻은?",
+    "correct": "눈",
+    "wrong": [
+      "귀",
+      "코",
+      "입"
+    ],
+    "explanation": "'ojo'는 '눈'이라는 뜻입니다. 복수형은 'ojos'입니다. 'Tiene los ojos azules'는 '그/그녀는 파란 눈을 가지고 있다'입니다."
+  },
+  "q_vocab_a1_07_005": {
+    "question": "'Me duele la espalda'에서 'espalda'의 뜻은?",
+    "correct": "등",
+    "wrong": [
+      "배",
+      "가슴",
+      "목"
+    ],
+    "explanation": "'espalda'는 신체 부위인 '등'을 뜻합니다. 이 문장은 '등이 아프다'라는 의미입니다."
+  },
+  "q_vocab_a1_07_006": {
+    "question": "나는 매일 아침 이를 닦는다.",
+    "correct": "Me lavo los dientes cada mañana.",
+    "wrong": [
+      "Me lavo las manos cada mañana.",
+      "Me lavo el pelo cada mañana.",
+      "Me lavo los ojos cada mañana."
+    ],
+    "explanation": "'dientes'는 '치아'라는 뜻입니다 (단수: 'diente'). 스페인어에서는 'lavarse los dientes'(이를 씻다)라고 표현합니다."
+  },
+  "q_vocab_a1_07_007": {
+    "question": "'Abre la boca'에서 'boca'의 뜻은?",
+    "correct": "입",
+    "wrong": [
+      "눈",
+      "손",
+      "귀"
+    ],
+    "explanation": "'boca'는 '입'이라는 뜻입니다. 'Abre la boca'는 '입을 벌리세요'라는 뜻으로, 치과에서 자주 듣는 표현입니다."
+  },
+  "q_vocab_a1_07_008": {
+    "question": "Tengo el pelo largo y los ojos marrones.",
+    "correct": "나는 긴 머리카락과 갈색 눈을 가지고 있다.",
+    "wrong": [
+      "나는 짧은 머리카락과 파란 눈을 가지고 있다.",
+      "나는 긴 팔과 갈색 눈을 가지고 있다.",
+      "나는 긴 머리카락과 초록색 눈을 가지고 있다."
+    ],
+    "explanation": "'pelo'는 '머리카락', 'largo'는 '긴', 'ojos marrones'는 '갈색 눈'이라는 뜻입니다."
+  },
+  "q_vocab_a1_07_009": {
+    "question": "병원에서 아픈 곳을 말해야 합니다. '배가 아프다'를 스페인어로 뭐라고 할까요?",
+    "correct": "Me duele el estómago.",
+    "wrong": [
+      "Me duele la cabeza.",
+      "Me duele la espalda.",
+      "Me duele el brazo."
+    ],
+    "explanation": "'estómago'는 '위/배'라는 뜻입니다. 'Me duele'는 아픈 신체 부위가 하나일 때 사용합니다.",
+    "context": "배가 아파서 병원을 방문한 상황"
+  },
+  "q_vocab_a1_07_010": {
+    "question": "친구의 외모를 설명하고 있습니다. '그녀는 큰 귀와 작은 코를 가지고 있다'를 스페인어로 뭐라고 할까요?",
+    "correct": "Tiene las orejas grandes y la nariz pequeña.",
+    "wrong": [
+      "Tiene los ojos grandes y la boca pequeña.",
+      "Tiene las orejas pequeñas y la nariz grande.",
+      "Tiene las manos grandes y los pies pequeños."
+    ],
+    "explanation": "'orejas'는 '귀', 'nariz'는 '코'라는 뜻입니다. 스페인어에서는 외모를 묘사할 때 'tener'(가지다) 동사를 사용합니다.",
+    "context": "친구의 신체적 특징을 설명하는 상황"
+  },
+  "q_vocab_a1_08_001": {
+    "question": "'zapatos'의 뜻은?",
+    "correct": "신발",
+    "wrong": [
+      "부츠",
+      "양말",
+      "샌들"
+    ],
+    "explanation": "'zapatos'는 '신발'이라는 뜻입니다 (단수: 'zapato'). 'Un par de zapatos'는 '신발 한 켤레'입니다."
+  },
+  "q_vocab_a1_08_002": {
+    "question": "Hace frío, necesito mi ___.",
+    "correct": "abrigo",
+    "wrong": [
+      "camiseta",
+      "falda",
+      "sombrero"
+    ],
+    "explanation": "'abrigo'는 '외투/코트'라는 뜻입니다. 이 문장은 '춥다, 코트가 필요하다'라는 의미입니다."
+  },
+  "q_vocab_a1_08_003": {
+    "question": "'camisa'의 뜻은?",
+    "correct": "셔츠",
+    "wrong": [
+      "티셔츠",
+      "재킷",
+      "원피스"
+    ],
+    "explanation": "'camisa'는 '셔츠'(주로 정장 셔츠/와이셔츠)라는 뜻입니다. 티셔츠는 'camiseta'라고 합니다."
+  },
+  "q_vocab_a1_08_004": {
+    "question": "'vestido'의 뜻은?",
+    "correct": "원피스/드레스",
+    "wrong": [
+      "치마",
+      "블라우스",
+      "바지"
+    ],
+    "explanation": "'vestido'는 '원피스/드레스'라는 뜻입니다. 동사 'vestir'(입다/차려입다)에서 유래했습니다."
+  },
+  "q_vocab_a1_08_005": {
+    "question": "나는 검은색 바지를 입고 있다.",
+    "correct": "Llevo pantalones negros.",
+    "wrong": [
+      "Llevo pantalones blancos.",
+      "Llevo una falda negra.",
+      "Llevo zapatos negros."
+    ],
+    "explanation": "'pantalones'는 '바지'라는 뜻입니다. 스페인어에서 '입고 있다'는 'llevar'를 많이 사용합니다."
+  },
+  "q_vocab_a1_08_006": {
+    "question": "'Llevo mi bolso al trabajo'에서 'bolso'의 뜻은?",
+    "correct": "가방/핸드백",
+    "wrong": [
+      "지갑",
+      "벨트",
+      "모자"
+    ],
+    "explanation": "'bolso'는 '가방' 또는 '핸드백'이라는 뜻입니다. 이 문장은 '나는 가방을 들고 출근한다'라는 의미입니다."
+  },
+  "q_vocab_a1_08_007": {
+    "question": "해변에 갈 때 보통 가져가지 않는 물건은 무엇일까요?",
+    "correct": "botas",
+    "wrong": [
+      "gafas",
+      "sombrero",
+      "camiseta"
+    ],
+    "explanation": "'botas'는 '부츠'로, 해변에서는 보통 신지 않습니다. 'gafas'(안경/선글라스)와 'sombrero'(모자)는 해변에서 유용합니다.",
+    "context": "해변에서의 하루를 준비하는 상황"
+  },
+  "q_vocab_a1_08_008": {
+    "question": "'La falda es roja'에서 'falda'의 뜻은?",
+    "correct": "치마",
+    "wrong": [
+      "원피스",
+      "셔츠",
+      "재킷"
+    ],
+    "explanation": "'falda'는 '치마'라는 뜻입니다. 이 문장은 '치마가 빨간색이다'라는 의미입니다."
+  },
+  "q_vocab_a1_08_009": {
+    "question": "Necesito un cinturón para estos pantalones.",
+    "correct": "나는 이 바지에 벨트가 필요하다.",
+    "wrong": [
+      "나는 이 바지에 재킷이 필요하다.",
+      "나는 이 신발에 양말이 필요하다.",
+      "나는 이 원피스에 모자가 필요하다."
+    ],
+    "explanation": "'cinturón'은 '벨트'라는 뜻입니다. 바지가 헐거워서 벨트가 필요하다는 의미입니다."
+  },
+  "q_vocab_a1_08_010": {
+    "question": "옷 가게에서 재킷을 입어보고 싶습니다. 뭐라고 말할까요?",
+    "correct": "¿Puedo probarme esta chaqueta?",
+    "wrong": [
+      "¿Puedo comprar esta chaqueta?",
+      "¿Puedo ver esta chaqueta?",
+      "¿Puedo devolver esta chaqueta?"
+    ],
+    "explanation": "'probarme'는 '입어보다'라는 뜻입니다. 'chaqueta'는 '재킷'입니다. 옷을 입어보고 싶을 때 사용하는 정중한 표현입니다.",
+    "context": "옷 가게에서 쇼핑하는 상황"
+  },
+  "q_vocab_a1_09_001": {
+    "question": "'cocina'의 뜻은?",
+    "correct": "부엌",
+    "wrong": [
+      "침실",
+      "욕실",
+      "거실"
+    ],
+    "explanation": "'cocina'는 '부엌'이라는 뜻입니다. 문맥에 따라 '요리' 또는 '가스레인지'를 의미하기도 합니다."
+  },
+  "q_vocab_a1_09_002": {
+    "question": "'ventana'의 뜻은?",
+    "correct": "창문",
+    "wrong": [
+      "문",
+      "벽",
+      "지붕"
+    ],
+    "explanation": "'ventana'는 '창문'이라는 뜻입니다. 'Abrir la ventana'는 '창문을 열다'입니다."
+  },
+  "q_vocab_a1_09_003": {
+    "question": "Duermo en la ___ todas las noches.",
+    "correct": "cama",
+    "wrong": [
+      "mesa",
+      "silla",
+      "puerta"
+    ],
+    "explanation": "'cama'는 '침대'라는 뜻입니다. 이 문장은 '나는 매일 밤 침대에서 잔다'라는 의미입니다."
+  },
+  "q_vocab_a1_09_004": {
+    "question": "'puerta'의 뜻은?",
+    "correct": "문",
+    "wrong": [
+      "창문",
+      "바닥",
+      "천장"
+    ],
+    "explanation": "'puerta'는 '문'이라는 뜻입니다. 'Abrir la puerta'는 '문을 열다', 'cerrar la puerta'는 '문을 닫다'입니다."
+  },
+  "q_vocab_a1_09_005": {
+    "question": "'Me siento en el sofá'에서 'sofá'의 뜻은?",
+    "correct": "소파",
+    "wrong": [
+      "의자",
+      "침대",
+      "탁자"
+    ],
+    "explanation": "'sofá'는 '소파'라는 뜻입니다. 이 문장은 '나는 소파에 앉는다'라는 의미입니다. 보통 'salón'(거실)에 있습니다."
+  },
+  "q_vocab_a1_09_006": {
+    "question": "거울은 욕실에 있다.",
+    "correct": "El espejo está en el baño.",
+    "wrong": [
+      "El espejo está en la cocina.",
+      "La lámpara está en el baño.",
+      "El armario está en el baño."
+    ],
+    "explanation": "'espejo'는 '거울', 'baño'는 '욕실'이라는 뜻입니다. 위치를 나타낼 때 'está'를 사용합니다."
+  },
+  "q_vocab_a1_09_007": {
+    "question": "'La ropa está en el armario'에서 'armario'의 뜻은?",
+    "correct": "옷장",
+    "wrong": [
+      "서랍",
+      "선반",
+      "상자"
+    ],
+    "explanation": "'armario'는 '옷장/벽장'이라는 뜻입니다. 이 문장은 '옷이 옷장에 있다'라는 의미입니다."
+  },
+  "q_vocab_a1_09_008": {
+    "question": "Hay una estantería con muchos libros en el salón.",
+    "correct": "거실에 책이 많은 책장이 있다.",
+    "wrong": [
+      "부엌에 책이 많은 탁자가 있다.",
+      "침실에 책이 많은 책장이 있다.",
+      "거실에 책이 많은 조명이 있다."
+    ],
+    "explanation": "'estantería'는 '책장/선반장', 'salón'은 '거실'이라는 뜻입니다. 'hay'는 '~이 있다'입니다."
+  },
+  "q_vocab_a1_09_009": {
+    "question": "아파트를 구하고 있는데, 정원이 있는지 물어보고 싶습니다. 뭐라고 말할까요?",
+    "correct": "¿El piso tiene jardín?",
+    "wrong": [
+      "¿El piso tiene cocina?",
+      "¿El piso tiene dormitorio?",
+      "¿El piso tiene baño?"
+    ],
+    "explanation": "'jardín'은 '정원'이라는 뜻입니다. 'piso'는 스페인에서 '아파트'를 의미합니다. 집을 구할 때 자주 하는 질문입니다.",
+    "context": "부동산 중개인과 아파트를 둘러보는 상황"
+  },
+  "q_vocab_a1_09_010": {
+    "question": "친구가 집에 방문했을 때 '침실은 욕실 옆에 있다'를 스페인어로 뭐라고 할까요?",
+    "correct": "El dormitorio está al lado del baño.",
+    "wrong": [
+      "El dormitorio está lejos del baño.",
+      "La cocina está al lado del baño.",
+      "El dormitorio está en el baño."
+    ],
+    "explanation": "'dormitorio'는 '침실', 'al lado de'는 '~옆에', 'baño'는 '욕실'이라는 뜻입니다.",
+    "context": "친구에게 집 안을 안내하는 상황"
+  },
+  "q_vocab_a1_10_001": {
+    "question": "'libro'의 뜻은?",
+    "correct": "책",
+    "wrong": [
+      "공책",
+      "연필",
+      "펜"
+    ],
+    "explanation": "'libro'는 '책'이라는 뜻입니다. 'librería'는 '서점'이지 '도서관'이 아닙니다. 도서관은 'biblioteca'입니다."
+  },
+  "q_vocab_a1_10_002": {
+    "question": "El estudiante escribe en el ___.",
+    "correct": "cuaderno",
+    "wrong": [
+      "libro",
+      "examen",
+      "pizarra"
+    ],
+    "explanation": "'cuaderno'는 '공책/노트'라는 뜻입니다. 이 문장은 '학생이 공책에 쓴다'라는 의미입니다."
+  },
+  "q_vocab_a1_10_003": {
+    "question": "'profesor'의 뜻은?",
+    "correct": "선생님/교수",
+    "wrong": [
+      "학생",
+      "교장",
+      "반 친구"
+    ],
+    "explanation": "'profesor'는 '선생님' 또는 '교수'라는 뜻입니다. 여성형은 'profesora'입니다."
+  },
+  "q_vocab_a1_10_004": {
+    "question": "'examen'의 뜻은?",
+    "correct": "시험",
+    "wrong": [
+      "숙제",
+      "수업",
+      "성적"
+    ],
+    "explanation": "'examen'은 '시험'이라는 뜻입니다. 복수형은 'exámenes'입니다 (악센트 위치가 바뀝니다)."
+  },
+  "q_vocab_a1_10_005": {
+    "question": "나는 도서관에서 공부한다.",
+    "correct": "Estudio en la biblioteca.",
+    "wrong": [
+      "Estudio en la librería.",
+      "Estudio en la escuela.",
+      "Estudio en el aula."
+    ],
+    "explanation": "'biblioteca'는 '도서관'이라는 뜻입니다. 주의: 'librería'는 '서점'이지 '도서관'이 아닙니다."
+  },
+  "q_vocab_a1_10_006": {
+    "question": "'El profesor escribe en la pizarra'에서 'pizarra'의 뜻은?",
+    "correct": "칠판/화이트보드",
+    "wrong": [
+      "책상",
+      "공책",
+      "교과서"
+    ],
+    "explanation": "'pizarra'는 '칠판' 또는 '화이트보드'라는 뜻입니다. 이 문장은 '선생님이 칠판에 쓴다'라는 의미입니다."
+  },
+  "q_vocab_a1_10_007": {
+    "question": "숙제를 하지 못했습니다. 선생님에게 뭐라고 말할까요?",
+    "correct": "Lo siento, no tengo la tarea.",
+    "wrong": [
+      "Lo siento, no tengo el libro.",
+      "Lo siento, no tengo el bolígrafo.",
+      "Lo siento, no tengo el examen."
+    ],
+    "explanation": "'tarea'는 '숙제/과제'라는 뜻입니다. 스페인에서는 숙제를 'deberes'라고도 합니다.",
+    "context": "숙제 없이 수업에 도착한 상황"
+  },
+  "q_vocab_a1_10_008": {
+    "question": "'Necesito un lápiz'에서 'lápiz'의 뜻은?",
+    "correct": "연필",
+    "wrong": [
+      "펜",
+      "지우개",
+      "자"
+    ],
+    "explanation": "'lápiz'는 '연필'이라는 뜻입니다. 복수형은 'lápices'입니다. 펜은 'bolígrafo'(또는 줄여서 'boli')라고 합니다."
+  },
+  "q_vocab_a1_10_009": {
+    "question": "Mi hermana estudia en la universidad.",
+    "correct": "내 여동생(언니)은 대학교에서 공부한다.",
+    "wrong": [
+      "내 여동생(언니)은 학교에서 공부한다.",
+      "내 남동생(형)은 대학교에서 공부한다.",
+      "내 여동생(언니)은 대학교에서 일한다."
+    ],
+    "explanation": "'universidad'는 '대학교'라는 뜻입니다. 'Estudiar en la universidad'는 '대학교에서 공부하다'입니다."
+  },
+  "q_vocab_a1_10_010": {
+    "question": "반 친구에게 펜을 빌리고 싶습니다. 뭐라고 말할까요?",
+    "correct": "¿Me prestas un bolígrafo?",
+    "wrong": [
+      "¿Me prestas un lápiz?",
+      "¿Me prestas un cuaderno?",
+      "¿Me prestas un libro?"
+    ],
+    "explanation": "'bolígrafo'는 '펜'이라는 뜻입니다. '¿Me prestas...?'는 '~을 빌려줄 수 있어?'라는 의미로, 반 친구 사이에서 자주 사용합니다.",
+    "context": "수업 시간에 필기구가 필요한 상황"
+  },
+  "q_vocab_a1_11_001": {
+    "question": "'médico'의 뜻은?",
+    "correct": "의사",
+    "wrong": [
+      "간호사",
+      "치과의사",
+      "약사"
+    ],
+    "explanation": "'médico'는 '의사'라는 뜻입니다. 여성형은 'médica'입니다. 'doctor/doctora'도 흔히 사용됩니다."
+  },
+  "q_vocab_a1_11_002": {
+    "question": "'abogado'의 뜻은?",
+    "correct": "변호사",
+    "wrong": [
+      "엔지니어",
+      "기자",
+      "회계사"
+    ],
+    "explanation": "'abogado'는 '변호사'라는 뜻입니다. 여성형은 'abogada'입니다."
+  },
+  "q_vocab_a1_11_003": {
+    "question": "El ___ prepara la comida en el restaurante.",
+    "correct": "cocinero",
+    "wrong": [
+      "camarero",
+      "dentista",
+      "policía"
+    ],
+    "explanation": "'cocinero'는 '요리사'라는 뜻입니다. 문장 해석: '요리사가 식당에서 음식을 준비한다.'"
+  },
+  "q_vocab_a1_11_004": {
+    "question": "'enfermero'의 뜻은?",
+    "correct": "간호사",
+    "wrong": [
+      "의사",
+      "치과의사",
+      "환자"
+    ],
+    "explanation": "'enfermero'는 '남성 간호사'라는 뜻입니다. 여성형은 'enfermera'입니다. 병원과 진료소에서 일합니다."
+  },
+  "q_vocab_a1_11_005": {
+    "question": "'El periodista trabaja en un periódico'에서 'periodista'의 뜻은?",
+    "correct": "기자",
+    "wrong": [
+      "작가",
+      "편집자",
+      "사진가"
+    ],
+    "explanation": "'periodista'는 '기자'라는 뜻입니다. 이 단어는 남녀 형태가 같습니다. 문장 해석: '기자는 신문사에서 일한다.'"
+  },
+  "q_vocab_a1_11_006": {
+    "question": "우리 아버지는 엔지니어이다.",
+    "correct": "Mi padre es ingeniero.",
+    "wrong": [
+      "Mi padre es abogado.",
+      "Mi padre es profesor.",
+      "Mi padre es médico."
+    ],
+    "explanation": "'ingeniero'는 '엔지니어'라는 뜻입니다. 스페인어에서 직업을 말할 때 'ser' 뒤에 관사(un)를 쓰지 않습니다."
+  },
+  "q_vocab_a1_11_007": {
+    "question": "'El camarero trae la cuenta'에서 'camarero'의 뜻은?",
+    "correct": "웨이터",
+    "wrong": [
+      "요리사",
+      "매니저",
+      "손님"
+    ],
+    "explanation": "'camarero'는 '웨이터'라는 뜻입니다. 문장 해석: '웨이터가 계산서를 가져온다.' 여성형은 'camarera'입니다."
+  },
+  "q_vocab_a1_11_008": {
+    "question": "Soy estudiante de medicina. Quiero ser médico.",
+    "correct": "나는 의대생이다. 의사가 되고 싶다.",
+    "wrong": [
+      "나는 법대생이다. 변호사가 되고 싶다.",
+      "나는 의대생이다. 간호사가 되고 싶다.",
+      "나는 미대생이다. 의사가 되고 싶다."
+    ],
+    "explanation": "'estudiante de medicina'는 '의대생'이라는 뜻입니다. 'quiero ser'는 '~가 되고 싶다'라는 뜻입니다."
+  },
+  "q_vocab_a1_11_009": {
+    "question": "파티에서 처음 만난 사람에게 '나는 선생님입니다'라고 말하려면?",
+    "correct": "Soy profesor.",
+    "wrong": [
+      "Soy estudiante.",
+      "Soy un profesor.",
+      "Estoy profesor."
+    ],
+    "explanation": "직업을 말할 때 'soy'(ser 동사)를 사용합니다. 'estoy'가 아닌 'soy'를 쓰는 이유는 직업이 영구적 특성으로 간주되기 때문입니다. 직업 앞에 관사를 쓰지 않습니다.",
+    "context": "파티에서 처음 만난 사람과 대화하는 상황"
+  },
+  "q_vocab_a1_11_010": {
+    "question": "긴급 상황에서 경찰을 불러달라고 요청하려면?",
+    "correct": "¡Necesito la policía!",
+    "wrong": [
+      "¡Necesito un médico!",
+      "¡Necesito un bombero!",
+      "¡Necesito una ambulancia!"
+    ],
+    "explanation": "'policía'는 '경찰(조직)' 또는 '경찰관'이라는 뜻입니다. 여기서는 경찰 조직을 부르는 의미로 사용되었습니다.",
+    "context": "긴급 전화를 거는 상황"
+  },
+  "q_vocab_a1_12_001": {
+    "question": "'sol'의 뜻은?",
+    "correct": "태양",
+    "wrong": [
+      "달",
+      "별",
+      "구름"
+    ],
+    "explanation": "'sol'은 '태양'이라는 뜻입니다. 'Hace sol'은 '날씨가 맑다/햇빛이 난다'라는 뜻입니다 (직역: 태양을 만든다)."
+  },
+  "q_vocab_a1_12_002": {
+    "question": "Hoy no hay ___, el cielo está azul.",
+    "correct": "nubes",
+    "wrong": [
+      "sol",
+      "lluvia",
+      "viento"
+    ],
+    "explanation": "'nubes'는 '구름들'이라는 뜻입니다 (단수: 'nube'). 문장 해석: '오늘은 구름이 없다, 하늘이 파랗다.'"
+  },
+  "q_vocab_a1_12_003": {
+    "question": "'lluvia'의 뜻은?",
+    "correct": "비",
+    "wrong": [
+      "눈",
+      "바람",
+      "폭풍"
+    ],
+    "explanation": "'lluvia'는 '비'라는 뜻입니다. 동사형은 'llover'(비가 오다)입니다: 'Está lloviendo' = '비가 오고 있다'."
+  },
+  "q_vocab_a1_12_004": {
+    "question": "'árbol'의 뜻은?",
+    "correct": "나무",
+    "wrong": [
+      "꽃",
+      "덤불",
+      "잎"
+    ],
+    "explanation": "'árbol'은 '나무'라는 뜻입니다. 복수형은 'árboles'입니다. 'bosque'는 '숲'(나무가 많은 곳)이라는 뜻입니다."
+  },
+  "q_vocab_a1_12_005": {
+    "question": "오늘 매우 춥고 눈이 오고 있다.",
+    "correct": "Hoy hace mucho frío y está nevando.",
+    "wrong": [
+      "Hoy hace mucho calor y está nevando.",
+      "Hoy hace mucho frío y está lloviendo.",
+      "Hoy hace mucho viento y está nevando."
+    ],
+    "explanation": "'frío'는 '추위/추운'이라는 뜻이고, 'nieve'는 '눈', 'nevar'는 '눈이 오다'입니다. 'está nevando' = '눈이 오고 있다'."
+  },
+  "q_vocab_a1_12_006": {
+    "question": "'Vamos a la montaña este fin de semana'에서 'montaña'의 뜻은?",
+    "correct": "산",
+    "wrong": [
+      "해변",
+      "강",
+      "호수"
+    ],
+    "explanation": "'montaña'는 '산'이라는 뜻입니다. 문장 해석: '우리는 이번 주말에 산에 간다.'"
+  },
+  "q_vocab_a1_12_007": {
+    "question": "해변에 가려고 한다. 어떤 날씨를 바라는가?",
+    "correct": "Hace sol y calor.",
+    "wrong": [
+      "Llueve mucho.",
+      "Hace frío y viento.",
+      "Está nevando."
+    ],
+    "explanation": "'Hace sol y calor'는 '맑고 덥다'라는 뜻입니다. 해변에 가기 이상적인 날씨입니다. 'calor'는 '더위/더운'이라는 뜻입니다.",
+    "context": "해변 여행을 계획하는 상황"
+  },
+  "q_vocab_a1_12_008": {
+    "question": "'El río es muy largo'에서 'río'의 뜻은?",
+    "correct": "강",
+    "wrong": [
+      "바다",
+      "호수",
+      "시내"
+    ],
+    "explanation": "'río'는 '강'이라는 뜻입니다. 문장 해석: '그 강은 매우 길다.' 'mar'는 '바다'라는 뜻입니다."
+  },
+  "q_vocab_a1_12_009": {
+    "question": "Las flores son muy bonitas en primavera.",
+    "correct": "꽃들은 봄에 매우 예쁘다.",
+    "wrong": [
+      "나무들은 봄에 매우 예쁘다.",
+      "꽃들은 여름에 매우 예쁘다.",
+      "꽃들은 봄에 매우 크다."
+    ],
+    "explanation": "'flores'는 '꽃들'(단수: 'flor')이라는 뜻입니다. 'bonitas'는 '예쁜'이라는 뜻입니다. 꽃은 보통 'primavera'(봄)에 핍니다."
+  },
+  "q_vocab_a1_12_010": {
+    "question": "일기예보를 보면서 내일 날씨를 알고 싶다. '내일 날씨가 어떨까요?'라고 물으려면?",
+    "correct": "¿Qué tiempo hará mañana?",
+    "wrong": [
+      "¿Qué hora es mañana?",
+      "¿Qué día es mañana?",
+      "¿Cuándo es mañana?"
+    ],
+    "explanation": "'tiempo'는 여기서 '날씨'라는 뜻입니다 ('시간'이라는 뜻도 있음). '¿Qué tiempo hará?'는 'hacer'의 미래형을 사용한 표현입니다.",
+    "context": "TV로 일기예보를 보는 상황"
+  },
+  "q_vocab_a1_13_001": {
+    "question": "'coche'의 뜻은?",
+    "correct": "자동차",
+    "wrong": [
+      "버스",
+      "기차",
+      "자전거"
+    ],
+    "explanation": "'coche'는 '자동차'라는 뜻입니다. 중남미에서는 'carro' 또는 'auto'가 더 흔히 사용됩니다."
+  },
+  "q_vocab_a1_13_002": {
+    "question": "'avión'의 뜻은?",
+    "correct": "비행기",
+    "wrong": [
+      "기차",
+      "배",
+      "헬리콥터"
+    ],
+    "explanation": "'avión'은 '비행기'라는 뜻입니다. 'aeropuerto'는 '공항'이라는 뜻입니다. 'viajar en avión' = '비행기로 여행하다'."
+  },
+  "q_vocab_a1_13_003": {
+    "question": "Voy al trabajo en ___ porque no tengo coche.",
+    "correct": "autobús",
+    "wrong": [
+      "avión",
+      "barco",
+      "taxi"
+    ],
+    "explanation": "'autobús'는 '버스'라는 뜻입니다. 문장 해석: '자동차가 없어서 버스로 출근한다.'"
+  },
+  "q_vocab_a1_13_004": {
+    "question": "'bicicleta'의 뜻은?",
+    "correct": "자전거",
+    "wrong": [
+      "오토바이",
+      "스쿠터",
+      "자동차"
+    ],
+    "explanation": "'bicicleta'는 '자전거'라는 뜻입니다. 일상 대화에서 'bici'로 줄여서 사용하기도 합니다."
+  },
+  "q_vocab_a1_13_005": {
+    "question": "'Tomo el metro para ir al centro'에서 'metro'의 뜻은?",
+    "correct": "지하철",
+    "wrong": [
+      "버스",
+      "택시",
+      "트램"
+    ],
+    "explanation": "'metro'는 '지하철'이라는 뜻입니다. 문장 해석: '시내에 가기 위해 지하철을 탄다.'"
+  },
+  "q_vocab_a1_13_006": {
+    "question": "나는 걸어서 학교에 간다.",
+    "correct": "Voy a la escuela a pie.",
+    "wrong": [
+      "Voy a la escuela en coche.",
+      "Voy a la escuela en tren.",
+      "Voy a la escuela en moto."
+    ],
+    "explanation": "'a pie'는 '걸어서/도보로'라는 뜻입니다. 'ir a pie'(걸어가다)라는 표현을 사용합니다."
+  },
+  "q_vocab_a1_13_007": {
+    "question": "'El tren sale a las ocho'에서 'tren'의 뜻은?",
+    "correct": "기차",
+    "wrong": [
+      "버스",
+      "비행기",
+      "택시"
+    ],
+    "explanation": "'tren'은 '기차'라는 뜻입니다. 문장 해석: '기차는 8시에 출발한다.' 'estación de tren' = '기차역'."
+  },
+  "q_vocab_a1_13_008": {
+    "question": "Quiero viajar a la isla en barco.",
+    "correct": "나는 배를 타고 섬에 가고 싶다.",
+    "wrong": [
+      "나는 비행기를 타고 섬에 가고 싶다.",
+      "나는 배를 타고 도시에 가고 싶다.",
+      "나는 기차를 타고 섬에 가고 싶다."
+    ],
+    "explanation": "'barco'는 '배/선박'이라는 뜻입니다. 'isla'는 '섬'이라는 뜻입니다. 'en barco'는 '배로'라는 뜻입니다."
+  },
+  "q_vocab_a1_13_009": {
+    "question": "공항에 빨리 가야 한다. 가장 좋은 방법은?",
+    "correct": "Voy a tomar un taxi.",
+    "wrong": [
+      "Voy a ir a pie.",
+      "Voy a tomar el barco.",
+      "Voy a ir en bicicleta."
+    ],
+    "explanation": "'taxi'는 스페인어와 한국어 모두 같은 단어입니다. 택시는 공항에 가는 가장 빠르고 실용적인 방법입니다.",
+    "context": "비행기 시간에 늦을 것 같은 상황"
+  },
+  "q_vocab_a1_13_010": {
+    "question": "친구가 출퇴근 방법을 묻는다. '나는 오토바이로 출근한다'라고 말하려면?",
+    "correct": "Voy al trabajo en moto.",
+    "wrong": [
+      "Voy al trabajo en metro.",
+      "Voy al trabajo en taxi.",
+      "Voy al trabajo a pie."
+    ],
+    "explanation": "'moto'는 'motocicleta'(오토바이)의 줄임말입니다. 'en moto'는 '오토바이로'라는 뜻입니다. 'ir en moto'가 자연스러운 표현입니다.",
+    "context": "친구와 일상 통근에 대해 대화하는 상황"
+  },
+  "q_vocab_a1_14_001": {
+    "question": "'comer'의 뜻은?",
+    "correct": "먹다",
+    "wrong": [
+      "마시다",
+      "요리하다",
+      "자다"
+    ],
+    "explanation": "'comer'는 '먹다'라는 뜻입니다. 'la comida'는 '음식' 또는 '식사'(스페인에서는 특히 점심)라는 뜻입니다."
+  },
+  "q_vocab_a1_14_002": {
+    "question": "Me gusta ___ libros por la noche.",
+    "correct": "leer",
+    "wrong": [
+      "ver",
+      "hacer",
+      "dormir"
+    ],
+    "explanation": "'leer'는 '읽다'라는 뜻입니다. 문장 해석: '나는 밤에 책 읽는 것을 좋아한다.'"
+  },
+  "q_vocab_a1_14_003": {
+    "question": "'dormir'의 뜻은?",
+    "correct": "자다",
+    "wrong": [
+      "꿈꾸다",
+      "쉬다",
+      "일어나다"
+    ],
+    "explanation": "'dormir'는 '자다'라는 뜻입니다. 어간 모음이 변하는 동사입니다: duermo, duermes, duerme..."
+  },
+  "q_vocab_a1_14_004": {
+    "question": "'hablar'의 뜻은?",
+    "correct": "말하다",
+    "wrong": [
+      "듣다",
+      "쓰다",
+      "읽다"
+    ],
+    "explanation": "'hablar'는 '말하다/이야기하다'라는 뜻입니다. 'hablar español' = '스페인어를 말하다'."
+  },
+  "q_vocab_a1_14_005": {
+    "question": "나는 매일 아침 창문을 연다.",
+    "correct": "Abro la ventana cada mañana.",
+    "wrong": [
+      "Cierro la ventana cada mañana.",
+      "Abro la puerta cada mañana.",
+      "Abro la ventana cada noche."
+    ],
+    "explanation": "'abrir'는 '열다'라는 뜻입니다. 'abro'는 1인칭 단수(yo) 형태입니다. 반의어는 'cerrar'(닫다)입니다."
+  },
+  "q_vocab_a1_14_006": {
+    "question": "'Escribo un correo electrónico'에서 'escribir'의 뜻은?",
+    "correct": "쓰다",
+    "wrong": [
+      "읽다",
+      "보내다",
+      "타이핑하다"
+    ],
+    "explanation": "'escribir'는 '쓰다'라는 뜻입니다. 문장 해석: '나는 이메일을 쓴다.' 'correo electrónico' = '이메일'."
+  },
+  "q_vocab_a1_14_007": {
+    "question": "버스 정류장에서 버스가 늦고 있다. 지금 하고 있는 행동을 나타내는 동사는?",
+    "correct": "esperar",
+    "wrong": [
+      "correr",
+      "llamar",
+      "dormir"
+    ],
+    "explanation": "'esperar'는 '기다리다'라는 뜻입니다. 'Estoy esperando el autobús' = '나는 버스를 기다리고 있다'.",
+    "context": "늦은 버스를 기다리는 상황"
+  },
+  "q_vocab_a1_14_008": {
+    "question": "'¿Quieres beber algo?'에서 'beber'의 뜻은?",
+    "correct": "마시다",
+    "wrong": [
+      "먹다",
+      "사다",
+      "원하다"
+    ],
+    "explanation": "'beber'는 '마시다'라는 뜻입니다. 문장 해석: '뭐 좀 마실래?' 'tomar'도 '마시다'라는 뜻으로 사용됩니다."
+  },
+  "q_vocab_a1_14_009": {
+    "question": "Me levanto a las siete y me ducho antes de desayunar.",
+    "correct": "나는 7시에 일어나서 아침 식사 전에 샤워한다.",
+    "wrong": [
+      "나는 7시에 자고 저녁 식사 전에 샤워한다.",
+      "나는 7시에 일어나서 샤워 전에 밥을 먹는다.",
+      "나는 8시에 일어나서 아침 식사 전에 샤워한다."
+    ],
+    "explanation": "'levantarse'는 '일어나다', 'ducharse'는 '샤워하다', 'desayunar'는 '아침 식사를 하다'라는 뜻입니다."
+  },
+  "q_vocab_a1_14_010": {
+    "question": "회의 중에 전화가 울린다. 동료에게 해야 할 일을 말하려면?",
+    "correct": "Necesito llamar por teléfono.",
+    "wrong": [
+      "Necesito dormir un poco.",
+      "Necesito comer algo.",
+      "Necesito leer un libro."
+    ],
+    "explanation": "'llamar'는 '전화하다/부르다'라는 뜻입니다. 'llamar por teléfono'는 '전화 통화를 하다'라는 뜻입니다.",
+    "context": "회의 중에 전화가 온 상황"
+  },
+  "q_vocab_a1_15_001": {
+    "question": "'contento'의 뜻은?",
+    "correct": "기쁜 / 만족한",
+    "wrong": [
+      "슬픈",
+      "화난",
+      "피곤한"
+    ],
+    "explanation": "'contento'는 '기쁜/만족한'이라는 뜻입니다. 여성형은 'contenta'입니다. 'feliz'와 비슷하지만 덜 강한 표현입니다."
+  },
+  "q_vocab_a1_15_002": {
+    "question": "'triste'의 뜻은?",
+    "correct": "슬픈",
+    "wrong": [
+      "기쁜",
+      "화난",
+      "지루한"
+    ],
+    "explanation": "'triste'는 '슬픈'이라는 뜻입니다. 다른 형용사와 달리 남성형과 여성형이 같습니다."
+  },
+  "q_vocab_a1_15_003": {
+    "question": "Estoy muy ___ después de trabajar todo el día.",
+    "correct": "cansado",
+    "wrong": [
+      "contento",
+      "nervioso",
+      "aburrido"
+    ],
+    "explanation": "'cansado'는 '피곤한'이라는 뜻입니다. 문장 해석: '하루 종일 일한 후 매우 피곤하다.' 일시적 상태에는 'estar'를 사용합니다."
+  },
+  "q_vocab_a1_15_004": {
+    "question": "'enfermo'의 뜻은?",
+    "correct": "아픈",
+    "wrong": [
+      "건강한",
+      "피곤한",
+      "슬픈"
+    ],
+    "explanation": "'enfermo'는 '아픈/병든'이라는 뜻입니다. 'Estoy enfermo' = '나는 아프다.' 여성형은 'enferma'입니다."
+  },
+  "q_vocab_a1_15_005": {
+    "question": "'Estoy preocupado por el examen'에서 'preocupado'의 뜻은?",
+    "correct": "걱정되는",
+    "wrong": [
+      "흥분한",
+      "긴장한",
+      "지루한"
+    ],
+    "explanation": "'preocupado'는 '걱정되는'이라는 뜻입니다. 문장 해석: '나는 시험이 걱정된다.' 'preocuparse' = '걱정하다'."
+  },
+  "q_vocab_a1_15_006": {
+    "question": "나는 면접 때문에 매우 긴장된다.",
+    "correct": "Estoy muy nervioso por la entrevista.",
+    "wrong": [
+      "Estoy muy contento por la entrevista.",
+      "Estoy muy aburrido por la entrevista.",
+      "Soy muy nervioso por la entrevista."
+    ],
+    "explanation": "'nervioso'는 '긴장한/초조한'이라는 뜻입니다. 긴장은 일시적 상태이므로 'ser'가 아닌 'estar'를 사용합니다.",
+    "hint": "일시적 감정은 'ser'가 아닌 'estar'를 사용합니다"
+  },
+  "q_vocab_a1_15_007": {
+    "question": "'Mi padre está enfadado conmigo'에서 'enfadado'의 뜻은?",
+    "correct": "화난",
+    "wrong": [
+      "기쁜",
+      "자랑스러운",
+      "실망한"
+    ],
+    "explanation": "'enfadado'는 '화난'이라는 뜻입니다. 문장 해석: '아버지가 나에게 화가 나있다.' 중남미에서는 'enojado'가 더 흔합니다."
+  },
+  "q_vocab_a1_15_008": {
+    "question": "¿Cómo estás? — Estoy bien, gracias.",
+    "correct": "어떻게 지내? — 잘 지내, 고마워.",
+    "wrong": [
+      "어떻게 지내? — 안 좋아, 고마워.",
+      "이름이 뭐야? — 잘 지내, 고마워.",
+      "어떻게 지내? — 피곤해, 고마워."
+    ],
+    "explanation": "'bien'은 '좋은/잘'이라는 뜻입니다. 'Estoy bien'은 '¿Cómo estás?'에 대한 표준적인 긍정 대답입니다."
+  },
+  "q_vocab_a1_15_009": {
+    "question": "친구가 깜짝 생일 파티를 받았다. 친구의 반응을 어떻게 표현하겠는가?",
+    "correct": "Está muy sorprendido y emocionado.",
+    "wrong": [
+      "Está muy triste y cansado.",
+      "Está muy enfadado y preocupado.",
+      "Está muy aburrido y nervioso."
+    ],
+    "explanation": "'sorprendido'는 '놀란', 'emocionado'는 '감동한/흥분한'이라는 뜻입니다. 둘 다 일시적 상태이므로 'estar'를 사용합니다.",
+    "context": "깜짝 생일 파티 상황"
+  },
+  "q_vocab_a1_15_010": {
+    "question": "동료가 회사에서 할 일이 없다고 한다. 동료의 기분을 가장 잘 표현하는 단어는?",
+    "correct": "aburrido",
+    "wrong": [
+      "ocupado",
+      "nervioso",
+      "enfermo"
+    ],
+    "explanation": "'aburrido'는 '지루한'이라는 뜻입니다. 반의어는 'ocupado'(바쁜)입니다. 할 일이 없으면 'aburrido'(지루한) 상태가 됩니다.",
+    "context": "회사에서 한가한 날"
   }
 }

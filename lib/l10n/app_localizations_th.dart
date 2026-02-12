@@ -313,6 +313,15 @@ class AppLocalizationsTh extends AppLocalizations {
   String get restorePurchases => 'กู้คืนการซื้อ';
 
   @override
+  String get purchaseFailed => 'การซื้อล้มเหลว';
+
+  @override
+  String get purchasesRestored => 'กู้คืนการซื้อแล้ว';
+
+  @override
+  String get productNotAvailable => 'ไม่สามารถโหลดสินค้าได้';
+
+  @override
   String get studyNotification => 'แจ้งเตือนการเรียน';
 
   @override

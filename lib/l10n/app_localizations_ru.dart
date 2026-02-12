@@ -314,6 +314,15 @@ class AppLocalizationsRu extends AppLocalizations {
   String get restorePurchases => 'Восстановить покупки';
 
   @override
+  String get purchaseFailed => 'Покупка не удалась';
+
+  @override
+  String get purchasesRestored => 'Покупки восстановлены';
+
+  @override
+  String get productNotAvailable => 'Товар недоступен';
+
+  @override
   String get studyNotification => 'Напоминание об обучении';
 
   @override

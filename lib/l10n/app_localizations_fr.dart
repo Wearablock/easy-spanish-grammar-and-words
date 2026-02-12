@@ -318,6 +318,15 @@ class AppLocalizationsFr extends AppLocalizations {
   String get restorePurchases => 'Restaurer les achats';
 
   @override
+  String get purchaseFailed => 'L\'achat a échoué';
+
+  @override
+  String get purchasesRestored => 'Achats restaurés';
+
+  @override
+  String get productNotAvailable => 'Produit non disponible';
+
+  @override
   String get studyNotification => 'Rappel d\'étude';
 
   @override

@@ -311,6 +311,15 @@ class AppLocalizationsKo extends AppLocalizations {
   String get restorePurchases => '구매 복원';
 
   @override
+  String get purchaseFailed => '구매에 실패했습니다';
+
+  @override
+  String get purchasesRestored => '구매가 복원되었습니다';
+
+  @override
+  String get productNotAvailable => '상품을 불러올 수 없습니다';
+
+  @override
   String get studyNotification => '학습 알림';
 
   @override

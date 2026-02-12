@@ -314,6 +314,15 @@ class AppLocalizationsIt extends AppLocalizations {
   String get restorePurchases => 'Ripristina acquisti';
 
   @override
+  String get purchaseFailed => 'Acquisto fallito';
+
+  @override
+  String get purchasesRestored => 'Acquisti ripristinati';
+
+  @override
+  String get productNotAvailable => 'Prodotto non disponibile';
+
+  @override
   String get studyNotification => 'Promemoria studio';
 
   @override

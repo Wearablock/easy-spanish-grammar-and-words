@@ -315,6 +315,15 @@ class AppLocalizationsPt extends AppLocalizations {
   String get restorePurchases => 'Restaurar compras';
 
   @override
+  String get purchaseFailed => 'Falha na compra';
+
+  @override
+  String get purchasesRestored => 'Compras restauradas';
+
+  @override
+  String get productNotAvailable => 'Produto não disponível';
+
+  @override
   String get studyNotification => 'Notificação de estudo';
 
   @override

@@ -315,6 +315,15 @@ class AppLocalizationsEn extends AppLocalizations {
   String get restorePurchases => 'Restore Purchases';
 
   @override
+  String get purchaseFailed => 'Purchase failed';
+
+  @override
+  String get purchasesRestored => 'Purchases restored';
+
+  @override
+  String get productNotAvailable => 'Product not available';
+
+  @override
   String get studyNotification => 'Study Notification';
 
   @override

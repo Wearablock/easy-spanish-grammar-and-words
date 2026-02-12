@@ -5,11 +5,13 @@ import '../../core/config/constants.dart';
 import '../../core/config/setting_keys.dart';
 import '../../core/theme/app_colors.dart';
 import '../../data/providers/database_providers.dart';
+import '../../data/providers/premium_provider.dart';
 import '../../data/providers/study_providers.dart';
 import '../../data/providers/topic_providers.dart';
 import '../../data/providers/notification_providers.dart';
 import '../../data/providers/tts_providers.dart';
 import '../../l10n/app_localizations.dart';
+import '../../services/iap_service.dart';
 import '../../services/tts_service.dart';
 import 'webview_screen.dart';
 
@@ -289,16 +291,7 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
 
           // 5. 프리미엄
           _buildSectionHeader(context, l10n.premium),
-          ListTile(
-            leading: const Icon(Icons.star, color: AppColors.secondary),
-            title: Text(l10n.removeAds),
-            trailing: OutlinedButton(
-              onPressed: () {
-                // TODO: IAP (Phase 6)
-              },
-              child: Text(l10n.purchase),
-            ),
-          ),
+          _buildPremiumTile(l10n),
           const Divider(height: 24),
 
           // Data
@@ -366,6 +359,65 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
     if (rate <= 0.3) return l10n.ttsSpeedSlow;
     if (rate >= 0.6) return l10n.ttsSpeedFast;
     return l10n.ttsSpeedNormal;
+  }
+
+  // ── Premium ──
+
+  Widget _buildPremiumTile(AppLocalizations l10n) {
+    final isPremium = ref.watch(isPremiumProvider);
+    final product = ref.watch(removeAdsProductProvider);
+    final isAvailable = ref.watch(isIAPAvailableProvider);
+
+    if (isPremium) {
+      return ListTile(
+        leading: const Icon(Icons.check_circle, color: Colors.green),
+        title: Text(l10n.removeAds),
+        subtitle: Text(l10n.premiumActivated),
+      );
+    }
+
+    return Column(
+      children: [
+        ListTile(
+          leading: const Icon(Icons.star, color: AppColors.secondary),
+          title: Text(l10n.removeAds),
+          subtitle: Text(
+            isAvailable && product != null
+                ? product.price
+                : l10n.productNotAvailable,
+          ),
+          trailing: OutlinedButton(
+            onPressed: isAvailable && product != null
+                ? () => _purchaseRemoveAds(l10n)
+                : null,
+            child: Text(l10n.purchase),
+          ),
+        ),
+        ListTile(
+          leading: const Icon(Icons.restore),
+          title: Text(l10n.restorePurchases),
+          onTap: () => _restorePurchases(l10n),
+        ),
+      ],
+    );
+  }
+
+  Future<void> _purchaseRemoveAds(AppLocalizations l10n) async {
+    final success = await IAPService().purchaseRemoveAds();
+    if (!success && mounted) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text(l10n.purchaseFailed)),
+      );
+    }
+  }
+
+  Future<void> _restorePurchases(AppLocalizations l10n) async {
+    await IAPService().restorePurchases();
+    if (mounted) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text(l10n.purchasesRestored)),
+      );
+    }
   }
 
   // ── Dialogs ──

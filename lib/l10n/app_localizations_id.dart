@@ -313,6 +313,15 @@ class AppLocalizationsId extends AppLocalizations {
   String get restorePurchases => 'Pulihkan pembelian';
 
   @override
+  String get purchaseFailed => 'Pembelian gagal';
+
+  @override
+  String get purchasesRestored => 'Pembelian dipulihkan';
+
+  @override
+  String get productNotAvailable => 'Produk tidak tersedia';
+
+  @override
   String get studyNotification => 'Pengingat belajar';
 
   @override

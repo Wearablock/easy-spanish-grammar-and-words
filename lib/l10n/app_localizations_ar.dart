@@ -312,6 +312,15 @@ class AppLocalizationsAr extends AppLocalizations {
   String get restorePurchases => 'استعادة المشتريات';
 
   @override
+  String get purchaseFailed => 'فشل الشراء';
+
+  @override
+  String get purchasesRestored => 'تم استعادة المشتريات';
+
+  @override
+  String get productNotAvailable => 'المنتج غير متاح';
+
+  @override
   String get studyNotification => 'تذكير الدراسة';
 
   @override

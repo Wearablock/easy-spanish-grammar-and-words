@@ -1,0 +1,932 @@
+{
+  "q_vocab_a2_01_001": {
+    "question": "What does 'equipaje' mean?",
+    "correct": "luggage",
+    "wrong": ["ticket", "passport", "flight"],
+    "explanation": "'Equipaje' refers to the bags and suitcases you carry when traveling."
+  },
+  "q_vocab_a2_01_002": {
+    "question": "What does 'vuelo' mean?",
+    "correct": "flight",
+    "wrong": ["airport", "gate", "seat"],
+    "explanation": "'Vuelo' means 'flight'. It comes from the verb 'volar' (to fly)."
+  },
+  "q_vocab_a2_01_003": {
+    "question": "Necesito ___ mi maleta antes de ir al aeropuerto.",
+    "correct": "facturar",
+    "wrong": ["embarcar", "aterrizar", "despegar"],
+    "explanation": "'Facturar' means 'to check in' luggage at the airport. You check in your suitcase before going to the gate."
+  },
+  "q_vocab_a2_01_004": {
+    "question": "What does 'pasaporte' mean?",
+    "correct": "passport",
+    "wrong": ["boarding pass", "visa", "ticket"],
+    "explanation": "'Pasaporte' is the official travel document needed to enter another country."
+  },
+  "q_vocab_a2_01_005": {
+    "question": "What does 'reserva' mean in the context of travel?",
+    "correct": "reservation",
+    "wrong": ["receipt", "refund", "departure"],
+    "explanation": "'Reserva' means 'reservation' or 'booking'. You make a 'reserva' at a hotel or restaurant."
+  },
+  "q_vocab_a2_01_006": {
+    "question": "I want to book a hotel room.",
+    "correct": "Quiero reservar una habitación de hotel.",
+    "wrong": ["Quiero facturar una habitación de hotel.", "Quiero embarcar una habitación de hotel.", "Quiero viajar una habitación de hotel."],
+    "explanation": "'Reservar' means 'to book/reserve'. 'Habitación' is the word for a hotel room."
+  },
+  "q_vocab_a2_01_007": {
+    "question": "What does 'billete' mean in 'Compré un billete de avión'?",
+    "correct": "ticket",
+    "wrong": ["suitcase", "seat", "passport"],
+    "explanation": "'Billete' means 'ticket'. In Latin America, 'boleto' is more commonly used. 'Billete de avión' is a plane ticket."
+  },
+  "q_vocab_a2_01_008": {
+    "question": "El turista tiene dos maletas grandes.",
+    "correct": "The tourist has two large suitcases.",
+    "wrong": ["The tourist has two large tickets.", "The tourist has two large passports.", "The tourist has two large rooms."],
+    "explanation": "'Turista' means 'tourist', and 'maleta' means 'suitcase'. 'Grandes' means 'large'."
+  },
+  "q_vocab_a2_01_009": {
+    "question": "You arrive at the airport and need to find where to leave your checked bags. What do you ask for?",
+    "correct": "el mostrador de facturación",
+    "wrong": ["la puerta de embarque", "la sala de espera", "la oficina de turismo"],
+    "explanation": "'El mostrador de facturación' is the check-in counter where you drop off your checked luggage.",
+    "context": "At the airport entrance with heavy luggage"
+  },
+  "q_vocab_a2_01_010": {
+    "question": "You want to confirm your trip details at the hotel front desk. What do you say?",
+    "correct": "Tengo una reserva a nombre de...",
+    "wrong": ["Quiero facturar mi equipaje.", "Necesito un billete de avión.", "¿Dónde está la puerta de embarque?"],
+    "explanation": "'Tengo una reserva a nombre de...' means 'I have a reservation under the name of...' This is the standard phrase when checking in at a hotel.",
+    "context": "Arriving at a hotel reception"
+  },
+  "q_vocab_a2_02_001": {
+    "question": "What does 'médico' mean?",
+    "correct": "doctor",
+    "wrong": ["nurse", "patient", "pharmacist"],
+    "explanation": "'Médico' means 'doctor'. It can also be used as an adjective meaning 'medical'."
+  },
+  "q_vocab_a2_02_002": {
+    "question": "El ___ me recetó unas pastillas para la fiebre.",
+    "correct": "médico",
+    "wrong": ["paciente", "enfermero", "farmacéutico"],
+    "explanation": "'Médico' (doctor) is the person who prescribes ('recetar') medicine. The sentence means 'The doctor prescribed me some pills for the fever.'"
+  },
+  "q_vocab_a2_02_003": {
+    "question": "What does 'farmacia' mean?",
+    "correct": "pharmacy",
+    "wrong": ["hospital", "clinic", "laboratory"],
+    "explanation": "'Farmacia' is where you buy medicines. In Spain, they are marked with a green cross sign."
+  },
+  "q_vocab_a2_02_004": {
+    "question": "What does 'receta' mean in a medical context?",
+    "correct": "prescription",
+    "wrong": ["receipt", "appointment", "diagnosis"],
+    "explanation": "'Receta' means 'prescription' in a medical context. Note that 'receta' can also mean 'recipe' in cooking."
+  },
+  "q_vocab_a2_02_005": {
+    "question": "I have a headache and a fever.",
+    "correct": "Tengo dolor de cabeza y fiebre.",
+    "wrong": ["Tengo gripe y resfriado.", "Tengo tos y estornudos.", "Tengo receta y pastillas."],
+    "explanation": "'Dolor de cabeza' means 'headache' and 'fiebre' means 'fever'. 'Tener' is used with symptoms in Spanish."
+  },
+  "q_vocab_a2_02_006": {
+    "question": "What does 'enfermera' mean in 'La enfermera me puso una inyección'?",
+    "correct": "nurse",
+    "wrong": ["doctor", "surgeon", "receptionist"],
+    "explanation": "'Enfermera' means 'nurse' (female). The masculine form is 'enfermero'. The sentence means 'The nurse gave me an injection.'"
+  },
+  "q_vocab_a2_02_007": {
+    "question": "You feel sick and need to describe your symptoms at the doctor's office. You have a cough and a runny nose. What do you say?",
+    "correct": "Tengo tos y estoy resfriado.",
+    "wrong": ["Me duele la pierna y no puedo caminar.", "Tengo fiebre y me duele la cabeza.", "Me duele el estómago y tengo náuseas."],
+    "explanation": "'Tos' means 'cough' and 'resfriado' means 'cold'. These are typical symptoms of a common cold.",
+    "context": "At the doctor's office describing cold symptoms"
+  },
+  "q_vocab_a2_02_008": {
+    "question": "What does 'pastilla' mean in 'Toma una pastilla cada ocho horas'?",
+    "correct": "pill",
+    "wrong": ["syrup", "bandage", "injection"],
+    "explanation": "'Pastilla' means 'pill' or 'tablet'. The sentence means 'Take one pill every eight hours.'"
+  },
+  "q_vocab_a2_02_009": {
+    "question": "Me duele mucho la garganta y no puedo hablar.",
+    "correct": "My throat hurts a lot and I can't speak.",
+    "wrong": ["My head hurts a lot and I can't sleep.", "My stomach hurts a lot and I can't eat.", "My back hurts a lot and I can't walk."],
+    "explanation": "'Garganta' means 'throat'. 'Doler' is used to express pain. The construction 'me duele' means 'it hurts me'."
+  },
+  "q_vocab_a2_02_010": {
+    "question": "You are at a pharmacy and need cold medicine but don't have a prescription. What do you ask?",
+    "correct": "¿Tiene algo para el resfriado sin receta?",
+    "wrong": ["¿Dónde está el hospital más cercano?", "¿Puede darme una cita con el médico?", "¿Cuánto cuesta la consulta?"],
+    "explanation": "'Sin receta' means 'without a prescription'. Many basic medicines in Spain can be bought over the counter ('sin receta').",
+    "context": "At a pharmacy feeling ill without a doctor's prescription"
+  },
+  "q_vocab_a2_03_001": {
+    "question": "What does 'partido' mean in the context of sports?",
+    "correct": "match/game",
+    "wrong": ["team", "score", "stadium"],
+    "explanation": "'Partido' means 'match' or 'game' in sports. For example, 'un partido de fútbol' is a football match."
+  },
+  "q_vocab_a2_03_002": {
+    "question": "What does 'equipo' mean in 'Mi equipo favorito ganó el partido'?",
+    "correct": "team",
+    "wrong": ["player", "coach", "stadium"],
+    "explanation": "'Equipo' means 'team'. The sentence means 'My favorite team won the match.'"
+  },
+  "q_vocab_a2_03_003": {
+    "question": "Los fines de semana me gusta ___ al baloncesto con mis amigos.",
+    "correct": "jugar",
+    "wrong": ["nadar", "correr", "pintar"],
+    "explanation": "'Jugar' means 'to play'. In Spanish, you say 'jugar al baloncesto' (play basketball) using the preposition 'al'."
+  },
+  "q_vocab_a2_03_004": {
+    "question": "What does 'natación' mean?",
+    "correct": "swimming",
+    "wrong": ["running", "cycling", "hiking"],
+    "explanation": "'Natación' is the sport of swimming. The verb is 'nadar' (to swim)."
+  },
+  "q_vocab_a2_03_005": {
+    "question": "What does 'ganar' mean in 'Nuestro equipo va a ganar la final'?",
+    "correct": "to win",
+    "wrong": ["to lose", "to play", "to score"],
+    "explanation": "'Ganar' means 'to win'. The opposite is 'perder' (to lose). The sentence means 'Our team is going to win the final.'"
+  },
+  "q_vocab_a2_03_006": {
+    "question": "On weekends I like to run in the park.",
+    "correct": "Los fines de semana me gusta correr en el parque.",
+    "wrong": ["Los fines de semana me gusta nadar en el parque.", "Los fines de semana me gusta jugar en el parque.", "Los fines de semana me gusta bailar en el parque."],
+    "explanation": "'Correr' means 'to run'. 'Me gusta' followed by an infinitive expresses what you like to do."
+  },
+  "q_vocab_a2_03_007": {
+    "question": "What does 'practicar' mean in 'Quiero practicar tenis este verano'?",
+    "correct": "to practice/to play (a sport)",
+    "wrong": ["to watch", "to teach", "to compete"],
+    "explanation": "'Practicar' means 'to practice' or 'to play' a sport. Unlike 'jugar', 'practicar' doesn't require the preposition 'al'."
+  },
+  "q_vocab_a2_03_008": {
+    "question": "Mi hermana perdió el partido de tenis ayer.",
+    "correct": "My sister lost the tennis match yesterday.",
+    "wrong": ["My sister won the tennis match yesterday.", "My sister played the tennis match yesterday.", "My sister watched the tennis match yesterday."],
+    "explanation": "'Perder' means 'to lose'. 'Perdió' is the past tense (pretérito). The opposite is 'ganar' (to win)."
+  },
+  "q_vocab_a2_03_009": {
+    "question": "Your friend asks what hobbies you have. You enjoy painting and dancing. What do you say?",
+    "correct": "Me gusta pintar y bailar.",
+    "wrong": ["Me gusta correr y nadar.", "Me gusta jugar al fútbol y al tenis.", "Me gusta leer y escribir."],
+    "explanation": "'Pintar' means 'to paint' and 'bailar' means 'to dance'. Both are common hobbies expressed with 'me gusta' + infinitive.",
+    "context": "Chatting with a friend about hobbies"
+  },
+  "q_vocab_a2_03_010": {
+    "question": "You want to join a local sports club. You tell the receptionist which sport you want to play. What do you say?",
+    "correct": "Quiero apuntarme al equipo de fútbol.",
+    "wrong": ["Quiero ver el partido de fútbol.", "Quiero comprar una entrada de fútbol.", "Quiero ganar el campeonato de fútbol."],
+    "explanation": "'Apuntarse' means 'to sign up' or 'to join'. 'Equipo' here refers to the team you want to join.",
+    "context": "At the reception of a sports club"
+  },
+  "q_vocab_a2_04_001": {
+    "question": "What does 'oferta' mean?",
+    "correct": "sale/offer",
+    "wrong": ["price", "change", "receipt"],
+    "explanation": "'Oferta' means 'sale' or 'special offer'. You might see signs saying 'en oferta' (on sale) in shops."
+  },
+  "q_vocab_a2_04_002": {
+    "question": "Esta camisa es muy ___, cuesta solo cinco euros.",
+    "correct": "barata",
+    "wrong": ["cara", "bonita", "grande"],
+    "explanation": "'Barata' means 'cheap' (feminine). The sentence means 'This shirt is very cheap, it costs only five euros.'"
+  },
+  "q_vocab_a2_04_003": {
+    "question": "What does 'supermercado' mean?",
+    "correct": "supermarket",
+    "wrong": ["shopping mall", "department store", "corner shop"],
+    "explanation": "'Supermercado' is a large store where you buy groceries and household items."
+  },
+  "q_vocab_a2_04_004": {
+    "question": "What does 'talla' mean in 'Necesito una talla más grande'?",
+    "correct": "size (clothing)",
+    "wrong": ["color", "price", "style"],
+    "explanation": "'Talla' refers to clothing size. The sentence means 'I need a bigger size.'"
+  },
+  "q_vocab_a2_04_005": {
+    "question": "Can I pay by credit card?",
+    "correct": "¿Puedo pagar con tarjeta de crédito?",
+    "wrong": ["¿Puedo pagar con efectivo?", "¿Puedo devolver con tarjeta de crédito?", "¿Puedo comprar una tarjeta de crédito?"],
+    "explanation": "'Tarjeta de crédito' means 'credit card'. 'Pagar con' means 'to pay with'."
+  },
+  "q_vocab_a2_04_006": {
+    "question": "What does 'devolver' mean in '¿Puedo devolver este producto?'?",
+    "correct": "to return (an item)",
+    "wrong": ["to exchange", "to buy", "to try on"],
+    "explanation": "'Devolver' means 'to return' something to a shop. The sentence means 'Can I return this product?'"
+  },
+  "q_vocab_a2_04_007": {
+    "question": "You see a dress you like but want to try it on first. What do you ask the shop assistant?",
+    "correct": "¿Puedo probarme este vestido?",
+    "wrong": ["¿Puedo devolver este vestido?", "¿Puedo pagar este vestido?", "¿Puedo comprar este vestido?"],
+    "explanation": "'Probarse' means 'to try on' clothes. It is a reflexive verb. The fitting room is 'el probador'.",
+    "context": "In a clothing store looking at a dress"
+  },
+  "q_vocab_a2_04_008": {
+    "question": "What does 'precio' mean in 'El precio es demasiado alto'?",
+    "correct": "price",
+    "wrong": ["quality", "discount", "receipt"],
+    "explanation": "'Precio' means 'price'. The sentence means 'The price is too high.' 'Demasiado' means 'too much'."
+  },
+  "q_vocab_a2_04_009": {
+    "question": "En el centro comercial hay muchas tiendas con rebajas.",
+    "correct": "In the shopping mall there are many shops with sales.",
+    "wrong": ["In the supermarket there are many products with discounts.", "In the city center there are many shops with returns.", "In the shopping mall there are many prices with offers."],
+    "explanation": "'Centro comercial' means 'shopping mall'. 'Rebajas' means 'sales' (price reductions), similar to 'ofertas'."
+  },
+  "q_vocab_a2_04_010": {
+    "question": "You bought shoes online but they are too small. You call customer service to arrange a return. What do you say?",
+    "correct": "Quiero devolver estos zapatos porque la talla es pequeña.",
+    "wrong": ["Quiero comprar estos zapatos porque la talla es pequeña.", "Quiero probarme estos zapatos porque la talla es pequeña.", "Quiero pagar estos zapatos porque la talla es pequeña."],
+    "explanation": "'Devolver' means 'to return'. You explain the reason using 'porque' (because) and mention the size issue.",
+    "context": "Calling customer service about ill-fitting shoes bought online"
+  },
+  "q_vocab_a2_05_001": {
+    "question": "What does 'camarero' mean?",
+    "correct": "waiter",
+    "wrong": ["chef", "customer", "cashier"],
+    "explanation": "'Camarero' means 'waiter'. The feminine form is 'camarera' (waitress)."
+  },
+  "q_vocab_a2_05_002": {
+    "question": "What does 'cuenta' mean in '¿Me trae la cuenta, por favor?'?",
+    "correct": "bill/check",
+    "wrong": ["menu", "tip", "receipt"],
+    "explanation": "'Cuenta' means 'bill' or 'check' in a restaurant. The sentence means 'Could you bring me the bill, please?'"
+  },
+  "q_vocab_a2_05_003": {
+    "question": "De ___, quiero la sopa de verduras.",
+    "correct": "primer plato",
+    "wrong": ["segundo plato", "postre", "bebida"],
+    "explanation": "'Primer plato' means 'first course' or 'starter'. In Spanish restaurants, meals often have a 'primer plato', 'segundo plato', and 'postre'."
+  },
+  "q_vocab_a2_05_004": {
+    "question": "What does 'propina' mean?",
+    "correct": "tip",
+    "wrong": ["bill", "menu", "reservation"],
+    "explanation": "'Propina' means 'tip' (money left for service). Tipping is less common in Spain than in some other countries."
+  },
+  "q_vocab_a2_05_005": {
+    "question": "What does 'recomendar' mean in '¿Qué me recomienda?'?",
+    "correct": "to recommend",
+    "wrong": ["to order", "to serve", "to bring"],
+    "explanation": "'Recomendar' means 'to recommend'. The question '¿Qué me recomienda?' means 'What do you recommend?' using the formal 'usted' form."
+  },
+  "q_vocab_a2_05_006": {
+    "question": "I would like to order the grilled chicken, please.",
+    "correct": "Quiero pedir el pollo a la plancha, por favor.",
+    "wrong": ["Quiero recomendar el pollo a la plancha, por favor.", "Quiero traer el pollo a la plancha, por favor.", "Quiero cocinar el pollo a la plancha, por favor."],
+    "explanation": "'Pedir' means 'to order' in a restaurant. 'Pollo a la plancha' means 'grilled chicken'."
+  },
+  "q_vocab_a2_05_007": {
+    "question": "What does 'menú' mean in '¿Tiene el menú del día?'?",
+    "correct": "set meal/menu",
+    "wrong": ["reservation", "special dish", "drinks list"],
+    "explanation": "'Menú del día' is a set meal offered at a fixed price in many Spanish restaurants, typically including a starter, main, dessert, and drink."
+  },
+  "q_vocab_a2_05_008": {
+    "question": "El camarero nos dijo: ¡Buen provecho!",
+    "correct": "The waiter said to us: Enjoy your meal!",
+    "wrong": ["The waiter said to us: Welcome!", "The waiter said to us: Good afternoon!", "The waiter said to us: See you soon!"],
+    "explanation": "'¡Buen provecho!' is equivalent to 'Enjoy your meal!' or 'Bon appétit!' It is commonly said before eating."
+  },
+  "q_vocab_a2_05_009": {
+    "question": "You are at a restaurant and want to ask if they have a table for two. What do you say?",
+    "correct": "¿Tiene una mesa para dos, por favor?",
+    "wrong": ["¿Tiene un menú para dos, por favor?", "¿Tiene una cuenta para dos, por favor?", "¿Tiene una reserva para dos, por favor?"],
+    "explanation": "'Mesa' means 'table'. This is a common phrase when arriving at a restaurant without a reservation.",
+    "context": "Arriving at a restaurant without a reservation"
+  },
+  "q_vocab_a2_05_010": {
+    "question": "After finishing your meal, you want to pay and leave. What do you say to get the waiter's attention?",
+    "correct": "¡Perdone! ¿Me trae la cuenta, por favor?",
+    "wrong": ["¡Perdone! ¿Me trae el menú, por favor?", "¡Perdone! ¿Me trae el postre, por favor?", "¡Perdone! ¿Me trae la propina, por favor?"],
+    "explanation": "'¡Perdone!' is a polite way to get someone's attention. '¿Me trae la cuenta?' means 'Could you bring me the bill?'",
+    "context": "Finishing a meal at a restaurant and wanting to pay"
+  },
+  "q_vocab_a2_06_001": {
+    "question": "What does 'semáforo' mean?",
+    "correct": "traffic light",
+    "wrong": ["crosswalk", "roundabout", "intersection"],
+    "explanation": "'Semáforo' means 'traffic light'. You often hear directions like 'Gire a la derecha en el semáforo.'"
+  },
+  "q_vocab_a2_06_002": {
+    "question": "La panadería está en la ___ de la calle Mayor y la calle Sol.",
+    "correct": "esquina",
+    "wrong": ["plaza", "calle", "acera"],
+    "explanation": "'Esquina' means 'corner'. The sentence means 'The bakery is on the corner of Mayor Street and Sol Street.'"
+  },
+  "q_vocab_a2_06_003": {
+    "question": "What does 'girar' mean in 'Gire a la izquierda en el semáforo'?",
+    "correct": "to turn",
+    "wrong": ["to stop", "to cross", "to continue"],
+    "explanation": "'Girar' means 'to turn'. 'Gire a la izquierda' means 'turn left'. It is in the formal imperative form."
+  },
+  "q_vocab_a2_06_004": {
+    "question": "What does 'enfrente de' mean?",
+    "correct": "in front of / across from",
+    "wrong": ["behind", "next to", "far from"],
+    "explanation": "'Enfrente de' means 'in front of' or 'across from'. For example, 'El museo está enfrente de la iglesia.'"
+  },
+  "q_vocab_a2_06_005": {
+    "question": "Go straight and the museum is on the right.",
+    "correct": "Siga recto y el museo está a la derecha.",
+    "wrong": ["Gire recto y el museo está a la derecha.", "Siga recto y el museo está a la izquierda.", "Cruce recto y el museo está a la derecha."],
+    "explanation": "'Seguir recto' means 'to go straight'. 'A la derecha' means 'on the right'. 'Siga' is the formal imperative of 'seguir'."
+  },
+  "q_vocab_a2_06_006": {
+    "question": "What does 'plaza' mean in 'Quedamos en la plaza Mayor a las cinco'?",
+    "correct": "square (public space)",
+    "wrong": ["street", "park", "building"],
+    "explanation": "'Plaza' means 'square', a public open space in a city. 'Plaza Mayor' is the main square, found in many Spanish cities."
+  },
+  "q_vocab_a2_06_007": {
+    "question": "You are lost and need to find the nearest bank. You stop a passerby. What do you ask?",
+    "correct": "Perdone, ¿sabe dónde hay un banco cerca de aquí?",
+    "wrong": ["Perdone, ¿sabe dónde hay una iglesia cerca de aquí?", "Perdone, ¿sabe cuánto cuesta el banco?", "Perdone, ¿sabe a qué hora abre el museo?"],
+    "explanation": "'¿Dónde hay un banco?' means 'Where is there a bank?' 'Cerca de aquí' means 'near here'.",
+    "context": "Lost in a Spanish city and looking for a bank"
+  },
+  "q_vocab_a2_06_008": {
+    "question": "What does 'lejos' mean in 'El aeropuerto está lejos del centro'?",
+    "correct": "far",
+    "wrong": ["near", "behind", "above"],
+    "explanation": "'Lejos' means 'far'. The opposite is 'cerca' (near). The sentence means 'The airport is far from the center.'"
+  },
+  "q_vocab_a2_06_009": {
+    "question": "La iglesia está entre el banco y el museo.",
+    "correct": "The church is between the bank and the museum.",
+    "wrong": ["The church is next to the bank and the museum.", "The church is far from the bank and the museum.", "The church is across from the bank and the museum."],
+    "explanation": "'Entre' means 'between'. 'Iglesia' means 'church'. This preposition is used to indicate location between two points."
+  },
+  "q_vocab_a2_06_010": {
+    "question": "A tourist asks you for directions to the cathedral. It's two blocks away, then left. What do you say?",
+    "correct": "Siga recto dos calles y gire a la izquierda.",
+    "wrong": ["Cruce la plaza y la catedral está enfrente.", "Gire a la derecha y siga recto.", "Está muy lejos, necesita un taxi."],
+    "explanation": "'Siga recto dos calles' means 'Go straight for two blocks'. 'Gire a la izquierda' means 'turn left'.",
+    "context": "A tourist stops you on the street asking for directions"
+  },
+  "q_vocab_a2_07_001": {
+    "question": "What does 'barrer' mean?",
+    "correct": "to sweep",
+    "wrong": ["to mop", "to dust", "to vacuum"],
+    "explanation": "'Barrer' means 'to sweep' the floor, usually with a broom ('escoba')."
+  },
+  "q_vocab_a2_07_002": {
+    "question": "What does 'planchar' mean?",
+    "correct": "to iron",
+    "wrong": ["to fold", "to wash", "to dry"],
+    "explanation": "'Planchar' means 'to iron' clothes. The iron is called 'la plancha'."
+  },
+  "q_vocab_a2_07_003": {
+    "question": "Después de comer, hay que ___ los platos.",
+    "correct": "fregar",
+    "wrong": ["barrer", "planchar", "ordenar"],
+    "explanation": "'Fregar' means 'to wash/scrub' (dishes). 'Fregar los platos' means 'to wash the dishes'."
+  },
+  "q_vocab_a2_07_004": {
+    "question": "What does 'sacar la basura' mean?",
+    "correct": "to take out the trash",
+    "wrong": ["to clean the bathroom", "to do the laundry", "to vacuum the floor"],
+    "explanation": "'Sacar la basura' means 'to take out the trash'. 'Basura' means 'garbage/trash'."
+  },
+  "q_vocab_a2_07_005": {
+    "question": "What does 'limpiar' mean in 'Tengo que limpiar la casa antes de la fiesta'?",
+    "correct": "to clean",
+    "wrong": ["to decorate", "to organize", "to paint"],
+    "explanation": "'Limpiar' means 'to clean'. The sentence means 'I have to clean the house before the party.'"
+  },
+  "q_vocab_a2_07_006": {
+    "question": "I need to make the bed and tidy up my room.",
+    "correct": "Necesito hacer la cama y ordenar mi habitación.",
+    "wrong": ["Necesito lavar la cama y limpiar mi habitación.", "Necesito barrer la cama y fregar mi habitación.", "Necesito planchar la cama y cocinar mi habitación."],
+    "explanation": "'Hacer la cama' means 'to make the bed'. 'Ordenar' means 'to tidy up' or 'to organize'."
+  },
+  "q_vocab_a2_07_007": {
+    "question": "What does 'pasar la aspiradora' mean?",
+    "correct": "to vacuum",
+    "wrong": ["to sweep", "to mop", "to dust"],
+    "explanation": "'Pasar la aspiradora' literally means 'to pass the vacuum cleaner'. It is the standard expression for vacuuming in Spanish."
+  },
+  "q_vocab_a2_07_008": {
+    "question": "Mi madre siempre cocina y mi padre lava la ropa.",
+    "correct": "My mother always cooks and my father does the laundry.",
+    "wrong": ["My mother always cleans and my father irons the clothes.", "My mother always sweeps and my father folds the clothes.", "My mother always cooks and my father irons the clothes."],
+    "explanation": "'Cocinar' means 'to cook' and 'lavar la ropa' means 'to do the laundry'. 'Siempre' means 'always'."
+  },
+  "q_vocab_a2_07_009": {
+    "question": "Your roommate asks you to help with chores this weekend. You offer to vacuum and take out the trash. What do you say?",
+    "correct": "Yo puedo pasar la aspiradora y sacar la basura.",
+    "wrong": ["Yo puedo cocinar y hacer la cama.", "Yo puedo planchar y lavar la ropa.", "Yo puedo fregar los platos y barrer."],
+    "explanation": "'Pasar la aspiradora' is 'to vacuum' and 'sacar la basura' is 'to take out the trash'. 'Puedo' means 'I can'.",
+    "context": "Dividing household chores with your roommate"
+  },
+  "q_vocab_a2_07_010": {
+    "question": "You just moved into a new apartment and need to clean everything. You describe to a friend what you need to do. What do you say?",
+    "correct": "Tengo que limpiar todo: barrer, fregar y pasar la aspiradora.",
+    "wrong": ["Tengo que cocinar todo: hacer la cama, planchar y recoger.", "Tengo que comprar todo: muebles, platos y ropa.", "Tengo que ordenar todo: pintar, decorar y colgar cuadros."],
+    "explanation": "'Tengo que' means 'I have to'. Listing cleaning tasks with 'barrer' (sweep), 'fregar' (scrub/mop), and 'pasar la aspiradora' (vacuum) covers deep cleaning.",
+    "context": "Just moved into a new apartment that needs thorough cleaning"
+  },
+  "q_vocab_a2_08_001": {
+    "question": "What does 'contraseña' mean?",
+    "correct": "password",
+    "wrong": ["username", "email", "account"],
+    "explanation": "'Contraseña' means 'password'. It comes from 'contra' (against) and 'seña' (sign)."
+  },
+  "q_vocab_a2_08_002": {
+    "question": "No puedo entrar en mi correo porque olvidé la ___.",
+    "correct": "contraseña",
+    "wrong": ["pantalla", "aplicación", "página web"],
+    "explanation": "'Contraseña' means 'password'. The sentence means 'I can't access my email because I forgot the password.'"
+  },
+  "q_vocab_a2_08_003": {
+    "question": "What does 'pantalla' mean?",
+    "correct": "screen",
+    "wrong": ["keyboard", "mouse", "speaker"],
+    "explanation": "'Pantalla' means 'screen'. It can refer to a computer screen, phone screen, or TV screen."
+  },
+  "q_vocab_a2_08_004": {
+    "question": "What does 'descargar' mean in 'Voy a descargar la aplicación'?",
+    "correct": "to download",
+    "wrong": ["to upload", "to delete", "to open"],
+    "explanation": "'Descargar' means 'to download'. The opposite is 'cargar' (to upload/charge). The sentence means 'I'm going to download the app.'"
+  },
+  "q_vocab_a2_08_005": {
+    "question": "I need to send an email to my boss.",
+    "correct": "Necesito enviar un correo electrónico a mi jefe.",
+    "wrong": ["Necesito descargar un correo electrónico a mi jefe.", "Necesito abrir un correo electrónico a mi jefe.", "Necesito borrar un correo electrónico a mi jefe."],
+    "explanation": "'Enviar' means 'to send'. 'Correo electrónico' means 'email'. 'Jefe' means 'boss'."
+  },
+  "q_vocab_a2_08_006": {
+    "question": "What does 'teclado' mean in 'Este teclado no funciona bien'?",
+    "correct": "keyboard",
+    "wrong": ["screen", "mouse", "printer"],
+    "explanation": "'Teclado' means 'keyboard'. It comes from 'tecla' (key). The sentence means 'This keyboard doesn't work well.'"
+  },
+  "q_vocab_a2_08_007": {
+    "question": "You want to show a friend a website. What do you say?",
+    "correct": "Mira esta página web, es muy interesante.",
+    "wrong": ["Descarga esta aplicación, es muy interesante.", "Envía este correo, es muy interesante.", "Escribe esta contraseña, es muy interesante."],
+    "explanation": "'Página web' means 'webpage' or 'website'. 'Mira' is the informal imperative of 'mirar' (to look).",
+    "context": "Showing a friend something interesting on the internet"
+  },
+  "q_vocab_a2_08_008": {
+    "question": "What does 'móvil' mean in 'He perdido mi móvil'?",
+    "correct": "mobile phone / cell phone",
+    "wrong": ["wallet", "laptop", "tablet"],
+    "explanation": "'Móvil' means 'mobile phone' in Spain. In Latin America, 'celular' is more common. The sentence means 'I've lost my mobile phone.'"
+  },
+  "q_vocab_a2_08_009": {
+    "question": "¿Puedes enviarme el documento por correo electrónico?",
+    "correct": "Can you send me the document by email?",
+    "wrong": ["Can you download the document from email?", "Can you print the document from email?", "Can you delete the document from email?"],
+    "explanation": "'Enviar' means 'to send'. 'Por correo electrónico' means 'by email'. This is a common request in work contexts."
+  },
+  "q_vocab_a2_08_010": {
+    "question": "Your computer is very slow and you need help. You call tech support. What do you say?",
+    "correct": "Mi ordenador va muy lento y no puedo abrir las aplicaciones.",
+    "wrong": ["Mi teclado va muy lento y no puedo escribir los correos.", "Mi pantalla va muy lento y no puedo ver las páginas.", "Mi contraseña va muy lento y no puedo entrar en internet."],
+    "explanation": "'Ordenador' means 'computer' (Spain). 'Va muy lento' means 'is very slow'. 'Aplicaciones' means 'applications/apps'.",
+    "context": "Calling tech support because your computer is running slowly"
+  },
+  "q_vocab_a2_09_001": {
+    "question": "What does 'boda' mean?",
+    "correct": "wedding",
+    "wrong": ["birthday", "anniversary", "baptism"],
+    "explanation": "'Boda' means 'wedding'. The related verb is 'casarse' (to get married)."
+  },
+  "q_vocab_a2_09_002": {
+    "question": "What does 'regalo' mean?",
+    "correct": "gift/present",
+    "wrong": ["card", "decoration", "invitation"],
+    "explanation": "'Regalo' means 'gift' or 'present'. The verb 'regalar' means 'to give a gift'."
+  },
+  "q_vocab_a2_09_003": {
+    "question": "En la fiesta de Navidad, los niños abren sus ___ debajo del árbol.",
+    "correct": "regalos",
+    "wrong": ["tartas", "velas", "tradiciones"],
+    "explanation": "'Regalos' means 'gifts'. In Spain, children traditionally receive gifts on January 6th (Día de Reyes), not December 25th."
+  },
+  "q_vocab_a2_09_004": {
+    "question": "What does 'cumpleaños' mean?",
+    "correct": "birthday",
+    "wrong": ["wedding", "anniversary", "holiday"],
+    "explanation": "'Cumpleaños' means 'birthday'. It comes from 'cumplir años' (to turn years old). It is the same in singular and plural."
+  },
+  "q_vocab_a2_09_005": {
+    "question": "What does 'felicitar' mean in 'Quiero felicitar a María por su boda'?",
+    "correct": "to congratulate",
+    "wrong": ["to invite", "to celebrate", "to surprise"],
+    "explanation": "'Felicitar' means 'to congratulate'. The sentence means 'I want to congratulate María on her wedding.'"
+  },
+  "q_vocab_a2_09_006": {
+    "question": "We are going to celebrate my sister's birthday on Saturday.",
+    "correct": "Vamos a celebrar el cumpleaños de mi hermana el sábado.",
+    "wrong": ["Vamos a invitar el cumpleaños de mi hermana el sábado.", "Vamos a felicitar el cumpleaños de mi hermana el sábado.", "Vamos a brindar el cumpleaños de mi hermana el sábado."],
+    "explanation": "'Celebrar' means 'to celebrate'. 'Vamos a' + infinitive expresses future plans, meaning 'we are going to'."
+  },
+  "q_vocab_a2_09_007": {
+    "question": "What does 'brindar' mean in 'Vamos a brindar por los novios'?",
+    "correct": "to toast (raise a glass)",
+    "wrong": ["to dance", "to sing", "to cheer"],
+    "explanation": "'Brindar' means 'to toast' or 'to raise a glass'. 'Los novios' refers to the bride and groom. 'Brindar por' means 'to toast to'."
+  },
+  "q_vocab_a2_09_008": {
+    "question": "Los invitados cantaron y bailaron en la fiesta toda la noche.",
+    "correct": "The guests sang and danced at the party all night.",
+    "wrong": ["The hosts sang and danced at the party all night.", "The guests ate and drank at the party all night.", "The guests talked and laughed at the party all night."],
+    "explanation": "'Invitados' means 'guests'. 'Cantar' means 'to sing' and 'bailar' means 'to dance'. 'Toda la noche' means 'all night'."
+  },
+  "q_vocab_a2_09_009": {
+    "question": "It's your colleague's birthday. You want to wish them well at the office. What do you say?",
+    "correct": "¡Feliz cumpleaños! ¡Que cumplas muchos más!",
+    "wrong": ["¡Buen provecho! ¡Que disfrutes!", "¡Enhorabuena! ¡Que tengas suerte!", "¡Buenas tardes! ¡Que descanses!"],
+    "explanation": "'¡Feliz cumpleaños!' means 'Happy birthday!' '¡Que cumplas muchos más!' means 'May you have many more!'",
+    "context": "At the office on a colleague's birthday"
+  },
+  "q_vocab_a2_09_010": {
+    "question": "You are invited to a New Year's Eve party and want to make a toast at midnight. What do you say?",
+    "correct": "¡Brindemos por el año nuevo! ¡Feliz Año Nuevo!",
+    "wrong": ["¡Felicidades por la Navidad! ¡Buen provecho!", "¡Celebremos el cumpleaños! ¡Salud!", "¡Invitemos a los amigos! ¡Buena suerte!"],
+    "explanation": "'Brindemos' means 'Let's toast'. '¡Feliz Año Nuevo!' means 'Happy New Year!' This is a traditional phrase at midnight on December 31st.",
+    "context": "At a New Year's Eve party as the clock strikes midnight"
+  },
+  "q_vocab_a2_10_001": {
+    "question": "What does 'mascota' mean?",
+    "correct": "pet",
+    "wrong": ["mask", "farm", "cage"],
+    "explanation": "'Mascota' means 'pet'. It can refer to any domestic animal kept as a companion."
+  },
+  "q_vocab_a2_10_002": {
+    "question": "El ___ persiguió al gato por todo el jardín.",
+    "correct": "perro",
+    "wrong": ["pez", "pájaro", "conejo"],
+    "explanation": "'Perro' means 'dog'. The sentence means 'The dog chased the cat all around the garden.' 'Perseguir' means 'to chase'."
+  },
+  "q_vocab_a2_10_003": {
+    "question": "What does 'caballo' mean?",
+    "correct": "horse",
+    "wrong": ["cow", "bull", "donkey"],
+    "explanation": "'Caballo' means 'horse'. Horses are common in rural Spain and in traditional festivals."
+  },
+  "q_vocab_a2_10_004": {
+    "question": "What does 'salvaje' mean in 'Los leones son animales salvajes'?",
+    "correct": "wild",
+    "wrong": ["domestic", "dangerous", "large"],
+    "explanation": "'Salvaje' means 'wild'. The opposite is 'doméstico' (domestic). The sentence means 'Lions are wild animals.'"
+  },
+  "q_vocab_a2_10_005": {
+    "question": "My cat likes to sleep on the sofa.",
+    "correct": "A mi gato le gusta dormir en el sofá.",
+    "wrong": ["A mi perro le gusta dormir en el sofá.", "A mi gato le gusta comer en el sofá.", "Mi gato gusta dormir en el sofá."],
+    "explanation": "'Gato' means 'cat'. Note the structure 'a mi gato le gusta' — with animals, we use the same 'gustar' construction as with people."
+  },
+  "q_vocab_a2_10_006": {
+    "question": "What does 'pájaro' mean in 'Hay un pájaro bonito en el árbol'?",
+    "correct": "bird",
+    "wrong": ["butterfly", "squirrel", "insect"],
+    "explanation": "'Pájaro' means 'bird'. The sentence means 'There is a pretty bird in the tree.' 'Bonito' means 'pretty'."
+  },
+  "q_vocab_a2_10_007": {
+    "question": "You are at a pet store and want to buy a rabbit for your child. What do you say?",
+    "correct": "Quiero comprar un conejo para mi hijo.",
+    "wrong": ["Quiero comprar una serpiente para mi hijo.", "Quiero comprar un pez para mi hijo.", "Quiero comprar una gallina para mi hijo."],
+    "explanation": "'Conejo' means 'rabbit'. Rabbits are popular pets for children. 'Para mi hijo' means 'for my child/son'.",
+    "context": "At a pet store choosing a pet for your child"
+  },
+  "q_vocab_a2_10_008": {
+    "question": "What does 'mariposa' mean?",
+    "correct": "butterfly",
+    "wrong": ["dragonfly", "bee", "ladybug"],
+    "explanation": "'Mariposa' means 'butterfly'. It is also used as the name for the butterfly stroke in swimming."
+  },
+  "q_vocab_a2_10_009": {
+    "question": "En la granja hay vacas, cerdos y gallinas.",
+    "correct": "On the farm there are cows, pigs, and chickens.",
+    "wrong": ["In the zoo there are cows, pigs, and chickens.", "On the farm there are horses, dogs, and cats.", "On the farm there are cows, sheep, and goats."],
+    "explanation": "'Granja' means 'farm'. 'Vaca' is 'cow', 'cerdo' is 'pig', and 'gallina' is 'chicken/hen'."
+  },
+  "q_vocab_a2_10_010": {
+    "question": "You visit a nature reserve and see many animals. You describe the experience to a friend. What do you say?",
+    "correct": "Vimos muchos animales salvajes: pájaros, serpientes y caballos.",
+    "wrong": ["Vimos muchas mascotas: perros, gatos y conejos.", "Compramos muchos animales: vacas, cerdos y gallinas.", "Vimos muchos peces en la granja."],
+    "explanation": "'Animales salvajes' means 'wild animals'. 'Vimos' (we saw) is the past tense of 'ver'. Nature reserves have wild, not domestic, animals.",
+    "context": "Telling a friend about a visit to a nature reserve"
+  },
+  "q_vocab_a2_11_001": {
+    "question": "What does 'alto' mean when describing a person?",
+    "correct": "tall",
+    "wrong": ["short", "thin", "strong"],
+    "explanation": "'Alto' means 'tall' when describing a person. The opposite is 'bajo' (short)."
+  },
+  "q_vocab_a2_11_002": {
+    "question": "What does 'delgado' mean?",
+    "correct": "thin/slim",
+    "wrong": ["tall", "fat", "strong"],
+    "explanation": "'Delgado' means 'thin' or 'slim'. The opposite is 'gordo' (fat). A more polite alternative is 'corpulento'."
+  },
+  "q_vocab_a2_11_003": {
+    "question": "Mi hermana tiene el pelo ___ y rubio.",
+    "correct": "largo",
+    "wrong": ["corto", "rizado", "moreno"],
+    "explanation": "'Largo' means 'long'. 'Pelo largo y rubio' means 'long and blonde hair'."
+  },
+  "q_vocab_a2_11_004": {
+    "question": "What does 'rizado' mean in 'Tiene el pelo rizado'?",
+    "correct": "curly",
+    "wrong": ["straight", "short", "dark"],
+    "explanation": "'Rizado' means 'curly'. The opposite is 'liso' (straight). The sentence means 'He/She has curly hair.'"
+  },
+  "q_vocab_a2_11_005": {
+    "question": "What does 'guapo' mean in 'Tu novio es muy guapo'?",
+    "correct": "handsome/good-looking",
+    "wrong": ["tall", "funny", "kind"],
+    "explanation": "'Guapo' means 'handsome' or 'good-looking'. The feminine form is 'guapa'. The sentence means 'Your boyfriend is very handsome.'"
+  },
+  "q_vocab_a2_11_006": {
+    "question": "She has brown eyes and wears glasses.",
+    "correct": "Ella tiene los ojos marrones y lleva gafas.",
+    "wrong": ["Ella tiene los ojos azules y lleva gafas.", "Ella tiene los ojos marrones y lleva barba.", "Ella tiene el pelo marrón y lleva gafas."],
+    "explanation": "'Ojos marrones' means 'brown eyes'. 'Llevar gafas' means 'to wear glasses'. Note: 'llevar' is used for wearing accessories."
+  },
+  "q_vocab_a2_11_007": {
+    "question": "What does 'barba' mean in 'Mi padre tiene barba'?",
+    "correct": "beard",
+    "wrong": ["mustache", "glasses", "hat"],
+    "explanation": "'Barba' means 'beard'. 'Bigote' means 'mustache'. The sentence means 'My father has a beard.'"
+  },
+  "q_vocab_a2_11_008": {
+    "question": "Es una chica alta y delgada con el pelo moreno y liso.",
+    "correct": "She is a tall and slim girl with dark, straight hair.",
+    "wrong": ["She is a short and slim girl with dark, curly hair.", "She is a tall and slim girl with blonde, straight hair.", "She is a tall and heavy girl with dark, straight hair."],
+    "explanation": "'Moreno' means 'dark' (hair color) and 'liso' means 'straight'. Together with 'alta y delgada', this is a full physical description."
+  },
+  "q_vocab_a2_11_009": {
+    "question": "A police officer asks you to describe someone you saw. The person was short with red curly hair. What do you say?",
+    "correct": "Era bajo, con el pelo pelirrojo y rizado.",
+    "wrong": ["Era alto, con el pelo rubio y liso.", "Era gordo, con el pelo moreno y largo.", "Era delgado, con los ojos azules y gafas."],
+    "explanation": "'Bajo' means 'short' (height). 'Pelirrojo' means 'red-haired' and 'rizado' means 'curly'. 'Era' is past tense of 'ser' for descriptions.",
+    "context": "At a police station describing someone you witnessed"
+  },
+  "q_vocab_a2_11_010": {
+    "question": "You are picking up a friend at the airport whom you have never met. They ask how to recognize you. What do you say?",
+    "correct": "Soy alto, con pelo rubio corto y llevo gafas.",
+    "wrong": ["Soy bajo, con pelo moreno largo y llevo barba.", "Soy delgado, con ojos verdes y llevo sombrero.", "Soy gordo, con pelo rizado y llevo chaqueta roja."],
+    "explanation": "When describing yourself, use 'soy' (I am) for permanent traits and 'llevo' (I wear) for accessories like glasses.",
+    "context": "On the phone with a friend who is arriving at the airport"
+  },
+  "q_vocab_a2_12_001": {
+    "question": "What does 'simpático' mean?",
+    "correct": "nice/friendly",
+    "wrong": ["funny", "shy", "serious"],
+    "explanation": "'Simpático' means 'nice' or 'friendly'. The opposite is 'antipático' (unfriendly). Be careful: it is a false friend with English 'sympathetic'."
+  },
+  "q_vocab_a2_12_002": {
+    "question": "Mi compañero de clase es muy ___. Siempre me ayuda con los deberes.",
+    "correct": "amable",
+    "wrong": ["vago", "tímido", "celoso"],
+    "explanation": "'Amable' means 'kind'. The sentence means 'My classmate is very kind. He always helps me with homework.'"
+  },
+  "q_vocab_a2_12_003": {
+    "question": "What does 'tímido' mean?",
+    "correct": "shy",
+    "wrong": ["bold", "lazy", "serious"],
+    "explanation": "'Tímido' means 'shy'. A shy person has difficulty in social situations."
+  },
+  "q_vocab_a2_12_004": {
+    "question": "What does 'perezoso' mean?",
+    "correct": "lazy",
+    "wrong": ["hardworking", "patient", "generous"],
+    "explanation": "'Perezoso' means 'lazy'. A synonym is 'vago'. The opposite is 'trabajador' (hardworking)."
+  },
+  "q_vocab_a2_12_005": {
+    "question": "My brother is very hardworking and patient.",
+    "correct": "Mi hermano es muy trabajador y paciente.",
+    "wrong": ["Mi hermano es muy vago y paciente.", "Mi hermano es muy trabajador y celoso.", "Mi hermano es muy serio y impaciente."],
+    "explanation": "'Trabajador' means 'hardworking' and 'paciente' means 'patient'. These are positive personality traits."
+  },
+  "q_vocab_a2_12_006": {
+    "question": "What does 'generoso' mean in 'Mi abuela es muy generosa con todos'?",
+    "correct": "generous",
+    "wrong": ["strict", "patient", "cheerful"],
+    "explanation": "'Generoso/a' means 'generous'. The sentence means 'My grandmother is very generous with everyone.'"
+  },
+  "q_vocab_a2_12_007": {
+    "question": "Your friend is always making people laugh. How would you describe them?",
+    "correct": "Es muy divertido, siempre nos hace reír.",
+    "wrong": ["Es muy serio, siempre nos hace reír.", "Es muy tímido, siempre nos hace reír.", "Es muy antipático, siempre nos hace reír."],
+    "explanation": "'Divertido' means 'funny' or 'entertaining'. 'Hacer reír' means 'to make laugh'.",
+    "context": "Describing a friend's personality to someone new"
+  },
+  "q_vocab_a2_12_008": {
+    "question": "What does 'optimista' mean in 'Siempre soy optimista sobre el futuro'?",
+    "correct": "optimistic",
+    "wrong": ["pessimistic", "realistic", "indifferent"],
+    "explanation": "'Optimista' means 'optimistic'. The opposite is 'pesimista'. The sentence means 'I am always optimistic about the future.'"
+  },
+  "q_vocab_a2_12_009": {
+    "question": "Ella es muy celosa y siempre quiere saber dónde está su novio.",
+    "correct": "She is very jealous and always wants to know where her boyfriend is.",
+    "wrong": ["She is very kind and always wants to know where her boyfriend is.", "She is very shy and always wants to know where her boyfriend is.", "She is very generous and always wants to know where her boyfriend is."],
+    "explanation": "'Celoso/a' means 'jealous'. It describes someone who feels insecure or possessive in a relationship."
+  },
+  "q_vocab_a2_12_010": {
+    "question": "Your friend asks you to describe your ideal partner's personality. You value kindness and a sense of humor. What do you say?",
+    "correct": "Para mí, lo más importante es que sea amable y divertido.",
+    "wrong": ["Para mí, lo más importante es que sea serio y trabajador.", "Para mí, lo más importante es que sea tímido y paciente.", "Para mí, lo más importante es que sea generoso y optimista."],
+    "explanation": "'Amable' means 'kind' and 'divertido' means 'funny'. 'Lo más importante' means 'the most important thing'. 'Sea' is the subjunctive of 'ser'.",
+    "context": "Having a conversation with friends about ideal partner qualities"
+  },
+  "q_vocab_a2_13_001": {
+    "question": "What does 'mensaje' mean?",
+    "correct": "message",
+    "wrong": ["letter", "envelope", "stamp"],
+    "explanation": "'Mensaje' means 'message'. It can be a text message ('mensaje de texto') or a phone message ('recado')."
+  },
+  "q_vocab_a2_13_002": {
+    "question": "What does 'sobre' mean in 'Mete la carta en el sobre'?",
+    "correct": "envelope",
+    "wrong": ["mailbox", "stamp", "folder"],
+    "explanation": "'Sobre' means 'envelope'. The sentence means 'Put the letter in the envelope.' Note: 'sobre' also means 'on/about' as a preposition."
+  },
+  "q_vocab_a2_13_003": {
+    "question": "Necesito comprar un ___ para enviar esta carta.",
+    "correct": "sello",
+    "wrong": ["buzón", "sobre", "recado"],
+    "explanation": "'Sello' means 'stamp' (postage stamp). You buy stamps ('sellos') at post offices or tobacco shops ('estancos') in Spain."
+  },
+  "q_vocab_a2_13_004": {
+    "question": "What does 'colgar' mean in a phone conversation?",
+    "correct": "to hang up",
+    "wrong": ["to call", "to answer", "to dial"],
+    "explanation": "'Colgar' means 'to hang up' the phone. The opposite actions are 'llamar' (to call) and 'contestar' (to answer)."
+  },
+  "q_vocab_a2_13_005": {
+    "question": "What does 'recado' mean in 'Te dejé un recado en el contestador'?",
+    "correct": "message (phone message)",
+    "wrong": ["letter", "voicemail machine", "phone number"],
+    "explanation": "'Recado' means a message left for someone, especially a phone message. The sentence means 'I left you a message on the answering machine.'"
+  },
+  "q_vocab_a2_13_006": {
+    "question": "Dear María, I am writing to invite you to my party.",
+    "correct": "Querida María, te escribo para invitarte a mi fiesta.",
+    "wrong": ["Atentamente María, te escribo para invitarte a mi fiesta.", "Hola María, te llamo para invitarte a mi fiesta.", "Estimada María, te contesto para invitarte a mi fiesta."],
+    "explanation": "'Querida' means 'Dear' (feminine) and is used in informal letters. 'Te escribo para' means 'I am writing to you to'."
+  },
+  "q_vocab_a2_13_007": {
+    "question": "What does 'contestar' mean in '¿Por qué no contestas el teléfono?'?",
+    "correct": "to answer",
+    "wrong": ["to call", "to hang up", "to dial"],
+    "explanation": "'Contestar' means 'to answer'. The sentence means 'Why don't you answer the phone?' It can refer to answering calls, questions, or messages."
+  },
+  "q_vocab_a2_13_008": {
+    "question": "Escribí 'Atentamente' al final de la carta formal.",
+    "correct": "I wrote 'Sincerely' at the end of the formal letter.",
+    "wrong": ["I wrote 'Dear' at the end of the formal letter.", "I wrote 'Best wishes' at the end of the formal letter.", "I wrote 'Goodbye' at the end of the formal letter."],
+    "explanation": "'Atentamente' means 'Sincerely' or 'Yours faithfully'. It is the standard closing for formal letters in Spanish."
+  },
+  "q_vocab_a2_13_009": {
+    "question": "Your phone rings and you answer. What is a common way to answer the phone in Spain?",
+    "correct": "¿Diga?",
+    "wrong": ["¿Quién eres?", "¡Hola, soy yo!", "¿Qué quieres?"],
+    "explanation": "'¿Diga?' is the standard way to answer the phone in Spain. In Mexico, '¿Bueno?' is used instead.",
+    "context": "Your phone is ringing and you pick it up"
+  },
+  "q_vocab_a2_13_010": {
+    "question": "You need to mail a letter to a friend in another country. You go to the post office. What do you say?",
+    "correct": "Quiero enviar esta carta al extranjero. ¿Cuánto cuesta el sello?",
+    "wrong": ["Quiero llamar a mi amigo en el extranjero. ¿Cuánto cuesta?", "Quiero comprar un buzón para el extranjero. ¿Dónde está?", "Quiero contestar esta carta del extranjero. ¿Tiene un sobre?"],
+    "explanation": "'Enviar' means 'to send'. 'Al extranjero' means 'abroad'. You need a 'sello' (stamp) to send mail.",
+    "context": "At the post office wanting to send a letter internationally"
+  },
+  "q_vocab_a2_14_001": {
+    "question": "What does 'cajero automático' mean?",
+    "correct": "ATM / cash machine",
+    "wrong": ["bank teller", "cash register", "safe"],
+    "explanation": "'Cajero automático' means 'ATM' or 'cash machine'. You use it to withdraw ('sacar') money."
+  },
+  "q_vocab_a2_14_002": {
+    "question": "Necesito ___ dinero del cajero automático.",
+    "correct": "sacar",
+    "wrong": ["enviar", "firmar", "ingresar"],
+    "explanation": "'Sacar dinero' means 'to withdraw money'. 'Retirar' is a synonym. The sentence means 'I need to withdraw money from the ATM.'"
+  },
+  "q_vocab_a2_14_003": {
+    "question": "What does 'cuenta bancaria' mean?",
+    "correct": "bank account",
+    "wrong": ["bank card", "bank loan", "bank branch"],
+    "explanation": "'Cuenta bancaria' means 'bank account'. 'Abrir una cuenta' means 'to open an account'."
+  },
+  "q_vocab_a2_14_004": {
+    "question": "What does 'transferencia' mean in 'Hice una transferencia de 200 euros'?",
+    "correct": "bank transfer",
+    "wrong": ["withdrawal", "deposit", "payment"],
+    "explanation": "'Transferencia' means 'bank transfer'. The sentence means 'I made a transfer of 200 euros.'"
+  },
+  "q_vocab_a2_14_005": {
+    "question": "I want to deposit money into my account.",
+    "correct": "Quiero ingresar dinero en mi cuenta.",
+    "wrong": ["Quiero sacar dinero de mi cuenta.", "Quiero enviar dinero a mi cuenta.", "Quiero firmar dinero en mi cuenta."],
+    "explanation": "'Ingresar' means 'to deposit' money. 'Depositar' is also used, especially in Latin America. The opposite is 'sacar/retirar' (withdraw)."
+  },
+  "q_vocab_a2_14_006": {
+    "question": "What does 'ventanilla' mean in 'Diríjase a la ventanilla número tres'?",
+    "correct": "service window/counter",
+    "wrong": ["entrance", "exit", "waiting area"],
+    "explanation": "'Ventanilla' means 'service window' or 'counter' at a bank or post office. The sentence means 'Go to window number three.'"
+  },
+  "q_vocab_a2_14_007": {
+    "question": "You are at the post office and want to send a package to your family. What do you say?",
+    "correct": "Quiero enviar este paquete a esta dirección, por favor.",
+    "wrong": ["Quiero sacar este paquete de esta dirección, por favor.", "Quiero firmar este paquete en esta dirección, por favor.", "Quiero ingresar este paquete en esta dirección, por favor."],
+    "explanation": "'Enviar un paquete' means 'to send a package'. 'Dirección' means 'address'.",
+    "context": "At the post office with a package to send"
+  },
+  "q_vocab_a2_14_008": {
+    "question": "What does 'firmar' mean in 'Tiene que firmar aquí, por favor'?",
+    "correct": "to sign",
+    "wrong": ["to write", "to fill in", "to stamp"],
+    "explanation": "'Firmar' means 'to sign'. The sentence means 'You have to sign here, please.' 'La firma' is the noun meaning 'signature'."
+  },
+  "q_vocab_a2_14_009": {
+    "question": "Por favor, rellene este formulario con sus datos personales.",
+    "correct": "Please fill in this form with your personal details.",
+    "wrong": ["Please sign this form with your personal details.", "Please send this form with your personal details.", "Please read this form with your personal details."],
+    "explanation": "'Rellenar un formulario' means 'to fill in a form'. 'Datos personales' means 'personal details/information'."
+  },
+  "q_vocab_a2_14_010": {
+    "question": "You are at a bank and want to open a new account. What do you say to the bank clerk?",
+    "correct": "Buenos días, quiero abrir una cuenta bancaria.",
+    "wrong": ["Buenos días, quiero cerrar una cuenta bancaria.", "Buenos días, quiero sacar dinero de una cuenta.", "Buenos días, quiero enviar una transferencia."],
+    "explanation": "'Abrir una cuenta' means 'to open an account'. 'Cerrar' would mean 'to close'. This is the first step in banking.",
+    "context": "At a bank wanting to open a new account"
+  },
+  "q_vocab_a2_15_001": {
+    "question": "What does 'película' mean?",
+    "correct": "movie/film",
+    "wrong": ["play", "song", "show"],
+    "explanation": "'Película' means 'movie' or 'film'. You watch a 'película' at the 'cine' (cinema)."
+  },
+  "q_vocab_a2_15_002": {
+    "question": "What does 'concierto' mean?",
+    "correct": "concert",
+    "wrong": ["theater", "cinema", "festival"],
+    "explanation": "'Concierto' means 'concert'. It is a live music performance."
+  },
+  "q_vocab_a2_15_003": {
+    "question": "Ayer fui al ___ a ver una obra de teatro muy divertida.",
+    "correct": "teatro",
+    "wrong": ["cine", "concierto", "museo"],
+    "explanation": "'Teatro' means 'theater'. An 'obra de teatro' is a 'play'. The sentence means 'Yesterday I went to the theater to see a very funny play.'"
+  },
+  "q_vocab_a2_15_004": {
+    "question": "What does 'exposición' mean in 'Fuimos a ver la exposición de arte moderno'?",
+    "correct": "exhibition",
+    "wrong": ["collection", "sculpture", "painting"],
+    "explanation": "'Exposición' means 'exhibition'. The sentence means 'We went to see the modern art exhibition.'"
+  },
+  "q_vocab_a2_15_005": {
+    "question": "What does 'divertirse' mean in 'Nos divertimos mucho en la fiesta'?",
+    "correct": "to have fun",
+    "wrong": ["to get bored", "to get lost", "to get tired"],
+    "explanation": "'Divertirse' means 'to have fun'. It is a reflexive verb. The sentence means 'We had a lot of fun at the party.'"
+  },
+  "q_vocab_a2_15_006": {
+    "question": "In my free time I like to go to the cinema.",
+    "correct": "En mi tiempo libre me gusta ir al cine.",
+    "wrong": ["En mi tiempo libre me gusta ir al trabajo.", "En mi tiempo libre me gusta ir al banco.", "En mi tiempo libre me gusta ir al hospital."],
+    "explanation": "'Tiempo libre' means 'free time'. 'Cine' means 'cinema'. 'Ir al cine' is a common leisure activity."
+  },
+  "q_vocab_a2_15_007": {
+    "question": "What does 'aburrirse' mean in 'Me aburro cuando no tengo nada que hacer'?",
+    "correct": "to get bored",
+    "wrong": ["to have fun", "to relax", "to get angry"],
+    "explanation": "'Aburrirse' means 'to get bored'. It is the opposite of 'divertirse' (to have fun). The sentence means 'I get bored when I have nothing to do.'"
+  },
+  "q_vocab_a2_15_008": {
+    "question": "Ayer vimos una película de terror y lo pasamos muy mal.",
+    "correct": "Yesterday we watched a horror movie and we had a terrible time.",
+    "wrong": ["Yesterday we watched a comedy and we had a great time.", "Yesterday we watched a horror movie and we had a great time.", "Yesterday we watched an action movie and we had a terrible time."],
+    "explanation": "'Película de terror' means 'horror movie'. 'Pasarlo mal' means 'to have a bad time'. The opposite is 'pasarlo bien'."
+  },
+  "q_vocab_a2_15_009": {
+    "question": "Your friend suggests going to a concert this weekend. You want to accept enthusiastically. What do you say?",
+    "correct": "¡Genial! Me encanta la música en vivo. ¡Vamos!",
+    "wrong": ["¡Qué aburrido! No me gusta la música. Prefiero quedarme en casa.", "Bueno, vale, pero prefiero ir al cine.", "No sé, los conciertos son muy caros."],
+    "explanation": "'¡Genial!' means 'Great!'. 'Música en vivo' means 'live music'. '¡Vamos!' means 'Let's go!'",
+    "context": "A friend invites you to a weekend concert"
+  },
+  "q_vocab_a2_15_010": {
+    "question": "You had a great weekend doing fun activities with friends and want to tell a colleague about it on Monday. What do you say?",
+    "correct": "Lo pasamos genial: fuimos al cine, a un concierto y a una exposición.",
+    "wrong": ["Lo pasamos mal: fuimos al médico, al banco y a la oficina.", "Nos aburrimos mucho: nos quedamos en casa todo el fin de semana.", "No hicimos nada especial: solo trabajamos y estudiamos."],
+    "explanation": "'Pasarlo genial' means 'to have a great time'. Listing leisure activities ('cine', 'concierto', 'exposición') shows a fun weekend.",
+    "context": "Monday morning at the office talking about the weekend"
+  }
+}

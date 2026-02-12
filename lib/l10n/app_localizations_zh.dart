@@ -311,6 +311,15 @@ class AppLocalizationsZh extends AppLocalizations {
   String get restorePurchases => '恢复购买';
 
   @override
+  String get purchaseFailed => '购买失败';
+
+  @override
+  String get purchasesRestored => '购买已恢复';
+
+  @override
+  String get productNotAvailable => '无法加载商品';
+
+  @override
   String get studyNotification => '学习提醒';
 
   @override
@@ -778,6 +787,15 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
 
   @override
   String get restorePurchases => '恢復購買';
+
+  @override
+  String get purchaseFailed => '購買失敗';
+
+  @override
+  String get purchasesRestored => '購買已恢復';
+
+  @override
+  String get productNotAvailable => '無法載入商品';
 
   @override
   String get studyNotification => '學習提醒';

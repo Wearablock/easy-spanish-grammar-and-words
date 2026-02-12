@@ -1,0 +1,2143 @@
+{
+  "q_gram_a2_01_001": {
+    "question": "Yo ___ en mi familia todos los días. (pensar, e→ie)",
+    "correct": "pienso",
+    "wrong": [
+      "penso",
+      "pensar",
+      "piensas"
+    ],
+    "explanation": "Pensar는 e→ie 어간 변화 동사입니다. yo 형태에서 e가 ie로 변합니다: pienso.",
+    "hint": "어간 모음 e는 nosotros/vosotros를 제외한 모든 형태에서 ie로 변합니다"
+  },
+  "q_gram_a2_01_002": {
+    "question": "Ellos ___ ir al cine esta noche. (querer, e→ie)",
+    "correct": "quieren",
+    "wrong": [
+      "queren",
+      "querren",
+      "quieremos"
+    ],
+    "explanation": "Querer는 ellos 형태에서 e→ie로 변합니다: quieren. 부츠 패턴은 nosotros/vosotros를 제외한 모든 형태에 적용됩니다.",
+    "hint": "querer도 부츠 패턴을 따릅니다: nosotros/vosotros 제외 e→ie"
+  },
+  "q_gram_a2_01_003": {
+    "question": "스페인어 어간 변화 동사에서 '부츠 패턴'은 무엇을 의미할까요?",
+    "correct": "어간 변화가 nosotros와 vosotros를 제외한 모든 형태에 적용된다",
+    "wrong": [
+      "어간 변화가 yo 형태에만 적용된다",
+      "어간 변화가 6개 활용형 모두에 적용된다",
+      "어간 변화가 과거 시제에서만 일어난다"
+    ],
+    "explanation": "'부츠 패턴'(또는 '신발 패턴')은 어간 변화가 yo, tú, él/ella, ellos/ellas 형태에서 일어나지만, nosotros나 vosotros에서는 일어나지 않는 것을 의미합니다."
+  },
+  "q_gram_a2_01_004": {
+    "question": "Nosotros ___ la lección. (entender, e→ie, nosotros form)",
+    "correct": "entendemos",
+    "wrong": [
+      "entiendemos",
+      "entendimos",
+      "entienden"
+    ],
+    "explanation": "Nosotros는 '부츠' 패턴 밖에 있으므로 어간 변화가 없습니다. 규칙적인 -er 어미가 사용됩니다: entendemos.",
+    "conjugation_info": "entender (e→ie): entiendo, entiendes, entiende, entendemos, entendéis, entienden"
+  },
+  "q_gram_a2_01_005": {
+    "question": "María ___ estudiar español en lugar de francés. (preferir, e→ie)",
+    "correct": "prefiere",
+    "wrong": [
+      "preferir",
+      "prefere",
+      "prefiera"
+    ],
+    "explanation": "Preferir는 e→ie 변화를 가진 -ir 동사입니다. ella 형태에서: prefiere.",
+    "hint": "preferir는 -ir 동사이며 e→ie 변화를 합니다"
+  },
+  "q_gram_a2_01_006": {
+    "question": "Tú ___ la puerta cuando hace frío. (cerrar, e→ie, tú form)",
+    "correct": "cierras",
+    "wrong": [
+      "cerras",
+      "cierres",
+      "cerrás"
+    ],
+    "explanation": "Cerrar는 tú 형태에서 e→ie로 변합니다: cierras. tú의 -ar 어미는 -as입니다.",
+    "conjugation_info": "cerrar (e→ie): cierro, cierras, cierra, cerramos, cerráis, cierran"
+  },
+  "q_gram_a2_01_007": {
+    "question": "Las clases ___ a las ocho de la mañana. (empezar, e→ie)",
+    "correct": "empiezan",
+    "wrong": [
+      "empezan",
+      "empiezar",
+      "empezamos"
+    ],
+    "explanation": "Empezar는 ellas 형태에서 e→ie로 변합니다: empiezan. 이것은 부츠 패턴을 따릅니다.",
+    "hint": "empezar도 e→ie 어간 변화를 하는 -ar 동사입니다"
+  },
+  "q_gram_a2_01_008": {
+    "question": "나는 매일 나의 미래에 대해 생각한다.",
+    "correct": "Pienso en mi futuro todos los días.",
+    "wrong": [
+      "Penso en mi futuro todos los días.",
+      "Pienso a mi futuro todos los días.",
+      "Piensas en mi futuro todos los días."
+    ],
+    "explanation": "Pensar는 yo 형태에서 pienso로 변합니다 (e→ie). 'Pensar en'은 '~에 대해 생각하다'라는 뜻으로, 전치사 'en'이 필요합니다."
+  },
+  "q_gram_a2_01_009": {
+    "question": "Vosotros ___ la situación perfectamente. (entender, e→ie, vosotros form)",
+    "correct": "entendéis",
+    "wrong": [
+      "entiendéis",
+      "entendemos",
+      "entienden"
+    ],
+    "explanation": "Vosotros는 부츠 패턴 밖에 있으므로 어간 변화가 없습니다: entendéis.",
+    "conjugation_info": "entender (e→ie): entiendo, entiendes, entiende, entendemos, entendéis, entienden"
+  },
+  "q_gram_a2_01_010": {
+    "question": "¿Tú quieres ir al parque o prefieres quedarte en casa?",
+    "correct": "너는 공원에 가고 싶니, 아니면 집에 있는 게 좋니?",
+    "wrong": [
+      "너는 공원에 가고 싶니, 아니면 학교에 가는 게 좋니?",
+      "그녀는 공원에 가고 싶어하니, 아니면 집에 있는 게 좋니?",
+      "너는 가게에 가고 싶니, 아니면 집에 있는 게 좋니?"
+    ],
+    "explanation": "Quieres (querer, e→ie에서)는 '너는 원하니'라는 뜻이고, prefieres (preferir, e→ie에서)는 '너는 선호하니'라는 뜻입니다. 둘 다 tú 형태입니다."
+  },
+  "q_gram_a2_02_001": {
+    "question": "Yo ___ ocho horas cada noche. (dormir, o→ue, yo form)",
+    "correct": "duermo",
+    "wrong": [
+      "dormo",
+      "dormio",
+      "duermes"
+    ],
+    "explanation": "Dormir는 o→ue 어간 변화 동사입니다. yo 형태에서: duermo.",
+    "conjugation_info": "dormir (o→ue): duermo, duermes, duerme, dormimos, dormís, duermen"
+  },
+  "q_gram_a2_02_002": {
+    "question": "Nosotros ___ a casa a las cinco. (volver, o→ue)",
+    "correct": "volvemos",
+    "wrong": [
+      "vuelvemos",
+      "volvimos",
+      "vuelven"
+    ],
+    "explanation": "Nosotros는 부츠 패턴 밖에 있으므로 volver는 규칙적인 어간을 유지합니다: volvemos.",
+    "hint": "nosotros는 부츠 패턴 밖이므로 어간이 변하지 않습니다"
+  },
+  "q_gram_a2_02_003": {
+    "question": "Ella no ___ las llaves en su bolso. (encontrar, o→ue)",
+    "correct": "encuentra",
+    "wrong": [
+      "encontra",
+      "encontrar",
+      "encuentran"
+    ],
+    "explanation": "Encontrar는 ella 형태에서 o→ue로 변합니다: encuentra.",
+    "hint": "encontrar는 ella 형태에서 o→ue로 변합니다"
+  },
+  "q_gram_a2_02_004": {
+    "question": "어간 변화 동사 중에서 'jugar'가 특별한 이유는 무엇일까요?",
+    "correct": "o→ue 대신 u→ue로 변한다",
+    "wrong": [
+      "어간 변화가 전혀 없다",
+      "6개 형태 모두에서 o→ue로 변한다",
+      "유일한 어간 변화 -ar 동사이다"
+    ],
+    "explanation": "Jugar는 스페인어에서 유일하게 u→ue 어간 변화를 가진 동사입니다 (juego, juegas, juega, jugamos, jugáis, juegan)."
+  },
+  "q_gram_a2_02_005": {
+    "question": "Ellos ___ las historias de su abuelo. (recordar, o→ue, ellos form)",
+    "correct": "recuerdan",
+    "wrong": [
+      "recordan",
+      "recuerdamos",
+      "recordaron"
+    ],
+    "explanation": "Recordar는 ellos 형태에서 o→ue로 변합니다: recuerdan.",
+    "conjugation_info": "recordar (o→ue): recuerdo, recuerdas, recuerda, recordamos, recordáis, recuerdan"
+  },
+  "q_gram_a2_02_006": {
+    "question": "¿Tú ___ venir a la fiesta mañana? (poder, o→ue)",
+    "correct": "puedes",
+    "wrong": [
+      "podes",
+      "podemos",
+      "pueden"
+    ],
+    "explanation": "Poder는 tú 형태에서 o→ue로 변합니다: puedes.",
+    "hint": "poder는 tú 형태에서 o→ue로 변합니다"
+  },
+  "q_gram_a2_02_007": {
+    "question": "우리는 매일 정오에 점심을 먹는다.",
+    "correct": "Almorzamos al mediodía todos los días.",
+    "wrong": [
+      "Almuerzamos al mediodía todos los días.",
+      "Almorzamos a mediodía todos los día.",
+      "Almuerzo al mediodía todos los días."
+    ],
+    "explanation": "Almorzar (o→ue)는 nosotros에서 규칙적인 어간을 유지합니다: almorzamos. nosotros/vosotros에서는 어간 변화가 없습니다."
+  },
+  "q_gram_a2_02_008": {
+    "question": "Los niños ___ en el parque todos los sábados. (jugar, u→ue)",
+    "correct": "juegan",
+    "wrong": [
+      "jugan",
+      "jugamos",
+      "juegamos"
+    ],
+    "explanation": "Jugar는 ellos 형태에서 u→ue로 변합니다: juegan. 스페인어에서 유일한 u→ue 동사입니다.",
+    "hint": "jugar는 스페인어에서 유일한 u→ue 변화 동사입니다"
+  },
+  "q_gram_a2_02_009": {
+    "question": "Yo cuento el dinero y después vuelvo a casa.",
+    "correct": "나는 돈을 세고 그 후에 집으로 돌아간다.",
+    "wrong": [
+      "나는 돈을 말하고 그 후에 집으로 돌아간다.",
+      "나는 돈을 세고 그 후에 학교에 간다.",
+      "나는 돈을 찾고 그 후에 집으로 돌아간다."
+    ],
+    "explanation": "Cuento (contar, o→ue에서)는 '나는 센다'라는 뜻이고, vuelvo (volver, o→ue에서)는 '나는 돌아간다'라는 뜻입니다."
+  },
+  "q_gram_a2_02_010": {
+    "question": "Vosotros ___ a casa después de la clase. (volver, o→ue, vosotros form)",
+    "correct": "volvéis",
+    "wrong": [
+      "vuelvéis",
+      "volvemos",
+      "vuelven"
+    ],
+    "explanation": "Vosotros는 부츠 패턴 밖에 있으므로 volver는 규칙적인 어간을 사용합니다: volvéis.",
+    "conjugation_info": "volver (o→ue): vuelvo, vuelves, vuelve, volvemos, volvéis, vuelven"
+  },
+  "q_gram_a2_03_001": {
+    "question": "Yo ___ un café, por favor. (pedir, e→i)",
+    "correct": "pido",
+    "wrong": [
+      "pedo",
+      "piedo",
+      "pedimos"
+    ],
+    "explanation": "Pedir는 e→i 어간 변화 동사입니다. yo 형태에서: pido. -ir 동사만 이 패턴을 가집니다.",
+    "hint": "e→i 변화는 -ir 동사에서만 일어납니다"
+  },
+  "q_gram_a2_03_002": {
+    "question": "El camarero ___ la comida en la mesa. (servir, e→i)",
+    "correct": "sirve",
+    "wrong": [
+      "serve",
+      "servir",
+      "sirvemos"
+    ],
+    "explanation": "Servir는 él 형태에서 e→i로 변합니다: sirve.",
+    "hint": "servir는 él/ella 형태에서 e→i로 변합니다"
+  },
+  "q_gram_a2_03_003": {
+    "question": "e→i 어간 변화를 가질 수 있는 동사 유형은 무엇일까요?",
+    "correct": "-ir 동사만 해당된다",
+    "wrong": [
+      "-ar 동사만 해당된다",
+      "-er 동사만 해당된다",
+      "-ar 동사와 -er 동사 모두 해당된다"
+    ],
+    "explanation": "e→i 어간 변화 패턴은 -ir 동사에만 해당됩니다 (pedir, servir, repetir, seguir, vestirse, elegir)."
+  },
+  "q_gram_a2_03_004": {
+    "question": "Los estudiantes ___ las frases después del profesor. (repetir, e→i, ellos form)",
+    "correct": "repiten",
+    "wrong": [
+      "repeten",
+      "repetimos",
+      "repitan"
+    ],
+    "explanation": "Repetir는 ellos 형태에서 e→i로 변합니다: repiten.",
+    "conjugation_info": "repetir (e→i): repito, repites, repite, repetimos, repetís, repiten"
+  },
+  "q_gram_a2_03_005": {
+    "question": "Ella ___ un vestido rojo para la fiesta. (elegir, e→i)",
+    "correct": "elige",
+    "wrong": [
+      "elege",
+      "eligir",
+      "elijo"
+    ],
+    "explanation": "Elegir는 ella 형태에서 e→i로 변합니다: elige. yo 형태에서는 'elijo'입니다 (g→j, o 앞에서).",
+    "hint": "ella 형태에서는 g 뒤에 e가 오므로 g가 유지됩니다"
+  },
+  "q_gram_a2_03_006": {
+    "question": "Yo ___ las instrucciones del mapa. (seguir, e→i, yo form)",
+    "correct": "sigo",
+    "wrong": [
+      "seguo",
+      "sieguo",
+      "seguimos"
+    ],
+    "explanation": "Seguir는 yo 형태에서 e→i로 변합니다: sigo. 발음을 유지하기 위해 o 앞에서 u가 탈락합니다.",
+    "conjugation_info": "seguir (e→i): sigo, sigues, sigue, seguimos, seguís, siguen"
+  },
+  "q_gram_a2_03_007": {
+    "question": "Nosotros ___ la lección tres veces. (repetir, e→i)",
+    "correct": "repetimos",
+    "wrong": [
+      "repitimos",
+      "repiten",
+      "repetís"
+    ],
+    "explanation": "Nosotros는 부츠 패턴 밖에 있으므로 repetir는 규칙적인 어간을 유지합니다: repetimos.",
+    "hint": "nosotros는 부츠 패턴 밖이므로 규칙적 어간을 유지합니다"
+  },
+  "q_gram_a2_03_008": {
+    "question": "아이들은 아침에 빨리 옷을 입는다.",
+    "correct": "Los niños se visten rápido por la mañana.",
+    "wrong": [
+      "Los niños se vestan rápido por la mañana.",
+      "Los niños se visten lento por la mañana.",
+      "Los niños me visten rápido por la mañana."
+    ],
+    "explanation": "Vestirse (e→i)는 재귀 어간 변화 동사입니다. ellos 형태에서: se visten."
+  },
+  "q_gram_a2_03_009": {
+    "question": "Tú siempre ___ la misma cosa en el restaurante. (pedir, e→i, tú form)",
+    "correct": "pides",
+    "wrong": [
+      "pedes",
+      "pedís",
+      "pidemos"
+    ],
+    "explanation": "Pedir는 tú 형태에서 e→i로 변합니다: pides.",
+    "conjugation_info": "pedir (e→i): pido, pides, pide, pedimos, pedís, piden"
+  },
+  "q_gram_a2_03_010": {
+    "question": "Yo sigo estudiando porque repito los errores.",
+    "correct": "나는 실수를 반복하기 때문에 계속 공부한다.",
+    "wrong": [
+      "나는 실수를 요청하기 때문에 따라간다.",
+      "나는 실수를 제공하기 때문에 계속 공부한다.",
+      "나는 실수를 반복하기 때문에 공부를 멈춘다."
+    ],
+    "explanation": "Sigo (seguir, e→i에서)는 '나는 계속한다'라는 뜻이고, repito (repetir, e→i에서)는 '나는 반복한다'라는 뜻입니다."
+  },
+  "q_gram_a2_04_001": {
+    "question": "Yo ___ a las siete de la mañana. (levantarse, yo form)",
+    "correct": "me levanto",
+    "wrong": [
+      "se levanto",
+      "me levanta",
+      "levanto me"
+    ],
+    "explanation": "Levantarse는 yo에 대해 재귀 대명사 'me'를 사용합니다. 대명사는 활용된 동사 앞에 옵니다: me levanto.",
+    "conjugation_info": "levantarse: me levanto, te levantas, se levanta, nos levantamos, os levantáis, se levantan"
+  },
+  "q_gram_a2_04_002": {
+    "question": "Ella ___ después de hacer ejercicio. (ducharse)",
+    "correct": "se ducha",
+    "wrong": [
+      "me ducha",
+      "se duchan",
+      "la ducha"
+    ],
+    "explanation": "ella의 재귀 대명사는 'se'입니다. Se ducha는 '그녀는 (스스로) 샤워한다'라는 뜻입니다.",
+    "hint": "ella의 재귀 대명사는 'se'입니다"
+  },
+  "q_gram_a2_04_003": {
+    "question": "Nosotros ___ temprano los fines de semana. (acostarse, o→ue)",
+    "correct": "nos acostamos",
+    "wrong": [
+      "se acostamos",
+      "nos acuéstamos",
+      "nos acuestamos"
+    ],
+    "explanation": "Nosotros는 재귀 대명사 'nos'를 사용합니다. Acostarse는 nosotros에서 어간 변화가 없습니다: nos acostamos.",
+    "hint": "nosotros의 재귀 대명사는 'nos'이며, nosotros에서는 어간 변화 없음"
+  },
+  "q_gram_a2_04_004": {
+    "question": "재귀 대명사가 부정사와 함께 사용될 때 어떻게 될까요?",
+    "correct": "부정사 끝에 붙일 수 있다",
+    "wrong": [
+      "항상 부정사 앞에 와야 한다",
+      "완전히 생략된다",
+      "목적격 대명사로 바뀐다"
+    ],
+    "explanation": "재귀 대명사는 활용된 동사 앞에 올 수 있고 (me quiero ir) 부정사 끝에 붙일 수도 있습니다 (quiero irme). 둘 다 맞습니다."
+  },
+  "q_gram_a2_04_005": {
+    "question": "Ellos ___ elegantemente para la cena. (vestirse, e→i, ellos form)",
+    "correct": "se visten",
+    "wrong": [
+      "se vesten",
+      "les visten",
+      "se vestimos"
+    ],
+    "explanation": "Vestirse는 재귀 동사이면서 어간 변화 동사(e→i)입니다. ellos 형태에서: se visten.",
+    "conjugation_info": "vestirse (e→i): me visto, te vistes, se viste, nos vestimos, os vestís, se visten"
+  },
+  "q_gram_a2_04_006": {
+    "question": "Los niños no quieren ___. (irse)",
+    "correct": "irse",
+    "wrong": [
+      "se ir",
+      "irme",
+      "irnos"
+    ],
+    "explanation": "재귀 동사가 다른 동사 뒤에 부정사 형태로 올 때, 대명사는 주어와 일치합니다. 'Los niños' = se, 부정사에 붙여서: irse.",
+    "hint": "부정사 뒤에서 재귀 대명사는 원형 그대로 유지됩니다"
+  },
+  "q_gram_a2_04_007": {
+    "question": "나는 밤 열한 시에 잠자리에 든다.",
+    "correct": "Me acuesto a las once de la noche.",
+    "wrong": [
+      "Se acuesto a las once de la noche.",
+      "Me acuesto a las once de la mañana.",
+      "Me acosto a las once de la noche."
+    ],
+    "explanation": "Acostarse (o→ue)의 yo 형태: me acuesto. yo의 재귀 대명사는 'me'입니다."
+  },
+  "q_gram_a2_04_008": {
+    "question": "¿Tú ___ antes o después de desayunar? (ducharse)",
+    "correct": "te duchas",
+    "wrong": [
+      "se duchas",
+      "te duchos",
+      "me duchas"
+    ],
+    "explanation": "tú의 재귀 대명사는 'te'입니다: te duchas.",
+    "hint": "tú의 재귀 대명사는 'te'입니다"
+  },
+  "q_gram_a2_04_009": {
+    "question": "Mi hermana se levanta, se ducha y se viste en treinta minutos.",
+    "correct": "내 언니(여동생)는 30분 안에 일어나서, 샤워하고, 옷을 입는다.",
+    "wrong": [
+      "내 언니(여동생)는 13분 안에 일어나서, 샤워하고, 옷을 입는다.",
+      "내 형(남동생)은 30분 안에 일어나서, 샤워하고, 옷을 입는다.",
+      "내 언니(여동생)는 30분 안에 일어나서, 밥을 먹고, 옷을 입는다."
+    ],
+    "explanation": "세 개의 재귀 동사: levantarse (일어나다), ducharse (샤워하다), vestirse (옷을 입다). 모두 ella 형태에서 'se'를 사용합니다."
+  },
+  "q_gram_a2_04_010": {
+    "question": "Vosotros ___ muy temprano los lunes. (dormirse, o→ue, vosotros form)",
+    "correct": "os dormís",
+    "wrong": [
+      "os duermís",
+      "se dormís",
+      "os dormimos"
+    ],
+    "explanation": "Vosotros는 'os'를 사용하며 어간 변화가 없습니다 (부츠 밖): os dormís.",
+    "conjugation_info": "dormirse (o→ue): me duermo, te duermes, se duerme, nos dormimos, os dormís, se duermen"
+  },
+  "q_gram_a2_05_001": {
+    "question": "Compro el libro. → ___ compro.",
+    "correct": "Lo",
+    "wrong": [
+      "La",
+      "Le",
+      "Los"
+    ],
+    "explanation": "'El libro'는 남성 단수이므로 직접 목적격 대명사는 'lo'입니다. 활용된 동사 앞에 옵니다.",
+    "hint": "남성 단수 직접 목적격 대명사 = lo"
+  },
+  "q_gram_a2_05_002": {
+    "question": "¿Ves a María? → ¿___ ves?",
+    "correct": "La",
+    "wrong": [
+      "Lo",
+      "Le",
+      "Las"
+    ],
+    "explanation": "'María'는 여성 단수이므로 직접 목적격 대명사는 'la'입니다.",
+    "hint": "'María'는 여성 단수 → 직접 목적격 대명사 'la'"
+  },
+  "q_gram_a2_05_003": {
+    "question": "활용된 동사와 함께 쓸 때 직접 목적격 대명사의 올바른 위치는 어디일까요?",
+    "correct": "활용된 동사 앞",
+    "wrong": [
+      "활용된 동사 뒤",
+      "활용된 동사에 붙여서",
+      "앞이든 뒤든 가능하지만 앞이 더 일반적"
+    ],
+    "explanation": "직접 목적격 대명사는 항상 활용된 동사 앞에 옵니다: Lo compro, La veo, Los tengo."
+  },
+  "q_gram_a2_05_004": {
+    "question": "Tengo las flores. → ___ tengo. ('las flores'를 대체하세요)",
+    "correct": "Las tengo.",
+    "wrong": [
+      "Los tengo.",
+      "La tengo.",
+      "Le tengo."
+    ],
+    "explanation": "'Las flores'는 여성 복수이므로 직접 목적격 대명사는 'las'입니다.",
+    "conjugation_info": "직접 목적격 대명사: lo (남성 단수), la (여성 단수), los (남성 복수), las (여성 복수)"
+  },
+  "q_gram_a2_05_005": {
+    "question": "Quiero comprar los zapatos. → Quiero comprar___.",
+    "correct": "los",
+    "wrong": [
+      "les",
+      "lo",
+      "las"
+    ],
+    "explanation": "부정사와 함께 쓸 때 직접 목적격 대명사는 끝에 붙일 수 있습니다: comprarlos. 'Los zapatos'는 남성 복수 = los.",
+    "hint": "부정사와 함께 쓸 때 직접 목적격 대명사는 끝에 붙입니다"
+  },
+  "q_gram_a2_05_006": {
+    "question": "Ella ___ mira todos los días. ('la televisión'을 대체, 여성 단수)",
+    "correct": "la",
+    "wrong": [
+      "lo",
+      "le",
+      "las"
+    ],
+    "explanation": "'La televisión'은 여성 단수입니다. 직접 목적격 대명사 'la'로 대체합니다: Ella la mira.",
+    "conjugation_info": "직접 목적격 대명사: lo (남성 단수), la (여성 단수), los (남성 복수), las (여성 복수)"
+  },
+  "q_gram_a2_05_007": {
+    "question": "No ___ conozco. ('a los profesores'를 대체하세요)",
+    "correct": "los",
+    "wrong": [
+      "les",
+      "lo",
+      "las"
+    ],
+    "explanation": "'A los profesores'는 남성 복수입니다. 대명사를 사용할 때 인칭 전치사 'a'는 생략됩니다: No los conozco.",
+    "hint": "남성 복수 직접 목적격 대명사 = los"
+  },
+  "q_gram_a2_05_008": {
+    "question": "나는 그 소녀들을 본다. 나는 매일 그들을 본다.",
+    "correct": "Veo a las chicas. Las veo todos los días.",
+    "wrong": [
+      "Veo a las chicas. Les veo todos los días.",
+      "Veo a las chicas. Los veo todos los días.",
+      "Veo a las chicas. La veo todos los días."
+    ],
+    "explanation": "'Las chicas'는 여성 복수이므로 'las'로 대체됩니다. 사람이 직접 목적어일 때 인칭 전치사 'a'가 사용됩니다."
+  },
+  "q_gram_a2_05_009": {
+    "question": "Estoy leyendo el periódico. → Estoy leyéndo___. (대명사를 붙이세요)",
+    "correct": "lo",
+    "wrong": [
+      "le",
+      "la",
+      "los"
+    ],
+    "explanation": "'El periódico'는 남성 단수 = lo. 현재분사에 붙일 때 악센트가 추가됩니다: leyéndolo.",
+    "conjugation_info": "직접 목적격 대명사 부착: 부정사 (comprarlo), 현재분사 (comprándolo), 긍정 명령 (cómpralo)"
+  },
+  "q_gram_a2_05_010": {
+    "question": "¿Las llaves? No las encuentro por ningún lado.",
+    "correct": "열쇠요? 어디에서도 찾을 수가 없어요.",
+    "wrong": [
+      "열쇠요? 그것을 어디에서도 찾을 수가 없어요.",
+      "열쇠요? 그가 어디에서도 찾을 수가 없어요.",
+      "문이요? 어디에서도 찾을 수가 없어요."
+    ],
+    "explanation": "'Las'는 'las llaves' (여성 복수)를 대체합니다. 'No las encuentro'는 '나는 그것들을 찾을 수 없다'라는 뜻입니다."
+  },
+  "q_gram_a2_06_001": {
+    "question": "Yo ___ doy un regalo a mi madre. (indirect object pronoun for 'a mi madre')",
+    "correct": "le",
+    "wrong": [
+      "la",
+      "me",
+      "les"
+    ],
+    "explanation": "'A mi madre'(어머니에게)는 3인칭 단수이므로 간접목적어 대명사 'le'를 사용합니다.",
+    "conjugation_info": "간접목적어 대명사: me (나에게), te (너에게), le (그/그녀에게/당신에게), nos (우리에게), os (너희에게), les (그들에게/당신들에게)"
+  },
+  "q_gram_a2_06_002": {
+    "question": "Mi profesor ___ explica la gramática. (IOP for 'a nosotros')",
+    "correct": "nos",
+    "wrong": [
+      "les",
+      "me",
+      "os"
+    ],
+    "explanation": "'A nosotros'(우리에게)에는 간접목적어 대명사 'nos'가 필요합니다: nos explica.",
+    "hint": "'a nosotros'의 간접목적어 대명사는 'nos'입니다"
+  },
+  "q_gram_a2_06_003": {
+    "question": "¿___ gusta el café? (IOP for 'a ti')",
+    "correct": "Te",
+    "wrong": [
+      "Le",
+      "Me",
+      "Os"
+    ],
+    "explanation": "'A ti'(너에게)에는 간접목적어 대명사 'te'가 필요합니다. gustar 동사는 간접목적어 대명사와 함께 자주 쓰입니다.",
+    "hint": "'a ti'의 간접목적어 대명사는 'te'입니다"
+  },
+  "q_gram_a2_06_004": {
+    "question": "간접목적어 대명사는 어떤 질문에 답하는 역할을 할까요?",
+    "correct": "누구에게 / 누구를 위해",
+    "wrong": [
+      "무엇을 / 누구를 (동작의 직접 대상)",
+      "어디서 / 언제",
+      "어떻게 / 왜"
+    ],
+    "explanation": "간접목적어 대명사는 '누구에게?' 또는 '누구를 위해?'에 답합니다. Le doy el libro = 나는 그/그녀에게 책을 줍니다."
+  },
+  "q_gram_a2_06_005": {
+    "question": "Yo ___ escribo una carta a mis abuelos. (IOP for 'a mis abuelos')",
+    "correct": "les",
+    "wrong": [
+      "le",
+      "los",
+      "nos"
+    ],
+    "explanation": "'A mis abuelos'(조부모님에게)는 3인칭 복수이므로 간접목적어 대명사 'les'를 사용합니다.",
+    "conjugation_info": "간접목적어 대명사: me, te, le, nos, os, les"
+  },
+  "q_gram_a2_06_006": {
+    "question": "A María ___ encanta bailar. (IOP for 'a María')",
+    "correct": "le",
+    "wrong": [
+      "la",
+      "les",
+      "se"
+    ],
+    "explanation": "'A María'는 3인칭 단수입니다. gustar류 동사와 함께 'le'를 사용합니다: Le encanta bailar.",
+    "hint": "3인칭 단수 간접목적어 대명사는 'le'입니다"
+  },
+  "q_gram_a2_06_007": {
+    "question": "선생님은 매일 우리에게 숙제를 내주신다.",
+    "correct": "El profesor nos da tarea todos los días.",
+    "wrong": [
+      "El profesor les da tarea todos los días.",
+      "El profesor me da tarea todos los días.",
+      "El profesor nos dan tarea todos los días."
+    ],
+    "explanation": "'우리에게' = nos. 간접목적어 대명사는 활용된 동사 앞에 위치합니다: nos da."
+  },
+  "q_gram_a2_06_008": {
+    "question": "Ella ___ dice la verdad a su amiga. (IOP for 'a su amiga')",
+    "correct": "le",
+    "wrong": [
+      "la",
+      "les",
+      "se"
+    ],
+    "explanation": "'A su amiga'(그녀의 친구에게)는 3인칭 단수 = le. decir 동사는 간접목적어 대명사와 자주 쓰입니다.",
+    "hint": "'a su amiga'는 3인칭 단수 → 간접목적어 대명사 'le'"
+  },
+  "q_gram_a2_06_009": {
+    "question": "A mis hermanos les gustan los videojuegos.",
+    "correct": "내 형제들은 비디오 게임을 좋아한다.",
+    "wrong": [
+      "내 형제들은 비디오 게임을 좋아하지 않는다.",
+      "내 부모님은 비디오 게임을 좋아한다.",
+      "내 형제들은 책을 좋아한다."
+    ],
+    "explanation": "'Les gustan' = 그들에게 ~이 좋다. 'A mis hermanos'는 'les'가 누구를 가리키는지 명확하게 합니다. 'Gustan'이 복수인 이유는 'los videojuegos'가 복수이기 때문입니다."
+  },
+  "q_gram_a2_06_010": {
+    "question": "¿A vosotros ___ interesa la historia? (IOP for 'a vosotros')",
+    "correct": "os",
+    "wrong": [
+      "les",
+      "nos",
+      "te"
+    ],
+    "explanation": "'A vosotros'(너희에게)에는 간접목적어 대명사 'os'를 사용합니다. interesar는 gustar처럼 작동합니다.",
+    "conjugation_info": "간접목적어 대명사: me (yo), te (tú), le (él/ella/Ud.), nos (nosotros), os (vosotros), les (ellos/ellas/Uds.)"
+  },
+  "q_gram_a2_07_001": {
+    "question": "Yo ___ hablando por teléfono. (estar + gerund)",
+    "correct": "estoy",
+    "wrong": [
+      "soy",
+      "tengo",
+      "he"
+    ],
+    "explanation": "현재 진행형은 estar + 현재분사를 사용합니다. yo의 경우: estoy hablando.",
+    "hint": "현재 진행형 = estar (활용형) + -ando/-iendo"
+  },
+  "q_gram_a2_07_002": {
+    "question": "Los niños están ___ en el parque. (jugar, gerund)",
+    "correct": "jugando",
+    "wrong": [
+      "jugiendo",
+      "juegando",
+      "jugado"
+    ],
+    "explanation": "-ar 동사의 현재분사는 -ando로 끝납니다: jugando. -ar 동사의 일반 현재분사에서는 어간 변화가 적용되지 않습니다.",
+    "hint": "-ar 동사의 현재분사: 어간 + -ando"
+  },
+  "q_gram_a2_07_003": {
+    "question": "스페인어에서 현재 진행형(estar + 현재분사)은 무엇을 표현할까요?",
+    "correct": "바로 지금, 이 순간에 일어나고 있는 동작",
+    "wrong": [
+      "규칙적으로 반복되는 습관적 동작",
+      "미래에 일어날 동작",
+      "과거에 완료된 동작"
+    ],
+    "explanation": "현재 진행형(estoy hablando)은 바로 지금 진행 중인 동작을 강조합니다. 영어와 달리 습관적 동작에는 사용하지 않습니다."
+  },
+  "q_gram_a2_07_004": {
+    "question": "Ella está ___ un libro interesante. (leer, gerund — irregular)",
+    "correct": "leyendo",
+    "wrong": [
+      "leiendo",
+      "leendo",
+      "leyando"
+    ],
+    "explanation": "leer는 불규칙 현재분사를 가집니다: leyendo ('leiendo'이 아님). 어간이 모음으로 끝나면 -iendo가 -yendo로 바뀝니다.",
+    "conjugation_info": "불규칙 현재분사: leer→leyendo, oír→oyendo, traer→trayendo, creer→creyendo, construir→construyendo"
+  },
+  "q_gram_a2_07_005": {
+    "question": "El bebé está ___ en su cuna. (dormir, gerund — irregular)",
+    "correct": "durmiendo",
+    "wrong": [
+      "dormiendo",
+      "dormando",
+      "durmando"
+    ],
+    "explanation": "dormir는 o→u 변화가 있는 불규칙 현재분사를 가집니다: durmiendo.",
+    "hint": "dormir의 현재분사는 불규칙: o→u 변화 (durmiendo)"
+  },
+  "q_gram_a2_07_006": {
+    "question": "Nosotros estamos ___ la cena. (preparar, gerund)",
+    "correct": "preparando",
+    "wrong": [
+      "prepariendo",
+      "preparido",
+      "prepando"
+    ],
+    "explanation": "규칙 -ar 동사는 -ando로 현재분사를 만듭니다: preparando.",
+    "conjugation_info": "현재분사 만들기: -ar → -ando (hablando), -er → -iendo (comiendo), -ir → -iendo (viviendo)"
+  },
+  "q_gram_a2_07_007": {
+    "question": "Ellos están ___ español en clase. (escribir, gerund)",
+    "correct": "escribiendo",
+    "wrong": [
+      "escribando",
+      "escribido",
+      "escrebiendo"
+    ],
+    "explanation": "규칙 -ir 동사는 -iendo로 현재분사를 만듭니다: escribiendo.",
+    "hint": "규칙 -ir 동사의 현재분사: 어간 + -iendo"
+  },
+  "q_gram_a2_07_008": {
+    "question": "그녀는 지금 메뉴를 주문하고 있다.",
+    "correct": "Ella está pidiendo el menú ahora mismo.",
+    "wrong": [
+      "Ella está pediendo el menú ahora mismo.",
+      "Ella está pidando el menú ahora mismo.",
+      "Ella pide el menú ahora mismo."
+    ],
+    "explanation": "pedir는 e→i 변화가 있는 불규칙 현재분사를 가집니다: pidiendo. 현재 진행형은 지금 일어나고 있는 동작을 나타냅니다."
+  },
+  "q_gram_a2_07_009": {
+    "question": "Los estudiantes están ___ al profesor. (seguir, gerund — irregular)",
+    "correct": "siguiendo",
+    "wrong": [
+      "seguiendo",
+      "seguyendo",
+      "siguendo"
+    ],
+    "explanation": "seguir는 불규칙 현재분사를 가집니다: siguiendo (e→i 변화, u가 탈락).",
+    "conjugation_info": "불규칙 -ir 현재분사 (e→i): pedir→pidiendo, servir→sirviendo, seguir→siguiendo, decir→diciendo, repetir→repitiendo"
+  },
+  "q_gram_a2_07_010": {
+    "question": "¿Qué estás haciendo? — Estoy leyendo y mi hermano está durmiendo.",
+    "correct": "뭐 하고 있어? — 나는 읽고 있고 내 형(동생)은 자고 있어.",
+    "wrong": [
+      "뭐 하고 있어? — 나는 쓰고 있고 내 형(동생)은 자고 있어.",
+      "뭐 하고 있어? — 나는 읽고 있고 내 언니(여동생)는 자고 있어.",
+      "너는 뭐 해? — 나는 읽고 내 형(동생)은 자."
+    ],
+    "explanation": "Estás haciendo = 하고 있니, estoy leyendo = 읽고 있다 (불규칙 현재분사), está durmiendo = 자고 있다 (불규칙 현재분사)."
+  },
+  "q_gram_a2_08_001": {
+    "question": "Yo ___ a estudiar esta noche. (ir a + infinitive, yo form)",
+    "correct": "voy",
+    "wrong": [
+      "va",
+      "vas",
+      "van"
+    ],
+    "explanation": "가까운 미래 시제는 ir (활용형) + a + 원형을 사용합니다. yo의 경우: voy a estudiar.",
+    "conjugation_info": "ir: voy, vas, va, vamos, vais, van"
+  },
+  "q_gram_a2_08_002": {
+    "question": "Nosotros ___ a viajar a España el próximo verano. (ir)",
+    "correct": "vamos",
+    "wrong": [
+      "vais",
+      "van",
+      "voy"
+    ],
+    "explanation": "nosotros의 경우 ir는 'vamos'로 활용됩니다: vamos a viajar.",
+    "hint": "nosotros의 ir 활용: vamos"
+  },
+  "q_gram_a2_08_003": {
+    "question": "María ___ a cocinar paella mañana. (ir)",
+    "correct": "va",
+    "wrong": [
+      "voy",
+      "vas",
+      "van"
+    ],
+    "explanation": "ella의 경우 ir는 'va'로 활용됩니다: va a cocinar.",
+    "hint": "ella의 ir 활용: va"
+  },
+  "q_gram_a2_08_004": {
+    "question": "'ir a + 원형'은 무엇을 표현할까요?",
+    "correct": "계획, 의도, 가까운 미래의 동작",
+    "wrong": [
+      "과거에 완료된 동작",
+      "현재의 습관적 동작",
+      "바로 지금 진행 중인 동작"
+    ],
+    "explanation": "'Ir a + 원형'은 앞으로 할 일, 즉 계획, 의도, 가까운 미래의 사건을 표현합니다."
+  },
+  "q_gram_a2_08_005": {
+    "question": "¿Ustedes ___ a ver la película esta noche? (ir, ustedes form)",
+    "correct": "van",
+    "wrong": [
+      "vais",
+      "vamos",
+      "va"
+    ],
+    "explanation": "ustedes의 경우 ir는 'van'으로 활용됩니다: van a ver.",
+    "conjugation_info": "ir: voy (yo), vas (tú), va (él/ella/Ud.), vamos (nosotros), vais (vosotros), van (ellos/Uds.)"
+  },
+  "q_gram_a2_08_006": {
+    "question": "Tú ___ a necesitar un paraguas mañana. (ir)",
+    "correct": "vas",
+    "wrong": [
+      "voy",
+      "va",
+      "vamos"
+    ],
+    "explanation": "tú의 경우 ir는 'vas'로 활용됩니다: vas a necesitar.",
+    "hint": "tú의 ir 활용: vas"
+  },
+  "q_gram_a2_08_007": {
+    "question": "우리는 오늘 밤 식당에서 먹을 거야.",
+    "correct": "Vamos a comer en un restaurante esta noche.",
+    "wrong": [
+      "Vamos a comer en un restaurante esta mañana.",
+      "Van a comer en un restaurante esta noche.",
+      "Vamos comer en un restaurante esta noche."
+    ],
+    "explanation": "Nosotros = vamos. 구조는 ir + a + 원형입니다. 'Esta noche' = 오늘 밤."
+  },
+  "q_gram_a2_08_008": {
+    "question": "El próximo año, mi hermana ___ a estudiar en la universidad. (ir)",
+    "correct": "va",
+    "wrong": [
+      "voy",
+      "vas",
+      "van"
+    ],
+    "explanation": "'Mi hermana'는 ella입니다: va a estudiar. 'El próximo año'(내년)는 가까운 미래 시제와 자주 쓰이는 시간 표현입니다.",
+    "hint": "'mi hermana'는 ella → ir 활용: va"
+  },
+  "q_gram_a2_08_009": {
+    "question": "¿Qué vas a hacer este fin de semana?",
+    "correct": "이번 주말에 뭐 할 거야?",
+    "wrong": [
+      "지금 뭐 하고 있어?",
+      "이번 주말에 뭐 했어?",
+      "오늘 아침에 뭐 할 거야?"
+    ],
+    "explanation": "'Vas a hacer' = 할 거야 (가까운 미래). 'Este fin de semana' = 이번 주말."
+  },
+  "q_gram_a2_08_010": {
+    "question": "Ellos ___ a mudarse a otra ciudad el mes que viene. (ir, ellos form)",
+    "correct": "van",
+    "wrong": [
+      "vamos",
+      "vais",
+      "va"
+    ],
+    "explanation": "ellos의 경우 ir는 'van'으로 활용됩니다: van a mudarse.",
+    "conjugation_info": "ir: voy (yo), vas (tú), va (él/ella/Ud.), vamos (nosotros), vais (vosotros), van (ellos/Uds.)"
+  },
+  "q_gram_a2_09_001": {
+    "question": "Ayer yo ___ con mi amigo por teléfono. (hablar, preterite)",
+    "correct": "hablé",
+    "wrong": [
+      "hablo",
+      "hablaba",
+      "hablí"
+    ],
+    "explanation": "규칙 -ar 동사의 점과거 yo형은 -é로 끝납니다: hablé. 과거에 완료된 동작을 나타냅니다.",
+    "hint": "규칙 -ar 점과거 어미: -é, -aste, -ó, -amos, -asteis, -aron"
+  },
+  "q_gram_a2_09_002": {
+    "question": "Ella ___ una carta ayer. (escribir, preterite)",
+    "correct": "escribió",
+    "wrong": [
+      "escribí",
+      "escribo",
+      "escribía"
+    ],
+    "explanation": "규칙 -ir 동사의 점과거 ella형은 -ió로 끝납니다: escribió.",
+    "hint": "규칙 -ir 동사의 점과거 ella형: -ió"
+  },
+  "q_gram_a2_09_003": {
+    "question": "스페인어에서 점과거(preterite) 시제는 언제 사용할까요?",
+    "correct": "과거에 완료된 일회성 동작에 사용",
+    "wrong": [
+      "과거에 습관적이거나 반복적인 동작에 사용",
+      "지금 일어나고 있는 동작에 사용",
+      "과거의 진행 중인 배경 상황을 묘사할 때 사용"
+    ],
+    "explanation": "점과거는 과거의 특정 시점에 완료된 동작에 사용됩니다: Ayer hablé, Anoche comí."
+  },
+  "q_gram_a2_09_004": {
+    "question": "Nosotros ___ una pizza anoche. (comer, preterite, nosotros form)",
+    "correct": "comimos",
+    "wrong": [
+      "comemos",
+      "comímos",
+      "comiemos"
+    ],
+    "explanation": "규칙 -er 동사의 점과거 nosotros형은 -imos로 끝납니다: comimos.",
+    "conjugation_info": "-er/-ir 점과거: -í, -iste, -ió, -imos, -isteis, -ieron"
+  },
+  "q_gram_a2_09_005": {
+    "question": "Tú ___ toda la leche esta mañana. (beber, preterite)",
+    "correct": "bebiste",
+    "wrong": [
+      "bebes",
+      "bebió",
+      "bebías"
+    ],
+    "explanation": "규칙 -er 동사의 점과거 tú형은 -iste로 끝납니다: bebiste.",
+    "hint": "규칙 -er 동사의 점과거 tú형: -iste"
+  },
+  "q_gram_a2_09_006": {
+    "question": "Los estudiantes ___ mucho para el examen. (estudiar, preterite, ellos form)",
+    "correct": "estudiaron",
+    "wrong": [
+      "estudian",
+      "estudiaban",
+      "estudiarón"
+    ],
+    "explanation": "규칙 -ar 동사의 점과거 ellos형은 -aron으로 끝납니다: estudiaron. 참고: -aron에는 악센트가 없습니다.",
+    "conjugation_info": "-ar 점과거: -é, -aste, -ó, -amos, -asteis, -aron"
+  },
+  "q_gram_a2_09_007": {
+    "question": "Vosotros ___ en un restaurante italiano la semana pasada. (comer, preterite)",
+    "correct": "comisteis",
+    "wrong": [
+      "coméis",
+      "comieron",
+      "comíais"
+    ],
+    "explanation": "규칙 -er 동사의 점과거 vosotros형은 -isteis로 끝납니다: comisteis.",
+    "hint": "규칙 -er 동사의 점과거 vosotros형: -isteis"
+  },
+  "q_gram_a2_09_008": {
+    "question": "어젯밤에 나는 영화를 보고 팝콘을 먹었다.",
+    "correct": "Anoche miré una película y comí palomitas.",
+    "wrong": [
+      "Anoche miro una película y como palomitas.",
+      "Anoche miraba una película y comía palomitas.",
+      "Anoche miré una película y comió palomitas."
+    ],
+    "explanation": "두 동사 모두 완료된 동작에 점과거를 사용합니다: miré (yo, -ar)와 comí (yo, -er). 'Anoche'(어젯밤)는 점과거를 나타내는 신호입니다."
+  },
+  "q_gram_a2_09_009": {
+    "question": "Ella ___ la puerta y ___ a la calle. (abrir, salir — preterite, ella form)",
+    "correct": "abrió, salió",
+    "wrong": [
+      "abrí, salí",
+      "abre, sale",
+      "abría, salía"
+    ],
+    "explanation": "둘 다 ella형의 규칙 -ir 점과거입니다: abrió, salió. 완료된 연속 동작을 나타냅니다.",
+    "conjugation_info": "-ir 점과거 (ella): abrió, salió, vivió, escribió, recibió"
+  },
+  "q_gram_a2_09_010": {
+    "question": "Ayer mis padres viajaron a Barcelona y visitaron la Sagrada Familia.",
+    "correct": "어제 부모님은 바르셀로나로 여행하고 사그라다 파밀리아를 방문했다.",
+    "wrong": [
+      "어제 부모님은 바르셀로나로 여행하고 사그라다 파밀리아를 방문한다.",
+      "어제 친구들은 바르셀로나로 여행하고 사그라다 파밀리아를 방문했다.",
+      "어제 부모님은 마드리드로 여행하고 사그라다 파밀리아를 방문했다."
+    ],
+    "explanation": "viajaron과 visitaron은 규칙 -ar 점과거 (ellos형)입니다. 둘 다 과거에 완료된 동작을 나타냅니다."
+  },
+  "q_gram_a2_10_001": {
+    "question": "Yo ___ a la fiesta el sábado pasado. (ir, preterite, yo form)",
+    "correct": "fui",
+    "wrong": [
+      "iba",
+      "voy",
+      "fue"
+    ],
+    "explanation": "ir는 완전히 불규칙한 점과거를 가집니다. yo형: fui. 참고: ir와 ser는 같은 점과거 형태를 공유합니다.",
+    "conjugation_info": "ir/ser (점과거): fui, fuiste, fue, fuimos, fuisteis, fueron"
+  },
+  "q_gram_a2_10_002": {
+    "question": "Ella ___ la tarea anoche. (hacer, preterite)",
+    "correct": "hizo",
+    "wrong": [
+      "hació",
+      "hacó",
+      "hice"
+    ],
+    "explanation": "hacer는 불규칙 점과거를 가집니다. ella형: hizo (o 앞에서 c가 z로 바뀜).",
+    "hint": "hacer의 불규칙 점과거 어간: hic-/hiz-"
+  },
+  "q_gram_a2_10_003": {
+    "question": "Nosotros no ___ ir a la playa porque llovía. (poder, preterite)",
+    "correct": "pudimos",
+    "wrong": [
+      "podimos",
+      "podemos",
+      "pudieron"
+    ],
+    "explanation": "poder는 불규칙 점과거 어간 pud-를 가집니다. nosotros: pudimos.",
+    "hint": "poder의 불규칙 점과거 어간: pud-"
+  },
+  "q_gram_a2_10_004": {
+    "question": "'ir'와 'ser'의 점과거형에서 특별한 점은 무엇일까요?",
+    "correct": "완전히 동일한 활용 형태를 공유한다",
+    "wrong": [
+      "둘 다 규칙적인 점과거 어미를 가진다",
+      "ir만 점과거에서 불규칙이다",
+      "어간은 다르지만 어미가 같다"
+    ],
+    "explanation": "ir와 ser는 동일한 점과거 형태를 공유합니다: fui, fuiste, fue, fuimos, fuisteis, fueron. 문맥에 따라 어떤 동사인지 결정됩니다."
+  },
+  "q_gram_a2_10_005": {
+    "question": "¿Dónde ___ tú las llaves? (poner, preterite, tú form)",
+    "correct": "pusiste",
+    "wrong": [
+      "poniste",
+      "pusó",
+      "pusimos"
+    ],
+    "explanation": "poner는 불규칙 점과거 어간 pus-를 가집니다. tú: pusiste.",
+    "conjugation_info": "poner (점과거): puse, pusiste, puso, pusimos, pusisteis, pusieron"
+  },
+  "q_gram_a2_10_006": {
+    "question": "Ellos ___ que estudiar más. (tener, preterite)",
+    "correct": "tuvieron",
+    "wrong": [
+      "tenieron",
+      "tuveron",
+      "tienieron"
+    ],
+    "explanation": "tener는 불규칙 점과거 어간 tuv-를 가집니다. ellos: tuvieron.",
+    "hint": "tener의 불규칙 점과거 어간: tuv-"
+  },
+  "q_gram_a2_10_007": {
+    "question": "그녀는 어제 내 집에 와서 소식을 전해줬다.",
+    "correct": "Ella vino a mi casa ayer y me dijo las noticias.",
+    "wrong": [
+      "Ella venió a mi casa ayer y me decio las noticias.",
+      "Ella vino a mi casa ayer y me decí las noticias.",
+      "Ella viene a mi casa ayer y me dice las noticias."
+    ],
+    "explanation": "venir (점과거): vino. decir (점과거): dijo. 둘 다 불규칙 점과거형입니다."
+  },
+  "q_gram_a2_10_008": {
+    "question": "Yo ___ en el hotel cerca de la playa. (estar, preterite)",
+    "correct": "estuve",
+    "wrong": [
+      "estoy",
+      "estaba",
+      "estuvo"
+    ],
+    "explanation": "estar는 불규칙 점과거 어간 estuv-를 가집니다. yo: estuve.",
+    "hint": "estar의 불규칙 점과거 어간: estuv-"
+  },
+  "q_gram_a2_10_009": {
+    "question": "Ayer mi amigo me dijo algo interesante y yo no lo pude creer.",
+    "correct": "어제 친구가 흥미로운 것을 말해줬는데 나는 믿을 수 없었다.",
+    "wrong": [
+      "어제 친구가 지루한 것을 말해줬는데 나는 믿을 수 없었다.",
+      "어제 친구가 흥미로운 것을 물어봤는데 나는 이해할 수 없었다.",
+      "오늘 친구가 흥미로운 것을 말해줬는데 나는 믿을 수 없었다."
+    ],
+    "explanation": "dijo (decir에서) = 말했다, pude (poder에서) = ~할 수 있었다. 둘 다 불규칙 점과거형입니다."
+  },
+  "q_gram_a2_10_010": {
+    "question": "Nosotros ___ mucho trabajo la semana pasada. (tener, preterite, nosotros form)",
+    "correct": "tuvimos",
+    "wrong": [
+      "tenimos",
+      "tuvieron",
+      "tuvemos"
+    ],
+    "explanation": "tener의 점과거 어간: tuv-. nosotros: tuvimos.",
+    "conjugation_info": "tener (점과거): tuve, tuviste, tuvo, tuvimos, tuvisteis, tuvieron"
+  },
+  "q_gram_a2_11_001": {
+    "question": "Cuando era niño, yo ___ todos los días. (jugar, imperfect)",
+    "correct": "jugaba",
+    "wrong": [
+      "jugué",
+      "juego",
+      "jugara"
+    ],
+    "explanation": "-ar 동사의 불완료 과거 yo형은 -aba로 끝납니다: jugaba.\n불완료 과거는 과거의 습관적인 행동을 나타냅니다.",
+    "hint": "-ar 불완료 과거 어미: -aba, -abas, -aba, -ábamos, -abais, -aban"
+  },
+  "q_gram_a2_11_002": {
+    "question": "Mi abuela ___ galletas todos los domingos. (cocinar, imperfect)",
+    "correct": "cocinaba",
+    "wrong": [
+      "cocinó",
+      "cocina",
+      "cociné"
+    ],
+    "explanation": "-ar 동사의 불완료 과거 ella형은 -aba로 끝납니다: cocinaba.\n과거에 반복적으로 했던 행동을 설명합니다.",
+    "hint": "-ar 동사의 불완료 과거 ella형: -aba"
+  },
+  "q_gram_a2_11_003": {
+    "question": "스페인어에서 불완료 과거(imperfecto)는 언제 사용할까요?",
+    "correct": "과거의 습관적 행동, 묘사, 배경 정보를 나타낼 때",
+    "wrong": [
+      "과거에 한 번 완료된 행동을 나타낼 때",
+      "미래의 계획이나 의도를 나타낼 때",
+      "지금 일어나고 있는 행동을 나타낼 때"
+    ],
+    "explanation": "불완료 과거는 과거의 습관적/반복적 행동, 신체적/감정적 묘사, 나이, 시간, 배경 설정 등에 사용됩니다.\n- 습관: Jugaba todos los días. (매일 놀았다)\n- 묘사: Era alto. (키가 컸다)"
+  },
+  "q_gram_a2_11_004": {
+    "question": "Nosotros ___ en una casa grande. (vivir, imperfect, nosotros form)",
+    "correct": "vivíamos",
+    "wrong": [
+      "vivimos",
+      "vivímos",
+      "vivábamos"
+    ],
+    "explanation": "-ir 동사의 불완료 과거 nosotros형은 -íamos로 끝납니다: vivíamos.\ní에 악센트가 있는 것에 주의하세요.",
+    "conjugation_info": "-er/-ir 불완료 과거: -ía, -ías, -ía, -íamos, -íais, -ían"
+  },
+  "q_gram_a2_11_005": {
+    "question": "De joven, ella ___ mucho café. (beber, imperfect)",
+    "correct": "bebía",
+    "wrong": [
+      "bebió",
+      "bebe",
+      "bebaba"
+    ],
+    "explanation": "-er 동사의 불완료 과거 ella형은 -ía로 끝납니다: bebía.\n'De joven'(젊었을 때)은 과거 습관을 나타내는 시간 표현입니다.",
+    "hint": "-er 동사의 불완료 과거 ella형: -ía"
+  },
+  "q_gram_a2_11_006": {
+    "question": "Los vecinos siempre ___ música por la noche. (escuchar, imperfect, ellos form)",
+    "correct": "escuchaban",
+    "wrong": [
+      "escucharon",
+      "escuchan",
+      "escuchían"
+    ],
+    "explanation": "-ar 동사의 불완료 과거 ellos형은 -aban으로 끝납니다: escuchaban.\n'siempre'(항상)는 습관적 행동을 나타내는 신호 단어입니다.",
+    "conjugation_info": "-ar 불완료 과거: -aba, -abas, -aba, -ábamos, -abais, -aban"
+  },
+  "q_gram_a2_11_007": {
+    "question": "Tú ___ al parque todos los fines de semana. (caminar, imperfect)",
+    "correct": "caminabas",
+    "wrong": [
+      "caminaste",
+      "caminas",
+      "caminías"
+    ],
+    "explanation": "-ar 동사의 불완료 과거 tú형은 -abas로 끝납니다: caminabas.\n'todos los fines de semana'(매주 주말)는 습관적 행동을 나타냅니다.",
+    "hint": "-ar 동사의 불완료 과거 tú형: -abas"
+  },
+  "q_gram_a2_11_008": {
+    "question": "젊었을 때, 나는 매일 밤 책을 읽곤 했다.",
+    "correct": "Cuando era joven, leía todas las noches.",
+    "wrong": [
+      "Cuando fui joven, leí todas las noches.",
+      "Cuando era joven, leo todas las noches.",
+      "Cuando era joven, leyó todas las noches."
+    ],
+    "explanation": "'era'(ser의 불규칙 불완료)와 'leía'(leer의 규칙 -er 불완료) 모두 과거의 습관적 상황을 묘사합니다.\n- era joven = 젊었다 (상태)\n- leía = 읽곤 했다 (습관)"
+  },
+  "q_gram_a2_11_009": {
+    "question": "Vosotros ___ español en la escuela. (estudiar, imperfect, vosotros form)",
+    "correct": "estudiabais",
+    "wrong": [
+      "estudiasteis",
+      "estudiábais",
+      "estudiaban"
+    ],
+    "explanation": "-ar 동사의 불완료 과거 vosotros형은 -abais로 끝납니다: estudiabais.\n주의: -ábamos(nosotros)에는 악센트가 있지만, -abais(vosotros)에는 없습니다.",
+    "conjugation_info": "-ar 불완료 과거: -aba (yo), -abas (tú), -aba (él), -ábamos (nosotros), -abais (vosotros), -aban (ellos)"
+  },
+  "q_gram_a2_11_010": {
+    "question": "Mis hermanos y yo comíamos juntos todos los días cuando vivíamos en Madrid.",
+    "correct": "형제들과 나는 마드리드에 살 때 매일 함께 식사하곤 했다.",
+    "wrong": [
+      "형제들과 나는 어제 마드리드에 살 때 함께 식사했다.",
+      "형제들과 나는 마드리드를 방문했을 때 매일 함께 식사하곤 했다.",
+      "형제들과 나는 마드리드에 살면서 매일 함께 식사한다."
+    ],
+    "explanation": "comíamos(먹곤 했다)와 vivíamos(살곤 했다)는 모두 불완료 과거로 과거의 습관적 행동을 나타냅니다.\n'todos los días'(매일)가 습관적 의미를 강조합니다."
+  },
+  "q_gram_a2_12_001": {
+    "question": "De niño, yo ___ muy tímido. (ser, imperfect, yo form)",
+    "correct": "era",
+    "wrong": [
+      "fui",
+      "soy",
+      "fue"
+    ],
+    "explanation": "ser는 불완료 과거에서 불규칙 동사 3개 중 하나입니다.\nyo형: era.",
+    "conjugation_info": "ser (불완료 과거): era, eras, era, éramos, erais, eran"
+  },
+  "q_gram_a2_12_002": {
+    "question": "Nosotros ___ al parque todos los sábados. (ir, imperfect)",
+    "correct": "íbamos",
+    "wrong": [
+      "fuimos",
+      "vamos",
+      "imos"
+    ],
+    "explanation": "ir는 불완료 과거에서 불규칙입니다.\nnosotros형: íbamos.\n'todos los sábados'(매주 토요일)는 습관적 행동을 나타냅니다.",
+    "hint": "ir의 불완료 과거 nosotros형: íbamos"
+  },
+  "q_gram_a2_12_003": {
+    "question": "Mi abuelo ___ la televisión todas las tardes. (ver, imperfect)",
+    "correct": "veía",
+    "wrong": [
+      "vía",
+      "vió",
+      "veia"
+    ],
+    "explanation": "ver는 불완료 과거에서 불규칙입니다: veía ('vía'가 아닙니다).\ní에 악센트가 있는 것에 주의하세요.",
+    "hint": "ver의 불완료 과거는 불규칙: ve- 어간 유지 + -ía"
+  },
+  "q_gram_a2_12_004": {
+    "question": "스페인어 불완료 과거에서 불규칙 동사는 몇 개일까요?",
+    "correct": "ser, ir, ver 단 3개뿐이다",
+    "wrong": [
+      "10개 이상의 동사가 불규칙이다",
+      "ser와 ir만 불규칙이다",
+      "불완료 과거에는 불규칙 동사가 없다"
+    ],
+    "explanation": "불완료 과거에는 불규칙 동사가 단 3개뿐입니다: ser (era), ir (iba), ver (veía).\n나머지 모든 동사는 규칙 변화를 따릅니다."
+  },
+  "q_gram_a2_12_005": {
+    "question": "Ellos ___ estudiantes muy aplicados. (ser, imperfect, ellos form)",
+    "correct": "eran",
+    "wrong": [
+      "fueron",
+      "son",
+      "sean"
+    ],
+    "explanation": "ser의 불완료 과거 ellos형: eran.\n과거의 특성이나 성질을 묘사할 때 사용합니다.",
+    "conjugation_info": "ser (불완료 과거): era, eras, era, éramos, erais, eran"
+  },
+  "q_gram_a2_12_006": {
+    "question": "Tú ___ a la escuela en autobús cuando eras pequeño. (ir, imperfect)",
+    "correct": "ibas",
+    "wrong": [
+      "fuiste",
+      "vas",
+      "ías"
+    ],
+    "explanation": "ir의 불완료 과거 tú형: ibas.\n과거에 반복적으로 했던 행동을 묘사합니다.",
+    "hint": "ir의 불완료 과거 tú형: ibas"
+  },
+  "q_gram_a2_12_007": {
+    "question": "어렸을 때, 나는 매년 여름 해변에 가곤 했다.",
+    "correct": "Cuando era niño, iba a la playa todos los veranos.",
+    "wrong": [
+      "Cuando fui niño, fui a la playa todos los veranos.",
+      "Cuando era niño, iba a la montaña todos los veranos.",
+      "Cuando era niño, voy a la playa todos los veranos."
+    ],
+    "explanation": "era (ser, 불완료)와 iba (ir, 불완료)는 모두 불규칙입니다.\n둘 다 과거의 습관적 상황을 묘사합니다.\n- era niño = 어렸다 (상태)\n- iba = 가곤 했다 (습관)"
+  },
+  "q_gram_a2_12_008": {
+    "question": "Vosotros ___ muchos programas de televisión de pequeños. (ver, imperfect)",
+    "correct": "veíais",
+    "wrong": [
+      "visteis",
+      "veías",
+      "víais"
+    ],
+    "explanation": "ver의 불완료 과거 vosotros형: veíais.\nve- 어간이 유지되는 것에 주의하세요.",
+    "hint": "ver의 불완료 과거 vosotros형: veíais"
+  },
+  "q_gram_a2_12_009": {
+    "question": "De joven, mi madre era profesora, iba al trabajo en bicicleta y veía películas los viernes.",
+    "correct": "젊었을 때, 어머니는 교사였고, 자전거로 출근했으며, 금요일에 영화를 보곤 했다.",
+    "wrong": [
+      "젊었을 때, 어머니는 의사였고, 자전거로 출근했으며, 금요일에 영화를 보곤 했다.",
+      "젊었을 때, 어머니는 교사였고, 차로 출근했으며, 금요일에 영화를 보곤 했다.",
+      "어제, 어머니는 교사였고, 자전거로 출근했으며, 금요일에 영화를 보곤 했다."
+    ],
+    "explanation": "불규칙 불완료 과거 동사 3개가 모두 등장합니다: era (ser), iba (ir), veía (ver).\n모두 과거의 습관적 행동을 묘사합니다."
+  },
+  "q_gram_a2_12_010": {
+    "question": "Nosotros ___ la puesta de sol desde la ventana todas las tardes. (ver, imperfect, nosotros form)",
+    "correct": "veíamos",
+    "wrong": [
+      "víamos",
+      "vimos",
+      "viamos"
+    ],
+    "explanation": "ver의 불완료 과거 nosotros형: veíamos.\nve- 어간과 í의 악센트가 핵심입니다.",
+    "conjugation_info": "ver (불완료 과거): veía, veías, veía, veíamos, veíais, veían"
+  },
+  "q_gram_a2_13_001": {
+    "question": "___ cuando salí de casa. (llover — choose preterite or imperfect)",
+    "correct": "Llovía",
+    "wrong": [
+      "Llovió",
+      "Llueve",
+      "Lloverá"
+    ],
+    "explanation": "비가 오는 것은 진행 중인 배경 행동(불완료)이고, 내가 나간 것은 완료된 행동(점과거)입니다.\n불완료 과거가 배경을 설정합니다.",
+    "hint": "배경/진행 중인 행동 = 불완료 과거; 끼어드는 행동 = 점과거"
+  },
+  "q_gram_a2_13_002": {
+    "question": "Ayer ___ un accidente en la calle. (haber, preterite — single event)",
+    "correct": "hubo",
+    "wrong": [
+      "había",
+      "hay",
+      "habrá"
+    ],
+    "explanation": "한 번 완료된 사건에는 점과거를 사용합니다: hubo.\n'Ayer'(어제)는 특정 과거 시점을 나타내는 신호 단어입니다.",
+    "hint": "'Ayer'는 특정 시점 → 점과거 사용"
+  },
+  "q_gram_a2_13_003": {
+    "question": "점과거(pretérito)와 불완료 과거(imperfecto)의 핵심 차이는 무엇일까요?",
+    "correct": "점과거 = 완료된 행동; 불완료 = 진행 중/습관적/묘사적",
+    "wrong": [
+      "점과거 = 현재; 불완료 = 과거",
+      "점과거 = 격식체; 불완료 = 비격식체",
+      "점과거 = 긍정문; 불완료 = 부정문"
+    ],
+    "explanation": "점과거는 완료된 사건을 서술하고, 불완료 과거는 배경, 습관, 진행 중인 상태를 묘사합니다.\n이 두 시제는 함께 자주 사용됩니다."
+  },
+  "q_gram_a2_13_004": {
+    "question": "Mientras yo ___ la cena, mi hermano llegó. (preparar — background action)",
+    "correct": "preparaba",
+    "wrong": [
+      "preparé",
+      "preparo",
+      "preparó"
+    ],
+    "explanation": "'Mientras'(~하는 동안)는 진행 중인 배경 행동을 나타냅니다 → 불완료: preparaba.\n도착(llegó)은 점과거(완료된 행동)입니다.",
+    "conjugation_info": "불완료 신호 단어: mientras, siempre, todos los días, de niño, generalmente\n점과거 신호 단어: ayer, anoche, una vez, de repente"
+  },
+  "q_gram_a2_13_005": {
+    "question": "De repente, el teléfono ___. (sonar, preterite — sudden action)",
+    "correct": "sonó",
+    "wrong": [
+      "sonaba",
+      "suena",
+      "sonará"
+    ],
+    "explanation": "'De repente'(갑자기)는 갑작스럽고 완료된 행동을 나타냅니다 → 점과거: sonó.\n갑작스러운 사건은 항상 점과거를 사용합니다.",
+    "hint": "'De repente'(갑자기)는 완료된 행동 → 점과거"
+  },
+  "q_gram_a2_13_006": {
+    "question": "Todos los veranos, nosotros ___ a la playa y ___ en el mar. (ir, nadar — habitual past)",
+    "correct": "íbamos, nadábamos",
+    "wrong": [
+      "fuimos, nadamos",
+      "íbamos, nadamos",
+      "vamos, nadamos"
+    ],
+    "explanation": "'Todos los veranos'(매여름)는 습관적 행동을 나타냅니다 → 두 동사 모두 불완료: íbamos, nadábamos.",
+    "conjugation_info": "습관적 과거 = 불완료 과거\n시간 단서: siempre, cada día, todos los años, generalmente, a menudo"
+  },
+  "q_gram_a2_13_007": {
+    "question": "Cuando ___ pequeña, María ___ con muñecas. (ser/jugar — description + habit)",
+    "correct": "era, jugaba",
+    "wrong": [
+      "fue, jugó",
+      "era, jugó",
+      "fue, jugaba"
+    ],
+    "explanation": "둘 다 진행 중인 과거 상태를 묘사합니다: '어렸던 것'과 '인형으로 놀았던 것'은 습관적/묘사적 → 불완료.\n두 행동 모두 지속적이므로 불완료를 사용합니다.",
+    "hint": "과거 상태/습관 묘사는 불완료 과거를 사용합니다"
+  },
+  "q_gram_a2_13_008": {
+    "question": "나는 자고 있었는데 누군가 문을 두드렸다.",
+    "correct": "Yo dormía cuando alguien tocó la puerta.",
+    "wrong": [
+      "Yo dormí cuando alguien tocaba la puerta.",
+      "Yo dormía cuando alguien tocaba la puerta.",
+      "Yo duermo cuando alguien toca la puerta."
+    ],
+    "explanation": "잠자기 = 진행 중인 배경 (불완료: dormía)\n문 두드리기 = 끼어드는 완료된 행동 (점과거: tocó)\n배경(불완료) + 사건(점과거)의 전형적인 조합입니다."
+  },
+  "q_gram_a2_13_009": {
+    "question": "Anoche ___ mucho frío y por eso nosotros no ___. (hacer/salir — description + completed decision)",
+    "correct": "hacía, salimos",
+    "wrong": [
+      "hizo, salíamos",
+      "hacía, salíamos",
+      "hizo, salimos"
+    ],
+    "explanation": "날씨 묘사 = 불완료 (hacía frío, 추웠다)\n외출하지 않기로 한 결정 = 완료된 행동, 점과거 (salimos)\n배경/이유(불완료) + 반응/완료 행동(점과거)의 조합입니다.",
+    "conjugation_info": "결합 사용: 불완료 (배경/이유) + 점과거 (반응/완료 행동)\nHacía frío → salimos (추워서 나가지 않았다)"
+  },
+  "q_gram_a2_13_010": {
+    "question": "Mientras caminábamos por el parque, vimos un pájaro muy bonito.",
+    "correct": "우리가 공원을 걷고 있는 동안, 아주 예쁜 새를 보았다.",
+    "wrong": [
+      "우리가 공원을 걸었을 때, 예쁜 새를 보곤 했다.",
+      "우리가 공원을 걷고 있는 동안, 예쁜 새를 보고 있었다.",
+      "우리가 공원을 걸으면서, 예쁜 새를 본다."
+    ],
+    "explanation": "caminábamos (불완료) = 진행 중인 배경; vimos (점과거) = 완료된 일회성 사건.\n불완료 + 점과거의 전형적인 조합입니다."
+  },
+  "q_gram_a2_14_001": {
+    "question": "María es ___ alta que su hermana. (comparative: more...than)",
+    "correct": "más",
+    "wrong": [
+      "menos",
+      "tan",
+      "mejor"
+    ],
+    "explanation": "'더 ~한'을 나타내는 비교급은 'más...que'입니다.\nMaría es más alta que su hermana. (마리아는 그녀의 언니보다 더 키가 크다.)",
+    "conjugation_info": "비교급: más + 형용사 + que (~보다 더), menos + 형용사 + que (~보다 덜), tan + 형용사 + como (~만큼)"
+  },
+  "q_gram_a2_14_002": {
+    "question": "Este libro es ___ interesante ___ el otro. (comparative: less...than)",
+    "correct": "menos, que",
+    "wrong": [
+      "más, que",
+      "tan, como",
+      "menos, como"
+    ],
+    "explanation": "'덜 ~한'을 나타내는 비교급은 'menos...que'입니다: menos interesante que.\n이 책은 다른 책보다 덜 재미있다.",
+    "hint": "'덜 ~한' 비교급: menos + 형용사 + que"
+  },
+  "q_gram_a2_14_003": {
+    "question": "Mi hermano es ___ alto ___ yo. (comparative: as tall as)",
+    "correct": "tan, como",
+    "wrong": [
+      "más, que",
+      "menos, que",
+      "tanto, como"
+    ],
+    "explanation": "형용사와 함께 동등 비교를 할 때 'tan...como'를 사용합니다: tan alto como yo.\n내 형은 나만큼 키가 크다.",
+    "hint": "동등 비교 (형용사): tan + 형용사 + como"
+  },
+  "q_gram_a2_14_004": {
+    "question": "'bueno'의 불규칙 비교급은 무엇일까요?",
+    "correct": "mejor (더 좋은)",
+    "wrong": [
+      "más bueno (더 좋은)",
+      "buenísimo (매우 좋은)",
+      "bien (잘)"
+    ],
+    "explanation": "'bueno'는 불규칙 비교급 'mejor'(더 좋은)를 사용합니다. 'más bueno'는 쓰지 않습니다.\n마찬가지로 'malo' → 'peor'(더 나쁜)입니다."
+  },
+  "q_gram_a2_14_005": {
+    "question": "Esta película es ___ que la anterior. (comparative: worse — irregular)",
+    "correct": "peor",
+    "wrong": [
+      "más mala",
+      "menos buena",
+      "peorar"
+    ],
+    "explanation": "'malo'의 불규칙 비교급은 'peor'(더 나쁜)입니다.\n표준 스페인어에서 'más malo'는 피합니다.",
+    "conjugation_info": "불규칙 비교급: bueno→mejor, malo→peor, grande→mayor (나이가 더 많은), pequeño→menor (나이가 더 어린)"
+  },
+  "q_gram_a2_14_006": {
+    "question": "Tengo ___ libros ___ mi amigo. (comparative: as many...as — noun comparison)",
+    "correct": "tantos, como",
+    "wrong": [
+      "tan, como",
+      "más, que",
+      "tantas, como"
+    ],
+    "explanation": "명사의 동등 비교는 'tanto/a/os/as + 명사 + como'를 사용합니다.\n'libros'는 남성 복수이므로: tantos.",
+    "conjugation_info": "명사 동등 비교: tanto (남성 단수), tanta (여성 단수), tantos (남성 복수), tantas (여성 복수) + como",
+    "hint": "명사의 동등 비교: tanto/a/os/as + 명사 + como"
+  },
+  "q_gram_a2_14_007": {
+    "question": "내 형은 나보다 나이가 많다.",
+    "correct": "Mi hermano es mayor que yo.",
+    "wrong": [
+      "Mi hermano es más grande que yo.",
+      "Mi hermano es menor que yo.",
+      "Mi hermano es más viejo que yo."
+    ],
+    "explanation": "나이를 비교할 때 'mayor'(나이가 더 많은)는 'grande'의 불규칙 비교급입니다.\n'más grande'는 물리적 크기를 나타내며, 나이에는 사용하지 않습니다."
+  },
+  "q_gram_a2_14_008": {
+    "question": "Elena habla español ___ rápido ___ Pedro. (comparative: as fast as)",
+    "correct": "tan, como",
+    "wrong": [
+      "más, que",
+      "tanto, como",
+      "menos, que"
+    ],
+    "explanation": "부사와 함께 동등 비교도 'tan...como'를 사용합니다: tan rápido como.\n엘레나는 페드로만큼 빨리 스페인어를 말한다.",
+    "hint": "동등 비교 (부사): tan + 부사 + como"
+  },
+  "q_gram_a2_14_009": {
+    "question": "Este restaurante es mejor que el otro, pero es más caro.",
+    "correct": "이 레스토랑은 다른 곳보다 더 좋지만, 더 비싸다.",
+    "wrong": [
+      "이 레스토랑은 다른 곳보다 더 나쁘지만, 더 비싸다.",
+      "이 레스토랑은 다른 곳보다 더 좋지만, 더 싸다.",
+      "이 레스토랑은 다른 곳보다 더 좋고, 더 비싸다."
+    ],
+    "explanation": "mejor = 더 좋은 (불규칙 비교급), más caro = 더 비싼 (규칙 비교급).\n'pero'는 '하지만'이라는 대조를 나타냅니다."
+  },
+  "q_gram_a2_14_010": {
+    "question": "Mi hermana ___ es ___ que yo: ella tiene 15 años y yo tengo 18. (menor, younger — irregular comparative)",
+    "correct": "menor",
+    "wrong": [
+      "mayor",
+      "más pequeña",
+      "menos grande"
+    ],
+    "explanation": "나이를 나타낼 때 'menor'는 '더 어린'이라는 뜻입니다 ('pequeño'의 나이 관련 불규칙 비교급).\n'más pequeño'는 물리적 크기를 나타냅니다.",
+    "conjugation_info": "나이 비교급: mayor (더 나이 많은), menor (더 어린)\n크기 비교급: más grande (더 큰), más pequeño (더 작은)"
+  },
+  "q_gram_a2_15_001": {
+    "question": "María es ___ chica más inteligente de la clase. (superlative article)",
+    "correct": "la",
+    "wrong": [
+      "el",
+      "las",
+      "los"
+    ],
+    "explanation": "최상급은 'el/la/los/las + más/menos + 형용사 + de'를 사용합니다.\n'chica'는 여성 단수이므로: la.",
+    "hint": "최상급 = 정관사 + más/menos + 형용사 + de"
+  },
+  "q_gram_a2_15_002": {
+    "question": "Este es el restaurante ___ caro de la ciudad. (superlative: most)",
+    "correct": "más",
+    "wrong": [
+      "menos",
+      "tan",
+      "muy"
+    ],
+    "explanation": "'가장 ~한'을 나타내는 최상급은 'más'를 사용합니다: el más caro de la ciudad.\n이것은 도시에서 가장 비싼 레스토랑이다.",
+    "hint": "최상급: el/la + más + 형용사 + de"
+  },
+  "q_gram_a2_15_003": {
+    "question": "절대 최상급 접미사 '-ísimo/a'는 무엇을 표현할까요?",
+    "correct": "극도로 높은 정도의 성질 (매우, 매우)",
+    "wrong": [
+      "두 가지를 비교하는 것",
+      "가장 낮은 정도의 성질",
+      "세 가지 이상을 비교하는 것"
+    ],
+    "explanation": "절대 최상급 -ísimo/a는 '극도로' 또는 '매우 매우'를 의미합니다.\n- grandísimo = 극도로 큰\n- facilísimo = 극도로 쉬운\n비교 없이 그 자체로 극단적 정도를 나타냅니다."
+  },
+  "q_gram_a2_15_004": {
+    "question": "La pizza está ___. (caliente → absolute superlative -ísimo/a form)",
+    "correct": "calentísima",
+    "wrong": [
+      "calientísima",
+      "calentísimo",
+      "la más caliente"
+    ],
+    "explanation": "caliente → calentísima ('pizza'가 여성이므로 여성형).\n어간이 'calent-'으로 돌아간 후 -ísima를 붙입니다.",
+    "conjugation_info": "절대 최상급: 형용사 어간 + -ísimo/a/os/as\n예: grande→grandísimo, fácil→facilísimo, rico→riquísimo"
+  },
+  "q_gram_a2_15_005": {
+    "question": "Juan es el ___ estudiante de la escuela. (superlative: best — irregular)",
+    "correct": "mejor",
+    "wrong": [
+      "más bueno",
+      "buenísimo",
+      "más mejor"
+    ],
+    "explanation": "'bueno'의 불규칙 최상급은 'el mejor'(가장 좋은)입니다.\n절대 'más mejor'는 사용하지 않습니다 (이중 비교 오류).",
+    "hint": "bueno의 불규칙 최상급: el mejor (más mejor ✗)"
+  },
+  "q_gram_a2_15_006": {
+    "question": "Estas son las montañas ___ altas ___ Europa. (superlative construction)",
+    "correct": "más, de",
+    "wrong": [
+      "más, que",
+      "menos, en",
+      "tan, como"
+    ],
+    "explanation": "최상급 구조: las más altas DE ('que'가 아님).\n전치사 'de'를 항상 사용합니다.",
+    "conjugation_info": "최상급: el/la/los/las + más/menos + 형용사 + DE\n불규칙: el mejor, el peor, el mayor, el menor"
+  },
+  "q_gram_a2_15_007": {
+    "question": "La comida estaba ___. (rico → absolute superlative, feminine)",
+    "correct": "riquísima",
+    "wrong": [
+      "ricísima",
+      "riquísimo",
+      "la más rica"
+    ],
+    "explanation": "rico → riquísima.\nc가 qu로 변하여 /k/ 발음을 유지합니다.\n'comida'가 여성이므로 -ísima를 사용합니다.",
+    "hint": "절대 최상급 -ísimo/a: rico → riquísima (c→qu 변화)"
+  },
+  "q_gram_a2_15_008": {
+    "question": "이것은 올해 최악의 영화이다.",
+    "correct": "Esta es la peor película del año.",
+    "wrong": [
+      "Esta es la más mala película del año.",
+      "Esta es la peor película que año.",
+      "Esta es el peor película del año."
+    ],
+    "explanation": "'peor'는 'malo'의 불규칙 최상급입니다.\n'del' = de + el. 'película'는 여성이므로: la peor."
+  },
+  "q_gram_a2_15_009": {
+    "question": "El examen fue ___. (difícil → absolute superlative -ísimo form)",
+    "correct": "dificilísimo",
+    "wrong": [
+      "difícilísimo",
+      "dificílísimo",
+      "el más difícil"
+    ],
+    "explanation": "difícil → dificilísimo.\n악센트가 이동하며 원래의 악센트는 사라집니다.\n'examen'은 남성이므로 -ísimo를 사용합니다.",
+    "conjugation_info": "자음으로 끝나는 형용사의 절대 최상급: fácil→facilísimo, difícil→dificilísimo"
+  },
+  "q_gram_a2_15_010": {
+    "question": "Mi abuela es la persona más amable de mi familia y cocina riquísimo.",
+    "correct": "우리 할머니는 가족 중 가장 친절한 분이고, 요리를 극도로 맛있게 하신다.",
+    "wrong": [
+      "우리 할머니는 가족 중 가장 불친절한 분이고, 요리를 극도로 맛있게 하신다.",
+      "우리 할머니는 가족 중 가장 친절한 분이고, 요리를 형편없이 하신다.",
+      "우리 할아버지는 가족 중 가장 친절한 분이고, 요리를 극도로 맛있게 하신다."
+    ],
+    "explanation": "'la más amable de' = ~중 가장 친절한 (최상급).\n'riquísimo' = 극도로 맛있는 (절대 최상급).\n두 가지 최상급 형태가 한 문장에 사용되었습니다."
+  },
+  "q_gram_a2_16_001": {
+    "question": "¡___ tu tarea ahora! (hacer, affirmative tú command — irregular)",
+    "correct": "Haz",
+    "wrong": [
+      "Hace",
+      "Haces",
+      "Hagas"
+    ],
+    "explanation": "'hacer'의 불규칙 tú 명령형은 haz입니다. 일반 규칙 패턴을 따르지 않습니다.",
+    "conjugation_info": "불규칙 tú 명령형: pon, sal, ven, ten, haz, di, sé, ve"
+  },
+  "q_gram_a2_16_002": {
+    "question": "¡___ la puerta, por favor! (abrir, affirmative tú command)",
+    "correct": "Abre",
+    "wrong": [
+      "Abres",
+      "Abra",
+      "Abrir"
+    ],
+    "explanation": "규칙 긍정 tú 명령형은 현재 시제 3인칭 단수형을 사용합니다: abre (abrir에서).",
+    "hint": "규칙 tú 명령형 = 현재 시제 3인칭 단수형"
+  },
+  "q_gram_a2_16_003": {
+    "question": "¡___ más despacio, por favor! (hablar, affirmative tú command)",
+    "correct": "Habla",
+    "wrong": [
+      "Hablas",
+      "Hable",
+      "Hablar"
+    ],
+    "explanation": "규칙 tú 명령형 = él/ella 현재 시제형: habla.",
+    "hint": "-ar 동사의 규칙 tú 명령형: 현재 시제 él/ella형 사용"
+  },
+  "q_gram_a2_16_004": {
+    "question": "규칙 긍정 tú 명령형은 어떻게 만들까요?",
+    "correct": "현재 시제 3인칭 단수(él/ella)형을 사용한다",
+    "wrong": [
+      "현재 시제 tú형을 사용한다",
+      "동사원형을 사용한다",
+      "현재 시제 nosotros형을 사용한다"
+    ],
+    "explanation": "규칙 긍정 tú 명령형 = él/ella/usted 직설법 현재형: habla (말해!), come (먹어!), escribe (써!)."
+  },
+  "q_gram_a2_16_005": {
+    "question": "¡___me la verdad! (decir, affirmative tú command + pronoun — irregular)",
+    "correct": "Di",
+    "wrong": [
+      "Dice",
+      "Deci",
+      "Diga"
+    ],
+    "explanation": "'decir'의 불규칙 tú 명령형은 'di'입니다. 대명사는 끝에 붙습니다: ¡Dime!",
+    "conjugation_info": "불규칙 tú 명령형: di (decir), haz (hacer), ve (ir), pon (poner), sal (salir), sé (ser), ten (tener), ven (venir)"
+  },
+  "q_gram_a2_16_006": {
+    "question": "¡___ de la casa inmediatamente! (salir, affirmative tú command — irregular)",
+    "correct": "Sal",
+    "wrong": [
+      "Sale",
+      "Sales",
+      "Salga"
+    ],
+    "explanation": "'salir'의 불규칙 tú 명령형은 'sal'입니다.",
+    "hint": "salir의 불규칙 tú 명령형: sal"
+  },
+  "q_gram_a2_16_007": {
+    "question": "지금 당장 채소를 먹어!",
+    "correct": "¡Come tus verduras ahora!",
+    "wrong": [
+      "¡Comes tus verduras ahora!",
+      "¡Coma tus verduras ahora!",
+      "¡Comer tus verduras ahora!"
+    ],
+    "explanation": "'comer'의 규칙 tú 명령형은 'come' (현재 3인칭 단수와 동일)입니다. 스페인어에서는 여는 느낌표 ¡도 사용합니다."
+  },
+  "q_gram_a2_16_008": {
+    "question": "¡___ aquí, por favor! Necesito hablar contigo. (venir, affirmative tú command — irregular)",
+    "correct": "Ven",
+    "wrong": [
+      "Viene",
+      "Vienes",
+      "Venga"
+    ],
+    "explanation": "'venir'의 불규칙 tú 명령형은 'ven'입니다.",
+    "hint": "venir의 불규칙 tú 명령형: ven"
+  },
+  "q_gram_a2_16_009": {
+    "question": "¡Pon la mesa y después ven a comer!",
+    "correct": "식탁을 차리고 그 다음에 먹으러 와!",
+    "wrong": [
+      "탁자를 놓고 그 다음에 먹으러 와!",
+      "식탁을 차리고 그 다음에 먹으러 가!",
+      "식탁을 차리고 그 다음에 요리하러 와!"
+    ],
+    "explanation": "Pon (poner의 불규칙 tú 명령형) = 차리다/놓다. Ven (venir의 불규칙 tú 명령형) = 오다."
+  },
+  "q_gram_a2_16_010": {
+    "question": "¡___lo ahora mismo! (hacer, affirmative tú command + lo attached)",
+    "correct": "Haz",
+    "wrong": [
+      "Hace",
+      "Haga",
+      "Has"
+    ],
+    "explanation": "hacer의 불규칙 tú 명령형: haz. 대명사가 붙으면: ¡Hazlo! (그것을 해!)",
+    "conjugation_info": "명령형에 대명사 붙이기: Hazlo (그것을 해), Dime (나에게 말해), Ponlo (그것을 놓아), Tenlo (그것을 가져)"
+  },
+  "q_gram_a2_17_001": {
+    "question": "Estudio ___ el examen. (por/para — purpose/goal)",
+    "correct": "para",
+    "wrong": [
+      "por",
+      "a",
+      "de"
+    ],
+    "explanation": "'para'는 목적이나 목표를 나타냅니다: Estudio para el examen = 시험을 위해 공부한다.",
+    "hint": "para = 목적, 도착지, 마감, 수령인"
+  },
+  "q_gram_a2_17_002": {
+    "question": "Gracias ___ tu ayuda. (por/para — reason/cause)",
+    "correct": "por",
+    "wrong": [
+      "para",
+      "a",
+      "con"
+    ],
+    "explanation": "'por'는 이유/원인을 나타냅니다: Gracias por tu ayuda = 도움에 감사합니다 (도움 때문에).",
+    "hint": "'por'는 이유/원인을 나타냅니다: ~때문에"
+  },
+  "q_gram_a2_17_003": {
+    "question": "'para'는 일반적으로 무엇을 표현할까요?",
+    "correct": "목적, 도착지, 마감 기한, 수령인",
+    "wrong": [
+      "이유, 교환, 기간, 통과",
+      "미래 시간 표현만",
+      "이동과 장소만"
+    ],
+    "explanation": "para = 목적 (para estudiar), 도착지 (para Madrid), 마감 (para mañana), 수령인 (para ti)."
+  },
+  "q_gram_a2_17_004": {
+    "question": "Caminamos ___ el parque todas las mañanas. (por — through/along)",
+    "correct": "por",
+    "wrong": [
+      "para",
+      "a",
+      "en"
+    ],
+    "explanation": "'por'는 이동 시 '~을 통해/~을 따라'를 의미합니다: Caminamos por el parque.",
+    "conjugation_info": "por: 이유 (por eso), 교환 (por 5 euros), 기간 (por dos horas), 통과 (por el parque), 시간대 (por la mañana)"
+  },
+  "q_gram_a2_17_005": {
+    "question": "Este regalo es ___ mi madre. (por/para — recipient)",
+    "correct": "para",
+    "wrong": [
+      "por",
+      "a",
+      "de"
+    ],
+    "explanation": "'para'는 수령인을 나타냅니다: Este regalo es para mi madre = 이 선물은 어머니를 위한 것입니다.",
+    "hint": "'para'는 수령인을 나타냅니다: ~을 위해"
+  },
+  "q_gram_a2_17_006": {
+    "question": "Pagué diez euros ___ el libro. (por/para — exchange)",
+    "correct": "por",
+    "wrong": [
+      "para",
+      "a",
+      "con"
+    ],
+    "explanation": "'por'는 교환을 나타냅니다: Pagué diez euros por el libro = 그 책에 10유로를 지불했다.",
+    "conjugation_info": "para: 목적/목표, 도착지, 마감, 수령인. por: 이유, 교환, 기간, 통과, ~당, 시간대."
+  },
+  "q_gram_a2_17_007": {
+    "question": "Necesito terminar el informe ___ la reunión de mañana. (por/para — deadline)",
+    "correct": "para",
+    "wrong": [
+      "por",
+      "de",
+      "en"
+    ],
+    "explanation": "'para'는 마감 기한을 나타냅니다: para la reunión de mañana = 내일 회의까지.",
+    "hint": "'para'는 마감/기한을 나타냅니다: ~까지"
+  },
+  "q_gram_a2_17_008": {
+    "question": "파티 때문에 너에게 전화했어.",
+    "correct": "Te llamé por la fiesta.",
+    "wrong": [
+      "Te llamé para la fiesta.",
+      "Te llamo por la fiesta.",
+      "Me llamé por la fiesta."
+    ],
+    "explanation": "'por'는 이유/원인을 나타냅니다: por la fiesta = 파티 때문에."
+  },
+  "q_gram_a2_17_009": {
+    "question": "Viajamos ___ la mañana y llegamos ___ las tres de la tarde. (por/para — time expressions)",
+    "correct": "por, a",
+    "wrong": [
+      "para, a",
+      "por, para",
+      "para, por"
+    ],
+    "explanation": "'por la mañana' = 아침에 (대략적인 시간대). 'a las tres' = 3시에 (구체적 시각).",
+    "conjugation_info": "por + 시간대: por la mañana, por la tarde, por la noche. para + 마감: para el lunes, para mañana."
+  },
+  "q_gram_a2_17_010": {
+    "question": "Caminé por la ciudad para encontrar un buen restaurante.",
+    "correct": "좋은 식당을 찾기 위해 도시를 걸었다.",
+    "wrong": [
+      "도시로 걸어가서 좋은 식당을 찾았다.",
+      "좋은 식당을 찾았기 때문에 도시를 걸었다.",
+      "도시를 위해 걸어서 좋은 식당을 찾았다."
+    ],
+    "explanation": "'por la ciudad' = 도시를 통해 (통과 이동). 'para encontrar' = 찾기 위해 (목적)."
+  },
+  "q_gram_a2_18_001": {
+    "question": "No tengo ___. (negative pronoun: nothing)",
+    "correct": "nada",
+    "wrong": [
+      "nadie",
+      "nunca",
+      "ninguno"
+    ],
+    "explanation": "'nada'는 '아무것도 (~않다)'를 의미합니다. 스페인어에서는 이중 부정이 표준입니다: No tengo nada.",
+    "conjugation_info": "부정어: nada (아무것도), nadie (아무도), nunca/jamás (절대), ninguno/a (아무 ~도), tampoco (~도 아니다), ni...ni (~도 ~도 아니다)"
+  },
+  "q_gram_a2_18_002": {
+    "question": "No viene ___ a la fiesta. (negative pronoun: nobody)",
+    "correct": "nadie",
+    "wrong": [
+      "nada",
+      "nunca",
+      "ninguno"
+    ],
+    "explanation": "'nadie'는 '아무도 (~않다)'를 의미합니다. 이중 부정: No viene nadie.",
+    "hint": "'아무도 ~않다' = nadie. 이중 부정 가능"
+  },
+  "q_gram_a2_18_003": {
+    "question": "___ estudio los domingos. (negative: never — before verb, no 'no' needed)",
+    "correct": "Nunca",
+    "wrong": [
+      "No nunca",
+      "Nada",
+      "Nadie"
+    ],
+    "explanation": "부정어가 동사 앞에 오면 'no'가 필요 없습니다: Nunca estudio = 나는 절대 공부하지 않는다.",
+    "hint": "부정어가 동사 앞에 오면 'no'가 필요 없습니다"
+  },
+  "q_gram_a2_18_004": {
+    "question": "스페인어에서 이중 부정의 규칙은 무엇일까요?",
+    "correct": "부정어가 동사 뒤에 올 때 문법적으로 올바르며 필수이다",
+    "wrong": [
+      "영어처럼 문법적으로 틀리다",
+      "서로 상쇄되어 긍정이 된다",
+      "비격식 대화에서만 사용된다"
+    ],
+    "explanation": "스페인어에서 이중 부정은 표준입니다: No tengo nada (아무것도 없다). 부정어가 동사 앞에 오면 'no'를 생략합니다."
+  },
+  "q_gram_a2_18_005": {
+    "question": "No me gusta ___ el fútbol ___ el baloncesto. (neither...nor)",
+    "correct": "ni, ni",
+    "wrong": [
+      "no, no",
+      "nunca, nunca",
+      "nada, nada"
+    ],
+    "explanation": "'ni...ni' = '~도 ~도 아니다'. No me gusta ni el fútbol ni el baloncesto.",
+    "conjugation_info": "ni...ni = ~도 ~도 아니다. 예: No quiero ni café ni té. / Ni café ni té quiero."
+  },
+  "q_gram_a2_18_006": {
+    "question": "Yo no quiero ir al cine. — Yo ___ quiero ir. (negative: neither/me neither)",
+    "correct": "tampoco",
+    "wrong": [
+      "también",
+      "nunca",
+      "nada"
+    ],
+    "explanation": "'tampoco'는 '~도 아니다' (también의 부정 대응어)를 의미합니다: Yo tampoco quiero ir.",
+    "hint": "'~도 아니다' = tampoco (también의 부정형)"
+  },
+  "q_gram_a2_18_007": {
+    "question": "나는 스페인에 가 본 적이 한 번도 없다.",
+    "correct": "Nunca he estado en España.",
+    "wrong": [
+      "No nunca he estado en España.",
+      "No he estado nunca España.",
+      "Jamás no he estado en España."
+    ],
+    "explanation": "'nunca'가 동사 앞에 오면 'no'가 필요 없습니다: Nunca he estado. (대안: No he estado nunca en España.)"
+  },
+  "q_gram_a2_18_008": {
+    "question": "No hay ___ libro sobre ese tema en la biblioteca. (negative: not any/no)",
+    "correct": "ningún",
+    "wrong": [
+      "ninguna",
+      "nada",
+      "nadie"
+    ],
+    "explanation": "'ningún'은 남성 단수 명사 앞에서 'ninguno'가 축약된 형태입니다: ningún libro.",
+    "hint": "남성 단수 명사 앞에서 ninguno → ningún으로 축약"
+  },
+  "q_gram_a2_18_009": {
+    "question": "No conozco a nadie en esta ciudad y no tengo nada que hacer.",
+    "correct": "이 도시에서 아무도 모르고 할 일이 아무것도 없다.",
+    "wrong": [
+      "이 도시에서 아무도 모르고 할 일이 모두 있다.",
+      "이 도시에서 모두를 알고 할 일이 아무것도 없다.",
+      "이 도시에서 아무도 모르고 할 일이 많다."
+    ],
+    "explanation": "nadie = 아무도, nada = 아무것도. 둘 다 'no'와 이중 부정을 사용합니다."
+  },
+  "q_gram_a2_18_010": {
+    "question": "___ de mis amigos ___ al concierto. Yo ___ fui. (ninguno/ir/tampoco — complete negative sentence)",
+    "correct": "Ninguno, fue, tampoco",
+    "wrong": [
+      "Nadie, fue, también",
+      "Ninguno, iba, tampoco",
+      "Nada, fue, tampoco"
+    ],
+    "explanation": "Ninguno (아무도 ~않다)가 동사 앞이면 'no' 불필요. fue = ir의 점과거. tampoco = ~도 아니다.",
+    "conjugation_info": "ninguno/a는 남성 명사 앞에서 ningún으로 축약: ningún libro. ninguna는 축약하지 않음: ninguna casa."
+  },
+  "q_gram_a2_19_001": {
+    "question": "El libro ___ estoy leyendo es muy interesante. (relative pronoun)",
+    "correct": "que",
+    "wrong": [
+      "cual",
+      "quien",
+      "donde"
+    ],
+    "explanation": "'que'는 스페인어에서 가장 흔한 관계대명사로, '~하는/~인'을 의미합니다. 절을 연결합니다.",
+    "hint": "스페인어에서 관계대명사 'que'는 절대 생략할 수 없습니다"
+  },
+  "q_gram_a2_19_002": {
+    "question": "La chica ___ habla es mi hermana. (relative pronoun: who)",
+    "correct": "que",
+    "wrong": [
+      "quien",
+      "cual",
+      "como"
+    ],
+    "explanation": "'que'는 관계절에서 사람을 주어로 가리킬 때 '~하는 사람'을 의미합니다.",
+    "hint": "'que'는 관계절에서 사람/사물 모두를 가리킵니다"
+  },
+  "q_gram_a2_19_003": {
+    "question": "스페인어의 'que'는 영어의 'that/which/who'와 어떻게 다를까요?",
+    "correct": "스페인어에서 'que'는 영어와 달리 절대 생략할 수 없다",
+    "wrong": [
+      "스페인어에서 'que'는 영어처럼 생략 가능하다",
+      "스페인어에서 'que'는 사람에게만 사용된다",
+      "스페인어에서 'que'는 성에 따라 형태가 변한다"
+    ],
+    "explanation": "영어에서는 'The book I read' (that 생략 가능). 스페인어에서는 'que'가 항상 필수: El libro que leo."
+  },
+  "q_gram_a2_19_004": {
+    "question": "La casa en ___ vivo es pequeña. (que with preposition)",
+    "correct": "la que",
+    "wrong": [
+      "que",
+      "el que",
+      "quien"
+    ],
+    "explanation": "전치사 뒤에서 'que'는 명사에 맞는 정관사가 필요합니다: en la que (casa가 여성이므로).",
+    "conjugation_info": "전치사 + 관사 + que: en el que, en la que, con el que, con la que, de los que, de las que"
+  },
+  "q_gram_a2_19_005": {
+    "question": "Las películas ___ vimos ayer fueron excelentes. (relative pronoun)",
+    "correct": "que",
+    "wrong": [
+      "cual",
+      "las cuales",
+      "quienes"
+    ],
+    "explanation": "'que'는 사람과 사물 모두에 사용됩니다: Las películas que vimos = 우리가 본 영화들.",
+    "hint": "'que'는 관계절에서 목적어로도 사용됩니다"
+  },
+  "q_gram_a2_19_006": {
+    "question": "El restaurante en ___ cenamos es muy famoso. (que with preposition, masculine noun)",
+    "correct": "el que",
+    "wrong": [
+      "que",
+      "la que",
+      "lo que"
+    ],
+    "explanation": "'en' 뒤에서 명사에 맞는 관사 + que를 사용: en el que (restaurante가 남성이므로).",
+    "conjugation_info": "전치사 + 관사 + que: el que (남성 단수), la que (여성 단수), los que (남성 복수), las que (여성 복수)"
+  },
+  "q_gram_a2_19_007": {
+    "question": "El profesor ___ enseña historia es de México. (relative pronoun: who)",
+    "correct": "que",
+    "wrong": [
+      "cual",
+      "donde",
+      "quien"
+    ],
+    "explanation": "'que'는 관계절에서 주어 'el profesor'를 대체합니다: que enseña historia.",
+    "hint": "'que'는 관계절에서 주어를 대체합니다"
+  },
+  "q_gram_a2_19_008": {
+    "question": "내가 산 차는 빨간색이다.",
+    "correct": "El coche que compré es rojo.",
+    "wrong": [
+      "El coche compré es rojo.",
+      "El coche cual compré es rojo.",
+      "El coche quien compré es rojo."
+    ],
+    "explanation": "스페인어에서 'que'는 생략할 수 없습니다. 'el coche'와 'compré'를 연결하는 'that'의 역할입니다."
+  },
+  "q_gram_a2_19_009": {
+    "question": "La persona con ___ hablé me dio buena información. (que with preposition 'con')",
+    "correct": "la que",
+    "wrong": [
+      "que",
+      "el que",
+      "quien"
+    ],
+    "explanation": "'con' 뒤에서 관사 + que 사용: con la que (persona가 여성이므로). 'con quien'도 맞지만 여기서는 'la que' 패턴입니다.",
+    "conjugation_info": "전치사 뒤: con el que, con la que, para el que, para la que, por el que, por la que"
+  },
+  "q_gram_a2_19_010": {
+    "question": "El amigo que me ayudó es la persona en la que más confío.",
+    "correct": "나를 도와준 친구는 내가 가장 신뢰하는 사람이다.",
+    "wrong": [
+      "나를 도와준 친구는 내가 가장 좋아하는 사람이다.",
+      "나를 도와준 적은 내가 가장 신뢰하는 사람이다.",
+      "나를 도와준 친구는 내가 가장 두려워하는 사람이다."
+    ],
+    "explanation": "'que me ayudó' = 나를 도와준 (주어 관계절). 'en la que confío' = 내가 신뢰하는 (전치사 + 관사 + que)."
+  },
+  "q_gram_a2_20_001": {
+    "question": "¿Me das el libro? — Sí, ___ ___ doy. (IOP + DOP replacing 'el libro' + 'a ti')",
+    "correct": "te lo",
+    "wrong": [
+      "lo te",
+      "te le",
+      "se lo"
+    ],
+    "explanation": "간접목적대명사(IOP) + 직접목적대명사(DOP) 순서. 'te' = 너에게, 'lo' = 그것 (남성). IOP가 항상 먼저 옵니다.",
+    "conjugation_info": "결합 대명사 순서: IOP + DOP. me lo, te la, nos los, os las. le/les → lo/la/los/las 앞에서 se로 변환."
+  },
+  "q_gram_a2_20_002": {
+    "question": "Ella ___ ___ explica a nosotros. (IOP + DOP replacing 'la lección' + 'a nosotros')",
+    "correct": "nos la",
+    "wrong": [
+      "la nos",
+      "nos lo",
+      "se la"
+    ],
+    "explanation": "IOP (nos) + DOP (la). 'nos' = 우리에게, 'la' = 그것 (여성, la lección). IOP가 DOP 앞에 옵니다.",
+    "hint": "IOP + DOP 순서: 간접 먼저, 직접 뒤에"
+  },
+  "q_gram_a2_20_003": {
+    "question": "Yo ___ ___ doy a ella. (IOP + DOP replacing 'los libros' + 'a ella')",
+    "correct": "se los",
+    "wrong": [
+      "le los",
+      "los le",
+      "les los"
+    ],
+    "explanation": "'le' (IOP)가 'lo/la/los/las' (DOP) 앞에 오면 'le'가 'se'로 바뀝니다: se los doy.",
+    "hint": "le/les + lo/la/los/las → se + lo/la/los/las"
+  },
+  "q_gram_a2_20_004": {
+    "question": "결합 목적격 대명사에서 'le'가 'se'로 바뀌는 이유는 무엇일까요?",
+    "correct": "'le lo'나 'le la'의 어색한 발음을 피하기 위해서",
+    "wrong": [
+      "'le'는 단독으로만 사용되기 때문에",
+      "'se'가 완전히 다른 의미이기 때문에",
+      "'le'는 gustar와 함께 쓰는 간접목적어에만 사용되기 때문에"
+    ],
+    "explanation": "스페인어에서는 'le lo / le la / les los / les las'가 발음이 어색하므로 피합니다. 'le/les'가 모든 DOP 앞에서 'se'로 바뀝니다."
+  },
+  "q_gram_a2_20_005": {
+    "question": "¿Puedes dar___ ___ ? (combine: me + lo, attached to infinitive)",
+    "correct": "melo",
+    "wrong": [
+      "lome",
+      "seme",
+      "mele"
+    ],
+    "explanation": "부정사에 붙일 때 두 대명사가 순서대로 (IOP + DOP) 붙습니다: dármelo. 악센트 부호와 함께 한 단어로 씁니다.",
+    "conjugation_info": "부정사에 붙이기: dármelo, comprártela, escribírselo. 현재분사에 붙이기: dándomelo, escribiéndoselo."
+  },
+  "q_gram_a2_20_006": {
+    "question": "___ ___ compro mañana. (IOP + DOP replacing 'la camisa' + 'a ti')",
+    "correct": "Te la",
+    "wrong": [
+      "La te",
+      "Se la",
+      "Te lo"
+    ],
+    "explanation": "IOP (te) + DOP (la). 'te' = 너에게, 'la' = 그것 (여성, la camisa): Te la compro.",
+    "hint": "IOP(te) + DOP(la) = te la"
+  },
+  "q_gram_a2_20_007": {
+    "question": "나는 매일 그것을 그에게 준다. (el libro, 남성)",
+    "correct": "Se lo doy todos los días.",
+    "wrong": [
+      "Le lo doy todos los días.",
+      "Lo se doy todos los días.",
+      "Se la doy todos los días."
+    ],
+    "explanation": "'le' → 'lo' 앞에서 'se'로 변환. Se lo doy = 나는 그것(남성)을 그에게 준다. IOP + DOP 순서."
+  },
+  "q_gram_a2_20_008": {
+    "question": "Mi madre ___ ___ prepara todas las mañanas. (IOP + DOP replacing 'el desayuno' + 'a nosotros')",
+    "correct": "nos lo",
+    "wrong": [
+      "lo nos",
+      "se lo",
+      "nos la"
+    ],
+    "explanation": "IOP (nos) + DOP (lo). 'nos' = 우리에게, 'lo' = 그것 (남성, el desayuno): nos lo prepara.",
+    "hint": "IOP(nos) + DOP(lo) = nos lo"
+  },
+  "q_gram_a2_20_009": {
+    "question": "¿La tarea? Se la entregué al profesor ayer.",
+    "correct": "숙제? 어제 선생님에게 제출했어.",
+    "wrong": [
+      "숙제? 어제 학생에게 제출했어.",
+      "숙제? 그가 어제 선생님에게 제출했어.",
+      "숙제? 내일 선생님에게 제출할 거야."
+    ],
+    "explanation": "'se'는 'le' (al profesor)를 대체, 'la' = 그것 (여성, la tarea). entregué = 제출했다 (점과거)."
+  },
+  "q_gram_a2_20_010": {
+    "question": "Quiero decír___ ___ a ellos. (combine: se + lo, attached to infinitive — 'the truth' to 'them')",
+    "correct": "selo",
+    "wrong": [
+      "lelo",
+      "losé",
+      "sela"
+    ],
+    "explanation": "le/les → lo/la 앞에서 se로 변환. 부정사에 붙이기: decírselo. IOP (se) + DOP (lo).",
+    "conjugation_info": "부정사에 결합 대명사 붙이기: decírselo (그에게 그것을 말하다), comprármela (나에게 그것을 사다), escribírtelos (너에게 그것들을 쓰다)"
+  }
+}

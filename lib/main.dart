@@ -6,6 +6,7 @@ import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'app.dart';
 import 'core/config/app_config.dart';
 import 'services/ad_service.dart';
+import 'services/iap_service.dart';
 import 'services/notification_service.dart';
 
 void main() async {
@@ -23,8 +24,8 @@ void main() async {
   await MobileAds.instance.initialize();
   AdService().preloadAds();
 
-  // TODO: IAP 초기화
-  // await IAPService().initialize();
+  // IAP 초기화
+  await IAPService().initialize();
 
   // 알림 서비스 초기화
   await NotificationService().initialize();

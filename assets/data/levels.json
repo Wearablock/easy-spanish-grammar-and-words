@@ -12,7 +12,15 @@
         "es": "Gramática básica A1",
         "zh-Hans": "A1 基础语法",
         "zh-Hant": "A1 基礎語法",
-        "pt": "Gramática básica A1"
+        "pt": "Gramática básica A1",
+        "de": "A1 Grundgrammatik",
+        "fr": "Grammaire de base A1",
+        "it": "Grammatica base A1",
+        "ru": "A1 Базовая грамматика",
+        "ar": "A1 القواعد الأساسية",
+        "th": "A1 ไวยากรณ์พื้นฐาน",
+        "vi": "A1 Ngữ pháp cơ bản",
+        "id": "A1 Tata Bahasa Dasar"
       },
       "description": {
         "ko": "스페인어의 기본 구조와 초급 문법을 학습합니다.",
@@ -33,7 +41,15 @@
         "es": "Vocabulario básico A1",
         "zh-Hans": "A1 基础词汇",
         "zh-Hant": "A1 基礎詞彙",
-        "pt": "Vocabulário básico A1"
+        "pt": "Vocabulário básico A1",
+        "de": "A1 Grundwortschatz",
+        "fr": "Vocabulaire de base A1",
+        "it": "Vocabolario base A1",
+        "ru": "A1 Базовая лексика",
+        "ar": "A1 المفردات الأساسية",
+        "th": "A1 คำศัพท์พื้นฐาน",
+        "vi": "A1 Từ vựng cơ bản",
+        "id": "A1 Kosakata Dasar"
       },
       "description": {
         "ko": "일상생활에 필요한 기본 스페인어 어휘를 학습합니다.",
@@ -54,7 +70,15 @@
         "es": "Gramática elemental A2",
         "zh-Hans": "A2 初级语法",
         "zh-Hant": "A2 初級語法",
-        "pt": "Gramática elementar A2"
+        "pt": "Gramática elementar A2",
+        "de": "A2 Elementare Grammatik",
+        "fr": "Grammaire élémentaire A2",
+        "it": "Grammatica elementare A2",
+        "ru": "A2 Элементарная грамматика",
+        "ar": "A2 القواعد الابتدائية",
+        "th": "A2 ไวยากรณ์เบื้องต้น",
+        "vi": "A2 Ngữ pháp sơ cấp",
+        "id": "A2 Tata Bahasa Dasar Lanjut"
       },
       "description": {
         "ko": "과거, 미래 시제와 비교급 등 초급 문법을 학습합니다.",
@@ -75,13 +99,253 @@
         "es": "Vocabulario elemental A2",
         "zh-Hans": "A2 初级词汇",
         "zh-Hant": "A2 初級詞彙",
-        "pt": "Vocabulário elementar A2"
+        "pt": "Vocabulário elementar A2",
+        "de": "A2 Elementarer Wortschatz",
+        "fr": "Vocabulaire élémentaire A2",
+        "it": "Vocabolario elementare A2",
+        "ru": "A2 Элементарная лексика",
+        "ar": "A2 المفردات الابتدائية",
+        "th": "A2 คำศัพท์เบื้องต้น",
+        "vi": "A2 Từ vựng sơ cấp",
+        "id": "A2 Kosakata Dasar Lanjut"
       },
       "description": {
         "ko": "쇼핑, 여행, 직장 등 일상 주제의 어휘를 학습합니다.",
         "en": "Learn vocabulary for daily topics like shopping, travel, and work."
       },
       "color": "#9C27B0",
+      "icon": "translate"
+    },
+    {
+      "id": "grammar_b1",
+      "category_id": "grammar",
+      "dele_level": "b1",
+      "order": 5,
+      "name": {
+        "ko": "B1 중급 문법",
+        "en": "B1 Intermediate Grammar",
+        "ja": "B1 中級文法",
+        "es": "Gramática intermedia B1",
+        "zh-Hans": "B1 中级语法",
+        "zh-Hant": "B1 中級語法",
+        "pt": "Gramática intermediária B1",
+        "de": "B1 Mittelstufe Grammatik",
+        "fr": "Grammaire intermédiaire B1",
+        "it": "Grammatica intermedia B1",
+        "ru": "B1 Средняя грамматика",
+        "ar": "B1 القواعد المتوسطة",
+        "th": "B1 ไวยากรณ์ระดับกลาง",
+        "vi": "B1 Ngữ pháp trung cấp",
+        "id": "B1 Tata Bahasa Menengah"
+      },
+      "description": {
+        "ko": "접속법, 조건법, 미래시제 등 중급 문법을 학습합니다.",
+        "en": "Learn intermediate grammar including subjunctive, conditional, and future tense."
+      },
+      "color": "#009688",
+      "icon": "menu_book"
+    },
+    {
+      "id": "vocab_b1",
+      "category_id": "vocabulary",
+      "dele_level": "b1",
+      "order": 6,
+      "name": {
+        "ko": "B1 중급 어휘",
+        "en": "B1 Intermediate Vocabulary",
+        "ja": "B1 中級語彙",
+        "es": "Vocabulario intermedio B1",
+        "zh-Hans": "B1 中级词汇",
+        "zh-Hant": "B1 中級詞彙",
+        "pt": "Vocabulário intermediário B1",
+        "de": "B1 Mittelstufe Wortschatz",
+        "fr": "Vocabulaire intermédiaire B1",
+        "it": "Vocabolario intermedio B1",
+        "ru": "B1 Средняя лексика",
+        "ar": "B1 المفردات المتوسطة",
+        "th": "B1 คำศัพท์ระดับกลาง",
+        "vi": "B1 Từ vựng trung cấp",
+        "id": "B1 Kosakata Menengah"
+      },
+      "description": {
+        "ko": "직장, 환경, 미디어 등 사회적 주제의 어휘를 학습합니다.",
+        "en": "Learn vocabulary for social topics like work, environment, and media."
+      },
+      "color": "#E91E63",
+      "icon": "translate"
+    },
+    {
+      "id": "grammar_b2",
+      "category_id": "grammar",
+      "dele_level": "b2",
+      "order": 7,
+      "name": {
+        "ko": "B2 중상급 문법",
+        "en": "B2 Upper-Intermediate Grammar",
+        "ja": "B2 中上級文法",
+        "es": "Gramática intermedia alta B2",
+        "zh-Hans": "B2 中高级语法",
+        "zh-Hant": "B2 中高級語法",
+        "pt": "Gramática intermediária superior B2",
+        "de": "B2 Obere Mittelstufe Grammatik",
+        "fr": "Grammaire intermédiaire supérieure B2",
+        "it": "Grammatica intermedia superiore B2",
+        "ru": "B2 Грамматика выше среднего",
+        "ar": "B2 القواعد فوق المتوسطة",
+        "th": "B2 ไวยากรณ์ระดับกลางสูง",
+        "vi": "B2 Ngữ pháp trung cao cấp",
+        "id": "B2 Tata Bahasa Menengah Atas"
+      },
+      "description": {
+        "ko": "접속법 과거, 복합 조건문 등 중상급 문법을 학습합니다.",
+        "en": "Learn upper-intermediate grammar including past subjunctive and complex conditionals."
+      },
+      "color": "#795548",
+      "icon": "menu_book"
+    },
+    {
+      "id": "vocab_b2",
+      "category_id": "vocabulary",
+      "dele_level": "b2",
+      "order": 8,
+      "name": {
+        "ko": "B2 중상급 어휘",
+        "en": "B2 Upper-Intermediate Vocabulary",
+        "ja": "B2 中上級語彙",
+        "es": "Vocabulario intermedio alto B2",
+        "zh-Hans": "B2 中高级词汇",
+        "zh-Hant": "B2 中高級詞彙",
+        "pt": "Vocabulário intermediário superior B2",
+        "de": "B2 Obere Mittelstufe Wortschatz",
+        "fr": "Vocabulaire intermédiaire supérieur B2",
+        "it": "Vocabolario intermedio superiore B2",
+        "ru": "B2 Лексика выше среднего",
+        "ar": "B2 المفردات فوق المتوسطة",
+        "th": "B2 คำศัพท์ระดับกลางสูง",
+        "vi": "B2 Từ vựng trung cao cấp",
+        "id": "B2 Kosakata Menengah Atas"
+      },
+      "description": {
+        "ko": "정치, 비즈니스, 관용 표현 등 중상급 어휘를 학습합니다.",
+        "en": "Learn upper-intermediate vocabulary including politics, business, and idioms."
+      },
+      "color": "#607D8B",
+      "icon": "translate"
+    },
+    {
+      "id": "grammar_c1",
+      "category_id": "grammar",
+      "dele_level": "c1",
+      "order": 9,
+      "name": {
+        "ko": "C1 고급 문법",
+        "en": "C1 Advanced Grammar",
+        "ja": "C1 上級文法",
+        "es": "Gramática avanzada C1",
+        "zh-Hans": "C1 高级语法",
+        "zh-Hant": "C1 高級語法",
+        "pt": "Gramática avançada C1",
+        "de": "C1 Fortgeschrittene Grammatik",
+        "fr": "Grammaire avancée C1",
+        "it": "Grammatica avanzata C1",
+        "ru": "C1 Продвинутая грамматика",
+        "ar": "C1 القواعد المتقدمة",
+        "th": "C1 ไวยากรณ์ระดับสูง",
+        "vi": "C1 Ngữ pháp cao cấp",
+        "id": "C1 Tata Bahasa Lanjutan"
+      },
+      "description": {
+        "ko": "고급 접속법, 문체적 도치, 지역별 변형 등 고급 문법을 학습합니다.",
+        "en": "Learn advanced grammar including complex subjunctive, stylistic inversions, and regional variations."
+      },
+      "color": "#F44336",
+      "icon": "menu_book"
+    },
+    {
+      "id": "vocab_c1",
+      "category_id": "vocabulary",
+      "dele_level": "c1",
+      "order": 10,
+      "name": {
+        "ko": "C1 고급 어휘",
+        "en": "C1 Advanced Vocabulary",
+        "ja": "C1 上級語彙",
+        "es": "Vocabulario avanzado C1",
+        "zh-Hans": "C1 高级词汇",
+        "zh-Hant": "C1 高級詞彙",
+        "pt": "Vocabulário avançado C1",
+        "de": "C1 Fortgeschrittener Wortschatz",
+        "fr": "Vocabulaire avancé C1",
+        "it": "Vocabolario avanzato C1",
+        "ru": "C1 Продвинутая лексика",
+        "ar": "C1 المفردات المتقدمة",
+        "th": "C1 คำศัพท์ระดับสูง",
+        "vi": "C1 Từ vựng cao cấp",
+        "id": "C1 Kosakata Lanjutan"
+      },
+      "description": {
+        "ko": "학술 표현, 속담, 전문 용어 등 고급 어휘를 학습합니다.",
+        "en": "Learn advanced vocabulary including academic expressions, proverbs, and specialized terms."
+      },
+      "color": "#3F51B5",
+      "icon": "translate"
+    },
+    {
+      "id": "grammar_c2",
+      "category_id": "grammar",
+      "dele_level": "c2",
+      "order": 11,
+      "name": {
+        "ko": "C2 최상급 문법",
+        "en": "C2 Mastery Grammar",
+        "ja": "C2 最上級文法",
+        "es": "Gramática de maestría C2",
+        "zh-Hans": "C2 精通语法",
+        "zh-Hant": "C2 精通語法",
+        "pt": "Gramática de maestria C2",
+        "de": "C2 Meisterstufe Grammatik",
+        "fr": "Grammaire de maîtrise C2",
+        "it": "Grammatica di padronanza C2",
+        "ru": "C2 Мастерская грамматика",
+        "ar": "C2 قواعد مستوى الإتقان",
+        "th": "C2 ไวยากรณ์ระดับเชี่ยวชาญ",
+        "vi": "C2 Ngữ pháp thành thạo",
+        "id": "C2 Tata Bahasa Mahir"
+      },
+      "description": {
+        "ko": "문체론, 방언, 화용론 등 최상급 문법을 학습합니다.",
+        "en": "Learn mastery-level grammar including stylistics, dialects, and pragmatics."
+      },
+      "color": "#FF5722",
+      "icon": "menu_book"
+    },
+    {
+      "id": "vocab_c2",
+      "category_id": "vocabulary",
+      "dele_level": "c2",
+      "order": 12,
+      "name": {
+        "ko": "C2 최상급 어휘",
+        "en": "C2 Mastery Vocabulary",
+        "ja": "C2 最上級語彙",
+        "es": "Vocabulario de maestría C2",
+        "zh-Hans": "C2 精通词汇",
+        "zh-Hant": "C2 精通詞彙",
+        "pt": "Vocabulário de maestria C2",
+        "de": "C2 Meisterstufe Wortschatz",
+        "fr": "Vocabulaire de maîtrise C2",
+        "it": "Vocabolario di padronanza C2",
+        "ru": "C2 Мастерская лексика",
+        "ar": "C2 مفردات مستوى الإتقان",
+        "th": "C2 คำศัพท์ระดับเชี่ยวชาญ",
+        "vi": "C2 Từ vựng thành thạo",
+        "id": "C2 Kosakata Mahir"
+      },
+      "description": {
+        "ko": "문학 어휘, 지역별 차이, 어원 등 최상급 어휘를 학습합니다.",
+        "en": "Learn mastery-level vocabulary including literary terms, regional differences, and etymology."
+      },
+      "color": "#00BCD4",
       "icon": "translate"
     }
   ]

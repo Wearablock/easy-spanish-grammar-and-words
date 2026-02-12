@@ -1,0 +1,746 @@
+{
+  "q_vocab_c1_01_001": {
+    "question": "What does 'cabe destacar' mean in academic writing?",
+    "correct": "it is worth noting / it should be highlighted",
+    "wrong": ["it fits inside", "it is capable of", "it is doubtful"],
+    "explanation": "'Cabe destacar' is a formal academic expression meaning 'it is worth noting' or 'it should be highlighted'. It is used to draw the reader's attention to an important point in formal writing."
+  },
+  "q_vocab_c1_01_002": {
+    "question": "What does 'en lo que respecta a' mean?",
+    "correct": "with regard to / as far as ... is concerned",
+    "wrong": ["in what is respected", "in the area of respect", "with all due respect to"],
+    "explanation": "'En lo que respecta a' means 'with regard to' or 'as far as ... is concerned'. It is a formal linking phrase used to introduce a specific topic or aspect within academic discourse."
+  },
+  "q_vocab_c1_01_003": {
+    "question": "A modo de ___, podemos afirmar que los resultados confirman la hipótesis inicial.",
+    "correct": "conclusión",
+    "wrong": ["introducción", "explicación", "comparación"],
+    "explanation": "'A modo de conclusión' means 'by way of conclusion'. This phrase is used in academic papers to signal the final summary or closing remarks of an argument."
+  },
+  "q_vocab_c1_01_004": {
+    "question": "What does 'según los datos' mean in a research context?",
+    "correct": "according to the data",
+    "wrong": ["following the dates", "second to the data", "secure the data"],
+    "explanation": "'Según los datos' means 'according to the data'. It is used in academic writing to introduce evidence-based claims supported by empirical findings."
+  },
+  "q_vocab_c1_01_005": {
+    "question": "What does 'no obstante' mean in formal writing?",
+    "correct": "nevertheless / however",
+    "wrong": ["not standing", "without obstacles", "not obvious"],
+    "explanation": "'No obstante' is a formal connector meaning 'nevertheless' or 'however'. It introduces a contrasting idea and is considered more elevated in register than 'pero' or 'sin embargo'."
+  },
+  "q_vocab_c1_01_006": {
+    "question": "in light of the above",
+    "correct": "a la luz de lo anterior",
+    "wrong": ["a la vista de todos", "al principio del texto", "a pesar de todo"],
+    "explanation": "'In light of the above' translates to 'a la luz de lo anterior' in Spanish. This academic phrase refers back to previously stated evidence or arguments to support a new point."
+  },
+  "q_vocab_c1_01_007": {
+    "question": "What does 'dicho de otro modo' mean?",
+    "correct": "in other words / put differently",
+    "wrong": ["said by another person", "dictated in another way", "told in a different mood"],
+    "explanation": "'Dicho de otro modo' means 'in other words' or 'put differently'. It is used in academic texts to rephrase or clarify a complex idea for the reader."
+  },
+  "q_vocab_c1_01_008": {
+    "question": "cabe señalar",
+    "correct": "it should be pointed out",
+    "wrong": ["it fits the signal", "it is capable of signing", "it causes a sign"],
+    "explanation": "'Cabe señalar' means 'it should be pointed out'. Like 'cabe destacar', it uses the impersonal verb 'caber' in its sense of 'to be fitting' to introduce noteworthy information."
+  },
+  "q_vocab_c1_01_009": {
+    "question": "You are writing a thesis introduction and need to present the scope of your research. Which expression is most appropriate?",
+    "correct": "El presente estudio se centra en analizar los factores que inciden en el fenómeno.",
+    "wrong": ["Este trabajo habla de cosas interesantes.", "Voy a escribir sobre un tema que me gusta.", "Aquí explico lo que pienso del asunto."],
+    "explanation": "'El presente estudio se centra en' means 'The present study focuses on'. This is the standard formal register expected in academic thesis introductions, using precise and impersonal language.",
+    "context": "Academic thesis introduction"
+  },
+  "q_vocab_c1_01_010": {
+    "question": "You need to acknowledge a limitation in your research methodology. Which phrasing demonstrates appropriate academic register?",
+    "correct": "Si bien este estudio presenta ciertas limitaciones metodológicas, los hallazgos resultan significativos.",
+    "wrong": ["El estudio tiene problemas pero no importa mucho.", "Los errores del estudio no son tan graves como parecen.", "Hay fallos pero los resultados son buenos de todas formas."],
+    "explanation": "'Si bien' (although) combined with 'limitaciones metodológicas' (methodological limitations) and 'hallazgos significativos' (significant findings) represents the balanced, objective tone required in academic writing when addressing study limitations.",
+    "context": "Writing the limitations section of a research paper"
+  },
+  "q_vocab_c1_02_001": {
+    "question": "What does 'la patología' mean in medical terminology?",
+    "correct": "pathology / disease condition",
+    "wrong": ["the patience", "the patriarchy", "the patrol"],
+    "explanation": "'La patología' means 'pathology', referring to the study of diseases or to a disease condition itself. In clinical settings, it encompasses the causes, mechanisms, and effects of diseases."
+  },
+  "q_vocab_c1_02_002": {
+    "question": "El tribunal dictó una ___ absolutoria a favor del acusado.",
+    "correct": "sentencia",
+    "wrong": ["evidencia", "licencia", "tendencia"],
+    "explanation": "'Sentencia absolutoria' means 'acquittal ruling'. The sentence means 'The court issued an acquittal ruling in favor of the defendant.' In legal terminology, 'sentencia' refers to a judicial ruling or verdict."
+  },
+  "q_vocab_c1_02_003": {
+    "question": "What does 'el ensayo clínico' mean?",
+    "correct": "clinical trial",
+    "wrong": ["clinical essay", "clinical rehearsal", "clinical attempt"],
+    "explanation": "'El ensayo clínico' means 'clinical trial', a research study conducted to evaluate the safety and efficacy of medical treatments, drugs, or devices on human participants."
+  },
+  "q_vocab_c1_02_004": {
+    "question": "What does 'la jurisprudencia' mean?",
+    "correct": "case law / jurisprudence",
+    "wrong": ["the jury's prudence", "the jurisdiction only", "the judicial process"],
+    "explanation": "'La jurisprudencia' means 'jurisprudence' or 'case law', the body of legal principles established through previous court decisions that guides future judicial rulings."
+  },
+  "q_vocab_c1_02_005": {
+    "question": "genome",
+    "correct": "el genoma",
+    "wrong": ["el género", "el gen", "la genética"],
+    "explanation": "'Genome' translates to 'el genoma' in Spanish. It refers to the complete set of genetic material present in an organism. 'El gen' is a single gene, while 'la genética' is the field of genetics."
+  },
+  "q_vocab_c1_02_006": {
+    "question": "What does 'el peritaje' mean in a legal or professional context?",
+    "correct": "expert assessment / forensic evaluation",
+    "wrong": ["the pilgrimage", "the percentage", "the peril"],
+    "explanation": "'El peritaje' means 'expert assessment' or 'forensic evaluation', a technical report prepared by a qualified specialist ('perito') to provide evidence or informed opinion in legal or professional matters."
+  },
+  "q_vocab_c1_02_007": {
+    "question": "A research team publishes findings about a new treatment for autoimmune diseases. Which term describes the body's immune system attacking its own cells?",
+    "correct": "una enfermedad autoinmune: el sistema inmunitario ataca los tejidos propios del organismo",
+    "wrong": ["una alergia: el cuerpo reacciona a sustancias externas", "una infección: bacterias invaden el cuerpo", "una intoxicación: el cuerpo absorbe sustancias tóxicas"],
+    "explanation": "'Enfermedad autoinmune' means 'autoimmune disease'. The immune system ('sistema inmunitario') mistakenly attacks the body's own healthy tissues ('tejidos propios'), unlike allergies or infections which involve external agents.",
+    "context": "Medical research publication"
+  },
+  "q_vocab_c1_02_008": {
+    "question": "What does 'el protocolo' mean in a scientific or diplomatic context?",
+    "correct": "protocol / established procedure",
+    "wrong": ["the prototype", "the proverb", "the prologue"],
+    "explanation": "'El protocolo' means 'protocol', a formal set of rules or established procedures governing conduct in official, scientific, or diplomatic settings. In research, it defines the methodology and steps of an experiment."
+  },
+  "q_vocab_c1_02_009": {
+    "question": "la nanotecnología",
+    "correct": "nanotechnology",
+    "wrong": ["nano-technique", "nanoscience only", "natural technology"],
+    "explanation": "'La nanotecnología' means 'nanotechnology', the branch of technology dealing with the manipulation of matter at an atomic or molecular scale, typically below 100 nanometers."
+  },
+  "q_vocab_c1_02_010": {
+    "question": "A lawyer argues that a contract clause is unenforceable because one party signed under duress. Which legal concept applies?",
+    "correct": "Vicio del consentimiento: la voluntad de una de las partes fue coaccionada.",
+    "wrong": ["Prescripción: el contrato ha expirado por el paso del tiempo.", "Novación: el contrato fue sustituido por uno nuevo.", "Subrogación: una tercera parte asumió las obligaciones."],
+    "explanation": "'Vicio del consentimiento' means 'defect of consent'. When a party signs a contract under 'coacción' (duress), the agreement can be voided because genuine free will was absent. This is a fundamental principle in contract law.",
+    "context": "Civil court hearing on contract validity"
+  },
+  "q_vocab_c1_03_001": {
+    "question": "What is the key difference between 'lograr' and 'conseguir'?",
+    "correct": "'Lograr' emphasizes achieving a goal through effort; 'conseguir' means to obtain or manage to do something",
+    "wrong": ["They are completely identical in all contexts", "'Lograr' is informal and 'conseguir' is formal", "'Lograr' means to lose and 'conseguir' means to win"],
+    "explanation": "While both can mean 'to achieve', 'lograr' carries a stronger connotation of accomplishment after sustained effort (lograr un sueño = achieve a dream), whereas 'conseguir' is broader, meaning to obtain or manage to do something (conseguir entradas = get tickets)."
+  },
+  "q_vocab_c1_03_002": {
+    "question": "What does 'carecer de' mean?",
+    "correct": "to lack / to be devoid of",
+    "wrong": ["to take care of", "to have a career in", "to caress"],
+    "explanation": "'Carecer de' means 'to lack' or 'to be devoid of'. It is a formal verb used to express the absence of something: 'El informe carece de evidencia sólida' (The report lacks solid evidence)."
+  },
+  "q_vocab_c1_03_003": {
+    "question": "El candidato ___ un puesto de trabajo acorde con su experiencia profesional.",
+    "correct": "solicita",
+    "wrong": ["pregunta", "pide", "busca"],
+    "explanation": "'Solicitar' means 'to apply for' or 'to formally request', used in professional and administrative contexts. 'Pedir' is a more general and informal 'to ask for', while 'solicitar' implies a formal process such as job applications or official requests."
+  },
+  "q_vocab_c1_03_004": {
+    "question": "What is the nuanced difference between 'realizar' and 'hacer'?",
+    "correct": "'Realizar' implies carrying out something planned or significant; 'hacer' is the general verb for 'to do/make'",
+    "wrong": ["'Realizar' means to make real and 'hacer' means to destroy", "They are exact synonyms with no difference", "'Realizar' is only used in Latin America"],
+    "explanation": "'Realizar' suggests executing something with deliberation and importance (realizar una investigación = conduct a study), while 'hacer' is the everyday, all-purpose verb for doing or making things. Using 'realizar' elevates the register."
+  },
+  "q_vocab_c1_03_005": {
+    "question": "What does 'matizar' mean in the context of argumentation?",
+    "correct": "to qualify / to nuance / to add subtle distinctions",
+    "wrong": ["to materialize", "to match colors", "to calculate mathematically"],
+    "explanation": "'Matizar' means 'to qualify' or 'to add nuance'. In academic or professional discourse, it refers to refining a statement by adding subtle distinctions or clarifications, e.g., 'Conviene matizar esta afirmación' (This statement should be qualified)."
+  },
+  "q_vocab_c1_03_006": {
+    "question": "to undermine / to weaken",
+    "correct": "socavar",
+    "wrong": ["subrayar", "sobrecargar", "sobrepasar"],
+    "explanation": "'To undermine' translates to 'socavar' in Spanish. It means to weaken or erode something gradually, often used figuratively: 'socavar la confianza' (to undermine trust). Do not confuse with 'subrayar' (to underline)."
+  },
+  "q_vocab_c1_03_007": {
+    "question": "What is the difference between 'aludir a' and 'referirse a'?",
+    "correct": "'Aludir a' means to allude to (indirectly); 'referirse a' means to refer to (directly)",
+    "wrong": ["They are identical in meaning and usage", "'Aludir a' is more direct than 'referirse a'", "'Aludir a' means to hallucinate about something"],
+    "explanation": "'Aludir a' implies an indirect or subtle reference (El autor alude a la guerra sin mencionarla = The author alludes to the war without mentioning it), while 'referirse a' is a direct and explicit reference to something."
+  },
+  "q_vocab_c1_03_008": {
+    "question": "prescindir de",
+    "correct": "to do without / to dispense with",
+    "wrong": ["to prescribe something", "to predict something", "to present something"],
+    "explanation": "'Prescindir de' means 'to do without' or 'to dispense with'. It expresses deliberately choosing to omit or forgo something: 'Podemos prescindir de estos datos' (We can do without this data)."
+  },
+  "q_vocab_c1_03_009": {
+    "question": "You are editing a colleague's report and notice they used 'detentar' to mean 'to hold a position legitimately'. Is this usage correct?",
+    "correct": "No, 'detentar' implies holding power illegitimately; the correct word is 'ostentar' or 'ocupar'.",
+    "wrong": ["Yes, 'detentar' and 'ostentar' are perfect synonyms.", "No, 'detentar' means to arrest someone.", "Yes, 'detentar' is the only correct verb for holding any position."],
+    "explanation": "'Detentar' specifically means to hold power or a position illegitimately or without proper right, while 'ostentar' or 'ocupar' are used for legitimate office-holding. This is a frequently confused pair even among native speakers.",
+    "context": "Editing a professional report for publication"
+  },
+  "q_vocab_c1_03_010": {
+    "question": "A novelist wants to convey that a character views the world with excessive optimism that ignores reality. Which verb best captures this nuance?",
+    "correct": "'Idealizar': atribuir cualidades de perfección a algo que no las tiene.",
+    "wrong": ["'Optimizar': mejorar algo para hacerlo más eficiente.", "'Visualizar': formar una imagen mental de algo.", "'Imaginar': crear algo ficticio en la mente."],
+    "explanation": "'Idealizar' means 'to idealize', attributing unrealistically perfect qualities to something or someone. It implies a distortion of reality through an overly positive lens, whereas 'imaginar' simply means to envision, and 'optimizar' means to optimize for efficiency.",
+    "context": "Literary character analysis in a creative writing workshop"
+  },
+  "q_vocab_c1_04_001": {
+    "question": "What does 'Le saluda atentamente' mean at the end of a formal letter?",
+    "correct": "Yours sincerely / Yours faithfully",
+    "wrong": ["He greets you carefully", "I greet your attention", "The greeting is attentive"],
+    "explanation": "'Le saluda atentamente' is a standard formal closing in Spanish correspondence, equivalent to 'Yours sincerely' or 'Yours faithfully'. It is used in business and official letters."
+  },
+  "q_vocab_c1_04_002": {
+    "question": "Me dirijo a usted con el fin de ___ información sobre el programa de becas.",
+    "correct": "solicitar",
+    "wrong": ["pedir", "querer", "buscar"],
+    "explanation": "'Solicitar' (to formally request) is the appropriate verb in formal correspondence. 'Me dirijo a usted con el fin de solicitar' means 'I am writing to you in order to request'. 'Pedir' would be too informal for this register."
+  },
+  "q_vocab_c1_04_003": {
+    "question": "What does 'Estimado/a señor/a' mean as a formal greeting?",
+    "correct": "Dear Sir/Madam",
+    "wrong": ["Esteemed lord/lady", "Estimated person", "Respected senator"],
+    "explanation": "'Estimado/a señor/a' is the standard formal salutation in Spanish letters and emails, equivalent to 'Dear Sir/Madam'. 'Estimado' literally means 'esteemed' but functions as the conventional polite greeting."
+  },
+  "q_vocab_c1_04_004": {
+    "question": "What does 'Lamento las molestias ocasionadas' mean?",
+    "correct": "I apologize for the inconvenience caused",
+    "wrong": ["I lament the lost money", "I regret the moles found", "I am sorry for the occasion"],
+    "explanation": "'Lamento las molestias ocasionadas' is a formal apology meaning 'I apologize for the inconvenience caused'. It is commonly used in business correspondence and customer service communications."
+  },
+  "q_vocab_c1_04_005": {
+    "question": "I would be grateful if you could",
+    "correct": "Le agradecería que (+ subjunctive)",
+    "wrong": ["Yo quiero que usted", "Me gustaría mucho si tú", "Estaría bien si alguien"],
+    "explanation": "'I would be grateful if you could' translates to 'Le agradecería que' followed by the subjunctive mood. This is a polite hedging expression used in formal requests, considered more courteous than direct imperatives."
+  },
+  "q_vocab_c1_04_006": {
+    "question": "What does 'Quedo a su disposición para cualquier aclaración' mean?",
+    "correct": "I remain at your disposal for any clarification",
+    "wrong": ["I am quiet about the situation for now", "I stay at the position of clarification", "I remain disposed to any clearing"],
+    "explanation": "'Quedo a su disposición para cualquier aclaración' is a formal closing phrase in business correspondence meaning 'I remain at your disposal for any clarification'. It signals willingness to provide further information."
+  },
+  "q_vocab_c1_04_007": {
+    "question": "You are writing a formal complaint to a company about defective merchandise. Which opening is most appropriate?",
+    "correct": "Me dirijo a ustedes para expresar mi disconformidad con el producto recibido.",
+    "wrong": ["Oigan, el producto que me mandaron está roto.", "Quiero quejarme porque lo que compré no sirve.", "Hola, tengo un problema con algo que pedí."],
+    "explanation": "'Me dirijo a ustedes para expresar mi disconformidad' means 'I am writing to you to express my dissatisfaction'. This formal register with 'disconformidad' (dissatisfaction) is appropriate for official complaints, unlike the informal alternatives.",
+    "context": "Formal written complaint to a company"
+  },
+  "q_vocab_c1_04_008": {
+    "question": "What does 'Rogamos disculpen la demora' mean?",
+    "correct": "We kindly ask that you excuse the delay",
+    "wrong": ["We regret the demonstration", "We request your discount", "We beg for your pardon for the damage"],
+    "explanation": "'Rogamos disculpen la demora' uses the formal 'rogar' (to request/beseech) with subjunctive 'disculpen' to politely ask forgiveness for a delay. 'Rogar' elevates the register beyond simply 'pedir disculpas'."
+  },
+  "q_vocab_c1_04_009": {
+    "question": "sin perjuicio de lo anterior",
+    "correct": "without prejudice to the foregoing / notwithstanding the above",
+    "wrong": ["without the previous damage", "without harming anything before", "without judging the past"],
+    "explanation": "'Sin perjuicio de lo anterior' is a formal legal and administrative expression meaning 'without prejudice to the foregoing' or 'notwithstanding the above'. It is used to state that a new point does not invalidate previously mentioned terms."
+  },
+  "q_vocab_c1_04_010": {
+    "question": "You are drafting an email to a government ministry requesting an extension for a grant application deadline. Which phrasing demonstrates the appropriate formal hedging language?",
+    "correct": "Tendría a bien considerar la posibilidad de ampliar el plazo de presentación de solicitudes.",
+    "wrong": ["Necesito más tiempo, así que extienda la fecha.", "Quiero que me den más días para entregar todo.", "Oiga, no me da tiempo, ¿puede alargar el plazo?"],
+    "explanation": "'Tendría a bien considerar la posibilidad de' is an extremely formal construction meaning 'Would you be so kind as to consider the possibility of'. This multi-layered hedging (conditional + polite phrase + possibility) shows the highest level of formal register appropriate for government correspondence.",
+    "context": "Formal correspondence with a government ministry"
+  },
+  "q_vocab_c1_05_001": {
+    "question": "What does 'mola' mean in Spanish colloquial speech?",
+    "correct": "it's cool / it's awesome",
+    "wrong": ["it's a mold", "it grinds", "it's a molecule"],
+    "explanation": "'Mola' comes from the verb 'molar', which is Spanish slang (primarily in Spain) meaning 'to be cool' or 'to be awesome'. '¡Esa película mola mucho!' means 'That movie is really cool!'"
+  },
+  "q_vocab_c1_05_002": {
+    "question": "What does 'currar' mean in informal Spanish?",
+    "correct": "to work (slang)",
+    "wrong": ["to cure", "to run", "to cook"],
+    "explanation": "'Currar' is Spanish slang meaning 'to work'. 'El curro' is the slang noun for 'work/job'. 'Estoy currando' means 'I'm working'. This is very common in everyday speech in Spain."
+  },
+  "q_vocab_c1_05_003": {
+    "question": "Se me quedó la mente en ___ durante el examen y no pude responder nada.",
+    "correct": "blanco",
+    "wrong": ["negro", "rojo", "azul"],
+    "explanation": "'Quedarse en blanco' means 'to go blank' or 'to draw a blank'. The full expression describes the moment when your mind suddenly empties and you cannot remember anything, especially during stressful situations like exams."
+  },
+  "q_vocab_c1_05_004": {
+    "question": "What does 'flipar' mean in colloquial Spanish?",
+    "correct": "to be amazed / to freak out / to be shocked",
+    "wrong": ["to flip a coin", "to float away", "to fail completely"],
+    "explanation": "'Flipar' means 'to be amazed' or 'to freak out' (in either a positive or negative sense). '¡Estoy flipando!' can mean 'I can't believe it!' or 'I'm blown away!' It originated from English 'to flip out'."
+  },
+  "q_vocab_c1_05_005": {
+    "question": "What does 'pasarlo bomba' mean?",
+    "correct": "to have a blast / to have a great time",
+    "wrong": ["to pass a bomb", "to throw a bomb at a party", "to pass by an explosion"],
+    "explanation": "'Pasarlo bomba' is a colloquial expression meaning 'to have a blast' or 'to have an amazing time'. 'Lo pasamos bomba en la fiesta' means 'We had a blast at the party'. The 'bomba' metaphorically suggests explosive fun."
+  },
+  "q_vocab_c1_05_006": {
+    "question": "to be fed up / to be sick of something",
+    "correct": "estar harto/a",
+    "wrong": ["estar lleno/a", "estar enfermo/a", "estar roto/a"],
+    "explanation": "'To be fed up' translates to 'estar harto/a'. 'Estoy harto de esperar' means 'I'm fed up with waiting'. While 'lleno' means physically full, 'harto' conveys emotional saturation and frustration."
+  },
+  "q_vocab_c1_05_007": {
+    "question": "What does 'tío/tía' mean when used as slang (not literally)?",
+    "correct": "dude / mate / pal (informal way to address someone)",
+    "wrong": ["uncle / aunt (only literal meaning)", "a rude way to address a stranger", "a formal title for elderly people"],
+    "explanation": "'Tío/tía' literally means 'uncle/aunt' but in colloquial Spanish (especially in Spain), it functions as 'dude', 'mate', or 'pal'. '¡Eh, tío, ¿qué tal?!' means 'Hey dude, how's it going?!'"
+  },
+  "q_vocab_c1_05_008": {
+    "question": "ir de cañas",
+    "correct": "to go out for beers / to go bar-hopping for draft beers",
+    "wrong": ["to go fishing with rods", "to go to the sugar cane fields", "to walk with a cane"],
+    "explanation": "'Ir de cañas' means 'to go out for beers', specifically small draft beers ('cañas'). It is a quintessential Spanish social activity involving visiting several bars and having a small beer at each one."
+  },
+  "q_vocab_c1_05_009": {
+    "question": "Your Spanish friend says '¡Qué fuerte!' after hearing surprising news. What register and meaning does this expression convey?",
+    "correct": "It is an informal exclamation expressing shock or disbelief, meaning 'No way!' or 'That's crazy!'",
+    "wrong": ["It is a formal expression meaning the news is physically strong.", "It means the news is about someone who is very powerful.", "It is a medical term meaning the person feels strong."],
+    "explanation": "'¡Qué fuerte!' is a very common colloquial exclamation in Spain used to express surprise, shock, or disbelief. Literally meaning 'How strong!', it functions like 'No way!' or 'That's crazy!' in informal conversation.",
+    "context": "Casual conversation reacting to surprising news"
+  },
+  "q_vocab_c1_05_010": {
+    "question": "A group of friends is planning a Saturday night out. One says: 'Vamos a ir de marcha y lo vamos a pasar genial.' What does this mean and what register is it?",
+    "correct": "Informal register: 'We're going to go out partying and we're going to have a great time.'",
+    "wrong": ["Formal register: 'We are going on a march and it will be wonderful.'", "Neutral register: 'We are leaving on a journey and will arrive safely.'", "Military register: 'We are starting a march and will complete it successfully.'"],
+    "explanation": "'Ir de marcha' is colloquial for 'to go out partying' or 'to go out on the town'. Combined with 'pasarlo genial' (to have a great time), this is typical informal youth language in Spain for planning a night out.",
+    "context": "Friends making weekend plans via group chat"
+  },
+  "q_vocab_c1_06_001": {
+    "question": "What does the proverb 'No hay mal que por bien no venga' mean?",
+    "correct": "Every cloud has a silver lining",
+    "wrong": ["There is no evil that comes from good", "Bad things never happen to good people", "No harm comes without a warning"],
+    "explanation": "'No hay mal que por bien no venga' literally means 'There is no bad that does not come for good'. It is equivalent to 'Every cloud has a silver lining', expressing the idea that something positive can emerge from negative situations."
+  },
+  "q_vocab_c1_06_002": {
+    "question": "Más vale ___ que nunca, así que empecemos el proyecto ahora.",
+    "correct": "tarde",
+    "wrong": ["pronto", "antes", "rápido"],
+    "explanation": "'Más vale tarde que nunca' means 'Better late than never'. The sentence means 'Better late than never, so let's start the project now.' This proverb encourages action even when delayed."
+  },
+  "q_vocab_c1_06_003": {
+    "question": "What does 'A quien madruga, Dios le ayuda' mean?",
+    "correct": "The early bird catches the worm / God helps those who rise early",
+    "wrong": ["God helps those who are mature", "Only morning people are blessed", "Those who oversleep anger God"],
+    "explanation": "'A quien madruga, Dios le ayuda' literally means 'God helps those who rise early'. The verb 'madrugar' means 'to get up early'. It is equivalent to the English proverb 'The early bird catches the worm', emphasizing diligence."
+  },
+  "q_vocab_c1_06_004": {
+    "question": "What does 'En boca cerrada no entran moscas' mean?",
+    "correct": "Silence is golden / It's better to keep quiet",
+    "wrong": ["Closed mouths cannot eat flies", "You should close your mouth when flies are near", "Insects are attracted to open mouths"],
+    "explanation": "'En boca cerrada no entran moscas' literally means 'Flies don't enter a closed mouth'. It advises discretion and the wisdom of keeping quiet to avoid trouble, similar to 'Silence is golden'."
+  },
+  "q_vocab_c1_06_005": {
+    "question": "don't look a gift horse in the mouth",
+    "correct": "A caballo regalado no le mires el diente",
+    "wrong": ["No mires al caballo en la boca del regalo", "El caballo del regalo tiene dientes malos", "Regalar un caballo es mirar sus dientes"],
+    "explanation": "'A caballo regalado no le mires el diente' is the exact Spanish equivalent of 'Don't look a gift horse in the mouth'. Both proverbs advise being grateful for gifts without criticizing their quality."
+  },
+  "q_vocab_c1_06_006": {
+    "question": "What does 'Quien mucho abarca, poco aprieta' mean?",
+    "correct": "He who grasps at too much loses everything / Jack of all trades, master of none",
+    "wrong": ["Those who hug too much squeeze too little", "Big hugs are never tight enough", "Whoever reaches far presses little"],
+    "explanation": "'Quien mucho abarca, poco aprieta' literally means 'Who embraces much, squeezes little'. It warns against taking on too many tasks or responsibilities at once, as none will be done well."
+  },
+  "q_vocab_c1_06_007": {
+    "question": "A colleague has been complaining about their job but refuses to look for a new one. Which proverb would be most fitting advice?",
+    "correct": "'El que no arriesga, no gana' -- You have to take risks to achieve results.",
+    "wrong": ["'Más vale pájaro en mano que ciento volando' -- Keep what you already have.", "'Ojos que no ven, corazón que no siente' -- Ignore the problem.", "'Perro ladrador, poco mordedor' -- The complaints are harmless."],
+    "explanation": "'El que no arriesga, no gana' means 'Nothing ventured, nothing gained'. It encourages someone to take calculated risks rather than remaining in an unsatisfactory situation, which is appropriate advice for someone afraid to seek change.",
+    "context": "Giving career advice to a dissatisfied friend"
+  },
+  "q_vocab_c1_06_008": {
+    "question": "What does 'Dime con quién andas y te diré quién eres' mean?",
+    "correct": "You are known by the company you keep / Tell me who your friends are and I'll tell you who you are",
+    "wrong": ["Tell me where you walk and I'll tell you who you are", "Walk with me and I'll know your name", "Show me your path and I'll show you mine"],
+    "explanation": "'Dime con quién andas y te diré quién eres' literally means 'Tell me who you walk with and I'll tell you who you are'. It emphasizes that people are judged by their associations and friendships."
+  },
+  "q_vocab_c1_06_009": {
+    "question": "Ojos que no ven, corazón que no siente",
+    "correct": "Out of sight, out of mind",
+    "wrong": ["Eyes that don't see have no feelings", "Blind people have no emotions", "The heart cannot see what the eyes feel"],
+    "explanation": "'Ojos que no ven, corazón que no siente' literally means 'Eyes that don't see, heart that doesn't feel'. It is equivalent to 'Out of sight, out of mind', suggesting that not knowing about something prevents emotional pain."
+  },
+  "q_vocab_c1_06_010": {
+    "question": "A student fails an exam but discovers that the failure motivated them to change their study habits, leading to much better grades. Which proverb perfectly describes this situation?",
+    "correct": "'No hay mal que por bien no venga' -- The setback ultimately led to improvement.",
+    "wrong": ["'Más vale tarde que nunca' -- They studied late but passed.", "'El saber no ocupa lugar' -- Knowledge takes up no space.", "'A buen entendedor, pocas palabras bastan' -- Smart students need fewer words."],
+    "explanation": "'No hay mal que por bien no venga' (Every cloud has a silver lining) perfectly describes how a negative event (failing the exam) led to a positive outcome (improved study habits and better grades). The proverb captures the transformative potential of adversity.",
+    "context": "Reflecting on academic setbacks and personal growth"
+  },
+  "q_vocab_c1_07_001": {
+    "question": "What does 'el rendimiento' mean in a business context?",
+    "correct": "performance / yield / productivity",
+    "wrong": ["the rendering (visual)", "the surrender", "the rental"],
+    "explanation": "'El rendimiento' in business means 'performance', 'yield', or 'productivity'. 'El rendimiento del equipo' means 'team performance', and 'rendimiento de la inversión' means 'return on investment'."
+  },
+  "q_vocab_c1_07_002": {
+    "question": "What does 'el flujo de trabajo' mean in a professional setting?",
+    "correct": "workflow",
+    "wrong": ["the flow of water at work", "the fluid dynamics of labor", "the river of workers"],
+    "explanation": "'El flujo de trabajo' means 'workflow', the sequence of processes through which a piece of work passes from initiation to completion. It is a standard term in project management and business operations."
+  },
+  "q_vocab_c1_07_003": {
+    "question": "La empresa necesita ___ su modelo de negocio para adaptarse al mercado digital.",
+    "correct": "reestructurar",
+    "wrong": ["reconstruir", "redecorar", "reciclar"],
+    "explanation": "'Reestructurar' means 'to restructure', specifically referring to reorganizing a company's operations, finances, or strategy. The sentence means 'The company needs to restructure its business model to adapt to the digital market.'"
+  },
+  "q_vocab_c1_07_004": {
+    "question": "What does 'la escalabilidad' mean in IT and business?",
+    "correct": "scalability",
+    "wrong": ["the ability to climb stairs", "the scale of measurement", "the escapability"],
+    "explanation": "'La escalabilidad' means 'scalability', the capacity of a system, network, or business to handle growing amounts of work or to expand. It is a critical concept in technology startups and software development."
+  },
+  "q_vocab_c1_07_005": {
+    "question": "What does 'el titular' mean in journalism?",
+    "correct": "headline",
+    "wrong": ["the title holder only", "the subtitles", "the author's name"],
+    "explanation": "'El titular' in journalism means 'headline', the title of a newspaper article designed to capture the reader's attention. It can also mean 'title holder' in other contexts, but in media, it refers to headlines."
+  },
+  "q_vocab_c1_07_006": {
+    "question": "stakeholder",
+    "correct": "la parte interesada / el interesado",
+    "wrong": ["el accionista", "el competidor", "el intermediario"],
+    "explanation": "'Stakeholder' translates to 'la parte interesada' or 'el interesado' in Spanish. Unlike 'accionista' (shareholder), a stakeholder is any party with an interest in or affected by a business or project."
+  },
+  "q_vocab_c1_07_007": {
+    "question": "What does 'externalizar' mean in business terminology?",
+    "correct": "to outsource",
+    "wrong": ["to externalize emotions", "to export products", "to make something external"],
+    "explanation": "'Externalizar' means 'to outsource', the practice of contracting business processes or functions to external companies. 'La empresa decidió externalizar el servicio de atención al cliente' means 'The company decided to outsource customer service'."
+  },
+  "q_vocab_c1_07_008": {
+    "question": "la competencia desleal",
+    "correct": "unfair competition",
+    "wrong": ["disloyal competence", "unloyal competitor", "unfaithful competence"],
+    "explanation": "'La competencia desleal' means 'unfair competition', business practices that are deceptive, fraudulent, or otherwise unfair to competitors. It is a legal concept in commercial law."
+  },
+  "q_vocab_c1_07_009": {
+    "question": "A software development team is discussing how to handle a product launch that keeps getting delayed. The project manager suggests adopting a new approach. Which professional term describes this methodology?",
+    "correct": "Implementar una metodología ágil para iterar más rápidamente.",
+    "wrong": ["Cancelar el proyecto y empezar uno nuevo.", "Despedir a todos los desarrolladores del equipo.", "Ignorar los plazos y lanzar cuando esté listo."],
+    "explanation": "'Metodología ágil' means 'agile methodology', an iterative approach to project management and software development that delivers work in small increments. 'Iterar' means 'to iterate', making incremental improvements through repeated cycles.",
+    "context": "Software project management meeting"
+  },
+  "q_vocab_c1_07_010": {
+    "question": "A journalist needs to protect the identity of a source who provided sensitive information about corporate corruption. Which professional principle applies?",
+    "correct": "El secreto profesional obliga a proteger la identidad de las fuentes confidenciales.",
+    "wrong": ["La ley obliga a revelar todas las fuentes en cualquier caso.", "El periodista debe publicar el nombre completo de la fuente.", "Las fuentes anónimas no son válidas en el periodismo."],
+    "explanation": "'El secreto profesional' means 'professional secrecy' or 'source protection'. In journalism, this ethical principle protects the identity of confidential sources ('fuentes confidenciales'), which is fundamental to press freedom and investigative reporting.",
+    "context": "Investigative journalism ethics discussion"
+  },
+  "q_vocab_c1_08_001": {
+    "question": "What does 'la trascendencia' mean in philosophical discourse?",
+    "correct": "transcendence / far-reaching significance",
+    "wrong": ["the transparency", "the transfer", "the transition"],
+    "explanation": "'La trascendencia' means 'transcendence' or 'far-reaching significance'. In philosophy, it refers to the aspect of existence that goes beyond the ordinary or physical realm. In everyday usage, it means lasting importance."
+  },
+  "q_vocab_c1_08_002": {
+    "question": "El concepto de ___ ha sido debatido por filósofos durante siglos.",
+    "correct": "identidad",
+    "wrong": ["cantidad", "velocidad", "intensidad"],
+    "explanation": "'Identidad' means 'identity'. The sentence means 'The concept of identity has been debated by philosophers for centuries.' Identity is a core abstract concept in philosophy, psychology, and sociology."
+  },
+  "q_vocab_c1_08_003": {
+    "question": "What does 'el paradigma' mean?",
+    "correct": "paradigm / model of thought or understanding",
+    "wrong": ["the paradise", "the paragraph", "the paradox only"],
+    "explanation": "'El paradigma' means 'paradigm', a framework of thought, a model of understanding, or a set of accepted beliefs that defines a field. 'Un cambio de paradigma' (a paradigm shift) refers to a fundamental change in approach or underlying assumptions."
+  },
+  "q_vocab_c1_08_004": {
+    "question": "What does 'la conciencia' mean when used as an abstract concept?",
+    "correct": "consciousness / awareness / conscience",
+    "wrong": ["the conference", "the concentration", "the consequence"],
+    "explanation": "'La conciencia' as an abstract concept has dual meanings: 'consciousness' (philosophical awareness of existence) and 'conscience' (moral awareness). 'Tomar conciencia' means 'to become aware' or 'to raise awareness'."
+  },
+  "q_vocab_c1_08_005": {
+    "question": "inherent / intrinsic",
+    "correct": "intrínseco",
+    "wrong": ["intenso", "íntimo", "introvertido"],
+    "explanation": "'Inherent' or 'intrinsic' translates to 'intrínseco' in Spanish. It describes a quality that is essential and permanent, belonging naturally to something: 'el valor intrínseco' (intrinsic value)."
+  },
+  "q_vocab_c1_08_006": {
+    "question": "What does 'la equidad' mean, and how does it differ from 'la igualdad'?",
+    "correct": "equity / fairness; it means providing what each person needs, while 'igualdad' means giving everyone the same",
+    "wrong": ["They are completely identical concepts", "'Equidad' means horse riding and 'igualdad' means equality", "'Equidad' is an economic term and 'igualdad' is a social one only"],
+    "explanation": "'La equidad' means 'equity' or 'fairness', providing resources based on individual needs to achieve fair outcomes. 'La igualdad' means 'equality', treating everyone the same. The distinction is crucial in social justice discourse."
+  },
+  "q_vocab_c1_08_007": {
+    "question": "A philosopher argues that human freedom is inseparable from responsibility. Which abstract concept is central to this argument?",
+    "correct": "La autonomía: la capacidad del individuo de gobernarse a sí mismo implica asumir las consecuencias de sus actos.",
+    "wrong": ["La dependencia: el ser humano depende de otros para actuar.", "La obediencia: la libertad consiste en seguir las reglas establecidas.", "La indiferencia: la libertad y la responsabilidad no están relacionadas."],
+    "explanation": "'La autonomía' means 'autonomy', the capacity for self-governance. The philosophical connection between freedom and responsibility is rooted in autonomy: being free to choose means being accountable for those choices.",
+    "context": "Philosophy seminar on existentialism and ethics"
+  },
+  "q_vocab_c1_08_008": {
+    "question": "What does 'la resiliencia' mean as an abstract psychological concept?",
+    "correct": "resilience / the ability to recover from adversity",
+    "wrong": ["the resistance to change", "the resignation from a job", "the resemblance to others"],
+    "explanation": "'La resiliencia' means 'resilience', the psychological capacity to recover from difficulties and adapt to challenging circumstances. It has become a central concept in psychology, education, and personal development."
+  },
+  "q_vocab_c1_08_009": {
+    "question": "la alteridad",
+    "correct": "otherness / the quality of being different or other",
+    "wrong": ["the alteration", "the alternative", "the altitude"],
+    "explanation": "'La alteridad' means 'otherness', a philosophical concept that refers to the recognition of the 'other' as fundamentally different from oneself. It is central to ethics, particularly in the philosophy of Emmanuel Levinas."
+  },
+  "q_vocab_c1_08_010": {
+    "question": "Two debaters are discussing whether morality is universal or culturally determined. Which pair of abstract concepts frames this debate?",
+    "correct": "El universalismo moral frente al relativismo cultural: ¿existen valores absolutos o dependen del contexto?",
+    "wrong": ["El capitalismo frente al socialismo: ¿quién tiene más dinero?", "El optimismo frente al pesimismo: ¿quién es más feliz?", "La ciencia frente a la religión: ¿quién tiene la verdad?"],
+    "explanation": "'El universalismo moral' (moral universalism) holds that certain ethical principles apply to all humans, while 'el relativismo cultural' (cultural relativism) argues that moral standards are shaped by culture. This is one of the most fundamental debates in ethics.",
+    "context": "University ethics seminar debate"
+  },
+  "q_vocab_c1_09_001": {
+    "question": "What does 'la metáfora' mean as a rhetorical device?",
+    "correct": "metaphor -- a figure of speech that directly compares two unlike things without using 'like' or 'as'",
+    "wrong": ["a physical transformation of one thing into another", "a literal description of something", "a mathematical formula for comparison"],
+    "explanation": "'La metáfora' is a rhetorical device in which one thing is described as being another: 'La vida es un viaje' (Life is a journey). Unlike a simile, a metaphor does not use 'como' (like/as)."
+  },
+  "q_vocab_c1_09_002": {
+    "question": "What does 'la ironía' mean as a literary device?",
+    "correct": "irony -- saying the opposite of what is meant, or a contrast between expectation and reality",
+    "wrong": ["making something out of iron", "a type of angry speech", "a synonym for sarcasm only"],
+    "explanation": "'La ironía' encompasses verbal irony (saying the opposite of what you mean), situational irony (when the outcome is opposite to expectations), and dramatic irony (when the audience knows something the characters don't)."
+  },
+  "q_vocab_c1_09_003": {
+    "question": "El orador usó una ___ al decir que había esperado 'un millón de años' para recibir la respuesta.",
+    "correct": "hipérbole",
+    "wrong": ["metáfora", "antítesis", "alegoría"],
+    "explanation": "'Hipérbole' means 'hyperbole', a deliberate exaggeration for emphasis or effect. Saying 'a million years' to describe a wait is a clear example of hyperbole, not meant to be taken literally."
+  },
+  "q_vocab_c1_09_004": {
+    "question": "What does 'el eufemismo' mean?",
+    "correct": "euphemism -- a mild or indirect expression used to replace one considered too harsh or blunt",
+    "wrong": ["a type of enthusiasm", "a euphoric statement", "a European figure of speech"],
+    "explanation": "'El eufemismo' is a rhetorical device that substitutes a mild expression for something considered offensive or unpleasant. For example, 'pasar a mejor vida' (to pass to a better life) instead of 'morir' (to die)."
+  },
+  "q_vocab_c1_09_005": {
+    "question": "What does 'el oxímoron' mean?",
+    "correct": "oxymoron -- a figure of speech combining contradictory terms",
+    "wrong": ["a type of oxygen compound", "a contradiction that is always an error", "a figure of speech using repetition"],
+    "explanation": "'El oxímoron' is a rhetorical device that places two contradictory terms together for effect: 'un silencio ensordecedor' (a deafening silence), 'la oscura claridad' (dark clarity). It creates striking imagery through paradox."
+  },
+  "q_vocab_c1_09_006": {
+    "question": "understatement / deliberate minimization",
+    "correct": "la litotes / la atenuación",
+    "wrong": ["la hipérbole", "la exageración", "la amplificación"],
+    "explanation": "'Understatement' translates to 'la litotes' or 'la atenuación'. Litotes is the opposite of hyperbole -- it deliberately understates something for ironic effect. 'No es mala idea' (It's not a bad idea) when meaning 'It's a great idea' is litotes."
+  },
+  "q_vocab_c1_09_007": {
+    "question": "What does 'la antítesis' mean as a rhetorical device?",
+    "correct": "antithesis -- juxtaposing contrasting ideas in a balanced structure",
+    "wrong": ["the anti-thesis in a debate", "the answer to a thesis question", "a statement that destroys an argument"],
+    "explanation": "'La antítesis' places two opposing ideas side by side in a parallel structure for emphasis: 'Es tan corto el amor y tan largo el olvido' (Love is so brief and forgetting is so long) -- Pablo Neruda. It creates a powerful rhetorical contrast."
+  },
+  "q_vocab_c1_09_008": {
+    "question": "la sinécdoque",
+    "correct": "synecdoche -- a figure of speech where a part represents the whole, or the whole represents a part",
+    "wrong": ["a synagogue in literary terms", "a synchronized echo", "a type of synonym"],
+    "explanation": "'La sinécdoque' is a figure of speech where a part stands for the whole or vice versa. For example, 'Necesitamos más manos' (We need more hands) where 'hands' represents workers/people."
+  },
+  "q_vocab_c1_09_009": {
+    "question": "A political speech states: 'We bring not war, but peace; not destruction, but creation; not despair, but hope.' Which rhetorical device is primarily being employed?",
+    "correct": "La antítesis con anáfora: la repetición de una estructura que contrasta ideas opuestas.",
+    "wrong": ["La hipérbole: una exageración deliberada de los hechos.", "El eufemismo: una suavización del lenguaje directo.", "La metonimia: la sustitución de un término por otro relacionado."],
+    "explanation": "The speech uses 'antítesis' (antithesis) by juxtaposing opposing pairs (war/peace, destruction/creation, despair/hope) and 'anáfora' (anaphora) through the repetition of 'not ... but'. Together, these devices create a powerful rhythmic and persuasive effect.",
+    "context": "Analyzing rhetorical strategies in political discourse"
+  },
+  "q_vocab_c1_09_010": {
+    "question": "A writer describes a cruel character as 'having a heart of gold' to highlight the gap between appearance and reality. Which rhetorical device is being used?",
+    "correct": "La ironía: el escritor dice lo contrario de lo que quiere comunicar para crear un efecto de contraste.",
+    "wrong": ["La metáfora: el escritor describe literalmente que el corazón es de oro.", "La hipérbole: el escritor exagera la bondad del personaje.", "El eufemismo: el escritor suaviza la crueldad del personaje."],
+    "explanation": "This is 'ironía' (irony) because the description 'heart of gold' directly contradicts the character's actual cruelty. The reader understands the intended meaning is the opposite of the literal words, creating a powerful critical effect.",
+    "context": "Literary analysis of character portrayal techniques"
+  },
+  "q_vocab_c1_10_001": {
+    "question": "What does 'la corrida de toros' refer to in Spanish culture?",
+    "correct": "bullfight / bullfighting",
+    "wrong": ["a running race with bulls", "a corridor of bulls", "a type of bull farm"],
+    "explanation": "'La corrida de toros' means 'bullfight', a traditional spectacle in Spain involving a matador and a bull. It is a highly controversial cultural practice, celebrated by some as art and criticized by others as animal cruelty."
+  },
+  "q_vocab_c1_10_002": {
+    "question": "Don Quijote es considerado la primera novela ___ de la literatura occidental.",
+    "correct": "moderna",
+    "wrong": ["antigua", "clásica", "medieval"],
+    "explanation": "'Don Quijote de la Mancha' by Miguel de Cervantes (1605/1615) is widely considered the first modern novel. It introduced innovations like metafiction, unreliable narration, and complex character psychology that defined modern literature."
+  },
+  "q_vocab_c1_10_003": {
+    "question": "What does 'el flamenco' encompass as a cultural art form?",
+    "correct": "a combination of singing (cante), dancing (baile), and guitar playing (toque) originating from Andalusia",
+    "wrong": ["only a type of bird native to Spain", "exclusively a musical genre with no dance", "a form of bullfighting from Madrid"],
+    "explanation": "'El flamenco' is a comprehensive art form from Andalusia comprising three elements: 'cante' (singing), 'baile' (dance), and 'toque' (guitar playing). It was declared UNESCO Intangible Cultural Heritage in 2010."
+  },
+  "q_vocab_c1_10_004": {
+    "question": "What does 'la siesta' represent culturally in Spain?",
+    "correct": "a traditional midday rest or nap, reflecting the adaptation to hot climate and a social rhythm centered on extended lunch",
+    "wrong": ["a type of festival celebrated in summer", "a Spanish holiday on the seventh day", "a traditional evening celebration"],
+    "explanation": "'La siesta' is a brief midday rest traditionally taken after lunch. It reflects Spain's Mediterranean climate adaptation and a social structure where lunch is the main meal. Though declining in modern urban life, it remains culturally significant."
+  },
+  "q_vocab_c1_10_005": {
+    "question": "the Camino de Santiago (cultural/historical meaning)",
+    "correct": "el Camino de Santiago: an ancient pilgrimage route to the Cathedral of Santiago de Compostela",
+    "wrong": ["el Camino de Santiago: a modern highway in northern Spain", "el Camino de Santiago: a famous Spanish restaurant chain", "el Camino de Santiago: a type of traditional Spanish dance"],
+    "explanation": "'El Camino de Santiago' (The Way of St. James) is one of the most important Christian pilgrimage routes, leading to the Cathedral of Santiago de Compostela in Galicia. It has been a UNESCO World Heritage Site since 1993 and attracts hundreds of thousands of pilgrims and hikers annually."
+  },
+  "q_vocab_c1_10_006": {
+    "question": "What does 'La Tomatina' refer to?",
+    "correct": "an annual tomato-throwing festival held in Buñol, Valencia",
+    "wrong": ["a tomato cooking competition in Barcelona", "a tomato harvest celebration across all of Spain", "a traditional tomato soup served during Christmas"],
+    "explanation": "'La Tomatina' is a famous festival held annually on the last Wednesday of August in Buñol, Valencia. Participants throw tomatoes at each other in what has become the world's largest food fight, attracting international visitors."
+  },
+  "q_vocab_c1_10_007": {
+    "question": "A tour guide explains the significance of 'las tapas' to foreign visitors. Which description best captures the cultural meaning beyond just food?",
+    "correct": "Las tapas represent a social dining culture of sharing small dishes, encouraging conversation and community bonding.",
+    "wrong": ["Tapas are simply appetizers served before the main course.", "Tapas are the main meal of the day in Spain.", "Tapas are only served in formal restaurants for tourists."],
+    "explanation": "'Las tapas' transcend mere food -- they embody a social ritual of sharing small dishes ('ir de tapas') that fosters conversation, community, and leisurely dining. The practice reflects Spain's emphasis on socializing and shared experiences over formal, individualized dining.",
+    "context": "Cultural tour explaining Spanish social customs"
+  },
+  "q_vocab_c1_10_008": {
+    "question": "What does 'el Día de los Muertos' refer to, and which country is it most associated with?",
+    "correct": "Day of the Dead, a Mexican celebration honoring deceased loved ones on November 1-2",
+    "wrong": ["A Spanish holiday celebrating Halloween on October 31", "A religious fast observed in all Latin American countries", "A day of mourning observed only in cemeteries"],
+    "explanation": "'El Día de los Muertos' (Day of the Dead) is a Mexican tradition (not Spanish) on November 1-2 where families create altars ('ofrendas'), visit cemeteries, and celebrate the lives of deceased loved ones. It was recognized by UNESCO in 2008."
+  },
+  "q_vocab_c1_10_009": {
+    "question": "Las Fallas de Valencia",
+    "correct": "an annual Valencian festival featuring the construction and burning of large artistic sculptures",
+    "wrong": ["a volcanic eruption festival in the Canary Islands", "a traditional Valencia orange harvest celebration", "a failure commemoration in Valencian history"],
+    "explanation": "'Las Fallas' is a major festival in Valencia celebrated around March 15-19 (Saint Joseph's Day). Neighborhoods build enormous artistic sculptures ('ninots'), which are then burned on the final night ('la cremà'). It is a UNESCO Intangible Cultural Heritage."
+  },
+  "q_vocab_c1_10_010": {
+    "question": "A student is writing an essay about how Gabriel García Márquez's 'Cien años de soledad' reflects Latin American cultural identity. Which literary and cultural concept should be central to their analysis?",
+    "correct": "El realismo mágico: la fusión de elementos fantásticos con la realidad cotidiana latinoamericana.",
+    "wrong": ["El naturalismo: la descripción científica y objetiva de la realidad.", "El romanticismo: la exaltación de los sentimientos individuales europeos.", "El existencialismo: la angustia del ser humano ante la libertad."],
+    "explanation": "'El realismo mágico' (magical realism) is a literary genre where magical elements appear naturally within a realistic setting. García Márquez's masterpiece is its quintessential example, reflecting Latin American cultural identity through mythology, oral tradition, and the blending of the extraordinary with the everyday.",
+    "context": "University literature essay on Latin American cultural identity"
+  },
+  "q_vocab_c1_11_001": {
+    "question": "What is the register difference between 'empezar', 'comenzar', and 'iniciar'?",
+    "correct": "'Empezar' is informal/neutral, 'comenzar' is slightly more formal, and 'iniciar' is the most formal/technical",
+    "wrong": ["All three are identical with no register difference", "'Iniciar' is the most informal and 'empezar' is the most formal", "'Comenzar' is only used in Latin America"],
+    "explanation": "These three synonyms for 'to begin/start' vary in register: 'empezar' (everyday), 'comenzar' (slightly elevated, literary), 'iniciar' (formal, technical, administrative). Choosing the right one demonstrates register awareness at C1 level."
+  },
+  "q_vocab_c1_11_002": {
+    "question": "What is the precise difference between 'efectivo' and 'eficaz'?",
+    "correct": "'Eficaz' means achieving the desired result; 'efectivo' means actually producing a real effect in practice",
+    "wrong": ["They are perfect synonyms with no distinction", "'Eficaz' refers to money and 'efectivo' refers to results", "'Efectivo' is only used in military contexts"],
+    "explanation": "'Eficaz' (efficacious) focuses on the capacity to produce the intended result, while 'efectivo' (effective) emphasizes that something actually works in practice. A treatment can be 'eficaz' in theory but not 'efectivo' in real-world application."
+  },
+  "q_vocab_c1_11_003": {
+    "question": "El gobierno implementó medidas ___ para reducir la contaminación atmosférica.",
+    "correct": "drásticas",
+    "wrong": ["dramáticas", "trágicas", "fantásticas"],
+    "explanation": "'Drásticas' means 'drastic' (severe and far-reaching measures). While 'dramáticas' (dramatic) and 'trágicas' (tragic) exist as false friends, 'drástico' specifically refers to extreme measures taken to solve a problem. The sentence means 'The government implemented drastic measures to reduce air pollution.'"
+  },
+  "q_vocab_c1_11_004": {
+    "question": "What is the difference between 'austero' and 'sobrio'?",
+    "correct": "'Austero' means strictly simple, avoiding luxury; 'sobrio' means restrained, moderate, and elegant in simplicity",
+    "wrong": ["'Austero' means drunk and 'sobrio' means sober", "They are exact synonyms meaning 'boring'", "'Austero' is positive and 'sobrio' is always negative"],
+    "explanation": "'Austero' (austere) implies strictness and the deliberate avoidance of luxury or comfort: 'una vida austera'. 'Sobrio' (sober/restrained) implies tasteful restraint and moderation without excess: 'un estilo sobrio'. Both convey simplicity but with different connotations."
+  },
+  "q_vocab_c1_11_005": {
+    "question": "What is the advanced antonym of 'elogiar' (to praise)?",
+    "correct": "vituperar / denostar (to vilify / to revile)",
+    "wrong": ["criticar (to criticize -- too general)", "ignorar (to ignore)", "olvidar (to forget)"],
+    "explanation": "'Vituperar' and 'denostar' are elevated antonyms of 'elogiar'. While 'criticar' is a common-level antonym, 'vituperar' (to vilify) and 'denostar' (to revile/defame) represent the strongest opposition to praise, conveying harsh and public condemnation."
+  },
+  "q_vocab_c1_11_006": {
+    "question": "to worsen / to deteriorate",
+    "correct": "empeorar / deteriorarse / agravarse",
+    "wrong": ["mejorar / optimizar / progresar", "mantener / conservar / preservar", "cambiar / modificar / alterar"],
+    "explanation": "'To worsen' can be translated as 'empeorar' (general), 'deteriorarse' (gradual decline in condition), or 'agravarse' (becoming more serious, often medical/crisis). Each has different connotations: 'La situación se agravó' (The situation worsened -- became critical)."
+  },
+  "q_vocab_c1_11_007": {
+    "question": "What is the nuanced difference between 'perspicaz' and 'sagaz'?",
+    "correct": "'Perspicaz' means perceptive/sharp-sighted (seeing details clearly); 'sagaz' means shrewd/astute (using insight strategically)",
+    "wrong": ["They are identical synonyms meaning 'intelligent'", "'Perspicaz' is negative and 'sagaz' is positive", "'Perspicaz' means suspicious and 'sagaz' means wise"],
+    "explanation": "'Perspicaz' (perspicacious) emphasizes keen perception and the ability to notice subtle details. 'Sagaz' (sagacious/shrewd) implies using that perception strategically for practical advantage. A detective is 'perspicaz' when noticing clues and 'sagaz' when connecting them to solve the case."
+  },
+  "q_vocab_c1_11_008": {
+    "question": "escueto",
+    "correct": "concise / terse / succinct",
+    "wrong": ["skeletal / thin", "secretive / hidden", "scary / frightening"],
+    "explanation": "'Escueto' means 'concise', 'terse', or 'succinct', describing something that is brief and free of unnecessary detail. 'Una respuesta escueta' is a brief, no-frills answer. It can be neutral or slightly negative (implying too brief)."
+  },
+  "q_vocab_c1_11_009": {
+    "question": "You are writing a formal report and need to say that a policy 'failed completely.' Which synonym is most appropriate for formal register?",
+    "correct": "'La política fracasó rotundamente' -- using 'fracasar rotundamente' for emphatic formal failure.",
+    "wrong": ["'La política falló totalmente' -- too informal for a report.", "'La política fue un desastre completo' -- too colloquial.", "'La política no funcionó para nada' -- too conversational."],
+    "explanation": "'Fracasar rotundamente' means 'to fail resoundingly'. In formal writing, 'fracasar' (to fail) is more appropriate than 'fallar' (more mechanical/informal), and 'rotundamente' (categorically/resoundingly) is a stronger formal adverb than 'totalmente' or 'completamente'.",
+    "context": "Writing a formal policy evaluation report"
+  },
+  "q_vocab_c1_11_010": {
+    "question": "A literary critic needs to describe a novel's writing style that is excessively ornate and over-the-top. Which pair of synonyms and antonyms would best frame this critique?",
+    "correct": "Synonyms: 'recargado' / 'ampuloso' (ornate/pompous); Antonyms: 'sobrio' / 'escueto' (restrained/succinct).",
+    "wrong": ["Synonyms: 'bonito' / 'elegante'; Antonyms: 'feo' / 'horrible'.", "Synonyms: 'largo' / 'extenso'; Antonyms: 'corto' / 'breve'.", "Synonyms: 'difícil' / 'complejo'; Antonyms: 'fácil' / 'simple'."],
+    "explanation": "'Recargado' (overloaded/ornate) and 'ampuloso' (pompous/bombastic) precisely describe an excessively decorated writing style. Their antonyms 'sobrio' (restrained) and 'escueto' (succinct) represent the opposite aesthetic. This vocabulary is essential for advanced literary criticism.",
+    "context": "Literary criticism of prose style"
+  },
+  "q_vocab_c1_12_001": {
+    "question": "What does the collocation 'tomar una decisión' mean?",
+    "correct": "to make a decision",
+    "wrong": ["to take a decision away", "to drink a decision", "to choose a drink"],
+    "explanation": "'Tomar una decisión' means 'to make a decision'. In Spanish, decisions are 'taken' (tomar) rather than 'made' (hacer). This is one of the most important collocations to learn, as 'hacer una decisión' is incorrect."
+  },
+  "q_vocab_c1_12_002": {
+    "question": "El profesor hizo ___ en la importancia de la participación activa en clase.",
+    "correct": "hincapié",
+    "wrong": ["esfuerzo", "presión", "referencia"],
+    "explanation": "'Hacer hincapié en' means 'to emphasize' or 'to stress'. The sentence means 'The professor emphasized the importance of active participation in class.' This is a fixed collocation -- 'hincapié' is rarely used outside this expression."
+  },
+  "q_vocab_c1_12_003": {
+    "question": "What does the collocation 'prestar atención' mean?",
+    "correct": "to pay attention",
+    "wrong": ["to lend attention to someone", "to borrow attention", "to press for attention"],
+    "explanation": "'Prestar atención' means 'to pay attention'. In Spanish, attention is 'lent' (prestar) rather than 'paid'. 'Presta atención a lo que dice el profesor' means 'Pay attention to what the teacher says.'"
+  },
+  "q_vocab_c1_12_004": {
+    "question": "What does 'correr el riesgo' mean?",
+    "correct": "to run the risk / to take the risk",
+    "wrong": ["to run away from risk", "to race against danger", "to escape the risk by running"],
+    "explanation": "'Correr el riesgo' means 'to run the risk' or 'to take the risk'. 'Si no actúas ahora, corres el riesgo de perder la oportunidad' means 'If you don't act now, you run the risk of losing the opportunity.'"
+  },
+  "q_vocab_c1_12_005": {
+    "question": "to file a complaint",
+    "correct": "presentar una queja / interponer una reclamación",
+    "wrong": ["poner una queja en un archivo", "archivar un documento de queja", "dar una queja al archivo"],
+    "explanation": "'To file a complaint' translates to 'presentar una queja' (general) or 'interponer una reclamación' (formal/legal). The verb 'interponer' is specifically used in legal and administrative contexts for formal claims."
+  },
+  "q_vocab_c1_12_006": {
+    "question": "What does 'dar por sentado' mean?",
+    "correct": "to take for granted",
+    "wrong": ["to feel seated", "to give by sitting", "to grant permission"],
+    "explanation": "'Dar por sentado' means 'to take for granted', to assume something without questioning it. 'No des por sentado que todos están de acuerdo' means 'Don't take for granted that everyone agrees.'"
+  },
+  "q_vocab_c1_12_007": {
+    "question": "A manager tells an employee: 'Hay que poner en marcha el proyecto antes de fin de mes.' What does 'poner en marcha' mean?",
+    "correct": "to launch / to set in motion / to get something started",
+    "wrong": ["to put something on a march", "to stop a project", "to march toward the project"],
+    "explanation": "'Poner en marcha' means 'to launch', 'to set in motion', or 'to get something started'. It is a common business collocation for initiating projects, plans, or processes. The manager is saying the project must be launched before the end of the month.",
+    "context": "Business meeting about project timelines"
+  },
+  "q_vocab_c1_12_008": {
+    "question": "What does 'llevar a cabo' mean?",
+    "correct": "to carry out / to accomplish / to execute",
+    "wrong": ["to carry to the end of a rope", "to lead to a cape", "to bring to a finish line"],
+    "explanation": "'Llevar a cabo' means 'to carry out' or 'to accomplish'. It is a formal collocation used for completing tasks, projects, or plans: 'Llevaron a cabo una investigación exhaustiva' (They carried out an exhaustive investigation)."
+  },
+  "q_vocab_c1_12_009": {
+    "question": "hacer caso omiso de",
+    "correct": "to disregard / to ignore deliberately",
+    "wrong": ["to make a legal case", "to make a house out of something", "to pay careful attention to"],
+    "explanation": "'Hacer caso omiso de' means 'to disregard' or 'to deliberately ignore'. It implies a conscious choice to overlook something: 'Hizo caso omiso de las advertencias' (He disregarded the warnings). It is more formal than simply 'ignorar'."
+  },
+  "q_vocab_c1_12_010": {
+    "question": "A research team presents their findings to stakeholders. The lead researcher says: 'Los resultados arrojan luz sobre un fenómeno hasta ahora desconocido.' What does 'arrojar luz sobre' mean and why is it significant?",
+    "correct": "'Arrojar luz sobre' means 'to shed light on' -- it indicates the research has clarified or revealed something previously unknown.",
+    "wrong": ["It means the research literally produced light during an experiment.", "It means the results are too bright and need to be dimmed.", "It means throwing a spotlight at an audience during a presentation."],
+    "explanation": "'Arrojar luz sobre' (to shed light on) is a key academic and professional collocation meaning to clarify or illuminate. Combined with 'los resultados arrojan' (the results shed), it is standard language in research presentations for introducing significant findings that advance understanding.",
+    "context": "Research presentation to academic stakeholders"
+  }
+}

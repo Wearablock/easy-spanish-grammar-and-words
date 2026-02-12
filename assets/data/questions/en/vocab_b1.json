@@ -1,0 +1,870 @@
+{
+  "q_vocab_b1_01_001": {
+    "question": "What does 'empresa' mean?",
+    "correct": "company",
+    "wrong": ["employee", "salary", "contract"],
+    "explanation": "'Empresa' means 'company' or 'business'. It refers to a commercial organization."
+  },
+  "q_vocab_b1_01_002": {
+    "question": "What does 'sueldo' mean?",
+    "correct": "salary",
+    "wrong": ["job", "schedule", "meeting"],
+    "explanation": "'Sueldo' means 'salary' or 'wage'. It's the money you receive for your work each month."
+  },
+  "q_vocab_b1_01_003": {
+    "question": "Mi ___ me pidió que terminara el informe antes del viernes.",
+    "correct": "jefe",
+    "wrong": ["sueldo", "contrato", "horario"],
+    "explanation": "'Jefe' means 'boss'. The sentence means 'My boss asked me to finish the report before Friday.'"
+  },
+  "q_vocab_b1_01_004": {
+    "question": "What does 'reunión' mean?",
+    "correct": "meeting",
+    "wrong": ["interview", "overtime", "position"],
+    "explanation": "'Reunión' means 'meeting'. In the workplace, 'tener una reunión' means 'to have a meeting'."
+  },
+  "q_vocab_b1_01_005": {
+    "question": "What does 'horas extra' mean in a work context?",
+    "correct": "overtime",
+    "wrong": ["flexible hours", "shift work", "lunch break"],
+    "explanation": "'Horas extra' means 'overtime'. It refers to additional hours worked beyond the regular schedule."
+  },
+  "q_vocab_b1_01_006": {
+    "question": "I have a job interview tomorrow.",
+    "correct": "Tengo una entrevista de trabajo mañana.",
+    "wrong": ["Tengo un contrato de trabajo mañana.", "Tengo una reunión de trabajo mañana.", "Tengo un puesto de trabajo mañana."],
+    "explanation": "'Entrevista de trabajo' means 'job interview'. 'Mañana' means 'tomorrow'."
+  },
+  "q_vocab_b1_01_007": {
+    "question": "What does 'contratar' mean?",
+    "correct": "to hire",
+    "wrong": ["to fire", "to resign", "to retire"],
+    "explanation": "'Contratar' means 'to hire' or 'to employ'. The opposite is 'despedir' (to fire)."
+  },
+  "q_vocab_b1_01_008": {
+    "question": "El empleado trabaja a tiempo parcial en la oficina.",
+    "correct": "The employee works part-time at the office.",
+    "wrong": ["The employee works full-time at the office.", "The employee works overtime at the office.", "The employer works part-time at the office."],
+    "explanation": "'A tiempo parcial' means 'part-time'. 'Empleado' means 'employee'. The opposite is 'a tiempo completo' (full-time)."
+  },
+  "q_vocab_b1_01_009": {
+    "question": "You want to apply for a new position. What document do you need to prepare?",
+    "correct": "el currículum",
+    "wrong": ["el contrato", "el horario", "el sueldo"],
+    "explanation": "'El currículum' (also 'currículum vitae' or CV) is the document listing your work experience and education for job applications.",
+    "context": "Looking for a new job and preparing application materials"
+  },
+  "q_vocab_b1_01_010": {
+    "question": "Your company is letting people go due to budget cuts. What is happening?",
+    "correct": "La empresa está despidiendo empleados.",
+    "wrong": ["La empresa está contratando empleados.", "La empresa está ascendiendo empleados.", "La empresa está formando empleados."],
+    "explanation": "'Despedir' means 'to fire' or 'to let go'. 'La empresa está despidiendo empleados' means 'The company is firing employees'.",
+    "context": "A company facing financial difficulties and reducing staff"
+  },
+  "q_vocab_b1_02_001": {
+    "question": "What does 'beca' mean?",
+    "correct": "scholarship",
+    "wrong": ["degree", "grade", "subject"],
+    "explanation": "'Beca' means 'scholarship'. Students can receive a 'beca' to help pay for their studies."
+  },
+  "q_vocab_b1_02_002": {
+    "question": "Los estudiantes deben ___ antes del 30 de septiembre.",
+    "correct": "matricularse",
+    "wrong": ["graduarse", "suspender", "investigar"],
+    "explanation": "'Matricularse' means 'to enroll/register'. The sentence means 'Students must enroll before September 30th.'"
+  },
+  "q_vocab_b1_02_003": {
+    "question": "What does 'aprobar' mean in an academic context?",
+    "correct": "to pass (an exam)",
+    "wrong": ["to fail", "to study", "to teach"],
+    "explanation": "'Aprobar' means 'to pass' an exam or course. The opposite is 'suspender' (to fail)."
+  },
+  "q_vocab_b1_02_004": {
+    "question": "What does 'asignatura' mean?",
+    "correct": "subject (school course)",
+    "wrong": ["assignment", "teacher", "classroom"],
+    "explanation": "'Asignatura' means 'subject' or 'course' in school. For example, 'matemáticas es mi asignatura favorita'."
+  },
+  "q_vocab_b1_02_005": {
+    "question": "She wants to study a university degree.",
+    "correct": "Ella quiere estudiar una carrera universitaria.",
+    "wrong": ["Ella quiere aprobar una carrera universitaria.", "Ella quiere suspender una carrera universitaria.", "Ella quiere investigar una carrera universitaria."],
+    "explanation": "'Carrera universitaria' means 'university degree'. 'Estudiar una carrera' is the common expression for pursuing a degree."
+  },
+  "q_vocab_b1_02_006": {
+    "question": "What does 'título' mean in an educational context?",
+    "correct": "degree / diploma",
+    "wrong": ["title of a book", "headline", "job title"],
+    "explanation": "'Título' in education means 'degree' or 'diploma'. 'Obtener un título' means 'to obtain a degree'."
+  },
+  "q_vocab_b1_02_007": {
+    "question": "A student asks about the next step after secondary school. What level comes next in Spain?",
+    "correct": "el bachillerato",
+    "wrong": ["la educación primaria", "la matrícula", "la beca"],
+    "explanation": "'Bachillerato' is the Spanish equivalent of upper secondary education (ages 16-18), taken after 'educación secundaria'.",
+    "context": "A 16-year-old student planning their educational path in Spain"
+  },
+  "q_vocab_b1_02_008": {
+    "question": "What does 'nota' mean in the phrase 'Saqué buenas notas este semestre'?",
+    "correct": "grade / mark",
+    "wrong": ["note (written)", "notebook", "news"],
+    "explanation": "'Nota' in an academic context means 'grade' or 'mark'. 'Sacar buenas notas' means 'to get good grades'."
+  },
+  "q_vocab_b1_02_009": {
+    "question": "Mi hermano suspendió tres asignaturas y tiene que repetir curso.",
+    "correct": "My brother failed three subjects and has to repeat the year.",
+    "wrong": ["My brother passed three subjects and has to repeat the year.", "My brother failed three exams and has to change schools.", "My brother dropped three subjects and has to take extra classes."],
+    "explanation": "'Suspender' means 'to fail'. 'Repetir curso' means 'to repeat the school year'. This is common in the Spanish education system."
+  },
+  "q_vocab_b1_02_010": {
+    "question": "You are a professor guiding a student who wants to do academic research. What do you suggest?",
+    "correct": "Deberías investigar sobre ese tema.",
+    "wrong": ["Deberías matricularte en ese tema.", "Deberías suspender ese tema.", "Deberías graduarte en ese tema."],
+    "explanation": "'Investigar' means 'to research' or 'to investigate'. 'Investigar sobre un tema' means 'to research a topic'.",
+    "context": "A university professor advising a student about their thesis"
+  },
+  "q_vocab_b1_03_001": {
+    "question": "What does 'medio ambiente' mean?",
+    "correct": "environment",
+    "wrong": ["media", "average", "atmosphere"],
+    "explanation": "'Medio ambiente' means 'environment' in the ecological sense. 'Proteger el medio ambiente' means 'to protect the environment'."
+  },
+  "q_vocab_b1_03_002": {
+    "question": "What does 'contaminación' mean?",
+    "correct": "pollution",
+    "wrong": ["contamination of food", "population", "conservation"],
+    "explanation": "'Contaminación' means 'pollution'. 'Contaminación del aire' is 'air pollution' and 'contaminación del agua' is 'water pollution'."
+  },
+  "q_vocab_b1_03_003": {
+    "question": "Es importante ___ el plástico para reducir los residuos.",
+    "correct": "reciclar",
+    "wrong": ["contaminar", "deforestar", "emitir"],
+    "explanation": "'Reciclar' means 'to recycle'. The sentence means 'It is important to recycle plastic to reduce waste.'"
+  },
+  "q_vocab_b1_03_004": {
+    "question": "What does 'cambio climático' mean?",
+    "correct": "climate change",
+    "wrong": ["weather forecast", "seasonal change", "air conditioning"],
+    "explanation": "'Cambio climático' means 'climate change'. It refers to long-term shifts in global temperatures and weather patterns."
+  },
+  "q_vocab_b1_03_005": {
+    "question": "What does 'energía renovable' mean?",
+    "correct": "renewable energy",
+    "wrong": ["nuclear energy", "electric power", "fossil fuel"],
+    "explanation": "'Energía renovable' means 'renewable energy', such as solar, wind, and hydroelectric power."
+  },
+  "q_vocab_b1_03_006": {
+    "question": "We must protect endangered species.",
+    "correct": "Debemos proteger las especies en peligro.",
+    "wrong": ["Debemos contaminar las especies en peligro.", "Debemos reciclar las especies en peligro.", "Debemos deforestar las especies en peligro."],
+    "explanation": "'Proteger' means 'to protect'. 'Especies en peligro' means 'endangered species'."
+  },
+  "q_vocab_b1_03_007": {
+    "question": "What does 'deforestación' mean?",
+    "correct": "deforestation",
+    "wrong": ["reforestation", "desertification", "irrigation"],
+    "explanation": "'Deforestación' means 'deforestation', the clearing of forests. It is a major environmental concern worldwide."
+  },
+  "q_vocab_b1_03_008": {
+    "question": "Las emisiones de CO2 están aumentando cada año.",
+    "correct": "CO2 emissions are increasing every year.",
+    "wrong": ["CO2 emissions are decreasing every year.", "CO2 recycling is increasing every year.", "CO2 ecosystems are increasing every year."],
+    "explanation": "'Emisiones' means 'emissions'. 'Aumentar' means 'to increase'. This sentence discusses rising carbon dioxide levels."
+  },
+  "q_vocab_b1_03_009": {
+    "question": "Your city is launching a new green initiative. What would be a good sustainability goal?",
+    "correct": "Promover la sostenibilidad y el reciclaje.",
+    "wrong": ["Aumentar la contaminación industrial.", "Reducir el uso de energía renovable.", "Eliminar todos los ecosistemas urbanos."],
+    "explanation": "'Sostenibilidad' means 'sustainability'. Promoting sustainability and recycling is a common environmental goal.",
+    "context": "A city council meeting discussing environmental policies"
+  },
+  "q_vocab_b1_03_010": {
+    "question": "You see a factory dumping waste into a river. How do you describe this?",
+    "correct": "La fábrica está contaminando el río.",
+    "wrong": ["La fábrica está reciclando el río.", "La fábrica está protegiendo el río.", "La fábrica está renovando el río."],
+    "explanation": "'Contaminar' means 'to pollute'. 'Contaminar el río' means 'to pollute the river'.",
+    "context": "Witnessing industrial pollution near a residential area"
+  },
+  "q_vocab_b1_04_001": {
+    "question": "What does 'periodista' mean?",
+    "correct": "journalist",
+    "wrong": ["newspaper", "article", "publisher"],
+    "explanation": "'Periodista' means 'journalist'. It comes from 'periódico' (newspaper). A periodista writes for media outlets."
+  },
+  "q_vocab_b1_04_002": {
+    "question": "El ___ de hoy tiene un artículo muy interesante sobre política.",
+    "correct": "periódico",
+    "wrong": ["anuncio", "titular", "publicidad"],
+    "explanation": "'Periódico' means 'newspaper'. The sentence means 'Today's newspaper has a very interesting article about politics.'"
+  },
+  "q_vocab_b1_04_003": {
+    "question": "What does 'redes sociales' mean?",
+    "correct": "social media",
+    "wrong": ["social networks (in person)", "fishing nets", "television channels"],
+    "explanation": "'Redes sociales' means 'social media' or 'social networks'. It refers to platforms like Instagram, X, and Facebook."
+  },
+  "q_vocab_b1_04_004": {
+    "question": "What does 'titular' mean in a newspaper?",
+    "correct": "headline",
+    "wrong": ["title page", "editor", "subscriber"],
+    "explanation": "'Titular' means 'headline' when referring to newspapers. It's the main title of a news story."
+  },
+  "q_vocab_b1_04_005": {
+    "question": "The magazine published an article about climate change.",
+    "correct": "La revista publicó un artículo sobre el cambio climático.",
+    "wrong": ["La revista informó un artículo sobre el cambio climático.", "El periódico publicó una noticia sobre el cambio climático.", "La revista anunció un artículo sobre el cambio climático."],
+    "explanation": "'Publicar' means 'to publish'. 'Revista' means 'magazine'. 'Publicar un artículo' is the standard expression."
+  },
+  "q_vocab_b1_04_006": {
+    "question": "What does 'publicidad' mean?",
+    "correct": "advertising",
+    "wrong": ["publicity stunt", "public space", "publication"],
+    "explanation": "'Publicidad' means 'advertising'. 'Anuncio' is a single 'advertisement', while 'publicidad' is the broader concept."
+  },
+  "q_vocab_b1_04_007": {
+    "question": "You are watching TV and a commercial break starts. What is being shown?",
+    "correct": "anuncios",
+    "wrong": ["noticias", "artículos", "titulares"],
+    "explanation": "'Anuncio' means 'advertisement' or 'commercial'. During commercial breaks, you see 'anuncios'.",
+    "context": "Watching television during prime time"
+  },
+  "q_vocab_b1_04_008": {
+    "question": "What does 'prensa' mean?",
+    "correct": "the press",
+    "wrong": ["pressure", "printing", "presentation"],
+    "explanation": "'Prensa' means 'the press' or 'media' collectively. 'Libertad de prensa' means 'freedom of the press'."
+  },
+  "q_vocab_b1_04_009": {
+    "question": "La cadena de televisión informó sobre el terremoto.",
+    "correct": "The television channel reported on the earthquake.",
+    "wrong": ["The television chain informed about the earthquake.", "The newspaper reported on the earthquake.", "The television channel published the earthquake."],
+    "explanation": "'Cadena de televisión' means 'television channel/network'. 'Informar sobre' means 'to report on'."
+  },
+  "q_vocab_b1_04_010": {
+    "question": "You want to stay informed about current events in Spain. What do you follow?",
+    "correct": "las noticias de España",
+    "wrong": ["los anuncios de España", "la publicidad de España", "las revistas de España"],
+    "explanation": "'Noticias' means 'news'. Following 'las noticias' keeps you informed about current events.",
+    "context": "A foreigner living in Spain who wants to know what's happening in the country"
+  },
+  "q_vocab_b1_05_001": {
+    "question": "What does 'exposición' mean in an art context?",
+    "correct": "exhibition",
+    "wrong": ["exposure", "explanation", "explosion"],
+    "explanation": "'Exposición' means 'exhibition' in the context of art. 'Ir a una exposición' means 'to go to an exhibition'."
+  },
+  "q_vocab_b1_05_002": {
+    "question": "What does 'obra de arte' mean?",
+    "correct": "work of art",
+    "wrong": ["art class", "art studio", "art gallery"],
+    "explanation": "'Obra de arte' means 'work of art'. 'Obra' alone can mean 'work' (literary, artistic) or 'construction work'."
+  },
+  "q_vocab_b1_05_003": {
+    "question": "El ___ del museo contiene cuadros de Picasso y Dalí.",
+    "correct": "galería",
+    "wrong": ["escritor", "director", "pintor"],
+    "explanation": "'Galería' can refer to a gallery or section within a museum. The sentence means 'The museum's gallery contains paintings by Picasso and Dalí.'"
+  },
+  "q_vocab_b1_05_004": {
+    "question": "What does 'patrimonio cultural' mean?",
+    "correct": "cultural heritage",
+    "wrong": ["cultural patrimony fee", "national park", "cultural center"],
+    "explanation": "'Patrimonio cultural' means 'cultural heritage'. It refers to the traditions, art, and monuments valued by a society."
+  },
+  "q_vocab_b1_05_005": {
+    "question": "What does 'escultura' mean?",
+    "correct": "sculpture",
+    "wrong": ["painting", "photograph", "drawing"],
+    "explanation": "'Escultura' means 'sculpture'. A sculptor ('escultor') creates three-dimensional works of art."
+  },
+  "q_vocab_b1_05_006": {
+    "question": "The writer published his latest novel last month.",
+    "correct": "El escritor publicó su última novela el mes pasado.",
+    "wrong": ["El pintor publicó su última novela el mes pasado.", "El escritor pintó su última novela el mes pasado.", "El director publicó su última novela el mes pasado."],
+    "explanation": "'Escritor' means 'writer'. 'Novela' means 'novel'. 'Publicar' means 'to publish'."
+  },
+  "q_vocab_b1_05_007": {
+    "question": "What does 'cuadro' mean in art?",
+    "correct": "painting",
+    "wrong": ["frame", "square", "chart"],
+    "explanation": "'Cuadro' means 'painting' (a framed artwork). It can also mean 'picture' in general when displayed on a wall."
+  },
+  "q_vocab_b1_05_008": {
+    "question": "La arquitectura de Barcelona es famosa en todo el mundo.",
+    "correct": "Barcelona's architecture is famous throughout the world.",
+    "wrong": ["Barcelona's art gallery is famous throughout the world.", "Barcelona's museum is famous throughout the world.", "Barcelona's sculpture is famous throughout the world."],
+    "explanation": "'Arquitectura' means 'architecture'. Barcelona is known for Gaudí's unique architectural works."
+  },
+  "q_vocab_b1_05_009": {
+    "question": "You visit a museum and want to see the Spanish masters. What do you ask for?",
+    "correct": "¿Dónde están los cuadros de los pintores españoles?",
+    "wrong": ["¿Dónde están las novelas de los escritores españoles?", "¿Dónde están los poemas de los directores españoles?", "¿Dónde están las esculturas de los escritores españoles?"],
+    "explanation": "'Pintores' means 'painters'. 'Cuadros' means 'paintings'. This is the correct way to ask about paintings by Spanish artists.",
+    "context": "Visiting the Prado Museum in Madrid"
+  },
+  "q_vocab_b1_05_010": {
+    "question": "You attend a poetry reading event. What are you listening to?",
+    "correct": "poemas",
+    "wrong": ["novelas", "cuadros", "esculturas"],
+    "explanation": "'Poema' means 'poem'. A 'recital de poesía' (poetry reading) features poets reading their 'poemas' aloud.",
+    "context": "A cultural event at a literary café"
+  },
+  "q_vocab_b1_06_001": {
+    "question": "What does 'enamorarse' mean?",
+    "correct": "to fall in love",
+    "wrong": ["to get married", "to break up", "to get divorced"],
+    "explanation": "'Enamorarse' means 'to fall in love'. It's a reflexive verb: 'Me enamoré de ella' (I fell in love with her)."
+  },
+  "q_vocab_b1_06_002": {
+    "question": "Mi hermana se ___ con su novio después de cinco años juntos.",
+    "correct": "casó",
+    "wrong": ["divorció", "enamoró", "peleó"],
+    "explanation": "'Casarse' means 'to get married'. The sentence means 'My sister got married to her boyfriend after five years together.'"
+  },
+  "q_vocab_b1_06_003": {
+    "question": "What does 'llevarse bien' mean?",
+    "correct": "to get along well",
+    "wrong": ["to carry well", "to take well", "to behave well"],
+    "explanation": "'Llevarse bien' means 'to get along well' with someone. The opposite is 'llevarse mal' (to not get along)."
+  },
+  "q_vocab_b1_06_004": {
+    "question": "What does 'confianza' mean?",
+    "correct": "trust",
+    "wrong": ["confidence (in public speaking)", "confession", "comfort"],
+    "explanation": "'Confianza' means 'trust' in relationships. 'Tener confianza en alguien' means 'to trust someone'."
+  },
+  "q_vocab_b1_06_005": {
+    "question": "They broke up after a big argument.",
+    "correct": "Rompieron después de una gran discusión.",
+    "wrong": ["Se casaron después de una gran discusión.", "Se enamoraron después de una gran discusión.", "Se apoyaron después de una gran discusión."],
+    "explanation": "'Romper (con alguien)' means 'to break up (with someone)'. 'Discusión' means 'argument'."
+  },
+  "q_vocab_b1_06_006": {
+    "question": "What does 'echar de menos' mean?",
+    "correct": "to miss (someone/something)",
+    "wrong": ["to throw out", "to blame", "to forget"],
+    "explanation": "'Echar de menos' means 'to miss' someone or something. 'Te echo de menos' means 'I miss you'."
+  },
+  "q_vocab_b1_06_007": {
+    "question": "Your best friend is going through a difficult time. What should you do?",
+    "correct": "apoyar a tu amigo",
+    "wrong": ["discutir con tu amigo", "romper con tu amigo", "divorciarte de tu amigo"],
+    "explanation": "'Apoyar' means 'to support'. Being a good friend means supporting ('apoyar') people during hard times.",
+    "context": "A close friend recently lost their job and feels discouraged"
+  },
+  "q_vocab_b1_06_008": {
+    "question": "What does 'perdonar' mean?",
+    "correct": "to forgive",
+    "wrong": ["to forget", "to permit", "to lose"],
+    "explanation": "'Perdonar' means 'to forgive'. 'Te perdono' means 'I forgive you'. It can also mean 'excuse me' in polite contexts."
+  },
+  "q_vocab_b1_06_009": {
+    "question": "Después de divorciarse, ella empezó una nueva relación.",
+    "correct": "After getting divorced, she started a new relationship.",
+    "wrong": ["After getting married, she started a new relationship.", "After falling in love, she started a new friendship.", "After breaking up, she started a new career."],
+    "explanation": "'Divorciarse' means 'to get divorced'. 'Relación' means 'relationship'. The sentence describes moving on after divorce."
+  },
+  "q_vocab_b1_06_010": {
+    "question": "Two friends haven't spoken in months after a disagreement. One wants to reconnect. What should they do?",
+    "correct": "Debería llamar a su amigo y intentar perdonar.",
+    "wrong": ["Debería discutir más con su amigo.", "Debería echar de menos a su amigo en silencio.", "Debería romper la amistad definitivamente."],
+    "explanation": "'Perdonar' means 'to forgive'. 'Amistad' means 'friendship'. Forgiving is the first step to restoring a friendship.",
+    "context": "Two long-time friends who had a falling out over a misunderstanding"
+  },
+  "q_vocab_b1_07_001": {
+    "question": "What does 'ley' mean?",
+    "correct": "law",
+    "wrong": ["lawyer", "judge", "trial"],
+    "explanation": "'Ley' means 'law'. 'Cumplir la ley' means 'to obey the law'. 'Ley' refers to a specific regulation or statute."
+  },
+  "q_vocab_b1_07_002": {
+    "question": "What does 'abogado' mean?",
+    "correct": "lawyer",
+    "wrong": ["judge", "defendant", "prosecutor"],
+    "explanation": "'Abogado' means 'lawyer' or 'attorney'. An abogado defends or represents clients in legal matters."
+  },
+  "q_vocab_b1_07_003": {
+    "question": "El ___ declaró al acusado culpable del delito.",
+    "correct": "juez",
+    "wrong": ["abogado", "víctima", "testigo"],
+    "explanation": "'Juez' means 'judge'. The sentence means 'The judge declared the defendant guilty of the crime.'"
+  },
+  "q_vocab_b1_07_004": {
+    "question": "What does 'derechos humanos' mean?",
+    "correct": "human rights",
+    "wrong": ["human duties", "right-handed humans", "humanitarian aid"],
+    "explanation": "'Derechos humanos' means 'human rights'. 'Derecho' means both 'right' (entitlement) and 'law' (field of study)."
+  },
+  "q_vocab_b1_07_005": {
+    "question": "What does 'culpable' mean?",
+    "correct": "guilty",
+    "wrong": ["innocent", "capable", "culprit"],
+    "explanation": "'Culpable' means 'guilty'. The opposite is 'inocente' (innocent). 'Declarar culpable' means 'to find guilty'."
+  },
+  "q_vocab_b1_07_006": {
+    "question": "Everyone has the right to freedom of expression.",
+    "correct": "Todos tienen derecho a la libertad de expresión.",
+    "wrong": ["Todos tienen justicia a la libertad de expresión.", "Todos tienen ley a la libertad de expresión.", "Todos tienen juicio a la libertad de expresión."],
+    "explanation": "'Derecho' means 'right'. 'Libertad de expresión' means 'freedom of expression'. 'Tener derecho a' means 'to have the right to'."
+  },
+  "q_vocab_b1_07_007": {
+    "question": "What does 'denunciar' mean?",
+    "correct": "to report (a crime)",
+    "wrong": ["to denounce publicly", "to deny", "to demonstrate"],
+    "explanation": "'Denunciar' means 'to report' a crime or wrongdoing to the authorities. 'Poner una denuncia' means 'to file a report'."
+  },
+  "q_vocab_b1_07_008": {
+    "question": "La víctima declaró ante el juez durante el juicio.",
+    "correct": "The victim testified before the judge during the trial.",
+    "wrong": ["The victim declared to the lawyer during the trial.", "The guilty party testified before the judge during the crime.", "The victim reported to the judge during the law."],
+    "explanation": "'Víctima' means 'victim'. 'Juicio' means 'trial'. 'Declarar' here means 'to testify'."
+  },
+  "q_vocab_b1_07_009": {
+    "question": "You witness a robbery. What should you do?",
+    "correct": "Denunciar el delito a la policía.",
+    "wrong": ["Defender al culpable ante la policía.", "Ignorar la justicia y el delito.", "Juzgar al inocente en la calle."],
+    "explanation": "'Denunciar' means 'to report'. 'Delito' means 'crime'. You should report crimes to the police.",
+    "context": "Walking home at night and seeing someone stealing from a store"
+  },
+  "q_vocab_b1_07_010": {
+    "question": "A group of citizens is protesting for equal rights. What are they demanding?",
+    "correct": "igualdad de derechos",
+    "wrong": ["libertad de delitos", "justicia de abogados", "leyes de víctimas"],
+    "explanation": "'Igualdad' means 'equality'. 'Igualdad de derechos' means 'equal rights', a fundamental demand in social movements.",
+    "context": "A peaceful demonstration in the city center about civil rights"
+  },
+  "q_vocab_b1_08_001": {
+    "question": "What does 'descubrimiento' mean?",
+    "correct": "discovery",
+    "wrong": ["description", "development", "discount"],
+    "explanation": "'Descubrimiento' means 'discovery'. It comes from the verb 'descubrir' (to discover)."
+  },
+  "q_vocab_b1_08_002": {
+    "question": "Los ___ trabajan en el laboratorio analizando datos.",
+    "correct": "científicos",
+    "wrong": ["experimentos", "descubrimientos", "datos"],
+    "explanation": "'Científicos' means 'scientists'. The sentence means 'The scientists work in the laboratory analyzing data.'"
+  },
+  "q_vocab_b1_08_003": {
+    "question": "What does 'investigación' mean?",
+    "correct": "research",
+    "wrong": ["investigation (police)", "investment", "invention"],
+    "explanation": "'Investigación' means 'research' in a scientific context. 'Realizar una investigación' means 'to carry out research'."
+  },
+  "q_vocab_b1_08_004": {
+    "question": "What does 'inteligencia artificial' mean?",
+    "correct": "artificial intelligence",
+    "wrong": ["intelligent artifact", "artificial intellect", "digital intelligence"],
+    "explanation": "'Inteligencia artificial' means 'artificial intelligence' (AI). It's a rapidly growing field in technology."
+  },
+  "q_vocab_b1_08_005": {
+    "question": "The scientist invented a new type of battery.",
+    "correct": "El científico inventó un nuevo tipo de batería.",
+    "wrong": ["El científico descubrió un nuevo tipo de batería.", "El científico demostró un nuevo tipo de batería.", "El científico experimentó un nuevo tipo de batería."],
+    "explanation": "'Inventar' means 'to invent' (create something new). 'Descubrir' means 'to discover' (find something existing)."
+  },
+  "q_vocab_b1_08_006": {
+    "question": "What does 'demostrar' mean in a scientific context?",
+    "correct": "to prove / to demonstrate",
+    "wrong": ["to demolish", "to demand", "to demonstrate (protest)"],
+    "explanation": "'Demostrar' in science means 'to prove' or 'to demonstrate' a hypothesis or theory through evidence."
+  },
+  "q_vocab_b1_08_007": {
+    "question": "A research team announces their findings. How do they describe presenting evidence for their hypothesis?",
+    "correct": "Hemos demostrado nuestra teoría con los datos.",
+    "wrong": ["Hemos inventado nuestra teoría con los datos.", "Hemos descubierto nuestra teoría con los datos.", "Hemos experimentado nuestra teoría con los datos."],
+    "explanation": "'Demostrar' means 'to prove'. 'Teoría' means 'theory'. Scientists 'demuestran' (prove) theories with data.",
+    "context": "A press conference about a major scientific breakthrough"
+  },
+  "q_vocab_b1_08_008": {
+    "question": "What does 'dato' mean?",
+    "correct": "data point / piece of data",
+    "wrong": ["date (calendar)", "gift", "detail"],
+    "explanation": "'Dato' means 'data point' or 'piece of information'. The plural 'datos' means 'data'. 'Base de datos' means 'database'."
+  },
+  "q_vocab_b1_08_009": {
+    "question": "Los estudiantes realizaron un experimento en el laboratorio.",
+    "correct": "The students carried out an experiment in the laboratory.",
+    "wrong": ["The students discovered an experiment in the laboratory.", "The scientists realized an experiment in the library.", "The students researched an experiment in the classroom."],
+    "explanation": "'Realizar un experimento' means 'to carry out an experiment'. 'Laboratorio' means 'laboratory'."
+  },
+  "q_vocab_b1_08_010": {
+    "question": "You read about a new technology that can learn and make decisions. What is it called in Spanish?",
+    "correct": "inteligencia artificial",
+    "wrong": ["ciencia natural", "investigación digital", "experimento tecnológico"],
+    "explanation": "'Inteligencia artificial' (AI) refers to technology that can learn, reason, and make decisions autonomously.",
+    "context": "Reading a tech magazine article about machine learning advances"
+  },
+  "q_vocab_b1_09_001": {
+    "question": "What does 'impuestos' mean?",
+    "correct": "taxes",
+    "wrong": ["imports", "investments", "impositions"],
+    "explanation": "'Impuestos' means 'taxes'. 'Pagar impuestos' means 'to pay taxes'. It comes from 'imponer' (to impose)."
+  },
+  "q_vocab_b1_09_002": {
+    "question": "What does 'desempleo' mean?",
+    "correct": "unemployment",
+    "wrong": ["employment", "underemployment", "retirement"],
+    "explanation": "'Desempleo' means 'unemployment'. The prefix 'des-' indicates negation. 'La tasa de desempleo' means 'the unemployment rate'."
+  },
+  "q_vocab_b1_09_003": {
+    "question": "Es importante ___ dinero cada mes para el futuro.",
+    "correct": "ahorrar",
+    "wrong": ["gastar", "invertir", "deber"],
+    "explanation": "'Ahorrar' means 'to save' money. The sentence means 'It is important to save money every month for the future.'"
+  },
+  "q_vocab_b1_09_004": {
+    "question": "What does 'presupuesto' mean?",
+    "correct": "budget",
+    "wrong": ["pressure", "loan", "price"],
+    "explanation": "'Presupuesto' means 'budget'. 'El presupuesto del gobierno' means 'the government's budget'."
+  },
+  "q_vocab_b1_09_005": {
+    "question": "What does 'inflación' refer to in economics?",
+    "correct": "a general increase in prices over time",
+    "wrong": ["a decrease in the value of exports", "an increase in employment rates", "a rise in stock market values"],
+    "explanation": "'Inflación' means 'inflation', the sustained increase in the general price level of goods and services."
+  },
+  "q_vocab_b1_09_006": {
+    "question": "He decided to invest in real estate.",
+    "correct": "Decidió invertir en bienes raíces.",
+    "wrong": ["Decidió ahorrar en bienes raíces.", "Decidió gastar en bienes raíces.", "Decidió deber en bienes raíces."],
+    "explanation": "'Invertir' means 'to invest'. 'Bienes raíces' means 'real estate'. Investing is different from saving or spending."
+  },
+  "q_vocab_b1_09_007": {
+    "question": "What does 'deuda' mean?",
+    "correct": "debt",
+    "wrong": ["doubt", "duty", "deduction"],
+    "explanation": "'Deuda' means 'debt'. 'Tener deudas' means 'to have debts'. 'Deuda pública' is 'national/public debt'."
+  },
+  "q_vocab_b1_09_008": {
+    "question": "El crecimiento económico del país fue del 3% este año.",
+    "correct": "The country's economic growth was 3% this year.",
+    "wrong": ["The country's economic spending was 3% this year.", "The country's economic debt was 3% this year.", "The country's economic unemployment was 3% this year."],
+    "explanation": "'Crecimiento económico' means 'economic growth'. It measures how much a country's economy has expanded."
+  },
+  "q_vocab_b1_09_009": {
+    "question": "You want to start a small business. What do you need to create first?",
+    "correct": "un presupuesto para el negocio",
+    "wrong": ["una deuda para el negocio", "un desempleo para el negocio", "una inflación para el negocio"],
+    "explanation": "'Presupuesto' means 'budget'. 'Negocio' means 'business'. A budget is essential when starting a new business.",
+    "context": "Planning to open a small café in your neighborhood"
+  },
+  "q_vocab_b1_09_010": {
+    "question": "The government needs to address rising unemployment. What is the issue?",
+    "correct": "El gobierno necesita abordar el aumento del desempleo.",
+    "wrong": ["El gobierno necesita abordar el aumento de la inversión.", "El gobierno necesita abordar el aumento del mercado.", "El gobierno necesita abordar el aumento del ahorro."],
+    "explanation": "'Desempleo' means 'unemployment'. 'Abordar' means 'to address/tackle'. Rising unemployment is a serious economic concern.",
+    "context": "A news report about the country's economic challenges"
+  },
+  "q_vocab_b1_10_001": {
+    "question": "What does 'en mi opinión' mean?",
+    "correct": "in my opinion",
+    "wrong": ["in my experience", "in my view (formal)", "to my knowledge"],
+    "explanation": "'En mi opinión' means 'in my opinion'. It's one of the most common ways to express a personal viewpoint in Spanish."
+  },
+  "q_vocab_b1_10_002": {
+    "question": "Creo que el cambio climático es un problema grave; ___, hay gente que no está de acuerdo.",
+    "correct": "sin embargo",
+    "wrong": ["por lo tanto", "además", "en conclusión"],
+    "explanation": "'Sin embargo' means 'however' or 'nevertheless'. It introduces a contrasting idea. The sentence means 'I think climate change is a serious problem; however, there are people who disagree.'"
+  },
+  "q_vocab_b1_10_003": {
+    "question": "What does 'estoy de acuerdo' mean?",
+    "correct": "I agree",
+    "wrong": ["I remember", "I am right", "I accord"],
+    "explanation": "'Estoy de acuerdo' means 'I agree'. The opposite is 'estoy en desacuerdo' or 'no estoy de acuerdo' (I disagree)."
+  },
+  "q_vocab_b1_10_004": {
+    "question": "What does 'además' mean?",
+    "correct": "furthermore / besides",
+    "wrong": ["however", "therefore", "although"],
+    "explanation": "'Además' means 'furthermore', 'moreover', or 'besides'. It's used to add information to an argument."
+  },
+  "q_vocab_b1_10_005": {
+    "question": "In conclusion, education is the key to progress.",
+    "correct": "En conclusión, la educación es la clave del progreso.",
+    "wrong": ["Sin embargo, la educación es la clave del progreso.", "Por un lado, la educación es la clave del progreso.", "A pesar de, la educación es la clave del progreso."],
+    "explanation": "'En conclusión' means 'in conclusion'. It's used to summarize the main point of an argument or essay."
+  },
+  "q_vocab_b1_10_006": {
+    "question": "What does 'a pesar de' mean?",
+    "correct": "despite / in spite of",
+    "wrong": ["because of", "apart from", "according to"],
+    "explanation": "'A pesar de' means 'despite' or 'in spite of'. 'A pesar de la lluvia, salimos' means 'Despite the rain, we went out'."
+  },
+  "q_vocab_b1_10_007": {
+    "question": "You are in a debate and want to present two sides of an argument. Which expression do you use?",
+    "correct": "por un lado... por otro lado...",
+    "wrong": ["sin embargo... además...", "en conclusión... por lo tanto...", "aunque... a pesar de..."],
+    "explanation": "'Por un lado... por otro lado...' means 'on one hand... on the other hand...' It's used to present contrasting viewpoints.",
+    "context": "A classroom debate about whether social media is beneficial for society"
+  },
+  "q_vocab_b1_10_008": {
+    "question": "What does 'por lo tanto' mean?",
+    "correct": "therefore",
+    "wrong": ["for the moment", "for that reason only", "on the other hand"],
+    "explanation": "'Por lo tanto' means 'therefore' or 'consequently'. It introduces a logical conclusion from previous statements."
+  },
+  "q_vocab_b1_10_009": {
+    "question": "Aunque el examen fue difícil, todos los estudiantes aprobaron.",
+    "correct": "Although the exam was difficult, all the students passed.",
+    "wrong": ["Because the exam was difficult, all the students passed.", "Despite the exam, all the students failed.", "Therefore the exam was difficult, and all the students passed."],
+    "explanation": "'Aunque' means 'although' or 'even though'. It introduces a concessive clause. 'Aprobar' means 'to pass'."
+  },
+  "q_vocab_b1_10_010": {
+    "question": "You want to strongly emphasize that something is true in a debate. Which expression fits best?",
+    "correct": "sin duda",
+    "wrong": ["sin embargo", "por un lado", "a pesar de"],
+    "explanation": "'Sin duda' means 'without a doubt' or 'undoubtedly'. It's used to strongly affirm a statement.",
+    "context": "Making your final point in a persuasive essay about renewable energy"
+  },
+  "q_vocab_b1_11_001": {
+    "question": "What does 'tratamiento' mean in a medical context?",
+    "correct": "treatment",
+    "wrong": ["treaty", "deal", "procedure"],
+    "explanation": "'Tratamiento' means 'treatment'. 'Seguir un tratamiento' means 'to follow a treatment' prescribed by a doctor."
+  },
+  "q_vocab_b1_11_002": {
+    "question": "What does 'diagnóstico' mean?",
+    "correct": "diagnosis",
+    "wrong": ["diagnostic test", "prognosis", "prescription"],
+    "explanation": "'Diagnóstico' means 'diagnosis'. The doctor gives a 'diagnóstico' after examining the patient."
+  },
+  "q_vocab_b1_11_003": {
+    "question": "El médico me mandó un ___ para comprobar mis niveles de colesterol.",
+    "correct": "análisis de sangre",
+    "wrong": ["tratamiento", "diagnóstico", "operación"],
+    "explanation": "'Análisis de sangre' means 'blood test'. The sentence means 'The doctor ordered a blood test to check my cholesterol levels.'"
+  },
+  "q_vocab_b1_11_004": {
+    "question": "What does 'vacuna' mean?",
+    "correct": "vaccine",
+    "wrong": ["vacation", "vacancy", "vacuum"],
+    "explanation": "'Vacuna' means 'vaccine'. 'Vacunarse' means 'to get vaccinated'. 'Ponerse una vacuna' means 'to get a vaccine'."
+  },
+  "q_vocab_b1_11_005": {
+    "question": "What does 'crónico' mean when a doctor describes an illness?",
+    "correct": "chronic (long-lasting)",
+    "wrong": ["critical (life-threatening)", "contagious", "curable"],
+    "explanation": "'Crónico' means 'chronic', referring to a condition that persists over a long time. 'Enfermedad crónica' means 'chronic illness'."
+  },
+  "q_vocab_b1_11_006": {
+    "question": "The patient is recovering after the surgery.",
+    "correct": "El paciente se está recuperando después de la cirugía.",
+    "wrong": ["El paciente se está operando después de la cirugía.", "El paciente se está diagnosticando después de la cirugía.", "El paciente se está vacunando después de la cirugía."],
+    "explanation": "'Recuperarse' means 'to recover'. 'Cirugía' (or 'operación') means 'surgery'. Recovery follows an operation."
+  },
+  "q_vocab_b1_11_007": {
+    "question": "What does 'síntoma' mean?",
+    "correct": "symptom",
+    "wrong": ["syndrome", "signal", "system"],
+    "explanation": "'Síntoma' means 'symptom'. 'Los síntomas de la gripe' means 'flu symptoms'. Doctors ask about symptoms to make a diagnosis."
+  },
+  "q_vocab_b1_11_008": {
+    "question": "Llamé a la ambulancia porque mi padre tenía una urgencia.",
+    "correct": "I called the ambulance because my father had an emergency.",
+    "wrong": ["I called the specialist because my father had an allergy.", "I called the ambulance because my father had a treatment.", "I called the hospital because my father had a diagnosis."],
+    "explanation": "'Ambulancia' means 'ambulance'. 'Urgencia' means 'emergency'. You call an ambulance in medical emergencies."
+  },
+  "q_vocab_b1_11_009": {
+    "question": "You have a persistent allergic reaction. Who should you see?",
+    "correct": "un especialista en alergias",
+    "wrong": ["una ambulancia de urgencias", "un análisis de sangre", "una vacuna contra la alergia"],
+    "explanation": "'Especialista' means 'specialist'. For persistent allergies ('alergias'), you should see an allergy specialist.",
+    "context": "Experiencing recurring skin rashes and sneezing for several weeks"
+  },
+  "q_vocab_b1_11_010": {
+    "question": "Your doctor says you need ongoing care for a condition that won't fully go away. How does the doctor describe it?",
+    "correct": "Es una enfermedad crónica que requiere tratamiento continuo.",
+    "wrong": ["Es una urgencia que requiere una operación inmediata.", "Es una alergia que requiere una vacuna nueva.", "Es un síntoma que requiere un análisis de sangre."],
+    "explanation": "'Enfermedad crónica' means 'chronic illness'. 'Tratamiento continuo' means 'ongoing treatment'. Chronic conditions require long-term management.",
+    "context": "A follow-up appointment where your doctor explains a long-term health condition"
+  },
+  "q_vocab_b1_12_001": {
+    "question": "What does 'receta' mean in a cooking context?",
+    "correct": "recipe",
+    "wrong": ["receipt", "prescription", "reservation"],
+    "explanation": "'Receta' means 'recipe' in cooking. It also means 'prescription' in a medical context. 'Seguir una receta' means 'to follow a recipe'."
+  },
+  "q_vocab_b1_12_002": {
+    "question": "Primero hay que ___ las patatas antes de freírlas.",
+    "correct": "pelar",
+    "wrong": ["hornear", "hervir", "mezclar"],
+    "explanation": "'Pelar' means 'to peel'. The sentence means 'First you have to peel the potatoes before frying them.'"
+  },
+  "q_vocab_b1_12_003": {
+    "question": "What does 'hervir' mean?",
+    "correct": "to boil",
+    "wrong": ["to fry", "to bake", "to grill"],
+    "explanation": "'Hervir' means 'to boil'. 'Hervir el agua' means 'to boil the water'. It's one of the most basic cooking techniques."
+  },
+  "q_vocab_b1_12_004": {
+    "question": "What does 'sartén' mean?",
+    "correct": "frying pan",
+    "wrong": ["pot", "oven", "blender"],
+    "explanation": "'Sartén' means 'frying pan'. 'Freír en la sartén' means 'to fry in the pan'. It can be feminine or masculine depending on the region."
+  },
+  "q_vocab_b1_12_005": {
+    "question": "I need to chop the onions for the sauce.",
+    "correct": "Necesito picar las cebollas para la salsa.",
+    "wrong": ["Necesito pelar las cebollas para la salsa.", "Necesito hervir las cebollas para la salsa.", "Necesito hornear las cebollas para la salsa."],
+    "explanation": "'Picar' means 'to chop' or 'to mince'. 'Cebolla' means 'onion'. Chopping is different from peeling ('pelar')."
+  },
+  "q_vocab_b1_12_006": {
+    "question": "What does 'hornear' mean?",
+    "correct": "to bake",
+    "wrong": ["to boil", "to fry", "to roast on a grill"],
+    "explanation": "'Hornear' means 'to bake' (in an oven). It comes from 'horno' (oven). 'Hornear un pastel' means 'to bake a cake'."
+  },
+  "q_vocab_b1_12_007": {
+    "question": "You're making a stew and need to cook it gently for a long time. What instruction do you follow?",
+    "correct": "cocinar a fuego lento",
+    "wrong": ["freír a fuego alto", "hornear a fuego rápido", "hervir a fuego máximo"],
+    "explanation": "'A fuego lento' means 'on low heat' or 'to simmer'. Stews are typically cooked slowly on low heat for the best flavor.",
+    "context": "Following a traditional Spanish stew recipe in the kitchen"
+  },
+  "q_vocab_b1_12_008": {
+    "question": "What does 'añadir' mean in a recipe?",
+    "correct": "to add",
+    "wrong": ["to remove", "to mix", "to taste"],
+    "explanation": "'Añadir' means 'to add'. In recipes, you often see 'añadir sal al gusto' (add salt to taste)."
+  },
+  "q_vocab_b1_12_009": {
+    "question": "Mezcla todos los ingredientes en la olla y ponla en el horno.",
+    "correct": "Mix all the ingredients in the pot and put it in the oven.",
+    "wrong": ["Chop all the ingredients in the pan and put it in the oven.", "Mix all the recipes in the pot and put it on the stove.", "Boil all the ingredients in the pan and put it in the microwave."],
+    "explanation": "'Mezclar' means 'to mix'. 'Olla' means 'pot'. 'Horno' means 'oven'. This is a common cooking instruction."
+  },
+  "q_vocab_b1_12_010": {
+    "question": "You want to make grilled chicken for dinner. Which cooking method do you use?",
+    "correct": "asar el pollo",
+    "wrong": ["hervir el pollo", "pelar el pollo", "picar el pollo"],
+    "explanation": "'Asar' means 'to roast' or 'to grill'. 'Asar el pollo' means 'to roast/grill the chicken'. It gives meat a crispy exterior.",
+    "context": "Preparing a Sunday family dinner with a barbecue"
+  },
+  "q_vocab_b1_13_001": {
+    "question": "What does 'alquilar' mean?",
+    "correct": "to rent",
+    "wrong": ["to buy", "to sell", "to build"],
+    "explanation": "'Alquilar' means 'to rent'. 'Alquilar un piso' means 'to rent an apartment'. It can mean both to rent out and to rent from someone."
+  },
+  "q_vocab_b1_13_002": {
+    "question": "What does 'hipoteca' mean?",
+    "correct": "mortgage",
+    "wrong": ["hypothesis", "apartment", "rent"],
+    "explanation": "'Hipoteca' means 'mortgage'. 'Pedir una hipoteca' means 'to apply for a mortgage' at a bank to buy property."
+  },
+  "q_vocab_b1_13_003": {
+    "question": "Nos ___ a un barrio más tranquilo el mes que viene.",
+    "correct": "mudamos",
+    "wrong": ["alquilamos", "reformamos", "compramos"],
+    "explanation": "'Mudarse' means 'to move (house)'. The sentence means 'We are moving to a quieter neighborhood next month.'"
+  },
+  "q_vocab_b1_13_004": {
+    "question": "What does 'propietario' mean?",
+    "correct": "owner / landlord",
+    "wrong": ["tenant", "real estate agent", "neighbor"],
+    "explanation": "'Propietario' means 'owner' or 'landlord'. The person who owns a property. The tenant is 'inquilino'."
+  },
+  "q_vocab_b1_13_005": {
+    "question": "What does 'inquilino' mean?",
+    "correct": "tenant",
+    "wrong": ["landlord", "neighbor", "architect"],
+    "explanation": "'Inquilino' means 'tenant', the person who rents and lives in a property owned by someone else."
+  },
+  "q_vocab_b1_13_006": {
+    "question": "We need to renovate the kitchen before selling the house.",
+    "correct": "Necesitamos reformar la cocina antes de vender la casa.",
+    "wrong": ["Necesitamos alquilar la cocina antes de vender la casa.", "Necesitamos mudarnos de la cocina antes de vender la casa.", "Necesitamos comprar la cocina antes de vender la casa."],
+    "explanation": "'Reformar' means 'to renovate' or 'to remodel'. Renovating before selling can increase property value."
+  },
+  "q_vocab_b1_13_007": {
+    "question": "What does 'gastos' refer to in the context of renting?",
+    "correct": "expenses / utility costs",
+    "wrong": ["gas supply", "garage", "garden maintenance"],
+    "explanation": "'Gastos' means 'expenses'. In renting, it refers to utility costs like water, electricity, and community fees."
+  },
+  "q_vocab_b1_13_008": {
+    "question": "El piso está en las afueras de la ciudad, pero tiene buen transporte.",
+    "correct": "The apartment is on the outskirts of the city, but it has good transportation.",
+    "wrong": ["The apartment is in the center of the city, but it has good transportation.", "The house is outside the country, but it has good transportation.", "The apartment is on the outskirts of the city, but it has a good garage."],
+    "explanation": "'Afueras' means 'outskirts' or 'suburbs'. 'Piso' means 'apartment' in Spain. Living on the outskirts often means cheaper rent."
+  },
+  "q_vocab_b1_13_009": {
+    "question": "You found an apartment you like. What do you need to sign before moving in?",
+    "correct": "un contrato de alquiler",
+    "wrong": ["una hipoteca bancaria", "una reforma del piso", "un gasto de comunidad"],
+    "explanation": "'Contrato de alquiler' means 'rental contract/lease'. You must sign a lease before moving into a rented apartment.",
+    "context": "Meeting with a landlord to finalize renting an apartment in Madrid"
+  },
+  "q_vocab_b1_13_010": {
+    "question": "You live in a building and share common areas with other residents. What monthly fee do you pay?",
+    "correct": "los gastos de comunidad",
+    "wrong": ["el alquiler del barrio", "la hipoteca del edificio", "el contrato de las afueras"],
+    "explanation": "'Gastos de comunidad' means 'community fees'. In Spanish apartment buildings, residents pay monthly fees for shared areas and services.",
+    "context": "Receiving the monthly bill for your apartment building's shared expenses"
+  },
+  "q_vocab_b1_14_001": {
+    "question": "What does 'pobreza' mean?",
+    "correct": "poverty",
+    "wrong": ["poor quality", "population", "power"],
+    "explanation": "'Pobreza' means 'poverty'. 'Vivir en la pobreza' means 'to live in poverty'. It's a major global social issue."
+  },
+  "q_vocab_b1_14_002": {
+    "question": "Muchos ___ tuvieron que abandonar su país por la guerra.",
+    "correct": "refugiados",
+    "wrong": ["voluntarios", "solidarios", "discriminados"],
+    "explanation": "'Refugiados' means 'refugees'. The sentence means 'Many refugees had to leave their country because of the war.'"
+  },
+  "q_vocab_b1_14_003": {
+    "question": "What does 'desigualdad' mean?",
+    "correct": "inequality",
+    "wrong": ["disability", "disagreement", "disgrace"],
+    "explanation": "'Desigualdad' means 'inequality'. 'Desigualdad social' means 'social inequality', referring to unequal distribution of resources and opportunities."
+  },
+  "q_vocab_b1_14_004": {
+    "question": "What does 'discriminación' mean?",
+    "correct": "discrimination",
+    "wrong": ["discretion", "description", "discouragement"],
+    "explanation": "'Discriminación' means 'discrimination'. 'Luchar contra la discriminación' means 'to fight against discrimination'."
+  },
+  "q_vocab_b1_14_005": {
+    "question": "The NGO helps immigrants integrate into society.",
+    "correct": "La ONG ayuda a los inmigrantes a integrarse en la sociedad.",
+    "wrong": ["La ONG ayuda a los voluntarios a integrarse en la sociedad.", "La ONG ayuda a los inmigrantes a discriminarse en la sociedad.", "La ONG ayuda a los refugiados a excluirse de la sociedad."],
+    "explanation": "'ONG' means 'NGO' (non-governmental organization). 'Integrarse' means 'to integrate'. NGOs often help with immigrant integration."
+  },
+  "q_vocab_b1_14_006": {
+    "question": "What does 'voluntariado' mean?",
+    "correct": "volunteering / voluntary work",
+    "wrong": ["volunteer person", "voluntary donation", "voluntary retirement"],
+    "explanation": "'Voluntariado' means 'volunteering' or 'voluntary work'. 'Hacer voluntariado' means 'to do volunteer work'."
+  },
+  "q_vocab_b1_14_007": {
+    "question": "Your community center organizes help for underprivileged families. What kind of work is this?",
+    "correct": "trabajo solidario",
+    "wrong": ["trabajo discriminatorio", "trabajo exclusivo", "trabajo violento"],
+    "explanation": "'Solidario' means 'supportive' or 'charitable'. 'Trabajo solidario' refers to charitable or solidarity work that helps those in need.",
+    "context": "A neighborhood initiative collecting food and clothing for families in need"
+  },
+  "q_vocab_b1_14_008": {
+    "question": "What does 'exclusión social' mean?",
+    "correct": "social exclusion",
+    "wrong": ["social exception", "exclusive society", "social excursion"],
+    "explanation": "'Exclusión social' means 'social exclusion', when individuals or groups are marginalized from participating fully in society."
+  },
+  "q_vocab_b1_14_009": {
+    "question": "La violencia de género es un problema grave que afecta a toda la sociedad.",
+    "correct": "Gender-based violence is a serious problem that affects all of society.",
+    "wrong": ["Gender inequality is a serious problem that affects all of society.", "Social violence is a serious problem that affects all of the country.", "Domestic discrimination is a serious problem that affects all of society."],
+    "explanation": "'Violencia de género' means 'gender-based violence'. It's a widely discussed social issue in Spain and Latin America."
+  },
+  "q_vocab_b1_14_010": {
+    "question": "You want to help refugees in your city. What can you do?",
+    "correct": "Colaborar con una ONG que apoya a refugiados.",
+    "wrong": ["Discriminar a los refugiados de la ciudad.", "Excluir a los refugiados de la sociedad.", "Ignorar la inmigración en la ciudad."],
+    "explanation": "'Colaborar' means 'to collaborate' or 'to help'. Working with NGOs is one of the best ways to support refugees.",
+    "context": "Looking for ways to contribute to your local refugee support network"
+  }
+}

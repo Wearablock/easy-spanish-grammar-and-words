@@ -1,0 +1,962 @@
+{
+  "q_gram_c1_01_001": {
+    "question": "Ojalá ___ más tiempo libre el año pasado. (tener)",
+    "correct": "hubiera tenido",
+    "wrong": ["tuviera", "tendría", "tenía"],
+    "explanation": "'ojalá' 뒤에 실현되지 않은 과거의 소망을 표현할 때는 과거완료 접속법(hubiera + 과거분사)을 사용합니다. 'tuviera'는 현재의 반사실적 소망을 나타내므로 과거 맥락에서는 부적절합니다."
+  },
+  "q_gram_c1_01_002": {
+    "question": "Quizás la situación ___ diferente si hubiéramos actuado antes. (ser)",
+    "correct": "hubiera sido",
+    "wrong": ["fuera", "sería", "fue"],
+    "explanation": "'quizás'와 과거완료 접속법을 사용하면 가정적 과거 결과에 대한 의심을 표현합니다. 조건절(si hubiéramos actuado)도 과거완료 접속법이므로 결과절도 'hubiera sido'가 필요합니다."
+  },
+  "q_gram_c1_01_003": {
+    "question": "'como si' 뒤에 접속법은 무엇을 표현하며, 어떤 시제가 올 수 있는가?",
+    "correct": "비현실적 비교를 표현하며, 불완료 과거 접속법 또는 과거완료 접속법만 올 수 있다",
+    "wrong": ["실제 비교를 표현하며, 현재 접속법이나 직설법이 올 수 있다", "목적을 표현하며, 모든 접속법 시제가 올 수 있다", "시간 관계를 표현하며, 현재 접속법만 온다"],
+    "explanation": "'como si'(마치 ~인 것처럼)는 항상 비현실적 또는 가정적 비교를 도입합니다. 스페인어 문법에서는 불완료 과거 접속법(현재 비현실)이나 과거완료 접속법(과거 비현실)만 사용할 수 있으며, 현재 접속법은 절대 올 수 없습니다."
+  },
+  "q_gram_c1_01_004": {
+    "question": "Ella actúa como si no ___ nada de lo ocurrido. (saber, 불완료 과거 접속법)",
+    "correct": "supiera",
+    "wrong": ["sepa", "sabía", "supiese"],
+    "explanation": "'como si' 뒤에는 현재의 비현실적 비교를 표현하기 위해 불완료 과거 접속법이 필요합니다. 'supiera'는 불규칙 점과거 어간 sup-에서 온 -ra 형태입니다. 참고: 'supiese'도 문법적으로 맞지만 여기서는 -ra 형태가 정답입니다.",
+    "conjugation_info": "saber (불완료 과거 접속법): supiera, supieras, supiera, supiéramos, supierais, supieran"
+  },
+  "q_gram_c1_01_005": {
+    "question": "Por más que ___ convencerlo, no cambió de opinión. (intentar)",
+    "correct": "intentara",
+    "wrong": ["intentó", "intentaba", "intentaría"],
+    "explanation": "'por más que'(아무리 ~해도)는 양보 접속사로 접속법을 요구합니다. 주절이 점과거('no cambió')이므로 종속절에서는 불완료 과거 접속법 'intentara'가 필요합니다."
+  },
+  "q_gram_c1_01_006": {
+    "question": "Ojalá que los dirigentes ___ una solución antes de la crisis. (encontrar, 과거완료 접속법, ellos 형태)",
+    "correct": "hubieran encontrado",
+    "wrong": ["encontraran", "habrían encontrado", "encontrasen"],
+    "explanation": "'ojalá que'와 과거완료 접속법은 일어나지 않은 과거 사건에 대한 후회의 소망을 표현합니다. 과거완료 접속법은 hubieran + 과거분사로 만듭니다.",
+    "conjugation_info": "encontrar (과거완료 접속법): hubiera encontrado, hubieras encontrado, hubiera encontrado, hubiéramos encontrado, hubierais encontrado, hubieran encontrado"
+  },
+  "q_gram_c1_01_007": {
+    "question": "Habla con tanta autoridad como si ___ un experto en la materia. (ser)",
+    "correct": "fuera",
+    "wrong": ["es", "sea", "fue"],
+    "explanation": "'como si' 뒤에는 불완료 과거 접속법 또는 과거완료 접속법만 문법적으로 올 수 있습니다. 그가 실제로 전문가가 아닌 현재 진행 중인 비현실적 비교이므로 불완료 과거 접속법 'fuera'가 정답입니다."
+  },
+  "q_gram_c1_01_008": {
+    "question": "아마 기차가 지연되지 않았다면 그들은 제시간에 도착했을 것이다.",
+    "correct": "Quizás hubieran llegado a tiempo si el tren no se hubiera retrasado.",
+    "wrong": ["Quizás llegaran a tiempo si el tren no se retrasara.", "Tal vez llegarían a tiempo si el tren no se retrasó.", "Quizás habrían llegado a tiempo si el tren no se retrasaría."],
+    "explanation": "'quizás'와 과거의 반사실적 표현은 과거완료 접속법을 사용합니다. si절도 과거완료 접속법('hubiera retrasado')을 사용합니다. 격식체에서는 'habrían llegado'보다 'hubieran llegado'가 선호됩니다."
+  },
+  "q_gram_c1_01_009": {
+    "question": "Aunque se lo ___ mil veces, jamás lo habría creído. (decir, 과거완료 접속법, nosotros 형태)",
+    "correct": "hubiéramos dicho",
+    "wrong": ["dijéramos", "habríamos dicho", "diríamos"],
+    "explanation": "양보의 'aunque'와 반사실적 과거 상황은 과거완료 접속법을 요구합니다. 'decir'의 nosotros 과거완료 접속법 형태는 'hubiéramos dicho'로, 불규칙 과거분사 'dicho'를 사용합니다.",
+    "conjugation_info": "decir (과거완료 접속법): hubiera dicho, hubieras dicho, hubiera dicho, hubiéramos dicho, hubierais dicho, hubieran dicho"
+  },
+  "q_gram_c1_01_010": {
+    "question": "Por más que se esforzara, nunca lograba satisfacer las expectativas de su mentor.",
+    "correct": "아무리 노력해도 그는 멘토의 기대를 충족시키지 못했다.",
+    "wrong": ["더 노력할수록 멘토의 기대를 더 잘 충족시켰다.", "열심히 노력했지만 항상 멘토의 기대를 충족시켰다.", "아무리 노력하더라도 멘토의 기대를 절대 충족시키지 못할 것이다."],
+    "explanation": "'por más que' + 불완료 과거 접속법은 양보적 의미를 표현합니다: 반복된 노력에도 불구하고 결과는 항상 같았습니다. 불완료 시제('esforzara', 'lograba')는 과거의 습관적 상황을 나타냅니다."
+  },
+
+  "q_gram_c1_02_001": {
+    "question": "Apenas hubo ___ la noticia, salió corriendo hacia la estación. (oír, 전과거)",
+    "correct": "oído",
+    "wrong": ["oyó", "oía", "oído había"],
+    "explanation": "전과거(pretérito anterior: hubo + 과거분사)는 'apenas'(~하자마자)와 같은 시간 접속사 뒤에서 다른 과거 행위 직전에 완료된 행위를 나타냅니다. 'oír'의 과거분사는 'oído'입니다.",
+    "conjugation_info": "oír (전과거): hube oído, hubiste oído, hubo oído, hubimos oído, hubisteis oído, hubieron oído"
+  },
+  "q_gram_c1_02_002": {
+    "question": "No bien ___ terminado el discurso, el público estalló en aplausos. (haber, 전과거)",
+    "correct": "hubo",
+    "wrong": ["había", "ha", "habría"],
+    "explanation": "'no bien'(~하자마자)은 전과거를 유발하며, haber의 점과거 + 과거분사를 사용합니다. 'hubo terminado'는 연설이 끝나자마자 청중이 박수를 쳤음을 나타냅니다."
+  },
+  "q_gram_c1_02_003": {
+    "question": "Donde ___ leyes, los ciudadanos estarán protegidos. (haber, 미래 접속법)",
+    "correct": "hubiere",
+    "wrong": ["haya", "habrá", "hubiera"],
+    "explanation": "미래 접속법('hubiere')은 법률 및 속담 표현에서만 살아남아 있습니다. 이 법률체 문장에서 'donde hubiere leyes'는 '법이 있는 곳이라면 어디서나'를 의미합니다. 현대 일상 스페인어에서는 현재 접속법 'haya'를 대신 사용합니다."
+  },
+  "q_gram_c1_02_004": {
+    "question": "현대 스페인어에서 전과거(hubo cantado)는 어떤 맥락에서 나타나는가?",
+    "correct": "거의 문학 텍스트에서만, apenas, en cuanto, no bien, tan pronto como 같은 시간 접속사 뒤에서 나타난다",
+    "wrong": ["일상 구어에서 최근 완료된 행위를 표현할 때 사용된다", "격식 비즈니스 서신에서 점과거를 대체하여 사용된다", "언론에서 속보 사건을 기술할 때 사용된다"],
+    "explanation": "전과거는 구어에서는 사실상 사라졌고 문어에서도 드뭅니다. 나타날 때는 시간 접속사(apenas, en cuanto, no bien, tan pronto como) 뒤에서 점과거 행위 직전의 즉각적 선행을 표시합니다. 현대에서는 단순 점과거가 대체합니다."
+  },
+  "q_gram_c1_02_005": {
+    "question": "Quien ___ de buena fe, será protegido por la ley. (obrar, 미래 접속법)",
+    "correct": "obrare",
+    "wrong": ["obre", "obrará", "obrara"],
+    "explanation": "미래 접속법('obrare')은 법률 텍스트와 고정 표현에서 사용됩니다. 'Quien obrare de buena fe'는 '선의로 행동하는 자는 누구든'이라는 법률 문구입니다. 현대 비법률 스페인어에서는 현재 접속법 'obre'를 사용합니다.",
+    "conjugation_info": "obrar (미래 접속법): obrare, obrares, obrare, obráremos, obrareis, obraren"
+  },
+  "q_gram_c1_02_006": {
+    "question": "Apenas hubo ___ la puerta, se dio cuenta de que había olvidado las llaves dentro. (cerrar, 전과거)",
+    "correct": "cerrado",
+    "wrong": ["cerró", "cerraba", "cerrando"],
+    "explanation": "전과거 구문 'hubo + 과거분사'에서 'cerrar'의 과거분사는 'cerrado'입니다. 이 시제는 주절의 점과거 동사 'se dio cuenta' 직전에 완료된 행위를 표시합니다."
+  },
+  "q_gram_c1_02_007": {
+    "question": "이 규정을 위반하는 자는 누구든 제재를 받게 된다.",
+    "correct": "Quien contraviniere esta disposición quedará sujeto a sanciones.",
+    "wrong": ["Quien contravenga esta disposición queda sujeto a sanciones.", "Quien contravendría esta disposición estaría sujeto a sanciones.", "Quien contravino esta disposición fue sujeto a sanciones."],
+    "explanation": "법률 스페인어에서는 미래 접속법('contraviniere')을 법적 규정의 가정적 미래 행위에 사용합니다. 현대 일상어에서는 현재 접속법 'contravenga'를 대신 사용합니다."
+  },
+  "q_gram_c1_02_008": {
+    "question": "En cuanto hubo ___ el documento, lo envió por correo certificado. (firmar, 전과거)",
+    "correct": "firmado",
+    "wrong": ["firmó", "firmaba", "firmando"],
+    "explanation": "'en cuanto'(~하자마자) 뒤에 전과거 'hubo firmado'는 서명이 발송 직전에 완료되었음을 표현합니다. 'firmar'의 과거분사는 규칙적으로 'firmado'입니다."
+  },
+  "q_gram_c1_02_009": {
+    "question": "Adonde fueres, haz lo que vieres.",
+    "correct": "가는 곳마다 그곳의 풍습을 따르라. (로마에서는 로마법을 따르라)",
+    "wrong": ["네가 갔던 곳에서 본 것을 하라.", "갈 곳에서 볼 것을 하라.", "떠나면 시키는 대로 하라."],
+    "explanation": "이 속담은 미래 접속법('fueres', 'vieres')을 사용하며, 이 시제는 고정된 격언에서만 살아남아 있습니다. '로마에서는 로마법을 따르라'에 해당하는 스페인어 속담입니다."
+  },
+  "q_gram_c1_02_010": {
+    "question": "Si así lo ___ el tribunal, se procederá al embargo de los bienes. (disponer, 미래 접속법, él 형태)",
+    "correct": "dispusiere",
+    "wrong": ["disponga", "dispondrá", "dispusiera"],
+    "explanation": "법률체에서 미래 접속법 'dispusiere'는 잠재적 미래 판결을 지칭하는 조건절에 사용됩니다. 어간은 불규칙 점과거 'dispuso'에서 옵니다: dispusier- + 미래 접속법 어미.",
+    "conjugation_info": "disponer (미래 접속법): dispusiere, dispusieres, dispusiere, dispusiéremos, dispusiereis, dispusieren"
+  },
+
+  "q_gram_c1_03_001": {
+    "question": "De ___ la verdad, no habría aceptado el trabajo. (saber)",
+    "correct": "haber sabido",
+    "wrong": ["saber", "sabiendo", "haber sido sabido"],
+    "explanation": "'de + 완료 부정사'는 'si + 과거완료 접속법'을 대체하는 간결한 문어체 구문입니다. 'De haber sabido' = 'Si hubiera sabido' (알았더라면). 과거 반사실적 표현에는 완료 부정사(haber + 과거분사)가 필요합니다."
+  },
+  "q_gram_c1_03_002": {
+    "question": "Si hubiera estudiado más, ahora ___ un mejor puesto. (tener)",
+    "correct": "tendría",
+    "wrong": ["tuviera", "hubiera tenido", "tenía"],
+    "explanation": "이것은 혼합 조건문입니다: si절은 과거(과거완료 접속법 'hubiera estudiado')를 가리키고 주절은 현재의 결과(조건법 'tendría')를 가리킵니다. 이렇게 시간대를 혼합하는 것은 C1 수준의 문법 특징입니다."
+  },
+  "q_gram_c1_03_003": {
+    "question": "스페인어에서 '혼합 조건문'이란 무엇이며 언제 사용하는가?",
+    "correct": "si절과 주절이 서로 다른 시간대를 가리키는 조건문으로, 과거 조건에 현재 결과를 결합하는 경우 등에 사용된다",
+    "wrong": ["같은 절 안에서 직설법과 접속법을 혼합하는 조건문", "'si'와 'cuando'를 동시에 조건 표지로 사용하는 문장", "if절에서 두 개의 다른 주어를 결합하는 조건문"],
+    "explanation": "혼합 조건문은 일반적인 시간대 짝을 깨뜨립니다. 예: 'Si hubiera nacido en España(과거), hablaría español perfectamente(현재)'. 과거의 비현실적 조건과 현재의 비현실적 결과를 혼합합니다."
+  },
+  "q_gram_c1_03_004": {
+    "question": "Si no ___ tan orgulloso, le habría pedido disculpas hace tiempo. (ser, 불완료 과거 접속법, él 형태)",
+    "correct": "fuera",
+    "wrong": ["sería", "fue", "hubiera sido"],
+    "explanation": "또 다른 혼합 조건문: si절은 지속적 성격 특성을 기술(불완료 과거 접속법 'fuera' = 그렇게 자존심이 강하지 않다면)하고, 결과절은 과거를 가리킵니다(조건법 완료 'habría pedido').",
+    "conjugation_info": "ser (불완료 과거 접속법): fuera, fueras, fuera, fuéramos, fuerais, fueran"
+  },
+  "q_gram_c1_03_005": {
+    "question": "De no ___ por tu ayuda, nunca habríamos terminado a tiempo. (ser)",
+    "correct": "ser",
+    "wrong": ["haber sido", "siendo", "fuera"],
+    "explanation": "'de no ser por'는 '~이 아니었다면'이라는 뜻의 고정 표현입니다. 다른 'de + 부정사' 구문과 달리, 이 표현은 시간 참조에 관계없이 단순 부정사 'ser'를 사용합니다."
+  },
+  "q_gram_c1_03_006": {
+    "question": "Yo que tú, no ___ en ese negocio. (invertir, 조건법, yo 형태)",
+    "correct": "invertiría",
+    "wrong": ["invirtiera", "invierto", "invertí"],
+    "explanation": "'yo que tú'(내가 너라면)는 si절을 완전히 생략한 함축 조건문입니다. 주절은 조건법을 사용합니다. 'Si yo fuera tú, no invertiría en ese negocio'와 동일합니다.",
+    "conjugation_info": "invertir (조건법): invertiría, invertirías, invertiría, invertiríamos, invertiríais, invertirían"
+  },
+  "q_gram_c1_03_007": {
+    "question": "Con un poco más de experiencia, ___ haber conseguido el puesto. (poder)",
+    "correct": "podría",
+    "wrong": ["pudiera", "puede", "pudo"],
+    "explanation": "'con + 명사구'가 si절을 대체하여 함축 조건을 표현할 수 있습니다. 'Con un poco más de experiencia' = 'Si tuviera un poco más de experiencia'. 주절은 조건법 'podría'를 사용합니다."
+  },
+  "q_gram_c1_03_008": {
+    "question": "통역사가 없었다면 협상은 실패했을 것이다.",
+    "correct": "De no haber sido por el intérprete, las negociaciones habrían fracasado.",
+    "wrong": ["Si no fuera por el intérprete, las negociaciones fracasaron.", "Sin el intérprete, las negociaciones fracasaban.", "De no ser el intérprete, las negociaciones hubieran fracasado."],
+    "explanation": "'de no haber sido por'는 'de no ser por'의 과거 버전으로, 과거 반사실적 표현에 완료 부정사를 사용합니다. 주절은 조건법 완료 'habrían fracasado'로 실현되지 않은 결과를 표현합니다."
+  },
+  "q_gram_c1_03_009": {
+    "question": "Si ella no ___ tanto, habría disfrutado más del viaje. (quejarse, 과거완료 접속법, ella 형태)",
+    "correct": "se hubiera quejado",
+    "wrong": ["se quejara", "se habría quejado", "se quejó"],
+    "explanation": "재귀동사 'quejarse'의 과거완료 접속법은 'se hubiera quejado'입니다. 과거 반사실적 si절에서 재귀대명사 'se'는 조동사 'hubiera' 앞에 옵니다.",
+    "conjugation_info": "quejarse (과거완료 접속법): me hubiera quejado, te hubieras quejado, se hubiera quejado, nos hubiéramos quejado, os hubierais quejado, se hubieran quejado"
+  },
+  "q_gram_c1_03_010": {
+    "question": "De haberlo previsto, habríamos tomado las medidas oportunas con suficiente antelación.",
+    "correct": "그것을 예견했더라면, 충분히 미리 적절한 조치를 취했을 것이다.",
+    "wrong": ["그것을 예견했기 때문에 미리 적절한 조치를 취했다.", "그것을 예견함으로써 적절한 조치를 미리 취했다.", "그것을 예견하면 충분히 일찍 필요한 조치를 취했을 것이다."],
+    "explanation": "'de haberlo previsto'는 'si lo hubiéramos previsto'(예견했더라면)의 문어체 대체 표현입니다. 완료 부정사 'haber previsto'는 과거 반사실적 상황을 나타냅니다. 'con suficiente antelación'은 '충분히 미리'를 의미합니다."
+  },
+
+  "q_gram_c1_04_001": {
+    "question": "El orador señaló, ___, que la reforma era imprescindible. (dicho esto → 격식 담화 표지)",
+    "correct": "dicho esto",
+    "wrong": ["diciendo esto", "esto dicho", "al decir esto"],
+    "explanation": "'dicho esto'(이상을 말한 후/그렇게 말한 후)는 절대 분사 구문을 사용한 담화 표지입니다. 격식 연설과 글쓰기에서 이전 요점과 새로운 주장을 연결하는 전환 표현으로 기능합니다.",
+    "conjugation_info": "decir (과거분사): dicho — 절대 분사 구문에 사용: dicho esto, dicho lo cual, dicho de otro modo"
+  },
+  "q_gram_c1_04_002": {
+    "question": "___, las cifras demuestran que la economía se está recuperando. (en cualquier caso)",
+    "correct": "En cualquier caso",
+    "wrong": ["En todo caso", "De cualquier forma", "Sea como sea"],
+    "explanation": "'en cualquier caso'(어떤 경우든)는 앞선 논증에 관계없이 유효한 결론을 도입하는 격식 담화 표지입니다. 'en todo caso'와 'de cualquier forma'도 비슷하지만, 'en cualquier caso'가 가장 격식적입니다."
+  },
+  "q_gram_c1_04_003": {
+    "question": "No hemos recibido respuesta; ___, debemos seguir adelante con el proyecto. (no obstante)",
+    "correct": "no obstante",
+    "wrong": ["sin embargo", "a pesar de ello", "con todo"],
+    "explanation": "'no obstante'(그럼에도 불구하고)는 대조적 아이디어를 도입하는 격식 역접 연결어입니다. 문어와 학술 스페인어에서 자주 사용되며, 세미콜론 뒤에 위치하는 것이 격식 산문의 전형적 형태입니다."
+  },
+  "q_gram_c1_04_004": {
+    "question": "'por consiguiente'와 'en resumidas cuentas'는 담화 표지로서 어떤 차이가 있는가?",
+    "correct": "'por consiguiente'는 논리적 결과를 도입하고, 'en resumidas cuentas'는 논의된 모든 것의 요약이나 결론을 도입한다",
+    "wrong": ["둘 다 교환 가능하며 같은 논리적 관계를 표현한다", "'por consiguiente'는 비격식이고 'en resumidas cuentas'는 격식이다", "'por consiguiente'는 대조를 도입하고 'en resumidas cuentas'는 원인을 도입한다"],
+    "explanation": "'por consiguiente'(따라서)는 인과 관계를 설정하고, 'en resumidas cuentas'(요컨대)는 여러 요점을 최종 평가로 종합합니다. 논리적 연역 vs. 요약이라는 서로 다른 텍스트 기능을 수행합니다."
+  },
+  "q_gram_c1_04_005": {
+    "question": "La inversión fue arriesgada; ___, los beneficios superaron las expectativas. (ahora bien → 격식체 '그런데/한편')",
+    "correct": "ahora bien",
+    "wrong": ["por lo tanto", "es decir", "en efecto"],
+    "explanation": "'ahora bien'(그런데/한편)은 앞서 진술한 내용에 대한 제한, 뉘앙스, 또는 대조적 관점을 도입하는 격식 담화 표지입니다. 완전한 모순 없이 논증의 전환을 알립니다.",
+    "conjugation_info": "주요 격식 담화 표지: ahora bien (그런데), dicho esto (이상을 말한 후), a este respecto (이와 관련하여), en resumidas cuentas (요컨대)"
+  },
+  "q_gram_c1_04_006": {
+    "question": "___, la propuesta carece de fundamento jurídico suficiente. (a este respecto)",
+    "correct": "A este respecto",
+    "wrong": ["Con respecto a", "Al respecto de", "En este aspecto"],
+    "explanation": "'a este respecto'(이와 관련하여)는 현재 진술을 이전에 언급된 주제에 연결하는 격식 담화 표지입니다. 'al respecto'보다 더 정확하며 필자가 특정 요점을 다루고 있음을 알립니다."
+  },
+  "q_gram_c1_04_007": {
+    "question": "그렇게 말한 후, 우리는 프로젝트의 환경적 영향을 고려해야 합니다.",
+    "correct": "Dicho esto, debemos considerar el impacto medioambiental del proyecto.",
+    "wrong": ["Diciendo eso, debemos considerar el impacto ambiental del proyecto.", "Habiendo dicho, tenemos que considerar el impacto ecológico del proyecto.", "Esto dicho, necesitamos considerar el impacto del medioambiente del proyecto."],
+    "explanation": "'dicho esto'는 '그렇게 말한 후/이상을 전제로'에 해당하는 표준 스페인어 담화 표지입니다. 절대 분사 구문을 사용합니다. 'diciendo eso'는 담화 연결어로서는 부자연스럽습니다."
+  },
+  "q_gram_c1_04_008": {
+    "question": "Las medidas adoptadas fueron insuficientes; ___, no se puede negar que representaron un primer paso. (con todo)",
+    "correct": "con todo",
+    "wrong": ["por todo", "de todo", "ante todo"],
+    "explanation": "'con todo'(그럼에도 불구하고)는 앞선 요점을 인정하면서 완화하는 반론을 도입하는 격식 양보 연결어입니다. 'sin embargo'보다 덜 흔하지만 특정 학술 및 문학 체재에서 선호됩니다."
+  },
+  "q_gram_c1_04_009": {
+    "question": "En resumidas cuentas, el proyecto ha sido un éxito rotundo a pesar de las dificultades iniciales.",
+    "correct": "요컨대, 초기 어려움에도 불구하고 프로젝트는 압도적인 성공이었다.",
+    "wrong": ["어떤 경우든 프로젝트는 초기 문제에도 불구하고 성공이었다.", "회계를 요약하면, 초기 도전에도 불구하고 프로젝트가 성공했다.", "그 결과 프로젝트는 어려움에도 불구하고 완전히 성공적으로 판명되었다."],
+    "explanation": "'en resumidas cuentas'(요컨대/간단히 말해)는 요약 담화 표지입니다. 'rotundo'는 '압도적인/단호한'을 의미합니다. 이 표현은 화자가 최종 평가로 논증을 마무리하고 있음을 알립니다."
+  },
+  "q_gram_c1_04_010": {
+    "question": "Sea ___ fuere, la decisión ya ha sido tomada y no hay vuelta atrás. (como, ser의 미래 접속법)",
+    "correct": "como",
+    "wrong": ["cual", "lo que", "cuando"],
+    "explanation": "'sea como fuere'(어찌 되었든)는 미래 접속법 'fuere'를 사용하는 고정 양보 표현입니다. 이 고정 표현을 완성하는 데 필요한 단어는 'como'입니다. 미래 접속법의 일반적 퇴화에도 불구하고 격식 연설에서 살아남은 표현입니다.",
+    "conjugation_info": "ser (미래 접속법): fuere, fueres, fuere, fuéremos, fuereis, fueren — 'sea como fuere' 같은 고정 표현에서만 사용"
+  },
+
+  "q_gram_c1_05_001": {
+    "question": "En un correo formal a un desconocido: 'Le ___ que me informara sobre los requisitos de admisión.' (agradecer, 조건법, yo 형태)",
+    "correct": "agradecería",
+    "wrong": ["agradezco", "agradeceré", "agradecí"],
+    "explanation": "모르는 사람에게 보내는 격식 서신에서 조건법 'agradecería'는 요청을 부드럽게 만들어 현재나 미래 직설법보다 정중합니다. 'Le agradecería que...'는 표준 격식 요청 공식입니다."
+  },
+  "q_gram_c1_05_002": {
+    "question": "En un texto académico, es preferible escribir: 'Se ___ que los resultados confirman la hipótesis.' (observar)",
+    "correct": "observa",
+    "wrong": ["observo", "ha observado", "observé"],
+    "explanation": "학술 스페인어에서는 비인칭 'se' 구문('se observa que')을 사용하여 객관성과 거리감을 유지합니다. 1인칭('observo')은 스페인어 학술 글쓰기에서 일반적으로 피합니다."
+  },
+  "q_gram_c1_05_003": {
+    "question": "'tú', 'usted', 'vos'의 격식과 지역적 사용에서의 주요 차이점은?",
+    "correct": "'tú'는 비격식이며 스페인과 대부분의 라틴아메리카에서 사용; 'usted'는 격식이며 보편적; 'vos'는 비격식이며 아르헨티나, 우루과이, 중미, 콜롬비아 일부에서 사용",
+    "wrong": ["'tú'는 스페인에서만 사용; 'usted'는 라틴아메리카에서 사용; 'vos'는 고어이며 더 이상 사용되지 않음", "'tú'와 'vos'는 의미와 활용이 동일; 'usted'는 노인 화자에게만 사용", "'vos'는 'usted'보다 더 격식적이며 외교적 맥락에서 사용"],
+    "explanation": "세 가지 구분은 격식과 지리 모두를 반영합니다. 'vos'는 고어가 아니라 리오데라플라타 지역, 중미 등에서 수백만 명이 적극적으로 사용합니다. 각 형태는 특히 현재 시제와 명령법에서 서로 다른 동사 활용을 유발합니다."
+  },
+  "q_gram_c1_05_004": {
+    "question": "En Argentina, la forma voseante del presente indicativo de 'tener' es: Vos ___. (tener, 보세오, 현재 직설법)",
+    "correct": "tenés",
+    "wrong": ["tienes", "tenéis", "tenes"],
+    "explanation": "아르헨티나 보세오에서 현재 직설법은 마지막 음절에 강세가 옵니다: vos tenés, vos querés, vos podés. -er 동사의 경우 강세는 마지막 -és에 옵니다. 'tú tienes'와 'vosotros tenéis' 모두와 다릅니다.",
+    "conjugation_info": "tener (보세오 현재 직설법): vos tenés — 비교: tú tienes, vosotros tenéis"
+  },
+  "q_gram_c1_05_005": {
+    "question": "En una carta de reclamación formal: 'Por la presente, ___ mi más enérgica protesta ante la situación descrita.' (formular)",
+    "correct": "formulo",
+    "wrong": ["formularía", "formulé", "he formulado"],
+    "explanation": "격식 항의 서신에서 'por la presente'(이 서신으로) 뒤에는 격식 선언을 하기 위해 현재 직설법이 옵니다. 'Formulo mi protesta'는 글을 쓰는 행위 자체가 항의 행위를 구성하는 수행적 발화입니다. 조건법은 항의를 약화시킵니다."
+  },
+  "q_gram_c1_05_006": {
+    "question": "Vos ___ venir cuando quieras. (poder, 보세오 현재 직설법)",
+    "correct": "podés",
+    "wrong": ["puedes", "podéis", "podes"],
+    "explanation": "보세오 지역에서 'vos podés'는 'tú puedes'를 대체합니다. -er 동사의 보세오 형태는 마지막 음절에 강세와 악센트 부호가 옵니다.",
+    "conjugation_info": "poder (보세오 현재): vos podés — 보세오 명령법 형태: vos hablá (hablar), vos comé (comer), vos decí (decir)"
+  },
+  "q_gram_c1_05_007": {
+    "question": "Sentá ___ a mi lado, por favor. (vos, 보세오, sentarse의 재귀 명령법)",
+    "correct": "te",
+    "wrong": ["se", "os", "le"],
+    "explanation": "'vos'의 재귀대명사는 'tú'와 같은 'te'입니다. 'sentarse'의 보세오 명령법은 'sentate'(일부 방언에서는 'sentá te'로 두 단어)입니다. 재귀대명사는 투테오와 보세오 사이에서 변하지 않습니다."
+  },
+  "q_gram_c1_05_008": {
+    "question": "요청한 정보를 가능한 빨리 보내주시면 감사하겠습니다.",
+    "correct": "Le agradecería que me enviara la información solicitada a la mayor brevedad posible.",
+    "wrong": ["Te agradezco que me envíes la información cuando puedas.", "Agradecería que me mandes la información solicitada lo antes posible.", "Le agradeceré que me envíe la información pedida cuanto antes."],
+    "explanation": "격식 스페인어 서신에서는 정중한 요청을 위해 'Le agradecería que' + 불완료 과거 접속법을 사용합니다. 'A la mayor brevedad posible'은 '가능한 빨리'의 표준 격식 표현입니다. 'tú' 형태나 현재 직설법은 너무 비격식적입니다."
+  },
+  "q_gram_c1_05_009": {
+    "question": "Los datos ___ por los investigadores deben ser analizados con cautela. (recopilar, 과거분사, 격식 학술체)",
+    "correct": "recopilados",
+    "wrong": ["recopilando", "que recopilan", "recopilaron"],
+    "explanation": "학술체에서는 간결함을 위해 관계절('datos que fueron recopilados por...')보다 과거분사구('datos recopilados por...')를 선호합니다. 과거분사는 수식하는 명사와 성수 일치합니다: 'datos'(남성 복수) → 'recopilados'.",
+    "conjugation_info": "recopilar (과거분사): recopilado/recopilada/recopilados/recopiladas — 학술 구문에서 수식 명사와 일치"
+  },
+  "q_gram_c1_05_010": {
+    "question": "Estimado señor Director: Me dirijo a usted con el fin de solicitar una audiencia para tratar un asunto de suma importancia.",
+    "correct": "존경하는 이사님께: 매우 중요한 사안을 논의하기 위해 면담을 요청하고자 이 서신을 보내드립니다.",
+    "wrong": ["친애하는 이사님: 매우 중요한 무언가에 대해 면담을 요청하려 연락합니다.", "존경하는 이사님: 대단히 중요한 사안을 처리하기 위한 청문을 요청할 목적으로 귀하에게 제 자신을 보냅니다.", "이사님께: 가장 중요한 사안에 대해 면담을 요청하기 위해 연락드립니다."],
+    "explanation": "'me dirijo a usted'는 스페인어 격식 서신의 표준 서두입니다(직역의 '나 자신을 보낸다'가 아님). 'Solicitar una audiencia'는 '면담을 요청하다', 'de suma importancia'는 '매우 중요한'을 의미합니다."
+  }
+,
+  "q_gram_c1_06_001": {
+    "question": "El niño ___ a llorar en cuanto vio al médico. (echarse, 점과거, él 형태)",
+    "correct": "se echó",
+    "wrong": ["se puso", "echó", "se echa"],
+    "explanation": "'echarse a + 부정사'는 '갑자기 ~하기 시작하다'를 의미하며, 갑작스럽고 종종 비자발적인 시작을 나타냅니다. 점과거에서 'echarse'는 'se echó'로 활용됩니다. 'ponerse a'도 가능하지만 문제에서 'echarse'를 지정하고 있습니다.",
+    "conjugation_info": "echarse (점과거): me eché, te echaste, se echó, nos echamos, os echasteis, se echaron"
+  },
+  "q_gram_c1_06_002": {
+    "question": "La situación ___ empeorando con el paso de los meses. (ir + 현재분사)",
+    "correct": "iba empeorando",
+    "wrong": ["fue empeorando", "empeoró", "venía empeorando"],
+    "explanation": "'ir + 현재분사'는 점진적이고 진행적인 발전을 표현합니다. 'iba empeorando'는 수개월에 걸친 악화의 진행 중인 성격을 강조합니다. 'fue empeorando'도 가능하지만(완료된 점진적 과정), 'iba'가 진행 중인 악화를 더 잘 포착합니다."
+  },
+  "q_gram_c1_06_003": {
+    "question": "Últimamente, los precios ___ subiendo sin parar. (venir + 현재분사)",
+    "correct": "vienen subiendo",
+    "wrong": ["van subiendo", "andan subiendo", "están subiendo"],
+    "explanation": "'venir + 현재분사'는 과거의 한 시점에서 현재까지 축적되어 온 행위를 강조합니다. 'últimamente'(최근에)는 현재까지 이어진 물가 상승의 누적적 궤적을 강조하므로 이 우언법을 유발합니다."
+  },
+  "q_gram_c1_06_004": {
+    "question": "우언법으로서 'ir + 현재분사'와 'venir + 현재분사'의 차이점은 무엇인가?",
+    "correct": "'ir + 현재분사'는 시간상 앞으로 나아가는 점진적 진행을, 'venir + 현재분사'는 과거에서 현재를 향해 축적되어 온 행위를 표현한다",
+    "wrong": ["둘은 교환 가능하며 모두 '점진적으로 무언가를 하고 있다'를 의미한다", "'ir + 현재분사'는 과거 행위에, 'venir + 현재분사'는 미래 행위에 사용된다", "'ir + 현재분사'는 문자적으로 '가면서 하다', 'venir + 현재분사'는 문자적으로 '오면서 하다'를 의미한다"],
+    "explanation": "방향 은유가 핵심입니다: 'ir'는 화자에게서 멀어지며(앞으로의 진행), 'venir'는 화자를 향합니다(현재를 향한 축적). 'Las quejas van aumentando'(불만이 점점 증가하고 있다) vs. 'Las quejas vienen aumentando desde enero'(1월부터 불만이 쌓여오고 있다)."
+  },
+  "q_gram_c1_06_005": {
+    "question": "La empresa ___ a implementar las nuevas políticas el mes pasado. (ponerse, 점과거, ella 형태)",
+    "correct": "se puso",
+    "wrong": ["se ponía", "puso", "se ha puesto"],
+    "explanation": "'ponerse a + 부정사'는 '(의지를 갖고) ~하기 시작하다'를 의미합니다. 의도적인 시작을 함축합니다. 점과거에서 'ponerse'는 'se puso'로 활용되며, 재귀대명사가 이 우언법에 필수적입니다.",
+    "conjugation_info": "ponerse (점과거): me puse, te pusiste, se puso, nos pusimos, os pusisteis, se pusieron"
+  },
+  "q_gram_c1_06_006": {
+    "question": "El profesor ___ explicando el tema una y otra vez, pero nadie entendía. (andar + 현재분사)",
+    "correct": "andaba explicando",
+    "wrong": ["iba explicando", "venía explicando", "estaba explicando"],
+    "explanation": "'andar + 현재분사'는 반복적이거나 습관적인 행위를 표현하며, 종종 목적 없음이나 끈질김의 뉘앙스를 지닙니다. 'andaba explicando'는 아무도 이해하지 못하는 맥락에 맞게, 교수가 아마도 좌절하며 반복적으로 설명했음을 시사합니다."
+  },
+  "q_gram_c1_06_007": {
+    "question": "보고서를 막 다 쓰자마자 상사가 전화했다.",
+    "correct": "Acababa de terminar de escribir el informe cuando su jefe llamó.",
+    "wrong": ["Acaba de terminar de escribir el informe cuando su jefe llama.", "Acabó de terminar de escribir el informe cuando su jefe llamó.", "Había acabado de terminar el informe cuando su jefe llamaba."],
+    "explanation": "'acabar de + 부정사'를 불완료 과거('acababa de')로 사용하면 과거에 '방금 ~했다'를 표현합니다. 이중 부정사 구문 'acababa de terminar de escribir'에 주목하세요. '방금 ~했다'의 의미를 위해 불완료 과거가 필요합니다."
+  },
+  "q_gram_c1_06_008": {
+    "question": "Con los años, ___ comprendiendo que la paciencia es una virtud indispensable. (ir + 현재분사, yo 형태, 현재완료)",
+    "correct": "he ido comprendiendo",
+    "wrong": ["fui comprendiendo", "iba comprendiendo", "he venido comprendiendo"],
+    "explanation": "'he ido comprendiendo'(점차 이해하게 되었다)는 'ir + 현재분사'를 현재완료에서 사용하여 과거에서 현재까지 이어지는 점진적 깨달음을 표현합니다. 'con los años'와 함께 현재완료 'he ido'가 선호되는 이유는 이 과정이 현재에도 유효하기 때문입니다."
+  },
+  "q_gram_c1_06_009": {
+    "question": "Los vecinos andaban quejándose del ruido que provenía del local nocturno.",
+    "correct": "이웃들은 나이트클럽에서 나오는 소음에 대해 계속 불평했다.",
+    "wrong": ["이웃들은 나이트클럽 소음에 대해 불평하면서 걸어 다녔다.", "이웃들은 야간 업소의 소음에 대해 한 번 불평하러 돌아다녔다.", "이웃들은 술집에서 나오는 소음에 대해 불평하기 시작했다."],
+    "explanation": "'andar + 현재분사'(andaban quejándose)는 반복적이고 지속적인 행위를 표현합니다 — 이웃들이 한 번이 아니라 계속 불평했다는 것입니다. 목적 없는 반복의 뉘앙스를 지닙니다. 'provenía'(provenir의 불완료 과거)는 소음이 지속적인 방해 원인이었음을 나타냅니다."
+  },
+  "q_gram_c1_06_010": {
+    "question": "Tras la reunión, el director ___ a redactar el acta inmediatamente. (proceder, 점과거, él 형태)",
+    "correct": "procedió",
+    "wrong": ["procedía", "ha procedido", "procede"],
+    "explanation": "'proceder a + 부정사'는 '~하기로 하다/착수하다'를 의미하는 격식 우언법입니다. 행정 및 법률 언어에서 흔한, 의도적이고 체계적인 행위의 시작을 함축합니다. 점과거 'procedió'는 완료된 단일 행위를 표시합니다.",
+    "conjugation_info": "proceder (점과거): procedí, procediste, procedió, procedimos, procedisteis, procedieron"
+  },
+
+  "q_gram_c1_07_001": {
+    "question": "Mi hermano ___ muy listo, siempre saca las mejores notas. (ser)",
+    "correct": "es",
+    "wrong": ["está", "fue", "estaba"],
+    "explanation": "'ser listo'는 '똑똒하다/영리하다'라는 내재적 특성을 의미합니다. 반면 'estar listo'는 '준비되었다'를 의미합니다. 문장은 항상 최고 점수를 받는 영구적 특성을 언급하므로 'ser'가 필요합니다."
+  },
+  "q_gram_c1_07_002": {
+    "question": "La puerta ___ abierta por el conserje todas las mañanas a las siete. (ser)",
+    "correct": "es",
+    "wrong": ["está", "fue", "estaba"],
+    "explanation": "이것은 'ser'를 사용한 습관적 수동태입니다('es abierta por el conserje'). 행위자가 명시되고('por el conserje') 수행되는 행위에 초점이 맞춰질 때, 'ser + 과거분사'가 수동태를 형성합니다. 'Estar abierta'는 행위가 아닌 결과 상태를 기술합니다."
+  },
+  "q_gram_c1_07_003": {
+    "question": "스페인어에서 'ser malo'와 'estar malo'의 차이점은 무엇인가?",
+    "correct": "'ser malo'는 '나쁘다/악하다'(내재적 성질)를, 'estar malo'는 '아프다/몸이 안 좋다'(일시적 상태)를 의미한다",
+    "wrong": ["'ser malo'는 음식에, 'estar malo'는 사람에 대해 사용된다", "둘 다 '나쁘다'를 의미하지만 'estar malo'가 더 격식적이다", "'ser malo'는 현재 상황에, 'estar malo'는 과거 상황에 사용된다"],
+    "explanation": "ser/estar와 'malo'의 구분은 완전한 의미 변화를 만듭니다: 'Ese hombre es malo'(그 남자는 악하다/나쁘다) vs. 'Ese hombre está malo'(그 남자는 아프다). 이것은 의미 변화가 시험되는 C1 수준에서 가장 중요한 ser/estar 대조 중 하나입니다."
+  },
+  "q_gram_c1_07_004": {
+    "question": "Todavía no ___ decidido si aceptaremos la oferta. (estar, 현재 직설법, nosotros 형태 → 결과적 estar)",
+    "correct": "estamos",
+    "wrong": ["somos", "hemos", "nos hemos"],
+    "explanation": "'estar decidido'는 결정 과정의 결과 상태를 기술합니다. 'No estamos decididos'는 '아직 결정을 내리지 못했다'를 의미합니다 — 결정 상태에 도달하지 않았습니다. 'Ser decidido'는 '결단력 있는 사람이다'(성격 특성)를 의미합니다.",
+    "conjugation_info": "estar (현재 직설법): estoy, estás, está, estamos, estáis, están"
+  },
+  "q_gram_c1_07_005": {
+    "question": "El café ___ frío; lo calentaré en el microondas. (estar)",
+    "correct": "está",
+    "wrong": ["es", "fue", "era"],
+    "explanation": "'estar frío'는 커피의 일시적이고 변할 수 있는 상태를 기술합니다. 'ser frío'를 사용하면 내재적 특성(예: '이 음료는 차가운 종류의 음료다')을 기술하게 됩니다. 커피가 따뜻한 상태에서 식었으므로 'estar'가 정답입니다."
+  },
+  "q_gram_c1_07_006": {
+    "question": "La novela ___ escrita por García Márquez en 1967. (ser, 점과거, ella 형태 — 행위자 포함 수동태)",
+    "correct": "fue",
+    "wrong": ["estuvo", "era", "estaba"],
+    "explanation": "행위자가 명시('por García Márquez')되고 과거에 완료된 행위를 수동태로 표현할 때, 점과거의 'ser'('fue escrita')가 정답입니다. 'Estar'는 집필 행위가 아닌 소설의 결과 상태를 기술합니다.",
+    "conjugation_info": "ser (점과거): fui, fuiste, fue, fuimos, fuisteis, fueron"
+  },
+  "q_gram_c1_07_007": {
+    "question": "La ventana ya ___ reparada cuando llegamos; el cristalero había venido por la mañana. (estar)",
+    "correct": "estaba",
+    "wrong": ["era", "fue", "estuvo"],
+    "explanation": "'estar + 과거분사'는 결과적 상태를 기술합니다: 우리가 도착했을 때 창문은 이미 수리된 상태였습니다. 불완료 과거 'estaba'는 도착 시점에서의 진행 중인 상태를 기술하기 때문에 사용됩니다. 'Ser'는 결과적 상태가 아닌 수리 행위의 수동을 나타냅니다."
+  },
+  "q_gram_c1_07_008": {
+    "question": "내 형은 파티에서 매우 지루한 사람인데, 내 여동생은 할 일이 없어서 지루해하고 있다.",
+    "correct": "Mi hermano es muy aburrido en las fiestas, pero mi hermana está aburrida porque no tiene nada que hacer.",
+    "wrong": ["Mi hermano está muy aburrido en las fiestas, pero mi hermana es aburrida porque no tiene nada que hacer.", "Mi hermano es muy aburrido en las fiestas, pero mi hermana es aburrida porque no tiene nada que hacer.", "Mi hermano está aburrido en las fiestas, pero mi hermana está aburrida porque no tiene nada que hacer."],
+    "explanation": "'ser aburrido'는 '지루한 사람이다'(형의 내재적 특성)를, 'estar aburrido'는 '지루해하다'(여동생의 일시적 상태)를 의미합니다. 같은 형용사에서 ser/estar에 따라 다른 의미가 생기는 대조는 C1 핵심 개념입니다."
+  },
+  "q_gram_c1_07_009": {
+    "question": "El acusado ___ absuelto por el tribunal tras un largo juicio. (ser, 점과거, 수동태, él 형태)",
+    "correct": "fue",
+    "wrong": ["estuvo", "era", "ha sido"],
+    "explanation": "'fue absuelto por el tribunal'은 'ser'를 사용한 수동태 구문입니다. 행위자('por el tribunal')가 확인되므로 수동태는 'estar'가 아닌 'ser'를 요구합니다. 점과거는 이것이 완료된 일회성 사건임을 표시합니다.",
+    "conjugation_info": "ser (점과거, 수동태): fue absuelto/a, fueron absueltos/as — 행위자구(por + 행위자)와 함께 사용"
+  },
+  "q_gram_c1_07_010": {
+    "question": "Juan es muy vivo y siempre encuentra soluciones creativas, pero hoy está vivo de milagro tras el accidente.",
+    "correct": "후안은 매우 영리해서 항상 창의적인 해결책을 찾지만, 오늘은 사고 후 기적적으로 살아있다.",
+    "wrong": ["후안은 매우 생생해서 항상 창의적인 해결책을 찾고, 오늘은 사고 후 기적적으로 살고 있다.", "후안은 매우 활발해서 항상 해결책을 찾지만, 오늘은 사고 후 기적으로 선명하다.", "후안은 매우 밝아서 항상 창의적 해결책을 찾지만, 오늘은 사고 후 기적적으로 활기차다."],
+    "explanation": "'ser vivo'는 '영리하다/재치 있다'(성격 특성)를, 'estar vivo'는 '살아있다'(존재 상태)를 의미합니다. 같은 문장에서 이 극적인 대조는 ser/estar가 형용사 'vivo'의 의미를 어떻게 완전히 바꿀 수 있는지를 보여줍니다."
+  },
+
+  "q_gram_c1_08_001": {
+    "question": "Dijo la profesora que el examen ___ más difícil de lo esperado. (ser, 미래 → 간접화법에서의 VS 도치)",
+    "correct": "sería",
+    "wrong": ["será", "fue", "era"],
+    "explanation": "문학/격식 간접화법에서 주어-동사 도치('dijo la profesora', 'la profesora dijo' 대신)가 사용되며, 종속절의 동사는 시제 일치에 따라 조건법('sería')으로 변합니다. 'dijo la profesora'의 도치는 문학 및 저널리즘 스페인어에서 흔한 문체적 선택입니다.",
+    "conjugation_info": "ser (조건법): sería, serías, sería, seríamos, seríais, serían"
+  },
+  "q_gram_c1_08_002": {
+    "question": "Bien ___ los antiguos que la sabiduría empieza con el asombro. (saber, 불완료 과거 — 문학적 VS 도치)",
+    "correct": "sabían",
+    "wrong": ["supieron", "saben", "sabrían"],
+    "explanation": "문학 스페인어에서는 문체적 효과를 위해 주어를 동사 뒤에 배치할 수 있습니다: 'Bien sabían los antiguos' 대신 'Los antiguos bien sabían'. 불완료 과거 'sabían'은 고대인들이 지녔던 일반적이고 습관적인 지식을 가리킵니다."
+  },
+  "q_gram_c1_08_003": {
+    "question": "Grande ___ la sorpresa de todos cuando se anunció el ganador. (ser, 점과거 — 전치 보어)",
+    "correct": "fue",
+    "wrong": ["era", "sería", "ha sido"],
+    "explanation": "이 문장은 강조를 위해 형용사 'grande'를 전치합니다: 'La sorpresa fue grande' 대신 'Grande fue la sorpresa'. 보어를 동사 앞에 놓는 이 주제화(topicalization)는 극적 효과를 위한 문학적 기법입니다. 점과거 'fue'는 특정하고 완료된 사건을 표시합니다."
+  },
+  "q_gram_c1_08_004": {
+    "question": "스페인어 통사론에서 '주제화(topicalization)'란 무엇이며 어떤 효과를 만드는가?",
+    "correct": "강조나 대조를 위해 구성요소(목적어, 보어, 부사)를 문장 앞으로 이동시키는 것으로, 종종 주어-동사 도치를 유발한다",
+    "wrong": ["담화 표지를 사용하여 문장 중간에 대화 주제를 바꾸는 것", "문단의 모든 문장에서 주제적 어휘를 주어로 사용하는 것", "명확성을 위해 문장의 처음과 끝에서 주요 주제를 반복하는 것"],
+    "explanation": "주제화는 비주어 요소를 문장 첫 위치로 전치하는 통사적 과정입니다. 스페인어에서는 종종 VS(동사-주어) 도치를 유발합니다: 'Ese libro lo compré ayer'(그 책은 어제 샀다). 강조, 대조를 만들거나 앞선 담화와 연결합니다."
+  },
+  "q_gram_c1_08_005": {
+    "question": "Así lo ___ el tribunal y así se cumplirá. (determinar, 현재완료, él 형태 — 격식/법률 VS 도치)",
+    "correct": "ha determinado",
+    "wrong": ["determinó", "determina", "determinará"],
+    "explanation": "법률 및 격식 언어에서 'así' 같은 전치 부사어는 종종 VS 도치를 유발합니다. 'Así lo ha determinado el tribunal'은 행위자가 아닌 방식('así' = 그렇게)에 강조를 둡니다. 현재완료는 과거 판결을 현재의 유효성과 연결합니다.",
+    "conjugation_info": "determinar (현재완료): he determinado, has determinado, ha determinado, hemos determinado, habéis determinado, han determinado"
+  },
+  "q_gram_c1_08_006": {
+    "question": "A sus hijos ___ dedicó toda su vida y su energía. (좌측 전위에 필요한 대명사)",
+    "correct": "les",
+    "wrong": ["los", "se", "le"],
+    "explanation": "'a sus hijos'는 강조를 위해 문장 앞으로 이동한 좌측 전위 간접목적어입니다. 스페인어에서 좌측 전위는 전위된 요소와 일치하는 재개 대명사('les')를 필요로 합니다. 'A sus hijos les dedicó toda su vida' = '자녀들에게 전 생애와 에너지를 바쳤다'."
+  },
+  "q_gram_c1_08_007": {
+    "question": "내 생애 이렇게 장관인 일몰을 본 적이 없다.",
+    "correct": "Nunca en mi vida he visto una puesta de sol tan espectacular.",
+    "wrong": ["Nunca he visto en mi vida una tan espectacular puesta de sol.", "En mi vida nunca había visto un atardecer así de espectacular.", "Jamás en la vida mía vi tal espectacular puesta de sol."],
+    "explanation": "전치된 부정 부사 'nunca en mi vida'는 영어에서는 주어-동사 도치('have I seen')를 유발하지만, 스페인어에서는 어순이 더 자연스럽게 유지됩니다: 'Nunca... he visto'. 스페인어는 영어처럼 전치 부정어 뒤에 조동사 도치를 요구하지 않습니다."
+  },
+  "q_gram_c1_08_008": {
+    "question": "Eso ___ lo que queríamos decirte desde el principio. (ser, 불완료 과거 — 유사분열문/전치 지시사)",
+    "correct": "era",
+    "wrong": ["fue", "es", "sería"],
+    "explanation": "'Eso era lo que queríamos decirte'는 전치 지시사가 있는 유사분열문입니다. 불완료 과거 'era'는 상황이 과거에 걸쳐 있기 때문에('desde el principio') 사용됩니다. 'eso'를 전치하면 지금 말하는 것과 처음부터 의도했던 것 사이의 동일성을 강조합니다."
+  },
+  "q_gram_c1_08_009": {
+    "question": "Mucho me temo que no será posible atender su solicitud en los plazos previstos.",
+    "correct": "유감스럽지만 예정된 기한 내에 귀하의 요청을 처리하는 것이 불가능할 것 같습니다.",
+    "wrong": ["귀하의 요청이 예측된 조건에서 처리될 수 없어 매우 두렵습니다.", "귀하의 청원을 예견된 기간 내에 처리하는 것이 불가능할까 크게 두려워합니다.", "예정된 기간 내에 귀하의 신청을 처리하는 것이 불가능하다고 크게 우려합니다."],
+    "explanation": "'mucho me temo que'는 격식적 효과를 위해 부사 'mucho'를 문장 첫 위치로 도치시킨 것입니다. '매우 유감스럽게도 ~인 것 같다'를 의미하는 고정 격식 표현입니다. 'atender su solicitud'는 '요청을 처리하다', 'en los plazos previstos'는 '예정된 기한 내에'를 의미합니다."
+  },
+  "q_gram_c1_08_010": {
+    "question": "Tal ___ la magnitud del desastre que el gobierno declaró el estado de emergencia. (ser, 점과거 — 강조를 위한 'tal' 전치)",
+    "correct": "fue",
+    "wrong": ["era", "es", "sería"],
+    "explanation": "'Tal fue la magnitud'는 극적 강조를 위해 'tal'(그러한)을 전치한 문학적 구문입니다. 점과거 'fue'는 완료된 사건을 표시합니다. 이 구조는 'La magnitud del desastre fue tal que...'와 동일하지만, 도치가 더 극적이고 문학적인 어조를 만듭니다.",
+    "conjugation_info": "ser (점과거): fui, fuiste, fue, fuimos, fuisteis, fueron — 문학적 전치 구문에서 흔히 사용: 'Tal fue...', 'Grande fue...', 'Así fue...'"
+  },
+
+  "q_gram_c1_09_001": {
+    "question": "Te presto el coche ___ lo devuelvas antes del viernes. (con tal de que)",
+    "correct": "con tal de que",
+    "wrong": ["con tal que", "con solo que", "a menos de que"],
+    "explanation": "'con tal de que'(~하는 한/~한다면)는 접속법을 요구하는 조건 접속사입니다. 화자가 차를 빌려주려는 조건을 설정합니다. 완전한 형태 'con tal de que'가 표준이며, 'con tal que'는 구어에서는 존재하지만 'con tal de que'가 정확한 용법에서 선호됩니다."
+  },
+  "q_gram_c1_09_002": {
+    "question": "No firmaré el contrato ___ mi abogado lo revise primero. (a menos que)",
+    "correct": "a menos que",
+    "wrong": ["a no ser que", "salvo que", "excepto que"],
+    "explanation": "'a menos que'(~하지 않는 한)는 부정적 조건을 도입하며 항상 접속법을 유발합니다. '변호사가 먼저 검토하지 않는 한 계약에 서명하지 않겠다'를 의미합니다. 'a no ser que'와 'salvo que'도 비슷한 의미이지만, 빈칸에는 'a menos que'가 요구됩니다."
+  },
+  "q_gram_c1_09_003": {
+    "question": "'dado que'와 'a fin de que'는 서법 선택에서 어떤 차이가 있는가?",
+    "correct": "'dado que'는 알려진 사실이나 이유를 도입하므로 직설법을, 'a fin de que'는 목적이나 목표를 도입하므로 접속법을 취한다",
+    "wrong": ["둘 다 종속절을 도입하므로 접속법을 취한다", "'dado que'는 접속법을, 'a fin de que'는 직설법을 취한다", "둘 다 화자의 확실성에 따라 어느 서법이든 취할 수 있다"],
+    "explanation": "'dado que'(~이므로/~인 점을 감안하면)는 확립된 사실을 진술하는 원인 접속사이므로 직설법을 취합니다: 'Dado que llueve, no saldremos'. 'A fin de que'(~하기 위해)는 목적을 표현하는데, 목적은 본질적으로 비사실적이므로 항상 접속법을 취합니다: 'Lo hice a fin de que entendieras'."
+  },
+  "q_gram_c1_09_004": {
+    "question": "Llegaremos a tiempo siempre y cuando no ___ tráfico en la autopista. (haber, 현재 접속법)",
+    "correct": "haya",
+    "wrong": ["hay", "habrá", "hubiera"],
+    "explanation": "'siempre y cuando'(~하는 한/~만 한다면)은 항상 접속법을 요구하는 조건 접속사입니다. 현재 접속법 'haya'는 조건이 미래의 가능성을 가리키기 때문에 필요합니다. 'hay'(직설법)는 이 접속사 뒤에 문법적으로 맞지 않습니다.",
+    "conjugation_info": "haber (현재 접속법): haya, hayas, haya, hayamos, hayáis, hayan"
+  },
+  "q_gram_c1_09_005": {
+    "question": "Organizaron la manifestación ___ las autoridades tomaran conciencia del problema. (a fin de que)",
+    "correct": "a fin de que",
+    "wrong": ["a fin que", "para que", "dado que"],
+    "explanation": "'a fin de que'(~하기 위해)는 접속법을 유발하는 목적 접속사입니다. 'para que'보다 더 격식적이며, 주로 문어나 격식 구어에서 나타납니다. 'de'가 포함된 완전한 형태가 필수입니다: 'a fin de que', 'a fin que'가 아닙니다."
+  },
+  "q_gram_c1_09_006": {
+    "question": "No podremos empezar la obra a menos que el ayuntamiento nos ___ el permiso. (conceder, 현재 접속법, él 형태)",
+    "correct": "conceda",
+    "wrong": ["concede", "concediera", "concederá"],
+    "explanation": "'a menos que'(~하지 않는 한)는 접속법을 요구합니다. 주절이 미래('no podremos')이므로, 충족해야 할 조건을 표현하기 위해 종속절은 현재 접속법 'conceda'를 사용합니다.",
+    "conjugation_info": "conceder (현재 접속법): conceda, concedas, conceda, concedamos, concedáis, concedan"
+  },
+  "q_gram_c1_09_007": {
+    "question": "Aceptaremos el acuerdo ___ no se modifiquen las cláusulas esenciales. (siempre y cuando)",
+    "correct": "siempre y cuando",
+    "wrong": ["siempre que", "mientras", "cuando"],
+    "explanation": "'siempre y cuando'은 'siempre que'보다 더 강조적이고 격식적입니다. 둘 다 '~하는 한'을 의미하며 접속법을 요구하지만, 'siempre y cuando'은 조건성을 더 강조합니다."
+  },
+  "q_gram_c1_09_008": {
+    "question": "공동체가 대화의 공간을 갖도록 행사를 조직했다.",
+    "correct": "Organizamos el evento a fin de que la comunidad tuviera un espacio de diálogo.",
+    "wrong": ["Organizamos el evento para la comunidad tener un espacio de diálogo.", "Organizamos el evento dado que la comunidad tenía un espacio de diálogo.", "Organizamos el evento a fin de que la comunidad tiene un espacio de diálogo."],
+    "explanation": "'a fin de que' + 접속법은 목적을 표현합니다. 주동사가 과거('organizamos' 점과거)이므로 종속절은 시제 일치에 따라 불완료 과거 접속법 'tuviera'를 사용합니다. 'a fin de que' 뒤에 직설법 'tiene'는 비문법적입니다."
+  },
+  "q_gram_c1_09_009": {
+    "question": "Dado que las circunstancias ___ cambiado drásticamente, debemos replantear toda la estrategia. (haber, 현재완료 직설법, 3인칭 복수)",
+    "correct": "han",
+    "wrong": ["hayan", "habían", "hubieran"],
+    "explanation": "'dado que'(~인 점을 감안하면)는 사실적 전제를 도입하므로 직설법을 취합니다. 현재완료 직설법 'han cambiado'는 사실을 진술합니다: 상황이 변했다. 접속법 'hayan'을 사용하면 'dado que'가 접속법을 유발하지 않으므로 비문법적입니다.",
+    "conjugation_info": "haber (현재 직설법): he, has, ha, hemos, habéis, han — 완료 시제의 조동사로 사용"
+  },
+  "q_gram_c1_09_010": {
+    "question": "Con tal de que todos los miembros estén de acuerdo, procederemos con la votación sin más demora.",
+    "correct": "모든 구성원이 동의하는 한, 더 이상의 지체 없이 투표를 진행하겠습니다.",
+    "wrong": ["모든 구성원이 동의하도록 지체 없이 투표를 진행하겠습니다.", "모든 구성원이 동의한다는 점을 감안하여 즉시 투표를 진행하겠습니다.", "모든 구성원이 동의할 것이므로 더 이상의 지연 없이 투표를 진행합니다."],
+    "explanation": "'con tal de que'는 '~하는 한'을 의미하며 조건을 설정합니다. 'estén de acuerdo'(estar의 현재 접속법)는 조건의 불확실한 성격을 반영합니다. 'sin más demora'는 '더 이상의 지체 없이'를 의미하는 격식 표현입니다."
+  },
+
+  "q_gram_c1_10_001": {
+    "question": "Terminada la reunión, los delegados ___ a sus respectivas oficinas. (regresar, 점과거, ellos 형태 — 절대 분사 구문)",
+    "correct": "regresaron",
+    "wrong": ["regresaban", "regresan", "regresarían"],
+    "explanation": "'Terminada la reunión'은 시간절을 대체하는 절대 분사 구문(participio absoluto)입니다: 'Cuando/Después de que se terminó la reunión'. 주절은 회의 후에 이어진 완료된 행위이므로 점과거를 사용합니다.",
+    "conjugation_info": "regresar (점과거): regresé, regresaste, regresó, regresamos, regresasteis, regresaron"
+  },
+  "q_gram_c1_10_002": {
+    "question": "Es imposible ___ sin que alguien se oponga. (aprobar la ley → que + 접속법을 대체하는 부정사)",
+    "correct": "aprobar la ley",
+    "wrong": ["que se apruebe la ley", "aprobando la ley", "la aprobación de la ley"],
+    "explanation": "주절의 주어가 비인칭('es imposible')일 때, 간결함을 위해 부정사가 'que + 접속법'을 대체할 수 있습니다: 'Es imposible aprobar la ley' vs. 'Es imposible que se apruebe la ley'. 둘 다 맞지만 부정사 구문이 더 간결합니다."
+  },
+  "q_gram_c1_10_003": {
+    "question": "Resueltos ___ los problemas técnicos, el lanzamiento pudo llevarse a cabo según lo previsto. ('resueltos' 앞에 함축된 단어는?)",
+    "correct": "ya",
+    "wrong": ["todos", "una vez", "cuando"],
+    "explanation": "절대 분사 구문에서 'ya'(이미)는 분사 앞에 종종 함축되거나 명시적으로 사용됩니다: '(Ya) resueltos los problemas técnicos' = '기술적 문제가 해결되자'. 분사는 명사와 일치합니다: 'resueltos'(남성 복수)는 'problemas'와 일치합니다."
+  },
+  "q_gram_c1_10_004": {
+    "question": "스페인어에서 '절대 분사 구문(cláusula de participio absoluto)'이란 무엇인가?",
+    "correct": "과거분사와 자체 주어를 가지며, 주절과 독립적인 종속절로, 시간적 또는 원인적 부사절로 기능한다",
+    "wrong": ["형용사의 절대 최상급 형태를 사용하는 절", "주절의 주어를 직접 수식하는 분사구", "완전한 문장으로 홀로 설 수 있는 현재분사를 사용한 절"],
+    "explanation": "'Terminada la obra'(공사가 끝나자)와 같은 절대 분사 구문은 주절 주어와 구별되는 자체 주어('la obra')를 갖습니다. 분사는 자체 주어와 성수 일치합니다. 이러한 구문은 격식 문학 스페인어의 특징이며 시간/원인 종속절을 대체합니다."
+  },
+  "q_gram_c1_10_005": {
+    "question": "Vistas las pruebas, el juez ___ dictar sentencia. (proceder, 점과거, él 형태 — 절대 분사 + 주절)",
+    "correct": "procedió",
+    "wrong": ["procedía", "procede", "procedería"],
+    "explanation": "'Vistas las pruebas'(증거가 검토되자)는 법률 스페인어에서 흔한 절대 분사 구문입니다. 여성 복수 'vistas'는 'las pruebas'와 일치합니다. 주절은 판결 선고가 단일 완료 행위이므로 점과거를 사용합니다.",
+    "conjugation_info": "proceder (점과거): procedí, procediste, procedió, procedimos, procedisteis, procedieron"
+  },
+  "q_gram_c1_10_006": {
+    "question": "Los estudiantes salieron del aula ___ terminado el examen. (시간적 의미를 위한 전치사: '~을 마치고')",
+    "correct": "habiendo",
+    "wrong": ["tras haber", "al haber", "después de haber"],
+    "explanation": "복합 현재분사 'habiendo terminado'(마치고 나서)는 즉각적 선행을 표현하는 현재분사절을 만듭니다. 'tras haber terminado'와 'después de haber terminado'도 유효하지만, 현재분사 형태가 가장 간결한 절 축약 기법입니다."
+  },
+  "q_gram_c1_10_007": {
+    "question": "모든 절차가 완료되자, 부동산 양도가 이루어졌다.",
+    "correct": "Cumplidas todas las formalidades, se efectuó la transferencia de la propiedad.",
+    "wrong": ["Cuando se cumplieron todas las formalidades, la transferencia tuvo lugar.", "Habiendo cumplido las formalidades, la propiedad fue transferida.", "Después de completar los trámites, ocurrió la transferencia del inmueble."],
+    "explanation": "'Cumplidas todas las formalidades'는 시간 관계를 가장 간결하게 표현하는 절대 분사 구문입니다. 분사 'cumplidas'는 'formalidades'(여성 복수)와 일치합니다. 이 구문은 법률 및 격식 문체의 특징입니다."
+  },
+  "q_gram_c1_10_008": {
+    "question": "No veo la necesidad de ___ ese tema ahora. (discutir → 'que discutamos'를 대체하는 부정사)",
+    "correct": "discutir",
+    "wrong": ["que discutamos", "discutiendo", "la discusión de"],
+    "explanation": "주절과 종속절의 주어가 겹칠 때(yo/nosotros), 부정사가 'que + 접속법'을 대체할 수 있습니다: 'No veo la necesidad de discutir'는 'No veo la necesidad de que discutamos'보다 간결합니다. 이 절 축약은 유창한 스페인어에서 자연스럽고 선호됩니다."
+  },
+  "q_gram_c1_10_009": {
+    "question": "Dicho lo cual, el embajador abandonó la sala sin mediar más explicaciones.",
+    "correct": "그렇게 말한 후, 대사는 더 이상의 설명 없이 방을 떠났다.",
+    "wrong": ["그것을 말하면서 대사는 더 많은 설명을 중재하지 않고 방을 포기했다.", "그것이 말해졌으므로 대사는 중간 설명 없이 방에서 나갔다.", "이것이 말해진 후, 대사는 더 이상의 말 없이 방에서 나갔다."],
+    "explanation": "'dicho lo cual'(그렇게 말한 후/이상을 전제로)은 담화 연결어로 사용되는 절대 분사 구문입니다. 'sin mediar más explicaciones'는 '더 이상의 설명 없이'를 의미합니다 — 여기서 'mediar'는 '개입하다/제공하다'를 뜻합니다."
+  },
+  "q_gram_c1_10_010": {
+    "question": "Oídas las partes, el tribunal ___ la sentencia en un plazo de diez días. (emitir, 미래 직설법, él 형태 — 절대 분사 뒤 법률체)",
+    "correct": "emitirá",
+    "wrong": ["emitió", "emite", "emitiría"],
+    "explanation": "'Oídas las partes'(당사자들의 진술을 들은 후)는 법률 문체의 절대 분사 구문입니다. 미래 직설법 'emitirá'는 법원의 판결 의무를 나타냅니다. 이것은 절차적 기술에 사용되는 표준 법률 용어입니다.",
+    "conjugation_info": "emitir (미래 직설법): emitiré, emitirás, emitirá, emitiremos, emitiréis, emitirán"
+  }
+,
+  "q_gram_c1_11_001": {
+    "question": "___ fue Juan quien resolvió el problema, no María. (강조 분열문)",
+    "correct": "Fue",
+    "wrong": ["Era", "Es", "Siendo"],
+    "explanation": "분열문(oración escindida)에서 'ser'는 강조하고자 하는 요소 앞에 위치합니다. 'Fue Juan quien...'은 'Juan이 바로 그 사람이다'라는 강조 구문입니다. 점과거 'fue'는 과거의 특정 행위를 가리키므로 'era'(불완료)보다 적절합니다."
+  },
+  "q_gram_c1_11_002": {
+    "question": "Lo que necesitamos ___ más tiempo para prepararnos. (ser, 유사 분열문, present indicative)",
+    "correct": "es",
+    "wrong": ["fue", "sea", "será"],
+    "explanation": "유사 분열문(pseudo-cleft)은 'lo que + 동사 + ser + 강조 요소' 형태를 취합니다. 'Lo que necesitamos es...'는 현재의 필요를 표현하므로 현재 직설법 'es'가 올바릅니다. 이 구문은 주어 위치에 관계절을 놓아 정보 초점을 이동시킵니다."
+  },
+  "q_gram_c1_11_003": {
+    "question": "스페인어에서 분열문(oración escindida)과 유사 분열문(pseudo-escindida)의 차이는 무엇인가?",
+    "correct": "분열문은 'ser + 강조 요소 + que/quien' 구조(Fue Juan quien lo hizo)이고, 유사 분열문은 'lo que + 동사 + ser + 강조 요소' 구조(Lo que hizo Juan fue resolver el problema)이다",
+    "wrong": ["분열문은 구어에서만, 유사 분열문은 문어에서만 사용된다", "분열문은 주어만 강조할 수 있고, 유사 분열문은 목적어만 강조할 수 있다", "분열문은 직설법을 사용하고, 유사 분열문은 항상 접속법을 사용한다"],
+    "explanation": "분열문(Fue María quien lo dijo)은 'ser + 강조 요소 + que/quien'으로 특정 요소를 분리하여 강조합니다. 유사 분열문(Lo que María dijo fue la verdad)은 관계절을 주어로 사용하여 정보를 재구성합니다. 둘 다 구어와 문어에서 사용됩니다."
+  },
+  "q_gram_c1_11_004": {
+    "question": "Fue a ella a quien le ___ el premio, no a él. (entregar, 점과거, pasiva refleja, 3인칭 단수)",
+    "correct": "entregaron",
+    "wrong": ["entregó", "entregaban", "entregarían"],
+    "explanation": "분열문 'fue a ella a quien...'에서 강조된 요소는 간접 목적어입니다. 주절 동사 'entregaron'은 3인칭 복수로 불특정 행위자(그들이/사람들이)를 나타냅니다. 점과거는 과거의 구체적 사건을 표현합니다.",
+    "conjugation_info": "entregar (점과거): entregué, entregaste, entregó, entregamos, entregasteis, entregaron"
+  },
+  "q_gram_c1_11_005": {
+    "question": "No ___ el dinero lo que me preocupa, sino la falta de tiempo. (ser, 강조 부정 분열문)",
+    "correct": "es",
+    "wrong": ["fue", "sea", "está"],
+    "explanation": "'No es X lo que... sino Y' 구문은 부정 분열문으로, 한 요소를 배제하고 다른 요소를 강조합니다. 'No es el dinero lo que me preocupa, sino la falta de tiempo'에서 현재 시제 'es'는 현재의 걱정을 나타냅니다."
+  },
+  "q_gram_c1_11_006": {
+    "question": "Lo que más me ___ de la película fue la banda sonora. (impresionar, 점과거, 3인칭 단수)",
+    "correct": "impresionó",
+    "wrong": ["impresiona", "impresionaba", "impresionaría"],
+    "explanation": "유사 분열문 'Lo que más me impresionó... fue...'에서 두 동사 모두 점과거입니다. 'impresionó'는 과거의 구체적 인상을 나타내며, 'fue'와 시제가 일치해야 합니다.",
+    "conjugation_info": "impresionar (점과거): impresioné, impresionaste, impresionó, impresionamos, impresionasteis, impresionaron"
+  },
+  "q_gram_c1_11_007": {
+    "question": "Fue ___ esta ciudad donde conocí a mi esposa, no en Madrid. (전치사 선택, 강조 분열문)",
+    "correct": "en",
+    "wrong": ["a", "de", "por"],
+    "explanation": "분열문에서 강조되는 요소가 장소일 때, 원래 문장의 전치사가 유지됩니다. 'Conocí a mi esposa en esta ciudad' → 'Fue en esta ciudad donde conocí a mi esposa'. 장소를 나타내는 전치사 'en'이 필요합니다."
+  },
+  "q_gram_c1_11_008": {
+    "question": "내가 가장 그리워하는 것은 조부모님의 집에서 보낸 여름이다.",
+    "correct": "Lo que más echo de menos son los veranos en casa de mis abuelos.",
+    "wrong": ["Que yo más extraño es los veranos en la casa de mis abuelos.", "Lo que más echo en falta es los veranos de la casa de mis abuelos.", "Lo más que extraño son los veranos en casa de mis abuelos."],
+    "explanation": "유사 분열문 'Lo que más echo de menos son...'에서 'echar de menos'는 '그리워하다'를 뜻합니다. 복수 보어('los veranos')와 일치하여 'son'이 사용됩니다. 'echar en falta'도 같은 뜻이지만, 이 문맥에서는 'echo de menos'가 가장 자연스럽습니다."
+  },
+  "q_gram_c1_11_009": {
+    "question": "Fueron los propios empleados quienes ___ la irregularidad a la dirección. (denunciar, 점과거, ellos 형태)",
+    "correct": "denunciaron",
+    "wrong": ["denunciaran", "denunciarían", "han denunciado"],
+    "explanation": "분열문 'Fueron los propios empleados quienes...'에서 관계절의 동사는 선행사 'los propios empleados'와 일치합니다. 주절의 'fueron'이 점과거이므로 종속절도 점과거 'denunciaron'을 사용합니다.",
+    "conjugation_info": "denunciar (점과거): denuncié, denunciaste, denunció, denunciamos, denunciasteis, denunciaron"
+  },
+  "q_gram_c1_11_010": {
+    "question": "Lo que me resulta verdaderamente incomprensible es que nadie haya denunciado semejante irregularidad.",
+    "correct": "내가 정말로 이해할 수 없는 것은 아무도 그러한 불법행위를 고발하지 않았다는 것이다.",
+    "wrong": ["내 결과로 이해할 수 없는 것은 아무도 비슷한 불법행위를 비난하지 않았다는 것이다.", "정말 이해하기 어려운 점은 아무도 그런 부정행위를 신고했다는 것이다.", "나에게 진정 불가해한 것은 누군가가 이러한 비리를 고발할 것이라는 점이다."],
+    "explanation": "이 유사 분열문은 화자의 당혹감을 강조합니다. 'resultar'는 여기서 '느끼다/여겨지다'를 뜻합니다(결과하다가 아님). 'haya denunciado'(현재완료 접속법)는 'es incomprensible que' 뒤에 완료된 행위에 대한 주관적 판단을 표현할 때 사용됩니다."
+  },
+
+  "q_gram_c1_12_001": {
+    "question": "En España se dice 'vosotros habláis', pero en Latinoamérica se dice 'ustedes ___'. (hablar, 현재 직설법, ustedes 형태)",
+    "correct": "hablan",
+    "wrong": ["habláis", "hablás", "hablad"],
+    "explanation": "라틴아메리카에서는 'vosotros'가 존재하지 않습니다. 2인칭 복수는 항상 'ustedes' + 3인칭 동사 형태를 사용합니다: 'ustedes hablan'. 스페인에서는 'vosotros habláis'가 비격식, 'ustedes hablan'이 격식입니다.",
+    "conjugation_info": "hablar — 스페인: vosotros habláis (비격식), ustedes hablan (격식) | 라틴아메리카: ustedes hablan (격식·비격식 모두)"
+  },
+  "q_gram_c1_12_002": {
+    "question": "En Argentina: '¿Vos ___ venir a la fiesta esta noche?' (querer, 보세오, 현재 직설법)",
+    "correct": "querés",
+    "wrong": ["quieres", "queréis", "querís"],
+    "explanation": "아르헨티나 보세오에서 -er 동사의 현재 직설법은 마지막 음절에 강세가 옵니다: 'vos querés'. 'quieres'의 이중모음 'ie'는 강세가 어미로 이동하여 발생하지 않습니다. 칠레 보세오는 'querís'를 사용하지만 아르헨티나 표준은 'querés'입니다."
+  },
+  "q_gram_c1_12_003": {
+    "question": "En España es común oír: 'Le vi a Juan en el parque.' Esto es un ejemplo de ___.",
+    "correct": "leísmo",
+    "wrong": ["laísmo", "loísmo", "dequeísmo"],
+    "explanation": "레이스모(leísmo)는 남성 직접 목적어(사람 지칭)에 'lo' 대신 'le'를 사용하는 현상입니다. 표준 스페인어는 'Lo vi a Juan'이 올바르지만, 스페인 카스티야 지방에서는 'Le vi a Juan'이 널리 사용되며 RAE도 남성 단수 인물 지칭에 한해 허용합니다."
+  },
+  "q_gram_c1_12_004": {
+    "question": "스페인과 라틴아메리카에서 현재완료(pretérito perfecto: he cantado)와 단순과거(pretérito indefinido: canté)의 사용에 있어 주요 차이점은 무엇인가?",
+    "correct": "스페인에서는 최근 또는 당일 과거 사건에 현재완료를 사용하지만('hoy he comido'), 라틴아메리카 대부분에서는 최근 사건에도 단순과거를 선호한다('hoy comí')",
+    "wrong": ["라틴아메리카가 스페인보다 모든 과거 사건에 현재완료를 더 자주 사용한다", "차이가 없으며 두 지역 모두 시제를 동일하게 사용한다", "스페인은 단순과거만, 라틴아메리카는 현재완료만 사용한다"],
+    "explanation": "이것은 주요 지역별 문법 차이입니다. 스페인 스페인어에서 'Esta mañana he desayunado temprano'가 자연스럽지만, 멕시코, 아르헨티나 등 라틴아메리카에서는 'Esta mañana desayuné temprano'가 선호됩니다. 라틴아메리카에서 현재완료는 현재와 명확한 관련성이 있는 행위에만 사용됩니다."
+  },
+  "q_gram_c1_12_005": {
+    "question": "En el voseo rioplatense, el imperativo de 'venir' es: '¡___!' (venir, 보세오 명령법)",
+    "correct": "Vení",
+    "wrong": ["Ven", "Venid", "Vení vos"],
+    "explanation": "'venir'의 보세오 명령법은 'vení'(마지막 음절에 강세)입니다. 부정사에서 -r을 제거하고 마지막 모음에 악센트를 추가하여 형성합니다: venir → vení. 투테오 명령법 'ven', 보소트로스 명령법 'venid'와 비교하세요.",
+    "conjugation_info": "venir (보세오 명령법): vení — 비교: tú ven, vosotros venid | 다른 예: decir → decí, salir → salí, poner → poné"
+  },
+  "q_gram_c1_12_006": {
+    "question": "La ___ di el regalo a María, no a su hermana. (대명사: 'a ella에게' — 'la' 사용 시 라이스모 예시)",
+    "correct": "Le",
+    "wrong": ["La", "Lo", "Se"],
+    "explanation": "'Le'가 'a María'의 올바른 간접 목적격 대명사입니다. 여기서 'la'를 사용하면 라이스모(laísmo)로, 여성 지시 대상에 'la'를 간접 목적어로 잘못 사용하는 것입니다. 라이스모는 스페인 중부에서 흔하지만 RAE에서 인정하지 않습니다."
+  },
+  "q_gram_c1_12_007": {
+    "question": "콜롬비아에서는 친한 친구나 가족 사이에서도 'usted'를 자주 사용한다.",
+    "correct": "En Colombia, a menudo dicen 'usted' incluso entre amigos cercanos y familiares.",
+    "wrong": ["En Colombia, normalmente dicen 'tú' incluso entre amigos y familia.", "En Colombia, frecuentemente utilizan 'vosotros' entre amigos íntimos.", "En Colombia, suelen decir 'vos' solamente entre amigos cercanos y familia."],
+    "explanation": "콜롬비아 여러 지역(특히 보고타와 안데스 고지대)에서 'usted'는 친한 친구, 가족, 심지어 연인 사이에서도 격식성 없이 사용됩니다. 이는 'usted'가 친밀한 맥락에서 격식적 함의를 잃은 독특한 지역적 특성입니다."
+  },
+  "q_gram_c1_12_008": {
+    "question": "En España: 'He ___ a casa hace un rato.' En México: '___ a casa hace un rato.' (llegar — 현재완료 vs. 단순과거 대조)",
+    "correct": "llegado / Llegué",
+    "wrong": ["llegado / He llegado", "llegué / Llegué", "llegado / Llegaba"],
+    "explanation": "스페인에서는 현재완료 'he llegado'가 최근 사건('hace un rato' = 조금 전)에 자연스럽습니다. 멕시코에서는 같은 맥락에서 단순과거 'llegué'가 강하게 선호됩니다. 이것은 과거 시제 사용의 핵심적인 지역 차이를 보여줍니다."
+  },
+  "q_gram_c1_12_009": {
+    "question": "Che, ¿por qué no nos juntamos mañana y tomamos unos mates?",
+    "correct": "야, 내일 만나서 마테차 마실래?",
+    "wrong": ["야, 내일 만나서 체크메이트 좀 할래?", "친구야, 내일 모여서 커피 좀 마실래?", "이봐, 내일 왜 안 만났어? 마테 좀 먹자."],
+    "explanation": "'Che'는 아르헨티나/우루과이에서 관심을 끌거나 동료 의식을 표현하는 감탄사입니다. 'Juntarse'는 '만나다/모이다'(리오데라플라타 용법)를 뜻합니다. 'Tomar unos mates'는 남미 전통 허브차인 마테를 마시는 것으로, 아르헨티나 사교 문화의 핵심입니다."
+  },
+  "q_gram_c1_12_010": {
+    "question": "En las Islas Canarias, el sistema pronominal se parece más al de Latinoamérica: se usa 'ustedes' en lugar de ___. (대명사, vosotros 형태)",
+    "correct": "vosotros",
+    "wrong": ["ellos", "nosotros", "usted"],
+    "explanation": "카나리아 제도는 스페인에 속하지만 라틴아메리카 스페인어와 여러 언어적 특징을 공유하며, 'vosotros'가 없는 것이 그 중 하나입니다. 카나리아 스페인어는 라틴아메리카처럼 격식·비격식 모두에서 'ustedes'를 2인칭 복수로 사용합니다.",
+    "conjugation_info": "카나리아 스페인어 대명사 체계: yo, tú, usted, nosotros, ustedes (vosotros 없음), ellos — 대부분의 라틴아메리카 체계와 동일"
+  },
+
+  "q_gram_c1_13_001": {
+    "question": "El profesor dijo que el examen ___ el lunes siguiente. (ser, 간접 화법 시제 전환)",
+    "correct": "sería",
+    "wrong": ["será", "fue", "sea"],
+    "explanation": "간접 화법에서 전달 동사가 과거('dijo')일 때, 원래의 미래 'será'는 조건법 'sería'로 전환됩니다. 이 시제 후퇴(correlación de tiempos)는 격식 스페인어에서 필수입니다: 'El examen será el lunes' → El profesor dijo que 'el examen sería el lunes siguiente'."
+  },
+  "q_gram_c1_13_002": {
+    "question": "María nos contó que ___ muy contenta con los resultados del proyecto. (estar, 간접 화법)",
+    "correct": "estaba",
+    "wrong": ["está", "estuvo", "estuviera"],
+    "explanation": "원래 발화가 'Estoy muy contenta'(현재 직설법)일 때, 과거 전달 동사('contó')를 사용한 간접 화법에서는 불완료 과거 직설법으로 후퇴해야 합니다: 'estaba'. 이것이 표준 시제 일치 전환입니다: 현재 → 불완료 과거."
+  },
+  "q_gram_c1_13_003": {
+    "question": "간접 화법에서 전달 동사가 과거일 때, 접속법은 어떻게 변하는가?",
+    "correct": "현재 접속법이 불완료 과거 접속법으로 전환된다 (예: 'Quiero que venga' → 'Dijo que quería que viniera')",
+    "wrong": ["전달 동사의 시제에 관계없이 접속법은 변하지 않는다", "간접 화법에서 접속법은 모두 직설법으로 바뀐다", "간접 화법에서 접속법은 조건법으로 전환된다"],
+    "explanation": "시제 후퇴는 접속법에도 적용됩니다: 현재 접속법 → 불완료 과거 접속법, 현재완료 접속법 → 과거완료 접속법. 예: 'Espero que haya llegado' → 'Esperaba que hubiera llegado'. 법(접속법) 자체는 유지되며 시제만 전환됩니다."
+  },
+  "q_gram_c1_13_004": {
+    "question": "El testigo declaró que no ___ nada sospechoso aquella noche. (ver, 과거완료 직설법, él 형태 — 간접 화법)",
+    "correct": "había visto",
+    "wrong": ["vio", "ha visto", "veía"],
+    "explanation": "간접 화법에서 원래의 점과거 'no vi nada' 또는 현재완료 'no he visto nada'는 전달 동사가 과거('declaró')일 때 과거완료 'no había visto nada'로 전환됩니다. 이는 선행성 관계를 유지합니다.",
+    "conjugation_info": "ver (과거완료 직설법): había visto, habías visto, había visto, habíamos visto, habíais visto, habían visto"
+  },
+  "q_gram_c1_13_005": {
+    "question": "La ministra aseguró que el gobierno ___ todas las medidas necesarias. (tomar, 조건법 — 미래의 간접 화법)",
+    "correct": "tomaría",
+    "wrong": ["tomará", "tome", "tomaba"],
+    "explanation": "원래 발화는 'El gobierno tomará todas las medidas necesarias'(미래)였을 것입니다. 과거 전달 동사 'aseguró'를 사용한 간접 화법에서 미래 'tomará'는 조건법 'tomaría'로 전환됩니다. 이것이 표준 미래 → 조건법 후퇴입니다."
+  },
+  "q_gram_c1_13_006": {
+    "question": "El médico le recomendó que ___ más ejercicio y que ___ la dieta. (hacer, cambiar, 불완료 과거 접속법 — 접속법이 포함된 간접 화법)",
+    "correct": "hiciera / cambiara",
+    "wrong": ["haga / cambie", "haría / cambiaría", "hizo / cambió"],
+    "explanation": "원래 권유는 'Le recomiendo que haga más ejercicio y que cambie la dieta'(현재 접속법)였습니다. 과거 전달 동사 'recomendó'에 의해 두 현재 접속법이 모두 불완료 과거 접속법으로 전환됩니다: haga → hiciera, cambie → cambiara.",
+    "conjugation_info": "hacer (불완료 과거 접속법): hiciera, hicieras, hiciera, hiciéramos, hicierais, hicieran | cambiar: cambiara, cambiaras, cambiara, cambiáramos, cambiarais, cambiaran"
+  },
+  "q_gram_c1_13_007": {
+    "question": "Los vecinos se ___ de que nadie les hubiera avisado del corte de agua. (quejarse, 점과거, ellos 형태 — 접속법이 포함된 간접 불평 도입)",
+    "correct": "quejaron",
+    "wrong": ["quejan", "quejaban", "quejaron se"],
+    "explanation": "'Quejarse de que'(~에 대해 불평하다)는 감정적 반응을 표현할 때 종속절에서 접속법을 취합니다. 점과거 'se quejaron'은 불평을 과거의 특정 사건으로 표시합니다. 과거완료 접속법 'hubiera avisado'는 불평의 원인이 된 선행 미발생 사건을 나타냅니다."
+  },
+  "q_gram_c1_13_008": {
+    "question": "기자는 당국이 이미 그 위협에 대해 통보받았다고 보도했다.",
+    "correct": "El periodista informó de que las autoridades ya habían sido informadas de la amenaza.",
+    "wrong": ["El periodista reportó que las autoridades ya fueron informadas de la amenaza.", "El periodista informó que las autoridades ya eran informadas de la amenaza.", "El periodista dijo de que las autoridades ya habían sido informando de la amenaza."],
+    "explanation": "'Informar de que'가 올바른 구문입니다('de' 없이 'informar que'는 케이스모(queísmo) 오류). 과거완료 수동태 'habían sido informadas'는 간접 화법에서 선행성을 올바르게 유지합니다."
+  },
+  "q_gram_c1_13_009": {
+    "question": "El embajador insistió en que se ___ todos los protocolos diplomáticos al pie de la letra. (cumplir, 불완료 과거 접속법, 재귀 수동태)",
+    "correct": "cumplieran",
+    "wrong": ["cumplan", "cumplieron", "cumplirían"],
+    "explanation": "'Insistir en que' + 과거 전달 동사는 종속절에서 불완료 과거 접속법을 요구합니다. 'Se cumplieran'은 재귀 수동태(pasiva refleja)로 '모든 외교 의전이 준수되어야 한다'를 의미합니다. 복수 동사는 'protocolos'와 일치합니다.",
+    "conjugation_info": "cumplir (불완료 과거 접속법): cumpliera, cumplieras, cumpliera, cumpliéramos, cumplierais, cumplieran"
+  },
+  "q_gram_c1_13_010": {
+    "question": "El acusado negó rotundamente que hubiera participado en los hechos delictivos.",
+    "correct": "피고인은 범죄 행위에 가담했다는 것을 단호히 부인했다.",
+    "wrong": ["피고인은 범죄적 사실에 참여했다고 둥글게 부인했다.", "피고인은 범죄 사건에 참여했을 것이라고 단호히 부인했다.", "고발된 자는 비행적 행위에 참여했다는 점을 완전히 부정했다."],
+    "explanation": "'Negar que' + 접속법은 부정이 접속법을 유발하기 때문에 표준입니다. 'Rotundamente'는 '단호히/확고히'를 의미합니다('둥글게'가 아님). 'Hubiera participado'(과거완료 접속법)는 부인된 행위가 부인 이전에 발생했음을 나타냅니다. 'Hechos delictivos'는 법률 용어로 '범죄 행위'를 의미합니다."
+  },
+
+  "q_gram_c1_14_001": {
+    "question": "El informe detalla los problemas; ___ también propone soluciones concretas. (este/este mismo — 조응적 지시, 지시대명사)",
+    "correct": "este",
+    "wrong": ["él", "lo", "ello"],
+    "explanation": "격식 텍스트 응집성에서 지시대명사 'este'(이것/후자)는 'el informe'에 대한 조응적(후방) 참조로 기능합니다. 'el informe'를 반복하는 대신 'este'를 사용하면 텍스트 응집성이 생성됩니다. 학술/격식 문체에서 'este'는 가장 최근에 언급된 명사를 가리킬 수 있습니다.",
+    "conjugation_info": "텍스트 응집을 위한 지시사: este/esta/estos/estas (조응적, 가장 가까운 선행사 참조), aquel/aquella (더 먼 선행사 참조)"
+  },
+  "q_gram_c1_14_002": {
+    "question": "La empresa anunció cambios significativos. ___ cambios afectarán a todos los departamentos. (dichos/tales — 조응적 지시사)",
+    "correct": "Dichos",
+    "wrong": ["Estos", "Los", "Esos"],
+    "explanation": "'Dichos'(상기/전술한)는 이전에 언급된 명사를 다시 가리키는 격식 조응 장치입니다. 'Dichos cambios' = '전술한 변화들'. 이것은 법률, 학술, 언론 문체의 특징이며 강한 텍스트 응집성을 생성합니다."
+  },
+  "q_gram_c1_14_003": {
+    "question": "Juan estudió medicina y María también lo ___. (hacer — 'hacerlo'을 사용한 생략)",
+    "correct": "hizo",
+    "wrong": ["haz", "hace", "hacía"],
+    "explanation": "'Lo hizo'는 전체 술어 'estudió medicina'를 대체하는 대용 형태로, 영어의 'did so/did too'와 같은 기능을 합니다. 이것은 반복을 피하고 응집성을 만드는 대치의 한 형태입니다. 점과거 'hizo'는 'estudió'의 시제와 일치합니다."
+  },
+  "q_gram_c1_14_004": {
+    "question": "텍스트 응집성에서 조응적 참조(anafórica)와 전방 참조(catafórica)의 차이는 무엇인가?",
+    "correct": "조응적 참조는 이미 언급된 것을 뒤로 가리키고(예: 'Juan이 왔다. 그는 피곤했다'), 전방 참조는 아직 언급되지 않은 것을 앞으로 가리킨다(예: '내 말은 이것이다: 우리가 변해야 한다')",
+    "wrong": ["조응적 참조는 대명사를 사용하고 전방 참조는 명사를 사용한다", "조응적 참조는 글쓰기에서, 전방 참조는 말하기에서 사용된다", "조응적 참조는 문단을 연결하고 전방 참조는 문장을 연결한다"],
+    "explanation": "조응(후방 참조)이 훨씬 더 흔합니다: 'María llegó tarde. Ella se disculpó.' 전방 참조는 긴장감이나 강조를 만듭니다: 'Esto es lo que quiero decir: debemos actuar ya.' 둘 다 필수적인 응집 장치이지만, 전방 참조는 더 신중한 계획이 필요합니다."
+  },
+  "q_gram_c1_14_005": {
+    "question": "La primera propuesta fue rechazada; la segunda, en cambio, ___ aprobada por unanimidad. (ser, 점과거 — 'propuesta fue'의 생략)",
+    "correct": "fue",
+    "wrong": ["era", "sería", "ha sido"],
+    "explanation": "이 문장은 생략을 사용합니다: 'la segunda [propuesta] fue [aprobada]'에서 서수 뒤의 반복 명사 'propuesta'가 생략됩니다. 'la segunda' 뒤의 쉼표는 생략 지점을 표시합니다. 'En cambio'(반면에)는 두 제안 사이의 대조를 만드는 역접 연결어입니다.",
+    "conjugation_info": "ser (점과거): fui, fuiste, fue, fuimos, fuisteis, fueron — 수동 구문에 사용: fue aprobada, fue rechazada"
+  },
+  "q_gram_c1_14_006": {
+    "question": "Los investigadores presentaron sus hallazgos. ___, el público pudo formular preguntas. (a continuación — 순차적 연결어)",
+    "correct": "A continuación",
+    "wrong": ["Sin embargo", "Por lo tanto", "No obstante"],
+    "explanation": "'A continuación'(이어서/그 다음에)은 담화에서 사건을 시간순으로 정리하는 시간적 순차 연결어입니다. 질의응답 시간이 발표 뒤에 이어졌음을 알립니다. 'a continuación', 'seguidamente', 'posteriormente' 같은 순차 연결어는 텍스트 응집에 필수적입니다."
+  },
+  "q_gram_c1_14_007": {
+    "question": "결과는 가설을 확인해주지만, 그것들을 검증하기 위해서는 추가 연구가 필요하다.",
+    "correct": "Los resultados confirman la hipótesis; no obstante, se necesita más investigación para validarlos.",
+    "wrong": ["Los resultados confirman la hipótesis; pero, se necesita investigar más para validarlas.", "Los resultados confirman la hipotesis; sin embargo se necesitan más investigación para validarlos.", "Los resultados confirmaron la hipótesis; no obstante, se necesitará más investigaciones para validarlos."],
+    "explanation": "'No obstante'(그럼에도 불구하고)는 격식 역접 연결어입니다. 대명사 'validarlos'는 'los resultados'(남성 복수)를 가리킵니다. 학술 문체에서는 비인칭 'se necesita' + 단수 명사를 사용합니다. 'no obstante' 앞에 세미콜론, 뒤에 쉼표를 놓는 것에 주의하세요."
+  },
+  "q_gram_c1_14_008": {
+    "question": "El gobierno implementó nuevas políticas fiscales; ___, redujo el gasto público en un 15%. (asimismo/además — 격식 응집을 위한 첨가 연결어)",
+    "correct": "asimismo",
+    "wrong": ["sin embargo", "por consiguiente", "en cambio"],
+    "explanation": "'Asimismo'(마찬가지로/또한)는 두 보완적 행위를 연결하는 격식 첨가 연결어입니다. 지출 삭감이 재정 정책의 결과나 대조가 아닌 추가 조치임을 보여주어 텍스트 응집성을 만듭니다."
+  },
+  "q_gram_c1_14_009": {
+    "question": "Cabe señalar, asimismo, que los datos recopilados hasta la fecha no permiten extraer conclusiones definitivas.",
+    "correct": "또한 현재까지 수집된 데이터로는 확정적인 결론을 도출할 수 없다는 점을 지적해야 한다.",
+    "wrong": ["마찬가지로, 날짜까지 편집된 데이터가 결정적 결론을 추출하는 것을 허락하지 않는다고 신호해야 한다.", "덧붙여, 오늘까지 수집한 데이터가 최종 결론을 내릴 수 없다는 점을 알려야 한다.", "현재까지 수집된 데이터가 결론적 정의를 추출하도록 허용하지 않는다는 것을 역시 신호할 가치가 있다."],
+    "explanation": "'Cabe señalar'(지적해야 한다)는 격식 비인칭 표현입니다. 'Asimismo'(또한)는 쉼표 사이에 삽입적으로 위치합니다. 'Hasta la fecha'는 '현재까지'를 의미합니다. 'Extraer conclusiones'(결론을 도출하다)는 학술 스페인어의 고정 연어입니다."
+  },
+  "q_gram_c1_14_010": {
+    "question": "El estudio se centró en tres variables, a saber: la edad, el nivel educativo y el ingreso mensual. El conector 'a saber' cumple una función ___. (catafórica/전방 참조적, explicativa/설명적)",
+    "correct": "catafórica",
+    "wrong": ["anafórica", "adversativa", "consecutiva"],
+    "explanation": "'A saber'(즉/다시 말해)는 전방 참조 연결어입니다: 아직 제시되지 않은 정보(세 변수)를 앞으로 가리킵니다. 이것은 전방 참조의 교과서적 예시입니다 — 'a saber' 뒤의 콜론이 이어지는 열거를 도입합니다.",
+    "conjugation_info": "전방 참조 연결어: a saber (즉), lo siguiente (다음), esto es (이것은), a continuación (이어서)"
+  },
+
+  "q_gram_c1_15_001": {
+    "question": "Yo me recuerdo de aquel día perfectamente. → Correct: 'Yo ___ aquel día perfectamente.' (recordar, yo 형태)",
+    "correct": "recuerdo",
+    "wrong": ["me recuerdo de", "me acuerdo", "recuerdo de"],
+    "explanation": "오류는 'recordar'를 'de'와 함께 재귀동사로 사용한 것입니다. 표준 스페인어에서 'recordar'는 타동사이며 비재귀적입니다: 'recuerdo algo'. 재귀형 'acordarse de'는 존재하지만('me acuerdo de aquel día'), 'recordarse de'는 두 동사의 혼용으로 인한 오류입니다."
+  },
+  "q_gram_c1_15_002": {
+    "question": "*Hubieron* muchos problemas durante la construcción. → ___ muchos problemas durante la construcción. (haber, 비인칭, 점과거)",
+    "correct": "Hubo",
+    "wrong": ["Hubieron", "Han habido", "Habían"],
+    "explanation": "'haber'가 비인칭 존재 동사(~이 있다)로 사용될 때는 뒤따르는 명사의 수에 관계없이 항상 3인칭 단수로 유지되어야 합니다. 'Hubo problemas'(hubieron이 아님), 'hay problemas'(han이 아님), 'había problemas'(habían이 아님). 이것은 원어민 사이에서도 가장 흔한 오류 중 하나입니다."
+  },
+  "q_gram_c1_15_003": {
+    "question": "'거짓 친구'(falso amigo)란 무엇이며, 영어 화자에게 'actualmente'가 고전적 예시인 이유는?",
+    "correct": "'Actualmente'는 스페인어에서 '현재/지금'을 의미하며, 'actually'가 아니다. 영어의 'actually'는 'en realidad' 또는 'de hecho'로 번역된다. 거짓 친구는 두 언어에서 비슷해 보이지만 의미가 다른 단어이다.",
+    "wrong": ["'Actualmente'는 두 언어 모두에서 'actually'를 의미하며 거짓 친구가 아니다", "'Actualmente'는 현대 스페인어에서 더 이상 사용되지 않는 고어이다", "'Actualmente'는 'actual한 방식으로'를 의미하며 영어와 같은 방식으로 사용된다"],
+    "explanation": "거짓 친구(falsos amigos)는 언어 학습자의 주요 오류 원인입니다. 스페인어 'actualmente' = '현재'; 'realizar' = '실행하다'('깨닫다'가 아님); 'sensible' = '민감한'('분별 있는'이 아님); 'embarazada' = '임신한'('당황한'이 아님). C1 수준에서 이들을 인식하는 것이 필수적입니다."
+  },
+  "q_gram_c1_15_004": {
+    "question": "Identify and correct: 'Le dije de que viniera temprano.' (데케이스모, decir + 종속절의 올바른 형태)",
+    "correct": "Le dije que viniera temprano.",
+    "wrong": ["Le dije de venir temprano.", "Le dije a que viniera temprano.", "Le decía de que viniera temprano."],
+    "explanation": "데케이스모(dequeísmo)는 'de'가 불필요한 곳에 'que' 앞에 'de'를 잘못 삽입하는 것입니다. 'Decir'는 직접 'que'절을 취합니다: 'dije que', 'dije de que'가 아닙니다. 확인법: 대체 테스트 — 'Dije eso'('dije de eso'가 아님)로 'de'가 필요 없음을 확인합니다.",
+    "conjugation_info": "'de' 없는 동사: decir que, creer que, pensar que, esperar que | 'de' 있는 동사: acordarse de que, alegrarse de que, estar seguro de que"
+  },
+  "q_gram_c1_15_005": {
+    "question": "*Si tendría* más dinero, compraría una casa. → Si ___ más dinero, compraría una casa. (tener, 'si' 뒤의 올바른 형태)",
+    "correct": "tuviera",
+    "wrong": ["tendría", "tenía", "tengo"],
+    "explanation": "si절에서 조건법('tendría')을 사용하는 것은 스페인어에서 가장 비난받는 오류 중 하나입니다. 규칙은 절대적입니다: 'si' + 불완료 과거 접속법(tuviera), 절대로 'si' + 조건법(tendría)이 아닙니다. 조건법은 주절에서만 사용됩니다: 'compraría'."
+  },
+  "q_gram_c1_15_006": {
+    "question": "Identify and correct: 'Ayer, Juan y yo fuimos al cine y después cenemos en un restaurante.' (시제 일관성 오류)",
+    "correct": "cenamos",
+    "wrong": ["cenábamos", "cenaríamos", "habíamos cenado"],
+    "explanation": "오류는 점과거가 필요한 곳에 'cenemos'(현재 접속법)를 사용한 것입니다. 두 동사 모두 서술 일관성을 유지하기 위해 같은 과거 시제여야 합니다: 'fuimos al cine y después cenamos'. -ar 동사의 1인칭 복수는 현재와 점과거 직설법에서 동일하지만, 문맥(ayer)이 명확하게 과거임을 나타냅니다.",
+    "conjugation_info": "cenar (점과거): cené, cenaste, cenó, cenamos, cenasteis, cenaron — 참고: 'cenamos'는 현재 직설법과 형태가 동일"
+  },
+  "q_gram_c1_15_007": {
+    "question": "La profesora les explicó el tema a las alumnas y *las* dio unos ejercicios. → ...y ___ dio unos ejercicios. (올바른 간접 목적격 대명사)",
+    "correct": "les",
+    "wrong": ["las", "la", "lo"],
+    "explanation": "오류는 'las dio'(라이스모): 직접 목적격 대명사 'las'를 간접 목적어로 사용한 것입니다. 'Dar algo a alguien'은 간접 목적어를 취하므로 올바른 대명사는 'les'('a las alumnas')입니다. 라이스모(간접 목적어에 la/las 사용)는 스페인 중부에서 흔하지만 RAE에서 인정하지 않습니다."
+  },
+  "q_gram_c1_15_008": {
+    "question": "그 학회는 매우 흥미로웠다; 나는 발표 기술을 향상시켜야 한다는 것을 깨달았다.",
+    "correct": "La conferencia fue muy interesante; me di cuenta de que necesito mejorar mis habilidades de presentación.",
+    "wrong": ["La conferencia fue muy interesante; realicé que necesito mejorar mis capacidades de presentación.", "La conferencia estuvo muy interesante; me realicé de que necesito mejorar mis habilidades presentativas.", "La conferencia era muy interesada; me di cuenta que necesito mejorar mis destrezas de presentación."],
+    "explanation": "'깨닫다'(인식하다)는 'darse cuenta de que'이며, 'realizar'가 아닙니다('realizar'는 '실행하다/달성하다'를 의미). 이것은 전형적인 거짓 친구 오류입니다. 또한 'interesting'은 'interesante'입니다('interesada'가 아님, 이는 '흥미를 가진/이기적인'). 완전한 형태는 'darse cuenta de que'입니다('darse cuenta que'는 케이스모)."
+  },
+  "q_gram_c1_15_009": {
+    "question": "Identify the error and provide the correct form: 'Ojalá que no *haiga* problemas con la entrega.' (haiga → haber의 올바른 현재 접속법 형태)",
+    "correct": "haya",
+    "wrong": ["haigan", "habría", "hay"],
+    "explanation": "'Haiga'는 haber의 현재 접속법의 비표준 방언 형태입니다. 올바른 형태는 'haya'입니다. 이 오류는 많은 스페인어권 지역의 농촌 및 비격식 어법에서 광범위하지만 격식 문맥에서는 강하게 비난받습니다. 올바른 문장은 'Ojalá que no haya problemas'입니다.",
+    "conjugation_info": "haber (현재 접속법): haya, hayas, haya, hayamos, hayáis, hayan — 절대로 'haiga/haigas/haigan' 아님"
+  },
+  "q_gram_c1_15_010": {
+    "question": "El hecho de que el español tenga tantas variantes regionales no significa que unas sean más correctas que otras.",
+    "correct": "스페인어에 이토록 많은 지역 변형이 있다는 사실이 일부가 다른 것보다 더 정확하다는 것을 의미하지는 않는다.",
+    "wrong": ["스페인어가 지역적 변형을 가진다는 사실은 일부가 다른 것보다 정확하다는 것을 의미한다.", "스페인어가 많은 지역 변종을 갖게 될 것이라는 행위가 일부가 더 교정되었다는 것을 의미하지 않는다.", "스페인어에 그렇게 많은 지역 변형이 있으므로 일부가 다른 것보다 더 정확할 수밖에 없다."],
+    "explanation": "'El hecho de que' + 접속법('tenga')은 표준 구문입니다 — 접속법은 주장이 아닌 전제된 사실을 논의할 때 유발됩니다. 'No significa que' + 접속법('sean')은 부정 주절이 종속절의 진위에 대한 불확실성을 만들기 때문입니다."
+  }
+
+}

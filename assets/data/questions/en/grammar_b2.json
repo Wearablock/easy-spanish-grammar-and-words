@@ -1,0 +1,1225 @@
+{
+  "q_gram_b2_01_001": {
+    "question": "Si yo ___ más dinero, viajaría por el mundo. (tener)",
+    "correct": "tuviera",
+    "wrong": ["tenía", "tendría", "tengo"],
+    "explanation": "After 'si' in a hypothetical condition, the past subjunctive (-ra form) is required. Tener becomes tuviera from the irregular preterite stem tuv-.",
+    "hint": "Use the past subjunctive (-ra form) of tener"
+  },
+  "q_gram_b2_01_002": {
+    "question": "Mis padres querían que yo ___ medicina en la universidad. (estudiar)",
+    "correct": "estudiara",
+    "wrong": ["estudié", "estudiaría", "estudiaba"],
+    "explanation": "After 'querían que', the past subjunctive is needed because the main verb is in a past tense. Estudiar becomes estudiara in the past subjunctive.",
+    "hint": "The main verb is past tense, so the subjunctive must also be past"
+  },
+  "q_gram_b2_01_003": {
+    "question": "What are the two forms of the past subjunctive in Spanish?",
+    "correct": "The -ra form (hablara) and the -se form (hablase), both derived from the third person preterite stem",
+    "wrong": ["The -ba form (hablaba) and the -ía form (hablaría)", "The -ra form from the infinitive and the -se form from the present", "The -ra form (hablar) and the -ría form (hablaría)"],
+    "explanation": "The past subjunctive has two interchangeable forms: -ra (hablara, comieras) and -se (hablase, comieses). Both are formed from the ellos/ellas preterite stem."
+  },
+  "q_gram_b2_01_004": {
+    "question": "Ella ___ en esa empresa si pudiera. (trabajar, past subjunctive, ella form)",
+    "correct": "trabajara",
+    "wrong": ["trabajaba", "trabaja", "trabajaría"],
+    "explanation": "The past subjunctive of trabajar in the ella form is trabajara. It is formed from the preterite stem (trabajaron → trabajar-) plus the -a ending.",
+    "conjugation_info": "trabajar (past subjunctive): trabajara, trabajaras, trabajara, trabajáramos, trabajarais, trabajaran"
+  },
+  "q_gram_b2_01_005": {
+    "question": "El médico recomendó que el paciente ___ más ejercicio. (hacer)",
+    "correct": "hiciera",
+    "wrong": ["hacía", "haría", "hizo"],
+    "explanation": "After 'recomendó que', the past subjunctive is needed. Hacer has an irregular preterite stem (hic-), so the past subjunctive is hiciera.",
+    "hint": "Hacer has an irregular preterite stem"
+  },
+  "q_gram_b2_01_006": {
+    "question": "Nosotros ___ al concierto si nos invitaran. (ir, past subjunctive, nosotros form)",
+    "correct": "fuéramos",
+    "wrong": ["íbamos", "iríamos", "fuimos"],
+    "explanation": "The past subjunctive of ir in the nosotros form is fuéramos, from the irregular preterite stem fu-. Note the accent on the first e.",
+    "conjugation_info": "ir (past subjunctive): fuera, fueras, fuera, fuéramos, fuerais, fueran"
+  },
+  "q_gram_b2_01_007": {
+    "question": "No había nadie que ___ resolver el problema tan complicado. (poder)",
+    "correct": "pudiera",
+    "wrong": ["podía", "pudo", "podría"],
+    "explanation": "After 'no había nadie que', the past subjunctive is needed because it refers to a non-existent antecedent in a past context. Poder becomes pudiera from the preterite stem pud-.",
+    "hint": "After a negative antecedent in the past, use past subjunctive"
+  },
+  "q_gram_b2_01_008": {
+    "question": "If I were rich, I would travel the world.",
+    "correct": "Si yo fuera rico, viajaría por el mundo.",
+    "wrong": ["Si yo sería rico, viajaba por el mundo.", "Si yo era rico, viajaría por el mundo.", "Si yo fui rico, viajé por el mundo."],
+    "explanation": "In Type 2 conditionals, Spanish uses 'si + past subjunctive' (fuera) in the if-clause and the conditional (viajaría) in the main clause."
+  },
+  "q_gram_b2_01_009": {
+    "question": "Vosotros ___ mejor si practicarais más. (cantar, past subjunctive, vosotros form)",
+    "correct": "cantarais",
+    "wrong": ["cantabais", "cantaríais", "cantasteis"],
+    "explanation": "The vosotros form of the past subjunctive of cantar is cantarais, from the preterite stem cantar- plus -ais.",
+    "conjugation_info": "cantar (past subjunctive): cantara, cantaras, cantara, cantáramos, cantarais, cantaran"
+  },
+  "q_gram_b2_01_010": {
+    "question": "Ojalá que mis amigos estuvieran aquí para celebrar conmigo.",
+    "correct": "I wish my friends were here to celebrate with me.",
+    "wrong": ["I hope my friends are here to celebrate with me.", "My friends wished they were here to celebrate with me.", "I wished my friends had been here to celebrate with me."],
+    "explanation": "'Ojalá que' + past subjunctive (estuvieran) expresses a wish about a present situation that is unlikely or contrary to reality, translated as 'I wish... were'."
+  },
+
+  "q_gram_b2_02_001": {
+    "question": "Si ella ___ tiempo, iría al gimnasio. (tener, past subjunctive, ella form)",
+    "correct": "tuviera",
+    "wrong": ["tenía", "tendría", "tiene"],
+    "explanation": "In a Type 2 conditional, the si-clause requires the past subjunctive. Tener's past subjunctive ella form is tuviera, from the irregular preterite stem tuv-.",
+    "conjugation_info": "tener (past subjunctive): tuviera, tuvieras, tuviera, tuviéramos, tuvierais, tuvieran"
+  },
+  "q_gram_b2_02_002": {
+    "question": "Si ___ buen tiempo, iríamos a la playa. (hacer)",
+    "correct": "hiciera",
+    "wrong": ["hacía", "haría", "hace"],
+    "explanation": "In a Type 2 conditional (unreal present), 'si' is followed by the past subjunctive. Hacer becomes hiciera from the irregular preterite stem hic-.",
+    "hint": "This is an unreal present condition"
+  },
+  "q_gram_b2_02_003": {
+    "question": "Si nosotros ___ ricos, compraríamos una casa en la playa. (ser)",
+    "correct": "fuéramos",
+    "wrong": ["éramos", "seríamos", "somos"],
+    "explanation": "In a Type 2 conditional, the si-clause requires the past subjunctive. Ser shares its past subjunctive forms with ir: fuéramos (nosotros).",
+    "hint": "Ser and ir share the same past subjunctive forms"
+  },
+  "q_gram_b2_02_004": {
+    "question": "What is the structure of a Type 2 conditional sentence in Spanish?",
+    "correct": "Si + past subjunctive (imperfect subjunctive), conditional tense in the main clause",
+    "wrong": ["Si + present indicative, future tense in the main clause", "Si + imperfect indicative, conditional tense in the main clause", "Si + conditional tense, past subjunctive in the main clause"],
+    "explanation": "Type 2 conditionals express unreal or unlikely present/future situations. The si-clause takes the past subjunctive (e.g., tuviera) and the result clause uses the conditional (e.g., compraría)."
+  },
+  "q_gram_b2_02_005": {
+    "question": "Yo ___ más contentos a mis padres si sacara buenas notas. (hacer, conditional, yo form)",
+    "correct": "haría",
+    "wrong": ["hiciera", "hacía", "hago"],
+    "explanation": "In the main clause of a Type 2 conditional, the conditional tense is used. Hacer in the yo conditional form is haría, using the irregular stem har-.",
+    "conjugation_info": "hacer (conditional): haría, harías, haría, haríamos, haríais, harían"
+  },
+  "q_gram_b2_02_006": {
+    "question": "Si tú ___ más cuidado, no cometerías tantos errores. (tener)",
+    "correct": "tuvieras",
+    "wrong": ["tenías", "tendrías", "tienes"],
+    "explanation": "In the si-clause of a Type 2 conditional, the past subjunctive is required. The tú form of tener in the past subjunctive is tuvieras.",
+    "hint": "The si-clause needs past subjunctive, not indicative or conditional"
+  },
+  "q_gram_b2_02_007": {
+    "question": "If they lived closer, we would see them more often.",
+    "correct": "Si ellos vivieran más cerca, los veríamos más a menudo.",
+    "wrong": ["Si ellos vivirían más cerca, los veíamos más a menudo.", "Si ellos vivían más cerca, los veríamos más a menudo.", "Si ellos viven más cerca, los veremos más a menudo."],
+    "explanation": "This is a Type 2 conditional. 'Si' + past subjunctive (vivieran) expresses the unreal condition, and the conditional (veríamos) expresses the hypothetical result."
+  },
+  "q_gram_b2_02_008": {
+    "question": "Si yo ___ hablar chino, buscaría trabajo en Pekín. (saber)",
+    "correct": "supiera",
+    "wrong": ["sabía", "sabría", "sé"],
+    "explanation": "After 'si' in a hypothetical condition, the past subjunctive is required. Saber's past subjunctive is supiera, from the irregular preterite stem sup-.",
+    "hint": "Saber has an irregular preterite stem"
+  },
+  "q_gram_b2_02_009": {
+    "question": "Si yo pudiera elegir cualquier profesión, sería astronauta.",
+    "correct": "If I could choose any profession, I would be an astronaut.",
+    "wrong": ["If I can choose any profession, I will be an astronaut.", "If I was able to choose any profession, I was an astronaut.", "If I would choose any profession, I would be an astronaut."],
+    "explanation": "This is a Type 2 conditional: 'si pudiera' (past subjunctive) = 'if I could', and 'sería' (conditional) = 'I would be'. It expresses an unreal present situation."
+  },
+  "q_gram_b2_02_010": {
+    "question": "Ellos ___ en Europa si consiguieran un buen trabajo allí. (vivir, conditional, ellos form)",
+    "correct": "vivirían",
+    "wrong": ["vivieran", "vivían", "viven"],
+    "explanation": "In the main clause of a Type 2 conditional, the conditional tense is used. Vivir in the ellos conditional form is vivirían (infinitive + -ían).",
+    "conjugation_info": "vivir (conditional): viviría, vivirías, viviría, viviríamos, viviríais, vivirían"
+  },
+
+  "q_gram_b2_03_001": {
+    "question": "Si yo hubiera sabido la verdad, no ___ eso. (decir, conditional perfect)",
+    "correct": "habría dicho",
+    "wrong": ["hubiera dicho", "había dicho", "diría"],
+    "explanation": "In a Type 3 conditional, the main clause uses the conditional perfect (habría + past participle). Decir's past participle is the irregular dicho.",
+    "hint": "The main clause of a Type 3 conditional uses conditional perfect"
+  },
+  "q_gram_b2_03_002": {
+    "question": "Si ellos ___ estudiado más, habrían aprobado el examen. (haber, pluperfect subjunctive)",
+    "correct": "hubieran",
+    "wrong": ["habrían", "habían", "han"],
+    "explanation": "In a Type 3 conditional, the si-clause uses the pluperfect subjunctive (hubiera/hubiese + past participle). The ellos form is hubieran.",
+    "hint": "The si-clause in Type 3 needs pluperfect subjunctive"
+  },
+  "q_gram_b2_03_003": {
+    "question": "What does a Type 3 conditional sentence express in Spanish?",
+    "correct": "An unreal or impossible condition in the past and its hypothetical consequence",
+    "wrong": ["A probable condition in the present with a likely outcome", "An unreal condition in the present with a hypothetical outcome", "A real condition in the past with a factual consequence"],
+    "explanation": "Type 3 conditionals (si + pluperfect subjunctive, conditional perfect) express situations that are contrary to what actually happened in the past. They describe missed opportunities or regrets."
+  },
+  "q_gram_b2_03_004": {
+    "question": "Nosotros ___ antes si hubiéramos tenido el mapa. (llegar, conditional perfect, nosotros form)",
+    "correct": "habríamos llegado",
+    "wrong": ["hubiéramos llegado", "habíamos llegado", "llegaríamos"],
+    "explanation": "The conditional perfect in the nosotros form is habríamos + past participle. Llegar's past participle is llegado (regular).",
+    "conjugation_info": "llegar (conditional perfect): habría llegado, habrías llegado, habría llegado, habríamos llegado, habríais llegado, habrían llegado"
+  },
+  "q_gram_b2_03_005": {
+    "question": "Si tú no ___ enfadado, no habríamos discutido. (haberse, pluperfect subjunctive)",
+    "correct": "te hubieras",
+    "wrong": ["te habrías", "te habías", "te has"],
+    "explanation": "In the si-clause, the pluperfect subjunctive is required. With reflexive verbs, the pronoun precedes the auxiliary: 'te hubieras enfadado'.",
+    "hint": "Reflexive pronoun + pluperfect subjunctive of haber"
+  },
+  "q_gram_b2_03_006": {
+    "question": "Yo ___ de casa antes si hubiera sonado la alarma. (salir, conditional perfect, yo form)",
+    "correct": "habría salido",
+    "wrong": ["hubiera salido", "había salido", "saldría"],
+    "explanation": "The conditional perfect (habría + past participle) is used in the main clause of a Type 3 conditional. Salir's past participle is salido (regular).",
+    "conjugation_info": "salir (conditional perfect): habría salido, habrías salido, habría salido, habríamos salido, habríais salido, habrían salido"
+  },
+  "q_gram_b2_03_007": {
+    "question": "Si ella ___ la oferta, ahora tendría un trabajo mejor. (aceptar, pluperfect subjunctive)",
+    "correct": "hubiera aceptado",
+    "wrong": ["habría aceptado", "había aceptado", "aceptara"],
+    "explanation": "In a mixed conditional (past condition, present result), the si-clause still uses the pluperfect subjunctive: hubiera aceptado.",
+    "hint": "This is a mixed conditional with a past condition"
+  },
+  "q_gram_b2_03_008": {
+    "question": "If we had arrived earlier, we would have gotten better seats.",
+    "correct": "Si hubiéramos llegado antes, habríamos conseguido mejores asientos.",
+    "wrong": ["Si llegáramos antes, conseguiríamos mejores asientos.", "Si habíamos llegado antes, habríamos conseguido mejores asientos.", "Si hubiéramos llegado antes, conseguimos mejores asientos."],
+    "explanation": "This is a Type 3 conditional: 'si hubiéramos llegado' (pluperfect subjunctive) + 'habríamos conseguido' (conditional perfect). It describes an unreal past scenario."
+  },
+  "q_gram_b2_03_009": {
+    "question": "Vosotros ___ la respuesta si hubierais leído el capítulo. (saber, conditional perfect, vosotros form)",
+    "correct": "habríais sabido",
+    "wrong": ["hubierais sabido", "habíais sabido", "sabríais"],
+    "explanation": "The vosotros conditional perfect is habríais + past participle. Saber's past participle is sabido (regular).",
+    "conjugation_info": "saber (conditional perfect): habría sabido, habrías sabido, habría sabido, habríamos sabido, habríais sabido, habrían sabido"
+  },
+  "q_gram_b2_03_010": {
+    "question": "Si hubieran cerrado la ventana, no se habría mojado el suelo.",
+    "correct": "If they had closed the window, the floor would not have gotten wet.",
+    "wrong": ["If they closed the window, the floor would not get wet.", "If they would close the window, the floor would not have gotten wet.", "If they had closed the window, the floor did not get wet."],
+    "explanation": "This is a Type 3 conditional. 'Si hubieran cerrado' = 'if they had closed' (pluperfect subjunctive), and 'no se habría mojado' = 'would not have gotten wet' (conditional perfect)."
+  },
+
+  "q_gram_b2_04_001": {
+    "question": "Ella ___ el proyecto antes del plazo. (terminar, conditional perfect, ella form)",
+    "correct": "habría terminado",
+    "wrong": ["hubiera terminado", "había terminado", "terminaría"],
+    "explanation": "The conditional perfect is formed with the conditional of haber (habría) + past participle. Terminar's past participle is terminado.",
+    "conjugation_info": "terminar (conditional perfect): habría terminado, habrías terminado, habría terminado, habríamos terminado, habríais terminado, habrían terminado"
+  },
+  "q_gram_b2_04_002": {
+    "question": "En tu lugar, yo ___ la oportunidad sin dudarlo. (aprovechar, conditional perfect)",
+    "correct": "habría aprovechado",
+    "wrong": ["hubiera aprovechado", "había aprovechado", "aprovecharía"],
+    "explanation": "The conditional perfect expresses what someone would have done. 'En tu lugar' (in your place) sets up a hypothetical past scenario: habría aprovechado.",
+    "hint": "'En tu lugar' introduces a hypothetical situation"
+  },
+  "q_gram_b2_04_003": {
+    "question": "Nosotros ___ la noticia, pero nadie nos llamó. (creer, conditional perfect)",
+    "correct": "habríamos creído",
+    "wrong": ["hubiéramos creído", "habíamos creído", "creeríamos"],
+    "explanation": "The conditional perfect (habríamos creído) indicates something that would have happened if circumstances had been different. Creer's past participle is creído.",
+    "hint": "The conditional perfect expresses an unrealized past action"
+  },
+  "q_gram_b2_04_004": {
+    "question": "When is the conditional perfect (habría + past participle) used in Spanish?",
+    "correct": "To express what would have happened in the past under different circumstances, or to speculate about the past",
+    "wrong": ["To express what will have happened by a future point in time", "To express what had happened before another past event", "To express what someone wanted to happen in the present"],
+    "explanation": "The conditional perfect has two main uses: (1) the main clause of Type 3 conditionals (what would have happened), and (2) speculation or conjecture about past events."
+  },
+  "q_gram_b2_04_005": {
+    "question": "Tú ___ la verdad antes, pero no te atreviste. (decir, conditional perfect, tú form)",
+    "correct": "habrías dicho",
+    "wrong": ["hubieras dicho", "habías dicho", "dirías"],
+    "explanation": "The conditional perfect tú form is habrías + past participle. Decir has the irregular past participle dicho.",
+    "conjugation_info": "decir (conditional perfect): habría dicho, habrías dicho, habría dicho, habríamos dicho, habríais dicho, habrían dicho"
+  },
+  "q_gram_b2_04_006": {
+    "question": "¿Quién ___ que ese equipo ganaría la final? (pensar, conditional perfect)",
+    "correct": "habría pensado",
+    "wrong": ["hubiera pensado", "había pensado", "pensaría"],
+    "explanation": "Here the conditional perfect is used for speculation about the past: 'Who would have thought...?' The form is habría pensado.",
+    "hint": "The conditional perfect can express past speculation"
+  },
+  "q_gram_b2_04_007": {
+    "question": "I would have called you, but I lost my phone.",
+    "correct": "Te habría llamado, pero perdí mi teléfono.",
+    "wrong": ["Te hubiera llamado, pero perdía mi teléfono.", "Te llamaría, pero perdí mi teléfono.", "Te había llamado, pero perdí mi teléfono."],
+    "explanation": "The conditional perfect (habría llamado) expresses what would have happened. The 'pero' clause uses the preterite to state the factual obstacle."
+  },
+  "q_gram_b2_04_008": {
+    "question": "Sin tu ayuda, yo no ___ el trabajo a tiempo. (completar, conditional perfect)",
+    "correct": "habría completado",
+    "wrong": ["hubiera completado", "había completado", "completaría"],
+    "explanation": "'Sin tu ayuda' (without your help) sets up an implied counterfactual past condition. The conditional perfect (habría completado) expresses the unrealized outcome.",
+    "hint": "'Sin + noun' can introduce an implied past condition"
+  },
+  "q_gram_b2_04_009": {
+    "question": "A las diez de la noche, los invitados ya se habrían marchado.",
+    "correct": "By ten at night, the guests would have already left.",
+    "wrong": ["At ten at night, the guests had already left.", "By ten at night, the guests already left.", "At ten at night, the guests would already leave."],
+    "explanation": "The conditional perfect (se habrían marchado) here expresses conjecture about what probably happened at a past time. 'Ya' (already) emphasizes the completed nature of the action."
+  },
+  "q_gram_b2_04_010": {
+    "question": "Ellos ___ el vuelo si no hubiera habido tráfico. (perder, conditional perfect, ellos form)",
+    "correct": "no habrían perdido",
+    "wrong": ["no hubieran perdido", "no habían perdido", "no perderían"],
+    "explanation": "In the main clause of a Type 3 conditional, the conditional perfect is used. The negative form for ellos is 'no habrían perdido'. Perder's past participle is perdido.",
+    "conjugation_info": "perder (conditional perfect): habría perdido, habrías perdido, habría perdido, habríamos perdido, habríais perdido, habrían perdido"
+  },
+
+  "q_gram_b2_05_001": {
+    "question": "Para el próximo mes, yo ya ___ este libro. (leer, future perfect)",
+    "correct": "habré leído",
+    "wrong": ["habría leído", "había leído", "leeré"],
+    "explanation": "The future perfect (habré + past participle) expresses an action that will be completed by a future point. Leer's past participle is leído.",
+    "hint": "'Para el próximo mes' indicates a future deadline"
+  },
+  "q_gram_b2_05_002": {
+    "question": "Cuando tú llegues, nosotros ya ___ de cenar. (terminar, future perfect)",
+    "correct": "habremos terminado",
+    "wrong": ["habríamos terminado", "habíamos terminado", "terminaremos"],
+    "explanation": "The future perfect expresses that an action will be completed before another future event. 'Habremos terminado' = 'we will have finished'.",
+    "hint": "'Cuando llegues' sets a future reference point"
+  },
+  "q_gram_b2_05_003": {
+    "question": "What are the two main uses of the future perfect tense in Spanish?",
+    "correct": "To express an action completed before a future point in time, and to speculate about what has probably happened",
+    "wrong": ["To express a habitual action in the future and a completed past action", "To express a future plan and a condition for that plan", "To express desire about the future and doubt about the present"],
+    "explanation": "The future perfect (habré hablado) serves two purposes: (1) actions completed by a future deadline, and (2) conjecture about recent past events (e.g., 'habrá salido' = 'he has probably left')."
+  },
+  "q_gram_b2_05_004": {
+    "question": "Ella ___ toda la serie antes de que estrenen la nueva temporada. (ver, future perfect, ella form)",
+    "correct": "habrá visto",
+    "wrong": ["habría visto", "había visto", "verá"],
+    "explanation": "The future perfect ella form is habrá + past participle. Ver has the irregular past participle visto.",
+    "conjugation_info": "ver (future perfect): habré visto, habrás visto, habrá visto, habremos visto, habréis visto, habrán visto"
+  },
+  "q_gram_b2_05_005": {
+    "question": "¿Dónde ___ mis llaves? No las encuentro por ningún lado. (poner, future perfect, yo form)",
+    "correct": "habré puesto",
+    "wrong": ["habría puesto", "había puesto", "pondré"],
+    "explanation": "Here the future perfect expresses conjecture about a recent event: 'Where can I have put my keys?' Poner has the irregular past participle puesto.",
+    "hint": "The future perfect can express speculation about the recent past"
+  },
+  "q_gram_b2_05_006": {
+    "question": "Ellos ___ de la ciudad antes de que empiece la tormenta. (salir, future perfect, ellos form)",
+    "correct": "habrán salido",
+    "wrong": ["habrían salido", "habían salido", "saldrán"],
+    "explanation": "The future perfect (habrán salido) indicates the action will be completed before the storm begins. The ellos form uses habrán + past participle.",
+    "conjugation_info": "salir (future perfect): habré salido, habrás salido, habrá salido, habremos salido, habréis salido, habrán salido"
+  },
+  "q_gram_b2_05_007": {
+    "question": "Para finales de año, la empresa ___ más de mil empleados. (contratar, future perfect)",
+    "correct": "habrá contratado",
+    "wrong": ["habría contratado", "había contratado", "contratará"],
+    "explanation": "The future perfect is used to express what will have been completed by a future point. 'Para finales de año' sets the future deadline.",
+    "hint": "'Para finales de año' signals a future deadline"
+  },
+  "q_gram_b2_05_008": {
+    "question": "By the time you arrive, I will have already prepared dinner.",
+    "correct": "Para cuando llegues, yo ya habré preparado la cena.",
+    "wrong": ["Cuando llegas, yo ya preparé la cena.", "Para cuando llegues, yo ya habría preparado la cena.", "Cuando llegues, yo ya prepararé la cena."],
+    "explanation": "The future perfect (habré preparado) expresses an action that will be completed before another future event (your arrival). 'Para cuando' + subjunctive introduces the future reference point."
+  },
+  "q_gram_b2_05_009": {
+    "question": "Vosotros ___ el informe antes de la reunión. (escribir, future perfect, vosotros form)",
+    "correct": "habréis escrito",
+    "wrong": ["habríais escrito", "habíais escrito", "escribiréis"],
+    "explanation": "The future perfect vosotros form is habréis + past participle. Escribir has the irregular past participle escrito.",
+    "conjugation_info": "escribir (future perfect): habré escrito, habrás escrito, habrá escrito, habremos escrito, habréis escrito, habrán escrito"
+  },
+  "q_gram_b2_05_010": {
+    "question": "¿Habrán recibido ya mi solicitud? La envié hace una semana.",
+    "correct": "Will they have received my application already? I sent it a week ago.",
+    "wrong": ["Had they received my application already? I sent it a week ago.", "Would they have received my application already? I sent it a week ago.", "Did they receive my application already? I sent it a week ago."],
+    "explanation": "The future perfect (habrán recibido) is used here to speculate about whether something has probably happened. It translates as 'will they have received' or 'do you think they have received'."
+  },
+
+  "q_gram_b2_06_001": {
+    "question": "Yo ___ todo si me hubieras avisado antes. (comprender, pluperfect subjunctive, yo form)",
+    "correct": "hubiera comprendido",
+    "wrong": ["habría comprendido", "había comprendido", "comprendiera"],
+    "explanation": "The pluperfect subjunctive is formed with hubiera/hubiese + past participle. The yo form is hubiera comprendido.",
+    "conjugation_info": "comprender (pluperfect subjunctive): hubiera comprendido, hubieras comprendido, hubiera comprendido, hubiéramos comprendido, hubierais comprendido, hubieran comprendido"
+  },
+  "q_gram_b2_06_002": {
+    "question": "Ojalá que nosotros ___ más tiempo en esa ciudad. (pasar, pluperfect subjunctive)",
+    "correct": "hubiéramos pasado",
+    "wrong": ["habríamos pasado", "habíamos pasado", "pasáramos"],
+    "explanation": "'Ojalá que' + pluperfect subjunctive expresses a wish about the past that did not come true. The nosotros form is hubiéramos pasado.",
+    "hint": "'Ojalá que' + pluperfect subjunctive = unfulfilled past wish"
+  },
+  "q_gram_b2_06_003": {
+    "question": "Me molestó que ellos no ___ a la reunión. (venir, pluperfect subjunctive)",
+    "correct": "hubieran venido",
+    "wrong": ["habrían venido", "habían venido", "vinieran"],
+    "explanation": "After 'me molestó que' (it bothered me that), the pluperfect subjunctive is used when referring to an action prior to the past emotion. The form is hubieran venido.",
+    "hint": "The emotion is past, and the action happened before the emotion"
+  },
+  "q_gram_b2_06_004": {
+    "question": "What is the difference between the past subjunctive and the pluperfect subjunctive?",
+    "correct": "The past subjunctive refers to present/future unreal situations, while the pluperfect subjunctive refers to past unreal situations that can no longer be changed",
+    "wrong": ["The past subjunctive is more formal than the pluperfect subjunctive", "The pluperfect subjunctive is used only in si-clauses, while the past subjunctive is used everywhere else", "The past subjunctive uses -ra endings and the pluperfect subjunctive uses -se endings"],
+    "explanation": "The past subjunctive (hablara) deals with present/future hypothetical situations, while the pluperfect subjunctive (hubiera hablado) deals with past counterfactual situations that are impossible to change."
+  },
+  "q_gram_b2_06_005": {
+    "question": "Tú ___ el error si hubieras revisado el documento. (descubrir, pluperfect subjunctive, tú form)",
+    "correct": "hubieras descubierto",
+    "wrong": ["habrías descubierto", "habías descubierto", "descubrieras"],
+    "explanation": "The pluperfect subjunctive tú form is hubieras + past participle. Descubrir has the irregular past participle descubierto.",
+    "conjugation_info": "descubrir (pluperfect subjunctive): hubiera descubierto, hubieras descubierto, hubiera descubierto, hubiéramos descubierto, hubierais descubierto, hubieran descubierto"
+  },
+  "q_gram_b2_06_006": {
+    "question": "Dudaba que ella ___ la carta antes de la ceremonia. (escribir, pluperfect subjunctive)",
+    "correct": "hubiera escrito",
+    "wrong": ["habría escrito", "había escrito", "escribiera"],
+    "explanation": "After 'dudaba que', the pluperfect subjunctive is used when the doubted action happened prior to the main verb. Escribir has the irregular past participle escrito.",
+    "hint": "The doubted action preceded the main verb"
+  },
+  "q_gram_b2_06_007": {
+    "question": "I wish I had studied abroad when I was young.",
+    "correct": "Ojalá hubiera estudiado en el extranjero cuando era joven.",
+    "wrong": ["Ojalá estudiara en el extranjero cuando era joven.", "Ojalá habría estudiado en el extranjero cuando era joven.", "Ojalá había estudiado en el extranjero cuando era joven."],
+    "explanation": "'Ojalá' + pluperfect subjunctive (hubiera estudiado) expresses an impossible wish about the past. The past subjunctive (estudiara) would refer to the present or future instead."
+  },
+  "q_gram_b2_06_008": {
+    "question": "No creía que ellos ___ la verdad hasta ese momento. (saber, pluperfect subjunctive)",
+    "correct": "hubieran sabido",
+    "wrong": ["habrían sabido", "habían sabido", "supieran"],
+    "explanation": "After 'no creía que', the pluperfect subjunctive is needed because the believed action occurred before the main verb (creía). The form is hubieran sabido.",
+    "hint": "Doubt in the past about an even earlier action"
+  },
+  "q_gram_b2_06_009": {
+    "question": "Era imposible que el tren hubiera llegado a tiempo con tanta nieve.",
+    "correct": "It was impossible that the train had arrived on time with so much snow.",
+    "wrong": ["It is impossible that the train arrived on time with so much snow.", "It was impossible that the train would arrive on time with so much snow.", "It was impossible that the train will have arrived on time with so much snow."],
+    "explanation": "The pluperfect subjunctive (hubiera llegado) after 'era imposible que' expresses doubt about a completed past action. It translates naturally as 'had arrived' in English."
+  },
+  "q_gram_b2_06_010": {
+    "question": "Nosotros ___ antes si hubiéramos tenido más información. (actuar, conditional perfect, nosotros form)",
+    "correct": "habríamos actuado",
+    "wrong": ["hubiéramos actuado", "habíamos actuado", "actuaríamos"],
+    "explanation": "In the result clause of a Type 3 conditional, the conditional perfect is used. The nosotros form is habríamos + past participle: habríamos actuado.",
+    "conjugation_info": "actuar (conditional perfect): habría actuado, habrías actuado, habría actuado, habríamos actuado, habríais actuado, habrían actuado"
+  },
+
+  "q_gram_b2_07_001": {
+    "question": "Aunque ___ mucho, iremos a la excursión. (llover, present subjunctive)",
+    "correct": "llueva",
+    "wrong": ["llueve", "lloviera", "llovería"],
+    "explanation": "'Aunque' + subjunctive expresses a concession about something uncertain or hypothetical. Since the rain is uncertain, the present subjunctive (llueva) is used.",
+    "hint": "'Aunque' + subjunctive = even if (uncertain)"
+  },
+  "q_gram_b2_07_002": {
+    "question": "Aunque María ___ enferma ayer, fue a trabajar. (estar, indicative)",
+    "correct": "estaba",
+    "wrong": ["estuviera", "esté", "estaría"],
+    "explanation": "'Aunque' + indicative expresses a concession about a known fact. Since María was actually sick (a fact), the imperfect indicative (estaba) is used.",
+    "hint": "'Aunque' + indicative = although (known fact)"
+  },
+  "q_gram_b2_07_003": {
+    "question": "How does the mood (indicative vs. subjunctive) change the meaning of 'aunque'?",
+    "correct": "'Aunque' + indicative means 'although' (stating a fact), while 'aunque' + subjunctive means 'even if' (uncertain or hypothetical)",
+    "wrong": ["'Aunque' + indicative is for present tense and 'aunque' + subjunctive is for past tense", "'Aunque' + indicative is informal and 'aunque' + subjunctive is formal", "'Aunque' + indicative is for positive statements and 'aunque' + subjunctive is for negative ones"],
+    "explanation": "The choice between indicative and subjunctive after 'aunque' depends on whether the speaker presents the information as a known fact (indicative) or as uncertain/hypothetical (subjunctive)."
+  },
+  "q_gram_b2_07_004": {
+    "question": "Aunque ella no ___ de acuerdo, aceptó la decisión. (estar, past indicative, ella form)",
+    "correct": "estaba",
+    "wrong": ["estuviera", "esté", "estaría"],
+    "explanation": "Since the sentence states a past fact (she was not in agreement), the indicative is used with 'aunque'. The imperfect estaba describes an ongoing past state.",
+    "conjugation_info": "estar (imperfect indicative): estaba, estabas, estaba, estábamos, estabais, estaban"
+  },
+  "q_gram_b2_07_005": {
+    "question": "Aunque ___ todo el dinero del mundo, no podría comprar la felicidad. (tener, past subjunctive)",
+    "correct": "tuviera",
+    "wrong": ["tenía", "tendría", "tenga"],
+    "explanation": "'Aunque' + past subjunctive expresses a hypothetical concession about an unreal present situation. Having all the money in the world is clearly hypothetical.",
+    "hint": "This is clearly a hypothetical, unreal scenario"
+  },
+  "q_gram_b2_07_006": {
+    "question": "Nosotros ___ el proyecto aunque el jefe no lo aprobara. (continuar, conditional, nosotros form)",
+    "correct": "continuaríamos",
+    "wrong": ["continuábamos", "continuamos", "continuemos"],
+    "explanation": "The main clause paired with 'aunque' + past subjunctive uses the conditional to express what would happen despite the concession.",
+    "conjugation_info": "continuar (conditional): continuaría, continuarías, continuaría, continuaríamos, continuaríais, continuarían"
+  },
+  "q_gram_b2_07_007": {
+    "question": "Aunque ___ cansados, los jugadores siguieron entrenando con intensidad. (estar, indicative)",
+    "correct": "estaban",
+    "wrong": ["estuvieran", "estén", "estarían"],
+    "explanation": "Since the fatigue is presented as a known fact (the players were actually tired), 'aunque' is followed by the indicative. The imperfect (estaban) describes the ongoing state.",
+    "hint": "The tiredness was real, not hypothetical"
+  },
+  "q_gram_b2_07_008": {
+    "question": "Even if they offered me double the salary, I would not accept that job.",
+    "correct": "Aunque me ofrecieran el doble del salario, no aceptaría ese trabajo.",
+    "wrong": ["Aunque me ofrecen el doble del salario, no acepto ese trabajo.", "Aunque me ofrecerían el doble del salario, no aceptaría ese trabajo.", "Aunque me ofrezcan el doble del salario, no acepté ese trabajo."],
+    "explanation": "'Even if' expresses a hypothetical concession, requiring 'aunque' + past subjunctive (ofrecieran) for a present unreal condition, with the conditional (aceptaría) in the main clause."
+  },
+  "q_gram_b2_07_009": {
+    "question": "Tú ___ la misma decisión aunque pudieras volver atrás en el tiempo. (tomar, conditional, tú form)",
+    "correct": "tomarías",
+    "wrong": ["tomaras", "tomabas", "tomas"],
+    "explanation": "In the main clause of a concessive sentence with 'aunque' + past subjunctive, the conditional is used. The tú conditional of tomar is tomarías.",
+    "conjugation_info": "tomar (conditional): tomaría, tomarías, tomaría, tomaríamos, tomaríais, tomarían"
+  },
+  "q_gram_b2_07_010": {
+    "question": "Aunque no tenga experiencia, va a solicitar el puesto de trabajo.",
+    "correct": "Even though she may not have experience, she is going to apply for the position.",
+    "wrong": ["Although she does not have experience, she applied for the position.", "Even if she had no experience, she would apply for the position.", "Although she did not have experience, she was going to apply for the position."],
+    "explanation": "'Aunque' + present subjunctive (tenga) indicates uncertainty about the conceded fact ('she may or may not have experience'), while the indicative main clause (va a solicitar) states the definite intention."
+  },
+
+  "q_gram_b2_08_001": {
+    "question": "La mujer ___ hijos estudian en el extranjero vive en mi calle. (relative pronoun for possession)",
+    "correct": "cuyos",
+    "wrong": ["que sus", "los cuales", "de quien"],
+    "explanation": "'Cuyo/a/os/as' is the possessive relative pronoun meaning 'whose'. It agrees with the noun it modifies (hijos, masculine plural), so cuyos is correct.",
+    "conjugation_info": "cuyo (possessive relative): cuyo (m.sg.), cuya (f.sg.), cuyos (m.pl.), cuyas (f.pl.)"
+  },
+  "q_gram_b2_08_002": {
+    "question": "La empresa para ___ trabajo tiene oficinas en toda Europa. (relative pronoun after preposition)",
+    "correct": "la cual",
+    "wrong": ["que", "quien", "cuya"],
+    "explanation": "After prepositions, 'el cual/la cual/los cuales/las cuales' is used, especially in formal or written Spanish. Since 'empresa' is feminine singular, 'la cual' is correct.",
+    "hint": "The relative pronoun must agree with 'empresa' (feminine)"
+  },
+  "q_gram_b2_08_003": {
+    "question": "El edificio en ___ vivimos fue construido en el siglo XIX. (relative pronoun after 'en')",
+    "correct": "el cual",
+    "wrong": ["cuyo", "quien", "que su"],
+    "explanation": "After prepositions like 'en', the construction 'el/la cual' or 'el/la que' can be used. Since 'edificio' is masculine singular, 'el cual' is correct.",
+    "hint": "After a preposition, use 'el/la cual' or 'el/la que'"
+  },
+  "q_gram_b2_08_004": {
+    "question": "What is the difference between 'que', 'el cual', and 'cuyo' as relative pronouns?",
+    "correct": "'Que' is the most common relative pronoun, 'el cual' is used after prepositions or for clarity, and 'cuyo' expresses possession (whose)",
+    "wrong": ["'Que' is for people, 'el cual' is for things, and 'cuyo' is for places", "'Que' is informal, 'el cual' is formal, and 'cuyo' is archaic", "'Que' is for subjects, 'el cual' is for objects, and 'cuyo' is for indirect objects"],
+    "explanation": "'Que' is the default relative pronoun. 'El cual/la cual' is preferred after prepositions or when clarifying which antecedent is referred to. 'Cuyo' functions as a possessive adjective meaning 'whose'."
+  },
+  "q_gram_b2_08_005": {
+    "question": "Las razones por ___ dimitió el director no están claras. (relative pronoun after 'por', plural)",
+    "correct": "las cuales",
+    "wrong": ["que", "cuyas", "quienes"],
+    "explanation": "After the preposition 'por', 'las cuales' is used and agrees with 'razones' (feminine plural). 'Por las cuales' means 'for which / because of which'.",
+    "conjugation_info": "el cual (relative pronoun): el cual (m.sg.), la cual (f.sg.), los cuales (m.pl.), las cuales (f.pl.)"
+  },
+  "q_gram_b2_08_006": {
+    "question": "Tengo una amiga ___ madre es médica y ___ padre es abogado. (cuyo, two blanks)",
+    "correct": "cuya ... cuyo",
+    "wrong": ["cuyo ... cuya", "cuya ... cuya", "cuyos ... cuyas"],
+    "explanation": "'Cuyo/a' agrees with the possessed noun, not the possessor. 'Madre' is feminine (cuya) and 'padre' is masculine (cuyo).",
+    "hint": "'Cuyo' agrees with the noun that follows it, not the antecedent"
+  },
+  "q_gram_b2_08_007": {
+    "question": "The city in which we met has changed a lot.",
+    "correct": "La ciudad en la cual nos conocimos ha cambiado mucho.",
+    "wrong": ["La ciudad en que nos conocíamos ha cambiado mucho.", "La ciudad cuya nos conocimos ha cambiado mucho.", "La ciudad la cual nos conocimos ha cambiado mucho."],
+    "explanation": "'En la cual' (in which) is the formal relative pronoun construction after a preposition. 'La cual' agrees with 'ciudad' (feminine singular). The preterite 'conocimos' is used for the specific past event."
+  },
+  "q_gram_b2_08_008": {
+    "question": "El autor ___ novela ganó el premio es de Colombia. (cuyo, agreeing with 'novela')",
+    "correct": "cuya",
+    "wrong": ["cuyo", "cuyos", "cuyas"],
+    "explanation": "'Cuya' must agree with 'novela' (feminine singular), not with 'autor' (masculine). This is a key rule: cuyo agrees with the noun it modifies (the possessed thing).",
+    "hint": "Remember: cuyo agrees with the following noun, not the antecedent"
+  },
+  "q_gram_b2_08_009": {
+    "question": "Visitamos el museo, el cual había sido renovado recientemente.",
+    "correct": "We visited the museum, which had been recently renovated.",
+    "wrong": ["We visited the museum whose renovation was recent.", "We visited the museum that had been recently renovated.", "We visited the museum in which had been recently renovated."],
+    "explanation": "'El cual' is used here in a non-restrictive relative clause (set off by a comma) to add extra information about 'el museo'. It translates as 'which' in English."
+  },
+  "q_gram_b2_08_010": {
+    "question": "Los problemas con ___ nos enfrentamos son muy complejos. (relative pronoun after 'con', masculine plural)",
+    "correct": "los cuales",
+    "wrong": ["que", "cuyos", "quienes"],
+    "explanation": "After the preposition 'con', 'los cuales' is used and agrees with 'problemas' (masculine plural). 'Con los cuales' means 'with which'.",
+    "conjugation_info": "el cual (relative pronoun): el cual (m.sg.), la cual (f.sg.), los cuales (m.pl.), las cuales (f.pl.)"
+  },
+
+  "q_gram_b2_09_001": {
+    "question": "___ importante es que todos participen en la decisión. (lo + adjective)",
+    "correct": "Lo",
+    "wrong": ["El", "La", "Un"],
+    "explanation": "'Lo + adjective' creates a nominalized abstract concept. 'Lo importante' means 'the important thing / what is important'. 'Lo' is a neuter article used for abstraction.",
+    "hint": "'Lo' + adjective = the [adjective] thing"
+  },
+  "q_gram_b2_09_002": {
+    "question": "No entiendes ___ difícil que es aprender un idioma nuevo. (lo + adjective)",
+    "correct": "lo",
+    "wrong": ["el", "la", "qué"],
+    "explanation": "'Lo + adjective + que' is used to express the degree or extent of something: 'how difficult it is'. The neuter article 'lo' nominalizes the adjective in this construction.",
+    "hint": "'Lo + adjective + que' = how [adjective] something is"
+  },
+  "q_gram_b2_09_003": {
+    "question": "What does the construction 'lo que' mean, and how is it used?",
+    "correct": "'Lo que' means 'what' or 'that which' and introduces a noun clause referring to an abstract idea or an entire concept",
+    "wrong": ["'Lo que' means 'how much' and is used to express quantity", "'Lo que' means 'the one who' and refers to a specific person", "'Lo que' means 'which one' and is used in questions only"],
+    "explanation": "'Lo que' nominalizes an entire clause: 'lo que quiero' = 'what I want / that which I want'. It can function as subject or object and refers to abstract concepts rather than specific nouns."
+  },
+  "q_gram_b2_09_004": {
+    "question": "Lo que necesitamos ___ más tiempo para terminar el proyecto. (ser, present indicative, 3rd person)",
+    "correct": "es",
+    "wrong": ["son", "sea", "está"],
+    "explanation": "'Lo que' + clause acts as a singular subject, so the verb 'ser' is conjugated in the third person singular: es. 'Lo que necesitamos es...' = 'What we need is...'",
+    "conjugation_info": "ser (present indicative): soy, eres, es, somos, sois, son"
+  },
+  "q_gram_b2_09_005": {
+    "question": "___ que me preocupa es la falta de comunicación entre los departamentos. (nominalization)",
+    "correct": "Lo",
+    "wrong": ["El", "La", "Eso"],
+    "explanation": "'Lo que' introduces a nominalized clause meaning 'what' or 'that which'. 'Lo que me preocupa' = 'what worries me'. It functions as the subject of the sentence.",
+    "hint": "Use the neuter article to introduce 'what' as a subject"
+  },
+  "q_gram_b2_09_006": {
+    "question": "Ella no sabe ___ bueno que es este restaurante. (lo + adjective, ella form context)",
+    "correct": "lo",
+    "wrong": ["el", "qué", "la"],
+    "explanation": "'Lo + adjective + que' expresses degree or extent: 'how good this restaurant is'. The neuter 'lo' nominalizes the adjective in an exclamatory sense.",
+    "conjugation_info": "Nominalization pattern: lo + adjective + que + clause (expresses degree/extent)"
+  },
+  "q_gram_b2_09_007": {
+    "question": "No imaginas ___ rápido que pasa el tiempo cuando estás ocupado. (lo + adjective)",
+    "correct": "lo",
+    "wrong": ["el", "qué", "tan"],
+    "explanation": "'Lo + adjective/adverb + que' is used to emphasize the degree of something. 'Lo rápido que pasa el tiempo' = 'how fast time goes by'.",
+    "hint": "This construction emphasizes the degree or extent"
+  },
+  "q_gram_b2_09_008": {
+    "question": "What I like most about this city is its architecture.",
+    "correct": "Lo que más me gusta de esta ciudad es su arquitectura.",
+    "wrong": ["El que más me gusta de esta ciudad es su arquitectura.", "La que más me gusta de esta ciudad es su arquitectura.", "Que más me gusta de esta ciudad es su arquitectura."],
+    "explanation": "'Lo que' introduces the nominalized clause 'what I like most'. Since the concept is abstract (not referring to a specific masculine or feminine noun), the neuter 'lo' is required."
+  },
+  "q_gram_b2_09_009": {
+    "question": "Lo malo de vivir en el centro ___ el ruido constante. (ser, present, 3rd person singular)",
+    "correct": "es",
+    "wrong": ["son", "está", "sea"],
+    "explanation": "'Lo malo' (the bad thing) is a nominalized abstract concept using 'lo + adjective'. It acts as a singular subject, requiring 'es' (third person singular of ser).",
+    "conjugation_info": "ser (present indicative): soy, eres, es, somos, sois, son"
+  },
+  "q_gram_b2_09_010": {
+    "question": "Lo que no me esperaba era que cancelaran el vuelo sin previo aviso.",
+    "correct": "What I did not expect was that they would cancel the flight without prior notice.",
+    "wrong": ["The thing I was not expecting was that they canceled the flight without previous notice.", "What I am not expecting is that they cancel the flight without notice.", "Which I did not expect was that they would cancel the flight without prior notice."],
+    "explanation": "'Lo que' means 'what' (that which). 'No me esperaba' is in the imperfect (ongoing past expectation). 'Cancelaran' is past subjunctive because it follows a noun clause expressing an unexpected event."
+  },
+
+  "q_gram_b2_10_001": {
+    "question": "Quería ir al concierto; ___, no pude conseguir entradas. (discourse connector: however)",
+    "correct": "sin embargo",
+    "wrong": ["por lo tanto", "además", "en cambio"],
+    "explanation": "'Sin embargo' means 'however/nevertheless' and introduces a contrasting idea. It connects two clauses where the second contradicts or limits the first.",
+    "conjugation_info": "Common contrast connectors: sin embargo (however), no obstante (nevertheless), a pesar de eso (despite that)"
+  },
+  "q_gram_b2_10_002": {
+    "question": "La empresa ha reducido costos. ___, los beneficios han aumentado este trimestre. (consequence connector)",
+    "correct": "Por lo tanto",
+    "wrong": ["Sin embargo", "En cambio", "Aunque"],
+    "explanation": "'Por lo tanto' means 'therefore' and introduces a logical consequence. The cost reduction leads to increased profits, so a consequence connector is needed.",
+    "hint": "The second sentence is a logical result of the first"
+  },
+  "q_gram_b2_10_003": {
+    "question": "El proyecto fue difícil. ___, el equipo logró terminarlo a tiempo. (contrast connector)",
+    "correct": "No obstante",
+    "wrong": ["Por consiguiente", "Es decir", "Asimismo"],
+    "explanation": "'No obstante' means 'nevertheless/however' and introduces a contrast. Despite the difficulty, the team finished on time, so a concessive connector is appropriate.",
+    "hint": "The second clause contrasts with the expectation set by the first"
+  },
+  "q_gram_b2_10_004": {
+    "question": "What is the function of discourse connectors like 'sin embargo', 'por lo tanto', and 'en cambio'?",
+    "correct": "They link ideas between sentences or paragraphs by showing contrast, consequence, addition, or other logical relationships",
+    "wrong": ["They replace conjunctions like 'y', 'o', and 'pero' in all cases", "They are only used in formal written language and never in speech", "They modify verbs to indicate the speaker's attitude toward the action"],
+    "explanation": "Discourse connectors (conectores del discurso) organize text by showing relationships between ideas: contrast (sin embargo), consequence (por lo tanto), replacement (en cambio), addition (además), etc."
+  },
+  "q_gram_b2_10_005": {
+    "question": "No me gusta el frío. ___, me gusta la nieve en invierno. (connector: despite that, yo context)",
+    "correct": "A pesar de eso",
+    "wrong": ["Por lo tanto", "En conclusión", "Es decir"],
+    "explanation": "'A pesar de eso' means 'despite that' and introduces a concessive idea. The speaker dislikes cold but likes snow, which is a partial contradiction.",
+    "conjugation_info": "Concessive connectors: sin embargo, no obstante, a pesar de eso, con todo, aun así"
+  },
+  "q_gram_b2_10_006": {
+    "question": "Estudió mucho para el examen; ___, aprobó con la mejor nota de la clase. (consequence connector)",
+    "correct": "por consiguiente",
+    "wrong": ["sin embargo", "en cambio", "de todas formas"],
+    "explanation": "'Por consiguiente' means 'consequently/as a result'. Studying hard logically leads to a good grade, so a consequence connector is appropriate.",
+    "hint": "The second clause is a result of the first"
+  },
+  "q_gram_b2_10_007": {
+    "question": "He does not like going out at night. On the other hand, his brother goes out every weekend.",
+    "correct": "No le gusta salir por la noche. En cambio, su hermano sale todos los fines de semana.",
+    "wrong": ["No le gusta salir por la noche. Sin embargo, su hermano sale todos los fines de semana.", "No le gusta salir por la noche. Por lo tanto, su hermano sale todos los fines de semana.", "No le gusta salir por la noche. Es decir, su hermano sale todos los fines de semana."],
+    "explanation": "'En cambio' means 'on the other hand / by contrast' and introduces a contrasting comparison between two different subjects. It emphasizes the difference between the two brothers."
+  },
+  "q_gram_b2_10_008": {
+    "question": "El restaurante estaba lleno; ___, decidimos ir a otro lugar. (consequence connector)",
+    "correct": "por eso",
+    "wrong": ["no obstante", "en cambio", "de hecho"],
+    "explanation": "'Por eso' means 'that is why / for that reason' and introduces a consequence. The restaurant being full caused the decision to go elsewhere.",
+    "hint": "The decision was a consequence of the restaurant being full"
+  },
+  "q_gram_b2_10_009": {
+    "question": "La situación económica es difícil; no obstante, la empresa sigue creciendo.",
+    "correct": "The economic situation is difficult; nevertheless, the company continues to grow.",
+    "wrong": ["The economic situation is difficult; therefore, the company continues to grow.", "The economic situation is difficult; that is, the company continues to grow.", "The economic situation is difficult; on the other hand, the company continues to grow."],
+    "explanation": "'No obstante' means 'nevertheless/however' and introduces a contrasting result. Despite difficult economics, the company is still growing, which defies expectations."
+  },
+  "q_gram_b2_10_010": {
+    "question": "La propuesta fue aprobada. ___, debemos empezar a implementarla cuanto antes. (consequence connector, nosotros context)",
+    "correct": "Por consiguiente",
+    "wrong": ["No obstante", "En cambio", "Dicho de otro modo"],
+    "explanation": "'Por consiguiente' means 'consequently' and introduces a logical result. The approval of the proposal naturally leads to the need to implement it.",
+    "conjugation_info": "Consequence connectors: por lo tanto, por consiguiente, por eso, en consecuencia, de ahí que"
+  },
+
+  "q_gram_b2_11_001": {
+    "question": "Los niños ___ a jugar en el parque después de comer. (ir a + infinitive, preterite)",
+    "correct": "fueron a jugar",
+    "wrong": ["iban a jugar", "van a jugar", "irían a jugar"],
+    "explanation": "'Ir a + infinitive' is a verbal periphrasis that expresses intention or imminent action. In the preterite, 'fueron a jugar' indicates they went and played.",
+    "hint": "This is a completed past action, use the preterite of 'ir'"
+  },
+  "q_gram_b2_11_002": {
+    "question": "Después del divorcio, ella ___ a empezar su vida de nuevo. (volver a + infinitive, preterite)",
+    "correct": "volvió a empezar",
+    "wrong": ["volvía a empezar", "vuelve a empezar", "volvería a empezar"],
+    "explanation": "'Volver a + infinitive' means 'to do something again'. In the preterite, 'volvió a empezar' = 'she started over again / she began again'.",
+    "hint": "'Volver a' + infinitive = to do something again"
+  },
+  "q_gram_b2_11_003": {
+    "question": "What does the verbal periphrasis 'dejar de + infinitive' express?",
+    "correct": "The cessation or stopping of an action (to stop doing something)",
+    "wrong": ["The beginning of a new action (to start doing something)", "The repetition of an action (to do something again)", "The continuation of an ongoing action (to keep doing something)"],
+    "explanation": "'Dejar de + infinitive' means 'to stop/quit doing something'. For example, 'dejó de fumar' = 'he/she stopped smoking'. It indicates the end or interruption of an activity."
+  },
+  "q_gram_b2_11_004": {
+    "question": "Cuando empezó a llover, los niños ___ a correr hacia la casa. (ponerse a + infinitive, preterite, ellos form)",
+    "correct": "se pusieron a correr",
+    "wrong": ["se ponían a correr", "se ponen a correr", "se pondrían a correr"],
+    "explanation": "'Ponerse a + infinitive' means 'to suddenly start doing something'. In the preterite ellos form: se pusieron a correr = they started running (suddenly).",
+    "conjugation_info": "ponerse (preterite): me puse, te pusiste, se puso, nos pusimos, os pusisteis, se pusieron"
+  },
+  "q_gram_b2_11_005": {
+    "question": "Mi abuelo ___ viviendo en el mismo pueblo desde hace 60 años. (llevar + gerund, present)",
+    "correct": "lleva",
+    "wrong": ["está", "sigue", "viene"],
+    "explanation": "'Llevar + gerund' expresses duration of an ongoing action. 'Lleva viviendo' + time = 'has been living for'. It emphasizes the accumulated duration.",
+    "hint": "'Llevar + gerund' = to have been doing something for [time]"
+  },
+  "q_gram_b2_11_006": {
+    "question": "Ella ___ de fumar el año pasado y ahora se siente mucho mejor. (dejar de + infinitive, preterite, ella form)",
+    "correct": "dejó de fumar",
+    "wrong": ["dejaba de fumar", "deja de fumar", "dejaría de fumar"],
+    "explanation": "'Dejar de + infinitive' means 'to stop doing something'. In the preterite (dejó), it indicates a definitive, completed cessation of the habit.",
+    "conjugation_info": "dejar (preterite): dejé, dejaste, dejó, dejamos, dejasteis, dejaron"
+  },
+  "q_gram_b2_11_007": {
+    "question": "Nosotros ___ estudiando español desde hace tres meses. (llevar + gerund, present, nosotros form)",
+    "correct": "llevamos",
+    "wrong": ["estamos", "seguimos", "venimos"],
+    "explanation": "'Llevar + gerund' emphasizes the duration of an ongoing action. 'Llevamos estudiando' = 'we have been studying'. The present tense of llevar is used because the action continues.",
+    "hint": "'Llevar' is the key verb for duration with ongoing actions"
+  },
+  "q_gram_b2_11_008": {
+    "question": "She suddenly started crying when she heard the news.",
+    "correct": "Ella se puso a llorar cuando escuchó la noticia.",
+    "wrong": ["Ella empezó a llorar cuando escuchaba la noticia.", "Ella dejó de llorar cuando escuchó la noticia.", "Ella volvió a llorar cuando escuchó la noticia."],
+    "explanation": "'Ponerse a + infinitive' means 'to suddenly start doing something', which captures the abruptness of the crying. The preterite 'se puso' indicates a specific moment of sudden beginning."
+  },
+  "q_gram_b2_11_009": {
+    "question": "Tú ___ a cometer los mismos errores si no cambias de actitud. (volver a + infinitive, future, tú form)",
+    "correct": "volverás a cometer",
+    "wrong": ["vuelves a cometer", "volvías a cometer", "volverías a cometer"],
+    "explanation": "'Volver a + infinitive' means 'to do something again'. In the future tense: 'volverás a cometer' = 'you will make... again'.",
+    "conjugation_info": "volver (future): volveré, volverás, volverá, volveremos, volveréis, volverán"
+  },
+  "q_gram_b2_11_010": {
+    "question": "Después de la operación, el paciente dejó de sentir dolor y volvió a caminar.",
+    "correct": "After the operation, the patient stopped feeling pain and walked again.",
+    "wrong": ["After the operation, the patient started feeling pain and stopped walking.", "After the operation, the patient kept feeling pain and walked again.", "After the operation, the patient suddenly felt pain and walked again."],
+    "explanation": "'Dejó de sentir' = 'stopped feeling' (cessation) and 'volvió a caminar' = 'walked again' (repetition). These two verbal periphrases show contrasting meanings: stopping one thing and resuming another."
+  },
+
+  "q_gram_b2_12_001": {
+    "question": "En esta tienda ___ libros usados. (vender, passive se, 3rd person plural)",
+    "correct": "se venden",
+    "wrong": ["se vende", "venden", "son vendidos"],
+    "explanation": "In the passive se construction, the verb agrees with the grammatical subject. 'Libros' is plural, so 'se venden' is correct. The construction means 'books are sold'.",
+    "conjugation_info": "Passive se pattern: se + verb (agrees with subject in number) — se vende (singular), se venden (plural)"
+  },
+  "q_gram_b2_12_002": {
+    "question": "En España ___ mucho aceite de oliva. (consumir, passive se)",
+    "correct": "se consume",
+    "wrong": ["se consumen", "consume", "es consumido"],
+    "explanation": "The passive se construction uses 'se + verb' where the verb agrees with the subject. 'Aceite de oliva' is singular, so 'se consume' (singular) is correct.",
+    "hint": "'Aceite' is a singular noun"
+  },
+  "q_gram_b2_12_003": {
+    "question": "Aquí ___ español e inglés. (hablar, passive se)",
+    "correct": "se hablan",
+    "wrong": ["se habla", "hablan", "son hablados"],
+    "explanation": "The verb in the passive se construction agrees with the subject. 'Español e inglés' are two languages (plural), so 'se hablan' is correct. This means 'Spanish and English are spoken here'.",
+    "hint": "Two languages = plural subject"
+  },
+  "q_gram_b2_12_004": {
+    "question": "What is the difference between passive se and impersonal se in Spanish?",
+    "correct": "Passive se has an identifiable grammatical subject and the verb agrees with it, while impersonal se has no subject and the verb is always 3rd person singular",
+    "wrong": ["Passive se is used only in writing, while impersonal se is used only in speech", "Passive se uses the subjunctive, while impersonal se uses the indicative", "There is no difference; they are two names for the same construction"],
+    "explanation": "Passive se: 'Se venden casas' (houses are sold — 'casas' is the subject, verb is plural). Impersonal se: 'Se vive bien aquí' (one lives well here — no subject, verb stays singular)."
+  },
+  "q_gram_b2_12_005": {
+    "question": "En la universidad ___ materias muy variadas. (ofrecer, passive se, present, 3rd person plural)",
+    "correct": "se ofrecen",
+    "wrong": ["se ofrece", "ofrecen", "son ofrecidas"],
+    "explanation": "The passive se verb agrees with its subject. 'Materias' is feminine plural, so 'se ofrecen' is correct. This means 'very varied subjects are offered'.",
+    "conjugation_info": "ofrecer (present): ofrezco, ofreces, ofrece, ofrecemos, ofrecéis, ofrecen"
+  },
+  "q_gram_b2_12_006": {
+    "question": "___ necesitan voluntarios para el evento del sábado. (passive se construction)",
+    "correct": "Se",
+    "wrong": ["Nos", "Les", "Los"],
+    "explanation": "The passive se construction begins with 'se' followed by a verb that agrees with the subject. 'Se necesitan voluntarios' = 'volunteers are needed'.",
+    "hint": "The passive se always starts with the pronoun 'se'"
+  },
+  "q_gram_b2_12_007": {
+    "question": "Apartments for rent are advertised in the newspaper.",
+    "correct": "Se alquilan pisos en el periódico.",
+    "wrong": ["Pisos son alquilados en el periódico.", "Alquilan pisos en el periódico.", "Se alquila pisos en el periódico."],
+    "explanation": "The passive se construction 'se alquilan pisos' is the natural way to express this in Spanish. The verb 'alquilan' is plural because 'pisos' (apartments) is plural."
+  },
+  "q_gram_b2_12_008": {
+    "question": "En este país ___ los derechos humanos. (respetar, passive se)",
+    "correct": "se respetan",
+    "wrong": ["se respeta", "respetan", "son respetados"],
+    "explanation": "The passive se verb agrees with the subject 'derechos humanos' (plural). 'Se respetan' means 'human rights are respected'.",
+    "hint": "'Derechos humanos' is a plural subject"
+  },
+  "q_gram_b2_12_009": {
+    "question": "Se buscan personas con experiencia en marketing digital.",
+    "correct": "People with experience in digital marketing are sought.",
+    "wrong": ["Someone is looking for people with experience in digital marketing.", "People look for experience in digital marketing.", "They seek out people with experience in digital marketing."],
+    "explanation": "'Se buscan personas' is a passive se construction where 'personas' is the subject and the verb agrees in plural. It translates as 'people are sought' without specifying who is looking."
+  },
+  "q_gram_b2_12_010": {
+    "question": "En la reunión ___ varios temas importantes. (tratar, passive se, preterite, 3rd person plural)",
+    "correct": "se trataron",
+    "wrong": ["se trató", "trataron", "fueron tratados"],
+    "explanation": "The passive se can be used in any tense. In the preterite with a plural subject ('varios temas'), the verb is 'se trataron' (several important topics were discussed).",
+    "conjugation_info": "tratar (preterite): traté, trataste, trató, tratamos, tratasteis, trataron"
+  },
+
+  "q_gram_b2_13_001": {
+    "question": "Busco a alguien que ___ hablar tres idiomas. (poder, present subjunctive)",
+    "correct": "pueda",
+    "wrong": ["puede", "podría", "pudiera"],
+    "explanation": "When describing a non-specific or hypothetical person after 'busco a alguien que', the subjunctive is used because the person may or may not exist. 'Pueda' is the present subjunctive.",
+    "hint": "The person being sought is unknown/hypothetical"
+  },
+  "q_gram_b2_13_002": {
+    "question": "Necesito un apartamento que ___ cerca del centro y que ___ balcón. (estar, tener, present subjunctive)",
+    "correct": "esté ... tenga",
+    "wrong": ["está ... tiene", "estuviera ... tuviera", "estaría ... tendría"],
+    "explanation": "After 'necesito un apartamento que', the subjunctive is used because the specific apartment is not yet identified. Both 'esté' and 'tenga' are present subjunctive forms.",
+    "hint": "The apartment is not yet found, so it is hypothetical"
+  },
+  "q_gram_b2_13_003": {
+    "question": "When do you use the subjunctive in adjective (relative) clauses in Spanish?",
+    "correct": "When the antecedent is unknown, non-specific, hypothetical, or its existence is denied or questioned",
+    "wrong": ["Whenever the relative clause describes a person", "Only when the main clause is negative", "When the antecedent is a specific, known entity"],
+    "explanation": "The subjunctive in adjective clauses signals that the antecedent is not yet identified, may not exist, or is purely hypothetical. Compare: 'Busco un libro que tenga fotos' (hypothetical) vs. 'Tengo un libro que tiene fotos' (specific, known)."
+  },
+  "q_gram_b2_13_004": {
+    "question": "No hay nadie que ___ la respuesta a esa pregunta. (saber, present subjunctive, 3rd person singular)",
+    "correct": "sepa",
+    "wrong": ["sabe", "sabría", "supiera"],
+    "explanation": "After 'no hay nadie que', the subjunctive is required because the existence of such a person is denied. 'Sepa' is the present subjunctive of saber.",
+    "conjugation_info": "saber (present subjunctive): sepa, sepas, sepa, sepamos, sepáis, sepan"
+  },
+  "q_gram_b2_13_005": {
+    "question": "¿Conoces a alguien que ___ tocar el violín? (saber, present subjunctive)",
+    "correct": "sepa",
+    "wrong": ["sabe", "sabría", "supiera"],
+    "explanation": "In a question about whether such a person exists, the subjunctive is used because the speaker does not know if anyone fits the description. 'Sepa' is the present subjunctive.",
+    "hint": "The speaker is uncertain whether such a person exists"
+  },
+  "q_gram_b2_13_006": {
+    "question": "La empresa quiere contratar a alguien que ___ experiencia en inteligencia artificial. (tener, present subjunctive, 3rd person singular)",
+    "correct": "tenga",
+    "wrong": ["tiene", "tendría", "tuviera"],
+    "explanation": "The subjunctive is used after 'alguien que' because the person hasn't been identified yet. The company is looking for someone who may or may not exist.",
+    "conjugation_info": "tener (present subjunctive): tenga, tengas, tenga, tengamos, tengáis, tengan"
+  },
+  "q_gram_b2_13_007": {
+    "question": "Quiero comprar una casa que ___ jardín y que ___ en un barrio tranquilo. (tener, estar, present subjunctive)",
+    "correct": "tenga ... esté",
+    "wrong": ["tiene ... está", "tuviera ... estuviera", "tendría ... estaría"],
+    "explanation": "Both verbs take the present subjunctive because the house is not yet identified (hypothetical antecedent). 'Tenga' and 'esté' describe desired qualities of an unknown house.",
+    "hint": "The house is not yet found"
+  },
+  "q_gram_b2_13_008": {
+    "question": "I am looking for a restaurant that serves authentic Mexican food.",
+    "correct": "Busco un restaurante que sirva comida mexicana auténtica.",
+    "wrong": ["Busco un restaurante que sirve comida mexicana auténtica.", "Busco un restaurante que serviría comida mexicana auténtica.", "Busco un restaurante que sirviera comida mexicana auténtica."],
+    "explanation": "After 'busco un restaurante que', the present subjunctive (sirva) is used because the restaurant is not yet identified. The speaker is describing a hypothetical place."
+  },
+  "q_gram_b2_13_009": {
+    "question": "No conozco a nadie que ___ resolver este problema matemático tan complejo. (poder, present subjunctive, 3rd person singular)",
+    "correct": "pueda",
+    "wrong": ["puede", "podría", "pudiera"],
+    "explanation": "After 'no conozco a nadie que', the subjunctive is mandatory because the existence of such a person is denied. Present subjunctive 'pueda' matches the present tense main verb.",
+    "conjugation_info": "poder (present subjunctive): pueda, puedas, pueda, podamos, podáis, puedan"
+  },
+  "q_gram_b2_13_010": {
+    "question": "Necesitamos empleados que sean responsables y que tengan iniciativa.",
+    "correct": "We need employees who are responsible and who have initiative.",
+    "wrong": ["We need employees who would be responsible and who would have initiative.", "We needed employees who were responsible and who had initiative.", "We need employees that are being responsible and having initiative."],
+    "explanation": "'Sean' and 'tengan' are present subjunctive because the employees have not yet been found (hypothetical antecedent). In English, the indicative is used in translation since English does not distinguish this mood in relative clauses."
+  },
+
+  "q_gram_b2_14_001": {
+    "question": "Él habla como si ___ nativo. (ser, past subjunctive, él form)",
+    "correct": "fuera",
+    "wrong": ["es", "sería", "fue"],
+    "explanation": "'Como si' (as if) is always followed by the past subjunctive (or pluperfect subjunctive) in Spanish. Since 'ser' shares its past subjunctive with 'ir', the form is fuera.",
+    "conjugation_info": "ser (past subjunctive): fuera, fueras, fuera, fuéramos, fuerais, fueran"
+  },
+  "q_gram_b2_14_002": {
+    "question": "Ella gasta dinero como si ___ millonaria. (ser, past subjunctive)",
+    "correct": "fuera",
+    "wrong": ["es", "sería", "sea"],
+    "explanation": "'Como si' always triggers the past subjunctive regardless of the tense of the main verb. 'Fuera' expresses an unreal comparison: she spends as if she were a millionaire (but she is not).",
+    "hint": "'Como si' always requires past subjunctive"
+  },
+  "q_gram_b2_14_003": {
+    "question": "Los niños corrían como si los ___ un perro. (perseguir, past subjunctive)",
+    "correct": "persiguiera",
+    "wrong": ["perseguía", "persigue", "persiguió"],
+    "explanation": "'Como si' + past subjunctive creates a hypothetical comparison. 'Persiguiera' is the past subjunctive of perseguir (with the stem change e→i). The dog chasing them is imaginary.",
+    "hint": "Perseguir has a stem change in the past subjunctive (e→i)"
+  },
+  "q_gram_b2_14_004": {
+    "question": "What mood and tense always follow 'como si' (as if) in Spanish?",
+    "correct": "The past subjunctive (imperfect subjunctive) for simultaneous/present comparisons, or the pluperfect subjunctive for past comparisons",
+    "wrong": ["The present subjunctive for current situations and the conditional for hypothetical ones", "The indicative in any tense that matches the main clause", "The present indicative for facts and the past subjunctive for hypotheticals"],
+    "explanation": "'Como si' always requires either the past subjunctive (hablara) for present unreal comparisons, or the pluperfect subjunctive (hubiera hablado) for past unreal comparisons. It never takes the indicative or present subjunctive."
+  },
+  "q_gram_b2_14_005": {
+    "question": "Ella sonrió como si no ___ pasado nada. (haber, pluperfect subjunctive, 3rd person singular)",
+    "correct": "hubiera",
+    "wrong": ["habría", "había", "ha"],
+    "explanation": "'Como si' + pluperfect subjunctive is used when the hypothetical comparison refers to the past. 'Hubiera pasado' = 'as if nothing had happened'.",
+    "conjugation_info": "haber (past subjunctive): hubiera, hubieras, hubiera, hubiéramos, hubierais, hubieran"
+  },
+  "q_gram_b2_14_006": {
+    "question": "Él me trata como si yo ___ un niño pequeño. (ser, past subjunctive)",
+    "correct": "fuera",
+    "wrong": ["soy", "sea", "sería"],
+    "explanation": "'Como si yo fuera' = 'as if I were'. The past subjunctive is mandatory after 'como si' to express the unreal comparison. The speaker is not actually a small child.",
+    "hint": "This is a present unreal comparison, so use past subjunctive"
+  },
+  "q_gram_b2_14_007": {
+    "question": "He talks about the topic as if he knew everything.",
+    "correct": "Habla del tema como si lo supiera todo.",
+    "wrong": ["Habla del tema como si lo sabe todo.", "Habla del tema como si lo sabría todo.", "Habla del tema como si lo sepa todo."],
+    "explanation": "'Como si' requires the past subjunctive (supiera) to express the unreal comparison. 'Supiera' comes from the irregular preterite stem of saber (sup-)."
+  },
+  "q_gram_b2_14_008": {
+    "question": "Los turistas miraban el monumento como si nunca ___ algo así. (ver, pluperfect subjunctive)",
+    "correct": "hubieran visto",
+    "wrong": ["habrían visto", "habían visto", "vieran"],
+    "explanation": "'Como si' + pluperfect subjunctive refers to a past hypothetical comparison. 'Hubieran visto' = 'as if they had never seen'. Ver has the irregular past participle visto.",
+    "hint": "The comparison is about a past experience, so use pluperfect subjunctive"
+  },
+  "q_gram_b2_14_009": {
+    "question": "Ella actuaba como si hubiera ganado la lotería, pero solo le habían dado un pequeño aumento.",
+    "correct": "She acted as if she had won the lottery, but they had only given her a small raise.",
+    "wrong": ["She acts as if she won the lottery, but they only gave her a small raise.", "She acted as if she would win the lottery, but they had only given her a small raise.", "She was acting as if she wins the lottery, but they only give her a small raise."],
+    "explanation": "'Como si hubiera ganado' uses the pluperfect subjunctive after 'como si' for a past unreal comparison. The main verb 'actuaba' (imperfect) sets the past context."
+  },
+  "q_gram_b2_14_010": {
+    "question": "Nosotros ___ como si no tuviéramos preocupaciones en el mundo. (vivir, imperfect indicative, nosotros form)",
+    "correct": "vivíamos",
+    "wrong": ["viviéramos", "viviríamos", "vivimos"],
+    "explanation": "The main clause before 'como si' uses the indicative (here, imperfect to describe a habitual past action). Only the clause after 'como si' requires the subjunctive.",
+    "conjugation_info": "vivir (imperfect indicative): vivía, vivías, vivía, vivíamos, vivíais, vivían"
+  },
+
+  "q_gram_b2_15_001": {
+    "question": "___ que más me gusta de esta ciudad es la gastronomía. (emphatic construction with lo)",
+    "correct": "Lo",
+    "wrong": ["El", "La", "Eso"],
+    "explanation": "'Lo que... es...' is an emphatic cleft construction that highlights a specific element. 'Lo que más me gusta' = 'What I like the most', placing emphasis on the gastronomy.",
+    "hint": "This is a cleft sentence that emphasizes the topic"
+  },
+  "q_gram_b2_15_002": {
+    "question": "Yo ___ que he terminado todo el trabajo. (sí que, emphatic affirmation, present)",
+    "correct": "sí que",
+    "wrong": ["sí", "que sí", "ya"],
+    "explanation": "'Sí que' is used for emphatic affirmation, often to contradict a doubt. 'Yo sí que he terminado' emphatically asserts: 'I really HAVE finished all the work'.",
+    "hint": "'Sí que' emphasizes the truth of a statement"
+  },
+  "q_gram_b2_15_003": {
+    "question": "What is the purpose of emphatic constructions like 'lo que... es', 'es... que/quien', and 'sí que' in Spanish?",
+    "correct": "To highlight, focus on, or give special emphasis to a particular element in the sentence",
+    "wrong": ["To ask questions in a more polite way", "To express doubt or uncertainty about an action", "To form the passive voice in formal contexts"],
+    "explanation": "Emphatic constructions restructure a sentence to bring focus to a specific element. 'Lo que quiero es descansar' emphasizes 'descansar'. 'Es Juan quien lo hizo' emphasizes 'Juan'. 'Sí que lo hice' emphatically confirms the action."
+  },
+  "q_gram_b2_15_004": {
+    "question": "Lo que necesitamos ___ más inversión en educación. (ser, present, for emphatic focus)",
+    "correct": "es",
+    "wrong": ["son", "sea", "está"],
+    "explanation": "In the emphatic cleft 'Lo que + clause + ser + focused element', 'ser' agrees with the nominalized clause 'lo que', which is singular. 'Es' links the two parts.",
+    "conjugation_info": "ser (present indicative): soy, eres, es, somos, sois, son"
+  },
+  "q_gram_b2_15_005": {
+    "question": "___ María quien resolvió el problema, no Pedro. (emphatic cleft with ser)",
+    "correct": "Fue",
+    "wrong": ["Era", "Es", "Estuvo"],
+    "explanation": "'Fue... quien...' is an emphatic cleft construction that highlights the agent. 'Fue María quien resolvió' = 'It was María who solved'. The preterite 'fue' matches the past event.",
+    "hint": "This cleft sentence emphasizes WHO did the action"
+  },
+  "q_gram_b2_15_006": {
+    "question": "Ellos ___ que saben la verdad, aunque no quieren admitirlo. (sí que, emphatic, 3rd person plural)",
+    "correct": "sí que",
+    "wrong": ["sí", "que sí", "claro que"],
+    "explanation": "'Sí que' is an emphatic intensifier placed before the verb to assert the truth forcefully. 'Ellos sí que saben' = 'They really DO know the truth'.",
+    "conjugation_info": "Emphatic 'sí que' pattern: subject + sí que + verb (any tense)"
+  },
+  "q_gram_b2_15_007": {
+    "question": "___ que me molesta es que no me hayan avisado con tiempo. (emphatic lo que construction)",
+    "correct": "Lo",
+    "wrong": ["El", "La", "Eso"],
+    "explanation": "'Lo que me molesta es...' is a cleft construction that emphasizes the cause of the speaker's annoyance. 'Lo que' introduces a nominalized clause that functions as the subject.",
+    "hint": "The neuter article introduces the emphatic clause"
+  },
+  "q_gram_b2_15_008": {
+    "question": "What I really want is to travel around South America.",
+    "correct": "Lo que realmente quiero es viajar por Sudamérica.",
+    "wrong": ["Realmente quiero viajar por Sudamérica.", "Que lo quiero realmente es viajar por Sudamérica.", "El que realmente quiero es viajar por Sudamérica."],
+    "explanation": "'Lo que... es...' is the emphatic cleft construction that places focus on 'viajar por Sudamérica'. 'Lo que realmente quiero' nominalizes the clause with 'lo que'."
+  },
+  "q_gram_b2_15_009": {
+    "question": "Tú ___ que tienes talento para la música, no lo dudes. (sí que, emphatic, present context for tú)",
+    "correct": "sí que",
+    "wrong": ["sí", "que sí", "verdaderamente"],
+    "explanation": "'Tú sí que tienes talento' = 'You really DO have talent'. 'Sí que' emphatically affirms the statement, often to counter doubt or modesty.",
+    "conjugation_info": "Emphatic 'sí que' pattern: subject + sí que + verb (no conjugation change, works with any verb form)"
+  },
+  "q_gram_b2_15_010": {
+    "question": "Lo que me sorprendió fue que todos estuvieran de acuerdo desde el principio.",
+    "correct": "What surprised me was that everyone agreed from the beginning.",
+    "wrong": ["That which surprised me was that everyone had agreed from the beginning.", "What surprises me is that everyone agrees from the beginning.", "It surprised me that everyone would agree from the beginning."],
+    "explanation": "'Lo que me sorprendió fue que...' is an emphatic cleft construction. 'Lo que' = 'what', 'fue' (preterite of ser) links the surprise to its cause. 'Estuvieran' is past subjunctive after 'que' in a noun clause."
+  },
+
+  "q_gram_b2_16_001": {
+    "question": "No quiero café ___ té. (sino/pero, replacing one thing with another)",
+    "correct": "sino",
+    "wrong": ["pero", "sino que", "aunque"],
+    "explanation": "'Sino' is used after a negative clause to introduce a direct replacement or correction. 'No X sino Y' = 'not X but rather Y'. Here it contrasts two nouns.",
+    "conjugation_info": "sino vs pero: sino (but rather, after negation for direct contrast), pero (but, general contrast)"
+  },
+  "q_gram_b2_16_002": {
+    "question": "La película no fue aburrida ___ bastante entretenida. (sino/pero)",
+    "correct": "sino",
+    "wrong": ["pero", "sino que", "aunque"],
+    "explanation": "'Sino' follows the negative clause 'no fue aburrida' to introduce a direct correction. The movie was not boring but rather quite entertaining. 'Sino' replaces one adjective with another.",
+    "hint": "After a negative, 'sino' introduces the correct alternative"
+  },
+  "q_gram_b2_16_003": {
+    "question": "Quiero ir al cine, ___ no tengo tiempo hoy. (sino/pero)",
+    "correct": "pero",
+    "wrong": ["sino", "sino que", "más bien"],
+    "explanation": "'Pero' is used when the first clause is affirmative or when there is no direct contradiction/replacement. 'Quiero ir' is affirmative, and 'no tengo tiempo' adds a contrasting fact.",
+    "hint": "The first clause is affirmative, not negative"
+  },
+  "q_gram_b2_16_004": {
+    "question": "What is the key difference between 'sino' and 'pero' in Spanish?",
+    "correct": "'Sino' is used after a negative statement to introduce a direct correction or replacement, while 'pero' introduces a contrast or limitation without direct replacement",
+    "wrong": ["'Sino' is formal and 'pero' is informal", "'Sino' is used with nouns and 'pero' is used with verbs", "'Sino' expresses cause and 'pero' expresses consequence"],
+    "explanation": "'Sino' requires a preceding negative and introduces what IS true instead (No A sino B). 'Pero' simply adds a contrasting or limiting idea and can follow affirmative or negative statements."
+  },
+  "q_gram_b2_16_005": {
+    "question": "No solo habla español ___ también francés e italiano. (sino/pero, for 'not only... but also')",
+    "correct": "sino",
+    "wrong": ["pero", "sino que", "aunque"],
+    "explanation": "'No solo... sino también...' means 'not only... but also...'. This is a fixed expression using 'sino'. It adds to rather than replaces the first element.",
+    "conjugation_info": "Fixed expressions with sino: no solo... sino también (not only... but also), no... sino (not... but rather)"
+  },
+  "q_gram_b2_16_006": {
+    "question": "Ella no estudió medicina ___ se dedicó a la arquitectura. (sino que/sino, with a conjugated verb)",
+    "correct": "sino que",
+    "wrong": ["sino", "pero", "aunque"],
+    "explanation": "When what follows 'sino' is a conjugated verb (a full clause), 'sino que' is required instead of 'sino'. 'No estudió medicina sino que se dedicó a la arquitectura.'",
+    "hint": "'Sino que' is used before a conjugated verb"
+  },
+  "q_gram_b2_16_007": {
+    "question": "He is not lazy, but rather very hardworking.",
+    "correct": "No es perezoso, sino muy trabajador.",
+    "wrong": ["No es perezoso, pero muy trabajador.", "No es perezoso, sino que muy trabajador.", "Es perezoso, sino muy trabajador."],
+    "explanation": "'Sino' is used after the negative clause 'no es perezoso' to introduce the direct correction. Since it contrasts two adjectives (not a conjugated verb), 'sino' alone is correct."
+  },
+  "q_gram_b2_16_008": {
+    "question": "El problema no es difícil, ___ requiere mucha paciencia. (pero/sino)",
+    "correct": "pero",
+    "wrong": ["sino", "sino que", "aunque"],
+    "explanation": "Here 'pero' is correct because the second clause does not directly contradict or replace the first. It adds additional information: the problem is not difficult, BUT it requires patience.",
+    "hint": "The second clause adds information, it does not replace 'difícil'"
+  },
+  "q_gram_b2_16_009": {
+    "question": "No fue Pedro quien lo hizo, sino que fue María la responsable.",
+    "correct": "It was not Pedro who did it, but rather it was María who was responsible.",
+    "wrong": ["It was not Pedro who did it, but María was responsible.", "It was not Pedro who did it, however María was responsible.", "Pedro did not do it, so María was responsible."],
+    "explanation": "'Sino que' introduces a full clause that directly corrects the negative statement. 'Not Pedro but rather María' is a direct replacement of the agent, and since a conjugated verb follows, 'sino que' is used."
+  },
+  "q_gram_b2_16_010": {
+    "question": "No ___ llegó tarde, sino que además no trajo los documentos. (solo, completing 'no solo... sino que además')",
+    "correct": "solo",
+    "wrong": ["solamente", "sino", "pero"],
+    "explanation": "'No solo... sino que además...' means 'not only... but also...'. When a conjugated verb follows, 'sino que' is used. 'Además' (also/in addition) reinforces the additive meaning.",
+    "conjugation_info": "Extended pattern: no solo + clause, sino que además + clause (not only... but also/moreover)"
+  },
+
+  "q_gram_b2_17_001": {
+    "question": "Quiero que tú ___ a la fiesta esta noche. (venir, present subjunctive)",
+    "correct": "vengas",
+    "wrong": ["vinieras", "vienes", "vendrías"],
+    "explanation": "When the main verb is in the present tense (quiero), the subordinate clause uses the present subjunctive (vengas) according to the sequence of tenses. Present → Present Subjunctive.",
+    "hint": "Main verb present tense → subordinate present subjunctive"
+  },
+  "q_gram_b2_17_002": {
+    "question": "El profesor pidió que los estudiantes ___ el ensayo para el viernes. (entregar, past subjunctive)",
+    "correct": "entregaran",
+    "wrong": ["entreguen", "entregaban", "entregarían"],
+    "explanation": "When the main verb is in the past tense (pidió, preterite), the subordinate clause uses the past subjunctive (entregaran). Past → Past Subjunctive.",
+    "hint": "Main verb past tense → subordinate past subjunctive"
+  },
+  "q_gram_b2_17_003": {
+    "question": "What is the rule of sequence of tenses (concordancia temporal) for the subjunctive in Spanish?",
+    "correct": "Present/future/present perfect main verb → present subjunctive; past main verb (preterite, imperfect, pluperfect, conditional) → past subjunctive",
+    "wrong": ["The subjunctive always matches the exact tense of the main verb", "Present main verb → past subjunctive; past main verb → present subjunctive", "There is no fixed rule; any subjunctive tense can follow any main verb tense"],
+    "explanation": "The sequence of tenses governs which subjunctive tense follows the main verb. Present-sphere verbs trigger present subjunctive; past-sphere verbs trigger past subjunctive (imperfect subjunctive)."
+  },
+  "q_gram_b2_17_004": {
+    "question": "Dudaba que ella ___ la verdad. (decir, past subjunctive, ella form)",
+    "correct": "dijera",
+    "wrong": ["diga", "decía", "diría"],
+    "explanation": "Since 'dudaba' is in the imperfect (past sphere), the subordinate clause requires the past subjunctive. Decir's past subjunctive is dijera (from the irregular preterite stem dij-).",
+    "conjugation_info": "decir (past subjunctive): dijera, dijeras, dijera, dijéramos, dijerais, dijeran"
+  },
+  "q_gram_b2_17_005": {
+    "question": "Es importante que todos ___ a tiempo a la reunión de mañana. (llegar, present subjunctive)",
+    "correct": "lleguen",
+    "wrong": ["llegaran", "llegan", "llegarían"],
+    "explanation": "'Es importante' is present tense (present sphere), so the subjunctive in the subordinate clause must also be present: lleguen. Present → Present Subjunctive.",
+    "hint": "'Es importante' is present tense, triggering present subjunctive"
+  },
+  "q_gram_b2_17_006": {
+    "question": "Me alegraría que tú ___ a visitarme este verano. (venir, past subjunctive, tú form)",
+    "correct": "vinieras",
+    "wrong": ["vengas", "venías", "vendrías"],
+    "explanation": "The conditional 'me alegraría' belongs to the past sphere, so it triggers the past subjunctive. Venir's past subjunctive tú form is vinieras (from the preterite stem vinier-).",
+    "conjugation_info": "venir (past subjunctive): viniera, vinieras, viniera, viniéramos, vinierais, vinieran"
+  },
+  "q_gram_b2_17_007": {
+    "question": "No creo que ellos ___ la tarea todavía. (terminar, present subjunctive)",
+    "correct": "hayan terminado",
+    "wrong": ["terminaran", "terminan", "hubieran terminado"],
+    "explanation": "'No creo' (present sphere) triggers present subjunctive. Since the action may be completed ('todavía' = yet), the present perfect subjunctive (hayan terminado) is appropriate to express a completed action within the present sphere.",
+    "hint": "Present tense main verb + completed action = present perfect subjunctive"
+  },
+  "q_gram_b2_17_008": {
+    "question": "The teacher wanted the students to study more for the exam.",
+    "correct": "El profesor quería que los estudiantes estudiaran más para el examen.",
+    "wrong": ["El profesor quería que los estudiantes estudien más para el examen.", "El profesor quería que los estudiantes estudiarían más para el examen.", "El profesor quería que los estudiantes estudiaban más para el examen."],
+    "explanation": "'Quería' (imperfect, past sphere) triggers the past subjunctive 'estudiaran'. The sequence of tenses requires past → past subjunctive."
+  },
+  "q_gram_b2_17_009": {
+    "question": "Sería necesario que nosotros ___ antes de tomar una decisión. (hablar, past subjunctive, nosotros form)",
+    "correct": "habláramos",
+    "wrong": ["hablemos", "hablábamos", "hablaríamos"],
+    "explanation": "The conditional 'sería' belongs to the past sphere, triggering the past subjunctive. The nosotros form is habláramos (note the accent on the a).",
+    "conjugation_info": "hablar (past subjunctive): hablara, hablaras, hablara, habláramos, hablarais, hablaran"
+  },
+  "q_gram_b2_17_010": {
+    "question": "Le pedí que me llamara cuando llegara al aeropuerto.",
+    "correct": "I asked him/her to call me when he/she arrived at the airport.",
+    "wrong": ["I ask him/her to call me when he/she arrives at the airport.", "I asked him/her to call me when he/she would arrive at the airport.", "I had asked him/her to call me when he/she has arrived at the airport."],
+    "explanation": "Both 'llamara' and 'llegara' are past subjunctive, following the past-sphere main verb 'pedí' (preterite). The sequence of tenses dictates that both subordinate verbs use the past subjunctive."
+  },
+
+  "q_gram_b2_18_001": {
+    "question": "La casa ___ que vivimos tiene más de cien años. (preposition + relative, en + el/la que)",
+    "correct": "en la que",
+    "wrong": ["en que", "la que en", "que en"],
+    "explanation": "After prepositions, 'el/la/los/las que' or 'el/la cual' is used. 'La casa en la que vivimos' = 'the house in which we live'. 'La que' agrees with 'casa' (feminine singular).",
+    "conjugation_info": "Preposition + article + que: en el que (m.sg.), en la que (f.sg.), en los que (m.pl.), en las que (f.pl.)"
+  },
+  "q_gram_b2_18_002": {
+    "question": "La razón ___ que se mudaron fue el clima. (preposition + relative pronoun)",
+    "correct": "por la",
+    "wrong": ["para la", "en la", "de la"],
+    "explanation": "'La razón por la que' means 'the reason for which / the reason why'. The preposition 'por' indicates cause, and 'la que' agrees with 'razón' (feminine singular).",
+    "hint": "'La razón por la que' = the reason why"
+  },
+  "q_gram_b2_18_003": {
+    "question": "El amigo ___ quien fui al cine es de Argentina. (preposition + relative pronoun for people)",
+    "correct": "con",
+    "wrong": ["por", "de", "para"],
+    "explanation": "'Con quien' means 'with whom' and is used for people after the preposition 'con'. 'El amigo con quien fui' = 'the friend with whom I went'.",
+    "hint": "Which preposition means 'with'?"
+  },
+  "q_gram_b2_18_004": {
+    "question": "When do you use 'preposition + el/la que' versus 'preposition + quien' in relative clauses?",
+    "correct": "'Preposition + quien/quienes' is used only for people, while 'preposition + el/la/los/las que' can be used for both people and things",
+    "wrong": ["'Quien' is formal and 'el que' is informal", "'Quien' is for subjects and 'el que' is for objects", "'Quien' is singular only and 'el que' is plural only"],
+    "explanation": "'Quien/quienes' can only refer to people: 'la persona con quien hablé'. 'El/la que' is more versatile and works for both people and things: 'el tema del que hablamos', 'la persona de la que hablé'."
+  },
+  "q_gram_b2_18_005": {
+    "question": "Los estudiantes ___ quienes el profesor dirigió sus palabras estaban muy atentos. (preposition + relative, 'a' + quienes)",
+    "correct": "a",
+    "wrong": ["con", "por", "de"],
+    "explanation": "'A quienes' means 'to whom' and indicates the indirect object. 'Los estudiantes a quienes el profesor dirigió sus palabras' = 'the students to whom the professor directed his words'.",
+    "conjugation_info": "Common preposition + quien(es) patterns: con quien(es) (with whom), a quien(es) (to whom), de quien(es) (of/about whom), para quien(es) (for whom)"
+  },
+  "q_gram_b2_18_006": {
+    "question": "El hotel ___ el que nos alojamos tenía unas vistas increíbles. (preposition 'in' + relative)",
+    "correct": "en",
+    "wrong": ["con", "por", "de"],
+    "explanation": "'En el que' means 'in which'. 'El hotel en el que nos alojamos' = 'the hotel in which we stayed'. The preposition 'en' indicates location.",
+    "hint": "Which preposition indicates location (in/at)?"
+  },
+  "q_gram_b2_18_007": {
+    "question": "The book about which we spoke is very interesting.",
+    "correct": "El libro del que hablamos es muy interesante.",
+    "wrong": ["El libro que del hablamos es muy interesante.", "El libro sobre quien hablamos es muy interesante.", "El libro de que hablamos es muy interesante."],
+    "explanation": "'Hablar de algo' (to talk about something) requires the preposition 'de'. Combined with the relative pronoun: 'del que' (de + el que). 'El libro del que hablamos' = 'the book about which we spoke'."
+  },
+  "q_gram_b2_18_008": {
+    "question": "La empresa ___ la que trabajo ofrece buenos beneficios. (preposition + relative, 'for' in the sense of employment)",
+    "correct": "para",
+    "wrong": ["por", "en", "con"],
+    "explanation": "'Trabajar para' means 'to work for' (a company). 'La empresa para la que trabajo' = 'the company for which I work'. 'Para' indicates purpose or beneficiary.",
+    "hint": "'Trabajar para' = to work for (an employer)"
+  },
+  "q_gram_b2_18_009": {
+    "question": "El problema por el que estamos aquí es la falta de financiación.",
+    "correct": "The problem for which we are here is the lack of funding.",
+    "wrong": ["The problem that we are here is the lack of funding.", "The problem because we are here is the lack of funding.", "The problem with which we are here is the lack of funding."],
+    "explanation": "'Por el que' means 'for which / because of which'. 'El problema por el que estamos aquí' uses the preposition 'por' to indicate the cause or reason."
+  },
+  "q_gram_b2_18_010": {
+    "question": "Las personas ___ las que confío son muy pocas. (preposition 'in' for trust + relative, plural feminine)",
+    "correct": "en",
+    "wrong": ["con", "por", "de"],
+    "explanation": "'Confiar en' means 'to trust in'. 'Las personas en las que confío' = 'the people in whom I trust'. The preposition 'en' is required by the verb 'confiar'.",
+    "conjugation_info": "Verbs with fixed prepositions + relative: confiar en (en el/la que), depender de (del/de la que), pensar en (en el/la que), hablar de (del/de la que)"
+  }
+}

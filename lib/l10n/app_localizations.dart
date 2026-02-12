@@ -687,6 +687,24 @@ abstract class AppLocalizations {
   /// **'구매 복원'**
   String get restorePurchases;
 
+  /// No description provided for @purchaseFailed.
+  ///
+  /// In ko, this message translates to:
+  /// **'구매에 실패했습니다'**
+  String get purchaseFailed;
+
+  /// No description provided for @purchasesRestored.
+  ///
+  /// In ko, this message translates to:
+  /// **'구매가 복원되었습니다'**
+  String get purchasesRestored;
+
+  /// No description provided for @productNotAvailable.
+  ///
+  /// In ko, this message translates to:
+  /// **'상품을 불러올 수 없습니다'**
+  String get productNotAvailable;
+
   /// No description provided for @studyNotification.
   ///
   /// In ko, this message translates to:
