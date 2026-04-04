@@ -3,6 +3,7 @@ import '../../../core/config/constants.dart';
 import '../../../core/theme/app_colors.dart';
 import '../../../l10n/app_localizations.dart';
 import '../../../services/study_service.dart';
+import '../topic_list_screen.dart';
 
 class LevelProgressList extends StatelessWidget {
   final Map<String, LevelProgress> levelProgress;
@@ -66,6 +67,7 @@ class LevelProgressList extends StatelessWidget {
 
           return _buildLevelTile(
             context,
+            level,
             levelLabel,
             subtitle,
             color,
@@ -82,6 +84,7 @@ class LevelProgressList extends StatelessWidget {
 
   Widget _buildLevelTile(
     BuildContext context,
+    String levelKey,
     String level,
     String subtitle,
     Color color,
@@ -95,7 +98,21 @@ class LevelProgressList extends StatelessWidget {
 
     return Card(
       margin: const EdgeInsets.only(bottom: 12),
-      child: Padding(
+      child: InkWell(
+        onTap: () {
+          Navigator.push(
+            context,
+            MaterialPageRoute(
+              builder: (_) => TopicListScreen(
+                level: levelKey,
+                levelName: subtitle,
+                levelColor: color,
+              ),
+            ),
+          );
+        },
+        borderRadius: BorderRadius.circular(16),
+        child: Padding(
         padding: const EdgeInsets.all(16),
         child: Row(
           children: [
@@ -172,12 +189,23 @@ class LevelProgressList extends StatelessWidget {
               ),
             ),
             const SizedBox(width: 12),
-            Text(
-              '${(masteredProgress * 100).toInt()}%',
-              style: theme.textTheme.labelLarge?.copyWith(color: color),
+            Column(
+              children: [
+                Text(
+                  '${(masteredProgress * 100).toInt()}%',
+                  style: theme.textTheme.labelLarge?.copyWith(color: color),
+                ),
+                const SizedBox(height: 4),
+                Icon(
+                  Icons.arrow_forward_ios,
+                  size: 12,
+                  color: theme.colorScheme.outline,
+                ),
+              ],
             ),
           ],
         ),
+      ),
       ),
     );
   }

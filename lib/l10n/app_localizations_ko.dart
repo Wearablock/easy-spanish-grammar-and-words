@@ -501,4 +501,18 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get intensiveStudy => '집중 학습';
+
+  @override
+  String get topicList => '주제 목록';
+
+  @override
+  String get notStudiedYet => '미학습';
+
+  @override
+  String get studiedLabel => '학습 완료';
+
+  @override
+  String topicCount(int count) {
+    return '$count개 주제';
+  }
 }

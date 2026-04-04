@@ -510,4 +510,18 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get intensiveStudy => 'Intensive study';
+
+  @override
+  String get topicList => 'Topics';
+
+  @override
+  String get notStudiedYet => 'Not studied';
+
+  @override
+  String get studiedLabel => 'Studied';
+
+  @override
+  String topicCount(int count) {
+    return '$count topics';
+  }
 }

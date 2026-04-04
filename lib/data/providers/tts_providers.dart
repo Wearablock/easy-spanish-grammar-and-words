@@ -1,4 +1,5 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import '../../services/feedback_service.dart';
 import '../../services/tts_service.dart';
 import 'database_providers.dart';
 
@@ -49,4 +50,21 @@ final ttsAvailableVoicesProvider =
     FutureProvider<List<TtsVoiceInfo>>((ref) async {
   final service = ref.watch(ttsServiceProvider);
   return service.getSpanishVoices();
+});
+
+/// FeedbackService (효과음 + 진동) 싱글톤
+final feedbackServiceProvider = Provider<FeedbackService>((ref) {
+  final service = FeedbackService();
+  ref.onDispose(() => service.dispose());
+
+  // 저장된 설정 적용
+  final dao = ref.read(userSettingsDaoProvider);
+  Future(() async {
+    await service.init();
+    final sound = await dao.getSoundEnabled();
+    final vibration = await dao.getVibrationEnabled();
+    service.updateSettings(sound: sound, vibration: vibration);
+  });
+
+  return service;
 });

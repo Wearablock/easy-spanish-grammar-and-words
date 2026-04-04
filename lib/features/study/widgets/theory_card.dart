@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import '../../../core/markdown_utils.dart';
 import '../../../data/models/topic.dart';
 import '../../../l10n/app_localizations.dart';
 import 'tts_button.dart';
@@ -77,7 +78,7 @@ class TheoryCard extends ConsumerWidget {
           // 이론 내용
           if (topic.theory.isNotEmpty)
             MarkdownBody(
-              data: topic.theory,
+              data: fixMarkdownBold(topic.theory),
               styleSheet: MarkdownStyleSheet.fromTheme(theme).copyWith(
                 p: theme.textTheme.bodyLarge?.copyWith(height: 1.6),
               ),

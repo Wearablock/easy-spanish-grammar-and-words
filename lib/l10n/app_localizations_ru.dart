@@ -511,4 +511,18 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get intensiveStudy => 'Интенсивное обучение';
+
+  @override
+  String get topicList => 'Список тем';
+
+  @override
+  String get notStudiedYet => 'Не изучено';
+
+  @override
+  String get studiedLabel => 'Изучено';
+
+  @override
+  String topicCount(int count) {
+    return '$count тем';
+  }
 }

@@ -254,8 +254,13 @@ class _QuizCardState extends ConsumerState<QuizCard> {
     final selectedAnswer = _shuffledOptions[index];
     widget.onAnswered(isCorrect, selectedAnswer);
 
+    // 효과음 + 진동
+    final feedback = ref.read(feedbackServiceProvider);
     if (isCorrect) {
+      feedback.playCorrect();
       _autoPlayTts();
+    } else {
+      feedback.playWrong();
     }
   }
 

@@ -1,3 +1,6 @@
+import 'dart:io';
+
+import 'package:app_tracking_transparency/app_tracking_transparency.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter_native_splash/flutter_native_splash.dart';
@@ -75,10 +78,10 @@ class _AppHomeState extends ConsumerState<_AppHome> {
   @override
   void initState() {
     super.initState();
-    _checkOnboardingStatus();
+    _initApp();
   }
 
-  Future<void> _checkOnboardingStatus() async {
+  Future<void> _initApp() async {
     final dao = ref.read(userSettingsDaoProvider);
     final completed = await dao.isOnboardingCompleted();
 
@@ -88,6 +91,14 @@ class _AppHomeState extends ConsumerState<_AppHome> {
     if (mounted) {
       setState(() {
         _onboardingCompleted = completed;
+      });
+    }
+
+    // iOS: 첫 화면이 렌더링된 후 ATT 권한 요청
+    if (Platform.isIOS) {
+      WidgetsBinding.instance.addPostFrameCallback((_) async {
+        await Future.delayed(const Duration(milliseconds: 500));
+        await AppTrackingTransparency.requestTrackingAuthorization();
       });
     }
   }

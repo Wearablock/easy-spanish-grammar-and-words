@@ -501,6 +501,20 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get intensiveStudy => '集中学习';
+
+  @override
+  String get topicList => '主题列表';
+
+  @override
+  String get notStudiedYet => '未学习';
+
+  @override
+  String get studiedLabel => '已学习';
+
+  @override
+  String topicCount(int count) {
+    return '$count个主题';
+  }
 }
 
 /// The translations for Chinese, using the Han script (`zh_Hant`).
@@ -1000,4 +1014,18 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
 
   @override
   String get intensiveStudy => '集中學習';
+
+  @override
+  String get topicList => '主題列表';
+
+  @override
+  String get notStudiedYet => '未學習';
+
+  @override
+  String get studiedLabel => '已學習';
+
+  @override
+  String topicCount(int count) {
+    return '$count個主題';
+  }
 }

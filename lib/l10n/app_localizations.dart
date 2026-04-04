@@ -1058,6 +1058,30 @@ abstract class AppLocalizations {
   /// In ko, this message translates to:
   /// **'집중 학습'**
   String get intensiveStudy;
+
+  /// No description provided for @topicList.
+  ///
+  /// In ko, this message translates to:
+  /// **'주제 목록'**
+  String get topicList;
+
+  /// No description provided for @notStudiedYet.
+  ///
+  /// In ko, this message translates to:
+  /// **'미학습'**
+  String get notStudiedYet;
+
+  /// No description provided for @studiedLabel.
+  ///
+  /// In ko, this message translates to:
+  /// **'학습 완료'**
+  String get studiedLabel;
+
+  /// No description provided for @topicCount.
+  ///
+  /// In ko, this message translates to:
+  /// **'{count}개 주제'**
+  String topicCount(int count);
 }
 
 class _AppLocalizationsDelegate

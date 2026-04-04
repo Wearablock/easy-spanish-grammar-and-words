@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../../../core/theme/app_colors.dart';
+
 import '../../../l10n/app_localizations.dart';
 
 class ReviewAlertCard extends StatelessWidget {
@@ -18,7 +18,6 @@ class ReviewAlertCard extends StatelessWidget {
     final theme = Theme.of(context);
 
     return Card(
-      color: AppColors.warning.withValues(alpha: 0.1),
       child: InkWell(
         onTap: onTap,
         borderRadius: BorderRadius.circular(12),
@@ -31,11 +30,11 @@ class ReviewAlertCard extends StatelessWidget {
                 height: 40,
                 decoration: BoxDecoration(
                   shape: BoxShape.circle,
-                  color: AppColors.warning.withValues(alpha: 0.2),
+                  color: theme.colorScheme.primary.withValues(alpha: 0.1),
                 ),
-                child: const Icon(
+                child: Icon(
                   Icons.replay,
-                  color: AppColors.warning,
+                  color: theme.colorScheme.primary,
                   size: 22,
                 ),
               ),

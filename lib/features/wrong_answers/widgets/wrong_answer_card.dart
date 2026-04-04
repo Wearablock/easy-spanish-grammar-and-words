@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import '../../../core/markdown_utils.dart';
 import '../../../core/theme/app_colors.dart';
 import '../../../data/models/question.dart';
 import '../../../data/providers/study_providers.dart';
@@ -183,7 +184,7 @@ class _WrongAnswerCardState extends ConsumerState<WrongAnswerCard> {
                               ),
                               const SizedBox(height: 4),
                               MarkdownBody(
-                                data: q.explanation,
+                                data: fixMarkdownBold(q.explanation),
                                 styleSheet:
                                     MarkdownStyleSheet.fromTheme(theme)
                                         .copyWith(

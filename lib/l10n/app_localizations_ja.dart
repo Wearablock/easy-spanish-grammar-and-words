@@ -501,4 +501,18 @@ class AppLocalizationsJa extends AppLocalizations {
 
   @override
   String get intensiveStudy => '集中学習';
+
+  @override
+  String get topicList => 'トピック一覧';
+
+  @override
+  String get notStudiedYet => '未学習';
+
+  @override
+  String get studiedLabel => '学習済み';
+
+  @override
+  String topicCount(int count) {
+    return '$countトピック';
+  }
 }

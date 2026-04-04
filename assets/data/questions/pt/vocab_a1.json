@@ -1,0 +1,933 @@
+{
+  "q_vocab_a1_01_001": {
+    "question": "O que significa 'hola'?",
+    "correct": "olá",
+    "wrong": ["adeus", "obrigado", "por favor"],
+    "explanation": "'Hola' é a saudação espanhola mais comum, usada a qualquer hora do dia."
+  },
+  "q_vocab_a1_01_002": {
+    "question": "O que significa 'gracias'?",
+    "correct": "obrigado",
+    "wrong": ["por favor", "desculpe", "olá"],
+    "explanation": "'Gracias' significa 'obrigado'. Você pode dizer 'muchas gracias' para 'muito obrigado'."
+  },
+  "q_vocab_a1_01_003": {
+    "question": "Buenos ___, ¿cómo estás?",
+    "correct": "días",
+    "wrong": ["noches", "gracias", "hola"],
+    "explanation": "'Buenos días' significa 'bom dia' e é uma saudação comum usada de manhã."
+  },
+  "q_vocab_a1_01_004": {
+    "question": "O que significa 'por favor'?",
+    "correct": "por favor",
+    "wrong": ["obrigado", "com licença", "adeus"],
+    "explanation": "'Por favor' é usado para fazer pedidos educados, assim como 'por favor' em português."
+  },
+  "q_vocab_a1_01_005": {
+    "question": "O que significa 'lo siento' em 'Lo siento mucho'?",
+    "correct": "sinto muito",
+    "wrong": ["estou feliz", "estou cansado", "estou bem"],
+    "explanation": "'Lo siento' literalmente significa 'eu sinto' mas é usado como 'sinto muito'. 'Mucho' adiciona ênfase, significando 'muito'."
+  },
+  "q_vocab_a1_01_006": {
+    "question": "Até amanhã!",
+    "correct": "¡Hasta mañana!",
+    "wrong": ["¡Hasta luego!", "¡Buenas noches!", "¡Adiós para siempre!"],
+    "explanation": "'Hasta mañana' literalmente significa 'até amanhã' e é usado quando você verá alguém no dia seguinte."
+  },
+  "q_vocab_a1_01_007": {
+    "question": "O que significa 'de nada' em '¡Gracias! — De nada.'?",
+    "correct": "de nada",
+    "wrong": ["claro", "sem problema", "adeus"],
+    "explanation": "'De nada' literalmente se traduz como 'de nada' e é a resposta padrão para 'gracias'."
+  },
+  "q_vocab_a1_01_008": {
+    "question": "¿Cómo estás?",
+    "correct": "Como está?",
+    "wrong": ["Qual é o seu nome?", "De onde você é?", "Quantos anos você tem?"],
+    "explanation": "'¿Cómo estás?' é uma forma informal de perguntar 'Como você está?' A versão formal é '¿Cómo está usted?'."
+  },
+  "q_vocab_a1_01_009": {
+    "question": "Você acidentalmente esbarra em alguém na rua. O que você diz?",
+    "correct": "¡Perdón!",
+    "wrong": ["¡Hola!", "¡Gracias!", "¡Adiós!"],
+    "explanation": "'Perdón' significa 'perdão' ou 'com licença' e é usado quando você acidentalmente incomoda alguém.",
+    "context": "Caminhando em uma rua cheia de gente"
+  },
+  "q_vocab_a1_01_010": {
+    "question": "Você está saindo da casa de um amigo tarde da noite. O que você diz?",
+    "correct": "¡Buenas noches!",
+    "wrong": ["¡Buenos días!", "¡Buenas tardes!", "¡Hola!"],
+    "explanation": "'Buenas noches' significa 'boa noite' e é usado tanto como saudação quanto como despedida à noite.",
+    "context": "Saindo da casa de um amigo à noite"
+  },
+  "q_vocab_a1_02_001": {
+    "question": "O que significa 'madre'?",
+    "correct": "mãe",
+    "wrong": ["pai", "irmã", "avó"],
+    "explanation": "'Madre' significa 'mãe'. A palavra informal é 'mamá'."
+  },
+  "q_vocab_a1_02_002": {
+    "question": "Mi ___ se llama Carlos. Es el esposo de mi madre.",
+    "correct": "padre",
+    "wrong": ["hermano", "hijo", "abuelo"],
+    "explanation": "'Padre' significa 'pai'. A frase diz 'Meu pai se chama Carlos. Ele é o marido da minha mãe.'"
+  },
+  "q_vocab_a1_02_003": {
+    "question": "O que significa 'hermana'?",
+    "correct": "irmã",
+    "wrong": ["irmão", "prima", "tia"],
+    "explanation": "'Hermana' é a forma feminina que significa 'irmã'. A forma masculina 'hermano' significa 'irmão'."
+  },
+  "q_vocab_a1_02_004": {
+    "question": "O que significa 'abuelo'?",
+    "correct": "avô",
+    "wrong": ["tio", "pai", "primo"],
+    "explanation": "'Abuelo' significa 'avô'. 'Abuela' é 'avó'. Juntos, 'abuelos' pode significar 'avós'."
+  },
+  "q_vocab_a1_02_005": {
+    "question": "Meu tio mora em Madri.",
+    "correct": "Mi tío vive en Madrid.",
+    "wrong": ["Mi primo vive en Madrid.", "Mi abuelo vive en Madrid.", "Mi sobrino vive en Madrid."],
+    "explanation": "'Tío' significa 'tio'. 'Tía' é a forma feminina que significa 'tia'."
+  },
+  "q_vocab_a1_02_006": {
+    "question": "O que significa 'esposa' em 'Ella es mi esposa'?",
+    "correct": "esposa",
+    "wrong": ["namorada", "amiga", "irmã"],
+    "explanation": "'Esposa' significa 'esposa'. 'Esposo' significa 'marido'. São termos formais para um parceiro casado."
+  },
+  "q_vocab_a1_02_007": {
+    "question": "Você quer apresentar sua amiga para alguém. Qual palavra você usa?",
+    "correct": "amiga",
+    "wrong": ["novia", "prima", "vecina"],
+    "explanation": "'Amiga' significa 'amiga'. Usar 'novia' significaria 'namorada' (parceira romântica), o que é diferente.",
+    "context": "Apresentando uma amiga em uma festa"
+  },
+  "q_vocab_a1_02_008": {
+    "question": "O que significa 'primo' em 'Mi primo tiene diez años'?",
+    "correct": "primo",
+    "wrong": ["irmão", "sobrinho", "filho"],
+    "explanation": "'Primo' (masculino) significa 'primo'. 'Prima' é a forma feminina. A frase significa 'Meu primo tem dez anos'."
+  },
+  "q_vocab_a1_02_009": {
+    "question": "Tengo dos hermanos y una hermana.",
+    "correct": "Tenho dois irmãos e uma irmã.",
+    "wrong": ["Tenho duas irmãs e um irmão.", "Tenho dois primos e uma irmã.", "Tenho dois amigos e uma irmã."],
+    "explanation": "'Hermanos' é a forma plural masculina que significa 'irmãos'. 'Hermana' significa 'irmã'."
+  },
+  "q_vocab_a1_02_010": {
+    "question": "Seu vizinho pergunta sobre sua família. Como você diz 'Moro com meus pais'?",
+    "correct": "Vivo con mis padres.",
+    "wrong": ["Vivo con mis amigos.", "Vivo con mis hermanos.", "Vivo con mis abuelos."],
+    "explanation": "'Padres' significa 'pais'. É o plural de 'padre' (pai) mas quando usado no plural refere-se a ambos os pais.",
+    "context": "Conversando com um vizinho sobre a família"
+  },
+  "q_vocab_a1_03_001": {
+    "question": "O que significa 'hora'?",
+    "correct": "hora",
+    "wrong": ["minuto", "dia", "semana"],
+    "explanation": "'Hora' significa 'hora' (quando se pergunta que horas são). '¿Qué hora es?' = 'Que horas são?'"
+  },
+  "q_vocab_a1_03_002": {
+    "question": "O que significa 'mañana' em 'por la mañana'?",
+    "correct": "manhã",
+    "wrong": ["tarde", "noite", "madrugada"],
+    "explanation": "'Mañana' significa 'manhã' quando usado com 'por la'. Também pode significar 'amanhã' em outros contextos."
+  },
+  "q_vocab_a1_03_003": {
+    "question": "Son las tres y ___. (3:30)",
+    "correct": "media",
+    "wrong": ["cuarto", "punto", "minuto"],
+    "explanation": "'Media' significa 'meia'. 'Son las tres y media' significa 'São três e meia' (literalmente 'três e meia')."
+  },
+  "q_vocab_a1_03_004": {
+    "question": "O que significa 'reloj'?",
+    "correct": "relógio",
+    "wrong": ["calendário", "alarme", "cronômetro"],
+    "explanation": "'Reloj' pode significar tanto 'relógio' (de parede) quanto 'relógio' (de pulso) em espanhol."
+  },
+  "q_vocab_a1_03_005": {
+    "question": "O que significa 'en punto' em 'Son las cinco en punto'?",
+    "correct": "em ponto / exatamente",
+    "wrong": ["quase", "mais ou menos", "aproximadamente"],
+    "explanation": "'En punto' significa 'em ponto'. 'Son las cinco en punto' = 'São exatamente cinco horas'."
+  },
+  "q_vocab_a1_03_006": {
+    "question": "É uma hora.",
+    "correct": "Es la una.",
+    "wrong": ["Son las una.", "Es el uno.", "Son la una."],
+    "explanation": "Para 1:00, usamos 'Es la una' (singular). Para todas as outras horas, usamos 'Son las...' (plural)."
+  },
+  "q_vocab_a1_03_007": {
+    "question": "O que significa 'tarde' em 'Buenas tardes'?",
+    "correct": "tarde",
+    "wrong": ["manhã", "noite", "anoitecer"],
+    "explanation": "'Tarde' significa 'tarde'. 'Buenas tardes' é usado aproximadamente do meio-dia até o pôr do sol."
+  },
+  "q_vocab_a1_03_008": {
+    "question": "¿Qué hora es? — Son las dos y cuarto.",
+    "correct": "Que horas são? — São duas e quinze.",
+    "wrong": ["Que horas são? — São duas e quarenta e cinco.", "Que horas são? — São duas e meia.", "Que dia é? — É terça-feira."],
+    "explanation": "'Cuarto' significa 'um quarto'. 'Son las dos y cuarto' = 'São duas e quinze' (um quarto depois das duas)."
+  },
+  "q_vocab_a1_03_009": {
+    "question": "Você precisa perguntar a um estranho na rua que horas são. O que você diz?",
+    "correct": "Perdone, ¿qué hora es?",
+    "wrong": ["¡Hola! ¿Qué día es?", "¿Cuánto cuesta?", "¿Dónde está el reloj?"],
+    "explanation": "'Perdone, ¿qué hora es?' é uma forma educada de perguntar as horas a alguém. 'Perdone' é a forma formal de 'com licença'.",
+    "context": "Perguntando as horas na rua"
+  },
+  "q_vocab_a1_03_010": {
+    "question": "Seu amigo pergunta quando você geralmente acorda. Como você diz 'Acordo às sete da manhã'?",
+    "correct": "Me despierto a las siete de la mañana.",
+    "wrong": ["Me despierto a las siete de la noche.", "Me despierto a la siete de la mañana.", "Me duermo a las siete de la mañana."],
+    "explanation": "'A las siete de la mañana' significa 'às sete da manhã'. Nota: usamos 'a las' para todas as horas exceto uma ('a la una').",
+    "context": "Falando sobre rotinas diárias"
+  },
+  "q_vocab_a1_04_001": {
+    "question": "O que significa 'lunes'?",
+    "correct": "segunda-feira",
+    "wrong": ["terça-feira", "sexta-feira", "domingo"],
+    "explanation": "'Lunes' significa 'segunda-feira'. Em espanhol, os dias da semana não são capitalizados."
+  },
+  "q_vocab_a1_04_002": {
+    "question": "El primer mes del año es ___.",
+    "correct": "enero",
+    "wrong": ["febrero", "marzo", "diciembre"],
+    "explanation": "'Enero' significa 'janeiro', o primeiro mês do ano. Como os dias, os meses não são capitalizados em espanhol."
+  },
+  "q_vocab_a1_04_003": {
+    "question": "O que significa 'verano'?",
+    "correct": "verão",
+    "wrong": ["inverno", "primavera", "outono"],
+    "explanation": "'Verano' significa 'verão'. As quatro estações são: primavera (primavera), verano (verão), otoño (outono), invierno (inverno)."
+  },
+  "q_vocab_a1_04_004": {
+    "question": "O que significa 'semana'?",
+    "correct": "semana",
+    "wrong": ["mês", "dia", "ano"],
+    "explanation": "'Semana' significa 'semana'. 'Fin de semana' significa 'fim de semana'."
+  },
+  "q_vocab_a1_04_005": {
+    "question": "Sábado e domingo",
+    "correct": "sábado y domingo",
+    "wrong": ["viernes y sábado", "lunes y martes", "jueves y viernes"],
+    "explanation": "'Sábado' é sábado e 'domingo' é domingo. Juntos formam o 'fin de semana' (fim de semana)."
+  },
+  "q_vocab_a1_04_006": {
+    "question": "O que significa 'primavera' em 'Me gusta la primavera'?",
+    "correct": "primavera",
+    "wrong": ["verão", "outono", "inverno"],
+    "explanation": "'Primavera' significa 'primavera'. A frase significa 'Eu gosto da primavera'."
+  },
+  "q_vocab_a1_04_007": {
+    "question": "Alguém pergunta que dia é hoje. Hoje é quarta-feira. Como você responde?",
+    "correct": "Hoy es miércoles.",
+    "wrong": ["Hoy es martes.", "Hoy es jueves.", "Hoy es viernes."],
+    "explanation": "'Miércoles' significa 'quarta-feira'. Note o acento agudo no 'e'. 'Hoy es...' significa 'Hoje é...'.",
+    "context": "Alguém perguntando que dia é hoje"
+  },
+  "q_vocab_a1_04_008": {
+    "question": "O que significa 'invierno' em 'En invierno hace frío'?",
+    "correct": "inverno",
+    "wrong": ["outono", "verão", "primavera"],
+    "explanation": "'Invierno' significa 'inverno'. A frase significa 'No inverno faz frio'."
+  },
+  "q_vocab_a1_04_009": {
+    "question": "Hoy es viernes. Mañana es ___.",
+    "correct": "Hoje é sexta-feira. Amanhã é sábado.",
+    "wrong": ["Hoje é sexta-feira. Amanhã é quinta-feira.", "Hoje é sexta-feira. Amanhã é domingo.", "Hoje é quinta-feira. Amanhã é sexta-feira."],
+    "explanation": "'Viernes' é sexta-feira e o dia após sexta-feira é 'sábado' (sábado)."
+  },
+  "q_vocab_a1_04_010": {
+    "question": "Você quer marcar uma reunião. Como você diz 'A reunião é na quinta-feira'?",
+    "correct": "La reunión es el jueves.",
+    "wrong": ["La reunión es el martes.", "La reunión es el miércoles.", "La reunión es la jueves."],
+    "explanation": "Os dias da semana usam o artigo 'el' (singular) ou 'los' (plural/habitual). 'El jueves' = 'na quinta-feira'.",
+    "context": "Marcando uma reunião no trabalho"
+  },
+  "q_vocab_a1_05_001": {
+    "question": "O que significa 'rojo'?",
+    "correct": "vermelho",
+    "wrong": ["azul", "verde", "amarelo"],
+    "explanation": "'Rojo' significa 'vermelho'. Como a maioria dos adjetivos, muda de forma: rojo (masc.), roja (fem.)."
+  },
+  "q_vocab_a1_05_002": {
+    "question": "O que significa 'blanco'?",
+    "correct": "branco",
+    "wrong": ["preto", "cinza", "marrom"],
+    "explanation": "'Blanco' significa 'branco'. Seu oposto é 'negro' (preto)."
+  },
+  "q_vocab_a1_05_003": {
+    "question": "El cielo es ___. (O céu é ___)",
+    "correct": "azul",
+    "wrong": ["rojo", "verde", "amarillo"],
+    "explanation": "'Azul' significa 'azul'. Ao contrário da maioria dos adjetivos de cor, 'azul' não muda para masculino/feminino."
+  },
+  "q_vocab_a1_05_004": {
+    "question": "O que significa 'negro'?",
+    "correct": "preto",
+    "wrong": ["branco", "cinza", "marrom"],
+    "explanation": "'Negro' significa 'preto'. Segue a concordância regular de adjetivos: negro (masc.), negra (fem.)."
+  },
+  "q_vocab_a1_05_005": {
+    "question": "O que significa 'amarillo' em 'El sol es amarillo'?",
+    "correct": "amarelo",
+    "wrong": ["laranja", "vermelho", "branco"],
+    "explanation": "'Amarillo' significa 'amarelo'. A frase significa 'O sol é amarelo'."
+  },
+  "q_vocab_a1_05_006": {
+    "question": "O carro é verde.",
+    "correct": "El coche es verde.",
+    "wrong": ["El coche es rojo.", "El coche es azul.", "La coche es verde."],
+    "explanation": "'Verde' significa 'verde'. 'Coche' (carro) é masculino, então usamos 'el'. 'Verde' não muda por gênero."
+  },
+  "q_vocab_a1_05_007": {
+    "question": "O que significa 'gris' em 'El gato es gris'?",
+    "correct": "cinza",
+    "wrong": ["marrom", "branco", "preto"],
+    "explanation": "'Gris' significa 'cinza'. Como 'azul' e 'verde', não muda de forma para masculino/feminino."
+  },
+  "q_vocab_a1_05_008": {
+    "question": "¿De qué color es la naranja?",
+    "correct": "De que cor é a laranja?",
+    "wrong": ["Onde está a laranja?", "Quanto custa a laranja?", "Você gosta da laranja?"],
+    "explanation": "'¿De qué color es...?' significa 'De que cor é...?' Esta é a maneira padrão de perguntar sobre cores em espanhol."
+  },
+  "q_vocab_a1_05_009": {
+    "question": "Você está comprando roupas e quer perguntar se uma camisa vem em rosa. O que você diz?",
+    "correct": "¿Tiene esta camisa en rosa?",
+    "wrong": ["¿Tiene esta camisa en rojo?", "¿Tiene esta camisa en marrón?", "¿Tiene esta falda en rosa?"],
+    "explanation": "'Rosa' significa 'rosa'. '¿Tiene... en rosa?' é uma maneira natural de perguntar se algo vem em rosa.",
+    "context": "Comprando roupas em uma loja"
+  },
+  "q_vocab_a1_05_010": {
+    "question": "Um amigo pergunta sua cor favorita. Como você diz 'Minha cor favorita é azul'?",
+    "correct": "Mi color favorito es el azul.",
+    "wrong": ["Mi color favorito es el rojo.", "Mi color favorita es la azul.", "Mi color favorito es el verde."],
+    "explanation": "'Color' é masculino, então dizemos 'favorito' (não 'favorita'). 'Azul' significa 'azul'.",
+    "context": "Falando sobre cores favoritas com um amigo"
+  },
+  "q_vocab_a1_06_001": {
+    "question": "O que significa 'agua'?",
+    "correct": "água",
+    "wrong": ["leite", "suco", "café"],
+    "explanation": "'Agua' significa 'água'. Apesar de ser feminina, usa 'el' no singular: 'el agua' (para evitar dois sons 'a' juntos)."
+  },
+  "q_vocab_a1_06_002": {
+    "question": "Quiero un ___ con leche, por favor.",
+    "correct": "café",
+    "wrong": ["pan", "arroz", "pollo"],
+    "explanation": "'Café con leche' significa 'café com leite', uma bebida muito popular na Espanha e América Latina."
+  },
+  "q_vocab_a1_06_003": {
+    "question": "O que significa 'pan'?",
+    "correct": "pão",
+    "wrong": ["arroz", "carne", "queijo"],
+    "explanation": "'Pan' significa 'pão'. É um dos alimentos mais básicos nos países de língua espanhola."
+  },
+  "q_vocab_a1_06_004": {
+    "question": "O que significa 'pollo'?",
+    "correct": "frango",
+    "wrong": ["peixe", "carne de vaca", "porco"],
+    "explanation": "'Pollo' significa 'frango'. 'Carne' é a palavra geral para 'carne'."
+  },
+  "q_vocab_a1_06_005": {
+    "question": "Quero um copo de suco de laranja.",
+    "correct": "Quiero un vaso de zumo de naranja.",
+    "wrong": ["Quiero un vaso de leche de naranja.", "Quiero una taza de zumo de naranja.", "Quiero un vaso de vino de naranja."],
+    "explanation": "'Zumo' significa 'suco' (usado na Espanha; 'jugo' é usado na América Latina). 'Vaso' significa 'copo'."
+  },
+  "q_vocab_a1_06_006": {
+    "question": "O que significa 'pescado' em 'El pescado está fresco'?",
+    "correct": "peixe (como comida)",
+    "wrong": ["frango", "carne", "camarão"],
+    "explanation": "'Pescado' refere-se a peixe como alimento. 'Pez' é um peixe vivo. A frase significa 'O peixe está fresco'."
+  },
+  "q_vocab_a1_06_007": {
+    "question": "Você está em um restaurante e o garçom pergunta o que você quer beber. Como você pede uma cerveja?",
+    "correct": "Una cerveza, por favor.",
+    "wrong": ["Un café, por favor.", "Un té, por favor.", "Un agua, por favor."],
+    "explanation": "'Cerveza' significa 'cerveja'. 'Una cerveza, por favor' é uma maneira educada de pedir uma cerveja em um restaurante.",
+    "context": "Pedindo uma bebida em um restaurante"
+  },
+  "q_vocab_a1_06_008": {
+    "question": "O que significa 'ensalada' em 'La ensalada está rica'?",
+    "correct": "salada",
+    "wrong": ["sopa", "sanduíche", "omelete"],
+    "explanation": "'Ensalada' significa 'salada'. 'Rica' aqui significa 'deliciosa'. A frase significa 'A salada está deliciosa'."
+  },
+  "q_vocab_a1_06_009": {
+    "question": "Me gustan las frutas y las verduras.",
+    "correct": "Gosto de frutas e legumes.",
+    "wrong": ["Gosto de carne e peixe.", "Gosto de pão e queijo.", "Gosto de café e chá."],
+    "explanation": "'Frutas' significa 'frutas' e 'verduras' significa 'legumes'. 'Me gustan' é usado com substantivos plurais."
+  },
+  "q_vocab_a1_06_010": {
+    "question": "Você é convidado em uma casa espanhola e o anfitrião oferece comida. Como você aceita educadamente?",
+    "correct": "Sí, gracias. Tiene muy buena pinta.",
+    "wrong": ["No quiero nada.", "Dame más comida.", "No me gusta la comida española."],
+    "explanation": "'Tiene muy buena pinta' significa 'Parece muito bom'. Esta é uma maneira educada e apreciativa de aceitar comida.",
+    "context": "Sendo oferecido comida na casa de alguém"
+  },
+  "q_vocab_a1_07_001": {
+    "question": "O que significa 'cabeza'?",
+    "correct": "cabeça",
+    "wrong": ["mão", "pé", "braço"],
+    "explanation": "'Cabeza' significa 'cabeça'. 'Me duele la cabeza' significa 'Minha cabeça dói' (tenho dor de cabeça)."
+  },
+  "q_vocab_a1_07_002": {
+    "question": "O que significa 'mano'?",
+    "correct": "mão",
+    "wrong": ["pé", "braço", "dedo"],
+    "explanation": "'Mano' significa 'mão'. Nota: apesar de terminar em -o, 'mano' é feminino (la mano)."
+  },
+  "q_vocab_a1_07_003": {
+    "question": "No puedo caminar, me duele el ___.",
+    "correct": "pie",
+    "wrong": ["ojo", "dedo", "diente"],
+    "explanation": "'Pie' significa 'pé'. A frase diz 'Não posso caminhar, meu pé dói'."
+  },
+  "q_vocab_a1_07_004": {
+    "question": "O que significa 'ojo'?",
+    "correct": "olho",
+    "wrong": ["ouvido", "nariz", "boca"],
+    "explanation": "'Ojo' significa 'olho'. O plural é 'ojos'. 'Tiene los ojos azules' = 'Ele/Ela tem olhos azuis'."
+  },
+  "q_vocab_a1_07_005": {
+    "question": "O que significa 'espalda' em 'Me duele la espalda'?",
+    "correct": "costas",
+    "wrong": ["estômago", "peito", "pescoço"],
+    "explanation": "'Espalda' significa 'costas' (parte do corpo). A frase significa 'Minhas costas doem'."
+  },
+  "q_vocab_a1_07_006": {
+    "question": "Escovo meus dentes toda manhã.",
+    "correct": "Me lavo los dientes cada mañana.",
+    "wrong": ["Me lavo las manos cada mañana.", "Me lavo el pelo cada mañana.", "Me lavo los ojos cada mañana."],
+    "explanation": "'Dientes' significa 'dentes' (singular: 'diente'). Em espanhol, dizemos 'lavarse los dientes' (lavar os dentes) em vez de 'escovar'."
+  },
+  "q_vocab_a1_07_007": {
+    "question": "O que significa 'boca' em 'Abre la boca'?",
+    "correct": "boca",
+    "wrong": ["olho", "mão", "ouvido"],
+    "explanation": "'Boca' significa 'boca'. 'Abre la boca' significa 'Abra a boca', comumente ouvido no dentista."
+  },
+  "q_vocab_a1_07_008": {
+    "question": "Tengo el pelo largo y los ojos marrones.",
+    "correct": "Tenho cabelo comprido e olhos castanhos.",
+    "wrong": ["Tenho cabelo curto e olhos azuis.", "Tenho braços compridos e olhos castanhos.", "Tenho cabelo comprido e olhos verdes."],
+    "explanation": "'Pelo' significa 'cabelo', 'largo' significa 'comprido', e 'ojos marrones' significa 'olhos castanhos'."
+  },
+  "q_vocab_a1_07_009": {
+    "question": "Você está no consultório médico e precisa dizer onde dói. Como você diz 'Meu estômago dói'?",
+    "correct": "Me duele el estómago.",
+    "wrong": ["Me duele la cabeza.", "Me duele la espalda.", "Me duele el brazo."],
+    "explanation": "'Estómago' significa 'estômago'. 'Me duele' é usado para partes do corpo singulares que doem.",
+    "context": "Visitando o médico com dor de estômago"
+  },
+  "q_vocab_a1_07_010": {
+    "question": "Você está descrevendo a aparência de um amigo. Como você diz 'Ela tem orelhas grandes e nariz pequeno'?",
+    "correct": "Tiene las orejas grandes y la nariz pequeña.",
+    "wrong": ["Tiene los ojos grandes y la boca pequeña.", "Tiene las orejas pequeñas y la nariz grande.", "Tiene las manos grandes y los pies pequeños."],
+    "explanation": "'Orejas' significa 'orelhas' e 'nariz' significa 'nariz'. Em espanhol, usamos 'tener' (ter) para descrever características físicas.",
+    "context": "Descrevendo as características físicas de um amigo"
+  },
+  "q_vocab_a1_08_001": {
+    "question": "O que significa 'zapatos'?",
+    "correct": "sapatos",
+    "wrong": ["botas", "meias", "sandálias"],
+    "explanation": "'Zapatos' significa 'sapatos' (singular: 'zapato'). 'Un par de zapatos' = 'um par de sapatos'."
+  },
+  "q_vocab_a1_08_002": {
+    "question": "Hace frío, necesito mi ___.",
+    "correct": "abrigo",
+    "wrong": ["camiseta", "falda", "sombrero"],
+    "explanation": "'Abrigo' significa 'casaco'. A frase diz 'Está frio, preciso do meu casaco'."
+  },
+  "q_vocab_a1_08_003": {
+    "question": "O que significa 'camisa'?",
+    "correct": "camisa",
+    "wrong": ["camiseta", "jaqueta", "vestido"],
+    "explanation": "'Camisa' significa 'camisa' (tipicamente uma camisa formal/de botões). Uma 'camiseta' é uma camiseta."
+  },
+  "q_vocab_a1_08_004": {
+    "question": "O que significa 'vestido'?",
+    "correct": "vestido",
+    "wrong": ["saia", "blusa", "calças"],
+    "explanation": "'Vestido' significa 'vestido'. Vem do verbo 'vestir' (vestir/usar)."
+  },
+  "q_vocab_a1_08_005": {
+    "question": "Estou usando calças pretas.",
+    "correct": "Llevo pantalones negros.",
+    "wrong": ["Llevo pantalones blancos.", "Llevo una falda negra.", "Llevo zapatos negros."],
+    "explanation": "'Pantalones' significa 'calças'. 'Llevar' é comumente usado para 'usar' em espanhol."
+  },
+  "q_vocab_a1_08_006": {
+    "question": "O que significa 'bolso' em 'Llevo mi bolso al trabajo'?",
+    "correct": "bolsa",
+    "wrong": ["carteira", "cinto", "chapéu"],
+    "explanation": "'Bolso' significa 'bolsa'. A frase significa 'Levo minha bolsa ao trabalho'."
+  },
+  "q_vocab_a1_08_007": {
+    "question": "Você vai à praia. Qual item você normalmente NÃO levaria?",
+    "correct": "botas",
+    "wrong": ["gafas", "sombrero", "camiseta"],
+    "explanation": "'Botas' significa 'botas', que não são típicas da praia. 'Gafas' (óculos/óculos de sol) e 'sombrero' (chapéu) são úteis na praia.",
+    "context": "Preparando-se para um dia na praia"
+  },
+  "q_vocab_a1_08_008": {
+    "question": "O que significa 'falda' em 'La falda es roja'?",
+    "correct": "saia",
+    "wrong": ["vestido", "camisa", "jaqueta"],
+    "explanation": "'Falda' significa 'saia'. A frase significa 'A saia é vermelha'."
+  },
+  "q_vocab_a1_08_009": {
+    "question": "Necesito un cinturón para estos pantalones.",
+    "correct": "Preciso de um cinto para estas calças.",
+    "wrong": ["Preciso de uma jaqueta para estas calças.", "Preciso de meias para estes sapatos.", "Preciso de um chapéu para este vestido."],
+    "explanation": "'Cinturón' significa 'cinto'. A frase significa que você precisa de um cinto porque as calças estão muito largas."
+  },
+  "q_vocab_a1_08_010": {
+    "question": "Você está em uma loja de roupas e quer experimentar uma jaqueta. O que você diz?",
+    "correct": "¿Puedo probarme esta chaqueta?",
+    "wrong": ["¿Puedo comprar esta chaqueta?", "¿Puedo ver esta chaqueta?", "¿Puedo devolver esta chaqueta?"],
+    "explanation": "'Probarme' significa 'experimentar'. 'Chaqueta' significa 'jaqueta'. Esta é uma maneira educada de pedir para experimentar roupas.",
+    "context": "Comprando em uma loja de roupas"
+  },
+  "q_vocab_a1_09_001": {
+    "question": "O que significa 'cocina'?",
+    "correct": "cozinha",
+    "wrong": ["quarto", "banheiro", "sala de estar"],
+    "explanation": "'Cocina' significa 'cozinha'. Também pode significar 'cozinhar' ou 'fogão' dependendo do contexto."
+  },
+  "q_vocab_a1_09_002": {
+    "question": "O que significa 'ventana'?",
+    "correct": "janela",
+    "wrong": ["porta", "parede", "telhado"],
+    "explanation": "'Ventana' significa 'janela'. 'Abrir la ventana' = 'abrir a janela'."
+  },
+  "q_vocab_a1_09_003": {
+    "question": "Duermo en la ___ todas las noches.",
+    "correct": "cama",
+    "wrong": ["mesa", "silla", "puerta"],
+    "explanation": "'Cama' significa 'cama'. A frase diz 'Durmo na cama todas as noites'."
+  },
+  "q_vocab_a1_09_004": {
+    "question": "O que significa 'puerta'?",
+    "correct": "porta",
+    "wrong": ["janela", "chão", "teto"],
+    "explanation": "'Puerta' significa 'porta'. 'Abrir la puerta' = 'abrir a porta', 'cerrar la puerta' = 'fechar a porta'."
+  },
+  "q_vocab_a1_09_005": {
+    "question": "O que significa 'sofá' em 'Me siento en el sofá'?",
+    "correct": "sofá",
+    "wrong": ["cadeira", "cama", "mesa"],
+    "explanation": "'Sofá' significa 'sofá'. A frase significa 'Eu me sento no sofá'. Geralmente está na 'salón' (sala de estar)."
+  },
+  "q_vocab_a1_09_006": {
+    "question": "O espelho está no banheiro.",
+    "correct": "El espejo está en el baño.",
+    "wrong": ["El espejo está en la cocina.", "La lámpara está en el baño.", "El armario está en el baño."],
+    "explanation": "'Espejo' significa 'espelho' e 'baño' significa 'banheiro'. Usamos 'está' para localização."
+  },
+  "q_vocab_a1_09_007": {
+    "question": "O que significa 'armario' em 'La ropa está en el armario'?",
+    "correct": "guarda-roupa",
+    "wrong": ["gaveta", "prateleira", "caixa"],
+    "explanation": "'Armario' significa 'guarda-roupa' ou 'armário'. A frase significa 'As roupas estão no guarda-roupa'."
+  },
+  "q_vocab_a1_09_008": {
+    "question": "Hay una estantería con muchos libros en el salón.",
+    "correct": "Há uma estante com muitos livros na sala de estar.",
+    "wrong": ["Há uma mesa com muitos livros na cozinha.", "Há uma estante com muitos livros no quarto.", "Há uma lâmpada com muitos livros na sala de estar."],
+    "explanation": "'Estantería' significa 'estante' e 'salón' significa 'sala de estar'. 'Hay' significa 'há'."
+  },
+  "q_vocab_a1_09_009": {
+    "question": "Você está procurando um apartamento e quer perguntar se tem jardim. O que você diz?",
+    "correct": "¿El piso tiene jardín?",
+    "wrong": ["¿El piso tiene cocina?", "¿El piso tiene dormitorio?", "¿El piso tiene baño?"],
+    "explanation": "'Jardín' significa 'jardim'. 'Piso' significa 'apartamento' na Espanha. Esta é uma pergunta comum ao procurar apartamentos.",
+    "context": "Procurando apartamentos com um corretor de imóveis"
+  },
+  "q_vocab_a1_09_010": {
+    "question": "Um amigo está visitando sua casa. Como você diz 'O quarto fica ao lado do banheiro'?",
+    "correct": "El dormitorio está al lado del baño.",
+    "wrong": ["El dormitorio está lejos del baño.", "La cocina está al lado del baño.", "El dormitorio está en el baño."],
+    "explanation": "'Dormitorio' significa 'quarto', 'al lado de' significa 'ao lado de', e 'baño' significa 'banheiro'.",
+    "context": "Mostrando sua casa para um amigo"
+  },
+  "q_vocab_a1_10_001": {
+    "question": "O que significa 'libro'?",
+    "correct": "livro",
+    "wrong": ["caderno", "lápis", "caneta"],
+    "explanation": "'Libro' significa 'livro'. 'Librería' significa 'livraria' (não 'biblioteca', que é 'biblioteca')."
+  },
+  "q_vocab_a1_10_002": {
+    "question": "El estudiante escribe en el ___.",
+    "correct": "cuaderno",
+    "wrong": ["libro", "examen", "pizarra"],
+    "explanation": "'Cuaderno' significa 'caderno'. A frase diz 'O estudante escreve no caderno'."
+  },
+  "q_vocab_a1_10_003": {
+    "question": "O que significa 'profesor'?",
+    "correct": "professor",
+    "wrong": ["estudante", "diretor", "colega de classe"],
+    "explanation": "'Profesor' significa 'professor'. A forma feminina é 'profesora'."
+  },
+  "q_vocab_a1_10_004": {
+    "question": "O que significa 'examen'?",
+    "correct": "exame / prova",
+    "wrong": ["dever de casa", "aula", "nota"],
+    "explanation": "'Examen' significa 'exame' ou 'prova'. O plural é 'exámenes' (note a mudança de acento)."
+  },
+  "q_vocab_a1_10_005": {
+    "question": "Estudo na biblioteca.",
+    "correct": "Estudio en la biblioteca.",
+    "wrong": ["Estudio en la librería.", "Estudio en la escuela.", "Estudio en el aula."],
+    "explanation": "'Biblioteca' significa 'biblioteca'. Cuidado: 'librería' significa 'livraria', não 'biblioteca'."
+  },
+  "q_vocab_a1_10_006": {
+    "question": "O que significa 'pizarra' em 'El profesor escribe en la pizarra'?",
+    "correct": "quadro-negro / quadro branco",
+    "wrong": ["mesa", "caderno", "livro didático"],
+    "explanation": "'Pizarra' significa 'quadro-negro' ou 'quadro branco'. A frase significa 'O professor escreve no quadro'."
+  },
+  "q_vocab_a1_10_007": {
+    "question": "Você esqueceu de fazer a lição de casa. Como você diz ao professor?",
+    "correct": "Lo siento, no tengo la tarea.",
+    "wrong": ["Lo siento, no tengo el libro.", "Lo siento, no tengo el bolígrafo.", "Lo siento, no tengo el examen."],
+    "explanation": "'Tarea' significa 'lição de casa' ou 'tarefa'. 'Deberes' também é usado na Espanha para lição de casa.",
+    "context": "Chegando à aula sem a lição de casa"
+  },
+  "q_vocab_a1_10_008": {
+    "question": "O que significa 'lápiz' em 'Necesito un lápiz'?",
+    "correct": "lápis",
+    "wrong": ["caneta", "borracha", "régua"],
+    "explanation": "'Lápiz' significa 'lápis'. O plural é 'lápices'. Uma caneta é 'bolígrafo' (ou 'boli' informalmente)."
+  },
+  "q_vocab_a1_10_009": {
+    "question": "Mi hermana estudia en la universidad.",
+    "correct": "Minha irmã estuda na universidade.",
+    "wrong": ["Minha irmã estuda na escola.", "Meu irmão estuda na universidade.", "Minha irmã trabalha na universidade."],
+    "explanation": "'Universidad' significa 'universidade'. 'Estudiar en la universidad' = 'estudar na universidade'."
+  },
+  "q_vocab_a1_10_010": {
+    "question": "Você precisa pegar uma caneta emprestada de um colega. O que você diz?",
+    "correct": "¿Me prestas un bolígrafo?",
+    "wrong": ["¿Me prestas un lápiz?", "¿Me prestas un cuaderno?", "¿Me prestas un libro?"],
+    "explanation": "'Bolígrafo' significa 'caneta'. '¿Me prestas...?' significa 'Você me empresta...?' que é comum entre colegas.",
+    "context": "Na aula sem uma caneta"
+  },
+  "q_vocab_a1_11_001": {
+    "question": "O que significa 'médico'?",
+    "correct": "médico",
+    "wrong": ["enfermeiro", "dentista", "farmacêutico"],
+    "explanation": "'Médico' significa 'médico'. A forma feminina é 'médica'. 'Doctor/Doctora' também é comumente usado."
+  },
+  "q_vocab_a1_11_002": {
+    "question": "O que significa 'abogado'?",
+    "correct": "advogado",
+    "wrong": ["engenheiro", "jornalista", "contador"],
+    "explanation": "'Abogado' significa 'advogado'. A forma feminina é 'abogada'."
+  },
+  "q_vocab_a1_11_003": {
+    "question": "El ___ prepara la comida en el restaurante.",
+    "correct": "cocinero",
+    "wrong": ["camarero", "dentista", "policía"],
+    "explanation": "'Cocinero' significa 'cozinheiro/chef'. A frase diz 'O cozinheiro prepara a comida no restaurante'."
+  },
+  "q_vocab_a1_11_004": {
+    "question": "O que significa 'enfermero'?",
+    "correct": "enfermeiro",
+    "wrong": ["médico", "dentista", "paciente"],
+    "explanation": "'Enfermero' significa 'enfermeiro' (masculino). 'Enfermera' é a forma feminina. Eles trabalham em hospitais e clínicas."
+  },
+  "q_vocab_a1_11_005": {
+    "question": "O que significa 'periodista' em 'El periodista trabaja en un periódico'?",
+    "correct": "jornalista",
+    "wrong": ["escritor", "editor", "fotógrafo"],
+    "explanation": "'Periodista' significa 'jornalista'. Esta palavra é a mesma para masculino e feminino. A frase significa 'O jornalista trabalha em um jornal'."
+  },
+  "q_vocab_a1_11_006": {
+    "question": "Meu pai é engenheiro.",
+    "correct": "Mi padre es ingeniero.",
+    "wrong": ["Mi padre es abogado.", "Mi padre es profesor.", "Mi padre es médico."],
+    "explanation": "'Ingeniero' significa 'engenheiro'. Em espanhol, profissões após 'ser' tipicamente não usam artigo (sem 'un')."
+  },
+  "q_vocab_a1_11_007": {
+    "question": "O que significa 'camarero' em 'El camarero trae la cuenta'?",
+    "correct": "garçom",
+    "wrong": ["chef", "gerente", "cliente"],
+    "explanation": "'Camarero' significa 'garçom'. A frase significa 'O garçom traz a conta'. 'Camarera' é garçonete."
+  },
+  "q_vocab_a1_11_008": {
+    "question": "Soy estudiante de medicina. Quiero ser médico.",
+    "correct": "Sou estudante de medicina. Quero ser médico.",
+    "wrong": ["Sou estudante de direito. Quero ser advogado.", "Sou estudante de medicina. Quero ser enfermeiro.", "Sou estudante de arte. Quero ser médico."],
+    "explanation": "'Estudiante de medicina' significa 'estudante de medicina'. 'Quiero ser' significa 'Quero ser'."
+  },
+  "q_vocab_a1_11_009": {
+    "question": "Você conhece alguém em uma festa e eles perguntam o que você faz. Como você diz 'Sou professor'?",
+    "correct": "Soy profesor.",
+    "wrong": ["Soy estudiante.", "Soy un profesor.", "Estoy profesor."],
+    "explanation": "Usamos 'soy' (não 'estoy') para profissões porque são consideradas características permanentes. Não é necessário artigo antes da profissão.",
+    "context": "Conhecendo alguém novo em uma festa"
+  },
+  "q_vocab_a1_11_010": {
+    "question": "Você liga para os serviços de emergência. Como você pede a polícia?",
+    "correct": "¡Necesito la policía!",
+    "wrong": ["¡Necesito un médico!", "¡Necesito un bombero!", "¡Necesito una ambulancia!"],
+    "explanation": "'Policía' pode significar 'polícia' (a força) ou 'policial'. Aqui refere-se a chamar a polícia.",
+    "context": "Fazendo uma ligação de emergência"
+  },
+  "q_vocab_a1_12_001": {
+    "question": "O que significa 'sol'?",
+    "correct": "sol",
+    "wrong": ["lua", "estrela", "nuvem"],
+    "explanation": "'Sol' significa 'sol'. 'Hace sol' significa 'Está ensolarado' (literalmente 'faz sol')."
+  },
+  "q_vocab_a1_12_002": {
+    "question": "Hoy no hay ___, el cielo está azul.",
+    "correct": "nubes",
+    "wrong": ["sol", "lluvia", "viento"],
+    "explanation": "'Nubes' significa 'nuvens' (singular: 'nube'). A frase diz 'Hoje não há nuvens, o céu está azul'."
+  },
+  "q_vocab_a1_12_003": {
+    "question": "O que significa 'lluvia'?",
+    "correct": "chuva",
+    "wrong": ["neve", "vento", "tempestade"],
+    "explanation": "'Lluvia' significa 'chuva'. A forma verbal é 'llover' (chover): 'Está lloviendo' = 'Está chovendo'."
+  },
+  "q_vocab_a1_12_004": {
+    "question": "O que significa 'árbol'?",
+    "correct": "árvore",
+    "wrong": ["flor", "arbusto", "folha"],
+    "explanation": "'Árbol' significa 'árvore'. O plural é 'árboles'. 'Bosque' significa 'floresta' (muitas árvores)."
+  },
+  "q_vocab_a1_12_005": {
+    "question": "Está muito frio hoje e está nevando.",
+    "correct": "Hoy hace mucho frío y está nevando.",
+    "wrong": ["Hoy hace mucho calor y está nevando.", "Hoy hace mucho frío y está lloviendo.", "Hoy hace mucho viento y está nevando."],
+    "explanation": "'Frío' significa 'frio', 'nieve' significa 'neve', e 'nevar' significa 'nevar'. 'Está nevando' = 'está nevando'."
+  },
+  "q_vocab_a1_12_006": {
+    "question": "O que significa 'montaña' em 'Vamos a la montaña este fin de semana'?",
+    "correct": "montanha",
+    "wrong": ["praia", "rio", "lago"],
+    "explanation": "'Montaña' significa 'montanha'. A frase significa 'Vamos à montanha neste fim de semana'."
+  },
+  "q_vocab_a1_12_007": {
+    "question": "Você quer ir à praia. Que tempo você espera?",
+    "correct": "Hace sol y calor.",
+    "wrong": ["Llueve mucho.", "Hace frío y viento.", "Está nevando."],
+    "explanation": "'Hace sol y calor' significa 'Está ensolarado e quente'. Este é o tempo ideal para a praia. 'Calor' significa 'calor/quente'.",
+    "context": "Planejando uma viagem à praia"
+  },
+  "q_vocab_a1_12_008": {
+    "question": "O que significa 'río' em 'El río es muy largo'?",
+    "correct": "rio",
+    "wrong": ["mar", "lago", "riacho"],
+    "explanation": "'Río' significa 'rio'. A frase significa 'O rio é muito longo'. 'Mar' significa 'mar'."
+  },
+  "q_vocab_a1_12_009": {
+    "question": "Las flores son muy bonitas en primavera.",
+    "correct": "As flores são muito bonitas na primavera.",
+    "wrong": ["As árvores são muito bonitas na primavera.", "As flores são muito bonitas no verão.", "As flores são muito grandes na primavera."],
+    "explanation": "'Flores' significa 'flores' (singular: 'flor'). 'Bonitas' significa 'bonitas'. As flores tipicamente florescem na 'primavera' (primavera)."
+  },
+  "q_vocab_a1_12_010": {
+    "question": "Você está assistindo à previsão do tempo e quer saber sobre amanhã. Como você pergunta 'Como será o tempo amanhã?'",
+    "correct": "¿Qué tiempo hará mañana?",
+    "wrong": ["¿Qué hora es mañana?", "¿Qué día es mañana?", "¿Cuándo es mañana?"],
+    "explanation": "'Tiempo' aqui significa 'tempo' (clima). '¿Qué tiempo hará?' usa o tempo futuro de 'hacer'.",
+    "context": "Assistindo à previsão do tempo na TV"
+  },
+  "q_vocab_a1_13_001": {
+    "question": "O que significa 'coche'?",
+    "correct": "carro",
+    "wrong": ["ônibus", "trem", "bicicleta"],
+    "explanation": "'Coche' significa 'carro'. Na América Latina, 'carro' ou 'auto' são mais comumente usados."
+  },
+  "q_vocab_a1_13_002": {
+    "question": "O que significa 'avión'?",
+    "correct": "avião",
+    "wrong": ["trem", "barco", "helicóptero"],
+    "explanation": "'Avión' significa 'avião'. 'Aeropuerto' significa 'aeroporto'. 'Viajar en avión' = 'viajar de avião'."
+  },
+  "q_vocab_a1_13_003": {
+    "question": "Voy al trabajo en ___ porque no tengo coche.",
+    "correct": "autobús",
+    "wrong": ["avión", "barco", "taxi"],
+    "explanation": "'Autobús' significa 'ônibus'. A frase diz 'Vou ao trabalho de ônibus porque não tenho carro'."
+  },
+  "q_vocab_a1_13_004": {
+    "question": "O que significa 'bicicleta'?",
+    "correct": "bicicleta",
+    "wrong": ["motocicleta", "patinete", "carro"],
+    "explanation": "'Bicicleta' significa 'bicicleta'. É frequentemente abreviada como 'bici' na fala casual."
+  },
+  "q_vocab_a1_13_005": {
+    "question": "O que significa 'metro' em 'Tomo el metro para ir al centro'?",
+    "correct": "metrô",
+    "wrong": ["ônibus", "táxi", "bonde"],
+    "explanation": "'Metro' significa 'metrô'. A frase significa 'Pego o metrô para ir ao centro'."
+  },
+  "q_vocab_a1_13_006": {
+    "question": "Vou à escola a pé.",
+    "correct": "Voy a la escuela a pie.",
+    "wrong": ["Voy a la escuela en coche.", "Voy a la escuela en tren.", "Voy a la escuela en moto."],
+    "explanation": "'A pie' significa 'a pé'. Dizemos 'ir a pie' (ir a pé) em vez de 'caminar a' neste contexto."
+  },
+  "q_vocab_a1_13_007": {
+    "question": "O que significa 'tren' em 'El tren sale a las ocho'?",
+    "correct": "trem",
+    "wrong": ["ônibus", "avião", "táxi"],
+    "explanation": "'Tren' significa 'trem'. A frase significa 'O trem sai às oito'. 'Estación de tren' = 'estação de trem'."
+  },
+  "q_vocab_a1_13_008": {
+    "question": "Quiero viajar a la isla en barco.",
+    "correct": "Quero viajar para a ilha de barco.",
+    "wrong": ["Quero viajar para a ilha de avião.", "Quero viajar para a cidade de barco.", "Quero viajar para a ilha de trem."],
+    "explanation": "'Barco' significa 'barco' ou 'navio'. 'Isla' significa 'ilha'. 'En barco' significa 'de barco'."
+  },
+  "q_vocab_a1_13_009": {
+    "question": "Você precisa chegar ao aeroporto rapidamente. Qual é a melhor opção?",
+    "correct": "Voy a tomar un taxi.",
+    "wrong": ["Voy a ir a pie.", "Voy a tomar el barco.", "Voy a ir en bicicleta."],
+    "explanation": "'Taxi' é a mesma palavra em espanhol e português. Um táxi é a maneira mais rápida e prática de chegar ao aeroporto.",
+    "context": "Atrasado para um voo"
+  },
+  "q_vocab_a1_13_010": {
+    "question": "Seu amigo pergunta como você vai ao trabalho. Como você diz 'Vou de moto ao trabalho'?",
+    "correct": "Voy al trabajo en moto.",
+    "wrong": ["Voy al trabajo en metro.", "Voy al trabajo en taxi.", "Voy al trabajo a pie."],
+    "explanation": "'Moto' é abreviação de 'motocicleta' (motocicleta). 'En moto' significa 'de moto'. 'Ir en moto' é a expressão natural.",
+    "context": "Discutindo o trajeto diário com um amigo"
+  },
+  "q_vocab_a1_14_001": {
+    "question": "O que significa 'comer'?",
+    "correct": "comer",
+    "wrong": ["beber", "cozinhar", "dormir"],
+    "explanation": "'Comer' significa 'comer'. 'La comida' significa 'a comida' ou 'a refeição' (especialmente almoço na Espanha)."
+  },
+  "q_vocab_a1_14_002": {
+    "question": "Me gusta ___ libros por la noche.",
+    "correct": "leer",
+    "wrong": ["ver", "hacer", "dormir"],
+    "explanation": "'Leer' significa 'ler'. A frase diz 'Gosto de ler livros à noite'."
+  },
+  "q_vocab_a1_14_003": {
+    "question": "O que significa 'dormir'?",
+    "correct": "dormir",
+    "wrong": ["sonhar", "descansar", "acordar"],
+    "explanation": "'Dormir' significa 'dormir'. É um verbo de mudança de raiz: duermo, duermes, duerme..."
+  },
+  "q_vocab_a1_14_004": {
+    "question": "O que significa 'hablar'?",
+    "correct": "falar",
+    "wrong": ["ouvir", "escrever", "ler"],
+    "explanation": "'Hablar' significa 'falar'. 'Hablar español' = 'falar espanhol'."
+  },
+  "q_vocab_a1_14_005": {
+    "question": "Abro a janela toda manhã.",
+    "correct": "Abro la ventana cada mañana.",
+    "wrong": ["Cierro la ventana cada mañana.", "Abro la puerta cada mañana.", "Abro la ventana cada noche."],
+    "explanation": "'Abrir' significa 'abrir'. 'Abro' é a forma de primeira pessoa do singular (yo). Seu oposto é 'cerrar' (fechar)."
+  },
+  "q_vocab_a1_14_006": {
+    "question": "O que significa 'escribir' em 'Escribo un correo electrónico'?",
+    "correct": "escrever",
+    "wrong": ["ler", "enviar", "digitar"],
+    "explanation": "'Escribir' significa 'escrever'. A frase significa 'Escrevo um e-mail'. 'Correo electrónico' = 'e-mail'."
+  },
+  "q_vocab_a1_14_007": {
+    "question": "Você está em um ponto de ônibus e o ônibus está atrasado. Qual verbo descreve o que você está fazendo?",
+    "correct": "esperar",
+    "wrong": ["correr", "llamar", "dormir"],
+    "explanation": "'Esperar' significa 'esperar'. 'Estoy esperando el autobús' = 'Estou esperando o ônibus'.",
+    "context": "Esperando um ônibus atrasado"
+  },
+  "q_vocab_a1_14_008": {
+    "question": "O que significa 'beber' em '¿Quieres beber algo?'?",
+    "correct": "beber",
+    "wrong": ["comer", "comprar", "querer"],
+    "explanation": "'Beber' significa 'beber'. A frase significa 'Você quer beber algo?' 'Tomar' também é usado para 'beber'."
+  },
+  "q_vocab_a1_14_009": {
+    "question": "Me levanto a las siete y me ducho antes de desayunar.",
+    "correct": "Levanto-me às sete e tomo banho antes de tomar café da manhã.",
+    "wrong": ["Vou para a cama às sete e tomo banho antes do jantar.", "Levanto-me às sete e como antes de tomar banho.", "Levanto-me às oito e tomo banho antes de tomar café da manhã."],
+    "explanation": "'Levantarse' significa 'levantar-se', 'ducharse' significa 'tomar banho', e 'desayunar' significa 'tomar café da manhã'."
+  },
+  "q_vocab_a1_14_010": {
+    "question": "Seu telefone toca durante uma reunião. Como você diz aos colegas o que precisa fazer?",
+    "correct": "Necesito llamar por teléfono.",
+    "wrong": ["Necesito dormir un poco.", "Necesito comer algo.", "Necesito leer un libro."],
+    "explanation": "'Llamar' significa 'ligar'. 'Llamar por teléfono' significa 'fazer uma ligação'. Também pode significar 'chamar/nomear'.",
+    "context": "Recebendo uma ligação durante uma reunião"
+  },
+  "q_vocab_a1_15_001": {
+    "question": "O que significa 'contento'?",
+    "correct": "feliz / satisfeito",
+    "wrong": ["triste", "zangado", "cansado"],
+    "explanation": "'Contento' significa 'feliz' ou 'satisfeito'. A forma feminina é 'contenta'. Similar a 'feliz' mas menos intenso."
+  },
+  "q_vocab_a1_15_002": {
+    "question": "O que significa 'triste'?",
+    "correct": "triste",
+    "wrong": ["feliz", "zangado", "entediado"],
+    "explanation": "'Triste' significa 'triste'. Ao contrário de muitos adjetivos, tem a mesma forma para masculino e feminino."
+  },
+  "q_vocab_a1_15_003": {
+    "question": "Estoy muy ___ después de trabajar todo el día.",
+    "correct": "cansado",
+    "wrong": ["contento", "nervioso", "aburrido"],
+    "explanation": "'Cansado' significa 'cansado'. A frase diz 'Estou muito cansado depois de trabalhar o dia todo'. Use 'estar' para estados temporários."
+  },
+  "q_vocab_a1_15_004": {
+    "question": "O que significa 'enfermo'?",
+    "correct": "doente",
+    "wrong": ["saudável", "cansado", "triste"],
+    "explanation": "'Enfermo' significa 'doente'. 'Estoy enfermo' = 'Estou doente'. A forma feminina é 'enferma'."
+  },
+  "q_vocab_a1_15_005": {
+    "question": "O que significa 'preocupado' em 'Estoy preocupado por el examen'?",
+    "correct": "preocupado",
+    "wrong": ["animado", "nervoso", "entediado"],
+    "explanation": "'Preocupado' significa 'preocupado'. A frase significa 'Estou preocupado com o exame'. 'Preocuparse' = 'preocupar-se'."
+  },
+  "q_vocab_a1_15_006": {
+    "question": "Estou muito nervoso com a entrevista.",
+    "correct": "Estoy muy nervioso por la entrevista.",
+    "wrong": ["Estoy muy contento por la entrevista.", "Estoy muy aburrido por la entrevista.", "Soy muy nervioso por la entrevista."],
+    "explanation": "'Nervioso' significa 'nervoso'. Usamos 'estar' (não 'ser') porque nervosismo é um estado temporário.",
+    "hint": "Emoções temporárias usam 'estar', não 'ser'"
+  },
+  "q_vocab_a1_15_007": {
+    "question": "O que significa 'enfadado' em 'Mi padre está enfadado conmigo'?",
+    "correct": "zangado",
+    "wrong": ["feliz", "orgulhoso", "desapontado"],
+    "explanation": "'Enfadado' significa 'zangado'. A frase significa 'Meu pai está zangado comigo'. Na América Latina, 'enojado' é mais comum."
+  },
+  "q_vocab_a1_15_008": {
+    "question": "¿Cómo estás? — Estoy bien, gracias.",
+    "correct": "Como está? — Estou bem, obrigado.",
+    "wrong": ["Como está? — Estou mal, obrigado.", "Qual é seu nome? — Estou bem, obrigado.", "Como está? — Estou cansado, obrigado."],
+    "explanation": "'Bien' significa 'bem'. 'Estoy bien' é a resposta padrão positiva para '¿Cómo estás?'."
+  },
+  "q_vocab_a1_15_009": {
+    "question": "Seu amigo teve uma festa surpresa de aniversário. Como você descreveria a reação dele?",
+    "correct": "Está muy sorprendido y emocionado.",
+    "wrong": ["Está muy triste y cansado.", "Está muy enfadado y preocupado.", "Está muy aburrido y nervioso."],
+    "explanation": "'Sorprendido' significa 'surpreso' e 'emocionado' significa 'animado/empolgado'. Ambos usam 'estar' para estados temporários.",
+    "context": "Uma festa surpresa de aniversário"
+  },
+  "q_vocab_a1_15_010": {
+    "question": "Seu colega diz que não tem nada para fazer no trabalho. Qual palavra melhor descreve como ele se sente?",
+    "correct": "aburrido",
+    "wrong": ["ocupado", "nervioso", "enfermo"],
+    "explanation": "'Aburrido' significa 'entediado'. Seu oposto é 'ocupado' (ocupado). Quando alguém não tem nada para fazer, sente-se 'aburrido'.",
+    "context": "Um dia tranquilo no escritório"
+  }
+}

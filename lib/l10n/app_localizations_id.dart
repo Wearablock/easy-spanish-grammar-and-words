@@ -509,4 +509,18 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get intensiveStudy => 'Belajar intensif';
+
+  @override
+  String get topicList => 'Daftar topik';
+
+  @override
+  String get notStudiedYet => 'Belum dipelajari';
+
+  @override
+  String get studiedLabel => 'Sudah dipelajari';
+
+  @override
+  String topicCount(int count) {
+    return '$count topik';
+  }
 }

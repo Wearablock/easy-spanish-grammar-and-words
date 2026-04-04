@@ -278,7 +278,9 @@ class _StudyResultScreenState extends ConsumerState<StudyResultScreen> {
             if (!summary.allTopicsCompleted)
               ElevatedButton(
                 onPressed: () => _startNewSession(isReview: false),
-                child: Text(l10n.additionalStudy),
+                child: Text(widget.isReviewSession
+                    ? l10n.newLearning
+                    : l10n.additionalStudy),
               ),
             const SizedBox(height: 12),
             OutlinedButton(

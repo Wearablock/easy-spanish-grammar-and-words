@@ -506,4 +506,18 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get intensiveStudy => 'دراسة مكثفة';
+
+  @override
+  String get topicList => 'قائمة المواضيع';
+
+  @override
+  String get notStudiedYet => 'لم تتم دراسته';
+
+  @override
+  String get studiedLabel => 'تمت الدراسة';
+
+  @override
+  String topicCount(int count) {
+    return '$count مواضيع';
+  }
 }

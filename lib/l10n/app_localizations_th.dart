@@ -507,4 +507,18 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get intensiveStudy => 'เรียนเข้มข้น';
+
+  @override
+  String get topicList => 'รายการหัวข้อ';
+
+  @override
+  String get notStudiedYet => 'ยังไม่ได้เรียน';
+
+  @override
+  String get studiedLabel => 'เรียนแล้ว';
+
+  @override
+  String topicCount(int count) {
+    return '$count หัวข้อ';
+  }
 }

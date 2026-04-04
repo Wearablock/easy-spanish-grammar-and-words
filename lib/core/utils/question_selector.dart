@@ -371,42 +371,11 @@ class QuestionSelector {
     );
   }
 
-  /// 복습 + 신규 토픽 통합 선택 (일일 학습용)
+  /// 신규 토픽 선택 (일일 학습용, 복습은 별도 세션)
   Future<DailyQuestionSelection> selectDailyTopicQuestions({
     required int topicCount,
   }) async {
-    // 1. 복습 문제 선택
-    final reviewRecords = await _db.studyRecordsDao
-        .getReviewQuestions(limit: 1000);
-    final wrongRecords =
-        reviewRecords.where((r) => r.level == 0).toList();
-    final spacedRecords =
-        reviewRecords.where((r) => r.level > 0).toList();
-
-    final wrongReviewIds = wrongRecords
-        .take(StudyConstants.maxReviewCount)
-        .map((r) => r.questionId)
-        .toList();
-
-    final remainingSlots =
-        StudyConstants.maxReviewCount - wrongReviewIds.length;
-    final spacedReviewIds = spacedRecords
-        .take(max(0, remainingSlots))
-        .map((r) => r.questionId)
-        .toList();
-
-    // 2. 신규 토픽 문제 선택
-    final newTopicSelection = await selectMultiTopicQuestions(
-      topicCount: topicCount,
-    );
-
-    return DailyQuestionSelection(
-      wrongReviewIds: wrongReviewIds,
-      spacedReviewIds: spacedReviewIds,
-      newQuestionIds: newTopicSelection.newQuestionIds,
-      newTopicIds: newTopicSelection.newTopicIds,
-      newQuestionsByTopic: newTopicSelection.newQuestionsByTopic,
-    );
+    return selectMultiTopicQuestions(topicCount: topicCount);
   }
 
   /// 남은 학습 토픽 수 조회

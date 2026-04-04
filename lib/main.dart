@@ -20,7 +20,7 @@ void main() async {
   // await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
   // FlutterError.onError = FirebaseCrashlytics.instance.recordFlutterError;
 
-  // AdMob 초기화
+  // AdMob 초기화 (ATT 요청은 첫 화면 렌더링 후 app.dart에서 처리)
   await MobileAds.instance.initialize();
   AdService().preloadAds();
 

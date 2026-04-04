@@ -273,6 +273,8 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
             onChanged: (value) async {
               final dao = ref.read(userSettingsDaoProvider);
               await dao.setSoundEnabled(value);
+              ref.read(feedbackServiceProvider).updateSettings(
+                    sound: value, vibration: _vibrationEnabled);
               setState(() => _soundEnabled = value);
             },
           ),
@@ -284,6 +286,8 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
             onChanged: (value) async {
               final dao = ref.read(userSettingsDaoProvider);
               await dao.setVibrationEnabled(value);
+              ref.read(feedbackServiceProvider).updateSettings(
+                    sound: _soundEnabled, vibration: value);
               setState(() => _vibrationEnabled = value);
             },
           ),

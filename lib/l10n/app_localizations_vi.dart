@@ -509,4 +509,18 @@ class AppLocalizationsVi extends AppLocalizations {
 
   @override
   String get intensiveStudy => 'Học tập chuyên sâu';
+
+  @override
+  String get topicList => 'Danh sách chủ đề';
+
+  @override
+  String get notStudiedYet => 'Chưa học';
+
+  @override
+  String get studiedLabel => 'Đã học';
+
+  @override
+  String topicCount(int count) {
+    return '$count chủ đề';
+  }
 }

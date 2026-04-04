@@ -1,0 +1,932 @@
+{
+  "q_vocab_a2_01_001": {
+    "question": "Что означает 'equipaje'?",
+    "correct": "багаж",
+    "wrong": ["билет", "паспорт", "рейс"],
+    "explanation": "'Equipaje' относится к сумкам и чемоданам, которые вы берете с собой в поездку."
+  },
+  "q_vocab_a2_01_002": {
+    "question": "Что означает 'vuelo'?",
+    "correct": "рейс",
+    "wrong": ["аэропорт", "выход на посадку", "место"],
+    "explanation": "'Vuelo' означает 'рейс'. Происходит от глагола 'volar' (летать)."
+  },
+  "q_vocab_a2_01_003": {
+    "question": "Necesito ___ mi maleta antes de ir al aeropuerto.",
+    "correct": "facturar",
+    "wrong": ["embarcar", "aterrizar", "despegar"],
+    "explanation": "'Facturar' означает 'регистрировать' багаж в аэропорту. Вы регистрируете свой чемодан перед тем, как идти к выходу на посадку."
+  },
+  "q_vocab_a2_01_004": {
+    "question": "Что означает 'pasaporte'?",
+    "correct": "паспорт",
+    "wrong": ["посадочный талон", "виза", "билет"],
+    "explanation": "'Pasaporte' — это официальный проездной документ, необходимый для въезда в другую страну."
+  },
+  "q_vocab_a2_01_005": {
+    "question": "Что означает 'reserva' в контексте путешествий?",
+    "correct": "бронирование",
+    "wrong": ["чек", "возврат", "отправление"],
+    "explanation": "'Reserva' означает 'бронирование'. Вы делаете 'reserva' в отеле или ресторане."
+  },
+  "q_vocab_a2_01_006": {
+    "question": "Я хочу забронировать номер в отеле.",
+    "correct": "Quiero reservar una habitación de hotel.",
+    "wrong": ["Quiero facturar una habitación de hotel.", "Quiero embarcar una habitación de hotel.", "Quiero viajar una habitación de hotel."],
+    "explanation": "'Reservar' означает 'бронировать'. 'Habitación' — слово для номера в отеле."
+  },
+  "q_vocab_a2_01_007": {
+    "question": "Что означает 'billete' в 'Compré un billete de avión'?",
+    "correct": "билет",
+    "wrong": ["чемодан", "место", "паспорт"],
+    "explanation": "'Billete' означает 'билет'. В Латинской Америке чаще используется 'boleto'. 'Billete de avión' — авиабилет."
+  },
+  "q_vocab_a2_01_008": {
+    "question": "El turista tiene dos maletas grandes.",
+    "correct": "У туриста два больших чемодана.",
+    "wrong": ["У туриста два больших билета.", "У туриста два больших паспорта.", "У туриста два больших номера."],
+    "explanation": "'Turista' означает 'турист', а 'maleta' означает 'чемодан'. 'Grandes' означает 'большие'."
+  },
+  "q_vocab_a2_01_009": {
+    "question": "Вы приходите в аэропорт и вам нужно найти, где оставить регистрируемый багаж. Что вы спрашиваете?",
+    "correct": "el mostrador de facturación",
+    "wrong": ["la puerta de embarque", "la sala de espera", "la oficina de turismo"],
+    "explanation": "'El mostrador de facturación' — стойка регистрации, где вы сдаете регистрируемый багаж.",
+    "context": "У входа в аэропорт с тяжелым багажом"
+  },
+  "q_vocab_a2_01_010": {
+    "question": "Вы хотите подтвердить детали поездки на стойке регистрации отеля. Что вы говорите?",
+    "correct": "Tengo una reserva a nombre de...",
+    "wrong": ["Quiero facturar mi equipaje.", "Necesito un billete de avión.", "¿Dónde está la puerta de embarque?"],
+    "explanation": "'Tengo una reserva a nombre de...' означает 'У меня бронирование на имя...'. Это стандартная фраза при регистрации в отеле.",
+    "context": "Прибытие на стойку регистрации в отеле"
+  },
+  "q_vocab_a2_02_001": {
+    "question": "Что означает 'médico'?",
+    "correct": "врач",
+    "wrong": ["медсестра", "пациент", "фармацевт"],
+    "explanation": "'Médico' означает 'врач'. Также может использоваться как прилагательное, означающее 'медицинский'."
+  },
+  "q_vocab_a2_02_002": {
+    "question": "El ___ me recetó unas pastillas para la fiebre.",
+    "correct": "médico",
+    "wrong": ["paciente", "enfermero", "farmacéutico"],
+    "explanation": "'Médico' (врач) — человек, который выписывает ('recetar') лекарства. Предложение означает 'Врач прописал мне таблетки от температуры.'"
+  },
+  "q_vocab_a2_02_003": {
+    "question": "Что означает 'farmacia'?",
+    "correct": "аптека",
+    "wrong": ["больница", "клиника", "лаборатория"],
+    "explanation": "'Farmacia' — место, где вы покупаете лекарства. В Испании их обозначают зеленым крестом."
+  },
+  "q_vocab_a2_02_004": {
+    "question": "Что означает 'receta' в медицинском контексте?",
+    "correct": "рецепт",
+    "wrong": ["чек", "запись на прием", "диагноз"],
+    "explanation": "'Receta' означает 'рецепт' в медицинском контексте. Обратите внимание, что 'receta' также может означать 'рецепт' в кулинарии."
+  },
+  "q_vocab_a2_02_005": {
+    "question": "У меня болит голова и температура.",
+    "correct": "Tengo dolor de cabeza y fiebre.",
+    "wrong": ["Tengo gripe y resfriado.", "Tengo tos y estornudos.", "Tengo receta y pastillas."],
+    "explanation": "'Dolor de cabeza' означает 'головная боль', а 'fiebre' означает 'температура'. 'Tener' используется с симптомами в испанском языке."
+  },
+  "q_vocab_a2_02_006": {
+    "question": "Что означает 'enfermera' в 'La enfermera me puso una inyección'?",
+    "correct": "медсестра",
+    "wrong": ["врач", "хирург", "администратор"],
+    "explanation": "'Enfermera' означает 'медсестра' (женский род). Мужской род — 'enfermero'. Предложение означает 'Медсестра сделала мне укол.'"
+  },
+  "q_vocab_a2_02_007": {
+    "question": "Вы плохо себя чувствуете и вам нужно описать симптомы в кабинете врача. У вас кашель и насморк. Что вы говорите?",
+    "correct": "Tengo tos y estoy resfriado.",
+    "wrong": ["Me duele la pierna y no puedo caminar.", "Tengo fiebre y me duele la cabeza.", "Me duele el estómago y tengo náuseas."],
+    "explanation": "'Tos' означает 'кашель', а 'resfriado' означает 'простуда'. Это типичные симптомы обычной простуды.",
+    "context": "В кабинете врача, описывая симптомы простуды"
+  },
+  "q_vocab_a2_02_008": {
+    "question": "Что означает 'pastilla' в 'Toma una pastilla cada ocho horas'?",
+    "correct": "таблетка",
+    "wrong": ["сироп", "бинт", "укол"],
+    "explanation": "'Pastilla' означает 'таблетка'. Предложение означает 'Принимай одну таблетку каждые восемь часов.'"
+  },
+  "q_vocab_a2_02_009": {
+    "question": "Me duele mucho la garganta y no puedo hablar.",
+    "correct": "У меня очень болит горло, и я не могу говорить.",
+    "wrong": ["У меня очень болит голова, и я не могу спать.", "У меня очень болит живот, и я не могу есть.", "У меня очень болит спина, и я не могу ходить."],
+    "explanation": "'Garganta' означает 'горло'. 'Doler' используется для выражения боли. Конструкция 'me duele' означает 'у меня болит'."
+  },
+  "q_vocab_a2_02_010": {
+    "question": "Вы в аптеке и вам нужно лекарство от простуды, но у вас нет рецепта. Что вы спрашиваете?",
+    "correct": "¿Tiene algo para el resfriado sin receta?",
+    "wrong": ["¿Dónde está el hospital más cercano?", "¿Puede darme una cita con el médico?", "¿Cuánto cuesta la consulta?"],
+    "explanation": "'Sin receta' означает 'без рецепта'. Многие основные лекарства в Испании можно купить без рецепта ('sin receta').",
+    "context": "В аптеке, плохо себя чувствуя, без рецепта врача"
+  },
+  "q_vocab_a2_03_001": {
+    "question": "Что означает 'partido' в контексте спорта?",
+    "correct": "матч/игра",
+    "wrong": ["команда", "счет", "стадион"],
+    "explanation": "'Partido' означает 'матч' или 'игра' в спорте. Например, 'un partido de fútbol' — футбольный матч."
+  },
+  "q_vocab_a2_03_002": {
+    "question": "Что означает 'equipo' в 'Mi equipo favorito ganó el partido'?",
+    "correct": "команда",
+    "wrong": ["игрок", "тренер", "стадион"],
+    "explanation": "'Equipo' означает 'команда'. Предложение означает 'Моя любимая команда выиграла матч.'"
+  },
+  "q_vocab_a2_03_003": {
+    "question": "Los fines de semana me gusta ___ al baloncesto con mis amigos.",
+    "correct": "jugar",
+    "wrong": ["nadar", "correr", "pintar"],
+    "explanation": "'Jugar' означает 'играть'. В испанском говорят 'jugar al baloncesto' (играть в баскетбол), используя предлог 'al'."
+  },
+  "q_vocab_a2_03_004": {
+    "question": "Что означает 'natación'?",
+    "correct": "плавание",
+    "wrong": ["бег", "велоспорт", "походы"],
+    "explanation": "'Natación' — вид спорта плавание. Глагол — 'nadar' (плавать)."
+  },
+  "q_vocab_a2_03_005": {
+    "question": "Что означает 'ganar' в 'Nuestro equipo va a ganar la final'?",
+    "correct": "выиграть",
+    "wrong": ["проиграть", "играть", "забить гол"],
+    "explanation": "'Ganar' означает 'выиграть'. Противоположное — 'perder' (проиграть). Предложение означает 'Наша команда выиграет финал.'"
+  },
+  "q_vocab_a2_03_006": {
+    "question": "По выходным я люблю бегать в парке.",
+    "correct": "Los fines de semana me gusta correr en el parque.",
+    "wrong": ["Los fines de semana me gusta nadar en el parque.", "Los fines de semana me gusta jugar en el parque.", "Los fines de semana me gusta bailar en el parque."],
+    "explanation": "'Correr' означает 'бегать'. 'Me gusta' с инфинитивом выражает, что вам нравится делать."
+  },
+  "q_vocab_a2_03_007": {
+    "question": "Что означает 'practicar' в 'Quiero practicar tenis este verano'?",
+    "correct": "практиковать/заниматься (спортом)",
+    "wrong": ["смотреть", "учить", "соревноваться"],
+    "explanation": "'Practicar' означает 'практиковать' или 'заниматься' спортом. В отличие от 'jugar', 'practicar' не требует предлога 'al'."
+  },
+  "q_vocab_a2_03_008": {
+    "question": "Mi hermana perdió el partido de tenis ayer.",
+    "correct": "Моя сестра проиграла теннисный матч вчера.",
+    "wrong": ["Моя сестра выиграла теннисный матч вчера.", "Моя сестра играла в теннисный матч вчера.", "Моя сестра смотрела теннисный матч вчера."],
+    "explanation": "'Perder' означает 'проиграть'. 'Perdió' — прошедшее время. Противоположное — 'ganar' (выиграть)."
+  },
+  "q_vocab_a2_03_009": {
+    "question": "Ваш друг спрашивает, какие у вас хобби. Вам нравится рисовать и танцевать. Что вы говорите?",
+    "correct": "Me gusta pintar y bailar.",
+    "wrong": ["Me gusta correr y nadar.", "Me gusta jugar al fútbol y al tenis.", "Me gusta leer y escribir."],
+    "explanation": "'Pintar' означает 'рисовать', а 'bailar' означает 'танцевать'. Оба — распространенные хобби, выраженные с 'me gusta' + инфинитив.",
+    "context": "Разговор с другом о хобби"
+  },
+  "q_vocab_a2_03_010": {
+    "question": "Вы хотите вступить в местный спортивный клуб. Вы говорите администратору, в какой вид спорта хотите играть. Что вы говорите?",
+    "correct": "Quiero apuntarme al equipo de fútbol.",
+    "wrong": ["Quiero ver el partido de fútbol.", "Quiero comprar una entrada de fútbol.", "Quiero ganar el campeonato de fútbol."],
+    "explanation": "'Apuntarse' означает 'записаться'. 'Equipo' здесь относится к команде, к которой вы хотите присоединиться.",
+    "context": "На стойке регистрации спортивного клуба"
+  },
+  "q_vocab_a2_04_001": {
+    "question": "Что означает 'oferta'?",
+    "correct": "распродажа/предложение",
+    "wrong": ["цена", "сдача", "чек"],
+    "explanation": "'Oferta' означает 'распродажа' или 'специальное предложение'. В магазинах вы можете увидеть вывески 'en oferta' (на распродаже)."
+  },
+  "q_vocab_a2_04_002": {
+    "question": "Esta camisa es muy ___, cuesta solo cinco euros.",
+    "correct": "barata",
+    "wrong": ["cara", "bonita", "grande"],
+    "explanation": "'Barata' означает 'дешевая' (женский род). Предложение означает 'Эта рубашка очень дешевая, стоит всего пять евро.'"
+  },
+  "q_vocab_a2_04_003": {
+    "question": "Что означает 'supermercado'?",
+    "correct": "супермаркет",
+    "wrong": ["торговый центр", "универмаг", "маленький магазин"],
+    "explanation": "'Supermercado' — большой магазин, где вы покупаете продукты и товары для дома."
+  },
+  "q_vocab_a2_04_004": {
+    "question": "Что означает 'talla' в 'Necesito una talla más grande'?",
+    "correct": "размер (одежды)",
+    "wrong": ["цвет", "цена", "стиль"],
+    "explanation": "'Talla' относится к размеру одежды. Предложение означает 'Мне нужен размер побольше.'"
+  },
+  "q_vocab_a2_04_005": {
+    "question": "Могу ли я оплатить кредитной картой?",
+    "correct": "¿Puedo pagar con tarjeta de crédito?",
+    "wrong": ["¿Puedo pagar con efectivo?", "¿Puedo devolver con tarjeta de crédito?", "¿Puedo comprar una tarjeta de crédito?"],
+    "explanation": "'Tarjeta de crédito' означает 'кредитная карта'. 'Pagar con' означает 'платить при помощи'."
+  },
+  "q_vocab_a2_04_006": {
+    "question": "Что означает 'devolver' в '¿Puedo devolver este producto?'?",
+    "correct": "вернуть (товар)",
+    "wrong": ["обменять", "купить", "примерить"],
+    "explanation": "'Devolver' означает 'вернуть' что-то в магазин. Предложение означает 'Могу ли я вернуть этот товар?'"
+  },
+  "q_vocab_a2_04_007": {
+    "question": "Вы видите платье, которое вам нравится, но хотите сначала примерить. Что вы спрашиваете у продавца?",
+    "correct": "¿Puedo probarme este vestido?",
+    "wrong": ["¿Puedo devolver este vestido?", "¿Puedo pagar este vestido?", "¿Puedo comprar este vestido?"],
+    "explanation": "'Probarse' означает 'примерить' одежду. Это возвратный глагол. Примерочная — 'el probador'.",
+    "context": "В магазине одежды, смотря на платье"
+  },
+  "q_vocab_a2_04_008": {
+    "question": "Что означает 'precio' в 'El precio es demasiado alto'?",
+    "correct": "цена",
+    "wrong": ["качество", "скидка", "чек"],
+    "explanation": "'Precio' означает 'цена'. Предложение означает 'Цена слишком высокая.' 'Demasiado' означает 'слишком'."
+  },
+  "q_vocab_a2_04_009": {
+    "question": "En el centro comercial hay muchas tiendas con rebajas.",
+    "correct": "В торговом центре много магазинов с распродажами.",
+    "wrong": ["В супермаркете много товаров со скидками.", "В центре города много магазинов с возвратами.", "В торговом центре много цен с предложениями."],
+    "explanation": "'Centro comercial' означает 'торговый центр'. 'Rebajas' означает 'распродажи' (снижение цен), похоже на 'ofertas'."
+  },
+  "q_vocab_a2_04_010": {
+    "question": "Вы купили туфли онлайн, но они слишком маленькие. Вы звоните в службу поддержки, чтобы организовать возврат. Что вы говорите?",
+    "correct": "Quiero devolver estos zapatos porque la talla es pequeña.",
+    "wrong": ["Quiero comprar estos zapatos porque la talla es pequeña.", "Quiero probarme estos zapatos porque la talla es pequeña.", "Quiero pagar estos zapatos porque la talla es pequeña."],
+    "explanation": "'Devolver' означает 'вернуть'. Вы объясняете причину, используя 'porque' (потому что) и упоминаете проблему с размером.",
+    "context": "Звонок в службу поддержки по поводу туфель неподходящего размера, купленных онлайн"
+  },
+  "q_vocab_a2_05_001": {
+    "question": "Что означает 'camarero'?",
+    "correct": "официант",
+    "wrong": ["шеф-повар", "клиент", "кассир"],
+    "explanation": "'Camarero' означает 'официант'. Женская форма — 'camarera' (официантка)."
+  },
+  "q_vocab_a2_05_002": {
+    "question": "Что означает 'cuenta' в '¿Me trae la cuenta, por favor?'?",
+    "correct": "счет",
+    "wrong": ["меню", "чаевые", "чек"],
+    "explanation": "'Cuenta' означает 'счет' в ресторане. Предложение означает 'Не могли бы вы принести мне счет, пожалуйста?'"
+  },
+  "q_vocab_a2_05_003": {
+    "question": "De ___, quiero la sopa de verduras.",
+    "correct": "primer plato",
+    "wrong": ["segundo plato", "postre", "bebida"],
+    "explanation": "'Primer plato' означает 'первое блюдо' или 'закуска'. В испанских ресторанах блюда часто состоят из 'primer plato', 'segundo plato' и 'postre'."
+  },
+  "q_vocab_a2_05_004": {
+    "question": "Что означает 'propina'?",
+    "correct": "чаевые",
+    "wrong": ["счет", "меню", "бронирование"],
+    "explanation": "'Propina' означает 'чаевые' (деньги, оставленные за обслуживание). Чаевые менее распространены в Испании, чем в некоторых других странах."
+  },
+  "q_vocab_a2_05_005": {
+    "question": "Что означает 'recomendar' в '¿Qué me recomienda?'?",
+    "correct": "рекомендовать",
+    "wrong": ["заказывать", "подавать", "приносить"],
+    "explanation": "'Recomendar' означает 'рекомендовать'. Вопрос '¿Qué me recomienda?' означает 'Что вы рекомендуете?', используя формальную форму 'usted'."
+  },
+  "q_vocab_a2_05_006": {
+    "question": "Я хотел бы заказать курицу на гриле, пожалуйста.",
+    "correct": "Quiero pedir el pollo a la plancha, por favor.",
+    "wrong": ["Quiero recomendar el pollo a la plancha, por favor.", "Quiero traer el pollo a la plancha, por favor.", "Quiero cocinar el pollo a la plancha, por favor."],
+    "explanation": "'Pedir' означает 'заказывать' в ресторане. 'Pollo a la plancha' означает 'курица на гриле'."
+  },
+  "q_vocab_a2_05_007": {
+    "question": "Что означает 'menú' в '¿Tiene el menú del día?'?",
+    "correct": "комплексный обед/меню",
+    "wrong": ["бронирование", "фирменное блюдо", "список напитков"],
+    "explanation": "'Menú del día' — комплексный обед по фиксированной цене, предлагаемый во многих испанских ресторанах, обычно включает закуску, основное блюдо, десерт и напиток."
+  },
+  "q_vocab_a2_05_008": {
+    "question": "El camarero nos dijo: ¡Buen provecho!",
+    "correct": "Официант сказал нам: Приятного аппетита!",
+    "wrong": ["Официант сказал нам: Добро пожаловать!", "Официант сказал нам: Добрый день!", "Официант сказал нам: До скорой встречи!"],
+    "explanation": "'¡Buen provecho!' эквивалентно 'Приятного аппетита!' или 'Bon appétit!' Обычно говорится перед едой."
+  },
+  "q_vocab_a2_05_009": {
+    "question": "Вы в ресторане и хотите спросить, есть ли столик на двоих. Что вы говорите?",
+    "correct": "¿Tiene una mesa para dos, por favor?",
+    "wrong": ["¿Tiene un menú para dos, por favor?", "¿Tiene una cuenta para dos, por favor?", "¿Tiene una reserva para dos, por favor?"],
+    "explanation": "'Mesa' означает 'стол'. Это обычная фраза при прибытии в ресторан без бронирования.",
+    "context": "Прибытие в ресторан без бронирования"
+  },
+  "q_vocab_a2_05_010": {
+    "question": "После того как вы закончили есть, вы хотите оплатить и уйти. Что вы говорите, чтобы привлечь внимание официанта?",
+    "correct": "¡Perdone! ¿Me trae la cuenta, por favor?",
+    "wrong": ["¡Perdone! ¿Me trae el menú, por favor?", "¡Perdone! ¿Me trae el postre, por favor?", "¡Perdone! ¿Me trae la propina, por favor?"],
+    "explanation": "'¡Perdone!' — вежливый способ привлечь чье-то внимание. '¿Me trae la cuenta?' означает 'Не могли бы вы принести мне счет?'",
+    "context": "Завершение трапезы в ресторане и желание оплатить"
+  },
+  "q_vocab_a2_06_001": {
+    "question": "Что означает 'semáforo'?",
+    "correct": "светофор",
+    "wrong": ["пешеходный переход", "кольцевая развязка", "перекресток"],
+    "explanation": "'Semáforo' означает 'светофор'. Часто слышны указания типа 'Gire a la derecha en el semáforo.'"
+  },
+  "q_vocab_a2_06_002": {
+    "question": "La panadería está en la ___ de la calle Mayor y la calle Sol.",
+    "correct": "esquina",
+    "wrong": ["plaza", "calle", "acera"],
+    "explanation": "'Esquina' означает 'угол'. Предложение означает 'Пекарня находится на углу улицы Майор и улицы Соль.'"
+  },
+  "q_vocab_a2_06_003": {
+    "question": "Что означает 'girar' в 'Gire a la izquierda en el semáforo'?",
+    "correct": "повернуть",
+    "wrong": ["остановиться", "перейти", "продолжить"],
+    "explanation": "'Girar' означает 'повернуть'. 'Gire a la izquierda' означает 'поверните налево'. Это формальная повелительная форма."
+  },
+  "q_vocab_a2_06_004": {
+    "question": "Что означает 'enfrente de'?",
+    "correct": "напротив / через дорогу от",
+    "wrong": ["позади", "рядом с", "далеко от"],
+    "explanation": "'Enfrente de' означает 'напротив' или 'через дорогу от'. Например, 'El museo está enfrente de la iglesia.'"
+  },
+  "q_vocab_a2_06_005": {
+    "question": "Идите прямо, и музей будет справа.",
+    "correct": "Siga recto y el museo está a la derecha.",
+    "wrong": ["Gire recto y el museo está a la derecha.", "Siga recto y el museo está a la izquierda.", "Cruce recto y el museo está a la derecha."],
+    "explanation": "'Seguir recto' означает 'идти прямо'. 'A la derecha' означает 'справа'. 'Siga' — формальная повелительная форма 'seguir'."
+  },
+  "q_vocab_a2_06_006": {
+    "question": "Что означает 'plaza' в 'Quedamos en la plaza Mayor a las cinco'?",
+    "correct": "площадь (общественное пространство)",
+    "wrong": ["улица", "парк", "здание"],
+    "explanation": "'Plaza' означает 'площадь', общественное открытое пространство в городе. 'Plaza Mayor' — главная площадь, находящаяся во многих испанских городах."
+  },
+  "q_vocab_a2_06_007": {
+    "question": "Вы заблудились и вам нужно найти ближайший банк. Вы останавливаете прохожего. Что вы спрашиваете?",
+    "correct": "Perdone, ¿sabe dónde hay un banco cerca de aquí?",
+    "wrong": ["Perdone, ¿sabe dónde hay una iglesia cerca de aquí?", "Perdone, ¿sabe cuánto cuesta el banco?", "Perdone, ¿sabe a qué hora abre el museo?"],
+    "explanation": "'¿Dónde hay un banco?' означает 'Где находится банк?' 'Cerca de aquí' означает 'поблизости отсюда'.",
+    "context": "Заблудились в испанском городе и ищете банк"
+  },
+  "q_vocab_a2_06_008": {
+    "question": "Что означает 'lejos' в 'El aeropuerto está lejos del centro'?",
+    "correct": "далеко",
+    "wrong": ["близко", "позади", "выше"],
+    "explanation": "'Lejos' означает 'далеко'. Противоположное — 'cerca' (близко). Предложение означает 'Аэропорт находится далеко от центра.'"
+  },
+  "q_vocab_a2_06_009": {
+    "question": "La iglesia está entre el banco y el museo.",
+    "correct": "Церковь находится между банком и музеем.",
+    "wrong": ["Церковь находится рядом с банком и музеем.", "Церковь находится далеко от банка и музея.", "Церковь находится напротив банка и музея."],
+    "explanation": "'Entre' означает 'между'. 'Iglesia' означает 'церковь'. Этот предлог используется для указания местоположения между двумя точками."
+  },
+  "q_vocab_a2_06_010": {
+    "question": "Турист спрашивает вас, как пройти к собору. Он в двух кварталах, потом налево. Что вы говорите?",
+    "correct": "Siga recto dos calles y gire a la izquierda.",
+    "wrong": ["Cruce la plaza y la catedral está enfrente.", "Gire a la derecha y siga recto.", "Está muy lejos, necesita un taxi."],
+    "explanation": "'Siga recto dos calles' означает 'Идите прямо два квартала'. 'Gire a la izquierda' означает 'поверните налево'.",
+    "context": "Турист останавливает вас на улице, спрашивая направление"
+  },
+  "q_vocab_a2_07_001": {
+    "question": "Что означает 'barrer'?",
+    "correct": "подметать",
+    "wrong": ["мыть", "вытирать пыль", "пылесосить"],
+    "explanation": "'Barrer' означает 'подметать' пол, обычно веником ('escoba')."
+  },
+  "q_vocab_a2_07_002": {
+    "question": "Что означает 'planchar'?",
+    "correct": "гладить",
+    "wrong": ["складывать", "стирать", "сушить"],
+    "explanation": "'Planchar' означает 'гладить' одежду. Утюг называется 'la plancha'."
+  },
+  "q_vocab_a2_07_003": {
+    "question": "Después de comer, hay que ___ los platos.",
+    "correct": "fregar",
+    "wrong": ["barrer", "planchar", "ordenar"],
+    "explanation": "'Fregar' означает 'мыть/скрести' (посуду). 'Fregar los platos' означает 'мыть посуду'."
+  },
+  "q_vocab_a2_07_004": {
+    "question": "Что означает 'sacar la basura'?",
+    "correct": "выносить мусор",
+    "wrong": ["убирать ванную", "стирать белье", "пылесосить пол"],
+    "explanation": "'Sacar la basura' означает 'выносить мусор'. 'Basura' означает 'мусор'."
+  },
+  "q_vocab_a2_07_005": {
+    "question": "Что означает 'limpiar' в 'Tengo que limpiar la casa antes de la fiesta'?",
+    "correct": "убирать",
+    "wrong": ["украшать", "организовывать", "красить"],
+    "explanation": "'Limpiar' означает 'убирать'. Предложение означает 'Мне нужно убрать дом перед вечеринкой.'"
+  },
+  "q_vocab_a2_07_006": {
+    "question": "Мне нужно застелить кровать и прибрать в комнате.",
+    "correct": "Necesito hacer la cama y ordenar mi habitación.",
+    "wrong": ["Necesito lavar la cama y limpiar mi habitación.", "Necesito barrer la cama y fregar mi habitación.", "Necesito planchar la cama y cocinar mi habitación."],
+    "explanation": "'Hacer la cama' означает 'застелить кровать'. 'Ordenar' означает 'прибрать' или 'организовать'."
+  },
+  "q_vocab_a2_07_007": {
+    "question": "Что означает 'pasar la aspiradora'?",
+    "correct": "пылесосить",
+    "wrong": ["подметать", "мыть", "вытирать пыль"],
+    "explanation": "'Pasar la aspiradora' буквально означает 'провести пылесосом'. Это стандартное выражение для пылесоса в испанском языке."
+  },
+  "q_vocab_a2_07_008": {
+    "question": "Mi madre siempre cocina y mi padre lava la ropa.",
+    "correct": "Моя мама всегда готовит, а мой отец стирает белье.",
+    "wrong": ["Моя мама всегда убирает, а мой отец гладит одежду.", "Моя мама всегда подметает, а мой отец складывает одежду.", "Моя мама всегда готовит, а мой отец гладит одежду."],
+    "explanation": "'Cocinar' означает 'готовить', а 'lavar la ropa' означает 'стирать белье'. 'Siempre' означает 'всегда'."
+  },
+  "q_vocab_a2_07_009": {
+    "question": "Ваш сосед по комнате просит вас помочь с домашними делами в эти выходные. Вы предлагаете пропылесосить и вынести мусор. Что вы говорите?",
+    "correct": "Yo puedo pasar la aspiradora y sacar la basura.",
+    "wrong": ["Yo puedo cocinar y hacer la cama.", "Yo puedo planchar y lavar la ropa.", "Yo puedo fregar los platos y barrer."],
+    "explanation": "'Pasar la aspiradora' — 'пылесосить', а 'sacar la basura' — 'выносить мусор'. 'Puedo' означает 'я могу'.",
+    "context": "Распределение домашних обязанностей с соседом по комнате"
+  },
+  "q_vocab_a2_07_010": {
+    "question": "Вы только что переехали в новую квартиру и вам нужно всё убрать. Вы описываете другу, что вам нужно сделать. Что вы говорите?",
+    "correct": "Tengo que limpiar todo: barrer, fregar y pasar la aspiradora.",
+    "wrong": ["Tengo que cocinar todo: hacer la cama, planchar y recoger.", "Tengo que comprar todo: muebles, platos y ropa.", "Tengo que ordenar todo: pintar, decorar y colgar cuadros."],
+    "explanation": "'Tengo que' означает 'я должен'. Перечисление задач по уборке с 'barrer' (подметать), 'fregar' (скрести/мыть) и 'pasar la aspiradora' (пылесосить) охватывает генеральную уборку.",
+    "context": "Только что переехали в новую квартиру, которую нужно тщательно убрать"
+  },
+  "q_vocab_a2_08_001": {
+    "question": "Что означает 'contraseña'?",
+    "correct": "пароль",
+    "wrong": ["имя пользователя", "электронная почта", "аккаунт"],
+    "explanation": "'Contraseña' означает 'пароль'. Происходит от 'contra' (против) и 'seña' (знак)."
+  },
+  "q_vocab_a2_08_002": {
+    "question": "No puedo entrar en mi correo porque olvidé la ___.",
+    "correct": "contraseña",
+    "wrong": ["pantalla", "aplicación", "página web"],
+    "explanation": "'Contraseña' означает 'пароль'. Предложение означает 'Я не могу зайти в свою почту, потому что забыл пароль.'"
+  },
+  "q_vocab_a2_08_003": {
+    "question": "Что означает 'pantalla'?",
+    "correct": "экран",
+    "wrong": ["клавиатура", "мышь", "динамик"],
+    "explanation": "'Pantalla' означает 'экран'. Может относиться к экрану компьютера, телефона или телевизора."
+  },
+  "q_vocab_a2_08_004": {
+    "question": "Что означает 'descargar' в 'Voy a descargar la aplicación'?",
+    "correct": "скачать",
+    "wrong": ["загрузить", "удалить", "открыть"],
+    "explanation": "'Descargar' означает 'скачать'. Противоположное — 'cargar' (загружать/заряжать). Предложение означает 'Я собираюсь скачать приложение.'"
+  },
+  "q_vocab_a2_08_005": {
+    "question": "Мне нужно отправить электронное письмо моему начальнику.",
+    "correct": "Necesito enviar un correo electrónico a mi jefe.",
+    "wrong": ["Necesito descargar un correo electrónico a mi jefe.", "Necesito abrir un correo electrónico a mi jefe.", "Necesito borrar un correo electrónico a mi jefe."],
+    "explanation": "'Enviar' означает 'отправить'. 'Correo electrónico' означает 'электронная почта'. 'Jefe' означает 'начальник'."
+  },
+  "q_vocab_a2_08_006": {
+    "question": "Что означает 'teclado' в 'Este teclado no funciona bien'?",
+    "correct": "клавиатура",
+    "wrong": ["экран", "мышь", "принтер"],
+    "explanation": "'Teclado' означает 'клавиатура'. Происходит от 'tecla' (клавиша). Предложение означает 'Эта клавиатура плохо работает.'"
+  },
+  "q_vocab_a2_08_007": {
+    "question": "Вы хотите показать другу веб-сайт. Что вы говорите?",
+    "correct": "Mira esta página web, es muy interesante.",
+    "wrong": ["Descarga esta aplicación, es muy interesante.", "Envía este correo, es muy interesante.", "Escribe esta contraseña, es muy interesante."],
+    "explanation": "'Página web' означает 'веб-страница' или 'веб-сайт'. 'Mira' — неформальная повелительная форма 'mirar' (смотреть).",
+    "context": "Показываете другу что-то интересное в интернете"
+  },
+  "q_vocab_a2_08_008": {
+    "question": "Что означает 'móvil' в 'He perdido mi móvil'?",
+    "correct": "мобильный телефон",
+    "wrong": ["кошелек", "ноутбук", "планшет"],
+    "explanation": "'Móvil' означает 'мобильный телефон' в Испании. В Латинской Америке более распространено 'celular'. Предложение означает 'Я потерял свой мобильный телефон.'"
+  },
+  "q_vocab_a2_08_009": {
+    "question": "¿Puedes enviarme el documento por correo electrónico?",
+    "correct": "Можешь отправить мне документ по электронной почте?",
+    "wrong": ["Можешь скачать документ из электронной почты?", "Можешь распечатать документ из электронной почты?", "Можешь удалить документ из электронной почты?"],
+    "explanation": "'Enviar' означает 'отправить'. 'Por correo electrónico' означает 'по электронной почте'. Это обычный запрос в рабочем контексте."
+  },
+  "q_vocab_a2_08_010": {
+    "question": "Ваш компьютер очень медленный, и вам нужна помощь. Вы звоните в техподдержку. Что вы говорите?",
+    "correct": "Mi ordenador va muy lento y no puedo abrir las aplicaciones.",
+    "wrong": ["Mi teclado va muy lento y no puedo escribir los correos.", "Mi pantalla va muy lento y no puedo ver las páginas.", "Mi contraseña va muy lento y no puedo entrar en internet."],
+    "explanation": "'Ordenador' означает 'компьютер' (Испания). 'Va muy lento' означает 'очень медленный'. 'Aplicaciones' означает 'приложения'.",
+    "context": "Звонок в техподдержку из-за медленной работы компьютера"
+  },
+  "q_vocab_a2_09_001": {
+    "question": "Что означает 'boda'?",
+    "correct": "свадьба",
+    "wrong": ["день рождения", "годовщина", "крещение"],
+    "explanation": "'Boda' означает 'свадьба'. Связанный глагол — 'casarse' (жениться/выходить замуж)."
+  },
+  "q_vocab_a2_09_002": {
+    "question": "Что означает 'regalo'?",
+    "correct": "подарок",
+    "wrong": ["открытка", "украшение", "приглашение"],
+    "explanation": "'Regalo' означает 'подарок'. Глагол 'regalar' означает 'дарить подарок'."
+  },
+  "q_vocab_a2_09_003": {
+    "question": "En la fiesta de Navidad, los niños abren sus ___ debajo del árbol.",
+    "correct": "regalos",
+    "wrong": ["tartas", "velas", "tradiciones"],
+    "explanation": "'Regalos' означает 'подарки'. В Испании дети традиционно получают подарки 6 января (Día de Reyes), а не 25 декабря."
+  },
+  "q_vocab_a2_09_004": {
+    "question": "Что означает 'cumpleaños'?",
+    "correct": "день рождения",
+    "wrong": ["свадьба", "годовщина", "праздник"],
+    "explanation": "'Cumpleaños' означает 'день рождения'. Происходит от 'cumplir años' (исполняться лет). Одинаково в единственном и множественном числе."
+  },
+  "q_vocab_a2_09_005": {
+    "question": "Что означает 'felicitar' в 'Quiero felicitar a María por su boda'?",
+    "correct": "поздравлять",
+    "wrong": ["приглашать", "праздновать", "удивлять"],
+    "explanation": "'Felicitar' означает 'поздравлять'. Предложение означает 'Я хочу поздравить Марию со свадьбой.'"
+  },
+  "q_vocab_a2_09_006": {
+    "question": "Мы собираемся праздновать день рождения моей сестры в субботу.",
+    "correct": "Vamos a celebrar el cumpleaños de mi hermana el sábado.",
+    "wrong": ["Vamos a invitar el cumpleaños de mi hermana el sábado.", "Vamos a felicitar el cumpleaños de mi hermana el sábado.", "Vamos a brindar el cumpleaños de mi hermana el sábado."],
+    "explanation": "'Celebrar' означает 'праздновать'. 'Vamos a' + инфинитив выражает будущие планы, означая 'мы собираемся'."
+  },
+  "q_vocab_a2_09_007": {
+    "question": "Что означает 'brindar' в 'Vamos a brindar por los novios'?",
+    "correct": "поднимать тост (поднимать бокал)",
+    "wrong": ["танцевать", "петь", "радоваться"],
+    "explanation": "'Brindar' означает 'поднимать тост' или 'поднимать бокал'. 'Los novios' относится к жениху и невесте. 'Brindar por' означает 'поднимать тост за'."
+  },
+  "q_vocab_a2_09_008": {
+    "question": "Los invitados cantaron y bailaron en la fiesta toda la noche.",
+    "correct": "Гости пели и танцевали на вечеринке всю ночь.",
+    "wrong": ["Хозяева пели и танцевали на вечеринке всю ночь.", "Гости ели и пили на вечеринке всю ночь.", "Гости разговаривали и смеялись на вечеринке всю ночь."],
+    "explanation": "'Invitados' означает 'гости'. 'Cantar' означает 'петь', а 'bailar' означает 'танцевать'. 'Toda la noche' означает 'всю ночь'."
+  },
+  "q_vocab_a2_09_009": {
+    "question": "У вашего коллеги день рождения. Вы хотите пожелать ему всего наилучшего в офисе. Что вы говорите?",
+    "correct": "¡Feliz cumpleaños! ¡Que cumplas muchos más!",
+    "wrong": ["¡Buen provecho! ¡Que disfrutes!", "¡Enhorabuena! ¡Que tengas suerte!", "¡Buenas tardes! ¡Que descanses!"],
+    "explanation": "'¡Feliz cumpleaños!' означает 'С днем рождения!' '¡Que cumplas muchos más!' означает 'Пусть у тебя будет еще много!'",
+    "context": "В офисе на день рождения коллеги"
+  },
+  "q_vocab_a2_09_010": {
+    "question": "Вас пригласили на новогоднюю вечеринку, и вы хотите поднять тост в полночь. Что вы говорите?",
+    "correct": "¡Brindemos por el año nuevo! ¡Feliz Año Nuevo!",
+    "wrong": ["¡Felicidades por la Navidad! ¡Buen provecho!", "¡Celebremos el cumpleaños! ¡Salud!", "¡Invitemos a los amigos! ¡Buena suerte!"],
+    "explanation": "'Brindemos' означает 'давайте поднимем тост'. '¡Feliz Año Nuevo!' означает 'С Новым годом!' Это традиционная фраза в полночь 31 декабря.",
+    "context": "На новогодней вечеринке, когда часы бьют полночь"
+  },
+  "q_vocab_a2_10_001": {
+    "question": "Что означает 'mascota'?",
+    "correct": "домашнее животное",
+    "wrong": ["маска", "ферма", "клетка"],
+    "explanation": "'Mascota' означает 'домашнее животное'. Может относиться к любому домашнему животному, которое держат в качестве компаньона."
+  },
+  "q_vocab_a2_10_002": {
+    "question": "El ___ persiguió al gato por todo el jardín.",
+    "correct": "perro",
+    "wrong": ["pez", "pájaro", "conejo"],
+    "explanation": "'Perro' означает 'собака'. Предложение означает 'Собака гонялась за кошкой по всему саду.' 'Perseguir' означает 'гнаться'."
+  },
+  "q_vocab_a2_10_003": {
+    "question": "Что означает 'caballo'?",
+    "correct": "лошадь",
+    "wrong": ["корова", "бык", "осел"],
+    "explanation": "'Caballo' означает 'лошадь'. Лошади распространены в сельской Испании и на традиционных фестивалях."
+  },
+  "q_vocab_a2_10_004": {
+    "question": "Что означает 'salvaje' в 'Los leones son animales salvajes'?",
+    "correct": "дикий",
+    "wrong": ["домашний", "опасный", "большой"],
+    "explanation": "'Salvaje' означает 'дикий'. Противоположное — 'doméstico' (домашний). Предложение означает 'Львы — дикие животные.'"
+  },
+  "q_vocab_a2_10_005": {
+    "question": "Моя кошка любит спать на диване.",
+    "correct": "A mi gato le gusta dormir en el sofá.",
+    "wrong": ["A mi perro le gusta dormir en el sofá.", "A mi gato le gusta comer en el sofá.", "Mi gato gusta dormir en el sofá."],
+    "explanation": "'Gato' означает 'кот'. Обратите внимание на структуру 'a mi gato le gusta' — с животными мы используем ту же конструкцию 'gustar', что и с людьми."
+  },
+  "q_vocab_a2_10_006": {
+    "question": "Что означает 'pájaro' в 'Hay un pájaro bonito en el árbol'?",
+    "correct": "птица",
+    "wrong": ["бабочка", "белка", "насекомое"],
+    "explanation": "'Pájaro' означает 'птица'. Предложение означает 'На дереве красивая птица.' 'Bonito' означает 'красивый'."
+  },
+  "q_vocab_a2_10_007": {
+    "question": "Вы в зоомагазине и хотите купить кролика для своего ребенка. Что вы говорите?",
+    "correct": "Quiero comprar un conejo para mi hijo.",
+    "wrong": ["Quiero comprar una serpiente para mi hijo.", "Quiero comprar un pez para mi hijo.", "Quiero comprar una gallina para mi hijo."],
+    "explanation": "'Conejo' означает 'кролик'. Кролики — популярные домашние животные для детей. 'Para mi hijo' означает 'для моего ребенка/сына'.",
+    "context": "В зоомагазине, выбирая питомца для ребенка"
+  },
+  "q_vocab_a2_10_008": {
+    "question": "Что означает 'mariposa'?",
+    "correct": "бабочка",
+    "wrong": ["стрекоза", "пчела", "божья коровка"],
+    "explanation": "'Mariposa' означает 'бабочка'. Также используется как название стиля плавания баттерфляй."
+  },
+  "q_vocab_a2_10_009": {
+    "question": "En la granja hay vacas, cerdos y gallinas.",
+    "correct": "На ферме есть коровы, свиньи и курицы.",
+    "wrong": ["В зоопарке есть коровы, свиньи и курицы.", "На ферме есть лошади, собаки и кошки.", "На ферме есть коровы, овцы и козы."],
+    "explanation": "'Granja' означает 'ферма'. 'Vaca' — 'корова', 'cerdo' — 'свинья', а 'gallina' — 'курица/несушка'."
+  },
+  "q_vocab_a2_10_010": {
+    "question": "Вы посещаете природный заповедник и видите много животных. Вы описываете впечатление другу. Что вы говорите?",
+    "correct": "Vimos muchos animales salvajes: pájaros, serpientes y caballos.",
+    "wrong": ["Vimos muchas mascotas: perros, gatos y conejos.", "Compramos muchos animales: vacas, cerdos y gallinas.", "Vimos muchos peces en la granja."],
+    "explanation": "'Animales salvajes' означает 'дикие животные'. 'Vimos' (мы видели) — прошедшее время 'ver'. В природных заповедниках обитают дикие, а не домашние животные.",
+    "context": "Рассказываете другу о посещении природного заповедника"
+  },
+  "q_vocab_a2_11_001": {
+    "question": "Что означает 'alto' при описании человека?",
+    "correct": "высокий",
+    "wrong": ["низкий", "худой", "сильный"],
+    "explanation": "'Alto' означает 'высокий' при описании человека. Противоположное — 'bajo' (низкий)."
+  },
+  "q_vocab_a2_11_002": {
+    "question": "Что означает 'delgado'?",
+    "correct": "худой/стройный",
+    "wrong": ["высокий", "толстый", "сильный"],
+    "explanation": "'Delgado' означает 'худой' или 'стройный'. Противоположное — 'gordo' (толстый). Более вежливая альтернатива — 'corpulento'."
+  },
+  "q_vocab_a2_11_003": {
+    "question": "Mi hermana tiene el pelo ___ y rubio.",
+    "correct": "largo",
+    "wrong": ["corto", "rizado", "moreno"],
+    "explanation": "'Largo' означает 'длинный'. 'Pelo largo y rubio' означает 'длинные и светлые волосы'."
+  },
+  "q_vocab_a2_11_004": {
+    "question": "Что означает 'rizado' в 'Tiene el pelo rizado'?",
+    "correct": "кудрявый",
+    "wrong": ["прямой", "короткий", "темный"],
+    "explanation": "'Rizado' означает 'кудрявый'. Противоположное — 'liso' (прямой). Предложение означает 'У него/нее кудрявые волосы.'"
+  },
+  "q_vocab_a2_11_005": {
+    "question": "Что означает 'guapo' в 'Tu novio es muy guapo'?",
+    "correct": "красивый/привлекательный",
+    "wrong": ["высокий", "смешной", "добрый"],
+    "explanation": "'Guapo' означает 'красивый' или 'привлекательный'. Женская форма — 'guapa'. Предложение означает 'Твой парень очень красивый.'"
+  },
+  "q_vocab_a2_11_006": {
+    "question": "У нее карие глаза, и она носит очки.",
+    "correct": "Ella tiene los ojos marrones y lleva gafas.",
+    "wrong": ["Ella tiene los ojos azules y lleva gafas.", "Ella tiene los ojos marrones y lleva barba.", "Ella tiene el pelo marrón y lleva gafas."],
+    "explanation": "'Ojos marrones' означает 'карие глаза'. 'Llevar gafas' означает 'носить очки'. Примечание: 'llevar' используется для ношения аксессуаров."
+  },
+  "q_vocab_a2_11_007": {
+    "question": "Что означает 'barba' в 'Mi padre tiene barba'?",
+    "correct": "борода",
+    "wrong": ["усы", "очки", "шляпа"],
+    "explanation": "'Barba' означает 'борода'. 'Bigote' означает 'усы'. Предложение означает 'У моего отца есть борода.'"
+  },
+  "q_vocab_a2_11_008": {
+    "question": "Es una chica alta y delgada con el pelo moreno y liso.",
+    "correct": "Это высокая и стройная девушка с темными прямыми волосами.",
+    "wrong": ["Это низкая и стройная девушка с темными кудрявыми волосами.", "Это высокая и стройная девушка со светлыми прямыми волосами.", "Это высокая и полная девушка с темными прямыми волосами."],
+    "explanation": "'Moreno' означает 'темный' (цвет волос), а 'liso' означает 'прямой'. Вместе с 'alta y delgada' это полное физическое описание."
+  },
+  "q_vocab_a2_11_009": {
+    "question": "Полицейский просит вас описать кого-то, кого вы видели. Человек был невысоким с рыжими кудрявыми волосами. Что вы говорите?",
+    "correct": "Era bajo, con el pelo pelirrojo y rizado.",
+    "wrong": ["Era alto, con el pelo rubio y liso.", "Era gordo, con el pelo moreno y largo.", "Era delgado, con los ojos azules y gafas."],
+    "explanation": "'Bajo' означает 'невысокий' (рост). 'Pelirrojo' означает 'рыжеволосый', а 'rizado' означает 'кудрявый'. 'Era' — прошедшее время 'ser' для описаний.",
+    "context": "В полицейском участке, описывая кого-то, кого вы видели"
+  },
+  "q_vocab_a2_11_010": {
+    "question": "Вы встречаете друга в аэропорту, которого никогда не видели. Они спрашивают, как вас узнать. Что вы говорите?",
+    "correct": "Soy alto, con pelo rubio corto y llevo gafas.",
+    "wrong": ["Soy bajo, con pelo moreno largo y llevo barba.", "Soy delgado, con ojos verdes y llevo sombrero.", "Soy gordo, con pelo rizado y llevo chaqueta roja."],
+    "explanation": "При описании себя используйте 'soy' (я есть) для постоянных черт и 'llevo' (я ношу) для аксессуаров, таких как очки.",
+    "context": "По телефону с другом, который прибывает в аэропорт"
+  },
+  "q_vocab_a2_12_001": {
+    "question": "Что означает 'simpático'?",
+    "correct": "милый/дружелюбный",
+    "wrong": ["смешной", "застенчивый", "серьезный"],
+    "explanation": "'Simpático' означает 'милый' или 'дружелюбный'. Противоположное — 'antipático' (недружелюбный). Осторожно: это ложный друг с английским 'sympathetic'."
+  },
+  "q_vocab_a2_12_002": {
+    "question": "Mi compañero de clase es muy ___. Siempre me ayuda con los deberes.",
+    "correct": "amable",
+    "wrong": ["vago", "tímido", "celoso"],
+    "explanation": "'Amable' означает 'добрый'. Предложение означает 'Мой одноклассник очень добрый. Он всегда помогает мне с домашним заданием.'"
+  },
+  "q_vocab_a2_12_003": {
+    "question": "Что означает 'tímido'?",
+    "correct": "застенчивый",
+    "wrong": ["смелый", "ленивый", "серьезный"],
+    "explanation": "'Tímido' означает 'застенчивый'. Застенчивый человек испытывает трудности в социальных ситуациях."
+  },
+  "q_vocab_a2_12_004": {
+    "question": "Что означает 'perezoso'?",
+    "correct": "ленивый",
+    "wrong": ["трудолюбивый", "терпеливый", "щедрый"],
+    "explanation": "'Perezoso' означает 'ленивый'. Синоним — 'vago'. Противоположное — 'trabajador' (трудолюбивый)."
+  },
+  "q_vocab_a2_12_005": {
+    "question": "Мой брат очень трудолюбивый и терпеливый.",
+    "correct": "Mi hermano es muy trabajador y paciente.",
+    "wrong": ["Mi hermano es muy vago y paciente.", "Mi hermano es muy trabajador y celoso.", "Mi hermano es muy serio y impaciente."],
+    "explanation": "'Trabajador' означает 'трудолюбивый', а 'paciente' означает 'терпеливый'. Это положительные черты личности."
+  },
+  "q_vocab_a2_12_006": {
+    "question": "Что означает 'generoso' в 'Mi abuela es muy generosa con todos'?",
+    "correct": "щедрый",
+    "wrong": ["строгий", "терпеливый", "веселый"],
+    "explanation": "'Generoso/a' означает 'щедрый'. Предложение означает 'Моя бабушка очень щедрая со всеми.'"
+  },
+  "q_vocab_a2_12_007": {
+    "question": "Ваш друг всегда заставляет людей смеяться. Как бы вы их описали?",
+    "correct": "Es muy divertido, siempre nos hace reír.",
+    "wrong": ["Es muy serio, siempre nos hace reír.", "Es muy tímido, siempre nos hace reír.", "Es muy antipático, siempre nos hace reír."],
+    "explanation": "'Divertido' означает 'смешной' или 'развлекательный'. 'Hacer reír' означает 'заставлять смеяться'.",
+    "context": "Описание личности друга кому-то новому"
+  },
+  "q_vocab_a2_12_008": {
+    "question": "Что означает 'optimista' в 'Siempre soy optimista sobre el futuro'?",
+    "correct": "оптимистичный",
+    "wrong": ["пессимистичный", "реалистичный", "равнодушный"],
+    "explanation": "'Optimista' означает 'оптимистичный'. Противоположное — 'pesimista'. Предложение означает 'Я всегда оптимистично смотрю на будущее.'"
+  },
+  "q_vocab_a2_12_009": {
+    "question": "Ella es muy celosa y siempre quiere saber dónde está su novio.",
+    "correct": "Она очень ревнива и всегда хочет знать, где ее парень.",
+    "wrong": ["Она очень добрая и всегда хочет знать, где ее парень.", "Она очень застенчивая и всегда хочет знать, где ее парень.", "Она очень щедрая и всегда хочет знать, где ее парень."],
+    "explanation": "'Celoso/a' означает 'ревнивый'. Описывает человека, который чувствует себя неуверенно или собственнически в отношениях."
+  },
+  "q_vocab_a2_12_010": {
+    "question": "Ваш друг спрашивает вас описать личность идеального партнера. Вы цените доброту и чувство юмора. Что вы говорите?",
+    "correct": "Para mí, lo más importante es que sea amable y divertido.",
+    "wrong": ["Para mí, lo más importante es que sea serio y trabajador.", "Para mí, lo más importante es que sea tímido y paciente.", "Para mí, lo más importante es que sea generoso y optimista."],
+    "explanation": "'Amable' означает 'добрый', а 'divertido' означает 'смешной'. 'Lo más importante' означает 'самое важное'. 'Sea' — сослагательное наклонение 'ser'.",
+    "context": "Разговор с друзьями о качествах идеального партнера"
+  },
+  "q_vocab_a2_13_001": {
+    "question": "Что означает 'mensaje'?",
+    "correct": "сообщение",
+    "wrong": ["письмо", "конверт", "марка"],
+    "explanation": "'Mensaje' означает 'сообщение'. Это может быть текстовое сообщение ('mensaje de texto') или телефонное сообщение ('recado')."
+  },
+  "q_vocab_a2_13_002": {
+    "question": "Что означает 'sobre' в 'Mete la carta en el sobre'?",
+    "correct": "конверт",
+    "wrong": ["почтовый ящик", "марка", "папка"],
+    "explanation": "'Sobre' означает 'конверт'. Предложение означает 'Положи письмо в конверт.' Примечание: 'sobre' также означает 'на/о' как предлог."
+  },
+  "q_vocab_a2_13_003": {
+    "question": "Necesito comprar un ___ para enviar esta carta.",
+    "correct": "sello",
+    "wrong": ["buzón", "sobre", "recado"],
+    "explanation": "'Sello' означает 'марка' (почтовая марка). Вы покупаете марки ('sellos') на почте или в табачных лавках ('estancos') в Испании."
+  },
+  "q_vocab_a2_13_004": {
+    "question": "Что означает 'colgar' в телефонном разговоре?",
+    "correct": "повесить трубку",
+    "wrong": ["позвонить", "ответить", "набрать"],
+    "explanation": "'Colgar' означает 'повесить трубку'. Противоположные действия — 'llamar' (звонить) и 'contestar' (отвечать)."
+  },
+  "q_vocab_a2_13_005": {
+    "question": "Что означает 'recado' в 'Te dejé un recado en el contestador'?",
+    "correct": "сообщение (телефонное сообщение)",
+    "wrong": ["письмо", "автоответчик", "номер телефона"],
+    "explanation": "'Recado' означает сообщение, оставленное кому-то, особенно телефонное сообщение. Предложение означает 'Я оставил тебе сообщение на автоответчике.'"
+  },
+  "q_vocab_a2_13_006": {
+    "question": "Дорогая Мария, я пишу, чтобы пригласить тебя на мою вечеринку.",
+    "correct": "Querida María, te escribo para invitarte a mi fiesta.",
+    "wrong": ["Atentamente María, te escribo para invitarte a mi fiesta.", "Hola María, te llamo para invitarte a mi fiesta.", "Estimada María, te contesto para invitarte a mi fiesta."],
+    "explanation": "'Querida' означает 'Дорогая' (женский род) и используется в неформальных письмах. 'Te escribo para' означает 'Я пишу тебе, чтобы'."
+  },
+  "q_vocab_a2_13_007": {
+    "question": "Что означает 'contestar' в '¿Por qué no contestas el teléfono?'?",
+    "correct": "отвечать",
+    "wrong": ["звонить", "вешать трубку", "набирать"],
+    "explanation": "'Contestar' означает 'отвечать'. Предложение означает 'Почему ты не отвечаешь на телефон?' Может относиться к ответам на звонки, вопросы или сообщения."
+  },
+  "q_vocab_a2_13_008": {
+    "question": "Escribí 'Atentamente' al final de la carta formal.",
+    "correct": "Я написал 'С уважением' в конце официального письма.",
+    "wrong": ["Я написал 'Дорогой' в конце официального письма.", "Я написал 'С наилучшими пожеланиями' в конце официального письма.", "Я написал 'До свидания' в конце официального письма."],
+    "explanation": "'Atentamente' означает 'С уважением'. Это стандартное завершение официальных писем в испанском языке."
+  },
+  "q_vocab_a2_13_009": {
+    "question": "Ваш телефон звонит, и вы отвечаете. Каков распространенный способ ответа на телефон в Испании?",
+    "correct": "¿Diga?",
+    "wrong": ["¿Quién eres?", "¡Hola, soy yo!", "¿Qué quieres?"],
+    "explanation": "'¿Diga?' — стандартный способ ответа на телефон в Испании. В Мексике вместо этого используется '¿Bueno?'.",
+    "context": "Ваш телефон звонит, и вы поднимаете трубку"
+  },
+  "q_vocab_a2_13_010": {
+    "question": "Вам нужно отправить письмо другу в другую страну. Вы идете на почту. Что вы говорите?",
+    "correct": "Quiero enviar esta carta al extranjero. ¿Cuánto cuesta el sello?",
+    "wrong": ["Quiero llamar a mi amigo en el extranjero. ¿Cuánto cuesta?", "Quiero comprar un buzón para el extranjero. ¿Dónde está?", "Quiero contestar esta carta del extranjero. ¿Tiene un sobre?"],
+    "explanation": "'Enviar' означает 'отправить'. 'Al extranjero' означает 'за границу'. Вам нужна 'sello' (марка), чтобы отправить почту.",
+    "context": "На почте, желая отправить письмо за границу"
+  },
+  "q_vocab_a2_14_001": {
+    "question": "Что означает 'cajero automático'?",
+    "correct": "банкомат",
+    "wrong": ["кассир", "касса", "сейф"],
+    "explanation": "'Cajero automático' означает 'банкомат'. Вы используете его, чтобы снять ('sacar') деньги."
+  },
+  "q_vocab_a2_14_002": {
+    "question": "Necesito ___ dinero del cajero automático.",
+    "correct": "sacar",
+    "wrong": ["enviar", "firmar", "ingresar"],
+    "explanation": "'Sacar dinero' означает 'снять деньги'. 'Retirar' — синоним. Предложение означает 'Мне нужно снять деньги с банкомата.'"
+  },
+  "q_vocab_a2_14_003": {
+    "question": "Что означает 'cuenta bancaria'?",
+    "correct": "банковский счет",
+    "wrong": ["банковская карта", "банковский кредит", "банковское отделение"],
+    "explanation": "'Cuenta bancaria' означает 'банковский счет'. 'Abrir una cuenta' означает 'открыть счет'."
+  },
+  "q_vocab_a2_14_004": {
+    "question": "Что означает 'transferencia' в 'Hice una transferencia de 200 euros'?",
+    "correct": "банковский перевод",
+    "wrong": ["снятие", "вклад", "платеж"],
+    "explanation": "'Transferencia' означает 'банковский перевод'. Предложение означает 'Я сделал перевод на 200 евро.'"
+  },
+  "q_vocab_a2_14_005": {
+    "question": "Я хочу внести деньги на свой счет.",
+    "correct": "Quiero ingresar dinero en mi cuenta.",
+    "wrong": ["Quiero sacar dinero de mi cuenta.", "Quiero enviar dinero a mi cuenta.", "Quiero firmar dinero en mi cuenta."],
+    "explanation": "'Ingresar' означает 'внести' деньги. 'Depositar' также используется, особенно в Латинской Америке. Противоположное — 'sacar/retirar' (снять)."
+  },
+  "q_vocab_a2_14_006": {
+    "question": "Что означает 'ventanilla' в 'Diríjase a la ventanilla número tres'?",
+    "correct": "окно обслуживания/стойка",
+    "wrong": ["вход", "выход", "зона ожидания"],
+    "explanation": "'Ventanilla' означает 'окно обслуживания' или 'стойка' в банке или на почте. Предложение означает 'Пройдите к окну номер три.'"
+  },
+  "q_vocab_a2_14_007": {
+    "question": "Вы на почте и хотите отправить посылку своей семье. Что вы говорите?",
+    "correct": "Quiero enviar este paquete a esta dirección, por favor.",
+    "wrong": ["Quiero sacar este paquete de esta dirección, por favor.", "Quiero firmar este paquete en esta dirección, por favor.", "Quiero ingresar este paquete en esta dirección, por favor."],
+    "explanation": "'Enviar un paquete' означает 'отправить посылку'. 'Dirección' означает 'адрес'.",
+    "context": "На почте с посылкой для отправки"
+  },
+  "q_vocab_a2_14_008": {
+    "question": "Что означает 'firmar' в 'Tiene que firmar aquí, por favor'?",
+    "correct": "подписать",
+    "wrong": ["написать", "заполнить", "поставить печать"],
+    "explanation": "'Firmar' означает 'подписать'. Предложение означает 'Вы должны подписать здесь, пожалуйста.' 'La firma' — существительное, означающее 'подпись'."
+  },
+  "q_vocab_a2_14_009": {
+    "question": "Por favor, rellene este formulario con sus datos personales.",
+    "correct": "Пожалуйста, заполните эту форму своими личными данными.",
+    "wrong": ["Пожалуйста, подпишите эту форму своими личными данными.", "Пожалуйста, отправьте эту форму своими личными данными.", "Пожалуйста, прочитайте эту форму со своими личными данными."],
+    "explanation": "'Rellenar un formulario' означает 'заполнить форму'. 'Datos personales' означает 'личные данные/информация'."
+  },
+  "q_vocab_a2_14_010": {
+    "question": "Вы в банке и хотите открыть новый счет. Что вы говорите банковскому служащему?",
+    "correct": "Buenos días, quiero abrir una cuenta bancaria.",
+    "wrong": ["Buenos días, quiero cerrar una cuenta bancaria.", "Buenos días, quiero sacar dinero de una cuenta.", "Buenos días, quiero enviar una transferencia."],
+    "explanation": "'Abrir una cuenta' означает 'открыть счет'. 'Cerrar' будет означать 'закрыть'. Это первый шаг в банковском обслуживании.",
+    "context": "В банке, желая открыть новый счет"
+  },
+  "q_vocab_a2_15_001": {
+    "question": "Что означает 'película'?",
+    "correct": "фильм",
+    "wrong": ["пьеса", "песня", "шоу"],
+    "explanation": "'Película' означает 'фильм'. Вы смотрите 'película' в 'cine' (кинотеатре)."
+  },
+  "q_vocab_a2_15_002": {
+    "question": "Что означает 'concierto'?",
+    "correct": "концерт",
+    "wrong": ["театр", "кинотеатр", "фестиваль"],
+    "explanation": "'Concierto' означает 'концерт'. Это живое музыкальное выступление."
+  },
+  "q_vocab_a2_15_003": {
+    "question": "Ayer fui al ___ a ver una obra de teatro muy divertida.",
+    "correct": "teatro",
+    "wrong": ["cine", "concierto", "museo"],
+    "explanation": "'Teatro' означает 'театр'. 'Obra de teatro' — 'пьеса'. Предложение означает 'Вчера я ходил в театр посмотреть очень смешную пьесу.'"
+  },
+  "q_vocab_a2_15_004": {
+    "question": "Что означает 'exposición' в 'Fuimos a ver la exposición de arte moderno'?",
+    "correct": "выставка",
+    "wrong": ["коллекция", "скульптура", "картина"],
+    "explanation": "'Exposición' означает 'выставка'. Предложение означает 'Мы пошли посмотреть выставку современного искусства.'"
+  },
+  "q_vocab_a2_15_005": {
+    "question": "Что означает 'divertirse' в 'Nos divertimos mucho en la fiesta'?",
+    "correct": "веселиться",
+    "wrong": ["скучать", "теряться", "уставать"],
+    "explanation": "'Divertirse' означает 'веселиться'. Это возвратный глагол. Предложение означает 'Мы очень повеселились на вечеринке.'"
+  },
+  "q_vocab_a2_15_006": {
+    "question": "В свободное время я люблю ходить в кино.",
+    "correct": "En mi tiempo libre me gusta ir al cine.",
+    "wrong": ["En mi tiempo libre me gusta ir al trabajo.", "En mi tiempo libre me gusta ir al banco.", "En mi tiempo libre me gusta ir al hospital."],
+    "explanation": "'Tiempo libre' означает 'свободное время'. 'Cine' означает 'кинотеатр'. 'Ir al cine' — распространенный досуг."
+  },
+  "q_vocab_a2_15_007": {
+    "question": "Что означает 'aburrirse' в 'Me aburro cuando no tengo nada que hacer'?",
+    "correct": "скучать",
+    "wrong": ["веселиться", "расслабляться", "злиться"],
+    "explanation": "'Aburrirse' означает 'скучать'. Это противоположность 'divertirse' (веселиться). Предложение означает 'Мне скучно, когда мне нечего делать.'"
+  },
+  "q_vocab_a2_15_008": {
+    "question": "Ayer vimos una película de terror y lo pasamos muy mal.",
+    "correct": "Вчера мы посмотрели фильм ужасов и ужасно провели время.",
+    "wrong": ["Вчера мы посмотрели комедию и отлично провели время.", "Вчера мы посмотрели фильм ужасов и отлично провели время.", "Вчера мы посмотрели боевик и ужасно провели время."],
+    "explanation": "'Película de terror' означает 'фильм ужасов'. 'Pasarlo mal' означает 'плохо провести время'. Противоположное — 'pasarlo bien'."
+  },
+  "q_vocab_a2_15_009": {
+    "question": "Ваш друг предлагает пойти на концерт в эти выходные. Вы хотите с энтузиазмом согласиться. Что вы говорите?",
+    "correct": "¡Genial! Me encanta la música en vivo. ¡Vamos!",
+    "wrong": ["¡Qué aburrido! No me gusta la música. Prefiero quedarme en casa.", "Bueno, vale, pero prefiero ir al cine.", "No sé, los conciertos son muy caros."],
+    "explanation": "'¡Genial!' означает 'Отлично!'. 'Música en vivo' означает 'живая музыка'. '¡Vamos!' означает 'Давай пойдем!'",
+    "context": "Друг приглашает вас на концерт в выходные"
+  },
+  "q_vocab_a2_15_010": {
+    "question": "У вас были отличные выходные, проведенные за веселыми занятиями с друзьями, и вы хотите рассказать об этом коллеге в понедельник. Что вы говорите?",
+    "correct": "Lo pasamos genial: fuimos al cine, a un concierto y a una exposición.",
+    "wrong": ["Lo pasamos mal: fuimos al médico, al banco y a la oficina.", "Nos aburrimos mucho: nos quedamos en casa todo el fin de semana.", "No hicimos nada especial: solo trabajamos y estudiamos."],
+    "explanation": "'Pasarlo genial' означает 'отлично провести время'. Перечисление досуговых мероприятий ('cine', 'concierto', 'exposición') показывает веселые выходные.",
+    "context": "Понедельник утром в офисе, разговор о выходных"
+  }
+}
