@@ -182,7 +182,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get goodJob => 'أحسنت!';
 
   @override
-  String get goHome => 'العودة للرئيسية';
+  String get goHome => 'الرئيسية';
 
   @override
   String get accuracy => 'الدقة';
@@ -520,4 +520,147 @@ class AppLocalizationsAr extends AppLocalizations {
   String topicCount(int count) {
     return '$count مواضيع';
   }
+
+  @override
+  String get speakingPractice => 'تدريب المحادثة';
+
+  @override
+  String get speakingTest => 'اختبار المحادثة';
+
+  @override
+  String get speakingFeatureDesc =>
+      'تدرّب على عشرات التنويعات من جملة واحدة: تغيير الفاعل، النفي، السؤال، استبدال الكلمات.';
+
+  @override
+  String get practice => 'تدريب';
+
+  @override
+  String get test => 'اختبار';
+
+  @override
+  String cardsCount(int count) {
+    return '$count بطاقة';
+  }
+
+  @override
+  String loadFailedError(String error) {
+    return 'فشل التحميل: $error';
+  }
+
+  @override
+  String get noSeeds => 'لا توجد جمل أساسية.';
+
+  @override
+  String get showMeaning => 'عرض المعنى';
+
+  @override
+  String get speakAgain => 'تحدث مجددًا';
+
+  @override
+  String get nextCard => 'التالي';
+
+  @override
+  String get viewResult => 'عرض النتيجة';
+
+  @override
+  String get listening => 'جارٍ الاستماع…';
+
+  @override
+  String get tapMicToSpeak => 'اضغط الميكروفون وكرر';
+
+  @override
+  String get iSaid => 'ما قلته';
+
+  @override
+  String get correctAnswerLabel => 'الإجابة';
+
+  @override
+  String get micPermissionRequired =>
+      'يلزم إذن الميكروفون والتعرّف على الكلام. فعّلهما من الإعدادات.';
+
+  @override
+  String speechError(String error) {
+    return 'خطأ في التعرّف على الكلام: $error';
+  }
+
+  @override
+  String get practiceResult => 'نتيجة التدريب';
+
+  @override
+  String get testResult => 'نتيجة الاختبار';
+
+  @override
+  String passedOfTotal(int passed, int total) {
+    return '$passed / $total ناجحة';
+  }
+
+  @override
+  String averageAccuracy(String percent) {
+    return 'متوسط الدقة $percent';
+  }
+
+  @override
+  String get testPassed => '🎉 ناجح!';
+
+  @override
+  String get testFailed => 'اقتربت. حاول مرة أخرى!';
+
+  @override
+  String get sayInSpanishHint => 'انظر وقلها بالإسبانية';
+
+  @override
+  String get variationBase => 'الجملة الأساسية';
+
+  @override
+  String variationSubject(String subject) {
+    return 'الفاعل · $subject';
+  }
+
+  @override
+  String get variationNegative => 'نفي';
+
+  @override
+  String get variationInterrogative => 'سؤال';
+
+  @override
+  String variationNounSwap(String noun) {
+    return 'تبديل كلمة · $noun';
+  }
+
+  @override
+  String get feedbackPerfect => 'ممتاز! 🎉';
+
+  @override
+  String get feedbackGreat => 'رائع! 👏';
+
+  @override
+  String get feedbackGood => 'جيد. مرة أخرى!';
+
+  @override
+  String get feedbackKeepPractice => 'استمر في التدريب.';
+
+  @override
+  String get feedbackTryAgain => 'حاول مرة أخرى.';
+
+  @override
+  String get openSettings => 'فتح الإعدادات';
+
+  @override
+  String attemptCounter(int current, int total) {
+    return 'محاولة $current/$total';
+  }
+
+  @override
+  String get playHint => 'تلميح النطق';
+
+  @override
+  String get speakingReview => 'مراجعة المحادثة';
+
+  @override
+  String speakingReviewDue(int count) {
+    return '$count بطاقة للمراجعة';
+  }
+
+  @override
+  String get noReviewDue => 'لا توجد بطاقات للمراجعة.\nإلى اللقاء!';
 }

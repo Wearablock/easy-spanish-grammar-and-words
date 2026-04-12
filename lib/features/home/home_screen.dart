@@ -4,11 +4,15 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../data/providers/study_providers.dart';
 import '../../l10n/app_localizations.dart';
 import '../../services/study_service.dart';
+import '../speaking_practice/data/speaking_review_provider.dart';
+import '../speaking_practice/screens/review_screen.dart';
 import '../study/study_session_screen.dart';
 import 'widgets/review_alert_card.dart';
 import 'widgets/today_study_card.dart';
 import 'widgets/study_cta_button.dart';
 import 'widgets/overall_progress_card.dart';
+import 'widgets/speaking_practice_cta.dart';
+import 'widgets/speaking_review_alert_card.dart';
 
 class HomeScreen extends ConsumerWidget {
   const HomeScreen({super.key});
@@ -31,9 +35,16 @@ class HomeScreen extends ConsumerWidget {
   }
 
   Widget _buildContent(BuildContext context, WidgetRef ref, TodaySummary summary) {
+    final speakingDueAsync = ref.watch(speakingReviewDueCountProvider);
+    final speakingDueCount = speakingDueAsync.maybeWhen(
+      data: (c) => c,
+      orElse: () => 0,
+    );
+
     return RefreshIndicator(
       onRefresh: () async {
         ref.invalidate(appStatsProvider);
+        ref.invalidate(speakingReviewDueCountProvider);
       },
       child: SingleChildScrollView(
         physics: const AlwaysScrollableScrollPhysics(),
@@ -41,13 +52,24 @@ class HomeScreen extends ConsumerWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
-            // 복습 알림 (있을 때만)
+            // 학습 복습 알림 (있을 때만)
             if (summary.reviewDueCount > 0) ...[
               ReviewAlertCard(
                 count: summary.reviewDueCount,
                 onTap: () => _startReviewSession(context),
               ),
+              const SizedBox(height: 12),
+            ],
+
+            // 말하기 복습 알림 (있을 때만) — 학습 복습 바로 아래
+            if (speakingDueCount > 0) ...[
+              SpeakingReviewAlertCard(
+                count: speakingDueCount,
+                onTap: () => _startSpeakingReview(context, ref),
+              ),
               const SizedBox(height: 16),
+            ] else if (summary.reviewDueCount > 0) ...[
+              const SizedBox(height: 4),
             ],
 
             TodayStudyCard(summary: summary),
@@ -60,11 +82,21 @@ class HomeScreen extends ConsumerWidget {
             const SizedBox(height: 24),
 
             OverallProgressCard(summary: summary),
+            const SizedBox(height: 16),
+
+            const SpeakingPracticeCta(),
             const SizedBox(height: 32),
           ],
         ),
       ),
     );
+  }
+
+  void _startSpeakingReview(BuildContext context, WidgetRef ref) {
+    Navigator.push(
+      context,
+      MaterialPageRoute(builder: (_) => const SpeakingReviewScreen()),
+    ).then((_) => ref.invalidate(speakingReviewDueCountProvider));
   }
 
   void _startStudySession(BuildContext context) {

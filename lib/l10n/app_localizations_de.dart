@@ -183,7 +183,7 @@ class AppLocalizationsDe extends AppLocalizations {
   String get goodJob => 'Gut gemacht!';
 
   @override
-  String get goHome => 'Zur Startseite';
+  String get goHome => 'Zum Start';
 
   @override
   String get accuracy => 'Genauigkeit';
@@ -526,4 +526,148 @@ class AppLocalizationsDe extends AppLocalizations {
   String topicCount(int count) {
     return '$count Themen';
   }
+
+  @override
+  String get speakingPractice => 'Sprechübung';
+
+  @override
+  String get speakingTest => 'Sprechtest';
+
+  @override
+  String get speakingFeatureDesc =>
+      'Übe und teste Dutzende Variationen aus einem Satz: Subjekt ändern, verneinen, fragen, Wörter tauschen.';
+
+  @override
+  String get practice => 'Üben';
+
+  @override
+  String get test => 'Test';
+
+  @override
+  String cardsCount(int count) {
+    return '$count Karten';
+  }
+
+  @override
+  String loadFailedError(String error) {
+    return 'Laden fehlgeschlagen: $error';
+  }
+
+  @override
+  String get noSeeds => 'Keine Basissätze verfügbar.';
+
+  @override
+  String get showMeaning => 'Bedeutung anzeigen';
+
+  @override
+  String get speakAgain => 'Nochmal sprechen';
+
+  @override
+  String get nextCard => 'Weiter';
+
+  @override
+  String get viewResult => 'Ergebnis anzeigen';
+
+  @override
+  String get listening => 'Höre zu…';
+
+  @override
+  String get tapMicToSpeak => 'Mikrofon drücken und nachsprechen';
+
+  @override
+  String get iSaid => 'Was du gesagt hast';
+
+  @override
+  String get correctAnswerLabel => 'Antwort';
+
+  @override
+  String get micPermissionRequired =>
+      'Mikrofon- und Spracherkennungsberechtigung erforderlich. Bitte in den Einstellungen erlauben.';
+
+  @override
+  String speechError(String error) {
+    return 'Spracherkennungsfehler: $error';
+  }
+
+  @override
+  String get practiceResult => 'Übungsergebnis';
+
+  @override
+  String get testResult => 'Testergebnis';
+
+  @override
+  String passedOfTotal(int passed, int total) {
+    return '$passed / $total bestanden';
+  }
+
+  @override
+  String averageAccuracy(String percent) {
+    return 'Durchschnittliche Genauigkeit $percent';
+  }
+
+  @override
+  String get testPassed => '🎉 Bestanden!';
+
+  @override
+  String get testFailed => 'Knapp daneben. Versuch es nochmal!';
+
+  @override
+  String get sayInSpanishHint => 'Anschauen und auf Spanisch sagen';
+
+  @override
+  String get variationBase => 'Basissatz';
+
+  @override
+  String variationSubject(String subject) {
+    return 'Subjekt · $subject';
+  }
+
+  @override
+  String get variationNegative => 'Verneinung';
+
+  @override
+  String get variationInterrogative => 'Frage';
+
+  @override
+  String variationNounSwap(String noun) {
+    return 'Wortwechsel · $noun';
+  }
+
+  @override
+  String get feedbackPerfect => 'Perfekt! 🎉';
+
+  @override
+  String get feedbackGreat => 'Großartig! 👏';
+
+  @override
+  String get feedbackGood => 'Gut. Noch einmal!';
+
+  @override
+  String get feedbackKeepPractice => 'Weiter üben.';
+
+  @override
+  String get feedbackTryAgain => 'Versuch es nochmal.';
+
+  @override
+  String get openSettings => 'Einstellungen öffnen';
+
+  @override
+  String attemptCounter(int current, int total) {
+    return 'Versuch $current/$total';
+  }
+
+  @override
+  String get playHint => 'Aussprache-Hinweis';
+
+  @override
+  String get speakingReview => 'Sprech-Wiederholung';
+
+  @override
+  String speakingReviewDue(int count) {
+    return '$count Karten zur Wiederholung';
+  }
+
+  @override
+  String get noReviewDue =>
+      'Keine Karten zur Wiederholung.\nBis zum nächsten Mal!';
 }

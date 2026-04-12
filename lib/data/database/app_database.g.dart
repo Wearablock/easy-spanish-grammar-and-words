@@ -2253,6 +2253,1179 @@ class UserSettingsCompanion extends UpdateCompanion<UserSetting> {
   }
 }
 
+class $SpeakingRecordsTable extends SpeakingRecords
+    with TableInfo<$SpeakingRecordsTable, SpeakingRecord> {
+  @override
+  final GeneratedDatabase attachedDatabase;
+  final String? _alias;
+  $SpeakingRecordsTable(this.attachedDatabase, [this._alias]);
+  static const VerificationMeta _idMeta = const VerificationMeta('id');
+  @override
+  late final GeneratedColumn<int> id = GeneratedColumn<int>(
+    'id',
+    aliasedName,
+    false,
+    hasAutoIncrement: true,
+    type: DriftSqlType.int,
+    requiredDuringInsert: false,
+    defaultConstraints: GeneratedColumn.constraintIsAlways(
+      'PRIMARY KEY AUTOINCREMENT',
+    ),
+  );
+  static const VerificationMeta _seedIdMeta = const VerificationMeta('seedId');
+  @override
+  late final GeneratedColumn<String> seedId = GeneratedColumn<String>(
+    'seed_id',
+    aliasedName,
+    false,
+    type: DriftSqlType.string,
+    requiredDuringInsert: true,
+  );
+  static const VerificationMeta _cardIdMeta = const VerificationMeta('cardId');
+  @override
+  late final GeneratedColumn<String> cardId = GeneratedColumn<String>(
+    'card_id',
+    aliasedName,
+    false,
+    type: DriftSqlType.string,
+    requiredDuringInsert: true,
+  );
+  static const VerificationMeta _modeMeta = const VerificationMeta('mode');
+  @override
+  late final GeneratedColumn<String> mode = GeneratedColumn<String>(
+    'mode',
+    aliasedName,
+    false,
+    type: DriftSqlType.string,
+    requiredDuringInsert: true,
+  );
+  static const VerificationMeta _spokenTextMeta = const VerificationMeta(
+    'spokenText',
+  );
+  @override
+  late final GeneratedColumn<String> spokenText = GeneratedColumn<String>(
+    'spoken_text',
+    aliasedName,
+    false,
+    type: DriftSqlType.string,
+    requiredDuringInsert: false,
+    defaultValue: const Constant(''),
+  );
+  static const VerificationMeta _targetTextMeta = const VerificationMeta(
+    'targetText',
+  );
+  @override
+  late final GeneratedColumn<String> targetText = GeneratedColumn<String>(
+    'target_text',
+    aliasedName,
+    false,
+    type: DriftSqlType.string,
+    requiredDuringInsert: true,
+  );
+  static const VerificationMeta _accuracyMeta = const VerificationMeta(
+    'accuracy',
+  );
+  @override
+  late final GeneratedColumn<double> accuracy = GeneratedColumn<double>(
+    'accuracy',
+    aliasedName,
+    false,
+    type: DriftSqlType.double,
+    requiredDuringInsert: false,
+    defaultValue: const Constant(0.0),
+  );
+  static const VerificationMeta _passedMeta = const VerificationMeta('passed');
+  @override
+  late final GeneratedColumn<bool> passed = GeneratedColumn<bool>(
+    'passed',
+    aliasedName,
+    false,
+    type: DriftSqlType.bool,
+    requiredDuringInsert: false,
+    defaultConstraints: GeneratedColumn.constraintIsAlways(
+      'CHECK ("passed" IN (0, 1))',
+    ),
+    defaultValue: const Constant(false),
+  );
+  static const VerificationMeta _studiedAtMeta = const VerificationMeta(
+    'studiedAt',
+  );
+  @override
+  late final GeneratedColumn<DateTime> studiedAt = GeneratedColumn<DateTime>(
+    'studied_at',
+    aliasedName,
+    false,
+    type: DriftSqlType.dateTime,
+    requiredDuringInsert: false,
+    defaultValue: currentDateAndTime,
+  );
+  static const VerificationMeta _createdAtMeta = const VerificationMeta(
+    'createdAt',
+  );
+  @override
+  late final GeneratedColumn<DateTime> createdAt = GeneratedColumn<DateTime>(
+    'created_at',
+    aliasedName,
+    false,
+    type: DriftSqlType.dateTime,
+    requiredDuringInsert: false,
+    defaultValue: currentDateAndTime,
+  );
+  @override
+  List<GeneratedColumn> get $columns => [
+    id,
+    seedId,
+    cardId,
+    mode,
+    spokenText,
+    targetText,
+    accuracy,
+    passed,
+    studiedAt,
+    createdAt,
+  ];
+  @override
+  String get aliasedName => _alias ?? actualTableName;
+  @override
+  String get actualTableName => $name;
+  static const String $name = 'speaking_records';
+  @override
+  VerificationContext validateIntegrity(
+    Insertable<SpeakingRecord> instance, {
+    bool isInserting = false,
+  }) {
+    final context = VerificationContext();
+    final data = instance.toColumns(true);
+    if (data.containsKey('id')) {
+      context.handle(_idMeta, id.isAcceptableOrUnknown(data['id']!, _idMeta));
+    }
+    if (data.containsKey('seed_id')) {
+      context.handle(
+        _seedIdMeta,
+        seedId.isAcceptableOrUnknown(data['seed_id']!, _seedIdMeta),
+      );
+    } else if (isInserting) {
+      context.missing(_seedIdMeta);
+    }
+    if (data.containsKey('card_id')) {
+      context.handle(
+        _cardIdMeta,
+        cardId.isAcceptableOrUnknown(data['card_id']!, _cardIdMeta),
+      );
+    } else if (isInserting) {
+      context.missing(_cardIdMeta);
+    }
+    if (data.containsKey('mode')) {
+      context.handle(
+        _modeMeta,
+        mode.isAcceptableOrUnknown(data['mode']!, _modeMeta),
+      );
+    } else if (isInserting) {
+      context.missing(_modeMeta);
+    }
+    if (data.containsKey('spoken_text')) {
+      context.handle(
+        _spokenTextMeta,
+        spokenText.isAcceptableOrUnknown(data['spoken_text']!, _spokenTextMeta),
+      );
+    }
+    if (data.containsKey('target_text')) {
+      context.handle(
+        _targetTextMeta,
+        targetText.isAcceptableOrUnknown(data['target_text']!, _targetTextMeta),
+      );
+    } else if (isInserting) {
+      context.missing(_targetTextMeta);
+    }
+    if (data.containsKey('accuracy')) {
+      context.handle(
+        _accuracyMeta,
+        accuracy.isAcceptableOrUnknown(data['accuracy']!, _accuracyMeta),
+      );
+    }
+    if (data.containsKey('passed')) {
+      context.handle(
+        _passedMeta,
+        passed.isAcceptableOrUnknown(data['passed']!, _passedMeta),
+      );
+    }
+    if (data.containsKey('studied_at')) {
+      context.handle(
+        _studiedAtMeta,
+        studiedAt.isAcceptableOrUnknown(data['studied_at']!, _studiedAtMeta),
+      );
+    }
+    if (data.containsKey('created_at')) {
+      context.handle(
+        _createdAtMeta,
+        createdAt.isAcceptableOrUnknown(data['created_at']!, _createdAtMeta),
+      );
+    }
+    return context;
+  }
+
+  @override
+  Set<GeneratedColumn> get $primaryKey => {id};
+  @override
+  SpeakingRecord map(Map<String, dynamic> data, {String? tablePrefix}) {
+    final effectivePrefix = tablePrefix != null ? '$tablePrefix.' : '';
+    return SpeakingRecord(
+      id: attachedDatabase.typeMapping.read(
+        DriftSqlType.int,
+        data['${effectivePrefix}id'],
+      )!,
+      seedId: attachedDatabase.typeMapping.read(
+        DriftSqlType.string,
+        data['${effectivePrefix}seed_id'],
+      )!,
+      cardId: attachedDatabase.typeMapping.read(
+        DriftSqlType.string,
+        data['${effectivePrefix}card_id'],
+      )!,
+      mode: attachedDatabase.typeMapping.read(
+        DriftSqlType.string,
+        data['${effectivePrefix}mode'],
+      )!,
+      spokenText: attachedDatabase.typeMapping.read(
+        DriftSqlType.string,
+        data['${effectivePrefix}spoken_text'],
+      )!,
+      targetText: attachedDatabase.typeMapping.read(
+        DriftSqlType.string,
+        data['${effectivePrefix}target_text'],
+      )!,
+      accuracy: attachedDatabase.typeMapping.read(
+        DriftSqlType.double,
+        data['${effectivePrefix}accuracy'],
+      )!,
+      passed: attachedDatabase.typeMapping.read(
+        DriftSqlType.bool,
+        data['${effectivePrefix}passed'],
+      )!,
+      studiedAt: attachedDatabase.typeMapping.read(
+        DriftSqlType.dateTime,
+        data['${effectivePrefix}studied_at'],
+      )!,
+      createdAt: attachedDatabase.typeMapping.read(
+        DriftSqlType.dateTime,
+        data['${effectivePrefix}created_at'],
+      )!,
+    );
+  }
+
+  @override
+  $SpeakingRecordsTable createAlias(String alias) {
+    return $SpeakingRecordsTable(attachedDatabase, alias);
+  }
+}
+
+class SpeakingRecord extends DataClass implements Insertable<SpeakingRecord> {
+  final int id;
+
+  /// 씨앗 문장 ID (seeds_es.json의 id)
+  final String seedId;
+
+  /// 변형 카드 ID (seedId::variation 형식)
+  final String cardId;
+
+  /// 모드: 'practice' | 'test'
+  final String mode;
+
+  /// 사용자가 발화한 (STT) 텍스트
+  final String spokenText;
+
+  /// 목표 텍스트
+  final String targetText;
+
+  /// 정확도 (0.0 ~ 1.0)
+  final double accuracy;
+
+  /// 통과 여부 (accuracy >= 0.8)
+  final bool passed;
+
+  /// 학습 시각
+  final DateTime studiedAt;
+  final DateTime createdAt;
+  const SpeakingRecord({
+    required this.id,
+    required this.seedId,
+    required this.cardId,
+    required this.mode,
+    required this.spokenText,
+    required this.targetText,
+    required this.accuracy,
+    required this.passed,
+    required this.studiedAt,
+    required this.createdAt,
+  });
+  @override
+  Map<String, Expression> toColumns(bool nullToAbsent) {
+    final map = <String, Expression>{};
+    map['id'] = Variable<int>(id);
+    map['seed_id'] = Variable<String>(seedId);
+    map['card_id'] = Variable<String>(cardId);
+    map['mode'] = Variable<String>(mode);
+    map['spoken_text'] = Variable<String>(spokenText);
+    map['target_text'] = Variable<String>(targetText);
+    map['accuracy'] = Variable<double>(accuracy);
+    map['passed'] = Variable<bool>(passed);
+    map['studied_at'] = Variable<DateTime>(studiedAt);
+    map['created_at'] = Variable<DateTime>(createdAt);
+    return map;
+  }
+
+  SpeakingRecordsCompanion toCompanion(bool nullToAbsent) {
+    return SpeakingRecordsCompanion(
+      id: Value(id),
+      seedId: Value(seedId),
+      cardId: Value(cardId),
+      mode: Value(mode),
+      spokenText: Value(spokenText),
+      targetText: Value(targetText),
+      accuracy: Value(accuracy),
+      passed: Value(passed),
+      studiedAt: Value(studiedAt),
+      createdAt: Value(createdAt),
+    );
+  }
+
+  factory SpeakingRecord.fromJson(
+    Map<String, dynamic> json, {
+    ValueSerializer? serializer,
+  }) {
+    serializer ??= driftRuntimeOptions.defaultSerializer;
+    return SpeakingRecord(
+      id: serializer.fromJson<int>(json['id']),
+      seedId: serializer.fromJson<String>(json['seedId']),
+      cardId: serializer.fromJson<String>(json['cardId']),
+      mode: serializer.fromJson<String>(json['mode']),
+      spokenText: serializer.fromJson<String>(json['spokenText']),
+      targetText: serializer.fromJson<String>(json['targetText']),
+      accuracy: serializer.fromJson<double>(json['accuracy']),
+      passed: serializer.fromJson<bool>(json['passed']),
+      studiedAt: serializer.fromJson<DateTime>(json['studiedAt']),
+      createdAt: serializer.fromJson<DateTime>(json['createdAt']),
+    );
+  }
+  @override
+  Map<String, dynamic> toJson({ValueSerializer? serializer}) {
+    serializer ??= driftRuntimeOptions.defaultSerializer;
+    return <String, dynamic>{
+      'id': serializer.toJson<int>(id),
+      'seedId': serializer.toJson<String>(seedId),
+      'cardId': serializer.toJson<String>(cardId),
+      'mode': serializer.toJson<String>(mode),
+      'spokenText': serializer.toJson<String>(spokenText),
+      'targetText': serializer.toJson<String>(targetText),
+      'accuracy': serializer.toJson<double>(accuracy),
+      'passed': serializer.toJson<bool>(passed),
+      'studiedAt': serializer.toJson<DateTime>(studiedAt),
+      'createdAt': serializer.toJson<DateTime>(createdAt),
+    };
+  }
+
+  SpeakingRecord copyWith({
+    int? id,
+    String? seedId,
+    String? cardId,
+    String? mode,
+    String? spokenText,
+    String? targetText,
+    double? accuracy,
+    bool? passed,
+    DateTime? studiedAt,
+    DateTime? createdAt,
+  }) => SpeakingRecord(
+    id: id ?? this.id,
+    seedId: seedId ?? this.seedId,
+    cardId: cardId ?? this.cardId,
+    mode: mode ?? this.mode,
+    spokenText: spokenText ?? this.spokenText,
+    targetText: targetText ?? this.targetText,
+    accuracy: accuracy ?? this.accuracy,
+    passed: passed ?? this.passed,
+    studiedAt: studiedAt ?? this.studiedAt,
+    createdAt: createdAt ?? this.createdAt,
+  );
+  SpeakingRecord copyWithCompanion(SpeakingRecordsCompanion data) {
+    return SpeakingRecord(
+      id: data.id.present ? data.id.value : this.id,
+      seedId: data.seedId.present ? data.seedId.value : this.seedId,
+      cardId: data.cardId.present ? data.cardId.value : this.cardId,
+      mode: data.mode.present ? data.mode.value : this.mode,
+      spokenText: data.spokenText.present
+          ? data.spokenText.value
+          : this.spokenText,
+      targetText: data.targetText.present
+          ? data.targetText.value
+          : this.targetText,
+      accuracy: data.accuracy.present ? data.accuracy.value : this.accuracy,
+      passed: data.passed.present ? data.passed.value : this.passed,
+      studiedAt: data.studiedAt.present ? data.studiedAt.value : this.studiedAt,
+      createdAt: data.createdAt.present ? data.createdAt.value : this.createdAt,
+    );
+  }
+
+  @override
+  String toString() {
+    return (StringBuffer('SpeakingRecord(')
+          ..write('id: $id, ')
+          ..write('seedId: $seedId, ')
+          ..write('cardId: $cardId, ')
+          ..write('mode: $mode, ')
+          ..write('spokenText: $spokenText, ')
+          ..write('targetText: $targetText, ')
+          ..write('accuracy: $accuracy, ')
+          ..write('passed: $passed, ')
+          ..write('studiedAt: $studiedAt, ')
+          ..write('createdAt: $createdAt')
+          ..write(')'))
+        .toString();
+  }
+
+  @override
+  int get hashCode => Object.hash(
+    id,
+    seedId,
+    cardId,
+    mode,
+    spokenText,
+    targetText,
+    accuracy,
+    passed,
+    studiedAt,
+    createdAt,
+  );
+  @override
+  bool operator ==(Object other) =>
+      identical(this, other) ||
+      (other is SpeakingRecord &&
+          other.id == this.id &&
+          other.seedId == this.seedId &&
+          other.cardId == this.cardId &&
+          other.mode == this.mode &&
+          other.spokenText == this.spokenText &&
+          other.targetText == this.targetText &&
+          other.accuracy == this.accuracy &&
+          other.passed == this.passed &&
+          other.studiedAt == this.studiedAt &&
+          other.createdAt == this.createdAt);
+}
+
+class SpeakingRecordsCompanion extends UpdateCompanion<SpeakingRecord> {
+  final Value<int> id;
+  final Value<String> seedId;
+  final Value<String> cardId;
+  final Value<String> mode;
+  final Value<String> spokenText;
+  final Value<String> targetText;
+  final Value<double> accuracy;
+  final Value<bool> passed;
+  final Value<DateTime> studiedAt;
+  final Value<DateTime> createdAt;
+  const SpeakingRecordsCompanion({
+    this.id = const Value.absent(),
+    this.seedId = const Value.absent(),
+    this.cardId = const Value.absent(),
+    this.mode = const Value.absent(),
+    this.spokenText = const Value.absent(),
+    this.targetText = const Value.absent(),
+    this.accuracy = const Value.absent(),
+    this.passed = const Value.absent(),
+    this.studiedAt = const Value.absent(),
+    this.createdAt = const Value.absent(),
+  });
+  SpeakingRecordsCompanion.insert({
+    this.id = const Value.absent(),
+    required String seedId,
+    required String cardId,
+    required String mode,
+    this.spokenText = const Value.absent(),
+    required String targetText,
+    this.accuracy = const Value.absent(),
+    this.passed = const Value.absent(),
+    this.studiedAt = const Value.absent(),
+    this.createdAt = const Value.absent(),
+  }) : seedId = Value(seedId),
+       cardId = Value(cardId),
+       mode = Value(mode),
+       targetText = Value(targetText);
+  static Insertable<SpeakingRecord> custom({
+    Expression<int>? id,
+    Expression<String>? seedId,
+    Expression<String>? cardId,
+    Expression<String>? mode,
+    Expression<String>? spokenText,
+    Expression<String>? targetText,
+    Expression<double>? accuracy,
+    Expression<bool>? passed,
+    Expression<DateTime>? studiedAt,
+    Expression<DateTime>? createdAt,
+  }) {
+    return RawValuesInsertable({
+      if (id != null) 'id': id,
+      if (seedId != null) 'seed_id': seedId,
+      if (cardId != null) 'card_id': cardId,
+      if (mode != null) 'mode': mode,
+      if (spokenText != null) 'spoken_text': spokenText,
+      if (targetText != null) 'target_text': targetText,
+      if (accuracy != null) 'accuracy': accuracy,
+      if (passed != null) 'passed': passed,
+      if (studiedAt != null) 'studied_at': studiedAt,
+      if (createdAt != null) 'created_at': createdAt,
+    });
+  }
+
+  SpeakingRecordsCompanion copyWith({
+    Value<int>? id,
+    Value<String>? seedId,
+    Value<String>? cardId,
+    Value<String>? mode,
+    Value<String>? spokenText,
+    Value<String>? targetText,
+    Value<double>? accuracy,
+    Value<bool>? passed,
+    Value<DateTime>? studiedAt,
+    Value<DateTime>? createdAt,
+  }) {
+    return SpeakingRecordsCompanion(
+      id: id ?? this.id,
+      seedId: seedId ?? this.seedId,
+      cardId: cardId ?? this.cardId,
+      mode: mode ?? this.mode,
+      spokenText: spokenText ?? this.spokenText,
+      targetText: targetText ?? this.targetText,
+      accuracy: accuracy ?? this.accuracy,
+      passed: passed ?? this.passed,
+      studiedAt: studiedAt ?? this.studiedAt,
+      createdAt: createdAt ?? this.createdAt,
+    );
+  }
+
+  @override
+  Map<String, Expression> toColumns(bool nullToAbsent) {
+    final map = <String, Expression>{};
+    if (id.present) {
+      map['id'] = Variable<int>(id.value);
+    }
+    if (seedId.present) {
+      map['seed_id'] = Variable<String>(seedId.value);
+    }
+    if (cardId.present) {
+      map['card_id'] = Variable<String>(cardId.value);
+    }
+    if (mode.present) {
+      map['mode'] = Variable<String>(mode.value);
+    }
+    if (spokenText.present) {
+      map['spoken_text'] = Variable<String>(spokenText.value);
+    }
+    if (targetText.present) {
+      map['target_text'] = Variable<String>(targetText.value);
+    }
+    if (accuracy.present) {
+      map['accuracy'] = Variable<double>(accuracy.value);
+    }
+    if (passed.present) {
+      map['passed'] = Variable<bool>(passed.value);
+    }
+    if (studiedAt.present) {
+      map['studied_at'] = Variable<DateTime>(studiedAt.value);
+    }
+    if (createdAt.present) {
+      map['created_at'] = Variable<DateTime>(createdAt.value);
+    }
+    return map;
+  }
+
+  @override
+  String toString() {
+    return (StringBuffer('SpeakingRecordsCompanion(')
+          ..write('id: $id, ')
+          ..write('seedId: $seedId, ')
+          ..write('cardId: $cardId, ')
+          ..write('mode: $mode, ')
+          ..write('spokenText: $spokenText, ')
+          ..write('targetText: $targetText, ')
+          ..write('accuracy: $accuracy, ')
+          ..write('passed: $passed, ')
+          ..write('studiedAt: $studiedAt, ')
+          ..write('createdAt: $createdAt')
+          ..write(')'))
+        .toString();
+  }
+}
+
+class $SpeakingProgressTable extends SpeakingProgress
+    with TableInfo<$SpeakingProgressTable, SpeakingProgressEntry> {
+  @override
+  final GeneratedDatabase attachedDatabase;
+  final String? _alias;
+  $SpeakingProgressTable(this.attachedDatabase, [this._alias]);
+  static const VerificationMeta _cardIdMeta = const VerificationMeta('cardId');
+  @override
+  late final GeneratedColumn<String> cardId = GeneratedColumn<String>(
+    'card_id',
+    aliasedName,
+    false,
+    type: DriftSqlType.string,
+    requiredDuringInsert: true,
+  );
+  static const VerificationMeta _seedIdMeta = const VerificationMeta('seedId');
+  @override
+  late final GeneratedColumn<String> seedId = GeneratedColumn<String>(
+    'seed_id',
+    aliasedName,
+    false,
+    type: DriftSqlType.string,
+    requiredDuringInsert: true,
+  );
+  static const VerificationMeta _levelMeta = const VerificationMeta('level');
+  @override
+  late final GeneratedColumn<int> level = GeneratedColumn<int>(
+    'level',
+    aliasedName,
+    false,
+    type: DriftSqlType.int,
+    requiredDuringInsert: false,
+    defaultValue: const Constant(0),
+  );
+  static const VerificationMeta _passCountMeta = const VerificationMeta(
+    'passCount',
+  );
+  @override
+  late final GeneratedColumn<int> passCount = GeneratedColumn<int>(
+    'pass_count',
+    aliasedName,
+    false,
+    type: DriftSqlType.int,
+    requiredDuringInsert: false,
+    defaultValue: const Constant(0),
+  );
+  static const VerificationMeta _failCountMeta = const VerificationMeta(
+    'failCount',
+  );
+  @override
+  late final GeneratedColumn<int> failCount = GeneratedColumn<int>(
+    'fail_count',
+    aliasedName,
+    false,
+    type: DriftSqlType.int,
+    requiredDuringInsert: false,
+    defaultValue: const Constant(0),
+  );
+  static const VerificationMeta _lastStudiedAtMeta = const VerificationMeta(
+    'lastStudiedAt',
+  );
+  @override
+  late final GeneratedColumn<DateTime> lastStudiedAt =
+      GeneratedColumn<DateTime>(
+        'last_studied_at',
+        aliasedName,
+        true,
+        type: DriftSqlType.dateTime,
+        requiredDuringInsert: false,
+      );
+  static const VerificationMeta _nextReviewAtMeta = const VerificationMeta(
+    'nextReviewAt',
+  );
+  @override
+  late final GeneratedColumn<DateTime> nextReviewAt = GeneratedColumn<DateTime>(
+    'next_review_at',
+    aliasedName,
+    true,
+    type: DriftSqlType.dateTime,
+    requiredDuringInsert: false,
+  );
+  static const VerificationMeta _createdAtMeta = const VerificationMeta(
+    'createdAt',
+  );
+  @override
+  late final GeneratedColumn<DateTime> createdAt = GeneratedColumn<DateTime>(
+    'created_at',
+    aliasedName,
+    false,
+    type: DriftSqlType.dateTime,
+    requiredDuringInsert: false,
+    defaultValue: currentDateAndTime,
+  );
+  static const VerificationMeta _updatedAtMeta = const VerificationMeta(
+    'updatedAt',
+  );
+  @override
+  late final GeneratedColumn<DateTime> updatedAt = GeneratedColumn<DateTime>(
+    'updated_at',
+    aliasedName,
+    false,
+    type: DriftSqlType.dateTime,
+    requiredDuringInsert: false,
+    defaultValue: currentDateAndTime,
+  );
+  @override
+  List<GeneratedColumn> get $columns => [
+    cardId,
+    seedId,
+    level,
+    passCount,
+    failCount,
+    lastStudiedAt,
+    nextReviewAt,
+    createdAt,
+    updatedAt,
+  ];
+  @override
+  String get aliasedName => _alias ?? actualTableName;
+  @override
+  String get actualTableName => $name;
+  static const String $name = 'speaking_progress';
+  @override
+  VerificationContext validateIntegrity(
+    Insertable<SpeakingProgressEntry> instance, {
+    bool isInserting = false,
+  }) {
+    final context = VerificationContext();
+    final data = instance.toColumns(true);
+    if (data.containsKey('card_id')) {
+      context.handle(
+        _cardIdMeta,
+        cardId.isAcceptableOrUnknown(data['card_id']!, _cardIdMeta),
+      );
+    } else if (isInserting) {
+      context.missing(_cardIdMeta);
+    }
+    if (data.containsKey('seed_id')) {
+      context.handle(
+        _seedIdMeta,
+        seedId.isAcceptableOrUnknown(data['seed_id']!, _seedIdMeta),
+      );
+    } else if (isInserting) {
+      context.missing(_seedIdMeta);
+    }
+    if (data.containsKey('level')) {
+      context.handle(
+        _levelMeta,
+        level.isAcceptableOrUnknown(data['level']!, _levelMeta),
+      );
+    }
+    if (data.containsKey('pass_count')) {
+      context.handle(
+        _passCountMeta,
+        passCount.isAcceptableOrUnknown(data['pass_count']!, _passCountMeta),
+      );
+    }
+    if (data.containsKey('fail_count')) {
+      context.handle(
+        _failCountMeta,
+        failCount.isAcceptableOrUnknown(data['fail_count']!, _failCountMeta),
+      );
+    }
+    if (data.containsKey('last_studied_at')) {
+      context.handle(
+        _lastStudiedAtMeta,
+        lastStudiedAt.isAcceptableOrUnknown(
+          data['last_studied_at']!,
+          _lastStudiedAtMeta,
+        ),
+      );
+    }
+    if (data.containsKey('next_review_at')) {
+      context.handle(
+        _nextReviewAtMeta,
+        nextReviewAt.isAcceptableOrUnknown(
+          data['next_review_at']!,
+          _nextReviewAtMeta,
+        ),
+      );
+    }
+    if (data.containsKey('created_at')) {
+      context.handle(
+        _createdAtMeta,
+        createdAt.isAcceptableOrUnknown(data['created_at']!, _createdAtMeta),
+      );
+    }
+    if (data.containsKey('updated_at')) {
+      context.handle(
+        _updatedAtMeta,
+        updatedAt.isAcceptableOrUnknown(data['updated_at']!, _updatedAtMeta),
+      );
+    }
+    return context;
+  }
+
+  @override
+  Set<GeneratedColumn> get $primaryKey => {cardId};
+  @override
+  SpeakingProgressEntry map(Map<String, dynamic> data, {String? tablePrefix}) {
+    final effectivePrefix = tablePrefix != null ? '$tablePrefix.' : '';
+    return SpeakingProgressEntry(
+      cardId: attachedDatabase.typeMapping.read(
+        DriftSqlType.string,
+        data['${effectivePrefix}card_id'],
+      )!,
+      seedId: attachedDatabase.typeMapping.read(
+        DriftSqlType.string,
+        data['${effectivePrefix}seed_id'],
+      )!,
+      level: attachedDatabase.typeMapping.read(
+        DriftSqlType.int,
+        data['${effectivePrefix}level'],
+      )!,
+      passCount: attachedDatabase.typeMapping.read(
+        DriftSqlType.int,
+        data['${effectivePrefix}pass_count'],
+      )!,
+      failCount: attachedDatabase.typeMapping.read(
+        DriftSqlType.int,
+        data['${effectivePrefix}fail_count'],
+      )!,
+      lastStudiedAt: attachedDatabase.typeMapping.read(
+        DriftSqlType.dateTime,
+        data['${effectivePrefix}last_studied_at'],
+      ),
+      nextReviewAt: attachedDatabase.typeMapping.read(
+        DriftSqlType.dateTime,
+        data['${effectivePrefix}next_review_at'],
+      ),
+      createdAt: attachedDatabase.typeMapping.read(
+        DriftSqlType.dateTime,
+        data['${effectivePrefix}created_at'],
+      )!,
+      updatedAt: attachedDatabase.typeMapping.read(
+        DriftSqlType.dateTime,
+        data['${effectivePrefix}updated_at'],
+      )!,
+    );
+  }
+
+  @override
+  $SpeakingProgressTable createAlias(String alias) {
+    return $SpeakingProgressTable(attachedDatabase, alias);
+  }
+}
+
+class SpeakingProgressEntry extends DataClass
+    implements Insertable<SpeakingProgressEntry> {
+  /// 카드 ID — `seedId::variationKey` 형식 (예: ser_nationality::tu)
+  final String cardId;
+
+  /// 씨앗 ID (역정규화, 시드별 진도 조회용)
+  final String seedId;
+
+  /// 학습 레벨 (0: 신규, 1-4: 학습중, 5: 마스터)
+  final int level;
+  final int passCount;
+  final int failCount;
+  final DateTime? lastStudiedAt;
+  final DateTime? nextReviewAt;
+  final DateTime createdAt;
+  final DateTime updatedAt;
+  const SpeakingProgressEntry({
+    required this.cardId,
+    required this.seedId,
+    required this.level,
+    required this.passCount,
+    required this.failCount,
+    this.lastStudiedAt,
+    this.nextReviewAt,
+    required this.createdAt,
+    required this.updatedAt,
+  });
+  @override
+  Map<String, Expression> toColumns(bool nullToAbsent) {
+    final map = <String, Expression>{};
+    map['card_id'] = Variable<String>(cardId);
+    map['seed_id'] = Variable<String>(seedId);
+    map['level'] = Variable<int>(level);
+    map['pass_count'] = Variable<int>(passCount);
+    map['fail_count'] = Variable<int>(failCount);
+    if (!nullToAbsent || lastStudiedAt != null) {
+      map['last_studied_at'] = Variable<DateTime>(lastStudiedAt);
+    }
+    if (!nullToAbsent || nextReviewAt != null) {
+      map['next_review_at'] = Variable<DateTime>(nextReviewAt);
+    }
+    map['created_at'] = Variable<DateTime>(createdAt);
+    map['updated_at'] = Variable<DateTime>(updatedAt);
+    return map;
+  }
+
+  SpeakingProgressCompanion toCompanion(bool nullToAbsent) {
+    return SpeakingProgressCompanion(
+      cardId: Value(cardId),
+      seedId: Value(seedId),
+      level: Value(level),
+      passCount: Value(passCount),
+      failCount: Value(failCount),
+      lastStudiedAt: lastStudiedAt == null && nullToAbsent
+          ? const Value.absent()
+          : Value(lastStudiedAt),
+      nextReviewAt: nextReviewAt == null && nullToAbsent
+          ? const Value.absent()
+          : Value(nextReviewAt),
+      createdAt: Value(createdAt),
+      updatedAt: Value(updatedAt),
+    );
+  }
+
+  factory SpeakingProgressEntry.fromJson(
+    Map<String, dynamic> json, {
+    ValueSerializer? serializer,
+  }) {
+    serializer ??= driftRuntimeOptions.defaultSerializer;
+    return SpeakingProgressEntry(
+      cardId: serializer.fromJson<String>(json['cardId']),
+      seedId: serializer.fromJson<String>(json['seedId']),
+      level: serializer.fromJson<int>(json['level']),
+      passCount: serializer.fromJson<int>(json['passCount']),
+      failCount: serializer.fromJson<int>(json['failCount']),
+      lastStudiedAt: serializer.fromJson<DateTime?>(json['lastStudiedAt']),
+      nextReviewAt: serializer.fromJson<DateTime?>(json['nextReviewAt']),
+      createdAt: serializer.fromJson<DateTime>(json['createdAt']),
+      updatedAt: serializer.fromJson<DateTime>(json['updatedAt']),
+    );
+  }
+  @override
+  Map<String, dynamic> toJson({ValueSerializer? serializer}) {
+    serializer ??= driftRuntimeOptions.defaultSerializer;
+    return <String, dynamic>{
+      'cardId': serializer.toJson<String>(cardId),
+      'seedId': serializer.toJson<String>(seedId),
+      'level': serializer.toJson<int>(level),
+      'passCount': serializer.toJson<int>(passCount),
+      'failCount': serializer.toJson<int>(failCount),
+      'lastStudiedAt': serializer.toJson<DateTime?>(lastStudiedAt),
+      'nextReviewAt': serializer.toJson<DateTime?>(nextReviewAt),
+      'createdAt': serializer.toJson<DateTime>(createdAt),
+      'updatedAt': serializer.toJson<DateTime>(updatedAt),
+    };
+  }
+
+  SpeakingProgressEntry copyWith({
+    String? cardId,
+    String? seedId,
+    int? level,
+    int? passCount,
+    int? failCount,
+    Value<DateTime?> lastStudiedAt = const Value.absent(),
+    Value<DateTime?> nextReviewAt = const Value.absent(),
+    DateTime? createdAt,
+    DateTime? updatedAt,
+  }) => SpeakingProgressEntry(
+    cardId: cardId ?? this.cardId,
+    seedId: seedId ?? this.seedId,
+    level: level ?? this.level,
+    passCount: passCount ?? this.passCount,
+    failCount: failCount ?? this.failCount,
+    lastStudiedAt: lastStudiedAt.present
+        ? lastStudiedAt.value
+        : this.lastStudiedAt,
+    nextReviewAt: nextReviewAt.present ? nextReviewAt.value : this.nextReviewAt,
+    createdAt: createdAt ?? this.createdAt,
+    updatedAt: updatedAt ?? this.updatedAt,
+  );
+  SpeakingProgressEntry copyWithCompanion(SpeakingProgressCompanion data) {
+    return SpeakingProgressEntry(
+      cardId: data.cardId.present ? data.cardId.value : this.cardId,
+      seedId: data.seedId.present ? data.seedId.value : this.seedId,
+      level: data.level.present ? data.level.value : this.level,
+      passCount: data.passCount.present ? data.passCount.value : this.passCount,
+      failCount: data.failCount.present ? data.failCount.value : this.failCount,
+      lastStudiedAt: data.lastStudiedAt.present
+          ? data.lastStudiedAt.value
+          : this.lastStudiedAt,
+      nextReviewAt: data.nextReviewAt.present
+          ? data.nextReviewAt.value
+          : this.nextReviewAt,
+      createdAt: data.createdAt.present ? data.createdAt.value : this.createdAt,
+      updatedAt: data.updatedAt.present ? data.updatedAt.value : this.updatedAt,
+    );
+  }
+
+  @override
+  String toString() {
+    return (StringBuffer('SpeakingProgressEntry(')
+          ..write('cardId: $cardId, ')
+          ..write('seedId: $seedId, ')
+          ..write('level: $level, ')
+          ..write('passCount: $passCount, ')
+          ..write('failCount: $failCount, ')
+          ..write('lastStudiedAt: $lastStudiedAt, ')
+          ..write('nextReviewAt: $nextReviewAt, ')
+          ..write('createdAt: $createdAt, ')
+          ..write('updatedAt: $updatedAt')
+          ..write(')'))
+        .toString();
+  }
+
+  @override
+  int get hashCode => Object.hash(
+    cardId,
+    seedId,
+    level,
+    passCount,
+    failCount,
+    lastStudiedAt,
+    nextReviewAt,
+    createdAt,
+    updatedAt,
+  );
+  @override
+  bool operator ==(Object other) =>
+      identical(this, other) ||
+      (other is SpeakingProgressEntry &&
+          other.cardId == this.cardId &&
+          other.seedId == this.seedId &&
+          other.level == this.level &&
+          other.passCount == this.passCount &&
+          other.failCount == this.failCount &&
+          other.lastStudiedAt == this.lastStudiedAt &&
+          other.nextReviewAt == this.nextReviewAt &&
+          other.createdAt == this.createdAt &&
+          other.updatedAt == this.updatedAt);
+}
+
+class SpeakingProgressCompanion extends UpdateCompanion<SpeakingProgressEntry> {
+  final Value<String> cardId;
+  final Value<String> seedId;
+  final Value<int> level;
+  final Value<int> passCount;
+  final Value<int> failCount;
+  final Value<DateTime?> lastStudiedAt;
+  final Value<DateTime?> nextReviewAt;
+  final Value<DateTime> createdAt;
+  final Value<DateTime> updatedAt;
+  final Value<int> rowid;
+  const SpeakingProgressCompanion({
+    this.cardId = const Value.absent(),
+    this.seedId = const Value.absent(),
+    this.level = const Value.absent(),
+    this.passCount = const Value.absent(),
+    this.failCount = const Value.absent(),
+    this.lastStudiedAt = const Value.absent(),
+    this.nextReviewAt = const Value.absent(),
+    this.createdAt = const Value.absent(),
+    this.updatedAt = const Value.absent(),
+    this.rowid = const Value.absent(),
+  });
+  SpeakingProgressCompanion.insert({
+    required String cardId,
+    required String seedId,
+    this.level = const Value.absent(),
+    this.passCount = const Value.absent(),
+    this.failCount = const Value.absent(),
+    this.lastStudiedAt = const Value.absent(),
+    this.nextReviewAt = const Value.absent(),
+    this.createdAt = const Value.absent(),
+    this.updatedAt = const Value.absent(),
+    this.rowid = const Value.absent(),
+  }) : cardId = Value(cardId),
+       seedId = Value(seedId);
+  static Insertable<SpeakingProgressEntry> custom({
+    Expression<String>? cardId,
+    Expression<String>? seedId,
+    Expression<int>? level,
+    Expression<int>? passCount,
+    Expression<int>? failCount,
+    Expression<DateTime>? lastStudiedAt,
+    Expression<DateTime>? nextReviewAt,
+    Expression<DateTime>? createdAt,
+    Expression<DateTime>? updatedAt,
+    Expression<int>? rowid,
+  }) {
+    return RawValuesInsertable({
+      if (cardId != null) 'card_id': cardId,
+      if (seedId != null) 'seed_id': seedId,
+      if (level != null) 'level': level,
+      if (passCount != null) 'pass_count': passCount,
+      if (failCount != null) 'fail_count': failCount,
+      if (lastStudiedAt != null) 'last_studied_at': lastStudiedAt,
+      if (nextReviewAt != null) 'next_review_at': nextReviewAt,
+      if (createdAt != null) 'created_at': createdAt,
+      if (updatedAt != null) 'updated_at': updatedAt,
+      if (rowid != null) 'rowid': rowid,
+    });
+  }
+
+  SpeakingProgressCompanion copyWith({
+    Value<String>? cardId,
+    Value<String>? seedId,
+    Value<int>? level,
+    Value<int>? passCount,
+    Value<int>? failCount,
+    Value<DateTime?>? lastStudiedAt,
+    Value<DateTime?>? nextReviewAt,
+    Value<DateTime>? createdAt,
+    Value<DateTime>? updatedAt,
+    Value<int>? rowid,
+  }) {
+    return SpeakingProgressCompanion(
+      cardId: cardId ?? this.cardId,
+      seedId: seedId ?? this.seedId,
+      level: level ?? this.level,
+      passCount: passCount ?? this.passCount,
+      failCount: failCount ?? this.failCount,
+      lastStudiedAt: lastStudiedAt ?? this.lastStudiedAt,
+      nextReviewAt: nextReviewAt ?? this.nextReviewAt,
+      createdAt: createdAt ?? this.createdAt,
+      updatedAt: updatedAt ?? this.updatedAt,
+      rowid: rowid ?? this.rowid,
+    );
+  }
+
+  @override
+  Map<String, Expression> toColumns(bool nullToAbsent) {
+    final map = <String, Expression>{};
+    if (cardId.present) {
+      map['card_id'] = Variable<String>(cardId.value);
+    }
+    if (seedId.present) {
+      map['seed_id'] = Variable<String>(seedId.value);
+    }
+    if (level.present) {
+      map['level'] = Variable<int>(level.value);
+    }
+    if (passCount.present) {
+      map['pass_count'] = Variable<int>(passCount.value);
+    }
+    if (failCount.present) {
+      map['fail_count'] = Variable<int>(failCount.value);
+    }
+    if (lastStudiedAt.present) {
+      map['last_studied_at'] = Variable<DateTime>(lastStudiedAt.value);
+    }
+    if (nextReviewAt.present) {
+      map['next_review_at'] = Variable<DateTime>(nextReviewAt.value);
+    }
+    if (createdAt.present) {
+      map['created_at'] = Variable<DateTime>(createdAt.value);
+    }
+    if (updatedAt.present) {
+      map['updated_at'] = Variable<DateTime>(updatedAt.value);
+    }
+    if (rowid.present) {
+      map['rowid'] = Variable<int>(rowid.value);
+    }
+    return map;
+  }
+
+  @override
+  String toString() {
+    return (StringBuffer('SpeakingProgressCompanion(')
+          ..write('cardId: $cardId, ')
+          ..write('seedId: $seedId, ')
+          ..write('level: $level, ')
+          ..write('passCount: $passCount, ')
+          ..write('failCount: $failCount, ')
+          ..write('lastStudiedAt: $lastStudiedAt, ')
+          ..write('nextReviewAt: $nextReviewAt, ')
+          ..write('createdAt: $createdAt, ')
+          ..write('updatedAt: $updatedAt, ')
+          ..write('rowid: $rowid')
+          ..write(')'))
+        .toString();
+  }
+}
+
 abstract class _$AppDatabase extends GeneratedDatabase {
   _$AppDatabase(QueryExecutor e) : super(e);
   $AppDatabaseManager get managers => $AppDatabaseManager(this);
@@ -2260,6 +3433,12 @@ abstract class _$AppDatabase extends GeneratedDatabase {
   late final $WrongAnswersTable wrongAnswers = $WrongAnswersTable(this);
   late final $DailyStatsTable dailyStats = $DailyStatsTable(this);
   late final $UserSettingsTable userSettings = $UserSettingsTable(this);
+  late final $SpeakingRecordsTable speakingRecords = $SpeakingRecordsTable(
+    this,
+  );
+  late final $SpeakingProgressTable speakingProgress = $SpeakingProgressTable(
+    this,
+  );
   late final StudyRecordsDao studyRecordsDao = StudyRecordsDao(
     this as AppDatabase,
   );
@@ -2268,6 +3447,12 @@ abstract class _$AppDatabase extends GeneratedDatabase {
   );
   late final DailyStatsDao dailyStatsDao = DailyStatsDao(this as AppDatabase);
   late final WrongAnswersDao wrongAnswersDao = WrongAnswersDao(
+    this as AppDatabase,
+  );
+  late final SpeakingRecordsDao speakingRecordsDao = SpeakingRecordsDao(
+    this as AppDatabase,
+  );
+  late final SpeakingProgressDao speakingProgressDao = SpeakingProgressDao(
     this as AppDatabase,
   );
   @override
@@ -2279,6 +3464,8 @@ abstract class _$AppDatabase extends GeneratedDatabase {
     wrongAnswers,
     dailyStats,
     userSettings,
+    speakingRecords,
+    speakingProgress,
   ];
 }
 
@@ -3376,6 +4563,595 @@ typedef $$UserSettingsTableProcessedTableManager =
       UserSetting,
       PrefetchHooks Function()
     >;
+typedef $$SpeakingRecordsTableCreateCompanionBuilder =
+    SpeakingRecordsCompanion Function({
+      Value<int> id,
+      required String seedId,
+      required String cardId,
+      required String mode,
+      Value<String> spokenText,
+      required String targetText,
+      Value<double> accuracy,
+      Value<bool> passed,
+      Value<DateTime> studiedAt,
+      Value<DateTime> createdAt,
+    });
+typedef $$SpeakingRecordsTableUpdateCompanionBuilder =
+    SpeakingRecordsCompanion Function({
+      Value<int> id,
+      Value<String> seedId,
+      Value<String> cardId,
+      Value<String> mode,
+      Value<String> spokenText,
+      Value<String> targetText,
+      Value<double> accuracy,
+      Value<bool> passed,
+      Value<DateTime> studiedAt,
+      Value<DateTime> createdAt,
+    });
+
+class $$SpeakingRecordsTableFilterComposer
+    extends Composer<_$AppDatabase, $SpeakingRecordsTable> {
+  $$SpeakingRecordsTableFilterComposer({
+    required super.$db,
+    required super.$table,
+    super.joinBuilder,
+    super.$addJoinBuilderToRootComposer,
+    super.$removeJoinBuilderFromRootComposer,
+  });
+  ColumnFilters<int> get id => $composableBuilder(
+    column: $table.id,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<String> get seedId => $composableBuilder(
+    column: $table.seedId,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<String> get cardId => $composableBuilder(
+    column: $table.cardId,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<String> get mode => $composableBuilder(
+    column: $table.mode,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<String> get spokenText => $composableBuilder(
+    column: $table.spokenText,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<String> get targetText => $composableBuilder(
+    column: $table.targetText,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<double> get accuracy => $composableBuilder(
+    column: $table.accuracy,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<bool> get passed => $composableBuilder(
+    column: $table.passed,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<DateTime> get studiedAt => $composableBuilder(
+    column: $table.studiedAt,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<DateTime> get createdAt => $composableBuilder(
+    column: $table.createdAt,
+    builder: (column) => ColumnFilters(column),
+  );
+}
+
+class $$SpeakingRecordsTableOrderingComposer
+    extends Composer<_$AppDatabase, $SpeakingRecordsTable> {
+  $$SpeakingRecordsTableOrderingComposer({
+    required super.$db,
+    required super.$table,
+    super.joinBuilder,
+    super.$addJoinBuilderToRootComposer,
+    super.$removeJoinBuilderFromRootComposer,
+  });
+  ColumnOrderings<int> get id => $composableBuilder(
+    column: $table.id,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<String> get seedId => $composableBuilder(
+    column: $table.seedId,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<String> get cardId => $composableBuilder(
+    column: $table.cardId,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<String> get mode => $composableBuilder(
+    column: $table.mode,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<String> get spokenText => $composableBuilder(
+    column: $table.spokenText,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<String> get targetText => $composableBuilder(
+    column: $table.targetText,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<double> get accuracy => $composableBuilder(
+    column: $table.accuracy,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<bool> get passed => $composableBuilder(
+    column: $table.passed,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<DateTime> get studiedAt => $composableBuilder(
+    column: $table.studiedAt,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<DateTime> get createdAt => $composableBuilder(
+    column: $table.createdAt,
+    builder: (column) => ColumnOrderings(column),
+  );
+}
+
+class $$SpeakingRecordsTableAnnotationComposer
+    extends Composer<_$AppDatabase, $SpeakingRecordsTable> {
+  $$SpeakingRecordsTableAnnotationComposer({
+    required super.$db,
+    required super.$table,
+    super.joinBuilder,
+    super.$addJoinBuilderToRootComposer,
+    super.$removeJoinBuilderFromRootComposer,
+  });
+  GeneratedColumn<int> get id =>
+      $composableBuilder(column: $table.id, builder: (column) => column);
+
+  GeneratedColumn<String> get seedId =>
+      $composableBuilder(column: $table.seedId, builder: (column) => column);
+
+  GeneratedColumn<String> get cardId =>
+      $composableBuilder(column: $table.cardId, builder: (column) => column);
+
+  GeneratedColumn<String> get mode =>
+      $composableBuilder(column: $table.mode, builder: (column) => column);
+
+  GeneratedColumn<String> get spokenText => $composableBuilder(
+    column: $table.spokenText,
+    builder: (column) => column,
+  );
+
+  GeneratedColumn<String> get targetText => $composableBuilder(
+    column: $table.targetText,
+    builder: (column) => column,
+  );
+
+  GeneratedColumn<double> get accuracy =>
+      $composableBuilder(column: $table.accuracy, builder: (column) => column);
+
+  GeneratedColumn<bool> get passed =>
+      $composableBuilder(column: $table.passed, builder: (column) => column);
+
+  GeneratedColumn<DateTime> get studiedAt =>
+      $composableBuilder(column: $table.studiedAt, builder: (column) => column);
+
+  GeneratedColumn<DateTime> get createdAt =>
+      $composableBuilder(column: $table.createdAt, builder: (column) => column);
+}
+
+class $$SpeakingRecordsTableTableManager
+    extends
+        RootTableManager<
+          _$AppDatabase,
+          $SpeakingRecordsTable,
+          SpeakingRecord,
+          $$SpeakingRecordsTableFilterComposer,
+          $$SpeakingRecordsTableOrderingComposer,
+          $$SpeakingRecordsTableAnnotationComposer,
+          $$SpeakingRecordsTableCreateCompanionBuilder,
+          $$SpeakingRecordsTableUpdateCompanionBuilder,
+          (
+            SpeakingRecord,
+            BaseReferences<
+              _$AppDatabase,
+              $SpeakingRecordsTable,
+              SpeakingRecord
+            >,
+          ),
+          SpeakingRecord,
+          PrefetchHooks Function()
+        > {
+  $$SpeakingRecordsTableTableManager(
+    _$AppDatabase db,
+    $SpeakingRecordsTable table,
+  ) : super(
+        TableManagerState(
+          db: db,
+          table: table,
+          createFilteringComposer: () =>
+              $$SpeakingRecordsTableFilterComposer($db: db, $table: table),
+          createOrderingComposer: () =>
+              $$SpeakingRecordsTableOrderingComposer($db: db, $table: table),
+          createComputedFieldComposer: () =>
+              $$SpeakingRecordsTableAnnotationComposer($db: db, $table: table),
+          updateCompanionCallback:
+              ({
+                Value<int> id = const Value.absent(),
+                Value<String> seedId = const Value.absent(),
+                Value<String> cardId = const Value.absent(),
+                Value<String> mode = const Value.absent(),
+                Value<String> spokenText = const Value.absent(),
+                Value<String> targetText = const Value.absent(),
+                Value<double> accuracy = const Value.absent(),
+                Value<bool> passed = const Value.absent(),
+                Value<DateTime> studiedAt = const Value.absent(),
+                Value<DateTime> createdAt = const Value.absent(),
+              }) => SpeakingRecordsCompanion(
+                id: id,
+                seedId: seedId,
+                cardId: cardId,
+                mode: mode,
+                spokenText: spokenText,
+                targetText: targetText,
+                accuracy: accuracy,
+                passed: passed,
+                studiedAt: studiedAt,
+                createdAt: createdAt,
+              ),
+          createCompanionCallback:
+              ({
+                Value<int> id = const Value.absent(),
+                required String seedId,
+                required String cardId,
+                required String mode,
+                Value<String> spokenText = const Value.absent(),
+                required String targetText,
+                Value<double> accuracy = const Value.absent(),
+                Value<bool> passed = const Value.absent(),
+                Value<DateTime> studiedAt = const Value.absent(),
+                Value<DateTime> createdAt = const Value.absent(),
+              }) => SpeakingRecordsCompanion.insert(
+                id: id,
+                seedId: seedId,
+                cardId: cardId,
+                mode: mode,
+                spokenText: spokenText,
+                targetText: targetText,
+                accuracy: accuracy,
+                passed: passed,
+                studiedAt: studiedAt,
+                createdAt: createdAt,
+              ),
+          withReferenceMapper: (p0) => p0
+              .map((e) => (e.readTable(table), BaseReferences(db, table, e)))
+              .toList(),
+          prefetchHooksCallback: null,
+        ),
+      );
+}
+
+typedef $$SpeakingRecordsTableProcessedTableManager =
+    ProcessedTableManager<
+      _$AppDatabase,
+      $SpeakingRecordsTable,
+      SpeakingRecord,
+      $$SpeakingRecordsTableFilterComposer,
+      $$SpeakingRecordsTableOrderingComposer,
+      $$SpeakingRecordsTableAnnotationComposer,
+      $$SpeakingRecordsTableCreateCompanionBuilder,
+      $$SpeakingRecordsTableUpdateCompanionBuilder,
+      (
+        SpeakingRecord,
+        BaseReferences<_$AppDatabase, $SpeakingRecordsTable, SpeakingRecord>,
+      ),
+      SpeakingRecord,
+      PrefetchHooks Function()
+    >;
+typedef $$SpeakingProgressTableCreateCompanionBuilder =
+    SpeakingProgressCompanion Function({
+      required String cardId,
+      required String seedId,
+      Value<int> level,
+      Value<int> passCount,
+      Value<int> failCount,
+      Value<DateTime?> lastStudiedAt,
+      Value<DateTime?> nextReviewAt,
+      Value<DateTime> createdAt,
+      Value<DateTime> updatedAt,
+      Value<int> rowid,
+    });
+typedef $$SpeakingProgressTableUpdateCompanionBuilder =
+    SpeakingProgressCompanion Function({
+      Value<String> cardId,
+      Value<String> seedId,
+      Value<int> level,
+      Value<int> passCount,
+      Value<int> failCount,
+      Value<DateTime?> lastStudiedAt,
+      Value<DateTime?> nextReviewAt,
+      Value<DateTime> createdAt,
+      Value<DateTime> updatedAt,
+      Value<int> rowid,
+    });
+
+class $$SpeakingProgressTableFilterComposer
+    extends Composer<_$AppDatabase, $SpeakingProgressTable> {
+  $$SpeakingProgressTableFilterComposer({
+    required super.$db,
+    required super.$table,
+    super.joinBuilder,
+    super.$addJoinBuilderToRootComposer,
+    super.$removeJoinBuilderFromRootComposer,
+  });
+  ColumnFilters<String> get cardId => $composableBuilder(
+    column: $table.cardId,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<String> get seedId => $composableBuilder(
+    column: $table.seedId,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<int> get level => $composableBuilder(
+    column: $table.level,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<int> get passCount => $composableBuilder(
+    column: $table.passCount,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<int> get failCount => $composableBuilder(
+    column: $table.failCount,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<DateTime> get lastStudiedAt => $composableBuilder(
+    column: $table.lastStudiedAt,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<DateTime> get nextReviewAt => $composableBuilder(
+    column: $table.nextReviewAt,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<DateTime> get createdAt => $composableBuilder(
+    column: $table.createdAt,
+    builder: (column) => ColumnFilters(column),
+  );
+
+  ColumnFilters<DateTime> get updatedAt => $composableBuilder(
+    column: $table.updatedAt,
+    builder: (column) => ColumnFilters(column),
+  );
+}
+
+class $$SpeakingProgressTableOrderingComposer
+    extends Composer<_$AppDatabase, $SpeakingProgressTable> {
+  $$SpeakingProgressTableOrderingComposer({
+    required super.$db,
+    required super.$table,
+    super.joinBuilder,
+    super.$addJoinBuilderToRootComposer,
+    super.$removeJoinBuilderFromRootComposer,
+  });
+  ColumnOrderings<String> get cardId => $composableBuilder(
+    column: $table.cardId,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<String> get seedId => $composableBuilder(
+    column: $table.seedId,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<int> get level => $composableBuilder(
+    column: $table.level,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<int> get passCount => $composableBuilder(
+    column: $table.passCount,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<int> get failCount => $composableBuilder(
+    column: $table.failCount,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<DateTime> get lastStudiedAt => $composableBuilder(
+    column: $table.lastStudiedAt,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<DateTime> get nextReviewAt => $composableBuilder(
+    column: $table.nextReviewAt,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<DateTime> get createdAt => $composableBuilder(
+    column: $table.createdAt,
+    builder: (column) => ColumnOrderings(column),
+  );
+
+  ColumnOrderings<DateTime> get updatedAt => $composableBuilder(
+    column: $table.updatedAt,
+    builder: (column) => ColumnOrderings(column),
+  );
+}
+
+class $$SpeakingProgressTableAnnotationComposer
+    extends Composer<_$AppDatabase, $SpeakingProgressTable> {
+  $$SpeakingProgressTableAnnotationComposer({
+    required super.$db,
+    required super.$table,
+    super.joinBuilder,
+    super.$addJoinBuilderToRootComposer,
+    super.$removeJoinBuilderFromRootComposer,
+  });
+  GeneratedColumn<String> get cardId =>
+      $composableBuilder(column: $table.cardId, builder: (column) => column);
+
+  GeneratedColumn<String> get seedId =>
+      $composableBuilder(column: $table.seedId, builder: (column) => column);
+
+  GeneratedColumn<int> get level =>
+      $composableBuilder(column: $table.level, builder: (column) => column);
+
+  GeneratedColumn<int> get passCount =>
+      $composableBuilder(column: $table.passCount, builder: (column) => column);
+
+  GeneratedColumn<int> get failCount =>
+      $composableBuilder(column: $table.failCount, builder: (column) => column);
+
+  GeneratedColumn<DateTime> get lastStudiedAt => $composableBuilder(
+    column: $table.lastStudiedAt,
+    builder: (column) => column,
+  );
+
+  GeneratedColumn<DateTime> get nextReviewAt => $composableBuilder(
+    column: $table.nextReviewAt,
+    builder: (column) => column,
+  );
+
+  GeneratedColumn<DateTime> get createdAt =>
+      $composableBuilder(column: $table.createdAt, builder: (column) => column);
+
+  GeneratedColumn<DateTime> get updatedAt =>
+      $composableBuilder(column: $table.updatedAt, builder: (column) => column);
+}
+
+class $$SpeakingProgressTableTableManager
+    extends
+        RootTableManager<
+          _$AppDatabase,
+          $SpeakingProgressTable,
+          SpeakingProgressEntry,
+          $$SpeakingProgressTableFilterComposer,
+          $$SpeakingProgressTableOrderingComposer,
+          $$SpeakingProgressTableAnnotationComposer,
+          $$SpeakingProgressTableCreateCompanionBuilder,
+          $$SpeakingProgressTableUpdateCompanionBuilder,
+          (
+            SpeakingProgressEntry,
+            BaseReferences<
+              _$AppDatabase,
+              $SpeakingProgressTable,
+              SpeakingProgressEntry
+            >,
+          ),
+          SpeakingProgressEntry,
+          PrefetchHooks Function()
+        > {
+  $$SpeakingProgressTableTableManager(
+    _$AppDatabase db,
+    $SpeakingProgressTable table,
+  ) : super(
+        TableManagerState(
+          db: db,
+          table: table,
+          createFilteringComposer: () =>
+              $$SpeakingProgressTableFilterComposer($db: db, $table: table),
+          createOrderingComposer: () =>
+              $$SpeakingProgressTableOrderingComposer($db: db, $table: table),
+          createComputedFieldComposer: () =>
+              $$SpeakingProgressTableAnnotationComposer($db: db, $table: table),
+          updateCompanionCallback:
+              ({
+                Value<String> cardId = const Value.absent(),
+                Value<String> seedId = const Value.absent(),
+                Value<int> level = const Value.absent(),
+                Value<int> passCount = const Value.absent(),
+                Value<int> failCount = const Value.absent(),
+                Value<DateTime?> lastStudiedAt = const Value.absent(),
+                Value<DateTime?> nextReviewAt = const Value.absent(),
+                Value<DateTime> createdAt = const Value.absent(),
+                Value<DateTime> updatedAt = const Value.absent(),
+                Value<int> rowid = const Value.absent(),
+              }) => SpeakingProgressCompanion(
+                cardId: cardId,
+                seedId: seedId,
+                level: level,
+                passCount: passCount,
+                failCount: failCount,
+                lastStudiedAt: lastStudiedAt,
+                nextReviewAt: nextReviewAt,
+                createdAt: createdAt,
+                updatedAt: updatedAt,
+                rowid: rowid,
+              ),
+          createCompanionCallback:
+              ({
+                required String cardId,
+                required String seedId,
+                Value<int> level = const Value.absent(),
+                Value<int> passCount = const Value.absent(),
+                Value<int> failCount = const Value.absent(),
+                Value<DateTime?> lastStudiedAt = const Value.absent(),
+                Value<DateTime?> nextReviewAt = const Value.absent(),
+                Value<DateTime> createdAt = const Value.absent(),
+                Value<DateTime> updatedAt = const Value.absent(),
+                Value<int> rowid = const Value.absent(),
+              }) => SpeakingProgressCompanion.insert(
+                cardId: cardId,
+                seedId: seedId,
+                level: level,
+                passCount: passCount,
+                failCount: failCount,
+                lastStudiedAt: lastStudiedAt,
+                nextReviewAt: nextReviewAt,
+                createdAt: createdAt,
+                updatedAt: updatedAt,
+                rowid: rowid,
+              ),
+          withReferenceMapper: (p0) => p0
+              .map((e) => (e.readTable(table), BaseReferences(db, table, e)))
+              .toList(),
+          prefetchHooksCallback: null,
+        ),
+      );
+}
+
+typedef $$SpeakingProgressTableProcessedTableManager =
+    ProcessedTableManager<
+      _$AppDatabase,
+      $SpeakingProgressTable,
+      SpeakingProgressEntry,
+      $$SpeakingProgressTableFilterComposer,
+      $$SpeakingProgressTableOrderingComposer,
+      $$SpeakingProgressTableAnnotationComposer,
+      $$SpeakingProgressTableCreateCompanionBuilder,
+      $$SpeakingProgressTableUpdateCompanionBuilder,
+      (
+        SpeakingProgressEntry,
+        BaseReferences<
+          _$AppDatabase,
+          $SpeakingProgressTable,
+          SpeakingProgressEntry
+        >,
+      ),
+      SpeakingProgressEntry,
+      PrefetchHooks Function()
+    >;
 
 class $AppDatabaseManager {
   final _$AppDatabase _db;
@@ -3388,4 +5164,8 @@ class $AppDatabaseManager {
       $$DailyStatsTableTableManager(_db, _db.dailyStats);
   $$UserSettingsTableTableManager get userSettings =>
       $$UserSettingsTableTableManager(_db, _db.userSettings);
+  $$SpeakingRecordsTableTableManager get speakingRecords =>
+      $$SpeakingRecordsTableTableManager(_db, _db.speakingRecords);
+  $$SpeakingProgressTableTableManager get speakingProgress =>
+      $$SpeakingProgressTableTableManager(_db, _db.speakingProgress);
 }

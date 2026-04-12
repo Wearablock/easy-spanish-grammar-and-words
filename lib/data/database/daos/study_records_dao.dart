@@ -208,6 +208,12 @@ class StudyRecordsDao extends DatabaseAccessor<AppDatabase>
     return records.length;
   }
 
+  /// 오늘 "신규 학습"으로 시작한 unique topic 개수.
+  ///
+  /// 복습(review) 활동은 분자에 포함하지 않는다.
+  /// 판별 기준: studyRecords.createdAt(최초 insert 시각)이 오늘인 topic.
+  /// → 신규 학습 세션에서 처음 만들어진 record만 카운트되므로
+  ///   "오늘 새로 학습한 주제 수"와 의미가 일치한다.
   Future<int> getTodayStudiedTopicCount() async {
     final today = DebugUtils.now;
     final startOfDay = DateTime(today.year, today.month, today.day);
@@ -215,8 +221,8 @@ class StudyRecordsDao extends DatabaseAccessor<AppDatabase>
 
     final query = select(studyRecords)
       ..where((t) =>
-          t.lastStudiedAt.isBiggerOrEqualValue(startOfDay) &
-          t.lastStudiedAt.isSmallerThanValue(endOfDay));
+          t.createdAt.isBiggerOrEqualValue(startOfDay) &
+          t.createdAt.isSmallerThanValue(endOfDay));
 
     final records = await query.get();
     final uniqueTopics = records.map((r) => r.topicId).toSet();

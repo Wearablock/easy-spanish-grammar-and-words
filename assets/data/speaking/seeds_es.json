@@ -1,0 +1,1012 @@
+{
+  "seeds": [
+    {
+      "id": "ser_nationality",
+      "level": "A1",
+      "verb": "ser",
+      "title": {
+        "ko": "Soy español (자기소개)",
+        "en": "Soy español (Introducing yourself)",
+        "ja": "Soy español (自己紹介)",
+        "zh": "Soy español (自我介绍)",
+        "zh_Hant": "Soy español (自我介紹)",
+        "es": "Soy español (Presentación)",
+        "pt": "Soy español (Apresentação)",
+        "de": "Soy español (Vorstellung)",
+        "fr": "Soy español (Se présenter)",
+        "it": "Soy español (Presentarsi)",
+        "ru": "Soy español (Знакомство)",
+        "ar": "Soy español (التعريف بالنفس)",
+        "th": "Soy español (แนะนำตัว)",
+        "vi": "Soy español (Giới thiệu)",
+        "id": "Soy español (Perkenalan)"
+      },
+      "base_ipa": "소이 에스빠뇰",
+      "cards": [
+        {
+          "key": "base", "kind": "base", "es": "Soy español.",
+          "tr": {
+            "ko": "나는 스페인 사람이다.", "en": "I am Spanish.",
+            "ja": "私はスペイン人です。", "zh": "我是西班牙人。", "zh_Hant": "我是西班牙人。",
+            "es": "Soy español.", "pt": "Eu sou espanhol.",
+            "de": "Ich bin Spanier.", "fr": "Je suis espagnol.",
+            "it": "Sono spagnolo.", "ru": "Я испанец.",
+            "ar": "أنا إسباني.", "th": "ฉันเป็นคนสเปน",
+            "vi": "Tôi là người Tây Ban Nha.", "id": "Saya orang Spanyol."
+          }
+        },
+        {
+          "key": "tu", "kind": "subject", "subjectArg": "tú", "es": "Eres español.",
+          "tr": {
+            "ko": "너는 스페인 사람이다.", "en": "You are Spanish.",
+            "ja": "君はスペイン人です。", "zh": "你是西班牙人。", "zh_Hant": "你是西班牙人。",
+            "es": "Eres español.", "pt": "Você é espanhol.",
+            "de": "Du bist Spanier.", "fr": "Tu es espagnol.",
+            "it": "Sei spagnolo.", "ru": "Ты испанец.",
+            "ar": "أنت إسباني.", "th": "คุณเป็นคนสเปน",
+            "vi": "Bạn là người Tây Ban Nha.", "id": "Kamu orang Spanyol."
+          }
+        },
+        {
+          "key": "el", "kind": "subject", "subjectArg": "él", "es": "Es español.",
+          "tr": {
+            "ko": "그는 스페인 사람이다.", "en": "He is Spanish.",
+            "ja": "彼はスペイン人です。", "zh": "他是西班牙人。", "zh_Hant": "他是西班牙人。",
+            "es": "Es español.", "pt": "Ele é espanhol.",
+            "de": "Er ist Spanier.", "fr": "Il est espagnol.",
+            "it": "È spagnolo.", "ru": "Он испанец.",
+            "ar": "هو إسباني.", "th": "เขาเป็นคนสเปน",
+            "vi": "Anh ấy là người Tây Ban Nha.", "id": "Dia orang Spanyol."
+          }
+        },
+        {
+          "key": "nos", "kind": "subject", "subjectArg": "nosotros", "es": "Somos españoles.",
+          "tr": {
+            "ko": "우리는 스페인 사람이다.", "en": "We are Spanish.",
+            "ja": "私たちはスペイン人です。", "zh": "我们是西班牙人。", "zh_Hant": "我們是西班牙人。",
+            "es": "Somos españoles.", "pt": "Nós somos espanhóis.",
+            "de": "Wir sind Spanier.", "fr": "Nous sommes espagnols.",
+            "it": "Siamo spagnoli.", "ru": "Мы испанцы.",
+            "ar": "نحن إسبان.", "th": "พวกเราเป็นคนสเปน",
+            "vi": "Chúng tôi là người Tây Ban Nha.", "id": "Kami orang Spanyol."
+          }
+        },
+        {
+          "key": "neg", "kind": "negative", "es": "No soy español.",
+          "tr": {
+            "ko": "나는 스페인 사람이 아니다.", "en": "I am not Spanish.",
+            "ja": "私はスペイン人ではありません。", "zh": "我不是西班牙人。", "zh_Hant": "我不是西班牙人。",
+            "es": "No soy español.", "pt": "Eu não sou espanhol.",
+            "de": "Ich bin kein Spanier.", "fr": "Je ne suis pas espagnol.",
+            "it": "Non sono spagnolo.", "ru": "Я не испанец.",
+            "ar": "أنا لست إسبانيًا.", "th": "ฉันไม่ใช่คนสเปน",
+            "vi": "Tôi không phải là người Tây Ban Nha.", "id": "Saya bukan orang Spanyol."
+          }
+        },
+        {
+          "key": "q", "kind": "interrogative", "es": "¿Eres español?",
+          "tr": {
+            "ko": "너는 스페인 사람이니?", "en": "Are you Spanish?",
+            "ja": "君はスペイン人ですか？", "zh": "你是西班牙人吗？", "zh_Hant": "你是西班牙人嗎？",
+            "es": "¿Eres español?", "pt": "Você é espanhol?",
+            "de": "Bist du Spanier?", "fr": "Es-tu espagnol ?",
+            "it": "Sei spagnolo?", "ru": "Ты испанец?",
+            "ar": "هل أنت إسباني؟", "th": "คุณเป็นคนสเปนใช่ไหม",
+            "vi": "Bạn có phải là người Tây Ban Nha không?", "id": "Apakah kamu orang Spanyol?"
+          }
+        },
+        {
+          "key": "swap_mexicano", "kind": "nounSwap", "nounArg": "mexicano", "es": "Soy mexicano.",
+          "tr": {
+            "ko": "나는 멕시코 사람이다.", "en": "I am Mexican.",
+            "ja": "私はメキシコ人です。", "zh": "我是墨西哥人。", "zh_Hant": "我是墨西哥人。",
+            "es": "Soy mexicano.", "pt": "Eu sou mexicano.",
+            "de": "Ich bin Mexikaner.", "fr": "Je suis mexicain.",
+            "it": "Sono messicano.", "ru": "Я мексиканец.",
+            "ar": "أنا مكسيكي.", "th": "ฉันเป็นคนเม็กซิโก",
+            "vi": "Tôi là người Mexico.", "id": "Saya orang Meksiko."
+          }
+        },
+        {
+          "key": "swap_argentino", "kind": "nounSwap", "nounArg": "argentino", "es": "Soy argentino.",
+          "tr": {
+            "ko": "나는 아르헨티나 사람이다.", "en": "I am Argentinian.",
+            "ja": "私はアルゼンチン人です。", "zh": "我是阿根廷人。", "zh_Hant": "我是阿根廷人。",
+            "es": "Soy argentino.", "pt": "Eu sou argentino.",
+            "de": "Ich bin Argentinier.", "fr": "Je suis argentin.",
+            "it": "Sono argentino.", "ru": "Я аргентинец.",
+            "ar": "أنا أرجنتيني.", "th": "ฉันเป็นคนอาร์เจนตินา",
+            "vi": "Tôi là người Argentina.", "id": "Saya orang Argentina."
+          }
+        },
+        {
+          "key": "swap_estudiante", "kind": "nounSwap", "nounArg": "estudiante", "es": "Soy estudiante.",
+          "tr": {
+            "ko": "나는 학생이다.", "en": "I am a student.",
+            "ja": "私は学生です。", "zh": "我是学生。", "zh_Hant": "我是學生。",
+            "es": "Soy estudiante.", "pt": "Eu sou estudante.",
+            "de": "Ich bin Student.", "fr": "Je suis étudiant.",
+            "it": "Sono studente.", "ru": "Я студент.",
+            "ar": "أنا طالب.", "th": "ฉันเป็นนักเรียน",
+            "vi": "Tôi là học sinh.", "id": "Saya seorang pelajar."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ser_profession",
+      "level": "A1",
+      "verb": "ser",
+      "title": {
+        "ko": "Soy estudiante (직업)", "en": "Soy estudiante (Profession)",
+        "ja": "Soy estudiante (職業)", "zh": "Soy estudiante (职业)", "zh_Hant": "Soy estudiante (職業)",
+        "es": "Soy estudiante (Profesión)", "pt": "Soy estudiante (Profissão)",
+        "de": "Soy estudiante (Beruf)", "fr": "Soy estudiante (Profession)",
+        "it": "Soy estudiante (Professione)", "ru": "Soy estudiante (Профессия)",
+        "ar": "Soy estudiante (المهنة)", "th": "Soy estudiante (อาชีพ)",
+        "vi": "Soy estudiante (Nghề nghiệp)", "id": "Soy estudiante (Profesi)"
+      },
+      "base_ipa": "소이 에스뚜디안떼",
+      "cards": [
+        {
+          "key": "base", "kind": "base", "es": "Soy estudiante.",
+          "tr": {
+            "ko": "나는 학생이다.", "en": "I am a student.",
+            "ja": "私は学生です。", "zh": "我是学生。", "zh_Hant": "我是學生。",
+            "es": "Soy estudiante.", "pt": "Eu sou estudante.",
+            "de": "Ich bin Student.", "fr": "Je suis étudiant.",
+            "it": "Sono studente.", "ru": "Я студент.",
+            "ar": "أنا طالب.", "th": "ฉันเป็นนักเรียน",
+            "vi": "Tôi là học sinh.", "id": "Saya seorang pelajar."
+          }
+        },
+        {
+          "key": "tu", "kind": "subject", "subjectArg": "tú", "es": "Eres estudiante.",
+          "tr": {
+            "ko": "너는 학생이다.", "en": "You are a student.",
+            "ja": "君は学生です。", "zh": "你是学生。", "zh_Hant": "你是學生。",
+            "es": "Eres estudiante.", "pt": "Você é estudante.",
+            "de": "Du bist Student.", "fr": "Tu es étudiant.",
+            "it": "Sei studente.", "ru": "Ты студент.",
+            "ar": "أنت طالب.", "th": "คุณเป็นนักเรียน",
+            "vi": "Bạn là học sinh.", "id": "Kamu seorang pelajar."
+          }
+        },
+        {
+          "key": "el", "kind": "subject", "subjectArg": "él", "es": "Es estudiante.",
+          "tr": {
+            "ko": "그는 학생이다.", "en": "He is a student.",
+            "ja": "彼は学生です。", "zh": "他是学生。", "zh_Hant": "他是學生。",
+            "es": "Es estudiante.", "pt": "Ele é estudante.",
+            "de": "Er ist Student.", "fr": "Il est étudiant.",
+            "it": "È studente.", "ru": "Он студент.",
+            "ar": "هو طالب.", "th": "เขาเป็นนักเรียน",
+            "vi": "Anh ấy là học sinh.", "id": "Dia seorang pelajar."
+          }
+        },
+        {
+          "key": "nos", "kind": "subject", "subjectArg": "nosotros", "es": "Somos estudiantes.",
+          "tr": {
+            "ko": "우리는 학생이다.", "en": "We are students.",
+            "ja": "私たちは学生です。", "zh": "我们是学生。", "zh_Hant": "我們是學生。",
+            "es": "Somos estudiantes.", "pt": "Nós somos estudantes.",
+            "de": "Wir sind Studenten.", "fr": "Nous sommes étudiants.",
+            "it": "Siamo studenti.", "ru": "Мы студенты.",
+            "ar": "نحن طلاب.", "th": "พวกเราเป็นนักเรียน",
+            "vi": "Chúng tôi là học sinh.", "id": "Kami para pelajar."
+          }
+        },
+        {
+          "key": "neg", "kind": "negative", "es": "No soy estudiante.",
+          "tr": {
+            "ko": "나는 학생이 아니다.", "en": "I am not a student.",
+            "ja": "私は学生ではありません。", "zh": "我不是学生。", "zh_Hant": "我不是學生。",
+            "es": "No soy estudiante.", "pt": "Eu não sou estudante.",
+            "de": "Ich bin kein Student.", "fr": "Je ne suis pas étudiant.",
+            "it": "Non sono studente.", "ru": "Я не студент.",
+            "ar": "أنا لست طالبًا.", "th": "ฉันไม่ใช่นักเรียน",
+            "vi": "Tôi không phải là học sinh.", "id": "Saya bukan pelajar."
+          }
+        },
+        {
+          "key": "q", "kind": "interrogative", "es": "¿Eres estudiante?",
+          "tr": {
+            "ko": "너는 학생이니?", "en": "Are you a student?",
+            "ja": "君は学生ですか？", "zh": "你是学生吗？", "zh_Hant": "你是學生嗎？",
+            "es": "¿Eres estudiante?", "pt": "Você é estudante?",
+            "de": "Bist du Student?", "fr": "Es-tu étudiant ?",
+            "it": "Sei studente?", "ru": "Ты студент?",
+            "ar": "هل أنت طالب؟", "th": "คุณเป็นนักเรียนใช่ไหม",
+            "vi": "Bạn có phải là học sinh không?", "id": "Apakah kamu seorang pelajar?"
+          }
+        },
+        {
+          "key": "swap_profesor", "kind": "nounSwap", "nounArg": "profesor", "es": "Soy profesor.",
+          "tr": {
+            "ko": "나는 선생님이다.", "en": "I am a teacher.",
+            "ja": "私は先生です。", "zh": "我是老师。", "zh_Hant": "我是老師。",
+            "es": "Soy profesor.", "pt": "Eu sou professor.",
+            "de": "Ich bin Lehrer.", "fr": "Je suis professeur.",
+            "it": "Sono professore.", "ru": "Я учитель.",
+            "ar": "أنا معلم.", "th": "ฉันเป็นครู",
+            "vi": "Tôi là giáo viên.", "id": "Saya seorang guru."
+          }
+        },
+        {
+          "key": "swap_medico", "kind": "nounSwap", "nounArg": "médico", "es": "Soy médico.",
+          "tr": {
+            "ko": "나는 의사이다.", "en": "I am a doctor.",
+            "ja": "私は医者です。", "zh": "我是医生。", "zh_Hant": "我是醫生。",
+            "es": "Soy médico.", "pt": "Eu sou médico.",
+            "de": "Ich bin Arzt.", "fr": "Je suis médecin.",
+            "it": "Sono medico.", "ru": "Я врач.",
+            "ar": "أنا طبيب.", "th": "ฉันเป็นหมอ",
+            "vi": "Tôi là bác sĩ.", "id": "Saya seorang dokter."
+          }
+        },
+        {
+          "key": "swap_ingeniero", "kind": "nounSwap", "nounArg": "ingeniero", "es": "Soy ingeniero.",
+          "tr": {
+            "ko": "나는 엔지니어이다.", "en": "I am an engineer.",
+            "ja": "私はエンジニアです。", "zh": "我是工程师。", "zh_Hant": "我是工程師。",
+            "es": "Soy ingeniero.", "pt": "Eu sou engenheiro.",
+            "de": "Ich bin Ingenieur.", "fr": "Je suis ingénieur.",
+            "it": "Sono ingegnere.", "ru": "Я инженер.",
+            "ar": "أنا مهندس.", "th": "ฉันเป็นวิศวกร",
+            "vi": "Tôi là kỹ sư.", "id": "Saya seorang insinyur."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ser_adjective",
+      "level": "A1",
+      "verb": "ser",
+      "title": {
+        "ko": "Soy alto (특징)", "en": "Soy alto (Personal traits)",
+        "ja": "Soy alto (特徴)", "zh": "Soy alto (特征)", "zh_Hant": "Soy alto (特徵)",
+        "es": "Soy alto (Características)", "pt": "Soy alto (Características)",
+        "de": "Soy alto (Merkmale)", "fr": "Soy alto (Caractéristiques)",
+        "it": "Soy alto (Caratteristiche)", "ru": "Soy alto (Характеристика)",
+        "ar": "Soy alto (الصفات)", "th": "Soy alto (ลักษณะ)",
+        "vi": "Soy alto (Đặc điểm)", "id": "Soy alto (Ciri-ciri)"
+      },
+      "base_ipa": "소이 알또",
+      "cards": [
+        {
+          "key": "base", "kind": "base", "es": "Soy alto.",
+          "tr": {
+            "ko": "나는 키가 크다.", "en": "I am tall.",
+            "ja": "私は背が高いです。", "zh": "我个子高。", "zh_Hant": "我個子高。",
+            "es": "Soy alto.", "pt": "Eu sou alto.",
+            "de": "Ich bin groß.", "fr": "Je suis grand.",
+            "it": "Sono alto.", "ru": "Я высокий.",
+            "ar": "أنا طويل.", "th": "ฉันตัวสูง",
+            "vi": "Tôi cao.", "id": "Saya tinggi."
+          }
+        },
+        {
+          "key": "tu", "kind": "subject", "subjectArg": "tú", "es": "Eres alto.",
+          "tr": {
+            "ko": "너는 키가 크다.", "en": "You are tall.",
+            "ja": "君は背が高いです。", "zh": "你个子高。", "zh_Hant": "你個子高。",
+            "es": "Eres alto.", "pt": "Você é alto.",
+            "de": "Du bist groß.", "fr": "Tu es grand.",
+            "it": "Sei alto.", "ru": "Ты высокий.",
+            "ar": "أنت طويل.", "th": "คุณตัวสูง",
+            "vi": "Bạn cao.", "id": "Kamu tinggi."
+          }
+        },
+        {
+          "key": "el", "kind": "subject", "subjectArg": "él", "es": "Es alto.",
+          "tr": {
+            "ko": "그는 키가 크다.", "en": "He is tall.",
+            "ja": "彼は背が高いです。", "zh": "他个子高。", "zh_Hant": "他個子高。",
+            "es": "Es alto.", "pt": "Ele é alto.",
+            "de": "Er ist groß.", "fr": "Il est grand.",
+            "it": "È alto.", "ru": "Он высокий.",
+            "ar": "هو طويل.", "th": "เขาตัวสูง",
+            "vi": "Anh ấy cao.", "id": "Dia tinggi."
+          }
+        },
+        {
+          "key": "nos", "kind": "subject", "subjectArg": "nosotros", "es": "Somos altos.",
+          "tr": {
+            "ko": "우리는 키가 크다.", "en": "We are tall.",
+            "ja": "私たちは背が高いです。", "zh": "我们个子高。", "zh_Hant": "我們個子高。",
+            "es": "Somos altos.", "pt": "Nós somos altos.",
+            "de": "Wir sind groß.", "fr": "Nous sommes grands.",
+            "it": "Siamo alti.", "ru": "Мы высокие.",
+            "ar": "نحن طوال.", "th": "พวกเราตัวสูง",
+            "vi": "Chúng tôi cao.", "id": "Kami tinggi."
+          }
+        },
+        {
+          "key": "neg", "kind": "negative", "es": "No soy alto.",
+          "tr": {
+            "ko": "나는 키가 크지 않다.", "en": "I am not tall.",
+            "ja": "私は背が高くないです。", "zh": "我个子不高。", "zh_Hant": "我個子不高。",
+            "es": "No soy alto.", "pt": "Eu não sou alto.",
+            "de": "Ich bin nicht groß.", "fr": "Je ne suis pas grand.",
+            "it": "Non sono alto.", "ru": "Я не высокий.",
+            "ar": "أنا لست طويلاً.", "th": "ฉันตัวไม่สูง",
+            "vi": "Tôi không cao.", "id": "Saya tidak tinggi."
+          }
+        },
+        {
+          "key": "q", "kind": "interrogative", "es": "¿Eres alto?",
+          "tr": {
+            "ko": "너는 키가 크니?", "en": "Are you tall?",
+            "ja": "君は背が高いですか？", "zh": "你个子高吗？", "zh_Hant": "你個子高嗎？",
+            "es": "¿Eres alto?", "pt": "Você é alto?",
+            "de": "Bist du groß?", "fr": "Es-tu grand ?",
+            "it": "Sei alto?", "ru": "Ты высокий?",
+            "ar": "هل أنت طويل؟", "th": "คุณตัวสูงไหม",
+            "vi": "Bạn có cao không?", "id": "Apakah kamu tinggi?"
+          }
+        },
+        {
+          "key": "swap_joven", "kind": "nounSwap", "nounArg": "joven", "es": "Soy joven.",
+          "tr": {
+            "ko": "나는 젊다.", "en": "I am young.",
+            "ja": "私は若いです。", "zh": "我很年轻。", "zh_Hant": "我很年輕。",
+            "es": "Soy joven.", "pt": "Eu sou jovem.",
+            "de": "Ich bin jung.", "fr": "Je suis jeune.",
+            "it": "Sono giovane.", "ru": "Я молодой.",
+            "ar": "أنا صغير.", "th": "ฉันยังหนุ่ม",
+            "vi": "Tôi trẻ.", "id": "Saya muda."
+          }
+        },
+        {
+          "key": "swap_inteligente", "kind": "nounSwap", "nounArg": "inteligente", "es": "Soy inteligente.",
+          "tr": {
+            "ko": "나는 똑똑하다.", "en": "I am intelligent.",
+            "ja": "私は賢いです。", "zh": "我很聪明。", "zh_Hant": "我很聰明。",
+            "es": "Soy inteligente.", "pt": "Eu sou inteligente.",
+            "de": "Ich bin intelligent.", "fr": "Je suis intelligent.",
+            "it": "Sono intelligente.", "ru": "Я умный.",
+            "ar": "أنا ذكي.", "th": "ฉันฉลาด",
+            "vi": "Tôi thông minh.", "id": "Saya pintar."
+          }
+        },
+        {
+          "key": "swap_amable", "kind": "nounSwap", "nounArg": "amable", "es": "Soy amable.",
+          "tr": {
+            "ko": "나는 친절하다.", "en": "I am kind.",
+            "ja": "私は親切です。", "zh": "我很友善。", "zh_Hant": "我很友善。",
+            "es": "Soy amable.", "pt": "Eu sou gentil.",
+            "de": "Ich bin nett.", "fr": "Je suis gentil.",
+            "it": "Sono gentile.", "ru": "Я добрый.",
+            "ar": "أنا لطيف.", "th": "ฉันใจดี",
+            "vi": "Tôi tốt bụng.", "id": "Saya baik hati."
+          }
+        }
+      ]
+    },
+    {
+      "id": "estar_location",
+      "level": "A1",
+      "verb": "estar",
+      "title": {
+        "ko": "Estoy en casa (위치)", "en": "Estoy en casa (Location)",
+        "ja": "Estoy en casa (場所)", "zh": "Estoy en casa (位置)", "zh_Hant": "Estoy en casa (位置)",
+        "es": "Estoy en casa (Ubicación)", "pt": "Estoy en casa (Localização)",
+        "de": "Estoy en casa (Ort)", "fr": "Estoy en casa (Lieu)",
+        "it": "Estoy en casa (Luogo)", "ru": "Estoy en casa (Местоположение)",
+        "ar": "Estoy en casa (المكان)", "th": "Estoy en casa (สถานที่)",
+        "vi": "Estoy en casa (Vị trí)", "id": "Estoy en casa (Lokasi)"
+      },
+      "base_ipa": "에스또이 엔 까사",
+      "cards": [
+        {
+          "key": "base", "kind": "base", "es": "Estoy en casa.",
+          "tr": {
+            "ko": "나는 집에 있다.", "en": "I am at home.",
+            "ja": "私は家にいます。", "zh": "我在家。", "zh_Hant": "我在家。",
+            "es": "Estoy en casa.", "pt": "Estou em casa.",
+            "de": "Ich bin zu Hause.", "fr": "Je suis à la maison.",
+            "it": "Sono a casa.", "ru": "Я дома.",
+            "ar": "أنا في المنزل.", "th": "ฉันอยู่ที่บ้าน",
+            "vi": "Tôi ở nhà.", "id": "Saya di rumah."
+          }
+        },
+        {
+          "key": "tu", "kind": "subject", "subjectArg": "tú", "es": "Estás en casa.",
+          "tr": {
+            "ko": "너는 집에 있다.", "en": "You are at home.",
+            "ja": "君は家にいます。", "zh": "你在家。", "zh_Hant": "你在家。",
+            "es": "Estás en casa.", "pt": "Você está em casa.",
+            "de": "Du bist zu Hause.", "fr": "Tu es à la maison.",
+            "it": "Sei a casa.", "ru": "Ты дома.",
+            "ar": "أنت في المنزل.", "th": "คุณอยู่ที่บ้าน",
+            "vi": "Bạn ở nhà.", "id": "Kamu di rumah."
+          }
+        },
+        {
+          "key": "el", "kind": "subject", "subjectArg": "él", "es": "Está en casa.",
+          "tr": {
+            "ko": "그는 집에 있다.", "en": "He is at home.",
+            "ja": "彼は家にいます。", "zh": "他在家。", "zh_Hant": "他在家。",
+            "es": "Está en casa.", "pt": "Ele está em casa.",
+            "de": "Er ist zu Hause.", "fr": "Il est à la maison.",
+            "it": "È a casa.", "ru": "Он дома.",
+            "ar": "هو في المنزل.", "th": "เขาอยู่ที่บ้าน",
+            "vi": "Anh ấy ở nhà.", "id": "Dia di rumah."
+          }
+        },
+        {
+          "key": "nos", "kind": "subject", "subjectArg": "nosotros", "es": "Estamos en casa.",
+          "tr": {
+            "ko": "우리는 집에 있다.", "en": "We are at home.",
+            "ja": "私たちは家にいます。", "zh": "我们在家。", "zh_Hant": "我們在家。",
+            "es": "Estamos en casa.", "pt": "Nós estamos em casa.",
+            "de": "Wir sind zu Hause.", "fr": "Nous sommes à la maison.",
+            "it": "Siamo a casa.", "ru": "Мы дома.",
+            "ar": "نحن في المنزل.", "th": "พวกเราอยู่ที่บ้าน",
+            "vi": "Chúng tôi ở nhà.", "id": "Kami di rumah."
+          }
+        },
+        {
+          "key": "neg", "kind": "negative", "es": "No estoy en casa.",
+          "tr": {
+            "ko": "나는 집에 없다.", "en": "I am not at home.",
+            "ja": "私は家にいません。", "zh": "我不在家。", "zh_Hant": "我不在家。",
+            "es": "No estoy en casa.", "pt": "Eu não estou em casa.",
+            "de": "Ich bin nicht zu Hause.", "fr": "Je ne suis pas à la maison.",
+            "it": "Non sono a casa.", "ru": "Я не дома.",
+            "ar": "أنا لست في المنزل.", "th": "ฉันไม่อยู่ที่บ้าน",
+            "vi": "Tôi không ở nhà.", "id": "Saya tidak di rumah."
+          }
+        },
+        {
+          "key": "q", "kind": "interrogative", "es": "¿Estás en casa?",
+          "tr": {
+            "ko": "너는 집에 있니?", "en": "Are you at home?",
+            "ja": "君は家にいますか？", "zh": "你在家吗？", "zh_Hant": "你在家嗎？",
+            "es": "¿Estás en casa?", "pt": "Você está em casa?",
+            "de": "Bist du zu Hause?", "fr": "Es-tu à la maison ?",
+            "it": "Sei a casa?", "ru": "Ты дома?",
+            "ar": "هل أنت في المنزل؟", "th": "คุณอยู่ที่บ้านไหม",
+            "vi": "Bạn có ở nhà không?", "id": "Apakah kamu di rumah?"
+          }
+        },
+        {
+          "key": "swap_oficina", "kind": "nounSwap", "nounArg": "en la oficina", "es": "Estoy en la oficina.",
+          "tr": {
+            "ko": "나는 사무실에 있다.", "en": "I am at the office.",
+            "ja": "私はオフィスにいます。", "zh": "我在办公室。", "zh_Hant": "我在辦公室。",
+            "es": "Estoy en la oficina.", "pt": "Estou no escritório.",
+            "de": "Ich bin im Büro.", "fr": "Je suis au bureau.",
+            "it": "Sono in ufficio.", "ru": "Я в офисе.",
+            "ar": "أنا في المكتب.", "th": "ฉันอยู่ที่สำนักงาน",
+            "vi": "Tôi ở văn phòng.", "id": "Saya di kantor."
+          }
+        },
+        {
+          "key": "swap_parque", "kind": "nounSwap", "nounArg": "en el parque", "es": "Estoy en el parque.",
+          "tr": {
+            "ko": "나는 공원에 있다.", "en": "I am at the park.",
+            "ja": "私は公園にいます。", "zh": "我在公园。", "zh_Hant": "我在公園。",
+            "es": "Estoy en el parque.", "pt": "Estou no parque.",
+            "de": "Ich bin im Park.", "fr": "Je suis au parc.",
+            "it": "Sono al parco.", "ru": "Я в парке.",
+            "ar": "أنا في الحديقة.", "th": "ฉันอยู่ที่สวนสาธารณะ",
+            "vi": "Tôi ở công viên.", "id": "Saya di taman."
+          }
+        },
+        {
+          "key": "swap_madrid", "kind": "nounSwap", "nounArg": "en Madrid", "es": "Estoy en Madrid.",
+          "tr": {
+            "ko": "나는 마드리드에 있다.", "en": "I am in Madrid.",
+            "ja": "私はマドリードにいます。", "zh": "我在马德里。", "zh_Hant": "我在馬德里。",
+            "es": "Estoy en Madrid.", "pt": "Estou em Madri.",
+            "de": "Ich bin in Madrid.", "fr": "Je suis à Madrid.",
+            "it": "Sono a Madrid.", "ru": "Я в Мадриде.",
+            "ar": "أنا في مدريد.", "th": "ฉันอยู่ที่มาดริด",
+            "vi": "Tôi ở Madrid.", "id": "Saya di Madrid."
+          }
+        }
+      ]
+    },
+    {
+      "id": "estar_feeling",
+      "level": "A1",
+      "verb": "estar",
+      "title": {
+        "ko": "Estoy bien (기분)", "en": "Estoy bien (Feelings)",
+        "ja": "Estoy bien (気分)", "zh": "Estoy bien (心情)", "zh_Hant": "Estoy bien (心情)",
+        "es": "Estoy bien (Estado)", "pt": "Estoy bien (Estado)",
+        "de": "Estoy bien (Befinden)", "fr": "Estoy bien (État)",
+        "it": "Estoy bien (Stato)", "ru": "Estoy bien (Состояние)",
+        "ar": "Estoy bien (الحالة)", "th": "Estoy bien (อารมณ์)",
+        "vi": "Estoy bien (Cảm xúc)", "id": "Estoy bien (Perasaan)"
+      },
+      "base_ipa": "에스또이 비엔",
+      "cards": [
+        {
+          "key": "base", "kind": "base", "es": "Estoy bien.",
+          "tr": {
+            "ko": "나는 잘 지낸다.", "en": "I am fine.",
+            "ja": "私は元気です。", "zh": "我很好。", "zh_Hant": "我很好。",
+            "es": "Estoy bien.", "pt": "Estou bem.",
+            "de": "Mir geht es gut.", "fr": "Je vais bien.",
+            "it": "Sto bene.", "ru": "У меня всё хорошо.",
+            "ar": "أنا بخير.", "th": "ฉันสบายดี",
+            "vi": "Tôi khoẻ.", "id": "Saya baik-baik saja."
+          }
+        },
+        {
+          "key": "tu", "kind": "subject", "subjectArg": "tú", "es": "Estás bien.",
+          "tr": {
+            "ko": "너는 잘 지낸다.", "en": "You are fine.",
+            "ja": "君は元気です。", "zh": "你很好。", "zh_Hant": "你很好。",
+            "es": "Estás bien.", "pt": "Você está bem.",
+            "de": "Dir geht es gut.", "fr": "Tu vas bien.",
+            "it": "Stai bene.", "ru": "У тебя всё хорошо.",
+            "ar": "أنت بخير.", "th": "คุณสบายดี",
+            "vi": "Bạn khoẻ.", "id": "Kamu baik-baik saja."
+          }
+        },
+        {
+          "key": "el", "kind": "subject", "subjectArg": "él", "es": "Está bien.",
+          "tr": {
+            "ko": "그는 잘 지낸다.", "en": "He is fine.",
+            "ja": "彼は元気です。", "zh": "他很好。", "zh_Hant": "他很好。",
+            "es": "Está bien.", "pt": "Ele está bem.",
+            "de": "Ihm geht es gut.", "fr": "Il va bien.",
+            "it": "Sta bene.", "ru": "У него всё хорошо.",
+            "ar": "هو بخير.", "th": "เขาสบายดี",
+            "vi": "Anh ấy khoẻ.", "id": "Dia baik-baik saja."
+          }
+        },
+        {
+          "key": "nos", "kind": "subject", "subjectArg": "nosotros", "es": "Estamos bien.",
+          "tr": {
+            "ko": "우리는 잘 지낸다.", "en": "We are fine.",
+            "ja": "私たちは元気です。", "zh": "我们很好。", "zh_Hant": "我們很好。",
+            "es": "Estamos bien.", "pt": "Nós estamos bem.",
+            "de": "Uns geht es gut.", "fr": "Nous allons bien.",
+            "it": "Stiamo bene.", "ru": "У нас всё хорошо.",
+            "ar": "نحن بخير.", "th": "พวกเราสบายดี",
+            "vi": "Chúng tôi khoẻ.", "id": "Kami baik-baik saja."
+          }
+        },
+        {
+          "key": "neg", "kind": "negative", "es": "No estoy bien.",
+          "tr": {
+            "ko": "나는 잘 지내지 못한다.", "en": "I am not fine.",
+            "ja": "私は元気ではありません。", "zh": "我不好。", "zh_Hant": "我不好。",
+            "es": "No estoy bien.", "pt": "Eu não estou bem.",
+            "de": "Mir geht es nicht gut.", "fr": "Je ne vais pas bien.",
+            "it": "Non sto bene.", "ru": "У меня не всё хорошо.",
+            "ar": "أنا لست بخير.", "th": "ฉันไม่สบาย",
+            "vi": "Tôi không khoẻ.", "id": "Saya tidak baik-baik saja."
+          }
+        },
+        {
+          "key": "q", "kind": "interrogative", "es": "¿Estás bien?",
+          "tr": {
+            "ko": "너는 잘 지내니?", "en": "Are you fine?",
+            "ja": "君は元気ですか？", "zh": "你好吗？", "zh_Hant": "你好嗎？",
+            "es": "¿Estás bien?", "pt": "Você está bem?",
+            "de": "Geht es dir gut?", "fr": "Vas-tu bien ?",
+            "it": "Stai bene?", "ru": "У тебя всё хорошо?",
+            "ar": "هل أنت بخير؟", "th": "คุณสบายดีไหม",
+            "vi": "Bạn có khoẻ không?", "id": "Apakah kamu baik-baik saja?"
+          }
+        },
+        {
+          "key": "swap_cansado", "kind": "nounSwap", "nounArg": "cansado", "es": "Estoy cansado.",
+          "tr": {
+            "ko": "나는 피곤하다.", "en": "I am tired.",
+            "ja": "私は疲れています。", "zh": "我很累。", "zh_Hant": "我很累。",
+            "es": "Estoy cansado.", "pt": "Estou cansado.",
+            "de": "Ich bin müde.", "fr": "Je suis fatigué.",
+            "it": "Sono stanco.", "ru": "Я устал.",
+            "ar": "أنا متعب.", "th": "ฉันเหนื่อย",
+            "vi": "Tôi mệt.", "id": "Saya lelah."
+          }
+        },
+        {
+          "key": "swap_feliz", "kind": "nounSwap", "nounArg": "feliz", "es": "Estoy feliz.",
+          "tr": {
+            "ko": "나는 행복하다.", "en": "I am happy.",
+            "ja": "私は幸せです。", "zh": "我很开心。", "zh_Hant": "我很開心。",
+            "es": "Estoy feliz.", "pt": "Estou feliz.",
+            "de": "Ich bin glücklich.", "fr": "Je suis heureux.",
+            "it": "Sono felice.", "ru": "Я счастлив.",
+            "ar": "أنا سعيد.", "th": "ฉันมีความสุข",
+            "vi": "Tôi hạnh phúc.", "id": "Saya bahagia."
+          }
+        },
+        {
+          "key": "swap_triste", "kind": "nounSwap", "nounArg": "triste", "es": "Estoy triste.",
+          "tr": {
+            "ko": "나는 슬프다.", "en": "I am sad.",
+            "ja": "私は悲しいです。", "zh": "我很难过。", "zh_Hant": "我很難過。",
+            "es": "Estoy triste.", "pt": "Estou triste.",
+            "de": "Ich bin traurig.", "fr": "Je suis triste.",
+            "it": "Sono triste.", "ru": "Я грустный.",
+            "ar": "أنا حزين.", "th": "ฉันเศร้า",
+            "vi": "Tôi buồn.", "id": "Saya sedih."
+          }
+        }
+      ]
+    },
+    {
+      "id": "tener_age",
+      "level": "A1",
+      "verb": "tener",
+      "title": {
+        "ko": "Tengo veinte años (나이)", "en": "Tengo veinte años (Age)",
+        "ja": "Tengo veinte años (年齢)", "zh": "Tengo veinte años (年龄)", "zh_Hant": "Tengo veinte años (年齡)",
+        "es": "Tengo veinte años (Edad)", "pt": "Tengo veinte años (Idade)",
+        "de": "Tengo veinte años (Alter)", "fr": "Tengo veinte años (Âge)",
+        "it": "Tengo veinte años (Età)", "ru": "Tengo veinte años (Возраст)",
+        "ar": "Tengo veinte años (العمر)", "th": "Tengo veinte años (อายุ)",
+        "vi": "Tengo veinte años (Tuổi)", "id": "Tengo veinte años (Usia)"
+      },
+      "base_ipa": "뗑고 베인떼 아뇨스",
+      "cards": [
+        {
+          "key": "base", "kind": "base", "es": "Tengo veinte años.",
+          "tr": {
+            "ko": "나는 스무 살이다.", "en": "I am twenty years old.",
+            "ja": "私は20歳です。", "zh": "我二十岁。", "zh_Hant": "我二十歲。",
+            "es": "Tengo veinte años.", "pt": "Tenho vinte anos.",
+            "de": "Ich bin zwanzig Jahre alt.", "fr": "J'ai vingt ans.",
+            "it": "Ho venti anni.", "ru": "Мне двадцать лет.",
+            "ar": "عمري عشرون سنة.", "th": "ฉันอายุยี่สิบปี",
+            "vi": "Tôi hai mươi tuổi.", "id": "Saya berusia dua puluh tahun."
+          }
+        },
+        {
+          "key": "tu", "kind": "subject", "subjectArg": "tú", "es": "Tienes veinte años.",
+          "tr": {
+            "ko": "너는 스무 살이다.", "en": "You are twenty years old.",
+            "ja": "君は20歳です。", "zh": "你二十岁。", "zh_Hant": "你二十歲。",
+            "es": "Tienes veinte años.", "pt": "Você tem vinte anos.",
+            "de": "Du bist zwanzig Jahre alt.", "fr": "Tu as vingt ans.",
+            "it": "Hai venti anni.", "ru": "Тебе двадцать лет.",
+            "ar": "عمرك عشرون سنة.", "th": "คุณอายุยี่สิบปี",
+            "vi": "Bạn hai mươi tuổi.", "id": "Kamu berusia dua puluh tahun."
+          }
+        },
+        {
+          "key": "el", "kind": "subject", "subjectArg": "él", "es": "Tiene veinte años.",
+          "tr": {
+            "ko": "그는 스무 살이다.", "en": "He is twenty years old.",
+            "ja": "彼は20歳です。", "zh": "他二十岁。", "zh_Hant": "他二十歲。",
+            "es": "Tiene veinte años.", "pt": "Ele tem vinte anos.",
+            "de": "Er ist zwanzig Jahre alt.", "fr": "Il a vingt ans.",
+            "it": "Ha venti anni.", "ru": "Ему двадцать лет.",
+            "ar": "عمره عشرون سنة.", "th": "เขาอายุยี่สิบปี",
+            "vi": "Anh ấy hai mươi tuổi.", "id": "Dia berusia dua puluh tahun."
+          }
+        },
+        {
+          "key": "nos", "kind": "subject", "subjectArg": "nosotros", "es": "Tenemos veinte años.",
+          "tr": {
+            "ko": "우리는 스무 살이다.", "en": "We are twenty years old.",
+            "ja": "私たちは20歳です。", "zh": "我们二十岁。", "zh_Hant": "我們二十歲。",
+            "es": "Tenemos veinte años.", "pt": "Nós temos vinte anos.",
+            "de": "Wir sind zwanzig Jahre alt.", "fr": "Nous avons vingt ans.",
+            "it": "Abbiamo venti anni.", "ru": "Нам двадцать лет.",
+            "ar": "أعمارنا عشرون سنة.", "th": "พวกเราอายุยี่สิบปี",
+            "vi": "Chúng tôi hai mươi tuổi.", "id": "Kami berusia dua puluh tahun."
+          }
+        },
+        {
+          "key": "neg", "kind": "negative", "es": "No tengo veinte años.",
+          "tr": {
+            "ko": "나는 스무 살이 아니다.", "en": "I am not twenty years old.",
+            "ja": "私は20歳ではありません。", "zh": "我不是二十岁。", "zh_Hant": "我不是二十歲。",
+            "es": "No tengo veinte años.", "pt": "Eu não tenho vinte anos.",
+            "de": "Ich bin nicht zwanzig Jahre alt.", "fr": "Je n'ai pas vingt ans.",
+            "it": "Non ho venti anni.", "ru": "Мне не двадцать лет.",
+            "ar": "عمري ليس عشرين سنة.", "th": "ฉันไม่ได้อายุยี่สิบปี",
+            "vi": "Tôi không phải hai mươi tuổi.", "id": "Saya tidak berusia dua puluh tahun."
+          }
+        },
+        {
+          "key": "q", "kind": "interrogative", "es": "¿Tienes veinte años?",
+          "tr": {
+            "ko": "너는 스무 살이니?", "en": "Are you twenty years old?",
+            "ja": "君は20歳ですか？", "zh": "你二十岁吗？", "zh_Hant": "你二十歲嗎？",
+            "es": "¿Tienes veinte años?", "pt": "Você tem vinte anos?",
+            "de": "Bist du zwanzig Jahre alt?", "fr": "As-tu vingt ans ?",
+            "it": "Hai venti anni?", "ru": "Тебе двадцать лет?",
+            "ar": "هل عمرك عشرون سنة؟", "th": "คุณอายุยี่สิบปีใช่ไหม",
+            "vi": "Bạn hai mươi tuổi phải không?", "id": "Apakah kamu berusia dua puluh tahun?"
+          }
+        },
+        {
+          "key": "swap_treinta", "kind": "nounSwap", "nounArg": "treinta años", "es": "Tengo treinta años.",
+          "tr": {
+            "ko": "나는 서른 살이다.", "en": "I am thirty years old.",
+            "ja": "私は30歳です。", "zh": "我三十岁。", "zh_Hant": "我三十歲。",
+            "es": "Tengo treinta años.", "pt": "Tenho trinta anos.",
+            "de": "Ich bin dreißig Jahre alt.", "fr": "J'ai trente ans.",
+            "it": "Ho trenta anni.", "ru": "Мне тридцать лет.",
+            "ar": "عمري ثلاثون سنة.", "th": "ฉันอายุสามสิบปี",
+            "vi": "Tôi ba mươi tuổi.", "id": "Saya berusia tiga puluh tahun."
+          }
+        },
+        {
+          "key": "swap_cuarenta", "kind": "nounSwap", "nounArg": "cuarenta años", "es": "Tengo cuarenta años.",
+          "tr": {
+            "ko": "나는 마흔 살이다.", "en": "I am forty years old.",
+            "ja": "私は40歳です。", "zh": "我四十岁。", "zh_Hant": "我四十歲。",
+            "es": "Tengo cuarenta años.", "pt": "Tenho quarenta anos.",
+            "de": "Ich bin vierzig Jahre alt.", "fr": "J'ai quarante ans.",
+            "it": "Ho quaranta anni.", "ru": "Мне сорок лет.",
+            "ar": "عمري أربعون سنة.", "th": "ฉันอายุสี่สิบปี",
+            "vi": "Tôi bốn mươi tuổi.", "id": "Saya berusia empat puluh tahun."
+          }
+        },
+        {
+          "key": "swap_diez", "kind": "nounSwap", "nounArg": "diez años", "es": "Tengo diez años.",
+          "tr": {
+            "ko": "나는 열 살이다.", "en": "I am ten years old.",
+            "ja": "私は10歳です。", "zh": "我十岁。", "zh_Hant": "我十歲。",
+            "es": "Tengo diez años.", "pt": "Tenho dez anos.",
+            "de": "Ich bin zehn Jahre alt.", "fr": "J'ai dix ans.",
+            "it": "Ho dieci anni.", "ru": "Мне десять лет.",
+            "ar": "عمري عشر سنوات.", "th": "ฉันอายุสิบปี",
+            "vi": "Tôi mười tuổi.", "id": "Saya berusia sepuluh tahun."
+          }
+        }
+      ]
+    },
+    {
+      "id": "tener_possession",
+      "level": "A1",
+      "verb": "tener",
+      "title": {
+        "ko": "Tengo un perro (소유)", "en": "Tengo un perro (Possession)",
+        "ja": "Tengo un perro (所有)", "zh": "Tengo un perro (拥有)", "zh_Hant": "Tengo un perro (擁有)",
+        "es": "Tengo un perro (Posesión)", "pt": "Tengo un perro (Posse)",
+        "de": "Tengo un perro (Besitz)", "fr": "Tengo un perro (Possession)",
+        "it": "Tengo un perro (Possesso)", "ru": "Tengo un perro (Владение)",
+        "ar": "Tengo un perro (الملكية)", "th": "Tengo un perro (การมี)",
+        "vi": "Tengo un perro (Sở hữu)", "id": "Tengo un perro (Kepemilikan)"
+      },
+      "base_ipa": "뗑고 운 뻬로",
+      "cards": [
+        {
+          "key": "base", "kind": "base", "es": "Tengo un perro.",
+          "tr": {
+            "ko": "나는 개 한 마리가 있다.", "en": "I have a dog.",
+            "ja": "私は犬を一匹飼っています。", "zh": "我有一只狗。", "zh_Hant": "我有一隻狗。",
+            "es": "Tengo un perro.", "pt": "Eu tenho um cachorro.",
+            "de": "Ich habe einen Hund.", "fr": "J'ai un chien.",
+            "it": "Ho un cane.", "ru": "У меня есть собака.",
+            "ar": "لديّ كلب.", "th": "ฉันมีสุนัขหนึ่งตัว",
+            "vi": "Tôi có một con chó.", "id": "Saya punya seekor anjing."
+          }
+        },
+        {
+          "key": "tu", "kind": "subject", "subjectArg": "tú", "es": "Tienes un perro.",
+          "tr": {
+            "ko": "너는 개 한 마리가 있다.", "en": "You have a dog.",
+            "ja": "君は犬を一匹飼っています。", "zh": "你有一只狗。", "zh_Hant": "你有一隻狗。",
+            "es": "Tienes un perro.", "pt": "Você tem um cachorro.",
+            "de": "Du hast einen Hund.", "fr": "Tu as un chien.",
+            "it": "Hai un cane.", "ru": "У тебя есть собака.",
+            "ar": "لديك كلب.", "th": "คุณมีสุนัขหนึ่งตัว",
+            "vi": "Bạn có một con chó.", "id": "Kamu punya seekor anjing."
+          }
+        },
+        {
+          "key": "el", "kind": "subject", "subjectArg": "él", "es": "Tiene un perro.",
+          "tr": {
+            "ko": "그는 개 한 마리가 있다.", "en": "He has a dog.",
+            "ja": "彼は犬を一匹飼っています。", "zh": "他有一只狗。", "zh_Hant": "他有一隻狗。",
+            "es": "Tiene un perro.", "pt": "Ele tem um cachorro.",
+            "de": "Er hat einen Hund.", "fr": "Il a un chien.",
+            "it": "Ha un cane.", "ru": "У него есть собака.",
+            "ar": "لديه كلب.", "th": "เขามีสุนัขหนึ่งตัว",
+            "vi": "Anh ấy có một con chó.", "id": "Dia punya seekor anjing."
+          }
+        },
+        {
+          "key": "nos", "kind": "subject", "subjectArg": "nosotros", "es": "Tenemos un perro.",
+          "tr": {
+            "ko": "우리는 개 한 마리가 있다.", "en": "We have a dog.",
+            "ja": "私たちは犬を一匹飼っています。", "zh": "我们有一只狗。", "zh_Hant": "我們有一隻狗。",
+            "es": "Tenemos un perro.", "pt": "Nós temos um cachorro.",
+            "de": "Wir haben einen Hund.", "fr": "Nous avons un chien.",
+            "it": "Abbiamo un cane.", "ru": "У нас есть собака.",
+            "ar": "لدينا كلب.", "th": "พวกเรามีสุนัขหนึ่งตัว",
+            "vi": "Chúng tôi có một con chó.", "id": "Kami punya seekor anjing."
+          }
+        },
+        {
+          "key": "neg", "kind": "negative", "es": "No tengo un perro.",
+          "tr": {
+            "ko": "나는 개가 없다.", "en": "I don't have a dog.",
+            "ja": "私は犬を飼っていません。", "zh": "我没有狗。", "zh_Hant": "我沒有狗。",
+            "es": "No tengo un perro.", "pt": "Eu não tenho um cachorro.",
+            "de": "Ich habe keinen Hund.", "fr": "Je n'ai pas de chien.",
+            "it": "Non ho un cane.", "ru": "У меня нет собаки.",
+            "ar": "ليس لديّ كلب.", "th": "ฉันไม่มีสุนัข",
+            "vi": "Tôi không có chó.", "id": "Saya tidak punya anjing."
+          }
+        },
+        {
+          "key": "q", "kind": "interrogative", "es": "¿Tienes un perro?",
+          "tr": {
+            "ko": "너는 개가 있니?", "en": "Do you have a dog?",
+            "ja": "君は犬を飼っていますか？", "zh": "你有狗吗？", "zh_Hant": "你有狗嗎？",
+            "es": "¿Tienes un perro?", "pt": "Você tem um cachorro?",
+            "de": "Hast du einen Hund?", "fr": "As-tu un chien ?",
+            "it": "Hai un cane?", "ru": "У тебя есть собака?",
+            "ar": "هل لديك كلب؟", "th": "คุณมีสุนัขไหม",
+            "vi": "Bạn có chó không?", "id": "Apakah kamu punya anjing?"
+          }
+        },
+        {
+          "key": "swap_gato", "kind": "nounSwap", "nounArg": "un gato", "es": "Tengo un gato.",
+          "tr": {
+            "ko": "나는 고양이 한 마리가 있다.", "en": "I have a cat.",
+            "ja": "私は猫を一匹飼っています。", "zh": "我有一只猫。", "zh_Hant": "我有一隻貓。",
+            "es": "Tengo un gato.", "pt": "Eu tenho um gato.",
+            "de": "Ich habe eine Katze.", "fr": "J'ai un chat.",
+            "it": "Ho un gatto.", "ru": "У меня есть кошка.",
+            "ar": "لديّ قطة.", "th": "ฉันมีแมวหนึ่งตัว",
+            "vi": "Tôi có một con mèo.", "id": "Saya punya seekor kucing."
+          }
+        },
+        {
+          "key": "swap_coche", "kind": "nounSwap", "nounArg": "un coche", "es": "Tengo un coche.",
+          "tr": {
+            "ko": "나는 차 한 대가 있다.", "en": "I have a car.",
+            "ja": "私は車を一台持っています。", "zh": "我有一辆车。", "zh_Hant": "我有一輛車。",
+            "es": "Tengo un coche.", "pt": "Eu tenho um carro.",
+            "de": "Ich habe ein Auto.", "fr": "J'ai une voiture.",
+            "it": "Ho una macchina.", "ru": "У меня есть машина.",
+            "ar": "لديّ سيارة.", "th": "ฉันมีรถหนึ่งคัน",
+            "vi": "Tôi có một chiếc xe hơi.", "id": "Saya punya sebuah mobil."
+          }
+        },
+        {
+          "key": "swap_libro", "kind": "nounSwap", "nounArg": "un libro", "es": "Tengo un libro.",
+          "tr": {
+            "ko": "나는 책 한 권이 있다.", "en": "I have a book.",
+            "ja": "私は本を一冊持っています。", "zh": "我有一本书。", "zh_Hant": "我有一本書。",
+            "es": "Tengo un libro.", "pt": "Eu tenho um livro.",
+            "de": "Ich habe ein Buch.", "fr": "J'ai un livre.",
+            "it": "Ho un libro.", "ru": "У меня есть книга.",
+            "ar": "لديّ كتاب.", "th": "ฉันมีหนังสือหนึ่งเล่ม",
+            "vi": "Tôi có một cuốn sách.", "id": "Saya punya sebuah buku."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gustar_like",
+      "level": "A1",
+      "verb": "gustar",
+      "title": {
+        "ko": "Me gusta el café (좋아함)", "en": "Me gusta el café (Likes)",
+        "ja": "Me gusta el café (好み)", "zh": "Me gusta el café (喜好)", "zh_Hant": "Me gusta el café (喜好)",
+        "es": "Me gusta el café (Gustos)", "pt": "Me gusta el café (Gostos)",
+        "de": "Me gusta el café (Vorlieben)", "fr": "Me gusta el café (Goûts)",
+        "it": "Me gusta el café (Gusti)", "ru": "Me gusta el café (Вкусы)",
+        "ar": "Me gusta el café (التفضيلات)", "th": "Me gusta el café (ความชอบ)",
+        "vi": "Me gusta el café (Sở thích)", "id": "Me gusta el café (Kesukaan)"
+      },
+      "base_ipa": "메 구스따 엘 까페",
+      "cards": [
+        {
+          "key": "base", "kind": "base", "es": "Me gusta el café.",
+          "tr": {
+            "ko": "나는 커피를 좋아한다.", "en": "I like coffee.",
+            "ja": "私はコーヒーが好きです。", "zh": "我喜欢咖啡。", "zh_Hant": "我喜歡咖啡。",
+            "es": "Me gusta el café.", "pt": "Eu gosto de café.",
+            "de": "Ich mag Kaffee.", "fr": "J'aime le café.",
+            "it": "Mi piace il caffè.", "ru": "Мне нравится кофе.",
+            "ar": "أحب القهوة.", "th": "ฉันชอบกาแฟ",
+            "vi": "Tôi thích cà phê.", "id": "Saya suka kopi."
+          }
+        },
+        {
+          "key": "tu", "kind": "subject", "subjectArg": "tú", "es": "Te gusta el café.",
+          "tr": {
+            "ko": "너는 커피를 좋아한다.", "en": "You like coffee.",
+            "ja": "君はコーヒーが好きです。", "zh": "你喜欢咖啡。", "zh_Hant": "你喜歡咖啡。",
+            "es": "Te gusta el café.", "pt": "Você gosta de café.",
+            "de": "Du magst Kaffee.", "fr": "Tu aimes le café.",
+            "it": "Ti piace il caffè.", "ru": "Тебе нравится кофе.",
+            "ar": "أنت تحب القهوة.", "th": "คุณชอบกาแฟ",
+            "vi": "Bạn thích cà phê.", "id": "Kamu suka kopi."
+          }
+        },
+        {
+          "key": "el", "kind": "subject", "subjectArg": "él", "es": "Le gusta el café.",
+          "tr": {
+            "ko": "그는 커피를 좋아한다.", "en": "He likes coffee.",
+            "ja": "彼はコーヒーが好きです。", "zh": "他喜欢咖啡。", "zh_Hant": "他喜歡咖啡。",
+            "es": "Le gusta el café.", "pt": "Ele gosta de café.",
+            "de": "Er mag Kaffee.", "fr": "Il aime le café.",
+            "it": "Gli piace il caffè.", "ru": "Ему нравится кофе.",
+            "ar": "هو يحب القهوة.", "th": "เขาชอบกาแฟ",
+            "vi": "Anh ấy thích cà phê.", "id": "Dia suka kopi."
+          }
+        },
+        {
+          "key": "nos", "kind": "subject", "subjectArg": "nosotros", "es": "Nos gusta el café.",
+          "tr": {
+            "ko": "우리는 커피를 좋아한다.", "en": "We like coffee.",
+            "ja": "私たちはコーヒーが好きです。", "zh": "我们喜欢咖啡。", "zh_Hant": "我們喜歡咖啡。",
+            "es": "Nos gusta el café.", "pt": "Nós gostamos de café.",
+            "de": "Wir mögen Kaffee.", "fr": "Nous aimons le café.",
+            "it": "Ci piace il caffè.", "ru": "Нам нравится кофе.",
+            "ar": "نحن نحب القهوة.", "th": "พวกเราชอบกาแฟ",
+            "vi": "Chúng tôi thích cà phê.", "id": "Kami suka kopi."
+          }
+        },
+        {
+          "key": "neg", "kind": "negative", "es": "No me gusta el café.",
+          "tr": {
+            "ko": "나는 커피를 좋아하지 않는다.", "en": "I don't like coffee.",
+            "ja": "私はコーヒーが好きではありません。", "zh": "我不喜欢咖啡。", "zh_Hant": "我不喜歡咖啡。",
+            "es": "No me gusta el café.", "pt": "Eu não gosto de café.",
+            "de": "Ich mag keinen Kaffee.", "fr": "Je n'aime pas le café.",
+            "it": "Non mi piace il caffè.", "ru": "Мне не нравится кофе.",
+            "ar": "أنا لا أحب القهوة.", "th": "ฉันไม่ชอบกาแฟ",
+            "vi": "Tôi không thích cà phê.", "id": "Saya tidak suka kopi."
+          }
+        },
+        {
+          "key": "q", "kind": "interrogative", "es": "¿Te gusta el café?",
+          "tr": {
+            "ko": "너는 커피를 좋아하니?", "en": "Do you like coffee?",
+            "ja": "君はコーヒーが好きですか？", "zh": "你喜欢咖啡吗？", "zh_Hant": "你喜歡咖啡嗎？",
+            "es": "¿Te gusta el café?", "pt": "Você gosta de café?",
+            "de": "Magst du Kaffee?", "fr": "Aimes-tu le café ?",
+            "it": "Ti piace il caffè?", "ru": "Тебе нравится кофе?",
+            "ar": "هل تحب القهوة؟", "th": "คุณชอบกาแฟไหม",
+            "vi": "Bạn có thích cà phê không?", "id": "Apakah kamu suka kopi?"
+          }
+        },
+        {
+          "key": "swap_chocolate", "kind": "nounSwap", "nounArg": "el chocolate", "es": "Me gusta el chocolate.",
+          "tr": {
+            "ko": "나는 초콜릿을 좋아한다.", "en": "I like chocolate.",
+            "ja": "私はチョコレートが好きです。", "zh": "我喜欢巧克力。", "zh_Hant": "我喜歡巧克力。",
+            "es": "Me gusta el chocolate.", "pt": "Eu gosto de chocolate.",
+            "de": "Ich mag Schokolade.", "fr": "J'aime le chocolat.",
+            "it": "Mi piace il cioccolato.", "ru": "Мне нравится шоколад.",
+            "ar": "أحب الشوكولاتة.", "th": "ฉันชอบช็อกโกแลต",
+            "vi": "Tôi thích sô cô la.", "id": "Saya suka cokelat."
+          }
+        },
+        {
+          "key": "swap_musica", "kind": "nounSwap", "nounArg": "la música", "es": "Me gusta la música.",
+          "tr": {
+            "ko": "나는 음악을 좋아한다.", "en": "I like music.",
+            "ja": "私は音楽が好きです。", "zh": "我喜欢音乐。", "zh_Hant": "我喜歡音樂。",
+            "es": "Me gusta la música.", "pt": "Eu gosto de música.",
+            "de": "Ich mag Musik.", "fr": "J'aime la musique.",
+            "it": "Mi piace la musica.", "ru": "Мне нравится музыка.",
+            "ar": "أحب الموسيقى.", "th": "ฉันชอบดนตรี",
+            "vi": "Tôi thích âm nhạc.", "id": "Saya suka musik."
+          }
+        },
+        {
+          "key": "swap_espanol", "kind": "nounSwap", "nounArg": "el español", "es": "Me gusta el español.",
+          "tr": {
+            "ko": "나는 스페인어를 좋아한다.", "en": "I like Spanish.",
+            "ja": "私はスペイン語が好きです。", "zh": "我喜欢西班牙语。", "zh_Hant": "我喜歡西班牙語。",
+            "es": "Me gusta el español.", "pt": "Eu gosto de espanhol.",
+            "de": "Ich mag Spanisch.", "fr": "J'aime l'espagnol.",
+            "it": "Mi piace lo spagnolo.", "ru": "Мне нравится испанский.",
+            "ar": "أحب الإسبانية.", "th": "ฉันชอบภาษาสเปน",
+            "vi": "Tôi thích tiếng Tây Ban Nha.", "id": "Saya suka bahasa Spanyol."
+          }
+        }
+      ]
+    }
+  ]
+}

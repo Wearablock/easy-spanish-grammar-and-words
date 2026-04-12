@@ -19,7 +19,9 @@ class AdConfig {
   // 전면 광고 설정
   // ============================================================
 
-  static const int interstitialMinIntervalSeconds = 60;
+  /// 전면 광고 최소 표시 간격(초). 너무 짧으면 사용자 경험 저해.
+  /// AdMob 권장: 2~3분.
+  static const int interstitialMinIntervalSeconds = 150;
 
   // ============================================================
   // 테스트 광고 ID (Google 공식 테스트 ID)

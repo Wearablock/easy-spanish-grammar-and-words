@@ -1082,6 +1082,252 @@ abstract class AppLocalizations {
   /// In ko, this message translates to:
   /// **'{count}개 주제'**
   String topicCount(int count);
+
+  /// No description provided for @speakingPractice.
+  ///
+  /// In ko, this message translates to:
+  /// **'말하기 연습'**
+  String get speakingPractice;
+
+  /// No description provided for @speakingTest.
+  ///
+  /// In ko, this message translates to:
+  /// **'말하기 테스트'**
+  String get speakingTest;
+
+  /// No description provided for @speakingFeatureDesc.
+  ///
+  /// In ko, this message translates to:
+  /// **'한 문장에서 주어·부정·의문·단어 교체로 수십 가지 변형을 발화 연습하고 테스트해보세요.'**
+  String get speakingFeatureDesc;
+
+  /// No description provided for @practice.
+  ///
+  /// In ko, this message translates to:
+  /// **'연습'**
+  String get practice;
+
+  /// No description provided for @test.
+  ///
+  /// In ko, this message translates to:
+  /// **'테스트'**
+  String get test;
+
+  /// No description provided for @cardsCount.
+  ///
+  /// In ko, this message translates to:
+  /// **'{count}개 카드'**
+  String cardsCount(int count);
+
+  /// No description provided for @loadFailedError.
+  ///
+  /// In ko, this message translates to:
+  /// **'로드 실패: {error}'**
+  String loadFailedError(String error);
+
+  /// No description provided for @noSeeds.
+  ///
+  /// In ko, this message translates to:
+  /// **'씨앗 문장이 없습니다.'**
+  String get noSeeds;
+
+  /// No description provided for @showMeaning.
+  ///
+  /// In ko, this message translates to:
+  /// **'뜻 보기'**
+  String get showMeaning;
+
+  /// No description provided for @speakAgain.
+  ///
+  /// In ko, this message translates to:
+  /// **'다시 말하기'**
+  String get speakAgain;
+
+  /// No description provided for @nextCard.
+  ///
+  /// In ko, this message translates to:
+  /// **'다음'**
+  String get nextCard;
+
+  /// No description provided for @viewResult.
+  ///
+  /// In ko, this message translates to:
+  /// **'결과 보기'**
+  String get viewResult;
+
+  /// No description provided for @listening.
+  ///
+  /// In ko, this message translates to:
+  /// **'듣고 있어요...'**
+  String get listening;
+
+  /// No description provided for @tapMicToSpeak.
+  ///
+  /// In ko, this message translates to:
+  /// **'마이크를 누르고 따라 말해보세요'**
+  String get tapMicToSpeak;
+
+  /// No description provided for @iSaid.
+  ///
+  /// In ko, this message translates to:
+  /// **'내가 말한 것'**
+  String get iSaid;
+
+  /// No description provided for @correctAnswerLabel.
+  ///
+  /// In ko, this message translates to:
+  /// **'정답'**
+  String get correctAnswerLabel;
+
+  /// No description provided for @micPermissionRequired.
+  ///
+  /// In ko, this message translates to:
+  /// **'마이크 또는 음성 인식 권한이 필요합니다. 설정에서 허용해주세요.'**
+  String get micPermissionRequired;
+
+  /// No description provided for @speechError.
+  ///
+  /// In ko, this message translates to:
+  /// **'음성 인식 오류: {error}'**
+  String speechError(String error);
+
+  /// No description provided for @practiceResult.
+  ///
+  /// In ko, this message translates to:
+  /// **'연습 결과'**
+  String get practiceResult;
+
+  /// No description provided for @testResult.
+  ///
+  /// In ko, this message translates to:
+  /// **'테스트 결과'**
+  String get testResult;
+
+  /// No description provided for @passedOfTotal.
+  ///
+  /// In ko, this message translates to:
+  /// **'{passed} / {total} 통과'**
+  String passedOfTotal(int passed, int total);
+
+  /// No description provided for @averageAccuracy.
+  ///
+  /// In ko, this message translates to:
+  /// **'평균 정확도 {percent}'**
+  String averageAccuracy(String percent);
+
+  /// No description provided for @testPassed.
+  ///
+  /// In ko, this message translates to:
+  /// **'🎉 합격!'**
+  String get testPassed;
+
+  /// No description provided for @testFailed.
+  ///
+  /// In ko, this message translates to:
+  /// **'아쉬워요. 다시 도전해봐요.'**
+  String get testFailed;
+
+  /// No description provided for @sayInSpanishHint.
+  ///
+  /// In ko, this message translates to:
+  /// **'보고 스페인어로 말하세요'**
+  String get sayInSpanishHint;
+
+  /// No description provided for @variationBase.
+  ///
+  /// In ko, this message translates to:
+  /// **'기본 문장'**
+  String get variationBase;
+
+  /// No description provided for @variationSubject.
+  ///
+  /// In ko, this message translates to:
+  /// **'주어 변경 · {subject}'**
+  String variationSubject(String subject);
+
+  /// No description provided for @variationNegative.
+  ///
+  /// In ko, this message translates to:
+  /// **'부정문'**
+  String get variationNegative;
+
+  /// No description provided for @variationInterrogative.
+  ///
+  /// In ko, this message translates to:
+  /// **'의문문'**
+  String get variationInterrogative;
+
+  /// No description provided for @variationNounSwap.
+  ///
+  /// In ko, this message translates to:
+  /// **'단어 교체 · {noun}'**
+  String variationNounSwap(String noun);
+
+  /// No description provided for @feedbackPerfect.
+  ///
+  /// In ko, this message translates to:
+  /// **'완벽해요! 🎉'**
+  String get feedbackPerfect;
+
+  /// No description provided for @feedbackGreat.
+  ///
+  /// In ko, this message translates to:
+  /// **'훌륭해요! 👏'**
+  String get feedbackGreat;
+
+  /// No description provided for @feedbackGood.
+  ///
+  /// In ko, this message translates to:
+  /// **'잘했어요. 한 번 더!'**
+  String get feedbackGood;
+
+  /// No description provided for @feedbackKeepPractice.
+  ///
+  /// In ko, this message translates to:
+  /// **'조금만 더 연습해봐요.'**
+  String get feedbackKeepPractice;
+
+  /// No description provided for @feedbackTryAgain.
+  ///
+  /// In ko, this message translates to:
+  /// **'다시 한 번 시도해봐요.'**
+  String get feedbackTryAgain;
+
+  /// No description provided for @openSettings.
+  ///
+  /// In ko, this message translates to:
+  /// **'설정 열기'**
+  String get openSettings;
+
+  /// No description provided for @attemptCounter.
+  ///
+  /// In ko, this message translates to:
+  /// **'{current}/{total} 시도'**
+  String attemptCounter(int current, int total);
+
+  /// No description provided for @playHint.
+  ///
+  /// In ko, this message translates to:
+  /// **'발음 힌트'**
+  String get playHint;
+
+  /// No description provided for @speakingReview.
+  ///
+  /// In ko, this message translates to:
+  /// **'말하기 복습'**
+  String get speakingReview;
+
+  /// No description provided for @speakingReviewDue.
+  ///
+  /// In ko, this message translates to:
+  /// **'{count}장 복습 대기'**
+  String speakingReviewDue(int count);
+
+  /// No description provided for @noReviewDue.
+  ///
+  /// In ko, this message translates to:
+  /// **'복습할 카드가 없습니다.\n다음에 다시 만나요!'**
+  String get noReviewDue;
 }
 
 class _AppLocalizationsDelegate

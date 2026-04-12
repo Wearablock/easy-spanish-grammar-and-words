@@ -1,3 +1,4 @@
+import 'dart:async';
 import 'dart:math';
 import 'package:audioplayers/audioplayers.dart';
 import 'package:vibration/vibration.dart';
@@ -45,6 +46,34 @@ class FeedbackService {
     }
     if (_vibrationEnabled && _hasVibrator) {
       Vibration.vibrate(pattern: [0, 80, 60, 80]);
+    }
+  }
+
+  /// 말하기 시작 효과음 — 마이크 버튼 탭 시 ("Adelante").
+  /// 재생 완료까지 대기하므로 녹음 시작 전 호출하면 효과음이 마이크에 잡히지 않음.
+  Future<void> playSpeakStart() async {
+    if (_soundEnabled) {
+      final completer = Completer<void>();
+      late final StreamSubscription<void> sub;
+      sub = _player.onPlayerComplete.listen((_) {
+        sub.cancel();
+        completer.complete();
+      });
+      await _player.play(AssetSource('sounds/speak_start.mp3'));
+      await completer.future;
+    }
+    if (_vibrationEnabled && _hasVibrator) {
+      Vibration.vibrate(duration: 30);
+    }
+  }
+
+  /// 말하기 종료 효과음 — 발화 평가 시작 시 ("Vale").
+  Future<void> playSpeakEnd() async {
+    if (_soundEnabled) {
+      await _player.play(AssetSource('sounds/speak_end.mp3'));
+    }
+    if (_vibrationEnabled && _hasVibrator) {
+      Vibration.vibrate(duration: 40);
     }
   }
 

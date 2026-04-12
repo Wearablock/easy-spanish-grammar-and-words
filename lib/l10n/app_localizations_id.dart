@@ -182,7 +182,7 @@ class AppLocalizationsId extends AppLocalizations {
   String get goodJob => 'Kerja bagus!';
 
   @override
-  String get goHome => 'Ke beranda';
+  String get goHome => 'Beranda';
 
   @override
   String get accuracy => 'Akurasi';
@@ -523,4 +523,147 @@ class AppLocalizationsId extends AppLocalizations {
   String topicCount(int count) {
     return '$count topik';
   }
+
+  @override
+  String get speakingPractice => 'Latihan Berbicara';
+
+  @override
+  String get speakingTest => 'Tes Berbicara';
+
+  @override
+  String get speakingFeatureDesc =>
+      'Latih dan uji puluhan variasi dari satu kalimat: ubah subjek, negasi, pertanyaan, ganti kata.';
+
+  @override
+  String get practice => 'Latih';
+
+  @override
+  String get test => 'Tes';
+
+  @override
+  String cardsCount(int count) {
+    return '$count kartu';
+  }
+
+  @override
+  String loadFailedError(String error) {
+    return 'Gagal memuat: $error';
+  }
+
+  @override
+  String get noSeeds => 'Tidak ada kalimat dasar.';
+
+  @override
+  String get showMeaning => 'Lihat arti';
+
+  @override
+  String get speakAgain => 'Bicara lagi';
+
+  @override
+  String get nextCard => 'Berikutnya';
+
+  @override
+  String get viewResult => 'Lihat hasil';
+
+  @override
+  String get listening => 'Mendengarkan…';
+
+  @override
+  String get tapMicToSpeak => 'Ketuk mikrofon dan ulangi';
+
+  @override
+  String get iSaid => 'Yang kamu ucapkan';
+
+  @override
+  String get correctAnswerLabel => 'Jawaban';
+
+  @override
+  String get micPermissionRequired =>
+      'Izin mikrofon dan pengenalan suara diperlukan. Aktifkan di Pengaturan.';
+
+  @override
+  String speechError(String error) {
+    return 'Kesalahan pengenalan suara: $error';
+  }
+
+  @override
+  String get practiceResult => 'Hasil latihan';
+
+  @override
+  String get testResult => 'Hasil tes';
+
+  @override
+  String passedOfTotal(int passed, int total) {
+    return '$passed / $total lulus';
+  }
+
+  @override
+  String averageAccuracy(String percent) {
+    return 'Akurasi rata-rata $percent';
+  }
+
+  @override
+  String get testPassed => '🎉 Lulus!';
+
+  @override
+  String get testFailed => 'Hampir. Coba lagi!';
+
+  @override
+  String get sayInSpanishHint => 'Lihat dan ucapkan dalam bahasa Spanyol';
+
+  @override
+  String get variationBase => 'Kalimat dasar';
+
+  @override
+  String variationSubject(String subject) {
+    return 'Subjek · $subject';
+  }
+
+  @override
+  String get variationNegative => 'Negasi';
+
+  @override
+  String get variationInterrogative => 'Pertanyaan';
+
+  @override
+  String variationNounSwap(String noun) {
+    return 'Ganti kata · $noun';
+  }
+
+  @override
+  String get feedbackPerfect => 'Sempurna! 🎉';
+
+  @override
+  String get feedbackGreat => 'Hebat! 👏';
+
+  @override
+  String get feedbackGood => 'Bagus. Sekali lagi!';
+
+  @override
+  String get feedbackKeepPractice => 'Terus berlatih.';
+
+  @override
+  String get feedbackTryAgain => 'Coba lagi.';
+
+  @override
+  String get openSettings => 'Buka Pengaturan';
+
+  @override
+  String attemptCounter(int current, int total) {
+    return 'Percobaan $current/$total';
+  }
+
+  @override
+  String get playHint => 'Petunjuk pengucapan';
+
+  @override
+  String get speakingReview => 'Ulasan Berbicara';
+
+  @override
+  String speakingReviewDue(int count) {
+    return '$count kartu untuk diulas';
+  }
+
+  @override
+  String get noReviewDue => 'Tidak ada kartu untuk diulas.\nSampai jumpa!';
 }

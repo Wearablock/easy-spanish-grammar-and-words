@@ -183,7 +183,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get goodJob => 'Ottimo lavoro!';
 
   @override
-  String get goHome => 'Vai alla home';
+  String get goHome => 'Home';
 
   @override
   String get accuracy => 'Precisione';
@@ -525,4 +525,147 @@ class AppLocalizationsIt extends AppLocalizations {
   String topicCount(int count) {
     return '$count argomenti';
   }
+
+  @override
+  String get speakingPractice => 'Pratica di Conversazione';
+
+  @override
+  String get speakingTest => 'Test di Conversazione';
+
+  @override
+  String get speakingFeatureDesc =>
+      'Esercitati con decine di variazioni di una frase: cambia soggetto, nega, chiedi, scambia parole.';
+
+  @override
+  String get practice => 'Pratica';
+
+  @override
+  String get test => 'Test';
+
+  @override
+  String cardsCount(int count) {
+    return '$count carte';
+  }
+
+  @override
+  String loadFailedError(String error) {
+    return 'Caricamento fallito: $error';
+  }
+
+  @override
+  String get noSeeds => 'Nessuna frase base disponibile.';
+
+  @override
+  String get showMeaning => 'Mostra significato';
+
+  @override
+  String get speakAgain => 'Parla ancora';
+
+  @override
+  String get nextCard => 'Avanti';
+
+  @override
+  String get viewResult => 'Vedi risultato';
+
+  @override
+  String get listening => 'In ascolto…';
+
+  @override
+  String get tapMicToSpeak => 'Tocca il microfono e ripeti';
+
+  @override
+  String get iSaid => 'Quello che hai detto';
+
+  @override
+  String get correctAnswerLabel => 'Risposta';
+
+  @override
+  String get micPermissionRequired =>
+      'Servono i permessi per microfono e riconoscimento vocale. Abilitali nelle Impostazioni.';
+
+  @override
+  String speechError(String error) {
+    return 'Errore riconoscimento vocale: $error';
+  }
+
+  @override
+  String get practiceResult => 'Risultato pratica';
+
+  @override
+  String get testResult => 'Risultato test';
+
+  @override
+  String passedOfTotal(int passed, int total) {
+    return '$passed / $total superate';
+  }
+
+  @override
+  String averageAccuracy(String percent) {
+    return 'Precisione media $percent';
+  }
+
+  @override
+  String get testPassed => '🎉 Superato!';
+
+  @override
+  String get testFailed => 'Ci sei quasi. Riprova!';
+
+  @override
+  String get sayInSpanishHint => 'Guarda e dillo in spagnolo';
+
+  @override
+  String get variationBase => 'Frase base';
+
+  @override
+  String variationSubject(String subject) {
+    return 'Soggetto · $subject';
+  }
+
+  @override
+  String get variationNegative => 'Negativa';
+
+  @override
+  String get variationInterrogative => 'Domanda';
+
+  @override
+  String variationNounSwap(String noun) {
+    return 'Cambio parola · $noun';
+  }
+
+  @override
+  String get feedbackPerfect => 'Perfetto! 🎉';
+
+  @override
+  String get feedbackGreat => 'Ottimo! 👏';
+
+  @override
+  String get feedbackGood => 'Bene. Ancora una volta!';
+
+  @override
+  String get feedbackKeepPractice => 'Continua a esercitarti.';
+
+  @override
+  String get feedbackTryAgain => 'Riprova.';
+
+  @override
+  String get openSettings => 'Apri Impostazioni';
+
+  @override
+  String attemptCounter(int current, int total) {
+    return 'Tentativo $current/$total';
+  }
+
+  @override
+  String get playHint => 'Suggerimento di pronuncia';
+
+  @override
+  String get speakingReview => 'Ripasso di Conversazione';
+
+  @override
+  String speakingReviewDue(int count) {
+    return '$count carte da ripassare';
+  }
+
+  @override
+  String get noReviewDue => 'Nessuna carta da ripassare.\nAlla prossima!';
 }

@@ -182,7 +182,7 @@ class AppLocalizationsTh extends AppLocalizations {
   String get goodJob => 'ดีมาก!';
 
   @override
-  String get goHome => 'กลับหน้าหลัก';
+  String get goHome => 'หน้าหลัก';
 
   @override
   String get accuracy => 'ความแม่นยำ';
@@ -521,4 +521,147 @@ class AppLocalizationsTh extends AppLocalizations {
   String topicCount(int count) {
     return '$count หัวข้อ';
   }
+
+  @override
+  String get speakingPractice => 'ฝึกพูด';
+
+  @override
+  String get speakingTest => 'ทดสอบการพูด';
+
+  @override
+  String get speakingFeatureDesc =>
+      'ฝึกและทดสอบการพูดประโยคหลายสิบรูปแบบจากประโยคเดียว: เปลี่ยนประธาน ปฏิเสธ คำถาม สลับคำ';
+
+  @override
+  String get practice => 'ฝึก';
+
+  @override
+  String get test => 'ทดสอบ';
+
+  @override
+  String cardsCount(int count) {
+    return '$count การ์ด';
+  }
+
+  @override
+  String loadFailedError(String error) {
+    return 'โหลดล้มเหลว: $error';
+  }
+
+  @override
+  String get noSeeds => 'ไม่มีประโยคต้นแบบ';
+
+  @override
+  String get showMeaning => 'ดูความหมาย';
+
+  @override
+  String get speakAgain => 'พูดอีกครั้ง';
+
+  @override
+  String get nextCard => 'ถัดไป';
+
+  @override
+  String get viewResult => 'ดูผลลัพธ์';
+
+  @override
+  String get listening => 'กำลังฟัง…';
+
+  @override
+  String get tapMicToSpeak => 'แตะไมค์แล้วพูดตาม';
+
+  @override
+  String get iSaid => 'สิ่งที่คุณพูด';
+
+  @override
+  String get correctAnswerLabel => 'คำตอบ';
+
+  @override
+  String get micPermissionRequired =>
+      'ต้องอนุญาตไมโครโฟนและการรู้จำเสียง โปรดเปิดในการตั้งค่า';
+
+  @override
+  String speechError(String error) {
+    return 'ข้อผิดพลาดการรู้จำเสียง: $error';
+  }
+
+  @override
+  String get practiceResult => 'ผลการฝึก';
+
+  @override
+  String get testResult => 'ผลการทดสอบ';
+
+  @override
+  String passedOfTotal(int passed, int total) {
+    return 'ผ่าน $passed / $total';
+  }
+
+  @override
+  String averageAccuracy(String percent) {
+    return 'ความแม่นยำเฉลี่ย $percent';
+  }
+
+  @override
+  String get testPassed => '🎉 ผ่าน!';
+
+  @override
+  String get testFailed => 'เกือบแล้ว ลองอีกครั้ง!';
+
+  @override
+  String get sayInSpanishHint => 'ดูแล้วพูดเป็นภาษาสเปน';
+
+  @override
+  String get variationBase => 'ประโยคพื้นฐาน';
+
+  @override
+  String variationSubject(String subject) {
+    return 'ประธาน · $subject';
+  }
+
+  @override
+  String get variationNegative => 'ปฏิเสธ';
+
+  @override
+  String get variationInterrogative => 'คำถาม';
+
+  @override
+  String variationNounSwap(String noun) {
+    return 'เปลี่ยนคำ · $noun';
+  }
+
+  @override
+  String get feedbackPerfect => 'เยี่ยมมาก! 🎉';
+
+  @override
+  String get feedbackGreat => 'ดีมาก! 👏';
+
+  @override
+  String get feedbackGood => 'ดี ลองอีกครั้ง!';
+
+  @override
+  String get feedbackKeepPractice => 'ฝึกต่อไป';
+
+  @override
+  String get feedbackTryAgain => 'ลองอีกครั้ง';
+
+  @override
+  String get openSettings => 'เปิดการตั้งค่า';
+
+  @override
+  String attemptCounter(int current, int total) {
+    return 'ครั้งที่ $current/$total';
+  }
+
+  @override
+  String get playHint => 'คำใบ้การออกเสียง';
+
+  @override
+  String get speakingReview => 'ทบทวนการพูด';
+
+  @override
+  String speakingReviewDue(int count) {
+    return '$count การ์ดรอทบทวน';
+  }
+
+  @override
+  String get noReviewDue => 'ไม่มีการ์ดให้ทบทวน\nแล้วพบกันใหม่!';
 }

@@ -183,7 +183,7 @@ class AppLocalizationsEn extends AppLocalizations {
   String get goodJob => 'Good job!';
 
   @override
-  String get goHome => 'Go Home';
+  String get goHome => 'Go home';
 
   @override
   String get accuracy => 'Accuracy';
@@ -524,4 +524,147 @@ class AppLocalizationsEn extends AppLocalizations {
   String topicCount(int count) {
     return '$count topics';
   }
+
+  @override
+  String get speakingPractice => 'Speaking Practice';
+
+  @override
+  String get speakingTest => 'Speaking Test';
+
+  @override
+  String get speakingFeatureDesc =>
+      'Practice and test dozens of variations from one sentence: change subject, negate, ask, swap words.';
+
+  @override
+  String get practice => 'Practice';
+
+  @override
+  String get test => 'Test';
+
+  @override
+  String cardsCount(int count) {
+    return '$count cards';
+  }
+
+  @override
+  String loadFailedError(String error) {
+    return 'Load failed: $error';
+  }
+
+  @override
+  String get noSeeds => 'No seed sentences available.';
+
+  @override
+  String get showMeaning => 'Show meaning';
+
+  @override
+  String get speakAgain => 'Speak again';
+
+  @override
+  String get nextCard => 'Next';
+
+  @override
+  String get viewResult => 'View result';
+
+  @override
+  String get listening => 'Listening...';
+
+  @override
+  String get tapMicToSpeak => 'Tap the mic and repeat';
+
+  @override
+  String get iSaid => 'What you said';
+
+  @override
+  String get correctAnswerLabel => 'Answer';
+
+  @override
+  String get micPermissionRequired =>
+      'Microphone and speech recognition permission is required. Please allow it in Settings.';
+
+  @override
+  String speechError(String error) {
+    return 'Speech recognition error: $error';
+  }
+
+  @override
+  String get practiceResult => 'Practice Result';
+
+  @override
+  String get testResult => 'Test Result';
+
+  @override
+  String passedOfTotal(int passed, int total) {
+    return '$passed / $total passed';
+  }
+
+  @override
+  String averageAccuracy(String percent) {
+    return 'Average accuracy $percent';
+  }
+
+  @override
+  String get testPassed => '🎉 Passed!';
+
+  @override
+  String get testFailed => 'Not yet. Try again!';
+
+  @override
+  String get sayInSpanishHint => 'Look and say it in Spanish';
+
+  @override
+  String get variationBase => 'Base sentence';
+
+  @override
+  String variationSubject(String subject) {
+    return 'Subject · $subject';
+  }
+
+  @override
+  String get variationNegative => 'Negative';
+
+  @override
+  String get variationInterrogative => 'Question';
+
+  @override
+  String variationNounSwap(String noun) {
+    return 'Word swap · $noun';
+  }
+
+  @override
+  String get feedbackPerfect => 'Perfect! 🎉';
+
+  @override
+  String get feedbackGreat => 'Great! 👏';
+
+  @override
+  String get feedbackGood => 'Good. One more time!';
+
+  @override
+  String get feedbackKeepPractice => 'Keep practicing.';
+
+  @override
+  String get feedbackTryAgain => 'Try again.';
+
+  @override
+  String get openSettings => 'Open Settings';
+
+  @override
+  String attemptCounter(int current, int total) {
+    return 'Attempt $current/$total';
+  }
+
+  @override
+  String get playHint => 'Pronunciation Hint';
+
+  @override
+  String get speakingReview => 'Speaking Review';
+
+  @override
+  String speakingReviewDue(int count) {
+    return '$count cards to review';
+  }
+
+  @override
+  String get noReviewDue => 'No cards to review.\nSee you next time!';
 }

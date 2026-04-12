@@ -182,7 +182,7 @@ class AppLocalizationsVi extends AppLocalizations {
   String get goodJob => 'Tốt lắm!';
 
   @override
-  String get goHome => 'Về trang chủ';
+  String get goHome => 'Trang chủ';
 
   @override
   String get accuracy => 'Độ chính xác';
@@ -523,4 +523,147 @@ class AppLocalizationsVi extends AppLocalizations {
   String topicCount(int count) {
     return '$count chủ đề';
   }
+
+  @override
+  String get speakingPractice => 'Luyện Nói';
+
+  @override
+  String get speakingTest => 'Kiểm Tra Nói';
+
+  @override
+  String get speakingFeatureDesc =>
+      'Luyện và kiểm tra hàng chục biến thể từ một câu: đổi chủ ngữ, phủ định, câu hỏi, đổi từ.';
+
+  @override
+  String get practice => 'Luyện';
+
+  @override
+  String get test => 'Kiểm tra';
+
+  @override
+  String cardsCount(int count) {
+    return '$count thẻ';
+  }
+
+  @override
+  String loadFailedError(String error) {
+    return 'Tải thất bại: $error';
+  }
+
+  @override
+  String get noSeeds => 'Chưa có câu mẫu.';
+
+  @override
+  String get showMeaning => 'Xem nghĩa';
+
+  @override
+  String get speakAgain => 'Nói lại';
+
+  @override
+  String get nextCard => 'Tiếp';
+
+  @override
+  String get viewResult => 'Xem kết quả';
+
+  @override
+  String get listening => 'Đang nghe…';
+
+  @override
+  String get tapMicToSpeak => 'Chạm micro và nhắc lại';
+
+  @override
+  String get iSaid => 'Bạn đã nói';
+
+  @override
+  String get correctAnswerLabel => 'Đáp án';
+
+  @override
+  String get micPermissionRequired =>
+      'Cần cấp quyền micro và nhận diện giọng nói. Vui lòng bật trong Cài đặt.';
+
+  @override
+  String speechError(String error) {
+    return 'Lỗi nhận diện giọng nói: $error';
+  }
+
+  @override
+  String get practiceResult => 'Kết quả luyện';
+
+  @override
+  String get testResult => 'Kết quả kiểm tra';
+
+  @override
+  String passedOfTotal(int passed, int total) {
+    return '$passed / $total đạt';
+  }
+
+  @override
+  String averageAccuracy(String percent) {
+    return 'Độ chính xác trung bình $percent';
+  }
+
+  @override
+  String get testPassed => '🎉 Đạt!';
+
+  @override
+  String get testFailed => 'Suýt rồi. Thử lại nhé!';
+
+  @override
+  String get sayInSpanishHint => 'Xem và nói bằng tiếng Tây Ban Nha';
+
+  @override
+  String get variationBase => 'Câu gốc';
+
+  @override
+  String variationSubject(String subject) {
+    return 'Chủ ngữ · $subject';
+  }
+
+  @override
+  String get variationNegative => 'Phủ định';
+
+  @override
+  String get variationInterrogative => 'Câu hỏi';
+
+  @override
+  String variationNounSwap(String noun) {
+    return 'Đổi từ · $noun';
+  }
+
+  @override
+  String get feedbackPerfect => 'Tuyệt vời! 🎉';
+
+  @override
+  String get feedbackGreat => 'Rất tốt! 👏';
+
+  @override
+  String get feedbackGood => 'Khá. Thêm lần nữa!';
+
+  @override
+  String get feedbackKeepPractice => 'Cứ luyện tập tiếp.';
+
+  @override
+  String get feedbackTryAgain => 'Thử lại.';
+
+  @override
+  String get openSettings => 'Mở Cài đặt';
+
+  @override
+  String attemptCounter(int current, int total) {
+    return 'Lần $current/$total';
+  }
+
+  @override
+  String get playHint => 'Gợi ý phát âm';
+
+  @override
+  String get speakingReview => 'Ôn tập Nói';
+
+  @override
+  String speakingReviewDue(int count) {
+    return '$count thẻ chờ ôn tập';
+  }
+
+  @override
+  String get noReviewDue => 'Không có thẻ nào để ôn.\nHẹn gặp lại!';
 }

@@ -515,4 +515,146 @@ class AppLocalizationsJa extends AppLocalizations {
   String topicCount(int count) {
     return '$countトピック';
   }
+
+  @override
+  String get speakingPractice => 'スピーキング練習';
+
+  @override
+  String get speakingTest => 'スピーキングテスト';
+
+  @override
+  String get speakingFeatureDesc =>
+      '1つの文から主語・否定・疑問・単語の入れ替えで何十ものバリエーションを発話練習・テストできます。';
+
+  @override
+  String get practice => '練習';
+
+  @override
+  String get test => 'テスト';
+
+  @override
+  String cardsCount(int count) {
+    return '$count枚のカード';
+  }
+
+  @override
+  String loadFailedError(String error) {
+    return '読み込み失敗: $error';
+  }
+
+  @override
+  String get noSeeds => '種となる文がありません。';
+
+  @override
+  String get showMeaning => '意味を見る';
+
+  @override
+  String get speakAgain => 'もう一度言う';
+
+  @override
+  String get nextCard => '次へ';
+
+  @override
+  String get viewResult => '結果を見る';
+
+  @override
+  String get listening => '聞いています…';
+
+  @override
+  String get tapMicToSpeak => 'マイクを押して発音してください';
+
+  @override
+  String get iSaid => 'あなたが言ったこと';
+
+  @override
+  String get correctAnswerLabel => '正解';
+
+  @override
+  String get micPermissionRequired => 'マイクと音声認識の権限が必要です。設定で許可してください。';
+
+  @override
+  String speechError(String error) {
+    return '音声認識エラー: $error';
+  }
+
+  @override
+  String get practiceResult => '練習結果';
+
+  @override
+  String get testResult => 'テスト結果';
+
+  @override
+  String passedOfTotal(int passed, int total) {
+    return '$passed / $total 合格';
+  }
+
+  @override
+  String averageAccuracy(String percent) {
+    return '平均正確度 $percent';
+  }
+
+  @override
+  String get testPassed => '🎉 合格！';
+
+  @override
+  String get testFailed => '残念。もう一度挑戦しましょう。';
+
+  @override
+  String get sayInSpanishHint => '見てスペイン語で言いましょう';
+
+  @override
+  String get variationBase => '基本文';
+
+  @override
+  String variationSubject(String subject) {
+    return '主語変更 · $subject';
+  }
+
+  @override
+  String get variationNegative => '否定文';
+
+  @override
+  String get variationInterrogative => '疑問文';
+
+  @override
+  String variationNounSwap(String noun) {
+    return '単語入れ替え · $noun';
+  }
+
+  @override
+  String get feedbackPerfect => '完璧です！🎉';
+
+  @override
+  String get feedbackGreat => '素晴らしい！👏';
+
+  @override
+  String get feedbackGood => '良いです。もう一度！';
+
+  @override
+  String get feedbackKeepPractice => 'もう少し練習しましょう。';
+
+  @override
+  String get feedbackTryAgain => 'もう一度試してください。';
+
+  @override
+  String get openSettings => '設定を開く';
+
+  @override
+  String attemptCounter(int current, int total) {
+    return '$current/$total 回目';
+  }
+
+  @override
+  String get playHint => '発音ヒント';
+
+  @override
+  String get speakingReview => 'スピーキング復習';
+
+  @override
+  String speakingReviewDue(int count) {
+    return '$count枚復習待ち';
+  }
+
+  @override
+  String get noReviewDue => '復習するカードがありません。\nまた次回!';
 }

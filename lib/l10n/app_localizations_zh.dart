@@ -515,6 +515,147 @@ class AppLocalizationsZh extends AppLocalizations {
   String topicCount(int count) {
     return '$count个主题';
   }
+
+  @override
+  String get speakingPractice => '口语练习';
+
+  @override
+  String get speakingTest => '口语测试';
+
+  @override
+  String get speakingFeatureDesc => '从一个句子开始，通过更换主语、否定、疑问、替换词汇练习数十种变体。';
+
+  @override
+  String get practice => '练习';
+
+  @override
+  String get test => '测试';
+
+  @override
+  String cardsCount(int count) {
+    return '$count张卡片';
+  }
+
+  @override
+  String loadFailedError(String error) {
+    return '加载失败: $error';
+  }
+
+  @override
+  String get noSeeds => '暂无种子句子。';
+
+  @override
+  String get showMeaning => '查看含义';
+
+  @override
+  String get speakAgain => '再说一次';
+
+  @override
+  String get nextCard => '下一个';
+
+  @override
+  String get viewResult => '查看结果';
+
+  @override
+  String get listening => '正在聆听…';
+
+  @override
+  String get tapMicToSpeak => '点击麦克风跟读';
+
+  @override
+  String get iSaid => '你说的';
+
+  @override
+  String get correctAnswerLabel => '答案';
+
+  @override
+  String get micPermissionRequired => '需要麦克风和语音识别权限。请在设置中允许。';
+
+  @override
+  String speechError(String error) {
+    return '语音识别错误: $error';
+  }
+
+  @override
+  String get practiceResult => '练习结果';
+
+  @override
+  String get testResult => '测试结果';
+
+  @override
+  String passedOfTotal(int passed, int total) {
+    return '$passed / $total 通过';
+  }
+
+  @override
+  String averageAccuracy(String percent) {
+    return '平均准确率 $percent';
+  }
+
+  @override
+  String get testPassed => '🎉 通过！';
+
+  @override
+  String get testFailed => '再接再厉，再试一次！';
+
+  @override
+  String get sayInSpanishHint => '看后用西班牙语说';
+
+  @override
+  String get variationBase => '基础句';
+
+  @override
+  String variationSubject(String subject) {
+    return '主语 · $subject';
+  }
+
+  @override
+  String get variationNegative => '否定句';
+
+  @override
+  String get variationInterrogative => '疑问句';
+
+  @override
+  String variationNounSwap(String noun) {
+    return '替换词 · $noun';
+  }
+
+  @override
+  String get feedbackPerfect => '完美！🎉';
+
+  @override
+  String get feedbackGreat => '很棒！👏';
+
+  @override
+  String get feedbackGood => '不错，再来一次！';
+
+  @override
+  String get feedbackKeepPractice => '再多练习一下。';
+
+  @override
+  String get feedbackTryAgain => '再试一次。';
+
+  @override
+  String get openSettings => '打开设置';
+
+  @override
+  String attemptCounter(int current, int total) {
+    return '第 $current/$total 次';
+  }
+
+  @override
+  String get playHint => '发音提示';
+
+  @override
+  String get speakingReview => '口语复习';
+
+  @override
+  String speakingReviewDue(int count) {
+    return '$count 张待复习';
+  }
+
+  @override
+  String get noReviewDue => '暂无需要复习的卡片。\n下次再见!';
 }
 
 /// The translations for Chinese, using the Han script (`zh_Hant`).
@@ -1028,4 +1169,145 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
   String topicCount(int count) {
     return '$count個主題';
   }
+
+  @override
+  String get speakingPractice => '口語練習';
+
+  @override
+  String get speakingTest => '口語測試';
+
+  @override
+  String get speakingFeatureDesc => '從一個句子開始，透過更換主語、否定、疑問、替換詞彙練習數十種變化。';
+
+  @override
+  String get practice => '練習';
+
+  @override
+  String get test => '測試';
+
+  @override
+  String cardsCount(int count) {
+    return '$count張卡片';
+  }
+
+  @override
+  String loadFailedError(String error) {
+    return '載入失敗: $error';
+  }
+
+  @override
+  String get noSeeds => '尚無種子句子。';
+
+  @override
+  String get showMeaning => '查看含義';
+
+  @override
+  String get speakAgain => '再說一次';
+
+  @override
+  String get nextCard => '下一個';
+
+  @override
+  String get viewResult => '查看結果';
+
+  @override
+  String get listening => '正在聆聽…';
+
+  @override
+  String get tapMicToSpeak => '點擊麥克風跟讀';
+
+  @override
+  String get iSaid => '你說的';
+
+  @override
+  String get correctAnswerLabel => '答案';
+
+  @override
+  String get micPermissionRequired => '需要麥克風和語音辨識權限。請在設定中允許。';
+
+  @override
+  String speechError(String error) {
+    return '語音辨識錯誤: $error';
+  }
+
+  @override
+  String get practiceResult => '練習結果';
+
+  @override
+  String get testResult => '測試結果';
+
+  @override
+  String passedOfTotal(int passed, int total) {
+    return '$passed / $total 通過';
+  }
+
+  @override
+  String averageAccuracy(String percent) {
+    return '平均準確率 $percent';
+  }
+
+  @override
+  String get testPassed => '🎉 通過！';
+
+  @override
+  String get testFailed => '再接再厲，再試一次！';
+
+  @override
+  String get sayInSpanishHint => '看後用西班牙語說';
+
+  @override
+  String get variationBase => '基礎句';
+
+  @override
+  String variationSubject(String subject) {
+    return '主語 · $subject';
+  }
+
+  @override
+  String get variationNegative => '否定句';
+
+  @override
+  String get variationInterrogative => '疑問句';
+
+  @override
+  String variationNounSwap(String noun) {
+    return '替換詞 · $noun';
+  }
+
+  @override
+  String get feedbackPerfect => '完美！🎉';
+
+  @override
+  String get feedbackGreat => '很棒！👏';
+
+  @override
+  String get feedbackGood => '不錯，再來一次！';
+
+  @override
+  String get feedbackKeepPractice => '再多練習一下。';
+
+  @override
+  String get feedbackTryAgain => '再試一次。';
+
+  @override
+  String get openSettings => '開啟設定';
+
+  @override
+  String attemptCounter(int current, int total) {
+    return '第 $current/$total 次';
+  }
+
+  @override
+  String get playHint => '發音提示';
+
+  @override
+  String get speakingReview => '口語複習';
+
+  @override
+  String speakingReviewDue(int count) {
+    return '$count 張待複習';
+  }
+
+  @override
+  String get noReviewDue => '暫無需要複習的卡片。\n下次再見!';
 }

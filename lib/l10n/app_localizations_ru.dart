@@ -525,4 +525,147 @@ class AppLocalizationsRu extends AppLocalizations {
   String topicCount(int count) {
     return '$count тем';
   }
+
+  @override
+  String get speakingPractice => 'Разговорная практика';
+
+  @override
+  String get speakingTest => 'Разговорный тест';
+
+  @override
+  String get speakingFeatureDesc =>
+      'Тренируйте десятки вариантов одной фразы: смена подлежащего, отрицание, вопрос, замена слов.';
+
+  @override
+  String get practice => 'Практика';
+
+  @override
+  String get test => 'Тест';
+
+  @override
+  String cardsCount(int count) {
+    return 'Карточек: $count';
+  }
+
+  @override
+  String loadFailedError(String error) {
+    return 'Ошибка загрузки: $error';
+  }
+
+  @override
+  String get noSeeds => 'Базовых фраз нет.';
+
+  @override
+  String get showMeaning => 'Показать значение';
+
+  @override
+  String get speakAgain => 'Сказать снова';
+
+  @override
+  String get nextCard => 'Далее';
+
+  @override
+  String get viewResult => 'Результат';
+
+  @override
+  String get listening => 'Слушаю…';
+
+  @override
+  String get tapMicToSpeak => 'Нажмите микрофон и повторите';
+
+  @override
+  String get iSaid => 'Вы сказали';
+
+  @override
+  String get correctAnswerLabel => 'Ответ';
+
+  @override
+  String get micPermissionRequired =>
+      'Нужны разрешения микрофона и распознавания речи. Включите в настройках.';
+
+  @override
+  String speechError(String error) {
+    return 'Ошибка распознавания: $error';
+  }
+
+  @override
+  String get practiceResult => 'Результат практики';
+
+  @override
+  String get testResult => 'Результат теста';
+
+  @override
+  String passedOfTotal(int passed, int total) {
+    return '$passed / $total пройдено';
+  }
+
+  @override
+  String averageAccuracy(String percent) {
+    return 'Средняя точность $percent';
+  }
+
+  @override
+  String get testPassed => '🎉 Сдано!';
+
+  @override
+  String get testFailed => 'Почти. Попробуйте ещё раз!';
+
+  @override
+  String get sayInSpanishHint => 'Скажите это по-испански';
+
+  @override
+  String get variationBase => 'Базовая фраза';
+
+  @override
+  String variationSubject(String subject) {
+    return 'Подлежащее · $subject';
+  }
+
+  @override
+  String get variationNegative => 'Отрицание';
+
+  @override
+  String get variationInterrogative => 'Вопрос';
+
+  @override
+  String variationNounSwap(String noun) {
+    return 'Замена слова · $noun';
+  }
+
+  @override
+  String get feedbackPerfect => 'Идеально! 🎉';
+
+  @override
+  String get feedbackGreat => 'Отлично! 👏';
+
+  @override
+  String get feedbackGood => 'Хорошо. Ещё раз!';
+
+  @override
+  String get feedbackKeepPractice => 'Продолжайте практиковаться.';
+
+  @override
+  String get feedbackTryAgain => 'Попробуйте снова.';
+
+  @override
+  String get openSettings => 'Открыть настройки';
+
+  @override
+  String attemptCounter(int current, int total) {
+    return 'Попытка $current/$total';
+  }
+
+  @override
+  String get playHint => 'Подсказка произношения';
+
+  @override
+  String get speakingReview => 'Повторение разговора';
+
+  @override
+  String speakingReviewDue(int count) {
+    return 'Карточек к повторению: $count';
+  }
+
+  @override
+  String get noReviewDue => 'Нет карточек для повторения.\nДо следующего раза!';
 }

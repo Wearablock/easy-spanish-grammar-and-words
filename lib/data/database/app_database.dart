@@ -8,10 +8,14 @@ import 'tables/study_records.dart';
 import 'tables/wrong_answers.dart';
 import 'tables/daily_stats.dart';
 import 'tables/user_settings.dart';
+import 'tables/speaking_records.dart';
+import 'tables/speaking_progress.dart';
 import 'daos/study_records_dao.dart';
 import 'daos/user_settings_dao.dart';
 import 'daos/daily_stats_dao.dart';
 import 'daos/wrong_answers_dao.dart';
+import 'daos/speaking_records_dao.dart';
+import 'daos/speaking_progress_dao.dart';
 
 part 'app_database.g.dart';
 
@@ -21,12 +25,16 @@ part 'app_database.g.dart';
     WrongAnswers,
     DailyStats,
     UserSettings,
+    SpeakingRecords,
+    SpeakingProgress,
   ],
   daos: [
     StudyRecordsDao,
     UserSettingsDao,
     DailyStatsDao,
     WrongAnswersDao,
+    SpeakingRecordsDao,
+    SpeakingProgressDao,
   ],
 )
 class AppDatabase extends _$AppDatabase {
@@ -37,7 +45,7 @@ class AppDatabase extends _$AppDatabase {
   AppDatabase._internal() : super(_openConnection());
 
   @override
-  int get schemaVersion => 1;
+  int get schemaVersion => 3;
 
   @override
   MigrationStrategy get migration {
@@ -46,7 +54,12 @@ class AppDatabase extends _$AppDatabase {
         await m.createAll();
       },
       onUpgrade: (Migrator m, int from, int to) async {
-        // 향후 스키마 변경 시 마이그레이션 로직 추가
+        if (from < 2) {
+          await m.createTable(speakingRecords);
+        }
+        if (from < 3) {
+          await m.createTable(speakingProgress);
+        }
       },
     );
   }
@@ -59,6 +72,10 @@ class AppDatabase extends _$AppDatabase {
   DailyStatsDao get dailyStatsDao => DailyStatsDao(this);
   @override
   WrongAnswersDao get wrongAnswersDao => WrongAnswersDao(this);
+  @override
+  SpeakingRecordsDao get speakingRecordsDao => SpeakingRecordsDao(this);
+  @override
+  SpeakingProgressDao get speakingProgressDao => SpeakingProgressDao(this);
 }
 
 LazyDatabase _openConnection() {

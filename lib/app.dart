@@ -1,4 +1,5 @@
 import 'dart:io';
+import 'dart:ui';
 
 import 'package:app_tracking_transparency/app_tracking_transparency.dart';
 import 'package:flutter/material.dart';
@@ -120,7 +121,10 @@ class _AppHomeState extends ConsumerState<_AppHome> {
     }
 
     if (!_onboardingCompleted!) {
+      final countryCode = PlatformDispatcher.instance.locale.countryCode;
+
       return UpgradeAlert(
+        upgrader: Upgrader(countryCode: countryCode),
         showIgnore: false,
         showLater: true,
         child: OnboardingScreen(
@@ -129,7 +133,10 @@ class _AppHomeState extends ConsumerState<_AppHome> {
       );
     }
 
+    final countryCode = PlatformDispatcher.instance.locale.countryCode;
+
     return UpgradeAlert(
+      upgrader: Upgrader(countryCode: countryCode),
       showIgnore: false,
       showLater: true,
       child: const MainShell(),

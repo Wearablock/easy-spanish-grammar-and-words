@@ -278,5 +278,81 @@
     "placeholders": {
       "count": {"type": "int"}
     }
-  }
+  },
+
+  "speakingPractice": "말하기 연습",
+  "speakingTest": "말하기 테스트",
+  "speakingFeatureDesc": "한 문장에서 주어·부정·의문·단어 교체로 수십 가지 변형을 발화 연습하고 테스트해보세요.",
+  "practice": "연습",
+  "test": "테스트",
+  "cardsCount": "{count}개 카드",
+  "@cardsCount": {
+    "placeholders": { "count": {"type": "int"} }
+  },
+  "loadFailedError": "로드 실패: {error}",
+  "@loadFailedError": {
+    "placeholders": { "error": {"type": "String"} }
+  },
+  "noSeeds": "씨앗 문장이 없습니다.",
+  "showMeaning": "뜻 보기",
+  "speakAgain": "다시 말하기",
+  "nextCard": "다음",
+  "viewResult": "결과 보기",
+  "listening": "듣고 있어요...",
+  "tapMicToSpeak": "마이크를 누르고 따라 말해보세요",
+  "iSaid": "내가 말한 것",
+  "correctAnswerLabel": "정답",
+  "micPermissionRequired": "마이크 또는 음성 인식 권한이 필요합니다. 설정에서 허용해주세요.",
+  "speechError": "음성 인식 오류: {error}",
+  "@speechError": {
+    "placeholders": { "error": {"type": "String"} }
+  },
+  "practiceResult": "연습 결과",
+  "testResult": "테스트 결과",
+  "passedOfTotal": "{passed} / {total} 통과",
+  "@passedOfTotal": {
+    "placeholders": {
+      "passed": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "averageAccuracy": "평균 정확도 {percent}",
+  "@averageAccuracy": {
+    "placeholders": { "percent": {"type": "String"} }
+  },
+  "testPassed": "🎉 합격!",
+  "testFailed": "아쉬워요. 다시 도전해봐요.",
+  "goHome": "홈으로",
+  "sayInSpanishHint": "보고 스페인어로 말하세요",
+  "variationBase": "기본 문장",
+  "variationSubject": "주어 변경 · {subject}",
+  "@variationSubject": {
+    "placeholders": { "subject": {"type": "String"} }
+  },
+  "variationNegative": "부정문",
+  "variationInterrogative": "의문문",
+  "variationNounSwap": "단어 교체 · {noun}",
+  "@variationNounSwap": {
+    "placeholders": { "noun": {"type": "String"} }
+  },
+  "feedbackPerfect": "완벽해요! 🎉",
+  "feedbackGreat": "훌륭해요! 👏",
+  "feedbackGood": "잘했어요. 한 번 더!",
+  "feedbackKeepPractice": "조금만 더 연습해봐요.",
+  "feedbackTryAgain": "다시 한 번 시도해봐요.",
+  "openSettings": "설정 열기",
+  "attemptCounter": "{current}/{total} 시도",
+  "@attemptCounter": {
+    "placeholders": {
+      "current": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "playHint": "발음 힌트",
+  "speakingReview": "말하기 복습",
+  "speakingReviewDue": "{count}장 복습 대기",
+  "@speakingReviewDue": {
+    "placeholders": { "count": {"type": "int"} }
+  },
+  "noReviewDue": "복습할 카드가 없습니다.\n다음에 다시 만나요!"
 }
