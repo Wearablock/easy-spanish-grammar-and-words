@@ -523,6 +523,9 @@ class AppLocalizationsJa extends AppLocalizations {
   String get speakingTest => 'スピーキングテスト';
 
   @override
+  String get speakingBrowseAll => '一覧から選ぶ';
+
+  @override
   String get speakingFeatureDesc =>
       '1つの文から主語・否定・疑問・単語の入れ替えで何十ものバリエーションを発話練習・テストできます。';
 
@@ -620,6 +623,9 @@ class AppLocalizationsJa extends AppLocalizations {
   String variationNounSwap(String noun) {
     return '単語入れ替え · $noun';
   }
+
+  @override
+  String get variationPhrase => '慣用表現';
 
   @override
   String get feedbackPerfect => '完璧です！🎉';

@@ -523,6 +523,9 @@ class AppLocalizationsZh extends AppLocalizations {
   String get speakingTest => '口语测试';
 
   @override
+  String get speakingBrowseAll => '浏览全部';
+
+  @override
   String get speakingFeatureDesc => '从一个句子开始，通过更换主语、否定、疑问、替换词汇练习数十种变体。';
 
   @override
@@ -619,6 +622,9 @@ class AppLocalizationsZh extends AppLocalizations {
   String variationNounSwap(String noun) {
     return '替换词 · $noun';
   }
+
+  @override
+  String get variationPhrase => '惯用表达';
 
   @override
   String get feedbackPerfect => '完美！🎉';
@@ -1177,6 +1183,9 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
   String get speakingTest => '口語測試';
 
   @override
+  String get speakingBrowseAll => '瀏覽全部';
+
+  @override
   String get speakingFeatureDesc => '從一個句子開始，透過更換主語、否定、疑問、替換詞彙練習數十種變化。';
 
   @override
@@ -1273,6 +1282,9 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
   String variationNounSwap(String noun) {
     return '替換詞 · $noun';
   }
+
+  @override
+  String get variationPhrase => '慣用表達';
 
   @override
   String get feedbackPerfect => '完美！🎉';

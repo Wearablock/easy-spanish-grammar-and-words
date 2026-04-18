@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-import '../../../core/theme/app_colors.dart';
 import '../../../l10n/app_localizations.dart';
 import '../data/speaking_models.dart';
 import '../utils/speaking_palette.dart';
@@ -58,17 +57,15 @@ class _ResultItem extends StatelessWidget {
   }
 }
 
-/// 연습/테스트 종료 화면 — 카드별 결과와 합산.
+/// 말하기 세션 종료 화면 — 카드별 결과와 합산.
 class SpeakingResultScreen extends StatelessWidget {
   final String seedTitle;
   final List<AttemptResult> results;
-  final bool isTestMode;
 
   const SpeakingResultScreen({
     super.key,
     required this.seedTitle,
     required this.results,
-    required this.isTestMode,
   });
 
   @override
@@ -82,13 +79,11 @@ class SpeakingResultScreen extends StatelessWidget {
     final avg = total == 0
         ? 0.0
         : results.map((r) => r.accuracy).reduce((a, b) => a + b) / total;
-    final passRate = total == 0 ? 0.0 : passedCount / total;
-    final isTestPass = isTestMode && passRate >= 0.7;
     final summaryAccent = SpeakingPalette.accuracyAccent(avg);
 
     return Scaffold(
       appBar: AppBar(
-        title: Text(isTestMode ? l10n.testResult : l10n.practiceResult),
+        title: Text(l10n.practiceResult),
         automaticallyImplyLeading: false,
       ),
       body: SafeArea(
@@ -109,13 +104,6 @@ class SpeakingResultScreen extends StatelessWidget {
                     padding: const EdgeInsets.all(28),
                     child: Column(
                       children: [
-                        if (isTestMode)
-                          Icon(
-                            isTestPass ? Icons.emoji_events : Icons.refresh,
-                            size: 56,
-                            color: SpeakingPalette.resultIcon(isTestPass),
-                          ),
-                        const SizedBox(height: 8),
                         Text(
                           l10n.passedOfTotal(passedCount, total),
                           style: theme.textTheme.headlineMedium?.copyWith(
@@ -132,18 +120,6 @@ class SpeakingResultScreen extends StatelessWidget {
                                 .withValues(alpha: 0.75),
                           ),
                         ),
-                        if (isTestMode) ...[
-                          const SizedBox(height: 8),
-                          Text(
-                            isTestPass ? l10n.testPassed : l10n.testFailed,
-                            style: theme.textTheme.titleMedium?.copyWith(
-                              color: isTestPass
-                                  ? AppColors.correct
-                                  : AppColors.primary,
-                              fontWeight: FontWeight.w600,
-                            ),
-                          ),
-                        ],
                       ],
                     ),
                   ),

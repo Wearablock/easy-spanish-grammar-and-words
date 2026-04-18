@@ -531,6 +531,9 @@ class AppLocalizationsId extends AppLocalizations {
   String get speakingTest => 'Tes Berbicara';
 
   @override
+  String get speakingBrowseAll => 'Jelajahi semua';
+
+  @override
   String get speakingFeatureDesc =>
       'Latih dan uji puluhan variasi dari satu kalimat: ubah subjek, negasi, pertanyaan, ganti kata.';
 
@@ -629,6 +632,9 @@ class AppLocalizationsId extends AppLocalizations {
   String variationNounSwap(String noun) {
     return 'Ganti kata · $noun';
   }
+
+  @override
+  String get variationPhrase => 'Ungkapan';
 
   @override
   String get feedbackPerfect => 'Sempurna! 🎉';

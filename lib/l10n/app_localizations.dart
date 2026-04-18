@@ -1095,6 +1095,12 @@ abstract class AppLocalizations {
   /// **'말하기 테스트'**
   String get speakingTest;
 
+  /// No description provided for @speakingBrowseAll.
+  ///
+  /// In ko, this message translates to:
+  /// **'씨앗 골라서 연습'**
+  String get speakingBrowseAll;
+
   /// No description provided for @speakingFeatureDesc.
   ///
   /// In ko, this message translates to:
@@ -1262,6 +1268,12 @@ abstract class AppLocalizations {
   /// In ko, this message translates to:
   /// **'단어 교체 · {noun}'**
   String variationNounSwap(String noun);
+
+  /// No description provided for @variationPhrase.
+  ///
+  /// In ko, this message translates to:
+  /// **'관용 표현'**
+  String get variationPhrase;
 
   /// No description provided for @feedbackPerfect.
   ///

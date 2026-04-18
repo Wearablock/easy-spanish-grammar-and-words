@@ -1,802 +1,2074 @@
 {
-  "q_grammar_a2_001": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_a2_01_001": {
+    "question": "Yo ___ en mi familia todos los días. (pensar, e→ie)",
+    "correct": "pienso",
+    "wrong": [
+      "penso",
+      "pensar",
+      "piensas"
+    ],
+    "explanation": "Pensar 是 an e→ie 詞根-改變 動詞. 在 yo 形式, e 改爲 ie: pienso.",
+    "hint": " 詞根 vowel e 改爲 ie 在 所有 形式 except nosotros/vosotros"
+  },
+  "q_gram_a2_01_002": {
+    "question": "Ellos ___ ir al cine esta noche. (querer, e→ie)",
+    "correct": "quieren",
+    "wrong": [
+      "queren",
+      "querren",
+      "quieremos"
+    ],
+    "explanation": "Querer 改變 e→ie 在 ellos 形式: quieren. boot pattern applies 到 所有 形式 except nosotros/vosotros."
+  },
+  "q_gram_a2_01_003": {
+    "question": "什麼 does 'boot pattern' 表示 在 context 的 西班牙語 詞根-changing verbs?",
+    "correct": "The stem change applies to all forms except nosotros and vosotros",
+    "wrong": [
+      "The stem change applies only to the yo form",
+      "The stem change applies to all six conjugation forms",
+      "The stem change only happens in the past tense"
+    ],
+    "explanation": " 'boot pattern' (或 'shoe pattern') 意思是 詞根 改變 occurs 在 yo, tú, él/ella, 和 ellos/ellas 形式, 但是 NOT 在 nosotros 或 vosotros."
+  },
+  "q_gram_a2_01_004": {
+    "question": "Nosotros ___ la lección. (entender, e→ie, nosotros form)",
+    "correct": "entendemos",
+    "wrong": [
+      "entiendemos",
+      "entendimos",
+      "entienden"
+    ],
+    "explanation": "Nosotros 是 outside 'boot' pattern, so 那裡 是 NO 詞根 改變. 規則 -er 詞尾 是 用過的: entendemos.",
+    "conjugation_info": "entender (e→ie): entiendo, entiendes, entiende, entendemos, entendéis, entienden"
+  },
+  "q_gram_a2_01_005": {
+    "question": "María ___ estudiar español en lugar de francés. (preferir, e→ie)",
+    "correct": "prefiere",
+    "wrong": [
+      "preferir",
+      "prefere",
+      "prefiera"
+    ],
+    "explanation": "Preferir 是 an -ir 動詞 與 e→ie 改變. 在 ella 形式: prefiere."
+  },
+  "q_gram_a2_01_006": {
+    "question": "Tú ___ la puerta cuando hace frío. (cerrar, e→ie, tú form)",
+    "correct": "cierras",
+    "wrong": [
+      "cerras",
+      "cierres",
+      "cerrás"
+    ],
+    "explanation": "Cerrar 改變 e→ie 在 tú 形式: cierras. -ar 詞尾 爲 tú 是 -as.",
+    "conjugation_info": "cerrar (e→ie): cierro, cierras, cierra, cerramos, cerráis, cierran"
+  },
+  "q_gram_a2_01_007": {
+    "question": "Las clases ___ a las ocho de la mañana. (empezar, e→ie)",
+    "correct": "empiezan",
+    "wrong": [
+      "empezan",
+      "empiezar",
+      "empezamos"
+    ],
+    "explanation": "Empezar 改變 e→ie 在 ellas 形式: empiezan. 這 follows boot pattern."
+  },
+  "q_gram_a2_01_008": {
+    "question": "I think about my future every day.",
+    "correct": "Pienso en mi futuro todos los días.",
+    "wrong": [
+      "Penso en mi futuro todos los días.",
+      "Pienso a mi futuro todos los días.",
+      "Piensas en mi futuro todos los días."
+    ],
+    "explanation": "Pensar 改爲 pienso 在 yo 形式 (e→ie). 'Pensar en' 意思是 '到 think about' -- 前置詞 'en' 是 需要."
+  },
+  "q_gram_a2_01_009": {
+    "question": "Vosotros ___ la situación perfectamente. (entender, e→ie, vosotros form)",
+    "correct": "entendéis",
+    "wrong": [
+      "entiendéis",
+      "entendemos",
+      "entienden"
+    ],
+    "explanation": "Vosotros 是 outside boot pattern, so 那裡 是 NO 詞根 改變: entendéis.",
+    "conjugation_info": "entender (e→ie): entiendo, entiendes, entiende, entendemos, entendéis, entienden"
+  },
+  "q_gram_a2_01_010": {
+    "question": "¿Tú quieres ir al parque o prefieres quedarte en casa?",
+    "correct": "Do you want to go to the park or do you prefer to stay home?",
+    "wrong": [
+      "Do you want to go to the park or do you prefer to go to school?",
+      "Does she want to go to the park or prefer to stay home?",
+      "Do you want to go to the store or do you prefer to stay home?"
+    ],
+    "explanation": "Quieres (來自 querer, e→ie) 意思是 '做 你 want' 和 prefieres (來自 preferir, e→ie) 意思是 '做 你 prefer'. 兩者 是 tú 形式."
+  },
+  "q_gram_a2_02_001": {
+    "question": "Yo ___ ocho horas cada noche. (dormir, o→ue, yo form)",
+    "correct": "duermo",
+    "wrong": [
+      "dormo",
+      "dormio",
+      "duermes"
+    ],
+    "explanation": "Dormir 是 an o→ue 詞根-改變 動詞. 在 yo 形式: duermo.",
+    "conjugation_info": "dormir (o→ue): duermo, duermes, duerme, dormimos, dormís, duermen"
+  },
+  "q_gram_a2_02_002": {
+    "question": "Nosotros ___ a casa a las cinco. (volver, o→ue)",
+    "correct": "volvemos",
+    "wrong": [
+      "vuelvemos",
+      "volvimos",
+      "vuelven"
+    ],
+    "explanation": "Nosotros 是 outside boot pattern, so volver keeps its 規則 詞根: volvemos."
+  },
+  "q_gram_a2_02_003": {
+    "question": "Ella no ___ las llaves en su bolso. (encontrar, o→ue)",
+    "correct": "encuentra",
+    "wrong": [
+      "encontra",
+      "encontrar",
+      "encuentran"
+    ],
+    "explanation": "Encontrar 改變 o→ue 在 ella 形式: encuentra."
+  },
+  "q_gram_a2_02_004": {
+    "question": "什麼 makes 'jugar' unique among 詞根-changing verbs?",
+    "correct": "It changes u→ue instead of o→ue",
+    "wrong": [
+      "It has no stem change at all",
+      "It changes o→ue in all six forms",
+      "It is the only stem-changing -ar verb"
+    ],
+    "explanation": "Jugar 是 僅 西班牙語 動詞 與 a u→ue 詞根 改變 (juego, juegas, juega, jugamos, jugáis, juegan)."
+  },
+  "q_gram_a2_02_005": {
+    "question": "Ellos ___ las historias de su abuelo. (recordar, o→ue, ellos form)",
+    "correct": "recuerdan",
+    "wrong": [
+      "recordan",
+      "recuerdamos",
+      "recordaron"
+    ],
+    "explanation": "Recordar 改變 o→ue 在 ellos 形式: recuerdan.",
+    "conjugation_info": "recordar (o→ue): recuerdo, recuerdas, recuerda, recordamos, recordáis, recuerdan"
+  },
+  "q_gram_a2_02_006": {
+    "question": "¿Tú ___ venir a la fiesta mañana? (poder, o→ue)",
+    "correct": "puedes",
+    "wrong": [
+      "podes",
+      "podemos",
+      "pueden"
+    ],
+    "explanation": "Poder 改變 o→ue 在 tú 形式: puedes."
+  },
+  "q_gram_a2_02_007": {
+    "question": "We 有 lunch at noon every day.",
+    "correct": "Almorzamos al mediodía todos los días.",
+    "wrong": [
+      "Almuerzamos al mediodía todos los días.",
+      "Almorzamos a mediodía todos los día.",
+      "Almuerzo al mediodía todos los días."
+    ],
+    "explanation": "Almorzar (o→ue) keeps its 規則 詞根 在 nosotros: almorzamos. No 詞根 改變 爲 nosotros/vosotros."
+  },
+  "q_gram_a2_02_008": {
+    "question": "Los niños ___ en el parque todos los sábados. (jugar, u→ue)",
+    "correct": "juegan",
+    "wrong": [
+      "jugan",
+      "jugamos",
+      "juegamos"
+    ],
+    "explanation": "Jugar 改變 u→ue 在 ellos 形式: juegan. 它 是 僅 u→ue 動詞 在 西班牙語."
+  },
+  "q_gram_a2_02_009": {
+    "question": "Yo cuento el dinero y después vuelvo a casa.",
+    "correct": "I count the money and then I return home.",
+    "wrong": [
+      "I tell the money and then I return home.",
+      "I count the money and then I go to school.",
+      "I find the money and then I return home."
+    ],
+    "explanation": "Cuento (來自 contar, o→ue) 意思是 'I count' 和 vuelvo (來自 volver, o→ue) 意思是 'I return'."
+  },
+  "q_gram_a2_02_010": {
+    "question": "Vosotros ___ a casa después de la clase. (volver, o→ue, vosotros form)",
+    "correct": "volvéis",
+    "wrong": [
+      "vuelvéis",
+      "volvemos",
+      "vuelven"
+    ],
+    "explanation": "Vosotros 是 outside boot pattern, so volver uses 規則 詞根: volvéis.",
+    "conjugation_info": "volver (o→ue): vuelvo, vuelves, vuelve, volvemos, volvéis, vuelven"
+  },
+  "q_gram_a2_03_001": {
+    "question": "Yo ___ un café, por favor. (pedir, e→i)",
+    "correct": "pido",
+    "wrong": [
+      "pedo",
+      "piedo",
+      "pedimos"
+    ],
+    "explanation": "Pedir 是 an e→i 詞根-改變 動詞. 在 yo 形式: pido. 僅 -ir 動詞 有 這 pattern.",
+    "hint": " e→i 改變 僅 occurs 在 -ir 動詞"
+  },
+  "q_gram_a2_03_002": {
+    "question": "El camarero ___ la comida en la mesa. (servir, e→i)",
+    "correct": "sirve",
+    "wrong": [
+      "serve",
+      "servir",
+      "sirvemos"
+    ],
+    "explanation": "Servir 改變 e→i 在 él 形式: sirve."
+  },
+  "q_gram_a2_03_003": {
+    "question": "什麼 type 的 verbs 可以 有 e→i 詞根 change?",
+    "correct": "Only -ir verbs",
+    "wrong": [
+      "Only -ar verbs",
+      "Only -er verbs",
+      "Both -ar and -er verbs"
+    ],
+    "explanation": " e→i 詞根 改變 pattern 是 exclusive 到 -ir 動詞 (pedir, servir, repetir, seguir, vestirse, elegir)."
+  },
+  "q_gram_a2_03_004": {
+    "question": "Los estudiantes ___ las frases después del profesor. (repetir, e→i, ellos form)",
+    "correct": "repiten",
+    "wrong": [
+      "repeten",
+      "repetimos",
+      "repitan"
+    ],
+    "explanation": "Repetir 改變 e→i 在 ellos 形式: repiten.",
+    "conjugation_info": "repetir (e→i): repito, repites, repite, repetimos, repetís, repiten"
+  },
+  "q_gram_a2_03_005": {
+    "question": "Ella ___ un vestido rojo para la fiesta. (elegir, e→i)",
+    "correct": "elige",
+    "wrong": [
+      "elege",
+      "eligir",
+      "elijo"
+    ],
+    "explanation": "Elegir 改變 e→i 在 ella 形式: elige. 注意 在 yo 形式 它 是 'elijo' (g→j 之前 o).",
+    "hint": "在 ella 形式, g 是 kept 由於 它 precedes e"
+  },
+  "q_gram_a2_03_006": {
+    "question": "Yo ___ las instrucciones del mapa. (seguir, e→i, yo form)",
+    "correct": "sigo",
+    "wrong": [
+      "seguo",
+      "sieguo",
+      "seguimos"
+    ],
+    "explanation": "Seguir 改變 e→i 在 yo 形式: sigo. u 是 dropped 之前 o 到 maintain pronunciation.",
+    "conjugation_info": "seguir (e→i): sigo, sigues, sigue, seguimos, seguís, siguen"
+  },
+  "q_gram_a2_03_007": {
+    "question": "Nosotros ___ la lección tres veces. (repetir, e→i)",
+    "correct": "repetimos",
+    "wrong": [
+      "repitimos",
+      "repiten",
+      "repetís"
+    ],
+    "explanation": "Nosotros 是 outside boot pattern, so repetir keeps its 規則 詞根: repetimos."
+  },
+  "q_gram_a2_03_008": {
+    "question": " children get dressed quickly 在 morning.",
+    "correct": "Los niños se visten rápido por la mañana.",
+    "wrong": [
+      "Los niños se vestan rápido por la mañana.",
+      "Los niños se visten lento por la mañana.",
+      "Los niños me visten rápido por la mañana."
+    ],
+    "explanation": "Vestirse (e→i) 是 a reflexive 詞根-改變 動詞. 在 ellos 形式: se visten."
+  },
+  "q_gram_a2_03_009": {
+    "question": "Tú siempre ___ la misma cosa en el restaurante. (pedir, e→i, tú form)",
+    "correct": "pides",
+    "wrong": [
+      "pedes",
+      "pedís",
+      "pidemos"
+    ],
+    "explanation": "Pedir 改變 e→i 在 tú 形式: pides.",
+    "conjugation_info": "pedir (e→i): pido, pides, pide, pedimos, pedís, piden"
+  },
+  "q_gram_a2_03_010": {
+    "question": "Yo sigo estudiando porque repito los errores.",
+    "correct": "I keep studying because I repeat the mistakes.",
+    "wrong": [
+      "I follow studying because I request the mistakes.",
+      "I keep studying because I serve the mistakes.",
+      "I stop studying because I repeat the mistakes."
+    ],
+    "explanation": "Sigo (來自 seguir, e→i) 可以 意思 'I keep/continue' 和 repito (來自 repetir, e→i) 意思是 'I repeat'."
+  },
+  "q_gram_a2_04_001": {
+    "question": "Yo ___ a las siete de la mañana. (levantarse, yo form)",
+    "correct": "me levanto",
+    "wrong": [
+      "se levanto",
+      "me levanta",
+      "levanto me"
+    ],
+    "explanation": "Levantarse uses reflexive 代詞 'me' 爲 yo. 代詞 goes 之前 conjugated 動詞: me levanto.",
+    "conjugation_info": "levantarse: me levanto, te levantas, se levanta, nos levantamos, os levantáis, se levantan"
+  },
+  "q_gram_a2_04_002": {
+    "question": "Ella ___ después de hacer ejercicio. (ducharse)",
+    "correct": "se ducha",
+    "wrong": [
+      "me ducha",
+      "se duchan",
+      "la ducha"
+    ],
+    "explanation": " reflexive 代詞 爲 ella 是 'se'. Se ducha 意思是 'she showers (herself)'."
+  },
+  "q_gram_a2_04_003": {
+    "question": "Nosotros ___ temprano los fines de semana. (acostarse, o→ue)",
+    "correct": "nos acostamos",
+    "wrong": [
+      "se acostamos",
+      "nos acuéstamos",
+      "nos acuestamos"
+    ],
+    "explanation": "Nosotros uses 'nos' as reflexive 代詞. Acostarse 有 no 詞根 改變 在 nosotros: nos acostamos."
+  },
+  "q_gram_a2_04_004": {
+    "question": "什麼 happens 到 reflexive pronouns 什麼時候 used 與 an 不定式?",
+    "correct": "They can be attached to the end of the infinitive",
+    "wrong": [
+      "They must always go before the infinitive",
+      "They are dropped entirely",
+      "They change to object pronouns"
+    ],
+    "explanation": "Reflexive 代詞 可以 go 之前 conjugated 動詞 (me quiero ir) 或 是 attached 到 不定式 (quiero irme). 兩者 是 正確."
+  },
+  "q_gram_a2_04_005": {
+    "question": "Ellos ___ elegantemente para la cena. (vestirse, e→i, ellos form)",
+    "correct": "se visten",
+    "wrong": [
+      "se vesten",
+      "les visten",
+      "se vestimos"
+    ],
+    "explanation": "Vestirse 是 兩者 reflexive 和 詞根-改變 (e→i). 在 ellos 形式: se visten.",
+    "conjugation_info": "vestirse (e→i): me visto, te vistes, se viste, nos vestimos, os vestís, se visten"
+  },
+  "q_gram_a2_04_006": {
+    "question": "Los niños no quieren ___. (irse)",
+    "correct": "irse",
+    "wrong": [
+      "se ir",
+      "irme",
+      "irnos"
+    ],
+    "explanation": "什麼時候 reflexive 動詞 是 在 不定式 形式 之後 another 動詞, 代詞 matches 主語. 'Los niños' = se, attached 到 不定式: irse."
+  },
+  "q_gram_a2_04_007": {
+    "question": "I go 到 bed at eleven o'clock at night.",
+    "correct": "Me acuesto a las once de la noche.",
+    "wrong": [
+      "Se acuesto a las once de la noche.",
+      "Me acuesto a las once de la mañana.",
+      "Me acosto a las once de la noche."
+    ],
+    "explanation": "Acostarse (o→ue) 與 yo: me acuesto. reflexive 代詞 爲 yo 是 'me'."
+  },
+  "q_gram_a2_04_008": {
+    "question": "¿Tú ___ antes o después de desayunar? (ducharse)",
+    "correct": "te duchas",
+    "wrong": [
+      "se duchas",
+      "te duchos",
+      "me duchas"
+    ],
+    "explanation": " reflexive 代詞 爲 tú 是 'te': te duchas."
+  },
+  "q_gram_a2_04_009": {
+    "question": "Mi hermana se levanta, se ducha y se viste en treinta minutos.",
+    "correct": "My sister gets up, showers, and gets dressed in thirty minutes.",
+    "wrong": [
+      "My sister gets up, showers, and gets dressed in thirteen minutes.",
+      "My brother gets up, showers, and gets dressed in thirty minutes.",
+      "My sister wakes up, eats, and gets dressed in thirty minutes."
+    ],
+    "explanation": "Three reflexive 動詞: levantarse (get up), ducharse (shower), vestirse (get dressed). 所有 使用 'se' 爲 ella 形式."
+  },
+  "q_gram_a2_04_010": {
+    "question": "Vosotros ___ muy temprano los lunes. (dormirse, o→ue, vosotros form)",
+    "correct": "os dormís",
+    "wrong": [
+      "os duermís",
+      "se dormís",
+      "os dormimos"
+    ],
+    "explanation": "Vosotros uses 'os' 和 有 no 詞根 改變 (outside boot): os dormís.",
+    "conjugation_info": "dormirse (o→ue): me duermo, te duermes, se duerme, nos dormimos, os dormís, se duermen"
+  },
+  "q_gram_a2_05_001": {
+    "question": "Compro el libro. → ___ compro.",
+    "correct": "Lo",
+    "wrong": [
+      "La",
+      "Le",
+      "Los"
+    ],
+    "explanation": "'El libro' 是 男性 單數, so direct object 代詞 是 'lo'. 它 goes 之前 conjugated 動詞.",
+    "hint": "男性 單數 direct object 代詞 = lo"
+  },
+  "q_gram_a2_05_002": {
+    "question": "¿Ves a María? → ¿___ ves?",
+    "correct": "La",
+    "wrong": [
+      "Lo",
+      "Le",
+      "Las"
+    ],
+    "explanation": "'María' 是 女性 單數, so direct object 代詞 是 'la'."
+  },
+  "q_gram_a2_05_003": {
+    "question": "什麼 是 正確 position 的 direct object pronouns 與 a conjugated 動詞?",
+    "correct": "Before the conjugated verb",
+    "wrong": [
+      "After the conjugated verb",
+      "Attached to the conjugated verb",
+      "Either before or after, but before is more common"
+    ],
+    "explanation": "Direct object 代詞 總是 go 之前 a conjugated 動詞: Lo compro, La veo, Los tengo."
+  },
+  "q_gram_a2_05_004": {
+    "question": "Tengo las flores. → ___ tengo. (replace 'las flores')",
+    "correct": "Las tengo.",
+    "wrong": [
+      "Los tengo.",
+      "La tengo.",
+      "Le tengo."
+    ],
+    "explanation": "'Las flores' 是 女性 複數, so direct object 代詞 是 'las'.",
+    "conjugation_info": "Direct Object 代詞: lo (masc. sg.), la (fem. sg.), los (masc. pl.), las (fem. pl.)"
+  },
+  "q_gram_a2_05_005": {
+    "question": "Quiero comprar los zapatos. → Quiero comprar___.",
+    "correct": "los",
+    "wrong": [
+      "les",
+      "lo",
+      "las"
+    ],
+    "explanation": "與 an 不定式, DOP 可以 attach 到 end: comprarlos. 'Los zapatos' 是 男性 複數 = los."
+  },
+  "q_gram_a2_05_006": {
+    "question": "Ella ___ mira todos los días. (replace 'la televisión', 陰性 單數)",
+    "correct": "la",
+    "wrong": [
+      "lo",
+      "le",
+      "las"
+    ],
+    "explanation": "'La televisión' 是 女性 單數. DOP 'la' replaces 它: Ella la mira.",
+    "conjugation_info": "Direct Object 代詞: lo (masc. sg.), la (fem. sg.), los (masc. pl.), las (fem. pl.)"
+  },
+  "q_gram_a2_05_007": {
+    "question": "No ___ conozco. (replace 'a los profesores')",
+    "correct": "los",
+    "wrong": [
+      "les",
+      "lo",
+      "las"
+    ],
+    "explanation": "'A los profesores' 是 男性 複數. personal 'a' 是 dropped 什麼時候 使用 代詞: No los conozco."
+  },
+  "q_gram_a2_05_008": {
+    "question": "I see girls. I see them every day.",
+    "correct": "Veo a las chicas. Las veo todos los días.",
+    "wrong": [
+      "Veo a las chicas. Les veo todos los días.",
+      "Veo a las chicas. Los veo todos los días.",
+      "Veo a las chicas. La veo todos los días."
+    ],
+    "explanation": "'Las chicas' 是 女性 複數, replaced 由 'las'. Personal 'a' 是 用過的 與 人們 as direct objects."
+  },
+  "q_gram_a2_05_009": {
+    "question": "Estoy leyendo el periódico. → Estoy leyéndo___. (attach 代詞)",
+    "correct": "lo",
+    "wrong": [
+      "le",
+      "la",
+      "los"
+    ],
+    "explanation": "'El periódico' 是 男性 單數 = lo. 什麼時候 attaching 到 a 動名詞, an 重音 是 added: leyéndolo.",
+    "conjugation_info": "DOP attachment: 不定式 (comprarlo), 動名詞 (comprándolo), affirmative command (cómpralo)"
+  },
+  "q_gram_a2_05_010": {
+    "question": "¿Las llaves? No las encuentro por ningún lado.",
+    "correct": "The keys? I can't find them anywhere.",
+    "wrong": [
+      "The keys? I can't find it anywhere.",
+      "The keys? He can't find them anywhere.",
+      "The doors? I can't find them anywhere."
+    ],
+    "explanation": "'Las' replaces 'las llaves' (女性 複數). 'No las encuentro' = 'I 可以't find them'."
+  },
+  "q_gram_a2_06_001": {
+    "question": "Yo ___ doy un regalo a mi madre. (indirect object 代詞 爲 'a mi madre')",
+    "correct": "le",
+    "wrong": [
+      "la",
+      "me",
+      "les"
+    ],
+    "explanation": "'A mi madre' (到 my mother) 是 第三 人稱 單數, so indirect object 代詞 是 'le'.",
+    "conjugation_info": "Indirect Object 代詞: me (to me), te (to you), le (to him/her/you 正式), nos (to us), os (to you all), les (to them/you all 正式)"
+  },
+  "q_gram_a2_06_002": {
+    "question": "Mi profesor ___ explica la gramática. (IOP 爲 'a nosotros')",
+    "correct": "nos",
+    "wrong": [
+      "les",
+      "me",
+      "os"
+    ],
+    "explanation": "'A nosotros' 需要 indirect object 代詞 'nos': nos explica."
+  },
+  "q_gram_a2_06_003": {
+    "question": "¿___ gusta el café? (IOP 爲 'a ti')",
+    "correct": "Te",
+    "wrong": [
+      "Le",
+      "Me",
+      "Os"
+    ],
+    "explanation": "'A ti' 需要 indirect object 代詞 'te'. Gustar 是 commonly 用過的 與 IOPs."
+  },
+  "q_gram_a2_06_004": {
+    "question": "什麼 question does indirect object 代詞 answer?",
+    "correct": "To whom / for whom",
+    "wrong": [
+      "What / whom (direct receiver of action)",
+      "Where / when",
+      "How / why"
+    ],
+    "explanation": "Indirect object 代詞 answer '到 whom?' 或 '爲 whom?' -- Le doy el libro = I give book 到 HIM/HER."
+  },
+  "q_gram_a2_06_005": {
+    "question": "Yo ___ escribo una carta a mis abuelos. (IOP 爲 'a mis abuelos')",
+    "correct": "les",
+    "wrong": [
+      "le",
+      "los",
+      "nos"
+    ],
+    "explanation": "'A mis abuelos' 是 第三 人稱 複數, so IOP 是 'les'.",
+    "conjugation_info": "Indirect Object 代詞: me, te, le, nos, os, les"
+  },
+  "q_gram_a2_06_006": {
+    "question": "A María ___ encanta bailar. (IOP 爲 'a María')",
+    "correct": "le",
+    "wrong": [
+      "la",
+      "les",
+      "se"
+    ],
+    "explanation": "'A María' 是 第三 人稱 單數. 與 gustar-type 動詞, we 使用 'le': Le encanta bailar."
+  },
+  "q_gram_a2_06_007": {
+    "question": " teacher gives us homework every day.",
+    "correct": "El profesor nos da tarea todos los días.",
+    "wrong": [
+      "El profesor les da tarea todos los días.",
+      "El profesor me da tarea todos los días.",
+      "El profesor nos dan tarea todos los días."
+    ],
+    "explanation": "'到 us' = nos. IOP goes 之前 conjugated 動詞: nos da."
+  },
+  "q_gram_a2_06_008": {
+    "question": "Ella ___ dice la verdad a su amiga. (IOP 爲 'a su amiga')",
+    "correct": "le",
+    "wrong": [
+      "la",
+      "les",
+      "se"
+    ],
+    "explanation": "'A su amiga' 是 第三 人稱 單數 = le. Decir commonly uses IOPs."
+  },
+  "q_gram_a2_06_009": {
+    "question": "A mis hermanos les gustan los videojuegos.",
+    "correct": "My siblings like video games.",
+    "wrong": [
+      "My siblings don't like video games.",
+      "My parents like video games.",
+      "My siblings like books."
+    ],
+    "explanation": "'Les gustan' = 他們 (到 them) like. 'A mis hermanos' clarifies 誰 'les' 指. 'Gustan' 是 複數 因爲 'los videojuegos' 是 複數."
+  },
+  "q_gram_a2_06_010": {
+    "question": "¿A vosotros ___ interesa la historia? (IOP 爲 'a vosotros')",
+    "correct": "os",
+    "wrong": [
+      "les",
+      "nos",
+      "te"
+    ],
+    "explanation": "'A vosotros' uses IOP 'os'. Interesar works like gustar.",
+    "conjugation_info": "Indirect Object 代詞: me (yo), te (tú), le (él/ella/Ud.), nos (nosotros), os (vosotros), les (ellos/ellas/Uds.)"
+  },
+  "q_gram_a2_07_001": {
+    "question": "Yo ___ hablando por teléfono. (estar + 副動詞)",
+    "correct": "estoy",
+    "wrong": [
+      "soy",
+      "tengo",
+      "he"
+    ],
+    "explanation": " 現在進行時 uses estar + 動名詞. 爲 yo: estoy hablando.",
+    "hint": "現在進行時 = estar (conjugated) + -ando/-iendo"
+  },
+  "q_gram_a2_07_002": {
+    "question": "Los niños están ___ en el parque. (jugar, 副動詞)",
+    "correct": "jugando",
+    "wrong": [
+      "jugiendo",
+      "juegando",
+      "jugado"
+    ],
+    "explanation": " 動名詞 的 -ar 動詞 結尾 -ando: jugando. 詞根 改變 做 NOT apply 到 規則 gerunds 的 -ar 動詞."
+  },
+  "q_gram_a2_07_003": {
+    "question": "什麼 does present progressive (estar + 副動詞) express 在西班牙語中?",
+    "correct": "An action happening right now, at this moment",
+    "wrong": [
+      "A habitual action that happens regularly",
+      "An action that will happen in the future",
+      "An action completed in the past"
+    ],
+    "explanation": " 現在進行時 (estoy hablando) emphasizes 那 an action 是 在 progress right NOW. Unlike 英語, 它 是 NOT 用過的 爲 habitual actions."
+  },
+  "q_gram_a2_07_004": {
+    "question": "Ella está ___ un libro interesante. (leer, 副動詞 — 不規則)",
+    "correct": "leyendo",
+    "wrong": [
+      "leiendo",
+      "leendo",
+      "leyando"
+    ],
+    "explanation": "Leer 有 an 不規則 動名詞: leyendo (not 'leiendo'). 什麼時候 詞根 結尾 a vowel, -iendo becomes -yendo.",
+    "conjugation_info": "不規則 gerunds: leer→leyendo, oír→oyendo, traer→trayendo, creer→creyendo, construir→construyendo"
+  },
+  "q_gram_a2_07_005": {
+    "question": "El bebé está ___ en su cuna. (dormir, 副動詞 — 不規則)",
+    "correct": "durmiendo",
+    "wrong": [
+      "dormiendo",
+      "dormando",
+      "durmando"
+    ],
+    "explanation": "Dormir 有 an 不規則 動名詞 與 o→u 改變: durmiendo."
+  },
+  "q_gram_a2_07_006": {
+    "question": "Nosotros estamos ___ la cena. (preparar, 副動詞)",
+    "correct": "preparando",
+    "wrong": [
+      "prepariendo",
+      "preparido",
+      "prepando"
+    ],
+    "explanation": "規則 -ar 動詞 形式 動名詞 與 -ando: preparando.",
+    "conjugation_info": "動名詞 formation: -ar → -ando (hablando), -er → -iendo (comiendo), -ir → -iendo (viviendo)"
+  },
+  "q_gram_a2_07_007": {
+    "question": "Ellos están ___ español en clase. (escribir, 副動詞)",
+    "correct": "escribiendo",
+    "wrong": [
+      "escribando",
+      "escribido",
+      "escrebiendo"
+    ],
+    "explanation": "規則 -ir 動詞 形式 動名詞 與 -iendo: escribiendo."
+  },
+  "q_gram_a2_07_008": {
+    "question": "She 是 asking 爲 menu right now.",
+    "correct": "Ella está pidiendo el menú ahora mismo.",
+    "wrong": [
+      "Ella está pediendo el menú ahora mismo.",
+      "Ella está pidando el menú ahora mismo.",
+      "Ella pide el menú ahora mismo."
+    ],
+    "explanation": "Pedir 有 an 不規則 動名詞 與 e→i: pidiendo. 現在進行時 shows action 是 happening now."
+  },
+  "q_gram_a2_07_009": {
+    "question": "Los estudiantes están ___ al profesor. (seguir, 副動詞 — 不規則)",
+    "correct": "siguiendo",
+    "wrong": [
+      "seguiendo",
+      "seguyendo",
+      "siguendo"
+    ],
+    "explanation": "Seguir 有 an 不規則 動名詞: siguiendo (e→i 改變, 和 u 是 dropped).",
+    "conjugation_info": "不規則 -ir gerunds (e→i): pedir→pidiendo, servir→sirviendo, seguir→siguiendo, decir→diciendo, repetir→repitiendo"
+  },
+  "q_gram_a2_07_010": {
+    "question": "¿Qué estás haciendo? — Estoy leyendo y mi hermano está durmiendo.",
+    "correct": "What are you doing? — I am reading and my brother is sleeping.",
+    "wrong": [
+      "What are you doing? — I am writing and my brother is sleeping.",
+      "What are you doing? — I am reading and my sister is sleeping.",
+      "What do you do? — I read and my brother sleeps."
+    ],
+    "explanation": "Estás haciendo = 是 你 做, estoy leyendo = I am reading (不規則 動名詞), está durmiendo = 是 sleeping (不規則 動名詞)."
+  },
+  "q_gram_a2_08_001": {
+    "question": "Yo ___ a estudiar esta noche. (ir a + 不定式, yo form)",
+    "correct": "voy",
+    "wrong": [
+      "va",
+      "vas",
+      "van"
+    ],
+    "explanation": " 靠近 future uses ir (conjugated) + a + 不定式. 爲 yo: voy a estudiar.",
+    "conjugation_info": "ir: voy, vas, va, vamos, vais, van"
+  },
+  "q_gram_a2_08_002": {
+    "question": "Nosotros ___ a viajar a España el próximo verano. (ir)",
+    "correct": "vamos",
+    "wrong": [
+      "vais",
+      "van",
+      "voy"
+    ],
+    "explanation": "爲 nosotros, ir conjugates 到 'vamos': vamos a viajar."
+  },
+  "q_gram_a2_08_003": {
+    "question": "María ___ a cocinar paella mañana. (ir)",
+    "correct": "va",
+    "wrong": [
+      "voy",
+      "vas",
+      "van"
+    ],
+    "explanation": "爲 ella, ir conjugates 到 'va': va a cocinar."
+  },
+  "q_gram_a2_08_004": {
+    "question": "什麼 does 'ir a + 不定式' express?",
+    "correct": "Plans, intentions, or near future actions",
+    "wrong": [
+      "Completed past actions",
+      "Habitual actions in the present",
+      "Ongoing actions right now"
+    ],
+    "explanation": "'Ir a + 不定式' expresses 什麼 someone 是 going 到 做 -- plans, intentions, 和 靠近 future events."
+  },
+  "q_gram_a2_08_005": {
+    "question": "¿Ustedes ___ a ver la película esta noche? (ir, ustedes form)",
+    "correct": "van",
+    "wrong": [
+      "vais",
+      "vamos",
+      "va"
+    ],
+    "explanation": "爲 ustedes, ir conjugates 到 'van': van a ver.",
+    "conjugation_info": "ir: voy (yo), vas (tú), va (él/ella/Ud.), vamos (nosotros), vais (vosotros), van (ellos/Uds.)"
+  },
+  "q_gram_a2_08_006": {
+    "question": "Tú ___ a necesitar un paraguas mañana. (ir)",
+    "correct": "vas",
+    "wrong": [
+      "voy",
+      "va",
+      "vamos"
+    ],
+    "explanation": "爲 tú, ir conjugates 到 'vas': vas a necesitar."
+  },
+  "q_gram_a2_08_007": {
+    "question": "We 是 going 到 eat at a restaurant tonight.",
+    "correct": "Vamos a comer en un restaurante esta noche.",
+    "wrong": [
+      "Vamos a comer en un restaurante esta mañana.",
+      "Van a comer en un restaurante esta noche.",
+      "Vamos comer en un restaurante esta noche."
+    ],
+    "explanation": "Nosotros = vamos. structure 是 ir + a + 不定式. 'Esta noche' = tonight."
+  },
+  "q_gram_a2_08_008": {
+    "question": "El próximo año, mi hermana ___ a estudiar en la universidad. (ir)",
+    "correct": "va",
+    "wrong": [
+      "voy",
+      "vas",
+      "van"
+    ],
+    "explanation": "'Mi hermana' 是 ella: va a estudiar. 'El próximo año' 是 a 常見 時間 expression 與 靠近 future."
+  },
+  "q_gram_a2_08_009": {
+    "question": "¿Qué vas a hacer este fin de semana?",
+    "correct": "What are you going to do this weekend?",
+    "wrong": [
+      "What are you doing right now?",
+      "What did you do this weekend?",
+      "What are you going to do this morning?"
+    ],
+    "explanation": "'Vas a hacer' = 你 是 going 到 做 (靠近 future). 'Este fin de semana' = 這 weekend."
+  },
+  "q_gram_a2_08_010": {
+    "question": "Ellos ___ a mudarse a otra ciudad el mes que viene. (ir, ellos form)",
+    "correct": "van",
+    "wrong": [
+      "vamos",
+      "vais",
+      "va"
+    ],
+    "explanation": "爲 ellos, ir conjugates 到 'van': van a mudarse.",
+    "conjugation_info": "ir: voy (yo), vas (tú), va (él/ella/Ud.), vamos (nosotros), vais (vosotros), van (ellos/Uds.)"
+  },
+  "q_gram_a2_09_001": {
+    "question": "Ayer yo ___ con mi amigo por teléfono. (hablar, 簡單過去時)",
+    "correct": "hablé",
+    "wrong": [
+      "hablo",
+      "hablaba",
+      "hablí"
+    ],
+    "explanation": "規則 -ar 簡單過去時 爲 yo 結尾 -é: hablé. 這 表示 a completed past action.",
+    "hint": "規則 -ar 簡單過去時 詞尾: -é, -aste, -ó, -amos, -asteis, -aron"
+  },
+  "q_gram_a2_09_002": {
+    "question": "Ella ___ una carta ayer. (escribir, 簡單過去時)",
+    "correct": "escribió",
+    "wrong": [
+      "escribí",
+      "escribo",
+      "escribía"
+    ],
+    "explanation": "規則 -ir 簡單過去時 爲 ella 結尾 -ió: escribió."
+  },
+  "q_gram_a2_09_003": {
+    "question": "什麼時候 do we use 簡單過去時 tense 在西班牙語中?",
+    "correct": "For completed, one-time actions in the past",
+    "wrong": [
+      "For habitual or repeated actions in the past",
+      "For actions happening right now",
+      "For describing ongoing background situations in the past"
+    ],
+    "explanation": " 簡單過去時 是 用過的 爲 actions 那 是 completed at a specific point 在 past: Ayer hablé, Anoche comí."
+  },
+  "q_gram_a2_09_004": {
+    "question": "Nosotros ___ una pizza anoche. (comer, 簡單過去時, nosotros form)",
+    "correct": "comimos",
+    "wrong": [
+      "comemos",
+      "comímos",
+      "comiemos"
+    ],
+    "explanation": "規則 -er 簡單過去時 爲 nosotros 結尾 -imos: comimos.",
+    "conjugation_info": "-er/-ir preterite: -í, -iste, -ió, -imos, -isteis, -ieron"
+  },
+  "q_gram_a2_09_005": {
+    "question": "Tú ___ toda la leche esta mañana. (beber, 簡單過去時)",
+    "correct": "bebiste",
+    "wrong": [
+      "bebes",
+      "bebió",
+      "bebías"
+    ],
+    "explanation": "規則 -er 簡單過去時 爲 tú 結尾 -iste: bebiste."
+  },
+  "q_gram_a2_09_006": {
+    "question": "Los estudiantes ___ mucho para el examen. (estudiar, 簡單過去時, ellos form)",
+    "correct": "estudiaron",
+    "wrong": [
+      "estudian",
+      "estudiaban",
+      "estudiarón"
+    ],
+    "explanation": "規則 -ar 簡單過去時 爲 ellos 結尾 -aron: estudiaron. 注意: no 重音 on -aron.",
+    "conjugation_info": "-ar preterite: -é, -aste, -ó, -amos, -asteis, -aron"
+  },
+  "q_gram_a2_09_007": {
+    "question": "Vosotros ___ en un restaurante italiano la semana pasada. (comer, 簡單過去時)",
+    "correct": "comisteis",
+    "wrong": [
+      "coméis",
+      "comieron",
+      "comíais"
+    ],
+    "explanation": "規則 -er 簡單過去時 爲 vosotros 結尾 -isteis: comisteis."
+  },
+  "q_gram_a2_09_008": {
+    "question": "Last night I watched a movie 和 ate popcorn.",
+    "correct": "Anoche miré una película y comí palomitas.",
+    "wrong": [
+      "Anoche miro una película y como palomitas.",
+      "Anoche miraba una película y comía palomitas.",
+      "Anoche miré una película y comió palomitas."
+    ],
+    "explanation": "兩者 動詞 使用 簡單過去時 爲 completed actions: miré (yo, -ar) 和 comí (yo, -er). 'Anoche' signals 簡單過去時."
+  },
+  "q_gram_a2_09_009": {
+    "question": "Ella ___ la puerta y ___ a la calle. (abrir, salir — 簡單過去時, ella form)",
+    "correct": "abrió, salió",
+    "wrong": [
+      "abrí, salí",
+      "abre, sale",
+      "abría, salía"
+    ],
+    "explanation": "兩者 是 規則 -ir 簡單過去時 爲 ella: abrió, salió. These 是 completed sequential actions.",
+    "conjugation_info": "-ir preterite (ella): abrió, salió, vivió, escribió, recibió"
+  },
+  "q_gram_a2_09_010": {
+    "question": "Ayer mis padres viajaron a Barcelona y visitaron la Sagrada Familia.",
+    "correct": "Yesterday my parents traveled to Barcelona and visited the Sagrada Familia.",
+    "wrong": [
+      "Yesterday my parents travel to Barcelona and visit the Sagrada Familia.",
+      "Yesterday my friends traveled to Barcelona and visited the Sagrada Familia.",
+      "Yesterday my parents traveled to Madrid and visited the Sagrada Familia."
+    ],
+    "explanation": "Viajaron 和 visitaron 是 規則 -ar 簡單過去時 (ellos 形式). 兩者 express completed past actions."
+  },
+  "q_gram_a2_10_001": {
+    "question": "Yo ___ a la fiesta el sábado pasado. (ir, 簡單過去時, yo form)",
+    "correct": "fui",
+    "wrong": [
+      "iba",
+      "voy",
+      "fue"
+    ],
+    "explanation": "Ir 有 a completely 不規則 簡單過去時. Yo 形式: fui. 注意: ir 和 ser share 相同 簡單過去時 形式.",
+    "conjugation_info": "ir/ser (preterite): fui, fuiste, fue, fuimos, fuisteis, fueron"
+  },
+  "q_gram_a2_10_002": {
+    "question": "Ella ___ la tarea anoche. (hacer, 簡單過去時)",
+    "correct": "hizo",
+    "wrong": [
+      "hació",
+      "hacó",
+      "hice"
+    ],
+    "explanation": "Hacer 有 an 不規則 簡單過去時. Ella 形式: hizo ( c 改爲 z 之前 o)."
+  },
+  "q_gram_a2_10_003": {
+    "question": "Nosotros no ___ ir a la playa porque llovía. (poder, 簡單過去時)",
+    "correct": "pudimos",
+    "wrong": [
+      "podimos",
+      "podemos",
+      "pudieron"
+    ],
+    "explanation": "Poder 有 an 不規則 簡單過去時 詞根: pud-. Nosotros: pudimos."
+  },
+  "q_gram_a2_10_004": {
+    "question": "什麼 是 special about 簡單過去時 forms 的 'ir' 和 'ser'?",
+    "correct": "They share the exact same conjugation forms",
+    "wrong": [
+      "They both have regular preterite endings",
+      "Only 'ir' is irregular in the preterite",
+      "They have different stems but the same endings"
+    ],
+    "explanation": "Ir 和 ser share identical 簡單過去時 形式: fui, fuiste, fue, fuimos, fuisteis, fueron. Context determines which 動詞 是 meant."
+  },
+  "q_gram_a2_10_005": {
+    "question": "¿Dónde ___ tú las llaves? (poner, 簡單過去時, tú form)",
+    "correct": "pusiste",
+    "wrong": [
+      "poniste",
+      "pusó",
+      "pusimos"
+    ],
+    "explanation": "Poner 有 an 不規則 簡單過去時 詞根: pus-. Tú: pusiste.",
+    "conjugation_info": "poner (preterite): puse, pusiste, puso, pusimos, pusisteis, pusieron"
+  },
+  "q_gram_a2_10_006": {
+    "question": "Ellos ___ que estudiar más. (tener, 簡單過去時)",
+    "correct": "tuvieron",
+    "wrong": [
+      "tenieron",
+      "tuveron",
+      "tienieron"
+    ],
+    "explanation": "Tener 有 an 不規則 簡單過去時 詞根: tuv-. Ellos: tuvieron."
+  },
+  "q_gram_a2_10_007": {
+    "question": "She came 到 my house yesterday 和 told me news.",
+    "correct": "Ella vino a mi casa ayer y me dijo las noticias.",
+    "wrong": [
+      "Ella venió a mi casa ayer y me decio las noticias.",
+      "Ella vino a mi casa ayer y me decí las noticias.",
+      "Ella viene a mi casa ayer y me dice las noticias."
+    ],
+    "explanation": "Venir (簡單過去時): vino. Decir (簡單過去時): dijo. 兩者 是 不規則 簡單過去時 形式."
+  },
+  "q_gram_a2_10_008": {
+    "question": "Yo ___ en el hotel cerca de la playa. (estar, 簡單過去時)",
+    "correct": "estuve",
     "wrong": [
       "estoy",
-      "eres",
-      "somos"
+      "estaba",
+      "estuvo"
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "Estar 有 an 不規則 簡單過去時 詞根: estuv-. Yo: estuve."
   },
-  "q_grammar_a2_002": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_a2_10_009": {
+    "question": "Ayer mi amigo me dijo algo interesante y yo no lo pude creer.",
+    "correct": "Yesterday my friend told me something interesting and I couldn't believe it.",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "Yesterday my friend told me something boring and I couldn't believe it.",
+      "Yesterday my friend asked me something interesting and I couldn't understand it.",
+      "Today my friend told me something interesting and I couldn't believe it."
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "Dijo (來自 decir) = told, pude (來自 poder) = could. 兩者 是 不規則 簡單過去時 形式."
   },
-  "q_grammar_a2_003": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_a2_10_010": {
+    "question": "Nosotros ___ mucho trabajo la semana pasada. (tener, 簡單過去時, nosotros form)",
+    "correct": "tuvimos",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "tenimos",
+      "tuvieron",
+      "tuvemos"
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "Tener 簡單過去時 詞根: tuv-. Nosotros: tuvimos.",
+    "conjugation_info": "tener (preterite): tuve, tuviste, tuvo, tuvimos, tuvisteis, tuvieron"
   },
-  "q_grammar_a2_004": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_a2_11_001": {
+    "question": "Cuando era niño, yo ___ todos los días. (jugar, 未完成過去時)",
+    "correct": "jugaba",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "jugué",
+      "juego",
+      "jugara"
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "規則 -ar 未完成過去時 爲 yo 結尾 -aba: jugaba. 未完成過去時 describes habitual past actions.",
+    "hint": "-ar 未完成過去時 詞尾: -aba, -abas, -aba, -ábamos, -abais, -aban"
   },
-  "q_grammar_a2_005": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_a2_11_002": {
+    "question": "Mi abuela ___ galletas todos los domingos. (cocinar, 未完成過去時)",
+    "correct": "cocinaba",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "cocinó",
+      "cocina",
+      "cociné"
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "規則 -ar 未完成過去時 爲 ella 結尾 -aba: cocinaba. 這 describes a habitual past action."
   },
-  "q_grammar_a2_006": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_a2_11_003": {
+    "question": "什麼時候 do we use 未完成過去時 tense?",
+    "correct": "For habitual past actions, descriptions, and background information",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "For single completed actions in the past",
+      "For future plans and intentions",
+      "For actions happening right now"
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": " 未完成過去時 是 用過的 爲 habitual/repeated past actions, physical/emotional descriptions, age, 時間, 和 background settings."
   },
-  "q_grammar_a2_007": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_a2_11_004": {
+    "question": "Nosotros ___ en una casa grande. (vivir, 未完成過去時, nosotros form)",
+    "correct": "vivíamos",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "vivimos",
+      "vivímos",
+      "vivábamos"
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "規則 -ir 未完成過去時 爲 nosotros 結尾 -íamos: vivíamos. 注意...的重音 í.",
+    "conjugation_info": "-er/-ir imperfect: -ía, -ías, -ía, -íamos, -íais, -ían"
   },
-  "q_grammar_a2_008": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_a2_11_005": {
+    "question": "De joven, ella ___ mucho café. (beber, 未完成過去時)",
+    "correct": "bebía",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "bebió",
+      "bebe",
+      "bebaba"
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "規則 -er 未完成過去時 爲 ella 結尾 -ía: bebía."
   },
-  "q_grammar_a2_009": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_a2_11_006": {
+    "question": "Los vecinos siempre ___ música por la noche. (escuchar, 未完成過去時, ellos form)",
+    "correct": "escuchaban",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "escucharon",
+      "escuchan",
+      "escuchían"
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "規則 -ar 未完成過去時 爲 ellos 結尾 -aban: escuchaban. 'Siempre' signals habitual action.",
+    "conjugation_info": "-ar imperfect: -aba, -abas, -aba, -ábamos, -abais, -aban"
   },
-  "q_grammar_a2_010": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_a2_11_007": {
+    "question": "Tú ___ al parque todos los fines de semana. (caminar, 未完成過去時)",
+    "correct": "caminabas",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "caminaste",
+      "caminas",
+      "caminías"
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "規則 -ar 未完成過去時 爲 tú 結尾 -abas: caminabas. 'Todos los fines de semana' signals habitual action."
   },
-  "q_grammar_a2_011": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_a2_11_008": {
+    "question": "什麼時候 I 是 young, I used 到 read every night.",
+    "correct": "Cuando era joven, leía todas las noches.",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "Cuando fui joven, leí todas las noches.",
+      "Cuando era joven, leo todas las noches.",
+      "Cuando era joven, leyó todas las noches."
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "兩者 'era' (來自 ser, 不規則 未完成過去時) 和 'leía' (規則 -er 未完成過去時) describe habitual past situations."
   },
-  "q_grammar_a2_012": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_a2_11_009": {
+    "question": "Vosotros ___ español en la escuela. (estudiar, 未完成過去時, vosotros form)",
+    "correct": "estudiabais",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "estudiasteis",
+      "estudiábais",
+      "estudiaban"
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": "規則 -ar 未完成過去時 爲 vosotros 結尾 -abais: estudiabais.",
+    "conjugation_info": "-ar imperfect: -aba (yo), -abas (tú), -aba (él), -ábamos (nosotros), -abais (vosotros), -aban (ellos)"
   },
-  "q_grammar_a2_013": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_a2_11_010": {
+    "question": "Mis hermanos y yo comíamos juntos todos los días cuando vivíamos en Madrid.",
+    "correct": "My siblings and I used to eat together every day when we lived in Madrid.",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "My siblings and I ate together yesterday when we lived in Madrid.",
+      "My siblings and I used to eat together every day when we visited Madrid.",
+      "My siblings and I eat together every day when we live in Madrid."
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "Comíamos 和 vivíamos 是 兩者 未完成過去時, describing habitual past actions. 'Todos los días' reinforces habitual 含義."
   },
-  "q_grammar_a2_014": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_a2_12_001": {
+    "question": "De niño, yo ___ muy tímido. (ser, 未完成過去時, yo form)",
+    "correct": "era",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "fui",
+      "soy",
+      "fue"
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "Ser 是 one 的 僅 three 不規則 動詞 在 未完成過去時. Yo 形式: era.",
+    "conjugation_info": "ser (imperfect): era, eras, era, éramos, erais, eran"
   },
-  "q_grammar_a2_015": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_a2_12_002": {
+    "question": "Nosotros ___ al parque todos los sábados. (ir, 未完成過去時)",
+    "correct": "íbamos",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "fuimos",
+      "vamos",
+      "imos"
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "Ir 是 不規則 在 未完成過去時. Nosotros: íbamos."
   },
-  "q_grammar_a2_016": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_a2_12_003": {
+    "question": "Mi abuelo ___ la televisión todas las tardes. (ver, 未完成過去時)",
+    "correct": "veía",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "vía",
+      "vió",
+      "veia"
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "Ver 是 不規則 在 未完成過去時: veía (not 'vía'). 注意...的重音 í."
   },
-  "q_grammar_a2_017": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_a2_12_004": {
+    "question": "如何 許多 verbs 是 不規則 在 西班牙語 未完成過去時 tense?",
+    "correct": "Only three: ser, ir, and ver",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "More than ten verbs are irregular",
+      "Only ser and ir are irregular",
+      "There are no irregular verbs in the imperfect"
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": " 未完成過去時 有 僅 three 不規則 動詞: ser (era), ir (iba), 和 ver (veía). 所有 other 動詞 follow 規則 pattern."
   },
-  "q_grammar_a2_018": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_a2_12_005": {
+    "question": "Ellos ___ estudiantes muy aplicados. (ser, 未完成過去時, ellos form)",
+    "correct": "eran",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "fueron",
+      "son",
+      "sean"
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": "Ser 未完成過去時 爲 ellos: eran. 這 describes a 特徵 在 past.",
+    "conjugation_info": "ser (imperfect): era, eras, era, éramos, erais, eran"
   },
-  "q_grammar_a2_019": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_a2_12_006": {
+    "question": "Tú ___ a la escuela en autobús cuando eras pequeño. (ir, 未完成過去時)",
+    "correct": "ibas",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "fuiste",
+      "vas",
+      "ías"
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "Ir 未完成過去時 爲 tú: ibas. Describes a habitual past action."
   },
-  "q_grammar_a2_020": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_a2_12_007": {
+    "question": "什麼時候 I 是 a child, I used 到 go 到 beach every summer.",
+    "correct": "Cuando era niño, iba a la playa todos los veranos.",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "Cuando fui niño, fui a la playa todos los veranos.",
+      "Cuando era niño, iba a la montaña todos los veranos.",
+      "Cuando era niño, voy a la playa todos los veranos."
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "Era (ser, 未完成過去時) 和 iba (ir, 未完成過去時) 是 兩者 不規則. 兩者 describe habitual past situations."
   },
-  "q_grammar_a2_021": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_a2_12_008": {
+    "question": "Vosotros ___ muchos programas de televisión de pequeños. (ver, 未完成過去時)",
+    "correct": "veíais",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "visteis",
+      "veías",
+      "víais"
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "Ver 未完成過去時 爲 vosotros: veíais. 注意 ve- 詞根 是 maintained."
   },
-  "q_grammar_a2_022": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_a2_12_009": {
+    "question": "De joven, mi madre era profesora, iba al trabajo en bicicleta y veía películas los viernes.",
+    "correct": "When she was young, my mother was a teacher, went to work by bicycle, and watched movies on Fridays.",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "When she was young, my mother was a doctor, went to work by bicycle, and watched movies on Fridays.",
+      "When she was young, my mother was a teacher, went to work by car, and watched movies on Fridays.",
+      "Yesterday, my mother was a teacher, went to work by bicycle, and watched movies on Fridays."
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "所有 three 不規則 未完成過去時 動詞 appear: era (ser), iba (ir), veía (ver). 他們 describe habitual past actions."
   },
-  "q_grammar_a2_023": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_a2_12_010": {
+    "question": "Nosotros ___ la puesta de sol desde la ventana todas las tardes. (ver, 未完成過去時, nosotros form)",
+    "correct": "veíamos",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "víamos",
+      "vimos",
+      "viamos"
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "Ver 未完成過去時 爲 nosotros: veíamos. ve- 詞根 和 重音 on í 是 關鍵.",
+    "conjugation_info": "ver (imperfect): veía, veías, veía, veíamos, veíais, veían"
   },
-  "q_grammar_a2_024": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_a2_13_001": {
+    "question": "___ cuando salí de casa. (llover — choose 簡單過去時 或 未完成過去時)",
+    "correct": "Llovía",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "Llovió",
+      "Llueve",
+      "Lloverá"
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": " rain 是 an ongoing background action (未完成過去時) 什麼時候 I left (簡單過去時). 未完成過去時 sets scene.",
+    "hint": "Background/ongoing action = 未完成過去時; interrupting action = 簡單過去時"
   },
-  "q_grammar_a2_025": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_a2_13_002": {
+    "question": "Ayer ___ un accidente en la calle. (haber, 簡單過去時 — single event)",
+    "correct": "hubo",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "había",
+      "hay",
+      "habrá"
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "A single, completed event uses 簡單過去時: hubo. 'Ayer' signals a specific past 時間."
   },
-  "q_grammar_a2_026": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_a2_13_003": {
+    "question": "什麼 是 key difference between 簡單過去時 和 未完成過去時?",
+    "correct": "Preterite = completed actions; Imperfect = ongoing/habitual/descriptive",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "Preterite = present; Imperfect = past",
+      "Preterite = formal; Imperfect = informal",
+      "Preterite = affirmative; Imperfect = negative"
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": " 簡單過去時 narrates completed events. 未完成過去時 describes background, habits, 和 ongoing states. 他們 經常 work together."
   },
-  "q_grammar_a2_027": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_a2_13_004": {
+    "question": "Mientras yo ___ la cena, mi hermano llegó. (preparar — background action)",
+    "correct": "preparaba",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "preparé",
+      "preparo",
+      "preparó"
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "'Mientras' (當...時) signals an ongoing background action → 未完成過去時: preparaba. arrival 是 簡單過去時 (completed).",
+    "conjugation_info": "Imperfect triggers: mientras, siempre, todos los días, de niño, generalmente. Preterite triggers: ayer, anoche, una vez, de repente."
   },
-  "q_grammar_a2_028": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_a2_13_005": {
+    "question": "De repente, el teléfono ___. (sonar, 簡單過去時 — sudden action)",
+    "correct": "sonó",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "sonaba",
+      "suena",
+      "sonará"
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "'De repente' (suddenly) signals a sudden, completed action → 簡單過去時: sonó."
   },
-  "q_grammar_a2_029": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_a2_13_006": {
+    "question": "Todos los veranos, nosotros ___ a la playa y ___ en el mar. (ir, nadar — habitual past)",
+    "correct": "íbamos, nadábamos",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "fuimos, nadamos",
+      "íbamos, nadamos",
+      "vamos, nadamos"
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "'Todos los veranos' signals habitual action → 未完成過去時 爲 兩者: íbamos, nadábamos.",
+    "conjugation_info": "Habitual past = imperfect. 時間 clues: siempre, cada día, todos los años, generalmente, a menudo"
   },
-  "q_grammar_a2_030": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_a2_13_007": {
+    "question": "Cuando ___ pequeña, María ___ con muñecas. (ser/jugar — description + habit)",
+    "correct": "era, jugaba",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "fue, jugó",
+      "era, jugó",
+      "fue, jugaba"
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": "兩者 describe ongoing past states: '是 small' 和 'playing 與 dolls' 是 habitual/descriptive → 未完成過去時."
   },
-  "q_grammar_a2_031": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_a2_13_008": {
+    "question": "I 是 sleeping 什麼時候 someone knocked on door.",
+    "correct": "Yo dormía cuando alguien tocó la puerta.",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "Yo dormí cuando alguien tocaba la puerta.",
+      "Yo dormía cuando alguien tocaba la puerta.",
+      "Yo duermo cuando alguien toca la puerta."
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "Sleeping = ongoing background (未完成過去時: dormía). Knocking = interrupting completed action (簡單過去時: tocó)."
   },
-  "q_grammar_a2_032": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_a2_13_009": {
+    "question": "Anoche ___ mucho frío y por eso nosotros no ___. (hacer/salir — description + completed decision)",
+    "correct": "hacía, salimos",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "hizo, salíamos",
+      "hacía, salíamos",
+      "hizo, salimos"
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "Weather description = 未完成過去時 (hacía frío). decision not 到 go out = completed action, 簡單過去時 (salimos).",
+    "conjugation_info": "Combined 使用: Imperfect (background/reason) + Preterite (reaction/completed action). Hacía frío → salimos."
   },
-  "q_grammar_a2_033": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_a2_13_010": {
+    "question": "Mientras caminábamos por el parque, vimos un pájaro muy bonito.",
+    "correct": "While we were walking through the park, we saw a very beautiful bird.",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "While we walked through the park, we used to see a very beautiful bird.",
+      "While we were walking through the park, we were seeing a very beautiful bird.",
+      "While we walk through the park, we see a very beautiful bird."
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "Caminábamos (未完成過去時) = ongoing background; vimos (簡單過去時) = completed, one-時間 event. Classic 未完成過去時 + 簡單過去時 combination."
   },
-  "q_grammar_a2_034": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_a2_14_001": {
+    "question": "María es ___ alta que su hermana. (comparative: more...than)",
+    "correct": "más",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "menos",
+      "tan",
+      "mejor"
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": " comparative 'more...than' 在 西班牙語 是 'más...que'. María es más alta que su hermana.",
+    "conjugation_info": "Comparatives: más + adj + que (more...than), menos + adj + que (less...than), tan + adj + como (as...as)"
   },
-  "q_grammar_a2_035": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_a2_14_002": {
+    "question": "Este libro es ___ interesante ___ el otro. (comparative: less...than)",
+    "correct": "menos, que",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "más, que",
+      "tan, como",
+      "menos, como"
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "'Less...than' = 'menos...que': menos interesante que."
   },
-  "q_grammar_a2_036": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_a2_14_003": {
+    "question": "Mi hermano es ___ alto ___ yo. (comparative: as tall as)",
+    "correct": "tan, como",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "más, que",
+      "menos, que",
+      "tanto, como"
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": "Equality comparisons 與 形容詞 使用 'tan...como': tan alto como yo."
   },
-  "q_grammar_a2_037": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_a2_14_004": {
+    "question": "什麼 是 不規則 comparative form 的 'bueno'?",
+    "correct": "mejor (better)",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "más bueno (more good)",
+      "buenísimo (very good)",
+      "bien (well)"
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "'Bueno' 有 不規則 comparative 'mejor' (better), not 'más bueno'. Similarly, 'malo' → 'peor'."
   },
-  "q_grammar_a2_038": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_a2_14_005": {
+    "question": "Esta película es ___ que la anterior. (comparative: worse — 不規則)",
+    "correct": "peor",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "más mala",
+      "menos buena",
+      "peorar"
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "'Malo' 有 不規則 comparative 'peor' (worse). 'Más malo' 是 avoided 在 標準 西班牙語.",
+    "conjugation_info": "不規則 comparatives: bueno→mejor, malo→peor, grande→mayor (older), pequeño→menor (younger)"
   },
-  "q_grammar_a2_039": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_a2_14_006": {
+    "question": "Tengo ___ libros ___ mi amigo. (comparative: as 許多...as — 名詞 comparison)",
+    "correct": "tantos, como",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "tan, como",
+      "más, que",
+      "tantas, como"
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "爲 名詞 comparisons 的 equality, 使用 'tanto/a/os/as + 名詞 + como'. 'Libros' 是 男性 複數: tantos.",
+    "conjugation_info": "名詞 equality: tanto (m.sg), tanta (f.sg), tantos (m.pl), tantas (f.pl) + como"
   },
-  "q_grammar_a2_040": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_a2_14_007": {
+    "question": "My brother 是 older than me.",
+    "correct": "Mi hermano es mayor que yo.",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "Mi hermano es más grande que yo.",
+      "Mi hermano es menor que yo.",
+      "Mi hermano es más viejo que yo."
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "爲 age, 'mayor' (older) 是 不規則 comparative 的 'grande'. 'Más grande' 指 physical size, not age."
   },
-  "q_grammar_a2_041": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_a2_14_008": {
+    "question": "Elena habla español ___ rápido ___ Pedro. (comparative: as fast as)",
+    "correct": "tan, como",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "más, que",
+      "tanto, como",
+      "menos, que"
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "與 副詞, equality comparisons 也 使用 'tan...como': tan rápido como."
   },
-  "q_grammar_a2_042": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_a2_14_009": {
+    "question": "Este restaurante es mejor que el otro, pero es más caro.",
+    "correct": "This restaurant is better than the other one, but it is more expensive.",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "This restaurant is worse than the other one, but it is more expensive.",
+      "This restaurant is better than the other one, but it is cheaper.",
+      "This restaurant is better than the other one, and it is more expensive."
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": "Mejor = better (不規則 comparative), más caro = more expensive (規則 comparative)."
   },
-  "q_grammar_a2_043": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_a2_14_010": {
+    "question": "Mi hermana es ___ que yo: ella tiene 15 años y yo tengo 18. (menor, younger — 不規則 comparative)",
+    "correct": "menor",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "mayor",
+      "más pequeña",
+      "menos grande"
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "爲 age, 'menor' 意思是 'younger' (不規則 comparative 的 'pequeño' 爲 age). 'Más pequeño' 指 physical size.",
+    "conjugation_info": "Age comparatives: mayor (older), menor (younger). Size comparatives: más grande (bigger), más pequeño (smaller)"
   },
-  "q_grammar_a2_044": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_a2_15_001": {
+    "question": "María es ___ chica más inteligente de la clase. (superlative 冠詞)",
+    "correct": "la",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "el",
+      "las",
+      "los"
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "Superlatives 使用 'el/la/los/las + más/menos + 形容詞 + de'. 'Chica' 是 女性 單數: la.",
+    "hint": "Superlative = definite 冠詞 + más/menos + 形容詞 + de"
   },
-  "q_grammar_a2_045": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_a2_15_002": {
+    "question": "Este es el restaurante ___ caro de la ciudad. (superlative: 最)",
+    "correct": "más",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "menos",
+      "tan",
+      "muy"
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": " superlative '最' = 'más': el más caro de la ciudad."
   },
-  "q_grammar_a2_046": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_a2_15_003": {
+    "question": "什麼 does absolute superlative suffix '-ísimo/a' express?",
+    "correct": "An extremely high degree of a quality (very, very)",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "A comparison between two things",
+      "The lowest degree of a quality",
+      "A comparison among three or more things"
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": " absolute superlative -ísimo/a 意思是 'extremely' 或 '非常, 非常': grandísimo = extremely big, facilísimo = extremely easy."
   },
-  "q_grammar_a2_047": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_a2_15_004": {
+    "question": "La pizza está ___. (caliente → absolute superlative -ísimo/a form)",
+    "correct": "calentísima",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "calientísima",
+      "calentísimo",
+      "la más caliente"
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "Caliente → calentísima (女性 因爲 'pizza' 是 女性). 詞根 reverts 到 'calent-' 之前 adding -ísima.",
+    "conjugation_info": "Absolute superlative: 形容詞 stem + -ísimo/a/os/as. Examples: grande→grandísimo, fácil→facilísimo, rico→riquísimo"
   },
-  "q_grammar_a2_048": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_a2_15_005": {
+    "question": "Juan es el ___ estudiante de la escuela. (superlative: best — 不規則)",
+    "correct": "mejor",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "más bueno",
+      "buenísimo",
+      "más mejor"
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": " 不規則 superlative 的 'bueno' 是 'el mejor' ( best). 從不 使用 'más mejor'."
   },
-  "q_grammar_a2_049": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_a2_15_006": {
+    "question": "Estas son las montañas ___ altas ___ Europa. (superlative construction)",
+    "correct": "más, de",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "más, que",
+      "menos, en",
+      "tan, como"
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "Superlative structure: las más altas DE (not 'que'). 前置詞 'de' 是 總是 用過的.",
+    "conjugation_info": "Superlative: el/la/los/las + más/menos + adj + DE. Irregulars: el mejor, el peor, el mayor, el menor"
   },
-  "q_grammar_a2_050": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_a2_15_007": {
+    "question": "La comida estaba ___. (rico → absolute superlative, 陰性)",
+    "correct": "riquísima",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "ricísima",
+      "riquísimo",
+      "la más rica"
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "Rico → riquísima. c 改爲 qu 之前 -ísima 到 maintain /k/ sound."
   },
-  "q_grammar_a2_051": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_a2_15_008": {
+    "question": "這是 worst movie 的 year.",
+    "correct": "Esta es la peor película del año.",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "Esta es la más mala película del año.",
+      "Esta es la peor película que año.",
+      "Esta es el peor película del año."
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "'Peor' 是 不規則 superlative 的 'malo'. 'Del' = de + el. 'Película' 是 女性: la peor."
   },
-  "q_grammar_a2_052": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_a2_15_009": {
+    "question": "El examen fue ___. (difícil → absolute superlative -ísimo form)",
+    "correct": "dificilísimo",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "difícilísimo",
+      "dificílísimo",
+      "el más difícil"
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "Difícil → dificilísimo. 重音 moves 和 base drops its original 重音.",
+    "conjugation_info": "Absolute superlative of 以...結尾的形容詞 consonant: fácil→facilísimo, difícil→dificilísimo"
   },
-  "q_grammar_a2_053": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_a2_15_010": {
+    "question": "Mi abuela es la persona más amable de mi familia y cocina riquísimo.",
+    "correct": "My grandmother is the kindest person in my family and she cooks extremely deliciously.",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "My grandmother is the meanest person in my family and she cooks extremely deliciously.",
+      "My grandmother is the kindest person in my family and she cooks terribly.",
+      "My grandfather is the kindest person in my family and she cooks extremely deliciously."
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "'La más amable de' = kindest 在 (superlative). 'Riquísimo' = extremely delicious (absolute superlative)."
   },
-  "q_grammar_a2_054": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_a2_16_001": {
+    "question": "¡___ tu tarea ahora! (hacer, affirmative tú command — 不規則)",
+    "correct": "Haz",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "Hace",
+      "Haces",
+      "Hagas"
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": "'Hacer' 有 an 不規則 tú command: haz. 它 做 not follow 規則 pattern.",
+    "conjugation_info": "不規則 tú commands: pon, sal, ven, ten, haz, di, sé, ve"
   },
-  "q_grammar_a2_055": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_a2_16_002": {
+    "question": "¡___ la puerta, por favor! (abrir, affirmative tú command)",
+    "correct": "Abre",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "Abres",
+      "Abra",
+      "Abrir"
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "規則 affirmative tú commands 使用 3rd 人稱 單數 present 形式: abre (來自 abrir)."
   },
-  "q_grammar_a2_056": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_a2_16_003": {
+    "question": "¡___ más despacio, por favor! (hablar, affirmative tú command)",
+    "correct": "Habla",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "Hablas",
+      "Hable",
+      "Hablar"
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "規則 tú commands = él/ella present tense 形式: habla."
   },
-  "q_grammar_a2_057": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_a2_16_004": {
+    "question": "如何 是 規則 affirmative tú commands formed?",
+    "correct": "Use the third person singular (él/ella) present tense form",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "Use the tú present tense form",
+      "Use the infinitive form",
+      "Use the nosotros present tense form"
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "規則 affirmative tú commands = él/ella/usted 現在陳述式: habla (speaks → speak!), come (eats → eat!), escribe (writes → write!)."
   },
-  "q_grammar_a2_058": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_a2_16_005": {
+    "question": "¡___me la verdad! (decir, affirmative tú command + 代詞 — 不規則)",
+    "correct": "Di",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "Dice",
+      "Deci",
+      "Diga"
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "'Decir' 有 不規則 tú command 'di'. 代詞 attach 到 end: ¡Dime!",
+    "conjugation_info": "不規則 tú commands: di (decir), haz (hacer), ve (ir), pon (poner), sal (salir), sé (ser), ten (tener), ven (venir)"
   },
-  "q_grammar_a2_059": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_a2_16_006": {
+    "question": "¡___ de la casa inmediatamente! (salir, affirmative tú command — 不規則)",
+    "correct": "Sal",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "Sale",
+      "Sales",
+      "Salga"
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "'Salir' 有 不規則 tú command 'sal'."
   },
-  "q_grammar_a2_060": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_a2_16_007": {
+    "question": "Come 你的 vegetables now!",
+    "correct": "¡Come tus verduras ahora!",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "¡Comes tus verduras ahora!",
+      "¡Coma tus verduras ahora!",
+      "¡Comer tus verduras ahora!"
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": "規則 tú command 的 'comer' 是 'come' (相同 as 3rd 人稱 單數 present). 注意 opening exclamation mark ¡."
   },
-  "q_grammar_a2_061": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_a2_16_008": {
+    "question": "¡___ aquí, por favor! Necesito hablar contigo. (venir, affirmative tú command — 不規則)",
+    "correct": "Ven",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "Viene",
+      "Vienes",
+      "Venga"
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "'Venir' 有 不規則 tú command 'ven'."
   },
-  "q_grammar_a2_062": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_a2_16_009": {
+    "question": "¡Pon la mesa y después ven a comer!",
+    "correct": "Set the table and then come to eat!",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "Put the table and then come to eat!",
+      "Set the table and then go to eat!",
+      "Set the table and then come to cook!"
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "Pon (不規則 tú command 的 poner) = set/put. Ven (不規則 tú command 的 venir) = come."
   },
-  "q_grammar_a2_063": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_a2_16_010": {
+    "question": "¡___lo ahora mismo! (hacer, affirmative tú command + lo attached)",
+    "correct": "Haz",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "Hace",
+      "Haga",
+      "Has"
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "不規則 tú command 的 hacer: haz. 與 代詞 attached: ¡Hazlo! (做 它!)",
+    "conjugation_info": "代詞 attachment to commands: Hazlo (做 it), Dime (Tell me), Ponlo (Put it), Tenlo (有 it)"
   },
-  "q_grammar_a2_064": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_a2_17_001": {
+    "question": "Estudio ___ el examen. (por/para — purpose/goal)",
+    "correct": "para",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "por",
+      "a",
+      "de"
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "'Para' 是 用過的 爲 purpose 或 goal: Estudio para el examen = I study 爲 (在 order 到 prepare 爲) exam.",
+    "hint": "Para = purpose, destination, deadline, recipient"
   },
-  "q_grammar_a2_065": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_a2_17_002": {
+    "question": "Gracias ___ tu ayuda. (por/para — reason/cause)",
+    "correct": "por",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "para",
+      "a",
+      "con"
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "'Por' 是 用過的 爲 reason/cause: Gracias por tu ayuda = Thanks 爲 (因爲 的) 你的 help."
   },
-  "q_grammar_a2_066": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_a2_17_003": {
+    "question": "什麼 does 'para' generally express?",
+    "correct": "Purpose, destination, deadline, or recipient",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "Reason, exchange, duration, or movement through",
+      "Only future time expressions",
+      "Only movement and location"
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": "Para = purpose (para estudiar), destination (para Madrid), deadline (para mañana), recipient (para ti)."
   },
-  "q_grammar_a2_067": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_a2_17_004": {
+    "question": "Caminamos ___ el parque todas las mañanas. (por — through/along)",
+    "correct": "por",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "para",
+      "a",
+      "en"
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "'Por' 意思是 'through/along' 與 movement: Caminamos por el parque.",
+    "conjugation_info": "Por: reason (por eso), exchange (por 5 euros), duration (por dos horas), through (por el parque), 時間 of 天 (por la mañana)"
   },
-  "q_grammar_a2_068": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_a2_17_005": {
+    "question": "Este regalo es ___ mi madre. (por/para — recipient)",
+    "correct": "para",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "por",
+      "a",
+      "de"
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "'Para' 表示 recipient: Este regalo es para mi madre = 這 gift 是 爲 my mother."
   },
-  "q_grammar_a2_069": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_a2_17_006": {
+    "question": "Pagué diez euros ___ el libro. (por/para — exchange)",
+    "correct": "por",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "para",
+      "a",
+      "con"
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "'Por' 表示 exchange: Pagué diez euros por el libro = I paid ten euros 爲 (在 exchange 爲) book.",
+    "conjugation_info": "Para: purpose/goal, destination, deadline, recipient. Por: reason, exchange, duration, through, per, 時間 of 天."
   },
-  "q_grammar_a2_070": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_a2_17_007": {
+    "question": "Necesito terminar el informe ___ la reunión de mañana. (por/para — deadline)",
+    "correct": "para",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "por",
+      "de",
+      "en"
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "'Para' 表示 a deadline: para la reunión de mañana = 爲 (由) tomorrow's meeting."
   },
-  "q_grammar_a2_071": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_a2_17_008": {
+    "question": "I called 你 因爲 的 party.",
+    "correct": "Te llamé por la fiesta.",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "Te llamé para la fiesta.",
+      "Te llamo por la fiesta.",
+      "Me llamé por la fiesta."
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "'Por' 表示 reason/cause: por la fiesta = 因爲 的 party."
   },
-  "q_grammar_a2_072": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_a2_17_009": {
+    "question": "Viajamos ___ la mañana y llegamos ___ las tres de la tarde. (por/para — 時間 expressions)",
+    "correct": "por, a",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "para, a",
+      "por, para",
+      "para, por"
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": "'Por la mañana' = 在 morning (general 時間 的 天). 'A las tres' = at three o'clock (specific 時間).",
+    "conjugation_info": "Por + 時間 of 天: por la mañana, por la tarde, por la noche. Para + deadline: para el lunes, para mañana."
   },
-  "q_grammar_a2_073": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_a2_17_010": {
+    "question": "Caminé por la ciudad para encontrar un buen restaurante.",
+    "correct": "I walked through the city to find a good restaurant.",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "I walked to the city to find a good restaurant.",
+      "I walked through the city because I found a good restaurant.",
+      "I walked for the city to find a good restaurant."
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "'Por la ciudad' = through city (movement through). 'Para encontrar' = 到 find / 在 order 到 find (purpose)."
   },
-  "q_grammar_a2_074": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_a2_18_001": {
+    "question": "No tengo ___. (negative 代詞: nothing)",
+    "correct": "nada",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "nadie",
+      "nunca",
+      "ninguno"
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "'Nada' 意思是 'nothing'. Double negative 是 標準 在 西班牙語: No tengo nada.",
+    "conjugation_info": "Negative words: nada (nothing), nadie (nobody), nunca/jamás (從不), ninguno/a (none), tampoco (都不), ni...ni (都不...nor)"
   },
-  "q_grammar_a2_075": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_a2_18_002": {
+    "question": "No viene ___ a la fiesta. (negative 代詞: nobody)",
+    "correct": "nadie",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "nada",
+      "nunca",
+      "ninguno"
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "'Nadie' 意思是 'nobody/no one'. Double negative: No viene nadie."
   },
-  "q_grammar_a2_076": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_a2_18_003": {
+    "question": "___ estudio los domingos. (negative: 從不 — 之前 動詞, no 'no' needed)",
+    "correct": "Nunca",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "No nunca",
+      "Nada",
+      "Nadie"
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "什麼時候 a negative 詞 comes 之前 動詞, 'no' 是 NOT needed: Nunca estudio = I 從不 study."
   },
-  "q_grammar_a2_077": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_a2_18_004": {
+    "question": "什麼 是 規則 爲 double negatives 在西班牙語中?",
+    "correct": "They are grammatically correct and required when the negative word follows the verb",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "They are grammatically incorrect, just like in English",
+      "They cancel each other out to make a positive",
+      "They are only used in informal speech"
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "在 西班牙語, double negatives 是 標準: No tengo nada (I don't 有 nothing = I 有 nothing). 什麼時候 negative 詞 comes 之前 動詞, 'no' 是 dropped."
   },
-  "q_grammar_a2_078": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_a2_18_005": {
+    "question": "No me gusta ___ el fútbol ___ el baloncesto. (neither...nor)",
+    "correct": "ni, ni",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "no, no",
+      "nunca, nunca",
+      "nada, nada"
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": "'Ni...ni' = '都不...nor'. No me gusta ni el fútbol ni el baloncesto.",
+    "conjugation_info": "ni...ni = 都不...nor. Example: No quiero ni café ni té. / Ni café ni té quiero."
   },
-  "q_grammar_a2_079": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_a2_18_006": {
+    "question": "Yo no quiero ir al cine. — Yo ___ quiero ir. (negative: neither/me neither)",
+    "correct": "tampoco",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "también",
+      "nunca",
+      "nada"
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "'Tampoco' 意思是 '都不/任意一個' (negative counterpart 的 'también'): Yo tampoco quiero ir."
   },
-  "q_grammar_a2_080": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_a2_18_007": {
+    "question": "I 有 從不 been 到 Spain.",
+    "correct": "Nunca he estado en España.",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "No nunca he estado en España.",
+      "No he estado nunca España.",
+      "Jamás no he estado en España."
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "'Nunca' 之前 動詞 = no 'no' needed: Nunca he estado. (Alternatively: No he estado nunca en España.)"
+  },
+  "q_gram_a2_18_008": {
+    "question": "No hay ___ libro sobre ese tema en la biblioteca. (negative: not any/no)",
+    "correct": "ningún",
+    "wrong": [
+      "ninguna",
+      "nada",
+      "nadie"
+    ],
+    "explanation": "'Ningún' 是 男性 單數 shortened 形式的 'ninguno' 之前 a 名詞: ningún libro."
+  },
+  "q_gram_a2_18_009": {
+    "question": "No conozco a nadie en esta ciudad y no tengo nada que hacer.",
+    "correct": "I don't know anyone in this city and I don't have anything to do.",
+    "wrong": [
+      "I know nobody in this city and I have nothing to do.",
+      "I don't know anyone in this city and I have everything to do.",
+      "I know everyone in this city and I have nothing to do."
+    ],
+    "explanation": "Nadie = anyone/nobody, nada = anything/nothing. 兩者 使用 double negatives 與 'no'."
+  },
+  "q_gram_a2_18_010": {
+    "question": "___ de mis amigos ___ al concierto. Yo ___ fui. (ninguno/ir/tampoco — complete negative sentence)",
+    "correct": "Ninguno, fue, tampoco",
+    "wrong": [
+      "Nadie, fue, también",
+      "Ninguno, iba, tampoco",
+      "Nada, fue, tampoco"
+    ],
+    "explanation": "Ninguno (none) 之前 動詞 = no 'no' needed. Fue = 簡單過去時 的 ir. Tampoco = 都不.",
+    "conjugation_info": "Ninguno/a shortens to ningún before 男性 名詞: ningún libro. Ninguna 做 not shorten: ninguna casa."
+  },
+  "q_gram_a2_19_001": {
+    "question": "El libro ___ estoy leyendo es muy interesante. (relative 代詞)",
+    "correct": "que",
+    "wrong": [
+      "cual",
+      "quien",
+      "donde"
+    ],
+    "explanation": "'Que' 是 最 常見 relative 代詞 在 西班牙語, 含義 '那/which/誰'. 它 connects clauses.",
+    "hint": "在 西班牙語, relative 代詞 'que' 是 從不 省略"
+  },
+  "q_gram_a2_19_002": {
+    "question": "La chica ___ habla es mi hermana. (relative 代詞: 誰)",
+    "correct": "que",
+    "wrong": [
+      "quien",
+      "cual",
+      "como"
+    ],
+    "explanation": "'Que' 意思是 '誰' 什麼時候 referring 到 人們 as 主語 的 relative clause."
+  },
+  "q_gram_a2_19_003": {
+    "question": "如何 does 'que' differ 從 英語 '那/which/誰' 在 relative clauses?",
+    "correct": "In Spanish, 'que' can never be omitted, unlike English",
+    "wrong": [
+      "In Spanish, 'que' is optional just like in English",
+      "In Spanish, 'que' is only used with people",
+      "In Spanish, 'que' changes form based on gender"
+    ],
+    "explanation": "在 英語, 你可以 say ' book I read' (省略 '那'). 在 西班牙語, 'que' 是 總是 需要: El libro que leo."
+  },
+  "q_gram_a2_19_004": {
+    "question": "La casa en ___ vivo es pequeña. (que 與 preposition)",
+    "correct": "la que",
+    "wrong": [
+      "que",
+      "el que",
+      "quien"
+    ],
+    "explanation": "之後 前置詞, 'que' needs a definite 冠詞 matching 名詞: en la que (因爲 'casa' 是 女性).",
+    "conjugation_info": "前置詞 + 冠詞 + que: en el que, en la que, con el que, con la que, de los que, de las que"
+  },
+  "q_gram_a2_19_005": {
+    "question": "Las películas ___ vimos ayer fueron excelentes. (relative 代詞)",
+    "correct": "que",
+    "wrong": [
+      "cual",
+      "las cuales",
+      "quienes"
+    ],
+    "explanation": "'Que' 是 用過的 爲 兩者 人們 和 things: Las películas que vimos = movies 那 we watched."
+  },
+  "q_gram_a2_19_006": {
+    "question": "El restaurante en ___ cenamos es muy famoso. (que 與 preposition, 陽性名詞)",
+    "correct": "el que",
+    "wrong": [
+      "que",
+      "la que",
+      "lo que"
+    ],
+    "explanation": "之後 'en', 使用 冠詞 + que matching 名詞: en el que (restaurante 是 男性).",
+    "conjugation_info": "前置詞 + 冠詞 + que: el que (masc. sg.), la que (fem. sg.), los que (masc. pl.), las que (fem. pl.)"
+  },
+  "q_gram_a2_19_007": {
+    "question": "El profesor ___ enseña historia es de México. (relative 代詞: 誰)",
+    "correct": "que",
+    "wrong": [
+      "cual",
+      "donde",
+      "quien"
+    ],
+    "explanation": "'Que' replaces 主語 'el profesor' 在 relative clause: que enseña historia."
+  },
+  "q_gram_a2_19_008": {
+    "question": " car 那 I bought 是 red.",
+    "correct": "El coche que compré es rojo.",
+    "wrong": [
+      "El coche compré es rojo.",
+      "El coche cual compré es rojo.",
+      "El coche quien compré es rojo."
+    ],
+    "explanation": "'Que' cannot 是 省略 在 西班牙語. 它 意思是 '那' connecting 'el coche' 到 'compré'."
+  },
+  "q_gram_a2_19_009": {
+    "question": "La persona con ___ hablé me dio buena información. (que 與 preposition 'con')",
+    "correct": "la que",
+    "wrong": [
+      "que",
+      "el que",
+      "quien"
+    ],
+    "explanation": "之後 'con', 使用 冠詞 + que: con la que (persona 是 女性). 'Con quien' 是 也 正確 但是 'la que' matches pattern.",
+    "conjugation_info": "After 前置詞: con el que, con la que, para el que, para la que, por el que, por la que"
+  },
+  "q_gram_a2_19_010": {
+    "question": "El amigo que me ayudó es la persona en la que más confío.",
+    "correct": "The friend who helped me is the person I trust the most.",
+    "wrong": [
+      "The friend who helped me is the person I like the most.",
+      "The enemy who helped me is the person I trust the most.",
+      "The friend that helped me is the person I fear the most."
+    ],
+    "explanation": "'Que me ayudó' = 誰 helped me (subject relative). 'En la que confío' = 在 whom I trust (前置詞 + 冠詞 + que)."
+  },
+  "q_gram_a2_20_001": {
+    "question": "¿Me das el libro? — Sí, ___ ___ doy. (IOP + DOP replacing 'el libro' + 'a ti')",
+    "correct": "te lo",
+    "wrong": [
+      "lo te",
+      "te le",
+      "se lo"
+    ],
+    "explanation": "IOP (te) + DOP (lo) order. 'Te' = 到 你, 'lo' = 它 (男性). IOP 總是 comes 第一.",
+    "conjugation_info": "Combined 代詞 order: IOP + DOP. me lo, te la, nos los, os las. le/les → se before lo/la/los/las."
+  },
+  "q_gram_a2_20_002": {
+    "question": "Ella ___ ___ explica a nosotros. (IOP + DOP replacing 'la lección' + 'a nosotros')",
+    "correct": "nos la",
+    "wrong": [
+      "la nos",
+      "nos lo",
+      "se la"
+    ],
+    "explanation": "IOP (nos) + DOP (la). 'Nos' = 到 us, 'la' = 它 (女性, la lección). IOP comes 之前 DOP."
+  },
+  "q_gram_a2_20_003": {
+    "question": "Yo ___ ___ doy a ella. (IOP + DOP replacing 'los libros' + 'a ella')",
+    "correct": "se los",
+    "wrong": [
+      "le los",
+      "los le",
+      "les los"
+    ],
+    "explanation": "什麼時候 'le' (IOP) comes 之前 'lo/la/los/las' (DOP), 'le' 改爲 'se': se los doy."
+  },
+  "q_gram_a2_20_004": {
+    "question": "Why does 'le' change 到 'se' 在 combined object pronouns?",
+    "correct": "To avoid the awkward sound of 'le lo' or 'le la'",
+    "wrong": [
+      "Because 'le' is only used alone",
+      "Because 'se' means something completely different",
+      "Because 'le' is only for indirect objects with gustar"
+    ],
+    "explanation": "西班牙語 avoids 'le lo / le la / les los / les las' 因爲 他們 sound awkward. 'Le/les' becomes 'se' 之前 any DOP."
+  },
+  "q_gram_a2_20_005": {
+    "question": "¿Puedes dar___ ___ ? (combine: me + lo, attached 到 不定式)",
+    "correct": "melo",
+    "wrong": [
+      "lome",
+      "seme",
+      "mele"
+    ],
+    "explanation": "什麼時候 attached 到 an 不定式, 兩者 代詞 attach 在 order (IOP + DOP): dármelo. Written as one 詞 與 重音.",
+    "conjugation_info": "Attached to 不定式: dármelo, comprártela, escribírselo. Attached to 動名詞: dándomelo, escribiéndoselo."
+  },
+  "q_gram_a2_20_006": {
+    "question": "___ ___ compro mañana. (IOP + DOP replacing 'la camisa' + 'a ti')",
+    "correct": "Te la",
+    "wrong": [
+      "La te",
+      "Se la",
+      "Te lo"
+    ],
+    "explanation": "IOP (te) + DOP (la). 'Te' = 爲 你, 'la' = 它 (女性, la camisa): Te la compro."
+  },
+  "q_gram_a2_20_007": {
+    "question": "I give 它 到 him every day. ( book, 陽性)",
+    "correct": "Se lo doy todos los días.",
+    "wrong": [
+      "Le lo doy todos los días.",
+      "Lo se doy todos los días.",
+      "Se la doy todos los días."
+    ],
+    "explanation": "'Le' → 'se' 之前 'lo'. Se lo doy = I give 它 (masc.) 到 him. IOP + DOP order."
+  },
+  "q_gram_a2_20_008": {
+    "question": "Mi madre ___ ___ prepara todas las mañanas. (IOP + DOP replacing 'el desayuno' + 'a nosotros')",
+    "correct": "nos lo",
+    "wrong": [
+      "lo nos",
+      "se lo",
+      "nos la"
+    ],
+    "explanation": "IOP (nos) + DOP (lo). 'Nos' = 爲 us, 'lo' = 它 (男性, el desayuno): nos lo prepara."
+  },
+  "q_gram_a2_20_009": {
+    "question": "¿La tarea? Se la entregué al profesor ayer.",
+    "correct": "The homework? I turned it in to the teacher yesterday.",
+    "wrong": [
+      "The homework? I turned it in to the student yesterday.",
+      "The homework? He turned it in to the teacher yesterday.",
+      "The homework? I will turn it in to the teacher tomorrow."
+    ],
+    "explanation": "'Se' replaces 'le' (al profesor), 'la' = 它 (女性, la tarea). Entregué = I turned 在 (簡單過去時)."
+  },
+  "q_gram_a2_20_010": {
+    "question": "Quiero decír___ ___ a ellos. (combine: se + lo, attached 到 不定式 — ' truth' 到 'them')",
+    "correct": "selo",
+    "wrong": [
+      "lelo",
+      "losé",
+      "sela"
+    ],
+    "explanation": "Le/les → se 之前 lo. Attached 到 不定式: decírselo. IOP (se) + DOP (lo).",
+    "conjugation_info": "Combined 代詞 attached to 不定式: decírselo (to tell it to him/her/them), comprármela (to buy it for me), escribírtelos (to write them to you)"
   }
 }

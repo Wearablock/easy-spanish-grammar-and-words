@@ -1,1202 +1,1503 @@
 {
-  "q_vocab_a1_001": {
-    "question": "'pan'的英文翻譯是什麼？",
-    "correct": "bread",
+  "q_vocab_a1_01_001": {
+    "question": "什麼 does 'hola' 表示?",
+    "correct": "hello",
     "wrong": [
-      "water",
-      "meat",
-      "milk"
+      "goodbye",
+      "thank you",
+      "please"
     ],
-    "explanation": "'pan' 的意思是 '麵包'（bread）。"
+    "explanation": "'Hola' 是 最 常見 西班牙語 問候, 用過的 at any 時間 的 天."
   },
-  "q_vocab_a1_002": {
-    "question": "'médico'的英文翻譯是什麼？",
-    "correct": "doctor",
+  "q_vocab_a1_01_002": {
+    "question": "什麼 does 'gracias' 表示?",
+    "correct": "thank you",
     "wrong": [
-      "engineer",
-      "lawyer",
-      "artist"
+      "please",
+      "sorry",
+      "hello"
     ],
-    "explanation": "'médico' 的意思是 '醫生'（doctor）。"
+    "explanation": "'Gracias' 意思是 'thank 你'. 你可以 say 'muchas gracias' 爲 'thank 你 非常 much'."
   },
-  "q_vocab_a1_003": {
-    "question": "'corazón'的英文翻譯是什麼？",
-    "correct": "heart",
+  "q_vocab_a1_01_003": {
+    "question": "Buenos ___, ¿cómo estás?",
+    "correct": "días",
     "wrong": [
-      "eye",
-      "mouth",
-      "hand"
+      "noches",
+      "gracias",
+      "hola"
     ],
-    "explanation": "'corazón' 的意思是 '心'（heart）。"
+    "explanation": "'Buenos días' 意思是 'good morning' 和 是 a 常見 問候 用過的 在 morning."
   },
-  "q_vocab_a1_004": {
-    "question": "'amarillo'的英文翻譯是什麼？",
-    "correct": "yellow",
+  "q_vocab_a1_01_004": {
+    "question": "什麼 does 'por favor' 表示?",
+    "correct": "please",
     "wrong": [
-      "black",
-      "blue",
-      "red"
+      "thank you",
+      "excuse me",
+      "goodbye"
     ],
-    "explanation": "'amarillo' 的意思是 '黃色'（yellow）。"
+    "explanation": "'Por favor' 是 用過的 到 製造 polite requests, just like 'please' 在 英語."
   },
-  "q_vocab_a1_005": {
-    "question": "'queso'的英文翻譯是什麼？",
-    "correct": "cheese",
+  "q_vocab_a1_01_005": {
+    "question": "什麼 does 'lo siento' 表示 在 'Lo siento mucho'?",
+    "correct": "I'm sorry",
     "wrong": [
-      "bread",
-      "water",
-      "meat"
+      "I'm happy",
+      "I'm tired",
+      "I'm fine"
     ],
-    "explanation": "'queso' 的意思是 '起司'（cheese）。"
+    "explanation": "'Lo siento' literally 意思是 'I feel 它' 但是 是 用過的 as 'I'm sorry'. 'Mucho' adds emphasis, 含義 '非常 much'."
   },
-  "q_vocab_a1_006": {
-    "question": "'profesor'的英文翻譯是什麼？",
-    "correct": "teacher",
+  "q_vocab_a1_01_006": {
+    "question": "See 你 tomorrow!",
+    "correct": "¡Hasta mañana!",
     "wrong": [
-      "doctor",
-      "engineer",
-      "lawyer"
+      "¡Hasta luego!",
+      "¡Buenas noches!",
+      "¡Adiós para siempre!"
     ],
-    "explanation": "'profesor' 的意思是 '老師'（teacher）。"
+    "explanation": "'Hasta mañana' literally 意思是 '直到 tomorrow' 和 是 用過的 什麼時候 你 will see someone next 天."
   },
-  "q_vocab_a1_007": {
-    "question": "'cabeza'的英文翻譯是什麼？",
-    "correct": "head",
+  "q_vocab_a1_01_007": {
+    "question": "什麼 does 'de nada' 表示 在 '¡Gracias! — De nada.'?",
+    "correct": "you're welcome",
     "wrong": [
-      "heart",
-      "eye",
-      "mouth"
+      "of course",
+      "no problem",
+      "goodbye"
     ],
-    "explanation": "'cabeza' 的意思是 '頭'（head）。"
+    "explanation": "'De nada' literally translates 到 '的 nothing' 和 是 標準 response 到 'gracias'."
   },
-  "q_vocab_a1_008": {
-    "question": "'verde'的英文翻譯是什麼？",
-    "correct": "green",
+  "q_vocab_a1_01_008": {
+    "question": "¿Cómo estás?",
+    "correct": "How are you?",
     "wrong": [
-      "yellow",
-      "black",
-      "blue"
+      "What is your name?",
+      "Where are you from?",
+      "How old are you?"
     ],
-    "explanation": "'verde' 的意思是 '綠色'（green）。"
+    "explanation": "'¿Cómo estás?' 是 an 非正式 way 到 ask '如何 是 你?' 正式 version 是 '¿Cómo está usted?'."
   },
-  "q_vocab_a1_009": {
-    "question": "'leche'的英文翻譯是什麼？",
-    "correct": "milk",
+  "q_vocab_a1_01_009": {
+    "question": "你 accidentally bump into someone on street. 什麼 do 你 say?",
+    "correct": "¡Perdón!",
     "wrong": [
-      "cheese",
-      "bread",
-      "water"
+      "¡Hola!",
+      "¡Gracias!",
+      "¡Adiós!"
     ],
-    "explanation": "'leche' 的意思是 '牛奶'（milk）。"
+    "explanation": "'Perdón' 意思是 'pardon' 或 'excuse me' 和 是 用過的 什麼時候 你 accidentally bother someone."
   },
-  "q_vocab_a1_010": {
-    "question": "'artista'的英文翻譯是什麼？",
-    "correct": "artist",
+  "q_vocab_a1_01_010": {
+    "question": "你 是 leaving a friend's house late at night. 什麼 do 你 say?",
+    "correct": "¡Buenas noches!",
     "wrong": [
-      "teacher",
-      "doctor",
-      "engineer"
+      "¡Buenos días!",
+      "¡Buenas tardes!",
+      "¡Hola!"
     ],
-    "explanation": "'artista' 的意思是 '藝術家'（artist）。"
+    "explanation": "'Buenas noches' 意思是 'good night' 和 是 用過的 兩者 as a 問候 和 farewell 在 evening."
   },
-  "q_vocab_a1_011": {
-    "question": "'mano'的英文翻譯是什麼？",
-    "correct": "hand",
+  "q_vocab_a1_02_001": {
+    "question": "什麼 does 'madre' 表示?",
+    "correct": "mother",
     "wrong": [
-      "head",
-      "heart",
-      "eye"
+      "father",
+      "sister",
+      "grandmother"
     ],
-    "explanation": "'mano' 的意思是 '手'（hand）。"
+    "explanation": "'Madre' 意思是 'mother'. 非正式 詞 是 'mamá'."
   },
-  "q_vocab_a1_012": {
-    "question": "'rojo'的英文翻譯是什麼？",
+  "q_vocab_a1_02_002": {
+    "question": "Mi ___ se llama Carlos. Es el esposo de mi madre.",
+    "correct": "padre",
+    "wrong": [
+      "hermano",
+      "hijo",
+      "abuelo"
+    ],
+    "explanation": "'Padre' 意思是 'father'. sentence says 'My father 是 named Carlos. He 是 husband 的 my mother.'"
+  },
+  "q_vocab_a1_02_003": {
+    "question": "什麼 does 'hermana' 表示?",
+    "correct": "sister",
+    "wrong": [
+      "brother",
+      "cousin",
+      "aunt"
+    ],
+    "explanation": "'Hermana' 是 女性 形式 含義 'sister'. 男性 形式 'hermano' 意思是 'brother'."
+  },
+  "q_vocab_a1_02_004": {
+    "question": "什麼 does 'abuelo' 表示?",
+    "correct": "grandfather",
+    "wrong": [
+      "uncle",
+      "father",
+      "cousin"
+    ],
+    "explanation": "'Abuelo' 意思是 'grandfather'. 'Abuela' 是 'grandmother'. Together, 'abuelos' 可以 意思 'grandparents'."
+  },
+  "q_vocab_a1_02_005": {
+    "question": "My uncle lives 在 Madrid.",
+    "correct": "Mi tío vive en Madrid.",
+    "wrong": [
+      "Mi primo vive en Madrid.",
+      "Mi abuelo vive en Madrid.",
+      "Mi sobrino vive en Madrid."
+    ],
+    "explanation": "'Tío' 意思是 'uncle'. 'Tía' 是 女性 形式 含義 'aunt'."
+  },
+  "q_vocab_a1_02_006": {
+    "question": "什麼 does 'esposa' 表示 在 'Ella es mi esposa'?",
+    "correct": "wife",
+    "wrong": [
+      "girlfriend",
+      "friend",
+      "sister"
+    ],
+    "explanation": "'Esposa' 意思是 'wife'. 'Esposo' 意思是 'husband'. These 是 正式 terms 爲 a married partner."
+  },
+  "q_vocab_a1_02_007": {
+    "question": "你 want 到 introduce 你的 female friend 到 someone. Which 詞 do 你 use?",
+    "correct": "amiga",
+    "wrong": [
+      "novia",
+      "prima",
+      "vecina"
+    ],
+    "explanation": "'Amiga' 意思是 'female friend'. 使用 'novia' 將 意思 'girlfriend' (romantic partner), which 是 不同."
+  },
+  "q_vocab_a1_02_008": {
+    "question": "什麼 does 'primo' 表示 在 'Mi primo tiene diez años'?",
+    "correct": "cousin",
+    "wrong": [
+      "brother",
+      "nephew",
+      "son"
+    ],
+    "explanation": "'Primo' (男性) 意思是 'cousin'. 'Prima' 是 女性 形式. sentence 意思是 'My cousin 是 ten years old'."
+  },
+  "q_vocab_a1_02_009": {
+    "question": "Tengo dos hermanos y una hermana.",
+    "correct": "I have two brothers and one sister.",
+    "wrong": [
+      "I have two sisters and one brother.",
+      "I have two cousins and one sister.",
+      "I have two friends and one sister."
+    ],
+    "explanation": "'Hermanos' 是 複數 男性 形式 含義 'brothers'. 'Hermana' 意思是 'sister'."
+  },
+  "q_vocab_a1_02_010": {
+    "question": "你的 neighbor asks about 你的 family. 如何 do 你 say 'I live 與 my parents'?",
+    "correct": "Vivo con mis padres.",
+    "wrong": [
+      "Vivo con mis amigos.",
+      "Vivo con mis hermanos.",
+      "Vivo con mis abuelos."
+    ],
+    "explanation": "'Padres' 意思是 'parents'. 它 是 複數 的 'padre' (father) 但是 什麼時候 用過的 在 複數 它 指 兩者 parents."
+  },
+  "q_vocab_a1_03_001": {
+    "question": "什麼 does 'hora' 表示?",
+    "correct": "hour / time",
+    "wrong": [
+      "minute",
+      "day",
+      "week"
+    ],
+    "explanation": "'Hora' 意思是 '小時' 或 '時間' (什麼時候 asking 什麼 時間 它 是). '¿Qué hora es?' = '什麼 時間 是 它?'"
+  },
+  "q_vocab_a1_03_002": {
+    "question": "什麼 does 'mañana' 表示 在 'por la mañana'?",
+    "correct": "morning",
+    "wrong": [
+      "afternoon",
+      "evening",
+      "night"
+    ],
+    "explanation": "'Mañana' 意思是 'morning' 什麼時候 用過的 與 'por la'. 它 可以 也 意思 'tomorrow' 在 other contexts."
+  },
+  "q_vocab_a1_03_003": {
+    "question": "Son las tres y ___. (3:30)",
+    "correct": "media",
+    "wrong": [
+      "cuarto",
+      "punto",
+      "minuto"
+    ],
+    "explanation": "'Media' 意思是 'half'. 'Son las tres y media' 意思是 '它 是 three thirty' (literally 'three 和 a half')."
+  },
+  "q_vocab_a1_03_004": {
+    "question": "什麼 does 'reloj' 表示?",
+    "correct": "clock / watch",
+    "wrong": [
+      "calendar",
+      "alarm",
+      "timer"
+    ],
+    "explanation": "'Reloj' 可以 意思 兩者 'clock' (wall clock) 和 'watch' (wristwatch) 在 西班牙語."
+  },
+  "q_vocab_a1_03_005": {
+    "question": "什麼 does 'en punto' 表示 在 'Son las cinco en punto'?",
+    "correct": "on the dot / exactly",
+    "wrong": [
+      "almost",
+      "more or less",
+      "approximately"
+    ],
+    "explanation": "'En punto' 意思是 'on dot' 或 'sharp'. 'Son las cinco en punto' = '它 是 exactly five o'clock'."
+  },
+  "q_vocab_a1_03_006": {
+    "question": "它 是 one o'clock.",
+    "correct": "Es la una.",
+    "wrong": [
+      "Son las una.",
+      "Es el uno.",
+      "Son la una."
+    ],
+    "explanation": "爲 1:00, we 使用 'Es la una' (單數). 爲 所有 other 小時, we 使用 'Son las...' (複數)."
+  },
+  "q_vocab_a1_03_007": {
+    "question": "什麼 does 'tarde' 表示 在 'Buenas tardes'?",
+    "correct": "afternoon",
+    "wrong": [
+      "morning",
+      "night",
+      "evening"
+    ],
+    "explanation": "'Tarde' 意思是 'afternoon'. 'Buenas tardes' 是 用過的 roughly 來自 noon 直到 sunset."
+  },
+  "q_vocab_a1_03_008": {
+    "question": "¿Qué hora es? — Son las dos y cuarto.",
+    "correct": "What time is it? — It is 2:15.",
+    "wrong": [
+      "What time is it? — It is 2:45.",
+      "What time is it? — It is 2:30.",
+      "What day is it? — It is Tuesday."
+    ],
+    "explanation": "'Cuarto' 意思是 'quarter'. 'Son las dos y cuarto' = '它 是 two fifteen' (a quarter past two)."
+  },
+  "q_vocab_a1_03_009": {
+    "question": "你 need 到 ask a stranger on street 什麼 時間 它 是. 什麼 do 你 say?",
+    "correct": "Perdone, ¿qué hora es?",
+    "wrong": [
+      "¡Hola! ¿Qué día es?",
+      "¿Cuánto cuesta?",
+      "¿Dónde está el reloj?"
+    ],
+    "explanation": "'Perdone, ¿qué hora es?' 是 a polite way 到 ask someone 時間. 'Perdone' 是 正式 形式的 'excuse me'."
+  },
+  "q_vocab_a1_03_010": {
+    "question": "你的 friend asks 什麼時候 你 通常 wake up. 如何 do 你 say 'I wake up at seven 在 morning'?",
+    "correct": "Me despierto a las siete de la mañana.",
+    "wrong": [
+      "Me despierto a las siete de la noche.",
+      "Me despierto a la siete de la mañana.",
+      "Me duermo a las siete de la mañana."
+    ],
+    "explanation": "'A las siete de la mañana' 意思是 'at seven 在 morning'. 注意: we 使用 'a las' 爲 所有 小時 except one ('a la una')."
+  },
+  "q_vocab_a1_04_001": {
+    "question": "什麼 does 'lunes' 表示?",
+    "correct": "Monday",
+    "wrong": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ],
+    "explanation": "'Lunes' 意思是 '星期一'. 在 西班牙語, 天 的 week 是 not capitalized."
+  },
+  "q_vocab_a1_04_002": {
+    "question": "El primer mes del año es ___.",
+    "correct": "enero",
+    "wrong": [
+      "febrero",
+      "marzo",
+      "diciembre"
+    ],
+    "explanation": "'Enero' 意思是 'January', 第一 month 的 year. Like 天, months 是 not capitalized 在 西班牙語."
+  },
+  "q_vocab_a1_04_003": {
+    "question": "什麼 does 'verano' 表示?",
+    "correct": "summer",
+    "wrong": [
+      "winter",
+      "spring",
+      "autumn"
+    ],
+    "explanation": "'Verano' 意思是 'summer'. four seasons 是: primavera (spring), verano (summer), otoño (autumn), invierno (winter)."
+  },
+  "q_vocab_a1_04_004": {
+    "question": "什麼 does 'semana' 表示?",
+    "correct": "week",
+    "wrong": [
+      "month",
+      "day",
+      "year"
+    ],
+    "explanation": "'Semana' 意思是 'week'. 'Fin de semana' 意思是 'weekend'."
+  },
+  "q_vocab_a1_04_005": {
+    "question": "Saturday 和 Sunday",
+    "correct": "sábado y domingo",
+    "wrong": [
+      "viernes y sábado",
+      "lunes y martes",
+      "jueves y viernes"
+    ],
+    "explanation": "'Sábado' 是 星期六 和 'domingo' 是 星期日. Together 他們 形式 'fin de semana' (weekend)."
+  },
+  "q_vocab_a1_04_006": {
+    "question": "什麼 does 'primavera' 表示 在 'Me gusta la primavera'?",
+    "correct": "spring",
+    "wrong": [
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "explanation": "'Primavera' 意思是 'spring'. sentence 意思是 'I like spring'."
+  },
+  "q_vocab_a1_04_007": {
+    "question": "Someone asks 你 什麼 day 它 是. Today 是 Wednesday. 如何 do 你 answer?",
+    "correct": "Hoy es miércoles.",
+    "wrong": [
+      "Hoy es martes.",
+      "Hoy es jueves.",
+      "Hoy es viernes."
+    ],
+    "explanation": "'Miércoles' 意思是 '星期三'. 注意 重音 mark on 'e'. 'Hoy es...' 意思是 'Today 是...'."
+  },
+  "q_vocab_a1_04_008": {
+    "question": "什麼 does 'invierno' 表示 在 'En invierno hace frío'?",
+    "correct": "winter",
+    "wrong": [
+      "autumn",
+      "summer",
+      "spring"
+    ],
+    "explanation": "'Invierno' 意思是 'winter'. sentence 意思是 '在 winter 它 是 冷'."
+  },
+  "q_vocab_a1_04_009": {
+    "question": "Hoy es viernes. Mañana es ___.",
+    "correct": "Today is Friday. Tomorrow is Saturday.",
+    "wrong": [
+      "Today is Friday. Tomorrow is Thursday.",
+      "Today is Friday. Tomorrow is Sunday.",
+      "Today is Thursday. Tomorrow is Friday."
+    ],
+    "explanation": "'Viernes' 是 星期五 和 天 之後 星期五 是 'sábado' (星期六)."
+  },
+  "q_vocab_a1_04_010": {
+    "question": "你 want 到 schedule a meeting. 如何 do 你 say ' meeting 是 on Thursday'?",
+    "correct": "La reunión es el jueves.",
+    "wrong": [
+      "La reunión es el martes.",
+      "La reunión es el miércoles.",
+      "La reunión es la jueves."
+    ],
+    "explanation": "天 的 week 使用 冠詞 'el' (單數) 或 'los' (複數/habitual). 'El jueves' = 'on 星期四'."
+  },
+  "q_vocab_a1_05_001": {
+    "question": "什麼 does 'rojo' 表示?",
     "correct": "red",
     "wrong": [
-      "green",
-      "yellow",
-      "black"
-    ],
-    "explanation": "'rojo' 的意思是 '紅色'（red）。"
-  },
-  "q_vocab_a1_013": {
-    "question": "'carne'的英文翻譯是什麼？",
-    "correct": "meat",
-    "wrong": [
-      "milk",
-      "cheese",
-      "bread"
-    ],
-    "explanation": "'carne' 的意思是 '肉'（meat）。"
-  },
-  "q_vocab_a1_014": {
-    "question": "'abogado'的英文翻譯是什麼？",
-    "correct": "lawyer",
-    "wrong": [
-      "artist",
-      "teacher",
-      "doctor"
-    ],
-    "explanation": "'abogado' 的意思是 '律師'（lawyer）。"
-  },
-  "q_vocab_a1_015": {
-    "question": "'boca'的英文翻譯是什麼？",
-    "correct": "mouth",
-    "wrong": [
-      "hand",
-      "head",
-      "heart"
-    ],
-    "explanation": "'boca' 的意思是 '嘴'（mouth）。"
-  },
-  "q_vocab_a1_016": {
-    "question": "'azul'的英文翻譯是什麼？",
-    "correct": "blue",
-    "wrong": [
-      "red",
+      "blue",
       "green",
       "yellow"
     ],
-    "explanation": "'azul' 的意思是 '藍色'（blue）。"
+    "explanation": "'Rojo' 意思是 'red'. Like 最 形容詞, 它 改變 形式: rojo (masc.), roja (fem.)."
   },
-  "q_vocab_a1_017": {
-    "question": "'agua'的英文翻譯是什麼？",
-    "correct": "water",
+  "q_vocab_a1_05_002": {
+    "question": "什麼 does 'blanco' 表示?",
+    "correct": "white",
     "wrong": [
-      "meat",
-      "milk",
-      "cheese"
+      "black",
+      "grey",
+      "brown"
     ],
-    "explanation": "'agua' 的意思是 '水'（water）。"
+    "explanation": "'Blanco' 意思是 'white'. Its opposite 是 'negro' (black)."
   },
-  "q_vocab_a1_018": {
-    "question": "'ingeniero'的英文翻譯是什麼？",
-    "correct": "engineer",
+  "q_vocab_a1_05_003": {
+    "question": "El cielo es ___. ( sky 是 ___)",
+    "correct": "azul",
     "wrong": [
-      "lawyer",
-      "artist",
-      "teacher"
+      "rojo",
+      "verde",
+      "amarillo"
     ],
-    "explanation": "'ingeniero' 的意思是 '工程師'（engineer）。"
+    "explanation": "'Azul' 意思是 'blue'. Unlike 最 color 形容詞, 'azul' 做 not 改變 爲 男性/女性."
   },
-  "q_vocab_a1_019": {
-    "question": "'ojo'的英文翻譯是什麼？",
-    "correct": "eye",
-    "wrong": [
-      "mouth",
-      "hand",
-      "head"
-    ],
-    "explanation": "'ojo' 的意思是 '眼睛'（eye）。"
-  },
-  "q_vocab_a1_020": {
-    "question": "'negro'的英文翻譯是什麼？",
+  "q_vocab_a1_05_004": {
+    "question": "什麼 does 'negro' 表示?",
     "correct": "black",
     "wrong": [
-      "blue",
-      "red",
-      "green"
+      "white",
+      "grey",
+      "brown"
     ],
-    "explanation": "'negro' 的意思是 '黑色'（black）。"
+    "explanation": "'Negro' 意思是 'black'. 它 follows 規則 形容詞 agreement: negro (masc.), negra (fem.)."
   },
-  "q_vocab_a1_021": {
-    "question": "'pan'的英文翻譯是什麼？",
-    "correct": "bread",
-    "wrong": [
-      "water",
-      "meat",
-      "milk"
-    ],
-    "explanation": "'pan' 的意思是 '麵包'（bread）。"
-  },
-  "q_vocab_a1_022": {
-    "question": "'médico'的英文翻譯是什麼？",
-    "correct": "doctor",
-    "wrong": [
-      "engineer",
-      "lawyer",
-      "artist"
-    ],
-    "explanation": "'médico' 的意思是 '醫生'（doctor）。"
-  },
-  "q_vocab_a1_023": {
-    "question": "'corazón'的英文翻譯是什麼？",
-    "correct": "heart",
-    "wrong": [
-      "eye",
-      "mouth",
-      "hand"
-    ],
-    "explanation": "'corazón' 的意思是 '心'（heart）。"
-  },
-  "q_vocab_a1_024": {
-    "question": "'amarillo'的英文翻譯是什麼？",
+  "q_vocab_a1_05_005": {
+    "question": "什麼 does 'amarillo' 表示 在 'El sol es amarillo'?",
     "correct": "yellow",
     "wrong": [
-      "black",
-      "blue",
-      "red"
+      "orange",
+      "red",
+      "white"
     ],
-    "explanation": "'amarillo' 的意思是 '黃色'（yellow）。"
+    "explanation": "'Amarillo' 意思是 'yellow'. sentence 意思是 ' sun 是 yellow'."
   },
-  "q_vocab_a1_025": {
-    "question": "'queso'的英文翻譯是什麼？",
-    "correct": "cheese",
+  "q_vocab_a1_05_006": {
+    "question": " car 是 green.",
+    "correct": "El coche es verde.",
     "wrong": [
-      "bread",
-      "water",
-      "meat"
+      "El coche es rojo.",
+      "El coche es azul.",
+      "La coche es verde."
     ],
-    "explanation": "'queso' 的意思是 '起司'（cheese）。"
+    "explanation": "'Verde' 意思是 'green'. 'Coche' (car) 是 男性, so we 使用 'el'. 'Verde' 做 not 改變 爲 性別."
   },
-  "q_vocab_a1_026": {
-    "question": "'profesor'的英文翻譯是什麼？",
-    "correct": "teacher",
+  "q_vocab_a1_05_007": {
+    "question": "什麼 does 'gris' 表示 在 'El gato es gris'?",
+    "correct": "grey",
     "wrong": [
-      "doctor",
-      "engineer",
-      "lawyer"
-    ],
-    "explanation": "'profesor' 的意思是 '老師'（teacher）。"
-  },
-  "q_vocab_a1_027": {
-    "question": "'cabeza'的英文翻譯是什麼？",
-    "correct": "head",
-    "wrong": [
-      "heart",
-      "eye",
-      "mouth"
-    ],
-    "explanation": "'cabeza' 的意思是 '頭'（head）。"
-  },
-  "q_vocab_a1_028": {
-    "question": "'verde'的英文翻譯是什麼？",
-    "correct": "green",
-    "wrong": [
-      "yellow",
-      "black",
-      "blue"
-    ],
-    "explanation": "'verde' 的意思是 '綠色'（green）。"
-  },
-  "q_vocab_a1_029": {
-    "question": "'leche'的英文翻譯是什麼？",
-    "correct": "milk",
-    "wrong": [
-      "cheese",
-      "bread",
-      "water"
-    ],
-    "explanation": "'leche' 的意思是 '牛奶'（milk）。"
-  },
-  "q_vocab_a1_030": {
-    "question": "'artista'的英文翻譯是什麼？",
-    "correct": "artist",
-    "wrong": [
-      "teacher",
-      "doctor",
-      "engineer"
-    ],
-    "explanation": "'artista' 的意思是 '藝術家'（artist）。"
-  },
-  "q_vocab_a1_031": {
-    "question": "'mano'的英文翻譯是什麼？",
-    "correct": "hand",
-    "wrong": [
-      "head",
-      "heart",
-      "eye"
-    ],
-    "explanation": "'mano' 的意思是 '手'（hand）。"
-  },
-  "q_vocab_a1_032": {
-    "question": "'rojo'的英文翻譯是什麼？",
-    "correct": "red",
-    "wrong": [
-      "green",
-      "yellow",
+      "brown",
+      "white",
       "black"
     ],
-    "explanation": "'rojo' 的意思是 '紅色'（red）。"
+    "explanation": "'Gris' 意思是 'grey'. Like 'azul' 和 'verde', 它 做 not 改變 形式 爲 男性/女性."
   },
-  "q_vocab_a1_033": {
-    "question": "'carne'的英文翻譯是什麼？",
-    "correct": "meat",
+  "q_vocab_a1_05_008": {
+    "question": "¿De qué color es la naranja?",
+    "correct": "What color is the orange?",
     "wrong": [
-      "milk",
-      "cheese",
-      "bread"
+      "Where is the orange?",
+      "How much is the orange?",
+      "Do you like the orange?"
     ],
-    "explanation": "'carne' 的意思是 '肉'（meat）。"
+    "explanation": "'¿De qué color es...?' 意思是 '什麼 color 是...?' 這 是 標準 way 到 ask about colors 在 西班牙語."
   },
-  "q_vocab_a1_034": {
-    "question": "'abogado'的英文翻譯是什麼？",
-    "correct": "lawyer",
+  "q_vocab_a1_05_009": {
+    "question": "你 是 shopping 爲 clothes 和 want 到 ask if a shirt comes 在 pink. 什麼 do 你 say?",
+    "correct": "¿Tiene esta camisa en rosa?",
     "wrong": [
-      "artist",
-      "teacher",
-      "doctor"
+      "¿Tiene esta camisa en rojo?",
+      "¿Tiene esta camisa en marrón?",
+      "¿Tiene esta falda en rosa?"
     ],
-    "explanation": "'abogado' 的意思是 '律師'（lawyer）。"
+    "explanation": "'Rosa' 意思是 'pink'. '¿Tiene... en rosa?' 是 a natural way 到 ask if something comes 在 pink."
   },
-  "q_vocab_a1_035": {
-    "question": "'boca'的英文翻譯是什麼？",
-    "correct": "mouth",
+  "q_vocab_a1_05_010": {
+    "question": "A friend asks 你 你的 favorite color. 如何 do 你 say 'My favorite color 是 blue'?",
+    "correct": "Mi color favorito es el azul.",
     "wrong": [
-      "hand",
-      "head",
-      "heart"
+      "Mi color favorito es el rojo.",
+      "Mi color favorita es la azul.",
+      "Mi color favorito es el verde."
     ],
-    "explanation": "'boca' 的意思是 '嘴'（mouth）。"
+    "explanation": "'Color' 是 男性, so we say 'favorito' (not 'favorita'). 'Azul' 意思是 'blue'."
   },
-  "q_vocab_a1_036": {
-    "question": "'azul'的英文翻譯是什麼？",
-    "correct": "blue",
-    "wrong": [
-      "red",
-      "green",
-      "yellow"
-    ],
-    "explanation": "'azul' 的意思是 '藍色'（blue）。"
-  },
-  "q_vocab_a1_037": {
-    "question": "'agua'的英文翻譯是什麼？",
+  "q_vocab_a1_06_001": {
+    "question": "什麼 does 'agua' 表示?",
     "correct": "water",
     "wrong": [
-      "meat",
       "milk",
-      "cheese"
+      "juice",
+      "coffee"
     ],
-    "explanation": "'agua' 的意思是 '水'（water）。"
+    "explanation": "'Agua' 意思是 'water'. Despite 是 女性, 它 uses 'el' 在 單數: 'el agua' (到 avoid two 'a' sounds together)."
   },
-  "q_vocab_a1_038": {
-    "question": "'ingeniero'的英文翻譯是什麼？",
-    "correct": "engineer",
+  "q_vocab_a1_06_002": {
+    "question": "Quiero un ___ con leche, por favor.",
+    "correct": "café",
     "wrong": [
-      "lawyer",
-      "artist",
-      "teacher"
+      "pan",
+      "arroz",
+      "pollo"
     ],
-    "explanation": "'ingeniero' 的意思是 '工程師'（engineer）。"
+    "explanation": "'Café con leche' 意思是 'coffee 與 milk', a 非常 popular drink 在 西班牙 和 拉丁美洲."
   },
-  "q_vocab_a1_039": {
-    "question": "'ojo'的英文翻譯是什麼？",
-    "correct": "eye",
-    "wrong": [
-      "mouth",
-      "hand",
-      "head"
-    ],
-    "explanation": "'ojo' 的意思是 '眼睛'（eye）。"
-  },
-  "q_vocab_a1_040": {
-    "question": "'negro'的英文翻譯是什麼？",
-    "correct": "black",
-    "wrong": [
-      "blue",
-      "red",
-      "green"
-    ],
-    "explanation": "'negro' 的意思是 '黑色'（black）。"
-  },
-  "q_vocab_a1_041": {
-    "question": "'pan'的英文翻譯是什麼？",
+  "q_vocab_a1_06_003": {
+    "question": "什麼 does 'pan' 表示?",
     "correct": "bread",
     "wrong": [
-      "water",
+      "rice",
       "meat",
-      "milk"
-    ],
-    "explanation": "'pan' 的意思是 '麵包'（bread）。"
-  },
-  "q_vocab_a1_042": {
-    "question": "'médico'的英文翻譯是什麼？",
-    "correct": "doctor",
-    "wrong": [
-      "engineer",
-      "lawyer",
-      "artist"
-    ],
-    "explanation": "'médico' 的意思是 '醫生'（doctor）。"
-  },
-  "q_vocab_a1_043": {
-    "question": "'corazón'的英文翻譯是什麼？",
-    "correct": "heart",
-    "wrong": [
-      "eye",
-      "mouth",
-      "hand"
-    ],
-    "explanation": "'corazón' 的意思是 '心'（heart）。"
-  },
-  "q_vocab_a1_044": {
-    "question": "'amarillo'的英文翻譯是什麼？",
-    "correct": "yellow",
-    "wrong": [
-      "black",
-      "blue",
-      "red"
-    ],
-    "explanation": "'amarillo' 的意思是 '黃色'（yellow）。"
-  },
-  "q_vocab_a1_045": {
-    "question": "'queso'的英文翻譯是什麼？",
-    "correct": "cheese",
-    "wrong": [
-      "bread",
-      "water",
-      "meat"
-    ],
-    "explanation": "'queso' 的意思是 '起司'（cheese）。"
-  },
-  "q_vocab_a1_046": {
-    "question": "'profesor'的英文翻譯是什麼？",
-    "correct": "teacher",
-    "wrong": [
-      "doctor",
-      "engineer",
-      "lawyer"
-    ],
-    "explanation": "'profesor' 的意思是 '老師'（teacher）。"
-  },
-  "q_vocab_a1_047": {
-    "question": "'cabeza'的英文翻譯是什麼？",
-    "correct": "head",
-    "wrong": [
-      "heart",
-      "eye",
-      "mouth"
-    ],
-    "explanation": "'cabeza' 的意思是 '頭'（head）。"
-  },
-  "q_vocab_a1_048": {
-    "question": "'verde'的英文翻譯是什麼？",
-    "correct": "green",
-    "wrong": [
-      "yellow",
-      "black",
-      "blue"
-    ],
-    "explanation": "'verde' 的意思是 '綠色'（green）。"
-  },
-  "q_vocab_a1_049": {
-    "question": "'leche'的英文翻譯是什麼？",
-    "correct": "milk",
-    "wrong": [
-      "cheese",
-      "bread",
-      "water"
-    ],
-    "explanation": "'leche' 的意思是 '牛奶'（milk）。"
-  },
-  "q_vocab_a1_050": {
-    "question": "'artista'的英文翻譯是什麼？",
-    "correct": "artist",
-    "wrong": [
-      "teacher",
-      "doctor",
-      "engineer"
-    ],
-    "explanation": "'artista' 的意思是 '藝術家'（artist）。"
-  },
-  "q_vocab_a1_051": {
-    "question": "'mano'的英文翻譯是什麼？",
-    "correct": "hand",
-    "wrong": [
-      "head",
-      "heart",
-      "eye"
-    ],
-    "explanation": "'mano' 的意思是 '手'（hand）。"
-  },
-  "q_vocab_a1_052": {
-    "question": "'rojo'的英文翻譯是什麼？",
-    "correct": "red",
-    "wrong": [
-      "green",
-      "yellow",
-      "black"
-    ],
-    "explanation": "'rojo' 的意思是 '紅色'（red）。"
-  },
-  "q_vocab_a1_053": {
-    "question": "'carne'的英文翻譯是什麼？",
-    "correct": "meat",
-    "wrong": [
-      "milk",
-      "cheese",
-      "bread"
-    ],
-    "explanation": "'carne' 的意思是 '肉'（meat）。"
-  },
-  "q_vocab_a1_054": {
-    "question": "'abogado'的英文翻譯是什麼？",
-    "correct": "lawyer",
-    "wrong": [
-      "artist",
-      "teacher",
-      "doctor"
-    ],
-    "explanation": "'abogado' 的意思是 '律師'（lawyer）。"
-  },
-  "q_vocab_a1_055": {
-    "question": "'boca'的英文翻譯是什麼？",
-    "correct": "mouth",
-    "wrong": [
-      "hand",
-      "head",
-      "heart"
-    ],
-    "explanation": "'boca' 的意思是 '嘴'（mouth）。"
-  },
-  "q_vocab_a1_056": {
-    "question": "'azul'的英文翻譯是什麼？",
-    "correct": "blue",
-    "wrong": [
-      "red",
-      "green",
-      "yellow"
-    ],
-    "explanation": "'azul' 的意思是 '藍色'（blue）。"
-  },
-  "q_vocab_a1_057": {
-    "question": "'agua'的英文翻譯是什麼？",
-    "correct": "water",
-    "wrong": [
-      "meat",
-      "milk",
       "cheese"
     ],
-    "explanation": "'agua' 的意思是 '水'（water）。"
+    "explanation": "'Pan' 意思是 'bread'. 它 是 one 的 最 basic food items 在 西班牙語-speaking countries."
   },
-  "q_vocab_a1_058": {
-    "question": "'ingeniero'的英文翻譯是什麼？",
-    "correct": "engineer",
+  "q_vocab_a1_06_004": {
+    "question": "什麼 does 'pollo' 表示?",
+    "correct": "chicken",
     "wrong": [
-      "lawyer",
-      "artist",
-      "teacher"
+      "fish",
+      "beef",
+      "pork"
     ],
-    "explanation": "'ingeniero' 的意思是 '工程師'（engineer）。"
+    "explanation": "'Pollo' 意思是 'chicken'. 'Carne' 是 general 詞 爲 'meat'."
   },
-  "q_vocab_a1_059": {
-    "question": "'ojo'的英文翻譯是什麼？",
-    "correct": "eye",
+  "q_vocab_a1_06_005": {
+    "question": "I want a glass 的 orange juice.",
+    "correct": "Quiero un vaso de zumo de naranja.",
     "wrong": [
-      "mouth",
-      "hand",
-      "head"
+      "Quiero un vaso de leche de naranja.",
+      "Quiero una taza de zumo de naranja.",
+      "Quiero un vaso de vino de naranja."
     ],
-    "explanation": "'ojo' 的意思是 '眼睛'（eye）。"
+    "explanation": "'Zumo' 意思是 'juice' (用過的 在 西班牙; 'jugo' 是 用過的 在 拉丁美洲). 'Vaso' 意思是 'glass'."
   },
-  "q_vocab_a1_060": {
-    "question": "'negro'的英文翻譯是什麼？",
-    "correct": "black",
+  "q_vocab_a1_06_006": {
+    "question": "什麼 does 'pescado' 表示 在 'El pescado está fresco'?",
+    "correct": "fish (as food)",
     "wrong": [
-      "blue",
-      "red",
-      "green"
-    ],
-    "explanation": "'negro' 的意思是 '黑色'（black）。"
-  },
-  "q_vocab_a1_061": {
-    "question": "'pan'的英文翻譯是什麼？",
-    "correct": "bread",
-    "wrong": [
-      "water",
+      "chicken",
       "meat",
-      "milk"
+      "shrimp"
     ],
-    "explanation": "'pan' 的意思是 '麵包'（bread）。"
+    "explanation": "'Pescado' 指 fish as food. 'Pez' 是 a living fish. sentence 意思是 ' fish 是 fresh'."
   },
-  "q_vocab_a1_062": {
-    "question": "'médico'的英文翻譯是什麼？",
-    "correct": "doctor",
+  "q_vocab_a1_06_007": {
+    "question": "你 是 at a restaurant 和 waiter asks 什麼 你 want 到 drink. 如何 do 你 order a beer?",
+    "correct": "Una cerveza, por favor.",
     "wrong": [
-      "engineer",
-      "lawyer",
-      "artist"
+      "Un café, por favor.",
+      "Un té, por favor.",
+      "Un agua, por favor."
     ],
-    "explanation": "'médico' 的意思是 '醫生'（doctor）。"
+    "explanation": "'Cerveza' 意思是 'beer'. 'Una cerveza, por favor' 是 a polite way 到 order a beer at a restaurant."
   },
-  "q_vocab_a1_063": {
-    "question": "'corazón'的英文翻譯是什麼？",
-    "correct": "heart",
+  "q_vocab_a1_06_008": {
+    "question": "什麼 does 'ensalada' 表示 在 'La ensalada está rica'?",
+    "correct": "salad",
     "wrong": [
-      "eye",
-      "mouth",
-      "hand"
+      "soup",
+      "sandwich",
+      "omelette"
     ],
-    "explanation": "'corazón' 的意思是 '心'（heart）。"
+    "explanation": "'Ensalada' 意思是 'salad'. 'Rica' 這裡 意思是 'delicious'. sentence 意思是 ' salad 是 delicious'."
   },
-  "q_vocab_a1_064": {
-    "question": "'amarillo'的英文翻譯是什麼？",
-    "correct": "yellow",
+  "q_vocab_a1_06_009": {
+    "question": "Me gustan las frutas y las verduras.",
+    "correct": "I like fruits and vegetables.",
     "wrong": [
-      "black",
-      "blue",
-      "red"
+      "I like meat and fish.",
+      "I like bread and cheese.",
+      "I like coffee and tea."
     ],
-    "explanation": "'amarillo' 的意思是 '黃色'（yellow）。"
+    "explanation": "'Frutas' 意思是 'fruits' 和 'verduras' 意思是 'vegetables'. 'Me gustan' 是 用過的 與 複數 名詞."
   },
-  "q_vocab_a1_065": {
-    "question": "'queso'的英文翻譯是什麼？",
-    "correct": "cheese",
+  "q_vocab_a1_06_010": {
+    "question": "你 是 a guest at a 西班牙語 home 和 host offers 你 food. 如何 do 你 politely accept?",
+    "correct": "Sí, gracias. Tiene muy buena pinta.",
     "wrong": [
-      "bread",
-      "water",
-      "meat"
+      "No quiero nada.",
+      "Dame más comida.",
+      "No me gusta la comida española."
     ],
-    "explanation": "'queso' 的意思是 '起司'（cheese）。"
+    "explanation": "'Tiene muy buena pinta' 意思是 '它 looks 非常 good'. 這 是 a polite 和 appreciative way 到 accept food."
   },
-  "q_vocab_a1_066": {
-    "question": "'profesor'的英文翻譯是什麼？",
-    "correct": "teacher",
-    "wrong": [
-      "doctor",
-      "engineer",
-      "lawyer"
-    ],
-    "explanation": "'profesor' 的意思是 '老師'（teacher）。"
-  },
-  "q_vocab_a1_067": {
-    "question": "'cabeza'的英文翻譯是什麼？",
+  "q_vocab_a1_07_001": {
+    "question": "什麼 does 'cabeza' 表示?",
     "correct": "head",
     "wrong": [
-      "heart",
-      "eye",
-      "mouth"
+      "hand",
+      "foot",
+      "arm"
     ],
-    "explanation": "'cabeza' 的意思是 '頭'（head）。"
+    "explanation": "'Cabeza' 意思是 'head'. 'Me duele la cabeza' 意思是 'My head hurts' (I 有 a headache)."
   },
-  "q_vocab_a1_068": {
-    "question": "'verde'的英文翻譯是什麼？",
-    "correct": "green",
-    "wrong": [
-      "yellow",
-      "black",
-      "blue"
-    ],
-    "explanation": "'verde' 的意思是 '綠色'（green）。"
-  },
-  "q_vocab_a1_069": {
-    "question": "'leche'的英文翻譯是什麼？",
-    "correct": "milk",
-    "wrong": [
-      "cheese",
-      "bread",
-      "water"
-    ],
-    "explanation": "'leche' 的意思是 '牛奶'（milk）。"
-  },
-  "q_vocab_a1_070": {
-    "question": "'artista'的英文翻譯是什麼？",
-    "correct": "artist",
-    "wrong": [
-      "teacher",
-      "doctor",
-      "engineer"
-    ],
-    "explanation": "'artista' 的意思是 '藝術家'（artist）。"
-  },
-  "q_vocab_a1_071": {
-    "question": "'mano'的英文翻譯是什麼？",
+  "q_vocab_a1_07_002": {
+    "question": "什麼 does 'mano' 表示?",
     "correct": "hand",
     "wrong": [
-      "head",
-      "heart",
-      "eye"
+      "foot",
+      "arm",
+      "finger"
     ],
-    "explanation": "'mano' 的意思是 '手'（hand）。"
+    "explanation": "'Mano' 意思是 'hand'. 注意: despite 詞尾 在 -o, 'mano' 是 女性 (la mano)."
   },
-  "q_vocab_a1_072": {
-    "question": "'rojo'的英文翻譯是什麼？",
-    "correct": "red",
+  "q_vocab_a1_07_003": {
+    "question": "No puedo caminar, me duele el ___.",
+    "correct": "pie",
     "wrong": [
-      "green",
-      "yellow",
-      "black"
+      "ojo",
+      "dedo",
+      "diente"
     ],
-    "explanation": "'rojo' 的意思是 '紅色'（red）。"
+    "explanation": "'Pie' 意思是 'foot'. sentence says 'I cannot walk, my foot hurts'."
   },
-  "q_vocab_a1_073": {
-    "question": "'carne'的英文翻譯是什麼？",
-    "correct": "meat",
-    "wrong": [
-      "milk",
-      "cheese",
-      "bread"
-    ],
-    "explanation": "'carne' 的意思是 '肉'（meat）。"
-  },
-  "q_vocab_a1_074": {
-    "question": "'abogado'的英文翻譯是什麼？",
-    "correct": "lawyer",
-    "wrong": [
-      "artist",
-      "teacher",
-      "doctor"
-    ],
-    "explanation": "'abogado' 的意思是 '律師'（lawyer）。"
-  },
-  "q_vocab_a1_075": {
-    "question": "'boca'的英文翻譯是什麼？",
-    "correct": "mouth",
-    "wrong": [
-      "hand",
-      "head",
-      "heart"
-    ],
-    "explanation": "'boca' 的意思是 '嘴'（mouth）。"
-  },
-  "q_vocab_a1_076": {
-    "question": "'azul'的英文翻譯是什麼？",
-    "correct": "blue",
-    "wrong": [
-      "red",
-      "green",
-      "yellow"
-    ],
-    "explanation": "'azul' 的意思是 '藍色'（blue）。"
-  },
-  "q_vocab_a1_077": {
-    "question": "'agua'的英文翻譯是什麼？",
-    "correct": "water",
-    "wrong": [
-      "meat",
-      "milk",
-      "cheese"
-    ],
-    "explanation": "'agua' 的意思是 '水'（water）。"
-  },
-  "q_vocab_a1_078": {
-    "question": "'ingeniero'的英文翻譯是什麼？",
-    "correct": "engineer",
-    "wrong": [
-      "lawyer",
-      "artist",
-      "teacher"
-    ],
-    "explanation": "'ingeniero' 的意思是 '工程師'（engineer）。"
-  },
-  "q_vocab_a1_079": {
-    "question": "'ojo'的英文翻譯是什麼？",
+  "q_vocab_a1_07_004": {
+    "question": "什麼 does 'ojo' 表示?",
     "correct": "eye",
     "wrong": [
-      "mouth",
+      "ear",
+      "nose",
+      "mouth"
+    ],
+    "explanation": "'Ojo' 意思是 'eye'. 複數 是 'ojos'. 'Tiene los ojos azules' = 'He/She 有 blue eyes'."
+  },
+  "q_vocab_a1_07_005": {
+    "question": "什麼 does 'espalda' 表示 在 'Me duele la espalda'?",
+    "correct": "back",
+    "wrong": [
+      "stomach",
+      "chest",
+      "neck"
+    ],
+    "explanation": "'Espalda' 意思是 'back' (body part). sentence 意思是 'My back hurts'."
+  },
+  "q_vocab_a1_07_006": {
+    "question": "I brush my teeth every morning.",
+    "correct": "Me lavo los dientes cada mañana.",
+    "wrong": [
+      "Me lavo las manos cada mañana.",
+      "Me lavo el pelo cada mañana.",
+      "Me lavo los ojos cada mañana."
+    ],
+    "explanation": "'Dientes' 意思是 'teeth' (單數: 'diente'). 在 西班牙語, we say 'lavarse los dientes' (wash teeth) rather than 'brush'."
+  },
+  "q_vocab_a1_07_007": {
+    "question": "什麼 does 'boca' 表示 在 'Abre la boca'?",
+    "correct": "mouth",
+    "wrong": [
+      "eye",
       "hand",
-      "head"
+      "ear"
     ],
-    "explanation": "'ojo' 的意思是 '眼睛'（eye）。"
+    "explanation": "'Boca' 意思是 'mouth'. 'Abre la boca' 意思是 '打開 你的 mouth', commonly heard at dentist."
   },
-  "q_vocab_a1_080": {
-    "question": "'negro'的英文翻譯是什麼？",
-    "correct": "black",
+  "q_vocab_a1_07_008": {
+    "question": "Tengo el pelo largo y los ojos marrones.",
+    "correct": "I have long hair and brown eyes.",
     "wrong": [
-      "blue",
-      "red",
-      "green"
+      "I have short hair and blue eyes.",
+      "I have long arms and brown eyes.",
+      "I have long hair and green eyes."
     ],
-    "explanation": "'negro' 的意思是 '黑色'（black）。"
+    "explanation": "'Pelo' 意思是 'hair', 'largo' 意思是 'long', 和 'ojos marrones' 意思是 'brown eyes'."
   },
-  "q_vocab_a1_081": {
-    "question": "'pan'的英文翻譯是什麼？",
-    "correct": "bread",
+  "q_vocab_a1_07_009": {
+    "question": "你 是 at doctor's office 和 need 用來說 哪裡 它 hurts. 如何 do 你 say 'My stomach hurts'?",
+    "correct": "Me duele el estómago.",
     "wrong": [
-      "water",
-      "meat",
-      "milk"
+      "Me duele la cabeza.",
+      "Me duele la espalda.",
+      "Me duele el brazo."
     ],
-    "explanation": "'pan' 的意思是 '麵包'（bread）。"
+    "explanation": "'Estómago' 意思是 'stomach'. 'Me duele' 是 用過的 爲 單數 body parts 那 hurt."
   },
-  "q_vocab_a1_082": {
-    "question": "'médico'的英文翻譯是什麼？",
+  "q_vocab_a1_07_010": {
+    "question": "你 是 describing a friend's appearance. 如何 do 你 say 'She 有 big ears 和 a small nose'?",
+    "correct": "Tiene las orejas grandes y la nariz pequeña.",
+    "wrong": [
+      "Tiene los ojos grandes y la boca pequeña.",
+      "Tiene las orejas pequeñas y la nariz grande.",
+      "Tiene las manos grandes y los pies pequeños."
+    ],
+    "explanation": "'Orejas' 意思是 'ears' 和 'nariz' 意思是 'nose'. 在 西班牙語, we 使用 'tener' (到 有) 用來描述 physical features."
+  },
+  "q_vocab_a1_08_001": {
+    "question": "什麼 does 'zapatos' 表示?",
+    "correct": "shoes",
+    "wrong": [
+      "boots",
+      "socks",
+      "sandals"
+    ],
+    "explanation": "'Zapatos' 意思是 'shoes' (單數: 'zapato'). 'Un par de zapatos' = 'a pair 的 shoes'."
+  },
+  "q_vocab_a1_08_002": {
+    "question": "Hace frío, necesito mi ___.",
+    "correct": "abrigo",
+    "wrong": [
+      "camiseta",
+      "falda",
+      "sombrero"
+    ],
+    "explanation": "'Abrigo' 意思是 'coat'. sentence says '它's 冷, I need my coat'."
+  },
+  "q_vocab_a1_08_003": {
+    "question": "什麼 does 'camisa' 表示?",
+    "correct": "shirt",
+    "wrong": [
+      "t-shirt",
+      "jacket",
+      "dress"
+    ],
+    "explanation": "'Camisa' 意思是 'shirt' (typically a 正式/button-up shirt). A 'camiseta' 是 a t-shirt."
+  },
+  "q_vocab_a1_08_004": {
+    "question": "什麼 does 'vestido' 表示?",
+    "correct": "dress",
+    "wrong": [
+      "skirt",
+      "blouse",
+      "pants"
+    ],
+    "explanation": "'Vestido' 意思是 'dress'. 它 comes 來自 動詞 'vestir' (到 dress/到 wear)."
+  },
+  "q_vocab_a1_08_005": {
+    "question": "I am wearing black pants.",
+    "correct": "Llevo pantalones negros.",
+    "wrong": [
+      "Llevo pantalones blancos.",
+      "Llevo una falda negra.",
+      "Llevo zapatos negros."
+    ],
+    "explanation": "'Pantalones' 意思是 'pants/trousers'. 'Llevar' 是 commonly 用過的 爲 '到 wear' 在 西班牙語."
+  },
+  "q_vocab_a1_08_006": {
+    "question": "什麼 does 'bolso' 表示 在 'Llevo mi bolso al trabajo'?",
+    "correct": "bag / handbag",
+    "wrong": [
+      "wallet",
+      "belt",
+      "hat"
+    ],
+    "explanation": "'Bolso' 意思是 'bag' 或 'handbag'. sentence 意思是 'I take my bag 到 work'."
+  },
+  "q_vocab_a1_08_007": {
+    "question": "你 是 going 到 beach. Which item 將 你 NOT typically bring?",
+    "correct": "botas",
+    "wrong": [
+      "gafas",
+      "sombrero",
+      "camiseta"
+    ],
+    "explanation": "'Botas' 意思是 'boots', which 是 not 典型 beach wear. 'Gafas' (glasses/sunglasses) 和 'sombrero' (hat) 是 useful at beach."
+  },
+  "q_vocab_a1_08_008": {
+    "question": "什麼 does 'falda' 表示 在 'La falda es roja'?",
+    "correct": "skirt",
+    "wrong": [
+      "dress",
+      "shirt",
+      "jacket"
+    ],
+    "explanation": "'Falda' 意思是 'skirt'. sentence 意思是 ' skirt 是 red'."
+  },
+  "q_vocab_a1_08_009": {
+    "question": "Necesito un cinturón para estos pantalones.",
+    "correct": "I need a belt for these pants.",
+    "wrong": [
+      "I need a jacket for these pants.",
+      "I need socks for these shoes.",
+      "I need a hat for this dress."
+    ],
+    "explanation": "'Cinturón' 意思是 'belt'. sentence 意思是 你 need a belt 因爲 pants 是 too loose."
+  },
+  "q_vocab_a1_08_010": {
+    "question": "你 是 at a clothing store 和 want 到 try on a jacket. 什麼 do 你 say?",
+    "correct": "¿Puedo probarme esta chaqueta?",
+    "wrong": [
+      "¿Puedo comprar esta chaqueta?",
+      "¿Puedo ver esta chaqueta?",
+      "¿Puedo devolver esta chaqueta?"
+    ],
+    "explanation": "'Probarme' 意思是 '到 try on'. 'Chaqueta' 意思是 'jacket'. 這 是 a polite way 到 ask 到 try on clothing."
+  },
+  "q_vocab_a1_09_001": {
+    "question": "什麼 does 'cocina' 表示?",
+    "correct": "kitchen",
+    "wrong": [
+      "bedroom",
+      "bathroom",
+      "living room"
+    ],
+    "explanation": "'Cocina' 意思是 'kitchen'. 它 可以 也 意思 'cooking' 或 'stove' depending on context."
+  },
+  "q_vocab_a1_09_002": {
+    "question": "什麼 does 'ventana' 表示?",
+    "correct": "window",
+    "wrong": [
+      "door",
+      "wall",
+      "roof"
+    ],
+    "explanation": "'Ventana' 意思是 'window'. 'Abrir la ventana' = '到 打開 window'."
+  },
+  "q_vocab_a1_09_003": {
+    "question": "Duermo en la ___ todas las noches.",
+    "correct": "cama",
+    "wrong": [
+      "mesa",
+      "silla",
+      "puerta"
+    ],
+    "explanation": "'Cama' 意思是 'bed'. sentence says 'I sleep 在 bed every night'."
+  },
+  "q_vocab_a1_09_004": {
+    "question": "什麼 does 'puerta' 表示?",
+    "correct": "door",
+    "wrong": [
+      "window",
+      "floor",
+      "ceiling"
+    ],
+    "explanation": "'Puerta' 意思是 'door'. 'Abrir la puerta' = '到 打開 door', 'cerrar la puerta' = '到 close door'."
+  },
+  "q_vocab_a1_09_005": {
+    "question": "什麼 does 'sofá' 表示 在 'Me siento en el sofá'?",
+    "correct": "sofa / couch",
+    "wrong": [
+      "chair",
+      "bed",
+      "table"
+    ],
+    "explanation": "'Sofá' 意思是 'sofa' 或 'couch'. sentence 意思是 'I sit on sofa'. 它 是 通常 在 'salón' (living room)."
+  },
+  "q_vocab_a1_09_006": {
+    "question": " mirror 是 在 bathroom.",
+    "correct": "El espejo está en el baño.",
+    "wrong": [
+      "El espejo está en la cocina.",
+      "La lámpara está en el baño.",
+      "El armario está en el baño."
+    ],
+    "explanation": "'Espejo' 意思是 'mirror' 和 'baño' 意思是 'bathroom'. We 使用 'está' 爲 位置."
+  },
+  "q_vocab_a1_09_007": {
+    "question": "什麼 does 'armario' 表示 在 'La ropa está en el armario'?",
+    "correct": "wardrobe / closet",
+    "wrong": [
+      "drawer",
+      "shelf",
+      "box"
+    ],
+    "explanation": "'Armario' 意思是 'wardrobe' 或 'closet'. sentence 意思是 ' clothes 是 在 wardrobe'."
+  },
+  "q_vocab_a1_09_008": {
+    "question": "Hay una estantería con muchos libros en el salón.",
+    "correct": "There is a bookshelf with many books in the living room.",
+    "wrong": [
+      "There is a table with many books in the kitchen.",
+      "There is a bookshelf with many books in the bedroom.",
+      "There is a lamp with many books in the living room."
+    ],
+    "explanation": "'Estantería' 意思是 'bookshelf/shelving unit' 和 'salón' 意思是 'living room'. 'Hay' 意思是 '那裡 是/那裡 是'."
+  },
+  "q_vocab_a1_09_009": {
+    "question": "你 是 looking 爲 an apartment 和 want 到 ask if 它 有 a garden. 什麼 do 你 say?",
+    "correct": "¿El piso tiene jardín?",
+    "wrong": [
+      "¿El piso tiene cocina?",
+      "¿El piso tiene dormitorio?",
+      "¿El piso tiene baño?"
+    ],
+    "explanation": "'Jardín' 意思是 'garden'. 'Piso' 意思是 'apartment' 在 西班牙. 這 是 a 常見 question 什麼時候 apartment hunting."
+  },
+  "q_vocab_a1_09_010": {
+    "question": "A friend 是 visiting 你的 home. 如何 do 你 say ' bedroom 是 next 到 bathroom'?",
+    "correct": "El dormitorio está al lado del baño.",
+    "wrong": [
+      "El dormitorio está lejos del baño.",
+      "La cocina está al lado del baño.",
+      "El dormitorio está en el baño."
+    ],
+    "explanation": "'Dormitorio' 意思是 'bedroom', 'al lado de' 意思是 'next 到', 和 'baño' 意思是 'bathroom'."
+  },
+  "q_vocab_a1_10_001": {
+    "question": "什麼 does 'libro' 表示?",
+    "correct": "book",
+    "wrong": [
+      "notebook",
+      "pencil",
+      "pen"
+    ],
+    "explanation": "'Libro' 意思是 'book'. 'Librería' 意思是 'bookstore' (not 'library', which 是 'biblioteca')."
+  },
+  "q_vocab_a1_10_002": {
+    "question": "El estudiante escribe en el ___.",
+    "correct": "cuaderno",
+    "wrong": [
+      "libro",
+      "examen",
+      "pizarra"
+    ],
+    "explanation": "'Cuaderno' 意思是 'notebook'. sentence says ' student writes 在 notebook'."
+  },
+  "q_vocab_a1_10_003": {
+    "question": "什麼 does 'profesor' 表示?",
+    "correct": "teacher / professor",
+    "wrong": [
+      "student",
+      "principal",
+      "classmate"
+    ],
+    "explanation": "'Profesor' 意思是 'teacher' 或 'professor'. 女性 形式 是 'profesora'."
+  },
+  "q_vocab_a1_10_004": {
+    "question": "什麼 does 'examen' 表示?",
+    "correct": "exam / test",
+    "wrong": [
+      "homework",
+      "class",
+      "grade"
+    ],
+    "explanation": "'Examen' 意思是 'exam' 或 'test'. 複數 是 'exámenes' (注意 重音 shift)."
+  },
+  "q_vocab_a1_10_005": {
+    "question": "I study at library.",
+    "correct": "Estudio en la biblioteca.",
+    "wrong": [
+      "Estudio en la librería.",
+      "Estudio en la escuela.",
+      "Estudio en el aula."
+    ],
+    "explanation": "'Biblioteca' 意思是 'library'. 是 careful: 'librería' 意思是 'bookstore', not 'library'."
+  },
+  "q_vocab_a1_10_006": {
+    "question": "什麼 does 'pizarra' 表示 在 'El profesor escribe en la pizarra'?",
+    "correct": "blackboard / whiteboard",
+    "wrong": [
+      "desk",
+      "notebook",
+      "textbook"
+    ],
+    "explanation": "'Pizarra' 意思是 'blackboard' 或 'whiteboard'. sentence 意思是 ' teacher writes on board'."
+  },
+  "q_vocab_a1_10_007": {
+    "question": "你 forgot 到 do 你的 homework. 如何 do 你 tell 你的 teacher?",
+    "correct": "Lo siento, no tengo la tarea.",
+    "wrong": [
+      "Lo siento, no tengo el libro.",
+      "Lo siento, no tengo el bolígrafo.",
+      "Lo siento, no tengo el examen."
+    ],
+    "explanation": "'Tarea' 意思是 'homework' 或 'assignment'. 'Deberes' 是 也 用過的 在 西班牙 爲 homework."
+  },
+  "q_vocab_a1_10_008": {
+    "question": "什麼 does 'lápiz' 表示 在 'Necesito un lápiz'?",
+    "correct": "pencil",
+    "wrong": [
+      "pen",
+      "eraser",
+      "ruler"
+    ],
+    "explanation": "'Lápiz' 意思是 'pencil'. 複數 是 'lápices'. A pen 是 'bolígrafo' (或 'boli' informally)."
+  },
+  "q_vocab_a1_10_009": {
+    "question": "Mi hermana estudia en la universidad.",
+    "correct": "My sister studies at the university.",
+    "wrong": [
+      "My sister studies at the school.",
+      "My brother studies at the university.",
+      "My sister works at the university."
+    ],
+    "explanation": "'Universidad' 意思是 'university'. 'Estudiar en la universidad' = '到 study at university'."
+  },
+  "q_vocab_a1_10_010": {
+    "question": "你 need 到 borrow a pen 從 a classmate. 什麼 do 你 say?",
+    "correct": "¿Me prestas un bolígrafo?",
+    "wrong": [
+      "¿Me prestas un lápiz?",
+      "¿Me prestas un cuaderno?",
+      "¿Me prestas un libro?"
+    ],
+    "explanation": "'Bolígrafo' 意思是 'pen'. '¿Me prestas...?' 意思是 '可以 你 lend me...?' which 是 常見 among classmates."
+  },
+  "q_vocab_a1_11_001": {
+    "question": "什麼 does 'médico' 表示?",
     "correct": "doctor",
     "wrong": [
-      "engineer",
-      "lawyer",
-      "artist"
+      "nurse",
+      "dentist",
+      "pharmacist"
     ],
-    "explanation": "'médico' 的意思是 '醫生'（doctor）。"
+    "explanation": "'Médico' 意思是 'doctor'. 女性 形式 是 'médica'. 'Doctor/Doctora' 是 也 commonly 用過的."
   },
-  "q_vocab_a1_083": {
-    "question": "'corazón'的英文翻譯是什麼？",
-    "correct": "heart",
-    "wrong": [
-      "eye",
-      "mouth",
-      "hand"
-    ],
-    "explanation": "'corazón' 的意思是 '心'（heart）。"
-  },
-  "q_vocab_a1_084": {
-    "question": "'amarillo'的英文翻譯是什麼？",
-    "correct": "yellow",
-    "wrong": [
-      "black",
-      "blue",
-      "red"
-    ],
-    "explanation": "'amarillo' 的意思是 '黃色'（yellow）。"
-  },
-  "q_vocab_a1_085": {
-    "question": "'queso'的英文翻譯是什麼？",
-    "correct": "cheese",
-    "wrong": [
-      "bread",
-      "water",
-      "meat"
-    ],
-    "explanation": "'queso' 的意思是 '起司'（cheese）。"
-  },
-  "q_vocab_a1_086": {
-    "question": "'profesor'的英文翻譯是什麼？",
-    "correct": "teacher",
-    "wrong": [
-      "doctor",
-      "engineer",
-      "lawyer"
-    ],
-    "explanation": "'profesor' 的意思是 '老師'（teacher）。"
-  },
-  "q_vocab_a1_087": {
-    "question": "'cabeza'的英文翻譯是什麼？",
-    "correct": "head",
-    "wrong": [
-      "heart",
-      "eye",
-      "mouth"
-    ],
-    "explanation": "'cabeza' 的意思是 '頭'（head）。"
-  },
-  "q_vocab_a1_088": {
-    "question": "'verde'的英文翻譯是什麼？",
-    "correct": "green",
-    "wrong": [
-      "yellow",
-      "black",
-      "blue"
-    ],
-    "explanation": "'verde' 的意思是 '綠色'（green）。"
-  },
-  "q_vocab_a1_089": {
-    "question": "'leche'的英文翻譯是什麼？",
-    "correct": "milk",
-    "wrong": [
-      "cheese",
-      "bread",
-      "water"
-    ],
-    "explanation": "'leche' 的意思是 '牛奶'（milk）。"
-  },
-  "q_vocab_a1_090": {
-    "question": "'artista'的英文翻譯是什麼？",
-    "correct": "artist",
-    "wrong": [
-      "teacher",
-      "doctor",
-      "engineer"
-    ],
-    "explanation": "'artista' 的意思是 '藝術家'（artist）。"
-  },
-  "q_vocab_a1_091": {
-    "question": "'mano'的英文翻譯是什麼？",
-    "correct": "hand",
-    "wrong": [
-      "head",
-      "heart",
-      "eye"
-    ],
-    "explanation": "'mano' 的意思是 '手'（hand）。"
-  },
-  "q_vocab_a1_092": {
-    "question": "'rojo'的英文翻譯是什麼？",
-    "correct": "red",
-    "wrong": [
-      "green",
-      "yellow",
-      "black"
-    ],
-    "explanation": "'rojo' 的意思是 '紅色'（red）。"
-  },
-  "q_vocab_a1_093": {
-    "question": "'carne'的英文翻譯是什麼？",
-    "correct": "meat",
-    "wrong": [
-      "milk",
-      "cheese",
-      "bread"
-    ],
-    "explanation": "'carne' 的意思是 '肉'（meat）。"
-  },
-  "q_vocab_a1_094": {
-    "question": "'abogado'的英文翻譯是什麼？",
+  "q_vocab_a1_11_002": {
+    "question": "什麼 does 'abogado' 表示?",
     "correct": "lawyer",
     "wrong": [
-      "artist",
-      "teacher",
-      "doctor"
-    ],
-    "explanation": "'abogado' 的意思是 '律師'（lawyer）。"
-  },
-  "q_vocab_a1_095": {
-    "question": "'boca'的英文翻譯是什麼？",
-    "correct": "mouth",
-    "wrong": [
-      "hand",
-      "head",
-      "heart"
-    ],
-    "explanation": "'boca' 的意思是 '嘴'（mouth）。"
-  },
-  "q_vocab_a1_096": {
-    "question": "'azul'的英文翻譯是什麼？",
-    "correct": "blue",
-    "wrong": [
-      "red",
-      "green",
-      "yellow"
-    ],
-    "explanation": "'azul' 的意思是 '藍色'（blue）。"
-  },
-  "q_vocab_a1_097": {
-    "question": "'agua'的英文翻譯是什麼？",
-    "correct": "water",
-    "wrong": [
-      "meat",
-      "milk",
-      "cheese"
-    ],
-    "explanation": "'agua' 的意思是 '水'（water）。"
-  },
-  "q_vocab_a1_098": {
-    "question": "'ingeniero'的英文翻譯是什麼？",
-    "correct": "engineer",
-    "wrong": [
-      "lawyer",
-      "artist",
-      "teacher"
-    ],
-    "explanation": "'ingeniero' 的意思是 '工程師'（engineer）。"
-  },
-  "q_vocab_a1_099": {
-    "question": "'ojo'的英文翻譯是什麼？",
-    "correct": "eye",
-    "wrong": [
-      "mouth",
-      "hand",
-      "head"
-    ],
-    "explanation": "'ojo' 的意思是 '眼睛'（eye）。"
-  },
-  "q_vocab_a1_100": {
-    "question": "'negro'的英文翻譯是什麼？",
-    "correct": "black",
-    "wrong": [
-      "blue",
-      "red",
-      "green"
-    ],
-    "explanation": "'negro' 的意思是 '黑色'（black）。"
-  },
-  "q_vocab_a1_101": {
-    "question": "'pan'的英文翻譯是什麼？",
-    "correct": "bread",
-    "wrong": [
-      "water",
-      "meat",
-      "milk"
-    ],
-    "explanation": "'pan' 的意思是 '麵包'（bread）。"
-  },
-  "q_vocab_a1_102": {
-    "question": "'médico'的英文翻譯是什麼？",
-    "correct": "doctor",
-    "wrong": [
       "engineer",
-      "lawyer",
-      "artist"
+      "journalist",
+      "accountant"
     ],
-    "explanation": "'médico' 的意思是 '醫生'（doctor）。"
+    "explanation": "'Abogado' 意思是 'lawyer'. 女性 形式 是 'abogada'."
   },
-  "q_vocab_a1_103": {
-    "question": "'corazón'的英文翻譯是什麼？",
-    "correct": "heart",
+  "q_vocab_a1_11_003": {
+    "question": "El ___ prepara la comida en el restaurante.",
+    "correct": "cocinero",
     "wrong": [
-      "eye",
-      "mouth",
-      "hand"
+      "camarero",
+      "dentista",
+      "policía"
     ],
-    "explanation": "'corazón' 的意思是 '心'（heart）。"
+    "explanation": "'Cocinero' 意思是 'cook/chef'. sentence says ' cook prepares food 在 restaurant'."
   },
-  "q_vocab_a1_104": {
-    "question": "'amarillo'的英文翻譯是什麼？",
-    "correct": "yellow",
-    "wrong": [
-      "black",
-      "blue",
-      "red"
-    ],
-    "explanation": "'amarillo' 的意思是 '黃色'（yellow）。"
-  },
-  "q_vocab_a1_105": {
-    "question": "'queso'的英文翻譯是什麼？",
-    "correct": "cheese",
-    "wrong": [
-      "bread",
-      "water",
-      "meat"
-    ],
-    "explanation": "'queso' 的意思是 '起司'（cheese）。"
-  },
-  "q_vocab_a1_106": {
-    "question": "'profesor'的英文翻譯是什麼？",
-    "correct": "teacher",
+  "q_vocab_a1_11_004": {
+    "question": "什麼 does 'enfermero' 表示?",
+    "correct": "nurse",
     "wrong": [
       "doctor",
-      "engineer",
-      "lawyer"
+      "dentist",
+      "patient"
     ],
-    "explanation": "'profesor' 的意思是 '老師'（teacher）。"
+    "explanation": "'Enfermero' 意思是 'nurse' (male). 'Enfermera' 是 女性 形式. 他們 work 在 hospitals 和 clinics."
   },
-  "q_vocab_a1_107": {
-    "question": "'cabeza'的英文翻譯是什麼？",
-    "correct": "head",
+  "q_vocab_a1_11_005": {
+    "question": "什麼 does 'periodista' 表示 在 'El periodista trabaja en un periódico'?",
+    "correct": "journalist",
     "wrong": [
-      "heart",
-      "eye",
-      "mouth"
+      "writer",
+      "editor",
+      "photographer"
     ],
-    "explanation": "'cabeza' 的意思是 '頭'（head）。"
+    "explanation": "'Periodista' 意思是 'journalist'. 這 詞 是 相同 爲 男性 和 女性. sentence 意思是 ' journalist works at a newspaper'."
   },
-  "q_vocab_a1_108": {
-    "question": "'verde'的英文翻譯是什麼？",
-    "correct": "green",
+  "q_vocab_a1_11_006": {
+    "question": "My father 是 an engineer.",
+    "correct": "Mi padre es ingeniero.",
     "wrong": [
-      "yellow",
-      "black",
-      "blue"
+      "Mi padre es abogado.",
+      "Mi padre es profesor.",
+      "Mi padre es médico."
     ],
-    "explanation": "'verde' 的意思是 '綠色'（green）。"
+    "explanation": "'Ingeniero' 意思是 'engineer'. 在 西班牙語, professions 之後 'ser' typically don't 使用 an 冠詞 (no 'un')."
   },
-  "q_vocab_a1_109": {
-    "question": "'leche'的英文翻譯是什麼？",
-    "correct": "milk",
+  "q_vocab_a1_11_007": {
+    "question": "什麼 does 'camarero' 表示 在 'El camarero trae la cuenta'?",
+    "correct": "waiter",
     "wrong": [
-      "cheese",
-      "bread",
-      "water"
+      "chef",
+      "manager",
+      "customer"
     ],
-    "explanation": "'leche' 的意思是 '牛奶'（milk）。"
+    "explanation": "'Camarero' 意思是 'waiter'. sentence 意思是 ' waiter brings bill'. 'Camarera' 是 a waitress."
   },
-  "q_vocab_a1_110": {
-    "question": "'artista'的英文翻譯是什麼？",
-    "correct": "artist",
+  "q_vocab_a1_11_008": {
+    "question": "Soy estudiante de medicina. Quiero ser médico.",
+    "correct": "I am a medical student. I want to be a doctor.",
     "wrong": [
-      "teacher",
-      "doctor",
-      "engineer"
+      "I am a law student. I want to be a lawyer.",
+      "I am a medical student. I want to be a nurse.",
+      "I am an art student. I want to be a doctor."
     ],
-    "explanation": "'artista' 的意思是 '藝術家'（artist）。"
+    "explanation": "'Estudiante de medicina' 意思是 'medical student'. 'Quiero ser' 意思是 'I want 到 是'."
   },
-  "q_vocab_a1_111": {
-    "question": "'mano'的英文翻譯是什麼？",
-    "correct": "hand",
+  "q_vocab_a1_11_009": {
+    "question": "你 meet someone at a party 和 他們 ask 什麼 你 do. 如何 do 你 say 'I am a teacher'?",
+    "correct": "Soy profesor.",
     "wrong": [
-      "head",
-      "heart",
-      "eye"
+      "Soy estudiante.",
+      "Soy un profesor.",
+      "Estoy profesor."
     ],
-    "explanation": "'mano' 的意思是 '手'（hand）。"
+    "explanation": "We 使用 'soy' (not 'estoy') 爲 professions 因爲 他們 是 considered 永久 traits. No 冠詞 是 needed 之前 職業."
   },
-  "q_vocab_a1_112": {
-    "question": "'rojo'的英文翻譯是什麼？",
-    "correct": "red",
+  "q_vocab_a1_11_010": {
+    "question": "你 call emergency services. 如何 do 你 ask 爲 police?",
+    "correct": "¡Necesito la policía!",
     "wrong": [
-      "green",
-      "yellow",
-      "black"
+      "¡Necesito un médico!",
+      "¡Necesito un bombero!",
+      "¡Necesito una ambulancia!"
     ],
-    "explanation": "'rojo' 的意思是 '紅色'（red）。"
+    "explanation": "'Policía' 可以 意思 'police' ( force) 或 'police officer'. 這裡 它 指 calling police."
   },
-  "q_vocab_a1_113": {
-    "question": "'carne'的英文翻譯是什麼？",
-    "correct": "meat",
+  "q_vocab_a1_12_001": {
+    "question": "什麼 does 'sol' 表示?",
+    "correct": "sun",
     "wrong": [
-      "milk",
-      "cheese",
-      "bread"
+      "moon",
+      "star",
+      "cloud"
     ],
-    "explanation": "'carne' 的意思是 '肉'（meat）。"
+    "explanation": "'Sol' 意思是 'sun'. 'Hace sol' 意思是 '它 是 sunny' (literally '它 makes sun')."
   },
-  "q_vocab_a1_114": {
-    "question": "'abogado'的英文翻譯是什麼？",
-    "correct": "lawyer",
+  "q_vocab_a1_12_002": {
+    "question": "Hoy no hay ___, el cielo está azul.",
+    "correct": "nubes",
     "wrong": [
-      "artist",
-      "teacher",
-      "doctor"
+      "sol",
+      "lluvia",
+      "viento"
     ],
-    "explanation": "'abogado' 的意思是 '律師'（lawyer）。"
+    "explanation": "'Nubes' 意思是 'clouds' (單數: 'nube'). sentence says 'Today 那裡 是 no clouds, sky 是 blue'."
   },
-  "q_vocab_a1_115": {
-    "question": "'boca'的英文翻譯是什麼？",
-    "correct": "mouth",
+  "q_vocab_a1_12_003": {
+    "question": "什麼 does 'lluvia' 表示?",
+    "correct": "rain",
     "wrong": [
-      "hand",
-      "head",
-      "heart"
+      "snow",
+      "wind",
+      "storm"
     ],
-    "explanation": "'boca' 的意思是 '嘴'（mouth）。"
+    "explanation": "'Lluvia' 意思是 'rain'. 動詞 形式 是 'llover' (到 rain): 'Está lloviendo' = '它 是 raining'."
   },
-  "q_vocab_a1_116": {
-    "question": "'azul'的英文翻譯是什麼？",
-    "correct": "blue",
+  "q_vocab_a1_12_004": {
+    "question": "什麼 does 'árbol' 表示?",
+    "correct": "tree",
     "wrong": [
-      "red",
-      "green",
-      "yellow"
+      "flower",
+      "bush",
+      "leaf"
     ],
-    "explanation": "'azul' 的意思是 '藍色'（blue）。"
+    "explanation": "'Árbol' 意思是 'tree'. 複數 是 'árboles'. 'Bosque' 意思是 'forest' (許多 trees)."
   },
-  "q_vocab_a1_117": {
-    "question": "'agua'的英文翻譯是什麼？",
-    "correct": "water",
+  "q_vocab_a1_12_005": {
+    "question": "它 是 非常 cold today 和 它 是 snowing.",
+    "correct": "Hoy hace mucho frío y está nevando.",
     "wrong": [
-      "meat",
-      "milk",
-      "cheese"
+      "Hoy hace mucho calor y está nevando.",
+      "Hoy hace mucho frío y está lloviendo.",
+      "Hoy hace mucho viento y está nevando."
     ],
-    "explanation": "'agua' 的意思是 '水'（water）。"
+    "explanation": "'Frío' 意思是 '冷', 'nieve' 意思是 'snow', 和 'nevar' 意思是 '到 snow'. 'Está nevando' = '它 是 snowing'."
   },
-  "q_vocab_a1_118": {
-    "question": "'ingeniero'的英文翻譯是什麼？",
-    "correct": "engineer",
+  "q_vocab_a1_12_006": {
+    "question": "什麼 does 'montaña' 表示 在 'Vamos a la montaña este fin de semana'?",
+    "correct": "mountain",
     "wrong": [
-      "lawyer",
-      "artist",
-      "teacher"
+      "beach",
+      "river",
+      "lake"
     ],
-    "explanation": "'ingeniero' 的意思是 '工程師'（engineer）。"
+    "explanation": "'Montaña' 意思是 'mountain'. sentence 意思是 'We 是 going 到 mountain 這 weekend'."
   },
-  "q_vocab_a1_119": {
-    "question": "'ojo'的英文翻譯是什麼？",
-    "correct": "eye",
+  "q_vocab_a1_12_007": {
+    "question": "你 want 到 go 到 beach. 什麼 weather do 你 hope 爲?",
+    "correct": "Hace sol y calor.",
     "wrong": [
-      "mouth",
-      "hand",
-      "head"
+      "Llueve mucho.",
+      "Hace frío y viento.",
+      "Está nevando."
     ],
-    "explanation": "'ojo' 的意思是 '眼睛'（eye）。"
+    "explanation": "'Hace sol y calor' 意思是 '它 是 sunny 和 熱'. 這 是 ideal beach weather. 'Calor' 意思是 'heat/熱'."
   },
-  "q_vocab_a1_120": {
-    "question": "'negro'的英文翻譯是什麼？",
-    "correct": "black",
+  "q_vocab_a1_12_008": {
+    "question": "什麼 does 'río' 表示 在 'El río es muy largo'?",
+    "correct": "river",
     "wrong": [
-      "blue",
-      "red",
-      "green"
+      "sea",
+      "lake",
+      "stream"
     ],
-    "explanation": "'negro' 的意思是 '黑色'（black）。"
+    "explanation": "'Río' 意思是 'river'. sentence 意思是 ' river 是 非常 long'. 'Mar' 意思是 'sea'."
+  },
+  "q_vocab_a1_12_009": {
+    "question": "Las flores son muy bonitas en primavera.",
+    "correct": "The flowers are very pretty in spring.",
+    "wrong": [
+      "The trees are very pretty in spring.",
+      "The flowers are very pretty in summer.",
+      "The flowers are very big in spring."
+    ],
+    "explanation": "'Flores' 意思是 'flowers' (單數: 'flor'). 'Bonitas' 意思是 'pretty'. Flowers typically bloom 在 'primavera' (spring)."
+  },
+  "q_vocab_a1_12_010": {
+    "question": "你 是 watching weather forecast 和 want 到 know about tomorrow. 如何 do 你 ask '什麼 will weather 是 like tomorrow?'",
+    "correct": "¿Qué tiempo hará mañana?",
+    "wrong": [
+      "¿Qué hora es mañana?",
+      "¿Qué día es mañana?",
+      "¿Cuándo es mañana?"
+    ],
+    "explanation": "'Tiempo' 這裡 意思是 'weather' (它 可以 也 意思 '時間'). '¿Qué tiempo hará?' uses future tense 的 'hacer'."
+  },
+  "q_vocab_a1_13_001": {
+    "question": "什麼 does 'coche' 表示?",
+    "correct": "car",
+    "wrong": [
+      "bus",
+      "train",
+      "bicycle"
+    ],
+    "explanation": "'Coche' 意思是 'car'. 在 拉丁美洲, 'carro' 或 'auto' 是 more commonly 用過的."
+  },
+  "q_vocab_a1_13_002": {
+    "question": "什麼 does 'avión' 表示?",
+    "correct": "airplane",
+    "wrong": [
+      "train",
+      "boat",
+      "helicopter"
+    ],
+    "explanation": "'Avión' 意思是 'airplane'. 'Aeropuerto' 意思是 'airport'. 'Viajar en avión' = '到 travel 由 plane'."
+  },
+  "q_vocab_a1_13_003": {
+    "question": "Voy al trabajo en ___ porque no tengo coche.",
+    "correct": "autobús",
+    "wrong": [
+      "avión",
+      "barco",
+      "taxi"
+    ],
+    "explanation": "'Autobús' 意思是 'bus'. sentence says 'I go 到 work 由 bus 因爲 I don't 有 a car'."
+  },
+  "q_vocab_a1_13_004": {
+    "question": "什麼 does 'bicicleta' 表示?",
+    "correct": "bicycle",
+    "wrong": [
+      "motorcycle",
+      "scooter",
+      "car"
+    ],
+    "explanation": "'Bicicleta' 意思是 'bicycle'. 它 是 經常 shortened 到 'bici' 在 casual speech."
+  },
+  "q_vocab_a1_13_005": {
+    "question": "什麼 does 'metro' 表示 在 'Tomo el metro para ir al centro'?",
+    "correct": "subway / metro",
+    "wrong": [
+      "bus",
+      "taxi",
+      "tram"
+    ],
+    "explanation": "'Metro' 意思是 'subway' 或 'metro'. sentence 意思是 'I take metro 到 go 到 center (downtown)'."
+  },
+  "q_vocab_a1_13_006": {
+    "question": "I go 到 school on foot.",
+    "correct": "Voy a la escuela a pie.",
+    "wrong": [
+      "Voy a la escuela en coche.",
+      "Voy a la escuela en tren.",
+      "Voy a la escuela en moto."
+    ],
+    "explanation": "'A pie' 意思是 'on foot'. We say 'ir a pie' (到 go on foot) rather than 'caminar a' 在 這 context."
+  },
+  "q_vocab_a1_13_007": {
+    "question": "什麼 does 'tren' 表示 在 'El tren sale a las ocho'?",
+    "correct": "train",
+    "wrong": [
+      "bus",
+      "plane",
+      "taxi"
+    ],
+    "explanation": "'Tren' 意思是 'train'. sentence 意思是 ' train leaves at eight'. 'Estación de tren' = 'train station'."
+  },
+  "q_vocab_a1_13_008": {
+    "question": "Quiero viajar a la isla en barco.",
+    "correct": "I want to travel to the island by boat.",
+    "wrong": [
+      "I want to travel to the island by plane.",
+      "I want to travel to the city by boat.",
+      "I want to travel to the island by train."
+    ],
+    "explanation": "'Barco' 意思是 'boat' 或 'ship'. 'Isla' 意思是 'island'. 'En barco' 意思是 '由 boat'."
+  },
+  "q_vocab_a1_13_009": {
+    "question": "你 need 到 get 到 airport quickly. 什麼 是 best option?",
+    "correct": "Voy a tomar un taxi.",
+    "wrong": [
+      "Voy a ir a pie.",
+      "Voy a tomar el barco.",
+      "Voy a ir en bicicleta."
+    ],
+    "explanation": "'Taxi' 是 相同 詞 在 西班牙語 和 英語. A taxi 是 fastest 和 最 practical way 到 get 到 airport."
+  },
+  "q_vocab_a1_13_010": {
+    "question": "你的 friend asks 如何 你 commute 到 work. 如何 do 你 say 'I ride my motorcycle 到 work'?",
+    "correct": "Voy al trabajo en moto.",
+    "wrong": [
+      "Voy al trabajo en metro.",
+      "Voy al trabajo en taxi.",
+      "Voy al trabajo a pie."
+    ],
+    "explanation": "'Moto' 是 short 爲 'motocicleta' (motorcycle). 'En moto' 意思是 '由 motorcycle'. 'Ir en moto' 是 natural expression."
+  },
+  "q_vocab_a1_14_001": {
+    "question": "什麼 does 'comer' 表示?",
+    "correct": "to eat",
+    "wrong": [
+      "to drink",
+      "to cook",
+      "to sleep"
+    ],
+    "explanation": "'Comer' 意思是 '到 eat'. 'La comida' 意思是 ' food' 或 ' meal' (特別是 lunch 在 西班牙)."
+  },
+  "q_vocab_a1_14_002": {
+    "question": "Me gusta ___ libros por la noche.",
+    "correct": "leer",
+    "wrong": [
+      "ver",
+      "hacer",
+      "dormir"
+    ],
+    "explanation": "'Leer' 意思是 '到 read'. sentence says 'I like 到 read books at night'."
+  },
+  "q_vocab_a1_14_003": {
+    "question": "什麼 does 'dormir' 表示?",
+    "correct": "to sleep",
+    "wrong": [
+      "to dream",
+      "to rest",
+      "to wake up"
+    ],
+    "explanation": "'Dormir' 意思是 '到 sleep'. 它 是 a 詞根-改變 動詞: duermo, duermes, duerme..."
+  },
+  "q_vocab_a1_14_004": {
+    "question": "什麼 does 'hablar' 表示?",
+    "correct": "to speak / to talk",
+    "wrong": [
+      "to listen",
+      "to write",
+      "to read"
+    ],
+    "explanation": "'Hablar' 意思是 '到 speak' 或 '到 talk'. 'Hablar español' = '到 speak 西班牙語'."
+  },
+  "q_vocab_a1_14_005": {
+    "question": "I open window every morning.",
+    "correct": "Abro la ventana cada mañana.",
+    "wrong": [
+      "Cierro la ventana cada mañana.",
+      "Abro la puerta cada mañana.",
+      "Abro la ventana cada noche."
+    ],
+    "explanation": "'Abrir' 意思是 '到 打開'. 'Abro' 是 第一 人稱 單數 (yo) 形式. Its opposite 是 'cerrar' (到 close)."
+  },
+  "q_vocab_a1_14_006": {
+    "question": "什麼 does 'escribir' 表示 在 'Escribo un correo electrónico'?",
+    "correct": "to write",
+    "wrong": [
+      "to read",
+      "to send",
+      "to type"
+    ],
+    "explanation": "'Escribir' 意思是 '到 write'. sentence 意思是 'I write an email'. 'Correo electrónico' = 'email'."
+  },
+  "q_vocab_a1_14_007": {
+    "question": "你 是 at a bus stop 和 bus 是 late. 什麼 動詞 describes 什麼 你 是 doing?",
+    "correct": "esperar",
+    "wrong": [
+      "correr",
+      "llamar",
+      "dormir"
+    ],
+    "explanation": "'Esperar' 意思是 '到 wait'. 'Estoy esperando el autobús' = 'I am waiting 爲 bus'."
+  },
+  "q_vocab_a1_14_008": {
+    "question": "什麼 does 'beber' 表示 在 '¿Quieres beber algo?'?",
+    "correct": "to drink",
+    "wrong": [
+      "to eat",
+      "to buy",
+      "to want"
+    ],
+    "explanation": "'Beber' 意思是 '到 drink'. sentence 意思是 '做 你 want 到 drink something?' 'Tomar' 是 也 用過的 爲 '到 drink'."
+  },
+  "q_vocab_a1_14_009": {
+    "question": "Me levanto a las siete y me ducho antes de desayunar.",
+    "correct": "I get up at seven and I shower before having breakfast.",
+    "wrong": [
+      "I go to bed at seven and I shower before dinner.",
+      "I get up at seven and I eat before showering.",
+      "I get up at eight and I shower before having breakfast."
+    ],
+    "explanation": "'Levantarse' 意思是 '到 get up', 'ducharse' 意思是 '到 shower', 和 'desayunar' 意思是 '到 有 breakfast'."
+  },
+  "q_vocab_a1_14_010": {
+    "question": "你的 phone rings during a meeting. 如何 do 你 tell 你的 colleagues 什麼 你 need 到 do?",
+    "correct": "Necesito llamar por teléfono.",
+    "wrong": [
+      "Necesito dormir un poco.",
+      "Necesito comer algo.",
+      "Necesito leer un libro."
+    ],
+    "explanation": "'Llamar' 意思是 '到 call'. 'Llamar por teléfono' 意思是 '到 製造 a phone call'. 它 可以 也 意思 '到 call/name'."
+  },
+  "q_vocab_a1_15_001": {
+    "question": "什麼 does 'contento' 表示?",
+    "correct": "happy / pleased",
+    "wrong": [
+      "sad",
+      "angry",
+      "tired"
+    ],
+    "explanation": "'Contento' 意思是 '快樂' 或 'pleased'. 女性 形式 是 'contenta'. 相似 到 'feliz' 但是 less intense."
+  },
+  "q_vocab_a1_15_002": {
+    "question": "什麼 does 'triste' 表示?",
+    "correct": "sad",
+    "wrong": [
+      "happy",
+      "angry",
+      "bored"
+    ],
+    "explanation": "'Triste' 意思是 '悲傷'. Unlike 許多 形容詞, 它 有 相同 形式 爲 男性 和 女性."
+  },
+  "q_vocab_a1_15_003": {
+    "question": "Estoy muy ___ después de trabajar todo el día.",
+    "correct": "cansado",
+    "wrong": [
+      "contento",
+      "nervioso",
+      "aburrido"
+    ],
+    "explanation": "'Cansado' 意思是 '疲倦'. sentence says 'I am 非常 疲倦 之後 working 所有 天'. 使用 'estar' 爲 臨時 states."
+  },
+  "q_vocab_a1_15_004": {
+    "question": "什麼 does 'enfermo' 表示?",
+    "correct": "sick / ill",
+    "wrong": [
+      "healthy",
+      "tired",
+      "sad"
+    ],
+    "explanation": "'Enfermo' 意思是 '病' 或 'ill'. 'Estoy enfermo' = 'I am 病'. 女性 形式 是 'enferma'."
+  },
+  "q_vocab_a1_15_005": {
+    "question": "什麼 does 'preocupado' 表示 在 'Estoy preocupado por el examen'?",
+    "correct": "worried",
+    "wrong": [
+      "excited",
+      "nervous",
+      "bored"
+    ],
+    "explanation": "'Preocupado' 意思是 'worried'. sentence 意思是 'I am worried about exam'. 'Preocuparse' = '到 worry'."
+  },
+  "q_vocab_a1_15_006": {
+    "question": "I am 非常 nervous about interview.",
+    "correct": "Estoy muy nervioso por la entrevista.",
+    "wrong": [
+      "Estoy muy contento por la entrevista.",
+      "Estoy muy aburrido por la entrevista.",
+      "Soy muy nervioso por la entrevista."
+    ],
+    "explanation": "'Nervioso' 意思是 'nervous'. We 使用 'estar' (not 'ser') 因爲 nervousness 是 a 臨時 狀態.",
+    "hint": "臨時 emotions 使用 'estar', not 'ser'"
+  },
+  "q_vocab_a1_15_007": {
+    "question": "什麼 does 'enfadado' 表示 在 'Mi padre está enfadado conmigo'?",
+    "correct": "angry",
+    "wrong": [
+      "happy",
+      "proud",
+      "disappointed"
+    ],
+    "explanation": "'Enfadado' 意思是 '憤怒'. sentence 意思是 'My father 是 憤怒 與 me'. 在 拉丁美洲, 'enojado' 是 more 常見."
+  },
+  "q_vocab_a1_15_008": {
+    "question": "¿Cómo estás? — Estoy bien, gracias.",
+    "correct": "How are you? — I am fine, thank you.",
+    "wrong": [
+      "How are you? — I am bad, thank you.",
+      "What is your name? — I am fine, thank you.",
+      "How are you? — I am tired, thank you."
+    ],
+    "explanation": "'Bien' 意思是 'fine' 或 'well'. 'Estoy bien' 是 標準 positive response 到 '¿Cómo estás?'."
+  },
+  "q_vocab_a1_15_009": {
+    "question": "你的 friend got a surprise birthday party. 如何 將 你 describe their reaction?",
+    "correct": "Está muy sorprendido y emocionado.",
+    "wrong": [
+      "Está muy triste y cansado.",
+      "Está muy enfadado y preocupado.",
+      "Está muy aburrido y nervioso."
+    ],
+    "explanation": "'Sorprendido' 意思是 'surprised' 和 'emocionado' 意思是 'excited/thrilled'. 兩者 使用 'estar' 爲 臨時 states."
+  },
+  "q_vocab_a1_15_010": {
+    "question": "你的 colleague says 他們 有 nothing 到 do at work. Which 詞 best describes 如何 他們 feel?",
+    "correct": "aburrido",
+    "wrong": [
+      "ocupado",
+      "nervioso",
+      "enfermo"
+    ],
+    "explanation": "'Aburrido' 意思是 'bored'. Its opposite 是 'ocupado' (busy). 什麼時候 someone 有 nothing 到 做, 他們 feel 'aburrido'."
   }
 }

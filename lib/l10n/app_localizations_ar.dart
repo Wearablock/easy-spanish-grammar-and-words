@@ -528,6 +528,9 @@ class AppLocalizationsAr extends AppLocalizations {
   String get speakingTest => 'اختبار المحادثة';
 
   @override
+  String get speakingBrowseAll => 'تصفح الكل';
+
+  @override
   String get speakingFeatureDesc =>
       'تدرّب على عشرات التنويعات من جملة واحدة: تغيير الفاعل، النفي، السؤال، استبدال الكلمات.';
 
@@ -626,6 +629,9 @@ class AppLocalizationsAr extends AppLocalizations {
   String variationNounSwap(String noun) {
     return 'تبديل كلمة · $noun';
   }
+
+  @override
+  String get variationPhrase => 'تعبير';
 
   @override
   String get feedbackPerfect => 'ممتاز! 🎉';

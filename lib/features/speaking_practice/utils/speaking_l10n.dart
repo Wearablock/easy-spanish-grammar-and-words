@@ -14,6 +14,8 @@ String variationLabel(AppLocalizations l10n, SpeakingCard card) {
       return l10n.variationInterrogative;
     case VariationKind.nounSwap:
       return l10n.variationNounSwap(card.nounArg ?? '');
+    case VariationKind.phrase:
+      return l10n.variationPhrase;
   }
 }
 

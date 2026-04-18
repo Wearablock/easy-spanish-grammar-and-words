@@ -1,1652 +1,1533 @@
 {
-  "q_vocab_a1_13_001": {
-    "question": "Quel est le sens du mot 'el tren'?",
-    "correct": "train",
+  "q_vocab_a1_01_001": {
+    "question": "Que 'hola' signifier?",
+    "correct": "hello",
     "wrong": [
-      "morning",
       "goodbye",
-      "black"
+      "thank you",
+      "please"
     ],
-    "explanation": "'el tren' se traduit par 'train'",
-    "hint": "Exemple: El tren llega a las diez."
+    "explanation": "'Hola' est Le/La la plupart commun Espagnol salutation, used à n'importe quel temps de jour."
   },
-  "q_vocab_a1_03_002": {
-    "question": "Quel est le sens du mot 'y media'?",
-    "correct": "half past",
-    "wrong": [
-      "train",
-      "lawyer",
-      "green"
-    ],
-    "explanation": "'y media' se traduit par 'half past'",
-    "hint": "Exemple: Son las dos y media."
-  },
-  "q_vocab_a1_05_003": {
-    "question": "Quel est le sens du mot 'azul'?",
-    "correct": "blue",
-    "wrong": [
-      "black",
-      "minute",
-      "door"
-    ],
-    "explanation": "'azul' se traduit par 'blue'",
-    "hint": "Exemple: El cielo es azul."
-  },
-  "q_vocab_a1_15_004": {
-    "question": "Quel est le sens du mot 'enfermo'?",
-    "correct": "sick",
-    "wrong": [
-      "train",
-      "jacket",
-      "water"
-    ],
-    "explanation": "'enfermo' se traduit par 'sick'",
-    "hint": "Exemple: Mi hijo está enfermo."
-  },
-  "q_vocab_a1_12_005": {
-    "question": "Quel est le sens du mot 'el árbol'?",
-    "correct": "tree",
-    "wrong": [
-      "window",
-      "I'm sorry",
-      "father"
-    ],
-    "explanation": "'el árbol' se traduit par 'tree'",
-    "hint": "Exemple: Hay muchos árboles en el parque."
-  },
-  "q_vocab_a1_11_006": {
-    "question": "Quel est le sens du mot 'el médico'?",
-    "correct": "doctor",
-    "wrong": [
-      "sun",
-      "half past",
-      "morning"
-    ],
-    "explanation": "'el médico' se traduit par 'doctor'",
-    "hint": "Exemple: Mi madre es médica."
-  },
-  "q_vocab_a1_10_007": {
-    "question": "Quel est le sens du mot 'el libro'?",
-    "correct": "book",
-    "wrong": [
-      "exam",
-      "journalist",
-      "car"
-    ],
-    "explanation": "'el libro' se traduit par 'book'",
-    "hint": "Exemple: Necesito un libro de español."
-  },
-  "q_vocab_a1_12_008": {
-    "question": "Quel est le sens du mot 'la lluvia'?",
-    "correct": "rain",
-    "wrong": [
-      "eye",
-      "sister",
-      "sea"
-    ],
-    "explanation": "'la lluvia' se traduit par 'rain'",
-    "hint": "Exemple: No me gusta la lluvia."
-  },
-  "q_vocab_a1_13_009": {
-    "question": "Quel est le sens du mot 'el coche'?",
-    "correct": "car",
-    "wrong": [
-      "green",
-      "coffee",
-      "window"
-    ],
-    "explanation": "'el coche' se traduit par 'car'",
-    "hint": "Exemple: Voy al trabajo en coche."
-  },
-  "q_vocab_a1_01_010": {
-    "question": "Quel est le sens du mot 'gracias'?",
+  "q_vocab_a1_01_002": {
+    "question": "Que 'gracias' signifier?",
     "correct": "thank you",
     "wrong": [
-      "jacket",
-      "teacher",
-      "dress"
+      "please",
+      "sorry",
+      "hello"
     ],
-    "explanation": "'gracias' se traduit par 'thank you'",
-    "hint": "Exemple: Muchas gracias por tu ayuda."
+    "explanation": "'Gracias' signifie 'thank vous'. Sur peut dire 'muchas gracias' pour 'thank vous très beaucoup'."
   },
-  "q_vocab_a1_11_011": {
-    "question": "Quel est le sens du mot 'el abogado'?",
-    "correct": "lawyer",
+  "q_vocab_a1_01_003": {
+    "question": "Buenos ___, ¿cómo estás?",
+    "correct": "días",
     "wrong": [
-      "shoes",
-      "bed",
-      "tree"
+      "noches",
+      "gracias",
+      "hola"
     ],
-    "explanation": "'el abogado' se traduit par 'lawyer'",
-    "hint": "Exemple: Mi padre es abogado."
+    "explanation": "'Buenos días' signifie 'bon matin' et est a commun salutation used dans Le/La matin."
   },
-  "q_vocab_a1_15_012": {
-    "question": "Quel est le sens du mot 'triste'?",
-    "correct": "sad",
-    "wrong": [
-      "sun",
-      "doctor",
-      "father"
-    ],
-    "explanation": "'triste' se traduit par 'sad'",
-    "hint": "Exemple: ¿Por qué estás triste?"
-  },
-  "q_vocab_a1_09_013": {
-    "question": "Quel est le sens du mot 'la cama'?",
-    "correct": "bed",
-    "wrong": [
-      "train",
-      "blue",
-      "eye"
-    ],
-    "explanation": "'la cama' se traduit par 'bed'",
-    "hint": "Exemple: La cama es muy cómoda."
-  },
-  "q_vocab_a1_05_014": {
-    "question": "Quel est le sens du mot 'verde'?",
-    "correct": "green",
-    "wrong": [
-      "to do/make",
-      "to sleep",
-      "head"
-    ],
-    "explanation": "'verde' se traduit par 'green'",
-    "hint": "Exemple: La hierba es verde."
-  },
-  "q_vocab_a1_12_015": {
-    "question": "Quel est le sens du mot 'el mar'?",
-    "correct": "sea",
-    "wrong": [
-      "red",
-      "airplane",
-      "to do/make"
-    ],
-    "explanation": "'el mar' se traduit par 'sea'",
-    "hint": "Exemple: Vivimos cerca del mar."
-  },
-  "q_vocab_a1_08_016": {
-    "question": "Quel est le sens du mot 'la chaqueta'?",
-    "correct": "jacket",
+  "q_vocab_a1_01_004": {
+    "question": "Que 'por favor' signifier?",
+    "correct": "please",
     "wrong": [
       "thank you",
-      "sea",
-      "half past"
+      "excuse me",
+      "goodbye"
     ],
-    "explanation": "'la chaqueta' se traduit par 'jacket'",
-    "hint": "Exemple: Necesito una chaqueta."
+    "explanation": "'Por favor' est utilisé pour make poli requests, just like 'please' en anglais."
   },
-  "q_vocab_a1_07_017": {
-    "question": "Quel est le sens du mot 'la mano'?",
+  "q_vocab_a1_01_005": {
+    "question": "Que 'lo siento' signifier dans 'Lo siento mucho'?",
+    "correct": "I'm sorry",
+    "wrong": [
+      "I'm happy",
+      "I'm tired",
+      "I'm fine"
+    ],
+    "explanation": "'Lo siento' literally signifie 'I feel il' mais est utilisé as 'I'm sorry'. 'Mucho' adds emphasis, sens 'très beaucoup'."
+  },
+  "q_vocab_a1_01_006": {
+    "question": "See vous tomorrow!",
+    "correct": "¡Hasta mañana!",
+    "wrong": [
+      "¡Hasta luego!",
+      "¡Buenas noches!",
+      "¡Adiós para siempre!"
+    ],
+    "explanation": "'Hasta mañana' literally signifie 'jusqu'à tomorrow' et est utilisé quand vous sera see someone Le/La suivant jour."
+  },
+  "q_vocab_a1_01_007": {
+    "question": "Que 'de nada' signifier dans '¡Gracias! — De nada.'?",
+    "correct": "you're welcome",
+    "wrong": [
+      "of course",
+      "no problem",
+      "goodbye"
+    ],
+    "explanation": "'De nada' literally translates à 'de nothing' et est Le/La standard response à 'gracias'."
+  },
+  "q_vocab_a1_01_008": {
+    "question": "¿Cómo estás?",
+    "correct": "How are you?",
+    "wrong": [
+      "What is your name?",
+      "Where are you from?",
+      "How old are you?"
+    ],
+    "explanation": "'¿Cómo estás?' est an informel way pour demander 'Comment sont vous?' Le/La formel version est '¿Cómo está usted?'."
+  },
+  "q_vocab_a1_01_009": {
+    "question": "Vous accidentally bump into someone sur Le/La street. Que do vous say?",
+    "correct": "¡Perdón!",
+    "wrong": [
+      "¡Hola!",
+      "¡Gracias!",
+      "¡Adiós!"
+    ],
+    "explanation": "'Perdón' signifie 'pardon' ou 'excuse me' et est utilisé quand vous accidentally bother someone.",
+    "context": "Walking on a crowded street"
+  },
+  "q_vocab_a1_01_010": {
+    "question": "Vous sont leaving a ami's house late à nuit. Que do vous say?",
+    "correct": "¡Buenas noches!",
+    "wrong": [
+      "¡Buenos días!",
+      "¡Buenas tardes!",
+      "¡Hola!"
+    ],
+    "explanation": "'Buenas noches' signifie 'bon nuit' et est utilisé les deux as a salutation et farewell dans Le/La soir.",
+    "context": "Leaving a friend's house at night"
+  },
+  "q_vocab_a1_02_001": {
+    "question": "Que 'madre' signifier?",
+    "correct": "mother",
+    "wrong": [
+      "father",
+      "sister",
+      "grandmother"
+    ],
+    "explanation": "'Madre' signifie 'mother'. Le/La informel mot est 'mamá'."
+  },
+  "q_vocab_a1_02_002": {
+    "question": "Mi ___ se llama Carlos. Es el esposo de mi madre.",
+    "correct": "padre",
+    "wrong": [
+      "hermano",
+      "hijo",
+      "abuelo"
+    ],
+    "explanation": "'Padre' signifie 'father'. Le/La phrase says 'My father est named Carlos. He est Le/La husband de my mother.'"
+  },
+  "q_vocab_a1_02_003": {
+    "question": "Que 'hermana' signifier?",
+    "correct": "sister",
+    "wrong": [
+      "brother",
+      "cousin",
+      "aunt"
+    ],
+    "explanation": "'Hermana' est la forme féminine sens 'sister'. La forme masculin 'hermano' signifie 'brother'."
+  },
+  "q_vocab_a1_02_004": {
+    "question": "Que 'abuelo' signifier?",
+    "correct": "grandfather",
+    "wrong": [
+      "uncle",
+      "father",
+      "cousin"
+    ],
+    "explanation": "'Abuelo' signifie 'grandfather'. 'Abuela' est 'grandmother'. Together, 'abuelos' peut signifier 'grandparents'."
+  },
+  "q_vocab_a1_02_005": {
+    "question": "My uncle lives dans Madrid.",
+    "correct": "Mi tío vive en Madrid.",
+    "wrong": [
+      "Mi primo vive en Madrid.",
+      "Mi abuelo vive en Madrid.",
+      "Mi sobrino vive en Madrid."
+    ],
+    "explanation": "'Tío' signifie 'uncle'. 'Tía' est la forme féminine sens 'aunt'."
+  },
+  "q_vocab_a1_02_006": {
+    "question": "Que 'esposa' signifier dans 'Ella es mi esposa'?",
+    "correct": "wife",
+    "wrong": [
+      "girlfriend",
+      "friend",
+      "sister"
+    ],
+    "explanation": "'Esposa' signifie 'wife'. 'Esposo' signifie 'husband'. Ce sont formel terms pour a married partner."
+  },
+  "q_vocab_a1_02_007": {
+    "question": "Vous want à introduce votre female ami à someone. Quel mot do vous use?",
+    "correct": "amiga",
+    "wrong": [
+      "novia",
+      "prima",
+      "vecina"
+    ],
+    "explanation": "'Amiga' signifie 'female ami'. Using 'novia' serait signifier 'girlfriend' (romantic partner), quel est different.",
+    "context": "Introducing a friend at a party"
+  },
+  "q_vocab_a1_02_008": {
+    "question": "Que 'primo' signifier dans 'Mi primo tiene diez años'?",
+    "correct": "cousin",
+    "wrong": [
+      "brother",
+      "nephew",
+      "son"
+    ],
+    "explanation": "'Primo' (masculin) signifie 'cousin'. 'Prima' est la forme féminine. Le/La phrase signifie 'My cousin est ten years vieux'."
+  },
+  "q_vocab_a1_02_009": {
+    "question": "Tengo dos hermanos y una hermana.",
+    "correct": "I have two brothers and one sister.",
+    "wrong": [
+      "I have two sisters and one brother.",
+      "I have two cousins and one sister.",
+      "I have two friends and one sister."
+    ],
+    "explanation": "'Hermanos' est Le/La pluriel forme masculin sens 'brothers'. 'Hermana' signifie 'sister'."
+  },
+  "q_vocab_a1_02_010": {
+    "question": "Votre neighbor asks à propos de votre famille. Comment say 'I live avec my parents'?",
+    "correct": "Vivo con mis padres.",
+    "wrong": [
+      "Vivo con mis amigos.",
+      "Vivo con mis hermanos.",
+      "Vivo con mis abuelos."
+    ],
+    "explanation": "'Padres' signifie 'parents'. Il est Le/La pluriel de 'padre' (father) mais quand used dans pluriel il se réfère à les deux parents.",
+    "context": "Chatting with a neighbor about family"
+  },
+  "q_vocab_a1_03_001": {
+    "question": "Que 'hora' signifier?",
+    "correct": "hour / time",
+    "wrong": [
+      "minute",
+      "day",
+      "week"
+    ],
+    "explanation": "'Hora' signifie 'hour' ou 'temps' (quand asking que temps il est). '¿Qué hora es?' = 'Que temps est il?'"
+  },
+  "q_vocab_a1_03_002": {
+    "question": "Que 'mañana' signifier dans 'por la mañana'?",
+    "correct": "morning",
+    "wrong": [
+      "afternoon",
+      "evening",
+      "night"
+    ],
+    "explanation": "'Mañana' signifie 'matin' quand used avec 'por la'. Il peut aussi signifier 'tomorrow' dans other contexts."
+  },
+  "q_vocab_a1_03_003": {
+    "question": "Son las tres y ___. (3:30)",
+    "correct": "media",
+    "wrong": [
+      "cuarto",
+      "punto",
+      "minuto"
+    ],
+    "explanation": "'Media' signifie 'half'. 'Son las tres y media' signifie 'Il est three thirty' (literally 'three et a half')."
+  },
+  "q_vocab_a1_03_004": {
+    "question": "Que 'reloj' signifier?",
+    "correct": "clock / watch",
+    "wrong": [
+      "calendar",
+      "alarm",
+      "timer"
+    ],
+    "explanation": "'Reloj' peut signifier les deux 'clock' (wall clock) et 'watch' (wristwatch) en espagnol."
+  },
+  "q_vocab_a1_03_005": {
+    "question": "Que 'en punto' signifier dans 'Son las cinco en punto'?",
+    "correct": "on the dot / exactly",
+    "wrong": [
+      "almost",
+      "more or less",
+      "approximately"
+    ],
+    "explanation": "'En punto' signifie 'sur Le/La dot' ou 'sharp'. 'Son las cinco en punto' = 'Il est exactly five o'clock'."
+  },
+  "q_vocab_a1_03_006": {
+    "question": "Il est one o'clock.",
+    "correct": "Es la una.",
+    "wrong": [
+      "Son las una.",
+      "Es el uno.",
+      "Son la una."
+    ],
+    "explanation": "Pour 1:00, we use 'Es la una' (singulier). Pour tous other hours, we use 'Son las...' (pluriel)."
+  },
+  "q_vocab_a1_03_007": {
+    "question": "Que 'tarde' signifier dans 'Buenas tardes'?",
+    "correct": "afternoon",
+    "wrong": [
+      "morning",
+      "night",
+      "evening"
+    ],
+    "explanation": "'Tarde' signifie 'après-midi'. 'Buenas tardes' est utilisé roughly de noon jusqu'à sunset."
+  },
+  "q_vocab_a1_03_008": {
+    "question": "¿Qué hora es? — Son las dos y cuarto.",
+    "correct": "What time is it? — It is 2:15.",
+    "wrong": [
+      "What time is it? — It is 2:45.",
+      "What time is it? — It is 2:30.",
+      "What day is it? — It is Tuesday."
+    ],
+    "explanation": "'Cuarto' signifie 'quarter'. 'Son las dos y cuarto' = 'Il est two fifteen' (a quarter past two)."
+  },
+  "q_vocab_a1_03_009": {
+    "question": "Vous need pour demander a stranger sur Le/La street que temps il est. Que do vous say?",
+    "correct": "Perdone, ¿qué hora es?",
+    "wrong": [
+      "¡Hola! ¿Qué día es?",
+      "¿Cuánto cuesta?",
+      "¿Dónde está el reloj?"
+    ],
+    "explanation": "'Perdone, ¿qué hora es?' est a poli way pour demander someone Le/La temps. 'Perdone' est Le/La formel form de 'excuse me'.",
+    "context": "Asking the time on the street"
+  },
+  "q_vocab_a1_03_010": {
+    "question": "Votre ami asks quand vous habituellement wake up. Comment say 'I wake up à seven dans Le/La matin'?",
+    "correct": "Me despierto a las siete de la mañana.",
+    "wrong": [
+      "Me despierto a las siete de la noche.",
+      "Me despierto a la siete de la mañana.",
+      "Me duermo a las siete de la mañana."
+    ],
+    "explanation": "'A las siete de la mañana' signifie 'à seven dans Le/La matin'. Note: we use 'a las' pour tous hours except one ('a la una').",
+    "context": "Talking about daily routines"
+  },
+  "q_vocab_a1_04_001": {
+    "question": "Que 'lunes' signifier?",
+    "correct": "Monday",
+    "wrong": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ],
+    "explanation": "'Lunes' signifie 'Monday'. En espagnol, days de Le/La week sont not capitalized."
+  },
+  "q_vocab_a1_04_002": {
+    "question": "El primer mes del año es ___.",
+    "correct": "enero",
+    "wrong": [
+      "febrero",
+      "marzo",
+      "diciembre"
+    ],
+    "explanation": "'Enero' signifie 'January', Le/La premier month de Le/La année. Like days, months sont not capitalized en espagnol."
+  },
+  "q_vocab_a1_04_003": {
+    "question": "Que 'verano' signifier?",
+    "correct": "summer",
+    "wrong": [
+      "winter",
+      "spring",
+      "autumn"
+    ],
+    "explanation": "'Verano' signifie 'summer'. Le/La four seasons sont: primavera (spring), verano (summer), otoño (autumn), invierno (winter)."
+  },
+  "q_vocab_a1_04_004": {
+    "question": "Que 'semana' signifier?",
+    "correct": "week",
+    "wrong": [
+      "month",
+      "day",
+      "year"
+    ],
+    "explanation": "'Semana' signifie 'week'. 'Fin de semana' signifie 'weekend'."
+  },
+  "q_vocab_a1_04_005": {
+    "question": "Saturday et Sunday",
+    "correct": "sábado y domingo",
+    "wrong": [
+      "viernes y sábado",
+      "lunes y martes",
+      "jueves y viernes"
+    ],
+    "explanation": "'Sábado' est Saturday et 'domingo' est Sunday. Together ils form Le/La 'fin de semana' (weekend)."
+  },
+  "q_vocab_a1_04_006": {
+    "question": "Que 'primavera' signifier dans 'Me gusta la primavera'?",
+    "correct": "spring",
+    "wrong": [
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "explanation": "'Primavera' signifie 'spring'. Le/La phrase signifie 'I like spring'."
+  },
+  "q_vocab_a1_04_007": {
+    "question": "Someone asks vous que jour il est. Today est Wednesday. Comment answer?",
+    "correct": "Hoy es miércoles.",
+    "wrong": [
+      "Hoy es martes.",
+      "Hoy es jueves.",
+      "Hoy es viernes."
+    ],
+    "explanation": "'Miércoles' signifie 'Wednesday'. Note Le/La accent mark sur Le/La 'e'. 'Hoy es...' signifie 'Today est...'.",
+    "context": "Someone asking what day it is"
+  },
+  "q_vocab_a1_04_008": {
+    "question": "Que 'invierno' signifier dans 'En invierno hace frío'?",
+    "correct": "winter",
+    "wrong": [
+      "autumn",
+      "summer",
+      "spring"
+    ],
+    "explanation": "'Invierno' signifie 'winter'. Le/La phrase signifie 'Dans winter il est cold'."
+  },
+  "q_vocab_a1_04_009": {
+    "question": "Hoy es viernes. Mañana es ___.",
+    "correct": "Today is Friday. Tomorrow is Saturday.",
+    "wrong": [
+      "Today is Friday. Tomorrow is Thursday.",
+      "Today is Friday. Tomorrow is Sunday.",
+      "Today is Thursday. Tomorrow is Friday."
+    ],
+    "explanation": "'Viernes' est Friday et Le/La jour après Friday est 'sábado' (Saturday)."
+  },
+  "q_vocab_a1_04_010": {
+    "question": "Vous want à schedule a meeting. Comment say 'Le/La meeting est sur Thursday'?",
+    "correct": "La reunión es el jueves.",
+    "wrong": [
+      "La reunión es el martes.",
+      "La reunión es el miércoles.",
+      "La reunión es la jueves."
+    ],
+    "explanation": "Days de Le/La week use l'article 'el' (singulier) ou 'los' (pluriel/habitual). 'El jueves' = 'sur Thursday'.",
+    "context": "Scheduling a meeting at work"
+  },
+  "q_vocab_a1_05_001": {
+    "question": "Que 'rojo' signifier?",
+    "correct": "red",
+    "wrong": [
+      "blue",
+      "green",
+      "yellow"
+    ],
+    "explanation": "'Rojo' signifie 'red'. Like la plupart adjectifs, il changes form: rojo (masc.), roja (fem.)."
+  },
+  "q_vocab_a1_05_002": {
+    "question": "Que 'blanco' signifier?",
+    "correct": "white",
+    "wrong": [
+      "black",
+      "grey",
+      "brown"
+    ],
+    "explanation": "'Blanco' signifie 'white'. Son opposite est 'negro' (black)."
+  },
+  "q_vocab_a1_05_003": {
+    "question": "El cielo es ___. (Le/La sky est ___)",
+    "correct": "azul",
+    "wrong": [
+      "rojo",
+      "verde",
+      "amarillo"
+    ],
+    "explanation": "'Azul' signifie 'blue'. Unlike la plupart color adjectifs, 'azul' ne pas change pour masculin/féminin."
+  },
+  "q_vocab_a1_05_004": {
+    "question": "Que 'negro' signifier?",
+    "correct": "black",
+    "wrong": [
+      "white",
+      "grey",
+      "brown"
+    ],
+    "explanation": "'Negro' signifie 'black'. Il follows régulier adjectif agreement: negro (masc.), negra (fem.)."
+  },
+  "q_vocab_a1_05_005": {
+    "question": "Que 'amarillo' signifier dans 'El sol es amarillo'?",
+    "correct": "yellow",
+    "wrong": [
+      "orange",
+      "red",
+      "white"
+    ],
+    "explanation": "'Amarillo' signifie 'yellow'. Le/La phrase signifie 'Le/La sun est yellow'."
+  },
+  "q_vocab_a1_05_006": {
+    "question": "Le/La car est green.",
+    "correct": "El coche es verde.",
+    "wrong": [
+      "El coche es rojo.",
+      "El coche es azul.",
+      "La coche es verde."
+    ],
+    "explanation": "'Verde' signifie 'green'. 'Coche' (car) est masculin, donc we use 'el'. 'Verde' ne pas change pour genre."
+  },
+  "q_vocab_a1_05_007": {
+    "question": "Que 'gris' signifier dans 'El gato es gris'?",
+    "correct": "grey",
+    "wrong": [
+      "brown",
+      "white",
+      "black"
+    ],
+    "explanation": "'Gris' signifie 'grey'. Like 'azul' et 'verde', il ne pas change form pour masculin/féminin."
+  },
+  "q_vocab_a1_05_008": {
+    "question": "¿De qué color es la naranja?",
+    "correct": "What color is the orange?",
+    "wrong": [
+      "Where is the orange?",
+      "How much is the orange?",
+      "Do you like the orange?"
+    ],
+    "explanation": "'¿De qué color es...?' signifie 'Que color est...?' C'est Le/La standard way pour demander à propos de colors en espagnol."
+  },
+  "q_vocab_a1_05_009": {
+    "question": "Vous sont shopping pour clothes et want pour demander si a shirt comes dans pink. Que do vous say?",
+    "correct": "¿Tiene esta camisa en rosa?",
+    "wrong": [
+      "¿Tiene esta camisa en rojo?",
+      "¿Tiene esta camisa en marrón?",
+      "¿Tiene esta falda en rosa?"
+    ],
+    "explanation": "'Rosa' signifie 'pink'. '¿Tiene... en rosa?' est a natural way pour demander si something comes dans pink.",
+    "context": "Shopping for clothes in a store"
+  },
+  "q_vocab_a1_05_010": {
+    "question": "A ami asks vous votre favorite color. Comment say 'My favorite color est blue'?",
+    "correct": "Mi color favorito es el azul.",
+    "wrong": [
+      "Mi color favorito es el rojo.",
+      "Mi color favorita es la azul.",
+      "Mi color favorito es el verde."
+    ],
+    "explanation": "'Color' est masculin, donc we say 'favorito' (not 'favorita'). 'Azul' signifie 'blue'.",
+    "context": "Talking about favorite colors with a friend"
+  },
+  "q_vocab_a1_06_001": {
+    "question": "Que 'agua' signifier?",
+    "correct": "water",
+    "wrong": [
+      "milk",
+      "juice",
+      "coffee"
+    ],
+    "explanation": "'Agua' signifie 'water'. Despite being féminin, il uses 'el' dans singulier: 'el agua' (à avoid two 'a' sounds together)."
+  },
+  "q_vocab_a1_06_002": {
+    "question": "Quiero un ___ con leche, por favor.",
+    "correct": "café",
+    "wrong": [
+      "pan",
+      "arroz",
+      "pollo"
+    ],
+    "explanation": "'Café con leche' signifie 'coffee avec milk', a très popular drink dans Spain et Latin America."
+  },
+  "q_vocab_a1_06_003": {
+    "question": "Que 'pan' signifier?",
+    "correct": "bread",
+    "wrong": [
+      "rice",
+      "meat",
+      "cheese"
+    ],
+    "explanation": "'Pan' signifie 'bread'. Il est one de Le/La la plupart basic food items en espagnol-speaking countries."
+  },
+  "q_vocab_a1_06_004": {
+    "question": "Que 'pollo' signifier?",
+    "correct": "chicken",
+    "wrong": [
+      "fish",
+      "beef",
+      "pork"
+    ],
+    "explanation": "'Pollo' signifie 'chicken'. 'Carne' est Le/La general mot pour 'meat'."
+  },
+  "q_vocab_a1_06_005": {
+    "question": "I want a glass de orange juice.",
+    "correct": "Quiero un vaso de zumo de naranja.",
+    "wrong": [
+      "Quiero un vaso de leche de naranja.",
+      "Quiero una taza de zumo de naranja.",
+      "Quiero un vaso de vino de naranja."
+    ],
+    "explanation": "'Zumo' signifie 'juice' (used dans Spain; 'jugo' est utilisé dans Latin America). 'Vaso' signifie 'glass'."
+  },
+  "q_vocab_a1_06_006": {
+    "question": "Que 'pescado' signifier dans 'El pescado está fresco'?",
+    "correct": "fish (as food)",
+    "wrong": [
+      "chicken",
+      "meat",
+      "shrimp"
+    ],
+    "explanation": "'Pescado' se réfère à fish as food. 'Pez' est a living fish. Le/La phrase signifie 'Le/La fish est fresh'."
+  },
+  "q_vocab_a1_06_007": {
+    "question": "Vous sont à a restaurant et Le/La waiter asks que vous want à drink. Comment order a beer?",
+    "correct": "Una cerveza, por favor.",
+    "wrong": [
+      "Un café, por favor.",
+      "Un té, por favor.",
+      "Un agua, por favor."
+    ],
+    "explanation": "'Cerveza' signifie 'beer'. 'Una cerveza, por favor' est a poli way à order a beer à a restaurant.",
+    "context": "Ordering a drink at a restaurant"
+  },
+  "q_vocab_a1_06_008": {
+    "question": "Que 'ensalada' signifier dans 'La ensalada está rica'?",
+    "correct": "salad",
+    "wrong": [
+      "soup",
+      "sandwich",
+      "omelette"
+    ],
+    "explanation": "'Ensalada' signifie 'salad'. 'Rica' ici signifie 'delicious'. Le/La phrase signifie 'Le/La salad est delicious'."
+  },
+  "q_vocab_a1_06_009": {
+    "question": "Me gustan las frutas y las verduras.",
+    "correct": "I like fruits and vegetables.",
+    "wrong": [
+      "I like meat and fish.",
+      "I like bread and cheese.",
+      "I like coffee and tea."
+    ],
+    "explanation": "'Frutas' signifie 'fruits' et 'verduras' signifie 'vegetables'. 'Me gustan' est utilisé avec pluriel noms."
+  },
+  "q_vocab_a1_06_010": {
+    "question": "Vous sont a guest à a Espagnol home et Le/La host offers vous food. Comment politely accept?",
+    "correct": "Sí, gracias. Tiene muy buena pinta.",
+    "wrong": [
+      "No quiero nada.",
+      "Dame más comida.",
+      "No me gusta la comida española."
+    ],
+    "explanation": "'Tiene muy buena pinta' signifie 'Il looks très bon'. Ceci est un poli et appreciative way à accept food.",
+    "context": "Being offered food at someone's home"
+  },
+  "q_vocab_a1_07_001": {
+    "question": "Que 'cabeza' signifier?",
+    "correct": "head",
+    "wrong": [
+      "hand",
+      "foot",
+      "arm"
+    ],
+    "explanation": "'Cabeza' signifie 'head'. 'Me duele la cabeza' signifie 'My head hurts' (I avoir a headache)."
+  },
+  "q_vocab_a1_07_002": {
+    "question": "Que 'mano' signifier?",
     "correct": "hand",
     "wrong": [
       "foot",
-      "father",
-      "bed"
+      "arm",
+      "finger"
     ],
-    "explanation": "'la mano' se traduit par 'hand'",
-    "hint": "Exemple: Levanta la mano."
+    "explanation": "'Mano' signifie 'hand'. Note: despite terminaison dans -o, 'mano' est féminin (la mano)."
   },
-  "q_vocab_a1_14_018": {
-    "question": "Quel est le sens du mot 'levantarse'?",
-    "correct": "to get up",
+  "q_vocab_a1_07_003": {
+    "question": "No puedo caminar, me duele el ___.",
+    "correct": "pie",
     "wrong": [
-      "hour/time",
-      "minute",
-      "water"
+      "ojo",
+      "dedo",
+      "diente"
     ],
-    "explanation": "'levantarse' se traduit par 'to get up'",
-    "hint": "Exemple: Me levanto a las siete."
+    "explanation": "'Pie' signifie 'foot'. Le/La phrase says 'I ne peut pas walk, my foot hurts'."
   },
-  "q_vocab_a1_09_019": {
-    "question": "Quel est le sens du mot 'la ventana'?",
-    "correct": "window",
-    "wrong": [
-      "happy",
-      "book",
-      "family"
-    ],
-    "explanation": "'la ventana' se traduit par 'window'",
-    "hint": "Exemple: Abre la ventana, por favor."
-  },
-  "q_vocab_a1_14_020": {
-    "question": "Quel est le sens du mot 'dormir'?",
-    "correct": "to sleep",
-    "wrong": [
-      "rain",
-      "bicycle",
-      "blue"
-    ],
-    "explanation": "'dormir' se traduit par 'to sleep'",
-    "hint": "Exemple: Duermo ocho horas."
-  },
-  "q_vocab_a1_15_021": {
-    "question": "Quel est le sens du mot 'cansado'?",
-    "correct": "tired",
-    "wrong": [
-      "rain",
-      "airplane",
-      "to sleep"
-    ],
-    "explanation": "'cansado' se traduit par 'tired'",
-    "hint": "Exemple: Estoy cansado después del trabajo."
-  },
-  "q_vocab_a1_06_022": {
-    "question": "Quel est le sens du mot 'el agua'?",
-    "correct": "water",
-    "wrong": [
-      "shoes",
-      "goodbye",
-      "happy"
-    ],
-    "explanation": "'el agua' se traduit par 'water'",
-    "hint": "Exemple: Quiero un vaso de agua."
-  },
-  "q_vocab_a1_14_023": {
-    "question": "Quel est le sens du mot 'hacer'?",
-    "correct": "to do/make",
-    "wrong": [
-      "green",
-      "coffee",
-      "thank you"
-    ],
-    "explanation": "'hacer' se traduit par 'to do/make'",
-    "hint": "Exemple: ¿Qué haces?"
-  },
-  "q_vocab_a1_10_024": {
-    "question": "Quel est le sens du mot 'la escuela'?",
-    "correct": "school",
-    "wrong": [
-      "sick",
-      "week",
-      "journalist"
-    ],
-    "explanation": "'la escuela' se traduit par 'school'",
-    "hint": "Exemple: Voy a la escuela todos los días."
-  },
-  "q_vocab_a1_06_025": {
-    "question": "Quel est le sens du mot 'el pan'?",
-    "correct": "bread",
-    "wrong": [
-      "meat",
-      "grandfather",
-      "father"
-    ],
-    "explanation": "'el pan' se traduit par 'bread'",
-    "hint": "Exemple: Compro pan todos los días."
-  },
-  "q_vocab_a1_04_026": {
-    "question": "Quel est le sens du mot 'la semana'?",
-    "correct": "week",
-    "wrong": [
-      "father",
-      "teacher",
-      "thank you"
-    ],
-    "explanation": "'la semana' se traduit par 'week'",
-    "hint": "Exemple: Hay siete días en una semana."
-  },
-  "q_vocab_a1_02_027": {
-    "question": "Quel est le sens du mot 'la familia'?",
-    "correct": "family",
-    "wrong": [
-      "sad",
-      "black",
-      "door"
-    ],
-    "explanation": "'la familia' se traduit par 'family'",
-    "hint": "Exemple: Mi familia es grande."
-  },
-  "q_vocab_a1_08_028": {
-    "question": "Quel est le sens du mot 'el vestido'?",
-    "correct": "dress",
-    "wrong": [
-      "hello",
-      "tired",
-      "red"
-    ],
-    "explanation": "'el vestido' se traduit par 'dress'",
-    "hint": "Exemple: El vestido es rojo."
-  },
-  "q_vocab_a1_06_029": {
-    "question": "Quel est le sens du mot 'la carne'?",
-    "correct": "meat",
-    "wrong": [
-      "teacher",
-      "rain",
-      "exam"
-    ],
-    "explanation": "'la carne' se traduit par 'meat'",
-    "hint": "Exemple: No como carne."
-  },
-  "q_vocab_a1_03_030": {
-    "question": "Quel est le sens du mot 'el minuto'?",
-    "correct": "minute",
-    "wrong": [
-      "coffee",
-      "green",
-      "kitchen"
-    ],
-    "explanation": "'el minuto' se traduit par 'minute'",
-    "hint": "Exemple: Son las tres y diez minutos."
-  },
-  "q_vocab_a1_04_031": {
-    "question": "Quel est le sens du mot 'enero'?",
-    "correct": "January",
-    "wrong": [
-      "family",
-      "happy",
-      "happy"
-    ],
-    "explanation": "'enero' se traduit par 'January'",
-    "hint": "Exemple: Mi cumpleaños es en enero."
-  },
-  "q_vocab_a1_07_032": {
-    "question": "Quel est le sens du mot 'el pie'?",
-    "correct": "foot",
-    "wrong": [
-      "happy",
-      "hello",
-      "lawyer"
-    ],
-    "explanation": "'el pie' se traduit par 'foot'",
-    "hint": "Exemple: Me duele el pie."
-  },
-  "q_vocab_a1_03_033": {
-    "question": "Quel est le sens du mot 'la hora'?",
-    "correct": "hour/time",
-    "wrong": [
-      "car",
-      "goodbye",
-      "January"
-    ],
-    "explanation": "'la hora' se traduit par 'hour/time'",
-    "hint": "Exemple: ¿Qué hora es?"
-  },
-  "q_vocab_a1_09_034": {
-    "question": "Quel est le sens du mot 'la puerta'?",
-    "correct": "door",
-    "wrong": [
-      "rain",
-      "hand",
-      "water"
-    ],
-    "explanation": "'la puerta' se traduit par 'door'",
-    "hint": "Exemple: La puerta está cerrada."
-  },
-  "q_vocab_a1_06_035": {
-    "question": "Quel est le sens du mot 'el café'?",
-    "correct": "coffee",
-    "wrong": [
-      "sick",
-      "jacket",
-      "bicycle"
-    ],
-    "explanation": "'el café' se traduit par 'coffee'",
-    "hint": "Exemple: Un café con leche, por favor."
-  },
-  "q_vocab_a1_13_036": {
-    "question": "Quel est le sens du mot 'el avión'?",
-    "correct": "airplane",
-    "wrong": [
-      "bed",
-      "car",
-      "window"
-    ],
-    "explanation": "'el avión' se traduit par 'airplane'",
-    "hint": "Exemple: Viajamos en avión."
-  },
-  "q_vocab_a1_05_037": {
-    "question": "Quel est le sens du mot 'rojo'?",
-    "correct": "red",
-    "wrong": [
-      "meat",
-      "hand",
-      "morning"
-    ],
-    "explanation": "'rojo' se traduit par 'red'",
-    "hint": "Exemple: El coche es rojo."
-  },
-  "q_vocab_a1_15_038": {
-    "question": "Quel est le sens du mot 'contento'?",
-    "correct": "happy",
-    "wrong": [
-      "January",
-      "to get up",
-      "morning"
-    ],
-    "explanation": "'contento' se traduit par 'happy'",
-    "hint": "Exemple: Estoy muy contento hoy."
-  },
-  "q_vocab_a1_12_039": {
-    "question": "Quel est le sens du mot 'el sol'?",
-    "correct": "sun",
-    "wrong": [
-      "sea",
-      "eye",
-      "Monday"
-    ],
-    "explanation": "'el sol' se traduit par 'sun'",
-    "hint": "Exemple: Hace sol hoy."
-  },
-  "q_vocab_a1_05_040": {
-    "question": "Quel est le sens du mot 'negro'?",
-    "correct": "black",
-    "wrong": [
-      "book",
-      "father",
-      "jacket"
-    ],
-    "explanation": "'negro' se traduit par 'black'",
-    "hint": "Exemple: El gato es negro."
-  },
-  "q_vocab_a1_08_041": {
-    "question": "Quel est le sens du mot 'los zapatos'?",
-    "correct": "shoes",
-    "wrong": [
-      "please",
-      "half past",
-      "head"
-    ],
-    "explanation": "'los zapatos' se traduit par 'shoes'",
-    "hint": "Exemple: Estos zapatos son nuevos."
-  },
-  "q_vocab_a1_11_042": {
-    "question": "Quel est le sens du mot 'el profesor'?",
-    "correct": "teacher",
-    "wrong": [
-      "blue",
-      "summer",
-      "sun"
-    ],
-    "explanation": "'el profesor' se traduit par 'teacher'",
-    "hint": "Exemple: El profesor enseña matemáticas."
-  },
-  "q_vocab_a1_07_043": {
-    "question": "Quel est le sens du mot 'el ojo'?",
+  "q_vocab_a1_07_004": {
+    "question": "Que 'ojo' signifier?",
     "correct": "eye",
     "wrong": [
-      "grandfather",
-      "bed",
-      "half past"
+      "ear",
+      "nose",
+      "mouth"
     ],
-    "explanation": "'el ojo' se traduit par 'eye'",
-    "hint": "Exemple: Tiene los ojos azules."
+    "explanation": "'Ojo' signifie 'eye'. Le/La pluriel est 'ojos'. 'Tiene los ojos azules' = 'He/She a blue eyes'."
   },
-  "q_vocab_a1_01_044": {
-    "question": "Quel est le sens du mot 'adiós'?",
-    "correct": "goodbye",
+  "q_vocab_a1_07_005": {
+    "question": "Que 'espalda' signifier dans 'Me duele la espalda'?",
+    "correct": "back",
     "wrong": [
-      "blue",
-      "bed",
-      "to sleep"
+      "stomach",
+      "chest",
+      "neck"
     ],
-    "explanation": "'adiós' se traduit par 'goodbye'",
-    "hint": "Exemple: ¡Adiós! ¡Hasta luego!"
+    "explanation": "'Espalda' signifie 'back' (body part). Le/La phrase signifie 'My back hurts'."
   },
-  "q_vocab_a1_09_045": {
-    "question": "Quel est le sens du mot 'la cocina'?",
-    "correct": "kitchen",
+  "q_vocab_a1_07_006": {
+    "question": "I brush my teeth chaque matin.",
+    "correct": "Me lavo los dientes cada mañana.",
     "wrong": [
-      "exam",
-      "week",
-      "black"
+      "Me lavo las manos cada mañana.",
+      "Me lavo el pelo cada mañana.",
+      "Me lavo los ojos cada mañana."
     ],
-    "explanation": "'la cocina' se traduit par 'kitchen'",
-    "hint": "Exemple: Mi madre está en la cocina."
+    "explanation": "'Dientes' signifie 'teeth' (singulier: 'diente'). En espagnol, we say 'lavarse los dientes' (wash Le/La teeth) rather than 'brush'."
   },
-  "q_vocab_a1_02_046": {
-    "question": "Quel est le sens du mot 'el padre'?",
-    "correct": "father",
+  "q_vocab_a1_07_007": {
+    "question": "Que 'boca' signifier dans 'Abre la boca'?",
+    "correct": "mouth",
     "wrong": [
-      "hour/time",
-      "shirt",
-      "shoes"
+      "eye",
+      "hand",
+      "ear"
     ],
-    "explanation": "'el padre' se traduit par 'father'",
-    "hint": "Exemple: Mi padre trabaja en un banco."
+    "explanation": "'Boca' signifie 'mouth'. 'Abre la boca' signifie 'Open votre mouth', couramment heard à Le/La dentist."
   },
-  "q_vocab_a1_08_047": {
-    "question": "Quel est le sens du mot 'la camisa'?",
+  "q_vocab_a1_07_008": {
+    "question": "Tengo el pelo largo y los ojos marrones.",
+    "correct": "I have long hair and brown eyes.",
+    "wrong": [
+      "I have short hair and blue eyes.",
+      "I have long arms and brown eyes.",
+      "I have long hair and green eyes."
+    ],
+    "explanation": "'Pelo' signifie 'hair', 'largo' signifie 'long', et 'ojos marrones' signifie 'brown eyes'."
+  },
+  "q_vocab_a1_07_009": {
+    "question": "Vous sont à Le/La doctor's office et need pour dire où il hurts. Comment say 'My stomach hurts'?",
+    "correct": "Me duele el estómago.",
+    "wrong": [
+      "Me duele la cabeza.",
+      "Me duele la espalda.",
+      "Me duele el brazo."
+    ],
+    "explanation": "'Estómago' signifie 'stomach'. 'Me duele' est utilisé pour singulier body parts Cela hurt.",
+    "context": "Visiting the doctor with stomach pain"
+  },
+  "q_vocab_a1_07_010": {
+    "question": "Vous sont describing a ami's appearance. Comment say 'She a grand ears et a petit nose'?",
+    "correct": "Tiene las orejas grandes y la nariz pequeña.",
+    "wrong": [
+      "Tiene los ojos grandes y la boca pequeña.",
+      "Tiene las orejas pequeñas y la nariz grande.",
+      "Tiene las manos grandes y los pies pequeños."
+    ],
+    "explanation": "'Orejas' signifie 'ears' et 'nariz' signifie 'nose'. En espagnol, we use 'tener' (à avoir) pour décrire physical features.",
+    "context": "Describing a friend's physical features"
+  },
+  "q_vocab_a1_08_001": {
+    "question": "Que 'zapatos' signifier?",
+    "correct": "shoes",
+    "wrong": [
+      "boots",
+      "socks",
+      "sandals"
+    ],
+    "explanation": "'Zapatos' signifie 'shoes' (singulier: 'zapato'). 'Un par de zapatos' = 'a pair de shoes'."
+  },
+  "q_vocab_a1_08_002": {
+    "question": "Hace frío, necesito mi ___.",
+    "correct": "abrigo",
+    "wrong": [
+      "camiseta",
+      "falda",
+      "sombrero"
+    ],
+    "explanation": "'Abrigo' signifie 'coat'. Le/La phrase says 'Il's cold, I need my coat'."
+  },
+  "q_vocab_a1_08_003": {
+    "question": "Que 'camisa' signifier?",
     "correct": "shirt",
     "wrong": [
-      "meat",
-      "foot",
-      "window"
+      "t-shirt",
+      "jacket",
+      "dress"
     ],
-    "explanation": "'la camisa' se traduit par 'shirt'",
-    "hint": "Exemple: Llevo una camisa blanca."
+    "explanation": "'Camisa' signifie 'shirt' (typiquement a formel/button-up shirt). A 'camiseta' est a t-shirt."
   },
-  "q_vocab_a1_10_048": {
-    "question": "Quel est le sens du mot 'el examen'?",
-    "correct": "exam",
+  "q_vocab_a1_08_004": {
+    "question": "Que 'vestido' signifier?",
+    "correct": "dress",
     "wrong": [
-      "family",
-      "green",
-      "sea"
+      "skirt",
+      "blouse",
+      "pants"
     ],
-    "explanation": "'el examen' se traduit par 'exam'",
-    "hint": "Exemple: Tengo un examen mañana."
+    "explanation": "'Vestido' signifie 'dress'. Il vient de le verbe 'vestir' (à dress/à wear)."
   },
-  "q_vocab_a1_14_049": {
-    "question": "Quel est le sens du mot 'leer'?",
-    "correct": "to read",
+  "q_vocab_a1_08_005": {
+    "question": "I am wearing black pants.",
+    "correct": "Llevo pantalones negros.",
     "wrong": [
-      "hello",
-      "sea",
-      "airplane"
+      "Llevo pantalones blancos.",
+      "Llevo una falda negra.",
+      "Llevo zapatos negros."
     ],
-    "explanation": "'leer' se traduit par 'to read'",
-    "hint": "Exemple: Me gusta leer libros."
+    "explanation": "'Pantalones' signifie 'pants/trousers'. 'Llevar' est couramment used pour 'à wear' en espagnol."
   },
-  "q_vocab_a1_03_050": {
-    "question": "Quel est le sens du mot 'la mañana'?",
-    "correct": "morning",
+  "q_vocab_a1_08_006": {
+    "question": "Que 'bolso' signifier dans 'Llevo mi bolso al trabajo'?",
+    "correct": "bag / handbag",
     "wrong": [
-      "red",
-      "half past",
-      "happy"
+      "wallet",
+      "belt",
+      "hat"
     ],
-    "explanation": "'la mañana' se traduit par 'morning'",
-    "hint": "Exemple: Estudio por la mañana."
+    "explanation": "'Bolso' signifie 'bag' ou 'handbag'. Le/La phrase signifie 'I take my bag à work'."
   },
-  "q_vocab_a1_01_051": {
-    "question": "Quel est le sens du mot 'hola'?",
-    "correct": "hello",
+  "q_vocab_a1_08_007": {
+    "question": "Vous sont going à Le/La beach. Quel item serait vous NOT typiquement bring?",
+    "correct": "botas",
     "wrong": [
-      "to do/make",
-      "I'm sorry",
-      "coffee"
+      "gafas",
+      "sombrero",
+      "camiseta"
     ],
-    "explanation": "'hola' se traduit par 'hello'",
-    "hint": "Exemple: ¡Hola! ¿Cómo estás?"
+    "explanation": "'Botas' signifie 'boots', quel sont not typical beach wear. 'Gafas' (glasses/sunglasses) et 'sombrero' (hat) sont useful à Le/La beach.",
+    "context": "Preparing for a day at the beach"
   },
-  "q_vocab_a1_01_052": {
-    "question": "Quel est le sens du mot 'por favor'?",
-    "correct": "please",
+  "q_vocab_a1_08_008": {
+    "question": "Que 'falda' signifier dans 'La falda es roja'?",
+    "correct": "skirt",
     "wrong": [
-      "father",
-      "family",
-      "sister"
-    ],
-    "explanation": "'por favor' se traduit par 'please'",
-    "hint": "Exemple: Un café, por favor."
-  },
-  "q_vocab_a1_01_053": {
-    "question": "Quel est le sens du mot 'lo siento'?",
-    "correct": "I'm sorry",
-    "wrong": [
-      "grandfather",
-      "window",
-      "doctor"
-    ],
-    "explanation": "'lo siento' se traduit par 'I'm sorry'",
-    "hint": "Exemple: Lo siento, no hablo español."
-  },
-  "q_vocab_a1_02_054": {
-    "question": "Quel est le sens du mot 'el abuelo'?",
-    "correct": "grandfather",
-    "wrong": [
-      "sun",
-      "I'm sorry",
+      "dress",
+      "shirt",
       "jacket"
     ],
-    "explanation": "'el abuelo' se traduit par 'grandfather'",
-    "hint": "Exemple: Mi abuelo vive en el campo."
+    "explanation": "'Falda' signifie 'skirt'. Le/La phrase signifie 'Le/La skirt est red'."
   },
-  "q_vocab_a1_04_055": {
-    "question": "Quel est le sens du mot 'lunes'?",
-    "correct": "Monday",
+  "q_vocab_a1_08_009": {
+    "question": "Necesito un cinturón para estos pantalones.",
+    "correct": "I need a belt for these pants.",
     "wrong": [
-      "week",
-      "hello",
-      "sad"
+      "I need a jacket for these pants.",
+      "I need socks for these shoes.",
+      "I need a hat for this dress."
     ],
-    "explanation": "'lunes' se traduit par 'Monday'",
-    "hint": "Exemple: El lunes tengo clase."
+    "explanation": "'Cinturón' signifie 'belt'. Le/La phrase signifie vous need a belt parce que Le/La pants sont too loose."
   },
-  "q_vocab_a1_11_056": {
-    "question": "Quel est le sens du mot 'el/la periodista'?",
-    "correct": "journalist",
+  "q_vocab_a1_08_010": {
+    "question": "Vous sont à a clothing store et want à try sur a jacket. Que do vous say?",
+    "correct": "¿Puedo probarme esta chaqueta?",
     "wrong": [
-      "jacket",
-      "to read",
-      "train"
+      "¿Puedo comprar esta chaqueta?",
+      "¿Puedo ver esta chaqueta?",
+      "¿Puedo devolver esta chaqueta?"
     ],
-    "explanation": "'el/la periodista' se traduit par 'journalist'",
-    "hint": "Exemple: Ella es periodista."
+    "explanation": "'Probarme' signifie 'à try sur'. 'Chaqueta' signifie 'jacket'. Ceci est un poli way pour demander à try sur clothing.",
+    "context": "Shopping at a clothing store"
   },
-  "q_vocab_a1_04_057": {
-    "question": "Quel est le sens du mot 'el verano'?",
-    "correct": "summer",
+  "q_vocab_a1_09_001": {
+    "question": "Que 'cocina' signifier?",
+    "correct": "kitchen",
     "wrong": [
-      "to do/make",
-      "grandfather",
-      "bed"
+      "bedroom",
+      "bathroom",
+      "living room"
     ],
-    "explanation": "'el verano' se traduit par 'summer'",
-    "hint": "Exemple: En verano hace mucho calor."
+    "explanation": "'Cocina' signifie 'kitchen'. Il peut aussi signifier 'cooking' ou 'stove' depending sur context."
   },
-  "q_vocab_a1_07_058": {
-    "question": "Quel est le sens du mot 'la cabeza'?",
-    "correct": "head",
+  "q_vocab_a1_09_002": {
+    "question": "Que 'ventana' signifier?",
+    "correct": "window",
+    "wrong": [
+      "door",
+      "wall",
+      "roof"
+    ],
+    "explanation": "'Ventana' signifie 'window'. 'Abrir la ventana' = 'à open Le/La window'."
+  },
+  "q_vocab_a1_09_003": {
+    "question": "Duermo en la ___ todas las noches.",
+    "correct": "cama",
+    "wrong": [
+      "mesa",
+      "silla",
+      "puerta"
+    ],
+    "explanation": "'Cama' signifie 'bed'. Le/La phrase says 'I sleep dans Le/La bed chaque nuit'."
+  },
+  "q_vocab_a1_09_004": {
+    "question": "Que 'puerta' signifier?",
+    "correct": "door",
+    "wrong": [
+      "window",
+      "floor",
+      "ceiling"
+    ],
+    "explanation": "'Puerta' signifie 'door'. 'Abrir la puerta' = 'à open Le/La door', 'cerrar la puerta' = 'à close Le/La door'."
+  },
+  "q_vocab_a1_09_005": {
+    "question": "Que 'sofá' signifier dans 'Me siento en el sofá'?",
+    "correct": "sofa / couch",
+    "wrong": [
+      "chair",
+      "bed",
+      "table"
+    ],
+    "explanation": "'Sofá' signifie 'sofa' ou 'couch'. Le/La phrase signifie 'I sit sur Le/La sofa'. Il est habituellement dans Le/La 'salón' (living room)."
+  },
+  "q_vocab_a1_09_006": {
+    "question": "Le/La mirror est dans Le/La bathroom.",
+    "correct": "El espejo está en el baño.",
+    "wrong": [
+      "El espejo está en la cocina.",
+      "La lámpara está en el baño.",
+      "El armario está en el baño."
+    ],
+    "explanation": "'Espejo' signifie 'mirror' et 'baño' signifie 'bathroom'. We use 'está' pour location."
+  },
+  "q_vocab_a1_09_007": {
+    "question": "Que 'armario' signifier dans 'La ropa está en el armario'?",
+    "correct": "wardrobe / closet",
+    "wrong": [
+      "drawer",
+      "shelf",
+      "box"
+    ],
+    "explanation": "'Armario' signifie 'wardrobe' ou 'closet'. Le/La phrase signifie 'Le/La clothes sont dans Le/La wardrobe'."
+  },
+  "q_vocab_a1_09_008": {
+    "question": "Hay una estantería con muchos libros en el salón.",
+    "correct": "There is a bookshelf with many books in the living room.",
+    "wrong": [
+      "There is a table with many books in the kitchen.",
+      "There is a bookshelf with many books in the bedroom.",
+      "There is a lamp with many books in the living room."
+    ],
+    "explanation": "'Estantería' signifie 'bookshelf/shelving unit' et 'salón' signifie 'living room'. 'Hay' signifie 'Il y a/Il y a'."
+  },
+  "q_vocab_a1_09_009": {
+    "question": "Vous sont looking pour an apartment et want pour demander si il a a garden. Que do vous say?",
+    "correct": "¿El piso tiene jardín?",
+    "wrong": [
+      "¿El piso tiene cocina?",
+      "¿El piso tiene dormitorio?",
+      "¿El piso tiene baño?"
+    ],
+    "explanation": "'Jardín' signifie 'garden'. 'Piso' signifie 'apartment' dans Spain. Ceci est un commun question quand apartment hunting.",
+    "context": "Looking at apartments with a real estate agent"
+  },
+  "q_vocab_a1_09_010": {
+    "question": "A ami est visiting votre home. Comment say 'Le/La bedroom est suivant à Le/La bathroom'?",
+    "correct": "El dormitorio está al lado del baño.",
+    "wrong": [
+      "El dormitorio está lejos del baño.",
+      "La cocina está al lado del baño.",
+      "El dormitorio está en el baño."
+    ],
+    "explanation": "'Dormitorio' signifie 'bedroom', 'al lado de' signifie 'suivant à', et 'baño' signifie 'bathroom'.",
+    "context": "Giving a tour of your home to a friend"
+  },
+  "q_vocab_a1_10_001": {
+    "question": "Que 'libro' signifier?",
+    "correct": "book",
+    "wrong": [
+      "notebook",
+      "pencil",
+      "pen"
+    ],
+    "explanation": "'Libro' signifie 'book'. 'Librería' signifie 'bookstore' (not 'library', quel est 'biblioteca')."
+  },
+  "q_vocab_a1_10_002": {
+    "question": "El estudiante escribe en el ___.",
+    "correct": "cuaderno",
+    "wrong": [
+      "libro",
+      "examen",
+      "pizarra"
+    ],
+    "explanation": "'Cuaderno' signifie 'notebook'. Le/La phrase says 'Le/La student writes dans Le/La notebook'."
+  },
+  "q_vocab_a1_10_003": {
+    "question": "Que 'profesor' signifier?",
+    "correct": "teacher / professor",
+    "wrong": [
+      "student",
+      "principal",
+      "classmate"
+    ],
+    "explanation": "'Profesor' signifie 'teacher' ou 'professor'. La forme féminine est 'profesora'."
+  },
+  "q_vocab_a1_10_004": {
+    "question": "Que 'examen' signifier?",
+    "correct": "exam / test",
+    "wrong": [
+      "homework",
+      "class",
+      "grade"
+    ],
+    "explanation": "'Examen' signifie 'exam' ou 'test'. Le/La pluriel est 'exámenes' (note Le/La accent shift)."
+  },
+  "q_vocab_a1_10_005": {
+    "question": "I study à Le/La library.",
+    "correct": "Estudio en la biblioteca.",
+    "wrong": [
+      "Estudio en la librería.",
+      "Estudio en la escuela.",
+      "Estudio en el aula."
+    ],
+    "explanation": "'Biblioteca' signifie 'library'. Être careful: 'librería' signifie 'bookstore', not 'library'."
+  },
+  "q_vocab_a1_10_006": {
+    "question": "Que 'pizarra' signifier dans 'El profesor escribe en la pizarra'?",
+    "correct": "blackboard / whiteboard",
+    "wrong": [
+      "desk",
+      "notebook",
+      "textbook"
+    ],
+    "explanation": "'Pizarra' signifie 'blackboard' ou 'whiteboard'. Le/La phrase signifie 'Le/La teacher writes sur Le/La board'."
+  },
+  "q_vocab_a1_10_007": {
+    "question": "Vous forgot à do votre homework. Comment tell votre teacher?",
+    "correct": "Lo siento, no tengo la tarea.",
+    "wrong": [
+      "Lo siento, no tengo el libro.",
+      "Lo siento, no tengo el bolígrafo.",
+      "Lo siento, no tengo el examen."
+    ],
+    "explanation": "'Tarea' signifie 'homework' ou 'assignment'. 'Deberes' est aussi used dans Spain pour homework.",
+    "context": "Arriving at class without homework"
+  },
+  "q_vocab_a1_10_008": {
+    "question": "Que 'lápiz' signifier dans 'Necesito un lápiz'?",
+    "correct": "pencil",
+    "wrong": [
+      "pen",
+      "eraser",
+      "ruler"
+    ],
+    "explanation": "'Lápiz' signifie 'pencil'. Le/La pluriel est 'lápices'. A pen est 'bolígrafo' (ou 'boli' informally)."
+  },
+  "q_vocab_a1_10_009": {
+    "question": "Mi hermana estudia en la universidad.",
+    "correct": "My sister studies at the university.",
+    "wrong": [
+      "My sister studies at the school.",
+      "My brother studies at the university.",
+      "My sister works at the university."
+    ],
+    "explanation": "'Universidad' signifie 'university'. 'Estudiar en la universidad' = 'à study à university'."
+  },
+  "q_vocab_a1_10_010": {
+    "question": "Vous need à borrow a pen de a classmate. Que do vous say?",
+    "correct": "¿Me prestas un bolígrafo?",
+    "wrong": [
+      "¿Me prestas un lápiz?",
+      "¿Me prestas un cuaderno?",
+      "¿Me prestas un libro?"
+    ],
+    "explanation": "'Bolígrafo' signifie 'pen'. '¿Me prestas...?' signifie 'Peut vous lend me...?' quel est commun among classmates.",
+    "context": "In class without a pen"
+  },
+  "q_vocab_a1_11_001": {
+    "question": "Que 'médico' signifier?",
+    "correct": "doctor",
+    "wrong": [
+      "nurse",
+      "dentist",
+      "pharmacist"
+    ],
+    "explanation": "'Médico' signifie 'doctor'. La forme féminine est 'médica'. 'Doctor/Doctora' est aussi couramment used."
+  },
+  "q_vocab_a1_11_002": {
+    "question": "Que 'abogado' signifier?",
+    "correct": "lawyer",
+    "wrong": [
+      "engineer",
+      "journalist",
+      "accountant"
+    ],
+    "explanation": "'Abogado' signifie 'lawyer'. La forme féminine est 'abogada'."
+  },
+  "q_vocab_a1_11_003": {
+    "question": "El ___ prepara la comida en el restaurante.",
+    "correct": "cocinero",
+    "wrong": [
+      "camarero",
+      "dentista",
+      "policía"
+    ],
+    "explanation": "'Cocinero' signifie 'cook/chef'. Le/La phrase says 'Le/La cook prepares Le/La food dans Le/La restaurant'."
+  },
+  "q_vocab_a1_11_004": {
+    "question": "Que 'enfermero' signifier?",
+    "correct": "nurse",
     "wrong": [
       "doctor",
-      "hand",
-      "car"
+      "dentist",
+      "patient"
     ],
-    "explanation": "'la cabeza' se traduit par 'head'",
-    "hint": "Exemple: Me duele la cabeza."
+    "explanation": "'Enfermero' signifie 'nurse' (male). 'Enfermera' est la forme féminine. Ils work dans hospitals et clinics."
   },
-  "q_vocab_a1_02_059": {
-    "question": "Quel est le sens du mot 'la hermana'?",
-    "correct": "sister",
+  "q_vocab_a1_11_005": {
+    "question": "Que 'periodista' signifier dans 'El periodista trabaja en un periódico'?",
+    "correct": "journalist",
     "wrong": [
-      "red",
-      "library",
-      "week"
+      "writer",
+      "editor",
+      "photographer"
     ],
-    "explanation": "'la hermana' se traduit par 'sister'",
-    "hint": "Exemple: Tengo una hermana mayor."
+    "explanation": "'Periodista' signifie 'journalist'. Ce mot est Le/La same pour masculin et féminin. Le/La phrase signifie 'Le/La journalist works à a newspaper'."
   },
-  "q_vocab_a1_13_060": {
-    "question": "Quel est le sens du mot 'la bicicleta'?",
+  "q_vocab_a1_11_006": {
+    "question": "My father est an engineer.",
+    "correct": "Mi padre es ingeniero.",
+    "wrong": [
+      "Mi padre es abogado.",
+      "Mi padre es profesor.",
+      "Mi padre es médico."
+    ],
+    "explanation": "'Ingeniero' signifie 'engineer'. En espagnol, professions après 'ser' typiquement ne pas use an article (no 'un')."
+  },
+  "q_vocab_a1_11_007": {
+    "question": "Que 'camarero' signifier dans 'El camarero trae la cuenta'?",
+    "correct": "waiter",
+    "wrong": [
+      "chef",
+      "manager",
+      "customer"
+    ],
+    "explanation": "'Camarero' signifie 'waiter'. Le/La phrase signifie 'Le/La waiter brings Le/La bill'. 'Camarera' est a waitress."
+  },
+  "q_vocab_a1_11_008": {
+    "question": "Soy estudiante de medicina. Quiero ser médico.",
+    "correct": "I am a medical student. I want to be a doctor.",
+    "wrong": [
+      "I am a law student. I want to be a lawyer.",
+      "I am a medical student. I want to be a nurse.",
+      "I am an art student. I want to be a doctor."
+    ],
+    "explanation": "'Estudiante de medicina' signifie 'medical student'. 'Quiero ser' signifie 'I want à être'."
+  },
+  "q_vocab_a1_11_009": {
+    "question": "Vous meet someone à a party et ils ask que vous do. Comment say 'I am a teacher'?",
+    "correct": "Soy profesor.",
+    "wrong": [
+      "Soy estudiante.",
+      "Soy un profesor.",
+      "Estoy profesor."
+    ],
+    "explanation": "We use 'soy' (not 'estoy') pour professions parce que ils sont considered permanent traits. No article est nécessaire avant Le/La profession.",
+    "context": "Meeting someone new at a party"
+  },
+  "q_vocab_a1_11_010": {
+    "question": "Vous call emergency services. Comment ask pour Le/La police?",
+    "correct": "¡Necesito la policía!",
+    "wrong": [
+      "¡Necesito un médico!",
+      "¡Necesito un bombero!",
+      "¡Necesito una ambulancia!"
+    ],
+    "explanation": "'Policía' peut signifier 'police' (Le/La force) ou 'police officer'. Ici il se réfère à calling Le/La police.",
+    "context": "Making an emergency phone call"
+  },
+  "q_vocab_a1_12_001": {
+    "question": "Que 'sol' signifier?",
+    "correct": "sun",
+    "wrong": [
+      "moon",
+      "star",
+      "cloud"
+    ],
+    "explanation": "'Sol' signifie 'sun'. 'Hace sol' signifie 'Il est sunny' (literally 'Il makes sun')."
+  },
+  "q_vocab_a1_12_002": {
+    "question": "Hoy no hay ___, el cielo está azul.",
+    "correct": "nubes",
+    "wrong": [
+      "sol",
+      "lluvia",
+      "viento"
+    ],
+    "explanation": "'Nubes' signifie 'clouds' (singulier: 'nube'). Le/La phrase says 'Today Il n'y a pas de clouds, Le/La sky est blue'."
+  },
+  "q_vocab_a1_12_003": {
+    "question": "Que 'lluvia' signifier?",
+    "correct": "rain",
+    "wrong": [
+      "snow",
+      "wind",
+      "storm"
+    ],
+    "explanation": "'Lluvia' signifie 'rain'. Le verbe form est 'llover' (à rain): 'Está lloviendo' = 'Il est raining'."
+  },
+  "q_vocab_a1_12_004": {
+    "question": "Que 'árbol' signifier?",
+    "correct": "tree",
+    "wrong": [
+      "flower",
+      "bush",
+      "leaf"
+    ],
+    "explanation": "'Árbol' signifie 'tree'. Le/La pluriel est 'árboles'. 'Bosque' signifie 'forest' (beaucoup trees)."
+  },
+  "q_vocab_a1_12_005": {
+    "question": "Il est très cold today et il est snowing.",
+    "correct": "Hoy hace mucho frío y está nevando.",
+    "wrong": [
+      "Hoy hace mucho calor y está nevando.",
+      "Hoy hace mucho frío y está lloviendo.",
+      "Hoy hace mucho viento y está nevando."
+    ],
+    "explanation": "'Frío' signifie 'cold', 'nieve' signifie 'snow', et 'nevar' signifie 'à snow'. 'Está nevando' = 'il est snowing'."
+  },
+  "q_vocab_a1_12_006": {
+    "question": "Que 'montaña' signifier dans 'Vamos a la montaña este fin de semana'?",
+    "correct": "mountain",
+    "wrong": [
+      "beach",
+      "river",
+      "lake"
+    ],
+    "explanation": "'Montaña' signifie 'mountain'. Le/La phrase signifie 'We sont going à Le/La mountain Ce weekend'."
+  },
+  "q_vocab_a1_12_007": {
+    "question": "Vous want à go à Le/La beach. Que weather do vous hope pour?",
+    "correct": "Hace sol y calor.",
+    "wrong": [
+      "Llueve mucho.",
+      "Hace frío y viento.",
+      "Está nevando."
+    ],
+    "explanation": "'Hace sol y calor' signifie 'Il est sunny et hot'. C'est ideal beach weather. 'Calor' signifie 'heat/hot'.",
+    "context": "Planning a beach trip"
+  },
+  "q_vocab_a1_12_008": {
+    "question": "Que 'río' signifier dans 'El río es muy largo'?",
+    "correct": "river",
+    "wrong": [
+      "sea",
+      "lake",
+      "stream"
+    ],
+    "explanation": "'Río' signifie 'river'. Le/La phrase signifie 'Le/La river est très long'. 'Mar' signifie 'sea'."
+  },
+  "q_vocab_a1_12_009": {
+    "question": "Las flores son muy bonitas en primavera.",
+    "correct": "The flowers are very pretty in spring.",
+    "wrong": [
+      "The trees are very pretty in spring.",
+      "The flowers are very pretty in summer.",
+      "The flowers are very big in spring."
+    ],
+    "explanation": "'Flores' signifie 'flowers' (singulier: 'flor'). 'Bonitas' signifie 'pretty'. Flowers typiquement bloom dans 'primavera' (spring)."
+  },
+  "q_vocab_a1_12_010": {
+    "question": "Vous sont watching Le/La weather forecast et want à know à propos de tomorrow. Comment ask 'Que sera Le/La weather être like tomorrow?'",
+    "correct": "¿Qué tiempo hará mañana?",
+    "wrong": [
+      "¿Qué hora es mañana?",
+      "¿Qué día es mañana?",
+      "¿Cuándo es mañana?"
+    ],
+    "explanation": "'Tiempo' ici signifie 'weather' (il peut aussi signifier 'temps'). '¿Qué tiempo hará?' uses Le/La future tense de 'hacer'.",
+    "context": "Watching the weather forecast on TV"
+  },
+  "q_vocab_a1_13_001": {
+    "question": "Que 'coche' signifier?",
+    "correct": "car",
+    "wrong": [
+      "bus",
+      "train",
+      "bicycle"
+    ],
+    "explanation": "'Coche' signifie 'car'. Dans Latin America, 'carro' ou 'auto' sont more couramment used."
+  },
+  "q_vocab_a1_13_002": {
+    "question": "Que 'avión' signifier?",
+    "correct": "airplane",
+    "wrong": [
+      "train",
+      "boat",
+      "helicopter"
+    ],
+    "explanation": "'Avión' signifie 'airplane'. 'Aeropuerto' signifie 'airport'. 'Viajar en avión' = 'à travel par plane'."
+  },
+  "q_vocab_a1_13_003": {
+    "question": "Voy al trabajo en ___ porque no tengo coche.",
+    "correct": "autobús",
+    "wrong": [
+      "avión",
+      "barco",
+      "taxi"
+    ],
+    "explanation": "'Autobús' signifie 'bus'. Le/La phrase says 'I go à work par bus parce que I ne pas avoir a car'."
+  },
+  "q_vocab_a1_13_004": {
+    "question": "Que 'bicicleta' signifier?",
     "correct": "bicycle",
     "wrong": [
-      "journalist",
-      "thank you",
-      "Monday"
+      "motorcycle",
+      "scooter",
+      "car"
     ],
-    "explanation": "'la bicicleta' se traduit par 'bicycle'",
-    "hint": "Exemple: Voy a la escuela en bicicleta."
+    "explanation": "'Bicicleta' signifie 'bicycle'. Il est souvent shortened à 'bici' dans casual speech."
   },
-  "q_vocab_a1_10_061": {
-    "question": "Quel est le sens du mot 'la biblioteca'?",
-    "correct": "library",
+  "q_vocab_a1_13_005": {
+    "question": "Que 'metro' signifier dans 'Tomo el metro para ir al centro'?",
+    "correct": "subway / metro",
     "wrong": [
-      "hello",
-      "eye",
-      "Monday"
+      "bus",
+      "taxi",
+      "tram"
     ],
-    "explanation": "'la biblioteca' se traduit par 'library'",
-    "hint": "Exemple: Estudio en la biblioteca."
+    "explanation": "'Metro' signifie 'subway' ou 'metro'. Le/La phrase signifie 'I take Le/La metro à go à Le/La center (downtown)'."
   },
-  "q_vocab_a1_10_062": {
-    "question": "Quel mot signifie 'exam'?",
-    "correct": "el examen",
+  "q_vocab_a1_13_006": {
+    "question": "I go à school sur foot.",
+    "correct": "Voy a la escuela a pie.",
     "wrong": [
-      "el árbol",
-      "el café",
-      "el verano"
+      "Voy a la escuela en coche.",
+      "Voy a la escuela en tren.",
+      "Voy a la escuela en moto."
     ],
-    "explanation": "La traduction de 'exam' est 'el examen'",
-    "hint": "I have an exam tomorrow."
+    "explanation": "'A pie' signifie 'sur foot'. We say 'ir a pie' (à go sur foot) rather than 'caminar a' dans Ce context."
   },
-  "q_vocab_a1_10_063": {
-    "question": "Quel mot signifie 'exam'?",
-    "correct": "el examen",
+  "q_vocab_a1_13_007": {
+    "question": "Que 'tren' signifier dans 'El tren sale a las ocho'?",
+    "correct": "train",
     "wrong": [
-      "verde",
-      "el tren",
-      "el pie"
+      "bus",
+      "plane",
+      "taxi"
     ],
-    "explanation": "La traduction de 'exam' est 'el examen'",
-    "hint": "I have an exam tomorrow."
+    "explanation": "'Tren' signifie 'train'. Le/La phrase signifie 'Le/La train leaves à eight'. 'Estación de tren' = 'train station'."
   },
-  "q_vocab_a1_11_064": {
-    "question": "Quel mot signifie 'teacher'?",
-    "correct": "el profesor",
+  "q_vocab_a1_13_008": {
+    "question": "Quiero viajar a la isla en barco.",
+    "correct": "I want to travel to the island by boat.",
     "wrong": [
-      "el examen",
-      "gracias",
-      "dormir"
+      "I want to travel to the island by plane.",
+      "I want to travel to the city by boat.",
+      "I want to travel to the island by train."
     ],
-    "explanation": "La traduction de 'teacher' est 'el profesor'",
-    "hint": "The teacher teaches math."
+    "explanation": "'Barco' signifie 'boat' ou 'ship'. 'Isla' signifie 'island'. 'En barco' signifie 'par boat'."
   },
-  "q_vocab_a1_11_065": {
-    "question": "Quel mot signifie 'doctor'?",
-    "correct": "el médico",
+  "q_vocab_a1_13_009": {
+    "question": "Vous need à get à Le/La airport quickly. Quel est Le/La best option?",
+    "correct": "Voy a tomar un taxi.",
     "wrong": [
-      "la familia",
-      "enfermo",
-      "el coche"
+      "Voy a ir a pie.",
+      "Voy a tomar el barco.",
+      "Voy a ir en bicicleta."
     ],
-    "explanation": "La traduction de 'doctor' est 'el médico'",
-    "hint": "My mother is a doctor."
+    "explanation": "'Taxi' est Le/La same mot en espagnol et Anglais. A taxi est Le/La fastest et la plupart practical way à get à Le/La airport.",
+    "context": "Running late for a flight"
   },
-  "q_vocab_a1_13_066": {
-    "question": "Quel mot signifie 'bicycle'?",
-    "correct": "la bicicleta",
+  "q_vocab_a1_13_010": {
+    "question": "Votre ami asks comment vous commute à work. Comment say 'I ride my motorcycle à work'?",
+    "correct": "Voy al trabajo en moto.",
     "wrong": [
-      "el ojo",
-      "enfermo",
-      "rojo"
+      "Voy al trabajo en metro.",
+      "Voy al trabajo en taxi.",
+      "Voy al trabajo a pie."
     ],
-    "explanation": "La traduction de 'bicycle' est 'la bicicleta'",
-    "hint": "I go to school by bicycle."
+    "explanation": "'Moto' est short pour 'motocicleta' (motorcycle). 'En moto' signifie 'par motorcycle'. 'Ir en moto' est Le/La natural expression.",
+    "context": "Discussing daily commute with a friend"
   },
-  "q_vocab_a1_09_067": {
-    "question": "Quel mot signifie 'door'?",
-    "correct": "la puerta",
+  "q_vocab_a1_14_001": {
+    "question": "Que 'comer' signifier?",
+    "correct": "to eat",
     "wrong": [
-      "el verano",
-      "leer",
-      "la cocina"
+      "to drink",
+      "to cook",
+      "to sleep"
     ],
-    "explanation": "La traduction de 'door' est 'la puerta'",
-    "hint": "The door is closed."
+    "explanation": "'Comer' signifie 'à eat'. 'La comida' signifie 'Le/La food' ou 'Le/La meal' (surtout lunch dans Spain)."
   },
-  "q_vocab_a1_09_068": {
-    "question": "Quel mot signifie 'bed'?",
-    "correct": "la cama",
-    "wrong": [
-      "el avión",
-      "el café",
-      "el tren"
-    ],
-    "explanation": "La traduction de 'bed' est 'la cama'",
-    "hint": "The bed is very comfortable."
-  },
-  "q_vocab_a1_07_069": {
-    "question": "Quel mot signifie 'head'?",
-    "correct": "la cabeza",
-    "wrong": [
-      "la familia",
-      "la biblioteca",
-      "hacer"
-    ],
-    "explanation": "La traduction de 'head' est 'la cabeza'",
-    "hint": "My head hurts."
-  },
-  "q_vocab_a1_02_070": {
-    "question": "Quel mot signifie 'family'?",
-    "correct": "la familia",
-    "wrong": [
-      "contento",
-      "el libro",
-      "el agua"
-    ],
-    "explanation": "La traduction de 'family' est 'la familia'",
-    "hint": "My family is big."
-  },
-  "q_vocab_a1_06_071": {
-    "question": "Quel mot signifie 'bread'?",
-    "correct": "el pan",
-    "wrong": [
-      "el tren",
-      "el tren",
-      "la cabeza"
-    ],
-    "explanation": "La traduction de 'bread' est 'el pan'",
-    "hint": "I buy bread every day."
-  },
-  "q_vocab_a1_05_072": {
-    "question": "Quel mot signifie 'green'?",
-    "correct": "verde",
-    "wrong": [
-      "el vestido",
-      "el avión",
-      "el árbol"
-    ],
-    "explanation": "La traduction de 'green' est 'verde'",
-    "hint": "The grass is green."
-  },
-  "q_vocab_a1_07_073": {
-    "question": "Quel mot signifie 'eye'?",
-    "correct": "el ojo",
-    "wrong": [
-      "la familia",
-      "levantarse",
-      "el mar"
-    ],
-    "explanation": "La traduction de 'eye' est 'el ojo'",
-    "hint": "He/She has blue eyes."
-  },
-  "q_vocab_a1_04_074": {
-    "question": "Quel mot signifie 'Monday'?",
-    "correct": "lunes",
-    "wrong": [
-      "la puerta",
-      "la puerta",
-      "el verano"
-    ],
-    "explanation": "La traduction de 'Monday' est 'lunes'",
-    "hint": "On Monday I have class."
-  },
-  "q_vocab_a1_01_075": {
-    "question": "Quel mot signifie 'I'm sorry'?",
-    "correct": "lo siento",
-    "wrong": [
-      "la chaqueta",
-      "la hermana",
-      "gracias"
-    ],
-    "explanation": "La traduction de 'I'm sorry' est 'lo siento'",
-    "hint": "I'm sorry, I don't speak Spanish."
-  },
-  "q_vocab_a1_13_076": {
-    "question": "Quel mot signifie 'airplane'?",
-    "correct": "el avión",
-    "wrong": [
-      "la camisa",
-      "la ventana",
-      "verde"
-    ],
-    "explanation": "La traduction de 'airplane' est 'el avión'",
-    "hint": "We travel by plane."
-  },
-  "q_vocab_a1_12_077": {
-    "question": "Quel mot signifie 'tree'?",
-    "correct": "el árbol",
-    "wrong": [
-      "el coche",
-      "azul",
-      "la ventana"
-    ],
-    "explanation": "La traduction de 'tree' est 'el árbol'",
-    "hint": "There are many trees in the park."
-  },
-  "q_vocab_a1_09_078": {
-    "question": "Quel mot signifie 'door'?",
-    "correct": "la puerta",
-    "wrong": [
-      "levantarse",
-      "por favor",
-      "el libro"
-    ],
-    "explanation": "La traduction de 'door' est 'la puerta'",
-    "hint": "The door is closed."
-  },
-  "q_vocab_a1_10_079": {
-    "question": "Quel mot signifie 'school'?",
-    "correct": "la escuela",
-    "wrong": [
-      "el examen",
-      "el sol",
-      "verde"
-    ],
-    "explanation": "La traduction de 'school' est 'la escuela'",
-    "hint": "I go to school every day."
-  },
-  "q_vocab_a1_02_080": {
-    "question": "Quel mot signifie 'father'?",
-    "correct": "el padre",
-    "wrong": [
-      "la hora",
-      "la lluvia",
-      "levantarse"
-    ],
-    "explanation": "La traduction de 'father' est 'el padre'",
-    "hint": "My father works at a bank."
-  },
-  "q_vocab_a1_08_081": {
-    "question": "Quel mot signifie 'jacket'?",
-    "correct": "la chaqueta",
-    "wrong": [
-      "gracias",
-      "la familia",
-      "verde"
-    ],
-    "explanation": "La traduction de 'jacket' est 'la chaqueta'",
-    "hint": "I need a jacket."
-  },
-  "q_vocab_a1_06_082": {
-    "question": "Quel mot signifie 'bread'?",
-    "correct": "el pan",
-    "wrong": [
-      "negro",
-      "la escuela",
-      "hola"
-    ],
-    "explanation": "La traduction de 'bread' est 'el pan'",
-    "hint": "I buy bread every day."
-  },
-  "q_vocab_a1_02_083": {
-    "question": "Quel mot signifie 'sister'?",
-    "correct": "la hermana",
-    "wrong": [
-      "la camisa",
-      "rojo",
-      "enero"
-    ],
-    "explanation": "La traduction de 'sister' est 'la hermana'",
-    "hint": "I have an older sister."
-  },
-  "q_vocab_a1_06_084": {
-    "question": "Quel mot signifie 'coffee'?",
-    "correct": "el café",
-    "wrong": [
-      "azul",
-      "el mar",
-      "el/la periodista"
-    ],
-    "explanation": "La traduction de 'coffee' est 'el café'",
-    "hint": "A coffee with milk, please."
-  },
-  "q_vocab_a1_14_085": {
-    "question": "Quel mot signifie 'to get up'?",
-    "correct": "levantarse",
-    "wrong": [
-      "el minuto",
-      "por favor",
-      "el sol"
-    ],
-    "explanation": "La traduction de 'to get up' est 'levantarse'",
-    "hint": "I get up at seven."
-  },
-  "q_vocab_a1_12_086": {
-    "question": "Quel mot signifie 'rain'?",
-    "correct": "la lluvia",
-    "wrong": [
-      "el agua",
-      "la bicicleta",
-      "negro"
-    ],
-    "explanation": "La traduction de 'rain' est 'la lluvia'",
-    "hint": "I don't like rain."
-  },
-  "q_vocab_a1_09_087": {
-    "question": "Quel mot signifie 'window'?",
-    "correct": "la ventana",
-    "wrong": [
-      "hola",
-      "por favor",
-      "la mano"
-    ],
-    "explanation": "La traduction de 'window' est 'la ventana'",
-    "hint": "Open the window, please."
-  },
-  "q_vocab_a1_07_088": {
-    "question": "Quel mot signifie 'head'?",
-    "correct": "la cabeza",
-    "wrong": [
-      "hola",
-      "verde",
-      "el verano"
-    ],
-    "explanation": "La traduction de 'head' est 'la cabeza'",
-    "hint": "My head hurts."
-  },
-  "q_vocab_a1_06_089": {
-    "question": "Quel mot signifie 'bread'?",
-    "correct": "el pan",
-    "wrong": [
-      "rojo",
-      "verde",
-      "la escuela"
-    ],
-    "explanation": "La traduction de 'bread' est 'el pan'",
-    "hint": "I buy bread every day."
-  },
-  "q_vocab_a1_15_090": {
-    "question": "Quel mot signifie 'happy'?",
-    "correct": "contento",
-    "wrong": [
-      "el pan",
-      "el padre",
-      "el profesor"
-    ],
-    "explanation": "La traduction de 'happy' est 'contento'",
-    "hint": "I am very happy today."
-  },
-  "q_vocab_a1_14_091": {
-    "question": "Quel mot signifie 'to do/make'?",
-    "correct": "hacer",
-    "wrong": [
-      "el vestido",
-      "la semana",
-      "el examen"
-    ],
-    "explanation": "La traduction de 'to do/make' est 'hacer'",
-    "hint": "What are you doing?"
-  },
-  "q_vocab_a1_14_092": {
-    "question": "Quel mot signifie 'to do/make'?",
-    "correct": "hacer",
-    "wrong": [
-      "el mar",
-      "el vestido",
-      "la escuela"
-    ],
-    "explanation": "La traduction de 'to do/make' est 'hacer'",
-    "hint": "What are you doing?"
-  },
-  "q_vocab_a1_10_093": {
-    "question": "Quel mot signifie 'book'?",
-    "correct": "el libro",
-    "wrong": [
-      "la familia",
-      "el tren",
-      "los zapatos"
-    ],
-    "explanation": "La traduction de 'book' est 'el libro'",
-    "hint": "I need a Spanish book."
-  },
-  "q_vocab_a1_09_094": {
-    "question": "Quel mot signifie 'bed'?",
-    "correct": "la cama",
-    "wrong": [
-      "la semana",
-      "el vestido",
-      "verde"
-    ],
-    "explanation": "La traduction de 'bed' est 'la cama'",
-    "hint": "The bed is very comfortable."
-  },
-  "q_vocab_a1_08_095": {
-    "question": "Quel mot signifie 'shoes'?",
-    "correct": "los zapatos",
-    "wrong": [
-      "el minuto",
-      "el avión",
-      "levantarse"
-    ],
-    "explanation": "La traduction de 'shoes' est 'los zapatos'",
-    "hint": "These shoes are new."
-  },
-  "q_vocab_a1_02_096": {
-    "question": "Quel mot signifie 'grandfather'?",
-    "correct": "el abuelo",
-    "wrong": [
-      "enero",
-      "la camisa",
-      "la camisa"
-    ],
-    "explanation": "La traduction de 'grandfather' est 'el abuelo'",
-    "hint": "My grandfather lives in the countryside."
-  },
-  "q_vocab_a1_08_097": {
-    "question": "Quel mot signifie 'shoes'?",
-    "correct": "los zapatos",
-    "wrong": [
-      "lo siento",
-      "la cabeza",
-      "la semana"
-    ],
-    "explanation": "La traduction de 'shoes' est 'los zapatos'",
-    "hint": "These shoes are new."
-  },
-  "q_vocab_a1_10_098": {
-    "question": "Quel mot signifie 'library'?",
-    "correct": "la biblioteca",
-    "wrong": [
-      "la escuela",
-      "el abuelo",
-      "el pie"
-    ],
-    "explanation": "La traduction de 'library' est 'la biblioteca'",
-    "hint": "I study in the library."
-  },
-  "q_vocab_a1_15_099": {
-    "question": "Quel mot signifie 'sick'?",
-    "correct": "enfermo",
-    "wrong": [
-      "el minuto",
-      "adiós",
-      "el examen"
-    ],
-    "explanation": "La traduction de 'sick' est 'enfermo'",
-    "hint": "My son is sick."
-  },
-  "q_vocab_a1_09_100": {
-    "question": "Quel mot signifie 'door'?",
-    "correct": "la puerta",
-    "wrong": [
-      "verde",
-      "hacer",
-      "la mano"
-    ],
-    "explanation": "La traduction de 'door' est 'la puerta'",
-    "hint": "The door is closed."
-  },
-  "q_vocab_a1_06_101": {
-    "question": "Quel mot signifie 'meat'?",
-    "correct": "la carne",
-    "wrong": [
-      "rojo",
-      "el vestido",
-      "el abogado"
-    ],
-    "explanation": "La traduction de 'meat' est 'la carne'",
-    "hint": "I don't eat meat."
-  },
-  "q_vocab_a1_10_102": {
-    "question": "Quel mot signifie 'school'?",
-    "correct": "la escuela",
-    "wrong": [
-      "el abogado",
-      "la cama",
-      "el coche"
-    ],
-    "explanation": "La traduction de 'school' est 'la escuela'",
-    "hint": "I go to school every day."
-  },
-  "q_vocab_a1_11_103": {
-    "question": "Quel mot signifie 'teacher'?",
-    "correct": "el profesor",
-    "wrong": [
-      "la hermana",
-      "el sol",
-      "el ojo"
-    ],
-    "explanation": "La traduction de 'teacher' est 'el profesor'",
-    "hint": "The teacher teaches math."
-  },
-  "q_vocab_a1_11_104": {
-    "question": "Quel mot signifie 'journalist'?",
-    "correct": "el/la periodista",
-    "wrong": [
-      "la chaqueta",
-      "rojo",
-      "el pie"
-    ],
-    "explanation": "La traduction de 'journalist' est 'el/la periodista'",
-    "hint": "She is a journalist."
-  },
-  "q_vocab_a1_11_105": {
-    "question": "Quel mot signifie 'journalist'?",
-    "correct": "el/la periodista",
-    "wrong": [
-      "el abogado",
-      "negro",
-      "la camisa"
-    ],
-    "explanation": "La traduction de 'journalist' est 'el/la periodista'",
-    "hint": "She is a journalist."
-  },
-  "q_vocab_a1_10_106": {
-    "question": "Quel mot signifie 'book'?",
-    "correct": "el libro",
-    "wrong": [
-      "el tren",
-      "la hermana",
-      "rojo"
-    ],
-    "explanation": "La traduction de 'book' est 'el libro'",
-    "hint": "I need a Spanish book."
-  },
-  "q_vocab_a1_02_107": {
-    "question": "Quel mot signifie 'grandfather'?",
-    "correct": "el abuelo",
-    "wrong": [
-      "el médico",
-      "la mañana",
-      "el coche"
-    ],
-    "explanation": "La traduction de 'grandfather' est 'el abuelo'",
-    "hint": "My grandfather lives in the countryside."
-  },
-  "q_vocab_a1_12_108": {
-    "question": "Quel mot signifie 'tree'?",
-    "correct": "el árbol",
-    "wrong": [
-      "la carne",
-      "el minuto",
-      "hacer"
-    ],
-    "explanation": "La traduction de 'tree' est 'el árbol'",
-    "hint": "There are many trees in the park."
-  },
-  "q_vocab_a1_07_109": {
-    "question": "Quel mot signifie 'hand'?",
-    "correct": "la mano",
-    "wrong": [
-      "y media",
-      "la semana",
-      "verde"
-    ],
-    "explanation": "La traduction de 'hand' est 'la mano'",
-    "hint": "Raise your hand."
-  },
-  "q_vocab_a1_14_110": {
-    "question": "Quel mot signifie 'to read'?",
+  "q_vocab_a1_14_002": {
+    "question": "Me gusta ___ libros por la noche.",
     "correct": "leer",
     "wrong": [
-      "el ojo",
-      "rojo",
-      "enfermo"
-    ],
-    "explanation": "La traduction de 'to read' est 'leer'",
-    "hint": "I like to read books."
-  },
-  "q_vocab_a1_07_111": {
-    "question": "Quel mot signifie 'eye'?",
-    "correct": "el ojo",
-    "wrong": [
-      "el árbol",
-      "el vestido",
-      "la camisa"
-    ],
-    "explanation": "La traduction de 'eye' est 'el ojo'",
-    "hint": "He/She has blue eyes."
-  },
-  "q_vocab_a1_13_112": {
-    "question": "Quel mot signifie 'car'?",
-    "correct": "el coche",
-    "wrong": [
-      "el tren",
-      "azul",
-      "la semana"
-    ],
-    "explanation": "La traduction de 'car' est 'el coche'",
-    "hint": "I go to work by car."
-  },
-  "q_vocab_a1_10_113": {
-    "question": "Quel mot signifie 'exam'?",
-    "correct": "el examen",
-    "wrong": [
-      "los zapatos",
-      "negro",
-      "la chaqueta"
-    ],
-    "explanation": "La traduction de 'exam' est 'el examen'",
-    "hint": "I have an exam tomorrow."
-  },
-  "q_vocab_a1_10_114": {
-    "question": "Quel mot signifie 'library'?",
-    "correct": "la biblioteca",
-    "wrong": [
-      "la mañana",
-      "el ojo",
-      "el/la periodista"
-    ],
-    "explanation": "La traduction de 'library' est 'la biblioteca'",
-    "hint": "I study in the library."
-  },
-  "q_vocab_a1_06_115": {
-    "question": "Quel mot signifie 'meat'?",
-    "correct": "la carne",
-    "wrong": [
-      "el árbol",
-      "cansado",
+      "ver",
+      "hacer",
       "dormir"
     ],
-    "explanation": "La traduction de 'meat' est 'la carne'",
-    "hint": "I don't eat meat."
+    "explanation": "'Leer' signifie 'à read'. Le/La phrase says 'I like à read books à nuit'."
   },
-  "q_vocab_a1_14_116": {
-    "question": "Quel mot signifie 'to do/make'?",
-    "correct": "hacer",
+  "q_vocab_a1_14_003": {
+    "question": "Que 'dormir' signifier?",
+    "correct": "to sleep",
     "wrong": [
-      "la familia",
-      "la hora",
-      "levantarse"
+      "to dream",
+      "to rest",
+      "to wake up"
     ],
-    "explanation": "La traduction de 'to do/make' est 'hacer'",
-    "hint": "What are you doing?"
+    "explanation": "'Dormir' signifie 'à sleep'. Il est a verbe à alternance vocalique: duermo, duermes, duerme..."
   },
-  "q_vocab_a1_02_117": {
-    "question": "Quel mot signifie 'grandfather'?",
-    "correct": "el abuelo",
+  "q_vocab_a1_14_004": {
+    "question": "Que 'hablar' signifier?",
+    "correct": "to speak / to talk",
     "wrong": [
-      "la hora",
-      "azul",
-      "gracias"
+      "to listen",
+      "to write",
+      "to read"
     ],
-    "explanation": "La traduction de 'grandfather' est 'el abuelo'",
-    "hint": "My grandfather lives in the countryside."
+    "explanation": "'Hablar' signifie 'à speak' ou 'à talk'. 'Hablar español' = 'à speak Espagnol'."
   },
-  "q_vocab_a1_13_118": {
-    "question": "Quel mot signifie 'airplane'?",
-    "correct": "el avión",
+  "q_vocab_a1_14_005": {
+    "question": "I open Le/La window chaque matin.",
+    "correct": "Abro la ventana cada mañana.",
     "wrong": [
-      "la hora",
-      "cansado",
-      "adiós"
+      "Cierro la ventana cada mañana.",
+      "Abro la puerta cada mañana.",
+      "Abro la ventana cada noche."
     ],
-    "explanation": "La traduction de 'airplane' est 'el avión'",
-    "hint": "We travel by plane."
+    "explanation": "'Abrir' signifie 'à open'. 'Abro' est Le/La premier personne singulier (yo) form. Son opposite est 'cerrar' (à close)."
   },
-  "q_vocab_a1_11_119": {
-    "question": "Quel mot signifie 'journalist'?",
-    "correct": "el/la periodista",
+  "q_vocab_a1_14_006": {
+    "question": "Que 'escribir' signifier dans 'Escribo un correo electrónico'?",
+    "correct": "to write",
     "wrong": [
-      "el árbol",
-      "la camisa",
-      "la puerta"
+      "to read",
+      "to send",
+      "to type"
     ],
-    "explanation": "La traduction de 'journalist' est 'el/la periodista'",
-    "hint": "She is a journalist."
+    "explanation": "'Escribir' signifie 'à write'. Le/La phrase signifie 'I write an email'. 'Correo electrónico' = 'email'."
   },
-  "q_vocab_a1_08_120": {
-    "question": "Quel mot signifie 'shirt'?",
-    "correct": "la camisa",
+  "q_vocab_a1_14_007": {
+    "question": "Vous sont à a bus stop et Le/La bus est late. Que verbe décrit que vous sont doing?",
+    "correct": "esperar",
     "wrong": [
-      "gracias",
-      "el examen",
+      "correr",
+      "llamar",
       "dormir"
     ],
-    "explanation": "La traduction de 'shirt' est 'la camisa'",
-    "hint": "I'm wearing a white shirt."
+    "explanation": "'Esperar' signifie 'à wait'. 'Estoy esperando el autobús' = 'I am waiting pour Le/La bus'.",
+    "context": "Waiting for a late bus"
   },
-  "q_vocab_a1_01_121": {
-    "question": "Quel mot signifie 'I'm sorry'?",
-    "correct": "lo siento",
+  "q_vocab_a1_14_008": {
+    "question": "Que 'beber' signifier dans '¿Quieres beber algo?'?",
+    "correct": "to drink",
     "wrong": [
-      "el médico",
-      "gracias",
-      "la mano"
+      "to eat",
+      "to buy",
+      "to want"
     ],
-    "explanation": "La traduction de 'I'm sorry' est 'lo siento'",
-    "hint": "I'm sorry, I don't speak Spanish."
+    "explanation": "'Beber' signifie 'à drink'. Le/La phrase signifie 'Do vous want à drink something?' 'Tomar' est aussi used pour 'à drink'."
   },
-  "q_vocab_a1_09_122": {
-    "question": "Quel mot signifie 'window'?",
-    "correct": "la ventana",
+  "q_vocab_a1_14_009": {
+    "question": "Me levanto a las siete y me ducho antes de desayunar.",
+    "correct": "I get up at seven and I shower before having breakfast.",
     "wrong": [
-      "el libro",
-      "el abuelo",
-      "el abogado"
+      "I go to bed at seven and I shower before dinner.",
+      "I get up at seven and I eat before showering.",
+      "I get up at eight and I shower before having breakfast."
     ],
-    "explanation": "La traduction de 'window' est 'la ventana'",
-    "hint": "Open the window, please."
+    "explanation": "'Levantarse' signifie 'à get up', 'ducharse' signifie 'à shower', et 'desayunar' signifie 'à avoir breakfast'."
   },
-  "q_vocab_a1_15_123": {
-    "question": "Quel mot signifie 'sick'?",
-    "correct": "enfermo",
+  "q_vocab_a1_14_010": {
+    "question": "Votre phone rings pendant a meeting. Comment tell votre colleagues que vous need à do?",
+    "correct": "Necesito llamar por teléfono.",
     "wrong": [
-      "la cama",
-      "el examen",
-      "el abogado"
+      "Necesito dormir un poco.",
+      "Necesito comer algo.",
+      "Necesito leer un libro."
     ],
-    "explanation": "La traduction de 'sick' est 'enfermo'",
-    "hint": "My son is sick."
+    "explanation": "'Llamar' signifie 'à call'. 'Llamar por teléfono' signifie 'pour faire a phone call'. Il peut aussi signifier 'à call/name'.",
+    "context": "Receiving a phone call during a meeting"
   },
-  "q_vocab_a1_06_124": {
-    "question": "Quel mot signifie 'meat'?",
-    "correct": "la carne",
+  "q_vocab_a1_15_001": {
+    "question": "Que 'contento' signifier?",
+    "correct": "happy / pleased",
     "wrong": [
-      "el abuelo",
-      "gracias",
-      "enero"
+      "sad",
+      "angry",
+      "tired"
     ],
-    "explanation": "La traduction de 'meat' est 'la carne'",
-    "hint": "I don't eat meat."
+    "explanation": "'Contento' signifie 'happy' ou 'pleased'. La forme féminine est 'contenta'. Similaire à 'feliz' mais less intense."
   },
-  "q_vocab_a1_08_125": {
-    "question": "Quel mot signifie 'shoes'?",
-    "correct": "los zapatos",
+  "q_vocab_a1_15_002": {
+    "question": "Que 'triste' signifier?",
+    "correct": "sad",
     "wrong": [
-      "la mañana",
-      "dormir",
-      "el sol"
+      "happy",
+      "angry",
+      "bored"
     ],
-    "explanation": "La traduction de 'shoes' est 'los zapatos'",
-    "hint": "These shoes are new."
+    "explanation": "'Triste' signifie 'sad'. Unlike beaucoup adjectifs, il a Le/La same form pour masculin et féminin."
   },
-  "q_vocab_a1_09_126": {
-    "question": "Quel mot signifie 'bed'?",
-    "correct": "la cama",
-    "wrong": [
-      "el pan",
-      "la lluvia",
-      "contento"
-    ],
-    "explanation": "La traduction de 'bed' est 'la cama'",
-    "hint": "The bed is very comfortable."
-  },
-  "q_vocab_a1_05_127": {
-    "question": "Quel mot signifie 'blue'?",
-    "correct": "azul",
-    "wrong": [
-      "la lluvia",
-      "cansado",
-      "la camisa"
-    ],
-    "explanation": "La traduction de 'blue' est 'azul'",
-    "hint": "The sky is blue."
-  },
-  "q_vocab_a1_14_128": {
-    "question": "Quel mot signifie 'to do/make'?",
-    "correct": "hacer",
-    "wrong": [
-      "la escuela",
-      "el árbol",
-      "la carne"
-    ],
-    "explanation": "La traduction de 'to do/make' est 'hacer'",
-    "hint": "What are you doing?"
-  },
-  "q_vocab_a1_03_129": {
-    "question": "Quel mot signifie 'hour/time'?",
-    "correct": "la hora",
-    "wrong": [
-      "el agua",
-      "el tren",
-      "negro"
-    ],
-    "explanation": "La traduction de 'hour/time' est 'la hora'",
-    "hint": "What time is it?"
-  },
-  "q_vocab_a1_06_130": {
-    "question": "Quel mot signifie 'coffee'?",
-    "correct": "el café",
-    "wrong": [
-      "el examen",
-      "enfermo",
-      "el tren"
-    ],
-    "explanation": "La traduction de 'coffee' est 'el café'",
-    "hint": "A coffee with milk, please."
-  },
-  "q_vocab_a1_08_131": {
-    "question": "Quel mot signifie 'shirt'?",
-    "correct": "la camisa",
-    "wrong": [
-      "levantarse",
-      "el libro",
-      "el agua"
-    ],
-    "explanation": "La traduction de 'shirt' est 'la camisa'",
-    "hint": "I'm wearing a white shirt."
-  },
-  "q_vocab_a1_14_132": {
-    "question": "Quel mot signifie 'to get up'?",
-    "correct": "levantarse",
-    "wrong": [
-      "hola",
-      "triste",
-      "la mañana"
-    ],
-    "explanation": "La traduction de 'to get up' est 'levantarse'",
-    "hint": "I get up at seven."
-  },
-  "q_vocab_a1_07_133": {
-    "question": "Quel mot signifie 'head'?",
-    "correct": "la cabeza",
-    "wrong": [
-      "la semana",
-      "la mano",
-      "la hermana"
-    ],
-    "explanation": "La traduction de 'head' est 'la cabeza'",
-    "hint": "My head hurts."
-  },
-  "q_vocab_a1_05_134": {
-    "question": "Quel mot signifie 'red'?",
-    "correct": "rojo",
-    "wrong": [
-      "verde",
-      "verde",
-      "la carne"
-    ],
-    "explanation": "La traduction de 'red' est 'rojo'",
-    "hint": "The car is red."
-  },
-  "q_vocab_a1_12_135": {
-    "question": "Quel mot signifie 'sun'?",
-    "correct": "el sol",
-    "wrong": [
-      "adiós",
-      "cansado",
-      "azul"
-    ],
-    "explanation": "La traduction de 'sun' est 'el sol'",
-    "hint": "It's sunny today."
-  },
-  "q_vocab_a1_02_136": {
-    "question": "Quel mot signifie 'family'?",
-    "correct": "la familia",
-    "wrong": [
-      "el vestido",
-      "el libro",
-      "el mar"
-    ],
-    "explanation": "La traduction de 'family' est 'la familia'",
-    "hint": "My family is big."
-  },
-  "q_vocab_a1_12_137": {
-    "question": "Quel mot signifie 'tree'?",
-    "correct": "el árbol",
-    "wrong": [
-      "el avión",
-      "enero",
-      "gracias"
-    ],
-    "explanation": "La traduction de 'tree' est 'el árbol'",
-    "hint": "There are many trees in the park."
-  },
-  "q_vocab_a1_06_138": {
-    "question": "Quel mot signifie 'coffee'?",
-    "correct": "el café",
-    "wrong": [
-      "cansado",
-      "el vestido",
-      "la ventana"
-    ],
-    "explanation": "La traduction de 'coffee' est 'el café'",
-    "hint": "A coffee with milk, please."
-  },
-  "q_vocab_a1_02_139": {
-    "question": "Quel mot signifie 'sister'?",
-    "correct": "la hermana",
-    "wrong": [
-      "rojo",
-      "el avión",
-      "leer"
-    ],
-    "explanation": "La traduction de 'sister' est 'la hermana'",
-    "hint": "I have an older sister."
-  },
-  "q_vocab_a1_05_140": {
-    "question": "Quel mot signifie 'green'?",
-    "correct": "verde",
-    "wrong": [
-      "el agua",
-      "el avión",
-      "la hermana"
-    ],
-    "explanation": "La traduction de 'green' est 'verde'",
-    "hint": "The grass is green."
-  },
-  "q_vocab_a1_04_141": {
-    "question": "Quel mot signifie 'summer'?",
-    "correct": "el verano",
-    "wrong": [
-      "la chaqueta",
-      "adiós",
-      "dormir"
-    ],
-    "explanation": "La traduction de 'summer' est 'el verano'",
-    "hint": "In summer it is very hot."
-  },
-  "q_vocab_a1_15_142": {
-    "question": "Quel mot signifie 'happy'?",
-    "correct": "contento",
-    "wrong": [
-      "verde",
-      "el libro",
-      "el pie"
-    ],
-    "explanation": "La traduction de 'happy' est 'contento'",
-    "hint": "I am very happy today."
-  },
-  "q_vocab_a1_07_143": {
-    "question": "Quel mot signifie 'hand'?",
-    "correct": "la mano",
-    "wrong": [
-      "el vestido",
-      "gracias",
-      "el ojo"
-    ],
-    "explanation": "La traduction de 'hand' est 'la mano'",
-    "hint": "Raise your hand."
-  },
-  "q_vocab_a1_03_144": {
-    "question": "Quel mot signifie 'hour/time'?",
-    "correct": "la hora",
-    "wrong": [
-      "el mar",
-      "el árbol",
-      "levantarse"
-    ],
-    "explanation": "La traduction de 'hour/time' est 'la hora'",
-    "hint": "What time is it?"
-  },
-  "q_vocab_a1_09_145": {
-    "question": "Quel mot signifie 'kitchen'?",
-    "correct": "la cocina",
-    "wrong": [
-      "la lluvia",
-      "la mano",
-      "verde"
-    ],
-    "explanation": "La traduction de 'kitchen' est 'la cocina'",
-    "hint": "My mother is in the kitchen."
-  },
-  "q_vocab_a1_03_146": {
-    "question": "Quel mot signifie 'half past'?",
-    "correct": "y media",
-    "wrong": [
-      "el verano",
-      "el tren",
-      "el minuto"
-    ],
-    "explanation": "La traduction de 'half past' est 'y media'",
-    "hint": "It is 2:30."
-  },
-  "q_vocab_a1_01_147": {
-    "question": "Quel mot signifie 'I'm sorry'?",
-    "correct": "lo siento",
+  "q_vocab_a1_15_003": {
+    "question": "Estoy muy ___ después de trabajar todo el día.",
+    "correct": "cansado",
     "wrong": [
       "contento",
-      "el avión",
-      "el pan"
+      "nervioso",
+      "aburrido"
     ],
-    "explanation": "La traduction de 'I'm sorry' est 'lo siento'",
-    "hint": "I'm sorry, I don't speak Spanish."
+    "explanation": "'Cansado' signifie 'tired'. Le/La phrase says 'I am très tired après working tous jour'. Use 'estar' pour temporary states."
   },
-  "q_vocab_a1_02_148": {
-    "question": "Quel mot signifie 'family'?",
-    "correct": "la familia",
+  "q_vocab_a1_15_004": {
+    "question": "Que 'enfermo' signifier?",
+    "correct": "sick / ill",
     "wrong": [
-      "el coche",
-      "gracias",
-      "el vestido"
+      "healthy",
+      "tired",
+      "sad"
     ],
-    "explanation": "La traduction de 'family' est 'la familia'",
-    "hint": "My family is big."
+    "explanation": "'Enfermo' signifie 'sick' ou 'ill'. 'Estoy enfermo' = 'I am sick'. La forme féminine est 'enferma'."
   },
-  "q_vocab_a1_04_149": {
-    "question": "Quel mot signifie 'summer'?",
-    "correct": "el verano",
+  "q_vocab_a1_15_005": {
+    "question": "Que 'preocupado' signifier dans 'Estoy preocupado por el examen'?",
+    "correct": "worried",
     "wrong": [
-      "lo siento",
-      "cansado",
-      "el pan"
+      "excited",
+      "nervous",
+      "bored"
     ],
-    "explanation": "La traduction de 'summer' est 'el verano'",
-    "hint": "In summer it is very hot."
+    "explanation": "'Preocupado' signifie 'worried'. Le/La phrase signifie 'I am worried à propos de Le/La exam'. 'Preocuparse' = 'à worry'."
   },
-  "q_vocab_a1_15_150": {
-    "question": "Quel mot signifie 'happy'?",
-    "correct": "contento",
+  "q_vocab_a1_15_006": {
+    "question": "I am très nervous à propos de Le/La interview.",
+    "correct": "Estoy muy nervioso por la entrevista.",
     "wrong": [
-      "la carne",
-      "por favor",
-      "el padre"
+      "Estoy muy contento por la entrevista.",
+      "Estoy muy aburrido por la entrevista.",
+      "Soy muy nervioso por la entrevista."
     ],
-    "explanation": "La traduction de 'happy' est 'contento'",
-    "hint": "I am very happy today."
+    "explanation": "'Nervioso' signifie 'nervous'. We use 'estar' (not 'ser') parce que nervousness est a temporary state.",
+    "hint": "Temporary emotions use 'estar', not 'ser'"
+  },
+  "q_vocab_a1_15_007": {
+    "question": "Que 'enfadado' signifier dans 'Mi padre está enfadado conmigo'?",
+    "correct": "angry",
+    "wrong": [
+      "happy",
+      "proud",
+      "disappointed"
+    ],
+    "explanation": "'Enfadado' signifie 'angry'. Le/La phrase signifie 'My father est angry avec me'. Dans Latin America, 'enojado' est more commun."
+  },
+  "q_vocab_a1_15_008": {
+    "question": "¿Cómo estás? — Estoy bien, gracias.",
+    "correct": "How are you? — I am fine, thank you.",
+    "wrong": [
+      "How are you? — I am bad, thank you.",
+      "What is your name? — I am fine, thank you.",
+      "How are you? — I am tired, thank you."
+    ],
+    "explanation": "'Bien' signifie 'fine' ou 'well'. 'Estoy bien' est Le/La standard positive response à '¿Cómo estás?'."
+  },
+  "q_vocab_a1_15_009": {
+    "question": "Votre ami got a surprise birthday party. Comment serait vous décrire leur reaction?",
+    "correct": "Está muy sorprendido y emocionado.",
+    "wrong": [
+      "Está muy triste y cansado.",
+      "Está muy enfadado y preocupado.",
+      "Está muy aburrido y nervioso."
+    ],
+    "explanation": "'Sorprendido' signifie 'surprised' et 'emocionado' signifie 'excited/thrilled'. Les deux use 'estar' pour temporary states.",
+    "context": "A surprise birthday party"
+  },
+  "q_vocab_a1_15_010": {
+    "question": "Votre colleague says ils avoir nothing à do à work. Quel mot best décrit comment ils feel?",
+    "correct": "aburrido",
+    "wrong": [
+      "ocupado",
+      "nervioso",
+      "enfermo"
+    ],
+    "explanation": "'Aburrido' signifie 'bored'. Son opposite est 'ocupado' (busy). Quand someone a nothing à do, ils feel 'aburrido'.",
+    "context": "A slow day at the office"
   }
 }

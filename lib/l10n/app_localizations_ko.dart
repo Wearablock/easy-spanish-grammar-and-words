@@ -523,6 +523,9 @@ class AppLocalizationsKo extends AppLocalizations {
   String get speakingTest => '말하기 테스트';
 
   @override
+  String get speakingBrowseAll => '씨앗 골라서 연습';
+
+  @override
   String get speakingFeatureDesc =>
       '한 문장에서 주어·부정·의문·단어 교체로 수십 가지 변형을 발화 연습하고 테스트해보세요.';
 
@@ -620,6 +623,9 @@ class AppLocalizationsKo extends AppLocalizations {
   String variationNounSwap(String noun) {
     return '단어 교체 · $noun';
   }
+
+  @override
+  String get variationPhrase => '관용 표현';
 
   @override
   String get feedbackPerfect => '완벽해요! 🎉';

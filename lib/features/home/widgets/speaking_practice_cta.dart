@@ -1,17 +1,31 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../../core/theme/app_colors.dart';
 import '../../../l10n/app_localizations.dart';
+import '../../speaking_practice/data/speaking_review_provider.dart';
 import '../../speaking_practice/screens/seed_list_screen.dart';
+import '../../speaking_practice/screens/speak_screen.dart';
 
-/// 홈 화면 — 말하기 연습/테스트 진입 카드.
+/// 홈 화면 — 말하기 진입 카드.
 ///
-/// 학습 카드와 시각적으로 구별되도록 스페인 골드 그라데이션 배경 +
-/// 마이크 워터마크 + NUEVO 배지 적용.
-class SpeakingPracticeCta extends StatelessWidget {
+/// 메인 버튼은 자동 세션(복습 대기 + 새 카드 혼합) 시작.
+/// 보조 링크로 씨앗 직접 선택 플로우 유지.
+class SpeakingPracticeCta extends ConsumerStatefulWidget {
   const SpeakingPracticeCta({super.key});
 
+  @override
+  ConsumerState<SpeakingPracticeCta> createState() =>
+      _SpeakingPracticeCtaState();
+}
+
+class _SpeakingPracticeCtaState extends ConsumerState<SpeakingPracticeCta> {
+  static const List<int> _sessionSizeOptions = [5, 10, 20];
+  static const int _defaultSessionSize = 10;
   static const Color _goldDeep = Color(0xFF6B4E00);
+
+  int _sessionSize = _defaultSessionSize;
+  bool _starting = false;
 
   @override
   Widget build(BuildContext context) {
@@ -36,7 +50,6 @@ class SpeakingPracticeCta extends StatelessWidget {
       ),
       child: Stack(
         children: [
-          // 좌측 마이크 워터마크 (장식)
           Positioned(
             left: -8,
             top: -4,
@@ -46,7 +59,6 @@ class SpeakingPracticeCta extends StatelessWidget {
               color: AppColors.secondary.withValues(alpha: 0.18),
             ),
           ),
-          // NUEVO 배지 (우측 상단)
           Positioned(
             top: 12,
             right: 12,
@@ -75,7 +87,6 @@ class SpeakingPracticeCta extends StatelessWidget {
               ),
             ),
           ),
-          // 본문
           Padding(
             padding: const EdgeInsets.fromLTRB(20, 20, 20, 18),
             child: Column(
@@ -105,41 +116,71 @@ class SpeakingPracticeCta extends StatelessWidget {
                     ),
                   ),
                 ),
-                const SizedBox(height: 14),
+                const SizedBox(height: 12),
                 Row(
                   children: [
-                    Expanded(
-                      child: OutlinedButton.icon(
-                        onPressed: () =>
-                            _open(context, isTestMode: false),
-                        icon: const Icon(Icons.fitness_center, size: 18),
-                        label: Text(l10n.practice),
-                        style: OutlinedButton.styleFrom(
-                          foregroundColor: _goldDeep,
-                          side: BorderSide(
-                            color: AppColors.secondary
-                                .withValues(alpha: 0.7),
-                            width: 1.2,
-                          ),
-                          padding: const EdgeInsets.symmetric(vertical: 12),
-                        ),
+                    Text(
+                      l10n.cardsCount(_sessionSize),
+                      style: theme.textTheme.bodySmall?.copyWith(
+                        color: _goldDeep.withValues(alpha: 0.8),
                       ),
                     ),
                     const SizedBox(width: 12),
                     Expanded(
-                      child: FilledButton.icon(
-                        onPressed: () =>
-                            _open(context, isTestMode: true),
-                        icon: const Icon(Icons.quiz, size: 18),
-                        label: Text(l10n.test),
-                        style: FilledButton.styleFrom(
-                          backgroundColor: AppColors.secondary,
-                          foregroundColor: _goldDeep,
-                          padding: const EdgeInsets.symmetric(vertical: 12),
-                        ),
+                      child: Wrap(
+                        alignment: WrapAlignment.end,
+                        spacing: 6,
+                        children: _sessionSizeOptions.map((n) {
+                          final selected = n == _sessionSize;
+                          return ChoiceChip(
+                            label: Text('$n'),
+                            selected: selected,
+                            onSelected: (_) =>
+                                setState(() => _sessionSize = n),
+                            visualDensity: VisualDensity.compact,
+                            materialTapTargetSize:
+                                MaterialTapTargetSize.shrinkWrap,
+                          );
+                        }).toList(),
                       ),
                     ),
                   ],
+                ),
+                const SizedBox(height: 12),
+                FilledButton.icon(
+                  onPressed: _starting ? null : _startAuto,
+                  icon: _starting
+                      ? const SizedBox(
+                          width: 18,
+                          height: 18,
+                          child: CircularProgressIndicator(strokeWidth: 2),
+                        )
+                      : const Icon(Icons.mic, size: 18),
+                  label: Text(l10n.start),
+                  style: FilledButton.styleFrom(
+                    backgroundColor: AppColors.secondary,
+                    foregroundColor: _goldDeep,
+                    padding: const EdgeInsets.symmetric(vertical: 12),
+                  ),
+                ),
+                const SizedBox(height: 4),
+                Align(
+                  alignment: Alignment.centerRight,
+                  child: TextButton.icon(
+                    onPressed: _openSeedList,
+                    icon: const Icon(Icons.menu_book_outlined, size: 14),
+                    label: Text(
+                      l10n.speakingBrowseAll,
+                      style: const TextStyle(fontSize: 12),
+                    ),
+                    style: TextButton.styleFrom(
+                      foregroundColor: _goldDeep.withValues(alpha: 0.85),
+                      padding: const EdgeInsets.symmetric(
+                          horizontal: 8, vertical: 4),
+                      minimumSize: Size.zero,
+                      tapTargetSize: MaterialTapTargetSize.shrinkWrap,
+                    ),
+                  ),
                 ),
               ],
             ),
@@ -149,11 +190,40 @@ class SpeakingPracticeCta extends StatelessWidget {
     );
   }
 
-  void _open(BuildContext context, {required bool isTestMode}) {
+  Future<void> _startAuto() async {
+    final l10n = AppLocalizations.of(context)!;
+    setState(() => _starting = true);
+    final cards = await SpeakingAutoSession.build(size: _sessionSize);
+    if (!mounted) return;
+    setState(() => _starting = false);
+
+    if (cards.isEmpty) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text(l10n.noReviewDue)),
+      );
+      return;
+    }
+
+    await Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (_) => SpeakingSpeakScreen(
+          title: l10n.speakingPractice,
+          cards: cards,
+        ),
+      ),
+    );
+    // 세션 결과가 복습 대기 카운트에 영향 → refresh.
+    if (mounted) {
+      ref.invalidate(speakingReviewDueCountProvider);
+    }
+  }
+
+  void _openSeedList() {
     Navigator.push(
       context,
       MaterialPageRoute(
-        builder: (_) => SpeakingSeedListScreen(isTestMode: isTestMode),
+        builder: (_) => const SpeakingSeedListScreen(),
       ),
     );
   }

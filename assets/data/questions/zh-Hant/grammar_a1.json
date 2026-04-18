@@ -1,802 +1,2142 @@
 {
-  "q_grammar_a1_001": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
+  "q_gram_a1_01_001": {
+    "question": "___ libro es interesante.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'libro' 是男性單數名詞, 所以定冠詞 'el' 是 用過的.\n- el libro (男性 單數)\n- la mesa (女性 單數)",
+    "hint": "libro 結尾 -o, which typically 表示 男性 性別"
+  },
+  "q_gram_a1_01_002": {
+    "question": "___ mano es pequeña.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'mano' 是常見例外之一: despite 詞尾 在 -o, 它 是 女性.\n- la mano (女性, 例外)\n- el libro (男性, 規則 -o 詞尾)",
+    "hint": "這 是著名例外 到 -o = 男性 規則"
+  },
+  "q_gram_a1_01_003": {
+    "question": "什麼 does 'casa' 表示 在 'la casa'?",
+    "correct": "house",
+    "wrong": [
+      "table",
+      "cat",
+      "book"
+    ],
+    "explanation": "'casa' 意思是 'house' 和 是 a 女性 名詞 詞尾 在 -a.\n- la casa = house\n- una casa = a house"
+  },
+  "q_gram_a1_01_004": {
+    "question": "___ ciudad es grande. (use 正確 冠詞 爲 陰性名詞)",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'ciudad' 結尾 -dad, which 是 a 女性 詞尾.\n以...結尾的名詞 -ción, -sión, -dad, 和 -tad 通常是女性.",
+    "conjugation_info": "女性 詞尾: -a, -ción, -sión, -dad, -tad, -tud"
+  },
+  "q_gram_a1_01_005": {
+    "question": "___ problema es difícil.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'problema' 是 男性 despite 詞尾 在 -a. 以...結尾的希臘起源詞彙 -ma 是男性.\n- el problema, el tema, el sistema, el programa",
+    "hint": "Greek-起源 words 詞尾 在 -ma 是男性"
+  },
+  "q_gram_a1_01_006": {
+    "question": "___ televisión es nueva. (select 正確 冠詞)",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'televisión' 結尾 -sión, making 它 女性.\n所有以...結尾的名詞 -ción 和 -sión 是女性 在 西班牙語.",
+    "conjugation_info": "女性 詞尾: -ción (nación), -sión (televisión), -dad (ciudad)"
+  },
+  "q_gram_a1_01_007": {
+    "question": "___ día es bonito.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'día' 是最常見例外之一 在 西班牙語: 它 是 男性 despite 詞尾 在 -a.\n- el día (男性, 例外)\n- Other 例外: el mapa, el sofá",
+    "hint": "Not 所有 words 詞尾 在 -a 是女性"
+  },
+  "q_gram_a1_01_008": {
+    "question": " map 是 big.",
+    "correct": "El mapa es grande.",
+    "wrong": [
+      "La mapa es grande.",
+      "Los mapas son grandes.",
+      "El mapa es pequeño."
+    ],
+    "explanation": "'mapa' 是 男性 despite 詞尾 在 -a (another 例外 到 -a = 女性 規則).\n'big' = 'grande', which doesn't 改變 爲 性別."
+  },
+  "q_gram_a1_01_009": {
+    "question": "___ fotos son de mi familia. (select 正確 冠詞 爲 複數 陰性名詞)",
+    "correct": "Las",
+    "wrong": [
+      "Los",
+      "La",
+      "El"
+    ],
+    "explanation": "'foto' 是 short 爲 'fotografía', which 是 女性.\n- la foto → las fotos\nAbbreviations keep 性別 的 full 詞.",
+    "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)"
+  },
+  "q_gram_a1_01_010": {
+    "question": " hand 是 cold.",
+    "correct": "La mano está fría.",
+    "wrong": [
+      "El mano está frío.",
+      "La mano es fría.",
+      "Las manos están frías."
+    ],
+    "explanation": "'mano' 是 女性 despite 詞尾 在 -o (a 關鍵 例外).\nWe 使用 'está' 因爲 感覺 冷 是 a 臨時 狀態.\n- la mano fría (女性 形容詞 agreement)"
+  },
+  "q_gram_a1_02_001": {
+    "question": "Voy ___ parque. (fill 在: a + el)",
+    "correct": "al",
+    "wrong": [
+      "a el",
+      "a la",
+      "del"
+    ],
+    "explanation": "什麼時候 前置詞 'a' 是 後跟 冠詞 'el', 它們縮約爲 'al'.\n- a + el = al (Voy al parque.)\n這 是 one 的 僅 two contractions 在 西班牙語.",
+    "conjugation_info": "Contractions: a + el = al, de + el = del"
+  },
+  "q_gram_a1_02_002": {
+    "question": "___ escuela está cerca.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'escuela' 是女性單數名詞 詞尾 在 -a.\n- la escuela (女性 單數)\n- las escuelas (女性 複數)",
+    "hint": "escuela 結尾 -a, a 典型 女性 詞尾"
+  },
+  "q_gram_a1_02_003": {
+    "question": "___ niños juegan en el parque.",
+    "correct": "Los",
+    "wrong": [
+      "Las",
+      "El",
+      "La"
+    ],
+    "explanation": "'niños' 是男性複數名詞, 所以定冠詞 'los' 是 用過的.\n- el niño (男性 單數) → los niños (男性 複數)",
+    "hint": "niños 是 複數 的 niño"
+  },
+  "q_gram_a1_02_004": {
+    "question": "什麼 does 'los' indicate 在 'los libros'?",
+    "correct": "masculine plural definite article",
+    "wrong": [
+      "feminine plural definite article",
+      "masculine singular definite article",
+      "masculine plural indefinite article"
+    ],
+    "explanation": "'los' 是 男性 複數 definite 冠詞 (= '' 爲 男性 複數 名詞).\n- el (m. sg.), la (f. sg.), los (m. pl.), las (f. pl.)"
+  },
+  "q_gram_a1_02_005": {
+    "question": "Vengo ___ cine. (fill 在: de + el)",
+    "correct": "del",
+    "wrong": [
+      "de el",
+      "de la",
+      "al"
+    ],
+    "explanation": "什麼時候 'de' 是 後跟 'el', 它們縮約爲 'del'.\n- de + el = del (Vengo del cine.)\n此縮約是強制性的 在 西班牙語.",
+    "conjugation_info": "Contractions: a + el = al, de + el = del"
+  },
+  "q_gram_a1_02_006": {
+    "question": "___ flores son bonitas.",
+    "correct": "Las",
+    "wrong": [
+      "Los",
+      "La",
+      "El"
+    ],
+    "explanation": "'flores' 是女性複數名詞.\n- la flor (女性 單數) → las flores (女性 複數)\n定冠詞必須匹配 在 性別 和 數.",
+    "hint": "flor 是 女性; flores 是 its 複數 形式"
+  },
+  "q_gram_a1_02_007": {
+    "question": "I work on Mondays.",
+    "correct": "Trabajo los lunes.",
+    "wrong": [
+      "Trabajo el lunes.",
+      "Trabajo en lunes.",
+      "Trabajo lunes."
+    ],
+    "explanation": "對於一周某一天的習慣性動作, 使用 'los' + 天.\n- los lunes = on Mondays (habitual)\n- el lunes = on 星期一 (specific, 這 星期一)"
+  },
+  "q_gram_a1_02_008": {
+    "question": "Trabajo ___ lunes. (I work on Mondays.)",
+    "correct": "los",
+    "wrong": [
+      "el",
+      "la",
+      "las"
+    ],
+    "explanation": "天 的 week 在 西班牙語 使用 definite 冠詞.\n- 'los lunes' = on Mondays (recurring)\n- 'el lunes' = on 星期一 (one specific 星期一)",
+    "hint": "使用 複數 冠詞 爲 recurring 天"
+  },
+  "q_gram_a1_02_009": {
+    "question": "Cats 是 independent.",
+    "correct": "Los gatos son independientes.",
+    "wrong": [
+      "Gatos son independientes.",
+      "Unos gatos son independientes.",
+      "Las gatas son independientes."
+    ],
+    "explanation": "在 西班牙語, general statements 需要 definite 冠詞.\n- Los gatos son independientes. (Cats 在 general)\n英語 omits '' 在 general statements, 但是 西班牙語 需要 它."
+  },
+  "q_gram_a1_02_010": {
+    "question": "Vamos ___ escuela. (fill 在: a + la)",
+    "correct": "a la",
+    "wrong": [
+      "al",
+      "a las",
+      "a el"
+    ],
+    "explanation": " contraction 僅 happens 與 'a + el = al'. 與 'la', no contraction occurs.\n- Voy al parque (a + el)\n- Voy a la escuela (a + la, no contraction)",
+    "conjugation_info": "僅 a + el = al 和 de + el = del 形式 contractions. Other combinations stay separate."
+  },
+  "q_gram_a1_03_001": {
+    "question": "Tengo ___ amigo en España.",
+    "correct": "un",
+    "wrong": [
+      "una",
+      "unos",
+      "el"
+    ],
+    "explanation": "'amigo' 是男性單數名詞, so indefinite 冠詞 'un' 是 用過的.\n- un amigo = a friend (男性)\n- una amiga = a friend (女性)",
+    "hint": "amigo 結尾 -o, 表示 男性 性別"
+  },
+  "q_gram_a1_03_002": {
+    "question": "Hay ___ libros en la mesa.",
+    "correct": "unos",
+    "wrong": [
+      "un",
+      "unas",
+      "los"
+    ],
+    "explanation": "'libros' 是男性複數名詞; 'unos' 意思是 'some' 爲 男性 plurals.\n- un libro → unos libros\n- una carta → unas cartas",
+    "hint": "Which indefinite 冠詞 是 用過的 爲 男性 plurals?"
+  },
+  "q_gram_a1_03_003": {
+    "question": "什麼 does 'unas' 表示 在 'unas flores'?",
+    "correct": "some (feminine plural)",
+    "wrong": [
+      "the (feminine plural)",
+      "a (feminine singular)",
+      "some (masculine plural)"
+    ],
+    "explanation": "'unas' 是 女性 複數 indefinite 冠詞 含義 'some'.\n- un (m. sg.), una (f. sg.), unos (m. pl.), unas (f. pl.)"
+  },
+  "q_gram_a1_03_004": {
+    "question": "Soy ___. (I am a teacher.) (conjugate appropriate response)",
+    "correct": "profesor",
+    "wrong": [
+      "un profesor",
+      "el profesor",
+      "una profesora"
+    ],
+    "explanation": "在 西班牙語, indefinite 冠詞 被省略 與 professions 之後 ser.\n- Soy profesor. (正確)\n- Soy un profesor. (incorrect 在 標準 西班牙語)\n此規則適用 到 nationalities too: Soy español.",
+    "conjugation_info": "Ser + 職業: no 冠詞 needed. Soy profesor, Soy estudiante, Soy médico."
+  },
+  "q_gram_a1_03_005": {
+    "question": "Barcelona es ___ ciudad bonita.",
+    "correct": "una",
+    "wrong": [
+      "un",
+      "la",
+      "unas"
+    ],
+    "explanation": "'ciudad' 是 女性, 和 we 使用不定冠詞 什麼時候 describing something 爲 第一 時間.\n- una ciudad bonita = a beautiful city\n注意: 'ciudad' 結尾 -dad, a 女性 詞尾.",
+    "hint": "ciudad 是 a 女性 名詞"
+  },
+  "q_gram_a1_03_006": {
+    "question": "No hay ___. (有 no problem.)",
+    "correct": "problema",
+    "wrong": [
+      "un problema",
+      "el problema",
+      "problemas"
+    ],
+    "explanation": "之後 negative 'no hay', indefinite 冠詞 被省略.\n- No hay problema. (正確)\n- No hay azúcar. (那裡 是 no sugar.)\n 冠詞 是 dropped 在 negative existential statements.",
+    "conjugation_info": "省略 indefinite 冠詞 after: sin (沒有), no hay (那裡 isn't), 和 與 professions after ser."
+  },
+  "q_gram_a1_03_007": {
+    "question": "Café ___ azúcar, por favor. (不加糖的咖啡)",
+    "correct": "sin",
+    "wrong": [
+      "un",
+      "con",
+      "de"
+    ],
+    "explanation": "之後 'sin' (沒有), indefinite 冠詞 被省略.\n- Café sin azúcar. (Coffee 沒有 sugar.)\n- Café con leche. (Coffee 與 milk.)",
+    "hint": "Which 前置詞 意思是 '沒有'?"
+  },
+  "q_gram_a1_03_008": {
+    "question": "I buy some flowers.",
+    "correct": "Compro unas flores.",
+    "wrong": [
+      "Compro las flores.",
+      "Compro un flores.",
+      "Compro una flores."
+    ],
+    "explanation": "'some flowers' = 'unas flores' (女性 複數 indefinite 冠詞).\n- unas + 女性 複數 名詞 = some (unspecified)\n- las + 女性 複數 名詞 = (specific)"
+  },
+  "q_gram_a1_03_009": {
+    "question": "___ gato está en la calle. (A cat 是 在 street — any cat.)",
+    "correct": "Un",
+    "wrong": [
+      "El",
+      "Unos",
+      "La"
+    ],
+    "explanation": "We 使用不定冠詞 'un' 爲 第一 mention 或 non-specific reference.\n- Un gato (any cat, 第一 mention) vs El gato (a specific cat)\n這 distinction 是 crucial 爲 natural 西班牙語.",
+    "conjugation_info": "Indefinite (第一 mention/non-specific): un/una/unos/unas. Definite (known/specific): el/la/los/las."
+  },
+  "q_gram_a1_03_010": {
+    "question": "有 some books on table.",
+    "correct": "Hay unos libros en la mesa.",
+    "wrong": [
+      "Hay los libros en la mesa.",
+      "Hay un libros en la mesa.",
+      "Están unos libros en la mesa."
+    ],
+    "explanation": "'some books' = 'unos libros' (男性 複數 indefinite 冠詞).\nWe 使用 'hay' 爲 existence 和 indefinite 冠詞 爲 non-specific items.\n- Hay unos libros. (existence, non-specific)"
+  },
+  "q_gram_a1_04_001": {
+    "question": "___ hablamos español. (fill 在 主語 代詞)",
+    "correct": "Nosotros",
+    "wrong": [
+      "Yo",
+      "Ellos",
+      "Tú"
+    ],
+    "explanation": "'hablamos' 是 nosotros/nosotras 形式的 hablar.\n- nosotros hablamos = we speak\n -amos 詞尾 表示 第一 人稱 複數.",
+    "conjugation_info": "Subject 代詞: yo, tú, él/ella/usted, nosotros, vosotros, ellos/ustedes"
+  },
+  "q_gram_a1_04_002": {
+    "question": "___ eres mi amigo.",
+    "correct": "Tú",
+    "wrong": [
+      "Yo",
+      "Él",
+      "Usted"
+    ],
+    "explanation": "'eres' 是 tú 形式的動詞 ser.\n- Tú eres = 你 是 (非正式)\n 代詞 'tú' 是 用過的 與 friends, family, 和 peers.",
+    "hint": "Which 代詞 goes 與 'eres'?"
+  },
+  "q_gram_a1_04_003": {
+    "question": "___ viven en Madrid.",
+    "correct": "Ellos",
+    "wrong": [
+      "Nosotros",
+      "Tú",
+      "Yo"
+    ],
+    "explanation": "'viven' 是 ellos/ellas/ustedes 形式的 vivir.\n- Ellos viven = 他們 live\n -en 詞尾 表示 第三 人稱 複數.",
+    "hint": "viven 是 a 3rd 人稱 複數 動詞 形式"
+  },
+  "q_gram_a1_04_004": {
+    "question": "什麼 是 正式 way 用來說 '你' (單數) 在西班牙語中?",
+    "correct": "usted",
+    "wrong": [
+      "tú",
+      "vosotros",
+      "nosotros"
+    ],
+    "explanation": "'usted' 是 正式 單數 '你', 用過的 與 strangers, elders, 和 在 professional settings.\n- tú = 非正式 '你'\n- usted = 正式 '你' (takes 3rd 人稱 動詞 形式)"
+  },
+  "q_gram_a1_04_005": {
+    "question": "___ es la profesora. (conjugate ser 爲 3rd 人)",
+    "correct": "Ella",
+    "wrong": [
+      "Él",
+      "Yo",
+      "Nosotros"
+    ],
+    "explanation": "'Ella' 意思是 'she' 和 是 用過的 爲 a female subject.\n- Ella es la profesora = She 是 teacher.\n- Él es el profesor = He 是 teacher.",
+    "conjugation_info": "3rd 人稱 代詞: él (he), ella (she), usted (you 正式)"
+  },
+  "q_gram_a1_04_006": {
+    "question": "En España, ___ coméis paella.",
+    "correct": "vosotros",
+    "wrong": [
+      "ustedes",
+      "nosotros",
+      "ellos"
+    ],
+    "explanation": "'vosotros' 是 用過的 mainly 在 西班牙 爲 非正式 複數 '你 所有'.\n- coméis 是 vosotros 形式的 comer\n在 拉丁美洲, 'ustedes' 是 用過的 instead 的 'vosotros'.",
+    "hint": "這 代詞 是 mainly 用過的 在 西班牙"
+  },
+  "q_gram_a1_04_007": {
+    "question": "We live 在 Barcelona.",
+    "correct": "Vivimos en Barcelona.",
+    "wrong": [
+      "Viven en Barcelona.",
+      "Vivo en Barcelona.",
+      "Vivís en Barcelona."
+    ],
+    "explanation": "在 西班牙語, subject 代詞 經常被省略 因爲 動詞 詞尾 shows 誰 是 speaking.\n- vivimos = we live (nosotros 是 可選)\n- vivo = I live, vives = 你 live"
+  },
+  "q_gram_a1_04_008": {
+    "question": "___ habla español muy bien. (He speaks 西班牙語 非常 well.)",
+    "correct": "Él",
+    "wrong": [
+      "Ella",
+      "Yo",
+      "Tú"
+    ],
+    "explanation": "'Él' 意思是 'he'. 重音 on 'E' distinguishes 它 來自 'el' ( 冠詞).\n- Él habla = He speaks\n- El libro = book (冠詞, no 重音)",
+    "hint": "注意 重音 mark 那 distinguishes 這 代詞 來自 冠詞"
+  },
+  "q_gram_a1_04_009": {
+    "question": "¿___ es usted?",
+    "correct": "Quién",
+    "wrong": [
+      "Qué",
+      "Cómo",
+      "Dónde"
+    ],
+    "explanation": "詢問身份時 與 'usted', '¿Quién es usted?' 意思是 '誰 是 你?' (正式).\n注意 'usted' 採用與...相同的動詞形式 él/ella (3rd 人稱 單數).\n- ¿Quién es usted? (正式) vs ¿Quién eres tú? (非正式)"
+  },
+  "q_gram_a1_04_010": {
+    "question": "Yo hablo español, ___ habla francés. (conjugate 與 正確 代詞 爲 'she')",
+    "correct": "ella",
+    "wrong": [
+      "él",
+      "tú",
+      "usted"
+    ],
+    "explanation": "代詞 是 用過的 爲 emphasis 或 到 clarify 誰 是 是 talked about.\n- Yo hablo español, ella habla francés.\n- 沒有 代詞, 'habla francés' could 意思 he/she/你(正式) speaks 法語.",
+    "conjugation_info": "使用 代詞 for emphasis: Yo hablo... ella habla... vs just Hablo... Habla..."
+  },
+  "q_gram_a1_05_001": {
+    "question": "Yo ___ estudiante.",
     "correct": "soy",
     "wrong": [
-      "estoy",
       "eres",
+      "es",
       "somos"
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": " yo 形式的 'ser' 是 'soy'.\n- Yo soy estudiante = I am a student.\nSer 用於職業 和 身份.",
+    "hint": "什麼 是 第一 人稱 單數 形式的 ser?"
   },
-  "q_grammar_a1_002": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_a1_05_002": {
+    "question": "Ellos ___ españoles.",
+    "correct": "son",
+    "wrong": [
+      "es",
+      "somos",
+      "sois"
+    ],
+    "explanation": " ellos/ellas/ustedes 形式的 'ser' 是 'son'.\n- Ellos son españoles = 他們 是 西班牙語.\nSer 用於國籍.",
+    "hint": "什麼 是 第三 人稱 複數 形式的 ser?"
+  },
+  "q_gram_a1_05_003": {
+    "question": "什麼 是 main use 的 'ser' 在 'Ella es doctora'?",
+    "correct": "to express profession",
+    "wrong": [
+      "to express location",
+      "to express emotion",
+      "to express a temporary state"
+    ],
+    "explanation": "Ser 用於職業: Ella es doctora (She 是 a doctor).\nOther uses 的 ser: 身份, 國籍, characteristics, 時間, 和 起源."
+  },
+  "q_gram_a1_05_004": {
+    "question": "Tú ___ muy inteligente. (conjugate ser)",
+    "correct": "eres",
+    "wrong": [
+      "soy",
+      "es",
+      "son"
+    ],
+    "explanation": " tú 形式的 'ser' 是 'eres'.\n- Tú eres inteligente = 你 是 intelligent.\nSer 是 用過的 爲 inherent characteristics.",
+    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son"
+  },
+  "q_gram_a1_05_005": {
+    "question": "___ las tres de la tarde.",
+    "correct": "Son",
+    "wrong": [
+      "Es",
+      "Está",
+      "Hay"
+    ],
+    "explanation": "'Son las tres' = 它 是 three o'clock. 爲 telling 時間, 使用 'ser'.\n- Es la una. (1:00 — 單數)\n- Son las dos/tres/cuatro... (2:00+ — 複數)",
+    "hint": "Which 形式的 ser 是 用過的 與 複數 小時?"
+  },
+  "q_gram_a1_05_006": {
+    "question": "La mesa ___ de madera. (conjugate ser)",
+    "correct": "es",
+    "wrong": [
+      "está",
+      "son",
+      "soy"
+    ],
+    "explanation": "Ser 是 用過的 用來表達 什麼 something 是 made 的.\n- La mesa es de madera. = table 是 made 的 wood.\n- 'de' + 材料 與 ser = made 的.",
+    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son"
+  },
+  "q_gram_a1_05_007": {
+    "question": "Nosotros ___ profesores de español.",
+    "correct": "somos",
+    "wrong": [
+      "soy",
+      "son",
+      "es"
+    ],
+    "explanation": "'somos' 是 nosotros 形式的 ser.\n- Nosotros somos profesores = We 是 teachers.\nSer + 職業 (no 冠詞 needed).",
+    "hint": "什麼 是 第一 人稱 複數 形式的 ser?"
+  },
+  "q_gram_a1_05_008": {
+    "question": "Today 是 Monday.",
+    "correct": "Hoy es lunes.",
+    "wrong": [
+      "Hoy está lunes.",
+      "Hoy son lunes.",
+      "Hoy es el lunes."
+    ],
+    "explanation": "Ser 用於日期和星期幾.\n- Hoy es lunes. = Today 是 星期一.\n注意: No 冠詞 是 用過的 什麼時候 stating 什麼 天 它 是."
+  },
+  "q_gram_a1_05_009": {
+    "question": "¿De dónde ___ ustedes? (conjugate ser)",
+    "correct": "son",
+    "wrong": [
+      "es",
+      "somos",
+      "sois"
+    ],
+    "explanation": " ustedes 形式的 'ser' 是 'son' (相同 as ellos/ellas).\n- ¿De dónde son ustedes? = 哪裡 是 你 所有 來自?\nSer + de = 起源.",
+    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son"
+  },
+  "q_gram_a1_05_010": {
+    "question": "它 是 one o'clock.",
+    "correct": "Es la una.",
+    "wrong": [
+      "Son la una.",
+      "Es las una.",
+      "Son las una."
+    ],
+    "explanation": "對於1點，使用 'Es la una' (單數).\n對於所有其他時間，使用 'Son las + 數'.\n- Es la una. (1:00) vs Son las dos. (2:00)"
+  },
+  "q_gram_a1_06_001": {
+    "question": "Yo ___ en casa. (conjugate estar)",
+    "correct": "estoy",
+    "wrong": [
+      "soy",
+      "estás",
+      "está"
+    ],
+    "explanation": " yo 形式的 'estar' 是 'estoy'.\n- Estoy en casa = I am at home.\nEstar 用於位置.",
+    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están"
+  },
+  "q_gram_a1_06_002": {
+    "question": "El gato ___ en la mesa.",
+    "correct": "está",
+    "wrong": [
+      "es",
+      "estoy",
+      "están"
+    ],
+    "explanation": "Estar 是 用過的 用來表達 位置.\n- El gato está en la mesa. = cat 是 on table.\n- 位置 總是使用estar (not ser).",
+    "hint": "Which 動詞 用於位置?"
+  },
+  "q_gram_a1_06_003": {
+    "question": "Mis amigos ___ contentos.",
+    "correct": "están",
+    "wrong": [
+      "son",
+      "estamos",
+      "estáis"
+    ],
+    "explanation": "Estar 是 用過的 爲 emotions 和 臨時 states.\n- están contentos = 他們 是 快樂 (right now)\n- 'contentos' agrees 與 男性 複數 subject.",
+    "hint": "Emotions 和 feelings 使用 which 動詞?"
+  },
+  "q_gram_a1_06_004": {
+    "question": "什麼 does 'estar' express 在 '¿Cómo estás?'?",
+    "correct": "health or feeling",
+    "wrong": [
+      "identity",
+      "profession",
+      "nationality"
+    ],
+    "explanation": "'¿Cómo estás?' 意思是 '如何 是 你?' 和 asks about someone's current 狀態 或 感覺.\nEstar 用於臨時條件 like 健康, 心情, 和 emotional states."
+  },
+  "q_gram_a1_06_005": {
+    "question": "Nosotros ___ cansados. (conjugate estar)",
+    "correct": "estamos",
+    "wrong": [
+      "somos",
+      "están",
+      "estoy"
+    ],
+    "explanation": " nosotros 形式的 'estar' 是 'estamos'.\n- Estamos cansados = We 是 疲倦.\n是 疲倦 是 a 臨時 狀態, so estar 是 用過的.",
+    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están"
+  },
+  "q_gram_a1_06_006": {
+    "question": "La sopa ___ caliente.",
+    "correct": "está",
+    "wrong": [
+      "es",
+      "son",
+      "están"
+    ],
+    "explanation": "Estar 用於臨時條件.\n- La sopa está caliente. = soup 是 熱 (right now).\n soup's temperature 是 a 臨時 狀態, not a 永久 特徵.",
+    "hint": "Temperature 是 a 臨時 條件"
+  },
+  "q_gram_a1_06_007": {
+    "question": "I am studying 西班牙語.",
+    "correct": "Estoy estudiando español.",
+    "wrong": [
+      "Soy estudiando español.",
+      "Estoy estudiar español.",
+      "Es estudiando español."
+    ],
+    "explanation": " 現在進行時 uses estar + 動名詞 (-ando/-iendo).\n- Estoy estudiando = I am studying\n- estudiar → estudiando"
+  },
+  "q_gram_a1_06_008": {
+    "question": "La puerta ___ abierta.",
+    "correct": "está",
+    "wrong": [
+      "es",
+      "son",
+      "están"
+    ],
+    "explanation": "Estar 是 用過的 爲 conditions 或 states 那 可以 改變.\n- La puerta está abierta. = door 是 打開.\n門可以打開或關閉; 它's a 可變 狀態.",
+    "hint": "是 '打開' a 永久 特徵 或 a 可變 狀態?"
+  },
+  "q_gram_a1_06_009": {
+    "question": "My brother 是 sick.",
+    "correct": "Mi hermano está enfermo.",
+    "wrong": [
+      "Mi hermano es enfermo.",
+      "Mi hermano está enfermedad.",
+      "Mis hermanos están enfermos."
+    ],
+    "explanation": "生病是臨時條件, so estar 是 用過的.\n- estar enfermo = 到 是 病 (臨時)\n使用 'ser enfermo' 將 incorrectly imply a 永久 狀態."
+  },
+  "q_gram_a1_06_010": {
+    "question": "¿Dónde ___ tú ahora? (conjugate estar)",
+    "correct": "estás",
+    "wrong": [
+      "eres",
+      "está",
+      "estamos"
+    ],
+    "explanation": " tú 形式的 'estar' 是 'estás'.\n- ¿Dónde estás? = 哪裡 是 你?\nEstar 是 總是 用過的 爲 asking about 位置.",
+    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están"
+  },
+  "q_gram_a1_07_001": {
+    "question": "María ___ doctora.",
+    "correct": "es",
+    "wrong": [
+      "está",
+      "son",
+      "están"
+    ],
+    "explanation": "Ser 用於職業.\n- María es doctora. = María 是 a doctor.\n職業 是 an 身份 特徵, not a 臨時 狀態.",
+    "hint": "Professions 使用 ser, not estar"
+  },
+  "q_gram_a1_07_002": {
+    "question": "El hospital ___ en la calle Mayor.",
+    "correct": "está",
+    "wrong": [
+      "es",
+      "son",
+      "están"
+    ],
+    "explanation": "Estar 用於位置.\n- El hospital está en la calle Mayor. = hospital 是 on Mayor Street.\n位置 總是使用estar, even 爲 永久 buildings.",
+    "hint": "位置 總是 uses which 動詞?"
+  },
+  "q_gram_a1_07_003": {
+    "question": "什麼 does 'ser aburrido' 表示 vs 'estar aburrido'?",
+    "correct": "to be boring vs to be bored",
+    "wrong": [
+      "to be bored vs to be boring",
+      "both mean the same thing",
+      "to be tired vs to be tiring"
+    ],
+    "explanation": "Some 形容詞 改變 含義 與 ser vs estar:\n- ser aburrido = 到 是 boring (特徵)\n- estar aburrido = 到 是 bored (感覺)\n 動詞 choice 改變 形容詞's 含義."
+  },
+  "q_gram_a1_07_004": {
+    "question": "La fiesta ___ en mi casa. (conjugate 正確 動詞 爲 '到 是')",
+    "correct": "es",
+    "wrong": [
+      "está",
+      "son",
+      "están"
+    ],
+    "explanation": "Events 使用 'ser' 爲 位置, not 'estar'. 這 是 a 關鍵 例外!\n- La fiesta es en mi casa. = party 是 at my house.\n- Buildings 使用 estar: El cine está en la calle.",
+    "conjugation_info": "Events (fiesta, concierto, reunión) 使用 ser for 位置: La fiesta es en..."
+  },
+  "q_gram_a1_07_005": {
+    "question": "Pedro ___ listo para el examen.",
+    "correct": "está",
+    "wrong": [
+      "es",
+      "son",
+      "están"
+    ],
+    "explanation": "'estar listo' = 到 是 準備好 (臨時 狀態).\n- Pedro está listo = Pedro 是 準備好.\n- Pedro es listo = Pedro 是 smart (永久 trait).\nSer/estar 與 'listo' 改變 含義 entirely.",
+    "hint": "是 Pedro smart, 或 是 he 準備好?"
+  },
+  "q_gram_a1_07_006": {
+    "question": "El edificio ___ muy alto. (conjugate 正確 動詞 爲 a characteristic)",
+    "correct": "es",
+    "wrong": [
+      "está",
+      "estoy",
+      "son"
+    ],
+    "explanation": "Ser 是 用過的 爲 inherent physical characteristics.\n- El edificio es alto. = building 是 tall.\nHeight 是 a 永久 特徵 的 building.",
+    "conjugation_info": "Ser = 永久 traits: Es alto, es grande, es bonito. Estar = 臨時 states."
+  },
+  "q_gram_a1_07_007": {
+    "question": "Hoy yo ___ muy contento.",
+    "correct": "estoy",
+    "wrong": [
+      "soy",
+      "es",
+      "está"
+    ],
+    "explanation": "Estar 用於情感.\n- Estoy contento = I am 快樂 (如何 I feel right now).\nEmotions 是 臨時 states 那 可以 改變.",
+    "hint": "Emotions 和 moods 使用 estar"
+  },
+  "q_gram_a1_07_008": {
+    "question": "She 是 從 Mexico.",
+    "correct": "Ella es de México.",
+    "wrong": [
+      "Ella está de México.",
+      "Ella es en México.",
+      "Ella está en México."
+    ],
+    "explanation": "Ser + de = 起源/哪裡 someone 是 來自.\n- Ella es de México = She 是 來自 Mexico (起源, 永久).\n- Ella está en México = She 是 在 Mexico (位置, possibly 臨時)."
+  },
+  "q_gram_a1_07_009": {
+    "question": "La manzana ___ verde. ( apple 是 green — 它 是 not ripe yet.)",
+    "correct": "está",
+    "wrong": [
+      "es",
+      "son",
+      "están"
+    ],
+    "explanation": "與 colors, estar 意思是 a 臨時/可變 狀態 (unripe → will ripen).\n- La manzana está verde = apple 是 green (not 成熟, 臨時).\n- La manzana es verde = apple 是 green (由 nature, its variety).",
+    "conjugation_info": "Ser verde = green by nature. Estar verde = unripe/not 準備好."
+  },
+  "q_gram_a1_07_010": {
+    "question": " book 是 on table.",
+    "correct": "El libro está en la mesa.",
+    "wrong": [
+      "El libro es en la mesa.",
+      "El libro está la mesa.",
+      "El libro es la mesa."
+    ],
+    "explanation": "Estar 是 用過的 爲 位置 的 objects.\n- El libro está en la mesa. = book 是 on table.\n記住: 位置 的 things 和 人們 總是使用estar."
+  },
+  "q_gram_a1_08_001": {
+    "question": "La chica es ___. (tall, 陰性 form)",
+    "correct": "alta",
+    "wrong": [
+      "alto",
+      "altos",
+      "altas"
+    ],
+    "explanation": "以...結尾的形容詞 -o 改爲 -a 爲 女性 名詞.\n- el chico alto → la chica alta\n形容詞必須一致 與 名詞 在 性別.",
+    "conjugation_info": "alto/alta/altos/altas — 4 形式 for 以...結尾的形容詞 -o"
+  },
+  "q_gram_a1_08_002": {
+    "question": "Los chicos son ___. (intelligent)",
+    "correct": "inteligentes",
+    "wrong": [
+      "inteligente",
+      "inteligento",
+      "inteligenta"
+    ],
+    "explanation": "以-e結尾的形容詞僅改變數, not 性別.\n- inteligente (單數) → inteligentes (複數)\nNo 男性/女性 distinction 爲 -e 形容詞.",
+    "hint": "以-e結尾的形容詞僅改變數"
+  },
+  "q_gram_a1_08_003": {
+    "question": "Es un ___ libro. (good — shortened form)",
+    "correct": "buen",
+    "wrong": [
+      "bueno",
+      "buena",
+      "buenos"
+    ],
+    "explanation": "'bueno' shortens 到 'buen' 在男性單數名詞之前.\n- un buen libro (之前 名詞)\n- El libro es bueno. (之後 名詞, full 形式)\n相似: malo → mal, grande → gran.",
+    "hint": "Some 形容詞 有 a shortened 形式 之前 名詞"
+  },
+  "q_gram_a1_08_004": {
+    "question": "什麼 是 正確 陰性 複數 form 的 'bonito'?",
+    "correct": "bonitas",
+    "wrong": [
+      "bonitos",
+      "bonita",
+      "bonite"
+    ],
+    "explanation": "以-o結尾的形容詞有四種形式:\n- bonito (m. sg.) → bonita (f. sg.)\n- bonitos (m. pl.) → bonitas (f. pl.)"
+  },
+  "q_gram_a1_08_005": {
+    "question": "Las lecciones son ___. (easy, 複數)",
+    "correct": "fáciles",
+    "wrong": [
+      "fácil",
+      "fácila",
+      "fácilas"
+    ],
+    "explanation": "以輔音結尾的形容詞複數加-es, 與 no 性別 改變.\n- fácil (單數) → fáciles (複數)\n- difícil → difíciles\nConsonant-詞尾 形容詞 僅 vary 在 數.",
+    "conjugation_info": "Consonant-詞尾 形容詞: fácil/fáciles, difícil/difíciles, azul/azules"
+  },
+  "q_gram_a1_08_006": {
+    "question": "Las casas son ___. (small, 陰性 複數)",
+    "correct": "pequeñas",
+    "wrong": [
+      "pequeño",
+      "pequeños",
+      "pequeña"
+    ],
+    "explanation": "'casas' 是 女性 複數, so 形容詞必須是 女性 複數 too.\n- la casa pequeña → las casas pequeñas\n以...結尾的形容詞 -o 改爲 -a/-os/-as.",
+    "hint": " 形容詞 必須 match 名詞 在 性別 和 數"
+  },
+  "q_gram_a1_08_007": {
+    "question": "She 是 a great woman.",
+    "correct": "Ella es una gran mujer.",
+    "wrong": [
+      "Ella es una grande mujer.",
+      "Ella es un gran mujer.",
+      "Ella es una gran mujera."
+    ],
+    "explanation": "'grande' shortens 到 'gran' 之前 any 單數 名詞 (男性 或 女性).\n- una gran mujer = a great woman\n- un gran hombre = a great man\n注意: 'gran' 意思是'偉大', 當...時 'grande' 之後 名詞 意思是'大'."
+  },
+  "q_gram_a1_08_008": {
+    "question": "Es una ciudad ___. (beautiful, 陰性)",
+    "correct": "bonita",
+    "wrong": [
+      "bonito",
+      "bonitas",
+      "bonitos"
+    ],
+    "explanation": "大多數形容詞跟在名詞之後 在 西班牙語.\n- una ciudad bonita = a beautiful city\n'ciudad' 是 女性 單數, so 'bonita' agrees 在 性別 和 數.",
+    "hint": "在 西班牙語, 形容詞 通常 come 在名詞之後"
+  },
+  "q_gram_a1_08_009": {
+    "question": " students 是 intelligent. (mixed group)",
+    "correct": "Los estudiantes son inteligentes.",
+    "wrong": [
+      "Las estudiantes son inteligentes.",
+      "Los estudiantes son inteligente.",
+      "Los estudiantes es inteligentes."
+    ],
+    "explanation": "對於混合性別羣體, 使用男性複數形式.\n- los estudiantes = students (mixed 或 所有-male group)\n- 'inteligentes' doesn't 改變 爲 性別, 僅 數.\n男性複數是默認形式 爲 mixed groups."
+  },
+  "q_gram_a1_08_010": {
+    "question": "Es un ___ día. (bad — shortened form 之前 masc. sg. 名詞)",
+    "correct": "mal",
+    "wrong": [
+      "malo",
+      "mala",
+      "malos"
+    ],
+    "explanation": "'malo' shortens 到 'mal' 在男性單數名詞之前.\n- un mal día = a bad 天\n- El día es malo. (之後 名詞, full 形式)\nLike bueno → buen, 這 shortening 僅 happens 之前 masc. sg. 名詞.",
+    "conjugation_info": "Shortened 形式 before masc. sg. 名詞: bueno → buen, malo → mal, grande → gran (any sg. 名詞)"
+  },
+  "q_gram_a1_09_001": {
+    "question": "Yo ___ español todos los días.",
+    "correct": "hablo",
+    "wrong": [
+      "hablas",
+      "habla",
+      "hablamos"
+    ],
+    "explanation": "對於-ar動詞, yo形式以...結尾 -o.\n- hablar → habl + o = hablo\n- Yo hablo español = I speak 西班牙語.",
+    "hint": "Remove -ar 和 add yo 詞尾"
+  },
+  "q_gram_a1_09_002": {
+    "question": "María ___ en un banco.",
+    "correct": "trabaja",
+    "wrong": [
+      "trabajo",
+      "trabajas",
+      "trabajan"
+    ],
+    "explanation": "對於-ar動詞, él/ella/usted 形式 結尾 -a.\n- trabajar → trabaj + a = trabaja\n- María trabaja = María works.",
+    "hint": "María 是 3rd 人稱 單數 (ella)"
+  },
+  "q_gram_a1_09_003": {
+    "question": "什麼 does 'estudiar' 表示?",
+    "correct": "to study",
+    "wrong": [
+      "to work",
+      "to speak",
+      "to buy"
+    ],
+    "explanation": "'estudiar' 意思是 '到 study'. 它 是規則 -ar 動詞.\n- Yo estudio, tú estudias, él estudia..."
+  },
+  "q_gram_a1_09_004": {
+    "question": "Nosotros ___ mucho. (conjugate trabajar)",
+    "correct": "trabajamos",
+    "wrong": [
+      "trabajo",
+      "trabajan",
+      "trabajáis"
+    ],
+    "explanation": "對於-ar動詞, nosotros形式以...結尾 -amos.\n- trabajar → trabaj + amos = trabajamos\n- Nosotros trabajamos = We work.",
+    "conjugation_info": "trabajar - present: trabajo, trabajas, trabaja, trabajamos, trabajáis, trabajan"
+  },
+  "q_gram_a1_09_005": {
+    "question": "¿Tú ___ el pan en la panadería?",
+    "correct": "compras",
+    "wrong": [
+      "compra",
+      "compro",
+      "compran"
+    ],
+    "explanation": "對於-ar動詞, tú形式以...結尾 -as.\n- comprar → compr + as = compras\n- ¿Tú compras? = 做 你 buy?",
+    "hint": "什麼 詞尾 做 tú take 對於-ar動詞?"
+  },
+  "q_gram_a1_09_006": {
+    "question": "Ellos ___ muy bien. (conjugate cocinar)",
+    "correct": "cocinan",
+    "wrong": [
+      "cocina",
+      "cocinamos",
+      "cocino"
+    ],
+    "explanation": "對於-ar動詞, ellos/ellas/ustedes 形式 結尾 -an.\n- cocinar → cocin + an = cocinan\n- Ellos cocinan = 他們 cook.",
+    "conjugation_info": "cocinar - present: cocino, cocinas, cocina, cocinamos, cocináis, cocinan"
+  },
+  "q_gram_a1_09_007": {
+    "question": "Los niños ___ al parque.",
+    "correct": "caminan",
+    "wrong": [
+      "camina",
+      "caminamos",
+      "camino"
+    ],
+    "explanation": "'los niños' 是 a 第三 人稱 複數 subject (= ellos).\n- caminar → camin + an = caminan\n- Los niños caminan = children walk.",
+    "hint": "los niños = 他們 (3rd 人稱 複數)"
+  },
+  "q_gram_a1_09_008": {
+    "question": "She studies medicine.",
+    "correct": "Ella estudia medicina.",
+    "wrong": [
+      "Ella estudio medicina.",
+      "Ella estudias medicina.",
+      "Ella estudian medicina."
+    ],
+    "explanation": "對於-ar動詞, ella 形式 結尾 -a.\n- estudiar → estudi + a = estudia\n- 所有 -ar 動詞 遵循相同的模式: -o, -as, -a, -amos, -áis, -an."
+  },
+  "q_gram_a1_09_009": {
+    "question": "Vosotros ___ muy bien. (conjugate cantar)",
+    "correct": "cantáis",
+    "wrong": [
+      "cantamos",
+      "cantan",
+      "cantas"
+    ],
+    "explanation": "對於-ar動詞, vosotros 形式 結尾 -áis.\n- cantar → cant + áis = cantáis\n這 形式 是 用過的 mainly 在 西班牙.",
+    "conjugation_info": "cantar - present: canto, cantas, canta, cantamos, cantáis, cantan"
+  },
+  "q_gram_a1_09_010": {
+    "question": "We speak 西班牙語 和 英語.",
+    "correct": "Hablamos español e inglés.",
+    "wrong": [
+      "Hablamos español y inglés.",
+      "Hablan español e inglés.",
+      "Hablo español e inglés."
+    ],
+    "explanation": "之前 words starting 與 'i-' 或 'hi-', 'y' (和) 改爲 'e'.\n- español e inglés (not *español y inglés)\n這是拼音規則 以避免重複 'ee' sound."
+  },
+  "q_gram_a1_10_001": {
+    "question": "Yo ___ en Madrid. (conjugate vivir)",
+    "correct": "vivo",
+    "wrong": [
+      "vives",
+      "vive",
+      "vivimos"
+    ],
+    "explanation": "對於-ir動詞, yo形式以...結尾 -o (相同 as -ar 和 -er).\n- vivir → viv + o = vivo\n- Yo vivo = I live.",
+    "conjugation_info": "vivir - present: vivo, vives, vive, vivimos, vivís, viven"
+  },
+  "q_gram_a1_10_002": {
+    "question": "Nosotros ___ a las dos.",
+    "correct": "comemos",
     "wrong": [
       "como",
-      "come",
-      "comen"
+      "comen",
+      "come"
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "對於-er動詞, nosotros形式以...結尾 -emos.\n- comer → com + emos = comemos\n- Nosotros comemos = We eat.",
+    "hint": "什麼 是 nosotros 詞尾 對於-er動詞?"
   },
-  "q_grammar_a1_003": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_a1_10_003": {
+    "question": "Ella ___ una carta.",
+    "correct": "escribe",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "escribo",
+      "escribes",
+      "escriben"
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "對於-ir動詞, ella 形式 結尾 -e (相同 as -er 動詞).\n- escribir → escrib + e = escribe\n- Ella escribe = She writes.",
+    "hint": "ella 是 3rd 人稱 單數"
   },
-  "q_grammar_a1_004": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_a1_10_004": {
+    "question": "什麼 是 key difference between -er 和 -ir 動詞 endings?",
+    "correct": "Only the nosotros and vosotros forms differ",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "All forms are different",
+      "Only the yo form differs",
+      "There is no difference at all"
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": " -er 和 -ir conjugations 幾乎相同.\n- 僅 nosotros 和 vosotros differ:\n -er: comemos, coméis / -ir: vivimos, vivís\n 所有 other 形式 share 相同 詞尾: -o, -es, -e, -en."
   },
-  "q_grammar_a1_005": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_a1_10_005": {
+    "question": "¿Tú ___ café? (conjugate beber)",
+    "correct": "bebes",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "bebo",
+      "bebe",
+      "beben"
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "對於-er動詞, tú形式以...結尾 -es.\n- beber → beb + es = bebes\n- ¿Tú bebes café? = 做 你 drink coffee?",
+    "conjugation_info": "beber - present: bebo, bebes, bebe, bebemos, bebéis, beben"
   },
-  "q_grammar_a1_006": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_a1_10_006": {
+    "question": "Los estudiantes ___ muchos libros.",
+    "correct": "leen",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "lee",
+      "leo",
+      "lees"
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": "對於-er動詞, ellos形式以...結尾 -en.\n- leer → le + en = leen\n- Los estudiantes leen = students read.",
+    "hint": "los estudiantes = 他們 (3rd 人稱 複數)"
   },
-  "q_grammar_a1_007": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_a1_10_007": {
+    "question": "你 (非正式) open door.",
+    "correct": "Tú abres la puerta.",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "Tú abre la puerta.",
+      "Tú abro la puerta.",
+      "Tú abren la puerta."
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "對於-ir動詞, tú形式以...結尾 -es.\n- abrir → abr + es = abres\n- Tú abres = 你 打開."
   },
-  "q_grammar_a1_008": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_a1_10_008": {
+    "question": "Vosotros ___ en un apartamento. (conjugate vivir)",
+    "correct": "vivís",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "vivimos",
+      "viven",
+      "vivis"
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "對於-ir動詞, vosotros 形式 結尾 -ís.\n- vivir → viv + ís = vivís\n注意 重音 mark on 'i'.",
+    "hint": " vosotros 詞尾 對於-ir動詞 有 an 重音"
   },
-  "q_grammar_a1_009": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_a1_10_009": {
+    "question": "She reads newspaper every morning.",
+    "correct": "Ella lee el periódico cada mañana.",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "Ella lees el periódico cada mañana.",
+      "Ella leen el periódico cada mañana.",
+      "Ella leo el periódico cada mañana."
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "對於-er動詞, ella 形式 結尾 -e.\n- leer → le + e = lee\n注意 double 'e' 在 lee — 這 是 正確 爲 leer's 3rd 人稱."
   },
-  "q_grammar_a1_010": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_a1_10_010": {
+    "question": "Nosotros ___ en un piso. (conjugate vivir)",
+    "correct": "vivimos",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "vivemos",
+      "viven",
+      "vivís"
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "對於-ir動詞, nosotros形式以...結尾 -imos (not -emos like -er 動詞).\n- vivir → viv + imos = vivimos\n這 是 one 的 僅 two 形式 哪裡 -er 和 -ir differ.",
+    "conjugation_info": "-er: comemos, coméis / -ir: vivimos, vivís (the 僅 differences)"
   },
-  "q_grammar_a1_011": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_a1_11_001": {
+    "question": "___ un banco cerca de aquí.",
+    "correct": "Hay",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "Está",
+      "Es",
+      "Están"
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "'Hay' 用於表示存在 (那裡 是/那裡 是).\n- Hay un banco = 那裡 是 a bank.\nHay + indefinite 冠詞/數 爲 stating 那 something exists.",
+    "hint": "Which 詞 意思是 '那裡 是/那裡 是'?"
   },
-  "q_grammar_a1_012": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_a1_11_002": {
+    "question": "El banco ___ en la esquina.",
+    "correct": "está",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "hay",
+      "es",
+      "están"
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": "Estar 是 用過的 爲 位置 的 specific things.\n- El banco está en la esquina = bank 是 on corner.\n definite 冠詞 'el' signals a specific bank, so we 使用 estar.",
+    "hint": "A specific bank (el banco) uses which 動詞?"
   },
-  "q_grammar_a1_013": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_a1_11_003": {
+    "question": "什麼 是 difference between 'hay' 和 'está'?",
+    "correct": "hay = existence, está = location of specific things",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "hay = location, está = existence",
+      "hay = plural only, está = singular only",
+      "they are interchangeable"
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "'Hay' 表示存在 (那裡 是/是) 和 與不定冠詞一起使用.\n'Está/Están' 表示位置 的 specific, already-known things.\n- Hay un libro. (A book exists.) / El libro está aquí. ( book 是 這裡.)"
   },
-  "q_grammar_a1_014": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_a1_11_004": {
+    "question": "___ muchos estudiantes en la clase. (choose 正確 form 含義 '有')",
+    "correct": "Hay",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "Están",
+      "Son",
+      "Es"
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "'Hay' 是不變的 — 相同 形式 爲 單數 和 複數.\n- Hay un libro. (那裡 是 a book.)\n- Hay muchos libros. (那裡 是 許多 books.)\n從不 say *hayen 或 *han.",
+    "conjugation_info": "Hay (invariable): Hay un gato. Hay tres gatos. Hay mucha gente."
   },
-  "q_grammar_a1_015": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_a1_11_005": {
+    "question": "Las llaves ___ en la mesa.",
+    "correct": "están",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "hay",
+      "es",
+      "está"
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "'las llaves' ( keys) 是 a specific, definite subject — 使用 estar 爲 its 位置.\n- Las llaves están en la mesa. = keys 是 on table.\n 複數 'están' matches 複數 subject.",
+    "hint": "Specific items (與 definite 冠詞) 使用 estar 爲 位置"
   },
-  "q_grammar_a1_016": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_a1_11_006": {
+    "question": "¿___ una farmacia por aquí? (是 那裡 a pharmacy around 這裡?)",
+    "correct": "Hay",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "Está",
+      "Es",
+      "Están"
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "什麼時候 asking if something exists 在 a general area, 使用 'hay'.\n- ¿Hay una farmacia? = 是 那裡 a pharmacy? (existence)\n- ¿Dónde está la farmacia? = 哪裡 是 pharmacy? (位置 的 specific one)",
+    "conjugation_info": "Hay + indefinite (un/una): ¿Hay un banco? / Está + definite (el/la): ¿Dónde está el banco?"
   },
-  "q_grammar_a1_017": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_a1_11_007": {
+    "question": "___ mucha gente en la plaza.",
+    "correct": "Hay",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "Está",
+      "Es",
+      "Están"
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "使用 'hay' 與 quantities (mucha, poca, etc.) 用來表達 existence.\n- Hay mucha gente = 那裡 是 許多 人們.\n'Gente' 是 單數 在 西班牙語, 但是 'hay' works regardless 的 數.",
+    "hint": "Expressing '那裡 是' 與 quantities uses hay"
   },
-  "q_grammar_a1_018": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_a1_11_008": {
+    "question": " supermarket 是 next 到 school.",
+    "correct": "El supermercado está al lado de la escuela.",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "Hay un supermercado al lado de la escuela.",
+      "El supermercado es al lado de la escuela.",
+      "El supermercado hay al lado de la escuela."
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": "We 是 talking about a specific supermarket (el supermercado), so we 使用 estar 爲 its 位置.\n- estar + al lado de = 到 是 next 到\nHay 將 是 用過的 if we said '那裡 是 a supermarket...' (existence)."
   },
-  "q_grammar_a1_019": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_a1_11_009": {
+    "question": "No ___ nadie en la oficina. (fill 在 form 的 'haber' 含義 '有')",
+    "correct": "hay",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "está",
+      "es",
+      "están"
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "'No hay nadie' = 那裡 是 nobody. 這 是雙重否定, which 在西班牙語中是正確的.\n- hay + negative 詞 = 那裡 是/是 not\n記住: hay 是不變的 和 doesn't 改變 形式.",
+    "conjugation_info": "Hay in negative: No hay nada (nothing), No hay nadie (nobody), No hay ningún... (not any)"
   },
-  "q_grammar_a1_020": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_a1_11_010": {
+    "question": "有 a park 在 my city.",
+    "correct": "Hay un parque en mi ciudad.",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "El parque está en mi ciudad.",
+      "Es un parque en mi ciudad.",
+      "Están un parque en mi ciudad."
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "We 使用 'hay' 到 introduce something 爲 第一 時間 (existence).\n- Hay un parque = 那裡 是 a park (第一 mention, non-specific).\nIf we then talk about 那 park specifically: El parque está cerca."
   },
-  "q_grammar_a1_021": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_a1_12_001": {
+    "question": "___ hermana se llama Ana. (fill 在: my, 爲 a 陰性名詞)",
+    "correct": "Mi",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "Mis",
+      "Tu",
+      "Su"
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "'hermana' 是 單數, so we 使用 'mi' (my, 單數).\n- mi hermana = my sister\n所有者形容詞一致 與 thing possessed, not owner.",
+    "conjugation_info": "Possessives: mi/mis, tu/tus, su/sus, nuestro(a)/nuestros(as), vuestro(a)/vuestros(as)"
   },
-  "q_grammar_a1_022": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_a1_12_002": {
+    "question": "___ amigos son simpáticos.",
+    "correct": "Mis",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "Mi",
+      "Tus",
+      "Su"
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "'amigos' 是 複數, so we 使用 'mis' (my, 複數).\n- mi amigo → mis amigos\nmi/tu/su 改變 僅 爲 數, not 性別.",
+    "hint": "什麼 是 複數 形式的 'mi'?"
   },
-  "q_grammar_a1_023": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_a1_12_003": {
+    "question": "¿Cuál es ___ nombre?",
+    "correct": "tu",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "tú",
+      "su",
+      "mi"
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "'tu' (沒有 重音) 是 a possessive 形容詞 含義 '你的'.\n- ¿Cuál es tu nombre? = 什麼 是 你的 name?\n注意: 'tú' (與 重音) 是 主語 代詞 '你'.",
+    "hint": " possessive '你的' 有 no 重音 mark"
   },
-  "q_grammar_a1_024": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_a1_12_004": {
+    "question": "什麼 does 'su' 表示 在 'su casa'?",
+    "correct": "his/her/your (formal)/their",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "only 'his'",
+      "only 'her'",
+      "my"
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": "'su' 是 ambiguous — 它 可以 意思 his, her, 你的 (正式), 或 their.\n- su casa = his/her/你的/their house\n到 clarify: la casa de él (his), la casa de ella (her)."
   },
-  "q_grammar_a1_025": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_a1_12_005": {
+    "question": "___ casa es bonita. (our house — select 正確 form)",
+    "correct": "Nuestra",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "Nuestro",
+      "Nuestros",
+      "Nuestras"
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "'nuestro/a' 必須 agree 在 性別 與 名詞 possessed.\n- nuestra casa (女性) = our house\n- nuestro coche (男性) = our car\n僅 nuestro/vuestro 有 性別 形式.",
+    "conjugation_info": "nuestro/nuestra/nuestros/nuestras — agrees in 性別 和 數"
   },
-  "q_grammar_a1_026": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_a1_12_006": {
+    "question": "Ella habla con ___ padres.",
+    "correct": "sus",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "su",
+      "mis",
+      "tus"
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "'padres' 是 複數, so possessive 必須 也 是 複數: 'sus'.\n- su padre → sus padres\n記住: possessives agree 與 thing possessed.",
+    "hint": "複數 名詞 need 複數 possessives"
   },
-  "q_grammar_a1_027": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_a1_12_007": {
+    "question": "Our country 是 beautiful.",
+    "correct": "Nuestro país es bonito.",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "Nuestra país es bonita.",
+      "Su país es bonito.",
+      "Nuestros país es bonito."
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "'país' 是 男性, so we 使用 'nuestro' (not nuestra).\n- nuestro país = our country (男性)\n- nuestra ciudad = our city (女性)"
   },
-  "q_grammar_a1_028": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_a1_12_008": {
+    "question": "___ hijos son simpáticos. (his/her children)",
+    "correct": "Sus",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "Su",
+      "Mis",
+      "Tus"
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "'hijos' 是 複數, so possessive 'sus' (複數) 是 needed.\n- su hijo (單數) → sus hijos (複數)\n所有者代詞改變 based on 數 的 things possessed.",
+    "hint": "hijos 是 複數"
   },
-  "q_grammar_a1_029": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_a1_12_009": {
+    "question": "I love my family.",
+    "correct": "Quiero a mi familia.",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "Quiero mi familia.",
+      "Quiero a mis familia.",
+      "Quiero a su familia."
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "需要人稱'a' 之前 人們/family members as direct objects.\n- Quiero a mi familia. = I love my family.\n'mi' stays 單數 因爲 'familia' 是 a 單數 名詞."
   },
-  "q_grammar_a1_030": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_a1_12_010": {
+    "question": "___ profesores son muy buenos. (our teachers — fill 在 正確 possessive)",
+    "correct": "Nuestros",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "Nuestro",
+      "Nuestra",
+      "Nuestras"
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": "'profesores' 是 男性 複數, so we need 'nuestros'.\n- nuestro profesor → nuestros profesores\nnuestro/a/os/as 是 僅 possessive 那 改變 爲 兩者 性別 和 數.",
+    "conjugation_info": "nuestro (m.sg.), nuestra (f.sg.), nuestros (m.pl.), nuestras (f.pl.)"
   },
-  "q_grammar_a1_031": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_a1_13_001": {
+    "question": "___ libro es muy interesante.",
+    "correct": "Este",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "Esta",
+      "Estos",
+      "Estas"
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "'libro' 是 男性 單數, so demonstrative 'este' (這) 是 用過的.\n- este libro = 這 book (靠近說話者)\n指示代詞在性和數上一致 與 名詞.",
+    "hint": "libro 是 男性 單數"
   },
-  "q_grammar_a1_032": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_a1_13_002": {
+    "question": "___ flores son bonitas.",
+    "correct": "Estas",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "Estos",
+      "Este",
+      "Esta"
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "'flores' 是 女性 複數, so 'estas' (these) 是 用過的.\n- esta flor → estas flores\nDemonstratives 必須 match 名詞 在 性別 和 數.",
+    "hint": "flores 是 女性 複數"
   },
-  "q_grammar_a1_033": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_a1_13_003": {
+    "question": "什麼 distance does 'aquel' indicate?",
+    "correct": "far from both speaker and listener",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "near the speaker",
+      "near the listener",
+      "it has no distance meaning"
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "西班牙語有三種距離等級:\n- este = 靠近說話者 (這裡/aquí)\n- ese = 靠近聽者 (那裡/ahí)\n- aquel = 遠 來自 兩者 (over 那裡/allí)"
   },
-  "q_grammar_a1_034": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_a1_13_004": {
+    "question": "___ chica es mi amiga. (那 girl near 你)",
+    "correct": "Esa",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "Esta",
+      "Aquella",
+      "Ese"
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "'ese/esa' 表示 medium 距離 (靠近聽者).\n- esa chica = 那 girl (靠近 你)\n'chica' 是 女性 單數, so we 使用 'esa'.",
+    "conjugation_info": "ese (m.sg.), esa (f.sg.), esos (m.pl.), esas (f.pl.) — medium 距離"
   },
-  "q_grammar_a1_035": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_a1_13_005": {
+    "question": "___ edificios son modernos. (those buildings over 那裡)",
+    "correct": "Aquellos",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "Estos",
+      "Esos",
+      "Aquel"
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "'aquel' 是 爲 things 遠離說話者和聽者.\n- aquellos edificios = those buildings over 那裡\n'edificios' 是 男性 複數, so we 使用 'aquellos'.",
+    "hint": "遠 距離 + 男性 複數"
   },
-  "q_grammar_a1_036": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_a1_13_006": {
+    "question": "Me gusta ___ canción. (I like 那 song — near listener)",
+    "correct": "esa",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "esta",
+      "aquella",
+      "ese"
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": "'ese/esa' 是 用過的 爲 things 靠近聽者 (medium 距離).\n- esa canción = 那 song (靠近 你)\n'canción' 是 女性 單數.",
+    "conjugation_info": "este→aquí (這裡), ese→ahí (那裡), aquel→allí (over 那裡)"
   },
-  "q_grammar_a1_037": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_a1_13_007": {
+    "question": "___ montañas son muy altas. (those mountains over 那裡)",
+    "correct": "Aquellas",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "Esas",
+      "Estas",
+      "Aquellos"
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "'aquellas' 是 女性 複數 形式 爲 遠 距離.\n- aquellas montañas = those mountains over 那裡\n'montañas' 是 女性 複數.",
+    "hint": "遠 距離 + 女性 複數"
   },
-  "q_grammar_a1_038": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_a1_13_008": {
+    "question": "這 car 是 red.",
+    "correct": "Este coche es rojo.",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "Ese coche es rojo.",
+      "Esta coche es roja.",
+      "Estos coches son rojos."
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "'這' (靠近 me) = 'este' 爲 男性 單數.\n- este coche = 這 car\n'coche' 是 男性, so 兩者 demonstrative 和 形容詞 是男性."
   },
-  "q_grammar_a1_039": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_a1_13_009": {
+    "question": "___ días son muy fríos. (conjugate: these days — 陽性 複數 near speaker)",
+    "correct": "Estos",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "Esos",
+      "Aquellos",
+      "Estas"
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "'estos' 是 男性 複數 爲 things 靠近說話者.\n- estos días = these 天\n'días' 是 男性 (despite 詞尾 在 -a, 'día' 是著名例外).",
+    "conjugation_info": "este (m.sg.), esta (f.sg.), estos (m.pl.), estas (f.pl.) — 靠近 說話者"
   },
-  "q_grammar_a1_040": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_a1_13_010": {
+    "question": "那 house over 有 非常 old.",
+    "correct": "Aquella casa es muy vieja.",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "Esa casa es muy vieja.",
+      "Esta casa es muy vieja.",
+      "Aquel casa es muy viejo."
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "'over 那裡' signals farthest 距離 level: aquel/aquella.\n- aquella casa = 那 house over 那裡 (遠 來自 兩者)\n'casa' 是 女性, so we 使用 'aquella' (not aquel)."
   },
-  "q_grammar_a1_041": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_a1_14_001": {
+    "question": "Vivo ___ Madrid. (fill 在 preposition 爲 '在')",
+    "correct": "en",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "a",
+      "de",
+      "con"
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "'en' 意思是 '在/at/on' 和 用於位置.\n- Vivo en Madrid. = I live 在 Madrid.\n- El libro está en la mesa. = book 是 on table.",
+    "conjugation_info": "en = in/on/at (位置), a = to (direction), de = 來自/of"
   },
-  "q_grammar_a1_042": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_a1_14_002": {
+    "question": "Soy ___ Colombia.",
+    "correct": "de",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "en",
+      "a",
+      "por"
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": "'de' 意思是 '來自' 什麼時候 expressing 起源.\n- Soy de Colombia. = I am 來自 Colombia.\nser + de + place = 起源.",
+    "hint": "'de' 是 用過的 與 ser 用來表達 哪裡 someone 是 來自"
   },
-  "q_grammar_a1_043": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_a1_14_003": {
+    "question": "Voy ___ la escuela.",
+    "correct": "a",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "en",
+      "de",
+      "por"
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "'a' 意思是 '到' 和 表示 direction/destination.\n- Voy a la escuela. = I go 到 school.\nir + a + place = going 到 somewhere.",
+    "hint": "Which 前置詞 expresses direction?"
   },
-  "q_grammar_a1_044": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_a1_14_004": {
+    "question": "什麼 does preposition 'con' 表示?",
+    "correct": "with",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "without",
+      "for",
+      "from"
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "'con' 意思是 '與' 在 西班牙語.\n- Café con leche = Coffee 與 milk.\n- Voy con mis amigos. = I go 與 my friends."
   },
-  "q_grammar_a1_045": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_a1_14_005": {
+    "question": "Veo ___ mi madre. (I see my mother.)",
+    "correct": "a",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "de",
+      "en",
+      "con"
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": " personal 'a' 是 用過的 之前 direct objects 那 是 人們.\n- Veo a mi madre. = I see my mother.\n這 'a' 有 no translation 在 英語; 它 marks human direct objects.",
+    "conjugation_info": "Personal 'a': Veo a mi madre. Llamo a María. Busco a un amigo."
   },
-  "q_grammar_a1_046": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_a1_14_006": {
+    "question": "Este regalo es ___ ti.",
+    "correct": "para",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "por",
+      "a",
+      "de"
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "'para' 意思是 '爲' 什麼時候 表示 a recipient 或 purpose.\n- Este regalo es para ti. = 這 gift 是 爲 你.\npara + 人稱 = 爲 someone.",
+    "hint": "'para' 是 用過的 到 表示 誰 something 是 intended 爲"
   },
-  "q_grammar_a1_047": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_a1_14_007": {
+    "question": "Thank 你 爲 everything.",
+    "correct": "Gracias por todo.",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "Gracias para todo.",
+      "Gracias de todo.",
+      "Gracias con todo."
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "'por' 是 用過的 之後 'gracias' 用來表達 什麼 你're thankful 爲.\n- Gracias por todo. = Thanks 爲 everything.\n- Gracias por tu ayuda. = Thanks 爲 你的 help."
   },
-  "q_grammar_a1_048": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_a1_14_008": {
+    "question": "El libro ___ María está aquí.",
+    "correct": "de",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "a",
+      "con",
+      "para"
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": "'de' expresses possession (like 's 在 英語).\n- El libro de María = María's book.\n- La casa de mi padre = My father's house.",
+    "hint": "'de' expresses ownership 或 belonging"
   },
-  "q_grammar_a1_049": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_a1_14_009": {
+    "question": "I am at bank.",
+    "correct": "Estoy en el banco.",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "Estoy a el banco.",
+      "Estoy de el banco.",
+      "Soy en el banco."
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "'en' 是 用過的 爲 是 at/在 a 位置 (與 estar).\n- Estoy en el banco. = I am at bank.\n位置 uses estar + en, not ser."
   },
-  "q_grammar_a1_050": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_a1_14_010": {
+    "question": "Vengo ___ trabajo. (I come 從 work. — de + el)",
+    "correct": "del",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "de el",
+      "de la",
+      "al"
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "de + el contracts 到 'del'.\n- Vengo del trabajo. = I come 來自 work.\n這 是 one 的 僅 two contractions 在 西班牙語: al (a+el) 和 del (de+el).",
+    "conjugation_info": "Contractions: a + el = al, de + el = del. No contraction 與 la/los/las."
   },
-  "q_grammar_a1_051": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_a1_15_001": {
+    "question": "¿___ hora es?",
+    "correct": "Qué",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "Cuál",
+      "Dónde",
+      "Cuándo"
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "'¿Qué hora es?' = 什麼 時間 是 它?\n'Qué' 是 用過的 到 ask '什麼' 什麼時候 seeking a definition 或 general information.\n注意 重音 mark on question words.",
+    "hint": "Which question 詞 意思是 '什麼'?"
   },
-  "q_grammar_a1_052": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_a1_15_002": {
+    "question": "¿___ vives?",
+    "correct": "Dónde",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "Cuándo",
+      "Cómo",
+      "Qué"
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "'¿Dónde vives?' = 哪裡 做 你 live?\n'Dónde' asks about 位置 或 place.\n所有 西班牙語 question words 有 a written 重音.",
+    "hint": "Which question 詞 asks about place?"
   },
-  "q_grammar_a1_053": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_a1_15_003": {
+    "question": "什麼 does '¿Por qué?' 表示?",
+    "correct": "Why?",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "Because",
+      "How?",
+      "What for?"
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "'¿Por qué?' = Why? (two words, 與 重音 on qué)\n- ¿Por qué estudias español? = Why 做 你 study 西班牙語?\n注意: 'porque' (one 詞, no 重音) = 因爲."
   },
-  "q_grammar_a1_054": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_a1_15_004": {
+    "question": "¿___ años tienes? (如何 old 是 你?) (use 正確 question 詞)",
+    "correct": "Cuántos",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "Cuántas",
+      "Cuánto",
+      "Qué"
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": "'Cuántos' agrees 與 男性 複數 名詞 'años'.\n- ¿Cuántos años tienes? = 如何 許多 years 做 你 有? (= 如何 old 是 你?)\nCuánto 改變 爲 性別 和 數: cuánto/cuánta/cuántos/cuántas.",
+    "conjugation_info": "cuánto (m.sg.), cuánta (f.sg.), cuántos (m.pl.), cuántas (f.pl.)"
   },
-  "q_grammar_a1_055": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_a1_15_005": {
+    "question": "¿___ es tu nombre?",
+    "correct": "Cuál",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "Qué",
+      "Quién",
+      "Cómo"
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "'Cuál' 意思是 'which/什麼' 什麼時候 choosing 來自 options.\n- ¿Cuál es tu nombre? = 什麼 是 你的 name? (choosing among names)\n- ¿Qué es? = 什麼 是 它? (asking 爲 a definition)",
+    "hint": "什麼時候 asking someone 到 select/identify, 使用 cuál"
   },
-  "q_grammar_a1_056": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_a1_15_006": {
+    "question": "¿___ estás? — Estoy bien, gracias. (use 正確 question 詞)",
+    "correct": "Cómo",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "Qué",
+      "Dónde",
+      "Cuándo"
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "'¿Cómo estás?' = 如何 是 你?\n'Cómo' asks about manner 或 條件.\n- ¿Cómo te llamas? = 什麼 是 你的 name? (lit. 如何 做 你 call yourself?)",
+    "conjugation_info": "Cómo = how: ¿Cómo estás? ¿Cómo se dice...? ¿Cómo funciona?"
   },
-  "q_grammar_a1_057": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_a1_15_007": {
+    "question": "¿___ es la fiesta?",
+    "correct": "Cuándo",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "Dónde",
+      "Cómo",
+      "Quién"
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "'¿Cuándo es la fiesta?' = 什麼時候 是 party?\n'Cuándo' asks about 時間.\n- ¿Cuándo vienes? = 什麼時候 是 你 coming?",
+    "hint": "Which question 詞 asks about 時間?"
   },
-  "q_grammar_a1_058": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_a1_15_008": {
+    "question": "誰 是 she?",
+    "correct": "¿Quién es ella?",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "¿Qué es ella?",
+      "¿Cuál es ella?",
+      "¿Cómo es ella?"
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "'Quién' asks about 人們 (誰).\n- ¿Quién es ella? = 誰 是 she?\n- ¿Quiénes son ellos? = 誰 是 他們? (複數)"
   },
-  "q_grammar_a1_059": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_a1_15_009": {
+    "question": "¿___ cuesta esto? (如何 much does 這 cost?) (select 正確 form 的 cuánto)",
+    "correct": "Cuánto",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "Cuántos",
+      "Cuántas",
+      "Cuánta"
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "'Cuánto' (男性 單數) 是 用過的 什麼時候 asking about price 或 uncountable amounts.\n- ¿Cuánto cuesta? = 如何 much 做 它 cost?\n- ¿Cuánto tiempo? = 如何 much 時間?",
+    "conjugation_info": "¿Cuánto cuesta? (price), ¿Cuántos libros? (countable m.), ¿Cuántas personas? (countable f.)"
   },
-  "q_grammar_a1_060": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_a1_15_010": {
+    "question": "哪裡 是 bathroom?",
+    "correct": "¿Dónde está el baño?",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "¿Dónde es el baño?",
+      "¿Cuál está el baño?",
+      "¿Cómo está el baño?"
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": "'Dónde' + estar 是 用過的 到 ask about 位置.\n- ¿Dónde está el baño? = 哪裡 是 bathroom?\n位置 的 specific things 總是使用estar, not ser."
   },
-  "q_grammar_a1_061": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_a1_16_001": {
+    "question": "Yo ___ español. (I do not speak 西班牙語.) (use 正確 negation)",
+    "correct": "no hablo",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "hablo no",
+      "nada hablo",
+      "nunca hablo"
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "用來否定 a sentence 在 西班牙語, place 'no' directly 之前 動詞.\n- Hablo español. → No hablo español.\n 詞 'no' 總是 comes 之前 conjugated 動詞.",
+    "conjugation_info": "Negation: Subject + no + 動詞. Yo no hablo. Ella no come. Ellos no viven."
   },
-  "q_grammar_a1_062": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_a1_16_002": {
+    "question": "___ tengo nada.",
+    "correct": "No",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "Nunca",
+      "Nadie",
+      "Tampoco"
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "Double negatives 是 正確 在 西班牙語.\n- No tengo nada. = I don't 有 anything (lit. I don't 有 nothing).\n'No' + 動詞 + negative 詞 是 標準 西班牙語.",
+    "hint": "什麼 詞 goes 之前 動詞 用來否定?"
   },
-  "q_grammar_a1_063": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_a1_16_003": {
+    "question": "___ viene nadie.",
+    "correct": "No",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "Nunca",
+      "Nada",
+      "Tampoco"
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "'No viene nadie' = Nobody 是 coming.\nDouble negative: no + 動詞 + nadie.\nAlternatively: Nadie viene. (negative 詞 之前 動詞, no 'no' needed).",
+    "hint": "Double negatives 是 正確 在 西班牙語"
   },
-  "q_grammar_a1_064": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_a1_16_004": {
+    "question": "什麼 does 'nunca' 表示?",
+    "correct": "never",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "nothing",
+      "nobody",
+      "neither"
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "'nunca' 意思是 '從不'. 它 可以 是 placed 之前 或 之後 動詞:\n- Nunca como carne. = I 從不 eat meat.\n- No como carne nunca. = I 從不 eat meat. (double negative)"
   },
-  "q_grammar_a1_065": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_a1_16_005": {
+    "question": "No quiero café, y ella ___ quiere café. (use 詞 爲 'neither')",
+    "correct": "tampoco",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "también",
+      "nunca",
+      "nada"
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "'tampoco' 意思是 '都不/not 任意一個' — negative counterpart 的 'también' (也).\n- Yo no quiero. Ella tampoco quiere. = I don't want 它. She doesn't want 它 任意一個.",
+    "conjugation_info": "también (also/too) → tampoco (都不/not 任意一個)"
   },
-  "q_grammar_a1_066": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_a1_16_006": {
+    "question": "___ llueve aquí.",
+    "correct": "Nunca",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "No nunca",
+      "Nada",
+      "Nadie"
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": "什麼時候 a negative 詞 comes 之前 動詞, 'no' 是 NOT needed.\n- Nunca llueve aquí. = 它 從不 rains 這裡.\n- No llueve nunca aquí. = 它 從不 rains 這裡. (alternative 與 double negative)",
+    "hint": "什麼時候 negative 詞 comes 第一, 'no' 是 not needed"
   },
-  "q_grammar_a1_067": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_a1_16_007": {
+    "question": "I don't want anything.",
+    "correct": "No quiero nada.",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "No quiero algo.",
+      "Quiero nada.",
+      "No quiero nunca."
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "'No quiero nada' uses a double negative (literally: I don't want nothing).\n- 在 英語, double negatives 是 incorrect, 但是 在 西班牙語 他們 是 需要.\n- 'algo' (something) → 'nada' (nothing)"
   },
-  "q_grammar_a1_068": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_a1_16_008": {
+    "question": "No hay ___ en casa.",
+    "correct": "nadie",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "alguien",
+      "nada",
+      "nunca"
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "'nadie' 意思是 'nobody/no one'.\n- No hay nadie en casa. = 那裡 是 nobody at home.\n- 'nadie' 指 人們, 'nada' 指 things.",
+    "hint": "Which negative 詞 指 人們?"
   },
-  "q_grammar_a1_069": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_a1_16_009": {
+    "question": "Nothing 是 perfect.",
+    "correct": "Nada es perfecto.",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "No nada es perfecto.",
+      "No es perfecto nada.",
+      "Nadie es perfecto."
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "什麼時候 'nada' comes 之前 動詞, no 'no' 是 needed.\n- Nada es perfecto. = Nothing 是 perfect.\n- 'nadie' 將 意思 'nobody 是 perfect' (不同 含義)."
   },
-  "q_grammar_a1_070": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_a1_16_010": {
+    "question": "Yo no como carne ___. (I 從不 eat meat.)",
+    "correct": "nunca",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "nada",
+      "nadie",
+      "tampoco"
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "'nunca' 意思是 '從不'. 在 double negative construction: no + 動詞 + nunca.\n- No como carne nunca. = I 從不 eat meat.\nEquivalent 到: Nunca como carne.",
+    "conjugation_info": "Negative pairs: algo↔nada, alguien↔nadie, siempre↔nunca, también↔tampoco"
   },
-  "q_grammar_a1_071": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_a1_17_001": {
+    "question": "Me ___ el chocolate.",
+    "correct": "gusta",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "gustan",
+      "gusto",
+      "gustas"
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "使用 'gusta' 與 單數 名詞 或 infinitives.\n- Me gusta el chocolate. = I like chocolate.\n主語 是 'el chocolate' (單數), not 'yo'.",
+    "hint": "'el chocolate' 是 單數"
   },
-  "q_grammar_a1_072": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_a1_17_002": {
+    "question": "Me ___ los perros.",
+    "correct": "gustan",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "gusta",
+      "gusto",
+      "gustas"
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": "使用 'gustan' 與 複數 名詞.\n- Me gustan los perros. = I like dogs.\n主語 是 'los perros' (複數), so gustar 必須 是 複數 too.",
+    "hint": "'los perros' 是 複數"
   },
-  "q_grammar_a1_073": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_a1_17_003": {
+    "question": "什麼 does 'gustar' literally 表示?",
+    "correct": "to please",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "to like",
+      "to want",
+      "to love"
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "'gustar' literally 意思是 '到 please'. structure 是 reversed 來自 英語.\n- Me gusta el café. = Coffee pleases me. (= I like coffee.)\n thing liked 是 grammatical subject."
   },
-  "q_grammar_a1_074": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_a1_17_004": {
+    "question": "A ella ___ gusta bailar. (She likes 到 dance.)",
+    "correct": "le",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "me",
+      "te",
+      "nos"
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "'le' 是 indirect object 代詞 爲 él/ella/usted.\n- A ella le gusta bailar. = She likes 到 dance.\n'a ella' 是 added 爲 emphasis/clarification.",
+    "conjugation_info": "Indirect object 代詞: me, te, le, nos, os, les"
   },
-  "q_grammar_a1_075": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_a1_17_005": {
+    "question": "Nos ___ las películas de acción.",
+    "correct": "gustan",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "gusta",
+      "gustamos",
+      "gustáis"
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "'las películas' 是 複數, so 'gustan' 是 用過的.\n- Nos gustan las películas de acción. = We like action movies.\nGustar 僅 有 two main 形式: gusta (單數) 和 gustan (複數).",
+    "hint": "películas 是 複數"
   },
-  "q_grammar_a1_076": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_a1_17_006": {
+    "question": "A mí me gusta ___. (fill 在: reading)",
+    "correct": "leer",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "leo",
+      "leyendo",
+      "leemos"
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "之後 gustar, 使用 不定式 形式的動詞.\n- Me gusta leer. = I like 到 read.\n- Le gusta cocinar. = He likes 到 cook.\nGusta + 不定式 (not conjugated 動詞 或 動名詞).",
+    "conjugation_info": "Gustar + 不定式: Me gusta leer, Te gusta bailar, Nos gusta viajar"
   },
-  "q_grammar_a1_077": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_a1_17_007": {
+    "question": "¿___ gusta la música clásica?",
+    "correct": "Te",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "Tú",
+      "Tu",
+      "Ti"
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": " indirect object 代詞 爲 tú 是 'te'.\n- ¿Te gusta la música? = 做 你 like music?\n'tú' 是 a subject 代詞, 'te' 是 an indirect object 代詞.",
+    "hint": "Gustar uses indirect object 代詞, not subject 代詞"
   },
-  "q_grammar_a1_078": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_a1_17_008": {
+    "question": "他們 like 到 travel.",
+    "correct": "A ellos les gusta viajar.",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "Ellos gustan viajar.",
+      "A ellos les gustan viajar.",
+      "Ellos le gusta viajar."
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": "'les' 是 indirect object 代詞 爲 ellos/ellas/ustedes.\n- A ellos les gusta viajar. = 他們 like 到 travel.\n'gusta' (not gustan) 因爲 'viajar' 是 an 不定式 (單數)."
   },
-  "q_grammar_a1_079": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_a1_17_009": {
+    "question": "A ustedes ___ gustan estos libros. (fill 在 indirect object 代詞)",
+    "correct": "les",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "le",
+      "nos",
+      "os"
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "'ustedes' takes indirect object 代詞 'les'.\n- A ustedes les gustan estos libros. = 你 所有 like these books.\nles = 爲 ellos/ellas/ustedes.",
+    "conjugation_info": "me (yo), te (tú), le (él/ella/usted), nos (nosotros), os (vosotros), les (ellos/ustedes)"
   },
-  "q_grammar_a1_080": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_a1_17_010": {
+    "question": "I really love chocolate.",
+    "correct": "Me encanta el chocolate.",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "Me gustan el chocolate.",
+      "Me encanto el chocolate.",
+      "Yo encanto el chocolate."
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "'encantar' works exactly like 'gustar' 但是 意思是 '到 love/到 enchant'.\n- Me encanta el chocolate. = I love chocolate.\n相同 structure: indirect object 代詞 + encanta/encantan + subject."
+  },
+  "q_gram_a1_18_001": {
+    "question": "Yo ___ un hermano. (conjugate tener)",
+    "correct": "tengo",
+    "wrong": [
+      "tiene",
+      "tienes",
+      "tenemos"
+    ],
+    "explanation": " yo 形式的 'tener' 是 'tengo' (不規則: g-insertion).\n- Tengo un hermano. = I 有 a brother.\nTener 是 不規則 在 yo 形式.",
+    "conjugation_info": "tener - present: tengo, tienes, tiene, tenemos, tenéis, tienen"
+  },
+  "q_gram_a1_18_002": {
+    "question": "Ella ___ mucha hambre.",
+    "correct": "tiene",
+    "wrong": [
+      "tengo",
+      "tienes",
+      "tienen"
+    ],
+    "explanation": " ella 形式的 'tener' 是 'tiene'.\n- Ella tiene hambre. = She 是 hungry. (lit. She 有 hunger.)\n西班牙語 uses tener + 名詞 哪裡 英語 uses 到 是 + 形容詞.",
+    "hint": "ella = 3rd 人稱 單數"
+  },
+  "q_gram_a1_18_003": {
+    "question": "¿___ sed? (是 你 thirsty?)",
+    "correct": "Tienes",
+    "wrong": [
+      "Tengo",
+      "Tiene",
+      "Tienen"
+    ],
+    "explanation": "'tener sed' = 到 是 thirsty (lit. 到 有 thirst).\n- ¿Tienes sed? = 是 你 thirsty?\n tú 形式的 tener 是 'tienes'.",
+    "hint": "這 是 asking '你' (tú)"
+  },
+  "q_gram_a1_18_004": {
+    "question": "什麼 does 'tener razón' 表示?",
+    "correct": "to be right",
+    "wrong": [
+      "to have a reason",
+      "to be wrong",
+      "to have a question"
+    ],
+    "explanation": "'tener razón' = 到 是 right (lit. 到 有 reason).\n- Tienes razón. = 你 是 right.\n這 是 one 的 許多 tener expressions 哪裡 英語 uses '到 是'."
+  },
+  "q_gram_a1_18_005": {
+    "question": "Nosotros ___ 25 años. (conjugate tener)",
+    "correct": "tenemos",
+    "wrong": [
+      "tengo",
+      "tienen",
+      "tienes"
+    ],
+    "explanation": " nosotros 形式的 'tener' 是 'tenemos'.\n- Tenemos 25 años. = We 是 25 years old.\nAge 在 西班牙語 uses tener + 數 + años.",
+    "conjugation_info": "tener - present: tengo, tienes, tiene, tenemos, tenéis, tienen"
+  },
+  "q_gram_a1_18_006": {
+    "question": "Los niños ___ sueño.",
+    "correct": "tienen",
+    "wrong": [
+      "tiene",
+      "tenemos",
+      "tienes"
+    ],
+    "explanation": "'tener sueño' = 到 是 sleepy (lit. 到 有 sleepiness).\n- Los niños tienen sueño. = children 是 sleepy.\n'tienen' 是 ellos/ellas 形式的 tener.",
+    "hint": "los niños = 他們 (3rd 人稱 複數)"
+  },
+  "q_gram_a1_18_007": {
+    "question": "I am 非常 cold.",
+    "correct": "Tengo mucho frío.",
+    "wrong": [
+      "Estoy muy frío.",
+      "Soy muy frío.",
+      "Tengo mucha frío."
+    ],
+    "explanation": "'tener frío' = 到 是 冷 (lit. 到 有 冷). 使用 'mucho' (not 'muy').\n- Tengo mucho frío. = I am 非常 冷.\n與 tener expressions, 使用 mucho/mucha (not muy) 爲 emphasis."
+  },
+  "q_gram_a1_18_008": {
+    "question": "Ella ___ miedo de las arañas.",
+    "correct": "tiene",
+    "wrong": [
+      "tengo",
+      "tienes",
+      "es"
+    ],
+    "explanation": "'tener miedo' = 到 是 害怕 (lit. 到 有 fear).\n- Ella tiene miedo = She 是 害怕.\n總是 使用 tener (not ser/estar) 爲 these expressions.",
+    "hint": "ella = 3rd 人稱 單數 的 tener"
+  },
+  "q_gram_a1_18_009": {
+    "question": "She 是 30 years old.",
+    "correct": "Ella tiene treinta años.",
+    "wrong": [
+      "Ella es treinta años.",
+      "Ella está treinta años.",
+      "Ella tiene treinta año."
+    ],
+    "explanation": "Age uses tener + 數 + años (not ser 或 estar).\n- Tiene treinta años. = She 是 30 years old.\n- ¿Cuántos años tienes? = 如何 old 是 你?"
+  },
+  "q_gram_a1_18_010": {
+    "question": "Ellos ___ prisa. (他們 是 在 a hurry.) (conjugate tener)",
+    "correct": "tienen",
+    "wrong": [
+      "tiene",
+      "tenemos",
+      "tenéis"
+    ],
+    "explanation": "'tener prisa' = 到 是 在 a hurry (lit. 到 有 hurry).\n- Ellos tienen prisa. = 他們 是 在 a hurry.\n ellos 形式的 tener 是 'tienen' (不規則 詞根: tien-).",
+    "conjugation_info": "tener - present: tengo, tienes, tiene, tenemos, tenéis, tienen"
+  },
+  "q_gram_a1_19_001": {
+    "question": "Yo ___ a la escuela.",
+    "correct": "voy",
+    "wrong": [
+      "vas",
+      "va",
+      "vamos"
+    ],
+    "explanation": " yo 形式的 'ir' 是 'voy'.\n- Voy a la escuela. = I go 到 school.\nIr 是 highly 不規則 在 所有 its 形式.",
+    "hint": "什麼 是 yo 形式的 ir?"
+  },
+  "q_gram_a1_19_002": {
+    "question": "Nosotros ___ al cine.",
+    "correct": "vamos",
+    "wrong": [
+      "voy",
+      "van",
+      "va"
+    ],
+    "explanation": " nosotros 形式的 'ir' 是 'vamos'.\n- Vamos al cine. = We go 到 cinema.\n記住: a + el = al.",
+    "hint": "什麼 是 nosotros 形式的 ir?"
+  },
+  "q_gram_a1_19_003": {
+    "question": "什麼 does 'ir a + 不定式' express?",
+    "correct": "near future / plans",
+    "wrong": [
+      "past actions",
+      "commands",
+      "present habits"
+    ],
+    "explanation": "'ir a + 不定式' expresses 靠近 future 或 plans.\n- Voy a estudiar. = I am going 到 study.\n- Vamos a comer. = We 是 going 到 eat.\n這 是 simplest way 到 talk about future actions 在 西班牙語."
+  },
+  "q_gram_a1_19_004": {
+    "question": "Ella ___ a la playa. (conjugate ir)",
+    "correct": "va",
+    "wrong": [
+      "voy",
+      "vas",
+      "van"
+    ],
+    "explanation": " ella 形式的 'ir' 是 'va'.\n- Ella va a la playa. = She goes 到 beach.\nir + a + place = 到 go 到 a place.",
+    "conjugation_info": "ir - present: voy, vas, va, vamos, vais, van"
+  },
+  "q_gram_a1_19_005": {
+    "question": "¿Adónde ___ tú?",
+    "correct": "vas",
+    "wrong": [
+      "voy",
+      "va",
+      "van"
+    ],
+    "explanation": "'¿Adónde vas?' = 哪裡 是 你 going?\n tú 形式的 ir 是 'vas'. 'Adónde' 是 用過的 與 動詞 的 motion.",
+    "hint": "什麼 是 tú 形式的 ir?"
+  },
+  "q_gram_a1_19_006": {
+    "question": "Ellos ___ a estudiar mañana. (conjugate ir 爲 near future)",
+    "correct": "van",
+    "wrong": [
+      "va",
+      "vamos",
+      "vais"
+    ],
+    "explanation": " ellos 形式的 'ir' 是 'van'.\n- Van a estudiar = 他們 是 going 到 study (靠近 future).\nir a + 不定式 = future plans.",
+    "conjugation_info": "ir - present: voy, vas, va, vamos, vais, van"
+  },
+  "q_gram_a1_19_007": {
+    "question": "Los niños ___ al parque.",
+    "correct": "van",
+    "wrong": [
+      "va",
+      "vamos",
+      "voy"
+    ],
+    "explanation": "'los niños' = 他們 (3rd 人稱 複數), so we 使用 'van'.\n- Los niños van al parque. = children go 到 park.\n記住: a + el = al.",
+    "hint": "los niños takes 相同 形式 as ellos"
+  },
+  "q_gram_a1_19_008": {
+    "question": "We 是 going 到 eat at a restaurant.",
+    "correct": "Vamos a comer en un restaurante.",
+    "wrong": [
+      "Vamos comer en un restaurante.",
+      "Voy a comer en un restaurante.",
+      "Vamos a comer a un restaurante."
+    ],
+    "explanation": "'ir a + 不定式' expresses 靠近 future.\n- Vamos a comer = We 是 going 到 eat.\n注意: 'en un restaurante' (at a restaurant) uses 'en' 爲 位置."
+  },
+  "q_gram_a1_19_009": {
+    "question": "¿Vosotros ___ a la fiesta? (conjugate ir)",
+    "correct": "vais",
+    "wrong": [
+      "van",
+      "vamos",
+      "vas"
+    ],
+    "explanation": " vosotros 形式的 'ir' 是 'vais'.\n- ¿Vais a la fiesta? = 是 你 所有 going 到 party?\n這 形式 是 用過的 mainly 在 西班牙.",
+    "conjugation_info": "ir - present: voy, vas, va, vamos, vais, van"
+  },
+  "q_gram_a1_19_010": {
+    "question": "I go 到 supermarket.",
+    "correct": "Voy al supermercado.",
+    "wrong": [
+      "Voy a el supermercado.",
+      "Voy en el supermercado.",
+      "Voy el supermercado."
+    ],
+    "explanation": "ir + a + el contracts 到 ir + al.\n- Voy al supermercado. (a + el = al)\n contraction 'al' 是 mandatory; 'a el' 是 incorrect."
+  },
+  "q_gram_a1_20_001": {
+    "question": "¿Cuánto cuesta? — Cuesta ___ euros. (15)",
+    "correct": "quince",
+    "wrong": [
+      "cinco",
+      "cincuenta",
+      "catorce"
+    ],
+    "explanation": "15 在 西班牙語 是 'quince'. Numbers 1-15 each 有 unique 形式.\n- 13 = trece, 14 = catorce, 15 = quince\nThese 必須 是 memorized individually.",
+    "conjugation_info": "11-15: once, doce, trece, catorce, quince"
+  },
+  "q_gram_a1_20_002": {
+    "question": "Hay ___ estudiantes en la clase. (20)",
+    "correct": "veinte",
+    "wrong": [
+      "vente",
+      "viente",
+      "vienti"
+    ],
+    "explanation": "20 在 西班牙語 是 'veinte'. 注意 spelling: v-e-i-n-t-e.\n- 20 = veinte\n- 21-29 是 compounds: veintiuno, veintidós, veintitrés...",
+    "hint": "Pay attention 到 正確 spelling"
+  },
+  "q_gram_a1_20_003": {
+    "question": "Tengo ___ años. (25)",
+    "correct": "veinticinco",
+    "wrong": [
+      "veinte y cinco",
+      "veinti cinco",
+      "veintecinco"
+    ],
+    "explanation": "Numbers 21-29 是 written as one 詞: veinti + unit.\n- 21 = veintiuno, 22 = veintidós, 25 = veinticinco\n注意: 30+ uses two words: treinta y cinco.",
+    "hint": "21-29 是 single compound words"
+  },
+  "q_gram_a1_20_004": {
+    "question": "什麼 是 'cincuenta' 在英語中?",
+    "correct": "fifty",
+    "wrong": [
+      "fifteen",
+      "five hundred",
+      "five"
+    ],
+    "explanation": "'cincuenta' = 50 (fifty).\n做 not confuse 與: cinco (5), quince (15), quinientos (500).\n- 50 = cincuenta, 60 = sesenta, 70 = setenta"
+  },
+  "q_gram_a1_20_005": {
+    "question": "Cuesta ___ euros. (37) (fill 在 正確 number)",
+    "correct": "treinta y siete",
+    "wrong": [
+      "treintasiete",
+      "treinta siete",
+      "trenta y siete"
+    ],
+    "explanation": "Numbers 31-99 follow pattern: tens + y + units (two/three words).\n- 37 = treinta y siete (not one 詞 like 21-29)\n- 45 = cuarenta y cinco, 98 = noventa y ocho",
+    "conjugation_info": "31+: treinta y uno, treinta y dos... 40: cuarenta, 50: cincuenta..."
+  },
+  "q_gram_a1_20_006": {
+    "question": "Hay ___ personas aquí. (100)",
+    "correct": "cien",
+    "wrong": [
+      "ciento",
+      "cent",
+      "cien to"
+    ],
+    "explanation": "'cien' 是 用過的 爲 exactly 100.\n- cien personas = 100 人們\n'ciento' 是 用過的 爲 101-199: ciento uno, ciento dos, etc.",
+    "hint": "爲 exactly 100, which 形式 是 用過的?"
+  },
+  "q_gram_a1_20_007": {
+    "question": "I 有 forty-two books.",
+    "correct": "Tengo cuarenta y dos libros.",
+    "wrong": [
+      "Tengo cuarenta dos libros.",
+      "Tengo quarenta y dos libros.",
+      "Tengo cuarentaidós libros."
+    ],
+    "explanation": "42 = cuarenta y dos. Numbers 31-99 總是 使用 'y' between tens 和 units.\n- cuarenta y dos (not quarenta — 注意 'c' 在 西班牙語)\nUnlike 21-29, these 是 NOT written as one 詞."
+  },
+  "q_gram_a1_20_008": {
+    "question": "Hay ___ libros en la biblioteca. (21 — 之前 陽性名詞)",
+    "correct": "veintiún",
+    "wrong": [
+      "veintiuno",
+      "veintiuna",
+      "veinti uno"
+    ],
+    "explanation": "'veintiuno' shortens 到 'veintiún' 之前 男性 名詞.\n- veintiún libros = 21 books\n相似 到 uno → un: -o drops 之前 男性 名詞.",
+    "hint": "uno/veintiuno shorten 之前 男性 名詞"
+  },
+  "q_gram_a1_20_009": {
+    "question": "有 sixty-seven students.",
+    "correct": "Hay sesenta y siete estudiantes.",
+    "wrong": [
+      "Hay setenta y seis estudiantes.",
+      "Hay sesenta siete estudiantes.",
+      "Hay seisenta y siete estudiantes."
+    ],
+    "explanation": "67 = sesenta y siete.\n- sesenta (60) — not seisenta\n- setenta (70) — 注意: sesenta ≠ setenta\nThese two (60 和 70) 是 commonly confused."
+  },
+  "q_gram_a1_20_010": {
+    "question": "Tengo ___ años. (19) (conjugate 正確 number form)",
+    "correct": "diecinueve",
+    "wrong": [
+      "diez y nueve",
+      "diecenueve",
+      "diecynueve"
+    ],
+    "explanation": "Numbers 16-19 是 compounds: dieci + unit (one 詞).\n- 16 = dieciséis, 17 = diecisiete, 18 = dieciocho, 19 = diecinueve\nThese 是 originally 'diez y seis' etc. 但是 是 now written as one 詞.",
+    "conjugation_info": "16-19: dieciséis, diecisiete, dieciocho, diecinueve (all one word)"
   }
 }

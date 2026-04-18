@@ -1,1586 +1,1547 @@
 {
   "q_gram_c1_01_001": {
-    "question": "Quel est le sens correct du mot 'ojalá'?",
-    "correct": "I wish / if only",
+    "question": "Ojalá ___ más tiempo libre el año pasado. (tener)",
+    "correct": "hubiera tenido",
     "wrong": [
-      "rich (ser) / delicious (estar)",
-      "unless",
-      "right now / in a moment (Latin America, esp. Mexico)"
+      "tuviera",
+      "tendría",
+      "tenía"
     ],
-    "explanation": "'ojalá' signifie 'I wish / if only' comme montré dans l'exemple: Ojalá pudiera volar.",
-    "hint": "If only I could fly."
+    "explanation": "Après 'ojalá' referring à an unrealized past wish, Le/La plus-que-parfait subjonctif (hubiera + participe passé) est requis. 'Tuviera' serait exprimer a present contrary-à-fact wish, not a past one."
   },
   "q_gram_c1_01_002": {
-    "question": "Quel est le sens correct du mot 'aunque'?",
-    "correct": "although / even if",
+    "question": "Quizás la situación ___ diferente si hubiéramos actuado antes. (ser)",
+    "correct": "hubiera sido",
     "wrong": [
-      "so / therefore",
-      "what a (emphatic/ironic exclamation)",
-      "so / therefore"
+      "fuera",
+      "sería",
+      "fue"
     ],
-    "explanation": "'aunque' signifie 'although / even if' comme montré dans l'exemple: Aunque llueva, iremos a la playa.",
-    "hint": "Even if it rains, we will go to the beach."
+    "explanation": "'Quizás' avec Le/La plus-que-parfait subjonctif exprime doubt à propos de a hypothetical past outcome. Le/La plus-que-parfait subjonctif 'hubiera sido' est nécessaire parce que Le/La condition (si hubiéramos actuado) est aussi dans Le/La plus-que-parfait subjonctif."
   },
   "q_gram_c1_01_003": {
-    "question": "Quel est le sens correct du mot 'a pesar de que'?",
-    "correct": "despite the fact that",
+    "question": "Que Le/La subjonctif après 'como si' exprimer, et que tenses peut follow il?",
+    "correct": "It expresses an unreal comparison; only the imperfect subjunctive or pluperfect subjunctive can follow 'como si'",
     "wrong": [
-      "I wish / if only",
-      "no matter how much",
-      "to warn"
+      "It expresses a real comparison; the present subjunctive or indicative can follow",
+      "It expresses purpose; any subjunctive tense can follow 'como si'",
+      "It expresses a temporal relationship; only the present subjunctive follows"
     ],
-    "explanation": "'a pesar de que' signifie 'despite the fact that' comme montré dans l'exemple: A pesar de que tenga experiencia, no consigue empleo.",
-    "hint": "Despite the fact that he may have experience, he can't find a job."
+    "explanation": "'Como si' (as si) toujours introduces an unreal ou hypothetical comparison. Espagnol grammar restricts il à Le/La subjonctif imparfait (pour present unreal) ou Le/La plus-que-parfait subjonctif (pour past unreal). Le/La subjonctif présent est jamais used après 'como si'."
   },
   "q_gram_c1_01_004": {
-    "question": "Quel est le sens correct du mot 'por mucho que'?",
-    "correct": "no matter how much",
+    "question": "Ella actúa como si no ___ nada de lo ocurrido. (saber, subjonctif imparfait)",
+    "correct": "supiera",
     "wrong": [
-      "I would like (literary conditional)",
-      "although / even though",
-      "right now / in a moment (Latin America, esp. Mexico)"
+      "sepa",
+      "sabía",
+      "supiese"
     ],
-    "explanation": "'por mucho que' signifie 'no matter how much' comme montré dans l'exemple: Por mucho que insistas, no cambiaré de opinión.",
-    "hint": "No matter how much you insist, I won't change my mind."
+    "explanation": "Après 'como si', Le/La subjonctif imparfait est requis pour exprimer an unreal comparison dans Le/La present. 'Supiera' est Le/La -ra form de Le/La irrégulier passé simple radical sup-. Note: 'supiese' est aussi grammatically valid mais Le/La -ra form est Le/La expected answer ici.",
+    "conjugation_info": "saber (imperfect subjunctive): supiera, supieras, supiera, supiéramos, supierais, supieran"
+  },
+  "q_gram_c1_01_005": {
+    "question": "Por más que ___ convencerlo, no cambió de opinión. (intentar)",
+    "correct": "intentara",
+    "wrong": [
+      "intentó",
+      "intentaba",
+      "intentaría"
+    ],
+    "explanation": "'Por más que' (no matter comment beaucoup) est a concessive conjunction Cela triggers Le/La subjonctif. Puisque Le/La main clause est dans Le/La passé simple ('no cambió'), Le/La subjonctif imparfait 'intentara' est nécessaire dans Le/La subordinate clause."
+  },
+  "q_gram_c1_01_006": {
+    "question": "Ojalá que los dirigentes ___ una solución antes de la crisis. (encontrar, plus-que-parfait subjonctif, forme ellos)",
+    "correct": "hubieran encontrado",
+    "wrong": [
+      "encontraran",
+      "habrían encontrado",
+      "encontrasen"
+    ],
+    "explanation": "'Ojalá que' avec Le/La plus-que-parfait subjonctif exprime a regretful wish à propos de a past event Cela did not happen. Le/La plus-que-parfait subjonctif est formed avec hubieran + participe passé.",
+    "conjugation_info": "encontrar (pluperfect subjunctive): hubiera encontrado, hubieras encontrado, hubiera encontrado, hubiéramos encontrado, hubierais encontrado, hubieran encontrado"
+  },
+  "q_gram_c1_01_007": {
+    "question": "Habla con tanta autoridad como si ___ un experto en la materia. (ser)",
+    "correct": "fuera",
+    "wrong": [
+      "es",
+      "sea",
+      "fue"
+    ],
+    "explanation": "Après 'como si', seulement Le/La imparfait ou plus-que-parfait subjonctif est grammatically correct. Puisque Le/La comparison est à propos de an ongoing unreal situation (he est not actually an expert), Le/La subjonctif imparfait 'fuera' est Le/La correct choice."
+  },
+  "q_gram_c1_01_008": {
+    "question": "Perhaps ils serait avoir arrived sur temps si Le/La train hadn't été delayed.",
+    "correct": "Quizás hubieran llegado a tiempo si el tren no se hubiera retrasado.",
+    "wrong": [
+      "Quizás llegaran a tiempo si el tren no se retrasara.",
+      "Tal vez llegarían a tiempo si el tren no se retrasó.",
+      "Quizás habrían llegado a tiempo si el tren no se retrasaría."
+    ],
+    "explanation": "'Quizás' avec a past counterfactual uses Le/La plus-que-parfait subjonctif. Le/La si-clause aussi takes Le/La plus-que-parfait subjonctif ('hubiera retrasado'). 'Quizás hubieran llegado' est preferred sur 'habrían llegado' dans formel registers quand expressing doubt."
+  },
+  "q_gram_c1_01_009": {
+    "question": "Aunque se lo ___ mil veces, jamás lo habría creído. (decir, plus-que-parfait subjonctif, forme nosotros)",
+    "correct": "hubiéramos dicho",
+    "wrong": [
+      "dijéramos",
+      "habríamos dicho",
+      "diríamos"
+    ],
+    "explanation": "Le/La concessive 'aunque' avec a counterfactual past situation requires Le/La plus-que-parfait subjonctif. Le/La forme nosotros de Le/La plus-que-parfait subjonctif de 'decir' est 'hubiéramos dicho', using Le/La irrégulier participe passé 'dicho'.",
+    "conjugation_info": "decir (pluperfect subjunctive): hubiera dicho, hubieras dicho, hubiera dicho, hubiéramos dicho, hubierais dicho, hubieran dicho"
+  },
+  "q_gram_c1_01_010": {
+    "question": "Por más que se esforzara, nunca lograba satisfacer las expectativas de su mentor.",
+    "correct": "No matter how hard he tried, he never managed to meet his mentor's expectations.",
+    "wrong": [
+      "The more he tried, the more he met his mentor's expectations.",
+      "Even though he tried hard, he always satisfied his mentor's expectations.",
+      "However much effort he makes, he will never meet his mentor's expectations."
+    ],
+    "explanation": "'Por más que' + subjonctif imparfait exprime a concessive sens: despite repeated efforts, Le/La result était toujours Le/La same. Le/La imparfait tenses ('esforzara', 'lograba') indiquer a habitual past situation."
+  },
+  "q_gram_c1_02_001": {
+    "question": "Apenas hubo ___ la noticia, salió corriendo hacia la estación. (oír, pretérito anterior)",
+    "correct": "oído",
+    "wrong": [
+      "oyó",
+      "oía",
+      "oído había"
+    ],
+    "explanation": "Le/La pretérito anterior (hubo + participe passé) est utilisé après temporal conjunctions like 'apenas' (as soon as) pour indiquer an action completed immediately avant another past action. Le/La participe de 'oír' est 'oído'.",
+    "conjugation_info": "oír (pretérito anterior): hube oído, hubiste oído, hubo oído, hubimos oído, hubisteis oído, hubieron oído"
+  },
+  "q_gram_c1_02_002": {
+    "question": "No bien ___ terminado el discurso, el público estalló en aplausos. (haber, pretérito anterior)",
+    "correct": "hubo",
+    "wrong": [
+      "había",
+      "ha",
+      "habría"
+    ],
+    "explanation": "'No bien' (no sooner) triggers Le/La pretérito anterior, quel uses Le/La passé simple de 'haber' + participe passé. 'Hubo terminado' indique Le/La speech ended immediately avant Le/La audience erupted dans applause."
+  },
+  "q_gram_c1_02_003": {
+    "question": "Donde ___ leyes, los ciudadanos estarán protegidos. (haber, future subjonctif)",
+    "correct": "hubiere",
+    "wrong": [
+      "haya",
+      "habrá",
+      "hubiera"
+    ],
+    "explanation": "Le/La future subjonctif ('hubiere') survives dans legal et proverbial langue. Dans Ce legal-style phrase, 'donde hubiere leyes' signifie 'wherever là may être laws'. Dans modern everyday Espagnol, Le/La subjonctif présent 'haya' serait used instead."
+  },
+  "q_gram_c1_02_004": {
+    "question": "Dans que contexts does Le/La pretérito anterior (hubo cantado) appear dans modern Espagnol?",
+    "correct": "Almost exclusively in literary texts, after temporal conjunctions like apenas, en cuanto, no bien, tan pronto como",
+    "wrong": [
+      "In everyday spoken Spanish to express recently completed actions",
+      "In formal business correspondence as a replacement for the preterite",
+      "In journalism to describe breaking news events"
+    ],
+    "explanation": "Le/La pretérito anterior est virtually extinct dans spoken Espagnol et rare even dans writing. Quand il does appear, il follows temporal conjunctions (apenas, en cuanto, no bien, tan pronto como) et indique immediate anteriority à a passé simple action. Dans modern usage, Le/La simple passé simple typiquement replaces il."
   },
   "q_gram_c1_02_005": {
-    "question": "Quel est le sens correct du mot 'apenas'?",
-    "correct": "barely / as soon as",
+    "question": "Quien ___ de buena fe, será protegido por la ley. (obrar, future subjonctif)",
+    "correct": "obrare",
     "wrong": [
-      "next / below",
-      "although / even though",
-      "provided that / as long as"
+      "obre",
+      "obrará",
+      "obrara"
     ],
-    "explanation": "'apenas' signifie 'barely / as soon as' comme montré dans l'exemple: Apenas hubo llegado, empezó a llover.",
-    "hint": "As soon as he had arrived, it started to rain."
+    "explanation": "Le/La future subjonctif ('obrare') est utilisé dans legal texts et fixed expressions. 'Quien obrare de buena fe' est a legal formula sens 'whoever shall act dans bon faith'. Dans modern non-legal Espagnol, Le/La subjonctif présent 'obre' serait used.",
+    "conjugation_info": "obrar (future subjunctive): obrare, obrares, obrare, obráremos, obrareis, obraren"
   },
   "q_gram_c1_02_006": {
-    "question": "Quel est le sens correct du mot 'quisiera'?",
-    "correct": "I would like (literary conditional)",
+    "question": "Apenas hubo ___ la puerta, se dio cuenta de que había olvidado las llaves dentro. (cerrar, pretérito anterior)",
+    "correct": "cerrado",
     "wrong": [
-      "how much",
-      "to consider as (done)",
-      "clever (ser) / ready (estar)"
+      "cerró",
+      "cerraba",
+      "cerrando"
     ],
-    "explanation": "'quisiera' signifie 'I would like (literary conditional)' comme montré dans l'exemple: Quisiera pedirle un favor.",
-    "hint": "I would like to ask you a favor."
+    "explanation": "Dans Le/La pretérito anterior construction 'hubo + participe passé', Le/La participe de 'cerrar' est 'cerrado'. Ce tense marks Le/La immediately preceding action avant Le/La main passé simple verbe 'se dio cuenta'."
   },
   "q_gram_c1_02_007": {
-    "question": "Quel est le sens correct du mot 'fuere'?",
-    "correct": "were to be (future subjunctive)",
+    "question": "Whoever shall violate Ce provision sera être subject à penalties.",
+    "correct": "Quien contraviniere esta disposición quedará sujeto a sanciones.",
     "wrong": [
-      "hence / that is why (+ subjunctive)",
-      "although / even though",
-      "the latter"
+      "Quien contravenga esta disposición queda sujeto a sanciones.",
+      "Quien contravendría esta disposición estaría sujeto a sanciones.",
+      "Quien contravino esta disposición fue sujeto a sanciones."
     ],
-    "explanation": "'fuere' signifie 'were to be (future subjunctive)' comme montré dans l'exemple: Donde fueres, haz lo que vieres.",
-    "hint": "When in Rome, do as the Romans do."
+    "explanation": "Dans legal Espagnol, Le/La future subjonctif ('contraviniere') est utilisé pour hypothetical future actions dans legal provisions. Ce mirrors Le/La archaic Anglais construction 'whoever shall violate'. Le/La modern equivalent serait use Le/La subjonctif présent 'contravenga'."
   },
   "q_gram_c1_02_008": {
-    "question": "Quel est le sens correct du mot 'hubiere'?",
-    "correct": "shall have (future perfect subjunctive)",
+    "question": "En cuanto hubo ___ el documento, lo envió por correo certificado. (firmar, pretérito anterior)",
+    "correct": "firmado",
     "wrong": [
-      "upon (doing something)",
-      "were to be (future subjunctive)",
-      "thus / so"
+      "firmó",
+      "firmaba",
+      "firmando"
     ],
-    "explanation": "'hubiere' signifie 'shall have (future perfect subjunctive)' comme montré dans l'exemple: Si hubiere lugar, se admitirá el recurso.",
-    "hint": "If there is grounds, the appeal shall be admitted."
+    "explanation": "Après 'en cuanto' (as soon as), Le/La pretérito anterior 'hubo firmado' exprime Cela Le/La signing était completed immediately avant Le/La sending. Le/La participe passé de 'firmar' est régulier: 'firmado'."
+  },
+  "q_gram_c1_02_009": {
+    "question": "Adonde fueres, haz lo que vieres.",
+    "correct": "Wherever you may go, do as you may see (done there). / When in Rome, do as the Romans do.",
+    "wrong": [
+      "Wherever you went, do what you saw.",
+      "Where you will go, do what you will see.",
+      "If you go away, do what you are told."
+    ],
+    "explanation": "Ce proverb uses Le/La future subjonctif ('fueres', 'vieres'), quel survives dans fixed sayings. Il est Le/La Espagnol equivalent de 'Quand dans Rome, do as Le/La Romans do'. Le/La future subjonctif ici exprime hypothetical future situations dans a timeless, proverbial way."
+  },
+  "q_gram_c1_02_010": {
+    "question": "Si así lo ___ el tribunal, se procederá al embargo de los bienes. (disponer, future subjonctif, forme él)",
+    "correct": "dispusiere",
+    "wrong": [
+      "disponga",
+      "dispondrá",
+      "dispusiera"
+    ],
+    "explanation": "Dans legal register, Le/La future subjonctif 'dispusiere' est utilisé dans conditionnel clauses referring à potential future rulings. Le/La radical vient de Le/La irrégulier passé simple 'dispuso' → 'dispusier-' + future subjonctif endings.",
+    "conjugation_info": "disponer (future subjunctive): dispusiere, dispusieres, dispusiere, dispusiéremos, dispusiereis, dispusieren"
+  },
+  "q_gram_c1_03_001": {
+    "question": "De ___ la verdad, no habría aceptado el trabajo. (saber)",
+    "correct": "haber sabido",
+    "wrong": [
+      "saber",
+      "sabiendo",
+      "haber sido sabido"
+    ],
+    "explanation": "'De + perfect infinitif' replaces 'si + plus-que-parfait subjonctif' dans a more concise, literary construction. 'De haber sabido' = 'Si hubiera sabido' (Avait I known). Le/La perfect infinitif (haber + participe) est requis pour past counterfactuals."
+  },
+  "q_gram_c1_03_002": {
+    "question": "Si hubiera estudiado más, ahora ___ un mejor puesto. (tener)",
+    "correct": "tendría",
+    "wrong": [
+      "tuviera",
+      "hubiera tenido",
+      "tenía"
+    ],
+    "explanation": "Ceci est un mixed conditionnel: Le/La si-clause se réfère à Le/La past (plus-que-parfait subjonctif 'hubiera estudiado') pendant que Le/La main clause se réfère à a present consequence (conditionnel 'tendría'). Ce mixing de temps frames est characteristic de C1-level grammar."
+  },
+  "q_gram_c1_03_003": {
+    "question": "Quel est a 'mixed conditionnel' en espagnol, et Quand est il used?",
+    "correct": "A conditional sentence where the si-clause and the main clause refer to different time frames, such as a past condition with a present result",
+    "wrong": [
+      "A conditional that mixes indicative and subjunctive moods in the same clause",
+      "A sentence that uses both 'si' and 'cuando' as conditional markers",
+      "A conditional that combines two different subjects in the if-clause"
+    ],
+    "explanation": "Mixed conditionals break Le/La typical temps-frame pairing. Par exemple, 'Si hubiera nacido en España (past), hablaría español perfectamente (present)' mixes a past unreal condition avec a present unreal result. Ceci est un sophisticated structure tested à C1 level."
+  },
+  "q_gram_c1_03_004": {
+    "question": "Si no ___ tan orgulloso, le habría pedido disculpas hace tiempo. (ser, subjonctif imparfait, forme él)",
+    "correct": "fuera",
+    "wrong": [
+      "sería",
+      "fue",
+      "hubiera sido"
+    ],
+    "explanation": "C'est another mixed conditionnel: Le/La si-clause décrit an ongoing character trait (subjonctif imparfait 'fuera' = si he weren't donc proud) et Le/La result clause se réfère à Le/La past (conditionnel passé 'habría pedido'). Le/La subjonctif imparfait est utilisé parce que Le/La condition est à propos de a persistent state.",
+    "conjugation_info": "ser (imperfect subjunctive): fuera, fueras, fuera, fuéramos, fuerais, fueran"
+  },
+  "q_gram_c1_03_005": {
+    "question": "De no ___ por tu ayuda, nunca habríamos terminado a tiempo. (ser)",
+    "correct": "ser",
+    "wrong": [
+      "haber sido",
+      "siendo",
+      "fuera"
+    ],
+    "explanation": "'De no ser por' est a fixed expression sens 'si il weren't pour' ou 'étaient il not pour'. Unlike other 'de + infinitif' constructions replacing si-clauses, Ce expression uses Le/La simple infinitif 'ser' regardless de temps reference, parce que il est a set phrase."
+  },
+  "q_gram_c1_03_006": {
+    "question": "Yo que tú, no ___ en ese negocio. (invertir, conditionnel, forme yo)",
+    "correct": "invertiría",
+    "wrong": [
+      "invirtiera",
+      "invierto",
+      "invertí"
+    ],
+    "explanation": "'Yo que tú' (si I étaient vous) est an implied conditionnel Cela omits Le/La si-clause entirely. Le/La main clause uses Le/La conditionnel tense. Ce colloquial construction est equivalent à 'Si yo fuera tú, no invertiría en ese negocio'.",
+    "conjugation_info": "invertir (conditional): invertiría, invertirías, invertiría, invertiríamos, invertiríais, invertirían"
+  },
+  "q_gram_c1_03_007": {
+    "question": "Con un poco más de experiencia, ___ haber conseguido el puesto. (poder)",
+    "correct": "podría",
+    "wrong": [
+      "pudiera",
+      "puede",
+      "pudo"
+    ],
+    "explanation": "'Con + nom phrase' peut replace a si-clause pour exprimer an implied condition. 'Con un poco más de experiencia' = 'Si tuviera un poco más de experiencia'. Le/La main clause uses Le/La conditionnel 'podría' as expected."
+  },
+  "q_gram_c1_03_008": {
+    "question": "Avait il not été pour Le/La interpreter, Le/La negotiations serait avoir failed.",
+    "correct": "De no haber sido por el intérprete, las negociaciones habrían fracasado.",
+    "wrong": [
+      "Si no fuera por el intérprete, las negociaciones fracasaron.",
+      "Sin el intérprete, las negociaciones fracasaban.",
+      "De no ser el intérprete, las negociaciones hubieran fracasado."
+    ],
+    "explanation": "'De no haber sido por' est Le/La past version de 'de no ser por', using Le/La perfect infinitif pour a past counterfactual. Le/La main clause uses Le/La conditionnel passé 'habrían fracasado' pour exprimer Le/La unrealized consequence."
   },
   "q_gram_c1_03_009": {
-    "question": "Quel est le sens correct du mot 'de haberlo sabido'?",
-    "correct": "had I known",
+    "question": "Si ella no ___ tanto, habría disfrutado más del viaje. (quejarse, plus-que-parfait subjonctif, forme ella)",
+    "correct": "se hubiera quejado",
     "wrong": [
-      "therefore / thus",
-      "to consider as (done)",
-      "unless"
+      "se quejara",
+      "se habría quejado",
+      "se quejó"
     ],
-    "explanation": "'de haberlo sabido' signifie 'had I known' comme montré dans l'exemple: De haberlo sabido, no habría venido.",
-    "hint": "Had I known, I wouldn't have come."
+    "explanation": "Le/La plus-que-parfait subjonctif de Le/La reflexive verbe 'quejarse' est 'se hubiera quejado'. Dans Le/La si-clause de a past counterfactual, Le/La reflexive pronom 'se' precedes Le/La auxiliary 'hubiera'.",
+    "conjugation_info": "quejarse (pluperfect subjunctive): me hubiera quejado, te hubieras quejado, se hubiera quejado, nos hubiéramos quejado, os hubierais quejado, se hubieran quejado"
   },
   "q_gram_c1_03_010": {
-    "question": "Quel est le sens correct du mot 'a menos que'?",
-    "correct": "unless",
+    "question": "De haberlo previsto, habríamos tomado las medidas oportunas con suficiente antelación.",
+    "correct": "Had we foreseen it, we would have taken the appropriate measures well in advance.",
     "wrong": [
-      "in no way / absolutely not",
-      "having said this",
-      "were to be (future subjunctive)"
+      "If we foresaw it, we would take the appropriate measures in advance.",
+      "By having foreseen it, we took the appropriate measures well in advance.",
+      "Upon foreseeing it, we had taken the necessary measures sufficiently early."
     ],
-    "explanation": "'a menos que' signifie 'unless' comme montré dans l'exemple: No iré a menos que me acompañes.",
-    "hint": "I won't go unless you come with me."
+    "explanation": "'De haberlo previsto' est a literary replacement pour 'Si lo hubiéramos previsto' (avait we foreseen il). Le/La perfect infinitif 'haber previsto' indique a past counterfactual. 'Con suficiente antelación' signifie 'well dans advance'."
   },
-  "q_gram_c1_03_011": {
-    "question": "Quel est le sens correct du mot 'siempre y cuando'?",
-    "correct": "provided that / as long as",
-    "wrong": [
-      "had I known",
-      "lively (ser) / alive (estar)",
-      "the aforementioned / said"
-    ],
-    "explanation": "'siempre y cuando' signifie 'provided that / as long as' comme montré dans l'exemple: Puedes salir siempre y cuando termines la tarea.",
-    "hint": "You can go out as long as you finish the homework."
-  },
-  "q_gram_c1_03_012": {
-    "question": "Quel est le sens correct du mot 'en caso de que'?",
-    "correct": "in case (that)",
-    "wrong": [
-      "to take place",
-      "the aforementioned / said",
-      "were to be (future subjunctive)"
-    ],
-    "explanation": "'en caso de que' signifie 'in case (that)' comme montré dans l'exemple: Lleva un paraguas en caso de que llueva.",
-    "hint": "Take an umbrella in case it rains."
-  },
-  "q_gram_c1_04_013": {
-    "question": "Quel est le sens correct du mot 'no obstante'?",
-    "correct": "nevertheless",
-    "wrong": [
-      "in order that (formal)",
-      "I wish / if only",
-      "although / even if"
-    ],
-    "explanation": "'no obstante' signifie 'nevertheless' comme montré dans l'exemple: El proyecto es ambicioso. No obstante, creo que es viable.",
-    "hint": "The project is ambitious. Nevertheless, I believe it is viable."
-  },
-  "q_gram_c1_04_014": {
-    "question": "Quel est le sens correct du mot 'de ahí que'?",
-    "correct": "hence / that is why (+ subjunctive)",
-    "wrong": [
-      "were to be (future subjunctive)",
-      "to burst into (doing something)",
-      "perhaps"
-    ],
-    "explanation": "'de ahí que' signifie 'hence / that is why (+ subjunctive)' comme montré dans l'exemple: No estudió lo suficiente, de ahí que suspendiera.",
-    "hint": "He didn't study enough, that is why he failed."
-  },
-  "q_gram_c1_04_015": {
-    "question": "Quel est le sens correct du mot 'cabe destacar que'?",
-    "correct": "it is worth noting that",
-    "wrong": [
-      "provided that / as long as",
-      "to deny",
-      "to request (formal)"
-    ],
-    "explanation": "'cabe destacar que' signifie 'it is worth noting that' comme montré dans l'exemple: Cabe destacar que los resultados superaron las expectativas.",
-    "hint": "It is worth noting that the results exceeded expectations."
-  },
-  "q_gram_c1_04_016": {
-    "question": "Quel est le sens correct du mot 'si bien'?",
-    "correct": "although / even though",
-    "wrong": [
-      "lest / in case",
-      "rich (ser) / delicious (estar)",
-      "not even"
-    ],
-    "explanation": "'si bien' signifie 'although / even though' comme montré dans l'exemple: Si bien el plan tiene riesgos, los beneficios son mayores.",
-    "hint": "Although the plan has risks, the benefits are greater."
-  },
-  "q_gram_c1_05_017": {
-    "question": "Quel est le sens correct du mot 'solicitar'?",
-    "correct": "to request (formal)",
-    "wrong": [
-      "you all (informal, Spain only)",
-      "you all (informal, Spain only)",
-      "to make sense"
-    ],
-    "explanation": "'solicitar' signifie 'to request (formal)' comme montré dans l'exemple: Solicito una entrevista con el director.",
-    "hint": "I request an interview with the director."
-  },
-  "q_gram_c1_05_018": {
-    "question": "Quel est le sens correct du mot 'fallecer'?",
-    "correct": "to pass away (formal)",
-    "wrong": [
-      "to warn",
-      "although / even though",
-      "to make sense"
-    ],
-    "explanation": "'fallecer' signifie 'to pass away (formal)' comme montré dans l'exemple: El paciente falleció a las tres de la madrugada.",
-    "hint": "The patient passed away at three in the morning."
-  },
-  "q_gram_c1_05_019": {
-    "question": "Quel est le sens correct du mot 'a la mayor brevedad'?",
-    "correct": "at the earliest convenience (formal)",
-    "wrong": [
-      "although / even if",
-      "even (while doing / despite doing)",
-      "what a (emphatic/ironic exclamation)"
-    ],
-    "explanation": "'a la mayor brevedad' signifie 'at the earliest convenience (formal)' comme montré dans l'exemple: Le rogamos que nos responda a la mayor brevedad posible.",
-    "hint": "We ask that you respond to us at the earliest possible convenience."
-  },
-  "q_gram_c1_05_020": {
-    "question": "Quel est le sens correct du mot 'poner de manifiesto'?",
-    "correct": "to make evident / to reveal",
-    "wrong": [
-      "safe (ser) / sure (estar)",
-      "to call back",
-      "you (informal, voseo regions)"
-    ],
-    "explanation": "'poner de manifiesto' signifie 'to make evident / to reveal' comme montré dans l'exemple: El estudio pone de manifiesto las desigualdades sociales.",
-    "hint": "The study reveals the social inequalities."
-  },
-  "q_gram_c1_06_021": {
-    "question": "Quel est le sens correct du mot 'romper a + infinitivo'?",
-    "correct": "to burst into (doing something)",
-    "wrong": [
-      "provided that / as long as",
-      "extremely (formal)",
-      "lest / in case"
-    ],
-    "explanation": "'romper a + infinitivo' signifie 'to burst into (doing something)' comme montré dans l'exemple: Rompió a llorar cuando se enteró de la noticia.",
-    "hint": "She burst into tears when she heard the news."
-  },
-  "q_gram_c1_06_022": {
-    "question": "Quel est le sens correct du mot 'venir a + infinitivo'?",
-    "correct": "to approximately / to amount to",
-    "wrong": [
-      "you all (informal, Spain only)",
-      "to go around doing",
-      "to request (formal)"
-    ],
-    "explanation": "'venir a + infinitivo' signifie 'to approximately / to amount to' comme montré dans l'exemple: El viaje viene a costar unos mil euros.",
-    "hint": "The trip amounts to about a thousand euros."
-  },
-  "q_gram_c1_06_023": {
-    "question": "Quel est le sens correct du mot 'andar + gerundio'?",
-    "correct": "to go around doing",
-    "wrong": [
-      "having said this",
-      "to deny",
-      "to state / to affirm"
-    ],
-    "explanation": "'andar + gerundio' signifie 'to go around doing' comme montré dans l'exemple: Anda contando mentiras por ahí.",
-    "hint": "He goes around telling lies everywhere."
-  },
-  "q_gram_c1_06_024": {
-    "question": "Quel est le sens correct du mot 'dar por + participio'?",
-    "correct": "to consider as (done)",
-    "wrong": [
-      "right now / in a moment (Latin America, esp. Mexico)",
-      "hence / that is why (+ subjunctive)",
-      "clever (ser) / ready (estar)"
-    ],
-    "explanation": "'dar por + participio' signifie 'to consider as (done)' comme montré dans l'exemple: Doy por terminada la discusión.",
-    "hint": "I consider the discussion over."
-  },
-  "q_gram_c1_07_025": {
-    "question": "Quel est le sens correct du mot 'listo/a'?",
-    "correct": "clever (ser) / ready (estar)",
-    "wrong": [
-      "thus / so",
-      "perhaps",
-      "no matter how much"
-    ],
-    "explanation": "'listo/a' signifie 'clever (ser) / ready (estar)' comme montré dans l'exemple: María es muy lista, pero aún no está lista para el examen.",
-    "hint": "María is very clever, but she is not ready for the exam yet."
-  },
-  "q_gram_c1_07_026": {
-    "question": "Quel est le sens correct du mot 'vivo/a'?",
-    "correct": "lively (ser) / alive (estar)",
-    "wrong": [
-      "extremely (formal)",
-      "to make evident / to reveal",
-      "you all (informal, Spain only)"
-    ],
-    "explanation": "'vivo/a' signifie 'lively (ser) / alive (estar)' comme montré dans l'exemple: Es un niño muy vivo; por suerte, tras el accidente, está vivo.",
-    "hint": "He is a very lively child; fortunately, after the accident, he is alive."
-  },
-  "q_gram_c1_07_027": {
-    "question": "Quel est le sens correct du mot 'rico/a'?",
-    "correct": "rich (ser) / delicious (estar)",
-    "wrong": [
-      "lest / in case",
-      "to go around doing",
-      "although / even if"
-    ],
-    "explanation": "'rico/a' signifie 'rich (ser) / delicious (estar)' comme montré dans l'exemple: No es rico, pero la paella que prepara está muy rica.",
-    "hint": "He is not rich, but the paella he makes is very delicious."
-  },
-  "q_gram_c1_07_028": {
-    "question": "Quel est le sens correct du mot 'seguro/a'?",
-    "correct": "safe (ser) / sure (estar)",
-    "wrong": [
-      "I would like (literary conditional)",
-      "rich (ser) / delicious (estar)",
-      "I wish / if only"
-    ],
-    "explanation": "'seguro/a' signifie 'safe (ser) / sure (estar)' comme montré dans l'exemple: Este barrio es seguro y estoy seguro de que te gustará.",
-    "hint": "This neighborhood is safe and I'm sure you'll like it."
-  },
-  "q_gram_c1_08_029": {
-    "question": "Quel est le sens correct du mot 'dicho esto'?",
-    "correct": "having said this",
-    "wrong": [
-      "nevertheless",
-      "what a (emphatic/ironic exclamation)",
-      "here (Latin American preference)"
-    ],
-    "explanation": "'dicho esto' signifie 'having said this' comme montré dans l'exemple: Dicho esto, pasemos al siguiente tema.",
-    "hint": "Having said this, let us move on to the next topic."
-  },
-  "q_gram_c1_08_030": {
-    "question": "Quel est le sens correct du mot 'así'?",
-    "correct": "thus / so",
-    "wrong": [
-      "lively (ser) / alive (estar)",
-      "lively (ser) / alive (estar)",
-      "clever (ser) / ready (estar)"
-    ],
-    "explanation": "'así' signifie 'thus / so' comme montré dans l'exemple: Así lo decidió el tribunal.",
-    "hint": "Thus the court decided."
-  },
-  "q_gram_c1_08_031": {
-    "question": "Quel est le sens correct du mot 'quizá(s)'?",
-    "correct": "perhaps",
-    "wrong": [
-      "the aforementioned / said",
-      "hence / that is why (+ subjunctive)",
-      "extremely (formal)"
-    ],
-    "explanation": "'quizá(s)' signifie 'perhaps' comme montré dans l'exemple: Quizás tengan razón los expertos.",
-    "hint": "Perhaps the experts are right."
-  },
-  "q_gram_c1_08_032": {
-    "question": "Quel est le sens correct du mot 'cuánto'?",
-    "correct": "how much",
-    "wrong": [
-      "upon (doing something)",
-      "provided that / as long as",
-      "despite the fact that"
-    ],
-    "explanation": "'cuánto' signifie 'how much' comme montré dans l'exemple: ¡Cuánto ha cambiado esta ciudad!",
-    "hint": "How much this city has changed!"
-  },
-  "q_gram_c1_09_033": {
-    "question": "Quel est le sens correct du mot 'a fin de que'?",
-    "correct": "in order that (formal)",
-    "wrong": [
-      "you (informal, voseo regions)",
-      "you (informal, voseo regions)",
-      "next / below"
-    ],
-    "explanation": "'a fin de que' signifie 'in order that (formal)' comme montré dans l'exemple: Modificaron la ley a fin de que protegiera a los consumidores.",
-    "hint": "They modified the law in order to protect consumers."
-  },
-  "q_gram_c1_09_034": {
-    "question": "Quel est le sens correct du mot 'no sea que'?",
-    "correct": "lest / in case",
-    "wrong": [
-      "although / even if",
-      "to request (formal)",
-      "rich (ser) / delicious (estar)"
-    ],
-    "explanation": "'no sea que' signifie 'lest / in case' comme montré dans l'exemple: Cierra la ventana, no sea que entre frío.",
-    "hint": "Close the window, lest the cold come in."
-  },
-  "q_gram_c1_09_035": {
-    "question": "Quel est le sens correct du mot 'aun cuando'?",
-    "correct": "even when / even if",
-    "wrong": [
-      "rich (ser) / delicious (estar)",
-      "in no way / absolutely not",
-      "in no way / absolutely not"
-    ],
-    "explanation": "'aun cuando' signifie 'even when / even if' comme montré dans l'exemple: Aun cuando tuviera la oportunidad, no lo haría.",
-    "hint": "Even if I had the opportunity, I wouldn't do it."
-  },
-  "q_gram_c1_09_036": {
-    "question": "Quel est le sens correct du mot 'conque'?",
-    "correct": "so / therefore",
-    "wrong": [
-      "nevertheless",
-      "to reproach",
-      "upon (doing something)"
-    ],
-    "explanation": "'conque' signifie 'so / therefore' comme montré dans l'exemple: Ya has terminado, conque vámonos de aquí.",
-    "hint": "You've finished, so let's get out of here."
-  },
-  "q_gram_c1_10_037": {
-    "question": "Quel est le sens correct du mot 'una vez + participio'?",
-    "correct": "once (something is done)",
-    "wrong": [
-      "to take place",
-      "provided that / as long as",
-      "to pass away (formal)"
-    ],
-    "explanation": "'una vez + participio' signifie 'once (something is done)' comme montré dans l'exemple: Una vez firmado el acuerdo, iniciaron las obras.",
-    "hint": "Once the agreement was signed, they began the construction."
-  },
-  "q_gram_c1_10_038": {
-    "question": "Quel est le sens correct du mot 'al + infinitivo'?",
-    "correct": "upon (doing something)",
-    "wrong": [
-      "you all (informal, Spain only)",
-      "no matter how much",
-      "to burst into (doing something)"
-    ],
-    "explanation": "'al + infinitivo' signifie 'upon (doing something)' comme montré dans l'exemple: Al abrir la puerta, encontré una sorpresa.",
-    "hint": "Upon opening the door, I found a surprise."
-  },
-  "q_gram_c1_10_039": {
-    "question": "Quel est le sens correct du mot 'de tanto + infinitivo'?",
-    "correct": "from (doing something) so much",
-    "wrong": [
-      "I wish / if only",
-      "right now / in a moment (Latin America, esp. Mexico)",
-      "you all (informal, Spain only)"
-    ],
-    "explanation": "'de tanto + infinitivo' signifie 'from (doing something) so much' comme montré dans l'exemple: De tanto gritar, se quedó afónico.",
-    "hint": "From shouting so much, he lost his voice."
-  },
-  "q_gram_c1_10_040": {
-    "question": "Quel est le sens correct du mot 'aun + gerundio'?",
-    "correct": "even (while doing / despite doing)",
-    "wrong": [
-      "lest / in case",
-      "although / even though",
-      "clever (ser) / ready (estar)"
-    ],
-    "explanation": "'aun + gerundio' signifie 'even (while doing / despite doing)' comme montré dans l'exemple: Aun sabiendo la verdad, no dijo nada.",
-    "hint": "Even knowing the truth, he said nothing."
-  },
-  "q_gram_c1_11_041": {
-    "question": "Quel est le sens correct du mot 'ni siquiera'?",
-    "correct": "not even",
-    "wrong": [
-      "although / even though",
-      "even when / even if",
-      "to warn"
-    ],
-    "explanation": "'ni siquiera' signifie 'not even' comme montré dans l'exemple: Ni siquiera se molestó en responder.",
-    "hint": "He didn't even bother to reply."
-  },
-  "q_gram_c1_11_042": {
-    "question": "Quel est le sens correct du mot 'sumamente'?",
-    "correct": "extremely (formal)",
-    "wrong": [
-      "what a (emphatic/ironic exclamation)",
-      "upon (doing something)",
-      "lively (ser) / alive (estar)"
-    ],
-    "explanation": "'sumamente' signifie 'extremely (formal)' comme montré dans l'exemple: Es un asunto sumamente delicado.",
-    "hint": "It is an extremely delicate matter."
-  },
-  "q_gram_c1_11_043": {
-    "question": "Quel est le sens correct du mot 'menudo/a'?",
-    "correct": "what a (emphatic/ironic exclamation)",
-    "wrong": [
-      "unless",
-      "in case (that)",
-      "even when / even if"
-    ],
-    "explanation": "'menudo/a' signifie 'what a (emphatic/ironic exclamation)' comme montré dans l'exemple: ¡Menudo problema nos has causado!",
-    "hint": "What a problem you've caused us!"
-  },
-  "q_gram_c1_11_044": {
-    "question": "Quel est le sens correct du mot 'de ninguna manera'?",
-    "correct": "in no way / absolutely not",
-    "wrong": [
-      "upon (doing something)",
-      "had I known",
-      "perhaps"
-    ],
-    "explanation": "'de ninguna manera' signifie 'in no way / absolutely not' comme montré dans l'exemple: De ninguna manera aceptaré esas condiciones.",
-    "hint": "I will in no way accept those conditions."
-  },
-  "q_gram_c1_12_045": {
-    "question": "Quel est le sens correct du mot 'vos'?",
-    "correct": "you (informal, voseo regions)",
-    "wrong": [
-      "therefore / thus",
-      "hence / that is why (+ subjunctive)",
-      "thus / so"
-    ],
-    "explanation": "'vos' signifie 'you (informal, voseo regions)' comme montré dans l'exemple: ¿Vos querés ir al cine esta noche?",
-    "hint": "Do you want to go to the cinema tonight? (Argentine Spanish)"
-  },
-  "q_gram_c1_12_046": {
-    "question": "Quel est le sens correct du mot 'vosotros/as'?",
-    "correct": "you all (informal, Spain only)",
-    "wrong": [
-      "here (Latin American preference)",
-      "even (while doing / despite doing)",
-      "here (Latin American preference)"
-    ],
-    "explanation": "'vosotros/as' signifie 'you all (informal, Spain only)' comme montré dans l'exemple: ¿Vosotros venís a la fiesta mañana?",
-    "hint": "Are you all coming to the party tomorrow? (Peninsular Spanish)"
-  },
-  "q_gram_c1_12_047": {
-    "question": "Quel est le sens correct du mot 'acá'?",
-    "correct": "here (Latin American preference)",
-    "wrong": [
-      "provided that / as long as",
-      "the aforementioned / said",
-      "safe (ser) / sure (estar)"
-    ],
-    "explanation": "'acá' signifie 'here (Latin American preference)' comme montré dans l'exemple: Vení acá, que te quiero mostrar algo.",
-    "hint": "Come here, I want to show you something. (River Plate Spanish)"
-  },
-  "q_gram_c1_12_048": {
-    "question": "Quel est le sens correct du mot 'ahorita'?",
-    "correct": "right now / in a moment (Latin America, esp. Mexico)",
-    "wrong": [
-      "what a (emphatic/ironic exclamation)",
-      "had I known",
-      "to deny"
-    ],
-    "explanation": "'ahorita' signifie 'right now / in a moment (Latin America, esp. Mexico)' comme montré dans l'exemple: Ahorita te lo mando por correo.",
-    "hint": "I'll send it to you by email right now / in a moment."
-  },
-  "q_gram_c1_13_049": {
-    "question": "Quel est le sens correct du mot 'afirmar'?",
-    "correct": "to state / to affirm",
-    "wrong": [
-      "perhaps",
-      "so / therefore",
-      "although / even if"
-    ],
-    "explanation": "'afirmar' signifie 'to state / to affirm' comme montré dans l'exemple: El ministro afirmó que la economía estaba mejorando.",
-    "hint": "The minister stated that the economy was improving."
-  },
-  "q_gram_c1_13_050": {
-    "question": "Quel est le sens correct du mot 'negar'?",
-    "correct": "to deny",
-    "wrong": [
-      "from (doing something) so much",
-      "next / below",
-      "what a (emphatic/ironic exclamation)"
-    ],
-    "explanation": "'negar' signifie 'to deny' comme montré dans l'exemple: Negó que hubiera participado en el fraude.",
-    "hint": "He denied having participated in the fraud."
-  },
-  "q_gram_c1_13_051": {
-    "question": "Quel est le sens correct du mot 'advertir'?",
-    "correct": "to warn",
-    "wrong": [
-      "in case (that)",
-      "so / therefore",
-      "I would like (literary conditional)"
-    ],
-    "explanation": "'advertir' signifie 'to warn' comme montré dans l'exemple: Nos advirtió de que no saliéramos solos de noche.",
-    "hint": "She warned us not to go out alone at night."
-  },
-  "q_gram_c1_13_052": {
-    "question": "Quel est le sens correct du mot 'reprochar'?",
-    "correct": "to reproach",
-    "wrong": [
-      "hence / that is why (+ subjunctive)",
-      "in no way / absolutely not",
-      "to deny"
-    ],
-    "explanation": "'reprochar' signifie 'to reproach' comme montré dans l'exemple: Le reprochó que no le hubiera avisado antes.",
-    "hint": "She reproached him for not having warned her earlier."
-  },
-  "q_gram_c1_14_053": {
-    "question": "Quel est le sens correct du mot 'dicho/a'?",
-    "correct": "the aforementioned / said",
-    "wrong": [
-      "to call back",
-      "it is worth noting that",
-      "from (doing something) so much"
-    ],
-    "explanation": "'dicho/a' signifie 'the aforementioned / said' comme montré dans l'exemple: Se aprobó la nueva ley. Dicha ley entrará en vigor en enero.",
-    "hint": "The new law was passed. Said law will come into effect in January."
-  },
-  "q_gram_c1_14_054": {
-    "question": "Quel est le sens correct du mot 'este último'?",
-    "correct": "the latter",
-    "wrong": [
-      "it is worth noting that",
-      "although / even if",
-      "next / below"
-    ],
-    "explanation": "'este último' signifie 'the latter' comme montré dans l'exemple: Compararon a Messi y a Maradona. Este último fue más polémico.",
-    "hint": "They compared Messi and Maradona. The latter was more controversial."
-  },
-  "q_gram_c1_14_055": {
-    "question": "Quel est le sens correct du mot 'a continuación'?",
-    "correct": "next / below",
-    "wrong": [
-      "I wish / if only",
-      "barely / as soon as",
-      "extremely (formal)"
-    ],
-    "explanation": "'a continuación' signifie 'next / below' comme montré dans l'exemple: A continuación, se presentan los resultados del estudio.",
-    "hint": "Next, the results of the study are presented."
-  },
-  "q_gram_c1_14_056": {
-    "question": "Quel est le sens correct du mot 'así pues'?",
-    "correct": "therefore / thus",
-    "wrong": [
-      "to call back",
-      "no matter how much",
-      "were to be (future subjunctive)"
-    ],
-    "explanation": "'así pues' signifie 'therefore / thus' comme montré dans l'exemple: No había pruebas suficientes. Así pues, el caso fue archivado.",
-    "hint": "There was not enough evidence. Therefore, the case was filed away."
-  },
-  "q_gram_c1_15_057": {
-    "question": "Quel est le sens correct du mot 'tener sentido'?",
-    "correct": "to make sense",
-    "wrong": [
-      "to state / to affirm",
-      "having said this",
-      "I wish / if only"
-    ],
-    "explanation": "'tener sentido' signifie 'to make sense' comme montré dans l'exemple: Lo que dices no tiene sentido.",
-    "hint": "What you're saying doesn't make sense."
-  },
-  "q_gram_c1_15_058": {
-    "question": "Quel est le sens correct du mot 'darse cuenta de'?",
-    "correct": "to realize",
-    "wrong": [
-      "to burst into (doing something)",
-      "not even",
-      "although / even though"
-    ],
-    "explanation": "'darse cuenta de' signifie 'to realize' comme montré dans l'exemple: No me di cuenta de que estabas ahí.",
-    "hint": "I didn't realize you were there."
-  },
-  "q_gram_c1_15_059": {
-    "question": "Quel est le sens correct du mot 'tener lugar'?",
-    "correct": "to take place",
-    "wrong": [
-      "although / even though",
-      "therefore / thus",
-      "you all (informal, Spain only)"
-    ],
-    "explanation": "'tener lugar' signifie 'to take place' comme montré dans l'exemple: La ceremonia tendrá lugar en el auditorio.",
-    "hint": "The ceremony will take place in the auditorium."
-  },
-  "q_gram_c1_15_060": {
-    "question": "Quel est le sens correct du mot 'devolver la llamada'?",
-    "correct": "to call back",
-    "wrong": [
-      "although / even though",
-      "upon (doing something)",
-      "to reproach"
-    ],
-    "explanation": "'devolver la llamada' signifie 'to call back' comme montré dans l'exemple: Estaba ocupado, pero prometo devolverte la llamada.",
-    "hint": "I was busy, but I promise to call you back."
-  },
-  "q_gram_c1_01_061": {
-    "question": "Quel mot est associé à 'La Syntaxe Avancée du Subjonctif'?\nChoix: ojalá, aunque, a pesar de que",
-    "correct": "a pesar de que",
-    "wrong": [
-      "ojalá",
-      "aunque"
-    ],
-    "explanation": "Vocabulaire du chapitre 'La Syntaxe Avancée du Subjonctif'",
-    "hint": "C'est un mot du thème: La Syntaxe Avancée du Subjonctif"
-  },
-  "q_gram_c1_02_062": {
-    "question": "Quel mot est associé à 'Les Modalités Linguistiques Complexes'?\nChoix: apenas, quisiera, fuere",
-    "correct": "apenas",
-    "wrong": [
-      "quisiera",
-      "fuere"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Modalités Linguistiques Complexes'",
-    "hint": "C'est un mot du thème: Les Modalités Linguistiques Complexes"
-  },
-  "q_gram_c1_03_063": {
-    "question": "Quel mot est associé à 'Les Structures de Topicalisation'?\nChoix: de haberlo sabido, a menos que, siempre y cuando",
-    "correct": "en caso de que",
-    "wrong": [
-      "de haberlo sabido",
-      "a menos que",
-      "siempre y cuando"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Structures de Topicalisation'",
-    "hint": "C'est un mot du thème: Les Structures de Topicalisation"
-  },
-  "q_gram_c1_04_064": {
-    "question": "Quel mot est associé à 'La Prédication Secondaire'?\nChoix: no obstante, de ahí que, cabe destacar que",
-    "correct": "no obstante",
-    "wrong": [
-      "de ahí que",
-      "cabe destacar que"
-    ],
-    "explanation": "Vocabulaire du chapitre 'La Prédication Secondaire'",
-    "hint": "C'est un mot du thème: La Prédication Secondaire"
-  },
-  "q_gram_c1_05_065": {
-    "question": "Quel mot est associé à 'Les Constructions Thématiques'?\nChoix: solicitar, fallecer, a la mayor brevedad",
-    "correct": "a la mayor brevedad",
-    "wrong": [
-      "solicitar",
-      "fallecer"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Constructions Thématiques'",
-    "hint": "C'est un mot du thème: Les Constructions Thématiques"
-  },
-  "q_gram_c1_06_066": {
-    "question": "Quel mot est associé à 'L'Inversion Syntaxique Complexe'?\nChoix: romper a + infinitivo, venir a + infinitivo, andar + gerundio",
-    "correct": "dar por + participio",
-    "wrong": [
-      "romper a + infinitivo",
-      "venir a + infinitivo",
-      "andar + gerundio"
-    ],
-    "explanation": "Vocabulaire du chapitre 'L'Inversion Syntaxique Complexe'",
-    "hint": "C'est un mot du thème: L'Inversion Syntaxique Complexe"
-  },
-  "q_gram_c1_07_067": {
-    "question": "Quel mot est associé à 'Les Propositions Participiales Avancées'?\nChoix: listo/a, vivo/a, rico/a",
-    "correct": "seguro/a",
-    "wrong": [
-      "listo/a",
-      "vivo/a",
-      "rico/a"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Propositions Participiales Avancées'",
-    "hint": "C'est un mot du thème: Les Propositions Participiales Avancées"
-  },
-  "q_gram_c1_08_068": {
-    "question": "Quel mot est associé à 'La Référence et la Coréférence'?\nChoix: dicho esto, así, quizá(s)",
-    "correct": "quizá(s)",
-    "wrong": [
-      "dicho esto",
-      "así"
-    ],
-    "explanation": "Vocabulaire du chapitre 'La Référence et la Coréférence'",
-    "hint": "C'est un mot du thème: La Référence et la Coréférence"
-  },
-  "q_gram_c1_09_069": {
-    "question": "Quel mot est associé à 'Les Structures d'Élision'?\nChoix: a fin de que, no sea que, aun cuando",
-    "correct": "no sea que",
-    "wrong": [
-      "a fin de que",
-      "aun cuando"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Structures d'Élision'",
-    "hint": "C'est un mot du thème: Les Structures d'Élision"
-  },
-  "q_gram_c1_10_070": {
-    "question": "Quel mot est associé à 'La Récursivité Syntaxique'?\nChoix: una vez + participio, al + infinitivo, de tanto + infinitivo",
-    "correct": "aun + gerundio",
-    "wrong": [
-      "una vez + participio",
-      "al + infinitivo",
-      "de tanto + infinitivo"
-    ],
-    "explanation": "Vocabulaire du chapitre 'La Récursivité Syntaxique'",
-    "hint": "C'est un mot du thème: La Récursivité Syntaxique"
-  },
-  "q_gram_c1_11_071": {
-    "question": "Quel mot est associé à 'Les Marqueurs Discursifs Sophistiqués'?\nChoix: ni siquiera, sumamente, menudo/a",
-    "correct": "sumamente",
-    "wrong": [
-      "ni siquiera",
-      "menudo/a"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Marqueurs Discursifs Sophistiqués'",
-    "hint": "C'est un mot du thème: Les Marqueurs Discursifs Sophistiqués"
-  },
-  "q_gram_c1_12_072": {
-    "question": "Quel mot est associé à 'L'Accord et l'Attraction'?\nChoix: vos, vosotros/as, acá",
-    "correct": "vos",
-    "wrong": [
-      "vosotros/as",
-      "acá"
-    ],
-    "explanation": "Vocabulaire du chapitre 'L'Accord et l'Attraction'",
-    "hint": "C'est un mot du thème: L'Accord et l'Attraction"
-  },
-  "q_gram_c1_13_073": {
-    "question": "Quel mot est associé à 'Les Constructions Obliques'?\nChoix: afirmar, negar, advertir",
-    "correct": "negar",
-    "wrong": [
-      "afirmar",
-      "advertir"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Constructions Obliques'",
-    "hint": "C'est un mot du thème: Les Constructions Obliques"
-  },
-  "q_gram_c1_14_074": {
-    "question": "Quel mot est associé à 'La Frontalisation et l'Extraposition'?\nChoix: dicho/a, este último, a continuación",
-    "correct": "este último",
-    "wrong": [
-      "dicho/a",
-      "a continuación"
-    ],
-    "explanation": "Vocabulaire du chapitre 'La Frontalisation et l'Extraposition'",
-    "hint": "C'est un mot du thème: La Frontalisation et l'Extraposition"
-  },
-  "q_gram_c1_15_075": {
-    "question": "Quel mot est associé à 'Les Structures Disloquées'?\nChoix: tener sentido, darse cuenta de, tener lugar",
-    "correct": "devolver la llamada",
-    "wrong": [
-      "tener sentido",
-      "darse cuenta de",
-      "tener lugar"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Structures Disloquées'",
-    "hint": "C'est un mot du thème: Les Structures Disloquées"
-  },
-  "q_gram_c1_16_076": {
-    "question": "Quel mot est associé à 'La Syntaxe Avancée du Subjonctif'?\nChoix: ojalá, aunque, a pesar de que",
-    "correct": "aunque",
-    "wrong": [
-      "ojalá",
-      "a pesar de que"
-    ],
-    "explanation": "Vocabulaire du chapitre 'La Syntaxe Avancée du Subjonctif'",
-    "hint": "C'est un mot du thème: La Syntaxe Avancée du Subjonctif"
-  },
-  "q_gram_c1_17_077": {
-    "question": "Quel mot est associé à 'Les Modalités Linguistiques Complexes'?\nChoix: apenas, quisiera, fuere",
-    "correct": "apenas",
-    "wrong": [
-      "quisiera",
-      "fuere"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Modalités Linguistiques Complexes'",
-    "hint": "C'est un mot du thème: Les Modalités Linguistiques Complexes"
-  },
-  "q_gram_c1_18_078": {
-    "question": "Quel mot est associé à 'Les Structures de Topicalisation'?\nChoix: de haberlo sabido, a menos que, siempre y cuando",
-    "correct": "de haberlo sabido",
-    "wrong": [
-      "a menos que",
-      "siempre y cuando"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Structures de Topicalisation'",
-    "hint": "C'est un mot du thème: Les Structures de Topicalisation"
-  },
-  "q_gram_c1_19_079": {
-    "question": "Quel mot est associé à 'La Prédication Secondaire'?\nChoix: no obstante, de ahí que, cabe destacar que",
-    "correct": "si bien",
-    "wrong": [
-      "no obstante",
-      "de ahí que",
-      "cabe destacar que"
-    ],
-    "explanation": "Vocabulaire du chapitre 'La Prédication Secondaire'",
-    "hint": "C'est un mot du thème: La Prédication Secondaire"
-  },
-  "q_gram_c1_20_080": {
-    "question": "Quel mot est associé à 'Les Constructions Thématiques'?\nChoix: solicitar, fallecer, a la mayor brevedad",
-    "correct": "poner de manifiesto",
-    "wrong": [
-      "solicitar",
-      "fallecer",
-      "a la mayor brevedad"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Constructions Thématiques'",
-    "hint": "C'est un mot du thème: Les Constructions Thématiques"
-  },
-  "q_gram_c1_01_081": {
-    "question": "Quel mot est associé à 'L'Inversion Syntaxique Complexe'?\nChoix: romper a + infinitivo, venir a + infinitivo, andar + gerundio",
-    "correct": "dar por + participio",
-    "wrong": [
-      "romper a + infinitivo",
-      "venir a + infinitivo",
-      "andar + gerundio"
-    ],
-    "explanation": "Vocabulaire du chapitre 'L'Inversion Syntaxique Complexe'",
-    "hint": "C'est un mot du thème: L'Inversion Syntaxique Complexe"
-  },
-  "q_gram_c1_02_082": {
-    "question": "Quel mot est associé à 'Les Propositions Participiales Avancées'?\nChoix: listo/a, vivo/a, rico/a",
-    "correct": "vivo/a",
-    "wrong": [
-      "listo/a",
-      "rico/a"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Propositions Participiales Avancées'",
-    "hint": "C'est un mot du thème: Les Propositions Participiales Avancées"
-  },
-  "q_gram_c1_03_083": {
-    "question": "Quel mot est associé à 'La Référence et la Coréférence'?\nChoix: dicho esto, así, quizá(s)",
-    "correct": "así",
-    "wrong": [
-      "dicho esto",
-      "quizá(s)"
-    ],
-    "explanation": "Vocabulaire du chapitre 'La Référence et la Coréférence'",
-    "hint": "C'est un mot du thème: La Référence et la Coréférence"
-  },
-  "q_gram_c1_04_084": {
-    "question": "Quel mot est associé à 'Les Structures d'Élision'?\nChoix: a fin de que, no sea que, aun cuando",
-    "correct": "no sea que",
-    "wrong": [
-      "a fin de que",
-      "aun cuando"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Structures d'Élision'",
-    "hint": "C'est un mot du thème: Les Structures d'Élision"
-  },
-  "q_gram_c1_05_085": {
-    "question": "Quel mot est associé à 'La Récursivité Syntaxique'?\nChoix: una vez + participio, al + infinitivo, de tanto + infinitivo",
-    "correct": "al + infinitivo",
-    "wrong": [
-      "una vez + participio",
-      "de tanto + infinitivo"
-    ],
-    "explanation": "Vocabulaire du chapitre 'La Récursivité Syntaxique'",
-    "hint": "C'est un mot du thème: La Récursivité Syntaxique"
-  },
-  "q_gram_c1_06_086": {
-    "question": "Quel mot est associé à 'Les Marqueurs Discursifs Sophistiqués'?\nChoix: ni siquiera, sumamente, menudo/a",
-    "correct": "sumamente",
-    "wrong": [
-      "ni siquiera",
-      "menudo/a"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Marqueurs Discursifs Sophistiqués'",
-    "hint": "C'est un mot du thème: Les Marqueurs Discursifs Sophistiqués"
-  },
-  "q_gram_c1_07_087": {
-    "question": "Quel mot est associé à 'L'Accord et l'Attraction'?\nChoix: vos, vosotros/as, acá",
-    "correct": "vosotros/as",
-    "wrong": [
-      "vos",
-      "acá"
-    ],
-    "explanation": "Vocabulaire du chapitre 'L'Accord et l'Attraction'",
-    "hint": "C'est un mot du thème: L'Accord et l'Attraction"
-  },
-  "q_gram_c1_08_088": {
-    "question": "Quel mot est associé à 'Les Constructions Obliques'?\nChoix: afirmar, negar, advertir",
-    "correct": "negar",
-    "wrong": [
-      "afirmar",
-      "advertir"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Constructions Obliques'",
-    "hint": "C'est un mot du thème: Les Constructions Obliques"
-  },
-  "q_gram_c1_09_089": {
-    "question": "Quel mot est associé à 'La Frontalisation et l'Extraposition'?\nChoix: dicho/a, este último, a continuación",
-    "correct": "este último",
-    "wrong": [
-      "dicho/a",
-      "a continuación"
-    ],
-    "explanation": "Vocabulaire du chapitre 'La Frontalisation et l'Extraposition'",
-    "hint": "C'est un mot du thème: La Frontalisation et l'Extraposition"
-  },
-  "q_gram_c1_10_090": {
-    "question": "Quel mot est associé à 'Les Structures Disloquées'?\nChoix: tener sentido, darse cuenta de, tener lugar",
-    "correct": "devolver la llamada",
-    "wrong": [
-      "tener sentido",
-      "darse cuenta de",
-      "tener lugar"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Structures Disloquées'",
-    "hint": "C'est un mot du thème: Les Structures Disloquées"
-  },
-  "q_gram_c1_11_091": {
-    "question": "Quel mot est associé à 'La Syntaxe Avancée du Subjonctif'?\nChoix: ojalá, aunque, a pesar de que",
-    "correct": "por mucho que",
-    "wrong": [
-      "ojalá",
-      "aunque",
-      "a pesar de que"
-    ],
-    "explanation": "Vocabulaire du chapitre 'La Syntaxe Avancée du Subjonctif'",
-    "hint": "C'est un mot du thème: La Syntaxe Avancée du Subjonctif"
-  },
-  "q_gram_c1_12_092": {
-    "question": "Quel mot est associé à 'Les Modalités Linguistiques Complexes'?\nChoix: apenas, quisiera, fuere",
-    "correct": "fuere",
-    "wrong": [
-      "apenas",
-      "quisiera"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Modalités Linguistiques Complexes'",
-    "hint": "C'est un mot du thème: Les Modalités Linguistiques Complexes"
-  },
-  "q_gram_c1_13_093": {
-    "question": "Quel mot est associé à 'Les Structures de Topicalisation'?\nChoix: de haberlo sabido, a menos que, siempre y cuando",
-    "correct": "de haberlo sabido",
-    "wrong": [
-      "a menos que",
-      "siempre y cuando"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Structures de Topicalisation'",
-    "hint": "C'est un mot du thème: Les Structures de Topicalisation"
-  },
-  "q_gram_c1_14_094": {
-    "question": "Quel mot est associé à 'La Prédication Secondaire'?\nChoix: no obstante, de ahí que, cabe destacar que",
-    "correct": "de ahí que",
-    "wrong": [
-      "no obstante",
-      "cabe destacar que"
-    ],
-    "explanation": "Vocabulaire du chapitre 'La Prédication Secondaire'",
-    "hint": "C'est un mot du thème: La Prédication Secondaire"
-  },
-  "q_gram_c1_15_095": {
-    "question": "Quel mot est associé à 'Les Constructions Thématiques'?\nChoix: solicitar, fallecer, a la mayor brevedad",
-    "correct": "poner de manifiesto",
-    "wrong": [
-      "solicitar",
-      "fallecer",
-      "a la mayor brevedad"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Constructions Thématiques'",
-    "hint": "C'est un mot du thème: Les Constructions Thématiques"
-  },
-  "q_gram_c1_16_096": {
-    "question": "Quel mot est associé à 'L'Inversion Syntaxique Complexe'?\nChoix: romper a + infinitivo, venir a + infinitivo, andar + gerundio",
-    "correct": "andar + gerundio",
-    "wrong": [
-      "romper a + infinitivo",
-      "venir a + infinitivo"
-    ],
-    "explanation": "Vocabulaire du chapitre 'L'Inversion Syntaxique Complexe'",
-    "hint": "C'est un mot du thème: L'Inversion Syntaxique Complexe"
-  },
-  "q_gram_c1_17_097": {
-    "question": "Quel mot est associé à 'Les Propositions Participiales Avancées'?\nChoix: listo/a, vivo/a, rico/a",
-    "correct": "vivo/a",
-    "wrong": [
-      "listo/a",
-      "rico/a"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Propositions Participiales Avancées'",
-    "hint": "C'est un mot du thème: Les Propositions Participiales Avancées"
-  },
-  "q_gram_c1_18_098": {
-    "question": "Quel mot est associé à 'La Référence et la Coréférence'?\nChoix: dicho esto, así, quizá(s)",
-    "correct": "así",
-    "wrong": [
-      "dicho esto",
-      "quizá(s)"
-    ],
-    "explanation": "Vocabulaire du chapitre 'La Référence et la Coréférence'",
-    "hint": "C'est un mot du thème: La Référence et la Coréférence"
-  },
-  "q_gram_c1_19_099": {
-    "question": "Quel mot est associé à 'Les Structures d'Élision'?\nChoix: a fin de que, no sea que, aun cuando",
-    "correct": "a fin de que",
-    "wrong": [
-      "no sea que",
-      "aun cuando"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Structures d'Élision'",
-    "hint": "C'est un mot du thème: Les Structures d'Élision"
-  },
-  "q_gram_c1_20_100": {
-    "question": "Quel mot est associé à 'La Récursivité Syntaxique'?\nChoix: una vez + participio, al + infinitivo, de tanto + infinitivo",
-    "correct": "una vez + participio",
-    "wrong": [
-      "al + infinitivo",
-      "de tanto + infinitivo"
-    ],
-    "explanation": "Vocabulaire du chapitre 'La Récursivité Syntaxique'",
-    "hint": "C'est un mot du thème: La Récursivité Syntaxique"
-  },
-  "q_gram_c1_01_101": {
-    "question": "Quel mot est associé à 'Les Marqueurs Discursifs Sophistiqués'?\nChoix: ni siquiera, sumamente, menudo/a",
-    "correct": "menudo/a",
-    "wrong": [
-      "ni siquiera",
-      "sumamente"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Marqueurs Discursifs Sophistiqués'",
-    "hint": "C'est un mot du thème: Les Marqueurs Discursifs Sophistiqués"
-  },
-  "q_gram_c1_02_102": {
-    "question": "Quel mot est associé à 'L'Accord et l'Attraction'?\nChoix: vos, vosotros/as, acá",
-    "correct": "acá",
-    "wrong": [
-      "vos",
-      "vosotros/as"
-    ],
-    "explanation": "Vocabulaire du chapitre 'L'Accord et l'Attraction'",
-    "hint": "C'est un mot du thème: L'Accord et l'Attraction"
-  },
-  "q_gram_c1_03_103": {
-    "question": "Quel mot est associé à 'Les Constructions Obliques'?\nChoix: afirmar, negar, advertir",
-    "correct": "advertir",
-    "wrong": [
-      "afirmar",
-      "negar"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Constructions Obliques'",
-    "hint": "C'est un mot du thème: Les Constructions Obliques"
-  },
-  "q_gram_c1_04_104": {
-    "question": "Quel mot est associé à 'La Frontalisation et l'Extraposition'?\nChoix: dicho/a, este último, a continuación",
-    "correct": "así pues",
-    "wrong": [
-      "dicho/a",
-      "este último",
-      "a continuación"
-    ],
-    "explanation": "Vocabulaire du chapitre 'La Frontalisation et l'Extraposition'",
-    "hint": "C'est un mot du thème: La Frontalisation et l'Extraposition"
-  },
-  "q_gram_c1_05_105": {
-    "question": "Quel mot est associé à 'Les Structures Disloquées'?\nChoix: tener sentido, darse cuenta de, tener lugar",
-    "correct": "darse cuenta de",
-    "wrong": [
-      "tener sentido",
-      "tener lugar"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Structures Disloquées'",
-    "hint": "C'est un mot du thème: Les Structures Disloquées"
-  },
-  "q_gram_c1_06_106": {
-    "question": "Quel mot est associé à 'La Syntaxe Avancée du Subjonctif'?\nChoix: ojalá, aunque, a pesar de que",
-    "correct": "ojalá",
-    "wrong": [
-      "aunque",
-      "a pesar de que"
-    ],
-    "explanation": "Vocabulaire du chapitre 'La Syntaxe Avancée du Subjonctif'",
-    "hint": "C'est un mot du thème: La Syntaxe Avancée du Subjonctif"
-  },
-  "q_gram_c1_07_107": {
-    "question": "Quel mot est associé à 'Les Modalités Linguistiques Complexes'?\nChoix: apenas, quisiera, fuere",
-    "correct": "hubiere",
-    "wrong": [
-      "apenas",
-      "quisiera",
-      "fuere"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Modalités Linguistiques Complexes'",
-    "hint": "C'est un mot du thème: Les Modalités Linguistiques Complexes"
-  },
-  "q_gram_c1_08_108": {
-    "question": "Quel mot est associé à 'Les Structures de Topicalisation'?\nChoix: de haberlo sabido, a menos que, siempre y cuando",
-    "correct": "de haberlo sabido",
-    "wrong": [
-      "a menos que",
-      "siempre y cuando"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Structures de Topicalisation'",
-    "hint": "C'est un mot du thème: Les Structures de Topicalisation"
-  },
-  "q_gram_c1_09_109": {
-    "question": "Quel mot est associé à 'La Prédication Secondaire'?\nChoix: no obstante, de ahí que, cabe destacar que",
-    "correct": "de ahí que",
-    "wrong": [
-      "no obstante",
-      "cabe destacar que"
-    ],
-    "explanation": "Vocabulaire du chapitre 'La Prédication Secondaire'",
-    "hint": "C'est un mot du thème: La Prédication Secondaire"
-  },
-  "q_gram_c1_10_110": {
-    "question": "Quel mot est associé à 'Les Constructions Thématiques'?\nChoix: solicitar, fallecer, a la mayor brevedad",
-    "correct": "a la mayor brevedad",
-    "wrong": [
-      "solicitar",
-      "fallecer"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Constructions Thématiques'",
-    "hint": "C'est un mot du thème: Les Constructions Thématiques"
-  },
-  "q_gram_c1_11_111": {
-    "question": "Quel mot est associé à 'L'Inversion Syntaxique Complexe'?\nChoix: romper a + infinitivo, venir a + infinitivo, andar + gerundio",
-    "correct": "venir a + infinitivo",
-    "wrong": [
-      "romper a + infinitivo",
-      "andar + gerundio"
-    ],
-    "explanation": "Vocabulaire du chapitre 'L'Inversion Syntaxique Complexe'",
-    "hint": "C'est un mot du thème: L'Inversion Syntaxique Complexe"
-  },
-  "q_gram_c1_12_112": {
-    "question": "Quel mot est associé à 'Les Propositions Participiales Avancées'?\nChoix: listo/a, vivo/a, rico/a",
-    "correct": "seguro/a",
-    "wrong": [
-      "listo/a",
-      "vivo/a",
-      "rico/a"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Propositions Participiales Avancées'",
-    "hint": "C'est un mot du thème: Les Propositions Participiales Avancées"
-  },
-  "q_gram_c1_13_113": {
-    "question": "Quel mot est associé à 'La Référence et la Coréférence'?\nChoix: dicho esto, así, quizá(s)",
-    "correct": "así",
-    "wrong": [
-      "dicho esto",
-      "quizá(s)"
-    ],
-    "explanation": "Vocabulaire du chapitre 'La Référence et la Coréférence'",
-    "hint": "C'est un mot du thème: La Référence et la Coréférence"
-  },
-  "q_gram_c1_14_114": {
-    "question": "Quel mot est associé à 'Les Structures d'Élision'?\nChoix: a fin de que, no sea que, aun cuando",
-    "correct": "no sea que",
-    "wrong": [
-      "a fin de que",
-      "aun cuando"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Structures d'Élision'",
-    "hint": "C'est un mot du thème: Les Structures d'Élision"
-  },
-  "q_gram_c1_15_115": {
-    "question": "Quel mot est associé à 'La Récursivité Syntaxique'?\nChoix: una vez + participio, al + infinitivo, de tanto + infinitivo",
-    "correct": "al + infinitivo",
-    "wrong": [
-      "una vez + participio",
-      "de tanto + infinitivo"
-    ],
-    "explanation": "Vocabulaire du chapitre 'La Récursivité Syntaxique'",
-    "hint": "C'est un mot du thème: La Récursivité Syntaxique"
-  },
-  "q_gram_c1_16_116": {
-    "question": "Quel mot est associé à 'Les Marqueurs Discursifs Sophistiqués'?\nChoix: ni siquiera, sumamente, menudo/a",
-    "correct": "sumamente",
-    "wrong": [
-      "ni siquiera",
-      "menudo/a"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Marqueurs Discursifs Sophistiqués'",
-    "hint": "C'est un mot du thème: Les Marqueurs Discursifs Sophistiqués"
-  },
-  "q_gram_c1_17_117": {
-    "question": "Quel mot est associé à 'L'Accord et l'Attraction'?\nChoix: vos, vosotros/as, acá",
-    "correct": "vosotros/as",
-    "wrong": [
-      "vos",
-      "acá"
-    ],
-    "explanation": "Vocabulaire du chapitre 'L'Accord et l'Attraction'",
-    "hint": "C'est un mot du thème: L'Accord et l'Attraction"
-  },
-  "q_gram_c1_18_118": {
-    "question": "Quel mot est associé à 'Les Constructions Obliques'?\nChoix: afirmar, negar, advertir",
-    "correct": "negar",
-    "wrong": [
-      "afirmar",
-      "advertir"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Constructions Obliques'",
-    "hint": "C'est un mot du thème: Les Constructions Obliques"
-  },
-  "q_gram_c1_19_119": {
-    "question": "Quel mot est associé à 'La Frontalisation et l'Extraposition'?\nChoix: dicho/a, este último, a continuación",
-    "correct": "dicho/a",
-    "wrong": [
-      "este último",
-      "a continuación"
-    ],
-    "explanation": "Vocabulaire du chapitre 'La Frontalisation et l'Extraposition'",
-    "hint": "C'est un mot du thème: La Frontalisation et l'Extraposition"
-  },
-  "q_gram_c1_20_120": {
-    "question": "Quel mot est associé à 'Les Structures Disloquées'?\nChoix: tener sentido, darse cuenta de, tener lugar",
-    "correct": "tener sentido",
-    "wrong": [
-      "darse cuenta de",
-      "tener lugar"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Structures Disloquées'",
-    "hint": "C'est un mot du thème: Les Structures Disloquées"
-  },
-  "q_gram_c1_01_121": {
-    "question": "Quel mot est associé à 'La Syntaxe Avancée du Subjonctif'?\nChoix: ojalá, aunque, a pesar de que",
-    "correct": "por mucho que",
-    "wrong": [
-      "ojalá",
-      "aunque",
-      "a pesar de que"
-    ],
-    "explanation": "Vocabulaire du chapitre 'La Syntaxe Avancée du Subjonctif'",
-    "hint": "C'est un mot du thème: La Syntaxe Avancée du Subjonctif"
-  },
-  "q_gram_c1_02_122": {
-    "question": "Quel mot est associé à 'Les Modalités Linguistiques Complexes'?\nChoix: apenas, quisiera, fuere",
-    "correct": "hubiere",
-    "wrong": [
-      "apenas",
-      "quisiera",
-      "fuere"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Modalités Linguistiques Complexes'",
-    "hint": "C'est un mot du thème: Les Modalités Linguistiques Complexes"
-  },
-  "q_gram_c1_03_123": {
-    "question": "Quel mot est associé à 'Les Structures de Topicalisation'?\nChoix: de haberlo sabido, a menos que, siempre y cuando",
-    "correct": "a menos que",
-    "wrong": [
-      "de haberlo sabido",
-      "siempre y cuando"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Structures de Topicalisation'",
-    "hint": "C'est un mot du thème: Les Structures de Topicalisation"
-  },
-  "q_gram_c1_04_124": {
-    "question": "Quel mot est associé à 'La Prédication Secondaire'?\nChoix: no obstante, de ahí que, cabe destacar que",
-    "correct": "de ahí que",
-    "wrong": [
-      "no obstante",
-      "cabe destacar que"
-    ],
-    "explanation": "Vocabulaire du chapitre 'La Prédication Secondaire'",
-    "hint": "C'est un mot du thème: La Prédication Secondaire"
-  },
-  "q_gram_c1_05_125": {
-    "question": "Quel mot est associé à 'Les Constructions Thématiques'?\nChoix: solicitar, fallecer, a la mayor brevedad",
-    "correct": "fallecer",
-    "wrong": [
-      "solicitar",
-      "a la mayor brevedad"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Constructions Thématiques'",
-    "hint": "C'est un mot du thème: Les Constructions Thématiques"
-  },
-  "q_gram_c1_06_126": {
-    "question": "Quel mot est associé à 'L'Inversion Syntaxique Complexe'?\nChoix: romper a + infinitivo, venir a + infinitivo, andar + gerundio",
-    "correct": "dar por + participio",
-    "wrong": [
-      "romper a + infinitivo",
-      "venir a + infinitivo",
-      "andar + gerundio"
-    ],
-    "explanation": "Vocabulaire du chapitre 'L'Inversion Syntaxique Complexe'",
-    "hint": "C'est un mot du thème: L'Inversion Syntaxique Complexe"
-  },
-  "q_gram_c1_07_127": {
-    "question": "Quel mot est associé à 'Les Propositions Participiales Avancées'?\nChoix: listo/a, vivo/a, rico/a",
-    "correct": "seguro/a",
-    "wrong": [
-      "listo/a",
-      "vivo/a",
-      "rico/a"
-    ],
-    "explanation": "Vocabulaire du chapitre 'Les Propositions Participiales Avancées'",
-    "hint": "C'est un mot du thème: Les Propositions Participiales Avancées"
-  },
-  "q_gram_c1_08_128": {
-    "question": "Quel mot est associé à 'La Référence et la Coréférence'?\nChoix: dicho esto, así, quizá(s)",
+  "q_gram_c1_04_001": {
+    "question": "El orador señaló, ___, que la reforma era imprescindible. (dicho esto → formel discourse marker, participe présent de decir + esto)",
     "correct": "dicho esto",
     "wrong": [
-      "así",
-      "quizá(s)"
+      "diciendo esto",
+      "esto dicho",
+      "al decir esto"
     ],
-    "explanation": "Vocabulaire du chapitre 'La Référence et la Coréférence'",
-    "hint": "C'est un mot du thème: La Référence et la Coréférence"
+    "explanation": "'Dicho esto' (Cela said/having said Ce) est a discourse marker using an absolute participe construction. Il functions as a transitional phrase dans formel speech et writing, linking a précédent point à a nouveau assertion.",
+    "conjugation_info": "decir (past participle): dicho — used in absolute participle constructions: dicho esto, dicho lo cual, dicho de otro modo"
   },
-  "q_gram_c1_09_129": {
-    "question": "Quel mot est associé à 'Les Structures d'Élision'?\nChoix: a fin de que, no sea que, aun cuando",
+  "q_gram_c1_04_002": {
+    "question": "___, las cifras demuestran que la economía se está recuperando. (en cualquier caso)",
+    "correct": "En cualquier caso",
+    "wrong": [
+      "En todo caso",
+      "De cualquier forma",
+      "Sea como sea"
+    ],
+    "explanation": "'En cualquier caso' (dans n'importe quel case) est a formel discourse marker used à introduce a conclusion Cela holds regardless de Le/La preceding arguments. Pendant que 'en todo caso' et 'de cualquier forma' sont similar, 'en cualquier caso' est Le/La la plupart formel register option."
+  },
+  "q_gram_c1_04_003": {
+    "question": "No hemos recibido respuesta; ___, debemos seguir adelante con el proyecto. (no obstante)",
+    "correct": "no obstante",
+    "wrong": [
+      "sin embargo",
+      "a pesar de ello",
+      "con todo"
+    ],
+    "explanation": "'No obstante' (notwithstanding/nevertheless) est a formel adversative connector Cela introduces a contrasting idea. Il est souvent used dans written et academic Espagnol, et son placement après Le/La semicolon est typical de formel prose."
+  },
+  "q_gram_c1_04_004": {
+    "question": "Quel est Le/La difference between 'por consiguiente' et 'en resumidas cuentas' as discourse markers?",
+    "correct": "'Por consiguiente' introduces a logical consequence, while 'en resumidas cuentas' introduces a summary or conclusion of everything discussed",
+    "wrong": [
+      "Both are interchangeable and express the same logical relationship",
+      "'Por consiguiente' is informal while 'en resumidas cuentas' is formal",
+      "'Por consiguiente' introduces a contrast while 'en resumidas cuentas' introduces a cause"
+    ],
+    "explanation": "'Por consiguiente' (consequently/donc) establishes a cause-effect relationship, pendant que 'en resumidas cuentas' (dans short/tous things considered) synthesizes multiple points into a final assessment. Ils serve different textual functions: logical deduction vs. summarization."
+  },
+  "q_gram_c1_04_005": {
+    "question": "La inversión fue arriesgada; ___, los beneficios superaron las expectativas. (ahora bien → cependant/maintenant alors, formel register)",
+    "correct": "ahora bien",
+    "wrong": [
+      "por lo tanto",
+      "es decir",
+      "en efecto"
+    ],
+    "explanation": "'Ahora bien' (cependant/maintenant alors) est a formel discourse marker Cela introduces a qualification, nuance, ou contrasting perspective à que était just stated. Il signals a shift dans Le/La argument sans full contradiction.",
+    "conjugation_info": "Common formal discourse markers: ahora bien (however), dicho esto (that said), a este respecto (in this regard), en resumidas cuentas (in short)"
+  },
+  "q_gram_c1_04_006": {
+    "question": "___, la propuesta carece de fundamento jurídico suficiente. (a este respecto)",
+    "correct": "A este respecto",
+    "wrong": [
+      "Con respecto a",
+      "Al respecto de",
+      "En este aspecto"
+    ],
+    "explanation": "'A este respecto' (dans Ce regard) est a formel discourse marker Cela connects Le/La current statement à a previously mentioned topic. Il est more precise than 'al respecto' et signals Le/La writer est addressing a specific point."
+  },
+  "q_gram_c1_04_007": {
+    "question": "Having said Cela, we doit consider Le/La environmental impact de Le/La project.",
+    "correct": "Dicho esto, debemos considerar el impacto medioambiental del proyecto.",
+    "wrong": [
+      "Diciendo eso, debemos considerar el impacto ambiental del proyecto.",
+      "Habiendo dicho, tenemos que considerar el impacto ecológico del proyecto.",
+      "Esto dicho, necesitamos considerar el impacto del medioambiente del proyecto."
+    ],
+    "explanation": "'Dicho esto' est Le/La standard Espagnol discourse marker pour 'having said Cela / Cela said'. Il uses Le/La absolute participe construction. 'Diciendo eso' serait unnatural dans Ce context as a discourse connector."
+  },
+  "q_gram_c1_04_008": {
+    "question": "Las medidas adoptadas fueron insuficientes; ___, no se puede negar que representaron un primer paso. (con todo)",
+    "correct": "con todo",
+    "wrong": [
+      "por todo",
+      "de todo",
+      "ante todo"
+    ],
+    "explanation": "'Con todo' (nevertheless/even donc) est a formel concessive connector Cela acknowledges Le/La preceding point pendant que introducing a mitigating counterargument. Il est less commun than 'sin embargo' mais preferred dans certain academic et literary registers."
+  },
+  "q_gram_c1_04_009": {
+    "question": "En resumidas cuentas, el proyecto ha sido un éxito rotundo a pesar de las dificultades iniciales.",
+    "correct": "In short, the project has been a resounding success despite the initial difficulties.",
+    "wrong": [
+      "In any case, the project was a success in spite of initial problems.",
+      "To summarize the accounts, the project succeeded despite early challenges.",
+      "As a result, the project turned out to be completely successful despite difficulties."
+    ],
+    "explanation": "'En resumidas cuentas' (dans short/à sum up) est a summarizing discourse marker. 'Rotundo' signifie 'resounding/emphatic'. Le/La phrase signals Cela Le/La speaker est wrapping up leur argument avec a definitive assessment."
+  },
+  "q_gram_c1_04_010": {
+    "question": "Sea ___ fuere, la decisión ya ha sido tomada y no hay vuelta atrás. (como, future subjonctif de ser)",
+    "correct": "como",
+    "wrong": [
+      "cual",
+      "lo que",
+      "cuando"
+    ],
+    "explanation": "'Sea como fuere' (être Cela as il may) est a fixed concessive expression Cela uses Le/La future subjonctif 'fuere'. Le/La mot needed à complete Ce set phrase est 'como'. Ce expression survives dans formel speech despite Le/La general obsolescence de Le/La future subjonctif.",
+    "conjugation_info": "ser (future subjunctive): fuere, fueres, fuere, fuéremos, fuereis, fueren — survives only in fixed expressions like 'sea como fuere'"
+  },
+  "q_gram_c1_05_001": {
+    "question": "En un correo formel a un desconocido: 'Le ___ que me informara sobre los requisitos de admisión.' (agradecer, conditionnel, forme yo)",
+    "correct": "agradecería",
+    "wrong": [
+      "agradezco",
+      "agradeceré",
+      "agradecí"
+    ],
+    "explanation": "Dans formel written correspondence à someone unknown, Le/La conditionnel 'agradecería' softens Le/La request, making il more poli than Le/La present ou future indicatif. Ce register awareness est crucial à C1 level. 'Le agradecería que...' est Le/La standard formel request formula."
+  },
+  "q_gram_c1_05_002": {
+    "question": "En un texto académico, es preferible escribir: 'Se ___ que los resultados confirman la hipótesis.' (observar)",
+    "correct": "observa",
+    "wrong": [
+      "observo",
+      "ha observado",
+      "observé"
+    ],
+    "explanation": "Academic Espagnol uses Le/La impersonal 'se' construction ('se observa que') à maintain objectivity et distance. Le/La premier personne ('observo') est generally avoided dans academic writing en espagnol, unlike en anglais où 'I' ou 'we' may être acceptable."
+  },
+  "q_gram_c1_05_003": {
+    "question": "Quel est Le/La key difference between 'tú', 'usted', et 'vos' dans terms de register et regional usage?",
+    "correct": "'Tú' is informal and used in most of Spain and Latin America; 'usted' is formal and universal; 'vos' is informal and used in Argentina, Uruguay, Central America, and parts of Colombia",
+    "wrong": [
+      "'Tú' is used in Spain only; 'usted' is used in Latin America; 'vos' is archaic and no longer used",
+      "'Tú' and 'vos' are identical in meaning and conjugation; 'usted' is only for elderly speakers",
+      "'Vos' is more formal than 'usted' and is used in diplomatic contexts"
+    ],
+    "explanation": "Le/La three-way distinction reflects les deux formality et geography. 'Vos' est not archaic mais actively used par millions de speakers dans Le/La Río de la Plata region, Central America, et elsewhere. Chaque form triggers different verbe conjugations, particularly dans Le/La present tense et impératif."
+  },
+  "q_gram_c1_05_004": {
+    "question": "En Argentina, la forma voseante del presente indicativo de 'tener' es: Vos ___. (tener, voseo, indicatif présent)",
+    "correct": "tenés",
+    "wrong": [
+      "tienes",
+      "tenéis",
+      "tenes"
+    ],
+    "explanation": "Dans Argentine voseo, indicatif présent forms stress Le/La final syllable: vos tenés, vos querés, vos podés. Le/La accent falls sur Le/La final -és (pour -er verbes). Ce differs de les deux 'tú tienes' et 'vosotros tenéis'.",
+    "conjugation_info": "tener (voseo present indicative): vos tenés — compare: tú tienes, vosotros tenéis"
+  },
+  "q_gram_c1_05_005": {
+    "question": "En una carta de reclamación formel: 'Por la presente, ___ mi más enérgica protesta ante la situación descrita.' (formular)",
+    "correct": "formulo",
+    "wrong": [
+      "formularía",
+      "formulé",
+      "he formulado"
+    ],
+    "explanation": "Dans formel complaint letters, 'por la presente' (hereby) est suivi de Le/La indicatif présent pour faire a formel declaration. 'Formulo mi protesta' est a performative utterance où Le/La act de writing constitutes Le/La act de protesting. Le/La conditionnel serait weaken Le/La complaint."
+  },
+  "q_gram_c1_05_006": {
+    "question": "Vos ___ venir cuando quieras. (poder, voseo impératif)",
+    "correct": "podés",
+    "wrong": [
+      "puedes",
+      "podéis",
+      "podes"
+    ],
+    "explanation": "Dans voseo regions, 'vos podés' replaces 'tú puedes'. Le/La voseo impératif de -er verbes keeps Le/La stress sur Le/La dernier syllable avec a written accent. Dans informel Argentine speech, Ce form est standard.",
+    "conjugation_info": "poder (voseo present): vos podés — voseo imperative forms differ: vos hablá (hablar), vos comé (comer), vos decí (decir)"
+  },
+  "q_gram_c1_05_007": {
+    "question": "Sentá ___ a mi lado, por favor. (vos, voseo, reflexive impératif de sentarse)",
+    "correct": "te",
+    "wrong": [
+      "se",
+      "os",
+      "le"
+    ],
+    "explanation": "Le/La reflexive pronom pour 'vos' est 'te', Le/La same as pour 'tú'. Le/La voseo impératif de 'sentarse' est 'sentate' (souvent written as two mots dans quelques dialects: 'sentá te'). Le/La reflexive pronom ne pas change between tuteo et voseo."
+  },
+  "q_gram_c1_05_008": {
+    "question": "I serait grateful si vous pourrait send me Le/La requested information à votre earliest convenience.",
+    "correct": "Le agradecería que me enviara la información solicitada a la mayor brevedad posible.",
+    "wrong": [
+      "Te agradezco que me envíes la información cuando puedas.",
+      "Agradecería que me mandes la información solicitada lo antes posible.",
+      "Le agradeceré que me envíe la información pedida cuanto antes."
+    ],
+    "explanation": "Formel Espagnol correspondence uses 'Le agradecería que' + subjonctif imparfait pour poli requests. 'A la mayor brevedad posible' est Le/La standard formel expression pour 'à votre earliest convenience'. Using 'tú' forms ou Le/La indicatif présent serait too informel."
+  },
+  "q_gram_c1_05_009": {
+    "question": "Los datos ___ por los investigadores deben ser analizados con cautela. (recopilar, participe passé, formel academic register)",
+    "correct": "recopilados",
+    "wrong": [
+      "recopilando",
+      "que recopilan",
+      "recopilaron"
+    ],
+    "explanation": "Dans academic register, participe passé phrases ('datos recopilados por...') sont preferred sur relative clauses ('datos que fueron recopilados por...') pour conciseness. Le/La participe s'accorde en genre et nombre avec le nom: 'datos' (masculin pluriel) → 'recopilados'.",
+    "conjugation_info": "recopilar (past participle): recopilado/recopilada/recopilados/recopiladas — agrees with the modified noun in academic constructions"
+  },
+  "q_gram_c1_05_010": {
+    "question": "Estimado señor Director: Me dirijo a usted con el fin de solicitar una audiencia para tratar un asunto de suma importancia.",
+    "correct": "Dear Director: I am writing to you in order to request a meeting to discuss a matter of utmost importance.",
+    "wrong": [
+      "Dear Mr. Director: I am reaching out to you to ask for a hearing about something very important.",
+      "Esteemed Director: I address you with the purpose of soliciting an audience for treating a matter of great importance.",
+      "Dear Sir Director: I direct myself to you to request a meeting about a most important issue."
+    ],
+    "explanation": "'Me dirijo a usted' est Le/La standard formel opening en espagnol correspondence (not a literal 'I direct myself'). 'Solicitar una audiencia' signifie 'à request a meeting/hearing'. 'De suma importancia' translates à 'de utmost importance'. Le/La formel register requires usted et careful lexical choices."
+  },
+  "q_gram_c1_06_001": {
+    "question": "El niño ___ a llorar en cuanto vio al médico. (echarse, pretérito indefinido, forme él)",
+    "correct": "se echó",
+    "wrong": [
+      "se puso",
+      "echó",
+      "se echa"
+    ],
+    "explanation": "'Echarse a + infinitif' signifie 'à burst into (doing something)', indicating a sudden, souvent involuntary beginning. Dans Le/La pretérito indefinido, 'echarse' conjugates as 'se echó'. Note: 'ponerse a' serait aussi work ici mais Le/La prompt specifically asks pour 'echarse'.",
+    "conjugation_info": "echarse (pretérito indefinido): me eché, te echaste, se echó, nos echamos, os echasteis, se echaron"
+  },
+  "q_gram_c1_06_002": {
+    "question": "La situación ___ empeorando con el paso de los meses. (ir + gérondif)",
+    "correct": "iba empeorando",
+    "wrong": [
+      "fue empeorando",
+      "empeoró",
+      "venía empeorando"
+    ],
+    "explanation": "'Ir + gérondif' exprime a gradual, progressive development. 'Iba empeorando' emphasizes Le/La ongoing, escalating nature de Le/La deterioration. Pendant que 'fue empeorando' pourrait aussi work (completed gradual process), 'iba' better captures Le/La dans-progress deterioration sur months."
+  },
+  "q_gram_c1_06_003": {
+    "question": "Últimamente, los precios ___ subiendo sin parar. (venir + gérondif)",
+    "correct": "vienen subiendo",
+    "wrong": [
+      "van subiendo",
+      "andan subiendo",
+      "están subiendo"
+    ],
+    "explanation": "'Venir + gérondif' emphasizes Cela an action a été building up de a point dans Le/La past toward Le/La present. 'Últimamente' (lately) triggers Ce periphrasis parce que il highlights Le/La cumulative trajectory de price increases leading up à maintenant."
+  },
+  "q_gram_c1_06_004": {
+    "question": "Quel est Le/La difference between 'ir + gérondif' et 'venir + gérondif' as verbal periphrases?",
+    "correct": "'Ir + gerund' describes a gradual progression moving forward in time, while 'venir + gerund' describes an accumulating action that has been building from the past toward the present",
+    "wrong": [
+      "They are interchangeable and both mean 'to be doing something progressively'",
+      "'Ir + gerund' is used for past actions and 'venir + gerund' is used for future actions",
+      "'Ir + gerund' means 'to go doing' literally and 'venir + gerund' means 'to come doing' literally"
+    ],
+    "explanation": "Le/La directional metaphor est key: 'ir' moves away de Le/La speaker (forward progression), pendant que 'venir' moves toward Le/La speaker (accumulation toward Le/La present). 'Las quejas van aumentando' (complaints sont gradually increasing) vs. 'Las quejas vienen aumentando desde enero' (complaints avoir été accumulating puisque January)."
+  },
+  "q_gram_c1_06_005": {
+    "question": "La empresa ___ a implementar las nuevas políticas el mes pasado. (ponerse, pretérito indefinido, forme ella)",
+    "correct": "se puso",
+    "wrong": [
+      "se ponía",
+      "puso",
+      "se ha puesto"
+    ],
+    "explanation": "'Ponerse a + infinitif' signifie 'à start/begin (avec determination ou effort)'. Il implies a deliberate beginning. Dans Le/La pretérito indefinido, 'ponerse' conjugates as 'se puso'. Le/La reflexive pronom est essential à Ce periphrasis.",
+    "conjugation_info": "ponerse (pretérito indefinido): me puse, te pusiste, se puso, nos pusimos, os pusisteis, se pusieron"
+  },
+  "q_gram_c1_06_006": {
+    "question": "El profesor ___ explicando el tema una y otra vez, pero nadie entendía. (andar + gérondif)",
+    "correct": "andaba explicando",
+    "wrong": [
+      "iba explicando",
+      "venía explicando",
+      "estaba explicando"
+    ],
+    "explanation": "'Andar + gérondif' exprime a repeated ou habitual action, souvent avec a nuance de aimlessness ou persistence. 'Andaba explicando' suggests Le/La professor kept explaining repeatedly, perhaps avec frustration, quel fits Le/La context de nobody understanding."
+  },
+  "q_gram_c1_06_007": {
+    "question": "She avait just finished writing Le/La report quand her boss called.",
+    "correct": "Acababa de terminar de escribir el informe cuando su jefe llamó.",
+    "wrong": [
+      "Acaba de terminar de escribir el informe cuando su jefe llama.",
+      "Acabó de terminar de escribir el informe cuando su jefe llamó.",
+      "Había acabado de terminar el informe cuando su jefe llamaba."
+    ],
+    "explanation": "'Acabar de + infinitif' dans Le/La imparfait ('acababa de') exprime 'avait just (done something)' dans Le/La past. Notice Le/La double infinitif construction: 'acababa de terminar de escribir'. Le/La imparfait est requis ici pour Le/La 'avait just' sens."
+  },
+  "q_gram_c1_06_008": {
+    "question": "Con los años, ___ comprendiendo que la paciencia es una virtud indispensable. (ir + gérondif, forme yo, pretérito perfecto)",
+    "correct": "he ido comprendiendo",
+    "wrong": [
+      "fui comprendiendo",
+      "iba comprendiendo",
+      "he venido comprendiendo"
+    ],
+    "explanation": "'He ido comprendiendo' (I avoir gradually come à understand) uses 'ir + gérondif' dans Le/La passé composé pour exprimer a gradual realization Cela connects Le/La past à Le/La present. Le/La passé composé 'he ido' est preferred avec 'con los años' parce que Le/La process est encore relevant maintenant."
+  },
+  "q_gram_c1_06_009": {
+    "question": "Los vecinos andaban quejándose del ruido que provenía del local nocturno.",
+    "correct": "The neighbors kept complaining about the noise that came from the nightclub.",
+    "wrong": [
+      "The neighbors were walking while complaining about the nightclub noise.",
+      "The neighbors went around once to complain about the noise from the night venue.",
+      "The neighbors started to complain about the noise coming from the bar."
+    ],
+    "explanation": "'Andar + gérondif' (andaban quejándose) exprime repeated, persistent action — Le/La neighbors kept complaining, not just once. Il carries a nuance de ongoing, somewhat aimless repetition. 'Provenía' (imparfait de provenir) indique Le/La noise était a continuing source de disturbance."
+  },
+  "q_gram_c1_06_010": {
+    "question": "Tras la reunión, el director ___ a redactar el acta inmediatamente. (proceder, pretérito indefinido, forme él)",
+    "correct": "procedió",
+    "wrong": [
+      "procedía",
+      "ha procedido",
+      "procede"
+    ],
+    "explanation": "'Proceder a + infinitif' est a formel periphrasis sens 'à proceed à do something'. Il implies a deliberate, methodical beginning de an action, commun dans administrative et legal langue. Le/La pretérito indefinido 'procedió' marks a completed single action.",
+    "conjugation_info": "proceder (pretérito indefinido): procedí, procediste, procedió, procedimos, procedisteis, procedieron"
+  },
+  "q_gram_c1_07_001": {
+    "question": "Mi hermano ___ muy listo, siempre saca las mejores notas. (ser)",
+    "correct": "es",
+    "wrong": [
+      "está",
+      "fue",
+      "estaba"
+    ],
+    "explanation": "'Ser listo' signifie 'à être clever/smart' as an inherent characteristic. Par contrast, 'estar listo' signifie 'à être ready'. Le/La phrase talks à propos de a permanent trait (toujours gets Le/La best grades), donc 'ser' est requis."
+  },
+  "q_gram_c1_07_002": {
+    "question": "La puerta ___ abierta por el conserje todas las mañanas a las siete. (ser)",
+    "correct": "es",
+    "wrong": [
+      "está",
+      "fue",
+      "estaba"
+    ],
+    "explanation": "Ceci est un habitual passive avec 'ser' ('es abierta por el conserje'). Quand Le/La agent est specified ('por el conserje') et Le/La focus est sur Le/La action being performed, 'ser + participe passé' forms Le/La passive voice. 'Estar abierta' serait décrire Le/La resulting state, not Le/La action."
+  },
+  "q_gram_c1_07_003": {
+    "question": "Quel est Le/La difference between 'ser malo' et 'estar malo' en espagnol?",
+    "correct": "'Ser malo' means 'to be bad/evil' (inherent quality), while 'estar malo' means 'to be sick/ill' (temporary condition)",
+    "wrong": [
+      "'Ser malo' is used for food and 'estar malo' is used for people",
+      "Both mean 'to be bad' but 'estar malo' is more formal",
+      "'Ser malo' is for present situations and 'estar malo' is for past situations"
+    ],
+    "explanation": "Le/La ser/estar distinction avec 'malo' creates a complete sens change: 'Ese hombre es malo' (Cela man est evil/mauvais) vs. 'Ese hombre está malo' (Cela man est sick/unwell). C'est one de Le/La la plupart important ser/estar contrasts à Le/La C1 level, où sens shifts sont tested."
+  },
+  "q_gram_c1_07_004": {
+    "question": "Todavía no ___ decidido si aceptaremos la oferta. (estar, indicatif présent, forme nosotros → resultative estar)",
+    "correct": "estamos",
+    "wrong": [
+      "somos",
+      "hemos",
+      "nos hemos"
+    ],
+    "explanation": "'Estar decidido' décrit Le/La resulting state de a decision process. 'No estamos decididos' signifie 'we haven't made up our minds encore' — Le/La decision state a not été reached. 'Ser decidido' serait signifier 'à être a decisive personne' (character trait).",
+    "conjugation_info": "estar (present indicative): estoy, estás, está, estamos, estáis, están"
+  },
+  "q_gram_c1_07_005": {
+    "question": "El café ___ frío; lo calentaré en el microondas. (estar)",
+    "correct": "está",
+    "wrong": [
+      "es",
+      "fue",
+      "era"
+    ],
+    "explanation": "'Estar frío' décrit a temporary, changeable state de Le/La coffee. Si we used 'ser frío', il serait décrire an inherent characteristic (e.g., 'Ce drink est a cold type de drink'). Puisque Le/La coffee a cooled down de a warm state, 'estar' est correct."
+  },
+  "q_gram_c1_07_006": {
+    "question": "La novela ___ escrita por García Márquez en 1967. (ser, pretérito indefinido, forme ella — passive voice avec agent)",
+    "correct": "fue",
+    "wrong": [
+      "estuvo",
+      "era",
+      "estaba"
+    ],
+    "explanation": "Quand expressing Le/La passive voice avec a specified agent ('por García Márquez') et a completed action dans Le/La past, 'ser' dans Le/La pretérito indefinido ('fue escrita') est correct. 'Estar' serait décrire Le/La resulting state de Le/La novel, not Le/La act de writing.",
+    "conjugation_info": "ser (pretérito indefinido): fui, fuiste, fue, fuimos, fuisteis, fueron"
+  },
+  "q_gram_c1_07_007": {
+    "question": "La ventana ya ___ reparada cuando llegamos; el cristalero había venido por la mañana. (estar)",
+    "correct": "estaba",
+    "wrong": [
+      "era",
+      "fue",
+      "estuvo"
+    ],
+    "explanation": "'Estar + participe passé' décrit a resultative state: Le/La window était already dans Le/La repaired state quand we arrived. Le/La imparfait 'estaba' est utilisé parce que il décrit an ongoing state à Le/La temps de arrival. 'Ser' serait indiquer Le/La passive action de repairing, not Le/La resulting condition."
+  },
+  "q_gram_c1_07_008": {
+    "question": "My brother est très boring à parties, mais my sister est bored parce que she a nothing à do.",
+    "correct": "Mi hermano es muy aburrido en las fiestas, pero mi hermana está aburrida porque no tiene nada que hacer.",
+    "wrong": [
+      "Mi hermano está muy aburrido en las fiestas, pero mi hermana es aburrida porque no tiene nada que hacer.",
+      "Mi hermano es muy aburrido en las fiestas, pero mi hermana es aburrida porque no tiene nada que hacer.",
+      "Mi hermano está aburrido en las fiestas, pero mi hermana está aburrida porque no tiene nada que hacer."
+    ],
+    "explanation": "'Ser aburrido' signifie 'à être boring' (inherent characteristic de Le/La brother), pendant que 'estar aburrido' signifie 'à être bored' (temporary state de Le/La sister). Ce ser/estar contrast avec Le/La same adjectif producing different sens est a key C1 concept."
+  },
+  "q_gram_c1_07_009": {
+    "question": "El acusado ___ absuelto por el tribunal tras un largo juicio. (ser, pretérito indefinido, passive voice, forme él)",
+    "correct": "fue",
+    "wrong": [
+      "estuvo",
+      "era",
+      "ha sido"
+    ],
+    "explanation": "'Fue absuelto por el tribunal' est a passive construction avec 'ser'. Le/La agent ('por el tribunal') confirms Le/La passive voice requires 'ser', not 'estar'. Le/La pretérito indefinido marks Ce as a completed one-temps event.",
+    "conjugation_info": "ser (pretérito indefinido, passive): fue absuelto/a, fueron absueltos/as — used with agent phrase (por + agent)"
+  },
+  "q_gram_c1_07_010": {
+    "question": "Juan es muy vivo y siempre encuentra soluciones creativas, pero hoy está vivo de milagro tras el accidente.",
+    "correct": "Juan is very sharp/clever and always finds creative solutions, but today he is alive by a miracle after the accident.",
+    "wrong": [
+      "Juan is very alive and always finds creative solutions, but today he is living by a miracle after the accident.",
+      "Juan is very lively and always finds solutions, but today he is vivid by miracle after the accident.",
+      "Juan is very bright and always finds creative solutions, but today he is energetic miraculously after the accident."
+    ],
+    "explanation": "'Ser vivo' signifie 'à être sharp/clever/quick-witted' (personality trait), pendant que 'estar vivo' signifie 'à être alive' (state de being). Ce dramatic contrast dans Le/La same phrase illustrates comment ser/estar peut completely change Le/La sens de l'adjectif 'vivo'."
+  },
+  "q_gram_c1_08_001": {
+    "question": "Dijo la profesora que el examen ___ más difícil de lo esperado. (ser, future indicatif → VS inversion dans reported speech)",
+    "correct": "sería",
+    "wrong": [
+      "será",
+      "fue",
+      "era"
+    ],
+    "explanation": "Dans literary/formel reported speech avec subject-verbe inversion ('dijo la profesora'), le verbe dans Le/La subordinate clause shifts à Le/La conditionnel ('sería') following sequence de tenses. Le/La inversion de 'dijo la profesora' (instead de 'la profesora dijo') est a stylistic choice commun dans literary et journalistic Espagnol.",
+    "conjugation_info": "ser (conditional): sería, serías, sería, seríamos, seríais, serían"
+  },
+  "q_gram_c1_08_002": {
+    "question": "Bien ___ los antiguos que la sabiduría empieza con el asombro. (saber, pretérito imperfecto — literary VS inversion)",
+    "correct": "sabían",
+    "wrong": [
+      "supieron",
+      "saben",
+      "sabrían"
+    ],
+    "explanation": "Dans literary Espagnol, le sujet peut être placed après le verbe pour stylistic effect: 'Bien sabían los antiguos' instead de 'Los antiguos bien sabían'. Le/La imparfait 'sabían' est utilisé parce que Ce se réfère à a general, habitual knowledge held par Le/La ancients."
+  },
+  "q_gram_c1_08_003": {
+    "question": "Grande ___ la sorpresa de todos cuando se anunció el ganador. (ser, pretérito indefinido — fronted complement)",
+    "correct": "fue",
+    "wrong": [
+      "era",
+      "sería",
+      "ha sido"
+    ],
+    "explanation": "Ce phrase fronts l'adjectif 'grande' pour emphasis: 'Grande fue la sorpresa' instead de 'La sorpresa fue grande'. Ce topicalization, placing Le/La complement avant le verbe, est a literary device pour dramatic effect. Le/La pretérito indefinido 'fue' marks a specific, completed event."
+  },
+  "q_gram_c1_08_004": {
+    "question": "Quel est 'topicalization' en espagnol syntax, et que effect does il create?",
+    "correct": "Moving a constituent (object, complement, adverb) to the beginning of the sentence for emphasis or contrast, often triggering subject-verb inversion",
+    "wrong": [
+      "Changing the topic of a conversation mid-sentence using a discourse marker",
+      "Using a topical vocabulary item as the subject of every sentence in a paragraph",
+      "Repeating the main topic at the beginning and end of a sentence for clarity"
+    ],
+    "explanation": "Topicalization est a syntactic process où a non-subject element est fronted à phrase-initial position. En espagnol, Ce souvent triggers VS (verbe-subject) inversion: 'Ese libro lo compré ayer' (Cela book, I bought yesterday). Il creates emphasis, contrast, ou connects à Le/La preceding discourse."
+  },
+  "q_gram_c1_08_005": {
+    "question": "Así lo ___ el tribunal y así se cumplirá. (determinar, pretérito perfecto, forme él — formel/legal VS inversion)",
+    "correct": "ha determinado",
+    "wrong": [
+      "determinó",
+      "determina",
+      "determinará"
+    ],
+    "explanation": "Dans legal et formel langue, fronted adverbials like 'así' souvent trigger VS inversion. 'Así lo ha determinado el tribunal' places emphasis sur Le/La manner ('así' = thus) rather than Le/La agent. Le/La passé composé connects Le/La past ruling à son current relevance.",
+    "conjugation_info": "determinar (pretérito perfecto): he determinado, has determinado, ha determinado, hemos determinado, habéis determinado, han determinado"
+  },
+  "q_gram_c1_08_006": {
+    "question": "A sus hijos ___ dedicó toda su vida y su energía. (pronom needed pour left dislocation)",
+    "correct": "les",
+    "wrong": [
+      "los",
+      "se",
+      "le"
+    ],
+    "explanation": "'A sus hijos' est a left-dislocated indirect object, moved à Le/La front de Le/La phrase pour emphasis. En espagnol, left dislocation requires a resumptive pronom ('les') Cela s'accorde avec Le/La dislocated element. 'A sus hijos les dedicó toda su vida' = 'Il était à her children Cela she devoted her whole life'."
+  },
+  "q_gram_c1_08_007": {
+    "question": "Jamais dans my life avoir I seen such a spectacular sunset.",
+    "correct": "Nunca en mi vida he visto una puesta de sol tan espectacular.",
+    "wrong": [
+      "Nunca he visto en mi vida una tan espectacular puesta de sol.",
+      "En mi vida nunca había visto un atardecer así de espectacular.",
+      "Jamás en la vida mía vi tal espectacular puesta de sol."
+    ],
+    "explanation": "Le/La fronted negative adverbe 'nunca en mi vida' triggers subject-verbe inversion en anglais ('avoir I seen') mais en espagnol, Le/La mot order remains more natural: 'Nunca... he visto'. Espagnol ne pas require auxiliary inversion après fronted negatives as Anglais does."
+  },
+  "q_gram_c1_08_008": {
+    "question": "Eso ___ lo que queríamos decirte desde el principio. (ser, pretérito imperfecto — pseudo-cleft/fronted demonstrative)",
+    "correct": "era",
+    "wrong": [
+      "fue",
+      "es",
+      "sería"
+    ],
+    "explanation": "'Eso era lo que queríamos decirte' est a pseudo-cleft phrase avec a fronted demonstrative. Le/La imparfait 'era' est utilisé parce que Le/La situation spans a period dans Le/La past ('desde el principio'). Fronting 'eso' emphasizes Le/La identity between Quel est being said maintenant et que était intended tous along."
+  },
+  "q_gram_c1_08_009": {
+    "question": "Mucho me temo que no será posible atender su solicitud en los plazos previstos.",
+    "correct": "I very much fear that it will not be possible to address your request within the expected deadlines.",
+    "wrong": [
+      "I am very afraid that your request cannot be attended in the predicted terms.",
+      "Much I fear that it won't be possible to attend to your solicitation in the foreseen timeframes.",
+      "I greatly fear that it is impossible to handle your application in the planned periods."
+    ],
+    "explanation": "'Mucho me temo que' features inversion de l'adverbe 'mucho' à phrase-initial position pour formel effect. Ceci est un fixed formel expression sens 'I très beaucoup fear Cela'. 'Atender su solicitud' signifie 'à address/process votre request', et 'en los plazos previstos' signifie 'within Le/La expected deadlines'."
+  },
+  "q_gram_c1_08_010": {
+    "question": "Tal ___ la magnitud del desastre que el gobierno declaró el estado de emergencia. (ser, pretérito indefinido — fronted 'tal' pour emphasis)",
+    "correct": "fue",
+    "wrong": [
+      "era",
+      "es",
+      "sería"
+    ],
+    "explanation": "'Tal fue la magnitud' fronts 'tal' (such) pour dramatic emphasis, a literary construction. Le/La pretérito indefinido 'fue' marks Le/La completed event. Ce structure est equivalent à 'La magnitud del desastre fue tal que...' mais Le/La inversion creates a more dramatic, literary tone.",
+    "conjugation_info": "ser (pretérito indefinido): fui, fuiste, fue, fuimos, fuisteis, fueron — common in literary fronted constructions: 'Tal fue...', 'Grande fue...', 'Así fue...'"
+  },
+  "q_gram_c1_09_001": {
+    "question": "Te presto el coche ___ lo devuelvas antes del viernes. (con tal de que)",
+    "correct": "con tal de que",
+    "wrong": [
+      "con tal que",
+      "con solo que",
+      "a menos de que"
+    ],
+    "explanation": "'Con tal de que' (provided Cela/as long as) est a conditionnel conjunction Cela requires Le/La subjonctif. Il establishes a condition under quel Le/La speaker est willing à lend Le/La car. Le/La full form 'con tal de que' est standard; 'con tal que' exists colloquially mais 'con tal de que' est preferred dans careful usage."
+  },
+  "q_gram_c1_09_002": {
+    "question": "No firmaré el contrato ___ mi abogado lo revise primero. (a menos que)",
+    "correct": "a menos que",
+    "wrong": [
+      "a no ser que",
+      "salvo que",
+      "excepto que"
+    ],
+    "explanation": "'A menos que' (à moins que) introduces a negative condition et toujours triggers Le/La subjonctif. Le/La phrase signifie 'I won't sign à moins que my lawyer reviews il premier'. Pendant que 'a no ser que' et 'salvo que' avoir similar sens, Le/La blank specifically requires 'a menos que'."
+  },
+  "q_gram_c1_09_003": {
+    "question": "Quel est Le/La difference between 'dado que' et 'a fin de que' dans terms de mood selection?",
+    "correct": "'Dado que' takes the indicative because it introduces a known fact or reason, while 'a fin de que' takes the subjunctive because it introduces a purpose or goal",
+    "wrong": [
+      "Both take the subjunctive because they introduce subordinate clauses",
+      "'Dado que' takes the subjunctive and 'a fin de que' takes the indicative",
+      "Both can take either mood depending on the speaker's certainty"
+    ],
+    "explanation": "'Dado que' (given Cela/puisque) est a causal conjunction stating established facts, donc il takes Le/La indicatif: 'Dado que llueve, no saldremos'. 'A fin de que' (dans order Cela/donc Cela) exprime purpose, quel est inherently non-factual, donc il toujours takes Le/La subjonctif: 'Lo hice a fin de que entendieras'."
+  },
+  "q_gram_c1_09_004": {
+    "question": "Llegaremos a tiempo siempre y cuando no ___ tráfico en la autopista. (haber, subjonctif présent)",
+    "correct": "haya",
+    "wrong": [
+      "hay",
+      "habrá",
+      "hubiera"
+    ],
+    "explanation": "'Siempre y cuando' (as long as/provided Cela) est a conditionnel conjunction Cela toujours requires Le/La subjonctif. Le/La subjonctif présent 'haya' est nécessaire parce que Le/La condition se réfère à a future possibility. 'Hay' (indicatif) serait grammatically incorrect après Ce conjunction.",
+    "conjugation_info": "haber (present subjunctive): haya, hayas, haya, hayamos, hayáis, hayan"
+  },
+  "q_gram_c1_09_005": {
+    "question": "Organizaron la manifestación ___ las autoridades tomaran conciencia del problema. (a fin de que)",
     "correct": "a fin de que",
     "wrong": [
-      "no sea que",
-      "aun cuando"
+      "a fin que",
+      "para que",
+      "dado que"
     ],
-    "explanation": "Vocabulaire du chapitre 'Les Structures d'Élision'",
-    "hint": "C'est un mot du thème: Les Structures d'Élision"
+    "explanation": "'A fin de que' (dans order Cela/donc Cela) est a purpose conjunction Cela triggers Le/La subjonctif. Il est more formel than 'para que' et typiquement appears dans written ou formel spoken Espagnol. Le/La full form avec 'de' est requis: 'a fin de que', not 'a fin que'."
   },
-  "q_gram_c1_10_130": {
-    "question": "Quel mot est associé à 'La Récursivité Syntaxique'?\nChoix: una vez + participio, al + infinitivo, de tanto + infinitivo",
-    "correct": "aun + gerundio",
+  "q_gram_c1_09_006": {
+    "question": "No podremos empezar la obra a menos que el ayuntamiento nos ___ el permiso. (conceder, subjonctif présent, forme él)",
+    "correct": "conceda",
     "wrong": [
-      "una vez + participio",
-      "al + infinitivo",
-      "de tanto + infinitivo"
+      "concede",
+      "concediera",
+      "concederá"
     ],
-    "explanation": "Vocabulaire du chapitre 'La Récursivité Syntaxique'",
-    "hint": "C'est un mot du thème: La Récursivité Syntaxique"
+    "explanation": "'A menos que' (à moins que) requires Le/La subjonctif. Puisque Le/La main clause est dans Le/La future ('no podremos'), Le/La subordinate clause uses Le/La subjonctif présent 'conceda' pour exprimer Le/La condition Cela doit être met.",
+    "conjugation_info": "conceder (present subjunctive): conceda, concedas, conceda, concedamos, concedáis, concedan"
   },
-  "q_gram_c1_11_131": {
-    "question": "Quel mot est associé à 'Les Marqueurs Discursifs Sophistiqués'?\nChoix: ni siquiera, sumamente, menudo/a",
-    "correct": "sumamente",
+  "q_gram_c1_09_007": {
+    "question": "Aceptaremos el acuerdo ___ no se modifiquen las cláusulas esenciales. (siempre y cuando)",
+    "correct": "siempre y cuando",
     "wrong": [
-      "ni siquiera",
-      "menudo/a"
+      "siempre que",
+      "mientras",
+      "cuando"
     ],
-    "explanation": "Vocabulaire du chapitre 'Les Marqueurs Discursifs Sophistiqués'",
-    "hint": "C'est un mot du thème: Les Marqueurs Discursifs Sophistiqués"
+    "explanation": "'Siempre y cuando' est more emphatic et formel than 'siempre que'. Les deux signifier 'provided Cela/as long as' et require Le/La subjonctif, mais 'siempre y cuando' adds extra emphasis à Le/La conditionality."
   },
-  "q_gram_c1_12_132": {
-    "question": "Quel mot est associé à 'L'Accord et l'Attraction'?\nChoix: vos, vosotros/as, acá",
-    "correct": "vos",
+  "q_gram_c1_09_008": {
+    "question": "We organized Le/La event donc Cela Le/La community serait avoir a space pour dialogue.",
+    "correct": "Organizamos el evento a fin de que la comunidad tuviera un espacio de diálogo.",
     "wrong": [
-      "vosotros/as",
-      "acá"
+      "Organizamos el evento para la comunidad tener un espacio de diálogo.",
+      "Organizamos el evento dado que la comunidad tenía un espacio de diálogo.",
+      "Organizamos el evento a fin de que la comunidad tiene un espacio de diálogo."
     ],
-    "explanation": "Vocabulaire du chapitre 'L'Accord et l'Attraction'",
-    "hint": "C'est un mot du thème: L'Accord et l'Attraction"
+    "explanation": "'A fin de que' + subjonctif exprime purpose. Puisque Le/La main verbe est dans Le/La past ('organizamos' dans passé simple), Le/La subordinate clause uses Le/La subjonctif imparfait 'tuviera' (sequence de tenses). Le/La indicatif 'tiene' serait ungrammatical après 'a fin de que'."
   },
-  "q_gram_c1_13_133": {
-    "question": "Quel mot est associé à 'Les Constructions Obliques'?\nChoix: afirmar, negar, advertir",
-    "correct": "afirmar",
+  "q_gram_c1_09_009": {
+    "question": "Dado que las circunstancias ___ cambiado drásticamente, debemos replantear toda la estrategia. (haber, passé composé indicatif, troisième personne pluriel)",
+    "correct": "han",
     "wrong": [
-      "negar",
-      "advertir"
+      "hayan",
+      "habían",
+      "hubieran"
     ],
-    "explanation": "Vocabulaire du chapitre 'Les Constructions Obliques'",
-    "hint": "C'est un mot du thème: Les Constructions Obliques"
+    "explanation": "'Dado que' (given Cela) takes Le/La indicatif parce que il introduces a factual premise. Le/La passé composé indicatif 'han cambiado' states a fact: Le/La circumstances avoir changed. Using Le/La subjonctif 'hayan' serait incorrect parce que 'dado que' ne pas trigger Le/La subjonctif.",
+    "conjugation_info": "haber (present indicative): he, has, ha, hemos, habéis, han — used as auxiliary in perfect tenses"
   },
-  "q_gram_c1_14_134": {
-    "question": "Quel mot est associé à 'La Frontalisation et l'Extraposition'?\nChoix: dicho/a, este último, a continuación",
-    "correct": "así pues",
+  "q_gram_c1_09_010": {
+    "question": "Con tal de que todos los miembros estén de acuerdo, procederemos con la votación sin más demora.",
+    "correct": "Provided that all the members agree, we will proceed with the vote without further delay.",
     "wrong": [
-      "dicho/a",
-      "este último",
-      "a continuación"
+      "So that all the members agree, we will proceed with the voting without more delay.",
+      "Given that all members are in agreement, we will proceed with the immediate vote.",
+      "As long as all members will agree, we shall proceed with voting with no more delay."
     ],
-    "explanation": "Vocabulaire du chapitre 'La Frontalisation et l'Extraposition'",
-    "hint": "C'est un mot du thème: La Frontalisation et l'Extraposition"
+    "explanation": "'Con tal de que' signifie 'provided Cela' et establishes a condition. 'Estén de acuerdo' (subjonctif présent de estar) reflects Le/La uncertain nature de Le/La condition. 'Sin más demora' est a formel expression sens 'sans further delay'."
   },
-  "q_gram_c1_15_135": {
-    "question": "Quel mot est associé à 'Les Structures Disloquées'?\nChoix: tener sentido, darse cuenta de, tener lugar",
-    "correct": "tener sentido",
+  "q_gram_c1_10_001": {
+    "question": "Terminada la reunión, los delegados ___ a sus respectivas oficinas. (regresar, pretérito indefinido, forme ellos — absolute participe clause)",
+    "correct": "regresaron",
     "wrong": [
-      "darse cuenta de",
-      "tener lugar"
+      "regresaban",
+      "regresan",
+      "regresarían"
     ],
-    "explanation": "Vocabulaire du chapitre 'Les Structures Disloquées'",
-    "hint": "C'est un mot du thème: Les Structures Disloquées"
+    "explanation": "'Terminada la reunión' est an absolute participe clause (participio absoluto) Cela replaces a temporal clause: 'Cuando/Después de que se terminó la reunión'. Le/La main clause uses Le/La pretérito indefinido parce que il décrit a completed action Cela followed Le/La meeting.",
+    "conjugation_info": "regresar (pretérito indefinido): regresé, regresaste, regresó, regresamos, regresasteis, regresaron"
   },
-  "q_gram_c1_16_136": {
-    "question": "Quel mot est associé à 'La Syntaxe Avancée du Subjonctif'?\nChoix: ojalá, aunque, a pesar de que",
-    "correct": "aunque",
+  "q_gram_c1_10_002": {
+    "question": "Es imposible ___ sin que alguien se oponga. (aprobar la ley → infinitif replacing que + subjonctif)",
+    "correct": "aprobar la ley",
     "wrong": [
-      "ojalá",
-      "a pesar de que"
+      "que se apruebe la ley",
+      "aprobando la ley",
+      "la aprobación de la ley"
     ],
-    "explanation": "Vocabulaire du chapitre 'La Syntaxe Avancée du Subjonctif'",
-    "hint": "C'est un mot du thème: La Syntaxe Avancée du Subjonctif"
+    "explanation": "Quand le sujet de Le/La main clause est impersonal ('es imposible'), an infinitif peut replace 'que + subjonctif' pour conciseness: 'Es imposible aprobar la ley' vs. 'Es imposible que se apruebe la ley'. Les deux sont correct, mais Le/La infinitif construction est more concise."
   },
-  "q_gram_c1_17_137": {
-    "question": "Quel mot est associé à 'Les Modalités Linguistiques Complexes'?\nChoix: apenas, quisiera, fuere",
-    "correct": "quisiera",
+  "q_gram_c1_10_003": {
+    "question": "Resueltos ___ los problemas técnicos, el lanzamiento pudo llevarse a cabo según lo previsto. (already/once — que mot est implied avant 'resueltos'?)",
+    "correct": "ya",
     "wrong": [
-      "apenas",
-      "fuere"
+      "todos",
+      "una vez",
+      "cuando"
     ],
-    "explanation": "Vocabulaire du chapitre 'Les Modalités Linguistiques Complexes'",
-    "hint": "C'est un mot du thème: Les Modalités Linguistiques Complexes"
+    "explanation": "Dans absolute participe clauses, 'ya' (already) est souvent implied ou explicitly stated avant Le/La participe: '(Ya) resueltos los problemas técnicos' = 'Once Le/La technical problems avait été resolved'. Le/La participe s'accorde avec le nom: 'resueltos' (masculin pluriel) matches 'problemas'."
   },
-  "q_gram_c1_18_138": {
-    "question": "Quel mot est associé à 'Les Structures de Topicalisation'?\nChoix: de haberlo sabido, a menos que, siempre y cuando",
-    "correct": "en caso de que",
+  "q_gram_c1_10_004": {
+    "question": "Quel est an 'absolute participe clause' (cláusula de participio absoluto) en espagnol?",
+    "correct": "A subordinate clause with a past participle and its own subject, independent from the main clause, functioning as a temporal or causal adverbial",
     "wrong": [
-      "de haberlo sabido",
-      "a menos que",
-      "siempre y cuando"
+      "A clause that uses the absolute superlative form of an adjective",
+      "A participial phrase that modifies the subject of the main clause directly",
+      "A clause using the gerund that can stand alone as a complete sentence"
     ],
-    "explanation": "Vocabulaire du chapitre 'Les Structures de Topicalisation'",
-    "hint": "C'est un mot du thème: Les Structures de Topicalisation"
+    "explanation": "Absolute participe clauses like 'Terminada la obra' (Le/La work being finished) avoir leur own subject ('la obra') distinct de Le/La main clause subject. Le/La participe s'accorde en genre et nombre avec son subject. Ces clauses sont a hallmark de formel, literary Espagnol et replace temporal/causal subordinate clauses."
   },
-  "q_gram_c1_19_139": {
-    "question": "Quel mot est associé à 'La Prédication Secondaire'?\nChoix: no obstante, de ahí que, cabe destacar que",
-    "correct": "de ahí que",
+  "q_gram_c1_10_005": {
+    "question": "Vistas las pruebas, el juez ___ dictar sentencia. (proceder, pretérito indefinido, forme él — absolute participe + main clause)",
+    "correct": "procedió",
     "wrong": [
-      "no obstante",
-      "cabe destacar que"
+      "procedía",
+      "procede",
+      "procedería"
     ],
-    "explanation": "Vocabulaire du chapitre 'La Prédication Secondaire'",
-    "hint": "C'est un mot du thème: La Prédication Secondaire"
+    "explanation": "'Vistas las pruebas' (Le/La evidence having été examined) est an absolute participe clause commun dans legal Espagnol. Le/La féminin pluriel 'vistas' s'accorde avec 'las pruebas'. Le/La main clause uses pretérito indefinido parce que Le/La sentencing était a single completed action.",
+    "conjugation_info": "proceder (pretérito indefinido): procedí, procediste, procedió, procedimos, procedisteis, procedieron"
   },
-  "q_gram_c1_20_140": {
-    "question": "Quel mot est associé à 'Les Constructions Thématiques'?\nChoix: solicitar, fallecer, a la mayor brevedad",
-    "correct": "poner de manifiesto",
+  "q_gram_c1_10_006": {
+    "question": "Los estudiantes salieron del aula ___ terminado el examen. (preposition needed pour temporal sens: 'upon having')",
+    "correct": "habiendo",
     "wrong": [
-      "solicitar",
-      "fallecer",
-      "a la mayor brevedad"
+      "tras haber",
+      "al haber",
+      "después de haber"
     ],
-    "explanation": "Vocabulaire du chapitre 'Les Constructions Thématiques'",
-    "hint": "C'est un mot du thème: Les Constructions Thématiques"
+    "explanation": "Le/La compound gérondif 'habiendo terminado' (having finished) creates a gérondif clause expressing immediate anteriority. Pendant que 'tras haber terminado' et 'después de haber terminado' sont aussi valid, Le/La gérondif form est Le/La la plupart concise clause reduction technique."
   },
-  "q_gram_c1_01_141": {
-    "question": "Quel mot est associé à 'L'Inversion Syntaxique Complexe'?\nChoix: romper a + infinitivo, venir a + infinitivo, andar + gerundio",
-    "correct": "venir a + infinitivo",
+  "q_gram_c1_10_007": {
+    "question": "Once tous Le/La formalities avait été completed, Le/La transfer de property took place.",
+    "correct": "Cumplidas todas las formalidades, se efectuó la transferencia de la propiedad.",
     "wrong": [
-      "romper a + infinitivo",
-      "andar + gerundio"
+      "Cuando se cumplieron todas las formalidades, la transferencia tuvo lugar.",
+      "Habiendo cumplido las formalidades, la propiedad fue transferida.",
+      "Después de completar los trámites, ocurrió la transferencia del inmueble."
     ],
-    "explanation": "Vocabulaire du chapitre 'L'Inversion Syntaxique Complexe'",
-    "hint": "C'est un mot du thème: L'Inversion Syntaxique Complexe"
+    "explanation": "'Cumplidas todas las formalidades' est an absolute participe clause — Le/La la plupart concise way pour exprimer Le/La temporal relationship. Le/La participe 'cumplidas' s'accorde avec 'formalidades' (féminin pluriel). Ce construction est characteristic de legal et formel register."
   },
-  "q_gram_c1_02_142": {
-    "question": "Quel mot est associé à 'Les Propositions Participiales Avancées'?\nChoix: listo/a, vivo/a, rico/a",
-    "correct": "rico/a",
+  "q_gram_c1_10_008": {
+    "question": "No veo la necesidad de ___ ese tema ahora. (discutir → infinitif replacing 'que discutamos')",
+    "correct": "discutir",
     "wrong": [
-      "listo/a",
-      "vivo/a"
+      "que discutamos",
+      "discutiendo",
+      "la discusión de"
     ],
-    "explanation": "Vocabulaire du chapitre 'Les Propositions Participiales Avancées'",
-    "hint": "C'est un mot du thème: Les Propositions Participiales Avancées"
+    "explanation": "Quand Le/La subjects de Le/La main et subordinate clauses overlap (yo/nosotros), Le/La infinitif peut replace 'que + subjonctif': 'No veo la necesidad de discutir' est simpler than 'No veo la necesidad de que discutamos'. Ce clause reduction est natural et preferred dans fluent Espagnol."
   },
-  "q_gram_c1_03_143": {
-    "question": "Quel mot est associé à 'La Référence et la Coréférence'?\nChoix: dicho esto, así, quizá(s)",
-    "correct": "cuánto",
+  "q_gram_c1_10_009": {
+    "question": "Dicho lo cual, el embajador abandonó la sala sin mediar más explicaciones.",
+    "correct": "Having said that, the ambassador left the room without offering any further explanation.",
     "wrong": [
-      "dicho esto",
-      "así",
-      "quizá(s)"
+      "Saying which, the ambassador abandoned the room without mediating more explanations.",
+      "That being said, the ambassador quit the room with no middle ground for explanations.",
+      "Which having been said, the ambassador went out of the room without more words."
     ],
-    "explanation": "Vocabulaire du chapitre 'La Référence et la Coréférence'",
-    "hint": "C'est un mot du thème: La Référence et la Coréférence"
+    "explanation": "'Dicho lo cual' (having said quel / Cela having été said) est an absolute participe construction used as a discourse linker. 'Sin mediar más explicaciones' signifie 'sans offering further explanation' — 'mediar' ici signifie 'à intervene/offer'."
   },
-  "q_gram_c1_04_144": {
-    "question": "Quel mot est associé à 'Les Structures d'Élision'?\nChoix: a fin de que, no sea que, aun cuando",
-    "correct": "no sea que",
+  "q_gram_c1_10_010": {
+    "question": "Oídas las partes, el tribunal ___ la sentencia en un plazo de diez días. (emitir, future indicatif, forme él — legal register après absolute participe)",
+    "correct": "emitirá",
     "wrong": [
-      "a fin de que",
-      "aun cuando"
+      "emitió",
+      "emite",
+      "emitiría"
     ],
-    "explanation": "Vocabulaire du chapitre 'Les Structures d'Élision'",
-    "hint": "C'est un mot du thème: Les Structures d'Élision"
+    "explanation": "'Oídas las partes' (Le/La parties having été heard) est an absolute participe clause dans legal register. Le/La future indicatif 'emitirá' indique Le/La tribunal's obligation à issue a ruling. C'est standard legal langue pour procedural descriptions.",
+    "conjugation_info": "emitir (future indicative): emitiré, emitirás, emitirá, emitiremos, emitiréis, emitirán"
   },
-  "q_gram_c1_05_145": {
-    "question": "Quel mot est associé à 'La Récursivité Syntaxique'?\nChoix: una vez + participio, al + infinitivo, de tanto + infinitivo",
-    "correct": "una vez + participio",
+  "q_gram_c1_11_001": {
+    "question": "Fue María ___ resolvió el problema, no Pedro. (relative pronom pour cleft phrase)",
+    "correct": "quien",
     "wrong": [
-      "al + infinitivo",
-      "de tanto + infinitivo"
+      "que",
+      "la que",
+      "cual"
     ],
-    "explanation": "Vocabulaire du chapitre 'La Récursivité Syntaxique'",
-    "hint": "C'est un mot du thème: La Récursivité Syntaxique"
+    "explanation": "Ceci est un cleft phrase (oración hendida): 'Fue María quien resolvió el problema'. Le/La construction 'ser + focused element + quien/que' isolates et emphasizes 'María' as Le/La agent. 'Quien' est utilisé pour personnes dans cleft sentences, though 'la que' est aussi acceptable dans quelques dialects."
   },
-  "q_gram_c1_06_146": {
-    "question": "Quel mot est associé à 'Les Marqueurs Discursifs Sophistiqués'?\nChoix: ni siquiera, sumamente, menudo/a",
-    "correct": "sumamente",
+  "q_gram_c1_11_002": {
+    "question": "Lo que necesitamos ___ más tiempo para completar la investigación. (ser, indicatif présent)",
+    "correct": "es",
     "wrong": [
-      "ni siquiera",
-      "menudo/a"
+      "está",
+      "fue",
+      "sea"
     ],
-    "explanation": "Vocabulaire du chapitre 'Les Marqueurs Discursifs Sophistiqués'",
-    "hint": "C'est un mot du thème: Les Marqueurs Discursifs Sophistiqués"
+    "explanation": "Ceci est un pseudo-cleft phrase (oración pseudohendida): 'Lo que necesitamos es más tiempo'. Le/La structure 'lo que + clause + ser + focused element' emphasizes Le/La information après 'ser'. Le/La indicatif présent 'es' est utilisé parce que Le/La need est current."
   },
-  "q_gram_c1_07_147": {
-    "question": "Quel mot est associé à 'L'Accord et l'Attraction'?\nChoix: vos, vosotros/as, acá",
-    "correct": "acá",
+  "q_gram_c1_11_003": {
+    "question": "Quel est Le/La difference between a cleft phrase et a pseudo-cleft phrase en espagnol?",
+    "correct": "A cleft sentence uses 'ser + focused element + que/quien' (Fue Juan quien llamó), while a pseudo-cleft uses 'lo que + clause + ser + focus' (Lo que quiero es paz)",
     "wrong": [
-      "vos",
-      "vosotros/as"
+      "Cleft sentences emphasize the verb and pseudo-clefts emphasize the subject",
+      "Cleft sentences are only used in questions and pseudo-clefts in statements",
+      "There is no structural difference; the terms are interchangeable in Spanish grammar"
     ],
-    "explanation": "Vocabulaire du chapitre 'L'Accord et l'Attraction'",
-    "hint": "C'est un mot du thème: L'Accord et l'Attraction"
+    "explanation": "Cleft sentences (hendidas) front Le/La focused element après 'ser': 'Fue ayer cuando lo vi'. Pseudo-clefts (pseudohendidas) use a free relative clause avec 'lo que': 'Lo que me molesta es su actitud'. Les deux serve à highlight specific information, mais avec different syntactic structures."
   },
-  "q_gram_c1_08_148": {
-    "question": "Quel mot est associé à 'Les Constructions Obliques'?\nChoix: afirmar, negar, advertir",
-    "correct": "advertir",
+  "q_gram_c1_11_004": {
+    "question": "Fue precisamente en Barcelona donde se ___ la primera reunión del comité. (celebrar, pretérito indefinido, pasiva refleja)",
+    "correct": "celebró",
     "wrong": [
-      "afirmar",
-      "negar"
+      "celebraba",
+      "ha celebrado",
+      "celebre"
     ],
-    "explanation": "Vocabulaire du chapitre 'Les Constructions Obliques'",
-    "hint": "C'est un mot du thème: Les Constructions Obliques"
+    "explanation": "Ce cleft phrase emphasizes Le/La location: 'Fue en Barcelona donde se celebró...' Le/La pasiva refleja 'se celebró' (était held) est Le/La standard way pour exprimer passive sens sans an agent. Le/La pretérito indefinido marks a completed past event.",
+    "conjugation_info": "celebrar (pretérito indefinido): celebré, celebraste, celebró, celebramos, celebrasteis, celebraron"
   },
-  "q_gram_c1_09_149": {
-    "question": "Quel mot est associé à 'La Frontalisation et l'Extraposition'?\nChoix: dicho/a, este último, a continuación",
-    "correct": "así pues",
+  "q_gram_c1_11_005": {
+    "question": "A mí, lo que más me ___ es la falta de transparencia por parte del gobierno. (preocupar)",
+    "correct": "preocupa",
     "wrong": [
-      "dicho/a",
-      "este último",
-      "a continuación"
+      "preocupo",
+      "preocupe",
+      "preocupan"
     ],
-    "explanation": "Vocabulaire du chapitre 'La Frontalisation et l'Extraposition'",
-    "hint": "C'est un mot du thème: La Frontalisation et l'Extraposition"
+    "explanation": "'A mí' est a left-dislocated element pour emphasis, doubled par Le/La resumptive pronom 'me'. Le/La pseudo-cleft 'lo que más me preocupa' emphasizes Le/La focused element 'la falta de transparencia'. Le verbe 'preocupa' s'accorde avec Le/La singulier subject 'lo que'."
   },
-  "q_gram_c1_10_150": {
-    "question": "Quel mot est associé à 'Les Structures Disloquées'?\nChoix: tener sentido, darse cuenta de, tener lugar",
-    "correct": "tener sentido",
+  "q_gram_c1_11_006": {
+    "question": "Fue entonces cuando el presidente ___ su dimisión ante la asamblea. (presentar, pretérito indefinido, forme él — temporal cleft phrase)",
+    "correct": "presentó",
     "wrong": [
-      "darse cuenta de",
-      "tener lugar"
+      "presentaba",
+      "presenta",
+      "presentaría"
     ],
-    "explanation": "Vocabulaire du chapitre 'Les Structures Disloquées'",
-    "hint": "C'est un mot du thème: Les Structures Disloquées"
+    "explanation": "'Fue entonces cuando' est a temporal cleft construction Cela emphasizes Le/La moment de Le/La action. Le/La pretérito indefinido 'presentó' est requis parce que Le/La resignation était a single, completed event à Cela specific moment.",
+    "conjugation_info": "presentar (pretérito indefinido): presenté, presentaste, presentó, presentamos, presentasteis, presentaron"
+  },
+  "q_gram_c1_11_007": {
+    "question": "El problema, ___ lo ve el comité, requiere una solución inmediata. (según/tal como — right dislocation marker)",
+    "correct": "según",
+    "wrong": [
+      "como",
+      "que",
+      "cual"
+    ],
+    "explanation": "'El problema, según lo ve el comité' uses a parenthetical clause Cela functions similarly à right dislocation, inserting Le/La committee's perspective mid-phrase. 'Según' (according à/as) introduces Ce viewpoint clause sans disrupting Le/La main phrase structure."
+  },
+  "q_gram_c1_11_008": {
+    "question": "Que I really want est pour them à understand Le/La severity de Le/La situation.",
+    "correct": "Lo que realmente quiero es que comprendan la gravedad de la situación.",
+    "wrong": [
+      "Qué realmente quiero es que ellos entienden la severidad de la situación.",
+      "Lo que de verdad quiero es ellos comprender la seriedad de la situación.",
+      "Realmente lo que quiero es comprendan la gravedad de la situación."
+    ],
+    "explanation": "Ceci est un pseudo-cleft phrase: 'Lo que quiero es que + subjonctif'. Le/La subjonctif 'comprendan' est requis après 'quiero que' (volition trigger). 'Gravedad' est Le/La correct translation pour 'severity/seriousness' dans Ce context, not Le/La faux ami 'severidad'."
+  },
+  "q_gram_c1_11_009": {
+    "question": "Ni siquiera el director ___ capaz de resolver semejante dilema ético. (ser, conditionnel, forme él — focus particle 'ni siquiera')",
+    "correct": "sería",
+    "wrong": [
+      "fuera",
+      "fue",
+      "es"
+    ],
+    "explanation": "'Ni siquiera' (not even) est a focus particle Cela emphasizes Le/La unexpectedness de le sujet ('el director'). Le/La conditionnel 'sería' exprime a hypothetical assessment. Focus particles like 'ni siquiera', 'incluso', 'hasta', et 'solo' sont key emphatic devices à C1 level.",
+    "conjugation_info": "ser (conditional): sería, serías, sería, seríamos, seríais, serían"
+  },
+  "q_gram_c1_11_010": {
+    "question": "Lo que me resulta verdaderamente incomprensible es que nadie haya denunciado semejante irregularidad.",
+    "correct": "What I find truly incomprehensible is that nobody has reported such an irregularity.",
+    "wrong": [
+      "What results truly incomprehensible to me is that nobody denounced such an irregularity.",
+      "That which I find really incomprehensible is that no one would report a similar irregularity.",
+      "What seems incomprehensible to me is that anyone reported this kind of irregularity."
+    ],
+    "explanation": "Ce pseudo-cleft phrase emphasizes Le/La speaker's bewilderment. 'Resultar' ici signifie 'à find/à seem' (not 'à result'). 'Haya denunciado' (passé composé subjonctif) est utilisé après 'es incomprensible que' parce que il exprime a subjective judgment à propos de a completed action. 'Semejante' signifie 'such/de Ce kind'."
+  },
+  "q_gram_c1_12_001": {
+    "question": "En España se dice 'vosotros habláis', pero en Latinoamérica se dice 'ustedes ___'. (hablar, indicatif présent, forme ustedes)",
+    "correct": "hablan",
+    "wrong": [
+      "habláis",
+      "hablás",
+      "hablad"
+    ],
+    "explanation": "Dans Latin America, 'vosotros' ne pas exist. Le/La deuxième personne pluriel est toujours 'ustedes' avec troisième-personne verbe forms: 'ustedes hablan'. Dans Spain, 'vosotros habláis' est informel et 'ustedes hablan' est formel. C'est one de Le/La la plupart fundamental regional differences.",
+    "conjugation_info": "hablar — Spain: vosotros habláis (informal), ustedes hablan (formal) | Latin America: ustedes hablan (both formal and informal)"
+  },
+  "q_gram_c1_12_002": {
+    "question": "En Argentina: '¿Vos ___ venir a la fiesta esta noche?' (querer, voseo, indicatif présent)",
+    "correct": "querés",
+    "wrong": [
+      "quieres",
+      "queréis",
+      "querís"
+    ],
+    "explanation": "Argentine voseo conjugates -er verbes dans Le/La indicatif présent avec stress sur Le/La dernier syllable: 'vos querés'. Le/La diphthong 'ie' dans 'quieres' ne pas occur parce que Le/La stress shifts à Le/La terminaison. Chilean voseo serait use 'querís', mais Argentine standard est 'querés'."
+  },
+  "q_gram_c1_12_003": {
+    "question": "En España es común oír: 'Le vi a Juan en el parque.' Esto es un ejemplo de ___.",
+    "correct": "leísmo",
+    "wrong": [
+      "laísmo",
+      "loísmo",
+      "dequeísmo"
+    ],
+    "explanation": "Leísmo est Le/La use de 'le' instead de 'lo' pour Le/La masculin direct object (referring à personnes). Standard Espagnol requires 'Lo vi a Juan', mais dans beaucoup de Spain, particularly Castile, 'Le vi a Juan' est widespread et even accepted par Le/La RAE pour masculin singulier human referents."
+  },
+  "q_gram_c1_12_004": {
+    "question": "Quel est Le/La main difference between Spain et Latin America regarding Le/La use de Le/La pretérito perfecto (he cantado) et Le/La pretérito indefinido (canté)?",
+    "correct": "In Spain, the pretérito perfecto is used for recent or same-day past events ('hoy he comido'), while in much of Latin America, the pretérito indefinido is preferred even for recent events ('hoy comí')",
+    "wrong": [
+      "Latin America uses the pretérito perfecto more frequently than Spain for all past events",
+      "There is no difference; both regions use the tenses identically",
+      "Spain only uses the pretérito indefinido and Latin America only uses the pretérito perfecto"
+    ],
+    "explanation": "Ceci est un major regional grammar difference. Dans Peninsular Espagnol, 'Esta mañana he desayunado temprano' est natural, mais dans Mexican, Argentine, et other Latin American varieties, 'Esta mañana desayuné temprano' est preferred. Le/La pretérito perfecto dans Latin America est typiquement reserved pour actions avec clear present relevance."
+  },
+  "q_gram_c1_12_005": {
+    "question": "En el voseo rioplatense, el imperativo de 'venir' es: '¡___!' (venir, voseo impératif)",
+    "correct": "Vení",
+    "wrong": [
+      "Ven",
+      "Venid",
+      "Vení vos"
+    ],
+    "explanation": "Le/La voseo impératif de 'venir' est 'vení' (stress sur Le/La final syllable). C'est formed par dropping Le/La -r de Le/La infinitif et adding an accent sur Le/La final vowel: venir → vení. Compare avec tuteo impératif 'ven' et vosotros impératif 'venid'.",
+    "conjugation_info": "venir (voseo imperative): vení — compare: tú ven, vosotros venid | Other examples: decir → decí, salir → salí, poner → poné"
+  },
+  "q_gram_c1_12_006": {
+    "question": "La ___ di el regalo a María, no a su hermana. (pronom: 'à her' — exemple de laísmo si 'la' est utilisé)",
+    "correct": "Le",
+    "wrong": [
+      "La",
+      "Lo",
+      "Se"
+    ],
+    "explanation": "'Le' est Le/La correct indirect object pronom pour 'a María'. Using 'la' ici serait laísmo — Le/La incorrect use de 'la' as an indirect object pronom pour féminin referents. Laísmo est commun dans parts de central Spain mais est not accepted par Le/La RAE."
+  },
+  "q_gram_c1_12_007": {
+    "question": "Dans Colombia, ils souvent say 'usted' even between close friends et famille members.",
+    "correct": "En Colombia, a menudo dicen 'usted' incluso entre amigos cercanos y familiares.",
+    "wrong": [
+      "En Colombia, normalmente dicen 'tú' incluso entre amigos y familia.",
+      "En Colombia, frecuentemente utilizan 'vosotros' entre amigos íntimos.",
+      "En Colombia, suelen decir 'vos' solamente entre amigos cercanos y familia."
+    ],
+    "explanation": "Dans beaucoup Colombian regions (surtout Bogotá et Le/La Andean highlands), 'usted' est utilisé between close friends, famille members, et even romantic partners, sans conveying formality. Ceci est un distinctive regional feature où 'usted' a lost son formel connotation dans intimate contexts."
+  },
+  "q_gram_c1_12_008": {
+    "question": "En España: 'He ___ a casa hace un rato.' En México: '___ a casa hace un rato.' (llegar — contrast pretérito perfecto vs. pretérito indefinido)",
+    "correct": "llegado / Llegué",
+    "wrong": [
+      "llegado / He llegado",
+      "llegué / Llegué",
+      "llegado / Llegaba"
+    ],
+    "explanation": "Dans Spain, Le/La pretérito perfecto 'he llegado' est natural pour a recent event ('hace un rato' = a pendant que ago). Dans Mexico, Le/La pretérito indefinido 'llegué' est strongly preferred pour Le/La same context. Ce demonstrates Le/La core regional difference dans past tense usage."
+  },
+  "q_gram_c1_12_009": {
+    "question": "Che, ¿por qué no nos juntamos mañana y tomamos unos mates?",
+    "correct": "Hey, why don't we get together tomorrow and have some mate (tea)?",
+    "wrong": [
+      "Hey, why don't we meet tomorrow and take some checkmates?",
+      "Friend, why don't we gather tomorrow and drink some coffees?",
+      "Buddy, why didn't we get together tomorrow to take some mates?"
+    ],
+    "explanation": "'Che' est an Argentine/Uruguayan interjection used à get attention ou exprimer camaraderie (similaire à 'hey' ou 'mate'). 'Juntarse' signifie 'à get together' (Rioplatense usage). 'Tomar unos mates' se réfère à drinking mate, Le/La traditional South American herbal tea, quel est central à Argentine social culture."
+  },
+  "q_gram_c1_12_010": {
+    "question": "En las Islas Canarias, el sistema pronominal se parece más al de Latinoamérica: se usa 'ustedes' en lugar de ___. (pronom, forme vosotros)",
+    "correct": "vosotros",
+    "wrong": [
+      "ellos",
+      "nosotros",
+      "usted"
+    ],
+    "explanation": "Le/La Canary Islands, despite being part de Spain, share several linguistic features avec Latin American Espagnol, including Le/La absence de 'vosotros'. Canarian Espagnol uses 'ustedes' pour les deux formel et informel deuxième personne pluriel, just like Latin American varieties.",
+    "conjugation_info": "Canarian Spanish pronoun system: yo, tú, usted, nosotros, ustedes (no vosotros), ellos — identical to most Latin American systems"
+  },
+  "q_gram_c1_13_001": {
+    "question": "El profesor dijo que el examen ___ el lunes siguiente. (ser, reported speech backshift)",
+    "correct": "sería",
+    "wrong": [
+      "será",
+      "fue",
+      "sea"
+    ],
+    "explanation": "Dans reported speech, quand Le/La reporting verbe est dans Le/La past ('dijo'), Le/La original future 'será' shifts à Le/La conditionnel 'sería'. Ce backshift (correlación de tiempos) est obligatory dans formel Espagnol: 'El examen será el lunes' → El profesor dijo que 'el examen sería el lunes siguiente'."
+  },
+  "q_gram_c1_13_002": {
+    "question": "María nos contó que ___ muy contenta con los resultados del proyecto. (estar, reported speech)",
+    "correct": "estaba",
+    "wrong": [
+      "está",
+      "estuvo",
+      "estuviera"
+    ],
+    "explanation": "Quand Le/La original statement était 'Estoy muy contenta' (indicatif présent), reported speech avec a past reporting verbe ('contó') requires backshift à Le/La imparfait indicatif: 'estaba'. C'est Le/La standard sequence-de-tenses shift: present → imparfait."
+  },
+  "q_gram_c1_13_003": {
+    "question": "Que happens à Le/La subjonctif mood dans reported speech quand Le/La reporting verbe est dans Le/La past?",
+    "correct": "The present subjunctive shifts to the imperfect subjunctive (e.g., 'Quiero que venga' → 'Dijo que quería que viniera')",
+    "wrong": [
+      "The subjunctive remains unchanged regardless of the tense of the reporting verb",
+      "The subjunctive changes to the indicative mood in all reported speech",
+      "The subjunctive shifts to the conditional in reported speech"
+    ],
+    "explanation": "Backshift affects Le/La subjonctif as well: subjonctif présent → subjonctif imparfait, passé composé subjonctif → plus-que-parfait subjonctif. Par exemple: 'Espero que haya llegado' → 'Esperaba que hubiera llegado'. Le/La mood itself (subjonctif) est preserved; seulement Le/La tense shifts."
+  },
+  "q_gram_c1_13_004": {
+    "question": "El testigo declaró que no ___ nada sospechoso aquella noche. (ver, plus-que-parfait indicatif, forme él — reported speech)",
+    "correct": "había visto",
+    "wrong": [
+      "vio",
+      "ha visto",
+      "veía"
+    ],
+    "explanation": "Dans reported speech, Le/La original passé simple 'no vi nada' ou passé composé 'no he visto nada' shifts à Le/La plus-que-parfait 'no había visto nada' quand Le/La reporting verbe est dans Le/La past ('declaró'). Ce maintains Le/La anteriority relationship.",
+    "conjugation_info": "ver (pluperfect indicative): había visto, habías visto, había visto, habíamos visto, habíais visto, habían visto"
+  },
+  "q_gram_c1_13_005": {
+    "question": "La ministra aseguró que el gobierno ___ todas las medidas necesarias. (tomar, conditionnel — reported speech de future)",
+    "correct": "tomaría",
+    "wrong": [
+      "tomará",
+      "tome",
+      "tomaba"
+    ],
+    "explanation": "Le/La original statement était likely 'El gobierno tomará todas las medidas necesarias' (future). Dans reported speech avec Le/La past reporting verbe 'aseguró', Le/La future 'tomará' shifts à Le/La conditionnel 'tomaría'. C'est Le/La standard future → conditionnel backshift."
+  },
+  "q_gram_c1_13_006": {
+    "question": "El médico le recomendó que ___ más ejercicio y que ___ la dieta. (hacer, cambiar, subjonctif imparfait — reported speech avec subjonctif)",
+    "correct": "hiciera / cambiara",
+    "wrong": [
+      "haga / cambie",
+      "haría / cambiaría",
+      "hizo / cambió"
+    ],
+    "explanation": "Le/La original recommendation était 'Le recomiendo que haga más ejercicio y que cambie la dieta' (subjonctif présent). Avec Le/La past reporting verbe 'recomendó', les deux present subjunctives shift à imparfait subjunctives: haga → hiciera, cambie → cambiara.",
+    "conjugation_info": "hacer (imperfect subjunctive): hiciera, hicieras, hiciera, hiciéramos, hicierais, hicieran | cambiar: cambiara, cambiaras, cambiara, cambiáramos, cambiarais, cambiaran"
+  },
+  "q_gram_c1_13_007": {
+    "question": "Los vecinos se ___ de que nadie les hubiera avisado del corte de agua. (quejarse, pretérito indefinido, forme ellos — introducing reported complaint avec subjonctif)",
+    "correct": "quejaron",
+    "wrong": [
+      "quejan",
+      "quejaban",
+      "quejaron se"
+    ],
+    "explanation": "'Quejarse de que' (à complain Cela) takes Le/La subjonctif dans Le/La subordinate clause quand expressing an emotional reaction. Le/La pretérito indefinido 'se quejaron' marks Le/La complaint as a specific past event. Le/La plus-que-parfait subjonctif 'hubiera avisado' indique Le/La prior non-event Cela caused Le/La complaint."
+  },
+  "q_gram_c1_13_008": {
+    "question": "Le/La journalist reported Cela Le/La authorities avait already été informed de Le/La threat.",
+    "correct": "El periodista informó de que las autoridades ya habían sido informadas de la amenaza.",
+    "wrong": [
+      "El periodista reportó que las autoridades ya fueron informadas de la amenaza.",
+      "El periodista informó que las autoridades ya eran informadas de la amenaza.",
+      "El periodista dijo de que las autoridades ya habían sido informando de la amenaza."
+    ],
+    "explanation": "'Informar de que' est Le/La correct construction (not 'informar que', quel serait dequeísmo dans reverse — ou rather, 'informar que' sans 'de' est actually Le/La commun error called 'queísmo'). Le/La plus-que-parfait passive 'habían sido informadas' correctly maintains Le/La anteriority dans reported speech."
+  },
+  "q_gram_c1_13_009": {
+    "question": "El embajador insistió en que se ___ todos los protocolos diplomáticos al pie de la letra. (cumplir, subjonctif imparfait, pasiva refleja)",
+    "correct": "cumplieran",
+    "wrong": [
+      "cumplan",
+      "cumplieron",
+      "cumplirían"
+    ],
+    "explanation": "'Insistir en que' + past reporting verbe requires Le/La subjonctif imparfait dans Le/La subordinate clause. 'Se cumplieran' est Le/La pasiva refleja (reflexive passive) form, sens 'Cela tous diplomatic protocols être followed'. Le/La pluriel verbe s'accorde avec 'protocolos'.",
+    "conjugation_info": "cumplir (imperfect subjunctive): cumpliera, cumplieras, cumpliera, cumpliéramos, cumplierais, cumplieran"
+  },
+  "q_gram_c1_13_010": {
+    "question": "El acusado negó rotundamente que hubiera participado en los hechos delictivos.",
+    "correct": "The defendant categorically denied having participated in the criminal acts.",
+    "wrong": [
+      "The accused rotundly denied that he had participated in the delictive facts.",
+      "The defendant flatly denied that he would have participated in the criminal events.",
+      "The accused completely denied participating in the delinquent acts."
+    ],
+    "explanation": "'Negar que' + subjonctif est standard parce que denial triggers Le/La subjonctif. 'Rotundamente' signifie 'categorically/flatly' (not 'rotundly'). 'Hubiera participado' (plus-que-parfait subjonctif) est utilisé parce que Le/La denied action precedes Le/La denial. 'Hechos delictivos' signifie 'criminal acts' (legal terminology)."
+  },
+  "q_gram_c1_14_001": {
+    "question": "El informe detalla los problemas; ___ también propone soluciones concretas. (este/este mismo — anaphoric reference, demonstrative)",
+    "correct": "este",
+    "wrong": [
+      "él",
+      "lo",
+      "ello"
+    ],
+    "explanation": "Dans formel text cohesion, Le/La demonstrative 'este' (Ce one / Le/La latter) serves as an anaphoric reference à 'el informe'. Using 'este' instead de repeating 'el informe' creates textual cohesion. Dans academic/formel register, 'este' peut refer back à Le/La la plupart recently mentioned nom.",
+    "conjugation_info": "Demonstratives for text cohesion: este/esta/estos/estas (anaphoric, refers to nearest antecedent), aquel/aquella (refers to more distant antecedent)"
+  },
+  "q_gram_c1_14_002": {
+    "question": "La empresa anunció cambios significativos. ___ cambios afectarán a todos los departamentos. (dichos/tales — anaphoric demonstrative)",
+    "correct": "Dichos",
+    "wrong": [
+      "Estos",
+      "Los",
+      "Esos"
+    ],
+    "explanation": "'Dichos' (said/aforementioned) est a formel anaphoric device Cela refers back à previously mentioned noms. 'Dichos cambios' = 'Le/La aforementioned changes'. C'est characteristic de legal, academic, et journalistic register et creates strong textual cohesion."
+  },
+  "q_gram_c1_14_003": {
+    "question": "Juan estudió medicina y María también lo ___. (hacer — ellipsis avec 'hacerlo')",
+    "correct": "hizo",
+    "wrong": [
+      "haz",
+      "hace",
+      "hacía"
+    ],
+    "explanation": "'Lo hizo' est a pro-form Cela substitutes pour Le/La entire predicate 'estudió medicina', functioning like Anglais 'did donc/did too'. Ceci est un form de substitution Cela avoids repetition et creates cohesion. Le/La pretérito indefinido 'hizo' matches Le/La tense de 'estudió'."
+  },
+  "q_gram_c1_14_004": {
+    "question": "Quel est Le/La difference between anaphoric et cataphoric reference dans text cohesion?",
+    "correct": "Anaphoric reference points backward to something already mentioned (e.g., 'Juan came. He was tired'), while cataphoric reference points forward to something not yet mentioned (e.g., 'This is what I mean: we must change')",
+    "wrong": [
+      "Anaphoric reference uses pronouns and cataphoric reference uses nouns",
+      "Anaphoric reference is used in writing and cataphoric reference is used in speech",
+      "Anaphoric reference connects paragraphs and cataphoric reference connects sentences"
+    ],
+    "explanation": "Anaphora (backward reference) est far more commun: 'María llegó tarde. Ella se disculpó.' Cataphora (forward reference) creates suspense ou emphasis: 'Esto es lo que quiero decir: debemos actuar ya.' Les deux sont essential cohesion devices, mais cataphora requires more careful planning."
+  },
+  "q_gram_c1_14_005": {
+    "question": "La primera propuesta fue rechazada; la segunda, en cambio, ___ aprobada por unanimidad. (ser, pretérito indefinido — ellipsis de 'propuesta fue')",
+    "correct": "fue",
+    "wrong": [
+      "era",
+      "sería",
+      "ha sido"
+    ],
+    "explanation": "Ce phrase uses ellipsis: 'la segunda [propuesta] fue [aprobada]' omits Le/La repeated nom 'propuesta' après Le/La ordinal. Le/La comma après 'la segunda' marks Le/La ellipsis point. 'En cambio' (sur Le/La other hand) est an adversative connector creating contrast between Le/La two propositions.",
+    "conjugation_info": "ser (pretérito indefinido): fui, fuiste, fue, fuimos, fuisteis, fueron — used in passive constructions: fue aprobada, fue rechazada"
+  },
+  "q_gram_c1_14_006": {
+    "question": "Los investigadores presentaron sus hallazgos. ___, el público pudo formular preguntas. (a continuación — sequential connector)",
+    "correct": "A continuación",
+    "wrong": [
+      "Sin embargo",
+      "Por lo tanto",
+      "No obstante"
+    ],
+    "explanation": "'A continuación' (suivant/afterwards) est a temporal sequential connector Cela organizes events chronologically dans discourse. Il signals Cela Le/La Q&A session followed Le/La presentation. Sequential connectors like 'a continuación', 'seguidamente', et 'posteriormente' sont essential pour text cohesion."
+  },
+  "q_gram_c1_14_007": {
+    "question": "Le/La results confirm Le/La hypothesis; cependant, further research est nécessaire à validate them.",
+    "correct": "Los resultados confirman la hipótesis; no obstante, se necesita más investigación para validarlos.",
+    "wrong": [
+      "Los resultados confirman la hipótesis; pero, se necesita investigar más para validarlas.",
+      "Los resultados confirman la hipotesis; sin embargo se necesitan más investigación para validarlos.",
+      "Los resultados confirmaron la hipótesis; no obstante, se necesitará más investigaciones para validarlos."
+    ],
+    "explanation": "'No obstante' (cependant/nevertheless) est a formel adversative connector. Le pronom 'validarlos' se réfère à 'los resultados' (masculin pluriel). Academic register requires Le/La impersonal 'se necesita' + singulier nom. Note Le/La semicolon avant 'no obstante' et Le/La comma après il."
+  },
+  "q_gram_c1_14_008": {
+    "question": "El gobierno implementó nuevas políticas fiscales; ___, redujo el gasto público en un 15%. (asimismo/además — additive connector pour formel cohesion)",
+    "correct": "asimismo",
+    "wrong": [
+      "sin embargo",
+      "por consiguiente",
+      "en cambio"
+    ],
+    "explanation": "'Asimismo' (likewise/dans addition) est a formel additive connector Cela links two complementary actions. Il creates textual cohesion par showing Cela Le/La spending cut était an additional measure alongside Le/La fiscal policies, not a consequence ou contrast."
+  },
+  "q_gram_c1_14_009": {
+    "question": "Cabe señalar, asimismo, que los datos recopilados hasta la fecha no permiten extraer conclusiones definitivas.",
+    "correct": "It should also be noted that the data collected to date do not allow definitive conclusions to be drawn.",
+    "wrong": [
+      "It fits to signal, likewise, that the data compiled to the date don't permit extracting definitive conclusions.",
+      "We should point out, in addition, that the gathered data until today cannot draw final conclusions.",
+      "It is worth also signaling that the data recollected up to this date does not permit to extract conclusive definitions."
+    ],
+    "explanation": "'Cabe señalar' (il devrait être noted) est a formel impersonal expression. 'Asimismo' (likewise/aussi) est positioned parenthetically between commas. 'Hasta la fecha' signifie 'à date'. 'Extraer conclusiones' (à draw conclusions) est a fixed collocation dans academic Espagnol. Le/La entire phrase exemplifies formel academic cohesion."
+  },
+  "q_gram_c1_14_010": {
+    "question": "El estudio se centró en tres variables, a saber: la edad, el nivel educativo y el ingreso mensual. El conector 'a saber' cumple una función ___. (catafórica/cataphoric, explicativa/explanatory)",
+    "correct": "catafórica",
+    "wrong": [
+      "anafórica",
+      "adversativa",
+      "consecutiva"
+    ],
+    "explanation": "'A saber' (namely) est a cataphoric connector: il points forward à information Cela a not encore été presented (Le/La three variables). Ceci est un textbook exemple de cataphoric reference — Le/La colon après 'a saber' introduces Le/La enumeration Cela follows.",
+    "conjugation_info": "Cataphoric connectors: a saber (namely), lo siguiente (the following), esto es (that is), a continuación (as follows)"
+  },
+  "q_gram_c1_15_001": {
+    "question": "Yo me recuerdo de aquel día perfectamente. → Correct: 'Yo ___ aquel día perfectamente.' (recordar, forme yo)",
+    "correct": "recuerdo",
+    "wrong": [
+      "me recuerdo de",
+      "me acuerdo",
+      "recuerdo de"
+    ],
+    "explanation": "Le/La error est using 'recordar' as a reflexive verbe avec 'de'. Dans standard Espagnol, 'recordar' est transitive et non-reflexive: 'recuerdo algo'. Le/La reflexive form 'acordarse de' exists ('me acuerdo de aquel día'), mais 'recordarse de' est incorrect — il's a commun contamination between Le/La two verbes."
+  },
+  "q_gram_c1_15_002": {
+    "question": "*Hubieron* muchos problemas durante la construcción. → ___ muchos problemas durante la construcción. (haber, impersonal, pretérito indefinido)",
+    "correct": "Hubo",
+    "wrong": [
+      "Hubieron",
+      "Han habido",
+      "Habían"
+    ],
+    "explanation": "Quand 'haber' est utilisé as an impersonal existential verbe (sens 'Il y a/sont'), il doit toujours remain dans Le/La troisième personne singulier, regardless de Le/La nombre de Le/La following nom. 'Hubo problemas' (not 'hubieron'), 'hay problemas' (not 'han'), 'había problemas' (not 'habían'). C'est one de Le/La la plupart commun errors even among native speakers."
+  },
+  "q_gram_c1_15_003": {
+    "question": "Quel est a 'faux ami' (falso amigo) et pourquoi est 'actualmente' a classic exemple pour Anglais speakers?",
+    "correct": "'Actualmente' means 'currently/at present' in Spanish, not 'actually'. The English 'actually' translates to 'en realidad' or 'de hecho'. False friends are words that look similar in two languages but have different meanings.",
+    "wrong": [
+      "'Actualmente' means 'actually' in both languages; it is not a false friend",
+      "'Actualmente' is an archaic word that is no longer used in modern Spanish",
+      "'Actualmente' means 'in an actual manner' and is used the same way as in English"
+    ],
+    "explanation": "Faux friends (falsos amigos) sont a major source de errors pour langue learners. Espagnol 'actualmente' = 'currently'; 'realizar' = 'à carry out' (not 'à realize'); 'sensible' = 'sensitive' (not 'sensible'); 'embarazada' = 'pregnant' (not 'embarrassed'). Recognizing ces est essential à C1 level."
+  },
+  "q_gram_c1_15_004": {
+    "question": "Identify et correct: 'Le dije de que viniera temprano.' (dequeísmo, correct form de decir + subordinate clause)",
+    "correct": "Le dije que viniera temprano.",
+    "wrong": [
+      "Le dije de venir temprano.",
+      "Le dije a que viniera temprano.",
+      "Le decía de que viniera temprano."
+    ],
+    "explanation": "'Dequeísmo' est Le/La incorrect insertion de 'de' avant 'que' où il est not required. 'Decir' takes a direct 'que' clause: 'dije que', not 'dije de que'. À check: Le/La replacement test — 'Dije eso' (not 'dije de eso') confirms no 'de' est nécessaire.",
+    "conjugation_info": "Verbs WITHOUT 'de': decir que, creer que, pensar que, esperar que | Verbs WITH 'de': acordarse de que, alegrarse de que, estar seguro de que"
+  },
+  "q_gram_c1_15_005": {
+    "question": "*Si tendría* más dinero, compraría una casa. → Si ___ más dinero, compraría una casa. (tener, correct form après 'si')",
+    "correct": "tuviera",
+    "wrong": [
+      "tendría",
+      "tenía",
+      "tengo"
+    ],
+    "explanation": "Using Le/La conditionnel ('tendría') dans Le/La si-clause est one de Le/La la plupart stigmatized errors en espagnol. Le/La règle est absolute: 'si' + subjonctif imparfait (tuviera), jamais 'si' + conditionnel (tendría). Le/La conditionnel belongs seulement dans Le/La main clause: 'compraría'."
+  },
+  "q_gram_c1_15_006": {
+    "question": "Identify et correct: 'Ayer, Juan y yo fuimos al cine y después cenemos en un restaurante.' (tense consistency error)",
+    "correct": "cenamos",
+    "wrong": [
+      "cenábamos",
+      "cenaríamos",
+      "habíamos cenado"
+    ],
+    "explanation": "Le/La error est 'cenemos' (subjonctif présent) où Le/La pretérito indefinido 'cenamos' est nécessaire. Les deux verbes devrait être dans Le/La same past tense à maintain narrative consistency: 'fuimos al cine y después cenamos'. Le/La premier personne pluriel de -ar verbes a identical forms dans present et passé simple indicatif, mais context (ayer) makes il clearly past.",
+    "conjugation_info": "cenar (pretérito indefinido): cené, cenaste, cenó, cenamos, cenasteis, cenaron — note: 'cenamos' is identical to present indicative in form"
+  },
+  "q_gram_c1_15_007": {
+    "question": "La profesora les explicó el tema a las alumnas y *las* dio unos ejercicios. → ...y ___ dio unos ejercicios. (correct indirect object pronom)",
+    "correct": "les",
+    "wrong": [
+      "las",
+      "la",
+      "lo"
+    ],
+    "explanation": "Le/La error est 'las dio' (laísmo): using Le/La direct object pronom 'las' as an indirect object. 'Dar algo a alguien' takes an indirect object, donc Le/La correct pronom est 'les' (pour 'a las alumnas'). Laísmo (using la/las pour indirect objects) est commun dans central Spain mais est not accepted par Le/La RAE."
+  },
+  "q_gram_c1_15_008": {
+    "question": "Le/La conference était très interesting; I realized Cela I need à improve my presentation skills.",
+    "correct": "La conferencia fue muy interesante; me di cuenta de que necesito mejorar mis habilidades de presentación.",
+    "wrong": [
+      "La conferencia fue muy interesante; realicé que necesito mejorar mis capacidades de presentación.",
+      "La conferencia estuvo muy interesante; me realicé de que necesito mejorar mis habilidades presentativas.",
+      "La conferencia era muy interesada; me di cuenta que necesito mejorar mis destrezas de presentación."
+    ],
+    "explanation": "'À realize' (à become aware) est 'darse cuenta de que', NOT 'realizar' (ce qui signifie 'à carry out/accomplish'). Ceci est un classic faux ami error. Aussi, 'interesting' est 'interesante' (not 'interesada', ce qui signifie 'interested/self-serving'). Le/La full form est 'darse cuenta de que' (not 'darse cuenta que', quel serait queísmo)."
+  },
+  "q_gram_c1_15_009": {
+    "question": "Identify Le/La error et provide Le/La correct form: 'Ojalá que no *haiga* problemas con la entrega.' (haiga → correct form de haber, subjonctif présent)",
+    "correct": "haya",
+    "wrong": [
+      "haigan",
+      "habría",
+      "hay"
+    ],
+    "explanation": "'Haiga' est a non-standard dialectal form de Le/La subjonctif présent de 'haber'. Le/La correct form est 'haya'. Ce error est widespread dans rural et lower-register speech across beaucoup Espagnol-speaking regions mais est strongly stigmatized dans formel contexts. Le/La correct phrase est 'Ojalá que no haya problemas'.",
+    "conjugation_info": "haber (present subjunctive): haya, hayas, haya, hayamos, hayáis, hayan — NEVER 'haiga/haigas/haigan'"
+  },
+  "q_gram_c1_15_010": {
+    "question": "El hecho de que el español tenga tantas variantes regionales no significa que unas sean más correctas que otras.",
+    "correct": "The fact that Spanish has so many regional variants does not mean that some are more correct than others.",
+    "wrong": [
+      "The fact that Spanish has such regional variations doesn't signify that ones are more correct than the others.",
+      "The act that the Spanish would have so many regional variants doesn't mean some would be more correct than others.",
+      "The fact of that Spanish has many regional variants does not signify that some are more corrected than others."
+    ],
+    "explanation": "'El hecho de que' + subjonctif ('tenga') est a standard construction — Le/La subjonctif est triggered parce que il introduces a presupposed fact being discussed rather than asserted. 'No significa que' + subjonctif ('sean') follows parce que Le/La negative main clause creates uncertainty à propos de Le/La subordinate clause's truth."
   }
 }

@@ -2,722 +2,1202 @@
   "q_vocab_c1_01_001": {
     "question": "学術的な執筆で「cabe destacar」とは何を意味しますか？",
     "correct": "注目に値する / 強調されるべき",
-    "wrong": ["内部に収まる", "能力がある", "疑わしい"],
+    "wrong": [
+      "内部に収まる",
+      "能力がある",
+      "疑わしい"
+    ],
     "explanation": "「Cabe destacar」は「注目に値する」または「強調されるべき」を意味する正式な学術表現です。読者の注意を重要な点に引き付けるために、正式な執筆で使用されます。"
   },
   "q_vocab_c1_01_002": {
-    "question": "「en lo que respecta a」は何を意味しますか？",
+    "question": "「en lo que respecta 」は何を意味しますか？",
     "correct": "～に関しては / ～についていえば",
-    "wrong": ["尊敬されるものについて", "敬意の領域について", "敬意を払って"],
-    "explanation": "「En lo que respecta a」は「～に関しては」または「～についていえば」を意味します。学術的な談論内で特定のトピックや側面を導入するために使用される正式なリンク句です。"
+    "wrong": [
+      "尊敬されるものについて",
+      "敬意の領域について",
+      "敬意を払って"
+    ],
+    "explanation": "「En lo que respecta 」は「～に関しては」または「～についていえば」を意味します。学術的な談論内で特定のトピックや側面を導入するために使用される正式なリンク句です。"
   },
   "q_vocab_c1_01_003": {
-    "question": "「A modo de ___、podemos afirmar que los resultados confirman la hipótesis inicial.」",
+    "question": "「 modo de ___、podemos afirmar que los resultados confirman la hipótesis inicial.」",
     "correct": "conclusión",
-    "wrong": ["introducción", "explicación", "comparación"],
-    "explanation": "「A modo de conclusión」は「結論として」を意味します。このフレーズは学術論文で使用され、議論の最終的なまとめまたはクロージング発言を示します。"
+    "wrong": [
+      "introducción",
+      "explicación",
+      "comparación"
+    ],
+    "explanation": "「 modo de conclusión」は「結論として」を意味します。このフレーズは学術論文で使用され、議論の最終的なまとめまたはクロージング発言を示します。"
   },
   "q_vocab_c1_01_004": {
     "question": "研究文脈で「según los datos」は何を意味しますか？",
     "correct": "データによれば",
-    "wrong": ["日付を追う", "データの次", "データを保護する"],
+    "wrong": [
+      "日付を追う",
+      "データの次",
+      "データを保護する"
+    ],
     "explanation": "「Según los datos」は「データによれば」を意味します。学術的な執筆で証拠に基づく主張を導入するために使用されます。"
   },
   "q_vocab_c1_01_005": {
     "question": "正式な執筆で「no obstante」は何を意味しますか？",
     "correct": "しかしながら / とはいえ",
-    "wrong": ["立っていない", "障害がない", "明白ではない"],
+    "wrong": [
+      "立っていない",
+      "障害がない",
+      "明白ではない"
+    ],
     "explanation": "「No obstante」は「しかしながら」または「とはいえ」を意味する正式なコネクターです。対照的な考えを導入し、「pero」または「sin embargo」より高い言語レジスターと考えられています。"
   },
   "q_vocab_c1_01_006": {
-    "question": "「in light of the above」をスペイン語で言うと？",
+    "question": "「〜で light 〜の この above」をスペイン語で言うと？",
     "correct": "a la luz de lo anterior",
-    "wrong": ["a la vista de todos", "al principio del texto", "a pesar de todo"],
-    "explanation": "「In light of the above」は「a la luz de lo anterior」に翻訳されます。この学術的なフレーズは、以前に述べられた証拠または議論に言及して、新しいポイントをサポートします。"
+    "wrong": [
+      "a la vista de todos",
+      "al principio del texto",
+      "a pesar de todo"
+    ],
+    "explanation": "「〜で light 〜の この above」は「 la luz de lo anterior」に翻訳されます。この学術的なフレーズは、以前に述べられた証拠または議論に言及して、新しいポイントをサポートします。"
   },
   "q_vocab_c1_01_007": {
     "question": "「dicho de otro modo」は何を意味しますか？",
     "correct": "言い換えると / 別の言い方をすれば",
-    "wrong": ["別の人が言った", "別の方法で指示された", "別の気分で言った"],
+    "wrong": [
+      "別の人が言った",
+      "別の方法で指示された",
+      "別の気分で言った"
+    ],
     "explanation": "「Dicho de otro modo」は「言い換えると」または「別の言い方をすれば」を意味します。学術的なテキストで複雑なアイデアを言い換えたり、明確にしたりするために使用されます。"
   },
   "q_vocab_c1_01_008": {
     "question": "「cabe señalar」は何を意味しますか？",
     "correct": "指摘する価値がある",
-    "wrong": ["信号に適合する", "署名することができる", "信号を引き起こす"],
+    "wrong": [
+      "信号に適合する",
+      "署名することができる",
+      "信号を引き起こす"
+    ],
     "explanation": "「Cabe señalar」は「指摘する価値がある」を意味します。「Cabe destacar」と同様に、「fitting」の意味で非人称動詞「caber」を使用して、注目に値する情報を導入します。"
   },
   "q_vocab_c1_01_009": {
     "question": "大学院論文の導入部で研究の範囲を提示する必要があります。最も適切な表現はどれですか？",
     "correct": "El presente estudio se centra en analizar los factores que inciden en el fenómeno.",
-    "wrong": ["Este trabajo habla de cosas interesantes.", "Voy a escribir sobre un tema que me gusta.", "Aquí explico lo que pienso del asunto."],
+    "wrong": [
+      "Este trabajo habla de cosas interesantes.",
+      "Voy a escribir sobre un tema que me gusta.",
+      "Aquí explico lo que pienso del asunto."
+    ],
     "explanation": "「El presente estudio se centra en」は「本研究は～に焦点を当てている」を意味します。これは学術的な論文導入で期待される標準的な正式なレジスターで、正確で非人称の言語を使用しています。"
   },
   "q_vocab_c1_01_010": {
     "question": "研究の方法論における制限を認める必要があります。どのフレーズが適切な学術レジスターを示していますか？",
     "correct": "Si bien este estudio presenta ciertas limitaciones metodológicas, los hallazgos resultan significativos.",
-    "wrong": ["El estudio tiene problemas pero no importa mucho.", "Los errores del estudio no son tan graves como parecen.", "Hay fallos pero los resultados son buenos de todas formas."],
+    "wrong": [
+      "El estudio tiene problemas pero no importa mucho.",
+      "Los errores del estudio no son tan graves como parecen.",
+      "Hay fallos pero los resultados son buenos de todas formas."
+    ],
     "explanation": "「Si bien」（～であるが）と「limitaciones metodológicas」（方法論的限界）および「hallazgos significativos」（重要な発見）を組み合わせることで、研究制限を扱うときに学術的な執筆で必要とされるバランスの取れた、客観的なトーンを表しています。"
   },
   "q_vocab_c1_02_001": {
     "question": "医学用語で「la patología」は何を意味しますか？",
     "correct": "病理学 / 病態",
-    "wrong": ["忍耐力", "父権制度", "パトロール"],
+    "wrong": [
+      "忍耐力",
+      "父権制度",
+      "パトロール"
+    ],
     "explanation": "「La patología」は「病理学」を意味し、病気の研究、または病気そのものを指します。臨床環境では、病気の原因、メカニズム、および影響が含まれます。"
   },
   "q_vocab_c1_02_002": {
-    "question": "「El tribunal dictó una ___ absolutoria a favor del acusado.」",
+    "question": "「El tribunal dictó una ___ absolutoria favor del acusado.」",
     "correct": "sentencia",
-    "wrong": ["evidencia", "licencia", "tendencia"],
+    "wrong": [
+      "evidencia",
+      "licencia",
+      "tendencia"
+    ],
     "explanation": "「Sentencia absolutoria」は「無罪判決」を意味します。文は「裁判所は被告に有利な無罪判決を下した」という意味です。法的用語では、「sentencia」は司法判決または判決を指します。"
   },
   "q_vocab_c1_02_003": {
     "question": "「el ensayo clínico」は何を意味しますか？",
     "correct": "臨床試験",
-    "wrong": ["臨床的なエッセイ", "臨床リハーサル", "臨床的試み"],
+    "wrong": [
+      "臨床的なエッセイ",
+      "臨床リハーサル",
+      "臨床的試み"
+    ],
     "explanation": "「El ensayo clínico」は「臨床試験」を意味し、医療処置、薬物、またはデバイスの安全性と有効性をヒト被験者で評価するために実施される研究です。"
   },
   "q_vocab_c1_02_004": {
     "question": "「la jurisprudencia」は何を意味しますか？",
     "correct": "判例法 / 判例",
-    "wrong": ["陪審員の慎重さ", "管轄権のみ", "司法手続き"],
+    "wrong": [
+      "陪審員の慎重さ",
+      "管轄権のみ",
+      "司法手続き"
+    ],
     "explanation": "「La jurisprudencia」は「判例法」または「判例」を意味し、将来の司法判決を導く過去の裁判所の決定によって確立された法的原則の集合です。"
   },
   "q_vocab_c1_02_005": {
     "question": "「genome」のスペイン語は？",
     "correct": "el genoma",
-    "wrong": ["el género", "el gen", "la genética"],
+    "wrong": [
+      "el género",
+      "el gen",
+      "la genética"
+    ],
     "explanation": "「Genome」は「el genoma」に翻訳されます。生物に存在する遺伝物質の完全なセットを指します。「El gen」は単一の遺伝子であり、「la genética」は遺伝学の分野です。"
   },
   "q_vocab_c1_02_006": {
     "question": "法律または専門的文脈で「el peritaje」は何を意味しますか？",
     "correct": "鑑定 / 専門家による評価",
-    "wrong": ["巡礼", "パーセンテージ", "危機"],
+    "wrong": [
+      "巡礼",
+      "パーセンテージ",
+      "危機"
+    ],
     "explanation": "「El peritaje」は「鑑定」または「専門家による評価」を意味し、適格な専門家（「perito」）が法的または専門的問題に証拠または情報に基づく意見を提供するために準備した技術レポートです。"
   },
   "q_vocab_c1_02_007": {
     "question": "研究チームが自己免疫疾患への新しい治療法に関する調査結果を発表しています。体の免疫系が自らの細胞を攻撃する状態を説明するのはどれですか？",
     "correct": "una enfermedad autoinmune: el sistema inmunitario ataca los tejidos propios del organismo",
-    "wrong": ["una alergia: el cuerpo reacciona a sustancias externas", "una infección: bacterias invaden el cuerpo", "una intoxicación: el cuerpo absorbe sustancias tóxicas"],
+    "wrong": [
+      "una alergia: el cuerpo reacciona a sustancias externas",
+      "una infección: bacterias invaden el cuerpo",
+      "una intoxicación: el cuerpo absorbe sustancias tóxicas"
+    ],
     "explanation": "「Enfermedad autoinmune」は「自己免疫疾患」を意味します。免疫系（「sistema inmunitario」）が誤って体自身の健康な組織（「tejidos propios」）を攻撃します。これはアレルギーまたは外部の媒介物を含む感染とは異なります。"
   },
   "q_vocab_c1_02_008": {
     "question": "科学的または外交的文脈で「el protocolo」は何を意味しますか？",
     "correct": "手順 / 確立された手続き",
-    "wrong": ["原型", "ことわざ", "序文"],
+    "wrong": [
+      "原型",
+      "ことわざ",
+      "序文"
+    ],
     "explanation": "「El protocolo」は「手順」を意味し、公式、科学的、または外交的設定での行動を支配する正式なルールまたは確立された手続きです。研究では、実験の方法論とステップを定義します。"
   },
   "q_vocab_c1_02_009": {
     "question": "「la nanotecnología」は？",
     "correct": "ナノテクノロジー",
-    "wrong": ["ナノ技法", "ナノ科学のみ", "自然技術"],
+    "wrong": [
+      "ナノ技法",
+      "ナノ科学のみ",
+      "自然技術"
+    ],
     "explanation": "「La nanotecnología」は「ナノテクノロジー」を意味し、通常100ナノメートル以下の原子またはモレキュラースケールで物質を操作することを扱う技術の分野です。"
   },
   "q_vocab_c1_02_010": {
     "question": "弁護士が契約条項は強制できないと主張しています。なぜなら、一方の当事者は強要の下で署名したからです。どの法的概念が適用されますか？",
     "correct": "Vicio del consentimiento: la voluntad de una de las partes fue coaccionada.",
-    "wrong": ["Prescripción: el contrato ha expirado por el paso del tiempo.", "Novación: el contrato fue sustituido por uno nuevo.", "Subrogación: una tercera parte asumió las obligaciones."],
+    "wrong": [
+      "Prescripción: el contrato ha expirado por el paso del tiempo.",
+      "Novación: el contrato fue sustituido por uno nuevo.",
+      "Subrogación: una tercera parte asumió las obligaciones."
+    ],
     "explanation": "「Vicio del consentimiento」は「同意の瑕疵」を意味します。一方が「coacción」（強要）の下で契約に署名したとき、真の自由意志がなかったため、契約は無効にすることができます。これは契約法の基本原則です。"
   },
   "q_vocab_c1_03_001": {
     "question": "「lograr」と「conseguir」の重要な違いは何ですか？",
     "correct": "「Lograr」は努力を通じて目標を達成することを強調します；「conseguir」は何かを入手またはなんとかすることを意味します",
-    "wrong": ["すべての文脈で完全に同じです", "「Lograr」は非公式で「conseguir」は正式です", "「Lograr」は失うことを意味し「conseguir」は勝つことを意味します"],
+    "wrong": [
+      "すべての文脈で完全に同じです",
+      "「Lograr」は非公式で「conseguir」は正式です",
+      "「Lograr」は失うことを意味し「conseguir」は勝つことを意味します"
+    ],
     "explanation": "どちらも「達成」を意味できますが、「lograr」は持続的な努力の後の達成をより強く意味し（lograr un sueño = 夢を達成する）、「conseguir」はより広く、何かを入手したり、なんとかすることを意味します（conseguir entradas = チケットを入手する）。"
   },
   "q_vocab_c1_03_002": {
     "question": "「carecer de」は何を意味しますか？",
     "correct": "欠ける / ～がない",
-    "wrong": ["ケアをする", "キャリアを持つ", "愛撫する"],
+    "wrong": [
+      "ケアをする",
+      "キャリアを持つ",
+      "愛撫する"
+    ],
     "explanation": "「Carecer de」は「欠ける」または「～がない」を意味します。正式な動詞で、何かの不在を表現するために使用されます：「El informe carece de evidencia sólida」（レポートは確かな証拠を欠いています）。"
   },
   "q_vocab_c1_03_003": {
     "question": "「El candidato ___ un puesto de trabajo acorde con su experiencia profesional.」",
     "correct": "solicita",
-    "wrong": ["pregunta", "pide", "busca"],
+    "wrong": [
+      "pregunta",
+      "pide",
+      "busca"
+    ],
     "explanation": "「Solicitar」は「正式に申請する」または「正式に要求する」を意味し、専門的および行政的文脈で使用されます。「Pedir」はより一般的で非公式な「要求」ですが、「solicitar」は職務経歴などの正式なプロセスを意味します。"
   },
   "q_vocab_c1_03_004": {
     "question": "「realizar」と「hacer」の微妙な違いは何ですか？",
     "correct": "「Realizar」は計画されたまたは重要なことを実行することを含みます；「hacer」は「する/作る」という一般的な動詞です",
-    "wrong": ["「Realizar」は本当にする、「hacer」は破壊することを意味します", "それらは完全な同義語です", "「Realizar」はラテンアメリカでのみ使用されます"],
+    "wrong": [
+      "「Realizar」は本当にする、「hacer」は破壊することを意味します",
+      "それらは完全な同義語です",
+      "「Realizar」はラテンアメリカでのみ使用されます"
+    ],
     "explanation": "「Realizar」は意図的に実行されたことを示唆します（realizar una investigación = 研究を実施する）、一方「hacer」は日常的で、すべての目的の動詞です。「Realizar」を使用することはより高いレジスターを上げます。"
   },
   "q_vocab_c1_03_005": {
     "question": "議論の文脈で「matizar」は何を意味しますか？",
     "correct": "資格を与える / 微妙にする / 微妙な区別を追加する",
-    "wrong": ["物質化する", "色を一致させる", "数学的に計算する"],
+    "wrong": [
+      "物質化する",
+      "色を一致させる",
+      "数学的に計算する"
+    ],
     "explanation": "「Matizar」は「資格を与える」または「微妙にする」を意味します。学術的または専門的談論では、細かい区別または明確化を追加することを指します。例：「Conviene matizar esta afirmación」（この陳述を資格とすることが適切です）。"
   },
   "q_vocab_c1_03_006": {
-    "question": "「to undermine / to weaken」のスペイン語は？",
+    "question": "「〜に undermine / 〜に weaken」のスペイン語は？",
     "correct": "socavar",
-    "wrong": ["subrayar", "sobrecargar", "sobrepasar"],
-    "explanation": "「To undermine」は「socavar」に翻訳されます。何かを段階的に弱めたり侵食したりすることを意味し、しばしば比喩的に使用されます：「socavar la confianza」（信頼を損なう）。「Subrayar」（下線を引く）と混同しないでください。"
+    "wrong": [
+      "subrayar",
+      "sobrecargar",
+      "sobrepasar"
+    ],
+    "explanation": "「〜に undermine」は「socavar」に翻訳されます。何かを段階的に弱めたり侵食したりすることを意味し、しばしば比喩的に使用されます：「socavar la confianza」（信頼を損なう）。「Subrayar」（下線を引く）と混同しないでください。"
   },
   "q_vocab_c1_03_007": {
-    "question": "「aludir a」と「referirse a」の違いは何ですか？",
+    "question": "「aludir 」と「referirse 」の違いは何ですか？",
     "correct": "「Aludir a」は（間接的に）言及することを意味し；「referirse a」は（直接に）言及することを意味します",
-    "wrong": ["それらは意味と使用法で同じです", "「Aludir a」は「referirse a」より直接的です", "「Aludir a」は何かについて幻覚することを意味します"],
-    "explanation": "「Aludir a」は間接的または微妙な言及を含みます（著者は戦争についてそれを言及せずに言及する）、一方「referirse a」は何かへの直接的で明示的な言及です。"
+    "wrong": [
+      "それらは意味と使用法で同じです",
+      "「Aludir a」は「referirse a」より直接的です",
+      "「Aludir a」は何かについて幻覚することを意味します"
+    ],
+    "explanation": "「Aludir 」は間接的または微妙な言及を含みます（著者は戦争についてそれを言及せずに言及する）、一方「referirse 」は何かへの直接的で明示的な言及です。"
   },
   "q_vocab_c1_03_008": {
     "question": "「prescindir de」は？",
     "correct": "～なしで済ます / 省略する",
-    "wrong": ["何かを処方する", "何かを予測する", "何かを提示する"],
+    "wrong": [
+      "何かを処方する",
+      "何かを予測する",
+      "何かを提示する"
+    ],
     "explanation": "「Prescindir de」は「～なしで済ます」または「～を放棄する」を意味します。何かを意図的に除外または放棄することを表現します：「Podemos prescindir de estos datos」（このデータなしで済ますことができます）。"
   },
   "q_vocab_c1_03_009": {
     "question": "同僚のレポートを編集していて、「detentar」を「正当に職を保有する」という意味で使用しているのを気づきました。この使用法は正しいですか？",
     "correct": "いいえ、「detentar」は違法に権力を保有することを意味します；正しい言葉は「ostentar」または「ocupar」です。",
-    "wrong": ["はい、「detentar」と「ostentar」は完全な同義語です。", "いいえ、「detentar」は誰かを逮捕することを意味します。", "はい、「detentar」は任意の職を保有する唯一の正しい動詞です。"],
+    "wrong": [
+      "はい、「detentar」と「ostentar」は完全な同義語です。",
+      "いいえ、「detentar」は誰かを逮捕することを意味します。",
+      "はい、「detentar」は任意の職を保有する唯一の正しい動詞です。"
+    ],
     "explanation": "「Detentar」は具体的に不当にまたは適切な権利なしに権力または職を保有することを意味し、一方「ostentar」または「ocupar」は正当な職を保有するために使用されます。これはネイティブスピーカーの間でも頻繁に混同されます。"
   },
   "q_vocab_c1_03_010": {
     "question": "小説家は、キャラクターが現実を無視する過度な楽観主義で世界を見ていることを伝えたいと考えています。このニュアンスを最もよく捉える動詞はどれですか？",
     "correct": "「Idealizar」: atribuir cualidades de perfección a algo que no las tiene.",
-    "wrong": ["「Optimizar」: mejorar algo para hacerlo más eficiente.", "「Visualizar」: formar una imagen mental de algo.", "「Imaginar」: crear algo ficticio en la mente."],
+    "wrong": [
+      "「Optimizar」: mejorar algo para hacerlo más eficiente.",
+      "「Visualizar」: formar una imagen mental de algo.",
+      "「Imaginar」: crear algo ficticio en la mente."
+    ],
     "explanation": "「Idealizar」は「理想化する」を意味し、非現実的に完璧な特性を何か、または誰かに帰属させることです。これは現実の歪曲を通じた過度に肯定的なレンズを意味しており、単に想像したり視覚化したりするのではなく、「optimizar」（効率化）とは異なります。"
   },
   "q_vocab_c1_04_001": {
     "question": "正式な手紙の終わりに「Le saluda atentamente」は何を意味しますか？",
     "correct": "敬具 / 敬具",
-    "wrong": ["彼は注意深く挨拶します", "私は注意をあいさつします", "挨拶は注意深いです"],
+    "wrong": [
+      "彼は注意深く挨拶します",
+      "私は注意をあいさつします",
+      "挨拶は注意深いです"
+    ],
     "explanation": "「Le saluda atentamente」は正式なスペイン語通信の標準的なクロージングで、「敬具」または「敬具」と同等です。これは企業および公式な手紙で使用されます。"
   },
   "q_vocab_c1_04_002": {
-    "question": "「Me dirijo a usted con el fin de ___ información sobre el programa de becas.」",
+    "question": "「Me dirijo usted con el fin de ___ información sobre el programa de becas.」",
     "correct": "solicitar",
-    "wrong": ["pedir", "querer", "buscar"],
-    "explanation": "「Solicitar」（正式に要求する）は正式な対応での適切な動詞です。「Me dirijo a usted con el fin de solicitar」は「スカラーシッププログラムに関する情報を要求するためにあなたに書いています」という意味です。「Pedir」はこのレジスターには非公式すぎます。"
+    "wrong": [
+      "pedir",
+      "querer",
+      "buscar"
+    ],
+    "explanation": "「Solicitar」（正式に要求する）は正式な対応での適切な動詞です。「Me dirijo usted con el fin de solicitar」は「スカラーシッププログラムに関する情報を要求するためにあなたに書いています」という意味です。「Pedir」はこのレジスターには非公式すぎます。"
   },
   "q_vocab_c1_04_003": {
-    "question": "正式なあいさつとして「Estimado/a señor/a」は何を意味しますか？",
+    "question": "正式なあいさつとして「Estimado/ señor/」は何を意味しますか？",
     "correct": "親愛なる ～様",
-    "wrong": ["尊敬される貴族 / 貴婦人", "推定される人", "尊敬される上院議員"],
-    "explanation": "「Estimado/a señor/a」はスペイン語の手紙やメールでの標準的な正式な挨拶で、「親愛なる ～様」と同等です。「Estimado」は文字通り「尊敬される」を意味しますが、従来の丁寧な挨拶として機能します。"
+    "wrong": [
+      "尊敬される貴族 / 貴婦人",
+      "推定される人",
+      "尊敬される上院議員"
+    ],
+    "explanation": "「Estimado/ señor/」はスペイン語の手紙やメールでの標準的な正式な挨拶で、「親愛なる ～様」と同等です。「Estimado」は文字通り「尊敬される」を意味しますが、従来の丁寧な挨拶として機能します。"
   },
   "q_vocab_c1_04_004": {
     "question": "「Lamento las molestias ocasionadas」は何を意味しますか？",
     "correct": "引き起こされた不便さについて申し訳ありません",
-    "wrong": ["失ったお金についてお詫びします", "発見された痘痘についてお詫びします", "その機会についてお詫びします"],
+    "wrong": [
+      "失ったお金についてお詫びします",
+      "発見された痘痘についてお詫びします",
+      "その機会についてお詫びします"
+    ],
     "explanation": "「Lamento las molestias ocasionadas」は「引き起こされた不便さについて申し訳ありません」を意味する正式な謝罪です。ビジネス対応およびカスタマーサービスコミュニケーションで一般的に使用されています。"
   },
   "q_vocab_c1_04_005": {
-    "question": "「I would be grateful if you could」をスペイン語で言うと？",
+    "question": "「I 〜でしょう grateful もし〜なら あなた 〜できた」をスペイン語で言うと？",
     "correct": "Le agradecería que (+ 接続法)",
-    "wrong": ["Yo quiero que usted", "Me gustaría mucho si tú", "Estaría bien si alguien"],
-    "explanation": "「I would be grateful if you could」は、接続法の後に「Le agradecería que」に翻訳されます。これは正式な要求で使用される丁寧な回避表現で、直接の命令よりも有礼です。"
+    "wrong": [
+      "Yo quiero que usted",
+      "Me gustaría mucho si tú",
+      "Estaría bien si alguien"
+    ],
+    "explanation": "「I 〜でしょう grateful もし〜なら あなた 〜できた」は、接続法の後に「Le agradecería que」に翻訳されます。これは正式な要求で使用される丁寧な回避表現で、直接の命令よりも有礼です。"
   },
   "q_vocab_c1_04_006": {
-    "question": "「Quedo a su disposición para cualquier aclaración」は何を意味しますか？",
+    "question": "「Quedo su disposición para cualquier aclaración」は何を意味しますか？",
     "correct": "明確化のためにあなたの処分に残ります",
-    "wrong": ["今のところ状況について沈黙しています", "説明の位置に留まります", "任意のクリアリングのために配置されたままです"],
-    "explanation": "「Quedo a su disposición para cualquier aclaración」はビジネス対応での正式なクロージングフレーズで、「明確化のためにあなたの処分に残ります」という意味です。追加の情報を提供する意思を示しています。"
+    "wrong": [
+      "今のところ状況について沈黙しています",
+      "説明の位置に留まります",
+      "任意のクリアリングのために配置されたままです"
+    ],
+    "explanation": "「Quedo su disposición para cualquier aclaración」はビジネス対応での正式なクロージングフレーズで、「明確化のためにあなたの処分に残ります」という意味です。追加の情報を提供する意思を示しています。"
   },
   "q_vocab_c1_04_007": {
     "question": "不良品についての会社への正式な苦情を書いています。最も適切なオープニングはどれですか？",
     "correct": "Me dirijo a ustedes para expresar mi disconformidad con el producto recibido.",
-    "wrong": ["Oigan, el producto que me mandaron está roto.", "Quiero quejarme porque lo que compré no sirve.", "Hola, tengo un problema con algo que pedí."],
-    "explanation": "「Me dirijo a ustedes para expresar mi disconformidad」は「不満を表現するためにあなたに書いています」という意味です。このような正式な「disconformidad」（不満）は公式な苦情に適切で、非公式な代替案とは異なります。"
+    "wrong": [
+      "Oigan, el producto que me mandaron está roto.",
+      "Quiero quejarme porque lo que compré no sirve.",
+      "Hola, tengo un problema con algo que pedí."
+    ],
+    "explanation": "「Me dirijo ustedes para expresar mi disconformidad」は「不満を表現するためにあなたに書いています」という意味です。このような正式な「disconformidad」（不満）は公式な苦情に適切で、非公式な代替案とは異なります。"
   },
   "q_vocab_c1_04_008": {
     "question": "「Rogamos disculpen la demora」は何を意味しますか？",
     "correct": "延遅をお許しするよう求めています",
-    "wrong": ["遅延の実演を後悔しています", "割引を要求しています", "被害のために許しを懇願しています"],
+    "wrong": [
+      "遅延の実演を後悔しています",
+      "割引を要求しています",
+      "被害のために許しを懇願しています"
+    ],
     "explanation": "「Rogamos disculpen la demora」は「延遅をお許しするよう求めています」を意味する正式な表現です。正式な「rogar」（求める/懇願）を使用し、接続法「disculpen」を使用して、単に「pedir disculpas」より高いレジスターを上げます。"
   },
   "q_vocab_c1_04_009": {
     "question": "「sin perjuicio de lo anterior」は？",
     "correct": "前述に関係なく / 上記にかかわらず",
-    "wrong": ["以前のダメージなしで", "前に何も傷つけずに", "過去を判断せずに"],
+    "wrong": [
+      "以前のダメージなしで",
+      "前に何も傷つけずに",
+      "過去を判断せずに"
+    ],
     "explanation": "「Sin perjuicio de lo anterior」は「前述に関係なく」または「上記にかかわらず」を意味する正式な法律および行政表現です。新しいポイントが以前に述べられた用語を無効にしないことを述べるために使用されます。"
   },
   "q_vocab_c1_04_010": {
     "question": "政府省庁への助成金申請締切の延長を要求するメールを起草しています。適切な正式な回避言語はどれですか？",
     "correct": "Tendría a bien considerar la posibilidad de ampliar el plazo de presentación de solicitudes.",
-    "wrong": ["Necesito más tiempo, así que extienda la fecha.", "Quiero que me den más días para entregar todo.", "Oiga, no me da tiempo, ¿puede alargar el plazo?"],
-    "explanation": "「Tendría a bien considerar la posibilidad de」は「～について検討するので親切なことに」を意味する非常に正式な構造です。この多層化の回避（条件付き + 丁寧なフレーズ + 可能性）は、政府通信に適した最高レベルの正式なレジスターを示しています。"
+    "wrong": [
+      "Necesito más tiempo, así que extienda la fecha.",
+      "Quiero que me den más días para entregar todo.",
+      "Oiga, no me da tiempo, ¿puede alargar el plazo?"
+    ],
+    "explanation": "「Tendría bien considerar la posibilidad de」は「～について検討するので親切なことに」を意味する非常に正式な構造です。この多層化の回避（条件付き + 丁寧なフレーズ + 可能性）は、政府通信に適した最高レベルの正式なレジスターを示しています。"
   },
   "q_vocab_c1_05_001": {
     "question": "スペイン語の口語表現で「mola」は何を意味しますか？",
     "correct": "素晴らしい / かっこいい",
-    "wrong": ["それはカビです", "それは挽きます", "それは分子です"],
+    "wrong": [
+      "それはカビです",
+      "それは挽きます",
+      "それは分子です"
+    ],
     "explanation": "「Mola」は「molar」から来ており、スペイン語のスラング（主にスペイン）で「素晴らしい」または「かっこいい」を意味します。「¡Esa película mola mucho!」は「その映画は本当にかっこいい!」という意味です。"
   },
   "q_vocab_c1_05_002": {
     "question": "非公式なスペイン語で「currar」は何を意味しますか？",
     "correct": "働く（スラング）",
-    "wrong": ["治す", "走る", "料理する"],
+    "wrong": [
+      "治す",
+      "走る",
+      "料理する"
+    ],
     "explanation": "「Currar」はスペイン語のスラングで「働く」を意味します。「El curro」はスラング名詞で「仕事/仕事」です。「Estoy currando」は「私は働いています」という意味です。これはスペインで非常に一般的です。"
   },
   "q_vocab_c1_05_003": {
     "question": "「Se me quedó la mente en ___ durante el examen y no pude responder nada.」",
     "correct": "blanco",
-    "wrong": ["negro", "rojo", "azul"],
+    "wrong": [
+      "negro",
+      "rojo",
+      "azul"
+    ],
     "explanation": "「Quedarse en blanco」は「脳が真っ白になる」または「真っ白になる」を意味します。完全な表現はストレスの多い状況、特に試験中に突然記憶できなくなる瞬間を説明します。"
   },
   "q_vocab_c1_05_004": {
     "question": "口語スペイン語で「flipar」は何を意味しますか？",
     "correct": "驚かれる / パニックになる / ショックを受ける",
-    "wrong": ["コインを投げる", "漂う", "完全に失敗する"],
-    "explanation": "「Flipar」は「驚かれる」または「パニックになる」を意味します（肯定的または否定的に）。「¡Estoy flipando!」は「信じられない!」または「私は吹き飛ばされています!」という意味です。英語の「to flip out」から由来します。"
+    "wrong": [
+      "コインを投げる",
+      "漂う",
+      "完全に失敗する"
+    ],
+    "explanation": "「Flipar」は「驚かれる」または「パニックになる」を意味します（肯定的または否定的に）。「¡Estoy flipando!」は「信じられない!」または「私は吹き飛ばされています!」という意味です。英語の「〜に flip out」から由来します。"
   },
   "q_vocab_c1_05_005": {
     "question": "「pasarlo bomba」は何を意味しますか？",
     "correct": "素晴らしい時を過ごす / 大いに楽しむ",
-    "wrong": ["パーティーに爆弾を渡す", "爆発でパーティーを投げる", "爆発を過ぎ去る"],
+    "wrong": [
+      "パーティーに爆弾を渡す",
+      "爆発でパーティーを投げる",
+      "爆発を過ぎ去る"
+    ],
     "explanation": "「Pasarlo bomba」は「素晴らしい時を過ごす」または「大いに楽しむ」を意味する口語的な表現です。「Lo pasamos bomba en la fiesta」は「パーティーで素晴らしい時を過ごした」という意味です。「Bomba」は比喩的に爆発的な楽しさを示唆します。"
   },
   "q_vocab_c1_05_006": {
-    "question": "「to be fed up / to be sick of something」のスペイン語は？",
+    "question": "「〜に be fed up / 〜に be sick 〜の something」のスペイン語は？",
     "correct": "estar harto/a",
-    "wrong": ["estar lleno/a", "estar enfermo/a", "estar roto/a"],
-    "explanation": "「To be fed up」は「estar harto/a」に翻訳されます。「Estoy harto de esperar」は「待つことにうんざりしています」という意味です。「Lleno」は物理的に満杯ですが、「harto」は感情的な飽和と不満を伝えます。"
+    "wrong": [
+      "estar lleno/a",
+      "estar enfermo/a",
+      "estar roto/a"
+    ],
+    "explanation": "「〜に be fed up」は「estar harto/」に翻訳されます。「Estoy harto de esperar」は「待つことにうんざりしています」という意味です。「Lleno」は物理的に満杯ですが、「harto」は感情的な飽和と不満を伝えます。"
   },
   "q_vocab_c1_05_007": {
     "question": "スラング（文字通りではない）として使用される場合、「tío/tía」は何を意味しますか？",
     "correct": "やつ / 友達 / 仲間（誰かに話しかける非公式な方法）",
-    "wrong": ["叔父/叔母（文字通りの意味のみ）", "見知らぬ人に対する失礼な方法", "高齢者への正式なタイトル"],
+    "wrong": [
+      "叔父/叔母（文字通りの意味のみ）",
+      "見知らぬ人に対する失礼な方法",
+      "高齢者への正式なタイトル"
+    ],
     "explanation": "「Tío/tía」は文字通り「叔父/叔母」を意味しますが、口語スペイン語（特にスペイン）では「やつ」、「友達」、または「仲間」として機能します。「¡Eh, tío, ¿qué tal?!」は「やあ、友達、元気?」という意味です。"
   },
   "q_vocab_c1_05_008": {
     "question": "「ir de cañas」は？",
     "correct": "ビールを飲みに行く（ドラフトビール）",
-    "wrong": ["竿で釣りに行く", "サトウキビ畑に行く", "杖で歩く"],
+    "wrong": [
+      "竿で釣りに行く",
+      "サトウキビ畑に行く",
+      "杖で歩く"
+    ],
     "explanation": "「Ir de cañas」は「ビールを飲みに行く」を意味し、特に小さなドラフトビール（「cañas」）です。これはスペインの典型的な社会活動で、複数のバーを訪問して小さなビールを飲むことが含まれます。"
   },
   "q_vocab_c1_05_009": {
     "question": "スペイン人の友人が驚くべきニュースを聞いた後、「¡Qué fuerte!」と言っています。この表現はどのレジスターと意味を伝えていますか？",
     "correct": "非公式な感嘆は衝撃または不信を表現し、「信じられない!」または「それは狂っている!」という意味です",
-    "wrong": ["実験中に光が文字通り生成されたことを意味する正式な表現です。", "ニュースが物理的に強力で暗くなる必要があることを意味します。", "audience への懐中電灯を向けることを意味する医学用語です。"],
+    "wrong": [
+      "実験中に光が文字通り生成されたことを意味する正式な表現です。",
+      "ニュースが物理的に強力で暗くなる必要があることを意味します。",
+      "audience への懐中電灯を向けることを意味する医学用語です。"
+    ],
     "explanation": "「¡Qué fuerte!」はスペイン（特に）で非常に一般的な口語的な感嘆で、衝撃、驚き、または不信を表現するために使用されます。文字通り「強い!」という意味ですが、「信じられない!」または「それは狂っている!」のように機能します。"
   },
   "q_vocab_c1_05_010": {
-    "question": "友人のグループが土曜日の夜を計画しています。1人は言っています：「Vamos a ir de marcha y lo vamos a pasar genial。」これは何を意味し、どのレジスターですか？",
+    "question": "友人のグループが土曜日の夜を計画しています。1人は言っています：「Vamos ir de marcha y lo vamos pasar genial。」これは何を意味し、どのレジスターですか？",
     "correct": "非公式なレジスター：「我々はパーティーに行き、素晴らしい時を過ごすつもりです。」",
-    "wrong": ["正式なレジスター：「私たちは行進に行き、それは素晴らしいだろう」", "中立的なレジスター：「私たちは旅に出て、安全に到着します。」", "軍事的なレジスター：「私たちは行進を開始し、それを正常に完了します。」"],
+    "wrong": [
+      "正式なレジスター：「私たちは行進に行き、それは素晴らしいだろう」",
+      "中立的なレジスター：「私たちは旅に出て、安全に到着します。」",
+      "軍事的なレジスター：「私たちは行進を開始し、それを正常に完了します。」"
+    ],
     "explanation": "「Ir de marcha」は「パーティーに行く」または「町で過ごす」を意味する口語的です。「Pasarlo genial」（素晴らしい時を過ごす）と組み合わせて、これは土曜日の夜を計画するときのスペイン語の若者言語の典型的な非公式さです。"
   },
   "q_vocab_c1_06_001": {
     "question": "ことわざ「No hay mal que por bien no venga」は何を意味しますか？",
     "correct": "悪いことも良いチャンスをもたらすことができます",
-    "wrong": ["悪いことは良いことから来ません", "良い人には悪い事は起きません", "危険は警告なしに来ません"],
+    "wrong": [
+      "悪いことは良いことから来ません",
+      "良い人には悪い事は起きません",
+      "危険は警告なしに来ません"
+    ],
     "explanation": "「No hay mal que por bien no venga」は文字通り「悪いことはそこから良いことがないことはありません」を意味します。「すべての雲には銀の裏地がある」と同等で、ネガティブな状況から何か肯定的なことが出てくる可能性があることを表現します。"
   },
   "q_vocab_c1_06_002": {
     "question": "「Más vale ___ que nunca、así que empecemos el proyecto ahora.」",
     "correct": "tarde",
-    "wrong": ["pronto", "antes", "rápido"],
+    "wrong": [
+      "pronto",
+      "antes",
+      "rápido"
+    ],
     "explanation": "「Más vale tarde que nunca」は「遅れてもやらないよりましだ」を意味します。この文は「遅れてもやらないよりましだから、今すぐプロジェクトを始めましょう」という意味です。このことわざは延期された行動を促します。"
   },
   "q_vocab_c1_06_003": {
-    "question": "「A quien madruga, Dios le ayuda」は何を意味しますか？",
+    "question": "「 quien madruga, Dios le ayuda」は何を意味しますか？",
     "correct": "早起きは三文の得です / 神は早起きする人を助けます",
-    "wrong": ["神は成熟した人を助けます", "朝の人だけが祝福されます", "寝坊する人は神に怒られます"],
-    "explanation": "「A quien madruga, Dios le ayuda」は文字通り「神は早起きする人を助けます」を意味します。動詞「madrugar」は「早起きする」を意味します。英語の「The early bird catches the worm」と同等で、勤勉さを強調しています。"
+    "wrong": [
+      "神は成熟した人を助けます",
+      "朝の人だけが祝福されます",
+      "寝坊する人は神に怒られます"
+    ],
+    "explanation": "「 quien madruga, Dios le ayuda」は文字通り「神は早起きする人を助けます」を意味します。動詞「madrugar」は「早起きする」を意味します。英語の「この early bird catches この worm」と同等で、勤勉さを強調しています。"
   },
   "q_vocab_c1_06_004": {
     "question": "「En boca cerrada no entran moscas」は何を意味しますか？",
     "correct": "沈黙は金です / 静かにしているのが良いです",
-    "wrong": ["閉じた口にハエは入りません", "ハエが近いときは口を閉じるべきです", "昆虫は開いた口に引き付けられます"],
+    "wrong": [
+      "閉じた口にハエは入りません",
+      "ハエが近いときは口を閉じるべきです",
+      "昆虫は開いた口に引き付けられます"
+    ],
     "explanation": "「En boca cerrada no entran moscas」は文字通り「閉じた口にハエは入りません」を意味します。それは「沈黙は金です」と同等で、静かにしていることの知恵をアドバイスし、不必要な問題を避けます。"
   },
   "q_vocab_c1_06_005": {
-    "question": "「don't look a gift horse in the mouth」をスペイン語で言うと？",
+    "question": "「don't look gift horse 〜で この mouth」をスペイン語で言うと？",
     "correct": "A caballo regalado no le mires el diente",
-    "wrong": ["No mires al caballo en la boca del regalo", "El caballo del regalo tiene dientes malos", "Regalar un caballo es mirar sus dientes"],
-    "explanation": "「A caballo regalado no le mires el diente」はスペイン語の厳密な同等です。両方のことわざは、品質を批判することなく贈り物に感謝することをアドバイスします。"
+    "wrong": [
+      "No mires al caballo en la boca del regalo",
+      "El caballo del regalo tiene dientes malos",
+      "Regalar un caballo es mirar sus dientes"
+    ],
+    "explanation": "「 caballo regalado no le mires el diente」はスペイン語の厳密な同等です。両方のことわざは、品質を批判することなく贈り物に感謝することをアドバイスします。"
   },
   "q_vocab_c1_06_006": {
     "question": "「Quien mucho abarca, poco aprieta」は何を意味しますか？",
     "correct": "多くのことをつかもうとする人は何も十分に達成できません",
-    "wrong": ["大きく抱きしめる人は決して十分に絞りません", "ハグは決して十分に狭くありません", "誰が遠くに到達するかは少し押します"],
-    "explanation": "「Quien mucho abarca, poco aprieta」は文字通り「多くを抱きしめる人は少し絞ります」を意味します。これは一度に多くのタスクまたは責任を取り上げないように警告しており、「Jack of all trades, master of none」に相当します。"
+    "wrong": [
+      "大きく抱きしめる人は決して十分に絞りません",
+      "ハグは決して十分に狭くありません",
+      "誰が遠くに到達するかは少し押します"
+    ],
+    "explanation": "「Quien mucho abarca, poco aprieta」は文字通り「多くを抱きしめる人は少し絞ります」を意味します。これは一度に多くのタスクまたは責任を取り上げないように警告しており、「Jack 〜の all trades, master 〜の none」に相当します。"
   },
   "q_vocab_c1_06_007": {
     "question": "同僚は自分の仕事について不平を言っていますが、新しい仕事を探すことを拒否しています。どのことわざがアドバイスに最も適切ですか？",
     "correct": "「El que no arriesga, no gana」-- 結果を達成するにはリスクを負う必要があります。",
-    "wrong": ["「Más vale pájaro en mano que ciento volando」-- あなたがすでに持っているものを保ちます。", "「Ojos que no ven, corazón que no siente」-- 問題を無視します。", "「Perro ladrador, poco mordedor」-- 不平は害がありません。"],
+    "wrong": [
+      "「Más vale pájaro en mano que ciento volando」-- あなたがすでに持っているものを保ちます。",
+      "「Ojos que no ven, corazón que no siente」-- 問題を無視します。",
+      "「Perro ladrador, poco mordedor」-- 不平は害がありません。"
+    ],
     "explanation": "「El que no arriesga, no gana」は「何も冒険せず、利益も得ません」を意味します。不満足な状況に残ることを恐れるのではなく、計算されたリスクを取ることをアドバイスしているため、キャリアアドバイスに適しています。"
   },
   "q_vocab_c1_06_008": {
     "question": "「Dime con quién andas y te diré quién eres」は何を意味しますか？",
     "correct": "あなたの友人で、その人がわかります / あなたは関連付けられている会社で知られています",
-    "wrong": ["あなたがどこを歩くか教えてください、そして誰が教えてくれるでしょう", "私と一緒に歩く、そして私はあなたを知るでしょう", "私にあなたのパスを見せ、そして私があなたにするでしょう"],
+    "wrong": [
+      "あなたがどこを歩くか教えてください、そして誰が教えてくれるでしょう",
+      "私と一緒に歩く、そして私はあなたを知るでしょう",
+      "私にあなたのパスを見せ、そして私があなたにするでしょう"
+    ],
     "explanation": "「Dime con quién andas y te diré quién eres」は文字通り「誰と一緒に歩くか教えて、誰だか教えます」を意味します。これは人々が友人や関連付けられている人によって判断されることを強調しています。"
   },
   "q_vocab_c1_06_009": {
     "question": "「Ojos que no ven, corazón que no siente」は？",
     "correct": "見えないと心は感じません / 視界から心は感じません",
-    "wrong": ["目が見えない人は感情がありません", "盲人は感情を感じることができません", "心は目が見たものを感じることができません"],
+    "wrong": [
+      "目が見えない人は感情がありません",
+      "盲人は感情を感じることができません",
+      "心は目が見たものを感じることができません"
+    ],
     "explanation": "「Ojos que no ven, corazón que no siente」は文字通り「見えない目、感じない心」を意味します。これは「見えない、心に欠ける」と同等で、何かを知らないことが感情的な苦痛を防ぐことを示唆しています。"
   },
   "q_vocab_c1_06_010": {
     "question": "学生は試験に不合格になります。しかし、その後、失敗が彼らに勉強習慣を変えるよう促し、より良い成績につながることに気づきます。このシナリオを完璧に説明するのはどのことわざですか？",
     "correct": "「No hay mal que por bien no venga」-- 挫折は最終的に改善につながりました。",
-    "wrong": ["「Más vale tarde que nunca」-- 彼らは遅く学んだが合格した。", "「El saber no ocupa lugar」-- 知識は場所を占有しません。", "「A buen entendedor, pocas palabras bastan」-- スマート学生は少ない言葉が必要です。"],
+    "wrong": [
+      "「Más vale tarde que nunca」-- 彼らは遅く学んだが合格した。",
+      "「El saber no ocupa lugar」-- 知識は場所を占有しません。",
+      "「A buen entendedor, pocas palabras bastan」-- スマート学生は少ない言葉が必要です。"
+    ],
     "explanation": "「No hay mal que por bien no venga」（すべての雲には銀の裏地がある）は完璧に、否定的なイベント（失敗）がポジティブな結果（改善された成績）につながることを説明しています。このことわざは逆境の変換力をキャプチャします。"
   },
   "q_vocab_c1_07_001": {
     "question": "ビジネスの文脈で「el rendimiento」は何を意味しますか？",
     "correct": "パフォーマンス / 生産性 / 収益",
-    "wrong": ["ビジュアルレンダリング", "投降", "レンタル"],
+    "wrong": [
+      "ビジュアルレンダリング",
+      "投降",
+      "レンタル"
+    ],
     "explanation": "ビジネスでは「El rendimiento」は「パフォーマンス」、「生産性」、または「収益」を意味します。「El rendimiento del equipo」は「チームのパフォーマンス」を意味し、「rendimiento de la inversión」は「投資利益」を意味します。"
   },
   "q_vocab_c1_07_002": {
     "question": "専門環境で「el flujo de trabajo」は何を意味しますか？",
     "correct": "ワークフロー",
-    "wrong": ["仕事での水の流れ", "労働の流体力学", "労働者の川"],
+    "wrong": [
+      "仕事での水の流れ",
+      "労働の流体力学",
+      "労働者の川"
+    ],
     "explanation": "「El flujo de trabajo」は「ワークフロー」を意味し、開始から完了まで仕事が通り抜ける一連のプロセスです。プロジェクト管理とビジネスオペレーションの標準用語です。"
   },
   "q_vocab_c1_07_003": {
     "question": "「La empresa necesita ___ su modelo de negocio para adaptarse al mercado digital.」",
     "correct": "reestructurar",
-    "wrong": ["reconstruir", "redecorar", "reciclar"],
+    "wrong": [
+      "reconstruir",
+      "redecorar",
+      "reciclar"
+    ],
     "explanation": "「Reestructurar」は「再構成する」を意味し、会社の操作、財政、または戦略を再編成することを指します。その文は「会社はデジタル市場に適応するためにビジネスモデルを再構成する必要があります」という意味です。"
   },
   "q_vocab_c1_07_004": {
     "question": "ITおよびビジネスで「la escalabilidad」は何を意味しますか？",
     "correct": "スケーラビリティ",
-    "wrong": ["階段を登る能力", "測定スケール", "逃げる能力"],
+    "wrong": [
+      "階段を登る能力",
+      "測定スケール",
+      "逃げる能力"
+    ],
     "explanation": "「La escalabilidad」は「スケーラビリティ」を意味し、システム、ネットワーク、またはビジネスが増加する仕事量を処理または拡張する容量です。テクノロジー企業とソフトウェア開発の重要な概念です。"
   },
   "q_vocab_c1_07_005": {
     "question": "ジャーナリズムで「el titular」は何を意味しますか？",
     "correct": "ヘッドライン",
-    "wrong": ["タイトル保有者のみ", "字幕", "著者の名前"],
+    "wrong": [
+      "タイトル保有者のみ",
+      "字幕",
+      "著者の名前"
+    ],
     "explanation": "ジャーナリズムでは「El titular」は「ヘッドライン」を意味し、読者の注意を引くために設計された新聞記事の見出しです。他の文脈では「タイトル保有者」を意味することもできます。"
   },
   "q_vocab_c1_07_006": {
     "question": "「stakeholder」のスペイン語は？",
     "correct": "la parte interesada / el interesado",
-    "wrong": ["el accionista", "el competidor", "el intermediario"],
+    "wrong": [
+      "el accionista",
+      "el competidor",
+      "el intermediario"
+    ],
     "explanation": "「Stakeholder」は「la parte interesada」または「el interesado」に翻訳されます。「Accionista」（株主）とは異なり、ステークホルダーはビジネスまたはプロジェクトに関心を持つまたは影響を受ける任意の当事者です。"
   },
   "q_vocab_c1_07_007": {
     "question": "ビジネス用語で「externalizar」は何を意味しますか？",
     "correct": "アウトソースする",
-    "wrong": ["感情を外部化する", "製品をエクスポートする", "何かを外部にする"],
+    "wrong": [
+      "感情を外部化する",
+      "製品をエクスポートする",
+      "何かを外部にする"
+    ],
     "explanation": "「Externalizar」は「アウトソースする」を意味し、ビジネスプロセスまたは機能を外部企業に契約する慣行です。「La empresa decidió externalizar el servicio de atención al cliente」は「会社はカスタマーサービスをアウトソースすることを決定しました」という意味です。"
   },
   "q_vocab_c1_07_008": {
     "question": "「la competencia desleal」は？",
     "correct": "不正競争",
-    "wrong": ["不誠実な能力", "不忠実な競争相手", "不忠実な能力"],
+    "wrong": [
+      "不誠実な能力",
+      "不忠実な競争相手",
+      "不忠実な能力"
+    ],
     "explanation": "「La competencia desleal」は「不正競争」を意味し、詐欺的、欺瞞的、または競争相手にとって不公正なビジネス慣行です。これは商事法における法的概念です。"
   },
   "q_vocab_c1_07_009": {
     "question": "ソフトウェア開発チームが遅延し続ける製品打ち上げを処理することについて議論しています。プロジェクトマネージャーは新しいアプローチを採用することを提案しています。この方法論を説明する専門用語はどれですか？",
     "correct": "Implementar una metodología ágil para iterar más rápidamente.",
-    "wrong": ["Cancelar el proyecto y empezar uno nuevo.", "Despedir a todos los desarrolladores del equipo.", "Ignorar los plazos y lanzar cuando esté listo."],
+    "wrong": [
+      "Cancelar el proyecto y empezar uno nuevo.",
+      "Despedir a todos los desarrolladores del equipo.",
+      "Ignorar los plazos y lanzar cuando esté listo."
+    ],
     "explanation": "「Metodología ágil」は「アジャイル方法論」を意味し、仕事を小さなインクリメントで配信する反復的なプロジェクト管理へのアプローチです。「Iterar」は「反復する」または「段階的な改善を行う」を意味します。"
   },
   "q_vocab_c1_07_010": {
     "question": "ジャーナリストは企業腐敗に関する機密情報を提供した情報源の身元を保護する必要があります。どの専門的な原則が適用されますか？",
     "correct": "El secreto profesional obliga a proteger la identidad de las fuentes confidenciales.",
-    "wrong": ["La ley obliga a revelar todas las fuentes en cualquier caso.", "El periodista debe publicar el nombre completo de la fuente.", "Las fuentes anónimas no son válidas en el periodismo."],
+    "wrong": [
+      "La ley obliga a revelar todas las fuentes en cualquier caso.",
+      "El periodista debe publicar el nombre completo de la fuente.",
+      "Las fuentes anónimas no son válidas en el periodismo."
+    ],
     "explanation": "「El secreto profesional」は「職業秘密」または「情報源保護」を意味します。ジャーナリズムでは、この倫理原則は機密情報源（「fuentes confidenciales」）の身元を保護し、プレスの自由と調査ジャーナリズムの根本です。"
   },
   "q_vocab_c1_08_001": {
     "question": "哲学的談論で「la trascendencia」は何を意味しますか？",
     "correct": "超越性 / 深い意義",
-    "wrong": ["透明性", "転送", "転移"],
+    "wrong": [
+      "透明性",
+      "転送",
+      "転移"
+    ],
     "explanation": "「La trascendencia」は「超越性」または「深い意義」を意味します。哲学では、通常の物理的領域を超えて存在する側面を指します。日常的な使用では、永遠の重要性を意味します。"
   },
   "q_vocab_c1_08_002": {
     "question": "「El concepto de ___ ha sido debatido por filósofos durante siglos.」",
     "correct": "identidad",
-    "wrong": ["cantidad", "velocidad", "intensidad"],
+    "wrong": [
+      "cantidad",
+      "velocidad",
+      "intensidad"
+    ],
     "explanation": "「Identidad」は「アイデンティティ」を意味します。その文は「アイデンティティの概念は数百年にわたって哲学者によって議論されてきた」という意味です。アイデンティティは哲学、心理学、および社会学の中心的な抽象概念です。"
   },
   "q_vocab_c1_08_003": {
     "question": "「el paradigma」は何を意味しますか？",
     "correct": "パラダイム / 思考または理解のモデル",
-    "wrong": ["天国", "段落", "逆説のみ"],
+    "wrong": [
+      "天国",
+      "段落",
+      "逆説のみ"
+    ],
     "explanation": "「El paradigma」は「パラダイム」を意味し、思考のフレームワーク、理解のモデル、または受け入れられた信念のセットです。「Un cambio de paradigma」（パラダイム シフト）は、アプローチまたは基本的な仮定の基本的な変化を指します。"
   },
   "q_vocab_c1_08_004": {
     "question": "抽象的概念として使用される場合、「la conciencia」は何を意味しますか？",
     "correct": "意識 / 認識 / 良心",
-    "wrong": ["会議", "濃度", "結果"],
+    "wrong": [
+      "会議",
+      "濃度",
+      "結果"
+    ],
     "explanation": "「La conciencia」は抽象的な概念として二重の意味を持ちます：「意識」（存在の哲学的認識）と「良心」（道徳的認識）。「Tomar conciencia」は「意識に目覚める」または「認識する」という意味です。"
   },
   "q_vocab_c1_08_005": {
     "question": "「inherent / intrinsic」のスペイン語は？",
     "correct": "intrínseco",
-    "wrong": ["intenso", "íntimo", "introvertido"],
+    "wrong": [
+      "intenso",
+      "íntimo",
+      "introvertido"
+    ],
     "explanation": "「Inherent」または「intrinsic」は「intrínseco」に翻訳されます。本質的で永続的な特性を説明します：「el valor intrínseco」（本質的価値）。"
   },
   "q_vocab_c1_08_006": {
     "question": "「la equidad」と「la igualdad」はどのように異なるかを説明してください。",
     "correct": "equidad = 公平性/各自のニーズに応じた配分；igualdad = 平等性/みんなに同じを与えること",
-    "wrong": ["それらは完全に同じ概念です", "「Equidad」は乗馬を意味し「igualdad」は平等性を意味します", "「Equidad」は経済用語で「igualdad」は社会用語のみです"],
+    "wrong": [
+      "それらは完全に同じ概念です",
+      "「Equidad」は乗馬を意味し「igualdad」は平等性を意味します",
+      "「Equidad」は経済用語で「igualdad」は社会用語のみです"
+    ],
     "explanation": "「La equidad」は「公平性」で、個々のニーズに基づいてリソースを配分することを意味します。「La igualdad」は「平等性」で、すべてに同じを与えることを意味します。この区別は社会正義の談論で重要です。"
   },
   "q_vocab_c1_08_007": {
     "question": "哲学者は人間の自由は責任から分離できないと主張しています。この議論の中心となるのはどの抽象概念ですか？",
     "correct": "La autonomía: la capacidad del individuo de gobernarse a sí mismo implica asumir las consecuencias de sus actos.",
-    "wrong": ["La dependencia: el ser humano depende de otros para actuar.", "La obediencia: la libertad consiste en seguir las reglas establecidas.", "La indiferencia: la libertad y la responsabilidad no están relacionadas."],
+    "wrong": [
+      "La dependencia: el ser humano depende de otros para actuar.",
+      "La obediencia: la libertad consiste en seguir las reglas establecidas.",
+      "La indiferencia: la libertad y la responsabilidad no están relacionadas."
+    ],
     "explanation": "「La autonomía」は「自主性」を意味し、自己統治の能力です。自由と責任の間の哲学的な関連付けは自主性に根ざしています：自由に選択する能力は、それらの選択に対する説明責任を意味します。"
   },
   "q_vocab_c1_08_008": {
     "question": "抽象的な心理学概念として「la resiliencia」は何を意味しますか？",
     "correct": "回復力 / 逆境から回復する能力",
-    "wrong": ["変化への抵抗", "仕事からの辞任", "他者との類似性"],
+    "wrong": [
+      "変化への抵抗",
+      "仕事からの辞任",
+      "他者との類似性"
+    ],
     "explanation": "「La resiliencia」は「回復力」を意味し、困難から回復し、困難な状況に適応する心理的能力です。心理学、教育、および個人開発の中央概念になりました。"
   },
   "q_vocab_c1_08_009": {
     "question": "「la alteridad」は？",
     "correct": "他者性 / 他者とは異なることの質",
-    "wrong": ["変更", "代替案", "高度"],
+    "wrong": [
+      "変更",
+      "代替案",
+      "高度"
+    ],
     "explanation": "「La alteridad」は「他者性」を意味し、他の人が基本的に自分と異なることを認識する哲学的概念です。特にEmmanuel Levinasの哲学では倫理の中心です。"
   },
   "q_vocab_c1_08_010": {
     "question": "2人の討論者は道徳が普遍的であるか文化的に決定されるかについて議論しています。どのペアの抽象概念がこの議論を構成しますか？",
     "correct": "El universalismo moral frente al relativismo cultural: ¿existen valores absolutos o dependen del contexto?",
-    "wrong": ["El capitalismo frente al socialismo: ¿quién tiene más dinero?", "El optimismo frente al pesimismo: ¿quién es más feliz?", "La ciencia frente a la religión: ¿quién tiene la verdad?"],
+    "wrong": [
+      "El capitalismo frente al socialismo: ¿quién tiene más dinero?",
+      "El optimismo frente al pesimismo: ¿quién es más feliz?",
+      "La ciencia frente a la religión: ¿quién tiene la verdad?"
+    ],
     "explanation": "「El universalismo moral」（道徳普遍主義）は特定の倫理的原則すべての人間に適用されることを主張し、「el relativismo cultural」（文化的相対主義）は道徳基準が文化によって形成されることを主張しています。これは倫理学の最も根本的な議論の一つです。"
   },
   "q_vocab_c1_09_001": {
     "question": "修辞的デバイスとして「la metáfora」は何を意味しますか？",
     "correct": "隠喩 -- 直接「like」や「as」を使わずに異なる2つのものを比較する表現",
-    "wrong": ["1つのもののもう1つへの物理的な変換", "何かの文字通りの説明", "比較のための数学的な公式"],
+    "wrong": [
+      "1つのもののもう1つへの物理的な変換",
+      "何かの文字通りの説明",
+      "比較のための数学的な公式"
+    ],
     "explanation": "「La metáfora」は修辞的デバイスで、1つのものを別として説明しています：「La vida es un viaje」（人生は旅である）。隠喩とは異なり、隠喩は「como」（like/as）を使用しません。"
   },
   "q_vocab_c1_09_002": {
     "question": "文学的デバイスとして「la ironía」は何を意味しますか？",
     "correct": "皮肉 -- 反対の意味を言う、または期待と現実の対比",
-    "wrong": ["鉄製のもの", "怒った音声のタイプ", "皮肉のみの同義語"],
+    "wrong": [
+      "鉄製のもの",
+      "怒った音声のタイプ",
+      "皮肉のみの同義語"
+    ],
     "explanation": "「La ironía」は、言った言葉の意味の反対（言葉の皮肉）、予期されたことと現実の間の対比（状況的皮肉）、および聴衆が知ることを知らない登場人物（劇的な皮肉）を含みます。"
   },
   "q_vocab_c1_09_003": {
     "question": "「El orador usó una ___ al decir que había esperado 'un millón de años' para recibir la respuesta.」",
     "correct": "hipérbole",
-    "wrong": ["metáfora", "antítesis", "alegoría"],
+    "wrong": [
+      "metáfora",
+      "antítesis",
+      "alegoría"
+    ],
     "explanation": "「Hipérbole」は「誇張」を意味し、強調または効果のための意図的な誇張です。「100万年」の待機は明らかに誇張され、文字通りではありません。"
   },
   "q_vocab_c1_09_004": {
     "question": "「el eufemismo」は何を意味しますか？",
     "correct": "婉曲表現 -- 不快または率直すぎると考えられるものを置き換えるための穏やかまたは間接的な表現",
-    "wrong": ["熱狂のタイプ", "喜びの声明", "ヨーロッパの表現方法"],
-    "explanation": "「El eufemismo」は修辞的デバイスで、不快または不快と考えられるものに対して穏やかな表現を置き換えます。例えば、「pasar a mejor vida」（より良い人生へ）「morir」（死ぬ）の代わりに。"
+    "wrong": [
+      "熱狂のタイプ",
+      "喜びの声明",
+      "ヨーロッパの表現方法"
+    ],
+    "explanation": "「El eufemismo」は修辞的デバイスで、不快または不快と考えられるものに対して穏やかな表現を置き換えます。例えば、「pasar mejor vida」（より良い人生へ）「morir」（死ぬ）の代わりに。"
   },
   "q_vocab_c1_09_005": {
     "question": "「el oxímoron」は何を意味しますか？",
     "correct": "矛盾した言葉を組み合わせる表現",
-    "wrong": ["酸素化合物のタイプ", "常にエラーである矛盾", "反復を使用した表現方法"],
+    "wrong": [
+      "酸素化合物のタイプ",
+      "常にエラーである矛盾",
+      "反復を使用した表現方法"
+    ],
     "explanation": "「El oxímoron」は矛盾する用語を一緒に配置する修辞的デバイスです：「un silencio ensordecedor」（轟く沈黙）、「la oscura claridad」（暗い明確さ）。矛盾による影響を作成します。"
   },
   "q_vocab_c1_09_006": {
     "question": "「understatement / deliberate minimization」のスペイン語は？",
     "correct": "la litotes / la atenuación",
-    "wrong": ["la hipérbole", "la exageración", "la amplificación"],
+    "wrong": [
+      "la hipérbole",
+      "la exageración",
+      "la amplificación"
+    ],
     "explanation": "「Understatement」は「la litotes」または「la atenuación」に翻訳されます。これは誇張の反対です。例えば、素晴らしい考えを意図するとき「それは悪い考えではない」と言うことです。"
   },
   "q_vocab_c1_09_007": {
     "question": "修辞的デバイスとして「la antítesis」は何を意味しますか？",
     "correct": "対比 -- バランスの取れた構造で対照的なアイデアを並べる",
-    "wrong": ["議論での反論", "論文質問への答え", "引数を破壊する声明"],
+    "wrong": [
+      "議論での反論",
+      "論文質問への答え",
+      "引数を破壊する声明"
+    ],
     "explanation": "「La antítesis」は強調のためにバランスの取れた構造で2つの対立するアイデアを並べます：「Es tan corto el amor y tan largo el olvido」（愛は短く、忘れ物は長い）-- パブロ・ネルーダ。強力なレトリック対比を作成します。"
   },
   "q_vocab_c1_09_008": {
     "question": "「la sinécdoque」は？",
     "correct": "提喩 -- 部分が全体を表す、または全体が部分を表す表現",
-    "wrong": ["文学的な観点からシナゴーグ", "同期したエコー", "同義語のタイプ"],
+    "wrong": [
+      "文学的な観点からシナゴーグ",
+      "同期したエコー",
+      "同義語のタイプ"
+    ],
     "explanation": "「La sinécdoque」は、部分が全体の代わりに立つ修辞的デバイスです。例えば、「Necesitamos más manos」（より多くの手が必要）でここで「hands」は労働者を代表しています。"
   },
   "q_vocab_c1_09_009": {
-    "question": "政治的な演説は述べています：「We bring not war, but peace; not destruction, but creation; not despair, but hope.」 主に採用されている修辞的デバイスはどれですか？",
+    "question": "政治的な演説は述べています：「We bring not war, しかし peace; not destruction, しかし creation; not despair, しかし hope.」 主に採用されている修辞的デバイスはどれですか？",
     "correct": "La antítesis con anáfora: la repetición de una estructura que contrasta ideas opuestas.",
-    "wrong": ["La hipérbole: una exageración deliberada de los hechos.", "El eufemismo: una suavización del lenguaje directo.", "La metonimia: la sustitución de un término por otro relacionado."],
-    "explanation": "演説は「antítesis」（対比）を使用して対立する対（戦争/平和、破壊/作成、絶望/希望）と「anáfora」（反復）を反復「not ... but」構造で並べています。一緒に、これらは強力なリズミカルで説得的な効果を作成します。"
+    "wrong": [
+      "La hipérbole: una exageración deliberada de los hechos.",
+      "El eufemismo: una suavización del lenguaje directo.",
+      "La metonimia: la sustitución de un término por otro relacionado."
+    ],
+    "explanation": "演説は「antítesis」（対比）を使用して対立する対（戦争/平和、破壊/作成、絶望/希望）と「anáfora」（反復）を反復「not ... しかし」構造で並べています。一緒に、これらは強力なリズミカルで説得的な効果を作成します。"
   },
   "q_vocab_c1_09_010": {
     "question": "作家は残忍なキャラクターを「心が金でできている」と説明して、外観と現実の間のギャップを強調しています。どの修辞的デバイスが使用されていますか？",
     "correct": "La ironía: el escritor dice lo contrario de lo que quiere comunicar para crear un efecto de contraste.",
-    "wrong": ["La metáfora: el escritor describe literalmente que el corazón es de oro.", "La hipérbole: el escritor exagera la bondad del personaje.", "El eufemismo: el escritor suaviza la crueldad del personaje."],
+    "wrong": [
+      "La metáfora: el escritor describe literalmente que el corazón es de oro.",
+      "La hipérbole: el escritor exagera la bondad del personaje.",
+      "El eufemismo: el escritor suaviza la crueldad del personaje."
+    ],
     "explanation": "これは「ironía」（皮肉）です。なぜなら、「心が金でできている」という説明は、キャラクターの実際の残忍さと直接対比しているからです。読者は意図した意味が文字通りの言葉の反対であることを理解し、強力な重要な効果を作成します。"
   },
   "q_vocab_c1_10_001": {
     "question": "スペイン文化で「la corrida de toros」は何を指していますか？",
     "correct": "闘牛 / 闘牛スペクタクル",
-    "wrong": ["牛との走行レース", "牛の廊下", "牛の農場のタイプ"],
+    "wrong": [
+      "牛との走行レース",
+      "牛の廊下",
+      "牛の農場のタイプ"
+    ],
     "explanation": "「La corrida de toros」は「闘牛」を意味し、スペインのマタドール（闘牛士）と牛が関わるスペクトル的なスペイン文化です。芸術として祝われ、動物虐待として批判されています。"
   },
   "q_vocab_c1_10_002": {
     "question": "「Don Quijote es considerado la primera novela ___ de la literatura occidental.」",
     "correct": "moderna",
-    "wrong": ["antigua", "clásica", "medieval"],
+    "wrong": [
+      "antigua",
+      "clásica",
+      "medieval"
+    ],
     "explanation": "ミゲル・デ・セルバンテスの「Don Quijote de la Mancha」（1605/1615）は、メタフィクション、信頼できない叙述、および複雑なキャラクター心理学を導入したため、現代小説の最初と広く見なされています。"
   },
   "q_vocab_c1_10_003": {
     "question": "文化的な芸術形式として「el flamenco」は何を含みますか？",
     "correct": "アンダルシアを起源とする歌（cante）、踊り（baile）、ギター弾き（toque）の組み合わせ",
-    "wrong": ["スペイン原産の鳥のタイプのみ", "独占的に音楽的なジャンル、ダンスなし", "マドリッドからの闘牛のタイプ"],
+    "wrong": [
+      "スペイン原産の鳥のタイプのみ",
+      "独占的に音楽的なジャンル、ダンスなし",
+      "マドリッドからの闘牛のタイプ"
+    ],
     "explanation": "「El flamenco」はアンダルシアからの包括的な芸術形式で、3つの要素が含まれます：「cante」（歌）、「baile」（踊り）、「toque」（ギター弾き）。2010年にユネスコ無形文化遺産として宣言されました。"
   },
   "q_vocab_c1_10_004": {
     "question": "スペインで「la siesta」は文化的に何を表していますか？",
     "correct": "昼間の休息または昼寝、熱い気候と昼食が主要食である社会的リズムへの適応を反映しています",
-    "wrong": ["夏に祝われる祭りのタイプ", "7日目に祝われるスペインの休日", "従来の夜の祝い"],
+    "wrong": [
+      "夏に祝われる祭りのタイプ",
+      "7日目に祝われるスペインの休日",
+      "従来の夜の祝い"
+    ],
     "explanation": "「La siesta」は午後の昼寝で、スペインの地中海気候の適応と、昼食が主要食である社会的構造を反映しています。現代の都市生活では減少していますが、文化的に重要なままです。"
   },
   "q_vocab_c1_10_005": {
-    "question": "「The Camino de Santiago」（サンティアゴの道）の文化的/歴史的意味は何ですか？",
+    "question": "「この Camino de Santiago」（サンティアゴの道）の文化的/歴史的意味は何ですか？",
     "correct": "古代巡礼路でサンティアゴ・デ・コンポステーラ大聖堂に導きます",
-    "wrong": ["スペインの最も有名な現代の高速道路", "セビリアの主要な観光名所", "スペイン北部の伝統的な村"],
+    "wrong": [
+      "スペインの最も有名な現代の高速道路",
+      "セビリアの主要な観光名所",
+      "スペイン北部の伝統的な村"
+    ],
     "explanation": "「El Camino de Santiago」（聖ジェームスの道）はスペイン北西部のガリシア地域のサンティアゴ・デ・コンポステーラ大聖堂に導く重要なキリスト教巡礼路です。1993年以来のユネスコ世界遺産です。"
   },
   "q_vocab_c1_10_006": {
     "question": "「La Tomatina」は何を指していますか？",
     "correct": "バレンシアのBuñolで開催される毎年のトマト投げ祭り",
-    "wrong": ["バルセロナでのトマト調理コンペティション", "スペイン全体でのトマト収穫祝い", "クリスマス中に提供される従来のトマトスープ"],
+    "wrong": [
+      "バルセロナでのトマト調理コンペティション",
+      "スペイン全体でのトマト収穫祝い",
+      "クリスマス中に提供される従来のトマトスープ"
+    ],
     "explanation": "「La Tomatina」は有名な祭りで、バレンシアのBuñolで毎年8月の最後の水曜日に開催されます。参加者がトマトを互いに投げ合い、世界最大の食べ物の戦いになっています。"
   },
   "q_vocab_c1_10_007": {
     "question": "ツアーガイドが外国人訪問者に「las tapas」の意義を説明しています。食べ物以上に文化的な意味を最もよく説明するのはどれですか？",
     "correct": "Las tapas representan una cultura social de compartir pequeños platos, fomentando la conversación y el vínculo comunitario.",
-    "wrong": ["Las tapas son simplemente aperitivos servidos antes del plato principal.", "Las tapas son la comida principal del día en España.", "Las tapas se sirven solo en restaurantes formales para turistas."],
+    "wrong": [
+      "Las tapas son simplemente aperitivos servidos antes del plato principal.",
+      "Las tapas son la comida principal del día en España.",
+      "Las tapas se sirven solo en restaurantes formales para turistas."
+    ],
     "explanation": "「Las tapas」は単なる食べ物を超えます。彼らは社会的儀式を体現しています。「Ir de tapas」（タパスに行く）は、小さな皿をシェアすることが会話、コミュニティ、および相互作用の生活方式です。"
   },
   "q_vocab_c1_10_008": {
     "question": "「el Día de los Muertos」（死者の日）は何を指し、どの国と最も関連していますか？",
     "correct": "11月1日-2日に亡くなった愛する者を敬うメキシコの祝い",
-    "wrong": ["10月31日のスペインのハロウィン祝い", "すべてのラテンアメリカ諸国で観察される宗教的な速い", "墓地のみで観察される悼みの日"],
+    "wrong": [
+      "10月31日のスペインのハロウィン祝い",
+      "すべてのラテンアメリカ諸国で観察される宗教的な速い",
+      "墓地のみで観察される悼みの日"
+    ],
     "explanation": "「El Día de los Muertos」（死者の日）はメキシコの伝統（スペイン語ではない）で、11月1日-2日に家族が祭壇（「ofrendas」）を作成し、墓を訪問し、故人の人生を祝います。2008年にユネスコで認識されました。"
   },
   "q_vocab_c1_10_009": {
     "question": "「Las Fallas de Valencia」は？",
     "correct": "大きな芸術的彫刻の構造と燃焼を特徴とする毎年のバレンシアの祭り",
-    "wrong": ["カナリア諸島での火山噴火祭り", "バレンシアオレンジ収穫祝い", "バレンシアン歴史での失敗記念碑"],
+    "wrong": [
+      "カナリア諸島での火山噴火祭り",
+      "バレンシアオレンジ収穫祝い",
+      "バレンシアン歴史での失敗記念碑"
+    ],
     "explanation": "「Las Fallas」はバレンシアで3月15日-19日（聖ジョセフの日）の周りで祝われる主要な祭りです。近所は大きな芸術的彫刻（「ninots」）を構築し、最終夜（「la cremà」）で燃やされます。これはユネスコ無形文化遺産です。"
   },
   "q_vocab_c1_10_010": {
     "question": "学生はガブリエル・ガルシア・マルケスの「Cien años de soledad」がラテンアメリカ文化のアイデンティティをどのように反映しているかについてのエッセイを書いています。どの文学的および文化的概念が分析の中心にあるべきですか？",
     "correct": "El realismo mágico: la fusión de elementos fantásticos con la realidad cotidiana latinoamericana.",
-    "wrong": ["El naturalismo: la descripción científica y objetiva de la realidad.", "El romanticismo: la exaltación de los sentimientos individuales europeos.", "El existencialismo: la angustia del ser humano ante la libertad."],
+    "wrong": [
+      "El naturalismo: la descripción científica y objetiva de la realidad.",
+      "El romanticismo: la exaltación de los sentimientos individuales europeos.",
+      "El existencialismo: la angustia del ser humano ante la libertad."
+    ],
     "explanation": "「El realismo mágico」（魔術的リアリズム）はリアリスティックな設定内で魔法的要素が自然に現れる文学的ジャンルです。ガルシア=マルケスの傑作はその典型的な例で、神話、口頭伝統、および日常的とりまくの融合を通じてラテンアメリカの文化的アイデンティティを反映しています。"
   },
   "q_vocab_c1_11_001": {
     "question": "「empezar」、「comenzar」、「iniciar」の間のレジスター違いは何ですか？",
     "correct": "「Empezar」は非公式/中立、「comenzar」はやや正式、「iniciar」は最も正式/技術的です",
-    "wrong": ["すべて3つは違いなく同じです", "「Iniciar」が最も非公式で「empezar」が最も正式です", "「Comenzar」はラテンアメリカでのみ使用されます"],
+    "wrong": [
+      "すべて3つは違いなく同じです",
+      "「Iniciar」が最も非公式で「empezar」が最も正式です",
+      "「Comenzar」はラテンアメリカでのみ使用されます"
+    ],
     "explanation": "これら3つの「開始」の同義語はレジスターが異なります：「empezar」（日常的）、「comenzar」（やや高度、文学的）、「iniciar」（正式、技術的、行政的）。C1レベルでは、正しいものを選択することはレジスター認識を示しています。"
   },
   "q_vocab_c1_11_002": {
     "question": "「efectivo」と「eficaz」の正確な違いは何ですか？",
     "correct": "「Eficaz」は目的の結果を達成することを意味し；「efectivo」は実際に実践で効果を生み出すことを意味します",
-    "wrong": ["それらは完全な同義語です", "「Eficaz」はお金を指し「efectivo」は結果を指します", "「Efectivo」は軍事文脈でのみ使用されます"],
+    "wrong": [
+      "それらは完全な同義語です",
+      "「Eficaz」はお金を指し「efectivo」は結果を指します",
+      "「Efectivo」は軍事文脈でのみ使用されます"
+    ],
     "explanation": "「Eficaz」（有効）は目的の結果を生み出す能力に焦点を当て、一方「efectivo」（効果的）は実際には実践で機能することを強調しています。治療は理論的には「eficaz」でありながら、実際には「効果的」ではないかもしれません。"
   },
   "q_vocab_c1_11_003": {
     "question": "「El gobierno implementó medidas ___ para reducir la contaminación atmosférica.」",
     "correct": "drásticas",
-    "wrong": ["dramáticas", "trágicas", "fantásticas"],
+    "wrong": [
+      "dramáticas",
+      "trágicas",
+      "fantásticas"
+    ],
     "explanation": "「Drásticas」は「急進的」を意味します（厳しく深遠なメジャー）。「Dramáticas」（劇的）と「trágicas」（悲劇的）は一見した同義語ですが、「drástico」は特に問題を解決するために取られた極端なメジャーを指します。その文は「政府は大気汚染を減らすために急進的なメジャーを実装した」という意味です。"
   },
   "q_vocab_c1_11_004": {
     "question": "「austero」と「sobrio」の違いは何ですか？",
     "correct": "「Austero」は奢侈を避ける厳密に単純なことを意味し；「sobrio」は抑制されている、穏やかで、単純さで優雅です",
-    "wrong": ["「Austero」は酔っぱらい、「sobrio」は酔っていない", "それらは「つまらない」を意味する完全な同義語です", "「Austero」はポジティブで「sobrio」は常にネガティブです"],
+    "wrong": [
+      "「Austero」は酔っぱらい、「sobrio」は酔っていない",
+      "それらは「つまらない」を意味する完全な同義語です",
+      "「Austero」はポジティブで「sobrio」は常にネガティブです"
+    ],
     "explanation": "「Austero」（厳格な）は厳格さと奢侈の意図的な回避を意味します：「una vida austera」。「Sobrio」（控えめな）は趣味の良い抑制と穏やかさを意味します：「un estilo sobrio」。どちらも単純さを伝えますが、異なるニュアンスで。"
   },
   "q_vocab_c1_11_005": {
     "question": "「elogiar」（褒める）の高度な反対語は何ですか？",
     "correct": "vituperar / denostar （非難する / けなす）",
-    "wrong": ["criticar （批判する -- 一般的すぎる）", "ignorar （無視する）", "olvidar （忘れる）"],
+    "wrong": [
+      "criticar （批判する -- 一般的すぎる）",
+      "ignorar （無視する）",
+      "olvidar （忘れる）"
+    ],
     "explanation": "「Vituperar」と「denostar」は「elogiar」の高度な反対語です。「Criticar」は一般的なレベルの反対語ですが、「vituperar」（非難する）と「denostar」（けなす/中傷する）は激しい公開的な非難を表現し、最も強い対立です。"
   },
   "q_vocab_c1_11_006": {
-    "question": "「to worsen / to deteriorate」のスペイン語は？",
+    "question": "「〜に worsen / 〜に deteriorate」のスペイン語は？",
     "correct": "empeorar / deteriorarse / agravarse",
-    "wrong": ["mejorar / optimizar / progresar", "mantener / conservar / preservar", "cambiar / modificar / alterar"],
-    "explanation": "「To worsen」は「empeorar」（一般的）、「deteriorarse」（状態の段階的な低下）、または「agravarse」（より深刻になる、しばしば医学的/危機）に翻訳されます。「La situación se agravó」（状態が悪化した -- 重要になった）。"
+    "wrong": [
+      "mejorar / optimizar / progresar",
+      "mantener / conservar / preservar",
+      "cambiar / modificar / alterar"
+    ],
+    "explanation": "「〜に worsen」は「empeorar」（一般的）、「deteriorarse」（状態の段階的な低下）、または「agravarse」（より深刻になる、しばしば医学的/危機）に翻訳されます。「La situación se agravó」（状態が悪化した -- 重要になった）。"
   },
   "q_vocab_c1_11_007": {
     "question": "「perspicaz」と「sagaz」の微妙な違いは何ですか？",
     "correct": "「Perspicaz」は細部を知覚/敏鋭さを意味し；「sagaz」は戦略的に洞察を使用することを意味します",
-    "wrong": ["それらは「知的な」を意味する同じの同義語です", "「Perspicaz」はネガティブで「sagaz」はポジティブです", "「Perspicaz」は疑わしい、「sagaz」は賢い"],
+    "wrong": [
+      "それらは「知的な」を意味する同じの同義語です",
+      "「Perspicaz」はネガティブで「sagaz」はポジティブです",
+      "「Perspicaz」は疑わしい、「sagaz」は賢い"
+    ],
     "explanation": "「Perspicaz」（敏鋭な）は微妙な詳細に気づくという鋭い認識を強調しています。「Sagaz」（賢敏な）は戦略的に洞察を実用的な利点に使用することを意味しています。探偵は手がかりに気づくことで「perspicaz」で、それらを関連付けてケースを解決するときに「sagaz」です。"
   },
   "q_vocab_c1_11_008": {
     "question": "「escueto」は？",
     "correct": "簡潔な / ぶっきらぼうな / 簡潔な",
     "pronunciation": "[エスクエト]",
-    "wrong": ["骨格的な / 薄い", "秘密の / 隠された", "怖い / ぎくしゃくした"],
+    "wrong": [
+      "骨格的な / 薄い",
+      "秘密の / 隠された",
+      "怖い / ぎくしゃくした"
+    ],
     "explanation": "「Escueto」は「簡潔」、「ぶっきらぼう」、または「簡潔」を意味し、何かが簡潔で不必要な詳細がないことを説明しています。「Una respuesta escueta」は簡潔な答えです。それはニュートラルまたはやや否定的（あまりにも簡潔）かもしれません。"
   },
   "q_vocab_c1_11_009": {
     "question": "正式なレポートを書いており、ポリシーが「完全に失敗した」と言う必要があります。どの同義語が正式なレジスターに最も適切ですか？",
     "correct": "「La política fracasó rotundamente」-- 強調的な正式な失敗のために「fracasar rotundamente」を使用します。",
-    "wrong": ["「La política falló totalmente」-- レポートには非公式すぎる。", "「La política fue un desastre completo」-- 非常に口語的です。", "「La política no funcionó para nada」-- 会話的すぎます。"],
+    "wrong": [
+      "「La política falló totalmente」-- レポートには非公式すぎる。",
+      "「La política fue un desastre completo」-- 非常に口語的です。",
+      "「La política no funcionó para nada」-- 会話的すぎます。"
+    ],
     "explanation": "「Fracasar rotundamente」は「大いに失敗する」を意味します。正式な執筆では、「fracasar」（失敗）は「fallar」（より機械的/非公式）より適切で、「rotundamente」（圧倒的に）は「totalmente」（完全に）または「completamente」（完全に）より正式な副詞です。"
   },
   "q_vocab_c1_11_010": {
     "question": "文学批評家は過度に手の込んだ、わざとらしい執筆スタイルを説明する必要があります。このスタイル批評をフレーミングするのに最も適切な同義語と反対のペアはどれですか？",
     "correct": "同義語: 「recargado」 / 「ampuloso」（手の込んだ/ぽんぽこな）; 反対: 「sobrio」 / 「escueto」（抑制/簡潔）。",
-    "wrong": ["同義語: 「bonito」 / 「elegante」; 反対: 「feo」 / 「horrible」.", "同義語: 「largo」 / 「extenso」; 反対: 「corto」 / 「breve」.", "同義語: 「difícil」 / 「complejo」; 反対: 「fácil」 / 「simple」."],
+    "wrong": [
+      "同義語: 「bonito」 / 「elegante」; 反対: 「feo」 / 「horrible」.",
+      "同義語: 「largo」 / 「extenso」; 反対: 「corto」 / 「breve」.",
+      "同義語: 「difícil」 / 「complejo」; 反対: 「fácil」 / 「simple」."
+    ],
     "explanation": "「Recargado」（過剰に装飾された）と「ampuloso」（ぽんぽこな/気取った）は過度に装飾された執筆を説明し、その反対の「sobrio」（抑制された）と「escueto」（簡潔）は反対の美学を表現しています。このボキャブラリーは高度な文学批評に不可欠です。"
   },
   "q_vocab_c1_12_001": {
     "question": "コロケーション「tomar una decisión」は何を意味しますか？",
     "correct": "決定する",
-    "wrong": ["決定を離す", "決定を飲む", "飲む選択"],
+    "wrong": [
+      "決定を離す",
+      "決定を飲む",
+      "飲む選択"
+    ],
     "explanation": "「Tomar una decisión」は「決定する」を意味します。スペイン語では、決定は「取られ」（tomar）ます。「Hacer una decisión」は不正です。これは最も重要なコロケーションを学ぶことの一つです。"
   },
   "q_vocab_c1_12_002": {
     "question": "「El profesor hizo ___ en la importancia de la participación activa en clase.」",
     "correct": "hincapié",
-    "wrong": ["esfuerzo", "presión", "referencia"],
+    "wrong": [
+      "esfuerzo",
+      "presión",
+      "referencia"
+    ],
     "explanation": "「Hacer hincapié en」は「強調する」または「ストレスする」を意味します。その文は「教授は授業への積極的な参加の重要性を強調した」という意味です。これは固定されたコロケーション -- 「hincapié」は他の文脈ではめったに使用されません。"
   },
   "q_vocab_c1_12_003": {
     "question": "コロケーション「prestar atención」は何を意味しますか？",
     "correct": "注意を払う",
-    "wrong": ["誰かに注意を貸す", "注意を借りる", "注意を押す"],
-    "explanation": "「Prestar atención」は「注意を払う」を意味します。スペイン語では、注意は「貸し出され」（prestar）ます。「Presta atención a lo que dice el profesor」は「教授が言っていることに注意を払って」という意味です。"
+    "wrong": [
+      "誰かに注意を貸す",
+      "注意を借りる",
+      "注意を押す"
+    ],
+    "explanation": "「Prestar atención」は「注意を払う」を意味します。スペイン語では、注意は「貸し出され」（prestar）ます。「Presta atención lo que dice el profesor」は「教授が言っていることに注意を払って」という意味です。"
   },
   "q_vocab_c1_12_004": {
     "question": "「correr el riesgo」は何を意味しますか？",
     "correct": "危険を冒す / リスクを取る",
-    "wrong": ["リスクから逃げる", "危険に対して競う", "リスクを走ることで逃げる"],
+    "wrong": [
+      "リスクから逃げる",
+      "危険に対して競う",
+      "リスクを走ることで逃げる"
+    ],
     "explanation": "「Correr el riesgo」は「危険を冒す」または「リスクを取る」を意味します。「Si no actúas ahora, corres el riesgo de perder la oportunidad」は「今行動しないと、機会を失うリスクを実行します」という意味です。"
   },
   "q_vocab_c1_12_005": {
-    "question": "「to file a complaint」のスペイン語は？",
+    "question": "「〜に file complaint」のスペイン語は？",
     "correct": "presentar una queja / interponer una reclamación",
-    "wrong": ["poner una queja en un archivo", "archivar un documento de queja", "dar una queja al archivo"],
-    "explanation": "「To file a complaint」は「presentar una queja」（一般的）または「interponer una reclamación」（正式/法的）に翻訳されます。動詞「interponer」は法的および行政的文脈での正式な請求に特に使用されます。"
+    "wrong": [
+      "poner una queja en un archivo",
+      "archivar un documento de queja",
+      "dar una queja al archivo"
+    ],
+    "explanation": "「〜に file complaint」は「presentar una queja」（一般的）または「interponer una reclamación」（正式/法的）に翻訳されます。動詞「interponer」は法的および行政的文脈での正式な請求に特に使用されます。"
   },
   "q_vocab_c1_12_006": {
     "question": "「dar por sentado」は何を意味しますか？",
     "correct": "当然だと思う / 当然だと考える",
-    "wrong": ["座ることで感じる", "座ることで与える", "許可を与える"],
+    "wrong": [
+      "座ることで感じる",
+      "座ることで与える",
+      "許可を与える"
+    ],
     "explanation": "「Dar por sentado」は「当然だと考える」を意味し、何かを質問なしに仮定することです。「No des por sentado que todos están de acuerdo」は「みんながあなたが同意していると思っていることを当然だと思わないでください」という意味です。"
   },
   "q_vocab_c1_12_007": {
     "question": "マネージャーが従業員に言っています：「Hay que poner en marcha el proyecto antes de fin de mes.」「Poner en marcha」は何を意味しますか？",
     "correct": "起動する / 始める / 何かを動かすようにする",
-    "wrong": ["何かを行進で置く", "プロジェクトを停止する", "プロジェクトに向かって行進する"],
+    "wrong": [
+      "何かを行進で置く",
+      "プロジェクトを停止する",
+      "プロジェクトに向かって行進する"
+    ],
     "explanation": "「Poner en marcha」は「起動する」、「始める」、または「何かを動かすようにする」を意味します。これはプロジェクト、計画、またはプロセスを開始するためのビジネスコロケーションです。マネージャーはプロジェクトが月末前に起動する必要があることを言っています。"
   },
   "q_vocab_c1_12_008": {
-    "question": "「llevar a cabo」は何を意味しますか？",
+    "question": "「llevar cabo」は何を意味しますか？",
     "correct": "実行する / 実現する / 成し遂げる",
-    "wrong": ["ロープの端に何かを持ってくる", "岬に導く", "フィニッシュラインに持ってくる"],
-    "explanation": "「Llevar a cabo」は「実行する」または「実現する」を意味します。これはタスク、プロジェクト、または計画を完了するための正式なコロケーションです：「Llevaron a cabo una investigación exhaustiva」（彼らは徹底的な調査を実施した）。"
+    "wrong": [
+      "ロープの端に何かを持ってくる",
+      "岬に導く",
+      "フィニッシュラインに持ってくる"
+    ],
+    "explanation": "「Llevar cabo」は「実行する」または「実現する」を意味します。これはタスク、プロジェクト、または計画を完了するための正式なコロケーションです：「Llevaron cabo una investigación exhaustiva」（彼らは徹底的な調査を実施した）。"
   },
   "q_vocab_c1_12_009": {
     "question": "「hacer caso omiso de」は？",
     "correct": "無視する / 意図的に無視する",
-    "wrong": ["法的なケースを作る", "何かの家を作る", "何かに細心の注意を払う"],
+    "wrong": [
+      "法的なケースを作る",
+      "何かの家を作る",
+      "何かに細心の注意を払う"
+    ],
     "explanation": "「Hacer caso omiso de」は「無視する」または「意図的に無視する」を意味します。これは単に「ignorar」より正式です。「Hizo caso omiso de las advertencias」は「彼は警告を無視した」という意味です。"
   },
   "q_vocab_c1_12_010": {
     "question": "研究チームが関係者に彼らの発見を提示しています。主任研究者は言っています：「Los resultados arrojan luz sobre un fenómeno hasta ahora desconocido.」「Arrojar luz sobre」は何を意味し、なぜそれが重要ですか？",
     "correct": "「Arrojar luz sobre」は「明らかにする」を意味します。これは研究が以前は不明な何かを明確にしたことを示します。",
-    "wrong": ["それは実験中に光が文字通り生成されたことを意味します。", "結果が点灯しすぎて暗くなる必要があることを意味します。", "プレゼンテーション中に観客に懐中電灯を向けることを意味します。"],
+    "wrong": [
+      "それは実験中に光が文字通り生成されたことを意味します。",
+      "結果が点灯しすぎて暗くなる必要があることを意味します。",
+      "プレゼンテーション中に観客に懐中電灯を向けることを意味します。"
+    ],
     "explanation": "「Arrojar luz sobre」（明らかにする）は「理解を明確にする」を意味する重要な学術および専門的なコロケーションです。「Los resultados arrojan」（結果が投げる）と組み合わせて、これは研究プレゼンテーションで新しい理解を導入するための標準的な言語です。"
   }
 }

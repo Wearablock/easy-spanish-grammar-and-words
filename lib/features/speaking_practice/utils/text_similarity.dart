@@ -1,6 +1,8 @@
 import 'dart:math';
 import 'package:flutter/material.dart';
 
+import 'spanish_numbers.dart';
+
 /// 두 스페인어 문장의 유사도 계산.
 ///
 /// 단어 매칭 70% + Levenshtein 거리 30% 가중 평균.
@@ -39,13 +41,16 @@ class TextSimilarity {
   }
 
   static String _normalize(String text) {
-    return text
+    final cleaned = text
         .toLowerCase()
         .replaceAll('¿', '')
         .replaceAll('¡', '')
         .replaceAll(RegExp(r'[^\wáéíóúüñ\s]', unicode: true), '')
         .replaceAll(RegExp(r'\s+'), ' ')
         .trim();
+    // STT가 숫자 단어를 아라비아 숫자로 변환하는 경우(veinte→20) 채점 오류를 방지.
+    // 양쪽 모두 숫자 형태로 통일해서 비교한다.
+    return SpanishNumbers.normalizeToDigits(cleaned);
   }
 
   static int _levenshtein(String s1, String s2) {

@@ -3,12 +3,16 @@ import 'dart:convert';
 import 'package:flutter/services.dart';
 
 /// 변형 카드의 종류 — UI에서 라벨을 l10n으로 렌더링할 때 사용.
+///
+/// - `phrase`: 관용 표현/인사/비인칭 구문처럼 주어·부정·의문 변형이 무의미한
+///   단일 표현을 담기 위한 kind. subject/nounSwap 없이 자립적인 문장.
 enum VariationKind {
   base,
   subject,
   negative,
   interrogative,
   nounSwap,
+  phrase,
 }
 
 VariationKind _kindFromString(String s) {
@@ -23,6 +27,8 @@ VariationKind _kindFromString(String s) {
       return VariationKind.interrogative;
     case 'nounSwap':
       return VariationKind.nounSwap;
+    case 'phrase':
+      return VariationKind.phrase;
     default:
       throw ArgumentError('Unknown VariationKind: $s');
   }

@@ -10,29 +10,34 @@ import '../../../services/feedback_service.dart';
 import '../../../services/speech_service.dart';
 import '../../../services/tts_service.dart';
 import '../data/speaking_models.dart';
+import '../utils/spanish_numbers.dart';
 import '../utils/speaking_l10n.dart';
 import '../utils/speaking_palette.dart';
 import '../utils/text_similarity.dart';
 import '../widgets/permission_denied_dialog.dart';
 import 'result_screen.dart';
 
-/// 말하기 연습 — 카드별 모범 음성 듣기 → 따라말하기 → 정확도 피드백.
-class SpeakingPracticeScreen extends ConsumerStatefulWidget {
-  final SpeakingSeed seed;
+/// 말하기 — 번역을 보고 스페인어로 발화.
+///
+/// seed 비종속: 호출부에서 이미 선별한 카드 리스트를 받아서 그대로 진행한다.
+/// (단일 씨앗 세션, 여러 씨앗 혼합 자동 세션 모두 지원)
+/// 카드의 seedId는 `card.id` 의 `::` 앞부분에서 추출.
+class SpeakingSpeakScreen extends ConsumerStatefulWidget {
+  final String title;
   final List<SpeakingCard> cards;
-  const SpeakingPracticeScreen({
+
+  const SpeakingSpeakScreen({
     super.key,
-    required this.seed,
+    required this.title,
     required this.cards,
   });
 
   @override
-  ConsumerState<SpeakingPracticeScreen> createState() =>
-      _SpeakingPracticeScreenState();
+  ConsumerState<SpeakingSpeakScreen> createState() =>
+      _SpeakingSpeakScreenState();
 }
 
-class _SpeakingPracticeScreenState
-    extends ConsumerState<SpeakingPracticeScreen> {
+class _SpeakingSpeakScreenState extends ConsumerState<SpeakingSpeakScreen> {
   final TtsService _tts = TtsService();
   final SpeechService _speech = SpeechService();
   final List<AttemptResult> _results = [];
@@ -41,10 +46,11 @@ class _SpeakingPracticeScreenState
   String _spoken = '';
   double? _accuracy;
   bool _listening = false;
-  bool _showMeaning = false;
+  bool _showAnswer = false;
   String? _errorMessage;
 
   SpeakingCard get _card => widget.cards[_index];
+  String get _seedId => _card.id.split('::').first;
 
   @override
   void dispose() {
@@ -53,7 +59,15 @@ class _SpeakingPracticeScreenState
     super.dispose();
   }
 
-  Future<void> _playModel() => _tts.speak(_card.es);
+  /// 정답 음성 재생. 녹음 중이면 먼저 중단 — TTS 출력이 마이크에 들어가
+  /// 정확도를 오인시키는 문제를 방지.
+  Future<void> _playAnswer() async {
+    if (_listening) {
+      await _speech.stopListening();
+      if (mounted) setState(() => _listening = false);
+    }
+    await _tts.speak(_card.es);
+  }
 
   Future<void> _toggleListen(AppLocalizations l10n) async {
     if (_listening) {
@@ -100,7 +114,7 @@ class _SpeakingPracticeScreenState
     final db = AppDatabase();
     await db.speakingRecordsDao.insertRecord(
       SpeakingRecordsCompanion(
-        seedId: d.Value(widget.seed.id),
+        seedId: d.Value(_seedId),
         cardId: d.Value(_card.id),
         mode: const d.Value('practice'),
         spokenText: d.Value(text),
@@ -109,10 +123,9 @@ class _SpeakingPracticeScreenState
         passed: d.Value(TextSimilarity.isPass(acc)),
       ),
     );
-    // SR 진도 업데이트 (통과 → level+1, 미달 → level 0 + 내일 복습)
     await db.speakingProgressDao.updateFromAccuracy(
       cardId: _card.id,
-      seedId: widget.seed.id,
+      seedId: _seedId,
       accuracy: acc,
     );
   }
@@ -126,7 +139,7 @@ class _SpeakingPracticeScreenState
       _index++;
       _spoken = '';
       _accuracy = null;
-      _showMeaning = false;
+      _showAnswer = false;
       _errorMessage = null;
     });
   }
@@ -140,8 +153,6 @@ class _SpeakingPracticeScreenState
   }
 
   void _finish() {
-    final locale = Localizations.localeOf(context).toString();
-    // 세션 종료 시 전면 광고 (학습 세션과 동일 패턴, 60→150초 쿨타임 적용)
     final isPremium = ref.read(isPremiumProvider);
     if (!isPremium) {
       AdService().showInterstitialAd();
@@ -150,45 +161,11 @@ class _SpeakingPracticeScreenState
       context,
       MaterialPageRoute(
         builder: (_) => SpeakingResultScreen(
-          seedTitle: widget.seed.titleFor(locale),
+          seedTitle: widget.title,
           results: _results,
-          isTestMode: false,
         ),
       ),
     );
-  }
-
-  /// "뜻 보기" — 보상형 광고 시청 후 노출 (프리미엄은 광고 없이 즉시).
-  /// quiz_card.dart의 힌트 패턴과 동일.
-  Future<void> _onShowMeaning() async {
-    final isPremium = ref.read(isPremiumProvider);
-    final adService = AdService();
-
-    if (isPremium) {
-      setState(() => _showMeaning = true);
-      return;
-    }
-
-    if (adService.isRewardedAdReady) {
-      await adService.showRewardedAd(
-        onRewarded: (_) {
-          if (mounted) setState(() => _showMeaning = true);
-        },
-      );
-      return;
-    }
-    final loaded = await adService.tryLoadRewardedAd();
-    if (!mounted) return;
-    if (loaded) {
-      await adService.showRewardedAd(
-        onRewarded: (_) {
-          if (mounted) setState(() => _showMeaning = true);
-        },
-      );
-    } else {
-      // 폴백: 광고 로드 실패 시 광고 없이 표시 (UX 우선)
-      setState(() => _showMeaning = true);
-    }
   }
 
   @override
@@ -202,7 +179,7 @@ class _SpeakingPracticeScreenState
     return Scaffold(
       appBar: AppBar(
         title: Text(
-            '${widget.seed.titleFor(locale)}  ${_index + 1}/${widget.cards.length}'),
+            '${widget.title}  ${_index + 1}/${widget.cards.length}'),
         actions: [
           IconButton(
             icon: const Icon(Icons.close),
@@ -232,58 +209,46 @@ class _SpeakingPracticeScreenState
                   const SizedBox(height: 24),
                   Card(
                     child: Padding(
-                      padding: const EdgeInsets.all(20),
+                      padding: const EdgeInsets.all(24),
                       child: Column(
                         children: [
                           Text(
-                            _card.es,
+                            l10n.sayInSpanishHint,
+                            style: SpeakingPalette.hintLabel(context),
+                          ),
+                          const SizedBox(height: 12),
+                          Text(
+                            _card.translationFor(locale),
                             textAlign: TextAlign.center,
                             style: theme.textTheme.headlineSmall?.copyWith(
                               fontWeight: FontWeight.w600,
                             ),
                           ),
-                          const SizedBox(height: 12),
-                          IconButton.filled(
-                            onPressed: _playModel,
-                            icon: const Icon(Icons.volume_up),
-                          ),
-                          const SizedBox(height: 8),
-                          if (_showMeaning)
+                          const SizedBox(height: 16),
+                          if (_showAnswer) ...[
                             Text(
-                              _card.translationFor(locale),
+                              _card.es,
                               textAlign: TextAlign.center,
-                              style: SpeakingPalette.meaningText(context),
-                            )
-                          else
-                            TextButton(
-                              onPressed: _onShowMeaning,
-                              child: Row(
-                                mainAxisSize: MainAxisSize.min,
-                                children: [
-                                  Text(l10n.showMeaning),
-                                  if (!ref.watch(isPremiumProvider)) ...[
-                                    const SizedBox(width: 4),
-                                    Container(
-                                      padding: const EdgeInsets.symmetric(
-                                          horizontal: 4, vertical: 1),
-                                      decoration: BoxDecoration(
-                                        color: theme.colorScheme.secondary
-                                            .withValues(alpha: 0.15),
-                                        borderRadius: BorderRadius.circular(4),
-                                      ),
-                                      child: Text(
-                                        'AD',
-                                        style: theme.textTheme.labelSmall
-                                            ?.copyWith(
-                                          color: theme.colorScheme.secondary,
-                                          fontWeight: FontWeight.bold,
-                                          fontSize: 10,
-                                        ),
-                                      ),
-                                    ),
-                                  ],
-                                ],
+                              style:
+                                  theme.textTheme.titleLarge?.copyWith(
+                                color: theme.colorScheme.primary,
+                                fontWeight: FontWeight.w600,
                               ),
+                            ),
+                            const SizedBox(height: 8),
+                            IconButton.filled(
+                              onPressed: _playAnswer,
+                              icon: const Icon(Icons.volume_up),
+                            ),
+                          ] else
+                            TextButton.icon(
+                              onPressed: () =>
+                                  setState(() => _showAnswer = true),
+                              icon: const Icon(
+                                Icons.visibility_outlined,
+                                size: 18,
+                              ),
+                              label: Text(l10n.correctAnswer),
                             ),
                         ],
                       ),
@@ -305,7 +270,9 @@ class _SpeakingPracticeScreenState
                           Text(l10n.iSaid,
                               style: SpeakingPalette.hintLabel(context)),
                           const SizedBox(height: 6),
-                          Text(_spoken,
+                          // STT가 숫자 단어를 아라비아 숫자로 반환하는 경우(예: "20")
+                          // 화면에는 스페인어 단어 형태("veinte")로 되돌려 보여준다.
+                          Text(SpanishNumbers.digitsToWords(_spoken),
                               textAlign: TextAlign.center,
                               style: theme.textTheme.titleMedium),
                           if (accuracy != null) ...[
@@ -318,6 +285,15 @@ class _SpeakingPracticeScreenState
                               ),
                             ),
                             Text(accuracyFeedback(l10n, accuracy)),
+                            if (!_showAnswer) ...[
+                              const SizedBox(height: 8),
+                              Text('${l10n.correctAnswerLabel}: ${_card.es}',
+                                  style: theme.textTheme.bodyMedium),
+                              IconButton(
+                                onPressed: _playAnswer,
+                                icon: const Icon(Icons.volume_up),
+                              ),
+                            ],
                           ],
                         ],
                       ),

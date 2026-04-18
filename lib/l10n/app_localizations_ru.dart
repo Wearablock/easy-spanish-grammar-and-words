@@ -533,6 +533,9 @@ class AppLocalizationsRu extends AppLocalizations {
   String get speakingTest => 'Разговорный тест';
 
   @override
+  String get speakingBrowseAll => 'Все фразы';
+
+  @override
   String get speakingFeatureDesc =>
       'Тренируйте десятки вариантов одной фразы: смена подлежащего, отрицание, вопрос, замена слов.';
 
@@ -631,6 +634,9 @@ class AppLocalizationsRu extends AppLocalizations {
   String variationNounSwap(String noun) {
     return 'Замена слова · $noun';
   }
+
+  @override
+  String get variationPhrase => 'Выражение';
 
   @override
   String get feedbackPerfect => 'Идеально! 🎉';

@@ -529,6 +529,9 @@ class AppLocalizationsTh extends AppLocalizations {
   String get speakingTest => 'ทดสอบการพูด';
 
   @override
+  String get speakingBrowseAll => 'ดูทั้งหมด';
+
+  @override
   String get speakingFeatureDesc =>
       'ฝึกและทดสอบการพูดประโยคหลายสิบรูปแบบจากประโยคเดียว: เปลี่ยนประธาน ปฏิเสธ คำถาม สลับคำ';
 
@@ -627,6 +630,9 @@ class AppLocalizationsTh extends AppLocalizations {
   String variationNounSwap(String noun) {
     return 'เปลี่ยนคำ · $noun';
   }
+
+  @override
+  String get variationPhrase => 'สำนวน';
 
   @override
   String get feedbackPerfect => 'เยี่ยมมาก! 🎉';

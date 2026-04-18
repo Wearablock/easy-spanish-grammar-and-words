@@ -1,6 +1,6 @@
 import 'package:drift/drift.dart';
 
-/// 말하기 연습/테스트 기록 테이블
+/// 말하기 시도 로그 테이블
 @DataClassName('SpeakingRecord')
 class SpeakingRecords extends Table {
   IntColumn get id => integer().autoIncrement()();
@@ -11,7 +11,7 @@ class SpeakingRecords extends Table {
   /// 변형 카드 ID (seedId::variation 형식)
   TextColumn get cardId => text()();
 
-  /// 모드: 'practice' | 'test'
+  /// 모드: 'practice' | 'review' (legacy 'test' 값도 존재할 수 있음)
   TextColumn get mode => text()();
 
   /// 사용자가 발화한 (STT) 텍스트

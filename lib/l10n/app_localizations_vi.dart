@@ -531,6 +531,9 @@ class AppLocalizationsVi extends AppLocalizations {
   String get speakingTest => 'Kiểm Tra Nói';
 
   @override
+  String get speakingBrowseAll => 'Xem tất cả';
+
+  @override
   String get speakingFeatureDesc =>
       'Luyện và kiểm tra hàng chục biến thể từ một câu: đổi chủ ngữ, phủ định, câu hỏi, đổi từ.';
 
@@ -629,6 +632,9 @@ class AppLocalizationsVi extends AppLocalizations {
   String variationNounSwap(String noun) {
     return 'Đổi từ · $noun';
   }
+
+  @override
+  String get variationPhrase => 'Cách diễn đạt';
 
   @override
   String get feedbackPerfect => 'Tuyệt vời! 🎉';

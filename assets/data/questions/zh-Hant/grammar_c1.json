@@ -1,1602 +1,1547 @@
 {
-  "q_grammar_c1_001": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_c1_01_001": {
+    "question": "Ojalá ___ más tiempo libre el año pasado. (tener)",
+    "correct": "hubiera tenido",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "tuviera",
+      "tendría",
+      "tenía"
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "之後 'ojalá' referring 到 an unrealized past wish, pluperfect 虛擬式 (hubiera + 過去分詞) 是 需要. 'Tuviera' 將 express a present contrary-到-fact wish, not a past one."
   },
-  "q_grammar_c1_002": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_c1_01_002": {
+    "question": "Quizás la situación ___ diferente si hubiéramos actuado antes. (ser)",
+    "correct": "hubiera sido",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "fuera",
+      "sería",
+      "fue"
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "'Quizás' 與 pluperfect 虛擬式 expresses doubt about a hypothetical past outcome. pluperfect 虛擬式 'hubiera sido' 是 needed 因爲 條件 (si hubiéramos actuado) 是 也 在 pluperfect 虛擬式."
   },
-  "q_grammar_c1_003": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_c1_01_003": {
+    "question": "什麼 does 虛擬式 之後 'como si' express, 和 什麼 tenses 可以 follow 它?",
+    "correct": "It expresses an unreal comparison; only the imperfect subjunctive or pluperfect subjunctive can follow 'como si'",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "It expresses a real comparison; the present subjunctive or indicative can follow",
+      "It expresses purpose; any subjunctive tense can follow 'como si'",
+      "It expresses a temporal relationship; only the present subjunctive follows"
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "'Como si' (as if) 總是 introduces an unreal 或 hypothetical comparison. 西班牙語 grammar restricts 它 到 過去虛擬式 (爲 present unreal) 或 pluperfect 虛擬式 (爲 past unreal). 現在虛擬式 是 從不 用過的 之後 'como si'."
   },
-  "q_grammar_c1_004": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_c1_01_004": {
+    "question": "Ella actúa como si no ___ nada de lo ocurrido. (saber, 過去虛擬式)",
+    "correct": "supiera",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "sepa",
+      "sabía",
+      "supiese"
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "之後 'como si', 過去虛擬式 是 需要 用來表達 an unreal comparison 在 present. 'Supiera' 是 -ra 形式 來自 不規則 簡單過去時 詞根 sup-. 注意: 'supiese' 是 也 grammatically valid 但是 -ra 形式 是 expected answer 這裡.",
+    "conjugation_info": "saber (imperfect subjunctive): supiera, supieras, supiera, supiéramos, supierais, supieran"
   },
-  "q_grammar_c1_005": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_c1_01_005": {
+    "question": "Por más que ___ convencerlo, no cambió de opinión. (intentar)",
+    "correct": "intentara",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "intentó",
+      "intentaba",
+      "intentaría"
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "'Por más que' (no matter 如何 much) 是 a concessive 連詞 那 triggers 虛擬式. 由於 main clause 是 在 簡單過去時 ('no cambió'), 過去虛擬式 'intentara' 是 needed 在 subordinate clause."
   },
-  "q_grammar_c1_006": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
+  "q_gram_c1_01_006": {
+    "question": "Ojalá que los dirigentes ___ una solución antes de la crisis. (encontrar, pluperfect 虛擬式, ellos form)",
+    "correct": "hubieran encontrado",
+    "wrong": [
+      "encontraran",
+      "habrían encontrado",
+      "encontrasen"
+    ],
+    "explanation": "'Ojalá que' 與 pluperfect 虛擬式 expresses a regretful wish about a past event 那 did not happen. pluperfect 虛擬式 是 formed 與 hubieran + 過去分詞.",
+    "conjugation_info": "encontrar (pluperfect subjunctive): hubiera encontrado, hubieras encontrado, hubiera encontrado, hubiéramos encontrado, hubierais encontrado, hubieran encontrado"
+  },
+  "q_gram_c1_01_007": {
+    "question": "Habla con tanta autoridad como si ___ un experto en la materia. (ser)",
+    "correct": "fuera",
+    "wrong": [
+      "es",
+      "sea",
+      "fue"
+    ],
+    "explanation": "之後 'como si', 僅 未完成過去時 或 pluperfect 虛擬式 是 grammatically 正確. 由於 comparison 是 about an ongoing unreal situation (he 是 not actually an expert), 過去虛擬式 'fuera' 是 正確 choice."
+  },
+  "q_gram_c1_01_008": {
+    "question": "Perhaps 他們 將 有 arrived on 時間 if train hadn't been delayed.",
+    "correct": "Quizás hubieran llegado a tiempo si el tren no se hubiera retrasado.",
+    "wrong": [
+      "Quizás llegaran a tiempo si el tren no se retrasara.",
+      "Tal vez llegarían a tiempo si el tren no se retrasó.",
+      "Quizás habrían llegado a tiempo si el tren no se retrasaría."
+    ],
+    "explanation": "'Quizás' 與 a past counterfactual uses pluperfect 虛擬式. si-clause 也 takes pluperfect 虛擬式 ('hubiera retrasado'). 'Quizás hubieran llegado' 是 preferred over 'habrían llegado' 在 正式 registers 什麼時候 expressing doubt."
+  },
+  "q_gram_c1_01_009": {
+    "question": "Aunque se lo ___ mil veces, jamás lo habría creído. (decir, pluperfect 虛擬式, nosotros form)",
+    "correct": "hubiéramos dicho",
+    "wrong": [
+      "dijéramos",
+      "habríamos dicho",
+      "diríamos"
+    ],
+    "explanation": " concessive 'aunque' 與 a counterfactual past situation 需要 pluperfect 虛擬式. nosotros 形式的 pluperfect 虛擬式 的 'decir' 是 'hubiéramos dicho', 使用 不規則 過去分詞 'dicho'.",
+    "conjugation_info": "decir (pluperfect subjunctive): hubiera dicho, hubieras dicho, hubiera dicho, hubiéramos dicho, hubierais dicho, hubieran dicho"
+  },
+  "q_gram_c1_01_010": {
+    "question": "Por más que se esforzara, nunca lograba satisfacer las expectativas de su mentor.",
+    "correct": "No matter how hard he tried, he never managed to meet his mentor's expectations.",
+    "wrong": [
+      "The more he tried, the more he met his mentor's expectations.",
+      "Even though he tried hard, he always satisfied his mentor's expectations.",
+      "However much effort he makes, he will never meet his mentor's expectations."
+    ],
+    "explanation": "'Por más que' + 過去虛擬式 expresses a concessive 含義: despite repeated efforts, result 是 總是 相同. 未完成過去時 tenses ('esforzara', 'lograba') 表示 a habitual past situation."
+  },
+  "q_gram_c1_02_001": {
+    "question": "Apenas hubo ___ la noticia, salió corriendo hacia la estación. (oír, pretérito anterior)",
+    "correct": "oído",
+    "wrong": [
+      "oyó",
+      "oía",
+      "oído había"
+    ],
+    "explanation": " pretérito anterior (hubo + 過去分詞) 是 用過的 之後 temporal 連詞 like 'apenas' (as soon as) 到 表示 an action completed immediately 之前 another past action. 分詞 的 'oír' 是 'oído'.",
+    "conjugation_info": "oír (pretérito anterior): hube oído, hubiste oído, hubo oído, hubimos oído, hubisteis oído, hubieron oído"
+  },
+  "q_gram_c1_02_002": {
+    "question": "No bien ___ terminado el discurso, el público estalló en aplausos. (haber, pretérito anterior)",
+    "correct": "hubo",
+    "wrong": [
+      "había",
+      "ha",
+      "habría"
+    ],
+    "explanation": "'No bien' (no sooner) triggers pretérito anterior, which uses 簡單過去時 的 'haber' + 過去分詞. 'Hubo terminado' 表示 speech ended immediately 之前 audience erupted 在 applause."
+  },
+  "q_gram_c1_02_003": {
+    "question": "Donde ___ leyes, los ciudadanos estarán protegidos. (haber, future 虛擬式)",
+    "correct": "hubiere",
+    "wrong": [
+      "haya",
+      "habrá",
+      "hubiera"
+    ],
+    "explanation": " future 虛擬式 ('hubiere') survives 在 legal 和 proverbial 語言. 在 這 legal-style sentence, 'donde hubiere leyes' 意思是 'wherever 那裡 may 是 laws'. 在 modern everyday 西班牙語, 現在虛擬式 'haya' 將 是 用過的 instead."
+  },
+  "q_gram_c1_02_004": {
+    "question": "在 什麼 contexts does pretérito anterior (hubo cantado) appear 在 modern 西班牙語?",
+    "correct": "Almost exclusively in literary texts, after temporal conjunctions like apenas, en cuanto, no bien, tan pronto como",
+    "wrong": [
+      "In everyday spoken Spanish to express recently completed actions",
+      "In formal business correspondence as a replacement for the preterite",
+      "In journalism to describe breaking news events"
+    ],
+    "explanation": " pretérito anterior 是 virtually extinct 在 spoken 西班牙語 和 rare even 在 writing. 什麼時候 它 做 appear, 它 follows temporal 連詞 (apenas, en cuanto, no bien, tan pronto como) 和 表示 immediate anteriority 到 a 簡單過去時 action. 在 modern usage, simple 簡單過去時 typically replaces 它."
+  },
+  "q_gram_c1_02_005": {
+    "question": "Quien ___ de buena fe, será protegido por la ley. (obrar, future 虛擬式)",
+    "correct": "obrare",
+    "wrong": [
+      "obre",
+      "obrará",
+      "obrara"
+    ],
+    "explanation": " future 虛擬式 ('obrare') 是 用過的 在 legal texts 和 fixed expressions. 'Quien obrare de buena fe' 是 a legal formula 含義 'whoever shall act 在 good faith'. 在 modern non-legal 西班牙語, 現在虛擬式 'obre' 將 是 用過的.",
+    "conjugation_info": "obrar (future subjunctive): obrare, obrares, obrare, obráremos, obrareis, obraren"
+  },
+  "q_gram_c1_02_006": {
+    "question": "Apenas hubo ___ la puerta, se dio cuenta de que había olvidado las llaves dentro. (cerrar, pretérito anterior)",
+    "correct": "cerrado",
+    "wrong": [
+      "cerró",
+      "cerraba",
+      "cerrando"
+    ],
+    "explanation": "在 pretérito anterior construction 'hubo + 過去分詞', 分詞 的 'cerrar' 是 'cerrado'. 這 tense marks immediately preceding action 之前 main 簡單過去時 動詞 'se dio cuenta'."
+  },
+  "q_gram_c1_02_007": {
+    "question": "Whoever shall violate 這 provision will 是 subject 到 penalties.",
+    "correct": "Quien contraviniere esta disposición quedará sujeto a sanciones.",
+    "wrong": [
+      "Quien contravenga esta disposición queda sujeto a sanciones.",
+      "Quien contravendría esta disposición estaría sujeto a sanciones.",
+      "Quien contravino esta disposición fue sujeto a sanciones."
+    ],
+    "explanation": "在 legal 西班牙語, future 虛擬式 ('contraviniere') 是 用過的 爲 hypothetical future actions 在 legal provisions. 這 mirrors archaic 英語 construction 'whoever shall violate'. modern equivalent 將 使用 現在虛擬式 'contravenga'."
+  },
+  "q_gram_c1_02_008": {
+    "question": "En cuanto hubo ___ el documento, lo envió por correo certificado. (firmar, pretérito anterior)",
+    "correct": "firmado",
+    "wrong": [
+      "firmó",
+      "firmaba",
+      "firmando"
+    ],
+    "explanation": "之後 'en cuanto' (as soon as), pretérito anterior 'hubo firmado' expresses 那 signing 是 completed immediately 之前 sending. 過去分詞 的 'firmar' 是 規則: 'firmado'."
+  },
+  "q_gram_c1_02_009": {
+    "question": "Adonde fueres, haz lo que vieres.",
+    "correct": "Wherever you may go, do as you may see (done there). / When in Rome, do as the Romans do.",
+    "wrong": [
+      "Wherever you went, do what you saw.",
+      "Where you will go, do what you will see.",
+      "If you go away, do what you are told."
+    ],
+    "explanation": "這 proverb uses future 虛擬式 ('fueres', 'vieres'), which survives 在 fixed sayings. 它 是 西班牙語 equivalent 的 '什麼時候 在 Rome, 做 as Romans 做'. future 虛擬式 這裡 expresses hypothetical future situations 在 a timeless, proverbial way."
+  },
+  "q_gram_c1_02_010": {
+    "question": "Si así lo ___ el tribunal, se procederá al embargo de los bienes. (disponer, future 虛擬式, él form)",
+    "correct": "dispusiere",
+    "wrong": [
+      "disponga",
+      "dispondrá",
+      "dispusiera"
+    ],
+    "explanation": "在 legal register, future 虛擬式 'dispusiere' 是 用過的 在 條件式 clauses referring 到 potential future rulings. 詞根 comes 來自 不規則 簡單過去時 'dispuso' → 'dispusier-' + future 虛擬式 詞尾.",
+    "conjugation_info": "disponer (future subjunctive): dispusiere, dispusieres, dispusiere, dispusiéremos, dispusiereis, dispusieren"
+  },
+  "q_gram_c1_03_001": {
+    "question": "De ___ la verdad, no habría aceptado el trabajo. (saber)",
+    "correct": "haber sabido",
+    "wrong": [
+      "saber",
+      "sabiendo",
+      "haber sido sabido"
+    ],
+    "explanation": "'De + perfect 不定式' replaces 'si + pluperfect 虛擬式' 在 a more concise, literary construction. 'De haber sabido' = 'Si hubiera sabido' (Had I known). perfect 不定式 (haber + 分詞) 是 需要 爲 past counterfactuals."
+  },
+  "q_gram_c1_03_002": {
+    "question": "Si hubiera estudiado más, ahora ___ un mejor puesto. (tener)",
+    "correct": "tendría",
+    "wrong": [
+      "tuviera",
+      "hubiera tenido",
+      "tenía"
+    ],
+    "explanation": "這 是 a mixed 條件式: si-clause 指 past (pluperfect 虛擬式 'hubiera estudiado') 當...時 main clause 指 a present consequence (條件式 'tendría'). 這 mixing 的 時間 frames 是 特徵 的 C1-level grammar."
+  },
+  "q_gram_c1_03_003": {
+    "question": "什麼 是 a 'mixed 條件式' 在西班牙語中, 和 什麼時候 是 它 used?",
+    "correct": "A conditional sentence where the si-clause and the main clause refer to different time frames, such as a past condition with a present result",
+    "wrong": [
+      "A conditional that mixes indicative and subjunctive moods in the same clause",
+      "A sentence that uses both 'si' and 'cuando' as conditional markers",
+      "A conditional that combines two different subjects in the if-clause"
+    ],
+    "explanation": "Mixed conditionals break 典型 時間-frame pairing. 例如, 'Si hubiera nacido en España (past), hablaría español perfectamente (present)' mixes a past unreal 條件 與 a present unreal result. 這 是 a sophisticated structure tested at C1 level."
+  },
+  "q_gram_c1_03_004": {
+    "question": "Si no ___ tan orgulloso, le habría pedido disculpas hace tiempo. (ser, 過去虛擬式, él form)",
+    "correct": "fuera",
+    "wrong": [
+      "sería",
+      "fue",
+      "hubiera sido"
+    ],
+    "explanation": "這 是 another mixed 條件式: si-clause describes an ongoing character trait (過去虛擬式 'fuera' = if he weren't so proud) 和 result clause 指 past (條件式 perfect 'habría pedido'). 過去虛擬式 是 用過的 因爲 條件 是 about a persistent 狀態.",
+    "conjugation_info": "ser (imperfect subjunctive): fuera, fueras, fuera, fuéramos, fuerais, fueran"
+  },
+  "q_gram_c1_03_005": {
+    "question": "De no ___ por tu ayuda, nunca habríamos terminado a tiempo. (ser)",
+    "correct": "ser",
+    "wrong": [
+      "haber sido",
+      "siendo",
+      "fuera"
+    ],
+    "explanation": "'De no ser por' 是 a fixed expression 含義 'if 它 weren't 爲' 或 '是 它 not 爲'. Unlike other 'de + 不定式' constructions replacing si-clauses, 這 expression uses simple 不定式 'ser' regardless 的 時間 reference, 因爲 它 是 a set phrase."
+  },
+  "q_gram_c1_03_006": {
+    "question": "Yo que tú, no ___ en ese negocio. (invertir, 條件式, yo form)",
+    "correct": "invertiría",
+    "wrong": [
+      "invirtiera",
+      "invierto",
+      "invertí"
+    ],
+    "explanation": "'Yo que tú' (if I 是 你) 是 an implied 條件式 那 omits si-clause entirely. main clause uses 條件式 tense. 這 colloquial construction 是 equivalent 到 'Si yo fuera tú, no invertiría en ese negocio'.",
+    "conjugation_info": "invertir (conditional): invertiría, invertirías, invertiría, invertiríamos, invertiríais, invertirían"
+  },
+  "q_gram_c1_03_007": {
+    "question": "Con un poco más de experiencia, ___ haber conseguido el puesto. (poder)",
+    "correct": "podría",
+    "wrong": [
+      "pudiera",
+      "puede",
+      "pudo"
+    ],
+    "explanation": "'Con + 名詞 phrase' 可以 replace a si-clause 用來表達 an implied 條件. 'Con un poco más de experiencia' = 'Si tuviera un poco más de experiencia'. main clause uses 條件式 'podría' as expected."
+  },
+  "q_gram_c1_03_008": {
+    "question": "Had 它 not been 爲 interpreter, negotiations 將 有 failed.",
+    "correct": "De no haber sido por el intérprete, las negociaciones habrían fracasado.",
+    "wrong": [
+      "Si no fuera por el intérprete, las negociaciones fracasaron.",
+      "Sin el intérprete, las negociaciones fracasaban.",
+      "De no ser el intérprete, las negociaciones hubieran fracasado."
+    ],
+    "explanation": "'De no haber sido por' 是 past version 的 'de no ser por', 使用 perfect 不定式 爲 a past counterfactual. main clause uses 條件式 perfect 'habrían fracasado' 用來表達 unrealized consequence."
+  },
+  "q_gram_c1_03_009": {
+    "question": "Si ella no ___ tanto, habría disfrutado más del viaje. (quejarse, pluperfect 虛擬式, ella form)",
+    "correct": "se hubiera quejado",
+    "wrong": [
+      "se quejara",
+      "se habría quejado",
+      "se quejó"
+    ],
+    "explanation": " pluperfect 虛擬式 的 reflexive 動詞 'quejarse' 是 'se hubiera quejado'. 在 si-clause 的 a past counterfactual, reflexive 代詞 'se' precedes auxiliary 'hubiera'.",
+    "conjugation_info": "quejarse (pluperfect subjunctive): me hubiera quejado, te hubieras quejado, se hubiera quejado, nos hubiéramos quejado, os hubierais quejado, se hubieran quejado"
+  },
+  "q_gram_c1_03_010": {
+    "question": "De haberlo previsto, habríamos tomado las medidas oportunas con suficiente antelación.",
+    "correct": "Had we foreseen it, we would have taken the appropriate measures well in advance.",
+    "wrong": [
+      "If we foresaw it, we would take the appropriate measures in advance.",
+      "By having foreseen it, we took the appropriate measures well in advance.",
+      "Upon foreseeing it, we had taken the necessary measures sufficiently early."
+    ],
+    "explanation": "'De haberlo previsto' 是 a literary replacement 爲 'Si lo hubiéramos previsto' (had we foreseen 它). perfect 不定式 'haber previsto' 表示 a past counterfactual. 'Con suficiente antelación' 意思是 'well 在 advance'."
+  },
+  "q_gram_c1_04_001": {
+    "question": "El orador señaló, ___, que la reforma era imprescindible. (dicho esto → 正式 discourse marker, 現在分詞 的 decir + esto)",
+    "correct": "dicho esto",
+    "wrong": [
+      "diciendo esto",
+      "esto dicho",
+      "al decir esto"
+    ],
+    "explanation": "'Dicho esto' (那 said/有 said 這) 是 a discourse marker 使用 an absolute 分詞 construction. 它 functions as a transitional phrase 在 正式 speech 和 writing, linking a previous point 到 a new assertion.",
+    "conjugation_info": "decir (past participle): dicho — 用過的 in absolute participle constructions: dicho esto, dicho lo cual, dicho de otro modo"
+  },
+  "q_gram_c1_04_002": {
+    "question": "___, las cifras demuestran que la economía se está recuperando. (en cualquier caso)",
+    "correct": "En cualquier caso",
+    "wrong": [
+      "En todo caso",
+      "De cualquier forma",
+      "Sea como sea"
+    ],
+    "explanation": "'En cualquier caso' (在 any case) 是 a 正式 discourse marker 用過的 到 introduce a conclusion 那 holds regardless 的 preceding arguments. 當...時 'en todo caso' 和 'de cualquier forma' 是 相似, 'en cualquier caso' 是 最 正式 register option."
+  },
+  "q_gram_c1_04_003": {
+    "question": "No hemos recibido respuesta; ___, debemos seguir adelante con el proyecto. (no obstante)",
+    "correct": "no obstante",
+    "wrong": [
+      "sin embargo",
+      "a pesar de ello",
+      "con todo"
+    ],
+    "explanation": "'No obstante' (notwithstanding/nevertheless) 是 a 正式 adversative connector 那 introduces a contrasting idea. 它 是 經常 用過的 在 written 和 academic 西班牙語, 和 its placement 之後 semicolon 是 典型 的 正式 prose."
+  },
+  "q_gram_c1_04_004": {
+    "question": "什麼 是 difference between 'por consiguiente' 和 'en resumidas cuentas' as discourse markers?",
+    "correct": "'Por consiguiente' introduces a logical consequence, while 'en resumidas cuentas' introduces a summary or conclusion of everything discussed",
+    "wrong": [
+      "Both are interchangeable and express the same logical relationship",
+      "'Por consiguiente' is informal while 'en resumidas cuentas' is formal",
+      "'Por consiguiente' introduces a contrast while 'en resumidas cuentas' introduces a cause"
+    ],
+    "explanation": "'Por consiguiente' (consequently/因此) establishes a cause-effect relationship, 當...時 'en resumidas cuentas' (在 short/所有 things considered) synthesizes multiple points into a final assessment. 他們 serve 不同 textual functions: logical deduction vs. summarization."
+  },
+  "q_gram_c1_04_005": {
+    "question": "La inversión fue arriesgada; ___, los beneficios superaron las expectativas. (ahora bien → 然而/now then, 正式 register)",
+    "correct": "ahora bien",
+    "wrong": [
+      "por lo tanto",
+      "es decir",
+      "en efecto"
+    ],
+    "explanation": "'Ahora bien' (然而/now then) 是 a 正式 discourse marker 那 introduces a qualification, nuance, 或 contrasting perspective 到 什麼 是 just stated. 它 signals a shift 在 argument 沒有 full contradiction.",
+    "conjugation_info": "Common 正式 discourse markers: ahora bien (however), dicho esto (that said), a este respecto (in this regard), en resumidas cuentas (in short)"
+  },
+  "q_gram_c1_04_006": {
+    "question": "___, la propuesta carece de fundamento jurídico suficiente. (a este respecto)",
+    "correct": "A este respecto",
+    "wrong": [
+      "Con respecto a",
+      "Al respecto de",
+      "En este aspecto"
+    ],
+    "explanation": "'A este respecto' (在 這 regard) 是 a 正式 discourse marker 那 connects current statement 到 a previously mentioned topic. 它 是 more precise than 'al respecto' 和 signals writer 是 addressing a specific point."
+  },
+  "q_gram_c1_04_007": {
+    "question": "Having said 那, we 必須 consider environmental impact 的 project.",
+    "correct": "Dicho esto, debemos considerar el impacto medioambiental del proyecto.",
+    "wrong": [
+      "Diciendo eso, debemos considerar el impacto ambiental del proyecto.",
+      "Habiendo dicho, tenemos que considerar el impacto ecológico del proyecto.",
+      "Esto dicho, necesitamos considerar el impacto del medioambiente del proyecto."
+    ],
+    "explanation": "'Dicho esto' 是 標準 西班牙語 discourse marker 爲 '有 said 那 / 那 said'. 它 uses absolute 分詞 construction. 'Diciendo eso' 將 是 unnatural 在 這 context as a discourse connector."
+  },
+  "q_gram_c1_04_008": {
+    "question": "Las medidas adoptadas fueron insuficientes; ___, no se puede negar que representaron un primer paso. (con todo)",
+    "correct": "con todo",
+    "wrong": [
+      "por todo",
+      "de todo",
+      "ante todo"
+    ],
+    "explanation": "'Con todo' (nevertheless/even so) 是 a 正式 concessive connector 那 acknowledges preceding point 當...時 introducing a mitigating counterargument. 它 是 less 常見 than 'sin embargo' 但是 preferred 在 certain academic 和 literary registers."
+  },
+  "q_gram_c1_04_009": {
+    "question": "En resumidas cuentas, el proyecto ha sido un éxito rotundo a pesar de las dificultades iniciales.",
+    "correct": "In short, the project has been a resounding success despite the initial difficulties.",
+    "wrong": [
+      "In any case, the project was a success in spite of initial problems.",
+      "To summarize the accounts, the project succeeded despite early challenges.",
+      "As a result, the project turned out to be completely successful despite difficulties."
+    ],
+    "explanation": "'En resumidas cuentas' (在 short/到 sum up) 是 a summarizing discourse marker. 'Rotundo' 意思是 'resounding/emphatic'. phrase signals 那 說話者 是 wrapping up their argument 與 a definitive assessment."
+  },
+  "q_gram_c1_04_010": {
+    "question": "Sea ___ fuere, la decisión ya ha sido tomada y no hay vuelta atrás. (como, future 虛擬式 的 ser)",
+    "correct": "como",
+    "wrong": [
+      "cual",
+      "lo que",
+      "cuando"
+    ],
+    "explanation": "'Sea como fuere' (是 那 as 它 may) 是 a fixed concessive expression 那 uses future 虛擬式 'fuere'. 詞 needed 到 complete 這 set phrase 是 'como'. 這 expression survives 在 正式 speech despite general obsolescence 的 future 虛擬式.",
+    "conjugation_info": "ser (future subjunctive): fuere, fueres, fuere, fuéremos, fuereis, fueren — survives 僅 in fixed expressions like 'sea como fuere'"
+  },
+  "q_gram_c1_05_001": {
+    "question": "En un correo 正式 a un desconocido: 'Le ___ que me informara sobre los requisitos de admisión.' (agradecer, 條件式, yo form)",
+    "correct": "agradecería",
+    "wrong": [
+      "agradezco",
+      "agradeceré",
+      "agradecí"
+    ],
+    "explanation": "在 正式 written correspondence 到 someone unknown, 條件式 'agradecería' softens request, making 它 more polite than present 或 future 陳述式. 這 register awareness 是 crucial at C1 level. 'Le agradecería que...' 是 標準 正式 request formula."
+  },
+  "q_gram_c1_05_002": {
+    "question": "En un texto académico, es preferible escribir: 'Se ___ que los resultados confirman la hipótesis.' (observar)",
+    "correct": "observa",
+    "wrong": [
+      "observo",
+      "ha observado",
+      "observé"
+    ],
+    "explanation": "Academic 西班牙語 uses impersonal 'se' construction ('se observa que') 到 maintain objectivity 和 距離. 第一 人稱 ('observo') 是 generally avoided 在 academic writing 在 西班牙語, unlike 在 英語 哪裡 'I' 或 'we' may 是 acceptable."
+  },
+  "q_gram_c1_05_003": {
+    "question": "什麼 是 key difference between 'tú', 'usted', 和 'vos' 在 terms 的 register 和 regional usage?",
+    "correct": "'Tú' is informal and used in most of Spain and Latin America; 'usted' is formal and universal; 'vos' is informal and used in Argentina, Uruguay, Central America, and parts of Colombia",
+    "wrong": [
+      "'Tú' is used in Spain only; 'usted' is used in Latin America; 'vos' is archaic and no longer used",
+      "'Tú' and 'vos' are identical in meaning and conjugation; 'usted' is only for elderly speakers",
+      "'Vos' is more formal than 'usted' and is used in diplomatic contexts"
+    ],
+    "explanation": " three-way distinction reflects 兩者 formality 和 geography. 'Vos' 是 not archaic 但是 actively 用過的 由 millions 的 speakers 在 Río de la Plata region, Central 美洲, 和 elsewhere. Each 形式 triggers 不同 動詞 conjugations, particularly 在 present tense 和 命令式."
+  },
+  "q_gram_c1_05_004": {
+    "question": "En Argentina, la forma voseante del presente indicativo de 'tener' es: Vos ___. (tener, voseo, 現在陳述式)",
+    "correct": "tenés",
+    "wrong": [
+      "tienes",
+      "tenéis",
+      "tenes"
+    ],
+    "explanation": "在 Argentine voseo, 現在陳述式 形式 stress final syllable: vos tenés, vos querés, vos podés. 重音 falls on final -és (對於-er動詞). 這 differs 來自 兩者 'tú tienes' 和 'vosotros tenéis'.",
+    "conjugation_info": "tener (voseo 現在陳述式): vos tenés — compare: tú tienes, vosotros tenéis"
+  },
+  "q_gram_c1_05_005": {
+    "question": "En una carta de reclamación 正式: 'Por la presente, ___ mi más enérgica protesta ante la situación descrita.' (formular)",
+    "correct": "formulo",
+    "wrong": [
+      "formularía",
+      "formulé",
+      "he formulado"
+    ],
+    "explanation": "在 正式 complaint letters, 'por la presente' (hereby) 是 後跟 現在陳述式 到 製造 a 正式 declaration. 'Formulo mi protesta' 是 a performative utterance 哪裡 act 的 writing constitutes act 的 protesting. 條件式 將 weaken complaint."
+  },
+  "q_gram_c1_05_006": {
+    "question": "Vos ___ venir cuando quieras. (poder, voseo 命令式)",
+    "correct": "podés",
+    "wrong": [
+      "puedes",
+      "podéis",
+      "podes"
+    ],
+    "explanation": "在 voseo regions, 'vos podés' replaces 'tú puedes'. voseo 命令式 的 -er 動詞 keeps stress on last syllable 與 a written 重音. 在 非正式 Argentine speech, 這 形式 是 標準.",
+    "conjugation_info": "poder (voseo present): vos podés — voseo imperative 形式 differ: vos hablá (hablar), vos comé (comer), vos decí (decir)"
+  },
+  "q_gram_c1_05_007": {
+    "question": "Sentá ___ a mi lado, por favor. (vos, voseo, reflexive 命令式 的 sentarse)",
+    "correct": "te",
+    "wrong": [
+      "se",
+      "os",
+      "le"
+    ],
+    "explanation": " reflexive 代詞 爲 'vos' 是 'te', 相同 as 爲 'tú'. voseo 命令式 的 'sentarse' 是 'sentate' (經常 written as two words 在 some dialects: 'sentá te'). reflexive 代詞 做 not 改變 between tuteo 和 voseo."
+  },
+  "q_gram_c1_05_008": {
+    "question": "I 將 是 grateful if 你 could send me requested information at 你的 earliest convenience.",
+    "correct": "Le agradecería que me enviara la información solicitada a la mayor brevedad posible.",
+    "wrong": [
+      "Te agradezco que me envíes la información cuando puedas.",
+      "Agradecería que me mandes la información solicitada lo antes posible.",
+      "Le agradeceré que me envíe la información pedida cuanto antes."
+    ],
+    "explanation": "正式 西班牙語 correspondence uses 'Le agradecería que' + 過去虛擬式 爲 polite requests. 'A la mayor brevedad posible' 是 標準 正式 expression 爲 'at 你的 earliest convenience'. 使用 'tú' 形式 或 現在陳述式 將 是 too 非正式."
+  },
+  "q_gram_c1_05_009": {
+    "question": "Los datos ___ por los investigadores deben ser analizados con cautela. (recopilar, 過去分詞, 正式 academic register)",
+    "correct": "recopilados",
+    "wrong": [
+      "recopilando",
+      "que recopilan",
+      "recopilaron"
+    ],
+    "explanation": "在 academic register, 過去分詞 phrases ('datos recopilados por...') 是 preferred over relative clauses ('datos que fueron recopilados por...') 爲 conciseness. 分詞 agrees 在 性別 和 數 與 名詞: 'datos' (男性 複數) → 'recopilados'.",
+    "conjugation_info": "recopilar (past participle): recopilado/recopilada/recopilados/recopiladas — agrees 與 the modified 名詞 in academic constructions"
+  },
+  "q_gram_c1_05_010": {
+    "question": "Estimado señor Director: Me dirijo a usted con el fin de solicitar una audiencia para tratar un asunto de suma importancia.",
+    "correct": "Dear Director: I am writing to you in order to request a meeting to discuss a matter of utmost importance.",
+    "wrong": [
+      "Dear Mr. Director: I am reaching out to you to ask for a hearing about something very important.",
+      "Esteemed Director: I address you with the purpose of soliciting an audience for treating a matter of great importance.",
+      "Dear Sir Director: I direct myself to you to request a meeting about a most important issue."
+    ],
+    "explanation": "'Me dirijo a usted' 是 標準 正式 opening 在 西班牙語 correspondence (not a literal 'I direct myself'). 'Solicitar una audiencia' 意思是 '到 request a meeting/hearing'. 'De suma importancia' translates 到 '的 utmost importance'. 正式 register 需要 usted 和 careful lexical choices."
+  },
+  "q_gram_c1_06_001": {
+    "question": "El niño ___ a llorar en cuanto vio al médico. (echarse, pretérito indefinido, él form)",
+    "correct": "se echó",
+    "wrong": [
+      "se puso",
+      "echó",
+      "se echa"
+    ],
+    "explanation": "'Echarse a + 不定式' 意思是 '到 burst into (做 something)', 表示 a sudden, 經常 involuntary beginning. 在 pretérito indefinido, 'echarse' conjugates as 'se echó'. 注意: 'ponerse a' 將 也 work 這裡 但是 prompt specifically asks 爲 'echarse'.",
+    "conjugation_info": "echarse (pretérito indefinido): me eché, te echaste, se echó, nos echamos, os echasteis, se echaron"
+  },
+  "q_gram_c1_06_002": {
+    "question": "La situación ___ empeorando con el paso de los meses. (ir + 副動詞)",
+    "correct": "iba empeorando",
+    "wrong": [
+      "fue empeorando",
+      "empeoró",
+      "venía empeorando"
+    ],
+    "explanation": "'Ir + 動名詞' expresses a gradual, progressive development. 'Iba empeorando' emphasizes ongoing, escalating nature 的 deterioration. 當...時 'fue empeorando' could 也 work (completed gradual process), 'iba' better captures 在-progress deterioration over months."
+  },
+  "q_gram_c1_06_003": {
+    "question": "Últimamente, los precios ___ subiendo sin parar. (venir + 副動詞)",
+    "correct": "vienen subiendo",
+    "wrong": [
+      "van subiendo",
+      "andan subiendo",
+      "están subiendo"
+    ],
+    "explanation": "'Venir + 動名詞' emphasizes 那 an action 有 been building up 來自 a point 在 past toward present. 'Últimamente' (lately) triggers 這 periphrasis 因爲 它 highlights cumulative trajectory 的 price increases leading up 到 now."
+  },
+  "q_gram_c1_06_004": {
+    "question": "什麼 是 difference between 'ir + 副動詞' 和 'venir + 副動詞' as verbal periphrases?",
+    "correct": "'Ir + gerund' describes a gradual progression moving forward in time, while 'venir + gerund' describes an accumulating action that has been building from the past toward the present",
+    "wrong": [
+      "They are interchangeable and both mean 'to be doing something progressively'",
+      "'Ir + gerund' is used for past actions and 'venir + gerund' is used for future actions",
+      "'Ir + gerund' means 'to go doing' literally and 'venir + gerund' means 'to come doing' literally"
+    ],
+    "explanation": " directional metaphor 是 關鍵: 'ir' moves away 來自 說話者 (forward progression), 當...時 'venir' moves toward 說話者 (accumulation toward present). 'Las quejas van aumentando' (complaints 是 gradually increasing) vs. 'Las quejas vienen aumentando desde enero' (complaints 有 been accumulating 由於 January)."
+  },
+  "q_gram_c1_06_005": {
+    "question": "La empresa ___ a implementar las nuevas políticas el mes pasado. (ponerse, pretérito indefinido, ella form)",
+    "correct": "se puso",
+    "wrong": [
+      "se ponía",
+      "puso",
+      "se ha puesto"
+    ],
+    "explanation": "'Ponerse a + 不定式' 意思是 '到 start/begin (與 determination 或 effort)'. 它 implies a deliberate beginning. 在 pretérito indefinido, 'ponerse' conjugates as 'se puso'. reflexive 代詞 是 基本 到 這 periphrasis.",
+    "conjugation_info": "ponerse (pretérito indefinido): me puse, te pusiste, se puso, nos pusimos, os pusisteis, se pusieron"
+  },
+  "q_gram_c1_06_006": {
+    "question": "El profesor ___ explicando el tema una y otra vez, pero nadie entendía. (andar + 副動詞)",
+    "correct": "andaba explicando",
+    "wrong": [
+      "iba explicando",
+      "venía explicando",
+      "estaba explicando"
+    ],
+    "explanation": "'Andar + 動名詞' expresses a repeated 或 habitual action, 經常 與 a nuance 的 aimlessness 或 persistence. 'Andaba explicando' suggests professor kept explaining repeatedly, perhaps 與 frustration, which fits context 的 nobody understanding."
+  },
+  "q_gram_c1_06_007": {
+    "question": "She had just finished writing report 什麼時候 her boss called.",
+    "correct": "Acababa de terminar de escribir el informe cuando su jefe llamó.",
+    "wrong": [
+      "Acaba de terminar de escribir el informe cuando su jefe llama.",
+      "Acabó de terminar de escribir el informe cuando su jefe llamó.",
+      "Había acabado de terminar el informe cuando su jefe llamaba."
+    ],
+    "explanation": "'Acabar de + 不定式' 在 未完成過去時 ('acababa de') expresses 'had just (done something)' 在 past. Notice double 不定式 construction: 'acababa de terminar de escribir'. 未完成過去時 是 需要 這裡 爲 'had just' 含義."
+  },
+  "q_gram_c1_06_008": {
+    "question": "Con los años, ___ comprendiendo que la paciencia es una virtud indispensable. (ir + 副動詞, yo form, pretérito perfecto)",
+    "correct": "he ido comprendiendo",
+    "wrong": [
+      "fui comprendiendo",
+      "iba comprendiendo",
+      "he venido comprendiendo"
+    ],
+    "explanation": "'He ido comprendiendo' (I 有 gradually come 到 understand) uses 'ir + 動名詞' 在 現在完成時 用來表達 a gradual realization 那 connects past 到 present. 現在完成時 'he ido' 是 preferred 與 'con los años' 因爲 process 是 still relevant now."
+  },
+  "q_gram_c1_06_009": {
+    "question": "Los vecinos andaban quejándose del ruido que provenía del local nocturno.",
+    "correct": "The neighbors kept complaining about the noise that came from the nightclub.",
+    "wrong": [
+      "The neighbors were walking while complaining about the nightclub noise.",
+      "The neighbors went around once to complain about the noise from the night venue.",
+      "The neighbors started to complain about the noise coming from the bar."
+    ],
+    "explanation": "'Andar + 動名詞' (andaban quejándose) expresses repeated, persistent action — neighbors kept complaining, not just once. 它 carries a nuance 的 ongoing, somewhat aimless repetition. 'Provenía' (未完成過去時 的 provenir) 表示 noise 是 a continuing source 的 disturbance."
+  },
+  "q_gram_c1_06_010": {
+    "question": "Tras la reunión, el director ___ a redactar el acta inmediatamente. (proceder, pretérito indefinido, él form)",
+    "correct": "procedió",
+    "wrong": [
+      "procedía",
+      "ha procedido",
+      "procede"
+    ],
+    "explanation": "'Proceder a + 不定式' 是 a 正式 periphrasis 含義 '到 proceed 到 做 something'. 它 implies a deliberate, methodical beginning 的 an action, 常見 在 administrative 和 legal 語言. pretérito indefinido 'procedió' marks a completed single action.",
+    "conjugation_info": "proceder (pretérito indefinido): procedí, procediste, procedió, procedimos, procedisteis, procedieron"
+  },
+  "q_gram_c1_07_001": {
+    "question": "Mi hermano ___ muy listo, siempre saca las mejores notas. (ser)",
+    "correct": "es",
+    "wrong": [
+      "está",
+      "fue",
+      "estaba"
+    ],
+    "explanation": "'Ser listo' 意思是 '到 是 clever/smart' as an inherent 特徵. 由 contrast, 'estar listo' 意思是 '到 是 準備好'. sentence talks about a 永久 trait (總是 gets best grades), so 'ser' 是 需要."
+  },
+  "q_gram_c1_07_002": {
+    "question": "La puerta ___ abierta por el conserje todas las mañanas a las siete. (ser)",
+    "correct": "es",
+    "wrong": [
+      "está",
+      "fue",
+      "estaba"
+    ],
+    "explanation": "這 是 a habitual passive 與 'ser' ('es abierta por el conserje'). 什麼時候 agent 是 specified ('por el conserje') 和 focus 是 on action 是 performed, 'ser + 過去分詞' 形式 passive voice. 'Estar abierta' 將 describe resulting 狀態, not action."
+  },
+  "q_gram_c1_07_003": {
+    "question": "什麼 是 difference between 'ser malo' 和 'estar malo' 在西班牙語中?",
+    "correct": "'Ser malo' means 'to be bad/evil' (inherent quality), while 'estar malo' means 'to be sick/ill' (temporary condition)",
+    "wrong": [
+      "'Ser malo' is used for food and 'estar malo' is used for people",
+      "Both mean 'to be bad' but 'estar malo' is more formal",
+      "'Ser malo' is for present situations and 'estar malo' is for past situations"
+    ],
+    "explanation": " ser/estar distinction 與 'malo' creates a complete 含義 改變: 'Ese hombre es malo' (那 man 是 evil/bad) vs. 'Ese hombre está malo' (那 man 是 病/unwell). 這 是 one 的 最 重要 ser/estar contrasts at C1 level, 哪裡 含義 shifts 是 tested."
+  },
+  "q_gram_c1_07_004": {
+    "question": "Todavía no ___ decidido si aceptaremos la oferta. (estar, 現在陳述式, nosotros form → resultative estar)",
+    "correct": "estamos",
+    "wrong": [
+      "somos",
+      "hemos",
+      "nos hemos"
+    ],
+    "explanation": "'Estar decidido' describes resulting 狀態 的 a decision process. 'No estamos decididos' 意思是 'we haven't made up our minds yet' — decision 狀態 有 not been reached. 'Ser decidido' 將 意思 '到 是 a decisive 人稱' (character trait).",
+    "conjugation_info": "estar (現在陳述式): estoy, estás, está, estamos, estáis, están"
+  },
+  "q_gram_c1_07_005": {
+    "question": "El café ___ frío; lo calentaré en el microondas. (estar)",
+    "correct": "está",
+    "wrong": [
+      "es",
+      "fue",
+      "era"
+    ],
+    "explanation": "'Estar frío' describes a 臨時, 可變 狀態 的 coffee. If we 用過的 'ser frío', 它 將 describe an inherent 特徵 (e.g., '這 drink 是 a 冷 type 的 drink'). 由於 coffee 有 cooled down 來自 a warm 狀態, 'estar' 是 正確."
+  },
+  "q_gram_c1_07_006": {
+    "question": "La novela ___ escrita por García Márquez en 1967. (ser, pretérito indefinido, ella form — passive voice 與 agent)",
+    "correct": "fue",
+    "wrong": [
+      "estuvo",
+      "era",
+      "estaba"
+    ],
+    "explanation": "什麼時候 expressing passive voice 與 a specified agent ('por García Márquez') 和 a completed action 在 past, 'ser' 在 pretérito indefinido ('fue escrita') 是 正確. 'Estar' 將 describe resulting 狀態 的 novel, not act 的 writing.",
+    "conjugation_info": "ser (pretérito indefinido): fui, fuiste, fue, fuimos, fuisteis, fueron"
+  },
+  "q_gram_c1_07_007": {
+    "question": "La ventana ya ___ reparada cuando llegamos; el cristalero había venido por la mañana. (estar)",
     "correct": "estaba",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "era",
+      "fue",
+      "estuvo"
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": "'Estar + 過去分詞' describes a resultative 狀態: window 是 already 在 repaired 狀態 什麼時候 we arrived. 未完成過去時 'estaba' 是 用過的 因爲 它 describes an ongoing 狀態 at 時間 的 arrival. 'Ser' 將 表示 passive action 的 repairing, not resulting 條件."
   },
-  "q_grammar_c1_007": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_c1_07_008": {
+    "question": "My brother 是 非常 boring at parties, 但是 my sister 是 bored 因爲 she 有 nothing 到 do.",
+    "correct": "Mi hermano es muy aburrido en las fiestas, pero mi hermana está aburrida porque no tiene nada que hacer.",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "Mi hermano está muy aburrido en las fiestas, pero mi hermana es aburrida porque no tiene nada que hacer.",
+      "Mi hermano es muy aburrido en las fiestas, pero mi hermana es aburrida porque no tiene nada que hacer.",
+      "Mi hermano está aburrido en las fiestas, pero mi hermana está aburrida porque no tiene nada que hacer."
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "'Ser aburrido' 意思是 '到 是 boring' (inherent 特徵 的 brother), 當...時 'estar aburrido' 意思是 '到 是 bored' (臨時 狀態 的 sister). 這 ser/estar contrast 與 相同 形容詞 producing 不同 meanings 是 a 關鍵 C1 concept."
   },
-  "q_grammar_c1_008": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_c1_07_009": {
+    "question": "El acusado ___ absuelto por el tribunal tras un largo juicio. (ser, pretérito indefinido, passive voice, él form)",
+    "correct": "fue",
+    "wrong": [
+      "estuvo",
+      "era",
+      "ha sido"
+    ],
+    "explanation": "'Fue absuelto por el tribunal' 是 a passive construction 與 'ser'. agent ('por el tribunal') confirms passive voice 需要 'ser', not 'estar'. pretérito indefinido marks 這 as a completed one-時間 event.",
+    "conjugation_info": "ser (pretérito indefinido, passive): fue absuelto/a, fueron absueltos/as — 用過的 與 agent phrase (por + agent)"
+  },
+  "q_gram_c1_07_010": {
+    "question": "Juan es muy vivo y siempre encuentra soluciones creativas, pero hoy está vivo de milagro tras el accidente.",
+    "correct": "Juan is very sharp/clever and always finds creative solutions, but today he is alive by a miracle after the accident.",
+    "wrong": [
+      "Juan is very alive and always finds creative solutions, but today he is living by a miracle after the accident.",
+      "Juan is very lively and always finds solutions, but today he is vivid by miracle after the accident.",
+      "Juan is very bright and always finds creative solutions, but today he is energetic miraculously after the accident."
+    ],
+    "explanation": "'Ser vivo' 意思是 '到 是 sharp/clever/quick-witted' (personality trait), 當...時 'estar vivo' 意思是 '到 是 alive' (狀態 的 是). 這 dramatic contrast 在 相同 sentence illustrates 如何 ser/estar 可以 completely 改變 含義 的 形容詞 'vivo'."
+  },
+  "q_gram_c1_08_001": {
+    "question": "Dijo la profesora que el examen ___ más difícil de lo esperado. (ser, future 陳述式 → VS inversion 在 reported speech)",
+    "correct": "sería",
+    "wrong": [
+      "será",
+      "fue",
+      "era"
+    ],
+    "explanation": "在 literary/正式 reported speech 與 subject-動詞 inversion ('dijo la profesora'), 動詞 在 subordinate clause shifts 到 條件式 ('sería') following sequence 的 tenses. inversion 的 'dijo la profesora' (instead 的 'la profesora dijo') 是 a stylistic choice 常見 在 literary 和 journalistic 西班牙語.",
+    "conjugation_info": "ser (conditional): sería, serías, sería, seríamos, seríais, serían"
+  },
+  "q_gram_c1_08_002": {
+    "question": "Bien ___ los antiguos que la sabiduría empieza con el asombro. (saber, pretérito imperfecto — literary VS inversion)",
+    "correct": "sabían",
+    "wrong": [
+      "supieron",
+      "saben",
+      "sabrían"
+    ],
+    "explanation": "在 literary 西班牙語, 主語 可以 是 placed 之後 動詞 爲 stylistic effect: 'Bien sabían los antiguos' instead 的 'Los antiguos bien sabían'. 未完成過去時 'sabían' 是 用過的 因爲 這 指 a general, habitual knowledge held 由 ancients."
+  },
+  "q_gram_c1_08_003": {
+    "question": "Grande ___ la sorpresa de todos cuando se anunció el ganador. (ser, pretérito indefinido — fronted complement)",
+    "correct": "fue",
+    "wrong": [
+      "era",
+      "sería",
+      "ha sido"
+    ],
+    "explanation": "這 sentence fronts 形容詞 'grande' 爲 emphasis: 'Grande fue la sorpresa' instead 的 'La sorpresa fue grande'. 這 topicalization, placing complement 之前 動詞, 是 a literary device 爲 dramatic effect. pretérito indefinido 'fue' marks a specific, completed event."
+  },
+  "q_gram_c1_08_004": {
+    "question": "什麼 是 'topicalization' 在西班牙語中 syntax, 和 什麼 effect does 它 create?",
+    "correct": "Moving a constituent (object, complement, adverb) to the beginning of the sentence for emphasis or contrast, often triggering subject-verb inversion",
+    "wrong": [
+      "Changing the topic of a conversation mid-sentence using a discourse marker",
+      "Using a topical vocabulary item as the subject of every sentence in a paragraph",
+      "Repeating the main topic at the beginning and end of a sentence for clarity"
+    ],
+    "explanation": "Topicalization 是 a syntactic process 哪裡 a non-subject element 是 fronted 到 sentence-initial position. 在 西班牙語, 這 經常 triggers VS (動詞-subject) inversion: 'Ese libro lo compré ayer' (那 book, I bought yesterday). 它 creates emphasis, contrast, 或 connects 到 preceding discourse."
+  },
+  "q_gram_c1_08_005": {
+    "question": "Así lo ___ el tribunal y así se cumplirá. (determinar, pretérito perfecto, él form — 正式/legal VS inversion)",
+    "correct": "ha determinado",
+    "wrong": [
+      "determinó",
+      "determina",
+      "determinará"
+    ],
+    "explanation": "在 legal 和 正式 語言, fronted adverbials like 'así' 經常 trigger VS inversion. 'Así lo ha determinado el tribunal' places emphasis on manner ('así' = thus) rather than agent. 現在完成時 connects past ruling 到 its current relevance.",
+    "conjugation_info": "determinar (pretérito perfecto): he determinado, 有 determinado, ha determinado, hemos determinado, habéis determinado, han determinado"
+  },
+  "q_gram_c1_08_006": {
+    "question": "A sus hijos ___ dedicó toda su vida y su energía. (代詞 needed 爲 left dislocation)",
+    "correct": "les",
+    "wrong": [
+      "los",
+      "se",
+      "le"
+    ],
+    "explanation": "'A sus hijos' 是 a left-dislocated indirect object, moved 到 front 的 sentence 爲 emphasis. 在 西班牙語, left dislocation 需要 a resumptive 代詞 ('les') 那 agrees 與 dislocated element. 'A sus hijos les dedicó toda su vida' = '它 是 到 her children 那 she devoted her whole life'."
+  },
+  "q_gram_c1_08_007": {
+    "question": "從不 在 my life 有 I seen such a spectacular sunset.",
+    "correct": "Nunca en mi vida he visto una puesta de sol tan espectacular.",
+    "wrong": [
+      "Nunca he visto en mi vida una tan espectacular puesta de sol.",
+      "En mi vida nunca había visto un atardecer así de espectacular.",
+      "Jamás en la vida mía vi tal espectacular puesta de sol."
+    ],
+    "explanation": " fronted negative 副詞 'nunca en mi vida' triggers subject-動詞 inversion 在 英語 ('有 I seen') 但是 在 西班牙語, 詞 order remains more natural: 'Nunca... he visto'. 西班牙語 做 not 需要 auxiliary inversion 之後 fronted negatives as 英語 做."
+  },
+  "q_gram_c1_08_008": {
+    "question": "Eso ___ lo que queríamos decirte desde el principio. (ser, pretérito imperfecto — pseudo-cleft/fronted demonstrative)",
+    "correct": "era",
+    "wrong": [
+      "fue",
+      "es",
+      "sería"
+    ],
+    "explanation": "'Eso era lo que queríamos decirte' 是 a pseudo-cleft sentence 與 a fronted demonstrative. 未完成過去時 'era' 是 用過的 因爲 situation spans a period 在 past ('desde el principio'). Fronting 'eso' emphasizes 身份 between 什麼 是 是 said now 和 什麼 是 intended 所有 along."
+  },
+  "q_gram_c1_08_009": {
+    "question": "Mucho me temo que no será posible atender su solicitud en los plazos previstos.",
+    "correct": "I very much fear that it will not be possible to address your request within the expected deadlines.",
+    "wrong": [
+      "I am very afraid that your request cannot be attended in the predicted terms.",
+      "Much I fear that it won't be possible to attend to your solicitation in the foreseen timeframes.",
+      "I greatly fear that it is impossible to handle your application in the planned periods."
+    ],
+    "explanation": "'Mucho me temo que' features inversion 的 副詞 'mucho' 到 sentence-initial position 爲 正式 effect. 這 是 a fixed 正式 expression 含義 'I 非常 much fear 那'. 'Atender su solicitud' 意思是 '到 address/process 你的 request', 和 'en los plazos previstos' 意思是 'within expected deadlines'."
+  },
+  "q_gram_c1_08_010": {
+    "question": "Tal ___ la magnitud del desastre que el gobierno declaró el estado de emergencia. (ser, pretérito indefinido — fronted 'tal' 爲 emphasis)",
+    "correct": "fue",
+    "wrong": [
+      "era",
+      "es",
+      "sería"
+    ],
+    "explanation": "'Tal fue la magnitud' fronts 'tal' (such) 爲 dramatic emphasis, a literary construction. pretérito indefinido 'fue' marks completed event. 這 structure 是 equivalent 到 'La magnitud del desastre fue tal que...' 但是 inversion creates a more dramatic, literary tone.",
+    "conjugation_info": "ser (pretérito indefinido): fui, fuiste, fue, fuimos, fuisteis, fueron — common in literary fronted constructions: 'Tal fue...', 'Grande fue...', 'Así fue...'"
+  },
+  "q_gram_c1_09_001": {
+    "question": "Te presto el coche ___ lo devuelvas antes del viernes. (con tal de que)",
+    "correct": "con tal de que",
+    "wrong": [
+      "con tal que",
+      "con solo que",
+      "a menos de que"
+    ],
+    "explanation": "'Con tal de que' (provided 那/as long as) 是 a 條件式 連詞 那 需要 虛擬式. 它 establishes a 條件 under which 說話者 是 willing 到 lend car. full 形式 'con tal de que' 是 標準; 'con tal que' exists colloquially 但是 'con tal de que' 是 preferred 在 careful usage."
+  },
+  "q_gram_c1_09_002": {
+    "question": "No firmaré el contrato ___ mi abogado lo revise primero. (a menos que)",
+    "correct": "a menos que",
+    "wrong": [
+      "a no ser que",
+      "salvo que",
+      "excepto que"
+    ],
+    "explanation": "'A menos que' (unless) introduces a negative 條件 和 總是 triggers 虛擬式. sentence 意思是 'I won't sign unless my lawyer reviews 它 第一'. 當...時 'a no ser que' 和 'salvo que' 有 相似 meanings, blank specifically 需要 'a menos que'."
+  },
+  "q_gram_c1_09_003": {
+    "question": "什麼 是 difference between 'dado que' 和 'a fin de que' 在 terms 的 mood selection?",
+    "correct": "'Dado que' takes the indicative because it introduces a known fact or reason, while 'a fin de que' takes the subjunctive because it introduces a purpose or goal",
+    "wrong": [
+      "Both take the subjunctive because they introduce subordinate clauses",
+      "'Dado que' takes the subjunctive and 'a fin de que' takes the indicative",
+      "Both can take either mood depending on the speaker's certainty"
+    ],
+    "explanation": "'Dado que' (given 那/由於) 是 a causal 連詞 stating established facts, so 它 takes 陳述式: 'Dado que llueve, no saldremos'. 'A fin de que' (在 order 那/so 那) expresses purpose, which 是 inherently non-factual, so 它 總是 takes 虛擬式: 'Lo hice a fin de que entendieras'."
+  },
+  "q_gram_c1_09_004": {
+    "question": "Llegaremos a tiempo siempre y cuando no ___ tráfico en la autopista. (haber, 現在虛擬式)",
+    "correct": "haya",
+    "wrong": [
+      "hay",
+      "habrá",
+      "hubiera"
+    ],
+    "explanation": "'Siempre y cuando' (as long as/provided 那) 是 a 條件式 連詞 那 總是 需要 虛擬式. 現在虛擬式 'haya' 是 needed 因爲 條件 指 a future possibility. 'Hay' (陳述式) 將 是 grammatically incorrect 之後 這 連詞.",
+    "conjugation_info": "haber (present subjunctive): haya, hayas, haya, hayamos, hayáis, hayan"
+  },
+  "q_gram_c1_09_005": {
+    "question": "Organizaron la manifestación ___ las autoridades tomaran conciencia del problema. (a fin de que)",
+    "correct": "a fin de que",
+    "wrong": [
+      "a fin que",
+      "para que",
+      "dado que"
+    ],
+    "explanation": "'A fin de que' (在 order 那/so 那) 是 a purpose 連詞 那 triggers 虛擬式. 它 是 more 正式 than 'para que' 和 typically appears 在 written 或 正式 spoken 西班牙語. full 形式 與 'de' 是 需要: 'a fin de que', not 'a fin que'."
+  },
+  "q_gram_c1_09_006": {
+    "question": "No podremos empezar la obra a menos que el ayuntamiento nos ___ el permiso. (conceder, 現在虛擬式, él form)",
+    "correct": "conceda",
+    "wrong": [
+      "concede",
+      "concediera",
+      "concederá"
+    ],
+    "explanation": "'A menos que' (unless) 需要 虛擬式. 由於 main clause 是 在 future ('no podremos'), subordinate clause uses 現在虛擬式 'conceda' 用來表達 條件 那 必須 是 met.",
+    "conjugation_info": "conceder (present subjunctive): conceda, concedas, conceda, concedamos, concedáis, concedan"
+  },
+  "q_gram_c1_09_007": {
+    "question": "Aceptaremos el acuerdo ___ no se modifiquen las cláusulas esenciales. (siempre y cuando)",
+    "correct": "siempre y cuando",
+    "wrong": [
+      "siempre que",
+      "mientras",
+      "cuando"
+    ],
+    "explanation": "'Siempre y cuando' 是 more emphatic 和 正式 than 'siempre que'. 兩者 意思 'provided 那/as long as' 和 需要 虛擬式, 但是 'siempre y cuando' adds extra emphasis 到 conditionality."
+  },
+  "q_gram_c1_09_008": {
+    "question": "We organized event so 那 community 將 有 a space 爲 dialogue.",
+    "correct": "Organizamos el evento a fin de que la comunidad tuviera un espacio de diálogo.",
+    "wrong": [
+      "Organizamos el evento para la comunidad tener un espacio de diálogo.",
+      "Organizamos el evento dado que la comunidad tenía un espacio de diálogo.",
+      "Organizamos el evento a fin de que la comunidad tiene un espacio de diálogo."
+    ],
+    "explanation": "'A fin de que' + 虛擬式 expresses purpose. 由於 main 動詞 是 在 past ('organizamos' 在 簡單過去時), subordinate clause uses 過去虛擬式 'tuviera' (sequence 的 tenses). 陳述式 'tiene' 將 是 ungrammatical 之後 'a fin de que'."
+  },
+  "q_gram_c1_09_009": {
+    "question": "Dado que las circunstancias ___ cambiado drásticamente, debemos replantear toda la estrategia. (haber, 現在完成時 陳述式, third 人 複數)",
+    "correct": "han",
+    "wrong": [
+      "hayan",
+      "habían",
+      "hubieran"
+    ],
+    "explanation": "'Dado que' (given 那) takes 陳述式 因爲 它 introduces a factual premise. 現在完成時 陳述式 'han cambiado' states a fact: circumstances 有 changed. 使用 虛擬式 'hayan' 將 是 incorrect 因爲 'dado que' 做 not trigger 虛擬式.",
+    "conjugation_info": "haber (現在陳述式): he, 有, ha, hemos, habéis, han — 用過的 as auxiliary in perfect tenses"
+  },
+  "q_gram_c1_09_010": {
+    "question": "Con tal de que todos los miembros estén de acuerdo, procederemos con la votación sin más demora.",
+    "correct": "Provided that all the members agree, we will proceed with the vote without further delay.",
+    "wrong": [
+      "So that all the members agree, we will proceed with the voting without more delay.",
+      "Given that all members are in agreement, we will proceed with the immediate vote.",
+      "As long as all members will agree, we shall proceed with voting with no more delay."
+    ],
+    "explanation": "'Con tal de que' 意思是 'provided 那' 和 establishes a 條件. 'Estén de acuerdo' (現在虛擬式 的 estar) reflects uncertain nature 的 條件. 'Sin más demora' 是 a 正式 expression 含義 '沒有 further delay'."
+  },
+  "q_gram_c1_10_001": {
+    "question": "Terminada la reunión, los delegados ___ a sus respectivas oficinas. (regresar, pretérito indefinido, ellos form — absolute 分詞 clause)",
+    "correct": "regresaron",
+    "wrong": [
+      "regresaban",
+      "regresan",
+      "regresarían"
+    ],
+    "explanation": "'Terminada la reunión' 是 an absolute 分詞 clause (participio absoluto) 那 replaces a temporal clause: 'Cuando/Después de que se terminó la reunión'. main clause uses pretérito indefinido 因爲 它 describes a completed action 那 followed meeting.",
+    "conjugation_info": "regresar (pretérito indefinido): regresé, regresaste, regresó, regresamos, regresasteis, regresaron"
+  },
+  "q_gram_c1_10_002": {
+    "question": "Es imposible ___ sin que alguien se oponga. (aprobar la ley → 不定式 replacing que + 虛擬式)",
+    "correct": "aprobar la ley",
+    "wrong": [
+      "que se apruebe la ley",
+      "aprobando la ley",
+      "la aprobación de la ley"
+    ],
+    "explanation": "什麼時候 主語 的 main clause 是 impersonal ('es imposible'), an 不定式 可以 replace 'que + 虛擬式' 爲 conciseness: 'Es imposible aprobar la ley' vs. 'Es imposible que se apruebe la ley'. 兩者 是 正確, 但是 不定式 construction 是 more concise."
+  },
+  "q_gram_c1_10_003": {
+    "question": "Resueltos ___ los problemas técnicos, el lanzamiento pudo llevarse a cabo según lo previsto. (already/once — 什麼 詞 是 implied 之前 'resueltos'?)",
+    "correct": "ya",
+    "wrong": [
+      "todos",
+      "una vez",
+      "cuando"
+    ],
+    "explanation": "在 absolute 分詞 clauses, 'ya' (already) 是 經常 implied 或 explicitly stated 之前 分詞: '(Ya) resueltos los problemas técnicos' = 'Once technical problems had been resolved'. 分詞 與名詞一致: 'resueltos' (男性 複數) matches 'problemas'."
+  },
+  "q_gram_c1_10_004": {
+    "question": "什麼 是 an 'absolute 分詞 clause' (cláusula de participio absoluto) 在西班牙語中?",
+    "correct": "A subordinate clause with a past participle and its own subject, independent from the main clause, functioning as a temporal or causal adverbial",
+    "wrong": [
+      "A clause that uses the absolute superlative form of an adjective",
+      "A participial phrase that modifies the subject of the main clause directly",
+      "A clause using the gerund that can stand alone as a complete sentence"
+    ],
+    "explanation": "Absolute 分詞 clauses like 'Terminada la obra' ( work 是 finished) 有 their own subject ('la obra') distinct 來自 main clause subject. 分詞 agrees 在 性別 和 數 與 its subject. These clauses 是 a hallmark 的 正式, literary 西班牙語 和 replace temporal/causal subordinate clauses."
+  },
+  "q_gram_c1_10_005": {
+    "question": "Vistas las pruebas, el juez ___ dictar sentencia. (proceder, pretérito indefinido, él form — absolute 分詞 + main clause)",
+    "correct": "procedió",
+    "wrong": [
+      "procedía",
+      "procede",
+      "procedería"
+    ],
+    "explanation": "'Vistas las pruebas' ( evidence 有 been examined) 是 an absolute 分詞 clause 常見 在 legal 西班牙語. 女性 複數 'vistas' agrees 與 'las pruebas'. main clause uses pretérito indefinido 因爲 sentencing 是 a single completed action.",
+    "conjugation_info": "proceder (pretérito indefinido): procedí, procediste, procedió, procedimos, procedisteis, procedieron"
+  },
+  "q_gram_c1_10_006": {
+    "question": "Los estudiantes salieron del aula ___ terminado el examen. (preposition needed 爲 temporal 含義: 'upon having')",
+    "correct": "habiendo",
+    "wrong": [
+      "tras haber",
+      "al haber",
+      "después de haber"
+    ],
+    "explanation": " compound 動名詞 'habiendo terminado' (有 finished) creates a 動名詞 clause expressing immediate anteriority. 當...時 'tras haber terminado' 和 'después de haber terminado' 是 也 valid, 動名詞 形式 是 最 concise clause reduction technique."
+  },
+  "q_gram_c1_10_007": {
+    "question": "Once 所有 formalities had been completed, transfer 的 property took place.",
+    "correct": "Cumplidas todas las formalidades, se efectuó la transferencia de la propiedad.",
+    "wrong": [
+      "Cuando se cumplieron todas las formalidades, la transferencia tuvo lugar.",
+      "Habiendo cumplido las formalidades, la propiedad fue transferida.",
+      "Después de completar los trámites, ocurrió la transferencia del inmueble."
+    ],
+    "explanation": "'Cumplidas todas las formalidades' 是 an absolute 分詞 clause — 最 concise way 用來表達 temporal relationship. 分詞 'cumplidas' agrees 與 'formalidades' (女性 複數). 這 construction 是 特徵 的 legal 和 正式 register."
+  },
+  "q_gram_c1_10_008": {
+    "question": "No veo la necesidad de ___ ese tema ahora. (discutir → 不定式 replacing 'que discutamos')",
+    "correct": "discutir",
+    "wrong": [
+      "que discutamos",
+      "discutiendo",
+      "la discusión de"
+    ],
+    "explanation": "什麼時候 subjects 的 main 和 subordinate clauses overlap (yo/nosotros), 不定式 可以 replace 'que + 虛擬式': 'No veo la necesidad de discutir' 是 simpler than 'No veo la necesidad de que discutamos'. 這 clause reduction 是 natural 和 preferred 在 fluent 西班牙語."
+  },
+  "q_gram_c1_10_009": {
+    "question": "Dicho lo cual, el embajador abandonó la sala sin mediar más explicaciones.",
+    "correct": "Having said that, the ambassador left the room without offering any further explanation.",
+    "wrong": [
+      "Saying which, the ambassador abandoned the room without mediating more explanations.",
+      "That being said, the ambassador quit the room with no middle ground for explanations.",
+      "Which having been said, the ambassador went out of the room without more words."
+    ],
+    "explanation": "'Dicho lo cual' (有 said which / 那 有 been said) 是 an absolute 分詞 construction 用過的 as a discourse linker. 'Sin mediar más explicaciones' 意思是 '沒有 offering further explanation' — 'mediar' 這裡 意思是 '到 intervene/offer'."
+  },
+  "q_gram_c1_10_010": {
+    "question": "Oídas las partes, el tribunal ___ la sentencia en un plazo de diez días. (emitir, future 陳述式, él form — legal register 之後 absolute 分詞)",
+    "correct": "emitirá",
+    "wrong": [
+      "emitió",
+      "emite",
+      "emitiría"
+    ],
+    "explanation": "'Oídas las partes' ( parties 有 been heard) 是 an absolute 分詞 clause 在 legal register. future 陳述式 'emitirá' 表示 tribunal's obligation 到 issue a ruling. 這 是 標準 legal 語言 爲 procedural descriptions.",
+    "conjugation_info": "emitir (future indicative): emitiré, emitirás, emitirá, emitiremos, emitiréis, emitirán"
+  },
+  "q_gram_c1_11_001": {
+    "question": "Fue María ___ resolvió el problema, no Pedro. (relative 代詞 爲 cleft sentence)",
+    "correct": "quien",
+    "wrong": [
+      "que",
+      "la que",
+      "cual"
+    ],
+    "explanation": "這 是 a cleft sentence (oración hendida): 'Fue María quien resolvió el problema'. construction 'ser + focused element + quien/que' isolates 和 emphasizes 'María' as agent. 'Quien' 是 用過的 爲 人們 在 cleft sentences, though 'la que' 是 也 acceptable 在 some dialects."
+  },
+  "q_gram_c1_11_002": {
+    "question": "Lo que necesitamos ___ más tiempo para completar la investigación. (ser, 現在陳述式)",
+    "correct": "es",
+    "wrong": [
+      "está",
+      "fue",
+      "sea"
+    ],
+    "explanation": "這 是 a pseudo-cleft sentence (oración pseudohendida): 'Lo que necesitamos es más tiempo'. structure 'lo que + clause + ser + focused element' emphasizes information 之後 'ser'. 現在陳述式 'es' 是 用過的 因爲 need 是 current."
+  },
+  "q_gram_c1_11_003": {
+    "question": "什麼 是 difference between a cleft sentence 和 a pseudo-cleft sentence 在西班牙語中?",
+    "correct": "A cleft sentence uses 'ser + focused element + que/quien' (Fue Juan quien llamó), while a pseudo-cleft uses 'lo que + clause + ser + focus' (Lo que quiero es paz)",
+    "wrong": [
+      "Cleft sentences emphasize the verb and pseudo-clefts emphasize the subject",
+      "Cleft sentences are only used in questions and pseudo-clefts in statements",
+      "There is no structural difference; the terms are interchangeable in Spanish grammar"
+    ],
+    "explanation": "Cleft sentences (hendidas) front focused element 之後 'ser': 'Fue ayer cuando lo vi'. Pseudo-clefts (pseudohendidas) 使用 a free relative clause 與 'lo que': 'Lo que me molesta es su actitud'. 兩者 serve 到 highlight specific information, 但是 與 不同 syntactic structures."
+  },
+  "q_gram_c1_11_004": {
+    "question": "Fue precisamente en Barcelona donde se ___ la primera reunión del comité. (celebrar, pretérito indefinido, pasiva refleja)",
+    "correct": "celebró",
+    "wrong": [
+      "celebraba",
+      "ha celebrado",
+      "celebre"
+    ],
+    "explanation": "這 cleft sentence emphasizes 位置: 'Fue en Barcelona donde se celebró...' pasiva refleja 'se celebró' (是 held) 是 標準 way 用來表達 passive 含義 沒有 an agent. pretérito indefinido marks a completed past event.",
+    "conjugation_info": "celebrar (pretérito indefinido): celebré, celebraste, celebró, celebramos, celebrasteis, celebraron"
+  },
+  "q_gram_c1_11_005": {
+    "question": "A mí, lo que más me ___ es la falta de transparencia por parte del gobierno. (preocupar)",
+    "correct": "preocupa",
+    "wrong": [
+      "preocupo",
+      "preocupe",
+      "preocupan"
+    ],
+    "explanation": "'A mí' 是 a left-dislocated element 爲 emphasis, doubled 由 resumptive 代詞 'me'. pseudo-cleft 'lo que más me preocupa' emphasizes focused element 'la falta de transparencia'. 動詞 'preocupa' agrees 與 單數 subject 'lo que'."
+  },
+  "q_gram_c1_11_006": {
+    "question": "Fue entonces cuando el presidente ___ su dimisión ante la asamblea. (presentar, pretérito indefinido, él form — temporal cleft sentence)",
+    "correct": "presentó",
+    "wrong": [
+      "presentaba",
+      "presenta",
+      "presentaría"
+    ],
+    "explanation": "'Fue entonces cuando' 是 a temporal cleft construction 那 emphasizes moment 的 action. pretérito indefinido 'presentó' 是 需要 因爲 resignation 是 a single, completed event at 那 specific moment.",
+    "conjugation_info": "presentar (pretérito indefinido): presenté, presentaste, presentó, presentamos, presentasteis, presentaron"
+  },
+  "q_gram_c1_11_007": {
+    "question": "El problema, ___ lo ve el comité, requiere una solución inmediata. (según/tal como — right dislocation marker)",
+    "correct": "según",
     "wrong": [
       "como",
-      "come",
-      "comen"
+      "que",
+      "cual"
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "'El problema, según lo ve el comité' uses a parenthetical clause 那 functions similarly 到 right dislocation, inserting committee's perspective mid-sentence. 'Según' (according 到/as) introduces 這 viewpoint clause 沒有 disrupting main sentence structure."
   },
-  "q_grammar_c1_009": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_c1_11_008": {
+    "question": "什麼 I really want 是 爲 them 到 understand severity 的 situation.",
+    "correct": "Lo que realmente quiero es que comprendan la gravedad de la situación.",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "Qué realmente quiero es que ellos entienden la severidad de la situación.",
+      "Lo que de verdad quiero es ellos comprender la seriedad de la situación.",
+      "Realmente lo que quiero es comprendan la gravedad de la situación."
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "這 是 a pseudo-cleft sentence: 'Lo que quiero es que + 虛擬式'. 虛擬式 'comprendan' 是 需要 之後 'quiero que' (volition trigger). 'Gravedad' 是 正確 translation 爲 'severity/seriousness' 在 這 context, not false friend 'severidad'."
   },
-  "q_grammar_c1_010": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_c1_11_009": {
+    "question": "Ni siquiera el director ___ capaz de resolver semejante dilema ético. (ser, 條件式, él form — focus particle 'ni siquiera')",
+    "correct": "sería",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "fuera",
+      "fue",
+      "es"
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "'Ni siquiera' (not even) 是 a focus particle 那 emphasizes unexpectedness 的 主語 ('el director'). 條件式 'sería' expresses a hypothetical assessment. Focus particles like 'ni siquiera', 'incluso', 'hasta', 和 'solo' 是 關鍵 emphatic devices at C1 level.",
+    "conjugation_info": "ser (conditional): sería, serías, sería, seríamos, seríais, serían"
   },
-  "q_grammar_c1_011": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_c1_11_010": {
+    "question": "Lo que me resulta verdaderamente incomprensible es que nadie haya denunciado semejante irregularidad.",
+    "correct": "What I find truly incomprehensible is that nobody has reported such an irregularity.",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "What results truly incomprehensible to me is that nobody denounced such an irregularity.",
+      "That which I find really incomprehensible is that no one would report a similar irregularity.",
+      "What seems incomprehensible to me is that anyone reported this kind of irregularity."
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "這 pseudo-cleft sentence emphasizes 說話者's bewilderment. 'Resultar' 這裡 意思是 '到 find/到 seem' (not '到 result'). 'Haya denunciado' (現在完成時 虛擬式) 是 用過的 之後 'es incomprensible que' 因爲 它 expresses a subjective judgment about a completed action. 'Semejante' 意思是 'such/的 這 kind'."
   },
-  "q_grammar_c1_012": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
+  "q_gram_c1_12_001": {
+    "question": "En España se dice 'vosotros habláis', pero en Latinoamérica se dice 'ustedes ___'. (hablar, 現在陳述式, ustedes form)",
+    "correct": "hablan",
+    "wrong": [
+      "habláis",
+      "hablás",
+      "hablad"
+    ],
+    "explanation": "在 拉丁美洲, 'vosotros' 做 not exist. 第二 人稱 複數 是 總是 'ustedes' 與 第三-人稱 動詞 形式: 'ustedes hablan'. 在 西班牙, 'vosotros habláis' 是 非正式 和 'ustedes hablan' 是 正式. 這 是 one 的 最 fundamental regional differences.",
+    "conjugation_info": "hablar — 西班牙: vosotros habláis (非正式), ustedes hablan (正式) | 拉丁美洲: ustedes hablan (兩者 正式 和 非正式)"
+  },
+  "q_gram_c1_12_002": {
+    "question": "En Argentina: '¿Vos ___ venir a la fiesta esta noche?' (querer, voseo, 現在陳述式)",
+    "correct": "querés",
+    "wrong": [
+      "quieres",
+      "queréis",
+      "querís"
+    ],
+    "explanation": "Argentine voseo conjugates -er 動詞 在 現在陳述式 與 stress on last syllable: 'vos querés'. diphthong 'ie' 在 'quieres' 做 not occur 因爲 stress shifts 到 詞尾. Chilean voseo 將 使用 'querís', 但是 Argentine 標準 是 'querés'."
+  },
+  "q_gram_c1_12_003": {
+    "question": "En España es común oír: 'Le vi a Juan en el parque.' Esto es un ejemplo de ___.",
+    "correct": "leísmo",
+    "wrong": [
+      "laísmo",
+      "loísmo",
+      "dequeísmo"
+    ],
+    "explanation": "Leísmo 是 使用 的 'le' instead 的 'lo' 爲 男性 direct object (referring 到 人們). 標準 西班牙語 需要 'Lo vi a Juan', 但是 在 much 的 西班牙, particularly Castile, 'Le vi a Juan' 是 widespread 和 even accepted 由 RAE 爲 男性 單數 human referents."
+  },
+  "q_gram_c1_12_004": {
+    "question": "什麼 是 main difference between Spain 和 Latin America regarding use 的 pretérito perfecto (he cantado) 和 pretérito indefinido (canté)?",
+    "correct": "In Spain, the pretérito perfecto is used for recent or same-day past events ('hoy he comido'), while in much of Latin America, the pretérito indefinido is preferred even for recent events ('hoy comí')",
+    "wrong": [
+      "Latin America uses the pretérito perfecto more frequently than Spain for all past events",
+      "There is no difference; both regions use the tenses identically",
+      "Spain only uses the pretérito indefinido and Latin America only uses the pretérito perfecto"
+    ],
+    "explanation": "這 是 a major regional grammar difference. 在 Peninsular 西班牙語, 'Esta mañana he desayunado temprano' 是 natural, 但是 在 Mexican, Argentine, 和 other Latin American varieties, 'Esta mañana desayuné temprano' 是 preferred. pretérito perfecto 在 拉丁美洲 是 typically reserved 爲 actions 與 clear present relevance."
+  },
+  "q_gram_c1_12_005": {
+    "question": "En el voseo rioplatense, el imperativo de 'venir' es: '¡___!' (venir, voseo 命令式)",
+    "correct": "Vení",
+    "wrong": [
+      "Ven",
+      "Venid",
+      "Vení vos"
+    ],
+    "explanation": " voseo 命令式 的 'venir' 是 'vení' (stress on final syllable). 這 是 formed 由 dropping -r 來自 不定式 和 adding an 重音 on final vowel: venir → vení. Compare 與 tuteo 命令式 'ven' 和 vosotros 命令式 'venid'.",
+    "conjugation_info": "venir (voseo imperative): vení — compare: tú ven, vosotros venid | Other examples: decir → decí, salir → salí, poner → poné"
+  },
+  "q_gram_c1_12_006": {
+    "question": "La ___ di el regalo a María, no a su hermana. (代詞: '到 her' — 例子 的 laísmo if 'la' 被使用)",
+    "correct": "Le",
+    "wrong": [
+      "La",
+      "Lo",
+      "Se"
+    ],
+    "explanation": "'Le' 是 正確 indirect object 代詞 爲 'a María'. 使用 'la' 這裡 將 是 laísmo — incorrect 使用 的 'la' as an indirect object 代詞 爲 女性 referents. Laísmo 是 常見 在 parts 的 central 西班牙 但是 是 not accepted 由 RAE."
+  },
+  "q_gram_c1_12_007": {
+    "question": "在 Colombia, 他們 經常 say 'usted' even between close friends 和 family members.",
+    "correct": "En Colombia, a menudo dicen 'usted' incluso entre amigos cercanos y familiares.",
+    "wrong": [
+      "En Colombia, normalmente dicen 'tú' incluso entre amigos y familia.",
+      "En Colombia, frecuentemente utilizan 'vosotros' entre amigos íntimos.",
+      "En Colombia, suelen decir 'vos' solamente entre amigos cercanos y familia."
+    ],
+    "explanation": "在 許多 Colombian regions (特別是 Bogotá 和 Andean highlands), 'usted' 是 用過的 between close friends, family members, 和 even romantic partners, 沒有 conveying formality. 這 是 a distinctive regional feature 哪裡 'usted' 有 lost its 正式 connotation 在 intimate contexts."
+  },
+  "q_gram_c1_12_008": {
+    "question": "En España: 'He ___ a casa hace un rato.' En México: '___ a casa hace un rato.' (llegar — contrast pretérito perfecto vs. pretérito indefinido)",
+    "correct": "llegado / Llegué",
+    "wrong": [
+      "llegado / He llegado",
+      "llegué / Llegué",
+      "llegado / Llegaba"
+    ],
+    "explanation": "在 西班牙, pretérito perfecto 'he llegado' 是 natural 爲 a recent event ('hace un rato' = a 當...時 ago). 在 Mexico, pretérito indefinido 'llegué' 是 strongly preferred 爲 相同 context. 這 demonstrates core regional difference 在 past tense usage."
+  },
+  "q_gram_c1_12_009": {
+    "question": "Che, ¿por qué no nos juntamos mañana y tomamos unos mates?",
+    "correct": "Hey, why don't we get together tomorrow and have some mate (tea)?",
+    "wrong": [
+      "Hey, why don't we meet tomorrow and take some checkmates?",
+      "Friend, why don't we gather tomorrow and drink some coffees?",
+      "Buddy, why didn't we get together tomorrow to take some mates?"
+    ],
+    "explanation": "'Che' 是 an Argentine/Uruguayan interjection 用過的 到 get attention 或 express camaraderie (相似 到 'hey' 或 'mate'). 'Juntarse' 意思是 '到 get together' (Rioplatense usage). 'Tomar unos mates' 指 drinking mate, traditional South American herbal tea, which 是 central 到 Argentine social culture."
+  },
+  "q_gram_c1_12_010": {
+    "question": "En las Islas Canarias, el sistema pronominal se parece más al de Latinoamérica: se usa 'ustedes' en lugar de ___. (代詞, vosotros form)",
+    "correct": "vosotros",
+    "wrong": [
+      "ellos",
+      "nosotros",
+      "usted"
+    ],
+    "explanation": " Canary Islands, despite 是 part 的 西班牙, share several linguistic features 與 Latin American 西班牙語, including absence 的 'vosotros'. Canarian 西班牙語 uses 'ustedes' 爲 兩者 正式 和 非正式 第二 人稱 複數, just like Latin American varieties.",
+    "conjugation_info": "Canarian 西班牙語 代詞 system: yo, tú, usted, nosotros, ustedes (no vosotros), ellos — identical to most Latin American systems"
+  },
+  "q_gram_c1_13_001": {
+    "question": "El profesor dijo que el examen ___ el lunes siguiente. (ser, reported speech backshift)",
+    "correct": "sería",
+    "wrong": [
+      "será",
+      "fue",
+      "sea"
+    ],
+    "explanation": "在 reported speech, 什麼時候 reporting 動詞 是 在 past ('dijo'), original future 'será' shifts 到 條件式 'sería'. 這 backshift (correlación de tiempos) 是 obligatory 在 正式 西班牙語: 'El examen será el lunes' → El profesor dijo que 'el examen sería el lunes siguiente'."
+  },
+  "q_gram_c1_13_002": {
+    "question": "María nos contó que ___ muy contenta con los resultados del proyecto. (estar, reported speech)",
     "correct": "estaba",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "está",
+      "estuvo",
+      "estuviera"
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": "什麼時候 original statement 是 'Estoy muy contenta' (現在陳述式), reported speech 與 a past reporting 動詞 ('contó') 需要 backshift 到 未完成過去時 陳述式: 'estaba'. 這 是 標準 sequence-的-tenses shift: present → 未完成過去時."
   },
-  "q_grammar_c1_013": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_c1_13_003": {
+    "question": "什麼 happens 到 虛擬式 mood 在 reported speech 什麼時候 reporting 動詞 是 在 past?",
+    "correct": "The present subjunctive shifts to the imperfect subjunctive (e.g., 'Quiero que venga' → 'Dijo que quería que viniera')",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "The subjunctive remains unchanged regardless of the tense of the reporting verb",
+      "The subjunctive changes to the indicative mood in all reported speech",
+      "The subjunctive shifts to the conditional in reported speech"
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "Backshift affects 虛擬式 as well: 現在虛擬式 → 過去虛擬式, 現在完成時 虛擬式 → pluperfect 虛擬式. 例如: 'Espero que haya llegado' → 'Esperaba que hubiera llegado'. 心情 itself (虛擬式) 是 preserved; 僅 tense shifts."
   },
-  "q_grammar_c1_014": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_c1_13_004": {
+    "question": "El testigo declaró que no ___ nada sospechoso aquella noche. (ver, pluperfect 陳述式, él form — reported speech)",
+    "correct": "había visto",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "vio",
+      "ha visto",
+      "veía"
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "在 reported speech, original 簡單過去時 'no vi nada' 或 現在完成時 'no he visto nada' shifts 到 pluperfect 'no había visto nada' 什麼時候 reporting 動詞 是 在 past ('declaró'). 這 maintains anteriority relationship.",
+    "conjugation_info": "ver (pluperfect indicative): había visto, habías visto, había visto, habíamos visto, habíais visto, habían visto"
   },
-  "q_grammar_c1_015": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_c1_13_005": {
+    "question": "La ministra aseguró que el gobierno ___ todas las medidas necesarias. (tomar, 條件式 — reported speech 的 future)",
+    "correct": "tomaría",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "tomará",
+      "tome",
+      "tomaba"
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": " original statement 是 likely 'El gobierno tomará todas las medidas necesarias' (future). 在 reported speech 與 past reporting 動詞 'aseguró', future 'tomará' shifts 到 條件式 'tomaría'. 這 是 標準 future → 條件式 backshift."
   },
-  "q_grammar_c1_016": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_c1_13_006": {
+    "question": "El médico le recomendó que ___ más ejercicio y que ___ la dieta. (hacer, cambiar, 過去虛擬式 — reported speech 與 虛擬式)",
+    "correct": "hiciera / cambiara",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "haga / cambie",
+      "haría / cambiaría",
+      "hizo / cambió"
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": " original recommendation 是 'Le recomiendo que haga más ejercicio y que cambie la dieta' (現在虛擬式). 與 past reporting 動詞 'recomendó', 兩者 present subjunctives shift 到 未完成過去時 subjunctives: haga → hiciera, cambie → cambiara.",
+    "conjugation_info": "hacer (imperfect subjunctive): hiciera, hicieras, hiciera, hiciéramos, hicierais, hicieran | cambiar: cambiara, cambiaras, cambiara, cambiáramos, cambiarais, cambiaran"
   },
-  "q_grammar_c1_017": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_c1_13_007": {
+    "question": "Los vecinos se ___ de que nadie les hubiera avisado del corte de agua. (quejarse, pretérito indefinido, ellos form — introducing reported complaint 與 虛擬式)",
+    "correct": "quejaron",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "quejan",
+      "quejaban",
+      "quejaron se"
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "'Quejarse de que' (到 complain 那) takes 虛擬式 在 subordinate clause 什麼時候 expressing an emotional reaction. pretérito indefinido 'se quejaron' marks complaint as a specific past event. pluperfect 虛擬式 'hubiera avisado' 表示 prior non-event 那 caused complaint."
   },
-  "q_grammar_c1_018": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_c1_13_008": {
+    "question": " journalist reported 那 authorities had already been informed 的 threat.",
+    "correct": "El periodista informó de que las autoridades ya habían sido informadas de la amenaza.",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "El periodista reportó que las autoridades ya fueron informadas de la amenaza.",
+      "El periodista informó que las autoridades ya eran informadas de la amenaza.",
+      "El periodista dijo de que las autoridades ya habían sido informando de la amenaza."
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": "'Informar de que' 是 正確 construction (not 'informar que', which 將 是 dequeísmo 在 reverse — 或 rather, 'informar que' 沒有 'de' 是 actually 常見 error called 'queísmo'). pluperfect passive 'habían sido informadas' correctly maintains anteriority 在 reported speech."
   },
-  "q_grammar_c1_019": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_c1_13_009": {
+    "question": "El embajador insistió en que se ___ todos los protocolos diplomáticos al pie de la letra. (cumplir, 過去虛擬式, pasiva refleja)",
+    "correct": "cumplieran",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "cumplan",
+      "cumplieron",
+      "cumplirían"
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "'Insistir en que' + past reporting 動詞 需要 過去虛擬式 在 subordinate clause. 'Se cumplieran' 是 pasiva refleja (reflexive passive) 形式, 含義 '那 所有 diplomatic protocols 是 followed'. 複數 動詞 agrees 與 'protocolos'.",
+    "conjugation_info": "cumplir (imperfect subjunctive): cumpliera, cumplieras, cumpliera, cumpliéramos, cumplierais, cumplieran"
   },
-  "q_grammar_c1_020": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_c1_13_010": {
+    "question": "El acusado negó rotundamente que hubiera participado en los hechos delictivos.",
+    "correct": "The defendant categorically denied having participated in the criminal acts.",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "The accused rotundly denied that he had participated in the delictive facts.",
+      "The defendant flatly denied that he would have participated in the criminal events.",
+      "The accused completely denied participating in the delinquent acts."
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "'Negar que' + 虛擬式 是 標準 因爲 denial triggers 虛擬式. 'Rotundamente' 意思是 'categorically/flatly' (not 'rotundly'). 'Hubiera participado' (pluperfect 虛擬式) 是 用過的 因爲 denied action precedes denial. 'Hechos delictivos' 意思是 'criminal acts' (legal terminology)."
   },
-  "q_grammar_c1_021": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_c1_14_001": {
+    "question": "El informe detalla los problemas; ___ también propone soluciones concretas. (este/este mismo — anaphoric reference, demonstrative)",
+    "correct": "este",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "él",
+      "lo",
+      "ello"
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "在 正式 text cohesion, demonstrative 'este' (這 one / latter) serves as an anaphoric reference 到 'el informe'. 使用 'este' instead 的 repeating 'el informe' creates textual cohesion. 在 academic/正式 register, 'este' 可以 refer back 到 最 recently mentioned 名詞.",
+    "conjugation_info": "Demonstratives for text cohesion: este/esta/estos/estas (anaphoric, refers to nearest antecedent), aquel/aquella (refers to more distant antecedent)"
   },
-  "q_grammar_c1_022": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_c1_14_002": {
+    "question": "La empresa anunció cambios significativos. ___ cambios afectarán a todos los departamentos. (dichos/tales — anaphoric demonstrative)",
+    "correct": "Dichos",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "Estos",
+      "Los",
+      "Esos"
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "'Dichos' (said/aforementioned) 是 a 正式 anaphoric device 那 refers back 到 previously mentioned 名詞. 'Dichos cambios' = ' aforementioned 改變'. 這 是 特徵 的 legal, academic, 和 journalistic register 和 creates strong textual cohesion."
   },
-  "q_grammar_c1_023": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_c1_14_003": {
+    "question": "Juan estudió medicina y María también lo ___. (hacer — ellipsis 與 'hacerlo')",
+    "correct": "hizo",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "haz",
+      "hace",
+      "hacía"
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "'Lo hizo' 是 a pro-形式 那 substitutes 爲 entire predicate 'estudió medicina', functioning like 英語 'did so/did too'. 這 是 a 形式的 substitution 那 avoids repetition 和 creates cohesion. pretérito indefinido 'hizo' matches tense 的 'estudió'."
   },
-  "q_grammar_c1_024": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_c1_14_004": {
+    "question": "什麼 是 difference between anaphoric 和 cataphoric reference 在 text cohesion?",
+    "correct": "Anaphoric reference points backward to something already mentioned (e.g., 'Juan came. He was tired'), while cataphoric reference points forward to something not yet mentioned (e.g., 'This is what I mean: we must change')",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "Anaphoric reference uses pronouns and cataphoric reference uses nouns",
+      "Anaphoric reference is used in writing and cataphoric reference is used in speech",
+      "Anaphoric reference connects paragraphs and cataphoric reference connects sentences"
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": "Anaphora (backward reference) 是 遠 more 常見: 'María llegó tarde. Ella se disculpó.' Cataphora (forward reference) creates suspense 或 emphasis: 'Esto es lo que quiero decir: debemos actuar ya.' 兩者 是 基本 cohesion devices, 但是 cataphora 需要 more careful planning."
   },
-  "q_grammar_c1_025": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_c1_14_005": {
+    "question": "La primera propuesta fue rechazada; la segunda, en cambio, ___ aprobada por unanimidad. (ser, pretérito indefinido — ellipsis 的 'propuesta fue')",
+    "correct": "fue",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "era",
+      "sería",
+      "ha sido"
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": "這 sentence uses ellipsis: 'la segunda [propuesta] fue [aprobada]' omits repeated 名詞 'propuesta' 之後 ordinal. comma 之後 'la segunda' marks ellipsis point. 'En cambio' (on other hand) 是 an adversative connector creating contrast between two propositions.",
+    "conjugation_info": "ser (pretérito indefinido): fui, fuiste, fue, fuimos, fuisteis, fueron — 用過的 in passive constructions: fue aprobada, fue rechazada"
   },
-  "q_grammar_c1_026": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_c1_14_006": {
+    "question": "Los investigadores presentaron sus hallazgos. ___, el público pudo formular preguntas. (a continuación — sequential connector)",
+    "correct": "A continuación",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "Sin embargo",
+      "Por lo tanto",
+      "No obstante"
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "'A continuación' (next/afterwards) 是 a temporal sequential connector 那 organizes events chronologically 在 discourse. 它 signals 那 Q&A session followed presentation. Sequential connectors like 'a continuación', 'seguidamente', 和 'posteriormente' 是 基本 爲 text cohesion."
   },
-  "q_grammar_c1_027": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_c1_14_007": {
+    "question": " results confirm hypothesis; 然而, further research 是 needed 到 validate them.",
+    "correct": "Los resultados confirman la hipótesis; no obstante, se necesita más investigación para validarlos.",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "Los resultados confirman la hipótesis; pero, se necesita investigar más para validarlas.",
+      "Los resultados confirman la hipotesis; sin embargo se necesitan más investigación para validarlos.",
+      "Los resultados confirmaron la hipótesis; no obstante, se necesitará más investigaciones para validarlos."
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "'No obstante' (然而/nevertheless) 是 a 正式 adversative connector. 代詞 'validarlos' 指 'los resultados' (男性 複數). Academic register 需要 impersonal 'se necesita' + 單數 名詞. 注意 semicolon 之前 'no obstante' 和 comma 之後 它."
   },
-  "q_grammar_c1_028": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_c1_14_008": {
+    "question": "El gobierno implementó nuevas políticas fiscales; ___, redujo el gasto público en un 15%. (asimismo/además — additive connector 爲 正式 cohesion)",
+    "correct": "asimismo",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "sin embargo",
+      "por consiguiente",
+      "en cambio"
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "'Asimismo' (likewise/在 addition) 是 a 正式 additive connector 那 links two complementary actions. 它 creates textual cohesion 由 showing 那 spending cut 是 an additional measure alongside fiscal policies, not a consequence 或 contrast."
   },
-  "q_grammar_c1_029": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_c1_14_009": {
+    "question": "Cabe señalar, asimismo, que los datos recopilados hasta la fecha no permiten extraer conclusiones definitivas.",
+    "correct": "It should also be noted that the data collected to date do not allow definitive conclusions to be drawn.",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "It fits to signal, likewise, that the data compiled to the date don't permit extracting definitive conclusions.",
+      "We should point out, in addition, that the gathered data until today cannot draw final conclusions.",
+      "It is worth also signaling that the data recollected up to this date does not permit to extract conclusive definitions."
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "'Cabe señalar' (它 應該 是 noted) 是 a 正式 impersonal expression. 'Asimismo' (likewise/也) 是 positioned parenthetically between commas. 'Hasta la fecha' 意思是 '到 日期'. 'Extraer conclusiones' (到 draw conclusions) 是 a fixed collocation 在 academic 西班牙語. entire sentence exemplifies 正式 academic cohesion."
   },
-  "q_grammar_c1_030": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_c1_14_010": {
+    "question": "El estudio se centró en tres variables, a saber: la edad, el nivel educativo y el ingreso mensual. El conector 'a saber' cumple una función ___. (catafórica/cataphoric, explicativa/explanatory)",
+    "correct": "catafórica",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "anafórica",
+      "adversativa",
+      "consecutiva"
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": "'A saber' (namely) 是 a cataphoric connector: 它 points forward 到 information 那 有 not yet been presented ( three variables). 這 是 a textbook 例子 的 cataphoric reference — colon 之後 'a saber' introduces enumeration 那 follows.",
+    "conjugation_info": "Cataphoric connectors: a saber (namely), lo siguiente (the following), esto es (that 是), a continuación (as follows)"
   },
-  "q_grammar_c1_031": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_c1_15_001": {
+    "question": "Yo me recuerdo de aquel día perfectamente. → 正確: 'Yo ___ aquel día perfectamente.' (recordar, yo form)",
+    "correct": "recuerdo",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "me recuerdo de",
+      "me acuerdo",
+      "recuerdo de"
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": " error 是 使用 'recordar' as a reflexive 動詞 與 'de'. 在 標準 西班牙語, 'recordar' 是 transitive 和 non-reflexive: 'recuerdo algo'. reflexive 形式 'acordarse de' exists ('me acuerdo de aquel día'), 但是 'recordarse de' 是 incorrect — 它's a 常見 contamination between two 動詞."
   },
-  "q_grammar_c1_032": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_c1_15_002": {
+    "question": "*Hubieron* muchos problemas durante la construcción. → ___ muchos problemas durante la construcción. (haber, impersonal, pretérito indefinido)",
+    "correct": "Hubo",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "Hubieron",
+      "Han habido",
+      "Habían"
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "什麼時候 'haber' 是 用過的 as an impersonal existential 動詞 (含義 '那裡 是/是'), 它 必須 總是 remain 在 第三 人稱 單數, regardless 的 數 的 following 名詞. 'Hubo problemas' (not 'hubieron'), 'hay problemas' (not 'han'), 'había problemas' (not 'habían'). 這 是 one 的 最 常見 errors even among native speakers."
   },
-  "q_grammar_c1_033": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_c1_15_003": {
+    "question": "什麼 是 a 'false friend' (falso amigo) 和 why 是 'actualmente' a classic 例子 爲 英語 speakers?",
+    "correct": "'Actualmente' means 'currently/at present' in Spanish, not 'actually'. The English 'actually' translates to 'en realidad' or 'de hecho'. False friends are words that look similar in two languages but have different meanings.",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "'Actualmente' means 'actually' in both languages; it is not a false friend",
+      "'Actualmente' is an archaic word that is no longer used in modern Spanish",
+      "'Actualmente' means 'in an actual manner' and is used the same way as in English"
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "False friends (falsos amigos) 是 a major source 的 errors 爲 語言 learners. 西班牙語 'actualmente' = 'currently'; 'realizar' = '到 carry out' (not '到 realize'); 'sensible' = 'sensitive' (not 'sensible'); 'embarazada' = 'pregnant' (not 'embarrassed'). Recognizing these 是 基本 at C1 level."
   },
-  "q_grammar_c1_034": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_c1_15_004": {
+    "question": "Identify 和 正確: 'Le dije de que viniera temprano.' (dequeísmo, 正確 form 的 decir + subordinate clause)",
+    "correct": "Le dije que viniera temprano.",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "Le dije de venir temprano.",
+      "Le dije a que viniera temprano.",
+      "Le decía de que viniera temprano."
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "'Dequeísmo' 是 incorrect insertion 的 'de' 之前 'que' 哪裡 它 是 not 需要. 'Decir' takes a direct 'que' clause: 'dije que', not 'dije de que'. 到 check: replacement test — 'Dije eso' (not 'dije de eso') confirms no 'de' 是 needed.",
+    "conjugation_info": "動詞 沒有 'de': decir que, creer que, pensar que, esperar que | 動詞 與 'de': acordarse de que, alegrarse de que, estar seguro de que"
   },
-  "q_grammar_c1_035": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
+  "q_gram_c1_15_005": {
+    "question": "*Si tendría* más dinero, compraría una casa. → Si ___ más dinero, compraría una casa. (tener, 正確 form 之後 'si')",
+    "correct": "tuviera",
     "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
+      "tendría",
+      "tenía",
+      "tengo"
     ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
+    "explanation": "使用 條件式 ('tendría') 在 si-clause 是 one 的 最 stigmatized errors 在 西班牙語. 規則 是 absolute: 'si' + 過去虛擬式 (tuviera), 從不 'si' + 條件式 (tendría). 條件式 belongs 僅 在 main clause: 'compraría'."
   },
-  "q_grammar_c1_036": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
+  "q_gram_c1_15_006": {
+    "question": "Identify 和 正確: 'Ayer, Juan y yo fuimos al cine y después cenemos en un restaurante.' (tense consistency error)",
+    "correct": "cenamos",
     "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
+      "cenábamos",
+      "cenaríamos",
+      "habíamos cenado"
     ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
+    "explanation": " error 是 'cenemos' (現在虛擬式) 哪裡 pretérito indefinido 'cenamos' 是 needed. 兩者 動詞 應該 是 在 相同 past tense 到 maintain narrative consistency: 'fuimos al cine y después cenamos'. 第一 人稱 複數 的 -ar 動詞 有 identical 形式 在 present 和 簡單過去時 陳述式, 但是 context (ayer) makes 它 clearly past.",
+    "conjugation_info": "cenar (pretérito indefinido): cené, cenaste, cenó, cenamos, cenasteis, cenaron — 注意: 'cenamos' 是 identical to 現在陳述式 in 形式"
   },
-  "q_grammar_c1_037": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
+  "q_gram_c1_15_007": {
+    "question": "La profesora les explicó el tema a las alumnas y *las* dio unos ejercicios. → ...y ___ dio unos ejercicios. (正確 indirect object 代詞)",
+    "correct": "les",
     "wrong": [
-      "estoy",
-      "eres",
-      "somos"
+      "las",
+      "la",
+      "lo"
     ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
+    "explanation": " error 是 'las dio' (laísmo): 使用 direct object 代詞 'las' as an indirect object. 'Dar algo a alguien' takes an indirect object, so 正確 代詞 是 'les' (爲 'a las alumnas'). Laísmo (使用 la/las 爲 indirect objects) 是 常見 在 central 西班牙 但是 是 not accepted 由 RAE."
   },
-  "q_grammar_c1_038": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
+  "q_gram_c1_15_008": {
+    "question": " conference 是 非常 interesting; I realized 那 I need 到 improve my presentation skills.",
+    "correct": "La conferencia fue muy interesante; me di cuenta de que necesito mejorar mis habilidades de presentación.",
     "wrong": [
-      "como",
-      "come",
-      "comen"
+      "La conferencia fue muy interesante; realicé que necesito mejorar mis capacidades de presentación.",
+      "La conferencia estuvo muy interesante; me realicé de que necesito mejorar mis habilidades presentativas.",
+      "La conferencia era muy interesada; me di cuenta que necesito mejorar mis destrezas de presentación."
     ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
+    "explanation": "'到 realize' (到 become aware) 是 'darse cuenta de que', NOT 'realizar' (which 意思是 '到 carry out/accomplish'). 這 是 a classic false friend error. 也, 'interesting' 是 'interesante' (not 'interesada', which 意思是 'interested/self-serving'). full 形式 是 'darse cuenta de que' (not 'darse cuenta que', which 將 是 queísmo)."
   },
-  "q_grammar_c1_039": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
+  "q_gram_c1_15_009": {
+    "question": "Identify error 和 provide 正確 form: 'Ojalá que no *haiga* problemas con la entrega.' (haiga → 正確 form 的 haber, 現在虛擬式)",
+    "correct": "haya",
     "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
+      "haigan",
+      "habría",
+      "hay"
     ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
+    "explanation": "'Haiga' 是 a non-標準 dialectal 形式的 現在虛擬式 的 'haber'. 正確 形式 是 'haya'. 這 error 是 widespread 在 rural 和 lower-register speech across 許多 西班牙語-speaking regions 但是 是 strongly stigmatized 在 正式 contexts. 正確 sentence 是 'Ojalá que no haya problemas'.",
+    "conjugation_info": "haber (present subjunctive): haya, hayas, haya, hayamos, hayáis, hayan — 從不 'haiga/haigas/haigan'"
   },
-  "q_grammar_c1_040": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
+  "q_gram_c1_15_010": {
+    "question": "El hecho de que el español tenga tantas variantes regionales no significa que unas sean más correctas que otras.",
+    "correct": "The fact that Spanish has so many regional variants does not mean that some are more correct than others.",
     "wrong": [
-      "eres",
-      "eras",
-      "serás"
+      "The fact that Spanish has such regional variations doesn't signify that ones are more correct than the others.",
+      "The act that the Spanish would have so many regional variants doesn't mean some would be more correct than others.",
+      "The fact of that Spanish has many regional variants does not signify that some are more corrected than others."
     ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
-  },
-  "q_grammar_c1_041": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
-    "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
-    ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
-  },
-  "q_grammar_c1_042": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
-    "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
-    ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
-  },
-  "q_grammar_c1_043": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
-    "wrong": [
-      "estoy",
-      "eres",
-      "somos"
-    ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
-  },
-  "q_grammar_c1_044": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
-    "wrong": [
-      "como",
-      "come",
-      "comen"
-    ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
-  },
-  "q_grammar_c1_045": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
-    "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
-    ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
-  },
-  "q_grammar_c1_046": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
-    "wrong": [
-      "eres",
-      "eras",
-      "serás"
-    ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
-  },
-  "q_grammar_c1_047": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
-    "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
-    ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
-  },
-  "q_grammar_c1_048": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
-    "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
-    ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
-  },
-  "q_grammar_c1_049": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
-    "wrong": [
-      "estoy",
-      "eres",
-      "somos"
-    ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
-  },
-  "q_grammar_c1_050": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
-    "wrong": [
-      "como",
-      "come",
-      "comen"
-    ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
-  },
-  "q_grammar_c1_051": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
-    "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
-    ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
-  },
-  "q_grammar_c1_052": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
-    "wrong": [
-      "eres",
-      "eras",
-      "serás"
-    ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
-  },
-  "q_grammar_c1_053": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
-    "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
-    ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
-  },
-  "q_grammar_c1_054": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
-    "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
-    ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
-  },
-  "q_grammar_c1_055": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
-    "wrong": [
-      "estoy",
-      "eres",
-      "somos"
-    ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
-  },
-  "q_grammar_c1_056": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
-    "wrong": [
-      "como",
-      "come",
-      "comen"
-    ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
-  },
-  "q_grammar_c1_057": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
-    "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
-    ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
-  },
-  "q_grammar_c1_058": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
-    "wrong": [
-      "eres",
-      "eras",
-      "serás"
-    ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
-  },
-  "q_grammar_c1_059": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
-    "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
-    ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
-  },
-  "q_grammar_c1_060": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
-    "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
-    ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
-  },
-  "q_grammar_c1_061": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
-    "wrong": [
-      "estoy",
-      "eres",
-      "somos"
-    ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
-  },
-  "q_grammar_c1_062": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
-    "wrong": [
-      "como",
-      "come",
-      "comen"
-    ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
-  },
-  "q_grammar_c1_063": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
-    "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
-    ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
-  },
-  "q_grammar_c1_064": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
-    "wrong": [
-      "eres",
-      "eras",
-      "serás"
-    ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
-  },
-  "q_grammar_c1_065": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
-    "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
-    ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
-  },
-  "q_grammar_c1_066": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
-    "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
-    ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
-  },
-  "q_grammar_c1_067": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
-    "wrong": [
-      "estoy",
-      "eres",
-      "somos"
-    ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
-  },
-  "q_grammar_c1_068": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
-    "wrong": [
-      "como",
-      "come",
-      "comen"
-    ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
-  },
-  "q_grammar_c1_069": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
-    "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
-    ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
-  },
-  "q_grammar_c1_070": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
-    "wrong": [
-      "eres",
-      "eras",
-      "serás"
-    ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
-  },
-  "q_grammar_c1_071": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
-    "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
-    ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
-  },
-  "q_grammar_c1_072": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
-    "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
-    ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
-  },
-  "q_grammar_c1_073": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
-    "wrong": [
-      "estoy",
-      "eres",
-      "somos"
-    ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
-  },
-  "q_grammar_c1_074": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
-    "wrong": [
-      "como",
-      "come",
-      "comen"
-    ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
-  },
-  "q_grammar_c1_075": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
-    "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
-    ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
-  },
-  "q_grammar_c1_076": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
-    "wrong": [
-      "eres",
-      "eras",
-      "serás"
-    ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
-  },
-  "q_grammar_c1_077": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
-    "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
-    ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
-  },
-  "q_grammar_c1_078": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
-    "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
-    ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
-  },
-  "q_grammar_c1_079": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
-    "wrong": [
-      "estoy",
-      "eres",
-      "somos"
-    ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
-  },
-  "q_grammar_c1_080": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
-    "wrong": [
-      "como",
-      "come",
-      "comen"
-    ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
-  },
-  "q_grammar_c1_081": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
-    "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
-    ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
-  },
-  "q_grammar_c1_082": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
-    "wrong": [
-      "eres",
-      "eras",
-      "serás"
-    ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
-  },
-  "q_grammar_c1_083": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
-    "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
-    ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
-  },
-  "q_grammar_c1_084": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
-    "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
-    ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
-  },
-  "q_grammar_c1_085": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
-    "wrong": [
-      "estoy",
-      "eres",
-      "somos"
-    ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
-  },
-  "q_grammar_c1_086": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
-    "wrong": [
-      "como",
-      "come",
-      "comen"
-    ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
-  },
-  "q_grammar_c1_087": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
-    "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
-    ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
-  },
-  "q_grammar_c1_088": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
-    "wrong": [
-      "eres",
-      "eras",
-      "serás"
-    ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
-  },
-  "q_grammar_c1_089": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
-    "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
-    ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
-  },
-  "q_grammar_c1_090": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
-    "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
-    ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
-  },
-  "q_grammar_c1_091": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
-    "wrong": [
-      "estoy",
-      "eres",
-      "somos"
-    ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
-  },
-  "q_grammar_c1_092": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
-    "wrong": [
-      "como",
-      "come",
-      "comen"
-    ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
-  },
-  "q_grammar_c1_093": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
-    "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
-    ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
-  },
-  "q_grammar_c1_094": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
-    "wrong": [
-      "eres",
-      "eras",
-      "serás"
-    ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
-  },
-  "q_grammar_c1_095": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
-    "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
-    ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
-  },
-  "q_grammar_c1_096": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
-    "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
-    ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
-  },
-  "q_grammar_c1_097": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
-    "wrong": [
-      "estoy",
-      "eres",
-      "somos"
-    ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
-  },
-  "q_grammar_c1_098": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
-    "wrong": [
-      "como",
-      "come",
-      "comen"
-    ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
-  },
-  "q_grammar_c1_099": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
-    "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
-    ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
-  },
-  "q_grammar_c1_100": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
-    "wrong": [
-      "eres",
-      "eras",
-      "serás"
-    ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
-  },
-  "q_grammar_c1_101": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
-    "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
-    ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
-  },
-  "q_grammar_c1_102": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
-    "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
-    ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
-  },
-  "q_grammar_c1_103": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
-    "wrong": [
-      "estoy",
-      "eres",
-      "somos"
-    ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
-  },
-  "q_grammar_c1_104": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
-    "wrong": [
-      "como",
-      "come",
-      "comen"
-    ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
-  },
-  "q_grammar_c1_105": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
-    "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
-    ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
-  },
-  "q_grammar_c1_106": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
-    "wrong": [
-      "eres",
-      "eras",
-      "serás"
-    ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
-  },
-  "q_grammar_c1_107": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
-    "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
-    ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
-  },
-  "q_grammar_c1_108": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
-    "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
-    ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
-  },
-  "q_grammar_c1_109": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
-    "wrong": [
-      "estoy",
-      "eres",
-      "somos"
-    ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
-  },
-  "q_grammar_c1_110": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
-    "wrong": [
-      "como",
-      "come",
-      "comen"
-    ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
-  },
-  "q_grammar_c1_111": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
-    "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
-    ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
-  },
-  "q_grammar_c1_112": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
-    "wrong": [
-      "eres",
-      "eras",
-      "serás"
-    ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
-  },
-  "q_grammar_c1_113": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
-    "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
-    ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
-  },
-  "q_grammar_c1_114": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
-    "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
-    ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
-  },
-  "q_grammar_c1_115": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
-    "wrong": [
-      "estoy",
-      "eres",
-      "somos"
-    ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
-  },
-  "q_grammar_c1_116": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
-    "wrong": [
-      "como",
-      "come",
-      "comen"
-    ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
-  },
-  "q_grammar_c1_117": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
-    "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
-    ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
-  },
-  "q_grammar_c1_118": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
-    "wrong": [
-      "eres",
-      "eras",
-      "serás"
-    ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
-  },
-  "q_grammar_c1_119": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
-    "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
-    ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
-  },
-  "q_grammar_c1_120": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
-    "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
-    ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
-  },
-  "q_grammar_c1_121": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
-    "wrong": [
-      "estoy",
-      "eres",
-      "somos"
-    ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
-  },
-  "q_grammar_c1_122": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
-    "wrong": [
-      "como",
-      "come",
-      "comen"
-    ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
-  },
-  "q_grammar_c1_123": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
-    "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
-    ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
-  },
-  "q_grammar_c1_124": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
-    "wrong": [
-      "eres",
-      "eras",
-      "serás"
-    ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
-  },
-  "q_grammar_c1_125": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
-    "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
-    ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
-  },
-  "q_grammar_c1_126": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
-    "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
-    ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
-  },
-  "q_grammar_c1_127": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
-    "wrong": [
-      "estoy",
-      "eres",
-      "somos"
-    ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
-  },
-  "q_grammar_c1_128": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
-    "wrong": [
-      "como",
-      "come",
-      "comen"
-    ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
-  },
-  "q_grammar_c1_129": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
-    "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
-    ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
-  },
-  "q_grammar_c1_130": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
-    "wrong": [
-      "eres",
-      "eras",
-      "serás"
-    ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
-  },
-  "q_grammar_c1_131": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
-    "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
-    ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
-  },
-  "q_grammar_c1_132": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
-    "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
-    ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
-  },
-  "q_grammar_c1_133": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
-    "wrong": [
-      "estoy",
-      "eres",
-      "somos"
-    ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
-  },
-  "q_grammar_c1_134": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
-    "wrong": [
-      "como",
-      "come",
-      "comen"
-    ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
-  },
-  "q_grammar_c1_135": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
-    "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
-    ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
-  },
-  "q_grammar_c1_136": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
-    "wrong": [
-      "eres",
-      "eras",
-      "serás"
-    ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
-  },
-  "q_grammar_c1_137": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
-    "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
-    ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
-  },
-  "q_grammar_c1_138": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
-    "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
-    ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
-  },
-  "q_grammar_c1_139": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
-    "wrong": [
-      "estoy",
-      "eres",
-      "somos"
-    ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
-  },
-  "q_grammar_c1_140": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
-    "wrong": [
-      "como",
-      "come",
-      "comen"
-    ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
-  },
-  "q_grammar_c1_141": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
-    "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
-    ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
-  },
-  "q_grammar_c1_142": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
-    "wrong": [
-      "eres",
-      "eras",
-      "serás"
-    ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
-  },
-  "q_grammar_c1_143": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
-    "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
-    ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
-  },
-  "q_grammar_c1_144": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
-    "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
-    ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
-  },
-  "q_grammar_c1_145": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
-    "wrong": [
-      "estoy",
-      "eres",
-      "somos"
-    ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
-  },
-  "q_grammar_c1_146": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
-    "wrong": [
-      "como",
-      "come",
-      "comen"
-    ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
-  },
-  "q_grammar_c1_147": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
-    "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
-    ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
-  },
-  "q_grammar_c1_148": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
-    "wrong": [
-      "eres",
-      "eras",
-      "serás"
-    ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
-  },
-  "q_grammar_c1_149": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
-    "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
-    ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
-  },
-  "q_grammar_c1_150": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
-    "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
-    ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
-  },
-  "q_grammar_c1_151": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
-    "wrong": [
-      "estoy",
-      "eres",
-      "somos"
-    ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
-  },
-  "q_grammar_c1_152": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
-    "wrong": [
-      "como",
-      "come",
-      "comen"
-    ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
-  },
-  "q_grammar_c1_153": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
-    "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
-    ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
-  },
-  "q_grammar_c1_154": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
-    "wrong": [
-      "eres",
-      "eras",
-      "serás"
-    ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
-  },
-  "q_grammar_c1_155": {
-    "question": "完成：'El libro fue ___ (escribir) por Cervantes.'",
-    "correct": "escrito",
-    "wrong": [
-      "escritura",
-      "escribiendo",
-      "escriba"
-    ],
-    "explanation": "這是關於被動語態的問題。正確答案是'escrito'。"
-  },
-  "q_grammar_c1_156": {
-    "question": "完成：'Porque ___ cansado, no fui.'",
-    "correct": "estaba",
-    "wrong": [
-      "estoy",
-      "esté",
-      "estaré"
-    ],
-    "explanation": "這是關於從句的問題。正確答案是'estaba'。"
-  },
-  "q_grammar_c1_157": {
-    "question": "完成句子：'Yo ___ ingeniero.'",
-    "correct": "soy",
-    "wrong": [
-      "estoy",
-      "eres",
-      "somos"
-    ],
-    "explanation": "這是關於ser vs estar的問題。正確答案是'soy'。"
-  },
-  "q_grammar_c1_158": {
-    "question": "完成：'Tú ___ (comer) manzanas.'",
-    "correct": "comes",
-    "wrong": [
-      "como",
-      "come",
-      "comen"
-    ],
-    "explanation": "這是關於動詞變位的問題。正確答案是'comes'。"
-  },
-  "q_grammar_c1_159": {
-    "question": "未來式：'Mañana ___ (llover).'",
-    "correct": "lloverá",
-    "wrong": [
-      "llovió",
-      "llueve",
-      "llovería"
-    ],
-    "explanation": "這是關於時態的問題。正確答案是'lloverá'。"
-  },
-  "q_grammar_c1_160": {
-    "question": "完成：'Deseo que ___ feliz.'",
-    "correct": "seas",
-    "wrong": [
-      "eres",
-      "eras",
-      "serás"
-    ],
-    "explanation": "這是關於虛擬式的問題。正確答案是'seas'。"
+    "explanation": "'El hecho de que' + 虛擬式 ('tenga') 是 a 標準 construction — 虛擬式 是 triggered 因爲 它 introduces a presupposed fact 是 discussed rather than asserted. 'No significa que' + 虛擬式 ('sean') follows 因爲 negative main clause creates uncertainty about subordinate clause's truth."
   }
 }

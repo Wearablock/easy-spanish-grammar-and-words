@@ -534,6 +534,9 @@ class AppLocalizationsEs extends AppLocalizations {
   String get speakingTest => 'Examen de Conversación';
 
   @override
+  String get speakingBrowseAll => 'Explorar todo';
+
+  @override
   String get speakingFeatureDesc =>
       'Practica decenas de variaciones de una frase: cambia el sujeto, niega, pregunta o sustituye palabras.';
 
@@ -632,6 +635,9 @@ class AppLocalizationsEs extends AppLocalizations {
   String variationNounSwap(String noun) {
     return 'Cambio de palabra · $noun';
   }
+
+  @override
+  String get variationPhrase => 'Expresión';
 
   @override
   String get feedbackPerfect => '¡Perfecto! 🎉';

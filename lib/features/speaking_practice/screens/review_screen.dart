@@ -10,6 +10,7 @@ import '../../../services/feedback_service.dart';
 import '../../../services/speech_service.dart';
 import '../../../services/tts_service.dart';
 import '../data/speaking_models.dart';
+import '../utils/spanish_numbers.dart';
 import '../utils/speaking_l10n.dart';
 import '../utils/speaking_palette.dart';
 import '../utils/text_similarity.dart';
@@ -90,8 +91,15 @@ class _SpeakingReviewScreenState
     return items;
   }
 
+  /// 정답 음성 재생. 녹음 중이면 먼저 중단 — TTS 출력이 마이크에 들어가
+  /// 정확도를 오인시키는 문제를 방지.
   Future<void> _playModel() async {
-    if (_current != null) await _tts.speak(_current!.card.es);
+    if (_current == null) return;
+    if (_listening) {
+      await _speech.stopListening();
+      if (mounted) setState(() => _listening = false);
+    }
+    await _tts.speak(_current!.card.es);
   }
 
   Future<void> _toggleListen(AppLocalizations l10n) async {
@@ -191,7 +199,6 @@ class _SpeakingReviewScreenState
         builder: (_) => SpeakingResultScreen(
           seedTitle: l10n.speakingReview,
           results: _results,
-          isTestMode: false,
         ),
       ),
     );
@@ -316,7 +323,8 @@ class _SpeakingReviewScreenState
                         Text(l10n.iSaid,
                             style: SpeakingPalette.hintLabel(context)),
                         const SizedBox(height: 6),
-                        Text(_spoken,
+                        // STT가 숫자 단어를 아라비아 숫자로 반환하는 경우 표시용 역치환.
+                        Text(SpanishNumbers.digitsToWords(_spoken),
                             textAlign: TextAlign.center,
                             style: theme.textTheme.titleMedium),
                         if (accuracy != null) ...[
