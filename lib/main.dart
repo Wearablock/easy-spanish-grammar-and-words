@@ -1,3 +1,6 @@
+import 'dart:async';
+import 'services/content_store.dart';
+import 'services/remote_content_service.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_native_splash/flutter_native_splash.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
@@ -15,6 +18,9 @@ void main() async {
 
   // 앱 설정 초기화 (버전 정보 등)
   await AppConfig.initialize();
+  // 10-29 — 학습 데이터는 서버에서 받아 둔 것이 먼저(업데이트 없이 문제를 늘린다) · 받기는 뒤에서 조용히
+  await ContentStore.init();
+  unawaited(RemoteContentService.sync());
 
   // TODO: Firebase 초기화 (flutterfire configure 후)
   // await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
@@ -30,9 +36,5 @@ void main() async {
   // 알림 서비스 초기화
   await NotificationService().initialize();
 
-  runApp(
-    const ProviderScope(
-      child: EspanolBiteApp(),
-    ),
-  );
+  runApp(const ProviderScope(child: EspanolBiteApp()));
 }

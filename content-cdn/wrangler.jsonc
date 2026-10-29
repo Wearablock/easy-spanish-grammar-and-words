@@ -1,0 +1,8 @@
+{
+  // Easy Spanish learning data (questions · topics · levels · speaking) served as static files.
+  // The app reads manifest.json, then downloads only files whose sha256 changed (lib/services/remote_content_service.dart).
+  // Built by tools/content/publish.py into ./public — do not edit public/ by hand.
+  "name": "easy-spanish-content",
+  "compatibility_date": "2026-08-01",
+  "assets": { "directory": "./public" }
+}

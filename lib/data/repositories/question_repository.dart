@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:flutter/services.dart';
+import '../../services/content_store.dart';
 import '../../core/config/level_ids.dart';
 import '../models/question.dart';
 
@@ -54,7 +54,7 @@ class QuestionRepository {
     }
 
     try {
-      final jsonString = await rootBundle.loadString(
+      final jsonString = await ContentStore.load(
         'assets/data/questions/meta/$levelId.json',
       );
       final jsonData = json.decode(jsonString) as Map<String, dynamic>;
@@ -111,7 +111,7 @@ class QuestionRepository {
     }
 
     try {
-      final jsonString = await rootBundle.loadString(
+      final jsonString = await ContentStore.load(
         'assets/data/questions/$locale/$levelId.json',
       );
       final jsonData = json.decode(jsonString) as Map<String, dynamic>;

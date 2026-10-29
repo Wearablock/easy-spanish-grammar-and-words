@@ -1,6 +1,6 @@
 import 'dart:convert';
+import '../../../services/content_store.dart';
 
-import 'package:flutter/services.dart';
 
 /// 변형 카드의 종류 — UI에서 라벨을 l10n으로 렌더링할 때 사용.
 ///
@@ -138,8 +138,7 @@ class SpeakingCard {
 /// JSON 로더.
 class SpeakingSeedLoader {
   static Future<List<SpeakingSeed>> loadAll() async {
-    final raw = await rootBundle
-        .loadString('assets/data/speaking/seeds_es.json');
+    final raw = await ContentStore.load('assets/data/speaking/seeds_es.json');
     final json = jsonDecode(raw) as Map<String, dynamic>;
     final list = json['seeds'] as List;
     return list

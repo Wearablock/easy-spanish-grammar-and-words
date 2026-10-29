@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:flutter/services.dart';
+import '../../services/content_store.dart';
 import '../models/topic.dart';
 
 class TopicRepository {
@@ -15,7 +15,7 @@ class TopicRepository {
   Future<List<TopicMeta>> loadMeta() async {
     if (_cachedMeta != null) return _cachedMeta!;
 
-    final jsonString = await rootBundle.loadString(
+    final jsonString = await ContentStore.load(
       'assets/data/topics/topics_meta.json',
     );
     final jsonData = json.decode(jsonString) as Map<String, dynamic>;
@@ -42,7 +42,7 @@ class TopicRepository {
     }
 
     try {
-      final jsonString = await rootBundle.loadString(
+      final jsonString = await ContentStore.load(
         'assets/data/topics/topics_$locale.json',
       );
       final jsonData = json.decode(jsonString) as Map<String, dynamic>;

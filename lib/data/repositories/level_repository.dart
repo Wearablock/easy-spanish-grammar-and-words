@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:flutter/services.dart';
+import '../../services/content_store.dart';
 import '../../core/config/constants.dart';
 import '../models/level.dart';
 
@@ -10,7 +10,7 @@ class LevelRepository {
   Future<List<Level>> loadLevels() async {
     if (_cachedLevels != null) return _cachedLevels!;
 
-    final jsonString = await rootBundle.loadString('assets/data/levels.json');
+    final jsonString = await ContentStore.load('assets/data/levels.json');
     final jsonData = json.decode(jsonString) as Map<String, dynamic>;
     final levelsJson = jsonData['levels'] as List<dynamic>;
 
