@@ -97,14 +97,15 @@
     "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)"
   },
   "q_gram_a1_01_010": {
-    "question": "The hand is cold.",
+    "question": "La main est froide.",
     "correct": "La mano está fría.",
     "wrong": [
       "El mano está frío.",
       "La mano es fría.",
       "Las manos están frías."
     ],
-    "explanation": "'mano' est féminin despite terminaison dans -o (a key exception).\nWe use 'está' parce que feeling cold est a temporary state.\n- la mano fría (féminin adjectif agreement)"
+    "explanation": "« mano » est féminin bien qu'il se termine par -o (une exception importante).\nOn utilise « está » parce que avoir froid est un état temporaire.\n- la mano fría (accord de l'adjectif au féminin)",
+    "hint": null
   },
   "q_gram_a1_02_001": {
     "question": "Voy ___ parque. (fill dans: a + el)",
@@ -311,14 +312,15 @@
     "conjugation_info": "Indefinite (first mention/non-specific): un/una/unos/unas. Definite (known/specific): el/la/los/las."
   },
   "q_gram_a1_03_010": {
-    "question": "There are some books on the table.",
+    "question": "Il y a des livres sur la table.",
     "correct": "Hay unos libros en la mesa.",
     "wrong": [
       "Hay los libros en la mesa.",
       "Hay un libros en la mesa.",
       "Están unos libros en la mesa."
     ],
-    "explanation": "'quelques books' = 'unos libros' (masculin pluriel article indéfini).\nWe use 'hay' pour existence et l'article indéfini pour non-specific items.\n- Hay unos libros. (existence, non-specific)"
+    "explanation": "« des livres » = « unos libros » (article indéfini masculin pluriel).\nOn utilise « hay » pour exprimer l'existence, et l'article indéfini pour des éléments non spécifiques.\n- Hay unos libros. (existence, non spécifique)",
+    "hint": null
   },
   "q_gram_a1_04_001": {
     "question": "___ hablamos español. (fill dans le sujet pronom)",
@@ -739,14 +741,15 @@
     "conjugation_info": "Ser verde = green by nature. Estar verde = unripe/not ready."
   },
   "q_gram_a1_07_010": {
-    "question": "The book is on the table.",
+    "question": "Le livre est sur la table.",
     "correct": "El libro está en la mesa.",
     "wrong": [
       "El libro es en la mesa.",
       "El libro está la mesa.",
       "El libro es la mesa."
     ],
-    "explanation": "Estar est utilisé pour Le/La location de objects.\n- El libro está en la mesa. = Le/La book est sur Le/La table.\nRemember: location de things et personnes toujours uses estar."
+    "explanation": "On utilise estar pour la localisation des objets.\n- El libro está en la mesa. = Le livre est sur la table.\nÀ retenir : la localisation des choses et des personnes se dit toujours avec estar.",
+    "hint": null
   },
   "q_gram_a1_08_001": {
     "question": "La chica es ___. (tall, forme féminine)",
@@ -835,14 +838,15 @@
     "hint": "En espagnol, adjectifs habituellement come après le nom"
   },
   "q_gram_a1_08_009": {
-    "question": "The students are intelligent. (mixed group)",
+    "question": "Les étudiants sont intelligents. (groupe mixte)",
     "correct": "Los estudiantes son inteligentes.",
     "wrong": [
       "Las estudiantes son inteligentes.",
       "Los estudiantes son inteligente.",
       "Los estudiantes es inteligentes."
     ],
-    "explanation": "Pour mixed-genre groups, use Le/La masculin forme plurielle.\n- los estudiantes = Le/La students (mixed ou tous-male group)\n- 'inteligentes' ne pas change pour genre, seulement nombre.\nMasculin pluriel est Le/La default pour mixed groups."
+    "explanation": "Pour les groupes mixtes, on utilise la forme du masculin pluriel.\n- los estudiantes = les étudiants (groupe mixte ou uniquement masculin)\n- « inteligentes » ne change pas selon le genre, seulement selon le nombre.\nLe masculin pluriel est la forme par défaut pour les groupes mixtes.",
+    "hint": null
   },
   "q_gram_a1_08_010": {
     "question": "Es un ___ día. (mauvais — shortened form avant masc. sg. nom)",
@@ -942,15 +946,16 @@
     "explanation": "Pour -ar verbes, Le/La forme ella se termine par -a.\n- estudiar → estudi + a = estudia\n- Tous -ar verbes follow Le/La same pattern: -o, -as, -a, -amos, -áis, -an."
   },
   "q_gram_a1_09_009": {
-    "question": "Vosotros ___ muy bien. (conjugate cantar)",
+    "question": "Vosotros ___ muy bien. (conjuguer cantar)",
     "correct": "cantáis",
     "wrong": [
       "cantamos",
       "cantan",
       "cantas"
     ],
-    "explanation": "Pour -ar verbes, Le/La forme vosotros se termine par -áis.\n- cantar → cant + áis = cantáis\nCe form est utilisé mainly dans Spain.",
-    "conjugation_info": "cantar - present: canto, cantas, canta, cantamos, cantáis, cantan"
+    "explanation": "Pour les verbes en -ar, la forme de vosotros se termine par -áis.\n- cantar → cant + áis = cantáis\nCette forme est surtout utilisée en Espagne.",
+    "conjugation_info": "cantar - present: canto, cantas, canta, cantamos, cantáis, cantan",
+    "hint": null
   },
   "q_gram_a1_09_010": {
     "question": "We speak Spanish and English.",
@@ -1102,15 +1107,16 @@
     "explanation": "'Hay' exprime existence (Il y a/sont) et est utilisé avec indefinite articles.\n'Está/Están' exprime Le/La location de specific, already-known things.\n- Hay un libro. (A book exists.) / El libro está aquí. (Le/La book est ici.)"
   },
   "q_gram_a1_11_004": {
-    "question": "___ muchos estudiantes en la clase. (choose Le/La correct form sens 'Il y a')",
+    "question": "___ muchos estudiantes en la clase. (choisir la forme correcte signifiant « il y a »)",
     "correct": "Hay",
     "wrong": [
       "Están",
       "Son",
       "Es"
     ],
-    "explanation": "'Hay' est invariable — Le/La same form pour singulier Et pluriel.\n- Hay un libro. (Il y a a book.)\n- Hay muchos libros. (Il y a beaucoup books.)\nJamais say *hayen ou *han.",
-    "conjugation_info": "Hay (invariable): Hay un gato. Hay tres gatos. Hay mucha gente."
+    "explanation": "« Hay » est invariable : même forme au singulier ET au pluriel.\n- Hay un libro. (Il y a un livre.)\n- Hay muchos libros. (Il y a beaucoup de livres.)\nNe dites jamais *hayen ni *han.",
+    "conjugation_info": "Hay (invariable): Hay un gato. Hay tres gatos. Hay mucha gente.",
+    "hint": null
   },
   "q_gram_a1_11_005": {
     "question": "Las llaves ___ en la mesa.",
@@ -1167,14 +1173,15 @@
     "conjugation_info": "Hay in negative: No hay nada (nothing), No hay nadie (nobody), No hay ningún... (not any)"
   },
   "q_gram_a1_11_010": {
-    "question": "There is a park in my city.",
+    "question": "Il y a un parc dans ma ville.",
     "correct": "Hay un parque en mi ciudad.",
     "wrong": [
       "El parque está en mi ciudad.",
       "Es un parque en mi ciudad.",
       "Están un parque en mi ciudad."
     ],
-    "explanation": "We use 'hay' à introduce something pour Le/La premier temps (existence).\n- Hay un parque = Il y a a park (premier mention, non-specific).\nSi we alors talk à propos de Cela park specifically: El parque está cerca."
+    "explanation": "On utilise « hay » pour introduire quelque chose pour la première fois (existence).\n- Hay un parque = Il y a un parc (première mention, non spécifique).\nSi l'on parle ensuite de ce parc en particulier : El parque está cerca.",
+    "hint": null
   },
   "q_gram_a1_12_001": {
     "question": "___ hermana se llama Ana. (fill dans: my, pour a nom féminin)",
@@ -1477,14 +1484,15 @@
     "hint": "'de' exprime ownership ou belonging"
   },
   "q_gram_a1_14_009": {
-    "question": "I am at the bank.",
+    "question": "Je suis à la banque.",
     "correct": "Estoy en el banco.",
     "wrong": [
       "Estoy a el banco.",
       "Estoy de el banco.",
       "Soy en el banco."
     ],
-    "explanation": "'en' est utilisé pour being à/dans a location (avec estar).\n- Estoy en el banco. = I am à Le/La bank.\nLocation uses estar + en, not ser."
+    "explanation": "« en » s'emploie pour indiquer où l'on se trouve (avec estar).\n- Estoy en el banco. = Je suis à la banque.\nPour la localisation, on utilise estar + en, pas ser.",
+    "hint": null
   },
   "q_gram_a1_14_010": {
     "question": "Vengo ___ trabajo. (I viennent de work. — de + el)",
@@ -1530,15 +1538,16 @@
     "explanation": "'¿Por qué?' = Pourquoi? (two mots, avec accent sur qué)\n- ¿Por qué estudias español? = Pourquoi do vous study Espagnol?\nNote: 'porque' (one mot, no accent) = parce que."
   },
   "q_gram_a1_15_004": {
-    "question": "¿___ años tienes? (How old are you?) (use Le/La correct question mot)",
+    "question": "¿___ años tienes? (Quel âge as-tu ?) (utiliser le bon mot interrogatif)",
     "correct": "Cuántos",
     "wrong": [
       "Cuántas",
       "Cuánto",
       "Qué"
     ],
-    "explanation": "'Cuántos' s'accorde avec Le/La masculin pluriel nom 'años'.\n- ¿Cuántos años tienes? = Comment beaucoup years do vous avoir? (= Comment vieux sont vous?)\nCuánto changes pour genre et nombre: cuánto/cuánta/cuántos/cuántas.",
-    "conjugation_info": "cuánto (m.sg.), cuánta (f.sg.), cuántos (m.pl.), cuántas (f.pl.)"
+    "explanation": "« Cuántos » s'accorde avec le nom masculin pluriel « años ».\n- ¿Cuántos años tienes? = Combien d'années as-tu ? (= Quel âge as-tu ?)\nCuánto varie en genre et en nombre : cuánto/cuánta/cuántos/cuántas.",
+    "conjugation_info": "cuánto (m.sg.), cuánta (f.sg.), cuántos (m.pl.), cuántas (f.pl.)",
+    "hint": null
   },
   "q_gram_a1_15_005": {
     "question": "¿___ es tu nombre?",
@@ -1595,14 +1604,15 @@
     "conjugation_info": "¿Cuánto cuesta? (price), ¿Cuántos libros? (countable m.), ¿Cuántas personas? (countable f.)"
   },
   "q_gram_a1_15_010": {
-    "question": "Where is the bathroom?",
+    "question": "Où sont les toilettes ?",
     "correct": "¿Dónde está el baño?",
     "wrong": [
       "¿Dónde es el baño?",
       "¿Cuál está el baño?",
       "¿Cómo está el baño?"
     ],
-    "explanation": "'Dónde' + estar est utilisé pour ask à propos de location.\n- ¿Dónde está el baño? = Où est Le/La bathroom?\nLocation de specific things toujours uses estar, not ser."
+    "explanation": "« Dónde » + estar sert à demander où se trouve quelque chose.\n- ¿Dónde está el baño? = Où sont les toilettes ?\nLa localisation de choses précises se dit toujours avec estar, et non ser.",
+    "hint": null
   },
   "q_gram_a1_16_001": {
     "question": "Yo ___ español. (I do not speak Spanish.) (use Le/La correct negation)",
@@ -1915,15 +1925,16 @@
     "explanation": "Age uses tener + nombre + años (not ser ou estar).\n- Tiene treinta años. = She est 30 years vieux.\n- ¿Cuántos años tienes? = Comment vieux sont vous?"
   },
   "q_gram_a1_18_010": {
-    "question": "Ellos ___ prisa. (They are in a hurry.) (conjugate tener)",
+    "question": "Ellos ___ prisa. (Ils sont pressés.) (conjuguer tener)",
     "correct": "tienen",
     "wrong": [
       "tiene",
       "tenemos",
       "tenéis"
     ],
-    "explanation": "'tener prisa' = à être dans a hurry (lit. à avoir hurry).\n- Ellos tienen prisa. = Ils sont dans a hurry.\nLe/La forme ellos de tener est 'tienen' (irrégulier radical: tien-).",
-    "conjugation_info": "tener - present: tengo, tienes, tiene, tenemos, tenéis, tienen"
+    "explanation": "« tener prisa » = être pressé (littéralement : avoir de la hâte).\n- Ellos tienen prisa. = Ils sont pressés.\nLa forme ellos de tener est « tienen » (radical irrégulier : tien-).",
+    "conjugation_info": "tener - present: tengo, tienes, tiene, tenemos, tenéis, tienen",
+    "hint": null
   },
   "q_gram_a1_19_001": {
     "question": "Yo ___ a la escuela.",
@@ -2023,14 +2034,15 @@
     "conjugation_info": "ir - present: voy, vas, va, vamos, vais, van"
   },
   "q_gram_a1_19_010": {
-    "question": "I go to the supermarket.",
+    "question": "Je vais au supermarché.",
     "correct": "Voy al supermercado.",
     "wrong": [
       "Voy a el supermercado.",
       "Voy en el supermercado.",
       "Voy el supermercado."
     ],
-    "explanation": "ir + a + el contracts à ir + al.\n- Voy al supermercado. (a + el = al)\nLe/La contraction 'al' est mandatory; 'a el' est incorrect."
+    "explanation": "ir + a + el se contracte en ir + al.\n- Voy al supermercado. (a + el = al)\nLa contraction « al » est obligatoire ; « a el » est incorrect.",
+    "hint": null
   },
   "q_gram_a1_20_001": {
     "question": "¿Cuánto cuesta? — Cuesta ___ euros. (15)",

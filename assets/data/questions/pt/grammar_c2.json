@@ -885,15 +885,16 @@
     "explanation": "Dequeísmo é/está o insertion de 'de' antes de 'que' onde ele does not belong. Test: 'Pienso ALGO' (not *'pienso DE algo'), portanto 'pienso que' é/está correto e 'pienso de que' é/está dequeísmo. Isto error é/está stigmatized em formal Espanhol e é um hallmark diagnostic em C2 level."
   },
   "q_gram_c2_09_004": {
-    "question": "Los estudiantes, ___ por la noticia, salieron del aula en silencio. (conmover, particípio passado agreeing com subject — correto concordance)",
+    "question": "Los estudiantes, ___ por la noticia, salieron del aula en silencio. (conmover, particípio passado concordando com o sujeito — concordância correta)",
     "correct": "conmovidos",
     "wrong": [
       "conmovido",
       "conmocionados",
       "conmoviendo"
     ],
-    "explanation": "O/a particípio passado em an absolute participial clause deve agree em gênero e number com o substantivo ele modifies. 'Los estudiantes' é/está masculino plural, então 'conmovidos' é/está required. Using 'conmovido' (masculino singular) seria ser um concordance error (error de concordancia). Note: 'conmoviendo' (gerúndio) seria create um different construction entirely.",
-    "conjugation_info": "conmover (past participle): conmovido/a/os/as — agrees with o substantivo em absolute constructions"
+    "explanation": "O particípio passado em uma oração de particípio absoluto deve concordar em gênero e número com o substantivo que modifica. 'Los estudiantes' é masculino plural, portanto 'conmovidos' é necessário. Usar 'conmovido' (masculino singular) seria um erro de concordância (error de concordancia). Observação: 'conmoviendo' (gerúndio) criaria uma construção totalmente diferente.",
+    "conjugation_info": "conmover (past participle): conmovido/a/os/as — agrees with o substantivo em absolute constructions",
+    "hint": null
   },
   "q_gram_c2_09_005": {
     "question": "Han habido muchos problemas este año. → Identify and correct the error.",

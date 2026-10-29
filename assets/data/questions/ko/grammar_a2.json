@@ -22,14 +22,15 @@
     "hint": "querer도 부츠 패턴을 따릅니다: nosotros/vosotros 제외 e→ie"
   },
   "q_gram_a2_01_003": {
-    "question": "스페인어 어간 변화 동사에서 '부츠 패턴'은 무엇을 의미할까요?",
+    "question": "스페인어 어간 변화 동사에서 'boot pattern'은 무엇을 뜻하나요?",
     "correct": "어간 변화가 nosotros와 vosotros를 제외한 모든 형태에 적용된다",
     "wrong": [
-      "어간 변화가 yo 형태에만 적용된다",
-      "어간 변화가 6개 활용형 모두에 적용된다",
+      "어간 변화가 yo 형에만 적용된다",
+      "어간 변화가 여섯 가지 활용형 모두에 적용된다",
       "어간 변화가 과거 시제에서만 일어난다"
     ],
-    "explanation": "'부츠 패턴'(또는 '신발 패턴')은 어간 변화가 yo, tú, él/ella, ellos/ellas 형태에서 일어나지만, nosotros나 vosotros에서는 일어나지 않는 것을 의미합니다."
+    "explanation": "'boot pattern'(또는 'shoe pattern')은 어간 변화가 yo, tú, él/ella, ellos/ellas 형에서는 일어나지만 nosotros와 vosotros 형에서는 일어나지 않는다는 뜻입니다.",
+    "hint": null
   },
   "q_gram_a2_01_004": {
     "question": "Nosotros ___ la lección. (entender, e→ie, 1인칭 복수)",
@@ -2130,14 +2131,15 @@
     "explanation": "'se'는 'le' (al profesor)를 대체, 'la' = 그것 (여성, la tarea). entregué = 제출했다 (점과거)."
   },
   "q_gram_a2_20_010": {
-    "question": "Quiero decír___ ___ a ellos. (combine: se + lo, attached to 원형 — 'the truth' to 'them')",
+    "question": "Quiero decír___ ___ a ellos. (결합하세요: se + lo, 동사원형에 붙임 — '진실'을 '그들에게')",
     "correct": "selo",
     "wrong": [
       "lelo",
       "losé",
       "sela"
     ],
-    "explanation": "le/les → lo/la 앞에서 se로 변환. 부정사에 붙이기: decírselo. IOP (se) + DOP (lo).",
-    "conjugation_info": "부정사에 결합 대명사 붙이기: decírselo (그에게 그것을 말하다), comprármela (나에게 그것을 사다), escribírtelos (너에게 그것들을 쓰다)"
+    "explanation": "Le/les → lo 앞에서는 se로 바뀝니다. 동사원형에 붙이면: decírselo. 간접목적어 대명사(se) + 직접목적어 대명사(lo).",
+    "conjugation_info": "부정사에 결합 대명사 붙이기: decírselo (그에게 그것을 말하다), comprármela (나에게 그것을 사다), escribírtelos (너에게 그것들을 쓰다)",
+    "hint": null
   }
 }

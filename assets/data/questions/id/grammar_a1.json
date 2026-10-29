@@ -97,14 +97,15 @@
     "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)"
   },
   "q_gram_a1_01_010": {
-    "question": "The hand is cold.",
+    "question": "Tangan itu dingin.",
     "correct": "La mano está fría.",
     "wrong": [
       "El mano está frío.",
       "La mano es fría.",
       "Las manos están frías."
     ],
-    "explanation": "'mano' adalah kata feminin meskipun berakhiran -o (a key pengecualian).\nKita menggunakan 'está' karena merasa dingin adalah keadaan sementara.\n- la mano fría (kesesuaian kata sifat feminin)"
+    "explanation": "'mano' berjenis feminin meskipun berakhiran -o (pengecualian penting).\nKita memakai 'está' karena rasa dingin adalah keadaan sementara.\n- la mano fría (kesesuaian adjektiva feminin)",
+    "hint": null
   },
   "q_gram_a1_02_001": {
     "question": "Voy ___ parque. (isi: a + el)",
@@ -172,25 +173,26 @@
     "hint": "flor adalah feminin; flores adalah its jamak form"
   },
   "q_gram_a1_02_007": {
-    "question": "I work on Mondays.",
+    "question": "Saya bekerja pada hari Senin.",
     "correct": "Trabajo los lunes.",
     "wrong": [
       "Trabajo el lunes.",
       "Trabajo en lunes.",
       "Trabajo lunes."
     ],
-    "explanation": "untuk habitual actions on a day dari ini/itu week, use 'los' + day.\n- los lunes = on Mondays (habitual)\n- el lunes = on Monday (specific, ini Monday)"
+    "explanation": "Untuk kegiatan rutin pada hari tertentu dalam seminggu, gunakan 'los' + nama hari.\n- los lunes = setiap hari Senin (rutin)\n- el lunes = pada hari Senin (tertentu, Senin ini)",
+    "hint": null
   },
   "q_gram_a1_02_008": {
-    "question": "Trabajo ___ lunes. (I work on Mondays.)",
+    "question": "Trabajo ___ lunes. (Saya bekerja pada hari Senin.)",
     "correct": "los",
     "wrong": [
       "el",
       "la",
       "las"
     ],
-    "explanation": "Days dari ini/itu week dalam bahasa Spanyol use artikel pastis.\n- 'los lunes' = on Mondays (recurring)\n- 'el lunes' = on Monday (one specific Monday)",
-    "hint": "Use ini/itu jamak artikel untuk recurring days"
+    "explanation": "Nama-nama hari dalam bahasa Spanyol memakai artikel tentu.\n- 'los lunes' = setiap hari Senin (berulang)\n- 'el lunes' = pada hari Senin (satu hari Senin tertentu)",
+    "hint": "Gunakan artikel jamak untuk hari yang berulang"
   },
   "q_gram_a1_02_009": {
     "question": "Cats are independent.",
@@ -311,14 +313,15 @@
     "conjugation_info": "Indefinite (first mention/non-specific): un/una/unos/unas. Definite (known/specific): el/la/los/las."
   },
   "q_gram_a1_03_010": {
-    "question": "There are some books on the table.",
+    "question": "Ada beberapa buku di atas meja.",
     "correct": "Hay unos libros en la mesa.",
     "wrong": [
       "Hay los libros en la mesa.",
       "Hay un libros en la mesa.",
       "Están unos libros en la mesa."
     ],
-    "explanation": "'some books' = 'unos libros' (maskulin jamak artikel tak pasti).\nKita menggunakan 'hay' untuk existence dan ini/itu artikel tak pasti untuk non-specific items.\n- Hay unos libros. (existence, non-specific)"
+    "explanation": "'beberapa buku' = 'unos libros' (artikel tak tentu maskulin jamak).\nKita memakai 'hay' untuk menyatakan keberadaan dan artikel tak tentu untuk benda yang tidak spesifik.\n- Hay unos libros. (keberadaan, tidak spesifik)",
+    "hint": null
   },
   "q_gram_a1_04_001": {
     "question": "___ hablamos español. (fill di subjek kata ganti)",
@@ -739,14 +742,15 @@
     "conjugation_info": "Ser verde = green by nature. Estar verde = unripe/not ready."
   },
   "q_gram_a1_07_010": {
-    "question": "The book is on the table.",
+    "question": "Buku itu ada di atas meja.",
     "correct": "El libro está en la mesa.",
     "wrong": [
       "El libro es en la mesa.",
       "El libro está la mesa.",
       "El libro es la mesa."
     ],
-    "explanation": "Estar digunakan untuk ini/itu location dari objects.\n- El libro está en la mesa. = ini/itu book adalah on ini/itu table.\nRemember: location dari things dan orang selalu uses estar."
+    "explanation": "Estar dipakai untuk menyatakan lokasi benda.\n- El libro está en la mesa. = Buku itu ada di atas meja.\nIngat: lokasi benda dan orang selalu memakai estar.",
+    "hint": null
   },
   "q_gram_a1_08_001": {
     "question": "La chica es ___. (tall, feminin form)",
@@ -835,14 +839,15 @@
     "hint": "dalam bahasa Spanyol, adjectives biasanya come setelah kata benda"
   },
   "q_gram_a1_08_009": {
-    "question": "The students are intelligent. (mixed group)",
+    "question": "Para siswa itu pintar. (kelompok campuran)",
     "correct": "Los estudiantes son inteligentes.",
     "wrong": [
       "Las estudiantes son inteligentes.",
       "Los estudiantes son inteligente.",
       "Los estudiantes es inteligentes."
     ],
-    "explanation": "untuk mixed-gender groups, use ini/itu maskulin jamak form.\n- los estudiantes = ini/itu students (mixed atau semua-male group)\n- 'inteligentes' tidak berubah untuk jenis kelamin, hanya number.\nmaskulin jamak adalah default untuk mixed groups."
+    "explanation": "Untuk kelompok campuran laki-laki dan perempuan, gunakan bentuk maskulin jamak.\n- los estudiantes = para siswa (kelompok campuran atau semuanya laki-laki)\n- 'inteligentes' tidak berubah menurut gender, hanya menurut jumlah.\nMaskulin jamak adalah bentuk standar untuk kelompok campuran.",
+    "hint": null
   },
   "q_gram_a1_08_010": {
     "question": "Es un ___ día. (bad — shortened form sebelum masc. sg. kata benda)",
@@ -942,15 +947,16 @@
     "explanation": "untuk -ar verbs, ini/itu ella form berakhiran -a.\n- estudiar → estudi + a = estudia\n- semua -ar verbs follow ini/itu same pattern: -o, -as, -a, -amos, -áis, -an."
   },
   "q_gram_a1_09_009": {
-    "question": "Vosotros ___ muy bien. (conjugate cantar)",
+    "question": "Vosotros ___ muy bien. (konjugasikan cantar)",
     "correct": "cantáis",
     "wrong": [
       "cantamos",
       "cantan",
       "cantas"
     ],
-    "explanation": "untuk -ar verbs, ini/itu vosotros form berakhiran -áis.\n- cantar → cant + áis = cantáis\nini form digunakan mainly di Spain.",
-    "conjugation_info": "cantar - present: canto, cantas, canta, cantamos, cantáis, cantan"
+    "explanation": "Untuk kata kerja berakhiran -ar, bentuk vosotros berakhiran -áis.\n- cantar → cant + áis = cantáis\nBentuk ini terutama dipakai di Spanyol.",
+    "conjugation_info": "cantar - present: canto, cantas, canta, cantamos, cantáis, cantan",
+    "hint": null
   },
   "q_gram_a1_09_010": {
     "question": "We speak Spanish and English.",
@@ -1167,14 +1173,15 @@
     "conjugation_info": "Hay in negative: No hay nada (nothing), No hay nadie (nobody), No hay ningún... (not any)"
   },
   "q_gram_a1_11_010": {
-    "question": "There is a park in my city.",
+    "question": "Ada sebuah taman di kota saya.",
     "correct": "Hay un parque en mi ciudad.",
     "wrong": [
       "El parque está en mi ciudad.",
       "Es un parque en mi ciudad.",
       "Están un parque en mi ciudad."
     ],
-    "explanation": "Kita menggunakan 'hay' untuk memperkenalkan something untuk ini/itu first waktu (existence).\n- Hay un parque = di sana adalah park (first mention, non-specific).\nIf we then talk about itu park specifically: El parque está cerca."
+    "explanation": "Kita memakai 'hay' untuk memperkenalkan sesuatu untuk pertama kalinya (keberadaan).\n- Hay un parque = Ada sebuah taman (disebut pertama kali, tidak spesifik).\nJika kemudian kita membicarakan taman itu secara spesifik: El parque está cerca.",
+    "hint": null
   },
   "q_gram_a1_12_001": {
     "question": "___ hermana se llama Ana. (isi: my, untuk a kata benda feminin)",
@@ -1477,14 +1484,15 @@
     "hint": "'de' expresses ownership atau belonging"
   },
   "q_gram_a1_14_009": {
-    "question": "I am at the bank.",
+    "question": "Saya ada di bank.",
     "correct": "Estoy en el banco.",
     "wrong": [
       "Estoy a el banco.",
       "Estoy de el banco.",
       "Soy en el banco."
     ],
-    "explanation": "'en' digunakan untuk being at/di a location (dengan estar).\n- Estoy en el banco. = I am at ini/itu bank.\nLocation uses estar + en, not ser."
+    "explanation": "'en' dipakai untuk menyatakan berada di suatu tempat (dengan estar).\n- Estoy en el banco. = Saya ada di bank.\nLokasi memakai estar + en, bukan ser.",
+    "hint": null
   },
   "q_gram_a1_14_010": {
     "question": "Vengo ___ trabajo. (I come dari work. — de + el)",
@@ -1595,14 +1603,15 @@
     "conjugation_info": "¿Cuánto cuesta? (price), ¿Cuántos libros? (countable m.), ¿Cuántas personas? (countable f.)"
   },
   "q_gram_a1_15_010": {
-    "question": "Where is the bathroom?",
+    "question": "Di mana kamar mandinya?",
     "correct": "¿Dónde está el baño?",
     "wrong": [
       "¿Dónde es el baño?",
       "¿Cuál está el baño?",
       "¿Cómo está el baño?"
     ],
-    "explanation": "'Dónde' + estar digunakan ke ask about location.\n- ¿Dónde está el baño? = di mana adalah bathroom?\nLocation dari specific things selalu uses estar, not ser."
+    "explanation": "'Dónde' + estar dipakai untuk menanyakan lokasi.\n- ¿Dónde está el baño? = Di mana kamar mandinya?\nLokasi benda tertentu selalu memakai estar, bukan ser.",
+    "hint": null
   },
   "q_gram_a1_16_001": {
     "question": "Yo ___ español. (I do not speak Spanish.) (use ini/itu benar negation)",
@@ -1915,15 +1924,16 @@
     "explanation": "Age uses tener + number + años (not ser atau estar).\n- Tiene treinta años. = She adalah 30 years old.\n- ¿Cuántos años tienes? = bagaimana old adalah kamu?"
   },
   "q_gram_a1_18_010": {
-    "question": "Ellos ___ prisa. (They are in a hurry.) (conjugate tener)",
+    "question": "Ellos ___ prisa. (Mereka sedang terburu-buru.) (konjugasikan tener)",
     "correct": "tienen",
     "wrong": [
       "tiene",
       "tenemos",
       "tenéis"
     ],
-    "explanation": "'tener prisa' = ke menjadi di a hurry (lit. ke memiliki hurry).\n- Ellos tienen prisa. = mereka adalah di a hurry.\nini/itu ellos bentuk dari tener adalah 'tienen' (tak beraturan akar kata: tien-).",
-    "conjugation_info": "tener - present: tengo, tienes, tiene, tenemos, tenéis, tienen"
+    "explanation": "'tener prisa' = terburu-buru (harfiah: punya ketergesaan).\n- Ellos tienen prisa. = Mereka sedang terburu-buru.\nBentuk ellos dari tener adalah 'tienen' (batang tak beraturan: tien-).",
+    "conjugation_info": "tener - present: tengo, tienes, tiene, tenemos, tenéis, tienen",
+    "hint": null
   },
   "q_gram_a1_19_001": {
     "question": "Yo ___ a la escuela.",
@@ -2023,14 +2033,15 @@
     "conjugation_info": "ir - present: voy, vas, va, vamos, vais, van"
   },
   "q_gram_a1_19_010": {
-    "question": "I go to the supermarket.",
+    "question": "Saya pergi ke supermarket.",
     "correct": "Voy al supermercado.",
     "wrong": [
       "Voy a el supermercado.",
       "Voy en el supermercado.",
       "Voy el supermercado."
     ],
-    "explanation": "ir + a + el contracts ke ir + al.\n- Voy al supermercado. (a + el = al)\nini/itu contraction 'al' adalah mandatory; 'a el' adalah inbenar."
+    "explanation": "ir + a + el berkontraksi menjadi ir + al.\n- Voy al supermercado. (a + el = al)\nKontraksi 'al' wajib dipakai; 'a el' salah.",
+    "hint": null
   },
   "q_gram_a1_20_001": {
     "question": "¿Cuánto cuesta? — Cuesta ___ euros. (15)",

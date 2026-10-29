@@ -374,14 +374,15 @@
     "explanation": "เมื่อไหร่ reflexive คำกริยา เป็น ใน infinitive สำหรับm after another คำกริยา, สรรพนาม matches subject. 'Los niños' = se, attached ไปยัง infinitive: irse."
   },
   "q_gram_a2_04_007": {
-    "question": "I go ไปยัง bed at eleven o'clock at night.",
+    "question": "ฉันเข้านอนตอนห้าทุ่ม",
     "correct": "Me acuesto a las once de la noche.",
     "wrong": [
       "Se acuesto a las once de la noche.",
       "Me acuesto a las once de la mañana.",
       "Me acosto a las once de la noche."
     ],
-    "explanation": "Acostarse (o→ue) กับ yo: me acuesto. reflexive สรรพนาม สำหรับ yo เป็น 'me'."
+    "explanation": "Acostarse (o→ue) กับ yo: me acuesto สรรพนามสะท้อนของ yo คือ 'me'",
+    "hint": null
   },
   "q_gram_a2_04_008": {
     "question": "¿Tú ___ antes o después de desayunar? (ducharse)",
@@ -1358,14 +1359,15 @@
     "conjugation_info": "Comparatives: más + adj + que (more...than), menos + adj + que (less...than), tan + adj + como (as...as)"
   },
   "q_gram_a2_14_002": {
-    "question": "Este libro es ___ interesante ___ el otro. (comparative: less...than)",
+    "question": "Este libro es ___ interesante ___ el otro. (การเปรียบเทียบ: น้อยกว่า...)",
     "correct": "menos, que",
     "wrong": [
       "más, que",
       "tan, como",
       "menos, como"
     ],
-    "explanation": "'Less...than' = 'menos...que': menos interesante que."
+    "explanation": "\"น้อยกว่า...\" ใช้ 'menos...que': menos interesante que.",
+    "hint": null
   },
   "q_gram_a2_14_003": {
     "question": "Mi hermano es ___ alto ___ yo. (comparative: as tall as)",
@@ -1803,15 +1805,16 @@
     "explanation": "ในภาษาสเปน, double negatives เป็น standard: No สิบgo nada (I don't มี nothing = I มี nothing). เมื่อไหร่ negative คำ comes beสำหรับe คำกริยา, 'no' เป็น dropped."
   },
   "q_gram_a2_18_005": {
-    "question": "No me gusta ___ el fútbol ___ el baloncesto. (neither...nor)",
+    "question": "No me gusta ___ el fútbol ___ el baloncesto. (ไม่...และก็ไม่...)",
     "correct": "ni, ni",
     "wrong": [
       "no, no",
       "nunca, nunca",
       "nada, nada"
     ],
-    "explanation": "'Ni...ni' = 'neither...nor'. No me gusta ni el fútbol ni el baloncesto.",
-    "conjugation_info": "ni...ni = neither...nor. Example: No quiero ni café ni té. / Ni café ni té quiero."
+    "explanation": "'Ni...ni' แปลว่า \"ไม่...และก็ไม่...\" No me gusta ni el fútbol ni el baloncesto.",
+    "conjugation_info": "ni...ni = neither...nor. Example: No quiero ni café ni té. / Ni café ni té quiero.",
+    "hint": null
   },
   "q_gram_a2_18_006": {
     "question": "Yo no quiero ir al cine. — Yo ___ quiero ir. (negative: neither/me neither)",

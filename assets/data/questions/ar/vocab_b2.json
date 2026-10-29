@@ -601,15 +601,16 @@
     "explanation": "'La cadena de bloques' literally يعني 'chain من blocks' و هو الـ الإسبانية term لـ 'blockchain', a decentralized digital ledger technology."
   },
   "q_vocab_b2_06_010": {
-    "question": "A startup هو choosing between storing data on local servers أو using cloud services. Which argument favors cloud computing?",
+    "question": "شركة ناشئة تختار بين تخزين البيانات على خوادم محلية أو استخدام الخدمات السحابية. أيّ حجة تؤيد الحوسبة السحابية؟",
     "correct": "La computación en la nube ofrece escalabilidad y reduce costos de infraestructura.",
     "wrong": [
       "Los servidores locales son siempre más baratos.",
       "La nube no permite almacenar datos grandes.",
       "La computación en la nube no requiere conexión a internet."
     ],
-    "explanation": "'Escalabilidad' يعني 'scalability' و 'infraestructura' يعني 'infrastructure'. Cloud computing allows businesses إلى scale resources up أو down as needed بدون investing في physical hardware.",
-    "context": "Tech startup evaluating IT infrastructure options"
+    "explanation": "'Escalabilidad' تعني 'قابلية التوسّع' و'infraestructura' تعني 'البنية التحتية'. تتيح الحوسبة السحابية للشركات رفع الموارد أو خفضها حسب الحاجة دون الاستثمار في أجهزة مادية.",
+    "context": "Tech startup evaluating IT infrastructure options",
+    "hint": null
   },
   "q_vocab_b2_07_001": {
     "question": "ما معنى 'la desigualdad'؟",
@@ -876,14 +877,15 @@
     "explanation": "'Peer review' translates إلى 'la revisión por pares'. 'Pares' يعني 'peers' (equals). Don't confuse مع 'padres' (parents), 'partes' (parts), أو 'parejas' (couples)."
   },
   "q_vocab_b2_09_007": {
-    "question": "Which الإسبانية term يعني 'abstract' as في الـ summary at الـ beginning من an academic paper?",
+    "question": "أيّ مصطلح إسباني يعني 'abstract' بمعنى الملخص في بداية البحث الأكاديمي؟",
     "correct": "el resumen / el abstract",
     "wrong": [
       "lo abstracto",
       "la abstracción",
       "el extracto"
     ],
-    "explanation": "'El resumen' (أو borrowed 'el abstract') هو الـ brief summary at الـ beginning من an academic paper. 'Lo abstracto' يعني 'الـ abstract' as في abstract art/concepts."
+    "explanation": "'El resumen' (أو المقترَضة 'el abstract') هو الملخص الموجز في بداية البحث الأكاديمي. أما 'Lo abstracto' فتعني 'المجرّد' كما في الفن أو المفاهيم المجردة.",
+    "hint": null
   },
   "q_vocab_b2_09_008": {
     "question": "las conclusiones del estudio",
@@ -1009,15 +1011,16 @@
     "explanation": "'El discurso persuasivo' يعني 'persuasive speech', a speech designed إلى convince الـ audience إلى adopt a particular viewpoint أو take a specific action."
   },
   "q_vocab_b2_10_010": {
-    "question": "في a debate about environmental policy, لك opponent claims ذلك بما أن temperatures dropped last winter, global warming هو false. كيف سوف أنت identify هذا error في reasoning?",
+    "question": "في نقاش حول السياسة البيئية، يدّعي خصمك أنه بما أن درجات الحرارة انخفضت الشتاء الماضي، فإن الاحتباس الحراري زائف. كيف ستحدّد الخطأ في هذا الاستدلال؟",
     "correct": "Es una falacia: usar un caso aislado para negar una tendencia general.",
     "wrong": [
       "Es un argumento válido basado en evidencia.",
       "Es una opinión personal sin importancia.",
       "Es un dato científico irrefutable."
     ],
-    "explanation": "هذا a 'generalización apresurada' (hasty generalization) أو cherry-picking fallacy -- using a single data point إلى deny a well-documented trend. Identifying fallacies هو key إلى effective debate.",
-    "context": "Academic debate on climate change policy"
+    "explanation": "هذه 'generalización apresurada' (تعميم متسرّع) أو مغالطة انتقاء الأدلة (cherry-picking) — أي استخدام نقطة بيانات واحدة لنفي اتجاه موثَّق جيدًا. إن تحديد المغالطات أمر أساسي لنقاش فعّال.",
+    "context": "Academic debate on climate change policy",
+    "hint": null
   },
   "q_vocab_b2_11_001": {
     "question": "ما معنى 'la nostalgia'؟",
@@ -1234,14 +1237,15 @@
     "explanation": "'La inversión' يعني 'investment', الـ act من putting money into financial assets, businesses, أو projects مع الـ expectation من generating profit."
   },
   "q_vocab_b2_13_002": {
-    "question": "ما معنى 'la inflación'؟",
-    "correct": "inflation",
+    "question": "ماذا تعني 'la inflación'؟",
+    "correct": "التضخم",
     "wrong": [
-      "the influence",
-      "the information",
-      "the inflammation"
+      "التأثير",
+      "المعلومات",
+      "الالتهاب"
     ],
-    "explanation": "'La inflación' يعني 'inflation', الـ rate at which الـ general level من prices لـ goods و services rises, reducing purchasing power."
+    "explanation": "'La inflación' تعني 'التضخم'، وهو معدل ارتفاع المستوى العام لأسعار السلع والخدمات، مما يقلّل القوة الشرائية.",
+    "hint": null
   },
   "q_vocab_b2_13_003": {
     "question": "El banco central decidió subir los tipos de ___.",
@@ -1397,14 +1401,15 @@
     "context": "Marketing team quarterly perلـmance review"
   },
   "q_vocab_b2_14_008": {
-    "question": "ما معنى 'la difusión mediática'؟",
-    "correct": "media coverage / media dissemination",
+    "question": "ماذا تعني 'la difusión mediática'؟",
+    "correct": "التغطية الإعلامية / الانتشار الإعلامي",
     "wrong": [
-      "media diffusion in physics",
-      "media difficulty",
-      "media defamation"
+      "الانتشار الإعلامي بالمعنى الفيزيائي (الانتشار/الانتشار الجزيئي)",
+      "الصعوبة الإعلامية",
+      "التشهير الإعلامي"
     ],
-    "explanation": "'La difusión mediática' يعني 'media coverage' أو 'media dissemination', الـ extent إلى which inلـmation هو spread through various media channels."
+    "explanation": "'La difusión mediática' تعني 'التغطية الإعلامية' أو 'النشر الإعلامي'، أي مدى انتشار المعلومات عبر مختلف القنوات الإعلامية.",
+    "hint": null
   },
   "q_vocab_b2_14_009": {
     "question": "el consumidor",

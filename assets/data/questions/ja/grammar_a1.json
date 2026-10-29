@@ -97,14 +97,15 @@
     "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)"
   },
   "q_gram_a1_01_010": {
-    "question": "The hand is cold.",
-    "correct": "手が冷たい。",
+    "question": "手が冷たい。",
+    "correct": "La mano está fría.",
     "wrong": [
-      "手が小さい。",
-      "手が大きい。",
-      "手（複数）が冷たい。"
+      "El mano está frío.",
+      "La mano es fría.",
+      "Las manos están frías."
     ],
-    "explanation": "'mano'は-oで終わりますが女性名詞です（重要な例外）。\n一時的に冷たい状態なので'está'を使います。\n- la mano fría（女性形の形容詞一致）"
+    "explanation": "'mano' は -o で終わりますが女性名詞です(重要な例外)。\n冷たいと感じるのは一時的な状態なので 'está' を使います。\n- la mano fría(女性形の形容詞の一致)",
+    "hint": null
   },
   "q_gram_a1_02_001": {
     "question": "Voy ___ parque.（ + elを入れてください）",
@@ -193,14 +194,15 @@
     "hint": "繰り返しの曜日には複数冠詞を使います"
   },
   "q_gram_a1_02_009": {
-    "question": "Cats are independent.",
-    "correct": "猫は独立的だ。",
+    "question": "猫は自立している。",
+    "correct": "Los gatos son independientes.",
     "wrong": [
-      "猫は小さい。",
-      "犬は独立的だ。",
-      "一匹の猫が独立的だ。"
+      "Gatos son independientes.",
+      "Unos gatos son independientes.",
+      "Las gatas son independientes."
     ],
-    "explanation": "スペイン語では一般的な陳述に定冠詞が必要です。\n- Los gatos son independientes.（猫一般について）\n英語は一般的な陳述で'この'を省略しますが、スペイン語では必ず使います。"
+    "explanation": "スペイン語では、一般的なことを述べるときに定冠詞が必要です。\n- Los gatos son independientes.(猫というもの一般)\n英語では一般論で 'the' を省きますが、スペイン語では必要です。",
+    "hint": null
   },
   "q_gram_a1_02_010": {
     "question": "Vamos ___ escuela.（ + laを入れてください）",
@@ -311,14 +313,15 @@
     "conjugation_info": "不定冠詞（初出/不特定）: un/una/unos/unas。定冠詞（既知/特定）: el/la/los/las。"
   },
   "q_gram_a1_03_010": {
-    "question": "There are some books on the table.",
-    "correct": "テーブルの上に本が何冊かある。",
+    "question": "テーブルの上に本が何冊かある。",
+    "correct": "Hay unos libros en la mesa.",
     "wrong": [
-      "テーブルの上にその本がある。",
-      "テーブルの上に本が一冊ある。",
-      "椅子の上に本が何冊かある。"
+      "Hay los libros en la mesa.",
+      "Hay un libros en la mesa.",
+      "Están unos libros en la mesa."
     ],
-    "explanation": "'unos libros' = 「本何冊か」（男性複数不定冠詞）。\n存在を表すとき'hay'を使い、不特定のものには不定冠詞を使います。\n- Hay unos libros.（存在、不特定）"
+    "explanation": "「何冊かの本」= 'unos libros'(男性複数の不定冠詞)。\n存在を表すには 'hay' を使い、特定されないものには不定冠詞を使います。\n- Hay unos libros.(存在、不特定)",
+    "hint": null
   },
   "q_gram_a1_04_001": {
     "question": "___ hablamos español.（主語代名詞を入れてください）",
@@ -525,14 +528,15 @@
     "conjugation_info": "ser - 現在形: soy, eres, es, somos, sois, son"
   },
   "q_gram_a1_05_010": {
-    "question": "It is one o'clock.",
-    "correct": "1時だ。",
+    "question": "1時です。",
+    "correct": "Es la una.",
     "wrong": [
-      "2時だ。",
-      "3時だ。",
-      "一つある。"
+      "Son la una.",
+      "Es las una.",
+      "Son las una."
     ],
-    "explanation": "1時には'Es la una'（単数）を使います。\n他のすべての時間には'Son las + 数字'を使います。\n- Es la una.（1時）vs Son las dos.（2時）"
+    "explanation": "1時は 'Es la una'(単数)を使います。\nそれ以外の時刻は 'Son las + 数字' を使います。\n- Es la una.(1時) vs Son las dos.(2時)",
+    "hint": null
   },
   "q_gram_a1_06_001": {
     "question": "Yo ___ en casa.（estar動詞活用）",
@@ -621,14 +625,15 @@
     "hint": "「開いている」は永久的な特性ですか、変わりうる状態ですか？"
   },
   "q_gram_a1_06_009": {
-    "question": "My brother is sick.",
-    "correct": "弟は病気だ。",
+    "question": "私の兄(弟)は病気です。",
+    "correct": "Mi hermano está enfermo.",
     "wrong": [
-      "弟は疲れている。",
-      "弟は医者だ。",
-      "弟たちは病気だ。"
+      "Mi hermano es enfermo.",
+      "Mi hermano está enfermedad.",
+      "Mis hermanos están enfermos."
     ],
-    "explanation": "病気は一時的な状態なのでestarを使います。\n- estar enfermo = 病気である（一時的）\nser enfermoを使うと永久的な状態を誤って示すことになります。"
+    "explanation": "病気であることは一時的な状態なので estar を使います。\n- estar enfermo = 病気である(一時的)\n'ser enfermo' を使うと、永続的な状態という誤った意味になってしまいます。",
+    "hint": null
   },
   "q_gram_a1_06_010": {
     "question": "¿Dónde ___ tú ahora?（estar動詞活用）",
@@ -739,14 +744,15 @@
     "conjugation_info": "ser verde = 元々緑色。estar verde = 未熟/準備ができていない。"
   },
   "q_gram_a1_07_010": {
-    "question": "The book is on the table.",
-    "correct": "本がテーブルの上にある。",
+    "question": "本はテーブルの上にあります。",
+    "correct": "El libro está en la mesa.",
     "wrong": [
-      "本がテーブルだ。",
-      "本（複数）がテーブルの上にある。",
-      "テーブルが本の上にある。"
+      "El libro es en la mesa.",
+      "El libro está la mesa.",
+      "El libro es la mesa."
     ],
-    "explanation": "estarは物の場所を表すときに使います。\n- El libro está en la mesa. = 本がテーブルの上にある。\n覚えてください: 物や人の場所には常にestarを使います。"
+    "explanation": "物の位置には estar を使います。\n- El libro está en la mesa. = 本はテーブルの上にあります。\n覚えておきましょう:物や人の位置には常に estar を使います。",
+    "hint": null
   },
   "q_gram_a1_08_001": {
     "question": "La chica es ___.（背が高い、女性形）",
@@ -835,14 +841,15 @@
     "hint": "スペイン語では形容詞は通常名詞の後に来ます"
   },
   "q_gram_a1_08_009": {
-    "question": "The students are intelligent.",
-    "correct": "学生たちは賢い。",
+    "question": "学生たちは賢い。(男女混合のグループ)",
+    "correct": "Los estudiantes son inteligentes.",
     "wrong": [
-      "学生は賢い。",
-      "学生たちは怠けている。",
-      "学生たちは疲れている。"
+      "Las estudiantes son inteligentes.",
+      "Los estudiantes son inteligente.",
+      "Los estudiantes es inteligentes."
     ],
-    "explanation": "男女混合グループには男性複数形を使います。\n- los estudiantes = 学生たち（混合または男性のみのグループ）\n- 'inteligentes'は性別によって変わらず数によってのみ変わります。\n混合グループには男性複数がデフォルトです。"
+    "explanation": "男女混合のグループには男性複数形を使います。\n- los estudiantes = 学生たち(男女混合または男性のみのグループ)\n- 'inteligentes' は性では変化せず、数だけが変化します。\n混合グループでは男性複数形が基本です。",
+    "hint": null
   },
   "q_gram_a1_08_010": {
     "question": "Es un ___ día.（悪い — 男性単数名詞の前の短縮形）",
@@ -942,25 +949,27 @@
     "explanation": "-ar動詞のella形は-aで終わります。\n- estudiar → estudi + = estudia\n- すべての-ar動詞は同じパターンに従います: -o, -as, -, -amos, -áis, -。"
   },
   "q_gram_a1_09_009": {
-    "question": "Vosotros ___ muy bien.（cantar動詞活用）",
+    "question": "Vosotros ___ muy bien. (cantar を活用させる)",
     "correct": "cantáis",
     "wrong": [
       "cantamos",
       "cantan",
       "cantas"
     ],
-    "explanation": "-ar動詞のvosotros形は-áisで終わります。\n- cantar → cant + áis = cantáis\nこの形は主にスペインで使われます。",
-    "conjugation_info": "cantar - 現在形: canto, cantas, canta, cantamos, cantáis, cantan"
+    "explanation": "-ar 動詞の vosotros の活用語尾は -áis です。\n- cantar → cant + áis = cantáis\nこの形は主にスペインで使われます。",
+    "conjugation_info": "cantar - 現在形: canto, cantas, canta, cantamos, cantáis, cantan",
+    "hint": null
   },
   "q_gram_a1_09_010": {
-    "question": "We speak Spanish and English.",
-    "correct": "私たちはスペイン語と英語を話す。",
+    "question": "私たちはスペイン語と英語を話します。",
+    "correct": "Hablamos español e inglés.",
     "wrong": [
-      "私はスペイン語と英語を話す。",
-      "彼らはスペイン語と英語を話す。",
-      "私たちはスペイン語を勉強する。"
+      "Hablamos español y inglés.",
+      "Hablan español e inglés.",
+      "Hablo español e inglés."
     ],
-    "explanation": "'i-'または'hi-'で始まる単語の前で'y'（と）は'e'に変わります。\n- español e inglés（*español y inglésではなく）\nこれは'ee'の音の繰り返しを避けるための音韻規則です。"
+    "explanation": "'i-' や 'hi-' で始まる語の前では、'y'(と)は 'e' に変わります。\n- español e inglés(*español y inglés ではない)\nこれは「イー」の音が重なるのを避けるための音声上の規則です。",
+    "hint": null
   },
   "q_gram_a1_10_001": {
     "question": "Yo ___ en Madrid.（vivir動詞活用）",
@@ -1049,14 +1058,15 @@
     "hint": "-ir動詞のvosotros語尾にはアクセントがあります"
   },
   "q_gram_a1_10_009": {
-    "question": "She reads the newspaper every morning.",
-    "correct": "彼女は毎朝新聞を読む。",
+    "question": "彼女は毎朝新聞を読みます。",
+    "correct": "Ella lee el periódico cada mañana.",
     "wrong": [
-      "彼は毎朝新聞を読む。",
-      "彼女は毎晩新聞を読む。",
-      "彼女たちは毎朝新聞を読む。"
+      "Ella lees el periódico cada mañana.",
+      "Ella leen el periódico cada mañana.",
+      "Ella leo el periódico cada mañana."
     ],
-    "explanation": "-er動詞のella形は-eで終わります。\n- leer → le + e = lee\nleerの三人称で'e'が二つ続くleeが正しい形です。"
+    "explanation": "-er 動詞の ella 形は -e で終わります。\n- leer → le + e = lee\nlee では 'e' が2つ続きますが、これは leer の3人称として正しい形です。",
+    "hint": null
   },
   "q_gram_a1_10_010": {
     "question": "Nosotros ___ en un piso.（vivir動詞活用）",
@@ -1167,14 +1177,15 @@
     "conjugation_info": "Hay否定文: No hay nada（何もない）, No hay nadie（誰もいない）, No hay ningún...（一つもない）"
   },
   "q_gram_a1_11_010": {
-    "question": "There is a park in my city.",
-    "correct": "私の街に公園がある。",
+    "question": "私の街には公園があります。",
+    "correct": "Hay un parque en mi ciudad.",
     "wrong": [
-      "その公園は私の街にある。",
-      "私の街は公園だ。",
-      "公園（複数）が私の街にある。"
+      "El parque está en mi ciudad.",
+      "Es un parque en mi ciudad.",
+      "Están un parque en mi ciudad."
     ],
-    "explanation": "初めて言及するもの（存在）を表すには'hay'を使います。\n- Hay un parque = 公園が一つある（初出、不特定）。\nその後その公園について具体的に話すなら: El parque está cerca."
+    "explanation": "何かを初めて紹介する(存在を示す)ときは 'hay' を使います。\n- Hay un parque = 公園があります(初出、不特定)。\nその後でその公園について具体的に話すなら、El parque está cerca. となります。",
+    "hint": null
   },
   "q_gram_a1_12_001": {
     "question": "___ hermana se llama Ana.（女性名詞に対して「私の」を入れてください）",
@@ -1381,14 +1392,15 @@
     "conjugation_info": "este（男性単数）, esta（女性単数）, estos（男性複数）, estas（女性複数）— 近い距離"
   },
   "q_gram_a1_13_010": {
-    "question": "That house over there is very old.",
-    "correct": "あの家はとても古い。",
+    "question": "あそこのあの家はとても古い。",
+    "correct": "Aquella casa es muy vieja.",
     "wrong": [
-      "その家はとても古い。",
-      "この家はとても古い。",
-      "あの家はとても新しい。"
+      "Esa casa es muy vieja.",
+      "Esta casa es muy vieja.",
+      "Aquel casa es muy viejo."
     ],
-    "explanation": "'aquella'は最も遠い距離を示します: aquel/aquella。\n- aquella casa = あの家（両方から遠い）\n'casa'は女性なので'aquella'（aquelではなく）を使います。"
+    "explanation": "「あそこの」は最も遠い距離を表す aquel/aquella のサインです。\n- aquella casa = あそこのあの家(話し手からも聞き手からも遠い)\n'casa' は女性名詞なので、(aquel ではなく)'aquella' を使います。",
+    "hint": null
   },
   "q_gram_a1_14_001": {
     "question": "Vivo ___ Madrid.（「〜に」を表す前置詞を入れてください）",
@@ -1477,14 +1489,15 @@
     "hint": "'de'は所有や所属を表します"
   },
   "q_gram_a1_14_009": {
-    "question": "I am at the bank.",
-    "correct": "私は銀行にいる。",
+    "question": "私は銀行にいます。",
+    "correct": "Estoy en el banco.",
     "wrong": [
-      "私は銀行に行く。",
-      "私は銀行から来た。",
-      "私は銀行だ。"
+      "Estoy a el banco.",
+      "Estoy de el banco.",
+      "Soy en el banco."
     ],
-    "explanation": "'en'はestarと一緒に場所にいることを表します。\n- Estoy en el banco. = 私は銀行にいる。\n場所はserではなくestar + enを使います。"
+    "explanation": "場所にいることを表すには(estar とともに)'en' を使います。\n- Estoy en el banco. = 私は銀行にいます。\n場所には ser ではなく estar + en を使います。",
+    "hint": null
   },
   "q_gram_a1_14_010": {
     "question": "Vengo ___ trabajo.（私は職場から来る。— de + el）",
@@ -1595,14 +1608,15 @@
     "conjugation_info": "¿Cuánto cuesta?（値段）, ¿Cuántos libros?（数えられる男性）, ¿Cuántas personas?（数えられる女性）"
   },
   "q_gram_a1_15_010": {
-    "question": "Where is the bathroom?",
-    "correct": "トイレはどこですか？",
+    "question": "トイレはどこですか?",
+    "correct": "¿Dónde está el baño?",
     "wrong": [
-      "トイレは何ですか？",
-      "トイレはどうですか？",
-      "トイレはいつ開きますか？"
+      "¿Dónde es el baño?",
+      "¿Cuál está el baño?",
+      "¿Cómo está el baño?"
     ],
-    "explanation": "'Dónde' + estarは場所を尋ねるときに使います。\n- ¿Dónde está el baño? = トイレはどこですか？\n特定のものの場所は常にserではなくestarを使います。"
+    "explanation": "場所をたずねるときは 'Dónde' + estar を使います。\n- ¿Dónde está el baño? = トイレはどこですか?\n特定のものの場所には、ser ではなく常に estar を使います。",
+    "hint": null
   },
   "q_gram_a1_16_001": {
     "question": "Yo ___ español. (I do not speak Spanish.)（正しい否定を使ってください）",
@@ -1691,14 +1705,15 @@
     "hint": "人を指す否定語は？"
   },
   "q_gram_a1_16_009": {
-    "question": "Nothing is perfect.",
-    "correct": "何も完璧ではない。",
+    "question": "完璧なものは何もない。",
+    "correct": "Nada es perfecto.",
     "wrong": [
-      "完璧でないものはない。",
-      "完璧でないものもある。",
-      "誰も完璧ではない。"
+      "No nada es perfecto.",
+      "No es perfecto nada.",
+      "Nadie es perfecto."
     ],
-    "explanation": "'nada'が動詞の前に来ると'no'は不要です。\n- Nada es perfecto. = 何も完璧ではない。\n- 'nadie'を使うと「誰も完璧ではない」になります（異なる意味）。"
+    "explanation": "'nada' が動詞の前に来るときは、'no' は不要です。\n- Nada es perfecto. = 完璧なものは何もない。\n- 'nadie' だと「完璧な人はいない」という別の意味になります。",
+    "hint": null
   },
   "q_gram_a1_16_010": {
     "question": "Yo no como carne ___.（私は絶対に肉を食べない。）",
@@ -1809,14 +1824,15 @@
     "conjugation_info": "me (yo), te (tú), le (él/ella/usted), nos (nosotros), os (vosotros), les (ellos/ustedes)"
   },
   "q_gram_a1_17_010": {
-    "question": "I really love chocolate.",
-    "correct": "私はチョコレートが大好きだ。",
+    "question": "私はチョコレートが大好きです。",
+    "correct": "Me encanta el chocolate.",
     "wrong": [
-      "私はチョコレートが好きではない。",
-      "彼はチョコレートが好きだ。",
-      "私はチョコレートを食べる。"
+      "Me gustan el chocolate.",
+      "Me encanto el chocolate.",
+      "Yo encanto el chocolate."
     ],
-    "explanation": "'encantar'は'gustar'と同じ構造ですが「大好き/魅了する」という意味です。\n- Me encanta el chocolate. = 私はチョコレートが大好きだ。\n同じ構造: 間接目的語代名詞 + encanta/encantan + 主語。"
+    "explanation": "'encantar' は 'gustar' とまったく同じように働きますが、「大好き/魅了する」という意味です。\n- Me encanta el chocolate. = 私はチョコレートが大好きです。\n構造も同じです:間接目的語代名詞 + encanta/encantan + 主語。",
+    "hint": null
   },
   "q_gram_a1_18_001": {
     "question": "Yo ___ un hermano.（tener動詞活用）",
@@ -1905,25 +1921,27 @@
     "hint": "ella = tenerの三人称単数"
   },
   "q_gram_a1_18_009": {
-    "question": "She is 30 years old.",
-    "correct": "彼女は30歳だ。",
+    "question": "彼女は30歳です。",
+    "correct": "Ella tiene treinta años.",
     "wrong": [
-      "彼女は30個持っている。",
-      "彼女は30番目だ。",
-      "彼は30歳だ。"
+      "Ella es treinta años.",
+      "Ella está treinta años.",
+      "Ella tiene treinta año."
     ],
-    "explanation": "年齢表現はtener + 数字 + añosを使います（serやestarではなく）。\n- Tiene treinta años. = 彼女は30歳だ。\n- ¿Cuántos años tienes? = 何歳？"
+    "explanation": "年齢は(ser や estar ではなく)tener + 数字 + años で表します。\n- Tiene treinta años. = 彼女は30歳です。\n- ¿Cuántos años tienes? = あなたは何歳ですか?",
+    "hint": null
   },
   "q_gram_a1_18_010": {
-    "question": "Ellos ___ prisa. (They are in a hurry.)（tener動詞活用）",
+    "question": "Ellos ___ prisa. (彼らは急いでいます。) (tener を活用させましょう)",
     "correct": "tienen",
     "wrong": [
       "tiene",
       "tenemos",
       "tenéis"
     ],
-    "explanation": "'tener prisa' = 急いでいる（直訳: 急ぎを持つ）。\n- Ellos tienen prisa. = 彼らは急いでいる。\ntenerのellos形は'tienen'です（不規則語幹: tien-）。",
-    "conjugation_info": "tener - 現在形: tengo, tienes, tiene, tenemos, tenéis, tienen"
+    "explanation": "'tener prisa' = 急いでいる(直訳:急ぎを持っている)。\n- Ellos tienen prisa. = 彼らは急いでいます。\ntener の ellos 形は 'tienen' です(不規則な語幹:tien-)。",
+    "conjugation_info": "tener - 現在形: tengo, tienes, tiene, tenemos, tenéis, tienen",
+    "hint": null
   },
   "q_gram_a1_19_001": {
     "question": "Yo ___ a la escuela.",
@@ -2023,14 +2041,15 @@
     "conjugation_info": "ir - 現在形: voy, vas, va, vamos, vais, van"
   },
   "q_gram_a1_19_010": {
-    "question": "I go to the supermarket.",
+    "question": "私はスーパーマーケットに行きます。",
     "correct": "Voy al supermercado.",
     "wrong": [
       "Voy a el supermercado.",
       "Voy en el supermercado.",
       "Voy el supermercado."
     ],
-    "explanation": "ir + + elは縮約してir + alになります。\n- Voy al supermercado.（ + el = al）\n縮約形'al'は必須です。' el'は不正確です。"
+    "explanation": "ir + a + el は縮約されて ir + al になります。\n- Voy al supermercado.(a + el = al)\n縮約形の 'al' は必須で、'a el' は誤りです。",
+    "hint": null
   },
   "q_gram_a1_20_001": {
     "question": "¿Cuánto cuesta? — Cuesta ___ euros.（15）",

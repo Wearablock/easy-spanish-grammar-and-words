@@ -91,15 +91,16 @@
     "context": "เขียน a literary analysis essay สำหรับ an advanced course"
   },
   "q_vocab_c2_01_010": {
-    "question": "A professor asks คุณ ไปยัง identify narrative technique ที่ไหน events เป็น presented out ของ chronological order, jumping ไปยัง an earlier เวลา. Which term เป็น ถูกต้อง?",
+    "question": "อาจารย์ขอให้คุณระบุเทคนิคการเล่าเรื่องที่นำเสนอเหตุการณ์ไม่เรียงตามลำดับเวลา โดยย้อนกลับไปยังเวลาก่อนหน้า คำศัพท์ใดถูกต้อง",
     "correct": "analepsis",
     "wrong": [
       "prolepsis",
       "elipsis narrativa",
       "monólogo interior"
     ],
-    "explanation": "'Analepsis' (ด้วย called 'flashback') เป็น narrative technique ของ interrupting chronological sequence ไปยัง depict events จาก an earlier เวลา. 'Prolepsis' เป็น opposite, a flash-สำหรับward ไปยัง future events.",
-    "context": "A university literature seminar discussing narrative techniques"
+    "explanation": "'Analepsis' (เรียกอีกอย่างว่า 'flashback' หรือการย้อนอดีต) เป็นเทคนิคการเล่าเรื่องที่ขัดลำดับเวลาเพื่อแสดงเหตุการณ์ในอดีต ส่วน 'Prolepsis' ตรงข้ามกัน คือการกระโดดไปข้างหน้าสู่เหตุการณ์ในอนาคต",
+    "context": "A university literature seminar discussing narrative techniques",
+    "hint": null
   },
   "q_vocab_c2_02_001": {
     "question": "อะไร does 'epistemología' หมายถึง?",
@@ -122,14 +123,15 @@
     "explanation": "'Cibernética' (cybernetics) เป็น interdisciplinary study ของ regulatory และ communiแมวion systems ใน both machines และ living organisms. มัน เคย piหนึ่งeสีแดง โดย Norbert Wiener ใน mid-20th century."
   },
   "q_vocab_c2_02_003": {
-    "question": "อะไร does 'macroeconomía' หมายถึง?",
-    "correct": "macroeconomics (the study of economy-wide phenomena like inflation และ GDP)",
+    "question": "'macroeconomía' แปลว่าอะไร",
+    "correct": "เศรษฐศาสตร์มหภาค (การศึกษาปรากฏการณ์ทางเศรษฐกิจในภาพรวม เช่น เงินเฟ้อและ GDP)",
     "wrong": [
-      "the study of individual consumer behavior",
-      "the management of corporate finances",
-      "the regulation of international trade agreements"
+      "การศึกษาพฤติกรรมของผู้บริโภคแต่ละราย",
+      "การบริหารการเงินของบริษัท",
+      "การกำกับดูแลข้อตกลงการค้าระหว่างประเทศ"
     ],
-    "explanation": "'Macroeconomía' เป็น branch ของ economics นั้น analyzes ใหญ่-scale economic factors such as national output, unemployment rates, และ inflation. มัน contrasts กับ 'microeconomía,' which focuses on individual agents."
+    "explanation": "'Macroeconomía' คือสาขาของเศรษฐศาสตร์ที่วิเคราะห์ปัจจัยทางเศรษฐกิจในระดับใหญ่ เช่น ผลผลิตของประเทศ อัตราการว่างงาน และเงินเฟ้อ ตรงข้ามกับ 'microeconomía' ซึ่งเน้นหน่วยเศรษฐกิจรายย่อย",
+    "hint": null
   },
   "q_vocab_c2_02_004": {
     "question": "อะไร does 'jurisprudencia' หมายถึง?",
@@ -142,14 +144,15 @@
     "explanation": "'Jurisprudencia' มี a dual หมายถึง: มัน refers both ไปยัง philosophy ของ law as an academic discipline และ ไปยัง body ของ judicial decisions นั้น serve as precedent. ในภาษาสเปน legal contexts, มัน frequently denotes established case law."
   },
   "q_vocab_c2_02_005": {
-    "question": " researcher proposed a ใหม่ paradigm สำหรับ understanding consciousness.",
+    "question": "นักวิจัยเสนอกระบวนทัศน์ใหม่เพื่อทำความเข้าใจจิตสำนึก",
     "correct": "El investigador propuso un nuevo paradigma para entender la conciencia.",
     "wrong": [
       "El investigador propuso un nuevo método para entender la ciencia.",
       "El investigador propuso un nuevo paradigma para entender la competencia.",
       "El investigador rechazó un nuevo paradigma para entender la conciencia."
     ],
-    "explanation": "'Paradigma' แปลว่า 'paradigm,' a fundamental framework ของ assumptions และ methods within which research เป็น conducted. 'Conciencia' แปลว่า 'consciousness' (หรือ 'conscience,' depending on context)."
+    "explanation": "'Paradigma' แปลว่า 'กระบวนทัศน์' คือกรอบพื้นฐานของสมมติฐานและวิธีการที่ใช้ในการทำวิจัย ส่วน 'Conciencia' แปลว่า 'จิตสำนึก' (หรือ 'มโนธรรม' ขึ้นอยู่กับบริบท)",
+    "hint": null
   },
   "q_vocab_c2_02_006": {
     "question": "อะไร does 'heurístico' หมายถึง ใน academic และ scientific contexts?",
@@ -162,15 +165,16 @@
     "explanation": "'Heurístico' describes methods หรือ strategies นั้น use practical shortcuts ไปยัง find satisfactory solutions, โดยเฉพาะ เมื่อไหร่ an exhaustive analysis จะ เป็น impractical. มัน เป็น widely used ใน computer science, psychology, และ philosophy."
   },
   "q_vocab_c2_02_007": {
-    "question": "A colleague at a research conference mentions นั้น study uses a 'metodología cualitativa.' ใน which scenario เป็น นี้ ส่วนใหญ่ appropriate?",
-    "correct": "A study analyzing in-depth interviews to understand participants' lived experiences",
+    "question": "เพื่อนร่วมงานในงานประชุมวิจัยบอกว่างานศึกษานี้ใช้ 'metodología cualitativa' สถานการณ์ใดเหมาะสมที่สุด",
+    "correct": "งานศึกษาที่วิเคราะห์การสัมภาษณ์เชิงลึกเพื่อทำความเข้าใจประสบการณ์ชีวิตจริงของผู้เข้าร่วม",
     "wrong": [
-      "A study measuring the statistical correlation between สอง numerical variables",
-      "A study วิ่ง controlled laboratory experiments with ใหญ่ sample sizes",
-      "A study computing regression models from quantitative survey data"
+      "งานศึกษาที่วัดความสัมพันธ์เชิงสถิติระหว่างตัวแปรเชิงตัวเลขสองตัว",
+      "งานศึกษาที่ทำการทดลองในห้องปฏิบัติการแบบควบคุมโดยใช้กลุ่มตัวอย่างขนาดใหญ่",
+      "งานศึกษาที่คำนวณแบบจำลองการถดถอยจากข้อมูลแบบสำรวจเชิงปริมาณ"
     ],
-    "explanation": "'Metodología cualitativa' (qualitative methodology) focuses on understanding meanings, experiences, และ social phenomena through non-numerical data such as interviews, observations, และ textual analysis. มัน contrasts กับ quantitative methods นั้น rely on numerical measurement.",
-    "context": "An academic research conference discussing study design"
+    "explanation": "'Metodología cualitativa' (ระเบียบวิธีเชิงคุณภาพ) เน้นการทำความเข้าใจความหมาย ประสบการณ์ และปรากฏการณ์ทางสังคมผ่านข้อมูลที่ไม่ใช่ตัวเลข เช่น การสัมภาษณ์ การสังเกต และการวิเคราะห์ข้อความ ตรงข้ามกับวิธีเชิงปริมาณที่อาศัยการวัดเป็นตัวเลข",
+    "context": "An academic research conference discussing study design",
+    "hint": null
   },
   "q_vocab_c2_02_008": {
     "question": "อะไร does 'ontología' หมายถึง ใน philosophy?",
@@ -306,14 +310,15 @@
     "context": "Comparing how different Spanish speakers describe parking a รถยนต์"
   },
   "q_vocab_c2_04_001": {
-    "question": "อะไร does 'banco' หมายถึง เมื่อไหร่ มัน มี multiple meanings?",
-    "correct": "It can หมายความว่า 'ธนาคาร' (financial institution), 'bench' (seating), หรือ 'โรงเรียน of ปลา'",
+    "question": "เมื่อ 'banco' มีหลายความหมาย มันแปลว่าอะไรได้บ้าง",
+    "correct": "แปลได้ว่า 'ธนาคาร' (สถาบันการเงิน) 'ม้านั่ง' (ที่นั่ง) หรือ 'ฝูงปลา'",
     "wrong": [
-      "It only แปลว่า 'ธนาคาร' (financial institution)",
-      "It means 'ธนาคาร' และ 'blanket'",
-      "It แปลว่า 'bench' และ 'เรือ'"
+      "แปลว่า 'ธนาคาร' (สถาบันการเงิน) เท่านั้น",
+      "แปลว่า 'ธนาคาร' และ 'ผ้าห่ม'",
+      "แปลว่า 'ม้านั่ง' และ 'เรือ'"
     ],
-    "explanation": "'Banco' เป็น a classic สเปน homonym กับ at least สาม distinct meanings: a financial ธนาคาร, a bench หรือ seat, และ a โรงเรียน ของ ปลา (banco de peces). Context determines which หมายถึง applies."
+    "explanation": "'Banco' เป็นคำพ้องรูปในภาษาสเปนที่ยกมาเป็นตัวอย่างคลาสสิก มีอย่างน้อยสามความหมายที่ต่างกัน คือ ธนาคาร ม้านั่งหรือที่นั่ง และฝูงปลา (banco de peces) บริบทเป็นตัวกำหนดว่าใช้ความหมายใด",
+    "hint": null
   },
   "q_vocab_c2_04_002": {
     "question": "La ___ de Madrid es una ciudad vibrante, pero la ___ extranjera fluctúa constantemente.",
@@ -388,13 +393,14 @@
   },
   "q_vocab_c2_04_009": {
     "question": "No me dio vela en este entierro.",
-    "correct": "Nobody gave me a say in this matter. (It's none of my business.)",
+    "correct": "ไม่มีใครให้ฉันมีปากมีเสียงในเรื่องนี้ (มันไม่ใช่ธุระของฉัน)",
     "wrong": [
-      "Nobody gave me a candle at this funeral.",
-      "Nobody gave me a sail สำหรับ this journey.",
-      "Nobody kept a vigil at this burial."
+      "ไม่มีใครให้เทียนฉันในงานศพนี้",
+      "ไม่มีใครให้ใบเรือฉันสำหรับการเดินทางครั้งนี้",
+      "ไม่มีใครเฝ้าไว้อาลัยในพิธีฝังศพนี้"
     ],
-    "explanation": "'No dar vela en un entierro' เป็น an idiomatic expression หมายถึง 'ไปยัง มี no say/role ใน a matter.' Here 'vela' plays on its literal หมายถึง (candle at a funeral) แต่ phrase เป็น entirely figurative, หมายถึง someหนึ่ง เคย not consulted หรือ involved."
+    "explanation": "'No dar vela en un entierro' เป็นสำนวนที่หมายถึง 'ไม่มีปากเสียงหรือบทบาทในเรื่องนั้น' คำว่า 'vela' เล่นกับความหมายตามตัวอักษร (เทียนในงานศพ) แต่วลีนี้เป็นความหมายเชิงเปรียบเทียบทั้งหมด คือไม่มีใครปรึกษาหรือให้เข้าไปเกี่ยวข้อง",
+    "hint": null
   },
   "q_vocab_c2_04_010": {
     "question": "คุณ read sentence: 'El cabo dirigió la operación desde el cabo más meridional de la península.' อย่างไร do คุณ interpret two uses ของ 'cabo'?",
@@ -662,14 +668,15 @@
     "explanation": "'Ebrio' เป็น สำหรับmal หรือ literary term สำหรับ 'drunk,' used ใน legal reports, literature, และ สำหรับmal เขียน. 'Borracho' เป็น standard neutral term. Colloquial variants include 'pedo,' 'mamado,' 'como una cuba,' depending on region."
   },
   "q_vocab_c2_07_006": {
-    "question": "She repriผู้ชายded her subordinate สำหรับ repeated errors.",
+    "question": "เธอตักเตือนลูกน้องเรื่องความผิดพลาดที่เกิดซ้ำ ๆ",
     "correct": "Amonestó a su subordinado por los errores reiterados.",
     "wrong": [
       "Echó una bronca a su subordinado por los errores reiterados.",
       "Riñó a su subordinado por los errores reiterados.",
       "Regañó a su subordinado por los errores reiterados."
     ],
-    "explanation": "'Amหนึ่งstar' เป็น สำหรับmal term สำหรับ 'ไปยัง repriผู้ชายd,' used ใน administrative และ legal contexts. 'Echar una bronca' เป็น colloquial, 'reñir' เป็น inสำหรับmal, และ 'regañar' เป็น neutral/slightly inสำหรับmal. C2 mastery requires selecting appropriate register."
+    "explanation": "'Amonestar' เป็นคำทางการสำหรับ 'ตักเตือน' ใช้ในบริบททางการบริหารและกฎหมาย 'Echar una bronca' เป็นภาษาพูด 'reñir' เป็นภาษาไม่เป็นทางการ และ 'regañar' เป็นกลาง ๆ ค่อนไปทางไม่เป็นทางการ ระดับ C2 ต้องเลือกระดับภาษาให้เหมาะสม",
+    "hint": null
   },
   "q_vocab_c2_07_007": {
     "question": "อะไร does 'domicilio' หมายถึง, และ อย่างไร does มัน differ จาก its ไม่เป็นทางการ equivalents?",
@@ -1193,14 +1200,15 @@
     "context": "อ่าน a ใหม่s article about diplomatic negotiations"
   },
   "q_vocab_c2_12_008": {
-    "question": "อะไร does 'desistir' หมายถึง?",
-    "correct": "to desist / to give up หรือ abandon an attempt",
+    "question": "'desistir' แปลว่าอะไร",
+    "correct": "ล้มเลิก / ยอมแพ้หรือละทิ้งความพยายาม",
     "wrong": [
-      "to desire หรือ wish for something strongly",
-      "to design หรือ plan something carefully",
-      "to dissect หรือ analyze in parts"
+      "ปรารถนาหรือต้องการบางสิ่งอย่างแรงกล้า",
+      "ออกแบบหรือวางแผนบางสิ่งอย่างรอบคอบ",
+      "ผ่าหรือวิเคราะห์แยกเป็นส่วน ๆ"
     ],
-    "explanation": "'Desistir' แปลว่า ไปยัง cease an efสำหรับt, ไปยัง give up on a plan หรือ inสิบtion. ใน legal contexts, 'desistir de una deผู้ชายda' แปลว่า ไปยัง withdraw a lawsuit. มัน implies a conscious decision ไปยัง stop pursuing something."
+    "explanation": "'Desistir' หมายถึงหยุดความพยายาม ล้มเลิกแผนหรือความตั้งใจ ในบริบททางกฎหมาย 'desistir de una demanda' หมายถึงถอนฟ้อง สื่อถึงการตัดสินใจหยุดทำสิ่งนั้นอย่างตั้งใจ",
+    "hint": null
   },
   "q_vocab_c2_12_009": {
     "question": "A pesar de las adversidades, el pueblo no cejó en su empeño por alcanzar la libertad.",

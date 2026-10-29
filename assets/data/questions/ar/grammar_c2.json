@@ -76,14 +76,15 @@
     "hint": "هذا construction replaces 'si + pluperfect صيغة المضارع المنصوب' مع 'de + compound المصدر'"
   },
   "q_gram_c2_01_008": {
-    "question": "هو كان precisely his arrogance ذلك led إلى his downfall.",
+    "question": "كان غطرسته تحديدًا هي ما أدّى إلى سقوطه.",
     "correct": "Fue precisamente su arrogancia lo que provocó su caída.",
     "wrong": [
       "Fue precisamente su arrogancia que provocó su caída.",
       "Era precisamente su arrogancia la que provocaba su caída.",
       "Precisamente su arrogancia fue que provocó su caída."
     ],
-    "explanation": "هذا a cleft sentence (oración hendida) focusing on 'su arrogancia'. بما أن الـ focused element هو an abstract concept rather than a specific gendered اسم functioning as subject من الـ relative, الـ neuter 'lo que' يُستخدم (not 'la que'). الـ الماضي البسيط 'fue...provocó' يشير إلى a completed past event. Omitting 'lo' قبل 'que' هو a شائع error."
+    "explanation": "هذه جملة منشقّة (oración hendida) تركّز على 'su arrogancia'. ولأن العنصر المركَّز عليه مفهوم مجرّد وليس اسمًا محدّد الجنس يقوم بدور فاعل الجملة الموصولة، يُستخدم الضمير المحايد 'lo que' (وليس 'la que'). ويدل الماضي البسيط 'fue...provocó' على حدث ماضٍ انتهى. وحذف 'lo' قبل 'que' خطأ شائع.",
+    "hint": null
   },
   "q_gram_c2_01_009": {
     "question": "Cuanto más se ___ en el tema, más complejo le parecía. (adentrar, الماضي الشرطي, él — literary concessive escalation)",
@@ -565,14 +566,15 @@
     "hint": "الـ sentence announces a list مع 'tres ciudades' — ماذا punctuation introduces الـ enumeration?"
   },
   "q_gram_c2_06_004": {
-    "question": "ماذا هو الـ grammatical difference between 'Mi hermano, que vive en Madrid, es médico' و 'Mi hermano que vive en Madrid es médico'?",
-    "correct": "The first (with commas) is a non-restrictive clause implying one brother; the second (without commas) is restrictive, implying there are multiple brothers and identifying which one",
+    "question": "ما الفرق النحوي بين 'Mi hermano, que vive en Madrid, es médico' و'Mi hermano que vive en Madrid es médico'؟",
+    "correct": "الجملة الأولى (بالفواصل) جملة صلة توضيحية غير مقيِّدة تدل على وجود أخ واحد؛ أما الثانية (بدون فواصل) فهي مقيِّدة، وتدل على وجود عدة إخوة وتحدّد أيّهم المقصود",
     "wrong": [
-      "There is no grammatical difference; the commas are optional stylistic choices",
-      "The first is informal and the second is formal register",
-      "The first uses the indicative mood and the second implies subjunctive"
+      "لا يوجد فرق نحوي؛ الفواصل اختيارية وأسلوبية فقط",
+      "الأولى غير رسمية والثانية رسمية",
+      "الأولى تستخدم صيغة الإخبار والثانية توحي بالصيغة الالتزامية"
     ],
-    "explanation": "في الإسبانية, commas around a relative clause determine whether هو هو explicativa (non-restrictive, providing extra information) أو especificativa (restrictive, narrowing down which referent). هذا punctuation distinction changes المعنى: مع commas, الـ speaker يملك one أخ; بدون, الـ speaker يملك multiple brothers و هو specifying which one."
+    "explanation": "في الإسبانية، تحدّد الفواصل حول جملة الصلة ما إذا كانت explicativa (توضيحية غير مقيِّدة تقدّم معلومة إضافية) أم especificativa (مقيِّدة تحدّد المقصود من بين عدة مراجع). وهذا الفرق في علامات الترقيم يغيّر المعنى: مع الفواصل يكون للمتكلم أخ واحد؛ وبدونها يكون له عدة إخوة ويحدّد أيّهم يقصد.",
+    "hint": null
   },
   "q_gram_c2_06_005": {
     "question": "El director declaró___ «No habrá más despidos este trimestre». (الـ director stated___)",
@@ -875,25 +877,27 @@
     "hint": "فعل regime test: 'alegrarse DE algo' → 'de que' إلزامي"
   },
   "q_gram_c2_09_003": {
-    "question": "ماذا error does الـ sentence 'Pienso de que deberías estudiar más' contain?",
-    "correct": "Dequeísmo: the incorrect insertion of 'de' before 'que' — it should be 'Pienso que deberías estudiar más'",
+    "question": "ما الخطأ الموجود في الجملة 'Pienso de que deberías estudiar más'؟",
+    "correct": "Dequeísmo: إقحام حرف الجر 'de' قبل 'que' بشكل خاطئ — والصحيح 'Pienso que deberías estudiar más'",
     "wrong": [
-      "Queísmo: a missing preposition before 'que'",
-      "Leísmo: incorrect use of an indirect object pronoun",
-      "Loísmo: incorrect use of a direct object pronoun"
+      "Queísmo: غياب حرف الجر قبل 'que'",
+      "Leísmo: استخدام خاطئ لضمير المفعول غير المباشر",
+      "Loísmo: استخدام خاطئ لضمير المفعول المباشر"
     ],
-    "explanation": "Dequeísmo هو الـ insertion من 'de' قبل 'que' أين هو does not belong. Test: 'Pienso ALGO' (not *'pienso DE algo'), لذلك 'pienso que' هو صحيح و 'pienso de que' هو dequeísmo. هذا error هو stigmatized في رسمي الإسبانية و هو a hallmark diagnostic at C2 level."
+    "explanation": "Dequeísmo هو إقحام 'de' قبل 'que' حيث لا يجوز. الاختبار: 'Pienso ALGO' (وليس *'pienso DE algo')، لذلك 'pienso que' صحيحة و'pienso de que' dequeísmo. هذا الخطأ مستهجن في الإسبانية الرسمية، وهو علامة تشخيصية مميّزة في مستوى C2.",
+    "hint": null
   },
   "q_gram_c2_09_004": {
-    "question": "Los estudiantes, ___ por la noticia, salieron del aula en silencio. (conmover, اسم المفعول agreeing مع subject — صحيح concordance)",
+    "question": "Los estudiantes, ___ por la noticia, salieron del aula en silencio. (conmover، اسم المفعول متفقًا مع الفاعل — المطابقة الصحيحة)",
     "correct": "conmovidos",
     "wrong": [
       "conmovido",
       "conmocionados",
       "conmoviendo"
     ],
-    "explanation": "الـ اسم المفعول في an absolute participial clause يجب agree في جنس و number مع الـ اسم هو modifies. 'Los estudiantes' هو مذكر جمع, so 'conmovidos' هو required. Using 'conmovido' (مذكر مفرد) سوف يكون a concordance error (error de concordancia). Note: 'conmoviendo' (اسم الفاعل) سوف create a different construction entirely.",
-    "conjugation_info": "conmover (past participle): conmovido/a/os/as — agrees with the اسم in absolute constructions"
+    "explanation": "يجب أن يتفق اسم المفعول في الجملة الparticipial المطلقة في الجنس والعدد مع الاسم الذي يصفه. 'Los estudiantes' مذكر جمع، لذا يلزم 'conmovidos'. استخدام 'conmovido' (مذكر مفرد) يُعدّ خطأ في المطابقة (error de concordancia). ملاحظة: 'conmoviendo' (الجيرند) سيُنتج تركيبًا مختلفًا تمامًا.",
+    "conjugation_info": "conmover (past participle): conmovido/a/os/as — agrees with the اسم in absolute constructions",
+    "hint": null
   },
   "q_gram_c2_09_005": {
     "question": "Han habido muchos problemas este año. → Identify and correct the error.",
@@ -1281,15 +1285,15 @@
     "conjugation_info": "llevar (pretérito indefinido): llevé, llevaste, llevó, llevamos, llevasteis, llevaron"
   },
   "q_gram_c2_13_001": {
-    "question": "Vi al hombre con el ___ . (Which كلمة resolves الـ ambiguity من 'I saw الـ man مع الـ telescope'?)",
+    "question": "Vi al hombre con el ___ . (أيّ كلمة تحسم الالتباس في الجملة 'رأيتُ الرجل بالمنظار'؟)",
     "correct": "telescopio",
     "wrong": [
       "binocular",
       "lente",
       "ojo"
     ],
-    "explanation": "الـ sentence 'Vi al hombre con el telescopio' هو structurally ambiguous: 'con el telescopio' يمكن modify 'vi' (I saw using الـ telescope) أو 'al hombre' (الـ رجل من had الـ telescope). هذا classic PP-attachment ambiguity. الـ fill-في itself هو unambiguous — 'telescopio' هو الـ instrument — لكن الـ sentence structure remains ambiguous.",
-    "hint": "الـ prepositional phrase 'con el telescopio' يمكن attach إلى two different elements"
+    "explanation": "الجملة 'Vi al hombre con el telescopio' ملتبسة في بنيتها: فالعبارة 'con el telescopio' قد تتعلق بـ 'vi' (رأيته مستخدمًا التلسكوب) أو بـ 'al hombre' (الرجل الذي كان يحمل التلسكوب). وهذا هو الالتباس الكلاسيكي في إلحاق شبه الجملة الجارّة (PP-attachment). أما الكلمة المطلوبة فلا التباس فيها — 'telescopio' هي الأداة — لكن بنية الجملة تبقى ملتبسة.",
+    "hint": "يمكن أن ترتبط شبه الجملة 'con el telescopio' بعنصرين مختلفين"
   },
   "q_gram_c2_13_002": {
     "question": "Cada estudiante entregó ___ trabajo a su profesor. (possessive ذلك creates ambiguity)",
@@ -1468,8 +1472,8 @@
       "mencione",
       "ha mencionado"
     ],
-    "explanation": "'Tal y como se mencionó en la sección anterior' (as كان mentioned في الـ previous section) uses الـ impersonal 'se' مع الـ الماضي البسيط إلى refer إلى a specific earlier point في الـ text. الـ الماضي البسيط هو preferred هنا لأن الـ mention occurred at a معرفة point, unlike الـ الماضي المستمر which سوف imply an ongoing أو repeated action.",
-    "hint": "Use الـ الماضي البسيط لـ a specific past reference within الـ text"
+    "explanation": "العبارة 'Tal y como se mencionó en la sección anterior' (كما ذُكر في القسم السابق) تستخدم 'se' غير الشخصية مع الماضي البسيط للإشارة إلى نقطة محدّدة سابقة في النص. يُفضَّل الماضي البسيط هنا لأن الذكر حدث في لحظة محدّدة، بخلاف الماضي الناقص الذي يوحي بفعل مستمر أو متكرر.",
+    "hint": "استخدم الماضي البسيط للإشارة إلى موضع محدّد سابق داخل النص"
   },
   "q_gram_c2_14_009": {
     "question": "No se han hallado diferencias estadísticamente significativas entre los grupos experimentales y el grupo de control.",
@@ -1493,15 +1497,15 @@
     "conjugation_info": "abordar (imperfect subjunctive): abordara, abordaras, abordara, abordáramos, abordarais, abordaran"
   },
   "q_gram_c2_15_001": {
-    "question": "Si yo ___ tú, no aceptaría esa oferta. (ser, الماضي الشرطي — a basic الشرطي structure reviewed at mastery level)",
+    "question": "Si yo ___ tú, no aceptaría esa oferta. (ser، المضارع الالتزامي الناقص — تركيب شرطي أساسي يُراجَع على مستوى الإتقان)",
     "correct": "fuera",
     "wrong": [
       "sería",
       "sea",
       "fui"
     ],
-    "explanation": "'Si yo fuera tú' (if I كانوا أنت) uses الـ الماضي الشرطي في الـ si-clause من a present contrary-إلى-fact الشرطي. هذا one من الـ معظم fundamental structures في الإسبانية, first encountered at B1-B2 لكن requiring complete mastery at C2. الـ الشرطي 'aceptaría' follows في الـ main clause.",
-    "hint": "Contrary-إلى-fact conditionals require الـ الماضي الشرطي في الـ si-clause"
+    "explanation": "'Si yo fuera tú' (لو كنتُ مكانك) تستخدم الالتزامي الناقص في جملة الشرط 'si' للشرط المخالف للواقع في الحاضر. وهو من أهم التراكيب الأساسية في الإسبانية، يُصادَف أول مرة في B1-B2 لكنه يتطلب إتقانًا كاملًا في C2. ثم يأتي الشرطي 'aceptaría' في الجملة الرئيسة.",
+    "hint": "الشروط المخالفة للواقع تتطلب الالتزامي الناقص في جملة si"
   },
   "q_gram_c2_15_002": {
     "question": "Habiéndose ___ todas las pruebas, el juez dictó sentencia. (presentar, اسم المفعول في absolute participial clause)",

@@ -97,14 +97,15 @@
     "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)"
   },
   "q_gram_a1_01_010": {
-    "question": "The hand is cold.",
+    "question": "这只手是冰凉的。",
     "correct": "La mano está fría.",
     "wrong": [
       "El mano está frío.",
       "La mano es fría.",
       "Las manos están frías."
     ],
-    "explanation": "'mano' 是 女性 despite 词尾 在 -o (a 关键 例外).\nWe 使用 'está' 因为 感觉 冷 是 a 临时 状态.\n- la mano fría (女性 形容词 agreement)"
+    "explanation": "'mano' 虽然以 -o 结尾,但它是阴性名词(重要的例外)。\n这里用 'está',因为感觉冷是一种暂时的状态。\n- la mano fría(阴性形容词的性数配合)",
+    "hint": null
   },
   "q_gram_a1_02_001": {
     "question": "Voy ___ parque. (fill 在: a + el)",
@@ -172,25 +173,26 @@
     "hint": "flor 是 女性; flores 是 its 复数 形式"
   },
   "q_gram_a1_02_007": {
-    "question": "I work on Mondays.",
+    "question": "我星期一上班。",
     "correct": "Trabajo los lunes.",
     "wrong": [
       "Trabajo el lunes.",
       "Trabajo en lunes.",
       "Trabajo lunes."
     ],
-    "explanation": "对于一周某一天的习惯性动作, 使用 'los' + 天.\n- los lunes = on Mondays (habitual)\n- el lunes = on 星期一 (specific, 这 星期一)"
+    "explanation": "表示在星期几经常性地做某事时,用 'los' + 星期名称。\n- los lunes = 每逢星期一(经常性)\n- el lunes = 在星期一(特指,即这个星期一)",
+    "hint": null
   },
   "q_gram_a1_02_008": {
-    "question": "Trabajo ___ lunes. (I work on Mondays.)",
+    "question": "Trabajo ___ lunes. (我星期一上班。)",
     "correct": "los",
     "wrong": [
       "el",
       "la",
       "las"
     ],
-    "explanation": "天 的 week 在 西班牙语 使用 definite 冠词.\n- 'los lunes' = on Mondays (recurring)\n- 'el lunes' = on 星期一 (one specific 星期一)",
-    "hint": "使用 复数 冠词 为 recurring 天"
+    "explanation": "西班牙语中星期名称要加定冠词。\n- 'los lunes' = 每逢星期一(反复发生)\n- 'el lunes' = 在星期一(某一个特定的星期一)",
+    "hint": "反复出现的日子要用复数冠词"
   },
   "q_gram_a1_02_009": {
     "question": "Cats are independent.",
@@ -311,14 +313,15 @@
     "conjugation_info": "Indefinite (第一 mention/non-specific): un/una/unos/unas. Definite (known/specific): el/la/los/las."
   },
   "q_gram_a1_03_010": {
-    "question": "There are some books on the table.",
+    "question": "桌子上有一些书。",
     "correct": "Hay unos libros en la mesa.",
     "wrong": [
       "Hay los libros en la mesa.",
       "Hay un libros en la mesa.",
       "Están unos libros en la mesa."
     ],
-    "explanation": "'some books' = 'unos libros' (男性 复数 indefinite 冠词).\nWe 使用 'hay' 为 existence 和 indefinite 冠词 为 non-specific items.\n- Hay unos libros. (existence, non-specific)"
+    "explanation": "'一些书' = 'unos libros'(阳性复数不定冠词)。\n表示存在用 'hay',指不特定的事物用不定冠词。\n- Hay unos libros.(存在,不特指)",
+    "hint": null
   },
   "q_gram_a1_04_001": {
     "question": "___ hablamos español. (fill 在 主语 代词)",
@@ -739,14 +742,15 @@
     "conjugation_info": "Ser verde = green by nature. Estar verde = unripe/not 准备好."
   },
   "q_gram_a1_07_010": {
-    "question": "The book is on the table.",
+    "question": "书在桌子上。",
     "correct": "El libro está en la mesa.",
     "wrong": [
       "El libro es en la mesa.",
       "El libro está la mesa.",
       "El libro es la mesa."
     ],
-    "explanation": "Estar 是 用过的 为 位置 的 objects.\n- El libro está en la mesa. = book 是 on table.\n记住: 位置 的 things 和 人们 总是使用estar."
+    "explanation": "表示物品所在的位置用 estar。\n- El libro está en la mesa. = 书在桌子上。\n记住:事物和人的位置永远用 estar。",
+    "hint": null
   },
   "q_gram_a1_08_001": {
     "question": "La chica es ___. (tall, 阴性 form)",
@@ -835,14 +839,15 @@
     "hint": "在 西班牙语, 形容词 通常 come 在名词之后"
   },
   "q_gram_a1_08_009": {
-    "question": "The students are intelligent. (mixed group)",
+    "question": "学生们很聪明。(男女混合的群体)",
     "correct": "Los estudiantes son inteligentes.",
     "wrong": [
       "Las estudiantes son inteligentes.",
       "Los estudiantes son inteligente.",
       "Los estudiantes es inteligentes."
     ],
-    "explanation": "对于混合性别群体, 使用男性复数形式.\n- los estudiantes = students (mixed 或 所有-male group)\n- 'inteligentes' doesn't 改变 为 性别, 仅 数.\n男性复数是默认形式 为 mixed groups."
+    "explanation": "男女混合的群体用阳性复数形式。\n- los estudiantes = 学生们(男女混合或全是男生)\n- 'inteligentes' 不随性别变化,只随数变化。\n混合群体默认使用阳性复数。",
+    "hint": null
   },
   "q_gram_a1_08_010": {
     "question": "Es un ___ día. (bad — shortened form 之前 masc. sg. 名词)",
@@ -942,15 +947,16 @@
     "explanation": "对于-ar动词, ella 形式 结尾 -a.\n- estudiar → estudi + a = estudia\n- 所有 -ar 动词 遵循相同的模式: -o, -as, -a, -amos, -áis, -an."
   },
   "q_gram_a1_09_009": {
-    "question": "Vosotros ___ muy bien. (conjugate cantar)",
+    "question": "Vosotros ___ muy bien. (动词变位:cantar)",
     "correct": "cantáis",
     "wrong": [
       "cantamos",
       "cantan",
       "cantas"
     ],
-    "explanation": "对于-ar动词, vosotros 形式 结尾 -áis.\n- cantar → cant + áis = cantáis\n这 形式 是 用过的 mainly 在 西班牙.",
-    "conjugation_info": "cantar - present: canto, cantas, canta, cantamos, cantáis, cantan"
+    "explanation": "对于以 -ar 结尾的动词,vosotros 的变位词尾是 -áis。\n- cantar → cant + áis = cantáis\n这种形式主要在西班牙使用。",
+    "conjugation_info": "cantar - present: canto, cantas, canta, cantamos, cantáis, cantan",
+    "hint": null
   },
   "q_gram_a1_09_010": {
     "question": "We speak Spanish and English.",
@@ -1477,14 +1483,15 @@
     "hint": "'de' expresses ownership 或 belonging"
   },
   "q_gram_a1_14_009": {
-    "question": "I am at the bank.",
+    "question": "我在银行。",
     "correct": "Estoy en el banco.",
     "wrong": [
       "Estoy a el banco.",
       "Estoy de el banco.",
       "Soy en el banco."
     ],
-    "explanation": "'en' 是 用过的 为 是 at/在 a 位置 (与 estar).\n- Estoy en el banco. = I am at bank.\n位置 uses estar + en, not ser."
+    "explanation": "表示处在某个地点时,用 'en'(与 estar 连用)。\n- Estoy en el banco. = 我在银行。\n表示位置用 estar + en,而不是 ser。",
+    "hint": null
   },
   "q_gram_a1_14_010": {
     "question": "Vengo ___ trabajo. (I come 从 work. — de + el)",
@@ -1595,14 +1602,15 @@
     "conjugation_info": "¿Cuánto cuesta? (price), ¿Cuántos libros? (countable m.), ¿Cuántas personas? (countable f.)"
   },
   "q_gram_a1_15_010": {
-    "question": "Where is the bathroom?",
+    "question": "洗手间在哪里?",
     "correct": "¿Dónde está el baño?",
     "wrong": [
       "¿Dónde es el baño?",
       "¿Cuál está el baño?",
       "¿Cómo está el baño?"
     ],
-    "explanation": "'Dónde' + estar 是 用过的 到 ask about 位置.\n- ¿Dónde está el baño? = 哪里 是 bathroom?\n位置 的 specific things 总是使用estar, not ser."
+    "explanation": "询问位置时用 'Dónde' + estar。\n- ¿Dónde está el baño? = 洗手间在哪里?\n特定事物的位置永远用 estar,而不是 ser。",
+    "hint": null
   },
   "q_gram_a1_16_001": {
     "question": "Yo ___ español. (I do not speak Spanish.) (use 正确 negation)",
@@ -2023,14 +2031,15 @@
     "conjugation_info": "ir - present: voy, vas, va, vamos, vais, van"
   },
   "q_gram_a1_19_010": {
-    "question": "I go to the supermarket.",
+    "question": "我去超市。",
     "correct": "Voy al supermercado.",
     "wrong": [
       "Voy a el supermercado.",
       "Voy en el supermercado.",
       "Voy el supermercado."
     ],
-    "explanation": "ir + a + el contracts 到 ir + al.\n- Voy al supermercado. (a + el = al)\n contraction 'al' 是 mandatory; 'a el' 是 incorrect."
+    "explanation": "ir + a + el 要缩合为 ir + al。\n- Voy al supermercado.(a + el = al)\n缩合形式 'al' 是必须的;'a el' 是错误的。",
+    "hint": null
   },
   "q_gram_a1_20_001": {
     "question": "¿Cuánto cuesta? — Cuesta ___ euros. (15)",

@@ -97,14 +97,15 @@
     "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)"
   },
   "q_gram_a1_01_010": {
-    "question": "The hand is cold.",
+    "question": "มือเย็น",
     "correct": "La mano está fría.",
     "wrong": [
       "El mano está frío.",
       "La mano es fría.",
       "Las manos están frías."
     ],
-    "explanation": "'ผู้ชายo' เป็นเพศหญิงแม้จะลงท้ายด้วย -o (ข้อยกเว้นที่สำคัญ)\nเราใช้ 'está' เพราะความรู้สึกเย็นเป็นสภาวะชั่วคราว\n- la ผู้ชายo fría (การทำให้คำคุณศัพท์สอดคล้องกับเพศหญิง)"
+    "explanation": "'mano' เป็นเพศหญิง แม้จะลงท้ายด้วย -o (ข้อยกเว้นสำคัญ)\nเราใช้ 'está' เพราะความรู้สึกหนาวเป็นสภาวะชั่วคราว\n- la mano fría (คำคุณศัพท์ต้องสอดคล้องกับเพศหญิง)",
+    "hint": null
   },
   "q_gram_a1_02_001": {
     "question": "Voy ___ parque. (fill ใน: a + el)",
@@ -172,25 +173,26 @@
     "hint": "flor เป็น เพศหญิง; flores เป็น its พหูพจน์ สำหรับm"
   },
   "q_gram_a1_02_007": {
-    "question": "I work on Monวันs.",
+    "question": "ฉันทำงานทุกวันจันทร์",
     "correct": "Trabajo los lunes.",
     "wrong": [
       "Trabajo el lunes.",
       "Trabajo en lunes.",
       "Trabajo lunes."
     ],
-    "explanation": "สำหรับ habitual actions on a วัน ของ สัปดาห์, use 'los' + วัน.\n- los lunes = on Monวันs (habitual)\n- el lunes = on วันจันทร์ (specific, นี้ วันจันทร์)"
+    "explanation": "สำหรับการกระทำที่ทำเป็นประจำในวันใดวันหนึ่งของสัปดาห์ ให้ใช้ 'los' + ชื่อวัน\n- los lunes = ทุกวันจันทร์ (เป็นประจำ)\n- el lunes = วันจันทร์ (เจาะจง เช่น วันจันทร์นี้)",
+    "hint": null
   },
   "q_gram_a1_02_008": {
-    "question": "Trabajo ___ lunes. (I work on Mondays.)",
+    "question": "Trabajo ___ lunes. (ฉันทำงานทุกวันจันทร์)",
     "correct": "los",
     "wrong": [
       "el",
       "la",
       "las"
     ],
-    "explanation": "Days ของ สัปดาห์ ในภาษาสเปน use definite articles.\n- 'los lunes' = on Monวันs (recurring)\n- 'el lunes' = on วันจันทร์ (หนึ่ง specific วันจันทร์)",
-    "hint": "Use พหูพจน์ คำนำหน้านาม สำหรับ recurring วันs"
+    "explanation": "ชื่อวันในสัปดาห์ในภาษาสเปนใช้คำนำหน้านามเจาะจง\n- 'los lunes' = ทุกวันจันทร์ (เกิดซ้ำเป็นประจำ)\n- 'el lunes' = วันจันทร์วันใดวันหนึ่งโดยเฉพาะ",
+    "hint": "ใช้คำนำหน้านามพหูพจน์สำหรับวันที่เกิดซ้ำเป็นประจำ"
   },
   "q_gram_a1_02_009": {
     "question": "Cats are independent.",
@@ -311,14 +313,15 @@
     "conjugation_info": "Indefinite (first mention/non-specific): un/una/unos/unas. Definite (known/specific): el/la/los/las."
   },
   "q_gram_a1_03_010": {
-    "question": "There are some books on the table.",
+    "question": "มีหนังสือหลายเล่มอยู่บนโต๊ะ",
     "correct": "Hay unos libros en la mesa.",
     "wrong": [
       "Hay los libros en la mesa.",
       "Hay un libros en la mesa.",
       "Están unos libros en la mesa."
     ],
-    "explanation": "'some หนังสือs' = 'unos libros' (คำนำหน้านามไม่ชี้เฉพาะเพศชายพหูพจน์).\nWe use 'hay' สำหรับ exisสิบce และ indefinite คำนำหน้านาม สำหรับ non-specific items.\n- Hay unos libros. (exisสิบce, non-specific)"
+    "explanation": "'หนังสือหลายเล่ม' = 'unos libros' (คำนำหน้านามไม่เจาะจง เพศชาย พหูพจน์)\nเราใช้ 'hay' บอกการมีอยู่ และใช้คำนำหน้านามไม่เจาะจงกับสิ่งที่ไม่ได้ระบุชัดเจน\n- Hay unos libros. (การมีอยู่ ไม่เจาะจง)",
+    "hint": null
   },
   "q_gram_a1_04_001": {
     "question": "___ hablamos español. (fill ใน subject สรรพนาม)",
@@ -382,8 +385,8 @@
       "nosotros",
       "ellos"
     ],
-    "explanation": "'vosotros' ใช้ mainly ใน Spain สำหรับ inสำหรับmal พหูพจน์ 'คุณ ทั้งหมด'.\n- coméis เป็น vosotros สำหรับm ของ comer\nใน Latin America, 'ustedes' ใช้ insชาd ของ 'vosotros'.",
-    "hint": "นี้ สรรพนาม เป็น mainly used ใน Spain"
+    "explanation": "'vosotros' ใช้เป็นหลักในสเปน หมายถึง 'พวกคุณ' พหูพจน์แบบไม่เป็นทางการ\n- coméis คือรูปผันของ comer สำหรับ vosotros\nในละตินอเมริกา ใช้ 'ustedes' แทน 'vosotros'",
+    "hint": "สรรพนามนี้ใช้เป็นหลักในสเปน"
   },
   "q_gram_a1_04_007": {
     "question": "We live ใน Barcelona.",
@@ -739,14 +742,15 @@
     "conjugation_info": "Ser verde = สีเขียว by nature. Estar verde = unripe/not ready."
   },
   "q_gram_a1_07_010": {
-    "question": "The book is on the table.",
+    "question": "หนังสืออยู่บนโต๊ะ",
     "correct": "El libro está en la mesa.",
     "wrong": [
       "El libro es en la mesa.",
       "El libro está la mesa.",
       "El libro es la mesa."
     ],
-    "explanation": "Estar ใช้ สำหรับ loแมวion ของ objects.\n- El libro está en la mesa. = หนังสือ เป็น on โต๊ะ.\nRemember: loแมวion ของ things และ people เสมอ uses estar."
+    "explanation": "ใช้ Estar บอกตำแหน่งที่ตั้งของสิ่งของ\n- El libro está en la mesa. = หนังสืออยู่บนโต๊ะ\nจำไว้ว่า ตำแหน่งของสิ่งของและบุคคลใช้ estar เสมอ",
+    "hint": null
   },
   "q_gram_a1_08_001": {
     "question": "La chica es ___. (tall, เพศหญิง form)",
@@ -835,14 +839,15 @@
     "hint": "ในภาษาสเปน, adjectives โดยปกติ come after คำนาม"
   },
   "q_gram_a1_08_009": {
-    "question": "The students are intelligent. (mixed group)",
+    "question": "นักเรียนฉลาด (กลุ่มผสมชายหญิง)",
     "correct": "Los estudiantes son inteligentes.",
     "wrong": [
       "Las estudiantes son inteligentes.",
       "Los estudiantes son inteligente.",
       "Los estudiantes es inteligentes."
     ],
-    "explanation": "สำหรับ mixed-gender groups, use เพศชาย พหูพจน์ สำหรับm.\n- los estudiantes = students (mixed หรือ ทั้งหมด-male group)\n- 'inteligentes' doesn't change สำหรับ gender, เท่านั้น number.\nเพศชาย พหูพจน์ เป็น default สำหรับ mixed groups."
+    "explanation": "สำหรับกลุ่มที่มีทั้งชายและหญิง ให้ใช้รูปเพศชายพหูพจน์\n- los estudiantes = นักเรียน (กลุ่มผสม หรือผู้ชายล้วน)\n- 'inteligentes' ไม่เปลี่ยนตามเพศ เปลี่ยนเฉพาะตามจำนวน\nเพศชายพหูพจน์เป็นค่าเริ่มต้นสำหรับกลุ่มผสม",
+    "hint": null
   },
   "q_gram_a1_08_010": {
     "question": "Es un ___ día. (bad — shortened form before masc. sg. คำนาม)",
@@ -942,15 +947,16 @@
     "explanation": "สำหรับ -ar verbs, ella สำหรับm ลงท้ายด้วย -a.\n- estudiar → estudi + a = estudia\n- ทั้งหมด -ar verbs follow same pattern: -o, -as, -a, -amos, -áis, -an."
   },
   "q_gram_a1_09_009": {
-    "question": "Vosotros ___ muy bien. (conjugate cantar)",
+    "question": "Vosotros ___ muy bien. (ผันกริยา cantar)",
     "correct": "cantáis",
     "wrong": [
       "cantamos",
       "cantan",
       "cantas"
     ],
-    "explanation": "สำหรับ -ar verbs, vosotros สำหรับm ลงท้ายด้วย -áis.\n- cantar → cant + áis = cantáis\nนี้ สำหรับm ใช้ mainly ใน Spain.",
-    "conjugation_info": "cantar - present: canto, cantas, canta, cantamos, cantáis, cantan"
+    "explanation": "กริยากลุ่ม -ar เมื่อผันกับ vosotros จะลงท้ายด้วย -áis\n- cantar → cant + áis = cantáis\nรูปนี้ใช้เป็นหลักในประเทศสเปน",
+    "conjugation_info": "cantar - present: canto, cantas, canta, cantamos, cantáis, cantan",
+    "hint": null
   },
   "q_gram_a1_09_010": {
     "question": "We speak Spanish and English.",
@@ -1167,14 +1173,15 @@
     "conjugation_info": "Hay in negative: No hay nada (nothing), No hay nadie (nobody), No hay ningún... (not any)"
   },
   "q_gram_a1_11_010": {
-    "question": "There is a park in my city.",
+    "question": "ในเมืองของฉันมีสวนสาธารณะแห่งหนึ่ง",
     "correct": "Hay un parque en mi ciudad.",
     "wrong": [
       "El parque está en mi ciudad.",
       "Es un parque en mi ciudad.",
       "Están un parque en mi ciudad."
     ],
-    "explanation": "We use 'hay' ไปยัง introduce something สำหรับ first เวลา (exisสิบce).\n- Hay un parque = มี a สวนสาธารณะ (first mention, non-specific).\nIf we then talk about นั้น สวนสาธารณะ specifically: El parque está cerca."
+    "explanation": "เราใช้ 'hay' เพื่อแนะนำสิ่งใดสิ่งหนึ่งเป็นครั้งแรก (การมีอยู่)\n- Hay un parque = มีสวนสาธารณะแห่งหนึ่ง (พูดถึงครั้งแรก ไม่เจาะจง)\nถ้าต่อจากนั้นพูดถึงสวนนั้นโดยเฉพาะ: El parque está cerca.",
+    "hint": null
   },
   "q_gram_a1_12_001": {
     "question": "___ hermana se llama Ana. (fill ใน: my, สำหรับ a เพศหญิง คำนาม)",
@@ -1477,14 +1484,15 @@
     "hint": "'de' expresses ownership หรือ belonging"
   },
   "q_gram_a1_14_009": {
-    "question": "I am at the bank.",
+    "question": "ฉันอยู่ที่ธนาคาร",
     "correct": "Estoy en el banco.",
     "wrong": [
       "Estoy a el banco.",
       "Estoy de el banco.",
       "Soy en el banco."
     ],
-    "explanation": "'en' ใช้ สำหรับ being at/ใน a loแมวion (กับ estar).\n- Estoy en el banco. = I am at bank.\nLoแมวion uses estar + en, not ser."
+    "explanation": "'en' ใช้บอกว่าอยู่ที่/ใน สถานที่ใดสถานที่หนึ่ง (กับ estar)\n- Estoy en el banco. = ฉันอยู่ที่ธนาคาร\nการบอกสถานที่ใช้ estar + en ไม่ใช้ ser",
+    "hint": null
   },
   "q_gram_a1_14_010": {
     "question": "Vengo ___ trabajo. (I come จาก work. — de + el)",
@@ -1505,8 +1513,8 @@
       "Dónde",
       "Cuándo"
     ],
-    "explanation": "'¿Qué hora es?' = อะไร เวลา เป็น มัน?\n'Qué' ใช้เพื่อ ask 'อะไร' เมื่อไหร่ seeking a definition หรือ general inสำหรับmation.\nNote accent mark on question words.",
-    "hint": "Which question คำ แปลว่า 'อะไร'?"
+    "explanation": "'¿Qué hora es?' = ตอนนี้กี่โมงแล้ว\n'Qué' ใช้ถามว่า 'อะไร' เมื่อต้องการนิยามหรือข้อมูลทั่วไป\nสังเกตเครื่องหมายขีดบนคำถามด้วย",
+    "hint": "คำถามคำไหนแปลว่า 'อะไร'?"
   },
   "q_gram_a1_15_002": {
     "question": "¿___ vives?",
@@ -1595,14 +1603,15 @@
     "conjugation_info": "¿Cuánto cuesta? (price), ¿Cuántos libros? (counโต๊ะ m.), ¿Cuántas perลูกชายas? (counโต๊ะ f.)"
   },
   "q_gram_a1_15_010": {
-    "question": "Where is the bathroom?",
+    "question": "ห้องน้ำอยู่ที่ไหน",
     "correct": "¿Dónde está el baño?",
     "wrong": [
       "¿Dónde es el baño?",
       "¿Cuál está el baño?",
       "¿Cómo está el baño?"
     ],
-    "explanation": "'Dónde' + estar ใช้เพื่อ ask about loแมวion.\n- ¿Dónde está el baño? = ที่ไหน เป็น bathroom?\nLoแมวion ของ specific things เสมอ uses estar, not ser."
+    "explanation": "'Dónde' + estar ใช้ถามเกี่ยวกับตำแหน่งที่ตั้ง\n- ¿Dónde está el baño? = ห้องน้ำอยู่ที่ไหน\nตำแหน่งของสิ่งของเฉพาะเจาะจงใช้ estar เสมอ ไม่ใช่ ser",
+    "hint": null
   },
   "q_gram_a1_16_001": {
     "question": "Yo ___ español. (I do not speak Spanish.) (use ถูกต้อง negation)",
@@ -1915,15 +1924,16 @@
     "explanation": "Age uses สิบer + number + años (not ser หรือ estar).\n- Tiene treinta años. = She เป็น 30 years เก่า/แก่.\n- ¿Cuántos años tienes? = อย่างไร เก่า/แก่ เป็น คุณ?"
   },
   "q_gram_a1_18_010": {
-    "question": "Ellos ___ prisa. (They are in a hurry.) (conjugate tener)",
+    "question": "Ellos ___ prisa. (พวกเขากำลังรีบ) (ผันกริยา tener)",
     "correct": "tienen",
     "wrong": [
       "tiene",
       "tenemos",
       "tenéis"
     ],
-    "explanation": "'สิบer prisa' = ไปยัง เป็น ใน a hurry (lit. ไปยัง มี hurry).\n- Ellos tienen prisa. = พวกเขา เป็น ใน a hurry.\n ellos สำหรับm ของ สิบer เป็น 'tienen' (ไม่สม่ำเสมอ รากศัพท์: tien-).",
-    "conjugation_info": "สิบer - present: สิบgo, tienes, tiene, สิบemos, สิบéis, tienen"
+    "explanation": "'tener prisa' = รีบ (ตามตัวอักษร: มีความรีบ)\n- Ellos tienen prisa. = พวกเขากำลังรีบ\nรูปของ ellos ของ tener คือ 'tienen' (รากไม่ปกติ: tien-)",
+    "conjugation_info": "สิบer - present: สิบgo, tienes, tiene, สิบemos, สิบéis, tienen",
+    "hint": null
   },
   "q_gram_a1_19_001": {
     "question": "Yo ___ a la escuela.",
@@ -2023,14 +2033,15 @@
     "conjugation_info": "ir - present: voy, vas, va, vamos, vais, van"
   },
   "q_gram_a1_19_010": {
-    "question": "I go to the supermarket.",
+    "question": "ฉันไปซูเปอร์มาร์เก็ต",
     "correct": "Voy al supermercado.",
     "wrong": [
       "Voy a el supermercado.",
       "Voy en el supermercado.",
       "Voy el supermercado."
     ],
-    "explanation": "ir + a + el contracts ไปยัง ir + al.\n- Voy al supermercado. (a + el = al)\n contraction 'al' เป็น ผู้ชายdatory; 'a el' เป็น incorrect."
+    "explanation": "ir + a + el ต้องย่อเป็น ir + al\n- Voy al supermercado. (a + el = al)\nการย่อเป็น 'al' เป็นข้อบังคับ 'a el' ผิด",
+    "hint": null
   },
   "q_gram_a1_20_001": {
     "question": "¿Cuánto cuesta? — Cuesta ___ euros. (15)",

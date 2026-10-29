@@ -76,14 +76,15 @@
     "hint": "это construction replaces 'si + pluperfect сослагательное наклонение' с 'de + compound инфинитив'"
   },
   "q_gram_c2_01_008": {
-    "question": "это был precisely his arrogance то led к his downfall.",
+    "question": "Именно его высокомерие привело к его падению.",
     "correct": "Fue precisamente su arrogancia lo que provocó su caída.",
     "wrong": [
       "Fue precisamente su arrogancia que provocó su caída.",
       "Era precisamente su arrogancia la que provocaba su caída.",
       "Precisamente su arrogancia fue que provocó su caída."
     ],
-    "explanation": "это является cleft sentence (oración hendida) focusing на 'su arrogancia'. поскольку focused element есть abstract concept rather than specific gendered существительное functioning as subject relative, neuter 'lo que' используется (не 'la que'). претерит 'fue...provocó' указывает на completed past event. Omitting 'lo' перед 'que' является обычный error."
+    "explanation": "Это расщеплённое предложение (oración hendida) с акцентом на 'su arrogancia'. Поскольку выделяемый элемент — абстрактное понятие, а не конкретное существительное определённого рода в роли подлежащего относительного предложения, используется средний род 'lo que' (а не 'la que'). Претерит 'fue...provocó' указывает на завершённое событие в прошлом. Пропуск 'lo' перед 'que' — распространённая ошибка.",
+    "hint": null
   },
   "q_gram_c2_01_009": {
     "question": "Cuanto más se ___ en el tema, más complejo le parecía. (adentrar, сослагательное прошедшего времени, él — literary concessive escalation)",
@@ -875,25 +876,27 @@
     "hint": "глагол regime test: 'alegrarse DE algo' → 'de que' есть обязательно"
   },
   "q_gram_c2_09_003": {
-    "question": "что error does sentence 'Pienso de que deberías estudiar más' contain?",
-    "correct": "Dequeísmo: the incorrect insertion of 'de' before 'que' — it should be 'Pienso que deberías estudiar más'",
+    "question": "Какую ошибку содержит предложение 'Pienso de que deberías estudiar más'?",
+    "correct": "Dequeísmo: ошибочная вставка 'de' перед 'que' — правильно 'Pienso que deberías estudiar más'",
     "wrong": [
-      "Queísmo: a missing preposition before 'que'",
-      "Leísmo: incorrect use of an indirect object pronoun",
-      "Loísmo: incorrect use of a direct object pronoun"
+      "Queísmo: пропуск предлога перед 'que'",
+      "Leísmo: неправильное использование местоимения косвенного дополнения",
+      "Loísmo: неправильное использование местоимения прямого дополнения"
     ],
-    "explanation": "Dequeísmo есть insertion 'de' перед 'que' где это does не belong. Test: 'Pienso ALGO' (не *'pienso DE algo'), поэтому 'pienso que' есть правильный и 'pienso de que' есть dequeísmo. это error есть stigmatized в формальный испанский и является hallmark diagnostic at C2 level."
+    "explanation": "Dequeísmo — это вставка 'de' перед 'que' там, где её быть не должно. Проверка: 'Pienso ALGO' (а не *'pienso DE algo'), значит правильно 'pienso que', а 'pienso de que' — dequeísmo. Эта ошибка осуждается в формальном испанском и является типичным диагностическим признаком уровня C2.",
+    "hint": null
   },
   "q_gram_c2_09_004": {
-    "question": "Los estudiantes, ___ por la noticia, salieron del aula en silencio. (conmover, причастие прошедшего времени agreeing с subject — правильный concordance)",
+    "question": "Los estudiantes, ___ por la noticia, salieron del aula en silencio. (conmover, причастие прошедшего времени, согласованное с подлежащим — правильное согласование)",
     "correct": "conmovidos",
     "wrong": [
       "conmovido",
       "conmocionados",
       "conmoviendo"
     ],
-    "explanation": " past причастие в absolute participial clause должен agree в gender и number с существительное это modifies. 'Los estudiantes' есть мужского рода множественного числа, поэтому 'conmovidos' есть required. Using 'conmovido' (мужского рода единственного числа) бы быть concordance error (error de concordancia). Note: 'conmoviendo' (герундий) бы create different construction entirely.",
-    "conjugation_info": "conmover (past причастие): conmovido/a/os/as — agrees с noun в absolute constructions"
+    "explanation": "Причастие прошедшего времени в абсолютной причастной конструкции должно согласовываться в роде и числе с существительным, к которому относится. 'Los estudiantes' — мужской род, множественное число, поэтому нужно 'conmovidos'. Форма 'conmovido' (мужской род, единственное число) была бы ошибкой согласования (error de concordancia). Примечание: 'conmoviendo' (герундий) создало бы совсем другую конструкцию.",
+    "conjugation_info": "conmover (past причастие): conmovido/a/os/as — agrees с noun в absolute constructions",
+    "hint": null
   },
   "q_gram_c2_09_005": {
     "question": "Han habido muchos problemas este año. → Identify and correct the error.",
@@ -1281,15 +1284,15 @@
     "conjugation_info": "llevar (pretérito indefinido): llevé, llevaste, llevó, llevamos, llevasteis, llevaron"
   },
   "q_gram_c2_13_001": {
-    "question": "Vi al hombre con el ___ . (который слово resolves ambiguity из 'I saw man с telescope'?)",
+    "question": "Vi al hombre con el ___ . (Какое слово снимает неоднозначность фразы «Я увидел человека с телескопом»?)",
     "correct": "telescopio",
     "wrong": [
       "binocular",
       "lente",
       "ojo"
     ],
-    "explanation": " sentence 'Vi al hombre con el telescopio' есть structurally ambiguous: 'con el telescopio' может modify 'vi' (I saw using telescope) или 'al hombre' (man кто had telescope). Это classic PP-attachment ambiguity. fill-в itself есть unambiguous — 'telescopio' есть instrument — но sentence structure remains ambiguous.",
-    "hint": " prepositional phrase 'con el telescopio' может attach к two different elements"
+    "explanation": "Предложение 'Vi al hombre con el telescopio' структурно неоднозначно: 'con el telescopio' может относиться к 'vi' (я увидел с помощью телескопа) или к 'al hombre' (человек, у которого был телескоп). Это классическая неоднозначность присоединения предложной группы. Само слово для заполнения однозначно — 'telescopio' это инструмент, — но структура предложения остаётся неоднозначной.",
+    "hint": "Предложная группа 'con el telescopio' может присоединяться к двум разным элементам"
   },
   "q_gram_c2_13_002": {
     "question": "Cada estudiante entregó ___ trabajo a su profesor. (possessive то creates ambiguity)",
@@ -1493,15 +1496,15 @@
     "conjugation_info": "abordar (имперфект сослагательное наклонение): abordara, abordaras, abordara, abordáramos, abordarais, abordaran"
   },
   "q_gram_c2_15_001": {
-    "question": "Si yo ___ tú, no aceptaría esa oferta. (ser, сослагательное прошедшего времени — a basic условное наклонение structure reviewed at mastery level)",
+    "question": "Si yo ___ tú, no aceptaría esa oferta. (ser, имперфект сослагательного наклонения — базовая условная конструкция, повторяемая на уровне владения в совершенстве)",
     "correct": "fuera",
     "wrong": [
       "sería",
       "sea",
       "fui"
     ],
-    "explanation": "'Si yo fuera tú' (if I были ты) uses имперфект сослагательное наклонение в si-clause present contrary-к-fact условное наклонение. Это one большинство fundamental structures в испанский, first encountered at B1-B2 но requiring complete mastery at C2. условное наклонение 'aceptaría' follows в main clause.",
-    "hint": "Contrary-к-fact conditionals require имперфект сослагательное наклонение в si-clause"
+    "explanation": "'Si yo fuera tú' (если бы я был тобой) использует имперфект сослагательного наклонения в придаточной с si в условном предложении, нереальном для настоящего. Это одна из самых основных структур испанского языка: с ней знакомятся на уровне B1–B2, но на C2 нужно владеть ею безупречно. Далее в главной части следует условное наклонение 'aceptaría'.",
+    "hint": "Условные предложения с нереальным условием требуют имперфекта сослагательного наклонения в придаточной с si"
   },
   "q_gram_c2_15_002": {
     "question": "Habiéndose ___ todas las pruebas, el juez dictó sentencia. (presentar, причастие прошедшего времени в absolute participial clause)",

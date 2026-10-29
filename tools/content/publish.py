@@ -4,7 +4,9 @@
     python3 tools/content/publish.py --check     validate only (no build, no deploy)
     python3 tools/content/publish.py             validate → build content-cdn/public → wrangler deploy
 
-Source of truth is assets/data/ (the same files the app bundles). Edit there, then publish.
+Source of truth: the Spanish part of every question lives once in content-src/master/ (master.py);
+the locale files in assets/data/ carry only the learner's language. Publishing is refused if any locale
+asks a different Spanish question than the master.
 The next app build bundles the same files, so bundled and served data never drift apart.
 """
 import hashlib, json, os, shutil, subprocess, sys
@@ -55,6 +57,12 @@ def main():
         bad += bool(errs)
         manifest[rel] = {"sha256": hashlib.sha256(raw).hexdigest(), "bytes": len(raw)}
     print(f"{len(manifest)} files · {bad} with problems")
+    # every locale must ask the same Spanish question as the master (tools/content/master.py) — 10-29
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    import master
+    if master.check():
+        bad += 1
+        print("❌ some locales ask a different question than the master — run master.py repair / translate.py")
     if bad:
         sys.exit("🔴 fix the files above — nothing published")
     if "--check" in sys.argv:

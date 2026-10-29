@@ -1295,13 +1295,14 @@
   },
   "q_vocab_b1_13_008": {
     "question": "El piso está en las afueras de la ciudad, pero tiene buen transporte.",
-    "correct": "The apartment is on the outskirts of the เมือง, but it has ดี transportation.",
+    "correct": "อพาร์ตเมนต์อยู่ชานเมือง แต่มีระบบขนส่งที่ดี",
     "wrong": [
-      "The apartment is in the center of the เมือง, but it has ดี transportation.",
-      "The บ้าน is outside the ประเทศ, but it has ดี transportation.",
-      "The apartment is on the outskirts of the เมือง, but it has a ดี garage."
+      "อพาร์ตเมนต์อยู่ใจกลางเมือง แต่มีระบบขนส่งที่ดี",
+      "บ้านอยู่นอกประเทศ แต่มีระบบขนส่งที่ดี",
+      "อพาร์ตเมนต์อยู่ชานเมือง แต่มีโรงจอดรถที่ดี"
     ],
-    "explanation": "'Afueras' แปลว่า 'outskirts' หรือ 'suburbs'. 'Piso' แปลว่า 'apartment' ใน Spain. Living on outskirts ofสิบ แปลว่า cheaper rent."
+    "explanation": "'Afueras' หมายถึง 'ชานเมือง' หรือ 'เขตรอบนอก' 'Piso' หมายถึง 'อพาร์ตเมนต์' ในประเทศสเปน การอยู่ชานเมืองมักหมายถึงค่าเช่าถูกกว่า",
+    "hint": null
   },
   "q_vocab_b1_13_009": {
     "question": "คุณ found an apartment คุณ like. อะไร do คุณ need ไปยัง sign beสำหรับe moving ใน?",

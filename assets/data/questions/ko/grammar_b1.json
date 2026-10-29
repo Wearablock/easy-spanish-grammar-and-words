@@ -86,15 +86,16 @@
     "explanation": "'Espero que'(~하기를 바란다) 뒤에는 접속법이 필요합니다. Estudiar의 tú 접속법은 estudies입니다."
   },
   "q_gram_b1_01_009": {
-    "question": "Vosotros ___ las instrucciones con cuidado. (escribir, 접속법 현재, 2인칭 복수)",
+    "question": "Vosotros ___ las instrucciones con cuidado. (escribir, 접속법 현재, vosotros 형)",
     "correct": "escribáis",
     "wrong": [
       "escribís",
       "escribiréis",
       "escribíais"
     ],
-    "explanation": "Escribir의 vosotros 접속법은 반대 어미 -áis를 사용합니다: escribáis.",
-    "conjugation_info": "escribir (present subjunctive): escriba, escribas, escriba, escribamos, escribáis, escriban"
+    "explanation": "escribir의 vosotros 접속법 현재형은 직설법과 반대되는 어미 -áis를 사용합니다: escribáis.",
+    "conjugation_info": "escribir (present subjunctive): escriba, escribas, escriba, escribamos, escribáis, escriban",
+    "hint": null
   },
   "q_gram_b1_01_010": {
     "question": "Es necesario que los alumnos coman en la cafetería.",
@@ -1530,15 +1531,16 @@
     "explanation": "'Por eso'는 '그래서' 또는 '그 때문에'라는 뜻입니다. 'Por'는 원인을 나타냅니다: Llueve mucho, por eso no salgo."
   },
   "q_gram_b1_15_004": {
-    "question": "Hablamos ___ teléfono todas las noches. (por/para, means of communication)",
+    "question": "Hablamos ___ teléfono todas las noches. (por/para, 의사소통 수단)",
     "correct": "por",
     "wrong": [
       "para",
       "en",
       "con"
     ],
-    "explanation": "'Por'는 통신 수단을 나타냅니다: por teléfono, por correo, por internet.",
-    "conjugation_info": "Por: 원인(por la lluvia), 수단(por teléfono), 교환(gracias por), 빈도(por semana). Para: 목적(para aprender), 수신자(para ti), 기한(para el lunes), 비교(para un niño)."
+    "explanation": "'Por'는 의사소통 수단을 나타냅니다: por teléfono, por correo, por internet.",
+    "conjugation_info": "Por: 원인(por la lluvia), 수단(por teléfono), 교환(gracias por), 빈도(por semana). Para: 목적(para aprender), 수신자(para ti), 기한(para el lunes), 비교(para un niño).",
+    "hint": null
   },
   "q_gram_b1_15_005": {
     "question": "El informe es ___ el lunes. (por/para, deadline)",
@@ -1670,14 +1672,15 @@
     "hint": "현재 진행형 = estar + 동명사(-ando/-iendo)"
   },
   "q_gram_b1_16_007": {
-    "question": "숙제를 끝낸 후에 놀러 나갈 수 있어.",
+    "question": "Después de ___ la tarea, puedes salir a jugar. (terminar, 전치사 뒤의 부정사)",
     "correct": "terminar",
     "wrong": [
       "terminando",
       "terminas",
       "terminado"
     ],
-    "explanation": "'Después de'(~한 후에) 뒤에는 부정법을 사용합니다: después de terminar."
+    "explanation": "'después de'(~한 후에) 뒤에는 동사원형(부정사)을 씁니다: después de terminar.",
+    "hint": null
   },
   "q_gram_b1_16_008": {
     "question": "Sin ___ una palabra, salió de la habitación. (decir)",

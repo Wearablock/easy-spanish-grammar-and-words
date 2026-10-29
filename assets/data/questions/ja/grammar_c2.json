@@ -631,21 +631,22 @@
       "—",
       ","
     ],
-    "explanation": " colon 使われる 〜の前 enumeration that has been announced 〜によって cataphoric element (〜で この場合, 'tres ciudades'). この colon signals that what follows specifies または lists what だった previously announced. dash 〜でしょう 〜だけ be appropriate 〜のために parenthetical aside.",
+    "explanation": "コロン(:)は、後方照応の要素(ここでは 'tres ciudades')で予告された列挙の前に使います。コロンは、続く内容が先に予告されたものを具体的に示すことを表します。ダッシュ(—)は挿入的な補足にしか適しません。",
     "explanation_ja": "に関する問題です。",
-    "hint": "この 文 announces list 〜と 'tres ciudades' — what punctuation introduces この enumeration?",
+    "hint": "この文は 'tres ciudades' で列挙を予告しています。列挙を導く句読点は何でしょう?",
     "hint_ja": "問題を注意深く確認してください。"
   },
   "q_gram_c2_06_004": {
-    "question": "〜は何 この grammatical difference between 'Mi hermano, que vive en Madrid, es médico' そして 'Mi hermano que vive en Madrid es médico'?",
-    "correct": "The first (with commas) is a non-restrictive clause implying one brother; the second (without commas) is restrictive, implying there are multiple brothers and identifying which one",
+    "question": "'Mi hermano, que vive en Madrid, es médico' と 'Mi hermano que vive en Madrid es médico' の文法上の違いは何ですか?",
+    "correct": "最初の文(コンマあり)は非制限用法の節で、兄弟が1人であることを示す。2番目の文(コンマなし)は制限用法で、兄弟が複数いて、そのうちのどれかを特定している",
     "wrong": [
-      "There is no grammatical difference; the commas are optional stylistic choices",
-      "The first is informal and the second is formal register",
-      "The first uses the indicative mood and the second implies subjunctive"
+      "文法上の違いはなく、コンマは文体上の任意の選択にすぎない",
+      "最初の文はくだけた表現で、2番目は改まった表現である",
+      "最初の文は直説法を使い、2番目は接続法を暗示している"
     ],
-    "explanation": "スペイン語では, commas around relative clause determine whether それ は explicativa (non-restrictive, providing extra information) または especificativa (restrictive, narrowing down which referent). This punctuation distinction 変わる 意味: 〜と commas, この speaker has one brother; 〜なしに, この speaker has multiple brothers そして は specifying which one.",
-    "explanation_ja": "句読点の用法に関する問題です。"
+    "explanation": "スペイン語では、関係節をコンマで囲むかどうかで、説明的(explicativa、非制限用法で補足情報を与える)か特定的(especificativa、制限用法でどの対象かを絞り込む)かが決まります。この句読点の違いで意味が変わります。コンマありでは話し手の兄弟は1人、コンマなしでは兄弟が複数いて、そのうちの1人を特定しています。",
+    "explanation_ja": "句読点の用法に関する問題です。",
+    "hint": null
   },
   "q_gram_c2_06_005": {
     "question": "El director declaró___ «No habrá más despidos este trimestre». (この director stated___)",
@@ -691,9 +692,9 @@
       ";",
       "—"
     ],
-    "explanation": " colon follows cataphoric expression ('una cosa') that announces what 〜するだろう be specified. この colon introduces この specification 〜の 'una cosa'. これは distinct 〜から この dash (raya), which 〜でしょう 使われた 〜のために parenthetical aside または interruption, not direct specification.",
+    "explanation": "コロンは、後方照応の表現('una cosa')のあとに置かれ、これから具体的に述べる内容を予告します。コロンは 'una cosa' の具体的な内容を導きます。挿入や中断に使うダッシュ(raya)とは異なり、直接の具体化には使いません。",
     "explanation_ja": "に関する問題です。",
-    "hint": "'Una cosa' announces specification — what punctuation mark introduces それ?",
+    "hint": "'Una cosa' は具体的な内容を予告しています。それを導く句読点は何でしょう?",
     "hint_ja": "問題を注意深く確認してください。"
   },
   "q_gram_c2_06_009": {
@@ -988,27 +989,29 @@
     "hint_ja": "問題を注意深く確認してください。"
   },
   "q_gram_c2_09_003": {
-    "question": "What error does この 文 'Pienso de que deberías estudiar más' contain?",
-    "correct": "Dequeísmo: the incorrect insertion of 'de' before 'que' — it should be 'Pienso que deberías estudiar más'",
+    "question": "'Pienso de que deberías estudiar más' という文には、どんな誤りがありますか?",
+    "correct": "Dequeísmo: 'que' の前に 'de' を誤って入れている。正しくは 'Pienso que deberías estudiar más'",
     "wrong": [
-      "Queísmo: a missing preposition before 'que'",
-      "Leísmo: incorrect use of an indirect object pronoun",
-      "Loísmo: incorrect use of a direct object pronoun"
+      "Queísmo: 'que' の前の前置詞が欠けている",
+      "Leísmo: 間接目的語の代名詞の誤用",
+      "Loísmo: 直接目的語の代名詞の誤用"
     ],
-    "explanation": "Dequeísmo は この insertion 〜の 'de' 〜の前 'que' where それ does not belong. Test: 'Pienso ALGO' (not *'pienso DE algo'), したがって 'pienso que' は 正しい そして 'pienso de que' は dequeísmo. This error は stigmatized 〜で 丁寧 スペイン語 そして は hallmark diagnostic 〜で C2 level.",
-    "explanation_ja": "に関する問題です。"
+    "explanation": "Dequeísmo とは、本来不要な 'que' の前に 'de' を入れることです。テスト: 'Pienso ALGO'(*'pienso DE algo' ではない)なので、'pienso que' が正しく 'pienso de que' は dequeísmo です。この誤りは改まったスペイン語では忌避され、C2レベルでの典型的な診断項目です。",
+    "explanation_ja": "に関する問題です。",
+    "hint": null
   },
   "q_gram_c2_09_004": {
-    "question": "Los estudiantes, ___ por la noticia, salieron del aula en silencio. (conmover, 過去分詞 agreeing 〜と subject — 正しい concordance)",
+    "question": "Los estudiantes, ___ por la noticia, salieron del aula en silencio. (conmover、主語に一致する過去分詞 — 正しい一致)",
     "correct": "conmovidos",
     "wrong": [
       "conmovido",
       "conmocionados",
       "conmoviendo"
     ],
-    "explanation": "この 過去分詞 〜で absolute participial clause 〜しなければならない agree 〜で 性 そして 数 〜と 名詞 それ modifies. 'Los estudiantes' は 男性複数, だから 'conmovidos' 必要. Using 'conmovido' (男性単数) 〜でしょう concordance error (error de concordancia). ノート: 'conmoviendo' (現在分詞(-ndo)) 〜でしょう create different construction entirely.",
+    "explanation": "絶対分詞節の過去分詞は、修飾する名詞と性・数を一致させなければなりません。'Los estudiantes' は男性複数なので 'conmovidos' が必要です。'conmovido'(男性単数)を使うと一致の誤り(error de concordancia)になります。なお、'conmoviendo'(ジェルンディオ)では全く別の構文になってしまいます。",
     "explanation_ja": "に関する問題です。",
-    "conjugation_info": "conmover (past participle): conmovido/a/os/as — agrees with the noun in absolute constructions"
+    "conjugation_info": "conmover (past participle): conmovido/a/os/as — agrees with the noun in absolute constructions",
+    "hint": null
   },
   "q_gram_c2_09_005": {
     "question": "Han habido muchos problemas este año. → Identify and correct the error.",
@@ -1211,9 +1214,9 @@
       "hambría",
       "hambres"
     ],
-    "explanation": "スペイン語 使う 'tener hambre' (〜に have hunger) rather than 'estar hambriento' (〜に be hungry). これは 例 〜の transposition, where この grammatical structure shifts 〜から adjective 〜に noun. この 正しい fill は 'hambre' (hunger), 名詞 形.",
+    "explanation": "スペイン語では「お腹がすいている」を 'estar hambriento'(空腹である)ではなく、'tener hambre'(空腹を持つ)で表します。これは文法構造が形容詞から名詞へ移る「転位(transposition)」の例です。正しい補充語は名詞形の 'hambre'(空腹)です。",
     "explanation_ja": "に関する問題です。",
-    "hint": "スペイン語 表す states 〜の being 〜と 'tener + noun' rather than 'ser/estar + adjective'",
+    "hint": "スペイン語では状態を 'ser/estar + 形容詞' ではなく 'tener + 名詞' で表します",
     "hint_ja": "問題を注意深く確認してください。"
   },
   "q_gram_c2_11_002": {

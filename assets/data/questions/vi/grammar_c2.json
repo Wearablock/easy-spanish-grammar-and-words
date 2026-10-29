@@ -76,14 +76,15 @@
     "hint": "này construction replaces 'si + pluperfect thức giả định' với 'de + compound nguyên thể'"
   },
   "q_gram_c2_01_008": {
-    "question": "nó đã là precisely his arrogance đó led đến his downfall.",
+    "question": "Chính sự kiêu ngạo của anh ta là nguyên nhân dẫn đến sự sụp đổ của anh ta.",
     "correct": "Fue precisamente su arrogancia lo que provocó su caída.",
     "wrong": [
       "Fue precisamente su arrogancia que provocó su caída.",
       "Era precisamente su arrogancia la que provocaba su caída.",
       "Precisamente su arrogancia fue que provocó su caída."
     ],
-    "explanation": "Đây là a cleft sentence (oración hendida) focusing on 'su arrogancia'. Since focused element là an abstract concept rather than a specific gendered danh từ functioning as subject của relative, neuter 'lo que' được sử dụng (not 'la que'). quá khứ đơn 'fue...provocó' indicates a completed past event. Omitting 'lo' before 'que' là a phổ biến error."
+    "explanation": "Đây là câu tách (oración hendida) nhấn mạnh vào 'su arrogancia'. Vì thành phần được nhấn mạnh là một khái niệm trừu tượng chứ không phải một danh từ có giống cụ thể đóng vai trò chủ ngữ của mệnh đề quan hệ, nên dùng 'lo que' (trung tính) thay vì 'la que'. Thì quá khứ đơn 'fue...provocó' diễn tả một sự việc đã hoàn tất trong quá khứ. Bỏ 'lo' trước 'que' là một lỗi thường gặp.",
+    "hint": null
   },
   "q_gram_c2_01_009": {
     "question": "Cuanto más se ___ en el tema, más complejo le parecía. (adentrar, quá khứ chưa hoàn thành thức giả định, él — literary concessive escalation)",
@@ -875,25 +876,27 @@
     "hint": "động từ regime test: 'alegrarse DE algo' → 'de que' là mandatory"
   },
   "q_gram_c2_09_003": {
-    "question": "gì error does sentence 'Pienso de que deberías estudiar más' contain?",
-    "correct": "Dequeísmo: the incorrect insertion of 'de' before 'que' — it should be 'Pienso que deberías estudiar más'",
+    "question": "Câu 'Pienso de que deberías estudiar más' mắc lỗi gì?",
+    "correct": "Dequeísmo: thêm 'de' trước 'que' một cách sai — phải nói 'Pienso que deberías estudiar más'",
     "wrong": [
-      "Queísmo: a missing preposition before 'que'",
-      "Leísmo: incorrect use of an indirect object pronoun",
-      "Loísmo: incorrect use of a direct object pronoun"
+      "Queísmo: thiếu giới từ trước 'que'",
+      "Leísmo: dùng sai đại từ tân ngữ gián tiếp",
+      "Loísmo: dùng sai đại từ tân ngữ trực tiếp"
     ],
-    "explanation": "Dequeísmo là insertion của 'de' before 'que' ở đâu nó does not belong. Test: 'Pienso ALGO' (not *'pienso DE algo'), therefore 'pienso que' là đúng và 'pienso de que' là dequeísmo. này error là stigmatized trong trang trọng Tây Ban Nha và là a hallmark diagnostic tại C2 level."
+    "explanation": "Dequeísmo là việc chèn 'de' vào trước 'que' ở nơi không cần. Cách kiểm tra: 'Pienso ALGO' (không nói *'pienso DE algo'), do đó 'pienso que' là đúng còn 'pienso de que' là dequeísmo. Lỗi này bị coi là kém chuẩn mực trong tiếng Tây Ban Nha trang trọng và là dấu hiệu chẩn đoán điển hình ở trình độ C2.",
+    "hint": null
   },
   "q_gram_c2_09_004": {
-    "question": "Los estudiantes, ___ por la noticia, salieron del aula en silencio. (conmover, phân từ quá khứ agreeing với subject — đúng concordance)",
+    "question": "Los estudiantes, ___ por la noticia, salieron del aula en silencio. (conmover, quá khứ phân từ hòa hợp với chủ ngữ — hòa hợp đúng)",
     "correct": "conmovidos",
     "wrong": [
       "conmovido",
       "conmocionados",
       "conmoviendo"
     ],
-    "explanation": " phân từ quá khứ trong an absolute participial clause phải agree trong giống và number với danh từ nó modifies. 'Los estudiantes' là nam tính số nhiều, so 'conmovidos' là required. Using 'conmovido' (nam tính số ít) sẽ là a concordance error (error de concordancia). Note: 'conmoviendo' (danh động từ) sẽ create a different construction entirely.",
-    "conjugation_info": "conmover (past participle): conmovido/a/os/as — agrees with  noun trong absolute constructions"
+    "explanation": "Quá khứ phân từ trong mệnh đề phân từ tuyệt đối phải hòa hợp về giống và số với danh từ mà nó bổ nghĩa. 'Los estudiantes' là giống đực số nhiều, nên cần 'conmovidos'. Dùng 'conmovido' (giống đực số ít) sẽ là lỗi hòa hợp (error de concordancia). Lưu ý: 'conmoviendo' (danh động từ) sẽ tạo ra một cấu trúc hoàn toàn khác.",
+    "conjugation_info": "conmover (past participle): conmovido/a/os/as — agrees with  noun trong absolute constructions",
+    "hint": null
   },
   "q_gram_c2_09_005": {
     "question": "Han habido muchos problemas este año. → Identify and correct the error.",
@@ -1281,15 +1284,15 @@
     "conjugation_info": "llevar (pretérito indefinido): llevé, llevaste, llevó, llevamos, llevasteis, llevaron"
   },
   "q_gram_c2_13_001": {
-    "question": "Vi al hombre con el ___ . (mà từ resolves ambiguity của 'I saw man với telescope'?)",
+    "question": "Vi al hombre con el ___ . (Từ nào giải quyết sự mơ hồ của câu 'I saw the man with the telescope'?)",
     "correct": "telescopio",
     "wrong": [
       "binocular",
       "lente",
       "ojo"
     ],
-    "explanation": " sentence 'Vi al hombre con el telescopio' là structurally ambiguous: 'con el telescopio' có thể modify 'vi' (I saw using telescope) hoặc 'al hombre' ( man ai had telescope). Đây là classic PP-attachment ambiguity. fill-trong itself là unambiguous — 'telescopio' là instrument — nhưng sentence structure remains ambiguous.",
-    "hint": " prepositional phrase 'con el telescopio' có thể attach để two different elements"
+    "explanation": "Câu 'Vi al hombre con el telescopio' mơ hồ về cấu trúc: 'con el telescopio' có thể bổ nghĩa cho 'vi' (tôi nhìn thấy bằng kính thiên văn) hoặc cho 'al hombre' (người đàn ông có kính thiên văn). Đây là kiểu mơ hồ kinh điển về việc gắn cụm giới từ (PP-attachment). Từ cần điền thì rõ ràng — 'telescopio' là dụng cụ — nhưng cấu trúc câu vẫn mơ hồ.",
+    "hint": "Cụm giới từ 'con el telescopio' có thể gắn vào hai thành phần khác nhau"
   },
   "q_gram_c2_13_002": {
     "question": "Cada estudiante entregó ___ trabajo a su profesor. (possessive mà creates ambiguity)",

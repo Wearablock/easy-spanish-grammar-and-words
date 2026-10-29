@@ -1,23 +1,25 @@
 {
   "q_vocab_a1_01_001": {
-    "question": "'hola' の意味は何ですか？",
-    "correct": "やあ／こんにちは",
+    "question": "Che cosa significa 'hola'?",
+    "correct": "ciao",
     "wrong": [
-      "さようなら",
-      "ありがとう",
-      "お願いします"
+      "arrivederci",
+      "grazie",
+      "per favore"
     ],
-    "explanation": "'Hola' はIn spagnolo最も基本的な挨拶です。"
+    "explanation": "'Hola' è il saluto spagnolo più comune, usato a qualsiasi ora del giorno.",
+    "hint": null
   },
   "q_vocab_a1_01_002": {
-    "question": "'gracias' の意味は何ですか？",
-    "correct": "ありがとう",
+    "question": "Che cosa significa 'gracias'?",
+    "correct": "grazie",
     "wrong": [
-      "お願いします",
-      "申し訳ありません",
-      "こんにちは"
+      "per favore",
+      "scusa",
+      "ciao"
     ],
-    "explanation": "'Gracias' は 'ありがとう' という意味です。"
+    "explanation": "'Gracias' significa 'grazie'. Si può dire 'muchas gracias' per 'grazie mille'.",
+    "hint": null
   },
   "q_vocab_a1_01_003": {
     "question": "Buenos ___, ¿cómo estás?",
@@ -27,77 +29,85 @@
       "gracias",
       "hola"
     ],
-    "explanation": "'Buenos días' は 'おはよう' という意味です。"
+    "explanation": "'Buenos días' significa 'buongiorno' ed è un saluto comune usato al mattino.",
+    "hint": null
   },
   "q_vocab_a1_01_004": {
-    "question": "'por favor' の意味は何ですか？",
-    "correct": "お願いします",
+    "question": "Che cosa significa 'por favor'?",
+    "correct": "per favore",
     "wrong": [
-      "ありがとう",
-      "実例ます",
-      "さようなら"
+      "grazie",
+      "mi scusi",
+      "arrivederci"
     ],
-    "explanation": "'Por favor' は丁寧な要求で使われます。"
+    "explanation": "'Por favor' si usa per fare richieste educate, proprio come 'per favore' in italiano.",
+    "hint": null
   },
   "q_vocab_a1_01_005": {
-    "question": "'Lo siento mucho' の 'lo siento' の意味は？",
-    "correct": "申し訳ありません",
+    "question": "Che cosa significa 'lo siento' in 'Lo siento mucho'?",
+    "correct": "Mi dispiace",
     "wrong": [
-      "嬉しいです",
-      "疲れています",
-      "大丈夫です"
+      "Sono felice",
+      "Sono stanco",
+      "Sto bene"
     ],
-    "explanation": "'Lo siento' は 'I'm sorry' という意味です。"
+    "explanation": "'Lo siento' significa letteralmente 'lo sento', ma si usa per dire 'mi dispiace'. 'Mucho' aggiunge enfasi e significa 'molto'.",
+    "hint": null
   },
   "q_vocab_a1_01_006": {
-    "question": "また明日！",
+    "question": "A domani!",
     "correct": "¡Hasta mañana!",
     "wrong": [
       "¡Hasta luego!",
       "¡Buenas noches!",
       "¡Adiós para siempre!"
     ],
-    "explanation": "'Hasta mañana' は 'また明日' という意味です。"
+    "explanation": "'Hasta mañana' significa letteralmente 'fino a domani' e si usa quando si vedrà qualcuno il giorno dopo.",
+    "hint": null
   },
   "q_vocab_a1_01_007": {
-    "question": "「ありがとう」「どういたしまして」",
-    "correct": "de nada",
+    "question": "Che cosa significa 'de nada' in '¡Gracias! — De nada.'?",
+    "correct": "prego",
     "wrong": [
-      "もちろん",
-      "問題ありません",
-      "さようなら"
+      "certo",
+      "nessun problema",
+      "arrivederci"
     ],
-    "explanation": "'De nada' は 'Tu're welcome' という意味です。"
+    "explanation": "'De nada' significa letteralmente 'di niente' ed è la risposta standard a 'gracias'.",
+    "hint": null
   },
   "q_vocab_a1_01_008": {
     "question": "¿Cómo estás?",
-    "correct": "元気ですか？",
+    "correct": "Come stai?",
     "wrong": [
-      "お名前は？",
-      "出身地は？",
-      "年齢は？"
+      "Come ti chiami?",
+      "Di dove sei?",
+      "Quanti anni hai?"
     ],
-    "explanation": "'¿Cómo estás?' は親友への敬語版の質問です。"
+    "explanation": "'¿Cómo estás?' è il modo informale di chiedere 'Come stai?'. La forma formale è '¿Cómo está usted?'.",
+    "hint": null
   },
   "q_vocab_a1_01_009": {
-    "question": "街で誰かとぶつかった。何と言いますか？",
+    "question": "Urti per sbaglio una persona per strada. Che cosa dici?",
     "correct": "¡Perdón!",
     "wrong": [
       "¡Hola!",
       "¡Gracias!",
       "¡Adiós!"
     ],
-    "explanation": "'Perdón' は 'Excuse me' または 'Sorry' という意味です。"
+    "explanation": "'Perdón' significa 'scusa' o 'permesso' e si usa quando si disturba qualcuno senza volerlo.",
+    "hint": null
   },
   "q_vocab_a1_01_010": {
-    "question": "友達の家を夜遅く出る。何と言いますか？",
+    "question": "Stai uscendo dalla casa di un amico a tarda notte. Che cosa dici?",
     "correct": "¡Buenas noches!",
     "wrong": [
       "¡Buenos días!",
       "¡Buenas tardes!",
       "¡Hola!"
     ],
-    "explanation": "'Buenas noches' は夜の挨拶です。"
+    "explanation": "'Buenas noches' significa 'buonanotte' e si usa sia come saluto sia come commiato la sera.",
+    "hint": null
   },
   "q_vocab_a1_02_001": {
     "question": "Cosa does 'madre' significare?",
@@ -540,14 +550,15 @@
     "explanation": "'Pollo' significa 'chicken'. 'Carne' è il/la general parola per 'meat'."
   },
   "q_vocab_a1_06_005": {
-    "question": "I want a glass di orange juice.",
+    "question": "Voglio un bicchiere di succo d'arancia.",
     "correct": "Quiero un vaso de zumo de naranja.",
     "wrong": [
       "Quiero un vaso de leche de naranja.",
       "Quiero una taza de zumo de naranja.",
       "Quiero un vaso de vino de naranja."
     ],
-    "explanation": "'Zumo' significa 'juice' (used in Spain; 'jugo' si usa in Latin America). 'Vaso' significa 'glass'."
+    "explanation": "'Zumo' significa 'succo' (usato in Spagna; in America Latina si usa 'jugo'). 'Vaso' significa 'bicchiere'.",
+    "hint": null
   },
   "q_vocab_a1_06_006": {
     "question": "Cosa does 'pescado' significare in 'El pescado está fresco'?",
@@ -840,14 +851,15 @@
     "explanation": "'Puerta' significa 'door'. 'Abrir la puerta' = 'a open il/la door', 'cerrar la puerta' = 'a close il/la door'."
   },
   "q_vocab_a1_09_005": {
-    "question": "Cosa does 'sofá' significare in 'Me siento en el sofá'?",
-    "correct": "sofa / couch",
+    "question": "Che cosa significa 'sofá' in 'Me siento en el sofá'?",
+    "correct": "divano",
     "wrong": [
-      "chair",
-      "bed",
-      "table"
+      "sedia",
+      "letto",
+      "tavolo"
     ],
-    "explanation": "'Sofá' significa 'sofa' o 'couch'. Il/la sentence significa 'I sit on il/la sofa'. Esso è di solito in il/la 'salón' (living room)."
+    "explanation": "'Sofá' significa 'divano'. La frase significa 'Mi siedo sul divano'. Di solito si trova nel 'salón' (soggiorno).",
+    "hint": null
   },
   "q_vocab_a1_09_006": {
     "question": "Il/la mirror è in il/la bathroom.",
@@ -1250,14 +1262,15 @@
     "explanation": "'Metro' significa 'subway' o 'metro'. Il/la sentence significa 'I take il/la metro a go a il/la center (downtown)'."
   },
   "q_vocab_a1_13_006": {
-    "question": "I go a school on foot.",
+    "question": "Vado a scuola a piedi.",
     "correct": "Voy a la escuela a pie.",
     "wrong": [
       "Voy a la escuela en coche.",
       "Voy a la escuela en tren.",
       "Voy a la escuela en moto."
     ],
-    "explanation": "'A pie' significa 'on foot'. We say 'ir a pie' (a go on foot) rather than 'caminar a' in questo context."
+    "explanation": "'A pie' significa 'a piedi'. In questo contesto si dice 'ir a pie' (andare a piedi) e non 'caminar a'.",
+    "hint": null
   },
   "q_vocab_a1_13_007": {
     "question": "Cosa does 'tren' significare in 'El tren sale a las ocho'?",
@@ -1461,14 +1474,15 @@
     "hint": "Temporary emotions use 'estar', not 'ser'"
   },
   "q_vocab_a1_15_007": {
-    "question": "Cosa does 'enfadado' significare in 'Mi padre está enfadado conmigo'?",
-    "correct": "angry",
+    "question": "Che cosa significa 'enfadado' in 'Mi padre está enfadado conmigo'?",
+    "correct": "arrabbiato",
     "wrong": [
-      "happy",
-      "proud",
-      "disappointed"
+      "felice",
+      "orgoglioso",
+      "deluso"
     ],
-    "explanation": "'Enfadado' significa 'angry'. Il/la sentence significa 'My father è angry con me'. In Latin America, 'enojado' è more comune."
+    "explanation": "'Enfadado' significa 'arrabbiato'. La frase significa 'Mio padre è arrabbiato con me'. In America Latina è più comune 'enojado'.",
+    "hint": null
   },
   "q_vocab_a1_15_008": {
     "question": "¿Cómo estás? — Estoy bien, gracias.",

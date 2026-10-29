@@ -97,14 +97,15 @@
     "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)"
   },
   "q_gram_a1_01_010": {
-    "question": "The hand is cold.",
+    "question": "這隻手很冰。",
     "correct": "La mano está fría.",
     "wrong": [
       "El mano está frío.",
       "La mano es fría.",
       "Las manos están frías."
     ],
-    "explanation": "'mano' 是 女性 despite 詞尾 在 -o (a 關鍵 例外).\nWe 使用 'está' 因爲 感覺 冷 是 a 臨時 狀態.\n- la mano fría (女性 形容詞 agreement)"
+    "explanation": "'mano' 雖然以 -o 結尾,卻是陰性名詞(重要的例外)。\n這裡用 'está',因為覺得冷是暫時的狀態。\n- la mano fría(形容詞與陰性名詞配合)",
+    "hint": null
   },
   "q_gram_a1_02_001": {
     "question": "Voy ___ parque. (fill 在: a + el)",
@@ -172,25 +173,26 @@
     "hint": "flor 是 女性; flores 是 its 複數 形式"
   },
   "q_gram_a1_02_007": {
-    "question": "I work on Mondays.",
+    "question": "我每週一都要上班。",
     "correct": "Trabajo los lunes.",
     "wrong": [
       "Trabajo el lunes.",
       "Trabajo en lunes.",
       "Trabajo lunes."
     ],
-    "explanation": "對於一周某一天的習慣性動作, 使用 'los' + 天.\n- los lunes = on Mondays (habitual)\n- el lunes = on 星期一 (specific, 這 星期一)"
+    "explanation": "表示在星期幾習慣性做的事,用 'los' + 星期。\n- los lunes = 每週一(習慣性)\n- el lunes = 星期一(特定的,這個星期一)",
+    "hint": null
   },
   "q_gram_a1_02_008": {
-    "question": "Trabajo ___ lunes. (I work on Mondays.)",
+    "question": "Trabajo ___ lunes. (我每週一都要上班。)",
     "correct": "los",
     "wrong": [
       "el",
       "la",
       "las"
     ],
-    "explanation": "天 的 week 在 西班牙語 使用 definite 冠詞.\n- 'los lunes' = on Mondays (recurring)\n- 'el lunes' = on 星期一 (one specific 星期一)",
-    "hint": "使用 複數 冠詞 爲 recurring 天"
+    "explanation": "西班牙語的星期名稱前要加定冠詞。\n- 'los lunes' = 每週一(重複發生)\n- 'el lunes' = 星期一(特定的某個星期一)",
+    "hint": "重複發生的日子要用複數冠詞"
   },
   "q_gram_a1_02_009": {
     "question": "Cats are independent.",
@@ -311,14 +313,15 @@
     "conjugation_info": "Indefinite (第一 mention/non-specific): un/una/unos/unas. Definite (known/specific): el/la/los/las."
   },
   "q_gram_a1_03_010": {
-    "question": "There are some books on the table.",
+    "question": "桌上有一些書。",
     "correct": "Hay unos libros en la mesa.",
     "wrong": [
       "Hay los libros en la mesa.",
       "Hay un libros en la mesa.",
       "Están unos libros en la mesa."
     ],
-    "explanation": "'some books' = 'unos libros' (男性 複數 indefinite 冠詞).\nWe 使用 'hay' 爲 existence 和 indefinite 冠詞 爲 non-specific items.\n- Hay unos libros. (existence, non-specific)"
+    "explanation": "「一些書」= 'unos libros'(陽性複數不定冠詞)。\n表示「存在」用 'hay',不特定的事物搭配不定冠詞。\n- Hay unos libros.(存在、不特定)",
+    "hint": null
   },
   "q_gram_a1_04_001": {
     "question": "___ hablamos español. (fill 在 主語 代詞)",
@@ -739,14 +742,15 @@
     "conjugation_info": "Ser verde = green by nature. Estar verde = unripe/not 準備好."
   },
   "q_gram_a1_07_010": {
-    "question": "The book is on the table.",
+    "question": "書在桌上。",
     "correct": "El libro está en la mesa.",
     "wrong": [
       "El libro es en la mesa.",
       "El libro está la mesa.",
       "El libro es la mesa."
     ],
-    "explanation": "Estar 是 用過的 爲 位置 的 objects.\n- El libro está en la mesa. = book 是 on table.\n記住: 位置 的 things 和 人們 總是使用estar."
+    "explanation": "物品的位置用 estar。\n- El libro está en la mesa. = 書在桌上。\n記住:事物和人的所在位置一律用 estar。",
+    "hint": null
   },
   "q_gram_a1_08_001": {
     "question": "La chica es ___. (tall, 陰性 form)",
@@ -835,14 +839,15 @@
     "hint": "在 西班牙語, 形容詞 通常 come 在名詞之後"
   },
   "q_gram_a1_08_009": {
-    "question": "The students are intelligent. (mixed group)",
+    "question": "學生們很聰明。(男女混合的群體)",
     "correct": "Los estudiantes son inteligentes.",
     "wrong": [
       "Las estudiantes son inteligentes.",
       "Los estudiantes son inteligente.",
       "Los estudiantes es inteligentes."
     ],
-    "explanation": "對於混合性別羣體, 使用男性複數形式.\n- los estudiantes = students (mixed 或 所有-male group)\n- 'inteligentes' doesn't 改變 爲 性別, 僅 數.\n男性複數是默認形式 爲 mixed groups."
+    "explanation": "男女混合的群體,使用陽性複數形。\n- los estudiantes = 學生們(男女混合或全是男生)\n- 'inteligentes' 不隨性別變化,只隨數變化。\n男女混合的群體預設用陽性複數。",
+    "hint": null
   },
   "q_gram_a1_08_010": {
     "question": "Es un ___ día. (bad — shortened form 之前 masc. sg. 名詞)",
@@ -942,15 +947,16 @@
     "explanation": "對於-ar動詞, ella 形式 結尾 -a.\n- estudiar → estudi + a = estudia\n- 所有 -ar 動詞 遵循相同的模式: -o, -as, -a, -amos, -áis, -an."
   },
   "q_gram_a1_09_009": {
-    "question": "Vosotros ___ muy bien. (conjugate cantar)",
+    "question": "Vosotros ___ muy bien. (動詞變位:cantar)",
     "correct": "cantáis",
     "wrong": [
       "cantamos",
       "cantan",
       "cantas"
     ],
-    "explanation": "對於-ar動詞, vosotros 形式 結尾 -áis.\n- cantar → cant + áis = cantáis\n這 形式 是 用過的 mainly 在 西班牙.",
-    "conjugation_info": "cantar - present: canto, cantas, canta, cantamos, cantáis, cantan"
+    "explanation": "-ar 動詞的 vosotros 變位字尾是 -áis。\n- cantar → cant + áis = cantáis\n這個變位形式主要用於西班牙。",
+    "conjugation_info": "cantar - present: canto, cantas, canta, cantamos, cantáis, cantan",
+    "hint": null
   },
   "q_gram_a1_09_010": {
     "question": "We speak Spanish and English.",
@@ -1167,14 +1173,15 @@
     "conjugation_info": "Hay in negative: No hay nada (nothing), No hay nadie (nobody), No hay ningún... (not any)"
   },
   "q_gram_a1_11_010": {
-    "question": "There is a park in my city.",
+    "question": "我的城市裡有一座公園。",
     "correct": "Hay un parque en mi ciudad.",
     "wrong": [
       "El parque está en mi ciudad.",
       "Es un parque en mi ciudad.",
       "Están un parque en mi ciudad."
     ],
-    "explanation": "We 使用 'hay' 到 introduce something 爲 第一 時間 (existence).\n- Hay un parque = 那裡 是 a park (第一 mention, non-specific).\nIf we then talk about 那 park specifically: El parque está cerca."
+    "explanation": "第一次介紹某樣事物(表示存在)時用 'hay'。\n- Hay un parque = 有一座公園(第一次提到、不特定)。\n接著如果特別談到那座公園:El parque está cerca.",
+    "hint": null
   },
   "q_gram_a1_12_001": {
     "question": "___ hermana se llama Ana. (fill 在: my, 爲 a 陰性名詞)",
@@ -1477,14 +1484,15 @@
     "hint": "'de' expresses ownership 或 belonging"
   },
   "q_gram_a1_14_009": {
-    "question": "I am at the bank.",
+    "question": "我在銀行。",
     "correct": "Estoy en el banco.",
     "wrong": [
       "Estoy a el banco.",
       "Estoy de el banco.",
       "Soy en el banco."
     ],
-    "explanation": "'en' 是 用過的 爲 是 at/在 a 位置 (與 estar).\n- Estoy en el banco. = I am at bank.\n位置 uses estar + en, not ser."
+    "explanation": "表示處於某個地點用 'en'(搭配 estar)。\n- Estoy en el banco. = 我在銀行。\n表示所在位置要用 estar + en,不用 ser。",
+    "hint": null
   },
   "q_gram_a1_14_010": {
     "question": "Vengo ___ trabajo. (I come 從 work. — de + el)",
@@ -1595,14 +1603,15 @@
     "conjugation_info": "¿Cuánto cuesta? (price), ¿Cuántos libros? (countable m.), ¿Cuántas personas? (countable f.)"
   },
   "q_gram_a1_15_010": {
-    "question": "Where is the bathroom?",
+    "question": "廁所在哪裡?",
     "correct": "¿Dónde está el baño?",
     "wrong": [
       "¿Dónde es el baño?",
       "¿Cuál está el baño?",
       "¿Cómo está el baño?"
     ],
-    "explanation": "'Dónde' + estar 是 用過的 到 ask about 位置.\n- ¿Dónde está el baño? = 哪裡 是 bathroom?\n位置 的 specific things 總是使用estar, not ser."
+    "explanation": "詢問位置用 'Dónde' + estar。\n- ¿Dónde está el baño? = 廁所在哪裡?\n特定事物的所在位置一律用 estar,不用 ser。",
+    "hint": null
   },
   "q_gram_a1_16_001": {
     "question": "Yo ___ español. (I do not speak Spanish.) (use 正確 negation)",
@@ -1915,15 +1924,16 @@
     "explanation": "Age uses tener + 數 + años (not ser 或 estar).\n- Tiene treinta años. = She 是 30 years old.\n- ¿Cuántos años tienes? = 如何 old 是 你?"
   },
   "q_gram_a1_18_010": {
-    "question": "Ellos ___ prisa. (They are in a hurry.) (conjugate tener)",
+    "question": "Ellos ___ prisa. (他們很趕時間。) (請變位:tener)",
     "correct": "tienen",
     "wrong": [
       "tiene",
       "tenemos",
       "tenéis"
     ],
-    "explanation": "'tener prisa' = 到 是 在 a hurry (lit. 到 有 hurry).\n- Ellos tienen prisa. = 他們 是 在 a hurry.\n ellos 形式的 tener 是 'tienen' (不規則 詞根: tien-).",
-    "conjugation_info": "tener - present: tengo, tienes, tiene, tenemos, tenéis, tienen"
+    "explanation": "'tener prisa' = 趕時間(字面為「有匆忙」)。\n- Ellos tienen prisa. = 他們很趕時間。\ntener 的 ellos 變位是 'tienen'(不規則詞幹:tien-)。",
+    "conjugation_info": "tener - present: tengo, tienes, tiene, tenemos, tenéis, tienen",
+    "hint": null
   },
   "q_gram_a1_19_001": {
     "question": "Yo ___ a la escuela.",
@@ -2023,14 +2033,15 @@
     "conjugation_info": "ir - present: voy, vas, va, vamos, vais, van"
   },
   "q_gram_a1_19_010": {
-    "question": "I go to the supermarket.",
+    "question": "我去超市。",
     "correct": "Voy al supermercado.",
     "wrong": [
       "Voy a el supermercado.",
       "Voy en el supermercado.",
       "Voy el supermercado."
     ],
-    "explanation": "ir + a + el contracts 到 ir + al.\n- Voy al supermercado. (a + el = al)\n contraction 'al' 是 mandatory; 'a el' 是 incorrect."
+    "explanation": "ir + a + el 要縮合成 ir + al。\n- Voy al supermercado.(a + el = al)\n必須使用縮合形 'al','a el' 是錯誤的。",
+    "hint": null
   },
   "q_gram_a1_20_001": {
     "question": "¿Cuánto cuesta? — Cuesta ___ euros. (15)",

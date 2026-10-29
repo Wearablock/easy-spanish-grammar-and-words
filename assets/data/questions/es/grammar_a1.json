@@ -76,14 +76,15 @@
     "hint": "no todas las palabras que terminan en -a son femeninas"
   },
   "q_gram_a1_01_008": {
-    "question": "The map is big.",
+    "question": "El mapa es grande.",
     "correct": "El mapa es grande.",
     "wrong": [
       "La mapa es grande.",
       "Los mapas son grandes.",
       "El mapa es pequeño."
     ],
-    "explanation": "'mapa' es masculino a pesar de terminar en -a (another excepción al -a = femenino regla).\n'grande' = 'grande', cual no change para género."
+    "explanation": "'mapa' es masculino aunque termine en -a (otra excepción a la regla -a = femenino).\n'grande' no cambia según el género.",
+    "hint": null
   },
   "q_gram_a1_01_009": {
     "question": "___ fotos son de mi familia. (selecciona la opción correcta article para the plural femenino noun)",
@@ -97,14 +98,15 @@
     "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)"
   },
   "q_gram_a1_01_010": {
-    "question": "The hand is cold.",
+    "question": "La mano está fría.",
     "correct": "La mano está fría.",
     "wrong": [
       "El mano está frío.",
       "La mano es fría.",
       "Las manos están frías."
     ],
-    "explanation": "'mano' es femenino a pesar de terminar en -o (a key excepción).\nWe use 'está' porque feeling frío es a temporary state.\n- la mano fría (femenino adjective agreement)"
+    "explanation": "'mano' es femenino aunque termine en -o (una excepción clave).\nUsamos 'está' porque tener frío es un estado temporal.\n- la mano fría (concordancia del adjetivo femenino)",
+    "hint": null
   },
   "q_gram_a1_02_001": {
     "question": "Voy ___ parque. (fill en: a + el)",
@@ -203,15 +205,16 @@
     "explanation": "En español, general statements require el artículo definido.\n- Los gatos son independientes. (Cats en general)\nInglés omits 'el/la' en general statements, pero Español requires ello."
   },
   "q_gram_a1_02_010": {
-    "question": "Vamos ___ escuela. (fill en: a + la)",
+    "question": "Vamos ___ escuela. (completa: a + la)",
     "correct": "a la",
     "wrong": [
       "al",
       "a las",
       "a el"
     ],
-    "explanation": "El/la contraction solo happens with 'a + el = al'. With 'la', no contraction occurs.\n- Voy al parque (a + el)\n- Voy a la escuela (a + la, no contraction)",
-    "conjugation_info": "Only a + el = al and de + el = del form contractions. Other combinations stay separate."
+    "explanation": "La contracción solo se produce con 'a + el = al'. Con 'la' no hay contracción.\n- Voy al parque (a + el)\n- Voy a la escuela (a + la, sin contracción)",
+    "conjugation_info": "Only a + el = al and de + el = del form contractions. Other combinations stay separate.",
+    "hint": null
   },
   "q_gram_a1_03_001": {
     "question": "Tengo ___ amigo en España.",
@@ -300,25 +303,27 @@
     "explanation": "'algunos flowers' = 'unas flores' (plural femenino indefinite article).\n- unas + plural femenino noun = algunos (unspecified)\n- las + plural femenino noun = el/la (specific)"
   },
   "q_gram_a1_03_009": {
-    "question": "___ gato está en la calle. (A cat is en the street — any cat.)",
+    "question": "___ gato está en la calle. (Un gato está en la calle: cualquier gato.)",
     "correct": "Un",
     "wrong": [
       "El",
       "Unos",
       "La"
     ],
-    "explanation": "We use el artículo indefinido 'un' para primero mention o non-specific reference.\n- Un gato (cualquier cat, primero mention) vs. El gato (a specific cat)\nEsto distinction es crucial para natural Español.",
-    "conjugation_info": "Indefinite (first mention/non-specific): un/una/unos/unas. Definite (known/specific): el/la/los/las."
+    "explanation": "Usamos el artículo indefinido 'un' para una primera mención o una referencia no específica.\n- Un gato (cualquier gato, primera mención) frente a El gato (un gato concreto)\nEsta distinción es esencial para hablar un español natural.",
+    "conjugation_info": "Indefinite (first mention/non-specific): un/una/unos/unas. Definite (known/specific): el/la/los/las.",
+    "hint": null
   },
   "q_gram_a1_03_010": {
-    "question": "There are some books on the table.",
+    "question": "Hay unos libros en la mesa.",
     "correct": "Hay unos libros en la mesa.",
     "wrong": [
       "Hay los libros en la mesa.",
       "Hay un libros en la mesa.",
       "Están unos libros en la mesa."
     ],
-    "explanation": "'algunos books' = 'unos libros' (plural masculino indefinite article).\nWe use 'hay' para existence y el artículo indefinido para non-specific items.\n- Hay unos libros. (existence, non-specific)"
+    "explanation": "'unos libros' = algunos libros (artículo indefinido masculino plural).\nUsamos 'hay' para la existencia y el artículo indefinido para cosas no específicas.\n- Hay unos libros. (existencia, no específico)",
+    "hint": null
   },
   "q_gram_a1_04_001": {
     "question": "___ hablamos español. (fill en the subject pronoun)",
@@ -417,15 +422,16 @@
     "explanation": "Cuando asking about identity with 'usted', '¿Quién es usted?' significa 'Quién son tú?' (formal).\nFíjate en que 'usted' toma el/la same verb form as él/ella (3rd persona singular).\n- ¿Quién es usted? (formal) vs. ¿Quién eres tú? (informal)"
   },
   "q_gram_a1_04_010": {
-    "question": "Yo hablo español, ___ habla francés. (conjugate with the correct pronoun para 'she')",
+    "question": "Yo hablo español, ___ habla francés. (usa el pronombre correcto para «ella»)",
     "correct": "ella",
     "wrong": [
       "él",
       "tú",
       "usted"
     ],
-    "explanation": "Pronombres se usan para enfatizar o a clarify quién es being talked about.\n- Yo hablo español, ella habla francés.\n- Without pronombres, 'habla francés' podría significar he/she/tú(formal) speaks French.",
-    "conjugation_info": "Use pronouns for emphasis: Yo hablo... ella habla... vs just Hablo... Habla..."
+    "explanation": "Los pronombres se usan para enfatizar o aclarar de quién se habla.\n- Yo hablo español, ella habla francés.\n- Sin pronombres, 'habla francés' podría referirse a él, ella o usted (formal).",
+    "conjugation_info": "Use pronouns for emphasis: Yo hablo... ella habla... vs just Hablo... Habla...",
+    "hint": null
   },
   "q_gram_a1_05_001": {
     "question": "Yo ___ estudiante.",
@@ -674,15 +680,16 @@
     "explanation": "Algunos adjetivos change significado with ser vs. estar:\n- ser aburrido = a ser boring (characteristic)\n- estar aburrido = a ser bored (feeling)\nEl verbo choice changes el adjetivo's significado."
   },
   "q_gram_a1_07_004": {
-    "question": "La fiesta ___ en mi casa. (conjugate the correct verb para 'ser/estar')",
+    "question": "La fiesta ___ en mi casa. (usa el verbo correcto para «ser» o «estar»)",
     "correct": "es",
     "wrong": [
       "está",
       "son",
       "están"
     ],
-    "explanation": "Events use 'ser' para location, not 'estar'. Esto es un key excepción!\n- La fiesta es en mi casa. = El/la party es en my casa.\n- Buildings use estar: El cine está en la calle.",
-    "conjugation_info": "Events (fiesta, concierto, reunión) use ser for location: La fiesta es en..."
+    "explanation": "Los eventos usan 'ser' para indicar el lugar, no 'estar'. ¡Es una excepción clave!\n- La fiesta es en mi casa. = La fiesta tiene lugar en mi casa.\n- Los edificios usan estar: El cine está en la calle.",
+    "conjugation_info": "Events (fiesta, concierto, reunión) use ser for location: La fiesta es en...",
+    "hint": null
   },
   "q_gram_a1_07_005": {
     "question": "Pedro ___ listo para el examen.",
@@ -696,15 +703,16 @@
     "hint": "Es Pedro smart, o es he ready?"
   },
   "q_gram_a1_07_006": {
-    "question": "El edificio ___ muy alto. (conjugate the correct verb para a characteristic)",
+    "question": "El edificio ___ muy alto. (usa el verbo correcto para una característica)",
     "correct": "es",
     "wrong": [
       "está",
       "estoy",
       "son"
     ],
-    "explanation": "Ser se usa para inherent physical characteristics.\n- El edificio es alto. = El/la building es tall.\nHeight es a permanent characteristic del building.",
-    "conjugation_info": "Ser = permanent traits: Es alto, es grande, es bonito. Estar = temporary states."
+    "explanation": "Ser se usa para las características físicas inherentes.\n- El edificio es alto. = El edificio tiene mucha altura.\nLa altura es una característica permanente del edificio.",
+    "conjugation_info": "Ser = permanent traits: Es alto, es grande, es bonito. Estar = temporary states.",
+    "hint": null
   },
   "q_gram_a1_07_007": {
     "question": "Hoy yo ___ muy contento.",
@@ -728,25 +736,27 @@
     "explanation": "Ser + de = origin/donde alguien es from.\n- Ella es de México = She es from Mexico (origin, permanent).\n- Ella está en México = She es en Mexico (location, possibly temporary)."
   },
   "q_gram_a1_07_009": {
-    "question": "La manzana ___ verde. (The apple is green — it is not ripe yet.)",
+    "question": "La manzana ___ verde. (La manzana tiene color verde: todavía no está madura.)",
     "correct": "está",
     "wrong": [
       "es",
       "son",
       "están"
     ],
-    "explanation": "With colors, estar significa a temporary/changeable state (unripe → will ripen).\n- La manzana está verde = El/la apple es green (not ripe, temporary).\n- La manzana es verde = El/la apple es green (por nature, su variety).",
-    "conjugation_info": "Ser verde = green by nature. Estar verde = unripe/not ready."
+    "explanation": "Con los colores, estar indica un estado temporal o cambiante (sin madurar → madurará).\n- La manzana está verde = La manzana aún no está madura (temporal).\n- La manzana es verde = La manzana es verde por naturaleza (es su variedad).",
+    "conjugation_info": "Ser verde = green by nature. Estar verde = unripe/not ready.",
+    "hint": null
   },
   "q_gram_a1_07_010": {
-    "question": "The book is on the table.",
+    "question": "El libro está en la mesa.",
     "correct": "El libro está en la mesa.",
     "wrong": [
       "El libro es en la mesa.",
       "El libro está la mesa.",
       "El libro es la mesa."
     ],
-    "explanation": "Estar se usa para el/la location de objetos.\n- El libro está en la mesa. = El/la book es en el/la table.\nRemember: location de things y personas siempre uses estar."
+    "explanation": "Estar se usa para la ubicación de los objetos.\n- El libro está en la mesa. = El libro se encuentra sobre la mesa.\nRecuerda: la ubicación de cosas y personas siempre usa estar.",
+    "hint": null
   },
   "q_gram_a1_08_001": {
     "question": "La chica es ___. (tall, femenino form)",
@@ -782,14 +792,15 @@
     "hint": "Algunos adjetivos tener a shortened form antes de sustantivos"
   },
   "q_gram_a1_08_004": {
-    "question": "¿Qué es the correct plural femenino form de 'bonito'?",
+    "question": "¿Cuál es la forma correcta del femenino plural de 'bonito'?",
     "correct": "bonitas",
     "wrong": [
       "bonitos",
       "bonita",
       "bonite"
     ],
-    "explanation": "Adjetivos que termina en -o tener four forms:\n- bonito (m. sg.) → bonita (f. sg.)\n- bonitos (m. pl.) → bonitas (f. pl.)"
+    "explanation": "Los adjetivos que terminan en -o tienen cuatro formas:\n- bonito (m. sing.) → bonita (f. sing.)\n- bonitos (m. pl.) → bonitas (f. pl.)",
+    "hint": null
   },
   "q_gram_a1_08_005": {
     "question": "Las lecciones son ___. (easy, plural)",
@@ -835,14 +846,15 @@
     "hint": "En español, adjetivos normalmente venir después de el sustantivo"
   },
   "q_gram_a1_08_009": {
-    "question": "The students are intelligent. (mixed group)",
+    "question": "Los estudiantes son inteligentes. (grupo mixto)",
     "correct": "Los estudiantes son inteligentes.",
     "wrong": [
       "Las estudiantes son inteligentes.",
       "Los estudiantes son inteligente.",
       "Los estudiantes es inteligentes."
     ],
-    "explanation": "Para mixed-género groups, use el plural masculino form.\n- los estudiantes = el/la students (mixed o todos-male group)\n- 'inteligentes' no change para género, solo número.\nplural masculino es el/la default para mixed groups."
+    "explanation": "En los grupos de género mixto se usa el plural masculino.\n- los estudiantes = grupo mixto o solo de chicos\n- 'inteligentes' no cambia según el género, solo según el número.\nEl plural masculino es la forma por defecto en los grupos mixtos.",
+    "hint": null
   },
   "q_gram_a1_08_010": {
     "question": "Es un ___ día. (bad — shortened form before masc. sg. noun)",
@@ -942,15 +954,16 @@
     "explanation": "Para -ar verbos, el/la forma ella termina en -a.\n- estudiar → estudi + a = estudia\n- Todos -ar verbos follow el/la same pattern: -o, -as, -a, -amos, -áis, -an."
   },
   "q_gram_a1_09_009": {
-    "question": "Vosotros ___ muy bien. (conjugate cantar)",
+    "question": "Vosotros ___ muy bien. (conjuga cantar)",
     "correct": "cantáis",
     "wrong": [
       "cantamos",
       "cantan",
       "cantas"
     ],
-    "explanation": "Para -ar verbos, el/la forma vosotros termina en -áis.\n- cantar → cant + áis = cantáis\nEsto form se usa mainly en Spain.",
-    "conjugation_info": "cantar - present: canto, cantas, canta, cantamos, cantáis, cantan"
+    "explanation": "En los verbos en -ar, la forma de vosotros termina en -áis.\n- cantar → cant + áis = cantáis\nEsta forma se usa sobre todo en España.",
+    "conjugation_info": "cantar - present: canto, cantas, canta, cantamos, cantáis, cantan",
+    "hint": null
   },
   "q_gram_a1_09_010": {
     "question": "We speak Spanish and English.",
@@ -996,14 +1009,15 @@
     "hint": "ella es 3rd persona singular"
   },
   "q_gram_a1_10_004": {
-    "question": "¿Qué es the key difference between -er and -ir verb endings?",
-    "correct": "Only the nosotros and vosotros forms differ",
+    "question": "¿Cuál es la diferencia clave entre las terminaciones de los verbos en -er y en -ir?",
+    "correct": "Solo difieren las formas de nosotros y vosotros",
     "wrong": [
-      "All forms are different",
-      "Only the yo form differs",
-      "There is no difference at all"
+      "Todas las formas son diferentes",
+      "Solo difiere la forma de yo",
+      "No hay ninguna diferencia"
     ],
-    "explanation": "El/la -er y -ir conjugacións son nearly identical.\n- Solo nosotros y vosotros differ:\n -er: comemos, coméis / -ir: vivimos, vivís\n Todos other forms share el/la same terminaciones: -o, -es, -e, -en."
+    "explanation": "Las conjugaciones en -er y en -ir son casi idénticas.\n- Solo difieren nosotros y vosotros:\n  -er: comemos, coméis / -ir: vivimos, vivís\n  Todas las demás formas comparten las mismas terminaciones: -o, -es, -e, -en.",
+    "hint": null
   },
   "q_gram_a1_10_005": {
     "question": "¿Tú ___ café? (conjugate beber)",
@@ -1092,14 +1106,15 @@
     "hint": "A specific bank (el banco) uses cual verb?"
   },
   "q_gram_a1_11_003": {
-    "question": "¿Qué es the difference between 'hay' and 'está'?",
-    "correct": "hay = existence, está = location of specific things",
+    "question": "¿Cuál es la diferencia entre 'hay' y 'está'?",
+    "correct": "hay = existencia, está = ubicación de cosas concretas",
     "wrong": [
-      "hay = location, está = existence",
-      "hay = plural only, está = singular only",
-      "they are interchangeable"
+      "hay = ubicación, está = existencia",
+      "hay = solo plural, está = solo singular",
+      "son intercambiables"
     ],
-    "explanation": "'Hay' expresa existence (Hay/son) y se usa con indefinite artículos.\n'Está/Están' expresa el/la location de specific, already-known things.\n- Hay un libro. (A book exists.) / El libro está aquí. (El/la book es aquí.)"
+    "explanation": "'Hay' expresa existencia y se usa con artículos indefinidos.\n'Está/Están' expresa la ubicación de cosas concretas que ya conocemos.\n- Hay un libro. (Existe un libro.) / El libro está aquí. (El libro se encuentra aquí.)",
+    "hint": null
   },
   "q_gram_a1_11_004": {
     "question": "___ muchos estudiantes en la clase. (elige la opción correcta form meaning 'allí are')",
@@ -1146,14 +1161,15 @@
     "hint": "Expressing 'Hay' with quantities uses hay"
   },
   "q_gram_a1_11_008": {
-    "question": "The supermarket is next a the school.",
+    "question": "El supermercado está al lado de la escuela.",
     "correct": "El supermercado está al lado de la escuela.",
     "wrong": [
       "Hay un supermercado al lado de la escuela.",
       "El supermercado es al lado de la escuela.",
       "El supermercado hay al lado de la escuela."
     ],
-    "explanation": "We son talking about a specific supermarket (el supermercado), así we use estar para su location.\n- estar + al lado de = a ser siguiente a\nHay sería used si we said 'Hay a supermarket...' (existence)."
+    "explanation": "Hablamos de un supermercado concreto (el supermercado), así que usamos estar para indicar su ubicación.\n- estar + al lado de = encontrarse junto a\nSe usaría hay si dijéramos 'Hay un supermercado...' (existencia).",
+    "hint": null
   },
   "q_gram_a1_11_009": {
     "question": "no ___ nadie en la oficina. (fill en the form de 'haber' meaning 'allí is')",
@@ -1167,14 +1183,15 @@
     "conjugation_info": "Hay in negative: no hay nada (nothing), no hay nadie (nobody), no hay ningún... (not any)"
   },
   "q_gram_a1_11_010": {
-    "question": "There is a park in my city.",
+    "question": "Hay un parque en mi ciudad.",
     "correct": "Hay un parque en mi ciudad.",
     "wrong": [
       "El parque está en mi ciudad.",
       "Es un parque en mi ciudad.",
       "Están un parque en mi ciudad."
     ],
-    "explanation": "We use 'hay' a introduce algo para el/la primero tiempo (existence).\n- Hay un parque = Hay a park (primero mention, non-specific).\nSi we entonces talk about eso park specifically: El parque está cerca."
+    "explanation": "Usamos 'hay' para presentar algo por primera vez (existencia).\n- Hay un parque = Existe un parque (primera mención, no específico).\nSi después hablamos de ese parque en concreto: El parque está cerca.",
+    "hint": null
   },
   "q_gram_a1_12_001": {
     "question": "___ hermana se llama Ana. (fill en: my, para a femenino noun)",
@@ -1273,15 +1290,16 @@
     "explanation": "El/la personal 'a' es obligatorio antes de personas/familia members as direct objetos.\n- Quiero a mi familia. = I love my familia.\n'mi' stays singular porque 'familia' es a singular noun."
   },
   "q_gram_a1_12_010": {
-    "question": "___ profesores son muy buenos. (our teachers — fill en the correct possessive)",
+    "question": "___ profesores son muy buenos. (nuestros profesores: completa con el posesivo correcto)",
     "correct": "Nuestros",
     "wrong": [
       "Nuestro",
       "Nuestra",
       "Nuestras"
     ],
-    "explanation": "'profesores' es plural masculino, así we need 'nuestros'.\n- nuestro profesor → nuestros profesores\nnuestro/a/os/as es el/la solo possessive eso changes para ambos género y número.",
-    "conjugation_info": "nuestro (m.sg.), nuestra (f.sg.), nuestros (m.pl.), nuestras (f.pl.)"
+    "explanation": "'profesores' es masculino plural, por eso necesitamos 'nuestros'.\n- nuestro profesor → nuestros profesores\nnuestro/a/os/as es el único posesivo que cambia tanto en género como en número.",
+    "conjugation_info": "nuestro (m.sg.), nuestra (f.sg.), nuestros (m.pl.), nuestras (f.pl.)",
+    "hint": null
   },
   "q_gram_a1_13_001": {
     "question": "___ libro es muy interesante.",
@@ -1424,14 +1442,15 @@
     "hint": "Cual preposition expresa direction?"
   },
   "q_gram_a1_14_004": {
-    "question": "¿Qué significa the preposition 'con' ?",
-    "correct": "with",
+    "question": "¿Qué significa la preposición 'con'?",
+    "correct": "en compañía de",
     "wrong": [
-      "without",
-      "for",
-      "from"
+      "sin",
+      "para",
+      "desde"
     ],
-    "explanation": "'con' significa 'with' en español.\n- Café con leche = Coffee with milk.\n- Voy con mis amigos. = I ir with my amigos."
+    "explanation": "'con' expresa compañía o el medio con el que se hace algo.\n- Café con leche = Café acompañado de leche.\n- Voy con mis amigos. = Voy en compañía de mis amigos.",
+    "hint": null
   },
   "q_gram_a1_14_005": {
     "question": "Veo ___ mi madre. (I ver my mother.)",
@@ -1477,14 +1496,15 @@
     "hint": "'de' expresa ownership o belonging"
   },
   "q_gram_a1_14_009": {
-    "question": "I am at the bank.",
+    "question": "Estoy en el banco.",
     "correct": "Estoy en el banco.",
     "wrong": [
       "Estoy a el banco.",
       "Estoy de el banco.",
       "Soy en el banco."
     ],
-    "explanation": "'en' se usa para being en/en a location (with estar).\n- Estoy en el banco. = I am en el/la bank.\nLocation uses estar + en, not ser."
+    "explanation": "'en' se usa para estar en un lugar (con estar).\n- Estoy en el banco. = Me encuentro en el banco.\nLa ubicación usa estar + en, no ser.",
+    "hint": null
   },
   "q_gram_a1_14_010": {
     "question": "Vengo ___ trabajo. (I venir from work. — de + el)",
@@ -1530,15 +1550,16 @@
     "explanation": "'¿Por qué?' = Por qué? (two palabras, with accent en qué)\n- ¿Por qué estudias español? = Por qué do tú study Español?\nnote: 'porque' (one palabra, no accent) = porque."
   },
   "q_gram_a1_15_004": {
-    "question": "¿___ años tienes? (How old are you?) (usa la forma correcta question word)",
+    "question": "¿___ años tienes? (¿Qué edad tienes?) (usa la palabra interrogativa correcta)",
     "correct": "Cuántos",
     "wrong": [
       "Cuántas",
       "Cuánto",
       "Qué"
     ],
-    "explanation": "'Cuántos' concuerda con el plural masculino noun 'años'.\n- ¿Cuántos años tienes? = Cómo muchos años do tú tener? (= Cómo viejo son tú?)\nCuánto changes para género y número: cuánto/cuánta/cuántos/cuántas.",
-    "conjugation_info": "cuánto (m.sg.), cuánta (f.sg.), cuántos (m.pl.), cuántas (f.pl.)"
+    "explanation": "'Cuántos' concuerda con el sustantivo masculino plural 'años'.\n- ¿Cuántos años tienes? (= ¿Qué edad tienes?)\nCuánto cambia según el género y el número: cuánto/cuánta/cuántos/cuántas.",
+    "conjugation_info": "cuánto (m.sg.), cuánta (f.sg.), cuántos (m.pl.), cuántas (f.pl.)",
+    "hint": null
   },
   "q_gram_a1_15_005": {
     "question": "¿___ es tu nombre?",
@@ -1595,14 +1616,15 @@
     "conjugation_info": "¿Cuánto cuesta? (price), ¿Cuántos libros? (countable m.), ¿Cuántas personas? (countable f.)"
   },
   "q_gram_a1_15_010": {
-    "question": "Where is the bathroom?",
+    "question": "¿Dónde está el baño?",
     "correct": "¿Dónde está el baño?",
     "wrong": [
       "¿Dónde es el baño?",
       "¿Cuál está el baño?",
       "¿Cómo está el baño?"
     ],
-    "explanation": "'Dónde' + estar se usa para ask about location.\n- ¿Dónde está el baño? = Donde es el/la bathroom?\nLocation de specific things siempre uses estar, not ser."
+    "explanation": "'Dónde' + estar se usa para preguntar por la ubicación.\n- ¿Dónde está el baño? = ¿En qué lugar se encuentra el baño?\nLa ubicación de cosas concretas siempre usa estar, no ser.",
+    "hint": null
   },
   "q_gram_a1_16_001": {
     "question": "Yo ___ español. (I do not speak Spanish.) (usa la forma correcta negation)",
@@ -1648,15 +1670,16 @@
     "explanation": "'nunca' significa 'nunca'. Ello puede ser placed antes de o después de el verbo:\n- Nunca como carne. = I nunca eat meat.\n- no como carne nunca. = I nunca eat meat. (doble negación)"
   },
   "q_gram_a1_16_005": {
-    "question": "no quiero café, y ella ___ quiere café. (use the word para 'neither')",
+    "question": "No quiero café, y ella ___ quiere café. (usa el opuesto negativo de «también»)",
     "correct": "tampoco",
     "wrong": [
       "también",
       "nunca",
       "nada"
     ],
-    "explanation": "'tampoco' significa 'ni/not o' — el/la negativo counterpart de 'también' (también).\n- Yo no quiero. Ella tampoco quiere. = I no want ello. She no want ello o.",
-    "conjugation_info": "también (also/too) → tampoco (neither/not either)"
+    "explanation": "'tampoco' es el equivalente negativo de 'también': indica que a otra persona le pasa lo mismo en negativo.\n- Yo no quiero. Ella tampoco quiere. = Yo no quiero y ella, igual, no quiere.",
+    "conjugation_info": "también (also/too) → tampoco (neither/not either)",
+    "hint": null
   },
   "q_gram_a1_16_006": {
     "question": "___ llueve aquí.",
@@ -1915,15 +1938,16 @@
     "explanation": "Age uses tener + número + años (not ser o estar).\n- Tiene treinta años. = She es 30 años viejo.\n- ¿Cuántos años tienes? = Cómo viejo son tú?"
   },
   "q_gram_a1_18_010": {
-    "question": "Ellos ___ prisa. (They are in a hurry.) (conjugate tener)",
+    "question": "Ellos ___ prisa. (Van con prisa.) (conjuga tener)",
     "correct": "tienen",
     "wrong": [
       "tiene",
       "tenemos",
       "tenéis"
     ],
-    "explanation": "'tener prisa' = a ser en a hurry (literalmente. para tener hurry).\n- Ellos tienen prisa. = Ellos son en a hurry.\nEl/la forma ellos de tener es 'tienen' (irregular raíz: tien-).",
-    "conjugation_info": "tener - present: tengo, tienes, tiene, tenemos, tenéis, tienen"
+    "explanation": "'tener prisa' significa necesitar hacer algo rápido (lit. tener prisa).\n- Ellos tienen prisa. = Ellos van con prisa.\nLa forma de ellos del verbo tener es 'tienen' (raíz irregular: tien-).",
+    "conjugation_info": "tener - present: tengo, tienes, tiene, tenemos, tenéis, tienen",
+    "hint": null
   },
   "q_gram_a1_19_001": {
     "question": "Yo ___ a la escuela.",
@@ -2023,14 +2047,15 @@
     "conjugation_info": "ir - present: voy, vas, va, vamos, vais, van"
   },
   "q_gram_a1_19_010": {
-    "question": "I go to the supermarket.",
+    "question": "Voy al supermercado.",
     "correct": "Voy al supermercado.",
     "wrong": [
       "Voy a el supermercado.",
       "Voy en el supermercado.",
       "Voy el supermercado."
     ],
-    "explanation": "ir + a + el contracts a ir + al.\n- Voy al supermercado. (a + el = al)\nEl/la contraction 'al' es mandatory; 'a el' es incorrecto."
+    "explanation": "ir + a + el se contrae en ir + al.\n- Voy al supermercado. (a + el = al)\nLa contracción 'al' es obligatoria; 'a el' es incorrecto.",
+    "hint": null
   },
   "q_gram_a1_20_001": {
     "question": "¿Cuánto cuesta? — Cuesta ___ euros. (15)",
@@ -2076,15 +2101,16 @@
     "explanation": "'cincuenta' = 50 (fifty).\nNo confuse with: cinco (5), quince (15), quinientos (500).\n- 50 = cincuenta, 60 = sesenta, 70 = setenta"
   },
   "q_gram_a1_20_005": {
-    "question": "Cuesta ___ euros. (37) (fill en the correct number)",
+    "question": "Cuesta ___ euros. (37) (escribe el número correcto)",
     "correct": "treinta y siete",
     "wrong": [
       "treintasiete",
       "treinta siete",
       "trenta y siete"
     ],
-    "explanation": "Numbers 31-99 follow el/la pattern: tens + y + units (two/three palabras).\n- 37 = treinta y siete (not one palabra como 21-29)\n- 45 = cuarenta y cinco, 98 = noventa y ocho",
-    "conjugation_info": "31+: treinta y uno, treinta y dos... 40: cuarenta, 50: cincuenta..."
+    "explanation": "Los números del 31 al 99 siguen el patrón: decena + y + unidad (dos o tres palabras).\n- 37 = treinta y siete (no se escribe en una sola palabra como del 21 al 29)\n- 45 = cuarenta y cinco, 98 = noventa y ocho",
+    "conjugation_info": "31+: treinta y uno, treinta y dos... 40: cuarenta, 50: cincuenta...",
+    "hint": null
   },
   "q_gram_a1_20_006": {
     "question": "Hay ___ personas aquí. (100)",
@@ -2129,14 +2155,15 @@
     "explanation": "67 = sesenta y siete.\n- sesenta (60) — not seisenta\n- setenta (70) — note: sesenta ≠ setenta\nEstos two (60 y 70) son comúnmente confused."
   },
   "q_gram_a1_20_010": {
-    "question": "Tengo ___ años. (19) (conjugate the correct number form)",
+    "question": "Tengo ___ años. (19) (escribe la forma correcta del número)",
     "correct": "diecinueve",
     "wrong": [
       "diez y nueve",
       "diecenueve",
       "diecynueve"
     ],
-    "explanation": "Numbers 16-19 son compounds: dieci + unit (one palabra).\n- 16 = dieciséis, 17 = diecisiete, 18 = dieciocho, 19 = diecinueve\nEstos fueron originally 'diez y seis' etc. pero son ahora written as one palabra.",
-    "conjugation_info": "16-19: dieciséis, diecisiete, dieciocho, diecinueve (all one word)"
+    "explanation": "Los números del 16 al 19 son compuestos: dieci + unidad (una sola palabra).\n- 16 = dieciséis, 17 = diecisiete, 18 = dieciocho, 19 = diecinueve\nOriginalmente eran 'diez y seis', etc., pero hoy se escriben en una sola palabra.",
+    "conjugation_info": "16-19: dieciséis, diecisiete, dieciocho, diecinueve (all one word)",
+    "hint": null
   }
 }

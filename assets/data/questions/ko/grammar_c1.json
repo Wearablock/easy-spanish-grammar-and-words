@@ -1493,15 +1493,16 @@
     "explanation": "si절에서 조건법('tendría')을 사용하는 것은 스페인어에서 가장 비난받는 오류 중 하나입니다. 규칙은 절대적입니다: 'si' + 불완료 과거 접속법(tuviera), 절대로 'si' + 조건법(tendría)이 아닙니다. 조건법은 주절에서만 사용됩니다: 'compraría'."
   },
   "q_gram_c1_15_006": {
-    "question": "Identify and correct: 'Ayer, Juan y yo fuimos al cine y después cenemos en un restaurante.' (시제 일관성 오류)",
+    "question": "Identify and correct: 'Ayer, Juan y yo fuimos al cine y después cenemos en un restaurante.' (시제 일치 오류)",
     "correct": "cenamos",
     "wrong": [
       "cenábamos",
       "cenaríamos",
       "habíamos cenado"
     ],
-    "explanation": "오류는 점과거가 필요한 곳에 'cenemos'(현재 접속법)를 사용한 것입니다. 두 동사 모두 서술 일관성을 유지하기 위해 같은 과거 시제여야 합니다: 'fuimos al cine y después cenamos'. -ar 동사의 1인칭 복수는 현재와 점과거 직설법에서 동일하지만, 문맥(ayer)이 명확하게 과거임을 나타냅니다.",
-    "conjugation_info": "cenar (점과거): cené, cenaste, cenó, cenamos, cenasteis, cenaron — 참고: 'cenamos'는 현재 직설법과 형태가 동일"
+    "explanation": "오류는 'cenemos'(접속법 현재)이며, 여기에는 단순 과거(pretérito indefinido)인 'cenamos'가 필요합니다. 이야기의 일관성을 위해 두 동사는 같은 과거 시제여야 합니다: 'fuimos al cine y después cenamos'. -ar 동사의 1인칭 복수형은 직설법 현재와 단순 과거에서 형태가 같지만, 문맥(ayer)상 분명히 과거입니다.",
+    "conjugation_info": "cenar (점과거): cené, cenaste, cenó, cenamos, cenasteis, cenaron — 참고: 'cenamos'는 현재 직설법과 형태가 동일",
+    "hint": null
   },
   "q_gram_c1_15_007": {
     "question": "La profesora les explicó el tema a las alumnas y *las* dio unos ejercicios. → ...y ___ dio unos ejercicios. (올바른 간접 목적격 대명사)",
@@ -1524,15 +1525,16 @@
     "explanation": "'깨닫다'(인식하다)는 'darse cuenta de que'이며, 'realizar'가 아닙니다('realizar'는 '실행하다/달성하다'를 의미). 이것은 전형적인 거짓 친구 오류입니다. 또한 'interesting'은 'interesante'입니다('interesada'가 아님, 이는 '흥미를 가진/이기적인'). 완전한 형태는 'darse cuenta de que'입니다('darse cuenta que'는 케이스모)."
   },
   "q_gram_c1_15_009": {
-    "question": "Identify the error and provide the correct form: 'Ojalá que no *haiga* problemas con la entrega.' (haiga → haber의 올바른 현재 접속법 형태)",
+    "question": "Identify the error and provide the correct form: 'Ojalá que no *haiga* problemas con la entrega.' (haiga → haber의 올바른 접속법 현재형)",
     "correct": "haya",
     "wrong": [
       "haigan",
       "habría",
       "hay"
     ],
-    "explanation": "'Haiga'는 haber의 현재 접속법의 비표준 방언 형태입니다. 올바른 형태는 'haya'입니다. 이 오류는 많은 스페인어권 지역의 농촌 및 비격식 어법에서 광범위하지만 격식 문맥에서는 강하게 비난받습니다. 올바른 문장은 'Ojalá que no haya problemas'입니다.",
-    "conjugation_info": "haber (현재 접속법): haya, hayas, haya, hayamos, hayáis, hayan — 절대로 'haiga/haigas/haigan' 아님"
+    "explanation": "'Haiga'는 'haber'의 접속법 현재형을 방언식으로 잘못 쓴 비표준 형태입니다. 올바른 형태는 'haya'입니다. 이 오류는 여러 스페인어권 지역의 시골 말투나 낮은 격식의 말에서 널리 나타나지만, 격식 있는 상황에서는 강하게 낙인찍힙니다. 올바른 문장은 'Ojalá que no haya problemas'입니다.",
+    "conjugation_info": "haber (현재 접속법): haya, hayas, haya, hayamos, hayáis, hayan — 절대로 'haiga/haigas/haigan' 아님",
+    "hint": null
   },
   "q_gram_c1_15_010": {
     "question": "El hecho de que el español tenga tantas variantes regionales no significa que unas sean más correctas que otras.",

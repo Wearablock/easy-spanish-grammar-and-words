@@ -1,23 +1,25 @@
 {
   "q_vocab_b1_01_001": {
-    "question": "'empresa'は何を意味しますか？",
-    "correct": "会社",
+    "question": "Che cosa significa 'empresa'?",
+    "correct": "azienda",
     "wrong": [
-      "従業員",
-      "給料",
-      "契約"
+      "dipendente",
+      "stipendio",
+      "contratto"
     ],
-    "explanation": "'Empresa' significa 'company' o 'business'. Esso si riferisce a a commercial organization."
+    "explanation": "'Empresa' significa 'azienda' o 'impresa'. Indica un'organizzazione commerciale.",
+    "hint": null
   },
   "q_vocab_b1_01_002": {
-    "question": "'sueldo'は何を意味しますか？",
-    "correct": "給料",
+    "question": "Che cosa significa 'sueldo'?",
+    "correct": "stipendio",
     "wrong": [
-      "仕事",
-      "スケジュール",
-      "会議"
+      "lavoro",
+      "orario",
+      "riunione"
     ],
-    "explanation": "'Sueldo' significa 'salary' o 'wage'. Esso's il/la money tu receive per il tuo work ogni month."
+    "explanation": "'Sueldo' significa 'stipendio' o 'paga'. È il denaro che si riceve ogni mese per il proprio lavoro.",
+    "hint": null
   },
   "q_vocab_b1_01_003": {
     "question": "Mi ___ me pidió que terminara el informe antes del viernes.",
@@ -30,44 +32,48 @@
     "explanation": "'Jefe' significa 'boss'. Il/la sentence significa 'My boss asked me a finish il/la report prima Friday.'"
   },
   "q_vocab_b1_01_004": {
-    "question": "'reunión'は何を意味しますか？",
-    "correct": "会議",
+    "question": "Che cosa significa 'reunión'?",
+    "correct": "riunione",
     "wrong": [
-      "面接",
-      "残業",
-      "職位"
+      "colloquio",
+      "straordinari",
+      "posizione"
     ],
-    "explanation": "'Reunión' significa 'meeting'. In il/la workplace, 'tener una reunión' significa 'a avere a meeting'."
+    "explanation": "'Reunión' significa 'riunione'. In ambito lavorativo, 'tener una reunión' significa 'avere una riunione'.",
+    "hint": null
   },
   "q_vocab_b1_01_005": {
-    "question": "仕事の文脈で'horas extra'は何を意味しますか？",
-    "correct": "残業",
+    "question": "Che cosa significa 'horas extra' in ambito lavorativo?",
+    "correct": "straordinari",
     "wrong": [
-      "柔軟な時間",
-      "シフト制",
-      "昼食休憩"
+      "orario flessibile",
+      "lavoro a turni",
+      "pausa pranzo"
     ],
-    "explanation": "'Horas extra' significa 'overtime'. Esso si riferisce a additional hours worked beyond il/la regolare schedule."
+    "explanation": "'Horas extra' significa 'straordinari'. Indica le ore aggiuntive lavorate oltre l'orario normale.",
+    "hint": null
   },
   "q_vocab_b1_01_006": {
-    "question": "明日、仕事の面接があります。",
+    "question": "Domani ho un colloquio di lavoro.",
     "correct": "Tengo una entrevista de trabajo mañana.",
     "wrong": [
       "Tengo un contrato de trabajo mañana.",
       "Tengo una reunión de trabajo mañana.",
       "Tengo un puesto de trabajo mañana."
     ],
-    "explanation": "'Entrevista de trabajo' significa 'job interview'. 'Mañana' significa 'tomorrow'."
+    "explanation": "'Entrevista de trabajo' significa 'colloquio di lavoro'. 'Mañana' significa 'domani'.",
+    "hint": null
   },
   "q_vocab_b1_01_007": {
-    "question": "'contratar'は何を意味しますか？",
-    "correct": "雇う",
+    "question": "Che cosa significa 'contratar'?",
+    "correct": "assumere",
     "wrong": [
-      "解雇する",
-      "辞める",
-      "退職する"
+      "licenziare",
+      "dimettersi",
+      "andare in pensione"
     ],
-    "explanation": "'Contratar' significa 'a hire' o 'a employ'. Il/la opposite è 'despedir' (a fire)."
+    "explanation": "'Contratar' significa 'assumere' o 'dare lavoro a qualcuno'. Il contrario è 'despedir' (licenziare).",
+    "hint": null
   },
   "q_vocab_b1_01_008": {
     "question": "El empleado trabaja a tiempo parcial en la oficina.",
@@ -80,34 +86,37 @@
     "explanation": "'A tiempo parcial' significa 'part-tempo'. 'Empleado' significa 'employee'. Il/la opposite è 'a tiempo completo' (full-tempo)."
   },
   "q_vocab_b1_01_009": {
-    "question": "新しい職位に応募したいと考えています。どのドキュメントを準備する必要がありますか？",
+    "question": "Vuoi candidarti per una nuova posizione. Quale documento devi preparare?",
     "correct": "el currículum",
     "wrong": [
       "el contrato",
       "el horario",
       "el sueldo"
     ],
-    "explanation": "'El currículum' (anche 'currículum vitae' o CV) è il/la document listing il tuo work experience e education per job applications."
+    "explanation": "'El currículum' (anche 'currículum vitae' o CV) è il documento che elenca la tua esperienza lavorativa e la tua formazione per le candidature di lavoro.",
+    "hint": null
   },
   "q_vocab_b1_01_010": {
-    "question": "予算削減のため、会社が人員削減を行っています。何が起こっていますか？",
+    "question": "La tua azienda sta mandando via delle persone a causa dei tagli al budget. Che cosa sta succedendo?",
     "correct": "La empresa está despidiendo empleados.",
     "wrong": [
       "La empresa está contratando empleados.",
       "La empresa está ascendiendo empleados.",
       "La empresa está formando empleados."
     ],
-    "explanation": "'Despedir' significa 'a fire' o 'a let go'. 'La empresa está despidiendo empleados' significa 'Il/la company è firing employees'."
+    "explanation": "'Despedir' significa 'licenziare' o 'mandare via'. 'La empresa está despidiendo empleados' significa 'L'azienda sta licenziando dei dipendenti'.",
+    "hint": null
   },
   "q_vocab_b1_02_001": {
-    "question": "'beca'は何を意味しますか？",
-    "correct": "奨学金",
+    "question": "Che cosa significa 'beca'?",
+    "correct": "borsa di studio",
     "wrong": [
-      "学位",
-      "成績",
-      "科目"
+      "laurea",
+      "voto",
+      "materia"
     ],
-    "explanation": "'Beca' significa 'scholarship'. Students può receive a 'beca' a help pay per il loro studies."
+    "explanation": "'Beca' significa 'borsa di studio'. Gli studenti possono ricevere una 'beca' per aiutarli a pagare gli studi.",
+    "hint": null
   },
   "q_vocab_b1_02_002": {
     "question": "Los estudiantes deben ___ antes del 30 de septiembre.",
@@ -120,64 +129,70 @@
     "explanation": "'Matricularse' significa 'a enroll/register'. Il/la sentence significa 'Students deve enroll prima September 30th.'"
   },
   "q_vocab_b1_02_003": {
-    "question": "学業の文脈で'aprobar'は何を意味しますか？",
-    "correct": "試験に合格する",
+    "question": "Che cosa significa 'aprobar' in ambito scolastico?",
+    "correct": "superare (un esame)",
     "wrong": [
-      "不合格になる",
-      "勉強する",
-      "教える"
+      "bocciare",
+      "studiare",
+      "insegnare"
     ],
-    "explanation": "'Aprobar' significa 'a pass' an exam o course. Il/la opposite è 'suspender' (a fail)."
+    "explanation": "'Aprobar' significa 'superare' un esame o un corso. Il contrario è 'suspender' (bocciare).",
+    "hint": null
   },
   "q_vocab_b1_02_004": {
-    "question": "'asignatura'は何を意味しますか？",
-    "correct": "科目（学校の教科）",
+    "question": "Che cosa significa 'asignatura'?",
+    "correct": "materia (corso scolastico)",
     "wrong": [
-      "課題",
-      "教師",
-      "教室"
+      "compito",
+      "insegnante",
+      "aula"
     ],
-    "explanation": "'Asignatura' significa 'subject' o 'course' in school. Per esempio, 'matemáticas es mi asignatura favorita'."
+    "explanation": "'Asignatura' significa 'materia' o 'corso' a scuola. Per esempio, 'matemáticas es mi asignatura favorita'.",
+    "hint": null
   },
   "q_vocab_b1_02_005": {
-    "question": "彼女は大学の学位を取得したいです。",
+    "question": "Lei vuole fare un corso di laurea all'università.",
     "correct": "Ella quiere estudiar una carrera universitaria.",
     "wrong": [
       "Ella quiere aprobar una carrera universitaria.",
       "Ella quiere suspender una carrera universitaria.",
       "Ella quiere investigar una carrera universitaria."
     ],
-    "explanation": "'Carrera universitaria' significa 'university degree'. 'Estudiar una carrera' è il/la comune expression per pursuing a degree."
+    "explanation": "'Carrera universitaria' significa 'corso di laurea'. 'Estudiar una carrera' è l'espressione comune per indicare che si segue un percorso universitario.",
+    "hint": null
   },
   "q_vocab_b1_02_006": {
-    "question": "教育の文脈で'título'は何を意味しますか？",
-    "correct": "学位/卒業証書",
+    "question": "Che cosa significa 'título' in ambito educativo?",
+    "correct": "titolo di studio / diploma",
     "wrong": [
-      "本のタイトル",
-      "見出し",
-      "職位"
+      "titolo di un libro",
+      "titolo di giornale",
+      "qualifica professionale"
     ],
-    "explanation": "'Título' in education significa 'degree' o 'diploma'. 'Obtener un título' significa 'a obtain a degree'."
+    "explanation": "'Título' in ambito educativo significa 'titolo di studio' o 'diploma'. 'Obtener un título' significa 'conseguire un titolo di studio'.",
+    "hint": null
   },
   "q_vocab_b1_02_007": {
-    "question": "中等教育後の次のレベルは何ですか？（スペイン）",
+    "question": "Uno studente chiede quale sia il passo successivo dopo la scuola secondaria. Quale livello viene dopo in Spagna?",
     "correct": "el bachillerato",
     "wrong": [
       "la educación primaria",
       "la matrícula",
       "la beca"
     ],
-    "explanation": "'Bachillerato' è il/la Spagnolo equivalent di upper secondary education (ages 16-18), taken dopo 'educación secundaria'."
+    "explanation": "'Bachillerato' è l'equivalente spagnolo dell'istruzione secondaria superiore (16-18 anni), che si frequenta dopo la 'educación secundaria'.",
+    "hint": null
   },
   "q_vocab_b1_02_008": {
-    "question": "'Saqué buenas notas este semestre'という文で'nota'は何を意味しますか？",
-    "correct": "成績/評点",
+    "question": "Che cosa significa 'nota' nella frase 'Saqué buenas notas este semestre'?",
+    "correct": "voto",
     "wrong": [
-      "メモ（書かれた）",
-      "ノート",
-      "ニュース"
+      "appunto (scritto)",
+      "quaderno",
+      "notizia"
     ],
-    "explanation": "'Nota' in an academic context significa 'grade' o 'mark'. 'Sacar buenas notas' significa 'a get good grades'."
+    "explanation": "'Nota' in ambito scolastico significa 'voto'. 'Sacar buenas notas' significa 'prendere dei bei voti'.",
+    "hint": null
   },
   "q_vocab_b1_02_009": {
     "question": "Mi hermano suspendió tres asignaturas y tiene que repetir curso.",
@@ -190,34 +205,37 @@
     "explanation": "'Suspender' significa 'a fail'. 'Repetir curso' significa 'a repeat il/la school year'. Questo è comune in il/la Spagnolo education system."
   },
   "q_vocab_b1_02_010": {
-    "question": "学術研究をしたい学生を指導する教授です。何をお勧めしますか？",
+    "question": "Sei un professore e stai guidando uno studente che vuole fare ricerca accademica. Che cosa gli consigli?",
     "correct": "Deberías investigar sobre ese tema.",
     "wrong": [
       "Deberías matricularte en ese tema.",
       "Deberías suspender ese tema.",
       "Deberías graduarte en ese tema."
     ],
-    "explanation": "'Investigar' significa 'a research' o 'a investigate'. 'Investigar sobre un tema' significa 'a research a topic'."
+    "explanation": "'Investigar' significa 'ricercare' o 'indagare'. 'Investigar sobre un tema' significa 'fare ricerca su un argomento'.",
+    "hint": null
   },
   "q_vocab_b1_03_001": {
-    "question": "'medio ambiente'は何を意味しますか？",
-    "correct": "環境",
+    "question": "Che cosa significa 'medio ambiente'?",
+    "correct": "ambiente",
     "wrong": [
-      "メディア",
-      "平均",
-      "雰囲気"
+      "mezzi di comunicazione",
+      "media (valore medio)",
+      "atmosfera"
     ],
-    "explanation": "'Medio ambiente' significa 'environment' in il/la ecological sense. 'Proteger el medio ambiente' significa 'a protect il/la environment'."
+    "explanation": "'Medio ambiente' significa 'ambiente' in senso ecologico. 'Proteger el medio ambiente' significa 'proteggere l'ambiente'.",
+    "hint": null
   },
   "q_vocab_b1_03_002": {
-    "question": "'contaminación'は何を意味しますか？",
-    "correct": "汚染",
+    "question": "Che cosa significa 'contaminación'?",
+    "correct": "inquinamento",
     "wrong": [
-      "食品の汚染",
-      "人口",
-      "保全"
+      "contaminazione degli alimenti",
+      "popolazione",
+      "conservazione"
     ],
-    "explanation": "'Contaminación' significa 'pollution'. 'Contaminación del aire' è 'air pollution' e 'contaminación del agua' è 'water pollution'."
+    "explanation": "'Contaminación' significa 'inquinamento'. 'Contaminación del aire' è 'inquinamento atmosferico' e 'contaminación del agua' è 'inquinamento dell'acqua'.",
+    "hint": null
   },
   "q_vocab_b1_03_003": {
     "question": "Es importante ___ el plástico para reducir los residuos.",
@@ -230,44 +248,48 @@
     "explanation": "'Reciclar' significa 'a recycle'. Il/la sentence significa 'Esso è important a recycle plastic a reduce waste.'"
   },
   "q_vocab_b1_03_004": {
-    "question": "'cambio climático'は何を意味しますか？",
-    "correct": "気候変動",
+    "question": "Che cosa significa 'cambio climático'?",
+    "correct": "cambiamento climatico",
     "wrong": [
-      "天気予報",
-      "季節の変化",
-      "エアコン"
+      "previsioni del tempo",
+      "cambio di stagione",
+      "aria condizionata"
     ],
-    "explanation": "'Cambio climático' significa 'climate change'. Esso si riferisce a long-term shifts in global temperatures e weather patterns."
+    "explanation": "'Cambio climático' significa 'cambiamento climatico'. Indica le variazioni a lungo termine delle temperature globali e dei modelli meteorologici.",
+    "hint": null
   },
   "q_vocab_b1_03_005": {
-    "question": "'energía renovable'は何を意味しますか？",
-    "correct": "再生可能エネルギー",
+    "question": "Che cosa significa 'energía renovable'?",
+    "correct": "energia rinnovabile",
     "wrong": [
-      "原子力エネルギー",
-      "電力",
-      "化石燃料"
+      "energia nucleare",
+      "energia elettrica",
+      "combustibile fossile"
     ],
-    "explanation": "'Energía renovable' significa 'renewable energy', come solar, wind, e hydroelectric power."
+    "explanation": "'Energía renovable' significa 'energia rinnovabile', come quella solare, eolica e idroelettrica.",
+    "hint": null
   },
   "q_vocab_b1_03_006": {
-    "question": "絶滅危機種を保護する必要があります。",
+    "question": "Dobbiamo proteggere le specie in via di estinzione.",
     "correct": "Debemos proteger las especies en peligro.",
     "wrong": [
       "Debemos contaminar las especies en peligro.",
       "Debemos reciclar las especies en peligro.",
       "Debemos deforestar las especies en peligro."
     ],
-    "explanation": "'Proteger' significa 'a protect'. 'Especies en peligro' significa 'endangered species'."
+    "explanation": "'Proteger' significa 'proteggere'. 'Especies en peligro' significa 'specie in pericolo' o 'in via di estinzione'.",
+    "hint": null
   },
   "q_vocab_b1_03_007": {
-    "question": "'deforestación'は何を意味しますか？",
-    "correct": "森林破壊",
+    "question": "Che cosa significa 'deforestación'?",
+    "correct": "deforestazione",
     "wrong": [
-      "森林再生",
-      "砂漠化",
-      "灌漑"
+      "riforestazione",
+      "desertificazione",
+      "irrigazione"
     ],
-    "explanation": "'Deforestación' significa 'deforestation', il/la clearing di forests. Esso è a major environmental concern worldwide."
+    "explanation": "'Deforestación' significa 'deforestazione', cioè l'eliminazione delle foreste. È un grave problema ambientale a livello mondiale.",
+    "hint": null
   },
   "q_vocab_b1_03_008": {
     "question": "Las emisiones de CO2 están aumentando cada año.",
@@ -280,34 +302,37 @@
     "explanation": "'Emisiones' significa 'emissions'. 'Aumentar' significa 'a increase'. Questo sentence discusses rising carbon dioxide levels."
   },
   "q_vocab_b1_03_009": {
-    "question": "あなたの街は新しいグリーン計画を開始しています。良い持続可能性目標は何でしょうか？",
+    "question": "La tua città sta lanciando una nuova iniziativa verde. Quale sarebbe un buon obiettivo di sostenibilità?",
     "correct": "Promover la sostenibilidad y el reciclaje.",
     "wrong": [
       "Aumentar la contaminación industrial.",
       "Reducir el uso de energía renovable.",
       "Eliminar todos los ecosistemas urbanos."
     ],
-    "explanation": "'Sostenibilidad' significa 'sustainability'. Promoting sustainability e recycling è a comune environmental goal."
+    "explanation": "'Sostenibilidad' significa 'sostenibilità'. Promuovere la sostenibilità e il riciclaggio è un obiettivo ambientale molto comune.",
+    "hint": null
   },
   "q_vocab_b1_03_010": {
-    "question": "工場が川にゴミを投棄しているのを見ます。これをどのように説明しますか？",
+    "question": "Vedi una fabbrica che scarica rifiuti in un fiume. Come lo descrivi?",
     "correct": "La fábrica está contaminando el río.",
     "wrong": [
       "La fábrica está reciclando el río.",
       "La fábrica está protegiendo el río.",
       "La fábrica está renovando el río."
     ],
-    "explanation": "'Contaminar' significa 'a pollute'. 'Contaminar el río' significa 'a pollute il/la river'."
+    "explanation": "'Contaminar' significa 'inquinare'. 'Contaminar el río' significa 'inquinare il fiume'.",
+    "hint": null
   },
   "q_vocab_b1_04_001": {
-    "question": "'periodista'は何を意味しますか？",
-    "correct": "ジャーナリスト",
+    "question": "Che cosa significa 'periodista'?",
+    "correct": "giornalista",
     "wrong": [
-      "新聞",
-      "記事",
-      "出版社"
+      "quotidiano",
+      "articolo",
+      "editore"
     ],
-    "explanation": "'Periodista' significa 'journalist'. Esso comes da 'periódico' (newspaper). A periodista writes per media outlets."
+    "explanation": "'Periodista' significa 'giornalista'. Deriva da 'periódico' (quotidiano). Un periodista scrive per i mezzi di informazione.",
+    "hint": null
   },
   "q_vocab_b1_04_002": {
     "question": "El ___ de hoy tiene un artículo muy interesante sobre política.",
@@ -320,64 +345,70 @@
     "explanation": "'Periódico' significa 'newspaper'. Il/la sentence significa 'Today's newspaper ha a molto interesting articolo about politics.'"
   },
   "q_vocab_b1_04_003": {
-    "question": "'redes sociales'は何を意味しますか？",
-    "correct": "ソーシャルメディア",
+    "question": "Che cosa significa 'redes sociales'?",
+    "correct": "social media",
     "wrong": [
-      "対面の社交ネットワーク",
-      "漁網",
-      "テレビチャンネル"
+      "reti sociali (di persona)",
+      "reti da pesca",
+      "canali televisivi"
     ],
-    "explanation": "'Redes sociales' significa 'social media' o 'social networks'. Esso si riferisce a platforms like Instagram, X, e Facebook."
+    "explanation": "'Redes sociales' significa 'social media' o 'social network'. Si riferisce a piattaforme come Instagram, X e Facebook.",
+    "hint": null
   },
   "q_vocab_b1_04_004": {
-    "question": "新聞で'titular'は何を意味しますか？",
-    "correct": "見出し",
+    "question": "Che cosa significa 'titular' in un giornale?",
+    "correct": "titolo (di giornale)",
     "wrong": [
-      "タイトルページ",
-      "編集者",
-      "購読者"
+      "frontespizio",
+      "direttore",
+      "abbonato"
     ],
-    "explanation": "'Titular' significa 'headline' quando referring a newspapers. Esso's il/la main title di a news story."
+    "explanation": "'Titular' significa 'titolo di giornale' quando si parla di quotidiani. È il titolo principale di una notizia.",
+    "hint": null
   },
   "q_vocab_b1_04_005": {
-    "question": "雑誌は気候変動についての記事を発表しました。",
+    "question": "La rivista ha pubblicato un articolo sul cambiamento climatico.",
     "correct": "La revista publicó un artículo sobre el cambio climático.",
     "wrong": [
       "La revista informó un artículo sobre el cambio climático.",
       "El periódico publicó una noticia sobre el cambio climático.",
       "La revista anunció un artículo sobre el cambio climático."
     ],
-    "explanation": "'Publicar' significa 'a publish'. 'Revista' significa 'magazine'. 'Publicar un artículo' è il/la standard expression."
+    "explanation": "'Publicar' significa 'pubblicare'. 'Revista' significa 'rivista'. 'Publicar un artículo' è l'espressione standard.",
+    "hint": null
   },
   "q_vocab_b1_04_006": {
-    "question": "'publicidad'は何を意味しますか？",
-    "correct": "広告",
+    "question": "Che cosa significa 'publicidad'?",
+    "correct": "pubblicità",
     "wrong": [
-      "パブリシティスタント",
-      "公開スペース",
-      "出版"
+      "trovata pubblicitaria",
+      "spazio pubblico",
+      "pubblicazione"
     ],
-    "explanation": "'Publicidad' significa 'advertising'. 'Anuncio' è a single 'advertisement', mentre 'publicidad' è il/la broader concept."
+    "explanation": "'Publicidad' significa 'pubblicità'. 'Anuncio' è un singolo 'annuncio pubblicitario', mentre 'publicidad' è il concetto più ampio.",
+    "hint": null
   },
   "q_vocab_b1_04_007": {
-    "question": "テレビを見ていてコマーシャルブレイクが始まります。何が表示されていますか？",
+    "question": "Stai guardando la TV e inizia la pausa pubblicitaria. Che cosa viene mostrato?",
     "correct": "anuncios",
     "wrong": [
       "noticias",
       "artículos",
       "titulares"
     ],
-    "explanation": "'Anuncio' significa 'advertisement' o 'commercial'. During commercial breaks, tu see 'anuncios'."
+    "explanation": "'Anuncio' significa 'annuncio pubblicitario' o 'spot'. Durante la pausa pubblicitaria si vedono 'anuncios'.",
+    "hint": null
   },
   "q_vocab_b1_04_008": {
-    "question": "'prensa'は何を意味しますか？",
-    "correct": "報道機関、マスコミ",
+    "question": "Che cosa significa 'prensa'?",
+    "correct": "la stampa",
     "wrong": [
-      "圧力",
-      "印刷",
-      "プレゼンテーション"
+      "pressione",
+      "stampa (il stampare)",
+      "presentazione"
     ],
-    "explanation": "'Prensa' significa 'il/la press' o 'media' collectively. 'Libertad de prensa' significa 'freedom di il/la press'."
+    "explanation": "'Prensa' significa 'la stampa' o i 'media' in senso collettivo. 'Libertad de prensa' significa 'libertà di stampa'.",
+    "hint": null
   },
   "q_vocab_b1_04_009": {
     "question": "La cadena de televisión informó sobre el terremoto.",
@@ -390,34 +421,37 @@
     "explanation": "'Cadena de televisión' significa 'television channel/network'. 'Informar sobre' significa 'a report on'."
   },
   "q_vocab_b1_04_010": {
-    "question": "スペインの時事問題について知らせるために、あなたは何をフォローしますか？",
+    "question": "Vuoi restare informato sull'attualità in Spagna. Che cosa segui?",
     "correct": "las noticias de España",
     "wrong": [
       "los anuncios de España",
       "la publicidad de España",
       "las revistas de España"
     ],
-    "explanation": "'Noticias' significa 'news'. Following 'las noticias' keeps tu informed about current events."
+    "explanation": "'Noticias' significa 'notizie'. Seguire 'las noticias' ti tiene informato sull'attualità.",
+    "hint": null
   },
   "q_vocab_b1_05_001": {
-    "question": "アートの文脈で'exposición'は何を意味しますか？",
-    "correct": "展示",
+    "question": "Che cosa significa 'exposición' in ambito artistico?",
+    "correct": "mostra",
     "wrong": [
-      "露出",
-      "説明",
-      "爆発"
+      "esposizione (fotografica)",
+      "spiegazione",
+      "esplosione"
     ],
-    "explanation": "'Exposición' significa 'exhibition' in il/la context di art. 'Ir a una exposición' significa 'a go a an exhibition'."
+    "explanation": "'Exposición' significa 'mostra' in ambito artistico. 'Ir a una exposición' significa 'andare a una mostra'.",
+    "hint": null
   },
   "q_vocab_b1_05_002": {
-    "question": "'obra de arte'は何を意味しますか？",
-    "correct": "芸術作品",
+    "question": "Che cosa significa 'obra de arte'?",
+    "correct": "opera d'arte",
     "wrong": [
-      "美術クラス",
-      "アートスタジオ",
-      "アートギャラリー"
+      "lezione d'arte",
+      "studio d'artista",
+      "galleria d'arte"
     ],
-    "explanation": "'Obra de arte' significa 'work di art'. 'Obra' alone può significare 'work' (literary, artistic) o 'construction work'."
+    "explanation": "'Obra de arte' significa 'opera d'arte'. 'Obra' da sola può significare 'opera' (letteraria, artistica) o 'lavori edili'.",
+    "hint": null
   },
   "q_vocab_b1_05_003": {
     "question": "El ___ del museo contiene cuadros de Picasso y Dalí.",
@@ -430,44 +464,48 @@
     "explanation": "'Galería' può refer a a gallery o section within a museum. Il/la sentence significa 'Il/la museum's gallery contains paintings da Picasso e Dalí.'"
   },
   "q_vocab_b1_05_004": {
-    "question": "'patrimonio cultural'は何を意味しますか？",
-    "correct": "文化遺産",
+    "question": "Che cosa significa 'patrimonio cultural'?",
+    "correct": "patrimonio culturale",
     "wrong": [
-      "文化遺産料",
-      "国立公園",
-      "文化センター"
+      "tassa sul patrimonio culturale",
+      "parco nazionale",
+      "centro culturale"
     ],
-    "explanation": "'Patrimonio cultural' significa 'cultural heritage'. Esso si riferisce a il/la traditions, art, e monuments valued da a society."
+    "explanation": "'Patrimonio cultural' significa 'patrimonio culturale'. Si riferisce alle tradizioni, all'arte e ai monumenti apprezzati da una società.",
+    "hint": null
   },
   "q_vocab_b1_05_005": {
-    "question": "'escultura'は何を意味しますか？",
-    "correct": "彫刻",
+    "question": "Che cosa significa 'escultura'?",
+    "correct": "scultura",
     "wrong": [
-      "絵画",
-      "写真",
-      "素描"
+      "dipinto",
+      "fotografia",
+      "disegno"
     ],
-    "explanation": "'Escultura' significa 'sculpture'. A sculptor ('escultor') creates three-dimensional works di art."
+    "explanation": "'Escultura' significa 'scultura'. Uno scultore ('escultor') crea opere d'arte tridimensionali.",
+    "hint": null
   },
   "q_vocab_b1_05_006": {
-    "question": "作家は先月、彼の最新の小説を出版しました。",
+    "question": "Lo scrittore ha pubblicato il suo ultimo romanzo il mese scorso.",
     "correct": "El escritor publicó su última novela el mes pasado.",
     "wrong": [
       "El pintor publicó su última novela el mes pasado.",
       "El escritor pintó su última novela el mes pasado.",
       "El director publicó su última novela el mes pasado."
     ],
-    "explanation": "'Escritor' significa 'writer'. 'Novela' significa 'novel'. 'Publicar' significa 'a publish'."
+    "explanation": "'Escritor' significa 'scrittore'. 'Novela' significa 'romanzo'. 'Publicar' significa 'pubblicare'.",
+    "hint": null
   },
   "q_vocab_b1_05_007": {
-    "question": "アートで'cuadro'は何を意味しますか？",
-    "correct": "絵画",
+    "question": "Che cosa significa 'cuadro' nell'arte?",
+    "correct": "dipinto",
     "wrong": [
-      "額縁",
-      "正方形",
-      "チャート"
+      "cornice",
+      "quadrato",
+      "grafico"
     ],
-    "explanation": "'Cuadro' significa 'painting' (a framed artwork). Esso può anche significare 'picture' in general quando displayed on a wall."
+    "explanation": "'Cuadro' significa 'dipinto' (un'opera d'arte incorniciata). In generale può anche significare 'quadro' quando è appeso a una parete.",
+    "hint": null
   },
   "q_vocab_b1_05_008": {
     "question": "La arquitectura de Barcelona es famosa en todo el mundo.",
@@ -480,34 +518,37 @@
     "explanation": "'Arquitectura' significa 'architecture'. Barcelona è known per Gaudí's unique architectural works."
   },
   "q_vocab_b1_05_009": {
-    "question": "博物館を訪れて、スペインの巨匠を見たいです。何を尋ねますか？",
+    "question": "Visiti un museo e vuoi vedere i maestri spagnoli. Che cosa chiedi?",
     "correct": "¿Dónde están los cuadros de los pintores españoles?",
     "wrong": [
       "¿Dónde están las novelas de los escritores españoles?",
       "¿Dónde están los poemas de los directores españoles?",
       "¿Dónde están las esculturas de los escritores españoles?"
     ],
-    "explanation": "'Pintores' significa 'painters'. 'Cuadros' significa 'paintings'. Questo è il/la corretto way a ask about paintings da Spagnolo artists."
+    "explanation": "'Pintores' significa 'pittori'. 'Cuadros' significa 'dipinti'. È il modo corretto di chiedere dei dipinti degli artisti spagnoli.",
+    "hint": null
   },
   "q_vocab_b1_05_010": {
-    "question": "詩の朗読イベントに参加します。何を聞いていますか？",
+    "question": "Partecipi a un evento di lettura di poesie. Che cosa stai ascoltando?",
     "correct": "poemas",
     "wrong": [
       "novelas",
       "cuadros",
       "esculturas"
     ],
-    "explanation": "'Poema' significa 'poem'. A 'recital de poesía' (poetry reading) features poets reading il loro 'poemas' aloud."
+    "explanation": "'Poema' significa 'poesia' o 'poema'. In un 'recital de poesía' (lettura di poesie) i poeti leggono ad alta voce i propri 'poemas'.",
+    "hint": null
   },
   "q_vocab_b1_06_001": {
-    "question": "'enamorarse'は何を意味しますか？",
-    "correct": "恋に落ちる",
+    "question": "Che cosa significa 'enamorarse'?",
+    "correct": "innamorarsi",
     "wrong": [
-      "結婚する",
-      "別れる",
-      "離婚する"
+      "sposarsi",
+      "lasciarsi",
+      "divorziare"
     ],
-    "explanation": "'Enamorarse' significa 'a fall in love'. Esso's a reflexive verbo: 'Me enamoré de ella' (I fell in love con her)."
+    "explanation": "'Enamorarse' significa 'innamorarsi'. È un verbo riflessivo: 'Me enamoré de ella' (Mi sono innamorato di lei).",
+    "hint": null
   },
   "q_vocab_b1_06_002": {
     "question": "Mi hermana se ___ con su novio después de cinco años juntos.",
@@ -520,104 +561,114 @@
     "explanation": "'Casarse' significa 'a get married'. Il/la sentence significa 'My sister got married a her boyfriend dopo five years together.'"
   },
   "q_vocab_b1_06_003": {
-    "question": "'llevarse bien'は何を意味しますか？",
-    "correct": "仲が良い",
+    "question": "Che cosa significa 'llevarse bien'?",
+    "correct": "andare d'accordo",
     "wrong": [
-      "上手く運ぶ",
-      "上手く受け取る",
-      "上手に行動する"
+      "portare bene",
+      "prendere bene",
+      "comportarsi bene"
     ],
-    "explanation": "'Llevarse bien' significa 'a get along well' con someone. Il/la opposite è 'llevarse mal' (a not get along)."
+    "explanation": "'Llevarse bien' significa 'andare d'accordo' con qualcuno. Il contrario è 'llevarse mal' (non andare d'accordo).",
+    "hint": null
   },
   "q_vocab_b1_06_004": {
-    "question": "'confianza'は何を意味しますか？",
-    "correct": "信頼",
+    "question": "Che cosa significa 'confianza'?",
+    "correct": "fiducia",
     "wrong": [
-      "自信（人前でのスピーキング）",
-      "告白",
-      "快適さ"
+      "sicurezza di sé (nel parlare in pubblico)",
+      "confessione",
+      "comodità"
     ],
-    "explanation": "'Confianza' significa 'trust' in relationships. 'Tener confianza en alguien' significa 'a trust someone'."
+    "explanation": "'Confianza' significa 'fiducia' nelle relazioni. 'Tener confianza en alguien' significa 'avere fiducia in qualcuno'.",
+    "hint": null
   },
   "q_vocab_b1_06_005": {
-    "question": "大きな議論の後、彼らは別れました。",
+    "question": "Si sono lasciati dopo una grossa discussione.",
     "correct": "Rompieron después de una gran discusión.",
     "wrong": [
       "Se casaron después de una gran discusión.",
       "Se enamoraron después de una gran discusión.",
       "Se apoyaron después de una gran discusión."
     ],
-    "explanation": "'Romper (con alguien)' significa 'a break up (con someone)'. 'Discusión' significa 'argument'."
+    "explanation": "'Romper (con alguien)' significa 'lasciarsi / rompere (con qualcuno)'. 'Discusión' significa 'litigio, discussione accesa'.",
+    "hint": null
   },
   "q_vocab_b1_06_006": {
-    "question": "'echar de menos'は何を意味しますか？",
-    "correct": "恋しい、懐かしい",
+    "question": "Che cosa significa 'echar de menos'?",
+    "correct": "sentire la mancanza di (qualcuno/qualcosa)",
     "wrong": [
-      "投げ出す",
-      "責める",
-      "忘れる"
+      "buttare via",
+      "dare la colpa",
+      "dimenticare"
     ],
-    "explanation": "'Echar de menos' significa 'a miss' someone o something. 'Te echo de menos' significa 'I miss tu'."
+    "explanation": "'Echar de menos' significa 'sentire la mancanza di' qualcuno o qualcosa. 'Te echo de menos' significa 'Mi manchi'.",
+    "hint": null
   },
   "q_vocab_b1_06_007": {
-    "question": "親友が大変な時期を過ごしています。何をすべきですか？",
+    "question": "Il tuo migliore amico sta attraversando un momento difficile. Che cosa dovresti fare?",
     "correct": "apoyar a tu amigo",
     "wrong": [
       "discutir con tu amigo",
       "romper con tu amigo",
       "divorciarte de tu amigo"
     ],
-    "explanation": "'Apoyar' significa 'a support'. Being a good friend significa supporting ('apoyar') persone during hard times."
+    "explanation": "'Apoyar' significa 'sostenere'. Essere un buon amico vuol dire sostenere ('apoyar') le persone nei momenti difficili.",
+    "hint": null
   },
   "q_vocab_b1_06_008": {
-    "question": "'perdonar'は何を意味しますか？",
-    "correct": "許す",
+    "question": "Che cosa significa 'perdonar'?",
+    "correct": "perdonare",
     "wrong": [
-      "忘れる",
-      "許可する",
-      "失う"
+      "dimenticare",
+      "permettere",
+      "perdere"
     ],
-    "explanation": "'Perdonar' significa 'a forgive'. 'Te perdono' significa 'I forgive tu'. Esso può anche significare 'excuse me' in polite contexts."
+    "explanation": "'Perdonar' significa 'perdonare'. 'Te perdono' significa 'ti perdono'. Nei contesti formali può anche significare 'scusi'.",
+    "hint": null
   },
   "q_vocab_b1_06_009": {
     "question": "Después de divorciarse, ella empezó una nueva relación.",
-    "correct": "離婚後、彼女は新しい関係を始めました。",
+    "correct": "Dopo il divorzio, lei ha iniziato una nuova relazione.",
     "wrong": [
-      "結婚後、彼女は新しい関係を始めました。",
-      "恋に落ちた後、彼女は新しい友情を始めました。",
-      "別れた後、彼女は新しいキャリアを始めました。"
+      "Dopo il matrimonio, lei ha iniziato una nuova relazione.",
+      "Dopo essersi innamorata, lei ha iniziato una nuova amicizia.",
+      "Dopo la rottura, lei ha iniziato una nuova carriera."
     ],
-    "explanation": "'Divorciarse' significa 'a get divorced'. 'Relación' significa 'relationship'. Il/la sentence descrive moving on dopo divorce."
+    "explanation": "'Divorciarse' significa 'divorziare'. 'Relación' significa 'relazione'. La frase descrive il voltare pagina dopo il divorzio.",
+    "hint": null
   },
   "q_vocab_b1_06_010": {
-    "question": "不意打ちの後、2人の友人は何ヶ月間話していません。1人が再度つながりたいです。何をすべきですか？",
+    "question": "Due amici non si parlano da mesi dopo un litigio. Uno dei due vuole riavvicinarsi. Che cosa dovrebbe fare?",
     "correct": "Debería llamar a su amigo y intentar perdonar.",
     "wrong": [
       "Debería discutir más con su amigo.",
       "Debería echar de menos a su amigo en silencio.",
       "Debería romper la amistad definitivamente."
     ],
-    "explanation": "'Perdonar' significa 'a forgive'. 'Amistad' significa 'friendship'. Forgiving è il/la first step a restoring a friendship."
+    "explanation": "'Perdonar' significa 'perdonare'. 'Amistad' significa 'amicizia'. Perdonare è il primo passo per ricostruire un'amicizia.",
+    "hint": null
   },
   "q_vocab_b1_07_001": {
-    "question": "'ley'は何を意味しますか？",
-    "correct": "法律",
+    "question": "Che cosa significa 'ley'?",
+    "correct": "legge",
     "wrong": [
-      "弁護士",
-      "判事",
-      "裁判"
+      "avvocato",
+      "giudice",
+      "processo"
     ],
-    "explanation": "'Ley' significa 'law'. 'Cumplir la ley' significa 'a obey il/la law'. 'Ley' si riferisce a a specific regulation o statute."
+    "explanation": "'Ley' significa 'legge'. 'Cumplir la ley' significa 'rispettare la legge'. 'Ley' indica una norma o uno statuto specifico.",
+    "hint": null
   },
   "q_vocab_b1_07_002": {
-    "question": "'abogado'は何を意味しますか？",
-    "correct": "弁護士",
+    "question": "Che cosa significa 'abogado'?",
+    "correct": "avvocato",
     "wrong": [
-      "判事",
-      "被告人",
-      "検察官"
+      "giudice",
+      "imputato",
+      "pubblico ministero"
     ],
-    "explanation": "'Abogado' significa 'lawyer' o 'attorney'. An abogado defends o represents clients in legal matters."
+    "explanation": "'Abogado' significa 'avvocato'. Un abogado difende o rappresenta i clienti in questioni legali.",
+    "hint": null
   },
   "q_vocab_b1_07_003": {
     "question": "El ___ declaró al acusado culpable del delito.",
@@ -630,44 +681,48 @@
     "explanation": "'Juez' significa 'judge'. Il/la sentence significa 'Il/la judge declared il/la defendant guilty di il/la crime.'"
   },
   "q_vocab_b1_07_004": {
-    "question": "'derechos humanos'は何を意味しますか？",
-    "correct": "人権",
+    "question": "Che cosa significa 'derechos humanos'?",
+    "correct": "diritti umani",
     "wrong": [
-      "人間の義務",
-      "利き手の人間",
-      "人道支援"
+      "doveri umani",
+      "esseri umani destrimani",
+      "aiuti umanitari"
     ],
-    "explanation": "'Derechos humanos' significa 'human rights'. 'Derecho' significa both 'right' (entitlement) e 'law' (field di study)."
+    "explanation": "'Derechos humanos' significa 'diritti umani'. 'Derecho' significa sia 'diritto' (facoltà) sia 'legge' (materia di studio, giurisprudenza).",
+    "hint": null
   },
   "q_vocab_b1_07_005": {
-    "question": "'culpable'は何を意味しますか？",
-    "correct": "有罪の",
+    "question": "Che cosa significa 'culpable'?",
+    "correct": "colpevole",
     "wrong": [
-      "無実の",
-      "有能な",
-      "犯人"
+      "innocente",
+      "capace",
+      "reo"
     ],
-    "explanation": "'Culpable' significa 'guilty'. Il/la opposite è 'inocente' (innocent). 'Declarar culpable' significa 'a find guilty'."
+    "explanation": "'Culpable' significa 'colpevole'. Il contrario è 'inocente' (innocente). 'Declarar culpable' significa 'dichiarare colpevole'.",
+    "hint": null
   },
   "q_vocab_b1_07_006": {
-    "question": "すべての人は表現の自由を享受する権利があります。",
+    "question": "Tutti hanno diritto alla libertà di espressione.",
     "correct": "Todos tienen derecho a la libertad de expresión.",
     "wrong": [
       "Todos tienen justicia a la libertad de expresión.",
       "Todos tienen ley a la libertad de expresión.",
       "Todos tienen juicio a la libertad de expresión."
     ],
-    "explanation": "'Derecho' significa 'right'. 'Libertad de expresión' significa 'freedom di expression'. 'Tener derecho a' significa 'a avere il/la right a'."
+    "explanation": "'Derecho' significa 'diritto'. 'Libertad de expresión' significa 'libertà di espressione'. 'Tener derecho a' significa 'avere diritto a'.",
+    "hint": null
   },
   "q_vocab_b1_07_007": {
-    "question": "'denunciar'は何を意味しますか？",
-    "correct": "（犯罪を）告発する、通報する",
+    "question": "Che cosa significa 'denunciar'?",
+    "correct": "denunciare (un reato)",
     "wrong": [
-      "公に非難する",
-      "否定する",
-      "デモンストレーションする"
+      "denunciare pubblicamente",
+      "negare",
+      "dimostrare"
     ],
-    "explanation": "'Denunciar' significa 'a report' a crime o wrongdoing a il/la authorities. 'Poner una denuncia' significa 'a file a report'."
+    "explanation": "'Denunciar' significa 'denunciare' un reato o un illecito alle autorità. 'Poner una denuncia' significa 'presentare una denuncia'.",
+    "hint": null
   },
   "q_vocab_b1_07_008": {
     "question": "La víctima declaró ante el juez durante el juicio.",
@@ -680,34 +735,37 @@
     "explanation": "'Víctima' significa 'victim'. 'Juicio' significa 'trial'. 'Declarar' qui significa 'a testify'."
   },
   "q_vocab_b1_07_009": {
-    "question": "強盗を目撃します。何をすべきですか？",
+    "question": "Assisti a una rapina. Che cosa dovresti fare?",
     "correct": "Denunciar el delito a la policía.",
     "wrong": [
       "Defender al culpable ante la policía.",
       "Ignorar la justicia y el delito.",
       "Juzgar al inocente en la calle."
     ],
-    "explanation": "'Denunciar' significa 'a report'. 'Delito' significa 'crime'. Tu dovrebbe report crimes a il/la police."
+    "explanation": "'Denunciar' significa 'denunciare'. 'Delito' significa 'reato'. I reati vanno denunciati alla polizia.",
+    "hint": null
   },
   "q_vocab_b1_07_010": {
-    "question": "市民グループが平等な権利を求めてデモを行っています。彼らは何を要求していますか？",
+    "question": "Un gruppo di cittadini protesta per la parità di diritti. Che cosa chiedono?",
     "correct": "igualdad de derechos",
     "wrong": [
       "libertad de delitos",
       "justicia de abogados",
       "leyes de víctimas"
     ],
-    "explanation": "'Igualdad' significa 'equality'. 'Igualdad de derechos' significa 'equal rights', a fundamental demand in social movements."
+    "explanation": "'Igualdad' significa 'uguaglianza'. 'Igualdad de derechos' significa 'parità di diritti', una richiesta fondamentale dei movimenti sociali.",
+    "hint": null
   },
   "q_vocab_b1_08_001": {
-    "question": "'descubrimiento'は何を意味しますか？",
-    "correct": "発見",
+    "question": "Che cosa significa 'descubrimiento'?",
+    "correct": "scoperta",
     "wrong": [
-      "説明",
-      "開発",
-      "割引"
+      "descrizione",
+      "sviluppo",
+      "sconto"
     ],
-    "explanation": "'Descubrimiento' significa 'discovery'. Esso comes da il verbo 'descubrir' (a discover)."
+    "explanation": "'Descubrimiento' significa 'scoperta'. Deriva dal verbo 'descubrir' (scoprire).",
+    "hint": null
   },
   "q_vocab_b1_08_002": {
     "question": "Los ___ trabajan en el laboratorio analizando datos.",
@@ -720,14 +778,15 @@
     "explanation": "'Científicos' significa 'scientists'. Il/la sentence significa 'Il/la scientists work in il/la laboratory analyzing data.'"
   },
   "q_vocab_b1_08_003": {
-    "question": "'investigación'は何を意味しますか？",
-    "correct": "研究",
+    "question": "Che cosa significa 'investigación'?",
+    "correct": "ricerca",
     "wrong": [
-      "調査（警察）",
-      "投資",
-      "発明"
+      "indagine (di polizia)",
+      "investimento",
+      "invenzione"
     ],
-    "explanation": "'Investigación' significa 'research' in a scientific context. 'Realizar una investigación' significa 'a carry out research'."
+    "explanation": "'Investigación' significa 'ricerca' in ambito scientifico. 'Realizar una investigación' significa 'condurre una ricerca'.",
+    "hint": null
   },
   "q_vocab_b1_08_004": {
     "question": "Cosa significa 'inteligencia artificial'?",
@@ -740,44 +799,48 @@
     "explanation": "'inteligencia artificial' significa 'intelligenza artificiale' (IA): sistemi informatici che imitano il ragionamento umano."
   },
   "q_vocab_b1_08_005": {
-    "question": "科学者は新しいタイプのバッテリーを発明しました。",
+    "question": "Lo scienziato ha inventato un nuovo tipo di batteria.",
     "correct": "El científico inventó un nuevo tipo de batería.",
     "wrong": [
       "El científico descubrió un nuevo tipo de batería.",
       "El científico demostró un nuevo tipo de batería.",
       "El científico experimentó un nuevo tipo de batería."
     ],
-    "explanation": "'Inventar' significa 'a invent' (create something new). 'Descubrir' significa 'a discover' (find something existing)."
+    "explanation": "'Inventar' significa 'inventare' (creare qualcosa di nuovo). 'Descubrir' significa 'scoprire' (trovare qualcosa che esiste già).",
+    "hint": null
   },
   "q_vocab_b1_08_006": {
-    "question": "科学的な文脈で'demostrar'は何を意味しますか？",
-    "correct": "証明する/実証する",
+    "question": "Che cosa significa 'demostrar' in ambito scientifico?",
+    "correct": "provare / dimostrare",
     "wrong": [
-      "破壊する",
-      "要求する",
-      "（抗議）デモンストレーションする"
+      "demolire",
+      "esigere",
+      "manifestare (protestare)"
     ],
-    "explanation": "'Demostrar' in science significa 'a prove' o 'a demonstrate' a hypothesis o theory through evidence."
+    "explanation": "'Demostrar' in ambito scientifico significa 'provare' o 'dimostrare' un'ipotesi o una teoria con delle prove.",
+    "hint": null
   },
   "q_vocab_b1_08_007": {
-    "question": "研究チームが彼らの研究結果を発表しています。仮説の証拠を提示する方法をどのように説明しますか？",
+    "question": "Un gruppo di ricerca annuncia i propri risultati. Come descrive la presentazione delle prove a sostegno della sua ipotesi?",
     "correct": "Hemos demostrado nuestra teoría con los datos.",
     "wrong": [
       "Hemos inventado nuestra teoría con los datos.",
       "Hemos descubierto nuestra teoría con los datos.",
       "Hemos experimentado nuestra teoría con los datos."
     ],
-    "explanation": "'Demostrar' significa 'a prove'. 'Teoría' significa 'theory'. Scientists 'demuestran' (prove) theories con data."
+    "explanation": "'Demostrar' significa 'dimostrare'. 'Teoría' significa 'teoria'. Gli scienziati 'demuestran' (dimostrano) le teorie con i dati.",
+    "hint": null
   },
   "q_vocab_b1_08_008": {
-    "question": "'dato'は何を意味しますか？",
-    "correct": "データポイント/データの一部",
+    "question": "Che cosa significa 'dato'?",
+    "correct": "dato / singolo dato",
     "wrong": [
-      "日付（カレンダー）",
-      "ギフト",
-      "詳細"
+      "data (del calendario)",
+      "regalo",
+      "dettaglio"
     ],
-    "explanation": "'Dato' significa 'data point' o 'piece di information'. Il/la plurale 'datos' significa 'data'. 'Base de datos' significa 'database'."
+    "explanation": "'Dato' significa 'dato' o 'informazione' singola. Il plurale 'datos' significa 'dati'. 'Base de datos' significa 'database'.",
+    "hint": null
   },
   "q_vocab_b1_08_009": {
     "question": "Los estudiantes realizaron un experimento en el laboratorio.",
@@ -790,34 +853,37 @@
     "explanation": "'Realizar un experimento' significa 'a carry out an experiment'. 'Laboratorio' significa 'laboratory'."
   },
   "q_vocab_b1_08_010": {
-    "question": "学習して決定を下すことができる新しいテクノロジーについて読みます。スペイン語では何と呼ばれていますか？",
+    "question": "Leggi di una nuova tecnologia che può imparare e prendere decisioni. Come si chiama in spagnolo?",
     "correct": "inteligencia artificial",
     "wrong": [
       "ciencia natural",
       "investigación digital",
       "experimento tecnológico"
     ],
-    "explanation": "'Inteligencia artificial' (AI) si riferisce a technology quello può learn, reason, e make decisions autonomously."
+    "explanation": "'Inteligencia artificial' (IA) indica una tecnologia in grado di imparare, ragionare e prendere decisioni in autonomia.",
+    "hint": null
   },
   "q_vocab_b1_09_001": {
-    "question": "'impuestos'は何を意味しますか？",
-    "correct": "税金",
+    "question": "Che cosa significa 'impuestos'?",
+    "correct": "tasse / imposte",
     "wrong": [
-      "輸入品",
-      "投資",
-      "押し付け"
+      "importazioni",
+      "investimenti",
+      "imposizioni"
     ],
-    "explanation": "'Impuestos' significa 'taxes'. 'Pagar impuestos' significa 'a pay taxes'. Esso comes da 'imponer' (a impose)."
+    "explanation": "'Impuestos' significa 'tasse' o 'imposte'. 'Pagar impuestos' significa 'pagare le tasse'. Deriva da 'imponer' (imporre).",
+    "hint": null
   },
   "q_vocab_b1_09_002": {
-    "question": "'desempleo'は何を意味しますか？",
-    "correct": "失業",
+    "question": "Che cosa significa 'desempleo'?",
+    "correct": "disoccupazione",
     "wrong": [
-      "雇用",
-      "不完全雇用",
-      "退職"
+      "occupazione",
+      "sottoccupazione",
+      "pensione"
     ],
-    "explanation": "'Desempleo' significa 'unemployment'. Il/la prefix 'des-' indica negation. 'La tasa de desempleo' significa 'il/la unemployment rate'."
+    "explanation": "'Desempleo' significa 'disoccupazione'. Il prefisso 'des-' indica negazione. 'La tasa de desempleo' significa 'il tasso di disoccupazione'.",
+    "hint": null
   },
   "q_vocab_b1_09_003": {
     "question": "Es importante ___ dinero cada mes para el futuro.",
@@ -830,44 +896,48 @@
     "explanation": "'Ahorrar' significa 'a save' money. Il/la sentence significa 'Esso è important a save money ogni month per il/la future.'"
   },
   "q_vocab_b1_09_004": {
-    "question": "'presupuesto'は何を意味しますか？",
-    "correct": "予算",
+    "question": "Che cosa significa 'presupuesto'?",
+    "correct": "bilancio / budget",
     "wrong": [
-      "圧力",
-      "ローン",
-      "価格"
+      "pressione",
+      "prestito",
+      "prezzo"
     ],
-    "explanation": "'Presupuesto' significa 'budget'. 'El presupuesto del gobierno' significa 'il/la government's budget'."
+    "explanation": "'Presupuesto' significa 'bilancio' o 'budget'. 'El presupuesto del gobierno' significa 'il bilancio del governo'.",
+    "hint": null
   },
   "q_vocab_b1_09_005": {
-    "question": "経済学で'inflación'は何を指していますか？",
-    "correct": "時間をかけた物価の一般的な上昇",
+    "question": "A cosa si riferisce 'inflación' in economia?",
+    "correct": "a un aumento generale dei prezzi nel tempo",
     "wrong": [
-      "輸出価値の低下",
-      "雇用率の増加",
-      "株式市場の上昇"
+      "a una diminuzione del valore delle esportazioni",
+      "a un aumento dei tassi di occupazione",
+      "a un rialzo dei valori di borsa"
     ],
-    "explanation": "'Inflación' significa 'inflation', il/la sustained increase in il/la general price level di goods e services."
+    "explanation": "'Inflación' significa 'inflazione', cioè l'aumento continuo del livello generale dei prezzi di beni e servizi.",
+    "hint": null
   },
   "q_vocab_b1_09_006": {
-    "question": "彼は不動産に投資することを決めました。",
+    "question": "Decise di investire nel settore immobiliare.",
     "correct": "Decidió invertir en bienes raíces.",
     "wrong": [
       "Decidió ahorrar en bienes raíces.",
       "Decidió gastar en bienes raíces.",
       "Decidió deber en bienes raíces."
     ],
-    "explanation": "'Invertir' significa 'a invest'. 'Bienes raíces' significa 'real estate'. Investing è different da saving o spending."
+    "explanation": "'Invertir' significa 'investire'. 'Bienes raíces' significa 'beni immobili'. Investire è diverso da risparmiare o spendere.",
+    "hint": null
   },
   "q_vocab_b1_09_007": {
-    "question": "'deuda'は何を意味しますか？",
-    "correct": "債務",
+    "question": "Che cosa significa 'deuda'?",
+    "correct": "debito",
     "wrong": [
-      "疑い",
-      "義務",
-      "控除"
+      "dubbio",
+      "dovere",
+      "detrazione"
     ],
-    "explanation": "'Deuda' significa 'debt'. 'Tener deudas' significa 'a avere debts'. 'Deuda pública' è 'national/public debt'."
+    "explanation": "'Deuda' significa 'debito'. 'Tener deudas' significa 'avere dei debiti'. 'Deuda pública' è il 'debito pubblico'.",
+    "hint": null
   },
   "q_vocab_b1_09_008": {
     "question": "El crecimiento económico del país fue del 3% este año.",
@@ -880,34 +950,37 @@
     "explanation": "'Crecimiento económico' significa 'economic growth'. Esso measures come molto a country's economy ha expanded."
   },
   "q_vocab_b1_09_009": {
-    "question": "小規模なビジネスを始めたいと考えています。最初に何を作成する必要がありますか？",
+    "question": "Vuoi avviare una piccola attività. Che cosa devi creare per prima cosa?",
     "correct": "un presupuesto para el negocio",
     "wrong": [
       "una deuda para el negocio",
       "un desempleo para el negocio",
       "una inflación para el negocio"
     ],
-    "explanation": "'Presupuesto' significa 'budget'. 'Negocio' significa 'business'. A budget è essential quando starting a new business."
+    "explanation": "'Presupuesto' significa 'budget' o 'preventivo'. 'Negocio' significa 'attività, impresa'. Il budget è essenziale quando si avvia una nuova attività.",
+    "hint": null
   },
   "q_vocab_b1_09_010": {
-    "question": "政府は失業の増加に対処する必要があります。問題は何ですか？",
+    "question": "Il governo deve affrontare l'aumento della disoccupazione. Qual è il problema?",
     "correct": "El gobierno necesita abordar el aumento del desempleo.",
     "wrong": [
       "El gobierno necesita abordar el aumento de la inversión.",
       "El gobierno necesita abordar el aumento del mercado.",
       "El gobierno necesita abordar el aumento del ahorro."
     ],
-    "explanation": "'Desempleo' significa 'unemployment'. 'Abordar' significa 'a address/tackle'. Rising unemployment è a serious economic concern."
+    "explanation": "'Desempleo' significa 'disoccupazione'. 'Abordar' significa 'affrontare'. L'aumento della disoccupazione è un serio problema economico.",
+    "hint": null
   },
   "q_vocab_b1_10_001": {
-    "question": "'en mi opinión'は何を意味しますか？",
-    "correct": "私の意見では",
+    "question": "Che cosa significa 'en mi opinión'?",
+    "correct": "secondo me",
     "wrong": [
-      "私の経験では",
-      "私の見解（フォーマル）",
-      "私の知識では"
+      "per esperienza mia",
+      "a mio avviso (formale)",
+      "a quanto ne so"
     ],
-    "explanation": "'En mi opinión' significa 'in my opinion'. Esso's one di il/la la maggior parte comune ways per esprimere a personal viewpoint in spagnolo."
+    "explanation": "'En mi opinión' significa 'secondo me'. È uno dei modi più comuni per esprimere un punto di vista personale in spagnolo.",
+    "hint": null
   },
   "q_vocab_b1_10_002": {
     "question": "Creo que el cambio climático es un problema grave; ___, hay gente que no está de acuerdo.",
@@ -920,64 +993,70 @@
     "explanation": "'Sin embargo' significa 'tuttavia' o 'nevertheless'. Esso introduces a contrasting idea. Il/la sentence significa 'I think climate change è a serious problem; tuttavia, Ci sono persone chi disagree.'"
   },
   "q_vocab_b1_10_003": {
-    "question": "'estoy de acuerdo'は何を意味しますか？",
-    "correct": "同意します",
+    "question": "Che cosa significa 'estoy de acuerdo'?",
+    "correct": "sono d'accordo",
     "wrong": [
-      "覚えています",
-      "私は正しいです",
-      "アコードします"
+      "mi ricordo",
+      "ho ragione",
+      "mi accordo"
     ],
-    "explanation": "'Estoy de acuerdo' significa 'I agree'. Il/la opposite è 'estoy en desacuerdo' o 'no estoy de acuerdo' (I disagree)."
+    "explanation": "'Estoy de acuerdo' significa 'sono d'accordo'. Il contrario è 'estoy en desacuerdo' o 'no estoy de acuerdo' (non sono d'accordo).",
+    "hint": null
   },
   "q_vocab_b1_10_004": {
-    "question": "'además'は何を意味しますか？",
-    "correct": "さらに/また",
+    "question": "Che cosa significa 'además'?",
+    "correct": "inoltre / per di più",
     "wrong": [
-      "しかし",
-      "したがって",
-      "～だが"
+      "tuttavia",
+      "quindi",
+      "sebbene"
     ],
-    "explanation": "'Además' significa 'furthermore', 'moreover', o 'besides'. Esso's used a add information a an argument."
+    "explanation": "'Además' significa 'inoltre', 'per di più' o 'oltretutto'. Si usa per aggiungere informazioni a un'argomentazione.",
+    "hint": null
   },
   "q_vocab_b1_10_005": {
-    "question": "結論として、教育は進歩の鍵です。",
+    "question": "In conclusione, l'istruzione è la chiave del progresso.",
     "correct": "En conclusión, la educación es la clave del progreso.",
     "wrong": [
       "Sin embargo, la educación es la clave del progreso.",
       "Por un lado, la educación es la clave del progreso.",
       "A pesar de, la educación es la clave del progreso."
     ],
-    "explanation": "'En conclusión' significa 'in conclusion'. Esso's used a summarize il/la main point di an argument o essay."
+    "explanation": "'En conclusión' significa 'in conclusione'. Si usa per riassumere il punto principale di un'argomentazione o di un saggio.",
+    "hint": null
   },
   "q_vocab_b1_10_006": {
-    "question": "'a pesar de'は何を意味しますか？",
-    "correct": "～にもかかわらず",
+    "question": "Che cosa significa 'a pesar de'?",
+    "correct": "nonostante / malgrado",
     "wrong": [
-      "～の理由で",
-      "～を除いて",
-      "～に従って"
+      "a causa di",
+      "oltre a",
+      "secondo"
     ],
-    "explanation": "'A pesar de' significa 'despite' o 'in spite di'. 'A pesar de la lluvia, salimos' significa 'Despite il/la rain, we went out'."
+    "explanation": "'A pesar de' significa 'nonostante' o 'malgrado'. 'A pesar de la lluvia, salimos' significa 'Nonostante la pioggia, siamo usciti'.",
+    "hint": null
   },
   "q_vocab_b1_10_007": {
-    "question": "議論で議論の両方の側を提示したいです。どの表現を使いますか？",
+    "question": "Sei in un dibattito e vuoi presentare due lati di un argomento. Quale espressione usi?",
     "correct": "por un lado... por otro lado...",
     "wrong": [
       "sin embargo... además...",
       "en conclusión... por lo tanto...",
       "aunque... a pesar de..."
     ],
-    "explanation": "'Por un lado... por otro lado...' significa 'on one hand... on il/la other hand...' Esso's used a present contrasting viewpoints."
+    "explanation": "'Por un lado... por otro lado...' significa 'da un lato... dall'altro...'. Si usa per presentare punti di vista contrapposti.",
+    "hint": null
   },
   "q_vocab_b1_10_008": {
-    "question": "'por lo tanto'は何を意味しますか？",
-    "correct": "したがって",
+    "question": "Che cosa significa 'por lo tanto'?",
+    "correct": "quindi / perciò",
     "wrong": [
-      "今のところ",
-      "その理由だけで",
-      "一方では"
+      "per il momento",
+      "solo per quel motivo",
+      "d'altra parte"
     ],
-    "explanation": "'Por lo tanto' significa 'quindi' o 'consequently'. Esso introduces a logical conclusion da previous statements."
+    "explanation": "'Por lo tanto' significa 'quindi', 'perciò' o 'di conseguenza'. Introduce una conclusione logica tratta da quanto detto prima.",
+    "hint": null
   },
   "q_vocab_b1_10_009": {
     "question": "Aunque el examen fue difícil, todos los estudiantes aprobaron.",
@@ -990,34 +1069,37 @@
     "explanation": "'Aunque' significa 'sebbene' o 'even though'. Esso introduces a concessive clause. 'Aprobar' significa 'a pass'."
   },
   "q_vocab_b1_10_010": {
-    "question": "議論で何かが本当であることを強く強調したいです。どの表現が最適ですか？",
+    "question": "In un dibattito vuoi sottolineare con forza che qualcosa è vero. Quale espressione è più adatta?",
     "correct": "sin duda",
     "wrong": [
       "sin embargo",
       "por un lado",
       "a pesar de"
     ],
-    "explanation": "'Sin duda' significa 'senza a doubt' o 'undoubtedly'. Esso's used a strongly affirm a statement."
+    "explanation": "'Sin duda' significa 'senza dubbio' o 'indubbiamente'. Si usa per affermare con forza un'affermazione.",
+    "hint": null
   },
   "q_vocab_b1_11_001": {
-    "question": "医学的な文脈で'tratamiento'は何を意味しますか？",
-    "correct": "治療",
+    "question": "Che cosa significa 'tratamiento' in ambito medico?",
+    "correct": "cura / trattamento",
     "wrong": [
-      "条約",
-      "取引",
-      "手順"
+      "trattato",
+      "accordo",
+      "procedura"
     ],
-    "explanation": "'Tratamiento' significa 'treatment'. 'Seguir un tratamiento' significa 'a follow a treatment' prescribed da a doctor."
+    "explanation": "'Tratamiento' significa 'trattamento' o 'cura'. 'Seguir un tratamiento' significa 'seguire una cura' prescritta dal medico.",
+    "hint": null
   },
   "q_vocab_b1_11_002": {
-    "question": "'diagnóstico'は何を意味しますか？",
-    "correct": "診断",
+    "question": "Che cosa significa 'diagnóstico'?",
+    "correct": "diagnosi",
     "wrong": [
-      "診断テスト",
-      "予後",
-      "処方箋"
+      "esame diagnostico",
+      "prognosi",
+      "prescrizione"
     ],
-    "explanation": "'Diagnóstico' significa 'diagnosis'. Il/la doctor gives a 'diagnóstico' dopo examining il/la patient."
+    "explanation": "'Diagnóstico' significa 'diagnosi'. Il medico fa un 'diagnóstico' dopo aver visitato il paziente.",
+    "hint": null
   },
   "q_vocab_b1_11_003": {
     "question": "El médico me mandó un ___ para comprobar mis niveles de colesterol.",
@@ -1030,44 +1112,48 @@
     "explanation": "'Análisis de sangre' significa 'blood test'. Il/la sentence significa 'Il/la doctor ordered a blood test a check my cholesterol levels.'"
   },
   "q_vocab_b1_11_004": {
-    "question": "'vacuna'は何を意味しますか？",
-    "correct": "ワクチン",
+    "question": "Che cosa significa 'vacuna'?",
+    "correct": "vaccino",
     "wrong": [
-      "休暇",
-      "空缺",
-      "真空"
+      "vacanza",
+      "posto vacante",
+      "aspirapolvere"
     ],
-    "explanation": "'Vacuna' significa 'vaccine'. 'Vacunarse' significa 'a get vaccinated'. 'Ponerse una vacuna' significa 'a get a vaccine'."
+    "explanation": "'Vacuna' significa 'vaccino'. 'Vacunarse' significa 'vaccinarsi'. 'Ponerse una vacuna' significa 'fare un vaccino'.",
+    "hint": null
   },
   "q_vocab_b1_11_005": {
-    "question": "医者が病気を'crónico'と説明するとき、何を意味しますか？",
-    "correct": "慢性的な（長期間続く）",
+    "question": "Che cosa significa 'crónico' quando un medico descrive una malattia?",
+    "correct": "cronico (di lunga durata)",
     "wrong": [
-      "重篤な（生命を脅かす）",
-      "伝染性の",
-      "治癒可能な"
+      "critico (in pericolo di vita)",
+      "contagioso",
+      "curabile"
     ],
-    "explanation": "'Crónico' significa 'chronic', referring a a condition quello persists over a long tempo. 'Enfermedad crónica' significa 'chronic illness'."
+    "explanation": "'Crónico' significa 'cronico' e indica una condizione che persiste a lungo nel tempo. 'Enfermedad crónica' significa 'malattia cronica'.",
+    "hint": null
   },
   "q_vocab_b1_11_006": {
-    "question": "患者は手術後に回復しています。",
+    "question": "Il paziente si sta riprendendo dopo l'intervento.",
     "correct": "El paciente se está recuperando después de la cirugía.",
     "wrong": [
       "El paciente se está operando después de la cirugía.",
       "El paciente se está diagnosticando después de la cirugía.",
       "El paciente se está vacunando después de la cirugía."
     ],
-    "explanation": "'Recuperarse' significa 'a recover'. 'Cirugía' (o 'operación') significa 'surgery'. Recovery follows an operation."
+    "explanation": "'Recuperarse' significa 'riprendersi'. 'Cirugía' (o 'operación') significa 'chirurgia' o 'intervento'. La convalescenza segue un'operazione.",
+    "hint": null
   },
   "q_vocab_b1_11_007": {
-    "question": "'síntoma'は何を意味しますか？",
-    "correct": "症状",
+    "question": "Che cosa significa 'síntoma'?",
+    "correct": "sintomo",
     "wrong": [
-      "症候群",
-      "信号",
-      "システム"
+      "sindrome",
+      "segnale",
+      "sistema"
     ],
-    "explanation": "'Síntoma' significa 'symptom'. 'Los síntomas de la gripe' significa 'flu symptoms'. Doctors ask about symptoms a make a diagnosis."
+    "explanation": "'Síntoma' significa 'sintomo'. 'Los síntomas de la gripe' significa 'i sintomi dell'influenza'. I medici chiedono dei sintomi per fare una diagnosi.",
+    "hint": null
   },
   "q_vocab_b1_11_008": {
     "question": "Llamé a la ambulancia porque mi padre tenía una urgencia.",
@@ -1080,34 +1166,37 @@
     "explanation": "'Ambulancia' significa 'ambulance'. 'Urgencia' significa 'emergency'. Tu call an ambulance in medical emergencies."
   },
   "q_vocab_b1_11_009": {
-    "question": "持続的なアレルギー反応があります。誰を見るべきですか？",
+    "question": "Hai una reazione allergica persistente. Da chi dovresti andare?",
     "correct": "un especialista en alergias",
     "wrong": [
       "una ambulancia de urgencias",
       "un análisis de sangre",
       "una vacuna contra la alergia"
     ],
-    "explanation": "'Especialista' significa 'specialist'. Per persistent allergies ('alergias'), tu dovrebbe see an allergy specialist."
+    "explanation": "'Especialista' significa 'specialista'. Per le allergie ('alergias') persistenti è opportuno rivolgersi a un allergologo.",
+    "hint": null
   },
   "q_vocab_b1_11_010": {
-    "question": "医者は、完全に治らない状態の継続的なケアが必要だと言っています。医者はそれをどのように説明しますか？",
+    "question": "Il medico dice che hai bisogno di cure continue per una condizione che non scomparirà del tutto. Come la descrive il medico?",
     "correct": "Es una enfermedad crónica que requiere tratamiento continuo.",
     "wrong": [
       "Es una urgencia que requiere una operación inmediata.",
       "Es una alergia que requiere una vacuna nueva.",
       "Es un síntoma que requiere un análisis de sangre."
     ],
-    "explanation": "'Enfermedad crónica' significa 'chronic illness'. 'Tratamiento continuo' significa 'ongoing treatment'. Chronic conditions require long-term management."
+    "explanation": "'Enfermedad crónica' significa 'malattia cronica'. 'Tratamiento continuo' significa 'trattamento continuo'. Le patologie croniche richiedono una gestione a lungo termine.",
+    "hint": null
   },
   "q_vocab_b1_12_001": {
-    "question": "料理の文脈で'receta'は何を意味しますか？",
-    "correct": "レシピ",
+    "question": "Che cosa significa 'receta' in ambito culinario?",
+    "correct": "ricetta",
     "wrong": [
-      "レシート",
-      "処方箋",
-      "予約"
+      "scontrino",
+      "prescrizione medica",
+      "prenotazione"
     ],
-    "explanation": "'Receta' significa 'recipe' in cooking. Esso anche significa 'prescription' in a medical context. 'Seguir una receta' significa 'a follow a recipe'."
+    "explanation": "'Receta' in cucina significa 'ricetta'. In ambito medico significa anche 'ricetta medica'. 'Seguir una receta' significa 'seguire una ricetta'.",
+    "hint": null
   },
   "q_vocab_b1_12_002": {
     "question": "Primero hay que ___ las patatas antes de freírlas.",
@@ -1120,64 +1209,70 @@
     "explanation": "'Pelar' significa 'a peel'. Il/la sentence significa 'First tu avere a peel il/la potatoes prima frying them.'"
   },
   "q_vocab_b1_12_003": {
-    "question": "'hervir'は何を意味しますか？",
-    "correct": "沸騰させる",
+    "question": "Che cosa significa 'hervir'?",
+    "correct": "bollire",
     "wrong": [
-      "揚げる",
-      "焼く",
-      "グリルする"
+      "friggere",
+      "cuocere al forno",
+      "grigliare"
     ],
-    "explanation": "'Hervir' significa 'a boil'. 'Hervir el agua' significa 'a boil il/la water'. Esso's one di il/la la maggior parte basic cooking techniques."
+    "explanation": "'Hervir' significa 'bollire'. 'Hervir el agua' significa 'far bollire l'acqua'. È una delle tecniche di cucina più basilari.",
+    "hint": null
   },
   "q_vocab_b1_12_004": {
-    "question": "'sartén'は何を意味しますか？",
-    "correct": "フライパン",
+    "question": "Che cosa significa 'sartén'?",
+    "correct": "padella",
     "wrong": [
-      "鍋",
-      "オーブン",
-      "ブレンダー"
+      "pentola",
+      "forno",
+      "frullatore"
     ],
-    "explanation": "'Sartén' significa 'frying pan'. 'Freír en la sartén' significa 'a fry in il/la pan'. Esso può essere femminile o maschile depending on il/la region."
+    "explanation": "'Sartén' significa 'padella'. 'Freír en la sartén' significa 'friggere in padella'. A seconda della regione può essere femminile o maschile.",
+    "hint": null
   },
   "q_vocab_b1_12_005": {
-    "question": "ソースのためにタマネギを刻む必要があります。",
+    "question": "Devo tagliare le cipolle per la salsa.",
     "correct": "Necesito picar las cebollas para la salsa.",
     "wrong": [
       "Necesito pelar las cebollas para la salsa.",
       "Necesito hervir las cebollas para la salsa.",
       "Necesito hornear las cebollas para la salsa."
     ],
-    "explanation": "'Picar' significa 'a chop' o 'a mince'. 'Cebolla' significa 'onion'. Chopping è different da peeling ('pelar')."
+    "explanation": "'Picar' significa 'tritare' o 'tagliare finemente'. 'Cebolla' significa 'cipolla'. Tritare è diverso da sbucciare ('pelar').",
+    "hint": null
   },
   "q_vocab_b1_12_006": {
-    "question": "'hornear'は何を意味しますか？",
-    "correct": "（オーブンで）焼く",
+    "question": "Che cosa significa 'hornear'?",
+    "correct": "cuocere al forno",
     "wrong": [
-      "沸騰させる",
-      "揚げる",
-      "グリルで焼く"
+      "bollire",
+      "friggere",
+      "arrostire sulla griglia"
     ],
-    "explanation": "'Hornear' significa 'a bake' (in an oven). Esso comes da 'horno' (oven). 'Hornear un pastel' significa 'a bake a cake'."
+    "explanation": "'Hornear' significa 'cuocere al forno'. Deriva da 'horno' (forno). 'Hornear un pastel' significa 'cuocere una torta al forno'.",
+    "hint": null
   },
   "q_vocab_b1_12_007": {
-    "question": "シチューを作っていて、長時間ゆっくり調理する必要があります。どの指示に従いますか？",
+    "question": "Stai preparando uno stufato e devi cuocerlo dolcemente per molto tempo. Quale indicazione segui?",
     "correct": "cocinar a fuego lento",
     "wrong": [
       "freír a fuego alto",
       "hornear a fuego rápido",
       "hervir a fuego máximo"
     ],
-    "explanation": "'A fuego lento' significa 'on low heat' o 'a simmer'. Stews sono tipicamente cooked slowly on low heat per il/la best flavor."
+    "explanation": "'A fuego lento' significa 'a fuoco basso' o 'sobbollire'. Gli stufati di solito si cuociono lentamente a fuoco basso per avere il massimo del sapore.",
+    "hint": null
   },
   "q_vocab_b1_12_008": {
-    "question": "レシピで'añadir'は何を意味しますか？",
-    "correct": "加える",
+    "question": "Che cosa significa 'añadir' in una ricetta?",
+    "correct": "aggiungere",
     "wrong": [
-      "取り除く",
-      "混ぜる",
-      "味見する"
+      "togliere",
+      "mescolare",
+      "assaggiare"
     ],
-    "explanation": "'Añadir' significa 'a add'. In recipes, tu spesso see 'añadir sal al gusto' (add salt a taste)."
+    "explanation": "'Añadir' significa 'aggiungere'. Nelle ricette si trova spesso 'añadir sal al gusto' (aggiungere sale quanto basta).",
+    "hint": null
   },
   "q_vocab_b1_12_009": {
     "question": "Mezcla todos los ingredientes en la olla y ponla en el horno.",
@@ -1190,34 +1285,37 @@
     "explanation": "'Mezclar' significa 'a mix'. 'Olla' significa 'pot'. 'Horno' significa 'oven'. Questo è un comune cooking instruction."
   },
   "q_vocab_b1_12_010": {
-    "question": "夕食のために焼き鶏を作りたいです。どの調理方法を使いますか？",
+    "question": "Vuoi preparare del pollo alla griglia per cena. Quale metodo di cottura usi?",
     "correct": "asar el pollo",
     "wrong": [
       "hervir el pollo",
       "pelar el pollo",
       "picar el pollo"
     ],
-    "explanation": "'Asar' significa 'a roast' o 'a grill'. 'Asar el pollo' significa 'a roast/grill il/la chicken'. Esso gives meat a crispy exterior."
+    "explanation": "'Asar' significa 'arrostire' o 'grigliare'. 'Asar el pollo' significa 'arrostire/grigliare il pollo'. Dà alla carne l'esterno croccante.",
+    "hint": null
   },
   "q_vocab_b1_13_001": {
-    "question": "'alquilar'は何を意味しますか？",
-    "correct": "賃借する",
+    "question": "Che cosa significa 'alquilar'?",
+    "correct": "affittare",
     "wrong": [
-      "買う",
-      "売る",
-      "建てる"
+      "comprare",
+      "vendere",
+      "costruire"
     ],
-    "explanation": "'Alquilar' significa 'a rent'. 'Alquilar un piso' significa 'a rent an apartment'. Esso può significare both a rent out e a rent da someone."
+    "explanation": "'Alquilar' significa 'affittare'. 'Alquilar un piso' significa 'affittare un appartamento'. Può significare sia dare in affitto sia prendere in affitto da qualcuno.",
+    "hint": null
   },
   "q_vocab_b1_13_002": {
-    "question": "'hipoteca'は何を意味しますか？",
-    "correct": "住宅ローン",
+    "question": "Che cosa significa 'hipoteca'?",
+    "correct": "mutuo",
     "wrong": [
-      "仮説",
-      "アパート",
-      "家賃"
+      "ipotesi",
+      "appartamento",
+      "affitto"
     ],
-    "explanation": "'Hipoteca' significa 'mortgage'. 'Pedir una hipoteca' significa 'a apply per a mortgage' a a bank a buy property."
+    "explanation": "'Hipoteca' significa 'mutuo' (ipoteca). 'Pedir una hipoteca' significa 'chiedere un mutuo' in banca per comprare un immobile.",
+    "hint": null
   },
   "q_vocab_b1_13_003": {
     "question": "Nos ___ a un barrio más tranquilo el mes que viene.",
@@ -1230,84 +1328,92 @@
     "explanation": "'Mudarse' significa 'a move (house)'. Il/la sentence significa 'We sono moving a a quieter neighborhood next month.'"
   },
   "q_vocab_b1_13_004": {
-    "question": "'propietario'は何を意味しますか？",
-    "correct": "所有者/大家",
+    "question": "Che cosa significa 'propietario'?",
+    "correct": "proprietario / padrone di casa",
     "wrong": [
-      "借家人",
-      "不動産業者",
-      "隣人"
+      "inquilino",
+      "agente immobiliare",
+      "vicino"
     ],
-    "explanation": "'Propietario' significa 'owner' o 'landlord'. Il/la persona chi owns a property. Il/la tenant è 'inquilino'."
+    "explanation": "'Propietario' significa 'proprietario' o 'padrone di casa': la persona che possiede un immobile. L'inquilino è 'inquilino'.",
+    "hint": null
   },
   "q_vocab_b1_13_005": {
-    "question": "'inquilino'は何を意味しますか？",
-    "correct": "借家人",
+    "question": "Che cosa significa 'inquilino'?",
+    "correct": "inquilino",
     "wrong": [
-      "大家",
-      "隣人",
-      "建築家"
+      "padrone di casa",
+      "vicino",
+      "architetto"
     ],
-    "explanation": "'Inquilino' significa 'tenant', il/la persona chi rents e lives in a property owned da someone else."
+    "explanation": "'Inquilino' significa 'inquilino', la persona che prende in affitto e abita un immobile di proprietà di qualcun altro.",
+    "hint": null
   },
   "q_vocab_b1_13_006": {
-    "question": "家を売る前にキッチンをリノベーションする必要があります。",
+    "question": "Dobbiamo ristrutturare la cucina prima di vendere la casa.",
     "correct": "Necesitamos reformar la cocina antes de vender la casa.",
     "wrong": [
       "Necesitamos alquilar la cocina antes de vender la casa.",
       "Necesitamos mudarnos de la cocina antes de vender la casa.",
       "Necesitamos comprar la cocina antes de vender la casa."
     ],
-    "explanation": "'Reformar' significa 'a renovate' o 'a remodel'. Renovating prima selling può increase property value."
+    "explanation": "'Reformar' significa 'ristrutturare' o 'rinnovare'. Ristrutturare prima di vendere può far aumentare il valore dell'immobile.",
+    "hint": null
   },
   "q_vocab_b1_13_007": {
-    "question": "賃貸の文脈で'gastos'は何を指していますか？",
-    "correct": "経費/光熱費",
+    "question": "A che cosa si riferisce 'gastos' nel contesto dell'affitto?",
+    "correct": "spese / costi delle utenze",
     "wrong": [
-      "ガス供給",
-      "ガレージ",
-      "庭園維持費"
+      "fornitura del gas",
+      "garage",
+      "manutenzione del giardino"
     ],
-    "explanation": "'Gastos' significa 'expenses'. In renting, esso si riferisce a utility costs like water, electricity, e community fees."
+    "explanation": "'Gastos' significa 'spese'. Nel contesto dell'affitto indica i costi come acqua, elettricità e spese condominiali.",
+    "hint": null
   },
   "q_vocab_b1_13_008": {
     "question": "El piso está en las afueras de la ciudad, pero tiene buen transporte.",
-    "correct": "アパートは街の郊外にありますが、良好な輸送があります。",
+    "correct": "L'appartamento è in periferia, ma ha buoni collegamenti di trasporto.",
     "wrong": [
-      "アパートは街の中心にありますが、良好な輸送があります。",
-      "家は国の外にありますが、良好な輸送があります。",
-      "アパートは街の郊外にありますが、良いガレージがあります。"
+      "L'appartamento è in centro città, ma ha buoni collegamenti di trasporto.",
+      "La casa è fuori dal paese, ma ha buoni collegamenti di trasporto.",
+      "L'appartamento è in periferia, ma ha un buon garage."
     ],
-    "explanation": "'Afueras' significa 'outskirts' o 'suburbs'. 'Piso' significa 'apartment' in Spain. Living on il/la outskirts spesso significa cheaper rent."
+    "explanation": "'Afueras' significa 'periferia' o 'sobborghi'. 'Piso' significa 'appartamento' in Spagna. Vivere in periferia spesso significa un affitto più economico.",
+    "hint": null
   },
   "q_vocab_b1_13_009": {
-    "question": "気に入ったアパートを見つけました。引っ越す前に何に署名する必要がありますか？",
+    "question": "Hai trovato un appartamento che ti piace. Che cosa devi firmare prima di trasferirti?",
     "correct": "un contrato de alquiler",
     "wrong": [
       "una hipoteca bancaria",
       "una reforma del piso",
       "un gasto de comunidad"
     ],
-    "explanation": "'Contrato de alquiler' significa 'rental contract/lease'. Tu deve sign a lease prima moving into a rented apartment."
+    "explanation": "'Contrato de alquiler' significa 'contratto di affitto'. Bisogna firmare un contratto prima di trasferirsi in un appartamento in affitto.",
+    "hint": null
   },
   "q_vocab_b1_13_010": {
-    "question": "建物に住んでいて、他の居住者と共有スペースを共有しています。毎月どのような料金を支払いますか？",
+    "question": "Vivi in un condominio e condividi le aree comuni con gli altri residenti. Quale quota mensile paghi?",
     "correct": "los gastos de comunidad",
     "wrong": [
       "el alquiler del barrio",
       "la hipoteca del edificio",
       "el contrato de las afueras"
     ],
-    "explanation": "'Gastos de comunidad' significa 'community fees'. In spagnolo apartment buildings, residents pay monthly fees per shared areas e services."
+    "explanation": "'Gastos de comunidad' significa 'spese condominiali'. Nei condomini spagnoli i residenti pagano ogni mese una quota per le aree comuni e i servizi.",
+    "hint": null
   },
   "q_vocab_b1_14_001": {
-    "question": "'pobreza'は何を意味しますか？",
-    "correct": "貧困",
+    "question": "Che cosa significa 'pobreza'?",
+    "correct": "povertà",
     "wrong": [
-      "品質の悪さ",
-      "人口",
-      "力"
+      "scarsa qualità",
+      "popolazione",
+      "potere"
     ],
-    "explanation": "'Pobreza' significa 'poverty'. 'Vivir en la pobreza' significa 'a live in poverty'. Esso's a major global social issue."
+    "explanation": "'Pobreza' significa 'povertà'. 'Vivir en la pobreza' significa 'vivere in povertà'. È un importante problema sociale globale.",
+    "hint": null
   },
   "q_vocab_b1_14_002": {
     "question": "Muchos ___ tuvieron que abandonar su país por la guerra.",
@@ -1320,64 +1426,70 @@
     "explanation": "'Refugiados' significa 'refugees'. Il/la sentence significa 'Molti refugees aveva a leave il loro country perché di il/la war.'"
   },
   "q_vocab_b1_14_003": {
-    "question": "'desigualdad'は何を意味しますか？",
-    "correct": "不平等",
+    "question": "Che cosa significa 'desigualdad'?",
+    "correct": "disuguaglianza",
     "wrong": [
-      "障害",
-      "異議",
-      "不名誉"
+      "disabilità",
+      "disaccordo",
+      "disgrazia"
     ],
-    "explanation": "'Desigualdad' significa 'inequality'. 'Desigualdad social' significa 'social inequality', referring a unequal distribution di resources e opportunities."
+    "explanation": "'Desigualdad' significa 'disuguaglianza'. 'Desigualdad social' significa 'disuguaglianza sociale', cioè la distribuzione non equa di risorse e opportunità.",
+    "hint": null
   },
   "q_vocab_b1_14_004": {
-    "question": "'discriminación'は何を意味しますか？",
-    "correct": "差別",
+    "question": "Che cosa significa 'discriminación'?",
+    "correct": "discriminazione",
     "wrong": [
-      "裁量",
-      "説明",
-      "落胆"
+      "discrezione",
+      "descrizione",
+      "scoraggiamento"
     ],
-    "explanation": "'Discriminación' significa 'discrimination'. 'Luchar contra la discriminación' significa 'a fight against discrimination'."
+    "explanation": "'Discriminación' significa 'discriminazione'. 'Luchar contra la discriminación' significa 'lottare contro la discriminazione'.",
+    "hint": null
   },
   "q_vocab_b1_14_005": {
-    "question": "NGOは移民が社会に統合するのを支援しています。",
+    "question": "L'ONG aiuta gli immigrati a integrarsi nella società.",
     "correct": "La ONG ayuda a los inmigrantes a integrarse en la sociedad.",
     "wrong": [
       "La ONG ayuda a los voluntarios a integrarse en la sociedad.",
       "La ONG ayuda a los inmigrantes a discriminarse en la sociedad.",
       "La ONG ayuda a los refugiados a excluirse de la sociedad."
     ],
-    "explanation": "'ONG' significa 'NGO' (non-governmental organization). 'Integrarse' significa 'a integrate'. NGOs spesso help con immigrant integration."
+    "explanation": "'ONG' significa 'ONG' (organizzazione non governativa). 'Integrarse' significa 'integrarsi'. Le ONG spesso aiutano nell'integrazione degli immigrati.",
+    "hint": null
   },
   "q_vocab_b1_14_006": {
-    "question": "'voluntariado'は何を意味しますか？",
-    "correct": "ボランティア活動",
+    "question": "Che cosa significa 'voluntariado'?",
+    "correct": "volontariato / lavoro volontario",
     "wrong": [
-      "ボランティアの人",
-      "自発的な寄付",
-      "自発的な退職"
+      "persona volontaria",
+      "donazione volontaria",
+      "pensionamento volontario"
     ],
-    "explanation": "'Voluntariado' significa 'volunteering' o 'voluntary work'. 'Hacer voluntariado' significa 'a do volunteer work'."
+    "explanation": "'Voluntariado' significa 'volontariato' o 'lavoro volontario'. 'Hacer voluntariado' significa 'fare volontariato'.",
+    "hint": null
   },
   "q_vocab_b1_14_007": {
-    "question": "コミュニティセンターは恵まれない家族を支援しています。このような仕事は何ですか？",
+    "question": "Il tuo centro civico organizza aiuti per le famiglie svantaggiate. Che tipo di lavoro è?",
     "correct": "trabajo solidario",
     "wrong": [
       "trabajo discriminatorio",
       "trabajo exclusivo",
       "trabajo violento"
     ],
-    "explanation": "'Solidario' significa 'supportive' o 'charitable'. 'Trabajo solidario' si riferisce a charitable o solidarity work quello helps quelli in need."
+    "explanation": "'Solidario' significa 'solidale' o 'caritatevole'. 'Trabajo solidario' indica un lavoro di solidarietà che aiuta chi è nel bisogno.",
+    "hint": null
   },
   "q_vocab_b1_14_008": {
-    "question": "'exclusión social'は何を意味しますか？",
-    "correct": "社会的排除",
+    "question": "Che cosa significa 'exclusión social'?",
+    "correct": "esclusione sociale",
     "wrong": [
-      "社会的例外",
-      "独占社会",
-      "社会的遠足"
+      "eccezione sociale",
+      "società esclusiva",
+      "escursione sociale"
     ],
-    "explanation": "'Exclusión social' significa 'social exclusion', quando individuals o groups sono marginalized da participating fully in society."
+    "explanation": "'Exclusión social' significa 'esclusione sociale', cioè quando persone o gruppi vengono emarginati e non possono partecipare pienamente alla vita della società.",
+    "hint": null
   },
   "q_vocab_b1_14_009": {
     "question": "La violencia de género es un problema grave que afecta a toda la sociedad.",
@@ -1390,13 +1502,14 @@
     "explanation": "'Violencia de género' significa 'gender-based violence'. Esso's a widely discussed social issue in Spain e Latin America."
   },
   "q_vocab_b1_14_010": {
-    "question": "あなたの街の難民を支援したいです。何ができますか？",
+    "question": "Vuoi aiutare i rifugiati della tua città. Che cosa puoi fare?",
     "correct": "Colaborar con una ONG que apoya a refugiados.",
     "wrong": [
       "Discriminar a los refugiados de la ciudad.",
       "Excluir a los refugiados de la sociedad.",
       "Ignorar la inmigración en la ciudad."
     ],
-    "explanation": "'Colaborar' significa 'a collaborate' o 'a help'. Working con NGOs è one di il/la best ways a support refugees."
+    "explanation": "'Colaborar' significa 'collaborare' o 'aiutare'. Lavorare con le ONG è uno dei modi migliori per sostenere i rifugiati.",
+    "hint": null
   }
 }

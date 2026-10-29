@@ -664,14 +664,15 @@
     "hint": "'Aunque' + indiแมวive = although (known fact)"
   },
   "q_gram_b2_07_003": {
-    "question": "อย่างไร does mood (กาลบอกเล่า vs. subjunctive) change ความหมาย ของ 'aunque'?",
-    "correct": "'Aunque' + indiแมวive แปลว่า 'although' (stating a fact), while 'aunque' + subjunctive แปลว่า 'even if' (uncertain หรือ hypothetical)",
+    "question": "อารมณ์ของกริยา (indicative กับ subjunctive) เปลี่ยนความหมายของ 'aunque' อย่างไร?",
+    "correct": "'Aunque' + indicative แปลว่า 'ถึงแม้ว่า' (บอกข้อเท็จจริง) ส่วน 'aunque' + subjunctive แปลว่า 'ต่อให้' (ไม่แน่นอนหรือสมมติ)",
     "wrong": [
-      "'Aunque' + indiแมวive is for present tense และ 'aunque' + subjunctive is for past tense",
-      "'Aunque' + indiแมวive is inสำหรับmal และ 'aunque' + subjunctive is สำหรับmal",
-      "'Aunque' + indiแมวive is for positive statements และ 'aunque' + subjunctive is for negative ones"
+      "'Aunque' + indicative ใช้กับกาลปัจจุบัน และ 'aunque' + subjunctive ใช้กับกาลอดีต",
+      "'Aunque' + indicative เป็นแบบไม่เป็นทางการ และ 'aunque' + subjunctive เป็นแบบเป็นทางการ",
+      "'Aunque' + indicative ใช้กับประโยคบอกเล่า และ 'aunque' + subjunctive ใช้กับประโยคปฏิเสธ"
     ],
-    "explanation": " choice between indiแมวive และ subjunctive after 'aunque' depends on whether speaker presents inสำหรับmation as a known fact (indiแมวive) หรือ as uncertain/hypothetical (subjunctive)."
+    "explanation": "การเลือกระหว่าง indicative กับ subjunctive หลัง 'aunque' ขึ้นอยู่กับว่าผู้พูดนำเสนอข้อมูลนั้นเป็นข้อเท็จจริงที่ทราบแล้ว (indicative) หรือเป็นสิ่งที่ไม่แน่นอน/สมมติ (subjunctive)",
+    "hint": null
   },
   "q_gram_b2_07_004": {
     "question": "Aunque ella no ___ de acuerdo, aceptó la decisión. (estar, past indicative, ella form)",
@@ -1028,14 +1029,15 @@
     "hint": " second clause เป็น a result ของ first"
   },
   "q_gram_b2_10_007": {
-    "question": "He does not like going out at กลางคืน. On other hand, his brother goes out every weekend.",
+    "question": "เขาไม่ชอบออกไปข้างนอกตอนกลางคืน ในทางกลับกัน พี่ชายของเขาออกไปข้างนอกทุกสุดสัปดาห์",
     "correct": "No le gusta salir por la noche. En cambio, su hermano sale todos los fines de semana.",
     "wrong": [
       "No le gusta salir por la noche. Sin embargo, su hermano sale todos los fines de semana.",
       "No le gusta salir por la noche. Por lo tanto, su hermano sale todos los fines de semana.",
       "No le gusta salir por la noche. Es decir, su hermano sale todos los fines de semana."
     ],
-    "explanation": "'En cambio' แปลว่า 'on other hand / โดย contrast' และ introduces a contrasting compariลูกชาย between สอง different subjects. มัน emphasizes difference between สอง brothers."
+    "explanation": "'En cambio' แปลว่า 'ในทางกลับกัน / ตรงกันข้าม' ใช้เปรียบเทียบความแตกต่างระหว่างสองบุคคลที่ต่างกัน และเน้นความต่างระหว่างพี่น้องสองคนนี้",
+    "hint": null
   },
   "q_gram_b2_10_008": {
     "question": "El restaurante estaba lleno; ___, decidimos ir a otro lugar. (consequence connector)",
@@ -1873,15 +1875,15 @@
     "conjugation_info": "Common preposition + quien(es) patterns: con quien(es) (with whom), a quien(es) (to whom), de quien(es) (of/about whom), para quien(es) (สำหรับ whom)"
   },
   "q_gram_b2_18_006": {
-    "question": "El hotel ___ el que nos alojamos tenía unas vistas increíbles. (preposition 'ใน' + relative)",
+    "question": "El hotel ___ el que nos alojamos tenía unas vistas increíbles. (บุพบท 'in' + relative)",
     "correct": "en",
     "wrong": [
       "con",
       "por",
       "de"
     ],
-    "explanation": "'En el que' แปลว่า 'ใน which'. 'El โรงแรม en el que nos alojamos' = ' โรงแรม ใน which we stayed'. preposition 'en' indiแมวes loแมวion.",
-    "hint": "Which preposition indiแมวes loแมวion (ใน/at)?"
+    "explanation": "'En el que' แปลว่า 'ซึ่ง...ใน' 'El hotel en el que nos alojamos' = 'โรงแรมที่เราพัก' บุพบท 'en' บอกสถานที่",
+    "hint": "บุพบทตัวไหนบอกสถานที่ (ใน/ที่)?"
   },
   "q_gram_b2_18_007": {
     "question": " book about which we spoke เป็น มาก interesting.",

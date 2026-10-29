@@ -83,15 +83,16 @@
     "explanation": "Nach 'espero que' (I hope das), der/die/das Konjunktiv ist erforderlich. Estudiar in der/die/das tú Konjunktiv ist estudies."
   },
   "q_gram_b1_01_009": {
-    "question": "Vosotros ___ las instrucciones con cuidado. (escribir, Präsens Konjunktiv, vosotros-Form)",
+    "question": "Vosotros ___ las instrucciones con cuidado. (escribir, Präsens des Subjuntivo, vosotros-Form)",
     "correct": "escribáis",
     "wrong": [
       "escribís",
       "escribiréis",
       "escribíais"
     ],
-    "explanation": "Der/die/das vosotros Konjunktiv von escribir uses der/die/das opposite ending -áis: escribáis.",
-    "conjugation_info": "escribir (Präsens Konjunktiv): escriba, escribas, escriba, escribamos, escribáis, escriban"
+    "explanation": "Der Subjuntivo von escribir in der vosotros-Form verwendet die gegenteilige Endung -áis: escribáis.",
+    "conjugation_info": "escribir (Präsens Konjunktiv): escriba, escribas, escriba, escribamos, escribáis, escriban",
+    "hint": null
   },
   "q_gram_b1_01_010": {
     "question": "Es necesario que los alumnos coman en la cafetería.",
@@ -132,7 +133,8 @@
       "sabe",
       "sabría"
     ],
-    "explanation": "Saber ist fully Unregelmäßig in der/die/das Konjunktiv mit der/die/das Stamm sep-: sepa, sepas, sepa, sepamos, sepáis, sepan."
+    "explanation": "Saber ist im Subjuntivo völlig unregelmäßig mit dem Stamm sep-: sepa, sepas, sepa, sepamos, sepáis, sepan.",
+    "hint": null
   },
   "q_gram_b1_02_004": {
     "question": "Welche von diese Verbs hat a FULLY Unregelmäßig Präsens Konjunktiv (not derived von der/die/das yo Indikativ form)?",
@@ -463,7 +465,8 @@
       "viene",
       "vendrá"
     ],
-    "explanation": "Venir hat an Unregelmäßig Konditional Stamm: vendr-. Der/die/das ella form ist vendría. Der/die/das Konditional wird verwendet in reported speech für Zukunft-in-der/die/das-Vergangenheit."
+    "explanation": "Venir hat einen unregelmäßigen Konditionalstamm: vendr-. Die ella-Form lautet vendría. Der Konditional wird in der indirekten Rede für die Zukunft in der Vergangenheit verwendet.",
+    "hint": null
   },
   "q_gram_b1_05_006": {
     "question": "Ellos ___ la verdad si pudieran. (decir, Konditional, ellos form)",
@@ -963,14 +966,15 @@
     "explanation": "Wann der/die/das reporting Verb ist in der/die/das Präsens (dice), Es gibt kein Zeitform shift: tiene stays as tiene."
   },
   "q_gram_b1_10_004": {
-    "question": "In reported speech, wie does der/die/das Zeit marker 'hoy' change wann der/die/das reporting Verb ist in der/die/das Vergangenheit?",
-    "correct": "Hoy changes to 'ese día' or 'aquel día'",
+    "question": "Wie verändert sich in der indirekten Rede die Zeitangabe 'hoy', wenn das einleitende Verb in der Vergangenheit steht?",
+    "correct": "Hoy wird zu 'ese día' oder 'aquel día'",
     "wrong": [
-      "Hoy stays the same",
-      "Hoy changes to 'mañana'",
-      "Hoy changes to 'ayer'"
+      "Hoy bleibt gleich",
+      "Hoy wird zu 'mañana'",
+      "Hoy wird zu 'ayer'"
     ],
-    "explanation": "In reported speech mit a Vergangenheit reporting Verb, Zeit markers shift: hoy → ese día, aquí → allí, mañana → al día siguiente, ayer → el día anterior."
+    "explanation": "In der indirekten Rede mit einem einleitenden Verb in der Vergangenheit verschieben sich die Zeitangaben: hoy → ese día, aquí → allí, mañana → al día siguiente, ayer → el día anterior.",
+    "hint": null
   },
   "q_gram_b1_10_005": {
     "question": "Ella ___ que vendría a la fiesta. (decir, reported speech, ella, Präteritum)",
@@ -1015,13 +1019,14 @@
   },
   "q_gram_b1_10_009": {
     "question": "El profesor nos dijo que habíamos aprobado el examen.",
-    "correct": "The teacher told us that we had passed the exam.",
+    "correct": "Der Lehrer sagte uns, dass wir die Prüfung bestanden hatten.",
     "wrong": [
-      "The teacher tells us that we have passed the exam.",
-      "The teacher told us that we will pass the exam.",
-      "The teacher told us that we passed the exam."
+      "Der Lehrer sagt uns, dass wir die Prüfung bestanden haben.",
+      "Der Lehrer sagte uns, dass wir die Prüfung bestehen werden.",
+      "Der Lehrer sagte uns, dass wir die Prüfung bestanden."
     ],
-    "explanation": "Habíamos aprobado ist der/die/das Plusquamperfekt (Plusquamperfekt), used in reported speech wann der/die/das original statement war in der/die/das Perfekt."
+    "explanation": "Habíamos aprobado ist das Plusquamperfekt (Pluscuamperfecto) und wird in der indirekten Rede verwendet, wenn die ursprüngliche Aussage im Perfekt stand.",
+    "hint": null
   },
   "q_gram_b1_10_010": {
     "question": "Ellos ___ que no podían venir. (decir, reported speech, ellos, Präteritum)",
@@ -1170,14 +1175,15 @@
     "explanation": "Der/die/das result Nebensatz von a type 1 Konditional kann auch use der/die/das Präsens Indikativ: Si llueve, no vamos = If es rains, we don't go."
   },
   "q_gram_b1_12_004": {
-    "question": "Welche Zeitform combination ist richtig für a Konditional type 1 (real condition)?",
-    "correct": "Si + present indicative, future/present/imperative",
+    "question": "Welche Zeitenkombination ist für einen Konditionalsatz Typ 1 (reale Bedingung) richtig?",
+    "correct": "Si + Indikativ Präsens, Futur/Präsens/Imperativ",
     "wrong": [
-      "Si + imperfect subjunctive, conditional",
-      "Si + future, future",
-      "Si + subjunctive, present"
+      "Si + Subjuntivo Imperfekt, Konditional",
+      "Si + Futur, Futur",
+      "Si + Subjuntivo, Präsens"
     ],
-    "explanation": "Konditional type 1 drückt aus real/possible conditions: Si + Präsens Indikativ in der/die/das condition, und Zukunft/Präsens/Imperativ in der/die/das result."
+    "explanation": "Konditionalsatz Typ 1 drückt reale bzw. mögliche Bedingungen aus: Si + Indikativ Präsens in der Bedingung und Futur/Präsens/Imperativ im Hauptsatz.",
+    "hint": null
   },
   "q_gram_b1_12_005": {
     "question": "Si tú ___ tiempo, ven a visitarnos. (tener, Präsens Indikativ, tú-Form)",

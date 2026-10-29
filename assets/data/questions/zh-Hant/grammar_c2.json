@@ -76,14 +76,15 @@
     "hint": "這 construction replaces 'si + pluperfect 虛擬式' 與 'de + compound 不定式'"
   },
   "q_gram_c2_01_008": {
-    "question": "它 是 precisely his arrogance 那 led 到 his downfall.",
+    "question": "正是他的傲慢導致了他的垮台。",
     "correct": "Fue precisamente su arrogancia lo que provocó su caída.",
     "wrong": [
       "Fue precisamente su arrogancia que provocó su caída.",
       "Era precisamente su arrogancia la que provocaba su caída.",
       "Precisamente su arrogancia fue que provocó su caída."
     ],
-    "explanation": "這 是 a cleft sentence (oración hendida) focusing on 'su arrogancia'. 由於 focused element 是 an abstract concept rather than a specific gendered 名詞 functioning as subject 的 relative, neuter 'lo que' 是 用過的 (not 'la que'). 簡單過去時 'fue...provocó' 表示 a completed past event. 省略 'lo' 之前 'que' 是 a 常見 error."
+    "explanation": "這是一個分裂句(oración hendida),焦點是 'su arrogancia'。由於被強調的是抽象概念,而不是在關係子句中擔任主語的特定陰陽性名詞,所以要用中性的 'lo que'(而不是 'la que')。簡單過去時 'fue...provocó' 表示已完成的過去事件。漏掉 'que' 前面的 'lo' 是常見的錯誤。",
+    "hint": null
   },
   "q_gram_c2_01_009": {
     "question": "Cuanto más se ___ en el tema, más complejo le parecía. (adentrar, 過去虛擬式, él — literary concessive escalation)",
@@ -565,14 +566,15 @@
     "hint": " sentence announces a list 與 'tres ciudades' — 什麼 punctuation introduces enumeration?"
   },
   "q_gram_c2_06_004": {
-    "question": "什麼 是 grammatical difference between 'Mi hermano, que vive en Madrid, es médico' 和 'Mi hermano que vive en Madrid es médico'?",
-    "correct": "The first (with commas) is a non-restrictive clause implying one brother; the second (without commas) is restrictive, implying there are multiple brothers and identifying which one",
+    "question": "'Mi hermano, que vive en Madrid, es médico' 與 'Mi hermano que vive en Madrid es médico' 在語法上有什麼差別?",
+    "correct": "第一句(有逗號)是非限定性子句,暗示只有一個哥哥/弟弟;第二句(沒有逗號)是限定性子句,暗示有多個兄弟,並指出是其中哪一位",
     "wrong": [
-      "There is no grammatical difference; the commas are optional stylistic choices",
-      "The first is informal and the second is formal register",
-      "The first uses the indicative mood and the second implies subjunctive"
+      "沒有語法差別;逗號只是可有可無的風格選擇",
+      "第一句是非正式語體,第二句是正式語體",
+      "第一句使用直陳式,第二句暗示虛擬式"
     ],
-    "explanation": "在 西班牙語, commas around a relative clause determine whether 它 是 explicativa (non-restrictive, providing extra information) 或 especificativa (restrictive, narrowing down which referent). 這 punctuation distinction 改變 含義: 與 commas, 說話者 有 one brother; 沒有, 說話者 有 multiple brothers 和 是 specifying which one."
+    "explanation": "在西班牙語中,關係子句前後有沒有逗號,決定它是 explicativa(非限定性,提供額外資訊)還是 especificativa(限定性,用來縮小所指對象的範圍)。這種標點上的區別會改變語意:有逗號時,說話者只有一個兄弟;沒有逗號時,說話者有多個兄弟,並且在指明是哪一位。",
+    "hint": null
   },
   "q_gram_c2_06_005": {
     "question": "El director declaró___ «No habrá más despidos este trimestre». ( director stated___)",
@@ -875,25 +877,27 @@
     "hint": "動詞 regime test: 'alegrarse DE algo' → 'de que' 是 mandatory"
   },
   "q_gram_c2_09_003": {
-    "question": "什麼 error does sentence 'Pienso de que deberías estudiar más' contain?",
-    "correct": "Dequeísmo: the incorrect insertion of 'de' before 'que' — it should be 'Pienso que deberías estudiar más'",
+    "question": "句子 'Pienso de que deberías estudiar más' 含有什麼錯誤?",
+    "correct": "Dequeísmo:在 'que' 前面錯誤地加上 'de'——應該說 'Pienso que deberías estudiar más'",
     "wrong": [
-      "Queísmo: a missing preposition before 'que'",
-      "Leísmo: incorrect use of an indirect object pronoun",
-      "Loísmo: incorrect use of a direct object pronoun"
+      "Queísmo:'que' 前面漏掉了介系詞",
+      "Leísmo:錯誤使用間接受詞代名詞",
+      "Loísmo:錯誤使用直接受詞代名詞"
     ],
-    "explanation": "Dequeísmo 是 insertion 的 'de' 之前 'que' 哪裡 它 做 not belong. Test: 'Pienso ALGO' (not *'pienso DE algo'), 因此 'pienso que' 是 正確 和 'pienso de que' 是 dequeísmo. 這 error 是 stigmatized 在 正式 西班牙語 和 是 a hallmark diagnostic at C2 level."
+    "explanation": "Dequeísmo 是指在不該出現 'de' 的地方,在 'que' 前面加上 'de'。檢驗方法:說 'Pienso ALGO'(而不是 *'pienso DE algo'),所以 'pienso que' 才是正確的,'pienso de que' 就是 dequeísmo。這種錯誤在正式西班牙語中會被視為不當,也是 C2 程度的典型診斷題。",
+    "hint": null
   },
   "q_gram_c2_09_004": {
-    "question": "Los estudiantes, ___ por la noticia, salieron del aula en silencio. (conmover, 過去分詞 agreeing 與 subject — 正確 concordance)",
+    "question": "Los estudiantes, ___ por la noticia, salieron del aula en silencio.(conmover,與主語一致的過去分詞——正確的性數配合)",
     "correct": "conmovidos",
     "wrong": [
       "conmovido",
       "conmocionados",
       "conmoviendo"
     ],
-    "explanation": " 過去分詞 在 an absolute participial clause 必須 agree 在 性別 和 數 與 名詞 它 modifies. 'Los estudiantes' 是 男性 複數, so 'conmovidos' 是 需要. 使用 'conmovido' (男性 單數) 將 是 a concordance error (error de concordancia). 注意: 'conmoviendo' (動名詞) 將 create a 不同 construction entirely.",
-    "conjugation_info": "conmover (past participle): conmovido/a/os/as — 與名詞一致 in absolute constructions"
+    "explanation": "獨立分詞子句中的過去分詞,必須與其所修飾的名詞在性與數上一致。'Los estudiantes' 是陽性複數,所以必須用 'conmovidos'。若用 'conmovido'(陽性單數)就是配合錯誤(error de concordancia)。注意:'conmoviendo'(副動詞)會形成完全不同的結構。",
+    "conjugation_info": "conmover (past participle): conmovido/a/os/as — 與名詞一致 in absolute constructions",
+    "hint": null
   },
   "q_gram_c2_09_005": {
     "question": "Han habido muchos problemas este año. → Identify and correct the error.",
@@ -903,8 +907,8 @@
       "Hubieron habido",
       "Habrán habido"
     ],
-    "explanation": "'Haber' as an impersonal 動詞 (含義 '那裡 是/是') 是 總是 第三 人稱 單數, regardless 的 什麼 follows. *'Han habido muchos problemas' 是 incorrect 因爲 'problemas' 是 not 主語 — 動詞 是 impersonal. 這 是 one 的 最 常見 errors among native speakers, 特別是 在 regions like Valencia 和 拉丁美洲.",
-    "hint": "Impersonal 'haber' 是 總是 單數: ha habido, había, hubo, habrá"
+    "explanation": "無人稱動詞 'haber'(意思是「有」)無論後面接什麼,一律使用第三人稱單數。*'Han habido muchos problemas' 是錯的,因為 'problemas' 不是主詞——這個動詞是無人稱用法。這是母語人士最常犯的錯誤之一,尤其在瓦倫西亞和拉丁美洲等地區。",
+    "hint": "無人稱的 'haber' 永遠用單數:ha habido, había, hubo, habrá"
   },
   "q_gram_c2_09_006": {
     "question": "La carta ___ enviada ayer por el secretario. (ser, 簡單過去時 passive — 正確 passive voice construction)",
@@ -1074,8 +1078,8 @@
       "hambría",
       "hambres"
     ],
-    "explanation": "西班牙語 uses 'tener hambre' (到 有 hunger) rather than 'estar hambriento' (到 是 hungry). 這 是 an 例子 的 transposition, 哪裡 grammatical structure shifts 來自 形容詞 到 名詞. 正確 fill 是 'hambre' (hunger), 名詞 形式.",
-    "hint": "西班牙語 expresses states 的 是 與 'tener + 名詞' rather than 'ser/estar + 形容詞'"
+    "explanation": "西班牙語使用 'tener hambre'(擁有飢餓)而不是 'estar hambriento'(處於飢餓的狀態)。這是「轉換」(transposition)的例子,語法結構從形容詞轉為名詞。正確的填空是 'hambre'(飢餓),也就是名詞形式。",
+    "hint": "西班牙語用「tener + 名詞」而不是「ser/estar + 形容詞」來表達狀態"
   },
   "q_gram_c2_11_002": {
     "question": "La directora ___ una rueda de prensa para desmentir los rumores. (英語 source: ' director held a press conference 到 deny rumors.')",
@@ -1281,15 +1285,15 @@
     "conjugation_info": "llevar (pretérito indefinido): llevé, llevaste, llevó, llevamos, llevasteis, llevaron"
   },
   "q_gram_c2_13_001": {
-    "question": "Vi al hombre con el ___ . (Which 詞 resolves ambiguity 的 'I saw man 與 telescope'?)",
+    "question": "Vi al hombre con el ___ .(哪個詞可以消除「我用望遠鏡看到那個男人」的歧義?)",
     "correct": "telescopio",
     "wrong": [
       "binocular",
       "lente",
       "ojo"
     ],
-    "explanation": " sentence 'Vi al hombre con el telescopio' 是 structurally ambiguous: 'con el telescopio' 可以 modify 'vi' (I saw 使用 telescope) 或 'al hombre' ( man 誰 had telescope). 這 是 classic PP-attachment ambiguity. fill-在 itself 是 unambiguous — 'telescopio' 是 instrument — 但是 sentence structure remains ambiguous.",
-    "hint": " prepositional phrase 'con el telescopio' 可以 attach 到 two 不同 elements"
+    "explanation": "句子 'Vi al hombre con el telescopio' 在結構上有歧義:'con el telescopio' 可以修飾 'vi'(我用望遠鏡看到),也可以修飾 'al hombre'(拿著望遠鏡的那個男人)。這是典型的介系詞片語附著歧義(PP-attachment ambiguity)。填空本身沒有歧義——'telescopio' 就是工具——但句子結構依然有歧義。",
+    "hint": "介系詞片語 'con el telescopio' 可以附著在兩個不同的成分上"
   },
   "q_gram_c2_13_002": {
     "question": "Cada estudiante entregó ___ trabajo a su profesor. (possessive 那 creates ambiguity)",
@@ -1468,8 +1472,8 @@
       "mencione",
       "ha mencionado"
     ],
-    "explanation": "'Tal y como se mencionó en la sección anterior' (as 是 mentioned 在 previous section) uses impersonal 'se' 與 簡單過去時 到 refer 到 a specific earlier point 在 text. 簡單過去時 是 preferred 這裡 因爲 mention occurred at a definite point, unlike 未完成過去時 which 將 imply an ongoing 或 repeated action.",
-    "hint": "使用 簡單過去時 爲 a specific past reference within text"
+    "explanation": "'Tal y como se mencionó en la sección anterior'(如前一節所述)使用無人稱的 'se' 搭配簡單過去時,指涉文中先前的某個特定之處。這裡偏好使用簡單過去時,因為提及的動作發生在一個明確的時間點;未完成過去時則會暗示持續或重複的動作。",
+    "hint": "指涉文中某個特定的過去之處時,使用簡單過去時"
   },
   "q_gram_c2_14_009": {
     "question": "No se han hallado diferencias estadísticamente significativas entre los grupos experimentales y el grupo de control.",
@@ -1493,15 +1497,15 @@
     "conjugation_info": "abordar (imperfect subjunctive): abordara, abordaras, abordara, abordáramos, abordarais, abordaran"
   },
   "q_gram_c2_15_001": {
-    "question": "Si yo ___ tú, no aceptaría esa oferta. (ser, 過去虛擬式 — a basic 條件式 structure reviewed at mastery level)",
+    "question": "Si yo ___ tú, no aceptaría esa oferta.(ser,虛擬式過去時——在精熟階段複習的基本條件句結構)",
     "correct": "fuera",
     "wrong": [
       "sería",
       "sea",
       "fui"
     ],
-    "explanation": "'Si yo fuera tú' (if I 是 你) uses 過去虛擬式 在 si-clause 的 a present contrary-到-fact 條件式. 這 是 one 的 最 fundamental structures 在 西班牙語, 第一 encountered at B1-B2 但是 需要 complete mastery at C2. 條件式 'aceptaría' follows 在 main clause.",
-    "hint": "Contrary-到-fact conditionals 需要 過去虛擬式 在 si-clause"
+    "explanation": "'Si yo fuera tú'(如果我是你)在與現在事實相反的條件句中,於 si 子句使用虛擬式過去時。這是西班牙語最基本的結構之一,雖然在 B1-B2 就會首次接觸,但到了 C2 必須完全掌握。主句接著使用條件式 'aceptaría'。",
+    "hint": "與事實相反的條件句,si 子句要用虛擬式過去時"
   },
   "q_gram_c2_15_002": {
     "question": "Habiéndose ___ todas las pruebas, el juez dictó sentencia. (presentar, 過去分詞 在 absolute participial clause)",

@@ -1,14 +1,14 @@
 {
   "q_gram_c2_01_001": {
-    "question": "A mí ___ que no tienen razón. (parecer, stylistic inversion per emphasis)",
+    "question": "A mí ___ que no tienen razón. (parecer, inversione stilistica per enfasi)",
     "correct": "me parece",
     "wrong": [
       "parece me",
       "yo parezco",
       "me parecen"
     ],
-    "explanation": "In spagnolo, fronting il/la indirect object pronome con 'a mí' creates emphasis on il/la speaker's opinion. Il verbo 'parecer' concorda con il/la implied subject (il/la clause 'que no tienen razón'), taking third-persona singolare: 'me parece'.",
-    "hint": "Il soggetto di 'parecer' è il/la entire clause quello follows, not 'yo'"
+    "explanation": "In spagnolo, anteporre il pronome di complemento indiretto con 'a mí' crea enfasi sull'opinione di chi parla. Il verbo 'parecer' concorda con il soggetto implicito (la proposizione 'que no tienen razón') e va alla terza persona singolare: 'me parece'.",
+    "hint": "Il soggetto di 'parecer' è l'intera proposizione che segue, non 'yo'"
   },
   "q_gram_c2_01_002": {
     "question": "Fue en París ___ nos conocimos por primera vez. (cleft sentence particle)",
@@ -22,25 +22,27 @@
     "hint": "Il/la focused element è a place (en París)"
   },
   "q_gram_c2_01_003": {
-    "question": "Cosa stylistic effect does placing il verbo prima il soggetto produce in spagnolo declarative sentences (e.g., 'Llegó Juan' vs. 'Juan llegó')?",
-    "correct": "It presents the subject as new or unexpected information (rhematic focus), giving the sentence a more narrative or dramatic tone",
+    "question": "Quale effetto stilistico produce la collocazione del verbo prima del soggetto nelle frasi dichiarative spagnole (ad es. 'Llegó Juan' vs. 'Juan llegó')?",
+    "correct": "Presenta il soggetto come informazione nuova o inattesa (focalizzazione rematica), dando alla frase un tono più narrativo o drammatico",
     "wrong": [
-      "It makes the sentence grammatically more formal but has no change in meaning",
-      "It indicates that the action is habitual rather than a single event",
-      "It transforms the sentence into a question in formal registers"
+      "Rende la frase grammaticalmente più formale ma non cambia il significato",
+      "Indica che l'azione è abituale e non un evento singolo",
+      "Trasforma la frase in una domanda nei registri formali"
     ],
-    "explanation": "In spagnolo, il/la default parola order SVO può essere altered per information-structural purposes. Verbo-Subject order (VS) places il soggetto in rhematic (new information) position: 'Llegó Juan' presents Juan's arrival as noteworthy o unexpected, whereas 'Juan llegó' treats Juan as already known (thematic). Questo VS order è comune in literary e journalistic prose per dramatic effect."
+    "explanation": "In spagnolo l'ordine di base SVO può essere modificato per ragioni di struttura informativa. L'ordine Verbo-Soggetto (VS) colloca il soggetto in posizione rematica (informazione nuova): 'Llegó Juan' presenta l'arrivo di Juan come degno di nota o inatteso, mentre 'Juan llegó' tratta Juan come già noto (tematico). Questo ordine VS è frequente nella prosa letteraria e giornalistica per ottenere un effetto drammatico.",
+    "hint": null
   },
   "q_gram_c2_01_004": {
-    "question": "Lo que ___ es una explicación clara, no excusas. (necesitar, indicativo presente, nosotros — emphatic pseudocleft)",
+    "question": "Lo que ___ es una explicación clara, no excusas. (necesitar, presente indicativo, nosotros — pseudoscissa enfatica)",
     "correct": "necesitamos",
     "wrong": [
       "necesitemos",
       "necesitaríamos",
       "necesitáramos"
     ],
-    "explanation": "In a pseudocleft (oración pseudohendida) like 'Lo que necesitamos es...', il verbo in il/la relative clause takes il/la indicativo perché esso si riferisce a a real, asserted need. Il/la congiuntivo sarebbe essere used solo if il/la need erano hypothetical o uncertain, quale il/la emphatic tone di il/la pseudocleft denies.",
-    "conjugation_info": "necesitar (present indicative): necesito, necesitas, necesita, necesitamos, necesitáis, necesitan"
+    "explanation": "In una pseudoscissa (oración pseudohendida) come 'Lo que necesitamos es...', il verbo della relativa va all'indicativo perché si riferisce a un bisogno reale e asserito. Il congiuntivo si userebbe solo se il bisogno fosse ipotetico o incerto, cosa che il tono enfatico della pseudoscissa esclude.",
+    "conjugation_info": "necesitar (present indicative): necesito, necesitas, necesita, necesitamos, necesitáis, necesitan",
+    "hint": null
   },
   "q_gram_c2_01_005": {
     "question": "Bonita respuesta ___ diste. (emphatic ironic construction con determiner)",
@@ -76,25 +78,27 @@
     "hint": "Questo construction replaces 'si + trapassato congiuntivo' con 'de + compound infinito'"
   },
   "q_gram_c2_01_008": {
-    "question": "Esso era precisely his arrogance quello led a his downfall.",
+    "question": "Fu proprio la sua arroganza a provocare la sua caduta.",
     "correct": "Fue precisamente su arrogancia lo que provocó su caída.",
     "wrong": [
       "Fue precisamente su arrogancia que provocó su caída.",
       "Era precisamente su arrogancia la que provocaba su caída.",
       "Precisamente su arrogancia fue que provocó su caída."
     ],
-    "explanation": "Questo è un cleft sentence (oración hendida) focusing on 'su arrogancia'. Poiché il/la focused element è an abstract concept rather than a specific gendered sostantivo functioning as subject di il/la relative, il/la neuter 'lo que' si usa (not 'la que'). Il/la passato remoto 'fue...provocó' indica a completed past event. Omitting 'lo' prima 'que' è a comune error."
+    "explanation": "Questa è una frase scissa (oración hendida) che mette in focus 'su arrogancia'. Poiché l'elemento focalizzato è un concetto astratto e non un nome specifico con genere che funge da soggetto della relativa, si usa il neutro 'lo que' (non 'la que'). Il pretérito 'fue...provocó' indica un evento passato concluso. Omettere 'lo' davanti a 'que' è un errore comune.",
+    "hint": null
   },
   "q_gram_c2_01_009": {
-    "question": "Cuanto más se ___ en el tema, más complejo le parecía. (adentrar, congiuntivo imperfetto, él — literary concessive escalation)",
+    "question": "Cuanto más se ___ en el tema, más complejo le parecía. (adentrar, imperfetto del congiuntivo, él — gradazione concessiva letteraria)",
     "correct": "adentrara",
     "wrong": [
       "adentraba",
       "adentraría",
       "adentrase"
     ],
-    "explanation": "'Cuanto más...más...' con il/la congiuntivo imperfetto in literary register creates a correlative escalation structure. Mentre 'adentraba' (indicativo) sarebbe essere acceptable in everyday Spagnolo, il/la congiuntivo 'adentrara' adds a layer di subjective perception consistent con 'le parecía'. Note: 'adentrase' (-se form) è technically anche corretto ma il/la -ra form è expected qui.",
-    "conjugation_info": "adentrarse (imperfect subjunctive): me adentrara, te adentraras, se adentrara, nos adentráramos, os adentrarais, se adentraran"
+    "explanation": "'Cuanto más...más...' con l'imperfetto del congiuntivo nel registro letterario crea una struttura correlativa di crescendo. Anche se 'adentraba' (indicativo) sarebbe accettabile nello spagnolo quotidiano, il congiuntivo 'adentrara' aggiunge una sfumatura di percezione soggettiva coerente con 'le parecía'. Nota: 'adentrase' (forma in -se) è tecnicamente corretta, ma qui ci si aspetta la forma in -ra.",
+    "conjugation_info": "adentrarse (imperfect subjunctive): me adentrara, te adentraras, se adentrara, nos adentráramos, os adentrarais, se adentraran",
+    "hint": null
   },
   "q_gram_c2_01_010": {
     "question": "No es que no quiera ayudarte; es que no puedo.",
@@ -107,56 +111,61 @@
     "explanation": "'No es que + congiuntivo' (no quiera) negates one possible interpretation mentre 'es que + indicativo' (no puedo) asserts il/la real reason. Questo contrastive focus structure è a hallmark di nuanced Spagnolo argumentation, using il/la congiuntivo a deny e il/la indicativo a affirm. Il/la stylistic effect è diplomatic self-justification."
   },
   "q_gram_c2_02_001": {
-    "question": "Si así lo ___, que Dios se lo demande. (hacer, future congiuntivo, él — archaic legal/religious formula)",
+    "question": "Si así lo ___, que Dios se lo demande. (hacer, futuro del congiuntivo, él — formula arcaica giuridica/religiosa)",
     "correct": "hiciere",
     "wrong": [
       "hiciera",
       "haga",
       "hará"
     ],
-    "explanation": "Il/la future congiuntivo ('hiciere') survives in legal documents, religious oaths, e proverbs. Da il/la irregolare passato remoto radice hic-, il/la future congiuntivo adds -iere. In modern everyday Spagnolo, questo sarebbe essere 'si lo hace' o 'si lo hiciera'.",
-    "conjugation_info": "hacer (future subjunctive): hiciere, hicieres, hiciere, hiciéremos, hiciereis, hicieren"
+    "explanation": "Il futuro del congiuntivo ('hiciere') sopravvive nei documenti giuridici, nei giuramenti religiosi e nei proverbi. Dalla radice irregolare del pretérito hic-, il futuro del congiuntivo aggiunge -iere. Nello spagnolo moderno di uso quotidiano si direbbe 'si lo hace' o 'si lo hiciera'.",
+    "conjugation_info": "hacer (future subjunctive): hiciere, hicieres, hiciere, hiciéremos, hiciereis, hicieren",
+    "hint": null
   },
   "q_gram_c2_02_002": {
-    "question": "Apenas hubo ___ el rey, toda la corte enmudeció. (entrar, pretérito anterior — literary narrative)",
+    "question": "Apenas hubo ___ el rey, toda la corte enmudeció. (entrar, pretérito anterior — narrativa letteraria)",
     "correct": "entrado",
     "wrong": [
       "entrando",
       "entró",
       "entrada"
     ],
-    "explanation": "Il/la pretérito anterior ('hubo entrado') si usa in literary prose dopo temporal conjunctions like 'apenas' (scarcely) per indicare an action completed immediately prima another past event. Questo tense è virtually extinct in spoken Spagnolo ma appears in formale e literary writing. Il/la participio passato di 'entrar' è regolare: 'entrado'."
+    "explanation": "Il pretérito anterior ('hubo entrado') si usa nella prosa letteraria dopo congiunzioni temporali come 'apenas' (appena) per indicare un'azione conclusa immediatamente prima di un altro evento passato. Questo tempo è praticamente scomparso dallo spagnolo parlato, ma compare nella scrittura formale e letteraria. Il participio passato di 'entrar' è regolare: 'entrado'.",
+    "hint": null
   },
   "q_gram_c2_02_003": {
-    "question": "Sea lo que ___, no me rendiré. (ser, future congiuntivo — archaic concessive formula)",
+    "question": "Sea lo que ___, no me rendiré. (ser, futuro del congiuntivo — formula concessiva arcaica)",
     "correct": "fuere",
     "wrong": [
       "sea",
       "fuera",
       "será"
     ],
-    "explanation": "Il/la expression 'sea lo que fuere' (come cosa may) preserves il/la future congiuntivo 'fuere' in a fixed concessive formula. In modern Spagnolo, Questo è spesso regularized a 'sea lo que sea', ma il/la archaic form persists in formale e literary registers. Il/la future congiuntivo di 'ser' shares forms con 'ir': fuere, fueres, fuere, etc."
+    "explanation": "L'espressione 'sea lo que fuere' (accada quel che accada) conserva il futuro del congiuntivo 'fuere' in una formula concessiva fissa. Nello spagnolo moderno viene spesso regolarizzata in 'sea lo que sea', ma la forma arcaica persiste nei registri formali e letterari. Il futuro del congiuntivo di 'ser' coincide con quello di 'ir': fuere, fueres, fuere, ecc.",
+    "hint": null
   },
   "q_gram_c2_02_004": {
-    "question": "Cosa è il/la 'pretérito anterior' (hubo cantado) e perché è esso considered archaic?",
-    "correct": "A compound past tense formed with the preterite of 'haber' + past participle, expressing immediate anteriority; it has been replaced by the simple preterite or pluperfect in all but literary usage",
+    "question": "Che cos'è il 'pretérito anterior' (hubo cantado) e perché è considerato arcaico?",
+    "correct": "Un tempo passato composto formato dal pretérito di 'haber' + participio passato, che esprime anteriorità immediata; è stato sostituito dal pretérito semplice o dal trapassato in tutti gli usi tranne quello letterario",
     "wrong": [
-      "A simple past tense formed by adding special archaic endings to the verb stem, still common in legal texts",
-      "A conditional perfect tense that was used before the modern conditional emerged in the 16th century",
-      "A pluperfect indicative variant using 'ser' instead of 'haber' as the auxiliary, common until the 18th century"
+      "Un tempo passato semplice formato aggiungendo speciali desinenze arcaiche alla radice del verbo, ancora comune nei testi giuridici",
+      "Un condizionale composto usato prima della comparsa del condizionale moderno nel XVI secolo",
+      "Una variante del trapassato indicativo che usa 'ser' invece di 'haber' come ausiliare, comune fino al XVIII secolo"
     ],
-    "explanation": "Il/la pretérito anterior (hube cantado, hubiste cantado, hubo cantado, etc.) esprime an action completed immediately prima another past action. Esso appeared dopo temporal conjunctions like 'apenas', 'en cuanto', 'no bien'. Esso ha been almost entirely replaced da il/la simple passato remoto o il/la trapassato (había cantado) in modern Spagnolo, surviving solo in molto formale literary prose."
+    "explanation": "Il pretérito anterior (hube cantado, hubiste cantado, hubo cantado, ecc.) esprime un'azione conclusa immediatamente prima di un'altra azione passata. Compariva dopo congiunzioni temporali come 'apenas', 'en cuanto', 'no bien'. È stato quasi del tutto sostituito dal pretérito semplice o dal trapassato (había cantado) nello spagnolo moderno e sopravvive solo nella prosa letteraria molto formale.",
+    "hint": null
   },
   "q_gram_c2_02_005": {
-    "question": "Donde ___ necesidad, acuda el ciudadano al servicio público. (haber, future congiuntivo, archaic legal register)",
+    "question": "Donde ___ necesidad, acuda el ciudadano al servicio público. (haber, congiuntivo futuro, registro giuridico arcaico)",
     "correct": "hubiere",
     "wrong": [
       "haya",
       "habrá",
       "hubiera"
     ],
-    "explanation": "In legal e administrative Spagnolo, il/la future congiuntivo 'hubiere' si usa in condizionale o relative clauses referring a hypothetical future situations. 'Donde hubiere necesidad' significa 'wherever lì may essere need'. Modern non-legal Spagnolo sarebbe use 'donde haya necesidad'.",
-    "conjugation_info": "haber (future subjunctive): hubiere, hubieres, hubiere, hubiéremos, hubiereis, hubieren"
+    "explanation": "Nello spagnolo giuridico e amministrativo il congiuntivo futuro 'hubiere' si usa nelle proposizioni condizionali o relative che si riferiscono a situazioni future ipotetiche. 'Donde hubiere necesidad' significa 'ovunque ci sia bisogno'. Lo spagnolo moderno non giuridico userebbe 'donde haya necesidad'.",
+    "conjugation_info": "haber (future subjunctive): hubiere, hubieres, hubiere, hubiéremos, hubiereis, hubieren",
+    "hint": null
   },
   "q_gram_c2_02_006": {
     "question": "Pluguiera a Dios que ___ paz en el mundo. (haber — archaic optative construction)",
@@ -170,14 +179,15 @@
     "hint": "'Pluguiera' è il/la archaic congiuntivo imperfetto di 'placer' (a please)"
   },
   "q_gram_c2_02_007": {
-    "question": "Whoever shall commit questo offense sarà essere punished according a il/la law.",
+    "question": "Chiunque commetta questo reato sarà punito a norma di legge.",
     "correct": "Quien cometiere esta falta será castigado conforme a la ley.",
     "wrong": [
       "Quien cometa esta falta será castigado conforme a la ley.",
       "Quien cometería esta falta sería castigado conforme a la ley.",
       "Quien haya cometido esta falta ha sido castigado conforme a la ley."
     ],
-    "explanation": "In legal Spagnolo, 'quien + future congiuntivo' (cometiere) si usa per hypothetical future agents in statutory provisions. Questo parallels il/la archaic Inglese 'whoever shall commit'. Mentre 'cometa' (congiuntivo presente) è acceptable in modern legal drafting, il/la future congiuntivo remains il/la traditional form in spagnolo jurisprudence."
+    "explanation": "Nello spagnolo giuridico 'quien + congiuntivo futuro' (cometiere) si usa per soggetti futuri ipotetici nelle disposizioni di legge. Corrisponde all'arcaico inglese 'whoever shall commit'. Anche se 'cometa' (congiuntivo presente) è accettabile nella redazione giuridica moderna, il congiuntivo futuro resta la forma tradizionale nella giurisprudenza spagnola.",
+    "hint": null
   },
   "q_gram_c2_02_008": {
     "question": "No bien hubo ___ la sentencia, el acusado se desplomó. (oír, pretérito anterior — literary narrative)",
@@ -192,24 +202,26 @@
   },
   "q_gram_c2_02_009": {
     "question": "Adonde fueres, haz lo que vieres.",
-    "correct": "Wherever you may go, do as you may see (done). / When in Rome, do as the Romans do.",
+    "correct": "Ovunque tu vada, fa' ciò che vedrai fare. / Paese che vai, usanza che trovi.",
     "wrong": [
-      "Wherever you went, do what you saw there.",
-      "Go where you want and do what you want.",
-      "Where you will go, see what you will do."
+      "Ovunque tu sia andato, fa' ciò che hai visto lì.",
+      "Va' dove vuoi e fa' ciò che vuoi.",
+      "Dove andrai, guarda ciò che farai."
     ],
-    "explanation": "Questo famous proverb preserves il/la future congiuntivo ('fueres' da ir, 'vieres' da ver) in a condizionale-concessive structure. Esso è il/la Spagnolo equivalent di 'Quando in Rome, do as il/la Romans do'. Il/la future congiuntivo qui esprime hypothetical, open-ended future situations in a timeless proverbial way. Questo form ha been replaced da il/la congiuntivo presente o indicativo in tutti non-proverbial modern usage."
+    "explanation": "Questo celebre proverbio conserva il congiuntivo futuro ('fueres' da ir, 'vieres' da ver) in una struttura condizionale-concessiva. È l'equivalente spagnolo di 'Paese che vai, usanza che trovi'. Qui il congiuntivo futuro esprime situazioni future ipotetiche e aperte in modo proverbiale e senza tempo. Questa forma è stata sostituita dal congiuntivo presente o dall'indicativo in tutti gli usi moderni non proverbiali.",
+    "hint": null
   },
   "q_gram_c2_02_010": {
-    "question": "Si el demandado no ___ en el plazo de diez días, se procederá en rebeldía. (comparecer, future congiuntivo, él — legal register)",
+    "question": "Si el demandado no ___ en el plazo de diez días, se procederá en rebeldía. (comparecer, congiuntivo futuro, él — registro giuridico)",
     "correct": "compareciere",
     "wrong": [
       "comparezca",
       "compareciera",
       "comparecerá"
     ],
-    "explanation": "In legal documents, il/la future congiuntivo si usa in condizionale clauses about hypothetical future events. 'Si no compareciere' significa 'dovrebbe il/la defendant not appear'. Il/la future congiuntivo di 'comparecer' è formed da il/la passato remoto radice comparec- + -iere. Modern legal reform spesso replaces questo con 'si no comparece'.",
-    "conjugation_info": "comparecer (future subjunctive): compareciere, comparecieres, compareciere, compareciéremos, compareciereis, comparecieren"
+    "explanation": "Nei documenti giuridici il congiuntivo futuro si usa nelle proposizioni condizionali su eventi futuri ipotetici. 'Si no compareciere' significa 'qualora il convenuto non compaia'. Il congiuntivo futuro di 'comparecer' si forma dalla radice del passato remoto comparec- + -iere. La riforma giuridica moderna spesso lo sostituisce con 'si no comparece'.",
+    "conjugation_info": "comparecer (future subjunctive): compareciere, comparecieres, compareciere, compareciéremos, compareciereis, comparecieren",
+    "hint": null
   },
   "q_gram_c2_03_001": {
     "question": "Vos ___ muy amable conmigo. (ser, Argentine voseo, indicativo presente)",
@@ -233,25 +245,27 @@
     "explanation": "Leísmo è il/la use di il/la indirect object pronome 'le' in place di il/la direct object pronome 'lo' (o 'la'). 'Le vi ayer' instead di 'Lo vi ayer' è characteristic di central Spain (Castile). Il/la RAE accepts leísmo per maschile singolare animate referents ma considers esso incorrect per femminile o inanimate referents."
   },
   "q_gram_c2_03_003": {
-    "question": "Cosa è il/la key grammatical difference between 'ustedes' usage in Peninsular Spagnolo e Latin American Spagnolo?",
-    "correct": "In Peninsular Spanish, 'ustedes' is exclusively formal plural (vs. informal 'vosotros'); in Latin American Spanish, 'ustedes' serves as both formal and informal plural, replacing 'vosotros' entirely",
+    "question": "Qual è la principale differenza grammaticale nell'uso di 'ustedes' tra lo spagnolo peninsulare e quello latinoamericano?",
+    "correct": "Nello spagnolo peninsulare 'ustedes' è esclusivamente il plurale formale (in contrasto con 'vosotros', informale); nello spagnolo latinoamericano 'ustedes' funziona sia da plurale formale sia informale, sostituendo del tutto 'vosotros'",
     "wrong": [
-      "In Peninsular Spanish, 'ustedes' takes second-person plural verbs; in Latin American Spanish it takes third-person plural verbs",
-      "In Peninsular Spanish, 'ustedes' is only used for women; in Latin American Spanish it is gender-neutral",
-      "There is no grammatical difference; the distinction is purely one of pronunciation"
+      "Nello spagnolo peninsulare 'ustedes' regge verbi alla seconda persona plurale; in quello latinoamericano regge verbi alla terza persona plurale",
+      "Nello spagnolo peninsulare 'ustedes' si usa solo per le donne; in quello latinoamericano è neutro rispetto al genere",
+      "Non c'è nessuna differenza grammaticale; la distinzione riguarda solo la pronuncia"
     ],
-    "explanation": "Questo è one di il/la la maggior parte significant dialectal grammar differences in spagnolo. Peninsular Spagnolo maintains a two-way informale/formale distinction in il/la plurale: vosotros/as (informale) vs. ustedes (formale). Latin American Spagnolo ha eliminated 'vosotros' entirely, using 'ustedes' con third-persona plurale verbs per tutti plurale addresses regardless di formality."
+    "explanation": "Questa è una delle differenze grammaticali dialettali più importanti dello spagnolo. Lo spagnolo peninsulare mantiene al plurale la distinzione tra informale e formale: vosotros/as (informale) e ustedes (formale). Lo spagnolo latinoamericano ha eliminato del tutto 'vosotros' e usa 'ustedes' con i verbi alla terza persona plurale per ogni forma di allocuzione plurale, a prescindere dal grado di formalità.",
+    "hint": null
   },
   "q_gram_c2_03_004": {
-    "question": "Vos ___ a la fiesta anoche, ¿verdad? (ir, Argentine voseo, passato remoto)",
+    "question": "Vos ___ a la fiesta anoche, ¿verdad? (ir, voseo argentino, passato remoto)",
     "correct": "fuiste",
     "wrong": [
       "fuistes",
       "fuisteis",
       "fue"
     ],
-    "explanation": "In il/la Argentine voseo, il/la passato remoto forms sono identical a il/la standard 'tú' forms. 'Vos fuiste' è corretto, not 'fuistes' (a comune hypercorrection) o 'fuisteis' (il/la forma vosotros). Il/la voseo diverges da tuteo mainly in il/la indicativo presente, congiuntivo presente, e imperativo, not in il/la passato remoto.",
-    "conjugation_info": "ir (preterite with voseo): vos fuiste (same as tú fuiste)"
+    "explanation": "Nel voseo argentino le forme del passato remoto sono identiche a quelle standard di 'tú'. 'Vos fuiste' è corretto, non 'fuistes' (un'ipercorrezione comune) né 'fuisteis' (la forma di vosotros). Il voseo si discosta dal tuteo soprattutto nell'indicativo presente, nel congiuntivo presente e nell'imperativo, non nel passato remoto.",
+    "conjugation_info": "ir (preterite with voseo): vos fuiste (same as tú fuiste)",
+    "hint": null
   },
   "q_gram_c2_03_005": {
     "question": "La di un libro a María. (identify il/la dialectal phenomenon e il/la standard correction: ___)",
@@ -265,15 +279,16 @@
     "hint": "'Dar' takes an indirect object per il/la recipient"
   },
   "q_gram_c2_03_006": {
-    "question": "¡Sentate acá! (rewrite using voseo imperativo di 'sentarse' — identify il/la corretto form)",
+    "question": "¡Sentate acá! (riscrivi usando l'imperativo con voseo di 'sentarse' — individua la forma corretta)",
     "correct": "sentate",
     "wrong": [
       "siéntate",
       "sentáte",
       "sentaos"
     ],
-    "explanation": "In il/la Argentine voseo imperativo, -ar verbs drop il/la final -r di il/la infinito e stress il/la last syllable: sentar → sentá. Con il/la reflexive pronome 'te', esso becomes 'sentate' (no written accent perché il/la stress falls naturally on il/la penultimate syllable di il/la combined form). Peninsular 'siéntate' uses il/la tú imperativo con a radice change.",
-    "conjugation_info": "sentarse (voseo imperative): sentate | Standard tú imperative: siéntate"
+    "explanation": "Nell'imperativo con voseo argentino i verbi in -ar perdono la -r finale dell'infinito e hanno l'accento sull'ultima sillaba: sentar → sentá. Con il pronome riflessivo 'te' diventa 'sentate' (senza accento scritto perché l'accento cade naturalmente sulla penultima sillaba della forma composta). La forma peninsulare 'siéntate' usa l'imperativo di 'tú' con cambio di radice.",
+    "conjugation_info": "sentarse (voseo imperative): sentate | Standard tú imperative: siéntate",
+    "hint": null
   },
   "q_gram_c2_03_007": {
     "question": "En el Caribe, es común escuchar la aspiración o elisión de la /s/ final. ¿Cómo se pronunciaría 'estos libros' en esta variedad?",
@@ -297,15 +312,16 @@
     "explanation": "Il/la RAE accepts leísmo per maschile singolare animate referents: 'Le vi' (instead di il/la etymologically corretto 'Lo vi') quando referring a a male persona. Questo è il/la solo type di leísmo considered acceptable. Leísmo con femminile, plurale, o inanimate referents è not accepted."
   },
   "q_gram_c2_03_009": {
-    "question": "Vos ___ que estudiar más si querés aprobar. (tener, Argentine voseo, indicativo presente)",
+    "question": "Vos ___ que estudiar más si querés aprobar. (tener, voseo argentino, indicativo presente)",
     "correct": "tenés",
     "wrong": [
       "tienes",
       "tenéis",
       "tenís"
     ],
-    "explanation": "In Argentine voseo, -er verbs in il/la indicativo presente stress il/la final syllable e eliminate il/la diphthong: tener → tenés (not tienes). Chilean voseo a volte uses 'tenís' (con aspiration), ma il/la Rioplatense form è 'tenés'. Il/la forma vosotros 'tenéis' è not used in Latin America.",
-    "conjugation_info": "tener (present indicative, voseo): vos tenés | Chilean: vos tenís | Standard tú: tienes"
+    "explanation": "Nel voseo argentino i verbi in -er all'indicativo presente hanno l'accento sull'ultima sillaba e perdono il dittongo: tener → tenés (non tienes). Il voseo cileno a volte usa 'tenís' (con aspirazione), ma la forma rioplatense è 'tenés'. La forma di vosotros 'tenéis' non si usa in America Latina.",
+    "conjugation_info": "tener (present indicative, voseo): vos tenés | Chilean: vos tenís | Standard tú: tienes",
+    "hint": null
   },
   "q_gram_c2_03_010": {
     "question": "¿Vos querés que yo te lo diga o preferís que me calle?",
@@ -425,26 +441,26 @@
     "conjugation_info": "ser (future indicative): seré, serás, será, seremos, seréis, serán"
   },
   "q_gram_c2_05_001": {
-    "question": "El presunto autor del robo ___ detenido ayer por la policía. (ser, passato remoto — journalistic passive voice)",
+    "question": "El presunto autor del robo ___ detenido ayer por la policía. (ser, passato remoto — passivo giornalistico)",
     "correct": "fue",
     "wrong": [
       "ha sido",
       "estaba",
       "era"
     ],
-    "explanation": "In journalistic Spagnolo, il/la passive voice con 'ser' in il/la passato remoto ('fue detenido') è standard per reporting completed events. Questo contrasts con everyday spoken Spagnolo, quale strongly prefers active constructions o 'se' passives. Il/la journalistic passive creates objectivity e formality. 'Ha sido' (passato prossimo) sarebbe suggest closer temporal relevance.",
-    "hint": "Journalistic reporting di a completed past event uses il/la passato remoto passive"
+    "explanation": "Nello spagnolo giornalistico il passivo con 'ser' al passato remoto ('fue detenido') è lo standard per riferire eventi conclusi. Si contrappone allo spagnolo parlato quotidiano, che preferisce nettamente le costruzioni attive o i passivi con 'se'. Il passivo giornalistico crea oggettività e formalità. 'Ha sido' (passato prossimo) suggerirebbe una maggiore vicinanza temporale.",
+    "hint": "La cronaca di un evento passato concluso usa il passivo al passato remoto"
   },
   "q_gram_c2_05_002": {
-    "question": "Según fuentes consultadas, el acuerdo ___ firmado en los próximos días. (ser, future — journalistic hedged prediction)",
+    "question": "Según fuentes consultadas, el acuerdo ___ firmado en los próximos días. (ser, futuro — previsione giornalistica attenuata)",
     "correct": "será",
     "wrong": [
       "ha sido",
       "fue",
       "sería"
     ],
-    "explanation": "In journalistic Spagnolo, 'será firmado' (future passive) reports a predicted event as fact. Il/la attribution 'según fuentes consultadas' provides il/la hedge. Il/la condizionale 'sería' sarebbe indicate more uncertainty. Journalistic register frequently uses future passive constructions quello sarebbe sound unnatural in everyday conversation.",
-    "hint": "Journalistic predictions about scheduled future events use il/la future tense"
+    "explanation": "Nello spagnolo giornalistico 'será firmado' (passivo futuro) presenta come un fatto un evento previsto. L'attribuzione 'según fuentes consultadas' fornisce l'attenuazione. Il condizionale 'sería' indicherebbe maggiore incertezza. Il registro giornalistico usa spesso costruzioni passive al futuro che suonerebbero innaturali nella conversazione quotidiana.",
+    "hint": "Le previsioni giornalistiche su eventi futuri programmati usano il tempo futuro"
   },
   "q_gram_c2_05_003": {
     "question": "Cosa è il/la primary grammatical characteristic di legal Spagnolo quello distinguishes esso da everyday lingua?",
@@ -457,26 +473,27 @@
     "explanation": "Legal Spagnolo (español jurídico) è characterized da il/la future congiuntivo ('si el acusado negare...'), lengthy subordinate clauses, nominal phrases (nominalization di verbs), archaic formulas ('por la presente', 'en virtud de'), e passive voice con 'ser'. Questi features create density e formality quello può make legal texts nearly impenetrable a non-specialists."
   },
   "q_gram_c2_05_004": {
-    "question": "Se ___ que los resultados confirman la hipótesis inicial. (observar, passato remoto, impersonal 'se' — scientific register)",
+    "question": "Se ___ que los resultados confirman la hipótesis inicial. (observar, passato remoto, 'se' impersonale — registro scientifico)",
     "correct": "observó",
     "wrong": [
       "observaba",
       "ha observado",
       "observará"
     ],
-    "explanation": "In scientific Spagnolo, il/la impersonal 'se' + passato remoto ('se observó') è il/la standard way a report findings objectively, avoiding personal subjects like 'yo observé' o 'nosotros observamos'. Il/la passato remoto indica a completed observation within il/la study. Questo impersonal construction è a defining feature di academic e scientific writing in spagnolo.",
-    "conjugation_info": "observar (preterite): observé, observaste, observó, observamos, observasteis, observaron"
+    "explanation": "Nello spagnolo scientifico il 'se' impersonale + passato remoto ('se observó') è il modo standard per riferire oggettivamente i risultati, evitando soggetti personali come 'yo observé' o 'nosotros observamos'. Il passato remoto indica un'osservazione conclusa all'interno dello studio. Questa costruzione impersonale è un tratto distintivo della scrittura accademica e scientifica in spagnolo.",
+    "conjugation_info": "observar (preterite): observé, observaste, observó, observamos, observasteis, observaron",
+    "hint": null
   },
   "q_gram_c2_05_005": {
-    "question": "Los datos ___ analizados mediante un método estadístico de regresión lineal. (ser, passato remoto, passive — scientific paper methodology section)",
+    "question": "Los datos ___ analizados mediante un método estadístico de regresión lineal. (ser, passato remoto, passivo — sezione metodologica di un articolo scientifico)",
     "correct": "fueron",
     "wrong": [
       "son",
       "eran",
       "han sido"
     ],
-    "explanation": "In il/la methodology section di scientific papers, il/la passive passato remoto ('fueron analizados') reports completed procedures. Questo passive construction maintains il/la impersonal tone expected in academic writing. 'Han sido' (passato prossimo) sarebbe essere used per results con ongoing relevance, mentre il/la passato remoto indica a discrete completed action within il/la study.",
-    "hint": "Il/la methodology section descrive completed procedures"
+    "explanation": "Nella sezione metodologica degli articoli scientifici il passivo al passato remoto ('fueron analizados') riferisce procedure concluse. Questa costruzione passiva mantiene il tono impersonale richiesto nella scrittura accademica. 'Han sido' (passato prossimo) si userebbe per risultati con rilevanza ancora attuale, mentre il passato remoto indica un'azione distinta e conclusa all'interno dello studio.",
+    "hint": "La sezione metodologica descrive procedure concluse"
   },
   "q_gram_c2_05_006": {
     "question": "Descubre ___ tu nueva piel con nuestra crema revolucionaria. (a verbo form typical di advertising — tú imperativo di 'ser')",
@@ -501,14 +518,15 @@
     "hint": "Il/la increase happened within a recent tempo frame connected a il/la present"
   },
   "q_gram_c2_05_008": {
-    "question": "Esso era concluded quello il/la treatment significantly reduces symptoms in 78% di patients. (Translate using scientific register)",
+    "question": "Si è concluso che il trattamento riduce in modo significativo i sintomi nel 78% dei pazienti. (Traduci usando il registro scientifico)",
     "correct": "Se concluyó que el tratamiento reduce significativamente los síntomas en el 78% de los pacientes.",
     "wrong": [
       "Concluimos que el tratamiento reduce significativamente los síntomas en el 78% de los pacientes.",
       "Fue concluido que el tratamiento reduce los síntomas significativamente en 78% de los pacientes.",
       "Se ha concluido que el tratamiento redujo los síntomas en el 78% de los pacientes."
     ],
-    "explanation": "Scientific Spagnolo uses il/la impersonal 'se concluyó' rather than il/la personal 'concluimos' o il/la passive 'fue concluido' (quale è grammatically awkward con 'concluir' in questo context). Il/la articolo 'el' prima '78%' è standard in spagnolo scientific writing. 'Significativamente' è placed prima il verbo esso modifies per formale precision."
+    "explanation": "Lo spagnolo scientifico usa l'impersonale 'se concluyó' invece del personale 'concluimos' o del passivo 'fue concluido' (grammaticalmente goffo con 'concluir' in questo contesto). L'articolo 'el' davanti a '78%' è standard nella scrittura scientifica spagnola. 'Significativamente' è collocato prima del verbo che modifica, per precisione formale.",
+    "hint": null
   },
   "q_gram_c2_05_009": {
     "question": "Por la presente, se ___ a las partes que el plazo vence el día 15 del corriente mes. (notificar, indicativo presente, impersonal 'se' — legal/administrative register)",
@@ -523,13 +541,14 @@
   },
   "q_gram_c2_05_010": {
     "question": "Habida cuenta de las circunstancias expuestas, este tribunal resuelve desestimar la demanda interpuesta.",
-    "correct": "In consideration of the circumstances set forth, this court resolves to dismiss the complaint filed.",
+    "correct": "Tenuto conto delle circostanze esposte, questo tribunale decide di respingere la domanda presentata.",
     "wrong": [
-      "Having considered the exposed circumstances, this tribunal resolves to disregard the demand.",
-      "Given that the circumstances have been expressed, this court decides to reject the interpellated demand.",
-      "On account of the stated circumstances, this court orders the removal of the intermediary claim."
+      "Avendo considerato le circostanze scoperte, questo tribunale decide di ignorare la pretesa.",
+      "Dato che le circostanze sono state espresse, questo tribunale decide di rifiutare la pretesa interpellata.",
+      "In ragione delle circostanze dichiarate, questo tribunale ordina la rimozione della domanda intermediaria."
     ],
-    "explanation": "'Habida cuenta de' (in consideration di) è a fixed legal formula. 'Circunstancias expuestas' significa 'circumstances set forth' (not 'exposed'). 'Resuelve desestimar' è il/la legal performative per 'resolves a dismiss'. 'Demanda interpuesta' significa 'complaint filed' (not 'intermediary' o 'interpellated'). Legal Spagnolo relies heavily on such fixed collocations quello avere specific technical meanings distinct da everyday usage."
+    "explanation": "'Habida cuenta de' (tenuto conto di) è una formula giuridica fissa. 'Circunstancias expuestas' significa 'circostanze esposte' (non 'scoperte'). 'Resuelve desestimar' è il performativo giuridico per 'decide di respingere'. 'Demanda interpuesta' significa 'domanda presentata' (non 'intermediaria' né 'interpellata'). Lo spagnolo giuridico si basa molto su collocazioni fisse di questo tipo, con significati tecnici specifici distinti dall'uso quotidiano.",
+    "hint": null
   },
   "q_gram_c2_06_001": {
     "question": "El informe concluye lo siguiente___ los resultados son definitivos. (Choose il/la corretto punctuation + conjunction pattern)",
@@ -597,14 +616,15 @@
     "hint": "Two independent clauses con a close temporal relationship e dramatic contrast"
   },
   "q_gram_c2_06_007": {
-    "question": "Il/la results erano as follows: three in favor, two against, e one abstention.",
+    "question": "I risultati sono stati i seguenti: tre a favore, due contrari e un astenuto.",
     "correct": "Los resultados fueron los siguientes: tres a favor, dos en contra y una abstención.",
     "wrong": [
       "Los resultados fueron los siguientes; tres a favor, dos en contra y una abstención.",
       "Los resultados fueron los siguientes — tres a favor, dos en contra y una abstención.",
       "Los resultados fueron los siguientes, tres a favor, dos en contra y una abstención."
     ],
-    "explanation": "Dopo 'los siguientes' (il/la following), Spagnolo requires a colon a introduce il/la enumeration. Nota che in spagnolo, il/la serial comma (Oxford comma) prima 'y' è not used — unlike Inglese, Spagnolo omits il/la comma prima il/la final conjunction in a simple list."
+    "explanation": "Dopo 'los siguientes' (i seguenti) lo spagnolo richiede i due punti per introdurre l'elenco. Si noti inoltre che in spagnolo la virgola seriale (virgola di Oxford) prima della 'y' non si usa: a differenza dell'inglese, lo spagnolo omette la virgola prima della congiunzione finale in un semplice elenco.",
+    "hint": null
   },
   "q_gram_c2_06_008": {
     "question": "Solo quería una cosa___ que lo dejaran en paz.",
@@ -682,15 +702,15 @@
     "conjugation_info": "rogar (present indicative): ruego, ruegas, ruega, rogamos, rogáis, ruegan — note the o→ue stem change"
   },
   "q_gram_c2_07_005": {
-    "question": "Habida cuenta de las circunstancias, ___ oportuno aplazar la sesión. (resultar, ultra-formale written register)",
+    "question": "Habida cuenta de las circunstancias, ___ oportuno aplazar la sesión. (resultar, registro scritto ultraformale)",
     "correct": "resulta",
     "wrong": [
       "es",
       "parece",
       "queda"
     ],
-    "explanation": "'Habida cuenta de' (in view di / given) è an ultra-formale connector used in legal, academic, e parliamentary discourse. 'Resulta oportuno' (esso proves/turns out a essere appropriate) è il/la register-appropriate verbo choice. 'Es oportuno' sarebbe essere standard formale; 'resultar' adds il/la nuance di objective conclusion characteristic di questo register.",
-    "hint": "'Habida cuenta de' signals ultra-formale register — quale verbo matches questo tone?"
+    "explanation": "'Habida cuenta de' (in considerazione di / dato) è un connettivo ultraformale usato nel discorso giuridico, accademico e parlamentare. 'Resulta oportuno' (si rivela / risulta opportuno) è la scelta verbale adatta al registro. 'Es oportuno' sarebbe formale standard; 'resultar' aggiunge la sfumatura di conclusione oggettiva tipica di questo registro.",
+    "hint": "'Habida cuenta de' segnala un registro ultraformale: quale verbo si adatta a questo tono?"
   },
   "q_gram_c2_07_006": {
     "question": "Quienquiera que ___ responsable deberá rendir cuentas ante el tribunal. (ser, congiuntivo presente, formale legal register)",
@@ -704,15 +724,15 @@
     "conjugation_info": "ser (present subjunctive): sea, seas, sea, seamos, seáis, sean"
   },
   "q_gram_c2_07_007": {
-    "question": "Venga, ¡___ aquí! ¡Que no pasa nada, hombre! (venir, informale tú imperativo, colloquial register)",
+    "question": "Venga, ¡___ aquí! ¡Que no pasa nada, hombre! (venir, imperativo informale di tú, registro colloquiale)",
     "correct": "ven",
     "wrong": [
       "venga",
       "venid",
       "vienes"
     ],
-    "explanation": "In colloquial register, discourse markers like 'venga' (come on), 'hombre' (man/dude, regardless di gender), e 'que no pasa nada' (esso's no big deal) signal intimacy e informality. Il/la tú imperativo 'ven' matches questo register. 'Venga' (usted imperativo) sarebbe clash con il/la colloquial tone.",
-    "hint": "Il/la colloquial markers (venga, hombre) signal tú register"
+    "explanation": "Nel registro colloquiale, i marcatori discorsivi come 'venga' (dai), 'hombre' (amico, a prescindere dal genere) e 'que no pasa nada' (non è niente di grave) segnalano confidenza e informalità. L'imperativo di tú 'ven' si accorda a questo registro. 'Venga' (imperativo di usted) stonerebbe con il tono colloquiale.",
+    "hint": "I marcatori colloquiali (venga, hombre) indicano il registro di tú"
   },
   "q_gram_c2_07_008": {
     "question": "I hereby request quello my application essere reconsidered. (ultra-formale register)",
@@ -725,15 +745,16 @@
     "explanation": "'Por la presente' (hereby) è a formulaic expression exclusive a ultra-formale written register (legal, administrative). 'Solicito que... sea reconsiderada' uses il/la formale verbo 'solicitar' con passive congiuntivo, matching il/la institutional tone. Il/la alternatives sono progressively less formale e sarebbe not appear in official documents."
   },
   "q_gram_c2_07_009": {
-    "question": "Dígnese Su Señoría ___ las pruebas que a continuación se exponen. (examinar, ultra-formale judicial imperativo)",
+    "question": "Dígnese Su Señoría ___ las pruebas que a continuación se exponen. (examinar, imperativo giudiziario ultraformale)",
     "correct": "examinar",
     "wrong": [
       "examine",
       "examinando",
       "examinará"
     ],
-    "explanation": "'Dígnese' (may [Il tuo Honor] deign a) + infinito è il/la la maggior parte formale imperativo construction in spagnolo, reserved per addressing judges (Su Señoría), royalty, o high dignitaries. Questo archaic construction follows il/la pattern: reflexive courtesy verbo + infinito. Esso represents il/la highest register tier in spagnolo.",
-    "conjugation_info": "dignarse (formal imperative): dígnese + infinitive — ultra-formal/judicial register only"
+    "explanation": "'Dígnese' (si degni [Vostro Onore]) + infinito è la costruzione imperativa più formale dello spagnolo, riservata a rivolgersi a giudici (Su Señoría), sovrani o alte autorità. Questa costruzione arcaica segue lo schema: verbo riflessivo di cortesia + infinito. Rappresenta il livello più alto di registro in spagnolo.",
+    "conjugation_info": "dignarse (formal imperative): dígnese + infinitive — ultra-formal/judicial register only",
+    "hint": null
   },
   "q_gram_c2_07_010": {
     "question": "Mola mogollón, ¿eh? Es que el tío ese es un crack total, ¿sabes?",
@@ -779,14 +800,15 @@
     "hint": "Il/la trapassato establishes a completed state prior a il/la narrative turning point"
   },
   "q_gram_c2_08_004": {
-    "question": "In literary analysis, cosa è il/la grammatical function di il/la 'presente histórico' (historical present) in narrative prose?",
-    "correct": "It uses present tense to narrate past events, creating immediacy and dramatic vividness by collapsing the temporal distance between narrator and events",
+    "question": "Nell'analisi letteraria, qual è la funzione grammaticale del 'presente histórico' (presente storico) nella prosa narrativa?",
+    "correct": "Usa il tempo presente per narrare eventi passati, creando immediatezza e vividezza drammatica e annullando la distanza temporale tra narratore ed eventi",
     "wrong": [
-      "It is used only in dialogue to indicate characters speaking in real time",
-      "It is a subjunctive form used to express the author's doubts about historical accuracy",
-      "It is a future tense form used to foreshadow upcoming events in the plot"
+      "Si usa solo nei dialoghi per indicare che i personaggi parlano in tempo reale",
+      "È una forma del congiuntivo usata per esprimere i dubbi dell'autore sull'accuratezza storica",
+      "È una forma del futuro usata per anticipare eventi successivi della trama"
     ],
-    "explanation": "Il/la presente histórico è a powerful literary device dove past events sono narrated in il/la present tense ('Colón llega a América en 1492'). Grammatically, esso transposes il/la temporal frame, creating an effect di immediacy e reader immersion. In literary analysis, recognizing questo device è essential per understanding narrative perspective e il/la author's stylistic choices."
+    "explanation": "Il presente histórico è un potente artificio letterario in cui gli eventi passati sono narrati al tempo presente ('Colón llega a América en 1492'). Dal punto di vista grammaticale trasferisce la cornice temporale, creando un effetto di immediatezza e immersione del lettore. Nell'analisi letteraria, riconoscere questo artificio è essenziale per comprendere la prospettiva narrativa e le scelte stilistiche dell'autore.",
+    "hint": null
   },
   "q_gram_c2_08_005": {
     "question": "Mañana ___ el día decisivo. Lo sabía. Lo sentía en los huesos. (ser, literary present per narrative anticipation mixed con imperfetto per interiority)",
@@ -875,25 +897,27 @@
     "hint": "Verbo regime test: 'alegrarse DE algo' → 'de que' è mandatory"
   },
   "q_gram_c2_09_003": {
-    "question": "Cosa error does il/la sentence 'Pienso de que deberías estudiar más' contain?",
-    "correct": "Dequeísmo: the incorrect insertion of 'de' before 'que' — it should be 'Pienso que deberías estudiar más'",
+    "question": "Quale errore contiene la frase 'Pienso de que deberías estudiar más'?",
+    "correct": "Dequeísmo: l'inserimento scorretto di 'de' prima di 'que' — dovrebbe essere 'Pienso que deberías estudiar más'",
     "wrong": [
-      "Queísmo: a missing preposition before 'que'",
-      "Leísmo: incorrect use of an indirect object pronoun",
-      "Loísmo: incorrect use of a direct object pronoun"
+      "Queísmo: manca una preposizione prima di 'que'",
+      "Leísmo: uso scorretto di un pronome di complemento indiretto",
+      "Loísmo: uso scorretto di un pronome di complemento diretto"
     ],
-    "explanation": "Dequeísmo è il/la insertion di 'de' prima 'que' dove esso does not belong. Test: 'Pienso ALGO' (not *'pienso DE algo'), quindi 'pienso que' è corretto e 'pienso de que' è dequeísmo. Questo error è stigmatized in formale Spagnolo e è a hallmark diagnostic a C2 level."
+    "explanation": "Il dequeísmo è l'inserimento di 'de' prima di 'que' dove non va. Prova: 'Pienso ALGO' (non *'pienso DE algo'), quindi 'pienso que' è corretto e 'pienso de que' è dequeísmo. Questo errore è stigmatizzato nello spagnolo formale ed è un test diagnostico tipico del livello C2.",
+    "hint": null
   },
   "q_gram_c2_09_004": {
-    "question": "Los estudiantes, ___ por la noticia, salieron del aula en silencio. (conmover, participio passato agreeing con subject — corretto concordance)",
+    "question": "Los estudiantes, ___ por la noticia, salieron del aula en silencio. (conmover, participio passato concordato con il soggetto — concordanza corretta)",
     "correct": "conmovidos",
     "wrong": [
       "conmovido",
       "conmocionados",
       "conmoviendo"
     ],
-    "explanation": "Il/la participio passato in an absolute participial clause deve agree in gender e number con il sostantivo esso modifies. 'Los estudiantes' è maschile plurale, so 'conmovidos' è obbligatorio. Using 'conmovido' (maschile singolare) sarebbe essere a concordance error (error de concordancia). Note: 'conmoviendo' (gerundio) sarebbe create a different construction entirely.",
-    "conjugation_info": "conmover (past participle): conmovido/a/os/as — agrees with the noun in absolute constructions"
+    "explanation": "Il participio passato in una proposizione participiale assoluta deve concordare in genere e numero con il nome a cui si riferisce. 'Los estudiantes' è maschile plurale, quindi serve 'conmovidos'. Usare 'conmovido' (maschile singolare) sarebbe un errore di concordanza (error de concordancia). Nota: 'conmoviendo' (gerundio) creerebbe una costruzione completamente diversa.",
+    "conjugation_info": "conmover (past participle): conmovido/a/os/as — agrees with the noun in absolute constructions",
+    "hint": null
   },
   "q_gram_c2_09_005": {
     "question": "Han habido muchos problemas este año. → Identify and correct the error.",
@@ -918,15 +942,15 @@
     "conjugation_info": "ser (pretérito indefinido): fui, fuiste, fue, fuimos, fuisteis, fueron"
   },
   "q_gram_c2_09_007": {
-    "question": "Llegó corriendo y ___ la puerta de un portazo. (identify corretto construction: avoid improper gerundio)",
+    "question": "Llegó corriendo y ___ la puerta de un portazo. (individua la costruzione corretta: evita il gerundio improprio)",
     "correct": "cerró",
     "wrong": [
       "cerrando",
       "y cerrando",
       "para cerrando"
     ],
-    "explanation": "Using a gerundio per esprimere a result o subsequent action (*'Llegó cerrando la puerta') è incorrect in spagnolo — il/la gerundio cannot express posteriority. Il/la corretto construction uses a conjugated verbo ('cerró') coordinated con 'y'. Questo misuse di il/la gerundio (gerundio de posterioridad) è considered one di il/la la maggior parte serious grammatical errors in formale Spagnolo.",
-    "hint": "Il/la Spagnolo gerundio cannot express an action quello occurs dopo il/la main verbo"
+    "explanation": "Usare un gerundio per esprimere un risultato o un'azione successiva (*'Llegó cerrando la puerta') è scorretto in spagnolo: il gerundio non può esprimere posteriorità. La costruzione corretta usa un verbo coniugato ('cerró') coordinato con 'y'. Questo uso improprio del gerundio (gerundio de posterioridad) è considerato uno degli errori grammaticali più gravi nello spagnolo formale.",
+    "hint": "Il gerundio spagnolo non può esprimere un'azione che avviene dopo il verbo principale"
   },
   "q_gram_c2_09_008": {
     "question": "I am convinced quello il/la project sarà succeed. (translate correctly, avoiding queísmo)",
@@ -951,13 +975,14 @@
   },
   "q_gram_c2_09_010": {
     "question": "Habían muchas personas en la sala esperando su turno.",
-    "correct": "There were many people in the room waiting for their turn. (Note: 'Habían' is grammatically incorrect in standard Spanish — it should be 'Había')",
+    "correct": "C'erano molte persone nella sala che aspettavano il proprio turno. (Nota: 'Habían' è grammaticalmente scorretto nello spagnolo standard — dovrebbe essere 'Había')",
     "wrong": [
-      "There had been many people in the room waiting for their turn.",
-      "Many people had the room waiting for their turn.",
-      "They had many people in the room who were waiting."
+      "C'erano state molte persone nella sala ad aspettare il proprio turno.",
+      "Molte persone avevano la sala in attesa del proprio turno.",
+      "Avevano molte persone nella sala che stavano aspettando."
     ],
-    "explanation": "Il/la impersonal verbo 'haber' (existential: C'è/sono) deve sempre essere conjugated in il/la third persona singolare: 'había' (not *'habían'). Il/la plurale sostantivo 'muchas personas' è il/la direct object, NOT il soggetto. Questo error è extremely widespread in spoken Spagnolo (specialmente in Latin America) ma è unacceptable in formale/written C2-level Spagnolo."
+    "explanation": "Il verbo impersonale 'haber' (esistenziale: c'è/ci sono) va sempre coniugato alla terza persona singolare: 'había' (non *'habían'). Il nome plurale 'muchas personas' è il complemento oggetto, NON il soggetto. Questo errore è estremamente diffuso nello spagnolo parlato (soprattutto in America Latina), ma è inaccettabile nello spagnolo formale/scritto di livello C2.",
+    "hint": null
   },
   "q_gram_c2_10_001": {
     "question": "María estudió toda la noche. ___ embargo, no aprobó el examen. (Choose il/la corretto discourse marker per concession/contrast)",
@@ -1014,15 +1039,15 @@
     "conjugation_info": "extraer (pretérito indefinido): extraje, extrajiste, extrajo, extrajimos, extrajisteis, extrajeron — irregular stem extraj-"
   },
   "q_gram_c2_10_006": {
-    "question": "Algunos expertos defienden la medida. ___, otros la consideran contraproducente. (Choose il/la discourse marker per introducing an opposing viewpoint)",
+    "question": "Algunos expertos defienden la medida. ___, otros la consideran contraproducente. (Scegli il connettivo discorsivo per introdurre un punto di vista opposto)",
     "correct": "En cambio",
     "wrong": [
       "Además",
       "Por lo tanto",
       "Asimismo"
     ],
-    "explanation": "'En cambio' (on il/la other hand / in contrast) è a contrastive discourse marker quello introduces an opposing perspective. 'Además' (moreover) è additive; 'por lo tanto' (quindi) è consecutive; 'asimismo' (likewise) è additive. In discourse analysis, choosing il/la corretto marker determines il/la argumentative relationship between propositions.",
-    "hint": "Il/la second clause presents an opposing view — quale marker signals contrast?"
+    "explanation": "'En cambio' (invece / al contrario) è un connettivo discorsivo contrastivo che introduce una prospettiva opposta. 'Además' (inoltre) è aggiuntivo; 'por lo tanto' (quindi) è consecutivo; 'asimismo' (allo stesso modo) è aggiuntivo. Nell'analisi del discorso, la scelta del connettivo corretto determina il rapporto argomentativo tra le proposizioni.",
+    "hint": "La seconda proposizione presenta un'opinione opposta: quale connettivo indica contrasto?"
   },
   "q_gram_c2_10_007": {
     "question": "Cosa I want a emphasize è il/la following: information structure determines come il/la message è received. (translate preserving cataphoric structure)",
@@ -1110,26 +1135,27 @@
     "conjugation_info": "gustar (present): gusto, gustas, gusta, gustamos, gustáis, gustan — agrees with the thing liked, not the person"
   },
   "q_gram_c2_11_005": {
-    "question": "El investigador ___ que los resultados preliminares confirman la hipótesis. (Inglese source: 'Il/la researcher pointed out quello il/la preliminary results confirm il/la hypothesis.')",
+    "question": "El investigador ___ que los resultados preliminares confirman la hipótesis. (Originale inglese: 'Il ricercatore ha sottolineato che i risultati preliminari confermano l'ipotesi.')",
     "correct": "señaló",
     "wrong": [
       "apuntó",
       "puntualizó",
       "indicó fuera"
     ],
-    "explanation": "Inglese 'pointed out' translates as 'señaló' in academic contexts, maintaining il/la indicativo in il/la subordinate clause perché il/la content è presented as factual. 'Apuntó' potrebbe work colloquially ma 'señaló' è il/la standard academic translation. 'Indicó fuera' incorrectly introduces a congiuntivo dove none è necessario.",
-    "hint": "Choose il/la standard reporting verbo used in spagnolo academic writing"
+    "explanation": "L'inglese 'pointed out' si traduce con 'señaló' nei contesti accademici, mantenendo l'indicativo nella subordinata perché il contenuto è presentato come un fatto. 'Apuntó' potrebbe andare bene in modo colloquiale, ma 'señaló' è la traduzione accademica standard. 'Indicó fuera' introduce erroneamente un congiuntivo dove non serve.",
+    "hint": "Scegli il verbo introduttivo standard usato nella scrittura accademica spagnola"
   },
   "q_gram_c2_11_006": {
-    "question": "Nos ___ muy bien en la fiesta. (Inglese source: 'We aveva a great tempo a il/la party.' — pasárselo, pretérito indefinido, nosotros)",
+    "question": "Nos ___ muy bien en la fiesta. (Originale italiano: 'Ci siamo divertiti molto alla festa.' — pasárselo, pretérito indefinido, nosotros)",
     "correct": "lo pasamos",
     "wrong": [
       "pasamos lo",
       "nos pasamos",
       "lo pasábamos"
     ],
-    "explanation": "Inglese 'a avere a great tempo' translates as 'pasárselo bien' in spagnolo. Il pronome 'lo' è proclitic (placed prima il/la conjugated verbo), giving 'nos lo pasamos'. Tuttavia, in molti dialects il/la reflexive è dropped e il/la standard form è 'lo pasamos muy bien'. Il/la passato remoto si usa per a completed event.",
-    "conjugation_info": "pasárselo (pretérito indefinido): me lo pasé, te lo pasaste, se lo pasó, nos lo pasamos, os lo pasasteis, se lo pasaron"
+    "explanation": "L'espressione 'divertirsi molto' si traduce in spagnolo con 'pasárselo bien'. Il pronome 'lo' è proclitico (posto prima del verbo coniugato), dando 'nos lo pasamos'. Tuttavia, in molte varietà il riflessivo cade e la forma standard è 'lo pasamos muy bien'. Si usa il pretérito perché si tratta di un evento concluso.",
+    "conjugation_info": "pasárselo (pretérito indefinido): me lo pasé, te lo pasaste, se lo pasó, nos lo pasamos, os lo pasasteis, se lo pasaron",
+    "hint": null
   },
   "q_gram_c2_11_007": {
     "question": "El acuerdo fue ___ por ambas partes tras meses de negociación. (Inglese source: 'Il/la agreement era entered into da both parties dopo months di negotiation.')",
@@ -1281,15 +1307,15 @@
     "conjugation_info": "llevar (pretérito indefinido): llevé, llevaste, llevó, llevamos, llevasteis, llevaron"
   },
   "q_gram_c2_13_001": {
-    "question": "Vi al hombre con el ___ . (Quale parola resolves il/la ambiguity di 'I saw il/la man con il/la telescope'?)",
+    "question": "Vi al hombre con el ___ . (Quale parola risolve l'ambiguità di 'Ho visto l'uomo con il telescopio'?)",
     "correct": "telescopio",
     "wrong": [
       "binocular",
       "lente",
       "ojo"
     ],
-    "explanation": "Il/la sentence 'Vi al hombre con el telescopio' è structurally ambiguous: 'con el telescopio' può modify 'vi' (I saw using il/la telescope) o 'al hombre' (il/la man chi aveva il/la telescope). Questo è classic PP-attachment ambiguity. Il/la fill-in itself è unambiguous — 'telescopio' è il/la instrument — ma il/la sentence structure remains ambiguous.",
-    "hint": "Il/la prepositional frase 'con el telescopio' può attach a two different elements"
+    "explanation": "La frase 'Vi al hombre con el telescopio' è strutturalmente ambigua: 'con el telescopio' può riferirsi a 'vi' (ho visto usando il telescopio) o a 'al hombre' (l'uomo che aveva il telescopio). È il classico caso di ambiguità di attacco del sintagma preposizionale. La parola da inserire non è ambigua — 'telescopio' è lo strumento — ma la struttura della frase resta ambigua.",
+    "hint": "Il sintagma preposizionale 'con el telescopio' può collegarsi a due elementi diversi"
   },
   "q_gram_c2_13_002": {
     "question": "Cada estudiante entregó ___ trabajo a su profesor. (possessive quello creates ambiguity)",
@@ -1302,14 +1328,15 @@
     "explanation": "'Su' creates referential ambiguity: 'su trabajo' potrebbe significare 'his/her own work' o 'his/her (someone else's) work', e 'su profesor' potrebbe refer a ogni student's own professor o someone else's. Questo possessive ambiguity è inherent in spagnolo perché 'su' covers his/her/its/il tuo/il loro."
   },
   "q_gram_c2_13_003": {
-    "question": "Cosa type di ambiguity does il/la sentence 'Juan le dijo a Pedro que lo ascendieron' contain?",
-    "correct": "Referential ambiguity — 'lo' could refer to either Juan or Pedro, making it unclear who was promoted",
+    "question": "Che tipo di ambiguità contiene la frase 'Juan le dijo a Pedro que lo ascendieron'?",
+    "correct": "Ambiguità referenziale — 'lo' può riferirsi sia a Juan sia a Pedro, quindi non è chiaro chi sia stato promosso",
     "wrong": [
-      "Lexical ambiguity — the word 'ascendieron' has multiple dictionary meanings",
-      "Structural ambiguity — the subordinate clause can attach to different parts of the sentence",
-      "Pragmatic ambiguity — the sentence is ambiguous only in certain cultural contexts"
+      "Ambiguità lessicale — la parola 'ascendieron' ha più significati nel dizionario",
+      "Ambiguità strutturale — la subordinata può collegarsi a parti diverse della frase",
+      "Ambiguità pragmatica — la frase è ambigua solo in certi contesti culturali"
     ],
-    "explanation": "In 'Juan le dijo a Pedro que lo ascendieron', il pronome 'lo' potrebbe refer a either Juan o Pedro. Did Juan tell Pedro quello Juan himself era promoted, o quello Pedro era promoted? Questo è referential (o pronominal) ambiguity, comune in spagnolo due a il/la flexibility di pronome reference."
+    "explanation": "In 'Juan le dijo a Pedro que lo ascendieron', il pronome 'lo' può riferirsi sia a Juan sia a Pedro. Juan ha detto a Pedro che lui stesso (Juan) è stato promosso, oppure che Pedro è stato promosso? Questa è un'ambiguità referenziale (o pronominale), frequente in spagnolo per la flessibilità del riferimento dei pronomi.",
+    "hint": null
   },
   "q_gram_c2_13_004": {
     "question": "No todos los estudiantes ___ a la reunión. (asistir, pretérito indefinido — questo sentence significa something different da 'Todos los estudiantes no asistieron')",
@@ -1415,18 +1442,19 @@
       "señalado",
       "señale"
     ],
-    "explanation": "'Cabe señalar que...' (esso dovrebbe essere noted quello / esso è worth pointing out quello) è a fixed hedging expression in academic Spagnolo. 'Caber' + infinito è an impersonal construction used a introduce observations o caveats. Solo il/la infinito form follows 'cabe' in questo structure.",
-    "hint": "Il verbo 'caber' takes an infinito complement in questo fixed academic expression"
+    "explanation": "'Cabe señalar que...' (va notato che / vale la pena sottolineare che) è un'espressione fissa di attenuazione nello spagnolo accademico. 'Caber' + infinito è una costruzione impersonale usata per introdurre osservazioni o precisazioni. In questa struttura dopo 'cabe' va solo l'infinito.",
+    "hint": "Il verbo 'caber' in questa espressione accademica fissa regge un complemento all'infinito"
   },
   "q_gram_c2_14_004": {
-    "question": "Cosa è il/la function di nominalization in academic Spagnolo, as in 'la obtención de resultados' instead di 'obtener resultados'?",
-    "correct": "It converts verbs into nouns to create more formal, impersonal, and information-dense prose typical of scientific writing",
+    "question": "Qual è la funzione della nominalizzazione nello spagnolo accademico, come in 'la obtención de resultados' invece di 'obtener resultados'?",
+    "correct": "Trasforma i verbi in sostantivi per creare una prosa più formale, impersonale e ricca di informazioni, tipica della scrittura scientifica",
     "wrong": [
-      "It simplifies complex ideas by replacing long verb phrases with shorter noun equivalents",
-      "It is primarily a stylistic choice with no functional difference from using verb phrases",
-      "It makes texts more accessible to non-specialist readers by eliminating technical verb forms"
+      "Semplifica idee complesse sostituendo lunghe perifrasi verbali con equivalenti nominali più brevi",
+      "È soprattutto una scelta stilistica, senza alcuna differenza funzionale rispetto alle perifrasi verbali",
+      "Rende i testi più accessibili ai lettori non specialisti eliminando le forme verbali tecniche"
     ],
-    "explanation": "Nominalization (turning verbs into nouns: obtener → la obtención) è a hallmark di academic register in spagnolo. Esso serves multiple functions: increasing information density, enabling impersonal expression, allowing sostantivo phrases a serve as grammatical subjects, e creating il/la formale tone expected in scholarly writing."
+    "explanation": "La nominalizzazione (trasformare i verbi in sostantivi: obtener → la obtención) è un tratto distintivo del registro accademico spagnolo. Svolge più funzioni: aumenta la densità informativa, permette l'espressione impersonale, consente ai sintagmi nominali di fungere da soggetti grammaticali e crea il tono formale atteso nella scrittura scientifica.",
+    "hint": null
   },
   "q_gram_c2_14_005": {
     "question": "Los resultados ___ sugerir que existe una correlación significativa entre ambas variables. (parecer, indicativo presente, hedging)",
@@ -1468,8 +1496,8 @@
       "mencione",
       "ha mencionado"
     ],
-    "explanation": "'Tal y como se mencionó en la sección anterior' (as era mentioned in il/la previous section) uses il/la impersonal 'se' con il/la passato remoto a refer a a specific earlier point in il/la text. Il/la passato remoto è preferred qui perché il/la mention occurred a a definite point, unlike il/la imperfetto quale sarebbe imply an ongoing o repeated action.",
-    "hint": "Use il/la passato remoto per a specific past reference within il/la text"
+    "explanation": "'Tal y como se mencionó en la sección anterior' (come è stato menzionato nella sezione precedente) usa il 'se' impersonale con il pretérito per riferirsi a un punto preciso del testo. Il pretérito è preferito perché la menzione è avvenuta in un momento definito, a differenza dell'imperfecto, che implicherebbe un'azione continua o ripetuta.",
+    "hint": "Usa il pretérito per un riferimento specifico al passato all'interno del testo"
   },
   "q_gram_c2_14_009": {
     "question": "No se han hallado diferencias estadísticamente significativas entre los grupos experimentales y el grupo de control.",
@@ -1482,26 +1510,27 @@
     "explanation": "'Se han hallado' (passato prossimo con impersonal 'se') translates a il/la passive 'avere been found'. 'Estadísticamente significativas' è a fixed academic collocation significato 'statistically significant'. 'Grupo de control' = 'control group' (not 'controlling group')."
   },
   "q_gram_c2_14_010": {
-    "question": "Sería conveniente que futuras investigaciones ___ estas variables con una muestra más amplia. (abordar, congiuntivo imperfetto, formale recommendation)",
+    "question": "Sería conveniente que futuras investigaciones ___ estas variables con una muestra más amplia. (abordar, imperfecto del congiuntivo, raccomandazione formale)",
     "correct": "abordaran",
     "wrong": [
       "aborden",
       "abordasen",
       "abordarían"
     ],
-    "explanation": "'Sería conveniente que' (esso sarebbe essere advisable quello) triggers il/la congiuntivo imperfetto perché il/la main clause è in il/la condizionale. 'Abordaran' è il/la -ra form di il/la congiuntivo imperfetto. In academic writing, questo structure si usa per recommendations. Note: 'abordasen' è anche grammatically valid ma il/la -ra form è standard in academic prose.",
-    "conjugation_info": "abordar (imperfect subjunctive): abordara, abordaras, abordara, abordáramos, abordarais, abordaran"
+    "explanation": "'Sería conveniente que' (sarebbe opportuno che) richiede l'imperfecto del congiuntivo perché la principale è al condizionale. 'Abordaran' è la forma in -ra dell'imperfecto del congiuntivo. Nella scrittura accademica questa struttura si usa per le raccomandazioni. Nota: anche 'abordasen' è grammaticalmente valida, ma la forma in -ra è quella standard nella prosa accademica.",
+    "conjugation_info": "abordar (imperfect subjunctive): abordara, abordaras, abordara, abordáramos, abordarais, abordaran",
+    "hint": null
   },
   "q_gram_c2_15_001": {
-    "question": "Si yo ___ tú, no aceptaría esa oferta. (ser, congiuntivo imperfetto — a basic condizionale structure reviewed a mastery level)",
+    "question": "Si yo ___ tú, no aceptaría esa oferta. (ser, imperfecto del congiuntivo — una struttura condizionale di base ripassata a livello di padronanza)",
     "correct": "fuera",
     "wrong": [
       "sería",
       "sea",
       "fui"
     ],
-    "explanation": "'Si yo fuera tú' (if I erano tu) uses il/la congiuntivo imperfetto in il/la si-clause di a present contrary-a-fact condizionale. Questo è one di il/la la maggior parte fundamental structures in spagnolo, first encountered a B1-B2 ma requiring complete mastery a C2. Il/la condizionale 'aceptaría' follows in il/la main clause.",
-    "hint": "Contrary-a-fact conditionals require il/la congiuntivo imperfetto in il/la si-clause"
+    "explanation": "'Si yo fuera tú' (se fossi in te) usa l'imperfecto del congiuntivo nella proposizione con si di un periodo ipotetico irreale del presente. È una delle strutture più fondamentali dello spagnolo, incontrata per la prima volta a B1-B2 ma che a C2 richiede una padronanza completa. Il condizionale 'aceptaría' segue nella principale.",
+    "hint": "I periodi ipotetici irreali richiedono l'imperfecto del congiuntivo nella proposizione con si"
   },
   "q_gram_c2_15_002": {
     "question": "Habiéndose ___ todas las pruebas, el juez dictó sentencia. (presentar, participio passato in absolute participial clause)",
@@ -1577,15 +1606,16 @@
     "explanation": "'Aveva esso not been per' requires il/la past counterfactual: 'De no haber sido por' (compound infinito construction). 'De no ser por' sarebbe significare 'erano esso not per' (present counterfactual). Il/la main clause uses il/la condizionale perfect 'habríamos tenido éxito' (sarebbe avere succeeded)."
   },
   "q_gram_c2_15_009": {
-    "question": "Por mucho que se lo ___ , nunca nos hizo caso. (repetir, congiuntivo imperfetto, forma nosotros — concessive clause con quantifier)",
+    "question": "Por mucho que se lo ___ , nunca nos hizo caso. (repetir, imperfecto del congiuntivo, forma nosotros — proposizione concessiva con quantificatore)",
     "correct": "repitiéramos",
     "wrong": [
       "repetíamos",
       "repetiríamos",
       "repitamos"
     ],
-    "explanation": "'Por mucho que' (no matter come molto) triggers il/la congiuntivo. Il/la congiuntivo imperfetto 'repitiéramos' è obbligatorio perché il/la main clause è in il/la passato remoto ('hizo'). Note il/la radice change: repetir → repit- in il/la congiuntivo (da il/la third persona passato remoto radice 'repitió'). Il/la clitic 'se lo' precedes il/la conjugated verbo.",
-    "conjugation_info": "repetir (imperfect subjunctive): repitiera, repitieras, repitiera, repitiéramos, repitierais, repitieran"
+    "explanation": "'Por mucho que' (per quanto) richiede il congiuntivo. L'imperfecto del congiuntivo 'repitiéramos' è necessario perché la principale è al pretérito ('hizo'). Nota il cambio di radice: repetir → repit- al congiuntivo (dalla radice della terza persona del pretérito 'repitió'). Il clitico 'se lo' precede il verbo coniugato.",
+    "conjugation_info": "repetir (imperfect subjunctive): repitiera, repitieras, repitiera, repitiéramos, repitierais, repitieran",
+    "hint": null
   },
   "q_gram_c2_15_010": {
     "question": "Dicho sea de paso, no es la primera vez que se incumple el protocolo establecido, lo cual pone en entredicho la credibilidad de la institución.",

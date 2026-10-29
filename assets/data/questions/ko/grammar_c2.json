@@ -1281,15 +1281,15 @@
     "conjugation_info": "llevar (점과거): llevé, llevaste, llevó, llevamos, llevasteis, llevaron"
   },
   "q_gram_c2_13_001": {
-    "question": "Vi al hombre con el ___ . (Which word resolves the ambiguity of 'I saw the man with the telescope'?)",
+    "question": "Vi al hombre con el ___ . ('I saw the man with the telescope'의 모호성을 해소하는 단어는 무엇일까요?)",
     "correct": "telescopio",
     "wrong": [
       "binocular",
       "lente",
       "ojo"
     ],
-    "explanation": "'Vi al hombre con el telescopio'는 구조적으로 중의적입니다: 'con el telescopio'가 'vi'를 수식할 수도 있고(망원경으로 보았다), 'al hombre'를 수식할 수도 있습니다(망원경을 가진 남자). 이것은 전형적인 전치사구 부착 중의성(ambigüedad de adjunción de PP)입니다. 빈칸 자체는 중의적이지 않지만 문장 구조는 중의적으로 남습니다.",
-    "hint": "전치사구 'con el telescopio'가 두 가지 다른 요소에 부착될 수 있습니다"
+    "explanation": "'Vi al hombre con el telescopio'라는 문장은 구조적으로 모호합니다. 'con el telescopio'가 'vi'를 꾸밀 수도 있고(망원경을 사용해서 봤다), 'al hombre'를 꾸밀 수도 있습니다(망원경을 가진 남자). 전형적인 전치사구 부착(PP-attachment) 모호성입니다. 빈칸 채우기 자체는 모호하지 않아서 'telescopio'가 도구이지만, 문장 구조는 여전히 모호합니다.",
+    "hint": "전치사구 'con el telescopio'는 두 가지 다른 요소에 붙을 수 있습니다"
   },
   "q_gram_c2_13_002": {
     "question": "Cada estudiante entregó ___ trabajo a su profesor. (possessive that creates ambiguity)",
@@ -1312,37 +1312,39 @@
     "explanation": "'Juan le dijo a Pedro que lo ascendieron'에서 대명사 'lo'는 Juan 또는 Pedro를 지칭할 수 있습니다. Juan이 Pedro에게 자신(Juan)이 승진했다고 말한 것인지, Pedro가 승진했다고 말한 것인지 알 수 없습니다. 이것은 스페인어에서 대명사 지시의 유연성 때문에 흔한 지시(또는 대명사) 중의성입니다."
   },
   "q_gram_c2_13_004": {
-    "question": "No todos los estudiantes ___ a la reunión. (asistir, 점과거 — this sentence means something different from 'Todos los estudiantes no asistieron')",
+    "question": "No todos los estudiantes ___ a la reunión. (asistir, pretérito indefinido — 이 문장은 'Todos los estudiantes no asistieron'과 뜻이 다릅니다)",
     "correct": "asistieron",
     "wrong": [
       "asistían",
       "asistan",
       "han asistido"
     ],
-    "explanation": "양화사와 부정어에서 작용역 중의성(ambigüedad de alcance)이 발생합니다. 'No todos asistieron'(모두가 참석한 것은 아니다 = 일부는 했고 일부는 안 했다)은 'Todos no asistieron'(모두가 참석하지 않았다 = 아무도 안 했다)과 다릅니다. 점과거 'asistieron'은 완료된 과거 사건에 사용됩니다.",
-    "conjugation_info": "asistir (점과거): asistí, asististe, asistió, asistimos, asististeis, asistieron"
+    "explanation": "수량사와 부정이 함께 쓰이면 범위 모호성이 생깁니다. 'No todos asistieron'(모두가 참석한 것은 아니다 = 일부는 참석하고 일부는 참석하지 않았다)은 'Todos no asistieron'(모두가 참석하지 않았다 = 아무도 참석하지 않았다)과 다릅니다. 완료된 과거 사건이므로 단순 과거형 'asistieron'을 씁니다.",
+    "conjugation_info": "asistir (점과거): asistí, asististe, asistió, asistimos, asististeis, asistieron",
+    "hint": null
   },
   "q_gram_c2_13_005": {
-    "question": "La decisión del comité ___ ejecutivo provocó controversia. (Choose the word that shows how punctuation/structure resolves ambiguity.)",
+    "question": "La decisión del comité ___ ejecutivo provocó controversia. (구두점/구조가 모호성을 어떻게 해소하는지 보여 주는 단어를 고르세요.)",
     "correct": "más",
     "wrong": [
       "muy",
       "tan",
       "bastante"
     ],
-    "explanation": "'La decisión del comité más ejecutivo'는 중의적입니다: 'más ejecutivo'가 'comité'를 수식하는 것인지(가장 집행적인 위원회), 'la decisión'을 수식하는 것인지(위원회의 가장 집행적인 결정) 불분명합니다. 'más'를 삽입하면 스페인어 명사구에서 형용사 부착의 구조 중의성이 드러납니다.",
-    "hint": "비교급 형용사가 위원회 또는 결정 중 어느 것을 수식하는지 생각해 보세요"
+    "explanation": "'La decisión del comité más ejecutivo'는 모호합니다. 'más ejecutivo'가 'comité'를 꾸미는 걸까요(가장 집행력 있는 위원회), 아니면 'la decisión'을 꾸미는 걸까요(위원회의 가장 집행적인 결정)? 'más'를 넣으면 스페인어 명사구에서 형용사가 어디에 붙는지에 관한 구조적 모호성이 드러납니다.",
+    "hint": "비교급 형용사가 위원회와 결정 중 어느 쪽이든 꾸밀 수 있다는 점을 생각해 보세요"
   },
   "q_gram_c2_13_006": {
-    "question": "Los padres de los alumnos que ___ molestos presentaron una queja formal. (estar, 불완료 과거 — who was upset: the parents or the students?)",
+    "question": "Los padres de los alumnos que ___ molestos presentaron una queja formal. (estar, pretérito imperfecto — 누가 화가 났을까요: 부모일까요, 학생일까요?)",
     "correct": "estaban",
     "wrong": [
       "estuvieron",
       "están",
       "estuviesen"
     ],
-    "explanation": "이 문장에는 관계절 부착 중의성(ambigüedad de adjunción de cláusula relativa)이 있습니다: 'que estaban molestos'가 'los padres'(화가 난 부모들)를 수식하는지, 'los alumnos'(화가 난 학생들의 부모들)를 수식하는지 불분명합니다. 불완료 과거 'estaban'은 지속적인 상태를 설명합니다. 문맥이나 재구성만이 중의성을 해소할 수 있습니다.",
-    "conjugation_info": "estar (불완료 과거): estaba, estabas, estaba, estábamos, estabais, estaban"
+    "explanation": "이 문장에는 관계절 부착 모호성이 있습니다. 'que estaban molestos'는 'los padres'(화가 난 부모)를 꾸밀 수도 있고, 'los alumnos'(화가 난 학생들의 부모)를 꾸밀 수도 있습니다. 불완료 과거 'estaban'은 지속되던 상태를 나타냅니다. 문맥이나 문장을 바꿔 쓰는 방법으로만 모호성을 해소할 수 있습니다.",
+    "conjugation_info": "estar (불완료 과거): estaba, estabas, estaba, estábamos, estabais, estaban",
+    "hint": null
   },
   "q_gram_c2_13_007": {
     "question": "La profesora habló con ___ estudiante en su despacho. (article that preserves maximum ambiguity)",
@@ -1365,15 +1367,16 @@
     "explanation": "'Le dije a mi hermano que su esposa lo llamó'는 'su'(그의/나의?)와 'lo'(그 = 내 형? 아니면 다른 사람?)의 지시 중의성을 보존합니다. 'la esposa de él'을 사용하면 소유격을 명확히 하여 자연스러운 중의성이 사라집니다. 점과거 'llamó'는 단순 과거 시제에 일치합니다."
   },
   "q_gram_c2_13_009": {
-    "question": "María no ___ que todos los candidatos fueran competentes. (creer, 불완료 과거 — this creates scope ambiguity between negation and the universal quantifier)",
+    "question": "María no ___ que todos los candidatos fueran competentes. (creer, pretérito imperfecto — 부정과 전칭 양화사 사이에 범위 모호성이 생긴다)",
     "correct": "creía",
     "wrong": [
       "creyó",
       "cree",
       "creyera"
     ],
-    "explanation": "'María no creía que todos los candidatos fueran competentes'에는 작용역 중의성(ambigüedad de alcance)이 있습니다: (1) 마리아는 모두가 유능하지 않다고 믿었다(부분 부정: 일부는 유능하고 일부는 아니다), 또는 (2) 마리아는 모두가 유능하다는 믿음을 가지고 있지 않았다(의견 없음). 불완료 과거 'creía'는 지속적인 믿음의 상태를 설명하며, 접속법 'fueran'은 부정된 믿음 동사에 의해 유발됩니다.",
-    "conjugation_info": "creer (불완료 과거): creía, creías, creía, creíamos, creíais, creían"
+    "explanation": "'María no creía que todos los candidatos fueran competentes'는 범위 모호성이 있는 문장입니다. (1) 마리아는 모든 후보가 유능하지는 않다고 믿었다(부분 부정: 유능한 후보도, 그렇지 않은 후보도 있었다), 또는 (2) 마리아는 모든 후보가 유능하다는 믿음을 갖고 있지 않았다(아무런 의견이 없었다)로 해석될 수 있습니다. 불완료과거 'creía'는 그녀의 지속적인 믿음 상태를 나타내고, 접속법 'fueran'은 부정된 믿음 동사 때문에 쓰입니다.",
+    "conjugation_info": "creer (불완료 과거): creía, creías, creía, creíamos, creíais, creían",
+    "hint": null
   },
   "q_gram_c2_13_010": {
     "question": "El policía detuvo al sospechoso en su coche.",

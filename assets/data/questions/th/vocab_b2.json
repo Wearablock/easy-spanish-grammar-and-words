@@ -601,15 +601,16 @@
     "explanation": "'La cadena de bloques' แปลตามตัวว่า 'chain ของ blocks' และ เป็น สเปน term สำหรับ 'blockchain', a decentralized digital ledger technology."
   },
   "q_vocab_b2_06_010": {
-    "question": "A startup เป็น choosing between storing data on local servers หรือ using cloud services. Which argument favors cloud computing?",
+    "question": "สตาร์ทอัปกำลังเลือกระหว่างการเก็บข้อมูลบนเซิร์ฟเวอร์ในพื้นที่หรือใช้บริการคลาวด์ ข้อโต้แย้งใดสนับสนุนคลาวด์คอมพิวติ้ง?",
     "correct": "La computación en la nube ofrece escalabilidad y reduce costos de infraestructura.",
     "wrong": [
       "Los servidores locales son siempre más baratos.",
       "La nube no permite almacenar datos grandes.",
       "La computación en la nube no requiere conexión a internet."
     ],
-    "explanation": "'Escalabilidad' แปลว่า 'scalability' และ 'infraestructura' แปลว่า 'infrastructure'. Cloud computing allows รถบัสinesses ไปยัง scale resources up หรือ down as needed โดยไม่มี investing ใน physical hardware.",
-    "context": "Tech startup evaluating IT infrastructure options"
+    "explanation": "'Escalabilidad' หมายถึง 'ความสามารถในการขยายขนาด' และ 'infraestructura' หมายถึง 'โครงสร้างพื้นฐาน' คลาวด์คอมพิวติ้งช่วยให้ธุรกิจเพิ่มหรือลดทรัพยากรได้ตามต้องการโดยไม่ต้องลงทุนในฮาร์ดแวร์จริง",
+    "context": "Tech startup evaluating IT infrastructure options",
+    "hint": null
   },
   "q_vocab_b2_07_001": {
     "question": "อะไร does 'la desigualdad' หมายถึง?",
@@ -876,14 +877,15 @@
     "explanation": "'Peer review' translates ไปยัง 'la revisión por pares'. 'Pares' แปลว่า 'peers' (equals). Don't confuse กับ 'padres' (พ่อแม่), 'partes' (parts), หรือ 'parejas' (couples)."
   },
   "q_vocab_b2_09_007": {
-    "question": "Which สเปน term แปลว่า 'abstract' as ใน summary at beginning ของ an academic paper?",
+    "question": "คำสเปนใดหมายถึง 'abstract' ในความหมายของบทสรุปตอนต้นของงานวิชาการ?",
     "correct": "el resumen / el abstract",
     "wrong": [
       "lo abstracto",
       "la abstracción",
       "el extracto"
     ],
-    "explanation": "'El resumen' (หรือ borrowed 'el abstract') เป็น brief summary at beginning ของ an academic paper. 'Lo abstracto' แปลว่า ' abstract' as ใน abstract art/concepts."
+    "explanation": "'El resumen' (หรือคำยืม 'el abstract') คือบทสรุปสั้น ๆ ตอนต้นของงานวิชาการ ส่วน 'lo abstracto' หมายถึง 'สิ่งที่เป็นนามธรรม' เช่นศิลปะหรือแนวคิดนามธรรม",
+    "hint": null
   },
   "q_vocab_b2_09_008": {
     "question": "las conclusiones del estudio",
@@ -1009,15 +1011,16 @@
     "explanation": "'El discurso persuasivo' แปลว่า 'persuasive speech', a speech designed ไปยัง convince audience ไปยัง adopt a particular viewpoint หรือ take a specific action."
   },
   "q_vocab_b2_10_010": {
-    "question": "ใน a debate about environmental policy, your opponent claims นั้น since temperatures dropped last winter, global warming เป็น false. อย่างไร จะ คุณ identify นี้ error ใน reasoning?",
+    "question": "ในการโต้วาทีเรื่องนโยบายสิ่งแวดล้อม คู่ต่อสู้ของคุณอ้างว่าเพราะฤดูหนาวที่ผ่านมาอุณหภูมิลดลง ภาวะโลกร้อนจึงเป็นเรื่องเท็จ คุณจะชี้ข้อผิดพลาดในการให้เหตุผลนี้อย่างไร",
     "correct": "Es una falacia: usar un caso aislado para negar una tendencia general.",
     "wrong": [
       "Es un argumento válido basado en evidencia.",
       "Es una opinión personal sin importancia.",
       "Es un dato científico irrefutable."
     ],
-    "explanation": "นี่คือ a 'generalización apresurada' (hasty generalization) หรือ cherry-picking fallacy -- using a single data point ไปยัง deny a well-documented trend. Identifying fallacies เป็น key ไปยัง effective debate.",
-    "context": "Academic debate on climate change policy"
+    "explanation": "นี่คือการอ้างเหตุผลวิบัติแบบ 'generalización apresurada' (การสรุปเหมารวมแบบเร่งรีบ) หรือการเลือกเฉพาะข้อมูลที่เข้าข้างตัวเอง (cherry-picking) คือใช้ข้อมูลเพียงจุดเดียวมาปฏิเสธแนวโน้มที่มีหลักฐานยืนยันอย่างดี การรู้เท่าทันเหตุผลวิบัติเป็นกุญแจสำคัญของการโต้วาทีที่มีประสิทธิภาพ",
+    "context": "Academic debate on climate change policy",
+    "hint": null
   },
   "q_vocab_b2_11_001": {
     "question": "อะไร does 'la nostalgia' หมายถึง?",
@@ -1234,14 +1237,15 @@
     "explanation": "'La inversión' แปลว่า 'investment', act ของ putting mหนึ่งy into financial assets, รถบัสinesses, หรือ projects กับ expectation ของ generating profit."
   },
   "q_vocab_b2_13_002": {
-    "question": "อะไร does 'la inflación' หมายถึง?",
-    "correct": "inflation",
+    "question": "'la inflación' แปลว่าอะไร",
+    "correct": "เงินเฟ้อ",
     "wrong": [
-      "the influence",
-      "the inสำหรับmation",
-      "the inflammation"
+      "อิทธิพล",
+      "ข้อมูลข่าวสาร",
+      "การอักเสบ"
     ],
-    "explanation": "'La inflación' แปลว่า 'inflation', rate at which general level ของ prices สำหรับ goods และ services rises, สีแดงucing purchasing power."
+    "explanation": "'La inflación' แปลว่า 'เงินเฟ้อ' คืออัตราที่ระดับราคาสินค้าและบริการโดยทั่วไปเพิ่มสูงขึ้น ทำให้อำนาจซื้อลดลง",
+    "hint": null
   },
   "q_vocab_b2_13_003": {
     "question": "El banco central decidió subir los tipos de ___.",
@@ -1397,14 +1401,15 @@
     "context": "Marketing ชาm quarterly perสำหรับผู้ชายce review"
   },
   "q_vocab_b2_14_008": {
-    "question": "อะไร does 'la difusión mediática' หมายถึง?",
-    "correct": "media coverage / media dissemination",
+    "question": "'la difusión mediática' แปลว่าอะไร",
+    "correct": "การนำเสนอข่าวของสื่อ / การเผยแพร่ผ่านสื่อ",
     "wrong": [
-      "media diffusion in physics",
-      "media difficulty",
-      "media defamation"
+      "การแพร่ของสื่อในทางฟิสิกส์",
+      "ความยากลำบากของสื่อ",
+      "การหมิ่นประมาทสื่อ"
     ],
-    "explanation": "'La difusión mediática' แปลว่า 'media coverage' หรือ 'media dissemination', exสิบt ไปยัง which inสำหรับmation เป็น spread through various media channels."
+    "explanation": "'La difusión mediática' แปลว่า 'การนำเสนอข่าวของสื่อ' หรือ 'การเผยแพร่ผ่านสื่อ' คือขอบเขตที่ข้อมูลถูกกระจายออกไปผ่านช่องทางสื่อต่าง ๆ",
+    "hint": null
   },
   "q_vocab_b2_14_009": {
     "question": "el consumidor",

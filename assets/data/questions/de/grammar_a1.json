@@ -97,14 +97,15 @@
     "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)"
   },
   "q_gram_a1_01_010": {
-    "question": "The hand is cold.",
+    "question": "Die Hand ist kalt.",
     "correct": "La mano está fría.",
     "wrong": [
       "El mano está frío.",
       "La mano es fría.",
       "Las manos están frías."
     ],
-    "explanation": "'mano' ist weiblich despite endend auf -o (a key Ausnahme).\nWe use 'está' weil feeling cold ist a temporary state.\n- la mano fría (weiblich Adjektiv Kongruenz)"
+    "explanation": "'mano' ist weiblich, obwohl es auf -o endet (eine wichtige Ausnahme).\nWir verwenden 'está', weil Kälte zu empfinden ein vorübergehender Zustand ist.\n- la mano fría (das Adjektiv wird an das weibliche Nomen angepasst)",
+    "hint": null
   },
   "q_gram_a1_02_001": {
     "question": "Voy ___ parque. (fill in: a + el)",
@@ -172,35 +173,37 @@
     "hint": "flor ist weiblich; flores ist its Pluralform"
   },
   "q_gram_a1_02_007": {
-    "question": "I work on Mondays.",
+    "question": "Ich arbeite montags.",
     "correct": "Trabajo los lunes.",
     "wrong": [
       "Trabajo el lunes.",
       "Trabajo en lunes.",
       "Trabajo lunes."
     ],
-    "explanation": "Für habitual actions on a day von der/die/das week, use 'los' + day.\n- los lunes = on Mondays (habitual)\n- el lunes = on Monday (specific, dies Monday)"
+    "explanation": "Für regelmäßige Handlungen an einem Wochentag verwendet man 'los' + Wochentag.\n- los lunes = montags (regelmäßig)\n- el lunes = am Montag (bestimmter Tag, diesen Montag)",
+    "hint": null
   },
   "q_gram_a1_02_008": {
-    "question": "Trabajo ___ lunes. (I work on Mondays.)",
+    "question": "Trabajo ___ lunes. (Ich arbeite montags.)",
     "correct": "los",
     "wrong": [
       "el",
       "la",
       "las"
     ],
-    "explanation": "Days von der/die/das week auf Spanisch use bestimmt Artikels.\n- 'los lunes' = on Mondays (recurring)\n- 'el lunes' = on Monday (one specific Monday)",
-    "hint": "Use der/die/das Plural Artikel für recurring days"
+    "explanation": "Wochentage stehen im Spanischen mit dem bestimmten Artikel.\n- 'los lunes' = montags (regelmäßig)\n- 'el lunes' = am Montag (ein bestimmter Montag)",
+    "hint": "Verwende den Plural-Artikel für wiederkehrende Tage"
   },
   "q_gram_a1_02_009": {
-    "question": "Cats are independent.",
+    "question": "Katzen sind unabhängig.",
     "correct": "Los gatos son independientes.",
     "wrong": [
       "Gatos son independientes.",
       "Unos gatos son independientes.",
       "Las gatas son independientes."
     ],
-    "explanation": "Auf Spanisch, general statements require der/die/das bestimmt Artikel.\n- Los gatos son independientes. (Cats in general)\nEnglisch omits 'der/die/das' in general statements, aber Spanisch requires es."
+    "explanation": "Im Spanischen brauchen allgemeine Aussagen den bestimmten Artikel.\n- Los gatos son independientes. (Katzen im Allgemeinen)\nIm Deutschen steht bei allgemeinen Aussagen oft kein Artikel, im Spanischen ist er aber Pflicht.",
+    "hint": null
   },
   "q_gram_a1_02_010": {
     "question": "Vamos ___ escuela. (fill in: a + la)",
@@ -311,14 +314,15 @@
     "conjugation_info": "Inbestimmt (first mention/non-specific): un/una/unos/unas. Definite (known/specific): el/la/los/las."
   },
   "q_gram_a1_03_010": {
-    "question": "There are some books on the table.",
+    "question": "Auf dem Tisch liegen ein paar Bücher.",
     "correct": "Hay unos libros en la mesa.",
     "wrong": [
       "Hay los libros en la mesa.",
       "Hay un libros en la mesa.",
       "Están unos libros en la mesa."
     ],
-    "explanation": "'some books' = 'unos libros' (männlich Plural unbestimmt Artikel).\nWe use 'hay' für existence und der/die/das unbestimmt Artikel für non-specific items.\n- Hay unos libros. (existence, non-specific)"
+    "explanation": "'ein paar Bücher' = 'unos libros' (unbestimmter Artikel, maskulin Plural).\nWir verwenden 'hay' für die Existenz und den unbestimmten Artikel für unbestimmte Dinge.\n- Hay unos libros. (Existenz, unbestimmt)",
+    "hint": null
   },
   "q_gram_a1_04_001": {
     "question": "___ hablamos español. (fill in der/die/das Subjekt Pronomen)",
@@ -382,8 +386,8 @@
       "nosotros",
       "ellos"
     ],
-    "explanation": "'vosotros' wird verwendet mainly in Spain für der/die/das informell Plural 'du alle'.\n- coméis ist der/die/das vosotros-Form von comer\nIn Latin America, 'ustedes' wird verwendet instead von 'vosotros'.",
-    "hint": "Dies Pronomen ist mainly used in Spain"
+    "explanation": "'vosotros' wird hauptsächlich in Spanien für die informelle Mehrzahl 'ihr' verwendet.\n- coméis ist die vosotros-Form von comer\nIn Lateinamerika wird statt 'vosotros' 'ustedes' verwendet.",
+    "hint": "Dieses Pronomen wird hauptsächlich in Spanien verwendet"
   },
   "q_gram_a1_04_007": {
     "question": "We live in Barcelona.",
@@ -739,14 +743,15 @@
     "conjugation_info": "Ser verde = green by nature. Estar verde = unripe/not ready."
   },
   "q_gram_a1_07_010": {
-    "question": "The book is on the table.",
+    "question": "Das Buch liegt auf dem Tisch.",
     "correct": "El libro está en la mesa.",
     "wrong": [
       "El libro es en la mesa.",
       "El libro está la mesa.",
       "El libro es la mesa."
     ],
-    "explanation": "Estar wird verwendet für der/die/das location von Objekts.\n- El libro está en la mesa. = Der/die/das book ist on der/die/das table.\nRemember: location von things und Leute immer uses estar."
+    "explanation": "Estar wird für den Ort von Gegenständen verwendet.\n- El libro está en la mesa. = Das Buch liegt auf dem Tisch.\nMerke: Für den Ort von Dingen und Personen verwendet man immer estar.",
+    "hint": null
   },
   "q_gram_a1_08_001": {
     "question": "La chica es ___. (tall, weiblich form)",
@@ -835,14 +840,15 @@
     "hint": "Auf Spanisch, Adjektivs normalerweise come nach der/die/das Nomen"
   },
   "q_gram_a1_08_009": {
-    "question": "The students are intelligent. (mixed group)",
+    "question": "Die Studenten sind intelligent. (gemischte Gruppe)",
     "correct": "Los estudiantes son inteligentes.",
     "wrong": [
       "Las estudiantes son inteligentes.",
       "Los estudiantes son inteligente.",
       "Los estudiantes es inteligentes."
     ],
-    "explanation": "Für mixed-gender groups, use der/die/das männlich Pluralform.\n- los estudiantes = der/die/das students (mixed oder alle-male group)\n- 'inteligentes' doesn't change für gender, nur number.\nMaskulin Plural ist der/die/das default für mixed groups."
+    "explanation": "Für gemischte Gruppen verwendet man die maskuline Pluralform.\n- los estudiantes = die Studenten (gemischte oder rein männliche Gruppe)\n- 'inteligentes' ändert sich nicht nach dem Geschlecht, nur nach der Zahl.\nDer maskuline Plural ist der Standard für gemischte Gruppen.",
+    "hint": null
   },
   "q_gram_a1_08_010": {
     "question": "Es un ___ día. (bad — shortened form vor masc. sg. Nomen)",
@@ -942,15 +948,16 @@
     "explanation": "Für -ar Verbs, der/die/das ella form endet auf -a.\n- estudiar → estudi + a = estudia\n- Alle -ar Verbs follow der/die/das same pattern: -o, -as, -a, -amos, -áis, -an."
   },
   "q_gram_a1_09_009": {
-    "question": "Vosotros ___ muy bien. (conjugate cantar)",
+    "question": "Vosotros ___ muy bien. (cantar konjugieren)",
     "correct": "cantáis",
     "wrong": [
       "cantamos",
       "cantan",
       "cantas"
     ],
-    "explanation": "Für -ar Verbs, der/die/das vosotros-Form endet auf -áis.\n- cantar → cant + áis = cantáis\nDies form wird verwendet mainly in Spain.",
-    "conjugation_info": "cantar - Präsens: canto, cantas, canta, cantamos, cantáis, cantan"
+    "explanation": "Bei Verben auf -ar endet die vosotros-Form auf -áis.\n- cantar → cant + áis = cantáis\nDiese Form wird hauptsächlich in Spanien verwendet.",
+    "conjugation_info": "cantar - Präsens: canto, cantas, canta, cantamos, cantáis, cantan",
+    "hint": null
   },
   "q_gram_a1_09_010": {
     "question": "We speak Spanish and English.",
@@ -1167,14 +1174,15 @@
     "conjugation_info": "Hay in negative: No hay nada (nothing), No hay nadie (nobody), No hay ningún... (not any)"
   },
   "q_gram_a1_11_010": {
-    "question": "There is a park in my city.",
+    "question": "In meiner Stadt gibt es einen Park.",
     "correct": "Hay un parque en mi ciudad.",
     "wrong": [
       "El parque está en mi ciudad.",
       "Es un parque en mi ciudad.",
       "Están un parque en mi ciudad."
     ],
-    "explanation": "We use 'hay' zu introduce something für der/die/das first Zeit (existence).\n- Hay un parque = Es gibt a park (first mention, non-specific).\nIf we then talk about das park specifically: El parque está cerca."
+    "explanation": "Wir verwenden 'hay', um etwas zum ersten Mal einzuführen (Existenz).\n- Hay un parque = Es gibt einen Park (erste Erwähnung, unbestimmt).\nSprechen wir danach speziell über diesen Park: El parque está cerca.",
+    "hint": null
   },
   "q_gram_a1_12_001": {
     "question": "___ hermana se llama Ana. (fill in: my, für a weiblich Nomen)",
@@ -1391,15 +1399,16 @@
     "explanation": "'over dort' signals der/die/das farthest distance level: aquel/aquella.\n- aquella casa = das house over dort (far von both)\n'casa' ist weiblich, so we use 'aquella' (not aquel)."
   },
   "q_gram_a1_14_001": {
-    "question": "Vivo ___ Madrid. (fill in der/die/das Präposition für 'in')",
+    "question": "Vivo ___ Madrid. (setze die Präposition für 'in' ein)",
     "correct": "en",
     "wrong": [
       "a",
       "de",
       "con"
     ],
-    "explanation": "'en' bedeutet 'in/an/on' und wird verwendet für location.\n- Vivo en Madrid. = I live in Madrid.\n- El libro está en la mesa. = Der/die/das book ist on der/die/das table.",
-    "conjugation_info": "en = in/on/at (location), a = to (direction), de = from/of"
+    "explanation": "'en' bedeutet 'in/an/auf' und wird für den Ort verwendet.\n- Vivo en Madrid. = Ich wohne in Madrid.\n- El libro está en la mesa. = Das Buch liegt auf dem Tisch.",
+    "conjugation_info": "en = in/on/at (location), a = to (direction), de = from/of",
+    "hint": null
   },
   "q_gram_a1_14_002": {
     "question": "Soy ___ Colombia.",
@@ -1477,14 +1486,15 @@
     "hint": "'de' drückt aus ownership oder belonging"
   },
   "q_gram_a1_14_009": {
-    "question": "I am at the bank.",
+    "question": "Ich bin in der Bank.",
     "correct": "Estoy en el banco.",
     "wrong": [
       "Estoy a el banco.",
       "Estoy de el banco.",
       "Soy en el banco."
     ],
-    "explanation": "'en' wird verwendet für being an/in a location (mit estar).\n- Estoy en el banco. = I am an der/die/das bank.\nLocation uses estar + en, not ser."
+    "explanation": "'en' wird verwendet, um zu sagen, wo man sich befindet (mit estar).\n- Estoy en el banco. = Ich bin in der Bank.\nFür den Ort verwendet man estar + en, nicht ser.",
+    "hint": null
   },
   "q_gram_a1_14_010": {
     "question": "Vengo ___ trabajo. (I come von work. — de + el)",
@@ -1595,14 +1605,15 @@
     "conjugation_info": "¿Cuánto cuesta? (price), ¿Cuántos libros? (countable m.), ¿Cuántas personas? (countable f.)"
   },
   "q_gram_a1_15_010": {
-    "question": "Where is the bathroom?",
+    "question": "Wo ist die Toilette?",
     "correct": "¿Dónde está el baño?",
     "wrong": [
       "¿Dónde es el baño?",
       "¿Cuál está el baño?",
       "¿Cómo está el baño?"
     ],
-    "explanation": "'Dónde' + estar wird verwendet, um ask about location.\n- ¿Dónde está el baño? = Wo ist der/die/das bathroom?\nLocation von specific things immer uses estar, not ser."
+    "explanation": "'Dónde' + estar verwendet man, um nach dem Ort zu fragen.\n- ¿Dónde está el baño? = Wo ist die Toilette?\nFür den Ort bestimmter Dinge verwendet man immer estar, nicht ser.",
+    "hint": null
   },
   "q_gram_a1_16_001": {
     "question": "Yo ___ español. (I do not speak Spanish.) (use der/die/das richtig negation)",
@@ -1915,15 +1926,16 @@
     "explanation": "Age uses tener + number + años (not ser oder estar).\n- Tiene treinta años. = She ist 30 years old.\n- ¿Cuántos años tienes? = Wie old sind du?"
   },
   "q_gram_a1_18_010": {
-    "question": "Ellos ___ prisa. (They are in a hurry.) (conjugate tener)",
+    "question": "Ellos ___ prisa. (Sie haben es eilig.) (konjugiere tener)",
     "correct": "tienen",
     "wrong": [
       "tiene",
       "tenemos",
       "tenéis"
     ],
-    "explanation": "'tener prisa' = zu sein in a hurry (lit. zu haben hurry).\n- Ellos tienen prisa. = Sie sind in a hurry.\nDer/die/das ellos form von tener ist 'tienen' (Unregelmäßig Stamm: tien-).",
-    "conjugation_info": "tener - Präsens: tengo, tienes, tiene, tenemos, tenéis, tienen"
+    "explanation": "'tener prisa' = es eilig haben (wörtlich: Eile haben).\n- Ellos tienen prisa. = Sie haben es eilig.\nDie ellos-Form von tener ist 'tienen' (unregelmäßiger Stamm: tien-).",
+    "conjugation_info": "tener - Präsens: tengo, tienes, tiene, tenemos, tenéis, tienen",
+    "hint": null
   },
   "q_gram_a1_19_001": {
     "question": "Yo ___ a la escuela.",
@@ -2023,14 +2035,15 @@
     "conjugation_info": "ir - Präsens: voy, vas, va, vamos, vais, van"
   },
   "q_gram_a1_19_010": {
-    "question": "I go to the supermarket.",
+    "question": "Ich gehe zum Supermarkt.",
     "correct": "Voy al supermercado.",
     "wrong": [
       "Voy a el supermercado.",
       "Voy en el supermercado.",
       "Voy el supermercado."
     ],
-    "explanation": "ir + a + el contracts zu ir + al.\n- Voy al supermercado. (a + el = al)\nDer/die/das contraction 'al' ist mandatory; 'a el' ist incorrect."
+    "explanation": "ir + a + el wird zu ir + al zusammengezogen.\n- Voy al supermercado. (a + el = al)\nDie Zusammenziehung 'al' ist Pflicht; 'a el' ist falsch.",
+    "hint": null
   },
   "q_gram_a1_20_001": {
     "question": "¿Cuánto cuesta? — Cuesta ___ euros. (15)",

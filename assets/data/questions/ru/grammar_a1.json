@@ -97,14 +97,15 @@
     "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)"
   },
   "q_gram_a1_01_010": {
-    "question": "The hand is cold.",
+    "question": "Рука холодная.",
     "correct": "La mano está fría.",
     "wrong": [
       "El mano está frío.",
       "La mano es fría.",
       "Las manos están frías."
     ],
-    "explanation": "'mano' есть женского рода несмотря на окончание -o (key исключение). We use 'está' потому что feeling холодный является временное состояние. - la mano fría (женского рода прилагательное agreement)"
+    "explanation": "'mano' — женского рода, хотя оканчивается на -o (важное исключение).\nИспользуем 'está', потому что ощущение холода — временное состояние.\n- la mano fría (согласование прилагательного в женском роде)",
+    "hint": null
   },
   "q_gram_a1_02_001": {
     "question": "Voy ___ parque. (fill в: a + el)",
@@ -311,14 +312,15 @@
     "conjugation_info": "Indefinite (first mention/non-specific): un/una/unos/unas. Definite (known/specific): el/la/los/las."
   },
   "q_gram_a1_03_010": {
-    "question": "There are some books on the table.",
+    "question": "На столе лежат какие-то книги.",
     "correct": "Hay unos libros en la mesa.",
     "wrong": [
       "Hay los libros en la mesa.",
       "Hay un libros en la mesa.",
       "Están unos libros en la mesa."
     ],
-    "explanation": "'some books' = 'unos libros' (мужского рода множественного числа неопределённый артикль). We use 'hay' для existence и неопределённый артикль для non-specific items. - Hay unos libros. (existence, non-specific)"
+    "explanation": "'какие-то книги' = 'unos libros' (неопределённый артикль мужского рода, множественное число).\n'hay' используется для выражения существования, а неопределённый артикль — для неконкретных предметов.\n- Hay unos libros. (существование, неконкретные предметы)",
+    "hint": null
   },
   "q_gram_a1_04_001": {
     "question": "___ hablamos español. (fill в subject местоимение)",
@@ -739,14 +741,15 @@
     "conjugation_info": "Ser verde = green by nature. Estar verde = unripe/не ready."
   },
   "q_gram_a1_07_010": {
-    "question": "The book is on the table.",
+    "question": "Книга лежит на столе.",
     "correct": "El libro está en la mesa.",
     "wrong": [
       "El libro es en la mesa.",
       "El libro está la mesa.",
       "El libro es la mesa."
     ],
-    "explanation": "Estar используется для location objects. - El libro está en la mesa. = книга есть на стол. Remember: location things и люди всегда uses estar."
+    "explanation": "Estar используется для указания местонахождения предметов.\n- El libro está en la mesa. = Книга лежит на столе.\nЗапомните: местонахождение предметов и людей всегда выражается через estar.",
+    "hint": null
   },
   "q_gram_a1_08_001": {
     "question": "La chica es ___. (tall, женский род form)",
@@ -835,14 +838,15 @@
     "hint": "в испанском, adjectives обычно come после существительное"
   },
   "q_gram_a1_08_009": {
-    "question": "The students are intelligent. (mixed group)",
+    "question": "Студенты умные. (смешанная группа)",
     "correct": "Los estudiantes son inteligentes.",
     "wrong": [
       "Las estudiantes son inteligentes.",
       "Los estudiantes son inteligente.",
       "Los estudiantes es inteligentes."
     ],
-    "explanation": "для mixed-gender groups, use мужского рода множественного числа форма. - los estudiantes = students (mixed или все-male group) - 'inteligentes' doesn't change для gender, только number. мужского рода множественного числа есть default для mixed groups."
+    "explanation": "Для групп смешанного состава используется мужской род множественного числа.\n- los estudiantes = студенты (смешанная или мужская группа)\n- 'inteligentes' не меняется по роду, только по числу.\nМужской род множественного числа — норма для смешанных групп.",
+    "hint": null
   },
   "q_gram_a1_08_010": {
     "question": "Es un ___ día. (bad — shortened form перед masc. sg. существительное)",
@@ -942,15 +946,16 @@
     "explanation": "для -ar verbs, ella форма оканчивается на -a. - estudiar → estudi + = estudia - все -ar verbs follow same pattern: -o, -as, -a, -amos, -áis, -an."
   },
   "q_gram_a1_09_009": {
-    "question": "Vosotros ___ muy bien. (conjugate cantar)",
+    "question": "Vosotros ___ muy bien. (проспрягайте глагол cantar)",
     "correct": "cantáis",
     "wrong": [
       "cantamos",
       "cantan",
       "cantas"
     ],
-    "explanation": "для -ar verbs, vosotros форма оканчивается на -áis. - cantar → cant + áis = cantáis это форма используется mainly в Spain.",
-    "conjugation_info": "cantar - present: canto, cantas, canta, cantamos, cantáis, cantan"
+    "explanation": "У глаголов на -ar форма vosotros оканчивается на -áis.\n- cantar → cant + áis = cantáis\nЭта форма используется в основном в Испании.",
+    "conjugation_info": "cantar - present: canto, cantas, canta, cantamos, cantáis, cantan",
+    "hint": null
   },
   "q_gram_a1_09_010": {
     "question": "We speak Spanish and English.",
@@ -1167,14 +1172,15 @@
     "conjugation_info": "Hay в negative: No hay nada (nothing), No hay nadie (nobody), No hay ningún... (не any)"
   },
   "q_gram_a1_11_010": {
-    "question": "There is a park in my city.",
+    "question": "В моём городе есть парк.",
     "correct": "Hay un parque en mi ciudad.",
     "wrong": [
       "El parque está en mi ciudad.",
       "Es un parque en mi ciudad.",
       "Están un parque en mi ciudad."
     ],
-    "explanation": "We use 'hay' к introduce something для first время (existence). - Hay un parque = там является парк (first mention, non-specific). If we then talk about который парк specifically: El parque está cerca."
+    "explanation": "'hay' используется, когда мы впервые вводим что-то в речь (существование).\n- Hay un parque = Есть парк (первое упоминание, неконкретный).\nЕсли затем мы говорим об этом конкретном парке: El parque está cerca.",
+    "hint": null
   },
   "q_gram_a1_12_001": {
     "question": "___ hermana se llama Ana. (fill в: my, для a женский род существительное)",
@@ -1477,14 +1483,15 @@
     "hint": "'de' expresses ownership или belonging"
   },
   "q_gram_a1_14_009": {
-    "question": "I am at the bank.",
+    "question": "Я в банке.",
     "correct": "Estoy en el banco.",
     "wrong": [
       "Estoy a el banco.",
       "Estoy de el banco.",
       "Soy en el banco."
     ],
-    "explanation": "'en' используется для being at/в location (с estar). - Estoy en el banco. = I am at bank. Location uses estar + en, не ser."
+    "explanation": "'en' используется, чтобы сказать, что находишься где-то (с estar).\n- Estoy en el banco. = Я в банке.\nДля местонахождения используется estar + en, а не ser.",
+    "hint": null
   },
   "q_gram_a1_14_010": {
     "question": "Vengo ___ trabajo. (I come от work. — de + el)",
@@ -1595,14 +1602,15 @@
     "conjugation_info": "¿Cuánto cuesta? (price), ¿Cuántos libros? (countable m.), ¿Cuántas personas? (countable f.)"
   },
   "q_gram_a1_15_010": {
-    "question": "Where is the bathroom?",
+    "question": "Где туалет?",
     "correct": "¿Dónde está el baño?",
     "wrong": [
       "¿Dónde es el baño?",
       "¿Cuál está el baño?",
       "¿Cómo está el baño?"
     ],
-    "explanation": "'Dónde' + estar используется к ask about location. - ¿Dónde está el baño? = где есть bathroom? Location specific things всегда uses estar, не ser."
+    "explanation": "'Dónde' + estar используется, чтобы спросить о местонахождении.\n- ¿Dónde está el baño? = Где туалет?\nМестонахождение конкретных предметов всегда выражается через estar, а не ser.",
+    "hint": null
   },
   "q_gram_a1_16_001": {
     "question": "Yo ___ español. (I do not speak Spanish.) (use правильный negation)",
@@ -1915,15 +1923,16 @@
     "explanation": "Age uses tener + number + años (не ser или estar). - Tiene treinta años. = She есть 30 years старый. - ¿Cuántos años tienes? = как старый являются ты?"
   },
   "q_gram_a1_18_010": {
-    "question": "Ellos ___ prisa. (They are in a hurry.) (conjugate tener)",
+    "question": "Ellos ___ prisa. (Они спешат.) (проспрягайте tener)",
     "correct": "tienen",
     "wrong": [
       "tiene",
       "tenemos",
       "tenéis"
     ],
-    "explanation": "'tener prisa' = к быть в hurry (lit. к иметь hurry). - Ellos tienen prisa. = они являются в hurry. ellos форма tener есть 'tienen' (неправильный основа: tien-).",
-    "conjugation_info": "tener - present: tengo, tienes, tiene, tenemos, tenéis, tienen"
+    "explanation": "'tener prisa' = спешить (букв. иметь спешку).\n- Ellos tienen prisa. = Они спешат.\nФорма ellos глагола tener — 'tienen' (неправильная основа: tien-).",
+    "conjugation_info": "tener - present: tengo, tienes, tiene, tenemos, tenéis, tienen",
+    "hint": null
   },
   "q_gram_a1_19_001": {
     "question": "Yo ___ a la escuela.",
@@ -2023,14 +2032,15 @@
     "conjugation_info": "ir - present: voy, vas, va, vamos, vais, van"
   },
   "q_gram_a1_19_010": {
-    "question": "I go to the supermarket.",
+    "question": "Я иду в супермаркет.",
     "correct": "Voy al supermercado.",
     "wrong": [
       "Voy a el supermercado.",
       "Voy en el supermercado.",
       "Voy el supermercado."
     ],
-    "explanation": "ir + + el contracts к ir + al. - Voy al supermercado. (+ el = al) contraction 'al' есть обязательно; 'el' есть incorrect."
+    "explanation": "ir + a + el сливается в ir + al.\n- Voy al supermercado. (a + el = al)\nСлитная форма 'al' обязательна; 'a el' — ошибка.",
+    "hint": null
   },
   "q_gram_a1_20_001": {
     "question": "¿Cuánto cuesta? — Cuesta ___ euros. (15)",

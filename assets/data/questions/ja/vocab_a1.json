@@ -60,14 +60,15 @@
     "explanation": "'Hasta mañana' は 'また明日' という意味です。"
   },
   "q_vocab_a1_01_007": {
-    "question": "「ありがとう」「どういたしまして」",
-    "correct": "de nada",
+    "question": "'¡Gracias! — De nada.' の 'de nada' はどういう意味ですか?",
+    "correct": "どういたしまして",
     "wrong": [
       "もちろん",
-      "問題ありません",
+      "問題ないよ",
       "さようなら"
     ],
-    "explanation": "'De nada' は 'あなた're welcome' という意味です。"
+    "explanation": "'De nada' は直訳すると「何でもないこと」で、'gracias' に対する標準的な返事です。",
+    "hint": null
   },
   "q_vocab_a1_01_008": {
     "question": "¿Cómo estás?",
@@ -282,15 +283,16 @@
     "explanation": "'Cuarto' 〜を意味する 'quarter'. 'Son las dos y cuarto' = 'それ は two fifteen' ( quarter past two)."
   },
   "q_vocab_a1_03_009": {
-    "question": "あなた need 尋ねるため stranger 〜に この street what 時 それ は. What do あなた say?",
+    "question": "道で見知らぬ人に時間をたずねる必要があります。何と言いますか?",
     "correct": "Perdone, ¿qué hora es?",
     "wrong": [
       "¡Hola! ¿Qué día es?",
       "¿Cuánto cuesta?",
       "¿Dónde está el reloj?"
     ],
-    "explanation": "'Perdone, ¿qué hora es?' は 丁寧 方法 尋ねるため someone この 時. 'Perdone' は この 丁寧 形 〜の 'excuse me'.",
-    "context": "Asking the time on the street"
+    "explanation": "'Perdone, ¿qué hora es?' は時間をたずねる丁寧な言い方です。'Perdone' は「すみません」の丁寧形です。",
+    "context": "Asking the time on the street",
+    "hint": null
   },
   "q_vocab_a1_03_010": {
     "question": "あなたの friend asks when あなた 通常 wake up. どのように〜する say 'I wake up 〜で seven 〜で この morning'?",
@@ -1384,15 +1386,16 @@
     "explanation": "'Escribir' 〜を意味する '〜に write'. この 文 〜を意味する 'I write email'. 'Correo electrónico' = 'email'."
   },
   "q_vocab_a1_14_007": {
-    "question": "あなた は 〜で bus stop そして この bus は late. What verb 説明する what あなた は doing?",
+    "question": "バス停にいて、バスが遅れています。あなたがしていることを表す動詞はどれですか?",
     "correct": "esperar",
     "wrong": [
       "correr",
       "llamar",
       "dormir"
     ],
-    "explanation": "'Esperar' 〜を意味する '〜に wait'. 'Estoy esperando el autobús' = 'I am waiting 〜のために この bus'.",
-    "context": "Waiting for a late bus"
+    "explanation": "'Esperar' は「待つ」という意味です。'Estoy esperando el autobús' =「私はバスを待っています」。",
+    "context": "Waiting for a late bus",
+    "hint": null
   },
   "q_vocab_a1_14_008": {
     "question": "〜は何を 'beber' 意味する 〜で '¿Quieres beber algo?'?",

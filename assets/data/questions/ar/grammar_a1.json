@@ -97,14 +97,15 @@
     "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)"
   },
   "q_gram_a1_01_010": {
-    "question": "The hand is cold.",
+    "question": "اليد باردة.",
     "correct": "La mano está fría.",
     "wrong": [
       "El mano está frío.",
       "La mano es fría.",
       "Las manos están frías."
     ],
-    "explanation": "'\u0001' مؤنث على الرغم من ينتهي بـ -o (a key استثناء).\nWe use 'está' لأن feeling بارد هو a حالة مؤقتة.\n- la mano fría (مؤنث صفة توافق)"
+    "explanation": "كلمة 'mano' مؤنثة رغم أنها تنتهي بـ -o (استثناء مهم).\nنستخدم 'está' لأن الشعور بالبرد حالة مؤقتة.\n- la mano fría (مطابقة الصفة للمؤنث)",
+    "hint": null
   },
   "q_gram_a1_02_001": {
     "question": "Voy ___ parque. (أكمل: a + el)",
@@ -179,7 +180,8 @@
       "Trabajo en lunes.",
       "Trabajo lunes."
     ],
-    "explanation": "لـ habitual actions on a يوم من الـ أسبوع, use 'los' + يوم.\n- los lunes = on أيام الاثنين (habitual)\n- el lunes = on الاثنين (specific, هذا الاثنين)"
+    "explanation": "للأفعال المعتادة التي تتكرر في يوم من أيام الأسبوع نستخدم 'los' + اسم اليوم.\n- los lunes = أيام الاثنين (بشكل معتاد)\n- el lunes = يوم الاثنين (يوم محدد، هذا الاثنين)",
+    "hint": null
   },
   "q_gram_a1_02_008": {
     "question": "Trabajo ___ lunes. (أعمل أيام الاثنين.)",
@@ -189,8 +191,8 @@
       "la",
       "las"
     ],
-    "explanation": "Days من الـ أسبوع في الإسبانية use معرفة articles.\n- 'los lunes' = on أيام الاثنين (recurring)\n- 'el lunes' = on الاثنين (one specific الاثنين)",
-    "hint": "Use الـ جمع أداة لـ recurring days"
+    "explanation": "تُستخدم أسماء أيام الأسبوع في الإسبانية مع أداة التعريف.\n- 'los lunes' = أيام الاثنين (بشكل متكرر)\n- 'el lunes' = يوم الاثنين (اثنين محدد بعينه)",
+    "hint": "استخدم أداة التعريف الجمع للأيام المتكررة"
   },
   "q_gram_a1_02_009": {
     "question": "Cats are independent.",
@@ -311,14 +313,15 @@
     "conjugation_info": "نكرة (first mention/non-specific): un/una/unos/unas. معرفة (known/specific): el/la/los/las."
   },
   "q_gram_a1_03_010": {
-    "question": "There are some books on the table.",
+    "question": "توجد بعض الكتب على الطاولة.",
     "correct": "Hay unos libros en la mesa.",
     "wrong": [
       "Hay los libros en la mesa.",
       "Hay un libros en la mesa.",
       "Están unos libros en la mesa."
     ],
-    "explanation": "'some books' = 'unos libros' (مذكر جمع نكرة أداة).\nWe use 'hay' لـ existence و الـ نكرة أداة لـ non-specific items.\n- Hay unos libros. (existence, non-specific)"
+    "explanation": "'بعض الكتب' = 'unos libros' (أداة النكرة للمذكر الجمع).\nنستخدم 'hay' للدلالة على الوجود، وأداة النكرة للأشياء غير المحددة.\n- Hay unos libros. (وجود، غير محدد)",
+    "hint": null
   },
   "q_gram_a1_04_001": {
     "question": "___ hablamos español. (fill في الـ subject ضمير)",
@@ -739,14 +742,15 @@
     "conjugation_info": "Ser verde = green by nature. Estar verde = unripe/not ready."
   },
   "q_gram_a1_07_010": {
-    "question": "The book is on the table.",
+    "question": "الكتاب على الطاولة.",
     "correct": "El libro está en la mesa.",
     "wrong": [
       "El libro es en la mesa.",
       "El libro está la mesa.",
       "El libro es la mesa."
     ],
-    "explanation": "Estar يُستخدم لـ الـ location من objects.\n- El libro está en la mesa. = الـ كتاب هو on الـ طاولة.\nRemember: location من things و ناس دائماً uses estar."
+    "explanation": "يُستخدم estar للدلالة على مكان الأشياء.\n- El libro está en la mesa. = الكتاب على الطاولة.\nتذكّر: مكان الأشياء والأشخاص يُعبَّر عنه دائمًا بـ estar.",
+    "hint": null
   },
   "q_gram_a1_08_001": {
     "question": "La chica es ___. (tall, مؤنث form)",
@@ -835,14 +839,15 @@
     "hint": "في الإسبانية, adjectives عادة يأتي بعد الـ اسم"
   },
   "q_gram_a1_08_009": {
-    "question": "The students are intelligent. (mixed group)",
+    "question": "الطلاب أذكياء. (مجموعة مختلطة)",
     "correct": "Los estudiantes son inteligentes.",
     "wrong": [
       "Las estudiantes son inteligentes.",
       "Los estudiantes son inteligente.",
       "Los estudiantes es inteligentes."
     ],
-    "explanation": "لـ mixed-جنس groups, use الـ مذكر جمع form.\n- los estudiantes = الـ students (mixed أو كل-male group)\n- 'inteligentes' doesn't change لـ جنس, فقط number.\nمذكر جمع هو الـ default لـ mixed groups."
+    "explanation": "في المجموعات المختلطة بين الذكور والإناث نستخدم صيغة المذكر الجمع.\n- los estudiantes = الطلاب (مجموعة مختلطة أو كلها من الذكور)\n- 'inteligentes' لا تتغير بحسب الجنس، بل بحسب العدد فقط.\nالمذكر الجمع هو الأصل في المجموعات المختلطة.",
+    "hint": null
   },
   "q_gram_a1_08_010": {
     "question": "Es un ___ día. (bad — shortened form قبل masc. sg. اسم)",
@@ -942,15 +947,16 @@
     "explanation": "لـ -ar verbs, الـ ella form ينتهي بـ -a.\n- estudiar → estudi + a = estudia\n- كل -ar verbs follow الـ same pattern: -o, -as, -a, -amos, -áis, -an."
   },
   "q_gram_a1_09_009": {
-    "question": "Vosotros ___ muy bien. (conjugate cantar)",
+    "question": "Vosotros ___ muy bien. (صرّف الفعل cantar)",
     "correct": "cantáis",
     "wrong": [
       "cantamos",
       "cantan",
       "cantas"
     ],
-    "explanation": "لـ -ar verbs, الـ vosotros form ينتهي بـ -áis.\n- cantar → cant + áis = cantáis\nهذا form يُستخدم mainly في Spain.",
-    "conjugation_info": "cantar - present: canto, cantas, canta, cantamos, cantáis, cantan"
+    "explanation": "في الأفعال المنتهية بـ -ar، تنتهي صيغة vosotros بـ -áis.\n- cantar → cant + áis = cantáis\nتُستخدم هذه الصيغة أساسًا في إسبانيا.",
+    "conjugation_info": "cantar - present: canto, cantas, canta, cantamos, cantáis, cantan",
+    "hint": null
   },
   "q_gram_a1_09_010": {
     "question": "We speak Spanish and English.",
@@ -1167,14 +1173,15 @@
     "conjugation_info": "Hay in negative: No hay nada (nothing), No hay nadie (nobody), No hay ningún... (not any)"
   },
   "q_gram_a1_11_010": {
-    "question": "There is a park in my city.",
+    "question": "توجد حديقة في مدينتي.",
     "correct": "Hay un parque en mi ciudad.",
     "wrong": [
       "El parque está en mi ciudad.",
       "Es un parque en mi ciudad.",
       "Están un parque en mi ciudad."
     ],
-    "explanation": "We use 'hay' إلى introduce something لـ الـ first وقت (existence).\n- Hay un parque = هناك a حديقة (first mention, non-specific).\nIf we then talk about ذلك حديقة specifically: El parque está cerca."
+    "explanation": "نستخدم 'hay' لتقديم شيء للمرة الأولى (الوجود).\n- Hay un parque = توجد حديقة (أول ذكر، غير محددة).\nوإذا تحدثنا بعد ذلك عن هذه الحديقة تحديدًا: El parque está cerca.",
+    "hint": null
   },
   "q_gram_a1_12_001": {
     "question": "___ hermana se llama Ana. (أكمل: my, لـ a مؤنث اسم)",
@@ -1477,14 +1484,15 @@
     "hint": "'de' expresses ownership أو belonging"
   },
   "q_gram_a1_14_009": {
-    "question": "I am at the bank.",
+    "question": "أنا في البنك.",
     "correct": "Estoy en el banco.",
     "wrong": [
       "Estoy a el banco.",
       "Estoy de el banco.",
       "Soy en el banco."
     ],
-    "explanation": "'en' يُستخدم لـ being at/في a location (مع estar).\n- Estoy en el banco. = I am at الـ bank.\nLocation uses estar + en, not ser."
+    "explanation": "تُستخدم 'en' للدلالة على التواجد في مكان ما (مع estar).\n- Estoy en el banco. = أنا في البنك.\nالمكان يُعبَّر عنه بـ estar + en وليس بـ ser.",
+    "hint": null
   },
   "q_gram_a1_14_010": {
     "question": "Vengo ___ trabajo. (I come من work. — de + el)",
@@ -1595,14 +1603,15 @@
     "conjugation_info": "¿Cuánto cuesta? (price), ¿Cuántos libros? (countable m.), ¿Cuántas personas? (countable f.)"
   },
   "q_gram_a1_15_010": {
-    "question": "Where is the bathroom?",
+    "question": "أين الحمّام؟",
     "correct": "¿Dónde está el baño?",
     "wrong": [
       "¿Dónde es el baño?",
       "¿Cuál está el baño?",
       "¿Cómo está el baño?"
     ],
-    "explanation": "'Dónde' + estar يُستخدم إلى ask about location.\n- ¿Dónde está el baño? = أين هو الـ bathroom?\nLocation من specific things دائماً uses estar, not ser."
+    "explanation": "يُستخدم 'Dónde' + estar للسؤال عن المكان.\n- ¿Dónde está el baño? = أين الحمّام؟\nمكان الأشياء المحددة يُعبَّر عنه دائمًا بـ estar وليس بـ ser.",
+    "hint": null
   },
   "q_gram_a1_16_001": {
     "question": "Yo ___ español. (I do not speak Spanish.) (use الـ صحيح negation)",
@@ -1915,15 +1924,16 @@
     "explanation": "Age uses tener + number + años (not ser أو estar).\n- Tiene treinta años. = She هو 30 years قديم.\n- ¿Cuántos años tienes? = كيف قديم هم أنت?"
   },
   "q_gram_a1_18_010": {
-    "question": "Ellos ___ prisa. (They are in a hurry.) (conjugate tener)",
+    "question": "Ellos ___ prisa. (إنهم مستعجلون.) (صرّف الفعل tener)",
     "correct": "tienen",
     "wrong": [
       "tiene",
       "tenemos",
       "tenéis"
     ],
-    "explanation": "'tener prisa' = إلى يكون في a hurry (lit. إلى يملك hurry).\n- Ellos tienen prisa. = هم هم في a hurry.\nالـ ellos form من tener هو 'tienen' (شاذ جذر: tien-).",
-    "conjugation_info": "tener - present: tengo, tienes, tiene, tenemos, tenéis, tienen"
+    "explanation": "'tener prisa' = أن يكون المرء مستعجلًا (حرفيًا: أن يملك استعجالًا).\n- Ellos tienen prisa. = إنهم مستعجلون.\nصيغة ellos من الفعل tener هي 'tienen' (جذر شاذ: tien-).",
+    "conjugation_info": "tener - present: tengo, tienes, tiene, tenemos, tenéis, tienen",
+    "hint": null
   },
   "q_gram_a1_19_001": {
     "question": "Yo ___ a la escuela.",
@@ -2023,14 +2033,15 @@
     "conjugation_info": "ir - present: voy, vas, va, vamos, vais, van"
   },
   "q_gram_a1_19_010": {
-    "question": "I go to the supermarket.",
+    "question": "أذهب إلى السوبرماركت.",
     "correct": "Voy al supermercado.",
     "wrong": [
       "Voy a el supermercado.",
       "Voy en el supermercado.",
       "Voy el supermercado."
     ],
-    "explanation": "ir + a + el contracts إلى ir + al.\n- Voy al supermercado. (a + el = al)\nالـ اختصار 'al' إلزامي; 'a el' هو incorrect."
+    "explanation": "ir + a + el تُدمج لتصبح ir + al.\n- Voy al supermercado. (a + el = al)\nهذا الاندماج 'al' إلزامي، و'a el' خطأ.",
+    "hint": null
   },
   "q_gram_a1_20_001": {
     "question": "¿Cuánto cuesta? — Cuesta ___ euros. (15)",

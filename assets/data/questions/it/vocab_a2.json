@@ -1,23 +1,25 @@
 {
   "q_vocab_a2_01_001": {
-    "question": "'equipaje'の意味は？",
-    "correct": "荷物",
+    "question": "Che cosa significa 'equipaje'?",
+    "correct": "bagaglio",
     "wrong": [
-      "チケット",
-      "パスポート",
-      "航空便"
+      "biglietto",
+      "passaporto",
+      "volo"
     ],
-    "explanation": "'Equipaje'は旅行中に持ち運ぶバッグやスーツケースを指します。"
+    "explanation": "'Equipaje' indica le borse e le valigie che si portano in viaggio.",
+    "hint": null
   },
   "q_vocab_a2_01_002": {
-    "question": "'vuelo'の意味は？",
-    "correct": "航空便",
+    "question": "Che cosa significa 'vuelo'?",
+    "correct": "volo",
     "wrong": [
-      "空港",
-      "搭乗口",
-      "座席"
+      "aeroporto",
+      "uscita d'imbarco",
+      "posto"
     ],
-    "explanation": "'Vuelo'は'航空便'を意味します。動詞'volar'（飛ぶ）から派生しています。"
+    "explanation": "'Vuelo' significa 'volo'. Deriva dal verbo 'volar' (volare).",
+    "hint": null
   },
   "q_vocab_a2_01_003": {
     "question": "Necesito ___ mi maleta antes de ir al aeropuerto.",
@@ -27,87 +29,96 @@
       "aterrizar",
       "despegar"
     ],
-    "explanation": "'Facturar'は空港で荷物をチェックインすることを意味します。搭乗口に行く前にスーツケースをチェックインします。"
+    "explanation": "'Facturar' significa 'fare il check-in' del bagaglio in aeroporto. Si registra la valigia prima di andare al gate.",
+    "hint": null
   },
   "q_vocab_a2_01_004": {
-    "question": "'pasaporte'の意味は？",
-    "correct": "パスポート",
+    "question": "Che cosa significa 'pasaporte'?",
+    "correct": "passaporto",
     "wrong": [
-      "搭乗券",
-      "ビザ",
-      "チケット"
+      "carta d'imbarco",
+      "visto",
+      "biglietto"
     ],
-    "explanation": "'Pasaporte'は外国に入国するために必要な公式の旅行証明書です。"
+    "explanation": "'Pasaporte' è il documento di viaggio ufficiale necessario per entrare in un altro paese.",
+    "hint": null
   },
   "q_vocab_a2_01_005": {
-    "question": "旅行に関連して'reserva'の意味は？",
-    "correct": "予約",
+    "question": "Che cosa significa 'reserva' nel contesto dei viaggi?",
+    "correct": "prenotazione",
     "wrong": [
-      "領収書",
-      "払い戻し",
-      "出発"
+      "ricevuta",
+      "rimborso",
+      "partenza"
     ],
-    "explanation": "'Reserva'は'予約'または'ブッキング'を意味します。ホテルやレストランで'reserva'をします。"
+    "explanation": "'Reserva' significa 'prenotazione'. Si fa una 'reserva' in un hotel o in un ristorante.",
+    "hint": null
   },
   "q_vocab_a2_01_006": {
-    "question": "ホテルの部屋を予約したいです。",
+    "question": "Voglio prenotare una camera d'albergo.",
     "correct": "Quiero reservar una habitación de hotel.",
     "wrong": [
       "Quiero facturar una habitación de hotel.",
       "Quiero embarcar una habitación de hotel.",
       "Quiero viajar una habitación de hotel."
     ],
-    "explanation": "'Reservar'は'予約する'を意味します。'Habitación'はホテルの客室を表す単語です。"
+    "explanation": "'Reservar' significa 'prenotare'. 'Habitación' è la parola per indicare una camera d'albergo.",
+    "hint": null
   },
   "q_vocab_a2_01_007": {
-    "question": "'Compré un billete de avión'の'billete'の意味は？",
-    "correct": "チケット",
+    "question": "Che cosa significa 'billete' in 'Compré un billete de avión'?",
+    "correct": "biglietto",
     "wrong": [
-      "スーツケース",
-      "座席",
-      "パスポート"
+      "valigia",
+      "posto",
+      "passaporto"
     ],
-    "explanation": "'Billete'は'チケット'を意味します。ラテンアメリカでは'boleto'がより一般的です。'Billete de avión'は航空券です。"
+    "explanation": "'Billete' significa 'biglietto'. In America Latina si usa più comunemente 'boleto'. 'Billete de avión' è un biglietto aereo.",
+    "hint": null
   },
   "q_vocab_a2_01_008": {
     "question": "El turista tiene dos maletas grandes.",
-    "correct": "その観光客は大きなスーツケース2つを持っています。",
+    "correct": "Il turista ha due valigie grandi.",
     "wrong": [
-      "その観光客は大きなチケット2つを持っています。",
-      "その観光客は大きなパスポート2つを持っています。",
-      "その観光客は大きな客室2つを持っています。"
+      "Il turista ha due biglietti grandi.",
+      "Il turista ha due passaporti grandi.",
+      "Il turista ha due camere grandi."
     ],
-    "explanation": "'Turista'は'観光客'で、'maleta'は'スーツケース'を意味します。'Grandes'は'大きい'です。"
+    "explanation": "'Turista' significa 'turista' e 'maleta' significa 'valigia'. 'Grandes' significa 'grandi'.",
+    "hint": null
   },
   "q_vocab_a2_01_009": {
-    "question": "空港に到着し、預ける荷物を預ける場所を探す必要があります。何を尋ねますか？",
-    "correct": "el mostrador de facturación",
+    "question": "Arrivi in aeroporto e devi trovare dove consegnare i bagagli da imbarcare. Che cosa chiedi?",
+    "correct": "il banco del check-in",
     "wrong": [
-      "la puerta de embarque",
-      "la sala de espera",
-      "la oficina de turismo"
+      "il gate d'imbarco",
+      "la sala d'attesa",
+      "l'ufficio del turismo"
     ],
-    "explanation": "'El mostrador de facturación'は、荷物を預けるチェックインカウンターです。"
+    "explanation": "'El mostrador de facturación' è il banco del check-in dove si consegnano i bagagli da stiva.",
+    "hint": null
   },
   "q_vocab_a2_01_010": {
-    "question": "ホテルのフロントデスクで旅行の詳細を確認したいです。何と言いますか？",
-    "correct": "Tengo una reserva a nombre de...",
+    "question": "Alla reception dell'hotel vuoi confermare i dettagli del tuo viaggio. Che cosa dici?",
+    "correct": "Ho una prenotazione a nome di...",
     "wrong": [
-      "Quiero facturar mi equipaje.",
-      "Necesito un billete de avión.",
-      "¿Dónde está la puerta de embarque?"
+      "Voglio fare il check-in del mio bagaglio.",
+      "Mi serve un biglietto aereo.",
+      "Dov'è il gate d'imbarco?"
     ],
-    "explanation": "'Tengo una reserva a nombre de...'は'・・・という名前で予約があります'を意味します。これはホテルでチェックインする際の標準的なフレーズです。"
+    "explanation": "'Tengo una reserva a nombre de...' significa 'Ho una prenotazione a nome di...'. È la frase standard per il check-in in hotel.",
+    "hint": null
   },
   "q_vocab_a2_02_001": {
-    "question": "'médico'の意味は？",
-    "correct": "医者",
+    "question": "Che cosa significa 'médico'?",
+    "correct": "medico",
     "wrong": [
-      "看護師",
-      "患者",
-      "薬剤師"
+      "infermiere",
+      "paziente",
+      "farmacista"
     ],
-    "explanation": "'Médico'は'医者'を意味します。形容詞として'医療の'という意味でも使えます。"
+    "explanation": "'Médico' significa 'medico'. Può essere usato anche come aggettivo con il significato di 'medico, sanitario'.",
+    "hint": null
   },
   "q_vocab_a2_02_002": {
     "question": "El ___ me recetó unas pastillas para la fiebre.",
@@ -117,107 +128,118 @@
       "enfermero",
       "farmacéutico"
     ],
-    "explanation": "'Médico'（医者）は薬を処方する（'recetar'）人です。文は'医者は熱の薬を処方してくれた'という意味です。"
+    "explanation": "Il 'médico' (medico) è la persona che prescrive ('recetar') le medicine. La frase significa 'Il medico mi ha prescritto delle pastiglie per la febbre.'",
+    "hint": null
   },
   "q_vocab_a2_02_003": {
-    "question": "'farmacia'の意味は？",
-    "correct": "薬局",
+    "question": "Che cosa significa 'farmacia'?",
+    "correct": "farmacia",
     "wrong": [
-      "病院",
-      "クリニック",
-      "研究所"
+      "ospedale",
+      "clinica",
+      "laboratorio"
     ],
-    "explanation": "'Farmacia'は医薬品を買う場所です。スペインではグリーンクロスのマークが付いています。"
+    "explanation": "'Farmacia' è il luogo dove si comprano le medicine. In Spagna sono segnalate da una croce verde.",
+    "hint": null
   },
   "q_vocab_a2_02_004": {
-    "question": "医療の文脈で'receta'の意味は？",
-    "correct": "処方箋",
+    "question": "Che cosa significa 'receta' in ambito medico?",
+    "correct": "ricetta medica",
     "wrong": [
-      "領収書",
-      "予約",
-      "診断"
+      "scontrino",
+      "appuntamento",
+      "diagnosi"
     ],
-    "explanation": "'Receta'は医療の文脈では'処方箋'を意味します。料理の文脈では'レシピ'という意味になります。"
+    "explanation": "'Receta' in ambito medico significa 'ricetta medica'. Nota che 'receta' può anche significare 'ricetta' in cucina.",
+    "hint": null
   },
   "q_vocab_a2_02_005": {
-    "question": "私は頭痛と熱があります。",
+    "question": "Ho mal di testa e la febbre.",
     "correct": "Tengo dolor de cabeza y fiebre.",
     "wrong": [
       "Tengo gripe y resfriado.",
       "Tengo tos y estornudos.",
       "Tengo receta y pastillas."
     ],
-    "explanation": "'Dolor de cabeza'は'頭痛'で、'fiebre'は'熱'を意味します。In spagnolo症状に'tener'を使います。"
+    "explanation": "'Dolor de cabeza' significa 'mal di testa' e 'fiebre' significa 'febbre'. In spagnolo per i sintomi si usa 'tener'.",
+    "hint": null
   },
   "q_vocab_a2_02_006": {
-    "question": "'La enfermera me puso una inyección'の'enfermera'の意味は？",
-    "correct": "看護師",
+    "question": "Che cosa significa 'enfermera' in 'La enfermera me puso una inyección'?",
+    "correct": "infermiera",
     "wrong": [
-      "医者",
-      "外科医",
-      "受付係"
+      "medico",
+      "chirurgo",
+      "receptionist"
     ],
-    "explanation": "'Enfermera'は'看護師'（女性）を意味します。男性形は'enfermero'です。文は'看護師が注射をしてくれた'という意味です。"
+    "explanation": "'Enfermera' significa 'infermiera'. La forma maschile è 'enfermero'. La frase significa 'L'infermiera mi ha fatto un'iniezione.'",
+    "hint": null
   },
   "q_vocab_a2_02_007": {
-    "question": "医者の診察室で症状を説明する必要があります。咳と鼻水があります。何と言いますか？",
+    "question": "Non ti senti bene e devi descrivere i sintomi dal medico. Hai la tosse e il naso che cola. Che cosa dici?",
     "correct": "Tengo tos y estoy resfriado.",
     "wrong": [
       "Me duele la pierna y no puedo caminar.",
       "Tengo fiebre y me duele la cabeza.",
       "Me duele el estómago y tengo náuseas."
     ],
-    "explanation": "'Tos'は'咳'で、'resfriado'は'風邪'を意味します。これらは風邪の典型的な症状です。"
+    "explanation": "'Tos' significa 'tosse' e 'resfriado' significa 'raffreddato'. Sono i sintomi tipici di un comune raffreddore.",
+    "hint": null
   },
   "q_vocab_a2_02_008": {
-    "question": "'Toma una pastilla cada ocho horas'の'pastilla'の意味は？",
-    "correct": "錠剤",
+    "question": "Che cosa significa 'pastilla' in 'Toma una pastilla cada ocho horas'?",
+    "correct": "pastiglia",
     "wrong": [
-      "シロップ",
-      "絆創膏",
-      "注射"
+      "sciroppo",
+      "benda",
+      "iniezione"
     ],
-    "explanation": "'Pastilla'は'錠剤'または'タブレット'を意味します。文は'8時間ごとに1錠飲んでください'という意味です。"
+    "explanation": "'Pastilla' significa 'pastiglia' o 'compressa'. La frase significa 'Prendi una pastiglia ogni otto ore.'",
+    "hint": null
   },
   "q_vocab_a2_02_009": {
     "question": "Me duele mucho la garganta y no puedo hablar.",
-    "correct": "Me duele la garganta mucho y no puedo hablar.",
+    "correct": "Mi fa molto male la gola e non riesco a parlare.",
     "wrong": [
-      "Me duele la cabeza mucho y no puedo dormir.",
-      "Me duele el estómago mucho y no puedo comer.",
-      "Me duele la espalda mucho y no puedo andar."
+      "Mi fa molto male la testa e non riesco a dormire.",
+      "Mi fa molto male lo stomaco e non riesco a mangiare.",
+      "Mi fa molto male la schiena e non riesco a camminare."
     ],
-    "explanation": "'Garganta'は'喉'を意味します。'Doler'は痛みを表現するために使われます。'Me duele'は'それは私に痛む'（私が痛い）という意味です。"
+    "explanation": "'Garganta' significa 'gola'. 'Doler' si usa per esprimere dolore. La costruzione 'me duele' significa 'mi fa male'.",
+    "hint": null
   },
   "q_vocab_a2_02_010": {
-    "question": "薬局にいて、風邪薬が欲しいのですが処方箋がありません。何を尋ねますか？",
+    "question": "Sei in farmacia e hai bisogno di un medicinale per il raffreddore, ma non hai la ricetta. Che cosa chiedi?",
     "correct": "¿Tiene algo para el resfriado sin receta?",
     "wrong": [
       "¿Dónde está el hospital más cercano?",
       "¿Puede darme una cita con el médico?",
       "¿Cuánto cuesta la consulta?"
     ],
-    "explanation": "'Sin receta'は'処方箋なしで'を意味します。スペインでは多くの基本的な医薬品は処方箋なしで買うことができます。"
+    "explanation": "'Sin receta' significa 'senza ricetta'. In Spagna molti farmaci di base si possono comprare senza ricetta ('sin receta').",
+    "hint": null
   },
   "q_vocab_a2_03_001": {
-    "question": "スポーツの文脈で'partido'の意味は？",
-    "correct": "試合",
+    "question": "Che cosa significa 'partido' nel contesto dello sport?",
+    "correct": "partita/incontro",
     "wrong": [
-      "チーム",
-      "スコア",
-      "スタジアム"
+      "squadra",
+      "punteggio",
+      "stadio"
     ],
-    "explanation": "'Partido'はスポーツで'試合'を意味します。Esempioえば、'un partido de fútbol'はサッカーの試合です。"
+    "explanation": "'Partido' significa 'partita' o 'incontro' nello sport. Per esempio, 'un partido de fútbol' è una partita di calcio.",
+    "hint": null
   },
   "q_vocab_a2_03_002": {
-    "question": "'Mi equipo favorito ganó el partido'の'equipo'の意味は？",
-    "correct": "チーム",
+    "question": "Che cosa significa 'equipo' in 'Mi equipo favorito ganó el partido'?",
+    "correct": "squadra",
     "wrong": [
-      "選手",
-      "コーチ",
-      "スタジアム"
+      "giocatore",
+      "allenatore",
+      "stadio"
     ],
-    "explanation": "'Equipo'は'チーム'を意味します。文は'私のお気に入りのチームが試合に勝った'という意味です。"
+    "explanation": "'Equipo' significa 'squadra'. La frase significa 'La mia squadra preferita ha vinto la partita.'",
+    "hint": null
   },
   "q_vocab_a2_03_003": {
     "question": "Los fines de semana me gusta ___ al baloncesto con mis amigos.",
@@ -227,87 +249,96 @@
       "correr",
       "pintar"
     ],
-    "explanation": "'Jugar'は'遊ぶ'または'プレーする'を意味します。In spagnolo'jugar al baloncesto'（前置詞'al'を使用）と言います。"
+    "explanation": "'Jugar' significa 'giocare'. In spagnolo si dice 'jugar al baloncesto' (giocare a basket) con la preposizione 'al'.",
+    "hint": null
   },
   "q_vocab_a2_03_004": {
-    "question": "'natación'の意味は？",
-    "correct": "水泳",
+    "question": "Che cosa significa 'natación'?",
+    "correct": "nuoto",
     "wrong": [
-      "走ること",
-      "自転車",
-      "ハイキング"
+      "corsa",
+      "ciclismo",
+      "escursionismo"
     ],
-    "explanation": "'Natación'は水泳というスポーツです。動詞は'nadar'（泳ぐ）です。"
+    "explanation": "'Natación' è lo sport del nuoto. Il verbo è 'nadar' (nuotare).",
+    "hint": null
   },
   "q_vocab_a2_03_005": {
-    "question": "'Nuestro equipo va a ganar la final'の'ganar'の意味は？",
-    "correct": "勝つ",
+    "question": "Che cosa significa 'ganar' in 'Nuestro equipo va a ganar la final'?",
+    "correct": "vincere",
     "wrong": [
-      "負ける",
-      "プレーする",
-      "スコアする"
+      "perdere",
+      "giocare",
+      "segnare"
     ],
-    "explanation": "'Ganar'は'勝つ'を意味します。反対は'perder'（負ける）です。文は'私たちのチームは決勝に勝つだろう'という意味です。"
+    "explanation": "'Ganar' significa 'vincere'. Il contrario è 'perder' (perdere). La frase significa 'La nostra squadra vincerà la finale.'",
+    "hint": null
   },
   "q_vocab_a2_03_006": {
-    "question": "週末は公園で走るのが好きです。",
+    "question": "Nei fine settimana mi piace correre nel parco.",
     "correct": "Los fines de semana me gusta correr en el parque.",
     "wrong": [
       "Los fines de semana me gusta nadar en el parque.",
       "Los fines de semana me gusta jugar en el parque.",
       "Los fines de semana me gusta bailar en el parque."
     ],
-    "explanation": "'Correr'は'走る'を意味します。'Me gusta'の後に不定詞が続き、何をするのが好きかを表現します。"
+    "explanation": "'Correr' significa 'correre'. 'Me gusta' seguito da un infinito esprime ciò che ti piace fare.",
+    "hint": null
   },
   "q_vocab_a2_03_007": {
-    "question": "'Quiero practicar tenis este verano'の'practicar'の意味は？",
-    "correct": "練習する",
+    "question": "Che cosa significa 'practicar' in 'Quiero practicar tenis este verano'?",
+    "correct": "praticare/fare (uno sport)",
     "wrong": [
-      "見る",
-      "教える",
-      "競争する"
+      "guardare",
+      "insegnare",
+      "competere"
     ],
-    "explanation": "'Practicar'は'練習する'または'（スポーツを）する'を意味します。'Jugar'と異なり、'practicar'は前置詞'al'を必要としません。"
+    "explanation": "'Practicar' significa 'praticare' o 'fare' uno sport. A differenza di 'jugar', 'practicar' non richiede la preposizione 'al'.",
+    "hint": null
   },
   "q_vocab_a2_03_008": {
     "question": "Mi hermana perdió el partido de tenis ayer.",
-    "correct": "Mi hermana perdió el partido de tenis ayer.",
+    "correct": "Mia sorella ieri ha perso la partita di tennis.",
     "wrong": [
-      "Mi hermana ganó el partido de tenis ayer.",
-      "Mi hermana jugó el partido de tenis ayer.",
-      "Mi hermana vio el partido de tenis ayer."
+      "Mia sorella ieri ha vinto la partita di tennis.",
+      "Mia sorella ieri ha giocato la partita di tennis.",
+      "Mia sorella ieri ha guardato la partita di tennis."
     ],
-    "explanation": "'Perder'は'負ける'を意味します。'Perdió'は過去時制（pretérito）です。反対は'ganar'（勝つ）です。"
+    "explanation": "'Perder' significa 'perdere'. 'Perdió' è il passato (pretérito). Il contrario è 'ganar' (vincere).",
+    "hint": null
   },
   "q_vocab_a2_03_009": {
-    "question": "友人が趣味について聞きます。絵を描いたり踊ったりするのが好きです。何と言いますか？",
+    "question": "Un amico ti chiede quali hobby hai. Ti piace dipingere e ballare. Che cosa dici?",
     "correct": "Me gusta pintar y bailar.",
     "wrong": [
       "Me gusta correr y nadar.",
       "Me gusta jugar al fútbol y al tenis.",
       "Me gusta leer y escribir."
     ],
-    "explanation": "'Pintar'は'描く'で、'bailar'は'踊る'を意味します。どちらも'me gusta'で表現される一般的な趣味です。"
+    "explanation": "'Pintar' significa 'dipingere' e 'bailar' significa 'ballare'. Sono entrambi hobby comuni espressi con 'me gusta' + infinito.",
+    "hint": null
   },
   "q_vocab_a2_03_010": {
-    "question": "地元のスポーツクラブに参加したいです。受付スタッフにどのスポーツをしたいか伝えます。何と言いますか？",
+    "question": "Vuoi iscriverti a un club sportivo locale. Dici al receptionist quale sport vuoi praticare. Che cosa dici?",
     "correct": "Quiero apuntarme al equipo de fútbol.",
     "wrong": [
       "Quiero ver el partido de fútbol.",
       "Quiero comprar una entrada de fútbol.",
       "Quiero ganar el campeonato de fútbol."
     ],
-    "explanation": "'Apuntarse'は'登録する'または'参加する'を意味します。ここの'equipo'は参加したいチームを指します。"
+    "explanation": "'Apuntarse' significa 'iscriversi' o 'unirsi'. Qui 'equipo' indica la squadra a cui vuoi unirti.",
+    "hint": null
   },
   "q_vocab_a2_04_001": {
-    "question": "'oferta'の意味は？",
-    "correct": "セール",
+    "question": "Che cosa significa 'oferta'?",
+    "correct": "saldo/offerta",
     "wrong": [
-      "価格",
-      "お釣り",
-      "領収書"
+      "prezzo",
+      "resto",
+      "scontrino"
     ],
-    "explanation": "'Oferta'は'セール'または'特別オファー'を意味します。店で'en oferta'（セール中）と書かれた看板を見かけることがあります。"
+    "explanation": "'Oferta' significa 'saldo' od 'offerta speciale'. Nei negozi puoi vedere cartelli con scritto 'en oferta' (in offerta).",
+    "hint": null
   },
   "q_vocab_a2_04_002": {
     "question": "Esta camisa es muy ___, cuesta solo cinco euros.",
@@ -317,107 +348,118 @@
       "bonita",
       "grande"
     ],
-    "explanation": "'Barata'は'安い'（女性形）を意味します。文は'このシャツは非常に安く、わずか5ユーロです'という意味です。"
+    "explanation": "'Barata' significa 'economica' (femminile). La frase significa 'Questa camicia è molto economica, costa solo cinque euro.'",
+    "hint": null
   },
   "q_vocab_a2_04_003": {
-    "question": "'supermercado'の意味は？",
-    "correct": "スーパーマーケット",
+    "question": "Che cosa significa 'supermercado'?",
+    "correct": "supermercato",
     "wrong": [
-      "ショッピングモール",
-      "デパート",
-      "小売店"
+      "centro commerciale",
+      "grande magazzino",
+      "negozietto di quartiere"
     ],
-    "explanation": "'Supermercado'は食料品や日用品を買う大きな店です。"
+    "explanation": "'Supermercado' è un grande negozio dove si comprano alimentari e articoli per la casa.",
+    "hint": null
   },
   "q_vocab_a2_04_004": {
-    "question": "'Necesito una talla más grande'の'talla'の意味は？",
-    "correct": "サイズ（衣類）",
+    "question": "Che cosa significa 'talla' in 'Necesito una talla más grande'?",
+    "correct": "taglia (di abbigliamento)",
     "wrong": [
-      "色",
-      "価格",
-      "スタイル"
+      "colore",
+      "prezzo",
+      "stile"
     ],
-    "explanation": "'Talla'は衣服のサイズを指します。文は'もっと大きいサイズが必要です'という意味です。"
+    "explanation": "'Talla' indica la taglia dei vestiti. La frase significa 'Ho bisogno di una taglia più grande.'",
+    "hint": null
   },
   "q_vocab_a2_04_005": {
-    "question": "クレジットカードで支払えますか？",
+    "question": "Posso pagare con la carta di credito?",
     "correct": "¿Puedo pagar con tarjeta de crédito?",
     "wrong": [
       "¿Puedo pagar con efectivo?",
       "¿Puedo devolver con tarjeta de crédito?",
       "¿Puedo comprar una tarjeta de crédito?"
     ],
-    "explanation": "'Tarjeta de crédito'は'クレジットカード'を意味します。'Pagar con'は'～で支払う'を意味します。"
+    "explanation": "'Tarjeta de crédito' significa 'carta di credito'. 'Pagar con' significa 'pagare con'.",
+    "hint": null
   },
   "q_vocab_a2_04_006": {
-    "question": "'¿Puedo devolver este producto?'の'devolver'の意味は？",
-    "correct": "返品する",
+    "question": "Che cosa significa 'devolver' in '¿Puedo devolver este producto?'?",
+    "correct": "restituire (un articolo)",
     "wrong": [
-      "交換する",
-      "買う",
-      "試着する"
+      "cambiare",
+      "comprare",
+      "provare"
     ],
-    "explanation": "'Devolver'はお店に品物を返すことを意味します。文は'この製品を返品できますか？'という意味です。"
+    "explanation": "'Devolver' significa 'restituire' qualcosa a un negozio. La frase significa 'Posso restituire questo prodotto?'",
+    "hint": null
   },
   "q_vocab_a2_04_007": {
-    "question": "気に入ったドレスが見えますが、まず試着したいです。店員に何を尋ねますか？",
+    "question": "Vedi un vestito che ti piace, ma vuoi provarlo prima. Che cosa chiedi alla commessa?",
     "correct": "¿Puedo probarme este vestido?",
     "wrong": [
       "¿Puedo devolver este vestido?",
       "¿Puedo pagar este vestido?",
       "¿Puedo comprar este vestido?"
     ],
-    "explanation": "'Probarse'は衣類を試着することを意味します。これは再帰動詞です。試衣室は'el probador'です。"
+    "explanation": "'Probarse' significa 'provare' dei vestiti. È un verbo riflessivo. Il camerino si dice 'el probador'.",
+    "hint": null
   },
   "q_vocab_a2_04_008": {
-    "question": "'El precio es demasiado alto'の'precio'の意味は？",
-    "correct": "価格",
+    "question": "Che cosa significa 'precio' in 'El precio es demasiado alto'?",
+    "correct": "prezzo",
     "wrong": [
-      "品質",
-      "割引",
-      "領収書"
+      "qualità",
+      "sconto",
+      "scontrino"
     ],
-    "explanation": "'Precio'は'価格'を意味します。文は'価格が高すぎます'という意味です。'Demasiado'は'多すぎる'を意味します。"
+    "explanation": "'Precio' significa 'prezzo'. La frase significa 'Il prezzo è troppo alto.' 'Demasiado' significa 'troppo'.",
+    "hint": null
   },
   "q_vocab_a2_04_009": {
     "question": "En el centro comercial hay muchas tiendas con rebajas.",
-    "correct": "En el centro comercial hay muchas tiendas con rebajas.",
+    "correct": "Nel centro commerciale ci sono molti negozi con i saldi.",
     "wrong": [
-      "En el supermercado hay muchos productos con descuentos.",
-      "En el centro de la ciudad hay muchas tiendas con devoluciones.",
-      "En el centro comercial hay muchos precios con ofertas."
+      "Nel supermercato ci sono molti prodotti con gli sconti.",
+      "Nel centro della città ci sono molti negozi con i resi.",
+      "Nel centro commerciale ci sono molti prezzi con le offerte."
     ],
-    "explanation": "'Centro comercial'は'ショッピングモール'を意味します。'Rebajas'は'セール'（価格割引）を意味し、'ofertas'に似ています。"
+    "explanation": "'Centro comercial' significa 'centro commerciale'. 'Rebajas' significa 'saldi' (riduzioni di prezzo), simile a 'ofertas'.",
+    "hint": null
   },
   "q_vocab_a2_04_010": {
-    "question": "オンラインで靴を買いましたが、サイズが小さすぎます。カスタマーサービスに電話して返品を手配します。何と言いますか？",
+    "question": "Hai comprato delle scarpe online, ma sono troppo piccole. Chiami il servizio clienti per organizzare un reso. Che cosa dici?",
     "correct": "Quiero devolver estos zapatos porque la talla es pequeña.",
     "wrong": [
       "Quiero comprar estos zapatos porque la talla es pequeña.",
       "Quiero probarme estos zapatos porque la talla es pequeña.",
       "Quiero pagar estos zapatos porque la talla es pequeña."
     ],
-    "explanation": "'Devolver'は返品することを意味します。'Porque'（～だから）を使って理由を説明し、サイズの問題について言及します。"
+    "explanation": "'Devolver' significa 'restituire'. Spieghi il motivo con 'porque' (perché) e indichi il problema della taglia.",
+    "hint": null
   },
   "q_vocab_a2_05_001": {
-    "question": "'camarero'の意味は？",
-    "correct": "ウェイター",
+    "question": "Che cosa significa 'camarero'?",
+    "correct": "cameriere",
     "wrong": [
-      "シェフ",
-      "客",
-      "レジ係"
+      "cuoco",
+      "cliente",
+      "cassiere"
     ],
-    "explanation": "'Camarero'は'ウェイター'を意味します。女性形は'camarera'（ウェイトレス）です。"
+    "explanation": "'Camarero' significa 'cameriere'. La forma femminile è 'camarera' (cameriera).",
+    "hint": null
   },
   "q_vocab_a2_05_002": {
-    "question": "'¿Me trae la cuenta, por favor?'の'cuenta'の意味は？",
-    "correct": "請求書",
+    "question": "Che cosa significa 'cuenta' in '¿Me trae la cuenta, por favor?'?",
+    "correct": "conto",
     "wrong": [
-      "メニュー",
-      "チップ",
-      "領収書"
+      "menù",
+      "mancia",
+      "scontrino"
     ],
-    "explanation": "'Cuenta'はレストランでの'請求書'または'会計'を意味します。文は'請求書を持ってきてください'という意味です。"
+    "explanation": "'Cuenta' significa 'conto' al ristorante. La frase significa 'Mi porta il conto, per favore?'",
+    "hint": null
   },
   "q_vocab_a2_05_003": {
     "question": "De ___, quiero la sopa de verduras.",
@@ -427,87 +469,96 @@
       "postre",
       "bebida"
     ],
-    "explanation": "'Primer plato'は'最初のコース'または'前菜'を意味します。スペインのレストランでは、食事に'primer plato'、'segundo plato'、'postre'が含まれることが多いです。"
+    "explanation": "'Primer plato' significa 'primo piatto' o 'antipasto'. Nei ristoranti spagnoli i pasti spesso comprendono un 'primer plato', un 'segundo plato' e un 'postre'.",
+    "hint": null
   },
   "q_vocab_a2_05_004": {
-    "question": "'propina'の意味は？",
-    "correct": "チップ",
+    "question": "Che cosa significa 'propina'?",
+    "correct": "mancia",
     "wrong": [
-      "請求書",
-      "メニュー",
-      "予約"
+      "conto",
+      "menù",
+      "prenotazione"
     ],
-    "explanation": "'Propina'は'チップ'（サービスのためのお金）を意味します。スペインではチップが一般的な国ほど一般的ではありません。"
+    "explanation": "'Propina' significa 'mancia' (denaro lasciato per il servizio). In Spagna la mancia è meno comune che in altri paesi.",
+    "hint": null
   },
   "q_vocab_a2_05_005": {
-    "question": "'¿Qué me recomienda?'の'recomendar'の意味は？",
-    "correct": "勧める",
+    "question": "Che cosa significa 'recomendar' in '¿Qué me recomienda?'?",
+    "correct": "consigliare",
     "wrong": [
-      "注文する",
-      "サービスする",
-      "持ってくる"
+      "ordinare",
+      "servire",
+      "portare"
     ],
-    "explanation": "'Recomendar'は'勧める'を意味します。質問'¿Qué me recomienda?'は'何をお勧めしますか？'という意味で、敬語形式の'usted'を使用します。"
+    "explanation": "'Recomendar' significa 'consigliare'. La domanda '¿Qué me recomienda?' significa 'Che cosa mi consiglia?' ed è nella forma di cortesia 'usted'.",
+    "hint": null
   },
   "q_vocab_a2_05_006": {
-    "question": "焼き鶏をお願いしたいです。",
+    "question": "Vorrei ordinare il pollo alla piastra, per favore.",
     "correct": "Quiero pedir el pollo a la plancha, por favor.",
     "wrong": [
       "Quiero recomendar el pollo a la plancha, por favor.",
       "Quiero traer el pollo a la plancha, por favor.",
       "Quiero cocinar el pollo a la plancha, por favor."
     ],
-    "explanation": "'Pedir'はレストランで注文することを意味します。'Pollo a la plancha'は'焼き鶏'を意味します。"
+    "explanation": "'Pedir' significa 'ordinare' al ristorante. 'Pollo a la plancha' significa 'pollo alla piastra'.",
+    "hint": null
   },
   "q_vocab_a2_05_007": {
-    "question": "'¿Tiene el menú del día?'の'menú'の意味は？",
-    "correct": "定食",
+    "question": "Che cosa significa 'menú' in '¿Tiene el menú del día?'?",
+    "correct": "menù fisso / menù del giorno",
     "wrong": [
-      "予約",
-      "特別な料理",
-      "ドリンクリスト"
+      "prenotazione",
+      "piatto speciale",
+      "lista delle bevande"
     ],
-    "explanation": "'Menú del día'は多くのスペインのレストランで固定価格で提供される定食で、前菜、メインコース、デザート、ドリンクを含むことが多いです。"
+    "explanation": "'Menú del día' è un pasto a prezzo fisso offerto in molti ristoranti spagnoli, che di solito comprende un antipasto, un secondo, un dolce e una bevanda.",
+    "hint": null
   },
   "q_vocab_a2_05_008": {
     "question": "El camarero nos dijo: ¡Buen provecho!",
-    "correct": "ウェイターが私たちに言った：食事を楽しんでね！",
+    "correct": "Il cameriere ci ha detto: Buon appetito!",
     "wrong": [
-      "ウェイターが私たちに言った：いらっしゃいませ！",
-      "ウェイターが私たちに言った：こんにちは！",
-      "ウェイターが私たちに言った：また会いましょう！"
+      "Il cameriere ci ha detto: Benvenuti!",
+      "Il cameriere ci ha detto: Buon pomeriggio!",
+      "Il cameriere ci ha detto: A presto!"
     ],
-    "explanation": "'¡Buen provecho!'は'Enjoy il tuo meal!'または'Bon appétit!'に相当します。食べる前に一般的に言われます。"
+    "explanation": "'¡Buen provecho!' equivale a 'Buon appetito!' o 'Bon appétit!' Si dice comunemente prima di mangiare.",
+    "hint": null
   },
   "q_vocab_a2_05_009": {
-    "question": "レストランにいて、2人用のテーブルがあるか確認したいです。何と言いますか？",
+    "question": "Sei al ristorante e vuoi chiedere se hanno un tavolo per due. Che cosa dici?",
     "correct": "¿Tiene una mesa para dos, por favor?",
     "wrong": [
       "¿Tiene un menú para dos, por favor?",
       "¿Tiene una cuenta para dos, por favor?",
       "¿Tiene una reserva para dos, por favor?"
     ],
-    "explanation": "'Mesa'は'テーブル'を意味します。これは予約なしでレストランに到着した時の一般的なフレーズです。"
+    "explanation": "'Mesa' significa 'tavolo'. È una frase comune quando si arriva al ristorante senza prenotazione.",
+    "hint": null
   },
   "q_vocab_a2_05_010": {
-    "question": "食事を終えた後、支払いをして立ち去りたいです。ウェイターの注意を引くために何と言いますか？",
+    "question": "Dopo aver finito di mangiare, vuoi pagare e andare via. Che cosa dici per attirare l'attenzione del cameriere?",
     "correct": "¡Perdone! ¿Me trae la cuenta, por favor?",
     "wrong": [
       "¡Perdone! ¿Me trae el menú, por favor?",
       "¡Perdone! ¿Me trae el postre, por favor?",
       "¡Perdone! ¿Me trae la propina, por favor?"
     ],
-    "explanation": "'¡Perdone!'は誰かのAttenzioneを引く丁寧な方法です。'¿Me trae la cuenta?'は'請求書を持ってきてください'という意味です。"
+    "explanation": "'¡Perdone!' è un modo cortese per attirare l'attenzione di qualcuno. '¿Me trae la cuenta?' significa 'Mi porta il conto?'",
+    "hint": null
   },
   "q_vocab_a2_06_001": {
-    "question": "'semáforo'の意味は？",
-    "correct": "信号",
+    "question": "Che cosa significa 'semáforo'?",
+    "correct": "semaforo",
     "wrong": [
-      "横断歩道",
-      "ラウンドアバウト",
-      "交差点"
+      "passaggio pedonale",
+      "rotatoria",
+      "incrocio"
     ],
-    "explanation": "'Semáforo'は'信号'を意味します。方向についての説明で'Gire a la derecha en el semáforo'（信号で右に曲がってください）というフレーズをよく聞きます。"
+    "explanation": "'Semáforo' significa 'semaforo'. Si sentono spesso indicazioni come 'Gire a la derecha en el semáforo.'",
+    "hint": null
   },
   "q_vocab_a2_06_002": {
     "question": "La panadería está en la ___ de la calle Mayor y la calle Sol.",
@@ -517,107 +568,118 @@
       "calle",
       "acera"
     ],
-    "explanation": "'Esquina'は'角'を意味します。文は'パン屋はメイン通りとソル通りの角にあります'という意味です。"
+    "explanation": "'Esquina' significa 'angolo'. La frase significa 'Il panificio è all'angolo tra via Mayor e via Sol.'",
+    "hint": null
   },
   "q_vocab_a2_06_003": {
-    "question": "'Gire a la izquierda en el semáforo'の'girar'の意味は？",
-    "correct": "曲がる",
+    "question": "Che cosa significa 'girar' in 'Gire a la izquierda en el semáforo'?",
+    "correct": "girare",
     "wrong": [
-      "止まる",
-      "横切る",
-      "続ける"
+      "fermarsi",
+      "attraversare",
+      "continuare"
     ],
-    "explanation": "'Girar'は'曲がる'を意味します。'Gire a la izquierda'は'左に曲がってください'を意味します。敬語の命令形です。"
+    "explanation": "'Girar' significa 'girare'. 'Gire a la izquierda' significa 'giri a sinistra'. È all'imperativo di cortesia.",
+    "hint": null
   },
   "q_vocab_a2_06_004": {
-    "question": "'enfrente de'の意味は？",
-    "correct": "～の向こう側に",
+    "question": "Che cosa significa 'enfrente de'?",
+    "correct": "di fronte a",
     "wrong": [
-      "後ろ",
-      "隣",
-      "遠く"
+      "dietro",
+      "accanto a",
+      "lontano da"
     ],
-    "explanation": "'Enfrente de'は'向かい側の'または'対面した'を意味します。Esempioえば、'El museo está enfrente de la iglesia.'（博物館は教会の向かい側にあります）"
+    "explanation": "'Enfrente de' significa 'di fronte a'. Per esempio, 'El museo está enfrente de la iglesia.'",
+    "hint": null
   },
   "q_vocab_a2_06_005": {
-    "question": "真っ直ぐ進んで、博物館は右側にあります。",
+    "question": "Vada dritto e il museo è sulla destra.",
     "correct": "Siga recto y el museo está a la derecha.",
     "wrong": [
       "Gire recto y el museo está a la derecha.",
       "Siga recto y el museo está a la izquierda.",
       "Cruce recto y el museo está a la derecha."
     ],
-    "explanation": "'Seguir recto'は'真っ直ぐ進む'を意味します。'A la derecha'は'右側に'を意味します。'Siga'は'seguir'の敬語命令形です。"
+    "explanation": "'Seguir recto' significa 'andare dritto'. 'A la derecha' significa 'a destra'. 'Siga' è l'imperativo di cortesia di 'seguir'.",
+    "hint": null
   },
   "q_vocab_a2_06_006": {
-    "question": "'Quedamos en la plaza Mayor a las cinco'の'plaza'の意味は？",
-    "correct": "広場",
+    "question": "Che cosa significa 'plaza' in 'Quedamos en la plaza Mayor a las cinco'?",
+    "correct": "piazza (spazio pubblico)",
     "wrong": [
-      "通り",
-      "公園",
-      "建物"
+      "strada",
+      "parco",
+      "edificio"
     ],
-    "explanation": "'Plaza'は都市の公共の開放スペースを意味します。'Plaza Mayor'は多くのスペイン都市にある主要広場です。"
+    "explanation": "'Plaza' significa 'piazza', uno spazio pubblico aperto in una città. 'Plaza Mayor' è la piazza principale, presente in molte città spagnole.",
+    "hint": null
   },
   "q_vocab_a2_06_007": {
-    "question": "迷子になり、近くの銀行を探す必要があります。通りかかった人を止めます。何を尋ねますか？",
+    "question": "Ti sei perso e devi trovare la banca più vicina. Fermi un passante. Che cosa chiedi?",
     "correct": "Perdone, ¿sabe dónde hay un banco cerca de aquí?",
     "wrong": [
       "Perdone, ¿sabe dónde hay una iglesia cerca de aquí?",
       "Perdone, ¿sabe cuánto cuesta el banco?",
       "Perdone, ¿sabe a qué hora abre el museo?"
     ],
-    "explanation": "'¿Dónde hay un banco?'は'銀行はどこにありますか？'を意味します。'Cerca de aquí'は'ここの近く'を意味します。"
+    "explanation": "'¿Dónde hay un banco?' significa 'Dov'è una banca?'. 'Cerca de aquí' significa 'qui vicino'.",
+    "hint": null
   },
   "q_vocab_a2_06_008": {
-    "question": "'El aeropuerto está lejos del centro'の'lejos'の意味は？",
-    "correct": "遠い",
+    "question": "Che cosa significa 'lejos' in 'El aeropuerto está lejos del centro'?",
+    "correct": "lontano",
     "wrong": [
-      "近い",
-      "後ろ",
-      "上"
+      "vicino",
+      "dietro",
+      "sopra"
     ],
-    "explanation": "'Lejos'は'遠い'を意味します。反対は'cerca'（近い）です。文は'空港は市内から遠いです'という意味です。"
+    "explanation": "'Lejos' significa 'lontano'. Il contrario è 'cerca' (vicino). La frase significa 'L'aeroporto è lontano dal centro.'",
+    "hint": null
   },
   "q_vocab_a2_06_009": {
     "question": "La iglesia está entre el banco y el museo.",
-    "correct": "La iglesia está entre el banco y el museo.",
+    "correct": "La chiesa è tra la banca e il museo.",
     "wrong": [
-      "La iglesia está al lado del banco y el museo.",
-      "La iglesia está lejos del banco y el museo.",
-      "La iglesia está enfrente del banco y el museo."
+      "La chiesa è accanto alla banca e al museo.",
+      "La chiesa è lontana dalla banca e dal museo.",
+      "La chiesa è di fronte alla banca e al museo."
     ],
-    "explanation": "'Entre'は'その間'を意味します。'Iglesia'は'教会'を意味します。この前置詞は2つのポイント間の位置を示すために使用されます。"
+    "explanation": "'Entre' significa 'tra'. 'Iglesia' significa 'chiesa'. Questa preposizione si usa per indicare una posizione tra due punti.",
+    "hint": null
   },
   "q_vocab_a2_06_010": {
-    "question": "観光客が大聖堂への道順をあなたに尋ねます。2ブロック先で左に曲がります。何と言いますか？",
+    "question": "Un turista ti chiede come arrivare alla cattedrale. Dista due isolati, poi si gira a sinistra. Che cosa dici?",
     "correct": "Siga recto dos calles y gire a la izquierda.",
     "wrong": [
       "Cruce la plaza y la catedral está enfrente.",
       "Gire a la derecha y siga recto.",
       "Está muy lejos, necesita un taxi."
     ],
-    "explanation": "'Siga recto dos calles'は'2ブロック真っ直ぐ進んでください'を意味します。'Gire a la izquierda'は'左に曲がってください'を意味します。"
+    "explanation": "'Siga recto dos calles' significa 'Vada dritto per due isolati'. 'Gire a la izquierda' significa 'giri a sinistra'.",
+    "hint": null
   },
   "q_vocab_a2_07_001": {
-    "question": "'barrer'の意味は？",
-    "correct": "掃く",
+    "question": "Che cosa significa 'barrer'?",
+    "correct": "spazzare",
     "wrong": [
-      "モップをかける",
-      "ほこりを払う",
-      "掃除機をかける"
+      "lavare il pavimento con lo straccio",
+      "spolverare",
+      "passare l'aspirapolvere"
     ],
-    "explanation": "'Barrer'はdi solitoホウキで床を掃くことを意味します。"
+    "explanation": "'Barrer' significa 'spazzare' il pavimento, di solito con una scopa ('escoba').",
+    "hint": null
   },
   "q_vocab_a2_07_002": {
-    "question": "'planchar'の意味は？",
-    "correct": "アイロンをかける",
+    "question": "Che cosa significa 'planchar'?",
+    "correct": "stirare",
     "wrong": [
-      "折りたたむ",
-      "洗う",
-      "乾かす"
+      "piegare",
+      "lavare",
+      "asciugare"
     ],
-    "explanation": "'Planchar'は衣類にアイロンをかけることを意味します。アイロンは'la plancha'と呼ばれます。"
+    "explanation": "'Planchar' significa 'stirare' i vestiti. Il ferro da stiro si chiama 'la plancha'.",
+    "hint": null
   },
   "q_vocab_a2_07_003": {
     "question": "Después de comer, hay que ___ los platos.",
@@ -627,87 +689,96 @@
       "planchar",
       "ordenar"
     ],
-    "explanation": "'Fregar'は食器を洗うことを意味します。'Fregar los platos'は'食器を洗う'という意味です。"
+    "explanation": "'Fregar' significa 'lavare/strofinare' (i piatti). 'Fregar los platos' significa 'lavare i piatti'.",
+    "hint": null
   },
   "q_vocab_a2_07_004": {
-    "question": "'sacar la basura'の意味は？",
-    "correct": "ゴミを出す",
+    "question": "Che cosa significa 'sacar la basura'?",
+    "correct": "portare fuori la spazzatura",
     "wrong": [
-      "バスルームを掃除する",
-      "洗濯をする",
-      "床を掃除機で吸う"
+      "pulire il bagno",
+      "fare il bucato",
+      "passare l'aspirapolvere sul pavimento"
     ],
-    "explanation": "'Sacar la basura'は'ゴミを出す'を意味します。'Basura'は'ゴミ'または'ゴミ'を意味します。"
+    "explanation": "'Sacar la basura' significa 'portare fuori la spazzatura'. 'Basura' significa 'spazzatura/immondizia'.",
+    "hint": null
   },
   "q_vocab_a2_07_005": {
-    "question": "'Tengo que limpiar la casa antes de la fiesta'の'limpiar'の意味は？",
-    "correct": "掃除する",
+    "question": "Che cosa significa 'limpiar' in 'Tengo que limpiar la casa antes de la fiesta'?",
+    "correct": "pulire",
     "wrong": [
-      "飾り付ける",
-      "整理する",
-      "塗る"
+      "decorare",
+      "riordinare",
+      "dipingere"
     ],
-    "explanation": "'Limpiar'は'掃除する'または'きれいにする'を意味します。文は'パーティーの前に家を掃除しなければならない'という意味です。"
+    "explanation": "'Limpiar' significa 'pulire'. La frase significa 'Devo pulire la casa prima della festa.'",
+    "hint": null
   },
   "q_vocab_a2_07_006": {
-    "question": "ベッドを整えて、自分の部屋を片付ける必要があります。",
+    "question": "Devo fare il letto e mettere in ordine la mia camera.",
     "correct": "Necesito hacer la cama y ordenar mi habitación.",
     "wrong": [
       "Necesito lavar la cama y limpiar mi habitación.",
       "Necesito barrer la cama y fregar mi habitación.",
       "Necesito planchar la cama y cocinar mi habitación."
     ],
-    "explanation": "'Hacer la cama'は'ベッドを整える'を意味します。'Ordenar'は'片付ける'または'整理する'を意味します。"
+    "explanation": "'Hacer la cama' significa 'fare il letto'. 'Ordenar' significa 'mettere in ordine' o 'riordinare'.",
+    "hint": null
   },
   "q_vocab_a2_07_007": {
-    "question": "'pasar la aspiradora'の意味は？",
-    "correct": "掃除機をかける",
+    "question": "Che cosa significa 'pasar la aspiradora'?",
+    "correct": "passare l'aspirapolvere",
     "wrong": [
-      "掃く",
-      "モップをかける",
-      "ほこりを払う"
+      "spazzare",
+      "lavare il pavimento con lo straccio",
+      "spolverare"
     ],
-    "explanation": "'Pasar la aspiradora'は文字通り'掃除機を通す'という意味です。In spagnolo掃除機をかけるための標準的な表現です。"
+    "explanation": "'Pasar la aspiradora' significa letteralmente 'passare l'aspirapolvere'. È l'espressione standard in spagnolo per dire pulire con l'aspirapolvere.",
+    "hint": null
   },
   "q_vocab_a2_07_008": {
     "question": "Mi madre siempre cocina y mi padre lava la ropa.",
-    "correct": "Mi madre siempre cocina y mi padre lava la ropa.",
+    "correct": "Mia madre cucina sempre e mio padre fa il bucato.",
     "wrong": [
-      "Mi madre siempre limpia y mi padre plancha la ropa.",
-      "Mi madre siempre barre y mi padre dobla la ropa.",
-      "Mi madre siempre cocina y mi padre plancha la ropa."
+      "Mia madre pulisce sempre e mio padre stira i vestiti.",
+      "Mia madre spazza sempre e mio padre piega i vestiti.",
+      "Mia madre cucina sempre e mio padre stira i vestiti."
     ],
-    "explanation": "'Cocinar'は'料理する'を意味し、'lavar la ropa'は'洗濯をする'を意味します。'Siempre'は'いつも'です。"
+    "explanation": "'Cocinar' significa 'cucinare' e 'lavar la ropa' significa 'fare il bucato'. 'Siempre' significa 'sempre'.",
+    "hint": null
   },
   "q_vocab_a2_07_009": {
-    "question": "ルームメイトが週末に家事を手伝うように頼みます。掃除機をかけてゴミを出すことを提案します。何と言いますか？",
+    "question": "Il tuo coinquilino ti chiede di aiutare con le faccende domestiche questo fine settimana. Ti offri di passare l'aspirapolvere e portare fuori la spazzatura. Che cosa dici?",
     "correct": "Yo puedo pasar la aspiradora y sacar la basura.",
     "wrong": [
       "Yo puedo cocinar y hacer la cama.",
       "Yo puedo planchar y lavar la ropa.",
       "Yo puedo fregar los platos y barrer."
     ],
-    "explanation": "'Pasar la aspiradora'は'掃除機をかける'で、'sacar la basura'は'ゴミを出す'を意味します。'Puedo'は'できます'を意味します。"
+    "explanation": "'Pasar la aspiradora' è 'passare l'aspirapolvere' e 'sacar la basura' è 'portare fuori la spazzatura'. 'Puedo' significa 'posso'.",
+    "hint": null
   },
   "q_vocab_a2_07_010": {
-    "question": "新しいアパートに引っ越してきたばかりで、すべてを掃除する必要があります。友人に何をする必要があるか説明します。何と言いますか？",
+    "question": "Ti sei appena trasferito in un nuovo appartamento e devi pulire tutto. Racconti a un amico che cosa devi fare. Che cosa dici?",
     "correct": "Tengo que limpiar todo: barrer, fregar y pasar la aspiradora.",
     "wrong": [
       "Tengo que cocinar todo: hacer la cama, planchar y recoger.",
       "Tengo que comprar todo: muebles, platos y ropa.",
       "Tengo que ordenar todo: pintar, decorar y colgar cuadros."
     ],
-    "explanation": "'Tengo que'は'しなければならない'を意味します。掃除タスク'barrer'（掃く）、'fregar'（洗う/モップをかける）、'pasar la aspiradora'（掃除機をかける）を列挙することで、深い掃除をカバーします。"
+    "explanation": "'Tengo que' significa 'devo'. Elencare le faccende di pulizia con 'barrer' (spazzare), 'fregar' (strofinare/lavare il pavimento) e 'pasar la aspiradora' (passare l'aspirapolvere) descrive una pulizia a fondo.",
+    "hint": null
   },
   "q_vocab_a2_08_001": {
-    "question": "'contraseña'の意味は？",
-    "correct": "パスワード",
+    "question": "Che cosa significa 'contraseña'?",
+    "correct": "password",
     "wrong": [
-      "ユーザー名",
-      "メール",
-      "アカウント"
+      "nome utente",
+      "email",
+      "account"
     ],
-    "explanation": "'Contraseña'は'パスワード'を意味します。'Contra'（反対）と'seña'（符号）から来ています。"
+    "explanation": "'Contraseña' significa 'password'. Deriva da 'contra' (contro) e 'seña' (segno).",
+    "hint": null
   },
   "q_vocab_a2_08_002": {
     "question": "No puedo entrar en mi correo porque olvidé la ___.",
@@ -717,107 +788,118 @@
       "aplicación",
       "página web"
     ],
-    "explanation": "'Contraseña'は'パスワード'を意味します。文は'パスワードを忘れたので、自分のメールにアクセスできません'という意味です。"
+    "explanation": "'Contraseña' significa 'password'. La frase significa 'Non riesco ad accedere alla mia email perché ho dimenticato la password.'",
+    "hint": null
   },
   "q_vocab_a2_08_003": {
-    "question": "'pantalla'の意味は？",
-    "correct": "スクリーン",
+    "question": "Che cosa significa 'pantalla'?",
+    "correct": "schermo",
     "wrong": [
-      "キーボード",
-      "マウス",
-      "スピーカー"
+      "tastiera",
+      "mouse",
+      "altoparlante"
     ],
-    "explanation": "'Pantalla'は'スクリーン'を意味します。コンピュータスクリーン、携帯電話スクリーン、またはテレビスクリーンを指すことができます。"
+    "explanation": "'Pantalla' significa 'schermo'. Può riferirsi allo schermo di un computer, di un telefono o di una TV.",
+    "hint": null
   },
   "q_vocab_a2_08_004": {
-    "question": "'Voy a descargar la aplicación'の'descargar'の意味は？",
-    "correct": "ダウンロードする",
+    "question": "Che cosa significa 'descargar' in 'Voy a descargar la aplicación'?",
+    "correct": "scaricare scaricando dalla rete (download)",
     "wrong": [
-      "アップロードする",
-      "削除する",
-      "開く"
+      "caricare in rete (upload)",
+      "eliminare",
+      "aprire"
     ],
-    "explanation": "'Descargar'は'ダウンロードする'を意味します。反対は'cargar'（アップロード/充電）です。文は'アプリをダウンロードするつもりです'という意味です。"
+    "explanation": "'Descargar' significa 'scaricare' (download). Il contrario è 'cargar' (caricare). La frase significa 'Sto per scaricare l'app.'",
+    "hint": null
   },
   "q_vocab_a2_08_005": {
-    "question": "ボスにメールを送る必要があります。",
+    "question": "Devo inviare un'email al mio capo.",
     "correct": "Necesito enviar un correo electrónico a mi jefe.",
     "wrong": [
       "Necesito descargar un correo electrónico a mi jefe.",
       "Necesito abrir un correo electrónico a mi jefe.",
       "Necesito borrar un correo electrónico a mi jefe."
     ],
-    "explanation": "'Enviar'は'送信する'を意味します。'Correo electrónico'は'メール'を意味します。'Jefe'は'ボス'を意味します。"
+    "explanation": "'Enviar' significa 'inviare'. 'Correo electrónico' significa 'email'. 'Jefe' significa 'capo'.",
+    "hint": null
   },
   "q_vocab_a2_08_006": {
-    "question": "'Este teclado no funciona bien'の'teclado'の意味は？",
-    "correct": "キーボード",
+    "question": "Che cosa significa 'teclado' in 'Este teclado no funciona bien'?",
+    "correct": "tastiera",
     "wrong": [
-      "スクリーン",
-      "マウス",
-      "プリンター"
+      "schermo",
+      "mouse",
+      "stampante"
     ],
-    "explanation": "'Teclado'は'キーボード'を意味します。'Tecla'（キー）から来ています。文は'このキーボードはうまく機能していません'という意味です。"
+    "explanation": "'Teclado' significa 'tastiera'. Deriva da 'tecla' (tasto). La frase significa 'Questa tastiera non funziona bene.'",
+    "hint": null
   },
   "q_vocab_a2_08_007": {
-    "question": "友人にウェブサイトを見せたいです。何と言いますか？",
+    "question": "Vuoi mostrare un sito web a un amico. Che cosa dici?",
     "correct": "Mira esta página web, es muy interesante.",
     "wrong": [
       "Descarga esta aplicación, es muy interesante.",
       "Envía este correo, es muy interesante.",
       "Escribe esta contraseña, es muy interesante."
     ],
-    "explanation": "'Página web'は'ウェブページ'または'ウェブサイト'を意味します。'Mira'は'見て'（非形式命令）で、'mirar'（見る）から来ています。"
+    "explanation": "'Página web' significa 'pagina web' o 'sito web'. 'Mira' è l'imperativo informale di 'mirar' (guardare).",
+    "hint": null
   },
   "q_vocab_a2_08_008": {
-    "question": "'He perdido mi móvil'の'móvil'の意味は？",
-    "correct": "携帯電話",
+    "question": "Che cosa significa 'móvil' in 'He perdido mi móvil'?",
+    "correct": "telefono cellulare / cellulare",
     "wrong": [
-      "財布",
-      "ノートパソコン",
-      "タブレット"
+      "portafoglio",
+      "portatile",
+      "tablet"
     ],
-    "explanation": "'Móvil'はスペインでの'携帯電話'を意味します。ラテンアメリカでは'celular'がより一般的です。文は'私は携帯電話を失いました'という意味です。"
+    "explanation": "'Móvil' significa 'telefono cellulare' in Spagna. In America Latina si usa di più 'celular'. La frase significa 'Ho perso il mio cellulare.'",
+    "hint": null
   },
   "q_vocab_a2_08_009": {
     "question": "¿Puedes enviarme el documento por correo electrónico?",
-    "correct": "¿Puedes enviarme el documento por correo electrónico?",
+    "correct": "Puoi inviarmi il documento per e-mail?",
     "wrong": [
-      "¿Puedes descargar el documento del correo?",
-      "¿Puedes imprimir el documento del correo?",
-      "¿Puedes eliminar el documento del correo?"
+      "Puoi scaricare il documento dall'e-mail?",
+      "Puoi stampare il documento dall'e-mail?",
+      "Puoi eliminare il documento dall'e-mail?"
     ],
-    "explanation": "'Enviar'は'送信する'を意味します。'Por correo electrónico'は'メール経由で'を意味します。これは仕事の文脈での一般的なリクエストです。"
+    "explanation": "'Enviar' significa 'inviare'. 'Por correo electrónico' significa 'per e-mail'. È una richiesta molto comune in ambito lavorativo.",
+    "hint": null
   },
   "q_vocab_a2_08_010": {
-    "question": "コンピュータが非常に遅く、アプリケーションを開くことができません。テック・サポートに電話します。何と言いますか？",
+    "question": "Il tuo computer è molto lento e hai bisogno di aiuto. Chiami l'assistenza tecnica. Che cosa dici?",
     "correct": "Mi ordenador va muy lento y no puedo abrir las aplicaciones.",
     "wrong": [
       "Mi teclado va muy lento y no puedo escribir los correos.",
       "Mi pantalla va muy lento y no puedo ver las páginas.",
       "Mi contraseña va muy lento y no puedo entrar en internet."
     ],
-    "explanation": "'Ordenador'はIn spagnoloコンピュータを意味します。'Va muy lento'は'非常に遅い'を意味します。'Aplicaciones'は'アプリケーション/アプリ'を意味します。"
+    "explanation": "'Ordenador' significa 'computer' (Spagna). 'Va muy lento' significa 'è molto lento'. 'Aplicaciones' significa 'applicazioni/app'.",
+    "hint": null
   },
   "q_vocab_a2_09_001": {
-    "question": "'boda'の意味は？",
-    "correct": "結婚式",
+    "question": "Che cosa significa 'boda'?",
+    "correct": "matrimonio (cerimonia)",
     "wrong": [
-      "誕生日",
-      "記念日",
-      "洗礼式"
+      "compleanno",
+      "anniversario",
+      "battesimo"
     ],
-    "explanation": "'Boda'は'結婚式'を意味します。関連する動詞は'casarse'（結婚する）です。"
+    "explanation": "'Boda' significa 'matrimonio' inteso come cerimonia di nozze. Il verbo collegato è 'casarse' (sposarsi).",
+    "hint": null
   },
   "q_vocab_a2_09_002": {
-    "question": "'regalo'の意味は？",
-    "correct": "プレゼント",
+    "question": "Che cosa significa 'regalo'?",
+    "correct": "regalo",
     "wrong": [
-      "カード",
-      "デコレーション",
-      "招待状"
+      "biglietto",
+      "decorazione",
+      "invito"
     ],
-    "explanation": "'Regalo'は'ギフト'または'プレゼント'を意味します。動詞'regalar'は'ギフトを与える'を意味します。"
+    "explanation": "'Regalo' significa 'regalo' o 'dono'. Il verbo 'regalar' significa 'fare un regalo'.",
+    "hint": null
   },
   "q_vocab_a2_09_003": {
     "question": "En la fiesta de Navidad, los niños abren sus ___ debajo del árbol.",
@@ -827,87 +909,96 @@
       "velas",
       "tradiciones"
     ],
-    "explanation": "'Regalos'は'ギフト'を意味します。スペインでは、子供たちはdi solito12月25日ではなく1月6日（Día de Reyes）にギフトを受け取ります。"
+    "explanation": "'Regalos' significa 'regali'. In Spagna i bambini tradizionalmente ricevono i regali il 6 gennaio (Día de Reyes), non il 25 dicembre.",
+    "hint": null
   },
   "q_vocab_a2_09_004": {
-    "question": "'cumpleaños'の意味は？",
-    "correct": "誕生日",
+    "question": "Che cosa significa 'cumpleaños'?",
+    "correct": "compleanno",
     "wrong": [
-      "結婚式",
-      "記念日",
-      "祝日"
+      "matrimonio",
+      "anniversario",
+      "vacanza"
     ],
-    "explanation": "'Cumpleaños'は'誕生日'を意味します。'Cumplir años'（年を迎える）から来ています。単数形と複数形で同じです。"
+    "explanation": "'Cumpleaños' significa 'compleanno'. Deriva da 'cumplir años' (compiere gli anni). È uguale al singolare e al plurale.",
+    "hint": null
   },
   "q_vocab_a2_09_005": {
-    "question": "'Quiero felicitar a María por su boda'の'felicitar'の意味は？",
-    "correct": "祝う",
+    "question": "Che cosa significa 'felicitar' in 'Quiero felicitar a María por su boda'?",
+    "correct": "congratularsi con",
     "wrong": [
-      "招待する",
-      "お祝いする",
-      "驚かす"
+      "invitare",
+      "festeggiare",
+      "sorprendere"
     ],
-    "explanation": "'Felicitar'は'祝う'を意味します。文は'マリアの結婚をお祝いしたい'という意味です。"
+    "explanation": "'Felicitar' significa 'congratularsi con'. La frase significa 'Voglio congratularmi con María per il suo matrimonio.'",
+    "hint": null
   },
   "q_vocab_a2_09_006": {
-    "question": "土曜日に妹の誕生日をお祝いします。",
+    "question": "Sabato festeggeremo il compleanno di mia sorella.",
     "correct": "Vamos a celebrar el cumpleaños de mi hermana el sábado.",
     "wrong": [
       "Vamos a invitar el cumpleaños de mi hermana el sábado.",
       "Vamos a felicitar el cumpleaños de mi hermana el sábado.",
       "Vamos a brindar el cumpleaños de mi hermana el sábado."
     ],
-    "explanation": "'Celebrar'は'お祝いする'を意味します。'Vamos a'＋不定詞は将来の計画を表し、'予定している'という意味です。"
+    "explanation": "'Celebrar' significa 'festeggiare'. 'Vamos a' + infinito esprime progetti futuri e significa 'stiamo per / andiamo a'.",
+    "hint": null
   },
   "q_vocab_a2_09_007": {
-    "question": "'Vamos a brindar por los novios'の'brindar'の意味は？",
-    "correct": "乾杯する",
+    "question": "Che cosa significa 'brindar' in 'Vamos a brindar por los novios'?",
+    "correct": "brindare (alzare il calice)",
     "wrong": [
-      "踊る",
-      "歌う",
-      "応援する"
+      "ballare",
+      "cantare",
+      "fare il tifo"
     ],
-    "explanation": "'Brindar'は'乾杯する'または'グラスを持ち上げる'を意味します。'Los novios'は新郎新婦を指します。'Brindar por'は'～に乾杯する'を意味します。"
+    "explanation": "'Brindar' significa 'brindare' o 'alzare il calice'. 'Los novios' indica gli sposi. 'Brindar por' significa 'brindare a'.",
+    "hint": null
   },
   "q_vocab_a2_09_008": {
     "question": "Los invitados cantaron y bailaron en la fiesta toda la noche.",
-    "correct": "Los invitados cantaron y bailaron en la fiesta toda la noche.",
+    "correct": "Gli invitati hanno cantato e ballato alla festa tutta la notte.",
     "wrong": [
-      "Los anfitriones cantaron y bailaron en la fiesta toda la noche.",
-      "Los invitados comieron y bebieron en la fiesta toda la noche.",
-      "Los invitados hablaron y rieron en la fiesta toda la noche."
+      "I padroni di casa hanno cantato e ballato alla festa tutta la notte.",
+      "Gli invitati hanno mangiato e bevuto alla festa tutta la notte.",
+      "Gli invitati hanno chiacchierato e riso alla festa tutta la notte."
     ],
-    "explanation": "'Invitados'は'ゲスト'を意味します。'Cantar'は'歌う'で、'bailar'は'踊る'です。'Toda la noche'は'一晩中'を意味します。"
+    "explanation": "'Invitados' significa 'invitati'. 'Cantar' significa 'cantare' e 'bailar' significa 'ballare'. 'Toda la noche' significa 'tutta la notte'.",
+    "hint": null
   },
   "q_vocab_a2_09_009": {
-    "question": "オフィスで同僚の誕生日です。オフィスで彼らに良い願いをしたいです。何と言いますか？",
+    "question": "È il compleanno di un tuo collega. Vuoi fargli gli auguri in ufficio. Che cosa dici?",
     "correct": "¡Feliz cumpleaños! ¡Que cumplas muchos más!",
     "wrong": [
       "¡Buen provecho! ¡Que disfrutes!",
       "¡Enhorabuena! ¡Que tengas suerte!",
       "¡Buenas tardes! ¡Que descanses!"
     ],
-    "explanation": "'¡Feliz cumpleaños!'は'お誕生日おめでとうございます!'です。'¡Que cumplas muchos más!'は'これからもたくさん迎えてね!'という意味です。"
+    "explanation": "'¡Feliz cumpleaños!' significa 'Buon compleanno!' '¡Que cumplas muchos más!' significa 'Che tu possa compierne ancora tanti!'",
+    "hint": null
   },
   "q_vocab_a2_09_010": {
-    "question": "大晦日のパーティーに招待されており、真夜中に乾杯をしたいです。何と言いますか？",
+    "question": "Sei invitato a una festa di Capodanno e vuoi fare un brindisi a mezzanotte. Che cosa dici?",
     "correct": "¡Brindemos por el año nuevo! ¡Feliz Año Nuevo!",
     "wrong": [
       "¡Felicidades por la Navidad! ¡Buen provecho!",
       "¡Celebremos el cumpleaños! ¡Salud!",
       "¡Invitemos a los amigos! ¡Buena suerte!"
     ],
-    "explanation": "'Brindemos'は'乾杯しましょう'を意味します。'¡Feliz Año Nuevo!'は'あけましておめでとうございます!'です。これは12月31日の真夜中での伝統的なフレーズです。"
+    "explanation": "'Brindemos' significa 'Brindiamo'. '¡Feliz Año Nuevo!' significa 'Buon anno nuovo!' È una frase tradizionale a mezzanotte del 31 dicembre.",
+    "hint": null
   },
   "q_vocab_a2_10_001": {
-    "question": "'mascota'の意味は？",
-    "correct": "ペット",
+    "question": "Che cosa significa 'mascota'?",
+    "correct": "animale domestico",
     "wrong": [
-      "マスク",
-      "農場",
-      "ケージ"
+      "maschera",
+      "fattoria",
+      "gabbia"
     ],
-    "explanation": "'Mascota'は'ペット'を意味します。コンパニオンとして飼い慣らされた動物を指すことができます。"
+    "explanation": "'Mascota' significa 'animale domestico'. Può indicare qualsiasi animale domestico tenuto come compagnia.",
+    "hint": null
   },
   "q_vocab_a2_10_002": {
     "question": "El ___ persiguió al gato por todo el jardín.",
@@ -917,107 +1008,118 @@
       "pájaro",
       "conejo"
     ],
-    "explanation": "'Perro'は'犬'を意味します。文は'犬が庭全体で猫を追いかけました'という意味です。'Perseguir'は'追いかける'を意味します。"
+    "explanation": "'Perro' significa 'cane'. La frase significa 'Il cane ha inseguito il gatto per tutto il giardino.' 'Perseguir' significa 'inseguire'.",
+    "hint": null
   },
   "q_vocab_a2_10_003": {
-    "question": "'caballo'の意味は？",
-    "correct": "馬",
+    "question": "Che cosa significa 'caballo'?",
+    "correct": "cavallo",
     "wrong": [
-      "牛",
-      "雄牛",
-      "ロバ"
+      "mucca",
+      "toro",
+      "asino"
     ],
-    "explanation": "'Caballo'は'馬'を意味します。馬はスペインの田舎やお祭りで一般的です。"
+    "explanation": "'Caballo' significa 'cavallo'. I cavalli sono comuni nella Spagna rurale e nelle feste tradizionali.",
+    "hint": null
   },
   "q_vocab_a2_10_004": {
-    "question": "'Los leones son animales salvajes'の'salvaje'の意味は？",
-    "correct": "野生の",
+    "question": "Che cosa significa 'salvaje' in 'Los leones son animales salvajes'?",
+    "correct": "selvatico",
     "wrong": [
-      "飼い慣らされた",
-      "危険な",
-      "大きい"
+      "domestico",
+      "pericoloso",
+      "grande"
     ],
-    "explanation": "'Salvaje'は'野生の'を意味します。反対は'doméstico'（飼い慣らされた）です。文は'ライオンは野生動物です'という意味です。"
+    "explanation": "'Salvaje' significa 'selvatico'. Il contrario è 'doméstico' (domestico). La frase significa 'I leoni sono animali selvatici.'",
+    "hint": null
   },
   "q_vocab_a2_10_005": {
-    "question": "私の猫はソファで寝るのが好きです。",
+    "question": "Al mio gatto piace dormire sul divano.",
     "correct": "A mi gato le gusta dormir en el sofá.",
     "wrong": [
       "A mi perro le gusta dormir en el sofá.",
       "A mi gato le gusta comer en el sofá.",
       "Mi gato gusta dormir en el sofá."
     ],
-    "explanation": "'Gato'は'猫'を意味します。動物では、人間と同じ'gustar'の構造を使用します：'a mi gato le gusta'。"
+    "explanation": "'Gato' significa 'gatto'. Nota la struttura 'a mi gato le gusta': con gli animali si usa la stessa costruzione di 'gustar' che si usa con le persone.",
+    "hint": null
   },
   "q_vocab_a2_10_006": {
-    "question": "'Hay un pájaro bonito en el árbol'の'pájaro'の意味は？",
-    "correct": "鳥",
+    "question": "Che cosa significa 'pájaro' in 'Hay un pájaro bonito en el árbol'?",
+    "correct": "uccello",
     "wrong": [
-      "蝶",
-      "リス",
-      "昆虫"
+      "farfalla",
+      "scoiattolo",
+      "insetto"
     ],
-    "explanation": "'Pájaro'は'鳥'を意味します。文は'木にきれいな鳥がいます'という意味です。'Bonito'は'きれい'を意味します。"
+    "explanation": "'Pájaro' significa 'uccello'. La frase significa 'C'è un bell'uccello sull'albero.' 'Bonito' significa 'bello/carino'.",
+    "hint": null
   },
   "q_vocab_a2_10_007": {
-    "question": "ペットショップにいて、子供のためにウサギを買いたいです。何と言いますか？",
+    "question": "Sei in un negozio di animali e vuoi comprare un coniglio per tuo figlio. Che cosa dici?",
     "correct": "Quiero comprar un conejo para mi hijo.",
     "wrong": [
       "Quiero comprar una serpiente para mi hijo.",
       "Quiero comprar un pez para mi hijo.",
       "Quiero comprar una gallina para mi hijo."
     ],
-    "explanation": "'Conejo'は'ウサギ'を意味します。ウサギは子供向けの一般的なペットです。'Para mi hijo'は'子供のために'という意味です。"
+    "explanation": "'Conejo' significa 'coniglio'. I conigli sono animali domestici molto amati dai bambini. 'Para mi hijo' significa 'per mio figlio'.",
+    "hint": null
   },
   "q_vocab_a2_10_008": {
-    "question": "'mariposa'の意味は？",
-    "correct": "蝶",
+    "question": "Che cosa significa 'mariposa'?",
+    "correct": "farfalla",
     "wrong": [
-      "トンボ",
-      "ミツバチ",
-      "てんとう虫"
+      "libellula",
+      "ape",
+      "coccinella"
     ],
-    "explanation": "'Mariposa'は'蝶'を意味します。これは水泳のバタフライストローク（mariposa stroke）の名前でもあります。"
+    "explanation": "'Mariposa' significa 'farfalla'. Si usa anche per indicare lo stile farfalla nel nuoto.",
+    "hint": null
   },
   "q_vocab_a2_10_009": {
     "question": "En la granja hay vacas, cerdos y gallinas.",
-    "correct": "En la granja hay vacas, cerdos y gallinas.",
+    "correct": "Nella fattoria ci sono mucche, maiali e galline.",
     "wrong": [
-      "En el zoo hay vacas, cerdos y gallinas.",
-      "En la granja hay caballos, perros y gatos.",
-      "En la granja hay vacas, ovejas y cabras."
+      "Nello zoo ci sono mucche, maiali e galline.",
+      "Nella fattoria ci sono cavalli, cani e gatti.",
+      "Nella fattoria ci sono mucche, pecore e capre."
     ],
-    "explanation": "'Granja'は'農場'を意味します。'Vaca'は'牛'、'cerdo'は'豚'、'gallina'は'鶏/メスのニワトリ'を意味します。"
+    "explanation": "'Granja' significa 'fattoria'. 'Vaca' è 'mucca', 'cerdo' è 'maiale' e 'gallina' è 'gallina'.",
+    "hint": null
   },
   "q_vocab_a2_10_010": {
-    "question": "自然保護区を訪れて、多くの動物を見ます。友人に経験について説明します。何と言いますか？",
+    "question": "Visiti una riserva naturale e vedi molti animali. Racconti l'esperienza a un amico. Che cosa dici?",
     "correct": "Vimos muchos animales salvajes: pájaros, serpientes y caballos.",
     "wrong": [
       "Vimos muchas mascotas: perros, gatos y conejos.",
       "Compramos muchos animales: vacas, cerdos y gallinas.",
       "Vimos muchos peces en la granja."
     ],
-    "explanation": "'Animales salvajes'は'野生動物'を意味します。'Vimos'（私たちは見た）は'ver'の過去時制です。自然保護区には野生動物がいて、飼い慣らされた動物ではありません。"
+    "explanation": "'Animales salvajes' significa 'animali selvatici'. 'Vimos' (abbiamo visto) è il passato di 'ver'. Nelle riserve naturali ci sono animali selvatici, non domestici.",
+    "hint": null
   },
   "q_vocab_a2_11_001": {
-    "question": "人物の身体について'alto'はどういう意味ですか？",
-    "correct": "背が高い",
+    "question": "Che cosa significa 'alto' quando si descrive una persona?",
+    "correct": "alto",
     "wrong": [
-      "背が低い",
-      "痩せている",
-      "強い"
+      "basso",
+      "magro",
+      "forte"
     ],
-    "explanation": "'Alto'は人物を説明する時'背が高い'を意味します。反対は'bajo'（背が低い）です。"
+    "explanation": "'Alto' significa 'alto' quando si descrive una persona. Il contrario è 'bajo' (basso).",
+    "hint": null
   },
   "q_vocab_a2_11_002": {
-    "question": "'delgado'の意味は？",
-    "correct": "痩せている",
+    "question": "Che cosa significa 'delgado'?",
+    "correct": "magro/snello",
     "wrong": [
-      "背が高い",
-      "太っている",
-      "強い"
+      "alto",
+      "grasso",
+      "forte"
     ],
-    "explanation": "'Delgado'は'痩せている'または'細い'を意味します。反対は'gordo'（太っている）です。より丁寧な代替案は'corpulento'です。"
+    "explanation": "'Delgado' significa 'magro' o 'snello'. Il contrario è 'gordo' (grasso). Un'alternativa più educata è 'corpulento'.",
+    "hint": null
   },
   "q_vocab_a2_11_003": {
     "question": "Mi hermana tiene el pelo ___ y rubio.",
@@ -1027,87 +1129,96 @@
       "rizado",
       "moreno"
     ],
-    "explanation": "'Largo'は'長い'を意味します。'Pelo largo y rubio'は'長くて金色の髪'を意味します。"
+    "explanation": "'Largo' significa 'lungo'. 'Pelo largo y rubio' significa 'capelli lunghi e biondi'.",
+    "hint": null
   },
   "q_vocab_a2_11_004": {
-    "question": "'Tiene el pelo rizado'の'rizado'の意味は？",
-    "correct": "カーリー",
+    "question": "Che cosa significa 'rizado' in 'Tiene el pelo rizado'?",
+    "correct": "riccio",
     "wrong": [
-      "ストレート",
-      "短い",
-      "黒い"
+      "liscio",
+      "corto",
+      "scuro"
     ],
-    "explanation": "'Rizado'は'カーリー'を意味します。反対は'liso'（ストレート）です。文は'彼/彼女がカーリーヘアを持っている'という意味です。"
+    "explanation": "'Rizado' significa 'riccio'. Il contrario è 'liso' (liscio). La frase significa 'Ha i capelli ricci.'",
+    "hint": null
   },
   "q_vocab_a2_11_005": {
-    "question": "'Tu novio es muy guapo'の'guapo'の意味は？",
-    "correct": "ハンサムな",
+    "question": "Che cosa significa 'guapo' in 'Tu novio es muy guapo'?",
+    "correct": "bello/di bell'aspetto",
     "wrong": [
-      "背が高い",
-      "面白い",
-      "親切"
+      "alto",
+      "divertente",
+      "gentile"
     ],
-    "explanation": "'Guapo'は'ハンサムな'または'見栄えのよい'を意味します。女性形は'guapa'です。文は'彼氏はとてもハンサムです'という意味です。"
+    "explanation": "'Guapo' significa 'bello' o 'di bell'aspetto'. Il femminile è 'guapa'. La frase significa 'Il tuo ragazzo è molto bello.'",
+    "hint": null
   },
   "q_vocab_a2_11_006": {
-    "question": "彼女は茶色い目を持っていて、眼鏡をかけています。",
+    "question": "Ha gli occhi marroni e porta gli occhiali.",
     "correct": "Ella tiene los ojos marrones y lleva gafas.",
     "wrong": [
       "Ella tiene los ojos azules y lleva gafas.",
       "Ella tiene los ojos marrones y lleva barba.",
       "Ella tiene el pelo marrón y lleva gafas."
     ],
-    "explanation": "'Ojos marrones'は'茶色の目'を意味します。'Llevar gafas'は'眼鏡をかけている'を意味します。Attenzione：'llevar'はアクセサリーの着用に使用されます。"
+    "explanation": "'Ojos marrones' significa 'occhi marroni'. 'Llevar gafas' significa 'portare gli occhiali'. Nota: 'llevar' si usa per indossare gli accessori.",
+    "hint": null
   },
   "q_vocab_a2_11_007": {
-    "question": "'Mi padre tiene barba'の'barba'の意味は？",
-    "correct": "ひげ",
+    "question": "Che cosa significa 'barba' in 'Mi padre tiene barba'?",
+    "correct": "barba",
     "wrong": [
-      "口ひげ",
-      "眼鏡",
-      "帽子"
+      "baffi",
+      "occhiali",
+      "cappello"
     ],
-    "explanation": "'Barba'は'ひげ'を意味します。'Bigote'は'口ひげ'を意味します。文は'私の父はひげを持っています'という意味です。"
+    "explanation": "'Barba' significa 'barba'. 'Bigote' significa 'baffi'. La frase significa 'Mio padre ha la barba.'",
+    "hint": null
   },
   "q_vocab_a2_11_008": {
     "question": "Es una chica alta y delgada con el pelo moreno y liso.",
-    "correct": "Es una chica alta y delgada con el pelo moreno y liso.",
+    "correct": "È una ragazza alta e magra con i capelli scuri e lisci.",
     "wrong": [
-      "Es una chica baja y delgada con el pelo moreno y rizado.",
-      "Es una chica alta y delgada con el pelo rubio y liso.",
-      "Es una chica alta y gorda con el pelo moreno y liso."
+      "È una ragazza bassa e magra con i capelli scuri e ricci.",
+      "È una ragazza alta e magra con i capelli biondi e lisci.",
+      "È una ragazza alta e robusta con i capelli scuri e lisci."
     ],
-    "explanation": "'Moreno'は髪の色'黒い'と'liso'は'ストレート'を意味します。'Alta y delgada'と一緒に、これは完全な物理的な説明です。"
+    "explanation": "'Moreno' significa 'scuro' (colore dei capelli) e 'liso' significa 'liscio'. Insieme a 'alta y delgada', questa è una descrizione fisica completa.",
+    "hint": null
   },
   "q_vocab_a2_11_009": {
-    "question": "警察官があなたに誰かについて説明させます。その人は赤いカーリーヘアのショートでした。何と言いますか？",
+    "question": "Un agente di polizia ti chiede di descrivere una persona che hai visto. Era bassa, con i capelli rossi e ricci. Che cosa dici?",
     "correct": "Era bajo, con el pelo pelirrojo y rizado.",
     "wrong": [
       "Era alto, con el pelo rubio y liso.",
       "Era gordo, con el pelo moreno y largo.",
       "Era delgado, con los ojos azules y gafas."
     ],
-    "explanation": "'Bajo'は'背が低い'を意味します。'Pelirrojo'は'赤毛'で、'rizado'は'カーリー'です。'Era'は説明の過去時制（ser）です。"
+    "explanation": "'Bajo' significa 'basso' (altezza). 'Pelirrojo' significa 'dai capelli rossi' e 'rizado' significa 'riccio'. 'Era' è il passato di 'ser' usato per le descrizioni.",
+    "hint": null
   },
   "q_vocab_a2_11_010": {
-    "question": "友人を空港で迎えます。初めて会う人です。彼らはあなたをどのように認識するか尋ねます。何と言いますか？",
+    "question": "Stai andando a prendere un amico all'aeroporto che non hai mai incontrato. Ti chiede come riconoscerti. Che cosa dici?",
     "correct": "Soy alto, con pelo rubio corto y llevo gafas.",
     "wrong": [
       "Soy bajo, con pelo moreno largo y llevo barba.",
       "Soy delgado, con ojos verdes y llevo sombrero.",
       "Soy gordo, con pelo rizado y llevo chaqueta roja."
     ],
-    "explanation": "自分を説明する場合、永続的な特性に'soy'（I am）を使用し、眼鏡のようなアクセサリーに'llevo'（I wear）を使用します。"
+    "explanation": "Quando descrivi te stesso, usa 'soy' (sono) per le caratteristiche permanenti e 'llevo' (porto/indosso) per gli accessori come gli occhiali.",
+    "hint": null
   },
   "q_vocab_a2_12_001": {
-    "question": "'simpático'の意味は？",
-    "correct": "友好的な",
+    "question": "Che cosa significa 'simpático'?",
+    "correct": "simpatico/cordiale",
     "wrong": [
-      "面白い",
-      "内気な",
-      "真面目な"
+      "divertente",
+      "timido",
+      "serio"
     ],
-    "explanation": "'Simpático'は'いい'または'友好的な'を意味します。反対は'antipático'（不親切）です。Attenzione：これは英語の'sympathetic'と異なります。"
+    "explanation": "'Simpático' significa 'simpatico' o 'cordiale'. Il contrario è 'antipático' (antipatico). Attenzione: in inglese 'sympathetic' è un falso amico.",
+    "hint": null
   },
   "q_vocab_a2_12_002": {
     "question": "Mi compañero de clase es muy ___. Siempre me ayuda con los deberes.",
@@ -1117,107 +1228,118 @@
       "tímido",
       "celoso"
     ],
-    "explanation": "'Amable'は'親切'を意味します。文は'私のクラスメートはとても親切です。彼はいつも宿題を手伝ってくれます'という意味です。"
+    "explanation": "'Amable' significa 'gentile'. La frase significa 'Il mio compagno di classe è molto gentile. Mi aiuta sempre con i compiti.'",
+    "hint": null
   },
   "q_vocab_a2_12_003": {
-    "question": "'tímido'の意味は？",
-    "correct": "内気な",
+    "question": "Che cosa significa 'tímido'?",
+    "correct": "timido",
     "wrong": [
-      "大胆な",
-      "怠け者",
-      "真面目な"
+      "audace",
+      "pigro",
+      "serio"
     ],
-    "explanation": "'Tímido'は'内気な'を意味します。内気な人は社交場面で困難があります。"
+    "explanation": "'Tímido' significa 'timido'. Una persona timida ha difficoltà nelle situazioni sociali.",
+    "hint": null
   },
   "q_vocab_a2_12_004": {
-    "question": "'perezoso'の意味は？",
-    "correct": "怠け者",
+    "question": "Che cosa significa 'perezoso'?",
+    "correct": "pigro",
     "wrong": [
-      "勤勉な",
-      "辛抱強い",
-      "寛大な"
+      "laborioso",
+      "paziente",
+      "generoso"
     ],
-    "explanation": "'Perezoso'は'怠け者'を意味します。同義語は'vago'です。反対は'trabajador'（勤勉）です。"
+    "explanation": "'Perezoso' significa 'pigro'. Un sinonimo è 'vago'. Il contrario è 'trabajador' (lavoratore, laborioso).",
+    "hint": null
   },
   "q_vocab_a2_12_005": {
-    "question": "私の兄はとても勤勉で忍耐強いです。",
+    "question": "Mio fratello è molto laborioso e paziente.",
     "correct": "Mi hermano es muy trabajador y paciente.",
     "wrong": [
       "Mi hermano es muy vago y paciente.",
       "Mi hermano es muy trabajador y celoso.",
       "Mi hermano es muy serio y impaciente."
     ],
-    "explanation": "'Trabajador'は'勤勉'で、'paciente'は'忍耐強い'です。これらはポジティブな性格特性です。"
+    "explanation": "'Trabajador' significa 'laborioso' e 'paciente' significa 'paziente'. Sono due qualità positive del carattere.",
+    "hint": null
   },
   "q_vocab_a2_12_006": {
-    "question": "'Mi abuela es muy generosa con todos'の'generoso'の意味は？",
-    "correct": "寛大な",
+    "question": "Che cosa significa 'generoso' in 'Mi abuela es muy generosa con todos'?",
+    "correct": "generoso",
     "wrong": [
-      "厳しい",
-      "忍耐強い",
-      "陽気な"
+      "severo",
+      "paziente",
+      "allegro"
     ],
-    "explanation": "'Generoso/a'は'寛大な'を意味します。文は'私の祖母は誰もに対して非常に寛大です'という意味です。"
+    "explanation": "'Generoso/a' significa 'generoso'. La frase significa 'Mia nonna è molto generosa con tutti.'",
+    "hint": null
   },
   "q_vocab_a2_12_007": {
-    "question": "友人は常に人々を笑わせています。彼らをどう説明しますか？",
+    "question": "Il tuo amico fa sempre ridere tutti. Come lo descriveresti?",
     "correct": "Es muy divertido, siempre nos hace reír.",
     "wrong": [
       "Es muy serio, siempre nos hace reír.",
       "Es muy tímido, siempre nos hace reír.",
       "Es muy antipático, siempre nos hace reír."
     ],
-    "explanation": "'Divertido'は'面白い'または'楽しい'を意味します。'Hacer reír'は'笑わせる'を意味します。"
+    "explanation": "'Divertido' significa 'divertente' o 'spassoso'. 'Hacer reír' significa 'far ridere'.",
+    "hint": null
   },
   "q_vocab_a2_12_008": {
-    "question": "'Siempre soy optimista sobre el futuro'の'optimista'の意味は？",
-    "correct": "楽観的",
+    "question": "Che cosa significa 'optimista' in 'Siempre soy optimista sobre el futuro'?",
+    "correct": "ottimista",
     "wrong": [
-      "悲観的",
-      "現実的",
-      "無関心"
+      "pessimista",
+      "realista",
+      "indifferente"
     ],
-    "explanation": "'Optimista'は'楽観的'を意味します。反対は'pesimista'です。文は'私は常に未来について楽観的です'という意味です。"
+    "explanation": "'Optimista' significa 'ottimista'. Il contrario è 'pesimista'. La frase significa 'Sono sempre ottimista riguardo al futuro.'",
+    "hint": null
   },
   "q_vocab_a2_12_009": {
     "question": "Ella es muy celosa y siempre quiere saber dónde está su novio.",
-    "correct": "Ella es muy celosa y siempre quiere saber dónde está su novio.",
+    "correct": "Lei è molto gelosa e vuole sempre sapere dove si trova il suo ragazzo.",
     "wrong": [
-      "Ella es muy amable y siempre quiere saber dónde está su novio.",
-      "Ella es muy tímida y siempre quiere saber dónde está su novio.",
-      "Ella es muy generosa y siempre quiere saber dónde está su novio."
+      "Lei è molto gentile e vuole sempre sapere dove si trova il suo ragazzo.",
+      "Lei è molto timida e vuole sempre sapere dove si trova il suo ragazzo.",
+      "Lei è molto generosa e vuole sempre sapere dove si trova il suo ragazzo."
     ],
-    "explanation": "'Celoso/a'は'嫉妬深い'を意味します。これは関係で不安全または支配的な人を説明しています。"
+    "explanation": "'Celoso/a' significa 'geloso/a'. Descrive una persona che si sente insicura o possessiva in una relazione.",
+    "hint": null
   },
   "q_vocab_a2_12_010": {
-    "question": "友人があなたの理想的なパートナーの性格を説明するように頼みます。親切さとユーモアのセンスが重要です。何と言いますか？",
+    "question": "Un amico ti chiede di descrivere la personalità del tuo partner ideale. Per te contano la gentilezza e il senso dell'umorismo. Cosa rispondi?",
     "correct": "Para mí, lo más importante es que sea amable y divertido.",
     "wrong": [
       "Para mí, lo más importante es que sea serio y trabajador.",
       "Para mí, lo más importante es que sea tímido y paciente.",
       "Para mí, lo más importante es que sea generoso y optimista."
     ],
-    "explanation": "'Amable'は'親切'で、'divertido'は'面白い'です。'Lo más importante'は'最もimportanteな事'です。'Sea'は'ser'の接続法です。"
+    "explanation": "'Amable' significa 'gentile' e 'divertido' significa 'divertente'. 'Lo más importante' significa 'la cosa più importante'. 'Sea' è il congiuntivo di 'ser'.",
+    "hint": null
   },
   "q_vocab_a2_13_001": {
-    "question": "'mensaje'の意味は？",
-    "correct": "メッセージ",
+    "question": "Che cosa significa 'mensaje'?",
+    "correct": "messaggio",
     "wrong": [
-      "手紙",
-      "封筒",
-      "切手"
+      "lettera",
+      "busta",
+      "francobollo"
     ],
-    "explanation": "'Mensaje'は'メッセージ'を意味します。テキストメッセージ（'mensaje de texto'）または電話メッセージ（'recado'）であることができます。"
+    "explanation": "'Mensaje' significa 'messaggio'. Può essere un messaggio di testo ('mensaje de texto') o un messaggio telefonico ('recado').",
+    "hint": null
   },
   "q_vocab_a2_13_002": {
-    "question": "'Mete la carta en el sobre'の'sobre'の意味は？",
-    "correct": "封筒",
+    "question": "Che cosa significa 'sobre' in 'Mete la carta en el sobre'?",
+    "correct": "busta",
     "wrong": [
-      "メールボックス",
-      "切手",
-      "フォルダー"
+      "cassetta della posta",
+      "francobollo",
+      "cartellina"
     ],
-    "explanation": "'Sobre'は'封筒'を意味します。文は'手紙を封筒に入れてください'という意味です。Attenzione：'sobre'は前置詞として'on/about'も意味します。"
+    "explanation": "'Sobre' significa 'busta'. La frase significa 'Metti la lettera nella busta.' Attenzione: 'sobre' come preposizione significa anche 'sopra/su'.",
+    "hint": null
   },
   "q_vocab_a2_13_003": {
     "question": "Necesito comprar un ___ para enviar esta carta.",
@@ -1227,87 +1349,96 @@
       "sobre",
       "recado"
     ],
-    "explanation": "'Sello'は'切手'（郵便切手）を意味します。スペインでは郵便局またはタバコ店（'estanco'）で切手が買えます。"
+    "explanation": "'Sello' significa 'francobollo'. In Spagna i francobolli ('sellos') si comprano negli uffici postali o nei tabaccai ('estancos').",
+    "hint": null
   },
   "q_vocab_a2_13_004": {
-    "question": "電話での会話の中で'colgar'はどういう意味ですか？",
-    "correct": "電話を切る",
+    "question": "Che cosa significa 'colgar' in una conversazione telefonica?",
+    "correct": "riattaccare",
     "wrong": [
-      "電話をかける",
-      "電話に出る",
-      "ダイアルする"
+      "chiamare",
+      "rispondere",
+      "comporre il numero"
     ],
-    "explanation": "'Colgar'は'電話を切る'を意味します。反対の動作は'llamar'（呼び出す）と'contestar'（答える）です。"
+    "explanation": "'Colgar' significa 'riattaccare' il telefono. Le azioni opposte sono 'llamar' (chiamare) e 'contestar' (rispondere).",
+    "hint": null
   },
   "q_vocab_a2_13_005": {
-    "question": "'Te dejé un recado en el contestador'の'recado'の意味は？",
-    "correct": "メッセージ（電話メッセージ）",
+    "question": "Che cosa significa 'recado' in 'Te dejé un recado en el contestador'?",
+    "correct": "messaggio (messaggio telefonico)",
     "wrong": [
-      "手紙",
-      "留守番電話機",
-      "電話番号"
+      "lettera",
+      "segreteria telefonica",
+      "numero di telefono"
     ],
-    "explanation": "'Recado'は誰かのために残されたメッセージ、特に電話メッセージを意味します。文は'あなたの留守番電話にメッセージを残しました'という意味です。"
+    "explanation": "'Recado' indica un messaggio lasciato a qualcuno, soprattutto telefonico. La frase significa 'Ti ho lasciato un messaggio in segreteria.'",
+    "hint": null
   },
   "q_vocab_a2_13_006": {
-    "question": "親愛なるマリア、パーティーにあなたを招待するために手紙を書いています。",
+    "question": "Cara María, ti scrivo per invitarti alla mia festa.",
     "correct": "Querida María, te escribo para invitarte a mi fiesta.",
     "wrong": [
       "Atentamente María, te escribo para invitarte a mi fiesta.",
       "Hola María, te llamo para invitarte a mi fiesta.",
       "Estimada María, te contesto para invitarte a mi fiesta."
     ],
-    "explanation": "'Querida'は'Dear'（女性形）を意味し、カジュアルな手紙で使用されます。'Te escribo para'は'あなたに書いて'を意味します。"
+    "explanation": "'Querida' significa 'Cara' (femminile) e si usa nelle lettere informali. 'Te escribo para' significa 'ti scrivo per'.",
+    "hint": null
   },
   "q_vocab_a2_13_007": {
-    "question": "'¿Por qué no contestas el teléfono?'の'contestar'の意味は？",
-    "correct": "応答する",
+    "question": "Che cosa significa 'contestar' in '¿Por qué no contestas el teléfono?'?",
+    "correct": "rispondere",
     "wrong": [
-      "呼び出す",
-      "切る",
-      "ダイアルする"
+      "chiamare",
+      "riattaccare",
+      "comporre il numero"
     ],
-    "explanation": "'Contestar'は'応答する'を意味します。文は'なぜ電話に出ないのですか？'という意味です。呼び出し、質問、またはメッセージに答えることを指すことができます。"
+    "explanation": "'Contestar' significa 'rispondere'. La frase significa 'Perché non rispondi al telefono?' Può riferirsi a rispondere a chiamate, domande o messaggi.",
+    "hint": null
   },
   "q_vocab_a2_13_008": {
     "question": "Escribí 'Atentamente' al final de la carta formal.",
-    "correct": "Escribí 'Atentamente' al final de la carta formal.",
+    "correct": "Ho scritto 'Cordiali saluti' alla fine della lettera formale.",
     "wrong": [
-      "Escribí 'Querida' al final de la carta formal.",
-      "Escribí 'Un saludo' al final de la carta formal.",
-      "Escribí 'Adiós' al final de la carta formal."
+      "Ho scritto 'Caro' alla fine della lettera formale.",
+      "Ho scritto 'Con i migliori auguri' alla fine della lettera formale.",
+      "Ho scritto 'Arrivederci' alla fine della lettera formale."
     ],
-    "explanation": "'Atentamente'は'Sincerely'または'Yours faithfully'を意味します。これはスペイン語のフォーマルな手紙の標準的なクロージングです。"
+    "explanation": "'Atentamente' significa 'Cordiali saluti' o 'Distinti saluti'. È la formula di chiusura standard delle lettere formali in spagnolo.",
+    "hint": null
   },
   "q_vocab_a2_13_009": {
-    "question": "あなたの電話が鳴り、あなたはそれに答えます。スペインで電話に応答するための一般的な方法は何ですか？",
+    "question": "Il tuo telefono squilla e rispondi. Qual è un modo comune di rispondere al telefono in Spagna?",
     "correct": "¿Diga?",
     "wrong": [
       "¿Quién eres?",
       "¡Hola, soy yo!",
       "¿Qué quieres?"
     ],
-    "explanation": "'¿Diga?'はスペインでの電話応答の標準的な方法です。メキシコでは、'¿Bueno?'が代わりに使用されます。"
+    "explanation": "'¿Diga?' è il modo standard di rispondere al telefono in Spagna. In Messico si usa invece '¿Bueno?'.",
+    "hint": null
   },
   "q_vocab_a2_13_010": {
-    "question": "別の国の友人に手紙を送る必要があります。郵便局に行きます。何と言いますか？",
+    "question": "Devi spedire una lettera a un amico in un altro paese. Vai all'ufficio postale. Cosa dici?",
     "correct": "Quiero enviar esta carta al extranjero. ¿Cuánto cuesta el sello?",
     "wrong": [
       "Quiero llamar a mi amigo en el extranjero. ¿Cuánto cuesta?",
       "Quiero comprar un buzón para el extranjero. ¿Dónde está?",
       "Quiero contestar esta carta del extranjero. ¿Tiene un sobre?"
     ],
-    "explanation": "'Enviar'は'送信する'を意味します。'Al extranjero'は'海外へ'を意味します。郵便を送るには'sello'（切手）が必要です。"
+    "explanation": "'Enviar' significa 'spedire'. 'Al extranjero' significa 'all'estero'. Per spedire la posta serve un 'sello' (francobollo).",
+    "hint": null
   },
   "q_vocab_a2_14_001": {
-    "question": "'cajero automático'の意味は？",
-    "correct": "ATM",
+    "question": "Che cosa significa 'cajero automático'?",
+    "correct": "bancomat / sportello automatico",
     "wrong": [
-      "銀行員",
-      "レジ",
-      "金庫"
+      "cassiere di banca",
+      "registratore di cassa",
+      "cassaforte"
     ],
-    "explanation": "'Cajero automático'は'ATM'または'現金機'を意味します。'Sacar'（引き出す）お金に使用します。"
+    "explanation": "'Cajero automático' significa 'bancomat' o 'sportello automatico'. Lo si usa per prelevare ('sacar') denaro.",
+    "hint": null
   },
   "q_vocab_a2_14_002": {
     "question": "Necesito ___ dinero del cajero automático.",
@@ -1317,107 +1448,118 @@
       "firmar",
       "ingresar"
     ],
-    "explanation": "'Sacar dinero'は'お金を引き出す'を意味します。'Retirar'は同義語です。文は'ATMからお金を引き出す必要がある'という意味です。"
+    "explanation": "'Sacar dinero' significa 'prelevare denaro'. 'Retirar' è un sinonimo. La frase significa 'Devo prelevare dei soldi al bancomat.'",
+    "hint": null
   },
   "q_vocab_a2_14_003": {
-    "question": "'cuenta bancaria'の意味は？",
-    "correct": "銀行口座",
+    "question": "Che cosa significa 'cuenta bancaria'?",
+    "correct": "conto bancario",
     "wrong": [
-      "銀行カード",
-      "銀行ローン",
-      "銀行支店"
+      "carta bancaria",
+      "prestito bancario",
+      "filiale bancaria"
     ],
-    "explanation": "'Cuenta bancaria'は'銀行口座'を意味します。'Abrir una cuenta'は'口座を開く'を意味します。"
+    "explanation": "'Cuenta bancaria' significa 'conto bancario'. 'Abrir una cuenta' significa 'aprire un conto'.",
+    "hint": null
   },
   "q_vocab_a2_14_004": {
-    "question": "'Hice una transferencia de 200 euros'の'transferencia'の意味は？",
-    "correct": "銀行振込",
+    "question": "Che cosa significa 'transferencia' in 'Hice una transferencia de 200 euros'?",
+    "correct": "bonifico bancario",
     "wrong": [
-      "出金",
-      "入金",
-      "支払い"
+      "prelievo",
+      "deposito",
+      "pagamento"
     ],
-    "explanation": "'Transferencia'は'銀行振込'を意味します。文は'200ユーロの振込をしました'という意味です。"
+    "explanation": "'Transferencia' significa 'bonifico bancario'. La frase significa 'Ho fatto un bonifico di 200 euro.'",
+    "hint": null
   },
   "q_vocab_a2_14_005": {
-    "question": "自分のアカウントにお金を預けたいです。",
+    "question": "Voglio versare dei soldi sul mio conto.",
     "correct": "Quiero ingresar dinero en mi cuenta.",
     "wrong": [
       "Quiero sacar dinero de mi cuenta.",
       "Quiero enviar dinero a mi cuenta.",
       "Quiero firmar dinero en mi cuenta."
     ],
-    "explanation": "'Ingresar'は'入金する'を意味します。'Depositar'もラテンアメリカでよく使用されます。反対は'sacar/retirar'（引き出す）です。"
+    "explanation": "'Ingresar' significa 'versare' denaro. Si usa anche 'Depositar', soprattutto in America Latina. Il contrario è 'sacar/retirar' (prelevare).",
+    "hint": null
   },
   "q_vocab_a2_14_006": {
-    "question": "'Diríjase a la ventanilla número tres'の'ventanilla'の意味は？",
-    "correct": "サービスウィンドウ",
+    "question": "Che cosa significa 'ventanilla' in 'Diríjase a la ventanilla número tres'?",
+    "correct": "sportello",
     "wrong": [
-      "入口",
-      "出口",
-      "待機エリア"
+      "entrata",
+      "uscita",
+      "sala d'attesa"
     ],
-    "explanation": "'Ventanilla'は銀行または郵便局の'サービスウィンドウ'または'カウンター'を意味します。文は'3番のウィンドウに行ってください'という意味です。"
+    "explanation": "'Ventanilla' significa 'sportello' in una banca o in un ufficio postale. La frase significa 'Si rivolga allo sportello numero tre.'",
+    "hint": null
   },
   "q_vocab_a2_14_007": {
-    "question": "郵便局にいて、家族にパッケージを送りたいです。何と言いますか？",
+    "question": "Sei all'ufficio postale e vuoi spedire un pacco alla tua famiglia. Che cosa dici?",
     "correct": "Quiero enviar este paquete a esta dirección, por favor.",
     "wrong": [
       "Quiero sacar este paquete de esta dirección, por favor.",
       "Quiero firmar este paquete en esta dirección, por favor.",
       "Quiero ingresar este paquete en esta dirección, por favor."
     ],
-    "explanation": "'Enviar un paquete'は'パッケージを送信する'を意味します。'Dirección'は'住所'を意味します。"
+    "explanation": "'Enviar un paquete' significa 'spedire un pacco'. 'Dirección' significa 'indirizzo'.",
+    "hint": null
   },
   "q_vocab_a2_14_008": {
-    "question": "'Tiene que firmar aquí, por favor'の'firmar'の意味は？",
-    "correct": "署名する",
+    "question": "Che cosa significa 'firmar' in 'Tiene que firmar aquí, por favor'?",
+    "correct": "firmare",
     "wrong": [
-      "書く",
-      "記入する",
-      "スタンプ"
+      "scrivere",
+      "compilare",
+      "timbrare"
     ],
-    "explanation": "'Firmar'は'署名する'を意味します。文は'ここに署名してください'という意味です。'La firma'は'署名'という名詞です。"
+    "explanation": "'Firmar' significa 'firmare'. La frase significa 'Deve firmare qui, per favore.' 'La firma' è il sostantivo e significa 'firma'.",
+    "hint": null
   },
   "q_vocab_a2_14_009": {
     "question": "Por favor, rellene este formulario con sus datos personales.",
-    "correct": "Por favor, rellene este formulario con sus datos personales.",
+    "correct": "Compili questo modulo con i suoi dati personali, per favore.",
     "wrong": [
-      "Por favor, firme este formulario con sus datos personales.",
-      "Por favor, envíe este formulario con sus datos personales.",
-      "Por favor, lea este formulario con sus datos personales."
+      "Firmi questo modulo con i suoi dati personali, per favore.",
+      "Spedisca questo modulo con i suoi dati personali, per favore.",
+      "Legga questo modulo con i suoi dati personali, per favore."
     ],
-    "explanation": "'Rellenar un formulario'は'フォームに記入する'を意味します。'Datos personales'は'個人情報'を意味します。"
+    "explanation": "'Rellenar un formulario' significa 'compilare un modulo'. 'Datos personales' significa 'dati personali'.",
+    "hint": null
   },
   "q_vocab_a2_14_010": {
-    "question": "銀行にいて、新しい口座を開きたいです。銀行員に何と言いますか？",
+    "question": "Sei in banca e vuoi aprire un nuovo conto. Che cosa dici all'impiegato?",
     "correct": "Buenos días, quiero abrir una cuenta bancaria.",
     "wrong": [
       "Buenos días, quiero cerrar una cuenta bancaria.",
       "Buenos días, quiero sacar dinero de una cuenta.",
       "Buenos días, quiero enviar una transferencia."
     ],
-    "explanation": "'Abrir una cuenta'は'口座を開く'を意味します。'Cerrar'は'閉じる'を意味します。これは銀行業務の最初のステップです。"
+    "explanation": "'Abrir una cuenta' significa 'aprire un conto'. 'Cerrar' significherebbe 'chiudere'. È il primo passo per operare con una banca.",
+    "hint": null
   },
   "q_vocab_a2_15_001": {
-    "question": "'película'の意味は？",
-    "correct": "映画",
+    "question": "Che cosa significa 'película'?",
+    "correct": "film",
     "wrong": [
-      "劇",
-      "歌",
-      "ショー"
+      "spettacolo teatrale",
+      "canzone",
+      "spettacolo"
     ],
-    "explanation": "'Película'は'映画'または'フィルム'を意味します。'Cine'（映画館）で'película'を見ます。"
+    "explanation": "'Película' significa 'film'. Si guarda una 'película' al 'cine' (cinema).",
+    "hint": null
   },
   "q_vocab_a2_15_002": {
-    "question": "'concierto'の意味は？",
-    "correct": "コンサート",
+    "question": "Che cosa significa 'concierto'?",
+    "correct": "concerto",
     "wrong": [
-      "演劇",
-      "映画館",
-      "祭り"
+      "teatro",
+      "cinema",
+      "festival"
     ],
-    "explanation": "'Concierto'は'コンサート'を意味します。これはライブ音楽公演です。"
+    "explanation": "'Concierto' significa 'concerto'. È un'esibizione musicale dal vivo.",
+    "hint": null
   },
   "q_vocab_a2_15_003": {
     "question": "Ayer fui al ___ a ver una obra de teatro muy divertida.",
@@ -1427,76 +1569,84 @@
       "concierto",
       "museo"
     ],
-    "explanation": "'Teatro'は'劇場'を意味します。'Obra de teatro'は'劇'です。文は'昨日、劇場で非常に楽しい劇を見に行きました'という意味です。"
+    "explanation": "'Teatro' significa 'teatro'. Una 'obra de teatro' è una 'commedia/opera teatrale'. La frase significa 'Ieri sono andato a teatro a vedere uno spettacolo molto divertente.'",
+    "hint": null
   },
   "q_vocab_a2_15_004": {
-    "question": "'Fuimos a ver la exposición de arte moderno'の'exposición'の意味は？",
-    "correct": "展示",
+    "question": "Che cosa significa 'exposición' in 'Fuimos a ver la exposición de arte moderno'?",
+    "correct": "mostra",
     "wrong": [
-      "コレクション",
-      "彫刻",
-      "絵画"
+      "collezione",
+      "scultura",
+      "dipinto"
     ],
-    "explanation": "'Exposición'は'展示'を意味します。文は'私たちは近代美術展を見に行きました'という意味です。"
+    "explanation": "'Exposición' significa 'mostra'. La frase significa 'Siamo andati a vedere la mostra di arte moderna.'",
+    "hint": null
   },
   "q_vocab_a2_15_005": {
-    "question": "'Nos divertimos mucho en la fiesta'の'divertirse'の意味は？",
-    "correct": "楽しむ",
+    "question": "Che cosa significa 'divertirse' in 'Nos divertimos mucho en la fiesta'?",
+    "correct": "divertirsi",
     "wrong": [
-      "退屈する",
-      "迷う",
-      "疲れる"
+      "annoiarsi",
+      "perdersi",
+      "stancarsi"
     ],
-    "explanation": "'Divertirse'は'楽しむ'を意味します。これは再帰動詞です。文は'私たちはパーティーで非常に楽しい時間を過ごしました'という意味です。"
+    "explanation": "'Divertirse' significa 'divertirsi'. È un verbo riflessivo. La frase significa 'Ci siamo divertiti molto alla festa.'",
+    "hint": null
   },
   "q_vocab_a2_15_006": {
-    "question": "私の余暇時間は映画館に行くのが好きです。",
+    "question": "Nel tempo libero mi piace andare al cinema.",
     "correct": "En mi tiempo libre me gusta ir al cine.",
     "wrong": [
       "En mi tiempo libre me gusta ir al trabajo.",
       "En mi tiempo libre me gusta ir al banco.",
       "En mi tiempo libre me gusta ir al hospital."
     ],
-    "explanation": "'Tiempo libre'は'余暇時間'を意味します。'Cine'は'映画館'を意味します。'Ir al cine'は一般的な余暇活動です。"
+    "explanation": "'Tiempo libre' significa 'tempo libero'. 'Cine' significa 'cinema'. 'Ir al cine' è un'attività di svago molto comune.",
+    "hint": null
   },
   "q_vocab_a2_15_007": {
-    "question": "'Me aburro cuando no tengo nada que hacer'の'aburrirse'の意味は？",
-    "correct": "退屈する",
+    "question": "Che cosa significa 'aburrirse' in 'Me aburro cuando no tengo nada que hacer'?",
+    "correct": "annoiarsi",
     "wrong": [
-      "楽しむ",
-      "リラックスする",
-      "怒る"
+      "divertirsi",
+      "rilassarsi",
+      "arrabbiarsi"
     ],
-    "explanation": "'Aburrirse'は'退屈する'を意味します。'Divertirse'（楽しむ）の反対です。文は'何もやることがないときは退屈します'という意味です。"
+    "explanation": "'Aburrirse' significa 'annoiarsi'. È il contrario di 'divertirse' (divertirsi). La frase significa 'Mi annoio quando non ho niente da fare.'",
+    "hint": null
   },
   "q_vocab_a2_15_008": {
     "question": "Ayer vimos una película de terror y lo pasamos muy mal.",
-    "correct": "Ayer vimos una película de terror y lo pasamos muy mal.",
+    "correct": "Ieri abbiamo visto un film dell'orrore e siamo stati malissimo.",
     "wrong": [
-      "Ayer vimos una película de comedia y lo pasamos muy bien.",
-      "Ayer vimos una película de terror y lo pasamos muy bien.",
-      "Ayer vimos una película de acción y lo pasamos muy mal."
+      "Ieri abbiamo visto una commedia e ci siamo divertiti moltissimo.",
+      "Ieri abbiamo visto un film dell'orrore e ci siamo divertiti moltissimo.",
+      "Ieri abbiamo visto un film d'azione e siamo stati malissimo."
     ],
-    "explanation": "'Película de terror'は'ホラー映画'を意味します。'Pasarlo mal'は'悪い時間を過ごす'を意味します。反対は'pasarlo bien'です。"
+    "explanation": "'Película de terror' significa 'film dell'orrore'. 'Pasarlo mal' significa 'passare un brutto momento'. Il contrario è 'pasarlo bien'.",
+    "hint": null
   },
   "q_vocab_a2_15_009": {
-    "question": "友人がこの週末にコンサートに行くことを勧めます。熱心に受け入れたいです。何と言いますか？",
+    "question": "Un tuo amico propone di andare a un concerto questo fine settimana. Vuoi accettare con entusiasmo. Che cosa dici?",
     "correct": "¡Genial! Me encanta la música en vivo. ¡Vamos!",
     "wrong": [
       "¡Qué aburrido! No me gusta la música. Prefiero quedarme en casa.",
       "Bueno, vale, pero prefiero ir al cine.",
       "No sé, los conciertos son muy caros."
     ],
-    "explanation": "'¡Genial!'は'Great!'を意味します。'Música en vivo'は'ライブミュージック'を意味します。'¡Vamos!'は'Let's go!'です。"
+    "explanation": "'¡Genial!' significa 'Fantastico!'. 'Música en vivo' significa 'musica dal vivo'. '¡Vamos!' significa 'Andiamo!'",
+    "hint": null
   },
   "q_vocab_a2_15_010": {
-    "question": "友人と楽しい活動をした素晴らしい週末を過ごしました。月曜日に同僚にそれについて話したいです。何と言いますか？",
+    "question": "Hai passato un fine settimana fantastico facendo attività divertenti con gli amici e lunedì vuoi raccontarlo a un collega. Che cosa dici?",
     "correct": "Lo pasamos genial: fuimos al cine, a un concierto y a una exposición.",
     "wrong": [
       "Lo pasamos mal: fuimos al médico, al banco y a la oficina.",
       "Nos aburrimos mucho: nos quedamos en casa todo el fin de semana.",
       "No hicimos nada especial: solo trabajamos y estudiamos."
     ],
-    "explanation": "'Pasarlo genial'は'素晴らしい時間を過ごす'を意味します。余暇活動('cine'、'concierto'、'exposición')を列挙することで、楽しい週末を表現します。"
+    "explanation": "'Pasarlo genial' significa 'divertirsi un mondo'. Elencare attività di svago ('cine', 'concierto', 'exposición') mostra un fine settimana divertente.",
+    "hint": null
   }
 }

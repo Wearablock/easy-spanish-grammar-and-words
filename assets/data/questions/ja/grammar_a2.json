@@ -38,14 +38,14 @@
     "explanation_ja": "Querer changes e→ie in the ellos form: quieren. The boot pattern applies to all forms except nosotros/vosotros."
   },
   "q_gram_a2_01_003": {
-    "question": "〜は何を 'ブートパターン(語幹変化パターン)' 意味する 〜で この 文脈 〜の スペイン語 語幹-changing 動詞?",
-    "correct": "The stem change applies to all forms except nosotros and vosotros",
+    "question": "スペイン語の語幹母音変化動詞でいう「ブーツ型(boot pattern)」とはどういう意味ですか?",
+    "correct": "語幹の変化が nosotros と vosotros 以外のすべての活用形で起こる",
     "wrong": [
-      "The stem change applies only to the yo form",
-      "The stem change applies to all six conjugation forms",
-      "The stem change only happens in the past tense"
+      "語幹の変化が yo の形だけで起こる",
+      "語幹の変化が6つの活用形すべてで起こる",
+      "語幹の変化が過去形でのみ起こる"
     ],
-    "explanation": "この 'ブートパターン(語幹変化パターン)' (または 'シューパターン(語幹変化パターン)') 〜を意味する この 語幹変化 起こる 〜で yo, tú, él/ella, そして ellos/ellas 形, しかし NOT 〜で nosotros または vosotros.",
+    "explanation": "「ブーツ型」(または「靴型」)とは、語幹の変化が yo、tú、él/ella、ellos/ellas の形で起こり、nosotros と vosotros では起こらないことを指します。",
     "question_ja": "What does 'boot pattern' mean in the context of Spanish stem-changing verbs?",
     "correct_ja": "The stem change applies to all forms except nosotros and vosotros",
     "wrong_ja": [
@@ -53,7 +53,8 @@
       "The stem change applies to all six conjugation forms",
       "The stem change only happens in the past tense"
     ],
-    "explanation_ja": "The 'boot pattern' (or 'shoe pattern') means the stem change occurs in yo, tú, él/ella, and ellos/ellas forms, but NOT in nosotros or vosotros."
+    "explanation_ja": "The 'boot pattern' (or 'shoe pattern') means the stem change occurs in yo, tú, él/ella, and ellos/ellas forms, but NOT in nosotros or vosotros.",
+    "hint": null
   },
   "q_gram_a2_01_004": {
     "question": "Nosotros ___ la lección.",
@@ -2414,14 +2415,14 @@
     "conjugation_info": "Comparatives: más + adj + que (more...than), menos + adj + que (less...than), tan + adj + como (as...as)"
   },
   "q_gram_a2_14_002": {
-    "question": "Este libro es ___ interesante ___ el otro. (comparative: less...than)",
+    "question": "Este libro es ___ interesante ___ el otro. (比較級:〜ほど…ない)",
     "correct": "menos, que",
     "wrong": [
       "más, que",
       "tan, como",
       "menos, como"
     ],
-    "explanation": "'Less...than' = 'menos...que': menos interesante que.",
+    "explanation": "「〜より…でない」は 'menos...que' で表します:menos interesante que。",
     "question_ja": "Este libro es ___ interesante ___ el otro. (comparative: less...than)",
     "correct_ja": "menos, que",
     "wrong_ja": [
@@ -2429,7 +2430,8 @@
       "tan, como",
       "menos, como"
     ],
-    "explanation_ja": "'Less...than' = 'menos...que': menos interesante que."
+    "explanation_ja": "'Less...than' = 'menos...que': menos interesante que.",
+    "hint": null
   },
   "q_gram_a2_14_003": {
     "question": "Mi hermano es ___ alto ___ yo. (comparative: as tall as)",
@@ -3205,14 +3207,14 @@
     "explanation_ja": "In Spanish, double negatives are standard: No tengo nada (I don't have nothing = I have nothing). When the negative word comes before the verb, 'no' is dropped."
   },
   "q_gram_a2_18_005": {
-    "question": "No me gusta ___ el fútbol ___ el baloncesto. (neither...nor)",
+    "question": "No me gusta ___ el fútbol ___ el baloncesto. (〜も…も〜ない)",
     "correct": "ni, ni",
     "wrong": [
       "no, no",
       "nunca, nunca",
       "nada, nada"
     ],
-    "explanation": "'Ni...ni' = 'neither...nor'. No me gusta ni el fútbol ni el baloncesto.",
+    "explanation": "'Ni...ni' は「〜も…も〜ない」という意味です。No me gusta ni el fútbol ni el baloncesto.(サッカーもバスケットボールも好きではありません。)",
     "question_ja": "No me gusta ___ el fútbol ___ el baloncesto. (neither...nor)",
     "correct_ja": "ni, ni",
     "wrong_ja": [
@@ -3221,7 +3223,8 @@
       "nada, nada"
     ],
     "explanation_ja": "'Ni...ni' = 'neither...nor'. No me gusta ni el fútbol ni el baloncesto.",
-    "conjugation_info": "ni...ni = neither...nor. Example: No quiero ni café ni té. / Ni café ni té quiero."
+    "conjugation_info": "ni...ni = neither...nor. Example: No quiero ni café ni té. / Ni café ni té quiero.",
+    "hint": null
   },
   "q_gram_a2_18_006": {
     "question": "Yo no quiero ir al cine. — Yo ___ quiero ir. (否定: neither/me neither)",

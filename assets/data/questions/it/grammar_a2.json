@@ -7,8 +7,8 @@
       "pensar",
       "piensas"
     ],
-    "explanation": "Pensar è an e→ie verbo con alternanza vocalica. In il/la forma yo, il/la e cambia in ie: pienso.",
-    "hint": "Il/la radice vowel e cambia in ie in tutti forms except nosotros/vosotros"
+    "explanation": "Pensar è un verbo con dittongazione e→ie. Alla forma di yo, la e diventa ie: pienso.",
+    "hint": "La vocale della radice e diventa ie in tutte le forme tranne nosotros/vosotros"
   },
   "q_gram_a2_01_002": {
     "question": "Ellos ___ ir al cine esta noche. (querer, e→ie)",
@@ -21,14 +21,15 @@
     "explanation": "Querer changes e→ie in il/la ellos form: quieren. Il/la boot pattern applies a tutti forms except nosotros/vosotros."
   },
   "q_gram_a2_01_003": {
-    "question": "Cosa does 'boot pattern' significare in il/la context di Spagnolo radice-changing verbs?",
-    "correct": "The stem change applies to all forms except nosotros and vosotros",
+    "question": "Che cosa significa 'boot pattern' (schema a stivale) nei verbi spagnoli con cambio vocalico?",
+    "correct": "Il cambio vocalico riguarda tutte le forme tranne nosotros e vosotros",
     "wrong": [
-      "The stem change applies only to the yo form",
-      "The stem change applies to all six conjugation forms",
-      "The stem change only happens in the past tense"
+      "Il cambio vocalico riguarda solo la forma di yo",
+      "Il cambio vocalico riguarda tutte e sei le forme della coniugazione",
+      "Il cambio vocalico avviene solo al passato"
     ],
-    "explanation": "Il/la 'boot pattern' (o 'shoe pattern') significa il/la radice change occurs in yo, tú, él/ella, e ellos/ellas forms, ma NOT in nosotros o vosotros."
+    "explanation": "Lo 'schema a stivale' (o 'a scarpa') significa che il cambio della radice avviene nelle forme yo, tú, él/ella e ellos/ellas, ma NON in nosotros e vosotros.",
+    "hint": null
   },
   "q_gram_a2_01_004": {
     "question": "Nosotros ___ la lección. (entender, e→ie, forma nosotros)",
@@ -73,14 +74,15 @@
     "explanation": "Empezar changes e→ie in il/la ellas form: empiezan. Questo follows il/la boot pattern."
   },
   "q_gram_a2_01_008": {
-    "question": "I think about my future ogni day.",
+    "question": "Penso al mio futuro ogni giorno.",
     "correct": "Pienso en mi futuro todos los días.",
     "wrong": [
       "Penso en mi futuro todos los días.",
       "Pienso a mi futuro todos los días.",
       "Piensas en mi futuro todos los días."
     ],
-    "explanation": "Pensar cambia in pienso in il/la forma yo (e→ie). 'Pensar en' significa 'a think about' -- il/la preposition 'en' è obbligatorio."
+    "explanation": "Pensar diventa pienso alla forma di yo (e→ie). 'Pensar en' significa 'pensare a': la preposizione 'en' è obbligatoria.",
+    "hint": null
   },
   "q_gram_a2_01_009": {
     "question": "Vosotros ___ la situación perfectamente. (entender, e→ie, forma vosotros)",
@@ -183,7 +185,8 @@
       "jugamos",
       "juegamos"
     ],
-    "explanation": "Jugar changes u→ue in il/la ellos form: juegan. Esso è il/la solo u→ue verbo in spagnolo."
+    "explanation": "Jugar cambia u→ue alla forma di ellos: juegan. È l'unico verbo con u→ue in spagnolo.",
+    "hint": null
   },
   "q_gram_a2_02_009": {
     "question": "Yo cuento el dinero y después vuelvo a casa.",
@@ -256,8 +259,8 @@
       "eligir",
       "elijo"
     ],
-    "explanation": "Elegir changes e→i in il/la ella form: elige. Nota che in il/la forma yo esso è 'elijo' (g→j prima o).",
-    "hint": "In il/la ella form, il/la g è kept poiché esso precedes e"
+    "explanation": "Elegir cambia e→i alla forma di ella: elige. Nota che alla forma di yo è 'elijo' (g→j davanti a o).",
+    "hint": "Alla forma di ella la g resta perché precede la e"
   },
   "q_gram_a2_03_006": {
     "question": "Yo ___ las instrucciones del mapa. (seguir, e→i, forma yo)",
@@ -881,15 +884,16 @@
     "explanation": "Regolare -er passato remoto per tú termina in -iste: bebiste."
   },
   "q_gram_a2_09_006": {
-    "question": "Los estudiantes ___ mucho para el examen. (estudiar, passato remoto, ellos form)",
+    "question": "Los estudiantes ___ mucho para el examen. (estudiar, passato remoto, forma di ellos)",
     "correct": "estudiaron",
     "wrong": [
       "estudian",
       "estudiaban",
       "estudiarón"
     ],
-    "explanation": "Regolare -ar passato remoto per ellos termina in -aron: estudiaron. Note: no accent on -aron.",
-    "conjugation_info": "-ar preterite: -é, -aste, -ó, -amos, -asteis, -aron"
+    "explanation": "Il pretérito regolare dei verbi in -ar per ellos termina in -aron: estudiaron. Nota: nessun accento su -aron.",
+    "conjugation_info": "-ar preterite: -é, -aste, -ó, -amos, -asteis, -aron",
+    "hint": null
   },
   "q_gram_a2_09_007": {
     "question": "Vosotros ___ en un restaurante italiano la semana pasada. (comer, passato remoto)",
@@ -1067,15 +1071,16 @@
     "explanation": "Il/la imperfetto si usa per habitual/repeated past actions, physical/emotional descriptions, age, tempo, e background settings."
   },
   "q_gram_a2_11_004": {
-    "question": "Nosotros ___ en una casa grande. (vivir, imperfetto, forma nosotros)",
+    "question": "Nosotros ___ en una casa grande. (vivir, imperfecto, forma nosotros)",
     "correct": "vivíamos",
     "wrong": [
       "vivimos",
       "vivímos",
       "vivábamos"
     ],
-    "explanation": "Regolare -ir imperfetto per nosotros termina in -íamos: vivíamos. Note il/la accent on il/la í.",
-    "conjugation_info": "-er/-ir imperfect: -ía, -ías, -ía, -íamos, -íais, -ían"
+    "explanation": "L'imperfecto regolare in -ir per nosotros termina in -íamos: vivíamos. Nota l'accento sulla í.",
+    "conjugation_info": "-er/-ir imperfect: -ía, -ías, -ía, -íamos, -íais, -ían",
+    "hint": null
   },
   "q_gram_a2_11_005": {
     "question": "De joven, ella ___ mucho café. (beber, imperfetto)",
@@ -1161,14 +1166,15 @@
     "explanation": "Ir è irregolare in il/la imperfetto. Nosotros: íbamos."
   },
   "q_gram_a2_12_003": {
-    "question": "Mi abuelo ___ la televisión todas las tardes. (ver, imperfetto)",
+    "question": "Mi abuelo ___ la televisión todas las tardes. (ver, imperfecto)",
     "correct": "veía",
     "wrong": [
       "vía",
       "vió",
       "veia"
     ],
-    "explanation": "Ver è irregolare in il/la imperfetto: veía (not 'vía'). Note il/la accent on il/la í."
+    "explanation": "Ver è irregolare all'imperfecto: veía (non 'vía'). Nota l'accento sulla í.",
+    "hint": null
   },
   "q_gram_a2_12_004": {
     "question": "Come molti verbs sono irregolare in il/la Spagnolo imperfetto tense?",
@@ -1886,14 +1892,15 @@
     "explanation": "'Que' significa 'chi' quando referring a persone as il soggetto di il/la relative clause."
   },
   "q_gram_a2_19_003": {
-    "question": "Come does 'que' differ da Inglese 'quello/quale/chi' in relative clauses?",
-    "correct": "In Spanish, 'que' can never be omitted, unlike English",
+    "question": "In che cosa 'que' si differenzia dall'inglese 'that/which/who' nelle frasi relative?",
+    "correct": "In spagnolo 'que' non può mai essere omesso, a differenza dell'inglese",
     "wrong": [
-      "In Spanish, 'que' is optional just like in English",
-      "In Spanish, 'que' is only used with people",
-      "In Spanish, 'que' changes form based on gender"
+      "In spagnolo 'que' è facoltativo proprio come in inglese",
+      "In spagnolo 'que' si usa solo con le persone",
+      "In spagnolo 'que' cambia forma in base al genere"
     ],
-    "explanation": "In inglese, puoi say 'Il/la book I read' (omitting 'quello'). In spagnolo, 'que' è Sempre required: El libro que leo."
+    "explanation": "In inglese si può dire 'The book I read' (omettendo 'that'). In spagnolo 'que' è SEMPRE obbligatorio: El libro que leo.",
+    "hint": null
   },
   "q_gram_a2_19_004": {
     "question": "La casa en ___ vivo es pequeña. (que con preposition)",

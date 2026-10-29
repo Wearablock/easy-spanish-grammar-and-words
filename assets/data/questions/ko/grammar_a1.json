@@ -97,14 +97,15 @@
     "conjugation_info": "la foto (fotografia), la moto (motocicleta), la radio (radiodifusion)"
   },
   "q_gram_a1_01_010": {
-    "question": "The hand is cold.",
-    "correct": "손이 차갑다.",
+    "question": "손이 차갑다.",
+    "correct": "La mano está fría.",
     "wrong": [
-      "손이 작다.",
-      "손이 크다.",
-      "손들이 차갑다."
+      "El mano está frío.",
+      "La mano es fría.",
+      "Las manos están frías."
     ],
-    "explanation": "'mano'는 -o로 끝나지만 여성 명사입니다 (핵심 예외).\n일시적으로 차가운 상태이므로 'esta'를 사용합니다.\n- la mano fria (여성형 형용사 일치)"
+    "explanation": "'mano'는 -o로 끝나지만 여성 명사입니다(대표적인 예외).\n추위를 느끼는 것은 일시적인 상태이므로 'está'를 씁니다.\n- la mano fría (여성 형용사 일치)",
+    "hint": null
   },
   "q_gram_a1_02_001": {
     "question": "Voy ___ parque. (a + el을 넣으세요)",
@@ -193,14 +194,15 @@
     "hint": "반복되는 요일에는 복수 관사를 사용합니다"
   },
   "q_gram_a1_02_009": {
-    "question": "Cats are independent.",
-    "correct": "고양이들은 독립적이다.",
+    "question": "고양이는 독립적이다.",
+    "correct": "Los gatos son independientes.",
     "wrong": [
-      "고양이들은 작다.",
-      "개들은 독립적이다.",
-      "고양이 한 마리가 독립적이다."
+      "Gatos son independientes.",
+      "Unos gatos son independientes.",
+      "Las gatas son independientes."
     ],
-    "explanation": "스페인어에서 일반적인 진술에는 정관사가 필요합니다.\n- Los gatos son independientes. (고양이 일반)\n영어는 일반 진술에서 'the'를 생략하지만, 스페인어는 반드시 사용합니다."
+    "explanation": "스페인어에서는 일반적인 진술에 정관사가 필요합니다.\n- Los gatos son independientes. (고양이라는 동물 전반)\n영어는 일반적인 진술에서 'the'를 생략하지만, 스페인어는 반드시 씁니다.",
+    "hint": null
   },
   "q_gram_a1_02_010": {
     "question": "Vamos ___ escuela. (a + la를 넣으세요)",
@@ -311,14 +313,15 @@
     "conjugation_info": "부정관사 (첫 언급/불특정): un/una/unos/unas. 정관사 (알려진/특정): el/la/los/las."
   },
   "q_gram_a1_03_010": {
-    "question": "There are some books on the table.",
-    "correct": "탁자 위에 책 몇 권이 있다.",
+    "question": "탁자 위에 책이 몇 권 있다.",
+    "correct": "Hay unos libros en la mesa.",
     "wrong": [
-      "탁자 위에 그 책들이 있다.",
-      "탁자 위에 책 한 권이 있다.",
-      "의자 위에 책 몇 권이 있다."
+      "Hay los libros en la mesa.",
+      "Hay un libros en la mesa.",
+      "Están unos libros en la mesa."
     ],
-    "explanation": "'unos libros' = '책 몇 권' (남성 복수 부정관사).\n존재를 나타낼 때 'hay'를 사용하고, 불특정 항목에는 부정관사를 씁니다.\n- Hay unos libros. (존재, 불특정)"
+    "explanation": "'몇 권의 책' = 'unos libros'(남성 복수 부정관사)입니다.\n존재를 나타낼 때는 'hay'를 쓰고, 특정하지 않은 대상에는 부정관사를 씁니다.\n- Hay unos libros. (존재, 불특정)",
+    "hint": null
   },
   "q_gram_a1_04_001": {
     "question": "___ hablamos español. (주어 대명사를 넣으세요)",
@@ -525,14 +528,15 @@
     "conjugation_info": "ser - 현재형: soy, eres, es, somos, sois, son"
   },
   "q_gram_a1_05_010": {
-    "question": "It is one o'clock.",
-    "correct": "1시이다.",
+    "question": "한 시입니다.",
+    "correct": "Es la una.",
     "wrong": [
-      "2시이다.",
-      "3시이다.",
-      "하나가 있다."
+      "Son la una.",
+      "Es las una.",
+      "Son las una."
     ],
-    "explanation": "1시에는 'Es la una' (단수)를 사용합니다.\n다른 모든 시간에는 'Son las + 숫자'를 사용합니다.\n- Es la una. (1시) vs Son las dos. (2시)"
+    "explanation": "1시는 단수인 'Es la una'를 씁니다.\n그 외의 모든 시각은 'Son las + 숫자'를 씁니다.\n- Es la una. (1시) vs Son las dos. (2시)",
+    "hint": null
   },
   "q_gram_a1_06_001": {
     "question": "Yo ___ en casa. (estar 동사 활용)",
@@ -621,14 +625,15 @@
     "hint": "'열려 있다'는 영구적 특성인가요, 변할 수 있는 상태인가요?"
   },
   "q_gram_a1_06_009": {
-    "question": "My brother is sick.",
-    "correct": "내 남동생은 아프다.",
+    "question": "내 형은 아프다.",
+    "correct": "Mi hermano está enfermo.",
     "wrong": [
-      "내 남동생은 피곤하다.",
-      "내 남동생은 의사이다.",
-      "내 남동생들은 아프다."
+      "Mi hermano es enfermo.",
+      "Mi hermano está enfermedad.",
+      "Mis hermanos están enfermos."
     ],
-    "explanation": "아픈 것은 일시적 상태이므로 estar를 사용합니다.\n- estar enfermo = 아프다 (일시적)\nser enfermo를 쓰면 영구적인 상태를 잘못 나타내게 됩니다."
+    "explanation": "아픈 것은 일시적인 상태이므로 estar를 씁니다.\n- estar enfermo = 아프다 (일시적)\n'ser enfermo'를 쓰면 영구적인 상태라는 뜻이 되어 잘못입니다.",
+    "hint": null
   },
   "q_gram_a1_06_010": {
     "question": "¿Dónde ___ tú ahora? (estar 동사 활용)",
@@ -739,14 +744,15 @@
     "conjugation_info": "ser verde = 본래 초록색. estar verde = 덜 익은/준비 안 된."
   },
   "q_gram_a1_07_010": {
-    "question": "The book is on the table.",
-    "correct": "책이 탁자 위에 있다.",
+    "question": "책은 탁자 위에 있다.",
+    "correct": "El libro está en la mesa.",
     "wrong": [
-      "책이 탁자이다.",
-      "책들이 탁자 위에 있다.",
-      "탁자가 책 위에 있다."
+      "El libro es en la mesa.",
+      "El libro está la mesa.",
+      "El libro es la mesa."
     ],
-    "explanation": "estar는 사물의 위치를 나타낼 때 사용합니다.\n- El libro está en la mesa. = 책이 탁자 위에 있다.\n기억하세요: 사물과 사람의 위치에는 항상 estar를 사용합니다."
+    "explanation": "사물의 위치를 말할 때는 estar를 씁니다.\n- El libro está en la mesa. = 책은 탁자 위에 있다.\n기억하세요: 사물과 사람의 위치에는 항상 estar를 씁니다.",
+    "hint": null
   },
   "q_gram_a1_08_001": {
     "question": "La chica es ___. (키가 큰, 여성형)",
@@ -835,14 +841,15 @@
     "hint": "스페인어에서 형용사는 보통 명사 뒤에 옵니다"
   },
   "q_gram_a1_08_009": {
-    "question": "The students are intelligent.",
-    "correct": "학생들은 똑똑하다.",
+    "question": "학생들은 똑똑하다. (남녀 혼성 그룹)",
+    "correct": "Los estudiantes son inteligentes.",
     "wrong": [
-      "학생은 똑똑하다.",
-      "학생들은 게으르다.",
-      "학생들은 피곤하다."
+      "Las estudiantes son inteligentes.",
+      "Los estudiantes son inteligente.",
+      "Los estudiantes es inteligentes."
     ],
-    "explanation": "남녀 혼합 그룹에는 남성 복수형을 사용합니다.\n- los estudiantes = 학생들 (혼합 또는 남성 그룹)\n- 'inteligentes'는 성별에 따라 변하지 않고 수에 따라서만 변합니다.\n혼합 그룹에는 남성 복수가 기본형입니다."
+    "explanation": "남녀가 섞인 그룹에는 남성 복수형을 씁니다.\n- los estudiantes = 학생들 (혼성 또는 남학생만의 그룹)\n- 'inteligentes'는 성에 따라 변하지 않고 수에 따라서만 변합니다.\n혼성 그룹의 기본형은 남성 복수입니다.",
+    "hint": null
   },
   "q_gram_a1_08_010": {
     "question": "Es un ___ día. (나쁜 — 남성 단수 명사 앞 단축형)",
@@ -942,25 +949,27 @@
     "explanation": "-ar 동사의 ella 형태는 -a로 끝납니다.\n- estudiar → estudi + a = estudia\n- 모든 -ar 동사는 같은 패턴을 따릅니다: -o, -as, -a, -amos, -áis, -an."
   },
   "q_gram_a1_09_009": {
-    "question": "Vosotros ___ muy bien. (cantar 동사 활용)",
+    "question": "Vosotros ___ muy bien. (cantar를 활용하세요)",
     "correct": "cantáis",
     "wrong": [
       "cantamos",
       "cantan",
       "cantas"
     ],
-    "explanation": "-ar 동사의 vosotros 형태는 -áis로 끝납니다.\n- cantar → cant + áis = cantáis\n이 형태는 주로 스페인에서 사용됩니다.",
-    "conjugation_info": "cantar - 현재형: canto, cantas, canta, cantamos, cantáis, cantan"
+    "explanation": "-ar 동사의 vosotros 형은 -áis로 끝납니다.\n- cantar → cant + áis = cantáis\n이 형태는 주로 스페인에서 사용됩니다.",
+    "conjugation_info": "cantar - 현재형: canto, cantas, canta, cantamos, cantáis, cantan",
+    "hint": null
   },
   "q_gram_a1_09_010": {
-    "question": "We speak Spanish and English.",
-    "correct": "우리는 스페인어와 영어를 말한다.",
+    "question": "우리는 스페인어와 영어를 말한다.",
+    "correct": "Hablamos español e inglés.",
     "wrong": [
-      "나는 스페인어와 영어를 말한다.",
-      "그들은 스페인어와 영어를 말한다.",
-      "우리는 스페인어를 공부한다."
+      "Hablamos español y inglés.",
+      "Hablan español e inglés.",
+      "Hablo español e inglés."
     ],
-    "explanation": "'i-' 또는 'hi-'로 시작하는 단어 앞에서 'y'(그리고)는 'e'로 바뀝니다.\n- español e inglés (*español y inglés가 아님)\n이것은 'ee' 소리의 반복을 피하기 위한 음운 규칙입니다."
+    "explanation": "'i-' 또는 'hi-'로 시작하는 단어 앞에서는 'y'(그리고)가 'e'로 바뀝니다.\n- español e inglés (*español y inglés가 아님)\n'이' 소리가 반복되는 것을 피하기 위한 발음상의 규칙입니다.",
+    "hint": null
   },
   "q_gram_a1_10_001": {
     "question": "Yo ___ en Madrid. (vivir 동사 활용)",
@@ -1049,14 +1058,15 @@
     "hint": "-ir 동사의 vosotros 어미에는 악센트가 있습니다"
   },
   "q_gram_a1_10_009": {
-    "question": "She reads the newspaper every morning.",
-    "correct": "그녀는 매일 아침 신문을 읽는다.",
+    "question": "그녀는 매일 아침 신문을 읽는다.",
+    "correct": "Ella lee el periódico cada mañana.",
     "wrong": [
-      "그는 매일 아침 신문을 읽는다.",
-      "그녀는 매일 저녁 신문을 읽는다.",
-      "그녀들은 매일 아침 신문을 읽는다."
+      "Ella lees el periódico cada mañana.",
+      "Ella leen el periódico cada mañana.",
+      "Ella leo el periódico cada mañana."
     ],
-    "explanation": "-er 동사의 ella 형태는 -e로 끝납니다.\n- leer → le + e = lee\nleer의 3인칭에서 'e'가 두 번 나오는 lee가 맞습니다."
+    "explanation": "-er 동사의 ella 형은 -e로 끝납니다.\n- leer → le + e = lee\nlee에서 'e'가 두 번 나오는 것에 주의하세요. leer의 3인칭에서는 이것이 맞습니다.",
+    "hint": null
   },
   "q_gram_a1_10_010": {
     "question": "Nosotros ___ en un piso. (vivir 동사 활용)",
@@ -1167,14 +1177,15 @@
     "conjugation_info": "Hay 부정문: No hay nada (아무것도 없다), No hay nadie (아무도 없다), No hay ningún... (~이 하나도 없다)"
   },
   "q_gram_a1_11_010": {
-    "question": "There is a park in my city.",
-    "correct": "우리 도시에 공원이 있다.",
+    "question": "우리 도시에는 공원이 하나 있다.",
+    "correct": "Hay un parque en mi ciudad.",
     "wrong": [
-      "그 공원은 우리 도시에 있다.",
-      "우리 도시는 공원이다.",
-      "공원들이 우리 도시에 있다."
+      "El parque está en mi ciudad.",
+      "Es un parque en mi ciudad.",
+      "Están un parque en mi ciudad."
     ],
-    "explanation": "처음 언급하는 것(존재)을 나타내려면 'hay'를 사용합니다.\n- Hay un parque = 공원이 하나 있다 (처음 언급, 불특정).\n이후 그 공원에 대해 구체적으로 말하면: El parque está cerca."
+    "explanation": "무언가를 처음 소개할 때(존재)는 'hay'를 씁니다.\n- Hay un parque = 공원이 하나 있다 (처음 언급, 불특정).\n그다음 그 공원을 구체적으로 말할 때는: El parque está cerca.",
+    "hint": null
   },
   "q_gram_a1_12_001": {
     "question": "___ hermana se llama Ana. (여성 명사에 대해 '나의'를 채우세요)",
@@ -1381,14 +1392,15 @@
     "conjugation_info": "este (남성 단수), esta (여성 단수), estos (남성 복수), estas (여성 복수) — 가까운 거리"
   },
   "q_gram_a1_13_010": {
-    "question": "That house over there is very old.",
-    "correct": "저 집은 매우 오래되었다.",
+    "question": "저기 저 집은 매우 오래되었다.",
+    "correct": "Aquella casa es muy vieja.",
     "wrong": [
-      "그 집은 매우 오래되었다.",
-      "이 집은 매우 오래되었다.",
-      "저 집은 매우 새것이다."
+      "Esa casa es muy vieja.",
+      "Esta casa es muy vieja.",
+      "Aquel casa es muy viejo."
     ],
-    "explanation": "'aquella'는 가장 먼 거리를 나타냅니다: aquel/aquella.\n- aquella casa = 저 집 (둘 다에게서 먼)\n'casa'는 여성이므로 'aquella'(aquel이 아님)를 사용합니다."
+    "explanation": "'저기'는 가장 먼 거리 단계인 aquel/aquella를 나타냅니다.\n- aquella casa = 저기 저 집 (두 사람 모두에게서 먼 곳)\n'casa'는 여성 명사이므로 aquel이 아니라 'aquella'를 씁니다.",
+    "hint": null
   },
   "q_gram_a1_14_001": {
     "question": "Vivo ___ Madrid. ('~에서/~에'를 나타내는 전치사를 채우세요)",
@@ -1477,14 +1489,15 @@
     "hint": "'de'는 소유나 소속을 나타냅니다"
   },
   "q_gram_a1_14_009": {
-    "question": "I am at the bank.",
-    "correct": "나는 은행에 있다.",
+    "question": "나는 은행에 있다.",
+    "correct": "Estoy en el banco.",
     "wrong": [
-      "나는 은행으로 간다.",
-      "나는 은행에서 왔다.",
-      "나는 은행이다."
+      "Estoy a el banco.",
+      "Estoy de el banco.",
+      "Soy en el banco."
     ],
-    "explanation": "'en'은 estar와 함께 장소에 있다는 것을 나타냅니다.\n- Estoy en el banco. = 나는 은행에 있다.\n위치는 ser가 아닌 estar + en을 사용합니다."
+    "explanation": "어떤 장소에 있다고 말할 때는 (estar와 함께) 'en'을 씁니다.\n- Estoy en el banco. = 나는 은행에 있다.\n위치는 ser가 아니라 estar + en을 씁니다.",
+    "hint": null
   },
   "q_gram_a1_14_010": {
     "question": "Vengo ___ trabajo. (나는 직장에서 온다. — de + el)",
@@ -1595,25 +1608,27 @@
     "conjugation_info": "¿Cuánto cuesta? (가격), ¿Cuántos libros? (셀 수 있는 남성), ¿Cuántas personas? (셀 수 있는 여성)"
   },
   "q_gram_a1_15_010": {
-    "question": "Where is the bathroom?",
-    "correct": "화장실은 어디에 있나요?",
+    "question": "화장실은 어디예요?",
+    "correct": "¿Dónde está el baño?",
     "wrong": [
-      "화장실은 무엇인가요?",
-      "화장실은 어떤가요?",
-      "화장실은 언제 열리나요?"
+      "¿Dónde es el baño?",
+      "¿Cuál está el baño?",
+      "¿Cómo está el baño?"
     ],
-    "explanation": "'Dónde' + estar는 위치를 물을 때 사용합니다.\n- ¿Dónde está el baño? = 화장실은 어디에 있나요?\n특정한 것의 위치는 항상 ser가 아닌 estar를 사용합니다."
+    "explanation": "위치를 물을 때는 'Dónde' + estar를 씁니다.\n- ¿Dónde está el baño? = 화장실은 어디예요?\n특정 사물의 위치에는 ser가 아니라 항상 estar를 씁니다.",
+    "hint": null
   },
   "q_gram_a1_16_001": {
-    "question": "Yo ___ español. (I do not speak Spanish.) (use the correct negation)",
+    "question": "Yo ___ español. (저는 스페인어를 못합니다.) (알맞은 부정 표현을 쓰세요)",
     "correct": "no hablo",
     "wrong": [
       "hablo no",
       "nada hablo",
       "nunca hablo"
     ],
-    "explanation": "스페인어에서 문장을 부정하려면 동사 바로 앞에 'no'를 놓습니다.\n- Hablo español. → No hablo español.\n'no'는 항상 활용된 동사 앞에 옵니다.",
-    "conjugation_info": "부정문: 주어 + no + 동사. Yo no hablo. Ella no come. Ellos no viven."
+    "explanation": "스페인어에서 문장을 부정하려면 'no'를 동사 바로 앞에 둡니다.\n- Hablo español. → No hablo español.\n'no'는 항상 활용된 동사 앞에 옵니다.",
+    "conjugation_info": "부정문: 주어 + no + 동사. Yo no hablo. Ella no come. Ellos no viven.",
+    "hint": null
   },
   "q_gram_a1_16_002": {
     "question": "___ tengo nada.",
@@ -1648,15 +1663,16 @@
     "explanation": "'nunca'는 '결코 ~않다'라는 뜻입니다. 동사 앞이나 뒤에 놓을 수 있습니다:\n- Nunca como carne. = 나는 절대 고기를 안 먹는다.\n- No como carne nunca. = 나는 고기를 절대 먹지 않는다. (이중 부정)"
   },
   "q_gram_a1_16_005": {
-    "question": "No quiero café, y ella ___ quiere café. (use the word for 'neither')",
+    "question": "No quiero café, y ella ___ quiere café. ('~도 아니다'에 해당하는 단어를 쓰세요)",
     "correct": "tampoco",
     "wrong": [
       "también",
       "nunca",
       "nada"
     ],
-    "explanation": "'tampoco'는 '~도 아니다/역시 않다'라는 뜻입니다 — 'también'(~도)의 부정형입니다.\n- Yo no quiero. Ella tampoco quiere. = 나는 원하지 않는다. 그녀도 원하지 않는다.",
-    "conjugation_info": "también (~도/역시) → tampoco (~도 아니다/역시 않다)"
+    "explanation": "'tampoco'는 '~도 아니다'라는 뜻으로, 'también'(~도)의 부정형입니다.\n- Yo no quiero. Ella tampoco quiere. = 나는 원하지 않아요. 그녀도 원하지 않아요.",
+    "conjugation_info": "también (~도/역시) → tampoco (~도 아니다/역시 않다)",
+    "hint": null
   },
   "q_gram_a1_16_006": {
     "question": "___ llueve aquí.",
@@ -1691,14 +1707,15 @@
     "hint": "사람을 가리키는 부정어는?"
   },
   "q_gram_a1_16_009": {
-    "question": "Nothing is perfect.",
-    "correct": "아무것도 완벽하지 않다.",
+    "question": "완벽한 것은 아무것도 없다.",
+    "correct": "Nada es perfecto.",
     "wrong": [
-      "완벽하지 않은 것은 없다.",
-      "완벽하지 않은 것도 있다.",
-      "아무도 완벽하지 않다."
+      "No nada es perfecto.",
+      "No es perfecto nada.",
+      "Nadie es perfecto."
     ],
-    "explanation": "'nada'가 동사 앞에 오면 'no'가 필요 없습니다.\n- Nada es perfecto. = 아무것도 완벽하지 않다.\n- 'nadie'를 쓰면 '아무도 완벽하지 않다'가 됩니다 (다른 의미)."
+    "explanation": "'nada'가 동사 앞에 오면 'no'가 필요 없습니다.\n- Nada es perfecto. = 완벽한 것은 아무것도 없다.\n- 'nadie'는 '완벽한 사람은 아무도 없다'라는 뜻입니다(의미가 다릅니다).",
+    "hint": null
   },
   "q_gram_a1_16_010": {
     "question": "Yo no como carne ___. (I never eat meat.)",
@@ -1809,14 +1826,15 @@
     "conjugation_info": "me (yo), te (tú), le (él/ella/usted), nos (nosotros), os (vosotros), les (ellos/ustedes)"
   },
   "q_gram_a1_17_010": {
-    "question": "I really love chocolate.",
-    "correct": "나는 초콜릿을 정말 좋아한다.",
+    "question": "나는 초콜릿을 정말 좋아한다.",
+    "correct": "Me encanta el chocolate.",
     "wrong": [
-      "나는 초콜릿을 좋아하지 않는다.",
-      "그는 초콜릿을 좋아한다.",
-      "나는 초콜릿을 먹는다."
+      "Me gustan el chocolate.",
+      "Me encanto el chocolate.",
+      "Yo encanto el chocolate."
     ],
-    "explanation": "'encantar'는 'gustar'와 같은 구조이지만 '매우 좋아하다/사랑하다'라는 뜻입니다.\n- Me encanta el chocolate. = 나는 초콜릿을 정말 좋아한다.\n같은 구조: 간접목적어 대명사 + encanta/encantan + 주어."
+    "explanation": "'encantar'는 'gustar'와 똑같이 쓰이지만 '매우 좋아하다/사랑하다'라는 뜻입니다.\n- Me encanta el chocolate. = 나는 초콜릿을 아주 좋아한다.\n구조도 같습니다: 간접목적어 대명사 + encanta/encantan + 주어.",
+    "hint": null
   },
   "q_gram_a1_18_001": {
     "question": "Yo ___ un hermano. (활용 tener)",
@@ -1905,25 +1923,27 @@
     "hint": "ella = tener의 3인칭 단수"
   },
   "q_gram_a1_18_009": {
-    "question": "She is 30 years old.",
-    "correct": "그녀는 30살이다.",
+    "question": "그녀는 서른 살이다.",
+    "correct": "Ella tiene treinta años.",
     "wrong": [
-      "그녀는 30개를 가지고 있다.",
-      "그녀는 30번째이다.",
-      "그는 30살이다."
+      "Ella es treinta años.",
+      "Ella está treinta años.",
+      "Ella tiene treinta año."
     ],
-    "explanation": "나이 표현은 tener + 숫자 + años를 사용합니다 (ser나 estar가 아닌).\n- Tiene treinta años. = 그녀는 30살이다.\n- ¿Cuántos años tienes? = 너는 몇 살이니?"
+    "explanation": "나이는 ser나 estar가 아니라 tener + 숫자 + años로 말합니다.\n- Tiene treinta años. = 그녀는 서른 살이다.\n- ¿Cuántos años tienes? = 몇 살이에요?",
+    "hint": null
   },
   "q_gram_a1_18_010": {
-    "question": "Ellos ___ prisa. (They are in a hurry.) (활용 tener)",
+    "question": "Ellos ___ prisa. (그들은 서두르고 있습니다.) (tener를 활용하세요)",
     "correct": "tienen",
     "wrong": [
       "tiene",
       "tenemos",
       "tenéis"
     ],
-    "explanation": "'tener prisa' = 급하다/서두르다 (직역: 서두름을 가지다).\n- Ellos tienen prisa. = 그들은 급하다.\ntener의 ellos 형태는 'tienen'입니다 (불규칙 어간: tien-).",
-    "conjugation_info": "tener - 현재형: tengo, tienes, tiene, tenemos, tenéis, tienen"
+    "explanation": "'tener prisa' = 서두르다 (직역: 급함을 가지다).\n- Ellos tienen prisa. = 그들은 서두르고 있다.\ntener의 ellos 형은 'tienen'입니다(불규칙 어간: tien-).",
+    "conjugation_info": "tener - 현재형: tengo, tienes, tiene, tenemos, tenéis, tienen",
+    "hint": null
   },
   "q_gram_a1_19_001": {
     "question": "Yo ___ a la escuela.",
@@ -2023,14 +2043,15 @@
     "conjugation_info": "ir - 현재형: voy, vas, va, vamos, vais, van"
   },
   "q_gram_a1_19_010": {
-    "question": "I go to the supermarket.",
-    "correct": "나는 슈퍼마켓에 간다.",
+    "question": "나는 슈퍼마켓에 간다.",
+    "correct": "Voy al supermercado.",
     "wrong": [
-      "나는 슈퍼마켓에 있다.",
-      "우리는 슈퍼마켓에 간다.",
-      "나는 슈퍼마켓에서 산다."
+      "Voy a el supermercado.",
+      "Voy en el supermercado.",
+      "Voy el supermercado."
     ],
-    "explanation": "ir + a + el은 ir + al로 축약됩니다.\n- Voy al supermercado. (a + el = al)\n축약형 'al'은 필수입니다. 'a el'은 틀린 표현입니다."
+    "explanation": "ir + a + el은 ir + al로 축약됩니다.\n- Voy al supermercado. (a + el = al)\n축약형 'al'은 필수이며, 'a el'은 틀린 표현입니다.",
+    "hint": null
   },
   "q_gram_a1_20_001": {
     "question": "¿Cuánto cuesta? — Cuesta ___ euros. (15)",
@@ -2076,15 +2097,16 @@
     "explanation": "'cincuenta' = 50 (오십).\n혼동하지 마세요: cinco (5), quince (15), quinientos (500).\n- 50 = cincuenta, 60 = sesenta, 70 = setenta"
   },
   "q_gram_a1_20_005": {
-    "question": "Cuesta ___ euros. (37) (fill in the correct 수)",
+    "question": "Cuesta ___ euros. (37) (알맞은 숫자를 채우세요)",
     "correct": "treinta y siete",
     "wrong": [
       "treintasiete",
       "treinta siete",
       "trenta y siete"
     ],
-    "explanation": "31~99까지의 숫자는 '십의 자리 + y + 일의 자리' 패턴을 따릅니다 (두/세 단어).\n- 37 = treinta y siete (21~29와 달리 한 단어가 아님)\n- 45 = cuarenta y cinco, 98 = noventa y ocho",
-    "conjugation_info": "31+: treinta y uno, treinta y dos... 40: cuarenta, 50: cincuenta..."
+    "explanation": "31~99까지의 숫자는 십의 자리 + y + 일의 자리 형태입니다(두세 단어).\n- 37 = treinta y siete (21~29처럼 한 단어가 아님)\n- 45 = cuarenta y cinco, 98 = noventa y ocho",
+    "conjugation_info": "31+: treinta y uno, treinta y dos... 40: cuarenta, 50: cincuenta...",
+    "hint": null
   },
   "q_gram_a1_20_006": {
     "question": "Hay ___ personas aquí. (100)",
@@ -2119,14 +2141,15 @@
     "hint": "uno/veintiuno는 남성 명사 앞에서 짧아집니다"
   },
   "q_gram_a1_20_009": {
-    "question": "There are sixty-seven students.",
-    "correct": "학생이 67명 있다.",
+    "question": "학생이 예순일곱 명 있다.",
+    "correct": "Hay sesenta y siete estudiantes.",
     "wrong": [
-      "학생이 76명 있다.",
-      "학생이 60명 있다.",
-      "학생이 57명 있다."
+      "Hay setenta y seis estudiantes.",
+      "Hay sesenta siete estudiantes.",
+      "Hay seisenta y siete estudiantes."
     ],
-    "explanation": "67 = sesenta y siete.\n- sesenta (60) — seisenta가 아님\n- setenta (70) — 참고: sesenta ≠ setenta\n이 두 숫자(60과 70)는 자주 혼동됩니다."
+    "explanation": "67 = sesenta y siete.\n- sesenta (60) — seisenta가 아님\n- setenta (70) — 주의: sesenta ≠ setenta\n이 두 숫자(60과 70)는 자주 헷갈립니다.",
+    "hint": null
   },
   "q_gram_a1_20_010": {
     "question": "Tengo ___ años. (19) (올바른 수 형태로 활용)",
