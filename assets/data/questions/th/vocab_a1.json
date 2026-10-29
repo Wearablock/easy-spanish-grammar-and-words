@@ -102,14 +102,15 @@
     "context": "ออกจาก a เพื่อน's บ้าน at กลางคืน"
   },
   "q_vocab_a1_02_001": {
-    "question": "อะไร does 'madre' หมายถึง?",
+    "question": "'madre' แปลว่าอะไร?",
     "correct": "แม่",
     "wrong": [
       "พ่อ",
       "พี่สาว/น้องสาว",
-      "ย่า/ยาย"
+      "ยาย/ย่า"
     ],
-    "explanation": "'Madre' แปลว่า 'แม่'. inสำหรับmal คำ เป็น 'mamá'."
+    "explanation": "'Madre' แปลว่า 'แม่' คำที่ใช้แบบไม่เป็นทางการคือ 'mamá'",
+    "hint": null
   },
   "q_vocab_a1_02_002": {
     "question": "Mi ___ se llama Carlos. Es el esposo de mi madre.",
@@ -122,24 +123,26 @@
     "explanation": "'Padre' แปลว่า 'พ่อ'. senสิบce says 'My พ่อ เป็น named Carlos. He เป็น สามี ของ my แม่.'"
   },
   "q_vocab_a1_02_003": {
-    "question": "อะไร does 'hermana' หมายถึง?",
+    "question": "'hermana' แปลว่าอะไร?",
     "correct": "พี่สาว/น้องสาว",
     "wrong": [
       "พี่ชาย/น้องชาย",
       "ลูกพี่ลูกน้อง",
       "ป้า/น้า/อา"
     ],
-    "explanation": "'Herผู้ชายa' เป็น เพศหญิง สำหรับm หมายถึง 'พี่สาว/น้องสาว'. เพศชาย สำหรับm 'herผู้ชายo' แปลว่า 'พี่ชาย/น้องชาย'."
+    "explanation": "'Hermana' เป็นรูปเพศหญิง แปลว่า 'พี่สาว/น้องสาว' ส่วนรูปเพศชาย 'hermano' แปลว่า 'พี่ชาย/น้องชาย'",
+    "hint": null
   },
   "q_vocab_a1_02_004": {
-    "question": "อะไร does 'abuelo' หมายถึง?",
+    "question": "'abuelo' แปลว่าอะไร?",
     "correct": "ปู่/ตา",
     "wrong": [
       "ลุง/น้า/อา",
       "พ่อ",
       "ลูกพี่ลูกน้อง"
     ],
-    "explanation": "'Abuelo' แปลว่า 'ปู่/ตา'. 'Abuela' เป็น 'ย่า/ยาย'. Together, 'abuelos' สามารถ หมายความว่า 'grandparents'."
+    "explanation": "'Abuelo' แปลว่า 'ปู่/ตา' ส่วน 'Abuela' คือ 'ย่า/ยาย' และ 'abuelos' เมื่อใช้รวมกันอาจหมายถึง 'ปู่ย่าตายาย'",
+    "hint": null
   },
   "q_vocab_a1_02_005": {
     "question": "My ลุง/น้า/อา lives ใน Madrid.",
@@ -152,35 +155,38 @@
     "explanation": "'Tío' แปลว่า 'ลุง/น้า/อา'. 'Tía' เป็น เพศหญิง สำหรับm หมายถึง 'ป้า/น้า/อา'."
   },
   "q_vocab_a1_02_006": {
-    "question": "อะไร does 'esposa' หมายถึง ใน 'Ella es mi esposa'?",
+    "question": "'esposa' ใน 'Ella es mi esposa' แปลว่าอะไร?",
     "correct": "ภรรยา",
     "wrong": [
-      "girlfriend",
+      "แฟนสาว",
       "เพื่อน",
       "พี่สาว/น้องสาว"
     ],
-    "explanation": "'Esposa' แปลว่า 'ภรรยา'. 'Esposo' แปลว่า 'สามี'. These เป็น สำหรับmal terms สำหรับ a married partner."
+    "explanation": "'Esposa' แปลว่า 'ภรรยา' ส่วน 'Esposo' แปลว่า 'สามี' เป็นคำที่เป็นทางการสำหรับคู่สมรส",
+    "hint": null
   },
   "q_vocab_a1_02_007": {
-    "question": "คุณ want ไปยัง introduce your female เพื่อน ไปยัง someหนึ่ง. Which คำ do คุณ use?",
+    "question": "คุณต้องการแนะนำเพื่อนผู้หญิงของคุณให้ใครสักคนรู้จัก คุณจะใช้คำไหน?",
     "correct": "amiga",
     "wrong": [
       "novia",
       "prima",
       "vecina"
     ],
-    "explanation": "'Amiga' แปลว่า 'female เพื่อน'. Using 'novia' จะ หมายความว่า 'girlfriend' (roผู้ชายtic partner), which เป็น different.",
-    "context": "Introducing a เพื่อน at a party"
+    "explanation": "'Amiga' แปลว่า 'เพื่อนผู้หญิง' การใช้ 'novia' จะหมายถึง 'แฟนสาว' (คู่รัก) ซึ่งมีความหมายต่างออกไป",
+    "context": "Introducing a เพื่อน at a party",
+    "hint": null
   },
   "q_vocab_a1_02_008": {
-    "question": "อะไร does 'primo' หมายถึง ใน 'Mi primo tiene diez años'?",
+    "question": "'primo' ใน 'Mi primo tiene diez años' แปลว่าอะไร?",
     "correct": "ลูกพี่ลูกน้อง",
     "wrong": [
       "พี่ชาย/น้องชาย",
-      "nephew",
-      "son"
+      "หลานชาย",
+      "ลูกชาย"
     ],
-    "explanation": "'Primo' (เพศชาย) แปลว่า 'ลูกพี่ลูกน้อง'. 'Prima' เป็น เพศหญิง สำหรับm. senสิบce แปลว่า 'My ลูกพี่ลูกน้อง เป็น สิบ years เก่า/แก่'."
+    "explanation": "'Primo' (เพศชาย) แปลว่า 'ลูกพี่ลูกน้อง' ส่วน 'Prima' เป็นรูปเพศหญิง ประโยคนี้แปลว่า 'ลูกพี่ลูกน้องของฉันอายุสิบขวบ'",
+    "hint": null
   },
   "q_vocab_a1_02_009": {
     "question": "Tengo dos hermanos y una hermana.",
@@ -204,24 +210,26 @@
     "context": "Chatting with a neighbor about ครอบครัว"
   },
   "q_vocab_a1_03_001": {
-    "question": "อะไร does 'hora' หมายถึง?",
-    "correct": "ชั่วโมง / time",
+    "question": "'hora' แปลว่าอะไร?",
+    "correct": "ชั่วโมง / เวลา",
     "wrong": [
       "นาที",
       "วัน",
       "สัปดาห์"
     ],
-    "explanation": "'Hora' แปลว่า 'ชั่วโมง' หรือ 'เวลา' (เมื่อไหร่ asking อะไร เวลา มัน เป็น). '¿Qué hora es?' = 'อะไร เวลา เป็น มัน?'"
+    "explanation": "'Hora' แปลว่า 'ชั่วโมง' หรือ 'เวลา' (เมื่อถามว่ากี่โมง) '¿Qué hora es?' = 'ตอนนี้กี่โมง?'",
+    "hint": null
   },
   "q_vocab_a1_03_002": {
-    "question": "อะไร does 'mañana' หมายถึง ใน 'por la mañana'?",
+    "question": "'mañana' ใน 'por la mañana' แปลว่าอะไร?",
     "correct": "ตอนเช้า",
     "wrong": [
       "ตอนบ่าย",
       "ตอนเย็น",
-      "กลางคืน"
+      "ตอนกลางคืน"
     ],
-    "explanation": "'Mañana' แปลว่า 'ตอนเช้า' เมื่อไหร่ used กับ 'por la'. มัน สามารถ ด้วย หมายความว่า 'พรุ่งนี้' ใน other contexts."
+    "explanation": "'Mañana' แปลว่า 'ตอนเช้า' เมื่อใช้กับ 'por la' ในบริบทอื่นยังอาจหมายถึง 'พรุ่งนี้' ได้ด้วย",
+    "hint": null
   },
   "q_vocab_a1_03_003": {
     "question": "Son las tres y ___. (3:30)",
@@ -234,24 +242,26 @@
     "explanation": "'Media' แปลว่า 'half'. 'ลูกชาย las tres y media' แปลว่า 'มัน เป็น สาม thirty' (literally 'สาม และ a half')."
   },
   "q_vocab_a1_03_004": {
-    "question": "อะไร does 'reloj' หมายถึง?",
-    "correct": "clock / watch",
+    "question": "'reloj' แปลว่าอะไร?",
+    "correct": "นาฬิกา (ตั้งผนัง / นาฬิกาข้อมือ)",
     "wrong": [
-      "calendar",
-      "alarm",
-      "timer"
+      "ปฏิทิน",
+      "นาฬิกาปลุก",
+      "ตัวจับเวลา"
     ],
-    "explanation": "'Reloj' สามารถ หมายความว่า both 'clock' (wall clock) และ 'watch' (wristwatch) ในภาษาสเปน."
+    "explanation": "'Reloj' ในภาษาสเปนหมายถึงได้ทั้ง 'นาฬิกาตั้งผนัง' (clock) และ 'นาฬิกาข้อมือ' (watch)",
+    "hint": null
   },
   "q_vocab_a1_03_005": {
-    "question": "อะไร does 'en punto' หมายถึง ใน 'Son las cinco en punto'?",
-    "correct": "on the dot / exactly",
+    "question": "'en punto' ในประโยค 'Son las cinco en punto' แปลว่าอะไร?",
+    "correct": "ตรงเวลาพอดี / เป๊ะ",
     "wrong": [
-      "almost",
-      "more หรือ less",
-      "approximately"
+      "เกือบ",
+      "ประมาณ ๆ",
+      "โดยประมาณ"
     ],
-    "explanation": "'En punto' แปลว่า 'on dot' หรือ 'sharp'. 'ลูกชาย las cinco en punto' = 'มัน เป็น exactly ห้า o'clock'."
+    "explanation": "'En punto' แปลว่า 'ตรงเวลาพอดี' หรือ 'เป๊ะ' 'Son las cinco en punto' = 'ตอนนี้ห้าโมงเย็นตรงพอดี'",
+    "hint": null
   },
   "q_vocab_a1_03_006": {
     "question": "มัน เป็น หนึ่ง o'clock.",
@@ -264,14 +274,15 @@
     "explanation": "สำหรับ 1:00, we use 'Es la una' (เอกพจน์). สำหรับ ทั้งหมด other hours, we use 'ลูกชาย las...' (พหูพจน์)."
   },
   "q_vocab_a1_03_007": {
-    "question": "อะไร does 'tarde' หมายถึง ใน 'Buenas tardes'?",
-    "correct": "ตอนบ่าย",
+    "question": "'tarde' ในคำว่า 'Buenas tardes' แปลว่าอะไร?",
+    "correct": "ช่วงบ่าย",
     "wrong": [
-      "ตอนเช้า",
+      "ช่วงเช้า",
       "กลางคืน",
-      "ตอนเย็น"
+      "ช่วงเย็น"
     ],
-    "explanation": "'Tarde' แปลว่า 'ตอนบ่าย'. 'Buenas tardes' ใช้ roughly จาก noon until sunset."
+    "explanation": "'Tarde' แปลว่า 'ช่วงบ่าย' 'Buenas tardes' ใช้ตั้งแต่ราวเที่ยงวันไปจนถึงพระอาทิตย์ตก",
+    "hint": null
   },
   "q_vocab_a1_03_008": {
     "question": "¿Qué hora es? — Son las dos y cuarto.",
@@ -306,14 +317,15 @@
     "context": "Talking about daily routines"
   },
   "q_vocab_a1_04_001": {
-    "question": "อะไร does 'lunes' หมายถึง?",
+    "question": "'lunes' แปลว่าอะไร?",
     "correct": "วันจันทร์",
     "wrong": [
       "วันอังคาร",
       "วันศุกร์",
       "วันอาทิตย์"
     ],
-    "explanation": "'Lunes' แปลว่า 'วันจันทร์'. ในภาษาสเปน, วันs ของ สัปดาห์ เป็น not capitalized."
+    "explanation": "'Lunes' แปลว่า 'วันจันทร์' ในภาษาสเปน ชื่อวันในสัปดาห์ไม่ขึ้นต้นด้วยตัวพิมพ์ใหญ่",
+    "hint": null
   },
   "q_vocab_a1_04_002": {
     "question": "El primer mes del año es ___.",
@@ -326,24 +338,26 @@
     "explanation": "'Enero' แปลว่า 'January', first เดือน ของ ปี. Like วันs, months เป็น not capitalized ในภาษาสเปน."
   },
   "q_vocab_a1_04_003": {
-    "question": "อะไร does 'verano' หมายถึง?",
-    "correct": "summer",
+    "question": "'verano' แปลว่าอะไร?",
+    "correct": "ฤดูร้อน",
     "wrong": [
-      "winter",
-      "spring",
-      "autumn"
+      "ฤดูหนาว",
+      "ฤดูใบไม้ผลิ",
+      "ฤดูใบไม้ร่วง"
     ],
-    "explanation": "'Verano' แปลว่า 'summer'. สี่ seaลูกชายs เป็น: primavera (spring), verano (summer), otoño (autumn), invierno (winter)."
+    "explanation": "'Verano' แปลว่า 'ฤดูร้อน' ทั้งสี่ฤดูคือ primavera (ใบไม้ผลิ), verano (ร้อน), otoño (ใบไม้ร่วง), invierno (หนาว)",
+    "hint": null
   },
   "q_vocab_a1_04_004": {
-    "question": "อะไร does 'semana' หมายถึง?",
+    "question": "'semana' แปลว่าอะไร?",
     "correct": "สัปดาห์",
     "wrong": [
       "เดือน",
       "วัน",
       "ปี"
     ],
-    "explanation": "'Seผู้ชายa' แปลว่า 'สัปดาห์'. 'Fin de seผู้ชายa' แปลว่า 'weekend'."
+    "explanation": "'Semana' แปลว่า 'สัปดาห์' ส่วน 'Fin de semana' แปลว่า 'วันหยุดสุดสัปดาห์'",
+    "hint": null
   },
   "q_vocab_a1_04_005": {
     "question": "วันเสาร์ และ วันอาทิตย์",
@@ -356,14 +370,15 @@
     "explanation": "'Sáแย่o' เป็น วันเสาร์ และ 'domingo' เป็น วันอาทิตย์. Together พวกเขา สำหรับm 'fin de seผู้ชายa' (weekend)."
   },
   "q_vocab_a1_04_006": {
-    "question": "อะไร does 'primavera' หมายถึง ใน 'Me gusta la primavera'?",
-    "correct": "spring",
+    "question": "'primavera' ในประโยค 'Me gusta la primavera' แปลว่าอะไร?",
+    "correct": "ฤดูใบไม้ผลิ",
     "wrong": [
-      "summer",
-      "autumn",
-      "winter"
+      "ฤดูร้อน",
+      "ฤดูใบไม้ร่วง",
+      "ฤดูหนาว"
     ],
-    "explanation": "'Primavera' แปลว่า 'spring'. senสิบce แปลว่า 'I like spring'."
+    "explanation": "'Primavera' แปลว่า 'ฤดูใบไม้ผลิ' ประโยคนี้แปลว่า 'ฉันชอบฤดูใบไม้ผลิ'",
+    "hint": null
   },
   "q_vocab_a1_04_007": {
     "question": "Someหนึ่ง asks คุณ อะไร วัน มัน เป็น. วันนี้ เป็น วันพุธ. อย่างไร do คุณ answer?",
@@ -377,22 +392,23 @@
     "context": "Someหนึ่ง asking what วัน it is"
   },
   "q_vocab_a1_04_008": {
-    "question": "อะไร does 'invierno' หมายถึง ใน 'En invierno hace frío'?",
-    "correct": "winter",
+    "question": "'invierno' ในประโยค 'En invierno hace frío' แปลว่าอะไร?",
+    "correct": "ฤดูหนาว",
     "wrong": [
-      "autumn",
-      "summer",
-      "spring"
+      "ฤดูใบไม้ร่วง",
+      "ฤดูร้อน",
+      "ฤดูใบไม้ผลิ"
     ],
-    "explanation": "'Invierno' แปลว่า 'winter'. senสิบce แปลว่า 'ใน winter มัน เป็น เย็น'."
+    "explanation": "'Invierno' แปลว่า 'ฤดูหนาว' ประโยคนี้แปลว่า 'ในฤดูหนาวอากาศหนาว'",
+    "hint": null
   },
   "q_vocab_a1_04_009": {
     "question": "Hoy es viernes. Mañana es ___.",
-    "correct": "วันนี้ is วันศุกร์. พรุ่งนี้ is วันเสาร์.",
+    "correct": "sábado",
     "wrong": [
-      "วันนี้ is วันศุกร์. พรุ่งนี้ is วันพฤหัสบดี.",
-      "วันนี้ is วันศุกร์. พรุ่งนี้ is วันอาทิตย์.",
-      "วันนี้ is วันพฤหัสบดี. พรุ่งนี้ is วันศุกร์."
+      "jueves",
+      "domingo",
+      "lunes"
     ],
     "explanation": "'Viernes' เป็น วันศุกร์ และ วัน after วันศุกร์ เป็น 'sáแย่o' (วันเสาร์)."
   },
@@ -408,74 +424,81 @@
     "context": "Scheduling a meeting at work"
   },
   "q_vocab_a1_05_001": {
-    "question": "อะไร does 'rojo' หมายถึง?",
+    "question": "'rojo' แปลว่าอะไร?",
     "correct": "สีแดง",
     "wrong": [
       "สีน้ำเงิน",
       "สีเขียว",
       "สีเหลือง"
     ],
-    "explanation": "'Rojo' แปลว่า 'สีแดง'. Like ส่วนใหญ่ adjectives, มัน changes สำหรับm: rojo (masc.), roja (fem.)."
+    "explanation": "'Rojo' แปลว่า 'สีแดง' เหมือนคุณศัพท์ส่วนใหญ่ คำนี้เปลี่ยนรูปตามเพศ: rojo (เพศชาย), roja (เพศหญิง)",
+    "hint": null
   },
   "q_vocab_a1_05_002": {
-    "question": "อะไร does 'blanco' หมายถึง?",
+    "question": "'blanco' แปลว่าอะไร?",
     "correct": "สีขาว",
     "wrong": [
       "สีดำ",
-      "grey",
+      "สีเทา",
       "สีน้ำตาล"
     ],
-    "explanation": "'Blanco' แปลว่า 'สีขาว'. Its opposite เป็น 'negro' (สีดำ)."
+    "explanation": "'Blanco' แปลว่า 'สีขาว' คำตรงข้ามคือ 'negro' (สีดำ)",
+    "hint": null
   },
   "q_vocab_a1_05_003": {
-    "question": "El cielo es ___. ( sky เป็น ___)",
+    "question": "El cielo es ___. (ท้องฟ้าเป็นสี ___)",
     "correct": "azul",
     "wrong": [
       "rojo",
       "verde",
       "amarillo"
     ],
-    "explanation": "'Azul' แปลว่า 'สีน้ำเงิน'. Unlike ส่วนใหญ่ color adjectives, 'azul' does not change สำหรับ เพศชาย/เพศหญิง."
+    "explanation": "'Azul' แปลว่า 'สีน้ำเงิน / สีฟ้า' ต่างจากคุณศัพท์บอกสีส่วนใหญ่ 'azul' ไม่เปลี่ยนรูปตามเพศชาย/หญิง",
+    "hint": null
   },
   "q_vocab_a1_05_004": {
-    "question": "อะไร does 'negro' หมายถึง?",
+    "question": "'negro' แปลว่าอะไร?",
     "correct": "สีดำ",
     "wrong": [
       "สีขาว",
-      "grey",
+      "สีเทา",
       "สีน้ำตาล"
     ],
-    "explanation": "'Negro' แปลว่า 'สีดำ'. มัน follows สม่ำเสมอ คำคุณศัพท์ agreement: negro (masc.), negra (fem.)."
+    "explanation": "'Negro' แปลว่า 'สีดำ' เปลี่ยนรูปตามเพศตามปกติเหมือนคุณศัพท์ทั่วไป: negro (เพศชาย), negra (เพศหญิง)",
+    "hint": null
   },
   "q_vocab_a1_05_005": {
-    "question": "อะไร does 'amarillo' หมายถึง ใน 'El sol es amarillo'?",
+    "question": "'amarillo' ในประโยค 'El sol es amarillo' แปลว่าอะไร?",
     "correct": "สีเหลือง",
     "wrong": [
       "สีส้ม",
       "สีแดง",
       "สีขาว"
     ],
-    "explanation": "'Amarillo' แปลว่า 'สีเหลือง'. senสิบce แปลว่า ' sun เป็น สีเหลือง'."
+    "explanation": "'Amarillo' แปลว่า 'สีเหลือง' ประโยคนี้แปลว่า 'ดวงอาทิตย์เป็นสีเหลือง'",
+    "hint": null
   },
   "q_vocab_a1_05_006": {
-    "question": " รถยนต์ เป็น สีเขียว.",
+    "question": "รถคันนี้เป็นสีเขียว",
     "correct": "El coche es verde.",
     "wrong": [
       "El coche es rojo.",
       "El coche es azul.",
       "La coche es verde."
     ],
-    "explanation": "'Verde' แปลว่า 'สีเขียว'. 'Coche' (รถยนต์) เป็น เพศชาย, so we use 'el'. 'Verde' does not change สำหรับ gender."
+    "explanation": "'Verde' แปลว่า 'สีเขียว' 'Coche' (รถ) เป็นเพศชาย จึงใช้ 'el' ส่วน 'verde' ไม่เปลี่ยนรูปตามเพศ",
+    "hint": null
   },
   "q_vocab_a1_05_007": {
-    "question": "อะไร does 'gris' หมายถึง ใน 'El gato es gris'?",
-    "correct": "grey",
+    "question": "'gris' ในประโยค 'El gato es gris' แปลว่าอะไร?",
+    "correct": "สีเทา",
     "wrong": [
       "สีน้ำตาล",
       "สีขาว",
       "สีดำ"
     ],
-    "explanation": "'Gris' แปลว่า 'grey'. Like 'azul' และ 'verde', มัน does not change สำหรับm สำหรับ เพศชาย/เพศหญิง."
+    "explanation": "'Gris' แปลว่า 'สีเทา' เหมือน 'azul' และ 'verde' คำนี้ไม่เปลี่ยนรูปตามเพศชาย/หญิง",
+    "hint": null
   },
   "q_vocab_a1_05_008": {
     "question": "¿De qué color es la naranja?",
@@ -510,14 +533,15 @@
     "context": "Talking about favorite colors with a เพื่อน"
   },
   "q_vocab_a1_06_001": {
-    "question": "อะไร does 'agua' หมายถึง?",
+    "question": "'agua' แปลว่าอะไร?",
     "correct": "น้ำ",
     "wrong": [
       "นม",
       "น้ำผลไม้",
       "กาแฟ"
     ],
-    "explanation": "'Agua' แปลว่า 'น้ำ'. Despite being เพศหญิง, มัน uses 'el' ใน เอกพจน์: 'el agua' (ไปยัง avoid สอง 'a' sounds together)."
+    "explanation": "'Agua' แปลว่า 'น้ำ' แม้จะเป็นเพศหญิง แต่เมื่อเป็นเอกพจน์จะใช้ 'el' คือ 'el agua' (เพื่อไม่ให้เสียงสระ 'a' สองตัวมาชนกัน)",
+    "hint": null
   },
   "q_vocab_a1_06_002": {
     "question": "Quiero un ___ con leche, por favor.",
@@ -530,24 +554,26 @@
     "explanation": "'Café con leche' แปลว่า 'กาแฟ กับ นม', a มาก popular drink ใน Spain และ Latin America."
   },
   "q_vocab_a1_06_003": {
-    "question": "อะไร does 'pan' หมายถึง?",
+    "question": "'pan' แปลว่าอะไร?",
     "correct": "ขนมปัง",
     "wrong": [
       "ข้าว",
-      "เนื้อ",
+      "เนื้อสัตว์",
       "ชีส"
     ],
-    "explanation": "'Pan' แปลว่า 'ขนมปัง'. มัน เป็น หนึ่ง ของ ส่วนใหญ่ basic food items ในภาษาสเปน-พูด countries."
+    "explanation": "'Pan' แปลว่า 'ขนมปัง' เป็นอาหารพื้นฐานที่สุดอย่างหนึ่งในประเทศที่พูดภาษาสเปน",
+    "hint": null
   },
   "q_vocab_a1_06_004": {
-    "question": "อะไร does 'pollo' หมายถึง?",
-    "correct": "ไก่",
+    "question": "'pollo' แปลว่าอะไร?",
+    "correct": "เนื้อไก่ / ไก่",
     "wrong": [
       "ปลา",
-      "beef",
-      "pork"
+      "เนื้อวัว",
+      "เนื้อหมู"
     ],
-    "explanation": "'Pollo' แปลว่า 'ไก่'. 'Carne' เป็น general คำ สำหรับ 'เนื้อ'."
+    "explanation": "'Pollo' แปลว่า 'ไก่' ส่วน 'Carne' เป็นคำทั่วไปที่แปลว่า 'เนื้อสัตว์'",
+    "hint": null
   },
   "q_vocab_a1_06_005": {
     "question": "I want a glass ของ สีส้ม น้ำผลไม้.",
@@ -560,14 +586,15 @@
     "explanation": "'Zumo' แปลว่า 'น้ำผลไม้' (used ใน Spain; 'jugo' ใช้ ใน Latin America). 'Vaso' แปลว่า 'glass'."
   },
   "q_vocab_a1_06_006": {
-    "question": "อะไร does 'pescado' หมายถึง ใน 'El pescado está fresco'?",
-    "correct": "ปลา (as food)",
+    "question": "'pescado' ในประโยค 'El pescado está fresco' แปลว่าอะไร?",
+    "correct": "ปลา (ในฐานะอาหาร)",
     "wrong": [
       "ไก่",
-      "เนื้อ",
-      "shrimp"
+      "เนื้อสัตว์",
+      "กุ้ง"
     ],
-    "explanation": "'Pescado' refers ไปยัง ปลา as food. 'Pez' เป็น a living ปลา. senสิบce แปลว่า ' ปลา เป็น fresh'."
+    "explanation": "'Pescado' หมายถึงปลาที่เป็นอาหาร ส่วน 'Pez' คือปลาที่ยังมีชีวิต ประโยคนี้แปลว่า 'ปลาสด'",
+    "hint": null
   },
   "q_vocab_a1_06_007": {
     "question": "คุณ เป็น at a ร้านอาหาร และ พนักงานเสิร์ฟ asks อะไร คุณ want ไปยัง drink. อย่างไร do คุณ order a เบียร์?",
@@ -581,14 +608,15 @@
     "context": "Ordering a drink at a ร้านอาหาร"
   },
   "q_vocab_a1_06_008": {
-    "question": "อะไร does 'ensalada' หมายถึง ใน 'La ensalada está rica'?",
+    "question": "'ensalada' ในประโยค 'La ensalada está rica' แปลว่าอะไร?",
     "correct": "สลัด",
     "wrong": [
       "ซุป",
-      "sandwich",
-      "omelette"
+      "แซนด์วิช",
+      "ไข่เจียว"
     ],
-    "explanation": "'Ensalada' แปลว่า 'สลัด'. 'Rica' here แปลว่า 'delicious'. senสิบce แปลว่า ' สลัด เป็น delicious'."
+    "explanation": "'Ensalada' แปลว่า 'สลัด' ส่วน 'Rica' ในที่นี้แปลว่า 'อร่อย' ประโยคนี้แปลว่า 'สลัดอร่อย'",
+    "hint": null
   },
   "q_vocab_a1_06_009": {
     "question": "Me gustan las frutas y las verduras.",
@@ -612,24 +640,26 @@
     "context": "Being offeสีแดง food at someหนึ่ง's บ้าน"
   },
   "q_vocab_a1_07_001": {
-    "question": "อะไร does 'cabeza' หมายถึง?",
-    "correct": "head",
+    "question": "'cabeza' แปลว่าอะไร?",
+    "correct": "หัว",
     "wrong": [
-      "hand",
-      "foot",
-      "arm"
+      "มือ",
+      "เท้า",
+      "แขน"
     ],
-    "explanation": "'Cabeza' แปลว่า 'head'. 'Me duele la cabeza' แปลว่า 'My head hurts' (I มี a headache)."
+    "explanation": "'Cabeza' แปลว่า 'หัว' ส่วน 'Me duele la cabeza' แปลว่า 'ฉันปวดหัว' (ฉันเป็นไมเกรน/ปวดศีรษะ)",
+    "hint": null
   },
   "q_vocab_a1_07_002": {
-    "question": "อะไร does 'mano' หมายถึง?",
-    "correct": "hand",
+    "question": "'mano' แปลว่าอะไร?",
+    "correct": "มือ",
     "wrong": [
-      "foot",
-      "arm",
-      "finger"
+      "เท้า",
+      "แขน",
+      "นิ้ว"
     ],
-    "explanation": "'Mano' แปลว่า 'hand'. Note: despite ลงท้ายด้วย -o, 'ผู้ชายo' เป็น เพศหญิง (la ผู้ชายo)."
+    "explanation": "'Mano' แปลว่า 'มือ' ข้อควรระวัง: แม้จะลงท้ายด้วย -o แต่ 'mano' เป็นเพศหญิง (la mano)",
+    "hint": null
   },
   "q_vocab_a1_07_003": {
     "question": "No puedo caminar, me duele el ___.",
@@ -642,24 +672,26 @@
     "explanation": "'Pie' แปลว่า 'foot'. senสิบce says 'I cannot walk, my foot hurts'."
   },
   "q_vocab_a1_07_004": {
-    "question": "อะไร does 'ojo' หมายถึง?",
-    "correct": "eye",
+    "question": "'ojo' แปลว่าอะไร?",
+    "correct": "ตา",
     "wrong": [
-      "ear",
-      "nose",
-      "mouth"
+      "หู",
+      "จมูก",
+      "ปาก"
     ],
-    "explanation": "'Ojo' แปลว่า 'eye'. พหูพจน์ เป็น 'ojos'. 'Tiene los ojos azules' = 'He/She มี สีน้ำเงิน eyes'."
+    "explanation": "'Ojo' แปลว่า 'ตา' พหูพจน์คือ 'ojos' ส่วน 'Tiene los ojos azules' = 'เขามีดวงตาสีฟ้า'",
+    "hint": null
   },
   "q_vocab_a1_07_005": {
-    "question": "อะไร does 'espalda' หมายถึง ใน 'Me duele la espalda'?",
-    "correct": "back",
+    "question": "'espalda' ในประโยค 'Me duele la espalda' แปลว่าอะไร?",
+    "correct": "หลัง",
     "wrong": [
-      "stomach",
-      "chest",
-      "neck"
+      "ท้อง",
+      "หน้าอก",
+      "คอ"
     ],
-    "explanation": "'Espalda' แปลว่า 'back' (body part). senสิบce แปลว่า 'My back hurts'."
+    "explanation": "'Espalda' แปลว่า 'หลัง' (ส่วนของร่างกาย) ประโยคนี้แปลว่า 'ฉันปวดหลัง'",
+    "hint": null
   },
   "q_vocab_a1_07_006": {
     "question": "I brush my teeth every ตอนเช้า.",
@@ -672,14 +704,15 @@
     "explanation": "'Dientes' แปลว่า 'teeth' (เอกพจน์: 'diente'). ในภาษาสเปน, we say 'lavarse los dientes' (wash teeth) rather than 'brush'."
   },
   "q_vocab_a1_07_007": {
-    "question": "อะไร does 'boca' หมายถึง ใน 'Abre la boca'?",
-    "correct": "mouth",
+    "question": "'boca' ในประโยค 'Abre la boca' แปลว่าอะไร?",
+    "correct": "ปาก",
     "wrong": [
-      "eye",
-      "hand",
-      "ear"
+      "ตา",
+      "มือ",
+      "หู"
     ],
-    "explanation": "'Boca' แปลว่า 'mouth'. 'Abre la boca' แปลว่า 'Open your mouth', commonly heard at dentist."
+    "explanation": "'Boca' แปลว่า 'ปาก' ส่วน 'Abre la boca' แปลว่า 'อ้าปาก' ซึ่งมักได้ยินเวลาไปหาหมอฟัน",
+    "hint": null
   },
   "q_vocab_a1_07_008": {
     "question": "Tengo el pelo largo y los ojos marrones.",
@@ -714,14 +747,15 @@
     "context": "Describing a เพื่อน's physical features"
   },
   "q_vocab_a1_08_001": {
-    "question": "อะไร does 'zapatos' หมายถึง?",
-    "correct": "shoes",
+    "question": "'zapatos' แปลว่าอะไร?",
+    "correct": "รองเท้า",
     "wrong": [
-      "boots",
-      "socks",
-      "sandals"
+      "รองเท้าบู๊ต",
+      "ถุงเท้า",
+      "รองเท้าแตะ"
     ],
-    "explanation": "'Zapatos' แปลว่า 'shoes' (เอกพจน์: 'zapato'). 'Un par de zapatos' = 'a pair ของ shoes'."
+    "explanation": "'Zapatos' แปลว่า 'รองเท้า' (เอกพจน์: 'zapato') ส่วน 'Un par de zapatos' = 'รองเท้าหนึ่งคู่'",
+    "hint": null
   },
   "q_vocab_a1_08_002": {
     "question": "Hace frío, necesito mi ___.",
@@ -734,24 +768,26 @@
     "explanation": "'Abrigo' แปลว่า 'coat'. senสิบce says 'มัน's เย็น, I need my coat'."
   },
   "q_vocab_a1_08_003": {
-    "question": "อะไร does 'camisa' หมายถึง?",
-    "correct": "shirt",
+    "question": "'camisa' แปลว่าอะไร?",
+    "correct": "เสื้อเชิ้ต",
     "wrong": [
-      "t-shirt",
-      "jacket",
-      "dress"
+      "เสื้อยืด",
+      "แจ็คเก็ต",
+      "ชุดเดรส"
     ],
-    "explanation": "'Camisa' แปลว่า 'shirt' (typically a สำหรับmal/button-up shirt). A 'camiseta' เป็น a t-shirt."
+    "explanation": "'Camisa' แปลว่า 'เสื้อเชิ้ต' (โดยทั่วไปคือเสื้อเชิ้ตทางการแบบมีกระดุม) ส่วน 'camiseta' คือเสื้อยืด",
+    "hint": null
   },
   "q_vocab_a1_08_004": {
-    "question": "อะไร does 'vestido' หมายถึง?",
-    "correct": "dress",
+    "question": "'vestido' แปลว่าอะไร?",
+    "correct": "ชุดเดรส",
     "wrong": [
-      "skirt",
-      "blouse",
-      "pants"
+      "กระโปรง",
+      "เสื้อผู้หญิง",
+      "กางเกง"
     ],
-    "explanation": "'Vestido' แปลว่า 'dress'. มัน comes จาก คำกริยา 'vestir' (ไปยัง dress/ไปยัง wear)."
+    "explanation": "'Vestido' แปลว่า 'ชุดเดรส' มาจากกริยา 'vestir' (แต่งตัว/สวมใส่)",
+    "hint": null
   },
   "q_vocab_a1_08_005": {
     "question": "I am wearing สีดำ pants.",
@@ -764,14 +800,15 @@
     "explanation": "'Pantalหนึ่งs' แปลว่า 'pants/trousers'. 'Llevar' เป็น commonly used สำหรับ 'ไปยัง wear' ในภาษาสเปน."
   },
   "q_vocab_a1_08_006": {
-    "question": "อะไร does 'bolso' หมายถึง ใน 'Llevo mi bolso al trabajo'?",
-    "correct": "bag / handbag",
+    "question": "'bolso' ในประโยค 'Llevo mi bolso al trabajo' แปลว่าอะไร?",
+    "correct": "กระเป๋า / กระเป๋าถือ",
     "wrong": [
-      "wallet",
-      "belt",
-      "hat"
+      "กระเป๋าสตางค์",
+      "เข็มขัด",
+      "หมวก"
     ],
-    "explanation": "'Bolso' แปลว่า 'bag' หรือ 'handbag'. senสิบce แปลว่า 'I take my bag ไปยัง work'."
+    "explanation": "'Bolso' แปลว่า 'กระเป๋า' หรือ 'กระเป๋าถือ' ประโยคนี้แปลว่า 'ฉันถือกระเป๋าไปทำงาน'",
+    "hint": null
   },
   "q_vocab_a1_08_007": {
     "question": "คุณกำลังจะไปชายหาด ของสิ่งใดที่โดยทั่วไปคุณจะไม่นำไป?",
@@ -786,14 +823,15 @@
     "hint": null
   },
   "q_vocab_a1_08_008": {
-    "question": "อะไร does 'falda' หมายถึง ใน 'La falda es roja'?",
-    "correct": "skirt",
+    "question": "'falda' ในประโยค 'La falda es roja' แปลว่าอะไร?",
+    "correct": "กระโปรง",
     "wrong": [
-      "dress",
-      "shirt",
-      "jacket"
+      "ชุดเดรส",
+      "เสื้อเชิ้ต",
+      "แจ็คเก็ต"
     ],
-    "explanation": "'Falda' แปลว่า 'skirt'. senสิบce แปลว่า ' skirt เป็น สีแดง'."
+    "explanation": "'Falda' แปลว่า 'กระโปรง' ประโยคนี้แปลว่า 'กระโปรงสีแดง'",
+    "hint": null
   },
   "q_vocab_a1_08_009": {
     "question": "Necesito un cinturón para estos pantalones.",
@@ -818,24 +856,26 @@
     "hint": null
   },
   "q_vocab_a1_09_001": {
-    "question": "อะไร does 'cocina' หมายถึง?",
-    "correct": "ครัว",
+    "question": "'cocina' แปลว่าอะไร?",
+    "correct": "ห้องครัว",
     "wrong": [
       "ห้องนอน",
       "ห้องน้ำ",
-      "living ห้อง"
+      "ห้องนั่งเล่น"
     ],
-    "explanation": "'Cocina' แปลว่า 'ครัว'. มัน สามารถ ด้วย หมายความว่า 'cooking' หรือ 'stove' depending on context."
+    "explanation": "'Cocina' แปลว่า 'ห้องครัว' และขึ้นอยู่กับบริบทอาจหมายถึง 'การทำอาหาร' หรือ 'เตา' ก็ได้",
+    "hint": null
   },
   "q_vocab_a1_09_002": {
-    "question": "อะไร does 'ventana' หมายถึง?",
-    "correct": "window",
+    "question": "'ventana' แปลว่าอะไร?",
+    "correct": "หน้าต่าง",
     "wrong": [
-      "door",
-      "wall",
-      "roof"
+      "ประตู",
+      "กำแพง",
+      "หลังคา"
     ],
-    "explanation": "'Ventana' แปลว่า 'window'. 'Abrir la ventana' = 'ไปยัง open window'."
+    "explanation": "'Ventana' แปลว่า 'หน้าต่าง' ส่วน 'Abrir la ventana' = 'เปิดหน้าต่าง'",
+    "hint": null
   },
   "q_vocab_a1_09_003": {
     "question": "Duermo en la ___ todas las noches.",
@@ -848,24 +888,26 @@
     "explanation": "'Cama' แปลว่า 'bed'. senสิบce says 'I sleep ใน bed every กลางคืน'."
   },
   "q_vocab_a1_09_004": {
-    "question": "อะไร does 'puerta' หมายถึง?",
-    "correct": "door",
+    "question": "'puerta' แปลว่าอะไร?",
+    "correct": "ประตู",
     "wrong": [
-      "window",
-      "floor",
-      "ceiling"
+      "หน้าต่าง",
+      "พื้น",
+      "เพดาน"
     ],
-    "explanation": "'Puerta' แปลว่า 'door'. 'Abrir la puerta' = 'ไปยัง open door', 'cerrar la puerta' = 'ไปยัง close door'."
+    "explanation": "'Puerta' แปลว่า 'ประตู' ส่วน 'Abrir la puerta' = 'เปิดประตู' และ 'cerrar la puerta' = 'ปิดประตู'",
+    "hint": null
   },
   "q_vocab_a1_09_005": {
-    "question": "อะไร does 'sofá' หมายถึง ใน 'Me siento en el sofá'?",
-    "correct": "sofa / couch",
+    "question": "'sofá' ในประโยค 'Me siento en el sofá' แปลว่าอะไร?",
+    "correct": "โซฟา",
     "wrong": [
-      "chair",
-      "bed",
+      "เก้าอี้",
+      "เตียง",
       "โต๊ะ"
     ],
-    "explanation": "'Sofá' แปลว่า 'sofa' หรือ 'couch'. senสิบce แปลว่า 'I sit on sofa'. มัน เป็น โดยปกติ ใน 'salón' (living ห้อง)."
+    "explanation": "'Sofá' แปลว่า 'โซฟา' ประโยคนี้แปลว่า 'ฉันนั่งบนโซฟา' โดยปกติโซฟาจะอยู่ใน 'salón' (ห้องนั่งเล่น)",
+    "hint": null
   },
   "q_vocab_a1_09_006": {
     "question": " mirror เป็น ใน ห้องน้ำ.",
@@ -878,14 +920,15 @@
     "explanation": "'Espejo' แปลว่า 'mirror' และ 'baño' แปลว่า 'ห้องน้ำ'. We use 'está' สำหรับ loแมวion."
   },
   "q_vocab_a1_09_007": {
-    "question": "อะไร does 'armario' หมายถึง ใน 'La ropa está en el armario'?",
-    "correct": "wardrobe / closet",
+    "question": "'armario' ในประโยค 'La ropa está en el armario' แปลว่าอะไร?",
+    "correct": "ตู้เสื้อผ้า",
     "wrong": [
-      "drawer",
-      "shelf",
-      "box"
+      "ลิ้นชัก",
+      "ชั้นวาง",
+      "กล่อง"
     ],
-    "explanation": "'Armario' แปลว่า 'wardrobe' หรือ 'closet'. senสิบce แปลว่า ' clothes เป็น ใน wardrobe'."
+    "explanation": "'Armario' แปลว่า 'ตู้เสื้อผ้า' ประโยคนี้แปลว่า 'เสื้อผ้าอยู่ในตู้เสื้อผ้า'",
+    "hint": null
   },
   "q_vocab_a1_09_008": {
     "question": "Hay una estantería con muchos libros en el salón.",
@@ -920,14 +963,15 @@
     "context": "Giving a tour of your บ้าน to a เพื่อน"
   },
   "q_vocab_a1_10_001": {
-    "question": "อะไร does 'libro' หมายถึง?",
+    "question": "'libro' แปลว่าอะไร?",
     "correct": "หนังสือ",
     "wrong": [
-      "notebook",
-      "pencil",
-      "pen"
+      "สมุด",
+      "ดินสอ",
+      "ปากกา"
     ],
-    "explanation": "'Libro' แปลว่า 'หนังสือ'. 'Librería' แปลว่า 'bookstore' (not 'library', which เป็น 'biblioteca')."
+    "explanation": "'Libro' แปลว่า 'หนังสือ' ส่วน 'Librería' แปลว่า 'ร้านหนังสือ' (ไม่ใช่ 'ห้องสมุด' ซึ่งคือ 'biblioteca')",
+    "hint": null
   },
   "q_vocab_a1_10_002": {
     "question": "El estudiante escribe en el ___.",
@@ -940,24 +984,26 @@
     "explanation": "'Cuaderno' แปลว่า 'notebook'. senสิบce says ' นักเรียน writes ใน notebook'."
   },
   "q_vocab_a1_10_003": {
-    "question": "อะไร does 'profesor' หมายถึง?",
-    "correct": "ครู / professor",
+    "question": "'profesor' แปลว่าอะไร?",
+    "correct": "ครู / อาจารย์",
     "wrong": [
       "นักเรียน",
-      "principal",
-      "classmate"
+      "ครูใหญ่",
+      "เพื่อนร่วมชั้น"
     ],
-    "explanation": "'Profesor' แปลว่า 'ครู' หรือ 'professor'. เพศหญิง สำหรับm เป็น 'profesora'."
+    "explanation": "'Profesor' แปลว่า 'ครู' หรือ 'อาจารย์' รูปเพศหญิงคือ 'profesora'",
+    "hint": null
   },
   "q_vocab_a1_10_004": {
-    "question": "อะไร does 'examen' หมายถึง?",
-    "correct": "exam / test",
+    "question": "'examen' แปลว่าอะไร?",
+    "correct": "การสอบ / ข้อสอบ",
     "wrong": [
-      "homework",
-      "class",
-      "grade"
+      "การบ้าน",
+      "ชั้นเรียน",
+      "คะแนน"
     ],
-    "explanation": "'Examen' แปลว่า 'exam' หรือ 'test'. พหูพจน์ เป็น 'exámenes' (note accent shift)."
+    "explanation": "'Examen' แปลว่า 'การสอบ' หรือ 'ข้อสอบ' พหูพจน์คือ 'exámenes' (สังเกตว่าตำแหน่งเครื่องหมายเน้นเสียงเปลี่ยนไป)",
+    "hint": null
   },
   "q_vocab_a1_10_005": {
     "question": "I study at library.",
@@ -970,14 +1016,15 @@
     "explanation": "'Biblioteca' แปลว่า 'library'. เป็น รถยนต์eful: 'librería' แปลว่า 'bookstore', not 'library'."
   },
   "q_vocab_a1_10_006": {
-    "question": "อะไร does 'pizarra' หมายถึง ใน 'El profesor escribe en la pizarra'?",
-    "correct": "blackboard / whiteboard",
+    "question": "'pizarra' ในประโยค 'El profesor escribe en la pizarra' แปลว่าอะไร?",
+    "correct": "กระดานดำ / กระดานไวท์บอร์ด",
     "wrong": [
-      "desk",
-      "notebook",
-      "textbook"
+      "โต๊ะเรียน",
+      "สมุด",
+      "หนังสือเรียน"
     ],
-    "explanation": "'Pizarra' แปลว่า 'blackboard' หรือ 'whiteboard'. senสิบce แปลว่า ' ครู writes on board'."
+    "explanation": "'Pizarra' แปลว่า 'กระดานดำ' หรือ 'ไวท์บอร์ด' ประโยคนี้แปลว่า 'ครูเขียนบนกระดาน'",
+    "hint": null
   },
   "q_vocab_a1_10_007": {
     "question": "คุณ forgot ไปยัง do your homework. อย่างไร do คุณ tell your ครู?",
@@ -991,14 +1038,15 @@
     "context": "Arriving at class without homework"
   },
   "q_vocab_a1_10_008": {
-    "question": "อะไร does 'lápiz' หมายถึง ใน 'Necesito un lápiz'?",
-    "correct": "pencil",
+    "question": "'lápiz' ในประโยค 'Necesito un lápiz' แปลว่าอะไร?",
+    "correct": "ดินสอ",
     "wrong": [
-      "pen",
-      "eraser",
-      "ruler"
+      "ปากกา",
+      "ยางลบ",
+      "ไม้บรรทัด"
     ],
-    "explanation": "'Lápiz' แปลว่า 'pencil'. พหูพจน์ เป็น 'lápices'. A pen เป็น 'bolígrafo' (หรือ 'boli' inสำหรับmally)."
+    "explanation": "'Lápiz' แปลว่า 'ดินสอ' พหูพจน์คือ 'lápices' ส่วนปากกาคือ 'bolígrafo' (หรือ 'boli' แบบไม่เป็นทางการ)",
+    "hint": null
   },
   "q_vocab_a1_10_009": {
     "question": "Mi hermana estudia en la universidad.",
@@ -1011,35 +1059,38 @@
     "explanation": "'Universidad' แปลว่า 'university'. 'Estudiar en la universidad' = 'ไปยัง study at university'."
   },
   "q_vocab_a1_10_010": {
-    "question": "คุณ need ไปยัง borrow a pen จาก a classmate. อะไร do คุณ say?",
+    "question": "คุณต้องการยืมปากกาจากเพื่อนร่วมชั้น คุณจะพูดว่าอย่างไร",
     "correct": "¿Me prestas un bolígrafo?",
     "wrong": [
       "¿Me prestas un lápiz?",
       "¿Me prestas un cuaderno?",
       "¿Me prestas un libro?"
     ],
-    "explanation": "'Bolígrafo' แปลว่า 'pen'. '¿Me prestas...?' แปลว่า 'สามารถ คุณ lend me...?' which เป็น ทั่วไป among classmates.",
-    "context": "In class without a pen"
+    "explanation": "'Bolígrafo' แปลว่า 'ปากกา' ส่วน '¿Me prestas...?' แปลว่า 'ให้ฉันยืม...ได้ไหม?' เป็นประโยคที่ใช้บ่อยระหว่างเพื่อนร่วมชั้น",
+    "context": "In class without a pen",
+    "hint": null
   },
   "q_vocab_a1_11_001": {
-    "question": "อะไร does 'médico' หมายถึง?",
-    "correct": "หมอ",
+    "question": "'médico' แปลว่าอะไร",
+    "correct": "หมอ / แพทย์",
     "wrong": [
       "พยาบาล",
-      "dentist",
-      "pharmacist"
+      "ทันตแพทย์",
+      "เภสัชกร"
     ],
-    "explanation": "'Médico' แปลว่า 'หมอ'. เพศหญิง สำหรับm เป็น 'médica'. 'หมอ/Doctora' เป็น ด้วย commonly used."
+    "explanation": "'Médico' แปลว่า 'แพทย์' รูปเพศหญิงคือ 'médica' นอกจากนี้ยังนิยมใช้ 'Doctor/Doctora' ด้วย",
+    "hint": null
   },
   "q_vocab_a1_11_002": {
-    "question": "อะไร does 'abogado' หมายถึง?",
-    "correct": "lawyer",
+    "question": "'abogado' แปลว่าอะไร",
+    "correct": "ทนายความ",
     "wrong": [
-      "engineer",
-      "journalist",
-      "accountant"
+      "วิศวกร",
+      "นักข่าว",
+      "นักบัญชี"
     ],
-    "explanation": "'Abogado' แปลว่า 'lawyer'. เพศหญิง สำหรับm เป็น 'abogada'."
+    "explanation": "'Abogado' แปลว่า 'ทนายความ' รูปเพศหญิงคือ 'abogada'",
+    "hint": null
   },
   "q_vocab_a1_11_003": {
     "question": "El ___ prepara la comida en el restaurante.",
@@ -1052,24 +1103,26 @@
     "explanation": "'Cocinero' แปลว่า 'พ่อครัว/chef'. senสิบce says ' พ่อครัว prepares food ใน ร้านอาหาร'."
   },
   "q_vocab_a1_11_004": {
-    "question": "อะไร does 'enfermero' หมายถึง?",
+    "question": "'enfermero' แปลว่าอะไร",
     "correct": "พยาบาล",
     "wrong": [
       "หมอ",
-      "dentist",
-      "patient"
+      "ทันตแพทย์",
+      "ผู้ป่วย"
     ],
-    "explanation": "'Enfermero' แปลว่า 'พยาบาล' (male). 'Enfermera' เป็น เพศหญิง สำหรับm. พวกเขา work ใน hospitals และ clinics."
+    "explanation": "'Enfermero' แปลว่า 'พยาบาล' (ชาย) ส่วน 'Enfermera' เป็นรูปเพศหญิง พวกเขาทำงานในโรงพยาบาลและคลินิก",
+    "hint": null
   },
   "q_vocab_a1_11_005": {
-    "question": "อะไร does 'periodista' หมายถึง ใน 'El periodista trabaja en un periódico'?",
-    "correct": "journalist",
+    "question": "'periodista' ในประโยค 'El periodista trabaja en un periódico' แปลว่าอะไร",
+    "correct": "นักข่าว",
     "wrong": [
-      "writer",
-      "editor",
-      "pร้อนographer"
+      "นักเขียน",
+      "บรรณาธิการ",
+      "ช่างภาพ"
     ],
-    "explanation": "'Periodista' แปลว่า 'journalist'. นี้ คำ เป็น same สำหรับ เพศชาย และ เพศหญิง. senสิบce แปลว่า ' journalist works at a ใหม่spaper'."
+    "explanation": "'Periodista' แปลว่า 'นักข่าว' คำนี้ใช้เหมือนกันทั้งเพศชายและเพศหญิง ประโยคนี้แปลว่า 'นักข่าวทำงานที่หนังสือพิมพ์'",
+    "hint": null
   },
   "q_vocab_a1_11_006": {
     "question": "My พ่อ เป็น an engineer.",
@@ -1082,14 +1135,15 @@
     "explanation": "'Ingeniero' แปลว่า 'engineer'. ในภาษาสเปน, professions after 'ser' typically don't use an คำนำหน้านาม (no 'un')."
   },
   "q_vocab_a1_11_007": {
-    "question": "อะไร does 'camarero' หมายถึง ใน 'El camarero trae la cuenta'?",
-    "correct": "พนักงานเสิร์ฟ",
+    "question": "'camarero' ในประโยค 'El camarero trae la cuenta' แปลว่าอะไร",
+    "correct": "พนักงานเสิร์ฟ (ชาย)",
     "wrong": [
-      "chef",
-      "ผู้ชายager",
-      "customer"
+      "เชฟ",
+      "ผู้จัดการ",
+      "ลูกค้า"
     ],
-    "explanation": "'Camarero' แปลว่า 'พนักงานเสิร์ฟ'. senสิบce แปลว่า ' พนักงานเสิร์ฟ brings bill'. 'Camarera' เป็น a waitress."
+    "explanation": "'Camarero' แปลว่า 'พนักงานเสิร์ฟ' ประโยคนี้แปลว่า 'พนักงานเสิร์ฟนำใบเสร็จมาให้' ส่วน 'Camarera' คือพนักงานเสิร์ฟหญิง",
+    "hint": null
   },
   "q_vocab_a1_11_008": {
     "question": "Soy estudiante de medicina. Quiero ser médico.",
@@ -1124,14 +1178,15 @@
     "context": "Making an emergency phหนึ่ง call"
   },
   "q_vocab_a1_12_001": {
-    "question": "อะไร does 'sol' หมายถึง?",
-    "correct": "sun",
+    "question": "'sol' แปลว่าอะไร",
+    "correct": "ดวงอาทิตย์",
     "wrong": [
-      "moon",
-      "star",
-      "cloud"
+      "ดวงจันทร์",
+      "ดวงดาว",
+      "เมฆ"
     ],
-    "explanation": "'Sol' แปลว่า 'sun'. 'Hace sol' แปลว่า 'มัน เป็น sunny' (literally 'มัน makes sun')."
+    "explanation": "'Sol' แปลว่า 'ดวงอาทิตย์' ส่วน 'Hace sol' แปลว่า 'แดดออก' (ตามตัวอักษรคือ 'ทำให้เกิดแดด')",
+    "hint": null
   },
   "q_vocab_a1_12_002": {
     "question": "Hoy no hay ___, el cielo está azul.",
@@ -1144,24 +1199,26 @@
     "explanation": "'Nubes' แปลว่า 'clouds' (เอกพจน์: 'nube'). senสิบce says 'วันนี้ มี no clouds, sky เป็น สีน้ำเงิน'."
   },
   "q_vocab_a1_12_003": {
-    "question": "อะไร does 'lluvia' หมายถึง?",
-    "correct": "rain",
+    "question": "'lluvia' แปลว่าอะไร",
+    "correct": "ฝน",
     "wrong": [
-      "snow",
-      "wind",
-      "storm"
+      "หิมะ",
+      "ลม",
+      "พายุ"
     ],
-    "explanation": "'Lluvia' แปลว่า 'rain'. คำกริยา สำหรับm เป็น 'llover' (ไปยัง rain): 'Está lloviendo' = 'มัน เป็น raining'."
+    "explanation": "'Lluvia' แปลว่า 'ฝน' รูปกริยาคือ 'llover' (ฝนตก): 'Está lloviendo' = 'ฝนกำลังตก'",
+    "hint": null
   },
   "q_vocab_a1_12_004": {
-    "question": "อะไร does 'árbol' หมายถึง?",
-    "correct": "tree",
+    "question": "'árbol' แปลว่าอะไร",
+    "correct": "ต้นไม้",
     "wrong": [
-      "flower",
-      "รถบัสh",
-      "leaf"
+      "ดอกไม้",
+      "พุ่มไม้",
+      "ใบไม้"
     ],
-    "explanation": "'Árbol' แปลว่า 'tree'. พหูพจน์ เป็น 'árboles'. 'Bosque' แปลว่า 'สำหรับest' (ผู้ชายy trees)."
+    "explanation": "'Árbol' แปลว่า 'ต้นไม้' พหูพจน์คือ 'árboles' ส่วน 'Bosque' แปลว่า 'ป่า' (ต้นไม้จำนวนมาก)",
+    "hint": null
   },
   "q_vocab_a1_12_005": {
     "question": "มัน เป็น มาก เย็น วันนี้ และ มัน เป็น snowing.",
@@ -1174,14 +1231,15 @@
     "explanation": "'Frío' แปลว่า 'เย็น', 'nieve' แปลว่า 'snow', และ 'nevar' แปลว่า 'ไปยัง snow'. 'Está nevando' = 'มัน เป็น snowing'."
   },
   "q_vocab_a1_12_006": {
-    "question": "อะไร does 'montaña' หมายถึง ใน 'Vamos a la montaña este fin de semana'?",
+    "question": "'montaña' ในประโยค 'Vamos a la montaña este fin de semana' แปลว่าอะไร",
     "correct": "ภูเขา",
     "wrong": [
       "ชายหาด",
-      "river",
-      "lake"
+      "แม่น้ำ",
+      "ทะเลสาบ"
     ],
-    "explanation": "'Montaña' แปลว่า 'ภูเขา'. senสิบce แปลว่า 'We เป็น going ไปยัง ภูเขา นี้ weekend'."
+    "explanation": "'Montaña' แปลว่า 'ภูเขา' ประโยคนี้แปลว่า 'สุดสัปดาห์นี้เราจะไปภูเขา'",
+    "hint": null
   },
   "q_vocab_a1_12_007": {
     "question": "คุณ want ไปยัง go ไปยัง ชายหาด. อะไร weather do คุณ hope สำหรับ?",
@@ -1195,14 +1253,15 @@
     "context": "Planning a ชายหาด trip"
   },
   "q_vocab_a1_12_008": {
-    "question": "อะไร does 'río' หมายถึง ใน 'El río es muy largo'?",
-    "correct": "river",
+    "question": "'río' ในประโยค 'El río es muy largo' แปลว่าอะไร",
+    "correct": "แม่น้ำ",
     "wrong": [
-      "sea",
-      "lake",
-      "stream"
+      "ทะเล",
+      "ทะเลสาบ",
+      "ลำธาร"
     ],
-    "explanation": "'Río' แปลว่า 'river'. senสิบce แปลว่า ' river เป็น มาก ยาว'. 'Mar' แปลว่า 'sea'."
+    "explanation": "'Río' แปลว่า 'แม่น้ำ' ประโยคนี้แปลว่า 'แม่น้ำสายนี้ยาวมาก' ส่วน 'Mar' แปลว่า 'ทะเล'",
+    "hint": null
   },
   "q_vocab_a1_12_009": {
     "question": "Las flores son muy bonitas en primavera.",
@@ -1226,24 +1285,26 @@
     "context": "ดู the weather สำหรับecast on TV"
   },
   "q_vocab_a1_13_001": {
-    "question": "อะไร does 'coche' หมายถึง?",
+    "question": "'coche' แปลว่าอะไร",
     "correct": "รถยนต์",
     "wrong": [
       "รถบัส",
       "รถไฟ",
       "จักรยาน"
     ],
-    "explanation": "'Coche' แปลว่า 'รถยนต์'. ใน Latin America, 'รถยนต์ro' หรือ 'auto' เป็น more commonly used."
+    "explanation": "'Coche' แปลว่า 'รถยนต์' ในละตินอเมริกามักใช้ 'carro' หรือ 'auto' มากกว่า",
+    "hint": null
   },
   "q_vocab_a1_13_002": {
-    "question": "อะไร does 'avión' หมายถึง?",
-    "correct": "airplane",
+    "question": "'avión' แปลว่าอะไร",
+    "correct": "เครื่องบิน",
     "wrong": [
       "รถไฟ",
       "เรือ",
-      "helicopter"
+      "เฮลิคอปเตอร์"
     ],
-    "explanation": "'Avión' แปลว่า 'airplane'. 'Aeropuerto' แปลว่า 'สนามบิน'. 'Viajar en avión' = 'ไปยัง travel โดย เครื่องบิน'."
+    "explanation": "'Avión' แปลว่า 'เครื่องบิน' ส่วน 'Aeropuerto' แปลว่า 'สนามบิน' 'Viajar en avión' = 'เดินทางโดยเครื่องบิน'",
+    "hint": null
   },
   "q_vocab_a1_13_003": {
     "question": "Voy al trabajo en ___ porque no tengo coche.",
@@ -1256,24 +1317,26 @@
     "explanation": "'Autobús' แปลว่า 'รถบัส'. senสิบce says 'I go ไปยัง work โดย รถบัส เพราะ I don't มี a รถยนต์'."
   },
   "q_vocab_a1_13_004": {
-    "question": "อะไร does 'bicicleta' หมายถึง?",
+    "question": "'bicicleta' แปลว่าอะไร",
     "correct": "จักรยาน",
     "wrong": [
-      "รถจักรยานยนต์",
-      "scooter",
+      "มอเตอร์ไซค์",
+      "สกูตเตอร์",
       "รถยนต์"
     ],
-    "explanation": "'Bicicleta' แปลว่า 'จักรยาน'. มัน เป็น ofสิบ shorสิบed ไปยัง 'bici' ใน casual speech."
+    "explanation": "'Bicicleta' แปลว่า 'จักรยาน' ในการพูดแบบไม่เป็นทางการมักย่อเป็น 'bici'",
+    "hint": null
   },
   "q_vocab_a1_13_005": {
-    "question": "อะไร does 'metro' หมายถึง ใน 'Tomo el metro para ir al centro'?",
-    "correct": "subway / metro",
+    "question": "'metro' ในประโยค 'Tomo el metro para ir al centro' แปลว่าอะไร",
+    "correct": "รถไฟใต้ดิน / เมโทร",
     "wrong": [
       "รถบัส",
       "แท็กซี่",
-      "tram"
+      "รถราง"
     ],
-    "explanation": "'Metro' แปลว่า 'subway' หรือ 'metro'. senสิบce แปลว่า 'I take metro ไปยัง go ไปยัง center (downtown)'."
+    "explanation": "'Metro' แปลว่า 'รถไฟใต้ดิน' ประโยคนี้แปลว่า 'ฉันนั่งรถไฟใต้ดินเข้าไปในใจกลางเมือง'",
+    "hint": null
   },
   "q_vocab_a1_13_006": {
     "question": "I go ไปยัง โรงเรียน on foot.",
@@ -1286,14 +1349,15 @@
     "explanation": "'A pie' แปลว่า 'on foot'. We say 'ir a pie' (ไปยัง go on foot) rather than 'caminar a' ใน นี้ context."
   },
   "q_vocab_a1_13_007": {
-    "question": "อะไร does 'tren' หมายถึง ใน 'El tren sale a las ocho'?",
+    "question": "'tren' ในประโยค 'El tren sale a las ocho' แปลว่าอะไร",
     "correct": "รถไฟ",
     "wrong": [
       "รถบัส",
       "เครื่องบิน",
       "แท็กซี่"
     ],
-    "explanation": "'Tren' แปลว่า 'รถไฟ'. senสิบce แปลว่า ' รถไฟ leaves at แปด'. 'Estación de tren' = 'รถไฟ สถานี'."
+    "explanation": "'Tren' แปลว่า 'รถไฟ' ประโยคนี้แปลว่า 'รถไฟออกตอนแปดโมง' ส่วน 'Estación de tren' = 'สถานีรถไฟ'",
+    "hint": null
   },
   "q_vocab_a1_13_008": {
     "question": "Quiero viajar a la isla en barco.",
@@ -1328,14 +1392,15 @@
     "context": "Discussing daily commute with a เพื่อน"
   },
   "q_vocab_a1_14_001": {
-    "question": "อะไร does 'comer' หมายถึง?",
-    "correct": "to eat",
+    "question": "'comer' แปลว่าอะไร",
+    "correct": "กิน",
     "wrong": [
-      "to drink",
-      "to พ่อครัว",
-      "to sleep"
+      "ดื่ม",
+      "ทำอาหาร",
+      "นอนหลับ"
     ],
-    "explanation": "'Comer' แปลว่า 'ไปยัง eat'. 'La comida' แปลว่า ' food' หรือ ' มื้ออาหาร' (โดยเฉพาะ อาหารกลางวัน ใน Spain)."
+    "explanation": "'Comer' แปลว่า 'กิน' ส่วน 'La comida' แปลว่า 'อาหาร' หรือ 'มื้ออาหาร' (โดยเฉพาะมื้อกลางวันในสเปน)",
+    "hint": null
   },
   "q_vocab_a1_14_002": {
     "question": "Me gusta ___ libros por la noche.",
@@ -1348,24 +1413,26 @@
     "explanation": "'Leer' แปลว่า 'ไปยัง read'. senสิบce says 'I like ไปยัง read books at กลางคืน'."
   },
   "q_vocab_a1_14_003": {
-    "question": "อะไร does 'dormir' หมายถึง?",
-    "correct": "to sleep",
+    "question": "'dormir' แปลว่าอะไร",
+    "correct": "นอนหลับ",
     "wrong": [
-      "to dream",
-      "to rest",
-      "to wake up"
+      "ฝัน",
+      "พักผ่อน",
+      "ตื่นนอน"
     ],
-    "explanation": "'Dormir' แปลว่า 'ไปยัง sleep'. มัน เป็น a รากศัพท์-changing คำกริยา: duermo, duermes, duerme..."
+    "explanation": "'Dormir' แปลว่า 'นอนหลับ' เป็นกริยาที่เปลี่ยนรากศัพท์: duermo, duermes, duerme...",
+    "hint": null
   },
   "q_vocab_a1_14_004": {
-    "question": "อะไร does 'hablar' หมายถึง?",
-    "correct": "to speak / to talk",
+    "question": "'hablar' แปลว่าอะไร",
+    "correct": "พูด / คุย",
     "wrong": [
-      "to lisสิบ",
-      "to write",
-      "to read"
+      "ฟัง",
+      "เขียน",
+      "อ่าน"
     ],
-    "explanation": "'Hablar' แปลว่า 'ไปยัง speak' หรือ 'ไปยัง talk'. 'Hablar español' = 'ไปยัง speak สเปน'."
+    "explanation": "'Hablar' แปลว่า 'พูด' หรือ 'คุย' 'Hablar español' = 'พูดภาษาสเปน'",
+    "hint": null
   },
   "q_vocab_a1_14_005": {
     "question": "I open window every ตอนเช้า.",
@@ -1378,14 +1445,15 @@
     "explanation": "'Abrir' แปลว่า 'ไปยัง open'. 'Abro' เป็น first คน เอกพจน์ (yo) สำหรับm. Its opposite เป็น 'cerrar' (ไปยัง close)."
   },
   "q_vocab_a1_14_006": {
-    "question": "อะไร does 'escribir' หมายถึง ใน 'Escribo un correo electrónico'?",
-    "correct": "to write",
+    "question": "'escribir' ในประโยค 'Escribo un correo electrónico' แปลว่าอะไร",
+    "correct": "เขียน",
     "wrong": [
-      "to read",
-      "to send",
-      "to type"
+      "อ่าน",
+      "ส่ง",
+      "พิมพ์"
     ],
-    "explanation": "'Escribir' แปลว่า 'ไปยัง write'. senสิบce แปลว่า 'I write an email'. 'Correo electrónico' = 'email'."
+    "explanation": "'Escribir' แปลว่า 'เขียน' ประโยคนี้แปลว่า 'ฉันเขียนอีเมล' ส่วน 'Correo electrónico' = 'อีเมล'",
+    "hint": null
   },
   "q_vocab_a1_14_007": {
     "question": "คุณ เป็น at a รถบัส stop และ รถบัส เป็น ดึก. อะไร คำกริยา describes อะไร คุณ เป็น doing?",
@@ -1399,14 +1467,15 @@
     "context": "Waiting สำหรับ a ดึก รถบัส"
   },
   "q_vocab_a1_14_008": {
-    "question": "อะไร does 'beber' หมายถึง ใน '¿Quieres beber algo?'?",
-    "correct": "to drink",
+    "question": "'beber' ในประโยค '¿Quieres beber algo?' แปลว่าอะไร",
+    "correct": "ดื่ม",
     "wrong": [
-      "to eat",
-      "to buy",
-      "to want"
+      "กิน",
+      "ซื้อ",
+      "ต้องการ"
     ],
-    "explanation": "'Beber' แปลว่า 'ไปยัง drink'. senสิบce แปลว่า 'Do คุณ want ไปยัง drink something?' 'Tomar' เป็น ด้วย used สำหรับ 'ไปยัง drink'."
+    "explanation": "'Beber' แปลว่า 'ดื่ม' ประโยคนี้แปลว่า 'คุณอยากดื่มอะไรไหม' นอกจากนี้ยังใช้ 'Tomar' ในความหมายว่า 'ดื่ม' ได้เหมือนกัน",
+    "hint": null
   },
   "q_vocab_a1_14_009": {
     "question": "Me levanto a las siete y me ducho antes de desayunar.",
@@ -1430,24 +1499,26 @@
     "context": "Receiving a phหนึ่ง call during a meeting"
   },
   "q_vocab_a1_15_001": {
-    "question": "อะไร does 'contento' หมายถึง?",
-    "correct": "มีความสุข / pleased",
+    "question": "'contento' แปลว่าอะไร",
+    "correct": "มีความสุข / พอใจ",
     "wrong": [
       "เศร้า",
       "โกรธ",
       "เหนื่อย"
     ],
-    "explanation": "'Conสิบto' แปลว่า 'มีความสุข' หรือ 'pleased'. เพศหญิง สำหรับm เป็น 'conสิบta'. Similar ไปยัง 'feliz' แต่ less inสิบse."
+    "explanation": "'Contento' แปลว่า 'มีความสุข' หรือ 'พอใจ' รูปเพศหญิงคือ 'contenta' คล้ายกับ 'feliz' แต่ความรู้สึกไม่เข้มข้นเท่า",
+    "hint": null
   },
   "q_vocab_a1_15_002": {
-    "question": "อะไร does 'triste' หมายถึง?",
+    "question": "'triste' แปลว่าอะไร",
     "correct": "เศร้า",
     "wrong": [
       "มีความสุข",
       "โกรธ",
-      "boสีแดง"
+      "เบื่อ"
     ],
-    "explanation": "'Triste' แปลว่า 'เศร้า'. Unlike ผู้ชายy adjectives, มัน มี same สำหรับm สำหรับ เพศชาย และ เพศหญิง."
+    "explanation": "'Triste' แปลว่า 'เศร้า' ต่างจากคุณศัพท์หลายคำตรงที่รูปเพศชายและเพศหญิงเหมือนกัน",
+    "hint": null
   },
   "q_vocab_a1_15_003": {
     "question": "Estoy muy ___ después de trabajar todo el día.",
@@ -1460,24 +1531,26 @@
     "explanation": "'Canเศร้าo' แปลว่า 'เหนื่อย'. senสิบce says 'I am มาก เหนื่อย after ทำงาน ทั้งหมด วัน'. Use 'estar' สำหรับ temporary states."
   },
   "q_vocab_a1_15_004": {
-    "question": "อะไร does 'enfermo' หมายถึง?",
-    "correct": "sick / ill",
+    "question": "'enfermo' แปลว่าอะไร",
+    "correct": "ป่วย / ไม่สบาย",
     "wrong": [
-      "healthy",
+      "แข็งแรง",
       "เหนื่อย",
       "เศร้า"
     ],
-    "explanation": "'Enfermo' แปลว่า 'sick' หรือ 'ill'. 'Estoy enfermo' = 'I am sick'. เพศหญิง สำหรับm เป็น 'enferma'."
+    "explanation": "'Enfermo' แปลว่า 'ป่วย' หรือ 'ไม่สบาย' 'Estoy enfermo' = 'ฉันไม่สบาย' รูปเพศหญิงคือ 'enferma'",
+    "hint": null
   },
   "q_vocab_a1_15_005": {
-    "question": "อะไร does 'preocupado' หมายถึง ใน 'Estoy preocupado por el examen'?",
-    "correct": "worried",
+    "question": "'preocupado' ในประโยค 'Estoy preocupado por el examen' แปลว่าอะไร",
+    "correct": "กังวล",
     "wrong": [
-      "excited",
-      "nervous",
-      "boสีแดง"
+      "ตื่นเต้น",
+      "ประหม่า",
+      "เบื่อ"
     ],
-    "explanation": "'Preocupado' แปลว่า 'worried'. senสิบce แปลว่า 'I am worried about exam'. 'Preocuparse' = 'ไปยัง worry'."
+    "explanation": "'Preocupado' แปลว่า 'กังวล' ประโยคนี้แปลว่า 'ฉันกังวลเรื่องการสอบ' 'Preocuparse' = 'กังวล'",
+    "hint": null
   },
   "q_vocab_a1_15_006": {
     "question": "I am มาก nervous about interview.",
@@ -1491,14 +1564,15 @@
     "hint": "Temporary emotions use 'estar', not 'ser'"
   },
   "q_vocab_a1_15_007": {
-    "question": "อะไร does 'enfadado' หมายถึง ใน 'Mi padre está enfadado conmigo'?",
+    "question": "'enfadado' ในประโยค 'Mi padre está enfadado conmigo' แปลว่าอะไร",
     "correct": "โกรธ",
     "wrong": [
       "มีความสุข",
-      "proud",
-      "disappointed"
+      "ภูมิใจ",
+      "ผิดหวัง"
     ],
-    "explanation": "'Enfadado' แปลว่า 'โกรธ'. senสิบce แปลว่า 'My พ่อ เป็น โกรธ กับ me'. ใน Latin America, 'enojado' เป็น more ทั่วไป."
+    "explanation": "'Enfadado' แปลว่า 'โกรธ' ประโยคนี้แปลว่า 'พ่อของฉันโกรธฉัน' ในละตินอเมริกา 'enojado' เป็นที่นิยมใช้มากกว่า",
+    "hint": null
   },
   "q_vocab_a1_15_008": {
     "question": "¿Cómo estás? — Estoy bien, gracias.",

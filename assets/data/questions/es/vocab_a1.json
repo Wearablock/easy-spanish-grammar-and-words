@@ -299,15 +299,16 @@
     "hint": null
   },
   "q_vocab_a1_03_010": {
-    "question": "Your friend asks when you usually wake up. ¿Cómo se dice 'I wake up en seven en the morning'?",
+    "question": "Tu amigo te pregunta a qué hora te despiertas normalmente. ¿Cómo dices «me despierto a las siete de la mañana»?",
     "correct": "Me despierto a las siete de la mañana.",
     "wrong": [
       "Me despierto a las siete de la noche.",
       "Me despierto a la siete de la mañana.",
       "Me duermo a las siete de la mañana."
     ],
-    "explanation": "'A las siete de la mañana' significa 'en seven en el/la mañana'. note: we use 'a las' para todos hours except one ('a la una').",
-    "context": "Talking about daily routines"
+    "explanation": "'A las siete de la mañana' indica la hora a la que ocurre algo por la mañana. Recuerda: se usa 'a las' para todas las horas excepto la una ('a la una').",
+    "context": "Talking about daily routines",
+    "hint": null
   },
   "q_vocab_a1_04_001": {
     "question": "¿Qué significa 'lunes' ?",
@@ -393,11 +394,11 @@
   },
   "q_vocab_a1_04_009": {
     "question": "Hoy es viernes. Mañana es ___.",
-    "correct": "Today is Friday. Tomorrow is Saturday.",
+    "correct": "sábado",
     "wrong": [
-      "Today is Friday. Tomorrow is Thursday.",
-      "Today is Friday. Tomorrow is Sunday.",
-      "Today is Thursday. Tomorrow is Friday."
+      "jueves",
+      "domingo",
+      "lunes"
     ],
     "explanation": "'Viernes' es Friday y el/la día después de Friday es 'sábado' (Saturday)."
   },
@@ -974,14 +975,15 @@
     "explanation": "'Examen' significa 'exam' o 'test'. El plural es 'exámenes' (note el/la accent shift)."
   },
   "q_vocab_a1_10_005": {
-    "question": "I study en the library.",
+    "question": "Estudio en la biblioteca.",
     "correct": "Estudio en la biblioteca.",
     "wrong": [
       "Estudio en la librería.",
       "Estudio en la escuela.",
       "Estudio en el aula."
     ],
-    "explanation": "'Biblioteca' significa 'library'. Ser careful: 'librería' significa 'bookstore', not 'library'."
+    "explanation": "'Biblioteca' es el lugar donde se leen y se prestan libros. Ojo: 'librería' es el lugar donde se compran libros, no una biblioteca.",
+    "hint": null
   },
   "q_vocab_a1_10_006": {
     "question": "¿Qué significa 'pizarra' en 'El profesor escribe en la pizarra'?",
@@ -1025,15 +1027,16 @@
     "explanation": "'Universidad' significa 'university'. 'Estudiar en la universidad' = 'a study en university'."
   },
   "q_vocab_a1_10_010": {
-    "question": "You need a borrow a pen from a classmate. What ¿ decir?",
+    "question": "Necesitas pedirle prestado un bolígrafo a un compañero de clase. ¿Qué dices?",
     "correct": "¿Me prestas un bolígrafo?",
     "wrong": [
       "¿Me prestas un lápiz?",
       "¿Me prestas un cuaderno?",
       "¿Me prestas un libro?"
     ],
-    "explanation": "'Bolígrafo' significa 'pen'. '¿Me prestas...?' significa 'Can tú lend me...?' que es común among classmates.",
-    "context": "In class without a pen"
+    "explanation": "'Bolígrafo' es el instrumento para escribir con tinta. '¿Me prestas...?' es una forma habitual de pedir algo prestado entre compañeros.",
+    "context": "In class without a pen",
+    "hint": null
   },
   "q_vocab_a1_11_001": {
     "question": "¿Qué significa 'médico' ?",
@@ -1128,15 +1131,16 @@
     "hint": null
   },
   "q_vocab_a1_11_010": {
-    "question": "You call emergency services. How ¿ ask para the police?",
+    "question": "Llamas a los servicios de emergencia. ¿Cómo pides la policía?",
     "correct": "¡Necesito la policía!",
     "wrong": [
       "¡Necesito un médico!",
       "¡Necesito un bombero!",
       "¡Necesito una ambulancia!"
     ],
-    "explanation": "'Policía' can significar 'police' (el/la force) o 'police officer'. Aquí ello se refiere a calling el/la police.",
-    "context": "Making an emergency phone call"
+    "explanation": "'Policía' puede referirse al cuerpo de seguridad o a un agente. Aquí se refiere a llamar a la policía.",
+    "context": "Making an emergency phone call",
+    "hint": null
   },
   "q_vocab_a1_12_001": {
     "question": "¿Qué significa 'sol' ?",
@@ -1387,14 +1391,15 @@
     "explanation": "'Hablar' significa 'a speak' o 'a talk'. 'Hablar español' = 'a speak Español'."
   },
   "q_vocab_a1_14_005": {
-    "question": "I open the window every morning.",
+    "question": "Abro la ventana cada mañana.",
     "correct": "Abro la ventana cada mañana.",
     "wrong": [
       "Cierro la ventana cada mañana.",
       "Abro la puerta cada mañana.",
       "Abro la ventana cada noche."
     ],
-    "explanation": "'Abrir' significa 'a open'. 'Abro' es el/la primera persona singular (yo) form. Su opposite es 'cerrar' (a close)."
+    "explanation": "'Abrir' es lo contrario de cerrar. 'Abro' es la forma de la primera persona del singular (yo). Su antónimo es 'cerrar'.",
+    "hint": null
   },
   "q_vocab_a1_14_006": {
     "question": "¿Qué significa 'escribir' en 'Escribo un correo electrónico'?",
@@ -1439,15 +1444,16 @@
     "explanation": "'Levantarse' significa 'para obtener up', 'ducharse' significa 'a shower', y 'desayunar' significa 'para tener breakfast'."
   },
   "q_vocab_a1_14_010": {
-    "question": "Your phone rings during a meeting. How ¿ tell your colleagues what you need para hacer?",
+    "question": "Te suena el teléfono durante una reunión. ¿Cómo les dices a tus colegas lo que tienes que hacer?",
     "correct": "Necesito llamar por teléfono.",
     "wrong": [
       "Necesito dormir un poco.",
       "Necesito comer algo.",
       "Necesito leer un libro."
     ],
-    "explanation": "'Llamar' significa 'a call'. 'Llamar por teléfono' significa 'para hacer a phone call'. Ello can también significar 'a call/name'.",
-    "context": "Receiving a phone call during a meeting"
+    "explanation": "'Llamar por teléfono' significa hacer una llamada telefónica. 'Llamar' también puede significar dar nombre a algo o a alguien.",
+    "context": "Receiving a phone call during a meeting",
+    "hint": null
   },
   "q_vocab_a1_15_001": {
     "question": "¿Qué significa 'contento' ?",
@@ -1500,15 +1506,15 @@
     "explanation": "'Preocupado' significa 'worried'. El/la sentence significa 'I am worried about el/la exam'. 'Preocuparse' = 'a worry'."
   },
   "q_vocab_a1_15_006": {
-    "question": "I am very nervous about the interview.",
+    "question": "Estoy muy nervioso por la entrevista.",
     "correct": "Estoy muy nervioso por la entrevista.",
     "wrong": [
       "Estoy muy contento por la entrevista.",
       "Estoy muy aburrido por la entrevista.",
       "Soy muy nervioso por la entrevista."
     ],
-    "explanation": "'Nervioso' significa 'nervous'. We use 'estar' (not 'ser') porque nervousness es a temporary state.",
-    "hint": "Temporary emotions use 'estar', not 'ser'"
+    "explanation": "'Nervioso' describe a alguien que siente nervios. Se usa 'estar' (no 'ser') porque el nerviosismo es un estado temporal.",
+    "hint": "Las emociones pasajeras se expresan con 'estar', no con 'ser'"
   },
   "q_vocab_a1_15_007": {
     "question": "¿Qué significa 'enfadado' en 'Mi padre está enfadado conmigo'?",

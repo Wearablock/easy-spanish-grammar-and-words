@@ -13,40 +13,42 @@
     "hint_ja": "問題を注意深く確認してください。"
   },
   "q_gram_c2_01_002": {
-    "question": "Fue en París ___ nos conocimos por primera vez. (cleft 文 particle)",
+    "question": "Fue en París ___ nos conocimos por primera vez. (分裂文の語)",
     "correct": "donde",
     "wrong": [
       "que",
       "cuando",
       "cual"
     ],
-    "explanation": "これは cleft 文 (oración hendida) 使われた 〜のために emphasis: 'Fue en París donde...' emphasizes この location. When この focused element は 場所, 'donde' 使われる. もし〜なら それ だった 時, 'cuando' 〜でしょう 使われた; 〜のために other elements, 'que' は more 一般的. Some speakers accept 'que' ここ too, しかし 'donde' は この stylistically precise choice.",
+    "explanation": "これは強調のための分裂文（oración hendida）です：'Fue en París donde...' は場所を強調しています。焦点となる要素が場所のときは 'donde' を使います。時間なら 'cuando' を使い、それ以外の要素では 'que' のほうが一般的です。ここで 'que' を認める話者もいますが、文体的に正確なのは 'donde' です。",
     "explanation_ja": "クレフト文(強調構文)に関する問題です。",
-    "hint": "この focused element は 場所 (en París)",
+    "hint": "焦点となる要素は場所（en París）です",
     "hint_ja": "問題を注意深く確認してください。"
   },
   "q_gram_c2_01_003": {
-    "question": "What stylistic effect does placing 動詞 〜の前 主語 produce スペイン語では declarative 文 (e.g., 'Llegó Juan' vs. 'Juan llegó')?",
-    "correct": "It presents the subject as new or unexpected information (rhematic focus), giving the sentence a more narrative or dramatic tone",
+    "question": "スペイン語の平叙文で動詞を主語の前に置くと、どのような文体的効果が生じますか(例:'Llegó Juan' と 'Juan llegó')?",
+    "correct": "主語を新情報や意外な情報(レマ的焦点)として提示し、文に物語的またはドラマチックな調子を与える",
     "wrong": [
-      "It makes the sentence grammatically more formal but has no change in meaning",
-      "It indicates that the action is habitual rather than a single event",
-      "It transforms the sentence into a question in formal registers"
+      "文法的により格式ばった文になるが、意味には変化がない",
+      "その動作が一回きりの出来事ではなく習慣的であることを示す",
+      "改まった文体では、その文を疑問文に変える"
     ],
-    "explanation": "スペイン語では, この default 語 order SVO 〜できる altered 〜のために information-structural purposes. Verb-Subject order (VS) 場所 主語 〜で rhematic (new information) position: 'Llegó Juan' presents Juan の arrival as noteworthy または unexpected, whereas 'Juan llegó' treats Juan as already known (thematic). This VS order は 一般的 〜で literary そして journalistic prose 〜のために dramatic effect.",
-    "explanation_ja": "に関する問題です。"
+    "explanation": "スペイン語では、基本の語順SVOを情報構造上の目的で変えることができます。動詞-主語(VS)の語順は主語をレマ(新情報)の位置に置きます。'Llegó Juan' はフアンの到着を注目すべきこと、あるいは意外なこととして示し、'Juan llegó' はフアンをすでに知られた存在(テマ)として扱います。このVS語順は、劇的な効果を出すために文学的な文章や報道の文章でよく使われます。",
+    "explanation_ja": "に関する問題です。",
+    "hint": null
   },
   "q_gram_c2_01_004": {
-    "question": "Lo que ___ es una explicación clara, no excusas. (necesitar, 直説法現在, nosotros — emphatic pseudocleft)",
+    "question": "Lo que ___ es una explicación clara, no excusas. (necesitar、直説法現在、nosotros — 強調の疑似分裂文)",
     "correct": "necesitamos",
     "wrong": [
       "necesitemos",
       "necesitaríamos",
       "necesitáramos"
     ],
-    "explanation": "〜で pseudocleft (oración pseudohendida) like 'Lo que necesitamos es...', 動詞 〜で この relative clause 取る この 直説法 なぜなら それ 〜を指す real, asserted need. この 接続法 〜でしょう 使われた 〜だけ もし〜なら この need だった hypothetical または uncertain, which この emphatic tone 〜の この pseudocleft denies.",
+    "explanation": "'Lo que necesitamos es...' のような疑似分裂文(oración pseudohendida)では、関係節の動詞は直説法になります。実際に存在する、断定された必要を指しているからです。接続法は、その必要が仮定的または不確かな場合にのみ使われますが、疑似分裂文の強調的な口調はそれを否定します。",
     "explanation_ja": "接続法の用法に関する問題です。",
-    "conjugation_info": "necesitar (present indicative): necesito, necesitas, necesita, necesitamos, necesitáis, necesitan"
+    "conjugation_info": "necesitar (present indicative): necesito, necesitas, necesita, necesitamos, necesitáis, necesitan",
+    "hint": null
   },
   "q_gram_c2_01_005": {
     "question": "Bonita respuesta ___ diste. (emphatic ironic construction 〜と determiner)",
@@ -133,26 +135,28 @@
     "conjugation_info": "hacer (future subjunctive): hiciere, hicieres, hiciere, hiciéremos, hiciereis, hicieren"
   },
   "q_gram_c2_02_002": {
-    "question": "Apenas hubo ___ el rey, toda la corte enmudeció. (entrar, pretérito anterior — literary narrative)",
+    "question": "Apenas hubo ___ el rey, toda la corte enmudeció. (entrar、直前過去 — 文学的な語り)",
     "correct": "entrado",
     "wrong": [
       "entrando",
       "entró",
       "entrada"
     ],
-    "explanation": "この pretérito anterior ('hubo entrado') 使われる 〜で literary prose 〜の後 temporal conjunctions like 'apenas' (scarcely) 〜を示すため action completed immediately 〜の前 another past event. This tense は virtually extinct 〜で spoken スペイン語 しかし appears 〜で 丁寧 そして literary writing. この 過去分詞 〜の 'entrar' は 規則: 'entrado'.",
-    "explanation_ja": "に関する問題です。"
+    "explanation": "直前過去('hubo entrado')は、'apenas'(~するやいなや)のような時の接続詞の後で、別の過去の出来事の直前に完了した動作を表すために文学的な文章で使われます。この時制は話し言葉ではほぼ消滅していますが、改まった文章や文学的な文章には現れます。'entrar' の過去分詞は規則的で 'entrado' です。",
+    "explanation_ja": "に関する問題です。",
+    "hint": null
   },
   "q_gram_c2_02_003": {
-    "question": "Sea lo que ___, no me rendiré. (ser, future 接続法 — archaic concessive formula)",
+    "question": "Sea lo que ___, no me rendiré. (ser、接続法未来 — 古風な譲歩の定型表現)",
     "correct": "fuere",
     "wrong": [
       "sea",
       "fuera",
       "será"
     ],
-    "explanation": "この expression 'sea lo que fuere' (来る what 〜かもしれない) preserves この future 接続法 'fuere' 〜で fixed concessive formula. 〜で modern スペイン語, これは よく regularized 〜に 'sea lo que sea', しかし この archaic 形 persists 〜で 丁寧 そして literary registers. この future 接続法 〜の 'ser' shares 形 〜と 'ir': fuere, fueres, fuere, etc.",
-    "explanation_ja": "接続法の用法に関する問題です。"
+    "explanation": "'sea lo que fuere'(何があろうとも)という表現は、固定した譲歩の定型句の中に接続法未来 'fuere' を残しています。現代スペイン語では 'sea lo que sea' と規則化されることが多いですが、古風な形は改まった文体や文学的な文体に残っています。'ser' の接続法未来は 'ir' と同じ形です:fuere, fueres, fuere など。",
+    "explanation_ja": "接続法の用法に関する問題です。",
+    "hint": null
   },
   "q_gram_c2_02_004": {
     "question": "'pretérito anterior'(hubo cantado)とは何で、なぜ古風とされるのですか?",
@@ -203,16 +207,16 @@
     "explanation_ja": "接続法の用法に関する問題です。"
   },
   "q_gram_c2_02_008": {
-    "question": "No bien hubo ___ la sentencia, el acusado se desplomó. (oír, pretérito anterior — literary narrative)",
+    "question": "No bien hubo ___ la sentencia, el acusado se desplomó. (oír、直前過去 — 文学的な語り)",
     "correct": "oído",
     "wrong": [
       "oyendo",
       "oyó",
       "oída"
     ],
-    "explanation": "〜の後 'no bien' (no sooner), この pretérito anterior ('hubo oído') 表す action completed immediately 〜の前 another past event. この 過去分詞 〜の 'oír' は 'oído' (〜と accent 〜に break この diphthong). This tense は reserved 〜のために highly 丁寧 literary narrative.",
+    "explanation": "'no bien'(~するやいなや)の後では、直前過去('hubo oído')が別の過去の出来事の直前に完了した動作を表します。'oír' の過去分詞は 'oído' です(二重母音を分けるためにアクセント記号が付きます)。この時制は非常に改まった文学的な語りにのみ用いられます。",
     "explanation_ja": "に関する問題です。",
-    "hint": "この 過去分詞 〜の 'oír' has accent mark",
+    "hint": "'oír' の過去分詞にはアクセント記号が付く",
     "hint_ja": "問題を注意深く確認してください。"
   },
   "q_gram_c2_02_009": {
@@ -264,15 +268,16 @@
     "explanation_ja": "レイスモ(代名詞の使用変異)に関する問題です。"
   },
   "q_gram_c2_03_003": {
-    "question": "〜は何 この key grammatical difference between 'ustedes' usage 〜で Peninsular スペイン語 そして Latin American スペイン語?",
-    "correct": "In Peninsular Spanish, 'ustedes' is exclusively formal plural (vs. informal 'vosotros'); in Latin American Spanish, 'ustedes' serves as both formal and informal plural, replacing 'vosotros' entirely",
+    "question": "半島(スペイン本国)のスペイン語とラテンアメリカのスペイン語とでは、'ustedes' の使い方における文法上の重要な違いは何ですか?",
+    "correct": "半島のスペイン語では 'ustedes' は改まった複数形に限られる(くだけた 'vosotros' に対して)。ラテンアメリカのスペイン語では 'ustedes' が改まった複数形とくだけた複数形の両方を担い、'vosotros' を完全に置き換えている",
     "wrong": [
-      "In Peninsular Spanish, 'ustedes' takes second-person plural verbs; in Latin American Spanish it takes third-person plural verbs",
-      "In Peninsular Spanish, 'ustedes' is only used for women; in Latin American Spanish it is gender-neutral",
-      "There is no grammatical difference; the distinction is purely one of pronunciation"
+      "半島のスペイン語では 'ustedes' は二人称複数の動詞を取り、ラテンアメリカのスペイン語では三人称複数の動詞を取る",
+      "半島のスペイン語では 'ustedes' は女性にしか使われず、ラテンアメリカのスペイン語では性による区別がない",
+      "文法上の違いはなく、その違いは純粋に発音だけの問題である"
     ],
-    "explanation": "これは one 〜の この most significant dialectal grammar differences スペイン語では. Peninsular スペイン語 maintains two-方法 砕けた/丁寧 distinction 〜で この 複数: vosotros/as (砕けた) vs. ustedes (丁寧). Latin American スペイン語 has eliminated 'vosotros' entirely, using 'ustedes' 〜と third-人称 複数 動詞 〜のために all 複数 addresses regardless 〜の formality.",
-    "explanation_ja": "に関する問題です。"
+    "explanation": "これはスペイン語の方言間の文法の違いの中でも最も重要なものの一つです。半島のスペイン語では複数形にくだけた/改まったの二通りの区別があり、vosotros/as(くだけた)と ustedes(改まった)です。ラテンアメリカのスペイン語では 'vosotros' が完全に消え、丁寧さの度合いに関係なく、あらゆる複数の呼びかけに三人称複数の動詞を伴う 'ustedes' を使います。",
+    "explanation_ja": "に関する問題です。",
+    "hint": null
   },
   "q_gram_c2_03_004": {
     "question": "Vos ___ a la fiesta anoche, ¿verdad? (ir, Argentine voseo, 点過去)",
@@ -325,15 +330,16 @@
     "hint_ja": "問題を注意深く確認してください。"
   },
   "q_gram_c2_03_008": {
-    "question": "I saw him yesterday 〜で この market. (Translate using この leísmo 形 accepted 〜によって この RAE 〜のために 男性単数 animate referents)",
+    "question": "昨日、市場で彼を見かけた。(男性単数の有生の指示対象についてRAEが認めているレイスモの形を使って訳しなさい)",
     "correct": "Le vi ayer en el mercado.",
     "wrong": [
       "Lo vi ayer en el mercado.",
       "La vi ayer en el mercado.",
       "Les vi ayer en el mercado."
     ],
-    "explanation": "この RAE accepts leísmo 〜のために 男性単数 animate referents: 'Le vi' (instead 〜の この etymologically 正しい 'Lo vi') when referring 〜に male 人称. これは この 〜だけ タイプ 〜の leísmo considered acceptable. Leísmo 〜と 女性, 複数, または inanimate referents は not accepted.",
-    "explanation_ja": "レイスモ(代名詞の使用変異)に関する問題です。"
+    "explanation": "RAEは、男性単数の有生の指示対象についてはレイスモを認めています。男性の人物を指す場合、語源的に正しい 'Lo vi' の代わりに 'Le vi' が使えます。これは容認されている唯一のタイプのレイスモです。女性、複数、無生物の指示対象に対するレイスモは認められていません。",
+    "explanation_ja": "レイスモ(代名詞の使用変異)に関する問題です。",
+    "hint": null
   },
   "q_gram_c2_03_009": {
     "question": "Vos ___ que estudiar más si querés aprobar. (tener, Argentine voseo, 直説法現在)",
@@ -459,14 +465,15 @@
   },
   "q_gram_c2_04_009": {
     "question": "No sé cómo decirle esto, pero me temo que su solicitud no ha sido aceptada.",
-    "correct": "I don't know how to tell you this, but I'm afraid your application has not been accepted.",
+    "correct": "こんなことをお伝えするのは心苦しいのですが、残念ながらお客様の申請は受理されませんでした。",
     "wrong": [
-      "I don't know what to say, but I think your request was not accepted.",
-      "I cannot tell you this, but I fear that your application was rejected.",
-      "I'm not sure how to say this, but your application might not have been accepted."
+      "何と言えばよいか分かりませんが、あなたの依頼は受け入れられなかったと思います。",
+      "こんなことはお伝えできませんが、お客様の申請は却下されたのではないかと危惧しています。",
+      "どう言えばよいか分かりませんが、お客様の申請は受理されていないかもしれません。"
     ],
-    "explanation": "This 文 demonstrates multiple pragmatic softening strategies 〜のために delivering bad news: 'no sé cómo decirle' (prefatory hedging), 'me temo que' (epistemic distancing — literally 'I fear that'), そして この 丁寧 'le' (usted register). この 現在完了 'ha sido aceptada' は この appropriate tense 〜のために announcing result, そして この passive voice depersonalizes この rejection.",
-    "explanation_ja": "実用論的標識に関する問題です。"
+    "explanation": "この文は、悪い知らせを伝えるための語用論的な和らげの方略をいくつも示しています。'no sé cómo decirle'(前置き的なぼかし)、'me temo que'(認識上の距離の取り方 — 文字どおりには「~を恐れる」)、そして改まった 'le'(usted の敬称)です。現在完了 'ha sido aceptada' は結果を知らせるのにふさわしい時制で、受動態は拒否の主体をぼかします。",
+    "explanation_ja": "実用論的標識に関する問題です。",
+    "hint": null
   },
   "q_gram_c2_04_010": {
     "question": "¿No ___ usted tan amable de pasarme la sal? (ser, future 直説法 — rhetorical politeness 〜と 未来時制)",
@@ -481,16 +488,16 @@
     "conjugation_info": "ser (future indicative): seré, serás, será, seremos, seréis, serán"
   },
   "q_gram_c2_05_001": {
-    "question": "El presunto autor del robo ___ detenido ayer por la policía. (ser, 点過去 — journalistic passive voice)",
+    "question": "El presunto autor del robo ___ detenido ayer por la policía. (ser、点過去 — 報道文の受動態)",
     "correct": "fue",
     "wrong": [
       "ha sido",
       "estaba",
       "era"
     ],
-    "explanation": "〜で journalistic スペイン語, この passive voice 〜と 'ser' 〜で この 点過去 ('fue detenido') は standard 〜のために reporting completed events. This contrasts 〜と everyday spoken スペイン語, which strongly prefers active constructions または 'se' passives. この journalistic passive creates objectivity そして formality. 'Ha sido' (現在完了) 〜でしょう suggest closer temporal relevance.",
+    "explanation": "報道のスペイン語では、完了した出来事を伝えるのに、点過去の 'ser' を使った受動態('fue detenido')が標準です。日常の話し言葉が能動態や 'se' 受動文を強く好むのとは対照的です。報道の受動態は客観性と格式を生み出します。'Ha sido'(現在完了)は、時間的により近い関連性を示唆します。",
     "explanation_ja": "直説法過去の用法に関する問題です。",
-    "hint": "Journalistic reporting 〜の completed past event 使う この 点過去 passive",
+    "hint": "報道で完了した過去の出来事を伝えるときは、点過去の受動態を使う",
     "hint_ja": "問題を注意深く確認してください。"
   },
   "q_gram_c2_05_002": {
@@ -568,15 +575,16 @@
     "hint_ja": "問題を注意深く確認してください。"
   },
   "q_gram_c2_05_008": {
-    "question": "それ だった concluded that この treatment significantly reduces symptoms 〜で 78% 〜の patients. (Translate using scientific register)",
+    "question": "その治療は患者の78%で症状を著しく軽減すると結論づけられた。(科学的な文体で訳しなさい)",
     "correct": "Se concluyó que el tratamiento reduce significativamente los síntomas en el 78% de los pacientes.",
     "wrong": [
       "Concluimos que el tratamiento reduce significativamente los síntomas en el 78% de los pacientes.",
       "Fue concluido que el tratamiento reduce los síntomas significativamente en 78% de los pacientes.",
       "Se ha concluido que el tratamiento redujo los síntomas en el 78% de los pacientes."
     ],
-    "explanation": "Scientific スペイン語 使う この impersonal 'se concluyó' rather than この personal 'concluimos' または この passive 'fue concluido' (which は grammatically awkward 〜と 'concluir' 〜で この文脈). 冠詞 'el' 〜の前 '78%' は standard スペイン語では scientific writing. 'Significativamente' は placed 〜の前 動詞 それ modifies 〜のために 丁寧 precision.",
-    "explanation_ja": "受動文の用法に関する問題です。"
+    "explanation": "科学的なスペイン語では、人称の 'concluimos' や受動態の 'fue concluido'(この文脈の 'concluir' では文法的にぎこちない)ではなく、無人称の 'se concluyó' を使います。'78%' の前の冠詞 'el' は、スペイン語の科学論文では標準的です。'Significativamente' は、形式的な正確さのために、修飾する動詞の前に置かれます。",
+    "explanation_ja": "受動文の用法に関する問題です。",
+    "hint": null
   },
   "q_gram_c2_05_009": {
     "question": "Por la presente, se ___ a las partes que el plazo vence el día 15 del corriente mes. (notificar, 直説法現在, impersonal 'se' — legal/administrative register)",
@@ -603,16 +611,17 @@
     "hint": null
   },
   "q_gram_c2_06_001": {
-    "question": "El informe concluye lo siguiente___ los resultados son definitivos. (Choose この 正しい punctuation + conjunction パターン)",
+    "question": "El informe concluye lo siguiente___ los resultados son definitivos. (正しい句読点+接続の形を選びなさい)",
     "correct": ": los resultados son definitivos",
     "wrong": [
       "; los resultados son definitivos",
       "— los resultados son definitivos",
       ", los resultados son definitivos"
     ],
-    "explanation": "〜の後 'lo siguiente' (この following), colon (:) 必要 スペイン語では 〜に introduce what follows. semicolon 〜でしょう separate independent clauses 〜なしに この introductory relationship, そして dash 〜に使う parenthetical insertions, not introductions.",
+    "explanation": "'lo siguiente'(次のこと)の後では、続く内容を導入するためにスペイン語ではコロン(:)が必要です。セミコロンは導入の関係を持たずに独立した節を区切るもので、ダッシュは導入ではなく挿入句に使われます。",
     "explanation_ja": "に関する問題です。",
-    "conjugation_info": "Colon usage: after 'lo siguiente', 'a saber', 'es decir' when introducing explanatory content"
+    "conjugation_info": "Colon usage: after 'lo siguiente', 'a saber', 'es decir' when introducing explanatory content",
+    "hint": null
   },
   "q_gram_c2_06_002": {
     "question": "La propuesta fue rechazada___ sin embargo, el comité acordó reconsiderarla.",
@@ -622,9 +631,9 @@
       ":",
       "—"
     ],
-    "explanation": " semicolon 必要 〜の前 adversative conjuncts like 'sin embargo', 'no obstante', そして 'ahora bien' when 彼ら connect two independent clauses. comma alone creates comma splice (coma criminal) 〜で 丁寧 スペイン語 prose.",
+    "explanation": "'sin embargo'、'no obstante'、'ahora bien' のような逆接の接続語が二つの独立した節をつなぐとき、その前にはセミコロンが必要です。コンマだけでは、改まったスペイン語の文章ではコンマ・スプライス(coma criminal)になってしまいます。",
     "explanation_ja": "に関する問題です。",
-    "hint": "Adversative connectors between independent clauses require stronger punctuation than comma",
+    "hint": "独立した節どうしをつなぐ逆接の接続語には、コンマより強い句読点が必要",
     "hint_ja": "問題を注意深く確認してください。"
   },
   "q_gram_c2_06_003": {
@@ -653,16 +662,17 @@
     "hint": null
   },
   "q_gram_c2_06_005": {
-    "question": "El director declaró___ «No habrá más despidos este trimestre». (この director stated___)",
+    "question": "El director declaró___ «No habrá más despidos este trimestre». (所長は~と述べた___)",
     "correct": ":",
     "wrong": [
       ",",
       ";",
       " —"
     ],
-    "explanation": "スペイン語では, colon precedes direct quotation introduced 〜によって 動詞 〜の communication (declarar, decir, afirmar). Unlike 英語, which 〜かもしれない 使う comma, スペイン語 丁寧 style requires colon 〜の前 quoted speech when introduced 〜によって declarative verb.",
+    "explanation": "スペイン語では、伝達動詞(declarar, decir, afirmar)に導かれる直接引用の前にコロンを置きます。コンマを使うことのある英語と違い、スペイン語の改まった文体では、宣言を表す動詞で導かれた引用の前にコロンが必要です。",
     "explanation_ja": "に関する問題です。",
-    "conjugation_info": "Verbs of communication (declarar, afirmar, señalar) + colon + quoted speech is standard in formal/journalistic Spanish"
+    "conjugation_info": "Verbs of communication (declarar, afirmar, señalar) + colon + quoted speech is standard in formal/journalistic Spanish",
+    "hint": null
   },
   "q_gram_c2_06_006": {
     "question": "Todo estaba en calma___ de repente, un ruido ensordecedor sacudió el edificio.",
@@ -713,16 +723,17 @@
     "explanation_ja": "に関する問題です。"
   },
   "q_gram_c2_06_010": {
-    "question": "Había dos opciones —según nos explicaron—___ aceptar o renunciar. (haber, 直説法線過去 — already conjugated; choose この 正しい punctuation 〜の後 この parenthetical)",
+    "question": "Había dos opciones —según nos explicaron—___ aceptar o renunciar. (haber、直説法線過去 — すでに活用済み。挿入句の後の正しい句読点を選びなさい)",
     "correct": ":",
     "wrong": [
       ";",
       ",",
       "—"
     ],
-    "explanation": "この em dashes (rayas) enclose この parenthetical 'según nos explicaron' (as 彼ら explained 〜に us). 〜の後 この closing dash, colon introduces この specification 〜の 'dos opciones'. この colon functions as cataphoric marker, そして この parenthetical insertion between dashes does not 変わる この punctuation logic 〜の この main 文.",
+    "explanation": "エムダッシュ(raya)は挿入句 'según nos explicaron'(彼らが私たちに説明したところによれば)を囲んでいます。閉じのダッシュの後では、コロンが 'dos opciones' の具体的な内容を導入します。コロンは後方を指し示す(カタフォラ的な)標識として働き、ダッシュに挟まれた挿入句は主文の句読点の論理を変えません。",
     "explanation_ja": "句読点の用法に関する問題です。",
-    "conjugation_info": "Parenthetical insertions between rayas do not alter the punctuation requirements of the main clause structure"
+    "conjugation_info": "Parenthetical insertions between rayas do not alter the punctuation requirements of the main clause structure",
+    "hint": null
   },
   "q_gram_c2_07_001": {
     "question": "Sírvase ___ a la recepción a las nueve en punto. (acudir, ultra-丁寧 命令形 usted)",
@@ -751,15 +762,16 @@
     "hint_ja": "問題を注意深く確認してください。"
   },
   "q_gram_c2_07_003": {
-    "question": "What register shift 起こる when speaker says 'Ruego usted tenga bien considerar mi solicitud' versus 'Por favor, considere mi solicitud'?",
-    "correct": "Both are formal, but the first uses ultra-formal bureaucratic register with archaic constructions ('tenga a bien'), while the second is standard polite formal register",
+    "question": "話し手が 'Ruego a usted tenga a bien considerar mi solicitud' と言う場合と 'Por favor, considere mi solicitud' と言う場合とでは、どのような文体レベルの違いが生じますか?",
+    "correct": "どちらも改まった表現だが、前者は古風な構文('tenga a bien')を用いた極めて格式の高い事務的文体であり、後者は標準的な丁寧で改まった文体である",
     "wrong": [
-      "The first is informal because it uses 'ruego' which is a casual word",
-      "Both sentences are in exactly the same register with no meaningful difference",
-      "The first is written register and the second can only be used in spoken language"
+      "前者は 'ruego' がくだけた言葉なので、くだけた表現である",
+      "両方の文はまったく同じ文体で、意味のある違いはない",
+      "前者は書き言葉で、後者は話し言葉でしか使えない"
     ],
-    "explanation": "'Tener bien' (〜に see fit 〜に) は ultra-丁寧/archaic construction found 〜で legal そして administrative documents. 'Ruego usted tenga bien' belongs 〜に この highest formality tier (registro solemne/protocolario), 〜の間 'por favor, considere' は standard 丁寧 (registro 丁寧 estándar). Mastering register 〜を意味する recognizing these gradations.",
-    "explanation_ja": "レジスター(言語使用層)の違いに関する問題です。"
+    "explanation": "'Tener a bien'(~することを適当と認める)は、法律文書や行政文書に見られる極めて格式の高い/古風な構文です。'Ruego a usted tenga a bien' は最高位の格式(registro solemne/protocolario)に属し、'por favor, considere' は標準的な改まった文体(registro formal estándar)です。文体を使いこなすとは、こうした段階の違いを見分けることです。",
+    "explanation_ja": "レジスター(言語使用層)の違いに関する問題です。",
+    "hint": null
   },
   "q_gram_c2_07_004": {
     "question": "Se ___ a los señores pasajeros que abrochen sus cinturones. (rogar, 丁寧 announcement, third 人称 単数 passive)",
@@ -774,16 +786,16 @@
     "conjugation_info": "rogar (present indicative): ruego, ruegas, ruega, rogamos, rogáis, ruegan — note the o→ue stem change"
   },
   "q_gram_c2_07_005": {
-    "question": "Habida cuenta de las circunstancias, ___ oportuno aplazar la sesión. (resultar, ultra-丁寧 written register)",
+    "question": "Habida cuenta de las circunstancias, ___ oportuno aplazar la sesión. (resultar、極めて格式の高い書き言葉)",
     "correct": "resulta",
     "wrong": [
       "es",
       "parece",
       "queda"
     ],
-    "explanation": "'Habida cuenta de' (〜で view 〜の / given) は ultra-丁寧 connector 使われた 〜で legal, academic, そして parliamentary discourse. 'Resulta oportuno' (それ proves/turns out 〜に be appropriate) は この register-appropriate verb choice. 'Es oportuno' 〜でしょう standard 丁寧; 'resultar' adds この nuance 〜の objective conclusion characteristic 〜の this register.",
+    "explanation": "'Habida cuenta de'(~を考慮して)は、法律、学術、議会の言説で使われる極めて格式の高い接続表現です。'Resulta oportuno'(適切であると判明する)は、この文体にふさわしい動詞の選択です。'Es oportuno' は標準的な改まった表現にとどまり、'resultar' はこの文体に特徴的な、客観的な結論というニュアンスを加えます。",
     "explanation_ja": "レジスター(言語使用層)の違いに関する問題です。",
-    "hint": "'Habida cuenta de' signals ultra-丁寧 register — which verb matches this tone?",
+    "hint": "'Habida cuenta de' は極めて格式の高い文体を示す — この調子に合う動詞はどれ?",
     "hint_ja": "問題を注意深く確認してください。"
   },
   "q_gram_c2_07_006": {
@@ -846,16 +858,17 @@
     "explanation_ja": "レジスター(言語使用層)の違いに関する問題です。"
   },
   "q_gram_c2_08_001": {
-    "question": "Caminaba por la calle cuando, de pronto, ___ ante él una figura sombría. (aparecer, literary pretérito indefinido 〜のために narrative rupture)",
+    "question": "Caminaba por la calle cuando, de pronto, ___ ante él una figura sombría. (aparecer、物語の断絶を表す文学的な点過去)",
     "correct": "apareció",
     "wrong": [
       "aparecía",
       "ha aparecido",
       "apareciera"
     ],
-    "explanation": "〜で literary narrative, この 線過去 ('caminaba') sets この background scene, そして この pretérito indefinido ('apareció') interrupts 〜と foreground event. This alternation between 線過去 (description/background) そして indefinido (action/foreground) は fundamental 〜に スペイン語 narrative technique. 'De pronto' (suddenly) signals この narrative rupture.",
+    "explanation": "文学的な語りでは、線過去('caminaba')が背景の場面を設定し、点過去('apareció')が前景の出来事としてそれを遮ります。線過去(描写・背景)と点過去(行動・前景)のこの交替は、スペイン語の語りの技法の基本です。'De pronto'(突然)は語りの断絶を示します。",
     "explanation_ja": "過去未完了の用法に関する問題です。",
-    "conjugation_info": "aparecer (pretérito indefinido): aparecí, apareciste, apareció, aparecimos, aparecisteis, aparecieron"
+    "conjugation_info": "aparecer (pretérito indefinido): aparecí, apareciste, apareció, aparecimos, aparecisteis, aparecieron",
+    "hint": null
   },
   "q_gram_c2_08_002": {
     "question": "No podía creerlo. ___ irse de allí cuanto antes. Nadie debía enterarse. (tener que, free indirect style, 線過去)",
@@ -896,16 +909,17 @@
     "hint": null
   },
   "q_gram_c2_08_005": {
-    "question": "Mañana ___ el día decisivo. Lo sabía. Lo sentía en los huesos. (ser, literary present 〜のために narrative anticipation mixed 〜と 線過去 〜のために interiority)",
+    "question": "Mañana ___ el día decisivo. Lo sabía. Lo sentía en los huesos. (ser、語りの予感を表す文学的な現在と、内面を表す線過去の混用)",
     "correct": "sería",
     "wrong": [
       "era",
       "fue",
       "es"
     ],
-    "explanation": "この 過去未来形 'sería' 〜で literary narrative functions as 'future 〜の この past' — それ 表す この character の anticipation 〜の future event 〜から past narrative standpoint. Combined 〜と この 線過去 ('sabía', 'sentía'), それ creates layered temporal perspective characteristic 〜の sophisticated literary prose. これは distinct 〜から この simple 線過去 'era', which 〜でしょう merely 説明する.",
+    "explanation": "文学的な語りの条件法 'sería' は「過去から見た未来」として働き、過去の語りの視点から、登場人物が未来の出来事を予期していることを表します。線過去('sabía'、'sentía')と組み合わさって、洗練された文学的散文に特徴的な、重層的な時間の視点を生み出します。これは単なる描写にとどまる単純な線過去 'era' とは異なります。",
     "explanation_ja": "条件法の用法に関する問題です。",
-    "conjugation_info": "ser (conditional): sería, serías, sería, seríamos, seríais, serían"
+    "conjugation_info": "ser (conditional): sería, serías, sería, seríamos, seríais, serían",
+    "hint": null
   },
   "q_gram_c2_08_006": {
     "question": "Le miraron con desprecio. ___ un intruso, un don nadie. ¿Qué hacía allí? (ser, free indirect style, 線過去)",
@@ -957,16 +971,17 @@
     "explanation_ja": "接続法の用法に関する問題です。"
   },
   "q_gram_c2_08_010": {
-    "question": "Y entonces lo ___: aquella no era su vida, sino la de otro, la de un desconocido que habitaba su cuerpo. (comprender, literary pretérito indefinido 〜のために epiphany)",
+    "question": "Y entonces lo ___: aquella no era su vida, sino la de otro, la de un desconocido que habitaba su cuerpo. (comprender、悟りの瞬間を表す文学的な点過去)",
     "correct": "comprendió",
     "wrong": [
       "comprendía",
       "comprende",
       "habría comprendido"
     ],
-    "explanation": "この pretérito indefinido 'comprendió' marks この moment 〜の epiphany (anagnórisis) 〜で literary narrative — sudden, completed act 〜の understanding that 変わる everything. この 線過去 'comprendía' 〜でしょう suggest gradual, ongoing understanding 〜なしに この dramatic rupture. Literary analysis distinguishes between these aspectual choices as deliberate narrative strategies.",
+    "explanation": "点過去 'comprendió' は、文学的な語りにおける悟りの瞬間(anagnórisis)、つまりすべてを変える突然の完了した理解の行為を示します。線過去 'comprendía' は、劇的な断絶のない、徐々に進む継続的な理解を示唆します。文学分析では、こうしたアスペクトの選択を意図的な語りの戦略として区別します。",
     "explanation_ja": "過去未完了の用法に関する問題です。",
-    "conjugation_info": "comprender (pretérito indefinido): comprendí, comprendiste, comprendió, comprendimos, comprendisteis, comprendieron"
+    "conjugation_info": "comprender (pretérito indefinido): comprendí, comprendiste, comprendió, comprendimos, comprendisteis, comprendieron",
+    "hint": null
   },
   "q_gram_c2_09_001": {
     "question": "Estoy seguro ___ que vendrá mañana. (Choose この 正しい preposition, または lack thereof)",
@@ -1093,28 +1108,29 @@
     "explanation_ja": "に関する問題です。"
   },
   "q_gram_c2_10_001": {
-    "question": "María estudió toda la noche. ___ embargo, no aprobó el examen. (Choose この 正しい discourse marker 〜のために concession/contrast)",
+    "question": "María estudió toda la noche. ___ embargo, no aprobó el examen. (譲歩・対比を表す正しい談話標識を選んでください)",
     "correct": "Sin",
     "wrong": [
       "Por",
       "No",
       "En"
     ],
-    "explanation": "'Sin embargo' (しかし/nevertheless) は concessive discourse marker that introduces result contrary 〜に what この previous clause 〜でしょう lead one 〜に expect. それ functions as adversative connector maintaining cohesion between この two propositions. 〜で discourse analysis, それ signals counter-argumentative relationship.",
+    "explanation": "'Sin embargo'(しかしながら/それにもかかわらず)は譲歩を表す談話標識で、前の節から予想される内容とは逆の結果を導きます。2つの命題の結束性を保つ逆接の接続表現として働きます。談話分析では、反論的な関係を示すものとされます。",
     "explanation_ja": "に関する問題です。",
-    "conjugation_info": "Adversative/concessive markers: sin embargo, no obstante, con todo, ahora bien, aun así"
+    "conjugation_info": "Adversative/concessive markers: sin embargo, no obstante, con todo, ahora bien, aun así",
+    "hint": null
   },
   "q_gram_c2_10_002": {
-    "question": "La empresa anunció nuevas medidas. ___ incluyen la reducción de la jornada laboral. (Choose この anaphoric pronoun that maintains cohesion)",
+    "question": "La empresa anunció nuevas medidas. ___ incluyen la reducción de la jornada laboral. (結束性を保つ前方照応の代名詞を選んでください)",
     "correct": "Estas",
     "wrong": [
       "Aquellas",
       "Las",
       "Esas"
     ],
-    "explanation": "'Estas' (these) は この 正しい anaphoric demonstrative なぜなら それ refers back 〜に 'nuevas medidas' just mentioned — この most recently introduced referent. 〜で discourse analysis, 'estas' creates near-distance anaphora (referencing what だった just said), 〜の間 'aquellas' 〜でしょう suggest greater textual distance. This choice affects discourse cohesion.",
+    "explanation": "'Estas'(これらの)が正しい前方照応の指示詞です。直前に出てきた 'nuevas medidas' を指しており、最も近くで導入された指示対象だからです。談話分析では、'estas' は近距離の前方照応(今述べたばかりのものを指す)を作り、'aquellas' はテキスト上でより離れていることを示唆します。この選択は談話の結束性に影響します。",
     "explanation_ja": "に関する問題です。",
-    "hint": "Near anaphora (just mentioned) = estas; distant anaphora = aquellas",
+    "hint": "近い前方照応(今述べたばかり)= estas、遠い前方照応 = aquellas",
     "hint_ja": "問題を注意深く確認してください。"
   },
   "q_gram_c2_10_003": {
@@ -1131,15 +1147,16 @@
     "hint_ja": "問題を注意深く確認してください。"
   },
   "q_gram_c2_10_004": {
-    "question": "〜で discourse analysis, 〜は何 この difference between anaphora そして cataphora?",
-    "correct": "Anaphora refers back to something previously mentioned in the text, while cataphora refers forward to something that will be mentioned later",
+    "question": "談話分析において、前方照応(anaphora)と後方照応(cataphora)の違いは何ですか?",
+    "correct": "前方照応は文章中で先に述べたものを指し、後方照応はこれから述べられるものを指す",
     "wrong": [
-      "Anaphora is a literary device of repetition, while cataphora is a grammatical error",
-      "Both refer to the same thing: backward reference in text",
-      "Anaphora is used in spoken language and cataphora only in written language"
+      "前方照応は繰り返しを用いる修辞技法であり、後方照応は文法上の誤りである",
+      "どちらも同じもの、つまり文章中の前を指す参照である",
+      "前方照応は話し言葉で使われ、後方照応は書き言葉でのみ使われる"
     ],
-    "explanation": "Anaphora (backward reference): 'Juan llegó. ÉL estaba cansado.' (él → Juan). Cataphora (forward reference): 'Lo que te voy decir es ESTO: no vuelvas.' (esto → no vuelvas). 両方 は referential mechanisms that create textual cohesion. Mastering these concepts は essential 〜のために C2-level discourse analysis そして academic writing スペイン語では.",
-    "explanation_ja": "に関する問題です。"
+    "explanation": "前方照応(前を指す):'Juan llegó. ÉL estaba cansado.'(él → Juan)。後方照応(後ろを指す):'Lo que te voy a decir es ESTO: no vuelvas.'(esto → no vuelvas)。どちらもテキストの結束性を生み出す照応のしくみです。この概念を使いこなすことは、C2レベルの談話分析やスペイン語のアカデミックライティングに欠かせません。",
+    "explanation_ja": "に関する問題です。",
+    "hint": null
   },
   "q_gram_c2_10_005": {
     "question": "El proyecto fracasó. No obstante, los investigadores ___ valiosas lecciones de la experiencia. (extraer, pretérito indefinido — maintaining thematic progression)",
@@ -1154,28 +1171,29 @@
     "conjugation_info": "extraer (pretérito indefinido): extraje, extrajiste, extrajo, extrajimos, extrajisteis, extrajeron — irregular stem extraj-"
   },
   "q_gram_c2_10_006": {
-    "question": "Algunos expertos defienden la medida. ___, otros la consideran contraproducente. (Choose この discourse marker 〜のために introducing opposing viewpoint)",
+    "question": "Algunos expertos defienden la medida. ___, otros la consideran contraproducente. (対立する見方を導入する談話標識を選んでください)",
     "correct": "En cambio",
     "wrong": [
       "Además",
       "Por lo tanto",
       "Asimismo"
     ],
-    "explanation": "'En cambio' (〜に この other hand / 〜で contrast) は contrastive discourse marker that introduces opposing perspective. 'Además' (moreover) は additive; 'por lo tanto' (したがって) は consecutive; 'asimismo' (likewise) は additive. 〜で discourse analysis, choosing この 正しい marker determines この argumentative relationship between propositions.",
+    "explanation": "'En cambio'(これに対して/対照的に)は、反対の見方を導入する対比の談話標識です。'Además'(さらに)は付加、'por lo tanto'(したがって)は結果、'asimismo'(同様に)は付加を表します。談話分析では、適切な標識を選ぶことで命題間の論証上の関係が決まります。",
     "explanation_ja": "に関する問題です。",
-    "hint": "この second clause presents opposing view — which marker signals contrast?",
+    "hint": "2つ目の節は反対の見方を示しています。対比を表す標識はどれでしょう?",
     "hint_ja": "問題を注意深く確認してください。"
   },
   "q_gram_c2_10_007": {
-    "question": "What I want 〜に emphasize は この following: information structure determines how この message は received. (translate preserving cataphoric structure)",
+    "question": "私が強調したいのは次のことです。情報構造によって、メッセージの受け取られ方が決まります。(後方照応の構造を保って訳してください)",
     "correct": "Lo que quiero recalcar es lo siguiente: la estructura informativa determina cómo se recibe el mensaje.",
     "wrong": [
       "Quiero recalcar que la estructura informativa determina cómo se recibe el mensaje.",
       "Lo siguiente es lo que quiero recalcar: la estructura informativa determina cómo el mensaje se recibe.",
       "Lo que quiero recalcar es esto, la estructura informativa determina cómo se recibe el mensaje."
     ],
-    "explanation": "この cataphoric construction 'lo que quiero recalcar es lo siguiente:' (what I want 〜に emphasize は この following:) creates anticipation そして foregrounds この information that follows この colon. 〜で discourse analysis, これは focusing device (mecanismo de focalización). この alternative 〜なしに cataphora ('quiero recalcar que...') は grammatically 正しい しかし loses この emphatic information structure.",
-    "explanation_ja": "に関する問題です。"
+    "explanation": "後方照応の構文 'lo que quiero recalcar es lo siguiente:'(私が強調したいのは次のことです:)は期待感を生み、コロンの後に続く情報を前面に押し出します。談話分析では、これは焦点化の手段(mecanismo de focalización)です。後方照応を使わない言い方('quiero recalcar que...')も文法的には正しいですが、強調的な情報構造は失われます。",
+    "explanation_ja": "に関する問題です。",
+    "hint": null
   },
   "q_gram_c2_10_008": {
     "question": "La economía creció un 3%. ___ se redujo la tasa de desempleo. (結果を表す談話標識を選びなさい)",
@@ -1241,15 +1259,16 @@
     "hint_ja": "問題を注意深く確認してください。"
   },
   "q_gram_c2_11_003": {
-    "question": "What translation technique 〜する時に使う 'それ's raining cats そして dogs' becomes 'Llueve cántaros' スペイン語では?",
-    "correct": "Equivalence — replacing one idiom with a culturally equivalent idiom that conveys the same meaning through a different image",
+    "question": "英語の 'It's raining cats and dogs' がスペイン語で 'Llueve a cántaros' になるとき、どの翻訳技法が使われていますか?",
+    "correct": "等価(Equivalence)— 異なるイメージで同じ意味を伝える、文化的に対応する慣用句に置き換える技法",
     "wrong": [
-      "Literal translation — both idioms use animal imagery to convey heavy rain",
-      "Transposition — the grammatical category of the key elements changes during translation",
-      "Calque — the Spanish expression is a word-for-word structural borrowing from English"
+      "直訳 — どちらの慣用句も動物のイメージで大雨を表している",
+      "転位(Transposition)— 翻訳の際に主要な要素の文法カテゴリーが変わる",
+      "借用翻訳(Calque)— スペイン語の表現は英語の構造を一語ずつ借用したものである"
     ],
-    "explanation": "Equivalence replaces entire expression 〜と functionally equivalent one 〜で この target 言語. 'Cats そして dogs' そして ' cántaros' (〜で pitchers/jugs) 使う completely different images しかし convey この same 意味: extremely heavy rain. この cultural referent 変わる entirely.",
-    "explanation_ja": "に関する問題です。"
+    "explanation": "等価は、表現全体を目標言語で機能的に対応する表現に置き換える技法です。'Cats and dogs' と 'a cántaros'(水がめで)はまったく異なるイメージを使っていますが、「非常に激しい雨」という同じ意味を伝えます。文化的な指示対象はすっかり変わります。",
+    "explanation_ja": "に関する問題です。",
+    "hint": null
   },
   "q_gram_c2_11_004": {
     "question": "A él le ___ mucho los deportes acuáticos. (英語 source: 'He really likes water sports.' — gustar, 直説法現在)",
@@ -1264,16 +1283,16 @@
     "conjugation_info": "gustar (present): gusto, gustas, gusta, gustamos, gustáis, gustan — agrees with the thing liked, not the person"
   },
   "q_gram_c2_11_005": {
-    "question": "El investigador ___ que los resultados preliminares confirman la hipótesis. (英語 source: 'この researcher pointed out that この preliminary results confirm この hypothesis.')",
+    "question": "El investigador ___ que los resultados preliminares confirman la hipótesis. (英語の原文:'The researcher pointed out that the preliminary results confirm the hypothesis.')",
     "correct": "señaló",
     "wrong": [
       "apuntó",
       "puntualizó",
       "indicó fuera"
     ],
-    "explanation": "英語 'pointed out' translates as 'señaló' 〜で academic contexts, maintaining この 直説法 〜で この subordinate clause なぜなら この content は presented as factual. 'Apuntó' 〜できた work colloquially しかし 'señaló' は この standard academic translation. 'Indicó fuera' incorrectly introduces 接続法 where none 必要.",
+    "explanation": "英語の 'pointed out' は、学術的な文脈では 'señaló' と訳されます。内容が事実として示されているため、従属節は直説法のままです。'Apuntó' は口語的には使えますが、標準的な学術的訳語は 'señaló' です。'Indicó fuera' は、必要のない接続法を誤って持ち込んでいます。",
     "explanation_ja": "接続法の用法に関する問題です。",
-    "hint": "Choose この standard reporting verb 使われた スペイン語では academic writing",
+    "hint": "スペイン語の学術文章で使われる標準的な報告動詞を選びましょう",
     "hint_ja": "問題を注意深く確認してください。"
   },
   "q_gram_c2_11_006": {
@@ -1289,16 +1308,16 @@
     "conjugation_info": "pasárselo (pretérito indefinido): me lo pasé, te lo pasaste, se lo pasó, nos lo pasamos, os lo pasasteis, se lo pasaron"
   },
   "q_gram_c2_11_007": {
-    "question": "El acuerdo fue ___ por ambas partes tras meses de negociación. (英語 source: 'この agreement だった entered into 〜によって 両方 parties 〜の後 months 〜の negotiation.')",
+    "question": "El acuerdo fue ___ por ambas partes tras meses de negociación. (英語の原文:'The agreement was entered into by both parties after months of negotiation.')",
     "correct": "suscrito",
     "wrong": [
       "entrado",
       "ingresado",
       "entremetido"
     ],
-    "explanation": "英語 '〜に enter into agreement' cannot be literally translated as 'entrar en un acuerdo'. スペイン語 使う 'suscribir un acuerdo' (〜に subscribe/sign agreement). これは 例 〜の modulation where この viewpoint shifts 〜から 'entering' 〜に 'signing/subscribing'.",
+    "explanation": "英語の 'to enter into an agreement' を 'entrar en un acuerdo' と直訳することはできません。スペイン語では 'suscribir un acuerdo'(合意に署名する)を使います。これは、視点が「入る」から「署名する」に移る転調(modulation)の例です。",
     "explanation_ja": "に関する問題です。",
-    "hint": "Think 〜について この 丁寧 スペイン語 legal verb 意味 '〜に sign/ratify'",
+    "hint": "「署名する/批准する」を意味する、スペイン語の正式な法律用語の動詞を考えましょう",
     "hint_ja": "問題を注意深く確認してください。"
   },
   "q_gram_c2_11_008": {
@@ -1374,15 +1393,16 @@
     "hint_ja": "問題を注意深く確認してください。"
   },
   "q_gram_c2_12_004": {
-    "question": "〜は何を この idiomatic structure 'dar en el clavo' 意味する?",
-    "correct": "To hit the nail on the head — to be exactly right about something",
+    "question": "慣用的な表現 'dar en el clavo' はどういう意味ですか?",
+    "correct": "的を射る — 何かについてまさに正しい",
     "wrong": [
-      "To give someone a nail — to cause someone pain",
-      "To hammer home a point — to repeat an argument insistently",
-      "To nail down a deal — to finalize an agreement"
+      "誰かに釘を与える — 誰かに痛みを与える",
+      "要点を打ち込む — 主張をしつこく繰り返す",
+      "取引を固める — 合意をまとめる"
     ],
-    "explanation": "'Dar en el clavo' literally 〜を意味する '〜に hit この nail' そして idiomatically 〜を意味する '〜に be exactly right / 〜に hit この nail 〜に この head'. これは one 〜の those rare 場合 where スペイン語 そして 英語 share similar idiomatic image, though この structure differs ('dar en' vs. 'hit 〜に').",
-    "explanation_ja": "に関する問題です。"
+    "explanation": "'Dar en el clavo' は文字どおりには「釘を打つ」で、慣用的には「まさに正しい/的を射る」という意味です。スペイン語と英語で似た慣用的イメージを共有する数少ない例ですが、構造は異なります('dar en' と 'hit on')。",
+    "explanation_ja": "に関する問題です。",
+    "hint": null
   },
   "q_gram_c2_12_005": {
     "question": "Los vecinos ___ gato por liebre cuando compraron esa casa supuestamente renovada. (dar, pretérito indefinido, passive 'les dieron')",
@@ -1404,9 +1424,9 @@
       "se caminó",
       "se marchó"
     ],
-    "explanation": "'Andarse por las ramas' (〜に walk through この branches) は idiomatic expression 意味 '〜に beat around この bush'. この fixed verb は 'andarse' (再帰). この 点過去 'se anduvo' 使う この 不規則 語幹 anduv-, which は essential 〜のために this idiom.",
+    "explanation": "'Andarse por las ramas'(枝の間を歩く)は「遠回しに話す/話をはぐらかす」という意味の慣用表現です。決まった動詞は 'andarse'(再帰動詞)です。点過去の 'se anduvo' は不規則語幹 anduv- を使い、この慣用表現では欠かせません。",
     "explanation_ja": "直説法過去の用法に関する問題です。",
-    "hint": "この idiom 使う 再帰 verb 意味 '〜に walk' 〜と 不規則 点過去 語幹",
+    "hint": "この慣用表現は、「歩く」を意味する再帰動詞で、点過去の語幹が不規則です",
     "hint_ja": "問題を注意深く確認してください。"
   },
   "q_gram_c2_12_007": {
@@ -1506,16 +1526,16 @@
     "conjugation_info": "asistir (pretérito indefinido): asistí, asististe, asistió, asistimos, asististeis, asistieron"
   },
   "q_gram_c2_13_005": {
-    "question": "La decisión del comité ___ ejecutivo provocó controversia. (Choose この 語 that 示す how punctuation/structure resolves ambiguity.)",
+    "question": "La decisión del comité ___ ejecutivo provocó controversia. (句読点や構造によって曖昧さがどう解消されるかを示す語を選んでください)",
     "correct": "más",
     "wrong": [
       "muy",
       "tan",
       "bastante"
     ],
-    "explanation": "'La decisión del comité más ejecutivo' は ambiguous: does 'más ejecutivo' modify 'comité' (この most executive committee) または 'la decisión' (この most executive decision 〜の この committee)? Inserting 'más' exposes この structural ambiguity 〜の adjective attachment スペイン語では nominal groups.",
+    "explanation": "'La decisión del comité más ejecutivo' は曖昧です。'más ejecutivo' は 'comité'(最も執行権の強い委員会)を修飾するのか、'la decisión'(委員会の最も執行的な決定)を修飾するのでしょうか。'más' を入れることで、スペイン語の名詞句における形容詞のかかり方の構造的な曖昧さが現れます。",
     "explanation_ja": "に関する問題です。",
-    "hint": "Consider how この comparative adjective 〜できる modify either この committee または この decision",
+    "hint": "比較級の形容詞が、委員会にも決定にもかかりうることを考えてみましょう",
     "hint_ja": "問題を注意深く確認してください。"
   },
   "q_gram_c2_13_006": {
@@ -1672,9 +1692,9 @@
       "mencione",
       "ha mencionado"
     ],
-    "explanation": "'Tal y como se mencionó en la sección anterior' (as だった mentioned 〜で この previous section) 使う この impersonal 'se' 〜と この 点過去 〜に 〜を指す specific earlier 点 〜で この text. この 点過去 好まれる ここ なぜなら この mention occurred 〜で definite 点, unlike この 線過去 which 〜でしょう imply ongoing または repeated action.",
+    "explanation": "'Tal y como se mencionó en la sección anterior'(前の節で述べたとおり)は、無人称の 'se' と点過去を使って、文章中の特定の箇所を指しています。言及が明確な一点で行われたため点過去が好まれ、継続や反復を暗示する線過去は適しません。",
     "explanation_ja": "直説法過去の用法に関する問題です。",
-    "hint": "使う この 点過去 〜のために specific past reference within この text",
+    "hint": "文章中の特定の過去の言及には点過去を使います",
     "hint_ja": "問題を注意深く確認してください。"
   },
   "q_gram_c2_14_009": {
@@ -1727,27 +1747,29 @@
     "hint": null
   },
   "q_gram_c2_15_003": {
-    "question": "〜は何 この difference between 'ser aburrido' そして 'estar aburrido'?",
-    "correct": "'Ser aburrido' means 'to be boring' (inherent quality), while 'estar aburrido' means 'to be bored' (temporary state)",
+    "question": "'ser aburrido' と 'estar aburrido' の違いは何ですか?",
+    "correct": "'Ser aburrido' は「退屈な(人・もの)である」(本来の性質)、'estar aburrido' は「退屈している」(一時的な状態)という意味",
     "wrong": [
-      "Both mean 'to be bored' but 'ser' is more formal than 'estar'",
-      "'Ser aburrido' means 'to be bored' and 'estar aburrido' means 'to be boring'",
-      "'Ser aburrido' is used for people and 'estar aburrido' is used for things"
+      "どちらも「退屈している」という意味だが、'ser' のほうが 'estar' よりも改まった言い方である",
+      "'Ser aburrido' は「退屈している」、'estar aburrido' は「退屈な(人・もの)である」という意味",
+      "'Ser aburrido' は人に使い、'estar aburrido' は物に使う"
     ],
-    "explanation": "この ser/estar distinction 〜と 形容詞 は fundamental. 〜と 'aburrido': ser 説明する inherent characteristic (Juan es aburrido = Juan は boring 人称), 〜の間 estar 説明する state または condition (Juan está aburrido = Juan は bored right 今). This A2-level concept 〜でなければならない fully mastered 〜によって C2.",
-    "explanation_ja": "に関する問題です。"
+    "explanation": "形容詞における ser と estar の区別は基本中の基本です。'aburrido' の場合、ser は本来の特徴を表し(Juan es aburrido = フアンは退屈な人だ)、estar は状態や状況を表します(Juan está aburrido = フアンは今退屈している)。A2レベルのこの概念は、C2までに完全に身につけておく必要があります。",
+    "explanation_ja": "に関する問題です。",
+    "hint": null
   },
   "q_gram_c2_15_004": {
-    "question": "A no ser que se ___ medidas urgentes, la crisis se agravará irreversiblemente. (tomar, 接続法現在)",
+    "question": "A no ser que se ___ medidas urgentes, la crisis se agravará irreversiblemente. (tomar、接続法現在)",
     "correct": "tomen",
     "wrong": [
       "toman",
       "tomarán",
       "tomaran"
     ],
-    "explanation": "' no ser que' (〜でない限り) 常に triggers この 接続法. 〜なので この main clause 使う この future ('se agravará'), この subordinate clause 取る この 接続法現在 'tomen'. この impersonal 'se' 〜と 複数 'medidas' requires 複数形. This tests mastery across 接続法 triggers, tense sequencing, そして impersonal constructions.",
+    "explanation": "'A no ser que'(~でない限り)は常に接続法を要求します。主節が未来形('se agravará')なので、従属節は接続法現在の 'tomen' になります。無人称の 'se' と複数の 'medidas' のため、複数形が必要です。これは、接続法の引き金、時制の対応、無人称構文の総合的な習得を問う問題です。",
     "explanation_ja": "接続法の用法に関する問題です。",
-    "conjugation_info": "tomar (present subjunctive): tome, tomes, tome, tomemos, toméis, tomen"
+    "conjugation_info": "tomar (present subjunctive): tome, tomes, tome, tomemos, toméis, tomen",
+    "hint": null
   },
   "q_gram_c2_15_005": {
     "question": "El informe, ___ conclusiones fueron cuestionadas por varios expertos, ha sido revisado por completo.",

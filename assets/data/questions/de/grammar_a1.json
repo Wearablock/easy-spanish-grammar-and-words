@@ -596,14 +596,15 @@
     "hint": "Welches Verb verwendet man für Gefühle und Empfindungen?"
   },
   "q_gram_a1_06_004": {
-    "question": "War does 'estar' express in '¿Cómo estás?'?",
-    "correct": "health or feeling",
+    "question": "Was drückt 'estar' in '¿Cómo estás?' aus?",
+    "correct": "Gesundheit oder Befinden",
     "wrong": [
-      "identity",
-      "profession",
-      "nationality"
+      "Identität",
+      "Beruf",
+      "Nationalität"
     ],
-    "explanation": "'¿Cómo estás?' bedeutet 'Wie sind du?' und asks about someone's current state oder feeling.\nEstar wird verwendet für temporary conditions like health, Modus, und emotional states."
+    "explanation": "'¿Cómo estás?' bedeutet 'Wie geht es dir?' und fragt nach dem aktuellen Zustand oder Befinden einer Person.\nEstar wird für vorübergehende Zustände wie Gesundheit, Stimmung und Gefühlslage verwendet.",
+    "hint": null
   },
   "q_gram_a1_06_005": {
     "question": "Nosotros ___ cansados. (konjugiere estar)",
@@ -918,14 +919,15 @@
     "hint": "María ist die 3. Person Singular (ella)"
   },
   "q_gram_a1_09_003": {
-    "question": "War does 'estudiar' bedeuten?",
-    "correct": "to study",
+    "question": "Was bedeutet 'estudiar'?",
+    "correct": "lernen, studieren",
     "wrong": [
-      "to work",
-      "to speak",
-      "to buy"
+      "arbeiten",
+      "sprechen",
+      "kaufen"
     ],
-    "explanation": "'estudiar' bedeutet 'zu study'. Es ist a Regelmäßig -ar Verb.\n- Yo estudio, tú estudias, él estudia..."
+    "explanation": "'estudiar' bedeutet 'lernen, studieren'. Es ist ein regelmäßiges Verb auf -ar.\n- Yo estudio, tú estudias, él estudia...",
+    "hint": null
   },
   "q_gram_a1_09_004": {
     "question": "Nosotros ___ mucho. (konjugiere trabajar)",
@@ -985,14 +987,14 @@
     "hint": null
   },
   "q_gram_a1_09_009": {
-    "question": "Vosotros ___ muy bien. (conjugate cantar)",
+    "question": "Vosotros ___ muy bien. (konjugiere cantar)",
     "correct": "cantáis",
     "wrong": [
       "cantamos",
       "cantan",
       "cantas"
     ],
-    "explanation": "Bei Verben auf -ar endet die Form für vosotros auf -áis.\n- cantar → cant + áis = cantáis\nDiese Form wird hauptsächlich in Spanien verwendet.",
+    "explanation": "Bei Verben auf -ar endet die vosotros-Form auf -áis.\n- cantar → cant + áis = cantáis\nDiese Form wird hauptsächlich in Spanien verwendet.",
     "conjugation_info": "cantar - Präsens: canto, cantas, canta, cantamos, cantáis, cantan",
     "hint": null
   },
@@ -1268,14 +1270,15 @@
     "hint": "Das besitzanzeigende 'dein' hat keinen Akzent"
   },
   "q_gram_a1_12_004": {
-    "question": "War does 'su' bedeuten in 'su casa'?",
-    "correct": "his/her/your (formal)/their",
+    "question": "Was bedeutet 'su' in 'su casa'?",
+    "correct": "sein/ihr/Ihr (formell)/ihr (Plural)",
     "wrong": [
-      "only 'his'",
-      "only 'her'",
-      "my"
+      "nur 'sein'",
+      "nur 'ihr' (Singular, weiblich)",
+      "mein"
     ],
-    "explanation": "'su' ist ambiguous — es kann bedeuten his, her, dein (formell), oder ihr.\n- su casa = his/her/dein/ihr house\nZu clarify: la casa de él (his), la casa de ella (her)."
+    "explanation": "'su' ist mehrdeutig – es kann sein, ihr, Ihr (formell) oder ihr (Plural) bedeuten.\n- su casa = sein/ihr/Ihr/ihr Haus\nZur Verdeutlichung: la casa de él (sein), la casa de ella (ihr).",
+    "hint": null
   },
   "q_gram_a1_12_005": {
     "question": "___ casa es bonita. (unser Haus — wähle die richtige Form)",
@@ -1591,14 +1594,15 @@
     "hint": "Welche question Wort asks about place?"
   },
   "q_gram_a1_15_003": {
-    "question": "War does '¿Por qué?' bedeuten?",
-    "correct": "Why?",
+    "question": "Was bedeutet '¿Por qué?'?",
+    "correct": "Warum?",
     "wrong": [
-      "Because",
-      "How?",
-      "What for?"
+      "Weil",
+      "Wie?",
+      "Wofür?"
     ],
-    "explanation": "'¿Por qué?' = Warum? (two words, mit accent on qué)\n- ¿Por qué estudias español? = Warum do du study Spanisch?\nNote: 'porque' (one Wort, no accent) = weil."
+    "explanation": "'¿Por qué?' = Warum? (zwei Wörter, mit Akzent auf qué)\n- ¿Por qué estudias español? = Warum lernst du Spanisch?\nHinweis: 'porque' (ein Wort, ohne Akzent) = weil.",
+    "hint": null
   },
   "q_gram_a1_15_004": {
     "question": "¿___ años tienes? (Wie alt bist du?) (verwende das richtige Fragewort)",
@@ -1714,14 +1718,15 @@
     "hint": "Double negatives sind richtig auf Spanisch"
   },
   "q_gram_a1_16_004": {
-    "question": "War does 'nunca' bedeuten?",
-    "correct": "never",
+    "question": "Was bedeutet 'nunca'?",
+    "correct": "nie",
     "wrong": [
-      "nothing",
-      "nobody",
-      "neither"
+      "nichts",
+      "niemand",
+      "weder"
     ],
-    "explanation": "'nunca' bedeutet 'nie'. Es kann sein placed vor oder nach das Verb:\n- Nunca como carne. = I nie eat meat.\n- No como carne nunca. = I nie eat meat. (double negative)"
+    "explanation": "'nunca' bedeutet 'nie'. Es kann vor oder nach dem Verb stehen:\n- Nunca como carne. = Ich esse nie Fleisch.\n- No como carne nunca. = Ich esse nie Fleisch. (doppelte Verneinung)",
+    "hint": null
   },
   "q_gram_a1_16_005": {
     "question": "No quiero café, y ella ___ quiere café. (verwende das Wort für 'auch nicht')",
@@ -1731,7 +1736,7 @@
       "nunca",
       "nada"
     ],
-    "explanation": "'tampoco' bedeutet 'auch nicht' – das verneinte Gegenstück zu 'también' (auch).\n- Yo no quiero. Ella tampoco quiere. = Ich will es nicht. Sie will es auch nicht.",
+    "explanation": "'tampoco' bedeutet 'auch nicht' – es ist das verneinte Gegenstück zu 'también' (auch).\n- Yo no quiero. Ella tampoco quiere. = Ich will es nicht. Sie will es auch nicht.",
     "conjugation_info": "también (also/too) → tampoco (neither/not either)",
     "hint": null
   },
@@ -1936,14 +1941,15 @@
     "hint": "Hier wird 'du' (tú) gefragt"
   },
   "q_gram_a1_18_004": {
-    "question": "War does 'tener razón' bedeuten?",
-    "correct": "to be right",
+    "question": "Was bedeutet 'tener razón'?",
+    "correct": "Recht haben",
     "wrong": [
-      "to have a reason",
-      "to be wrong",
-      "to have a question"
+      "einen Grund haben",
+      "Unrecht haben",
+      "eine Frage haben"
     ],
-    "explanation": "'tener razón' = zu sein right (lit. zu haben reason).\n- Tienes razón. = Du sind right.\nDas ist one von viele tener expressions wo Englisch uses 'zu sein'."
+    "explanation": "'tener razón' = Recht haben (wörtlich: Vernunft/Recht haben).\n- Tienes razón. = Du hast Recht.\nDas ist einer von vielen Ausdrücken mit tener, die man im Englischen mit 'to be' wiedergibt.",
+    "hint": null
   },
   "q_gram_a1_18_005": {
     "question": "Nosotros ___ 25 años. (konjugiere tener)",

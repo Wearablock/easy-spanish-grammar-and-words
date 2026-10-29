@@ -22,14 +22,15 @@
     "hint": "นี่คือข้อยกเว้นที่มีชื่อเสียงของกฎ -o = เพศชาย"
   },
   "q_gram_a1_01_003": {
-    "question": "อะไร does 'casa' หมายถึง ใน 'la casa'?",
+    "question": "'casa' ในประโยค 'la casa' หมายถึงอะไร?",
     "correct": "บ้าน",
     "wrong": [
       "โต๊ะ",
       "แมว",
       "หนังสือ"
     ],
-    "explanation": "'casa' แปลว่า 'บ้าน' และเป็นคำนามเพศหญิงที่ลงท้ายด้วย -a\n- la casa = บ้าน\n- una casa = บ้านหนึ่ง"
+    "explanation": "'casa' แปลว่า 'บ้าน' เป็นคำนามเพศหญิงที่ลงท้ายด้วย -a\n- la casa = บ้าน (เจาะจง)\n- una casa = บ้านหลังหนึ่ง",
+    "hint": null
   },
   "q_gram_a1_01_004": {
     "question": "___ ciudad es grande. (use ถูกต้อง คำนำหน้านาม สำหรับ เพศหญิง คำนาม)",
@@ -141,14 +142,15 @@
     "hint": "niños เป็นพหูพจน์ของ niño"
   },
   "q_gram_a1_02_004": {
-    "question": "อะไร does 'los' indicate ใน 'los libros'?",
-    "correct": "masculine plural definite article",
+    "question": "'los' ใน 'los libros' บ่งบอกอะไร?",
+    "correct": "คำนำหน้านามเจาะจงพหูพจน์เพศชาย",
     "wrong": [
-      "คำนำหน้านามชี้เฉพาะเพศหญิงพหูพจน์",
-      "คำนำหน้านามชี้เฉพาะเพศชายเอกพจน์",
-      "คำนำหน้านามไม่ชี้เฉพาะเพศชายพหูพจน์"
+      "คำนำหน้านามเจาะจงพหูพจน์เพศหญิง",
+      "คำนำหน้านามเจาะจงเอกพจน์เพศชาย",
+      "คำนำหน้านามไม่เจาะจงพหูพจน์เพศชาย"
     ],
-    "explanation": "'los' เป็นคำนำหน้านามชี้เฉพาะเพศชายพหูพจน์ (= '' สำหรับคำนามเพศชายพหูพจน์)\n- el (ช. เอก.), la (ญ. เอก.), los (ช. พหู.), las (ญ. พหู.)"
+    "explanation": "'los' คือคำนำหน้านามเจาะจงพหูพจน์เพศชาย (= 'the' สำหรับคำนามพหูพจน์เพศชาย)\n- el (ช. เอกพจน์), la (ญ. เอกพจน์), los (ช. พหูพจน์), las (ญ. พหูพจน์)",
+    "hint": null
   },
   "q_gram_a1_02_005": {
     "question": "Vengo ___ cine. (fill ใน: de + el)",
@@ -234,18 +236,19 @@
       "unas",
       "los"
     ],
-    "explanation": "'libros' เป็น a เพศชาย พหูพจน์ คำนาม; 'unos' แปลว่า 'some' สำหรับ เพศชาย plurals.\n- un libro → unos libros\n- una รถยนต์ta → unas รถยนต์tas",
-    "hint": "Which indefinite คำนำหน้านาม ใช้ สำหรับ เพศชาย plurals?"
+    "explanation": "'libros' เป็นคำนามพหูพจน์เพศชาย ส่วน 'unos' แปลว่า 'บางส่วน/ไม่กี่' ใช้กับพหูพจน์เพศชาย\n- un libro → unos libros\n- una carta → unas cartas",
+    "hint": "คำนำหน้านามไม่เจาะจงตัวไหนใช้กับพหูพจน์เพศชาย?"
   },
   "q_gram_a1_03_003": {
-    "question": "อะไร does 'unas' หมายถึง ใน 'unas flores'?",
-    "correct": "some (feminine plural)",
+    "question": "'unas' ในประโยค 'unas flores' หมายถึงอะไร?",
+    "correct": "บางส่วน/ไม่กี่ (พหูพจน์เพศหญิง)",
     "wrong": [
-      "the (feminine plural)",
-      "a (feminine singular)",
-      "some (masculine plural)"
+      "the (พหูพจน์เพศหญิง)",
+      "หนึ่ง (เอกพจน์เพศหญิง)",
+      "บางส่วน/ไม่กี่ (พหูพจน์เพศชาย)"
     ],
-    "explanation": "'unas' เป็น เพศหญิง พหูพจน์ indefinite คำนำหน้านาม หมายถึง 'some'.\n- un (m. sg.), una (f. sg.), unos (m. pl.), unas (f. pl.)"
+    "explanation": "'unas' คือคำนำหน้านามไม่เจาะจงพหูพจน์เพศหญิง แปลว่า 'บางส่วน/ไม่กี่'\n- un (ช. เอกพจน์), una (ญ. เอกพจน์), unos (ช. พหูพจน์), unas (ญ. พหูพจน์)",
+    "hint": null
   },
   "q_gram_a1_03_004": {
     "question": "Soy ___. (I am a teacher.) (conjugate appropriate response)",
@@ -288,8 +291,8 @@
       "con",
       "de"
     ],
-    "explanation": "After 'sin' (โดยไม่มี), indefinite คำนำหน้านาม เป็น omitted.\n- Café sin azúรถยนต์. (กาแฟ โดยไม่มี sugar.)\n- Café con leche. (กาแฟ กับ นม.)",
-    "hint": "Which preposition แปลว่า 'โดยไม่มี'?"
+    "explanation": "หลัง 'sin' (ไม่มี/ปราศจาก) จะไม่ใช้คำนำหน้านามไม่เจาะจง\n- Café sin azúcar. (กาแฟไม่ใส่น้ำตาล)\n- Café con leche. (กาแฟใส่นม)",
+    "hint": "บุพบทตัวไหนแปลว่า 'ไม่มี/ปราศจาก'?"
   },
   "q_gram_a1_03_008": {
     "question": "I buy some flowers.",
@@ -342,8 +345,8 @@
       "Él",
       "Usted"
     ],
-    "explanation": "'eres' เป็น tú สำหรับm ของ คำกริยา ser.\n- Tú eres = คุณ เป็น (inสำหรับmal)\n สรรพนาม 'tú' ใช้ กับ friends, ครอบครัว, และ peers.",
-    "hint": "Which สรรพนาม goes กับ 'eres'?"
+    "explanation": "'eres' คือรูปของกริยา ser สำหรับ tú\n- Tú eres = คุณเป็น (แบบไม่เป็นทางการ)\nสรรพนาม 'tú' ใช้กับเพื่อน ครอบครัว และคนรุ่นราวคราวเดียวกัน",
+    "hint": "สรรพนามตัวไหนใช้คู่กับ 'eres'?"
   },
   "q_gram_a1_04_003": {
     "question": "___ viven en Madrid.",
@@ -481,8 +484,8 @@
       "Está",
       "Hay"
     ],
-    "explanation": "'Son las tres' = มัน เป็น สาม o'clock. สำหรับ telling เวลา, use 'ser'.\n- Es la una. (1:00 — เอกพจน์)\n- Son las dos/tres/cuatro... (2:00+ — พหูพจน์)",
-    "hint": "Which สำหรับm ของ ser ใช้ กับ พหูพจน์ hours?"
+    "explanation": "'Son las tres' = สามโมงแล้ว การบอกเวลาใช้ 'ser'\n- Es la una. (ตีหนึ่ง/บ่ายโมง — เอกพจน์)\n- Son las dos/tres/cuatro... (สองโมงขึ้นไป — พหูพจน์)",
+    "hint": "ชั่วโมงที่เป็นพหูพจน์ใช้ ser รูปไหน?"
   },
   "q_gram_a1_05_006": {
     "question": "La mesa ___ de madera. (conjugate ser)",
@@ -556,8 +559,8 @@
       "estoy",
       "están"
     ],
-    "explanation": "Estar ใช้เพื่อ express loแมวion.\n- El gato está en la mesa. = แมว เป็น on โต๊ะ.\n- Loแมวion เสมอ uses estar (not ser).",
-    "hint": "Which คำกริยา ใช้ สำหรับ loแมวion?"
+    "explanation": "ใช้ estar เพื่อบอกตำแหน่งที่ตั้ง\n- El gato está en la mesa. = แมวอยู่บนโต๊ะ\n- การบอกตำแหน่งใช้ estar เสมอ (ไม่ใช่ ser)",
+    "hint": "กริยาตัวไหนใช้บอกตำแหน่งที่ตั้ง?"
   },
   "q_gram_a1_06_003": {
     "question": "Mis amigos ___ contentos.",
@@ -567,18 +570,19 @@
       "estamos",
       "estáis"
     ],
-    "explanation": "Estar ใช้ สำหรับ emotions และ temporary states.\n- están conสิบtos = พวกเขา เป็น มีความสุข (right now)\n- 'conสิบtos' สอดคล้องกับ เพศชาย พหูพจน์ subject.",
-    "hint": "Emotions และ feelings use which คำกริยา?"
+    "explanation": "ใช้ estar กับอารมณ์และสภาวะชั่วคราว\n- están contentos = พวกเขามีความสุข (ตอนนี้)\n- 'contentos' สอดคล้องกับประธานพหูพจน์เพศชาย",
+    "hint": "อารมณ์และความรู้สึกใช้กริยาตัวไหน?"
   },
   "q_gram_a1_06_004": {
-    "question": "อะไร does 'estar' express ใน '¿Cómo estás?'?",
-    "correct": "health or feeling",
+    "question": "'estar' ใน '¿Cómo estás?' สื่อถึงอะไร?",
+    "correct": "สุขภาพหรือความรู้สึก",
     "wrong": [
-      "identity",
-      "profession",
-      "nationality"
+      "ตัวตน",
+      "อาชีพ",
+      "สัญชาติ"
     ],
-    "explanation": "'¿Cómo estás?' แปลว่า 'อย่างไร เป็น คุณ?' และ asks about someหนึ่ง's current state หรือ feeling.\nEstar ใช้ สำหรับ temporary conditions like health, mood, และ emotional states."
+    "explanation": "'¿Cómo estás?' แปลว่า 'สบายดีไหม?' เป็นการถามถึงสภาพหรือความรู้สึกในขณะนี้\nEstar ใช้กับสภาวะชั่วคราว เช่น สุขภาพ อารมณ์ และความรู้สึก",
+    "hint": null
   },
   "q_gram_a1_06_005": {
     "question": "Nosotros ___ cansados. (conjugate estar)",
@@ -634,15 +638,16 @@
     "explanation": "Being sick เป็น a temporary condition, so estar ใช้.\n- estar enfermo = ไปยัง เป็น sick (temporary)\nUsing 'ser enfermo' จะ incorrectly imply a perผู้ชายent state."
   },
   "q_gram_a1_06_010": {
-    "question": "¿Dónde ___ tú ahora? (conjugate estar)",
+    "question": "¿Dónde ___ tú ahora? (ผันกริยา estar)",
     "correct": "estás",
     "wrong": [
       "eres",
       "está",
       "estamos"
     ],
-    "explanation": " tú สำหรับm ของ 'estar' เป็น 'estás'.\n- ¿Dónde estás? = ที่ไหน เป็น คุณ?\nEstar เป็น เสมอ used สำหรับ asking about loแมวion.",
-    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están"
+    "explanation": "รูป tú ของ 'estar' คือ 'estás'\n- ¿Dónde estás? = คุณอยู่ที่ไหน?\nการถามตำแหน่งที่ตั้งใช้ estar เสมอ",
+    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están",
+    "hint": null
   },
   "q_gram_a1_07_001": {
     "question": "María ___ doctora.",
@@ -663,18 +668,19 @@
       "son",
       "están"
     ],
-    "explanation": "Estar ใช้ สำหรับ loแมวion.\n- El โรงพยาบาล está en la calle Mayor. = โรงพยาบาล เป็น on Mayor ถนน.\nLoแมวion เสมอ uses estar, even สำหรับ perผู้ชายent buildings.",
-    "hint": "Loแมวion เสมอ uses which คำกริยา?"
+    "explanation": "ใช้ estar เพื่อบอกตำแหน่งที่ตั้ง\n- El hospital está en la calle Mayor. = โรงพยาบาลอยู่บนถนนมายอร์\nการบอกตำแหน่งใช้ estar เสมอ แม้จะเป็นอาคารถาวรก็ตาม",
+    "hint": "การบอกตำแหน่งใช้กริยาตัวไหนเสมอ?"
   },
   "q_gram_a1_07_003": {
-    "question": "อะไร does 'ser aburrido' หมายถึง vs 'estar aburrido'?",
-    "correct": "to be boring vs to be boสีแดง",
+    "question": "'ser aburrido' ต่างจาก 'estar aburrido' อย่างไร?",
+    "correct": "น่าเบื่อ เทียบกับ รู้สึกเบื่อ",
     "wrong": [
-      "to be boสีแดง vs to be boring",
-      "both หมายความว่า the same thing",
-      "to be เหนื่อย vs to be tiring"
+      "รู้สึกเบื่อ เทียบกับ น่าเบื่อ",
+      "ความหมายเหมือนกันทั้งสองแบบ",
+      "เหนื่อย เทียบกับ น่าเหนื่อย"
     ],
-    "explanation": "Some adjectives change หมายถึง กับ ser vs estar:\n- ser aburrido = ไปยัง เป็น boring (characteristic)\n- estar aburrido = ไปยัง เป็น boสีแดง (feeling)\n คำกริยา choice changes คำคุณศัพท์'s หมายถึง."
+    "explanation": "คำคุณศัพท์บางคำเปลี่ยนความหมายเมื่อใช้กับ ser หรือ estar:\n- ser aburrido = น่าเบื่อ (ลักษณะนิสัย)\n- estar aburrido = รู้สึกเบื่อ (ความรู้สึก)\nการเลือกกริยาทำให้ความหมายของคำคุณศัพท์เปลี่ยนไป",
+    "hint": null
   },
   "q_gram_a1_07_004": {
     "question": "La fiesta ___ en mi casa. (conjugate ถูกต้อง คำกริยา สำหรับ 'ไปยัง เป็น')",
@@ -884,14 +890,15 @@
     "hint": "María เป็น 3rd คน เอกพจน์ (ella)"
   },
   "q_gram_a1_09_003": {
-    "question": "อะไร does 'estudiar' หมายถึง?",
-    "correct": "to study",
+    "question": "'estudiar' หมายถึงอะไร?",
+    "correct": "เรียน/ศึกษา",
     "wrong": [
-      "to work",
-      "to speak",
-      "to buy"
+      "ทำงาน",
+      "พูด",
+      "ซื้อ"
     ],
-    "explanation": "'estudiar' แปลว่า 'ไปยัง study'. มัน เป็น a สม่ำเสมอ -ar คำกริยา.\n- Yo estudio, tú estudias, él estudia..."
+    "explanation": "'estudiar' แปลว่า 'เรียน/ศึกษา' เป็นกริยา -ar ปกติ\n- Yo estudio, tú estudias, él estudia...",
+    "hint": null
   },
   "q_gram_a1_09_004": {
     "question": "Nosotros ___ mucho. (conjugate trabajar)",
@@ -912,8 +919,8 @@
       "compro",
       "compran"
     ],
-    "explanation": "สำหรับ -ar verbs, tú สำหรับm ลงท้ายด้วย -as.\n- comprar → compr + as = compras\n- ¿Tú compras? = Do คุณ buy?",
-    "hint": "อะไร ending does tú take สำหรับ -ar verbs?"
+    "explanation": "กริยา -ar รูป tú ลงท้ายด้วย -as\n- comprar → compr + as = compras\n- ¿Tú compras? = คุณซื้อไหม?",
+    "hint": "tú ใช้คำลงท้ายอะไรกับกริยา -ar?"
   },
   "q_gram_a1_09_006": {
     "question": "Ellos ___ muy bien. (conjugate cocinar)",
@@ -948,14 +955,14 @@
     "explanation": "สำหรับ -ar verbs, ella สำหรับm ลงท้ายด้วย -a.\n- estudiar → estudi + a = estudia\n- ทั้งหมด -ar verbs follow same pattern: -o, -as, -a, -amos, -áis, -an."
   },
   "q_gram_a1_09_009": {
-    "question": "Vosotros ___ muy bien. (صرف cantar)",
+    "question": "Vosotros ___ muy bien. (ผันกริยา cantar)",
     "correct": "cantáis",
     "wrong": [
       "cantamos",
       "cantan",
       "cantas"
     ],
-    "explanation": "กริยาลงท้าย -ar เมื่อใช้กับ vosotros จะลงท้ายด้วย -áis\n- cantar → cant + áis = cantáis\nรูปนี้ใช้เป็นหลักในสเปน",
+    "explanation": "สำหรับกริยากลุ่ม -ar รูป vosotros จะลงท้ายด้วย -áis\n- cantar → cant + áis = cantáis\nรูปนี้ใช้เป็นหลักในสเปน",
     "conjugation_info": "cantar - present: canto, cantas, canta, cantamos, cantáis, cantan",
     "hint": null
   },
@@ -1003,14 +1010,15 @@
     "hint": "ella เป็น 3rd คน เอกพจน์"
   },
   "q_gram_a1_10_004": {
-    "question": "อะไร เป็น key difference between -er และ -ir คำกริยา endings?",
-    "correct": "Only the nosotros and vosotros สำหรับms differ",
+    "question": "คำลงท้ายกริยา -er กับ -ir ต่างกันที่จุดสำคัญอะไร?",
+    "correct": "ต่างกันเฉพาะรูป nosotros และ vosotros",
     "wrong": [
-      "All สำหรับms are different",
-      "Only the yo สำหรับm differs",
-      "There is no difference at all"
+      "ต่างกันทุกรูป",
+      "ต่างกันเฉพาะรูป yo",
+      "ไม่ต่างกันเลย"
     ],
-    "explanation": " -er และ -ir conjugations เป็น nearly identical.\n- เท่านั้น nosotros และ vosotros differ:\n -er: comemos, coméis / -ir: vivimos, vivís\n ทั้งหมด other สำหรับms share same endings: -o, -es, -e, -en."
+    "explanation": "การผันกริยา -er และ -ir เกือบเหมือนกันทั้งหมด\n- ต่างกันเฉพาะ nosotros และ vosotros\n  -er: comemos, coméis / -ir: vivimos, vivís\n  รูปอื่นทั้งหมดใช้คำลงท้ายเหมือนกัน: -o, -es, -e, -en",
+    "hint": null
   },
   "q_gram_a1_10_005": {
     "question": "¿Tú ___ café? (conjugate beber)",
@@ -1056,14 +1064,15 @@
     "hint": " vosotros ending สำหรับ -ir verbs มี an accent"
   },
   "q_gram_a1_10_009": {
-    "question": "She reads the newspaper every morning.",
+    "question": "เธออ่านหนังสือพิมพ์ทุกเช้า",
     "correct": "Ella lee el periódico cada mañana.",
     "wrong": [
       "Ella lees el periódico cada mañana.",
       "Ella leen el periódico cada mañana.",
       "Ella leo el periódico cada mañana."
     ],
-    "explanation": "สำหรับ -er verbs, ella สำหรับm ลงท้ายด้วย -e.\n- leer → le + e = lee\nNote double 'e' ใน lee — นี่คือ ถูกต้อง สำหรับ leer's 3rd คน."
+    "explanation": "กริยา -er รูป ella ลงท้ายด้วย -e\n- leer → le + e = lee\nสังเกตว่า lee มี 'e' สองตัวติดกัน ซึ่งถูกต้องแล้วสำหรับบุรุษที่ 3 ของ leer",
+    "hint": null
   },
   "q_gram_a1_10_010": {
     "question": "Nosotros ___ en un piso. (conjugate vivir)",
@@ -1084,8 +1093,8 @@
       "Es",
       "Están"
     ],
-    "explanation": "'Hay' ใช้เพื่อ express exisสิบce (มี/มี).\n- Hay un banco = มี a bank.\nHay + indefinite คำนำหน้านาม/number สำหรับ stating นั้น something exists.",
-    "hint": "Which คำ แปลว่า 'มี/มี'?"
+    "explanation": "'Hay' ใช้บอกการมีอยู่ (มี...)\n- Hay un banco = มีธนาคารแห่งหนึ่ง\nHay + คำนำหน้านามไม่เจาะจง/ตัวเลข ใช้เพื่อบอกว่ามีสิ่งนั้นอยู่",
+    "hint": "คำไหนแปลว่า 'มี (มีอยู่)'?"
   },
   "q_gram_a1_11_002": {
     "question": "El banco ___ en la esquina.",
@@ -1095,18 +1104,19 @@
       "es",
       "están"
     ],
-    "explanation": "Estar ใช้ สำหรับ loแมวion ของ specific things.\n- El banco está en la esquina = bank เป็น on corner.\n definite คำนำหน้านาม 'el' signals a specific bank, so we use estar.",
-    "hint": "A specific bank (el banco) uses which คำกริยา?"
+    "explanation": "ใช้ Estar บอกที่ตั้งของสิ่งที่เฉพาะเจาะจง\n- El banco está en la esquina = ธนาคารอยู่ตรงหัวมุม\nคำนำหน้านามเฉพาะ 'el' บอกว่าเป็นธนาคารแห่งใดแห่งหนึ่งโดยเฉพาะ จึงต้องใช้ estar",
+    "hint": "ธนาคารที่เฉพาะเจาะจง (el banco) ใช้กริยาตัวไหน?"
   },
   "q_gram_a1_11_003": {
-    "question": "อะไร เป็น difference between 'hay' และ 'está'?",
-    "correct": "hay = existence, está = location of specific things",
+    "question": "'hay' กับ 'está' ต่างกันอย่างไร?",
+    "correct": "hay = การมีอยู่, está = ที่ตั้งของสิ่งที่เฉพาะเจาะจง",
     "wrong": [
-      "hay = location, está = existence",
-      "hay = plural only, está = singular only",
-      "they are interchangeable"
+      "hay = ที่ตั้ง, está = การมีอยู่",
+      "hay = ใช้กับพหูพจน์เท่านั้น, está = ใช้กับเอกพจน์เท่านั้น",
+      "ใช้แทนกันได้"
     ],
-    "explanation": "'Hay' expresses exisสิบce (มี/เป็น) และ ใช้ กับ indefinite articles.\n'Está/Están' expresses loแมวion ของ specific, already-known things.\n- Hay un libro. (A หนังสือ exists.) / El libro está aquí. ( หนังสือ เป็น here.)"
+    "explanation": "'Hay' ใช้บอกการมีอยู่ (มี...อยู่) และใช้กับคำนำหน้านามไม่เฉพาะเจาะจง\n'Está/Están' ใช้บอกที่ตั้งของสิ่งที่เฉพาะเจาะจงและรู้จักกันอยู่แล้ว\n- Hay un libro. (มีหนังสือเล่มหนึ่งอยู่) / El libro está aquí. (หนังสืออยู่ที่นี่)",
+    "hint": null
   },
   "q_gram_a1_11_004": {
     "question": "___ muchos estudiantes en la clase. (choose ถูกต้อง form ความหมาย 'มี')",
@@ -1164,15 +1174,16 @@
     "hint": null
   },
   "q_gram_a1_11_009": {
-    "question": "No ___ nadie en la oficina. (fill ใน form ของ 'haber' ความหมาย 'มี')",
+    "question": "No ___ nadie en la oficina. (เติมรูปของ 'haber' ที่แปลว่า 'มี...อยู่')",
     "correct": "hay",
     "wrong": [
       "está",
       "es",
       "están"
     ],
-    "explanation": "'No hay nadie' = มี nobody. นี่คือ a double negative, which เป็น ถูกต้อง ในภาษาสเปน.\n- hay + negative คำ = มี/เป็น not\nRemember: hay เป็น invariable และ doesn't change สำหรับm.",
-    "conjugation_info": "Hay in negative: No hay nada (nothing), No hay nadie (nobody), No hay ningún... (not any)"
+    "explanation": "'No hay nadie' = ไม่มีใครอยู่ นี่คือประโยคปฏิเสธซ้อน ซึ่งถูกต้องในภาษาสเปน\n- hay + คำปฏิเสธ = ไม่มี...อยู่\nจำไว้ว่า hay ไม่เปลี่ยนรูป",
+    "conjugation_info": "Hay in negative: No hay nada (nothing), No hay nadie (nobody), No hay ningún... (not any)",
+    "hint": null
   },
   "q_gram_a1_11_010": {
     "question": "ในเมืองของฉันมีสวนสาธารณะแห่งหนึ่ง",
@@ -1316,14 +1327,15 @@
     "hint": "flores เป็น เพศหญิง พหูพจน์"
   },
   "q_gram_a1_13_003": {
-    "question": "อะไร distance does 'aquel' indicate?",
-    "correct": "far from both speaker and lisสิบer",
+    "question": "'aquel' บอกระยะห่างแบบไหน?",
+    "correct": "ไกลจากทั้งผู้พูดและผู้ฟัง",
     "wrong": [
-      "near the speaker",
-      "near the lisสิบer",
-      "it has no distance หมายถึง"
+      "ใกล้ผู้พูด",
+      "ใกล้ผู้ฟัง",
+      "ไม่มีความหมายเกี่ยวกับระยะห่าง"
     ],
-    "explanation": "สเปน มี สาม levels ของ distance:\n- este = near speaker (here/aquí)\n- ese = near lisสิบer (there/ahí)\n- aquel = far จาก both (over there/allí)"
+    "explanation": "ภาษาสเปนมีระยะห่างสามระดับ:\n- este = ใกล้ผู้พูด (ตรงนี้/aquí)\n- ese = ใกล้ผู้ฟัง (ตรงนั้น/ahí)\n- aquel = ไกลจากทั้งสองฝ่าย (ตรงโน้น/allí)",
+    "hint": null
   },
   "q_gram_a1_13_004": {
     "question": "___ chica es mi amiga. (นั้น girl near คุณ)",
@@ -1391,14 +1403,15 @@
     "conjugation_info": "este (m.sg.), esta (f.sg.), estos (m.pl.), estas (f.pl.) — near speaker"
   },
   "q_gram_a1_13_010": {
-    "question": "That house over there is very old.",
+    "question": "บ้านหลังโน้นเก่ามาก",
     "correct": "Aquella casa es muy vieja.",
     "wrong": [
       "Esa casa es muy vieja.",
       "Esta casa es muy vieja.",
       "Aquel casa es muy viejo."
     ],
-    "explanation": "'over there' signals farthest distance level: aquel/aquella.\n- aquella casa = นั้น บ้าน over there (far จาก both)\n'casa' เป็น เพศหญิง, so we use 'aquella' (not aquel)."
+    "explanation": "'ตรงโน้น' บ่งบอกระยะห่างไกลที่สุด: aquel/aquella\n- aquella casa = บ้านหลังโน้น (ไกลจากทั้งสองฝ่าย)\n'casa' เป็นเพศหญิง จึงใช้ 'aquella' (ไม่ใช่ aquel)",
+    "hint": null
   },
   "q_gram_a1_14_001": {
     "question": "Vivo ___ Madrid. (fill ใน preposition สำหรับ 'ใน')",
@@ -1430,18 +1443,19 @@
       "de",
       "por"
     ],
-    "explanation": "'a' แปลว่า 'ไปยัง' และ indiแมวes direction/destination.\n- Voy a la escuela. = I go ไปยัง โรงเรียน.\nir + a + place = going ไปยัง somewhere.",
-    "hint": "Which preposition expresses direction?"
+    "explanation": "'a' แปลว่า 'ไปยัง' ใช้บอกทิศทาง/จุดหมาย\n- Voy a la escuela. = ฉันไปโรงเรียน\nir + a + สถานที่ = ไปยังที่ใดที่หนึ่ง",
+    "hint": "บุพบทตัวไหนบอกทิศทาง?"
   },
   "q_gram_a1_14_004": {
-    "question": "อะไร does preposition 'con' หมายถึง?",
-    "correct": "with",
+    "question": "บุพบท 'con' แปลว่าอะไร?",
+    "correct": "กับ, ด้วย",
     "wrong": [
-      "without",
-      "สำหรับ",
-      "from"
+      "ไม่มี, ปราศจาก",
+      "เพื่อ",
+      "จาก"
     ],
-    "explanation": "'con' แปลว่า 'กับ' ในภาษาสเปน.\n- Café con leche = กาแฟ กับ นม.\n- Voy con mis amigos. = I go กับ my friends."
+    "explanation": "'con' แปลว่า 'กับ/ด้วย' ในภาษาสเปน\n- Café con leche = กาแฟใส่นม\n- Voy con mis amigos. = ฉันไปกับเพื่อน ๆ ของฉัน",
+    "hint": null
   },
   "q_gram_a1_14_005": {
     "question": "Veo ___ mi madre. (I see my แม่.)",
@@ -1527,29 +1541,31 @@
       "Cómo",
       "Qué"
     ],
-    "explanation": "'¿Dónde vives?' = ที่ไหน do คุณ live?\n'Dónde' asks about loแมวion หรือ place.\nทั้งหมด สเปน question words มี a writสิบ accent.",
-    "hint": "Which question คำ asks about place?"
+    "explanation": "'¿Dónde vives?' = คุณอาศัยอยู่ที่ไหน?\n'Dónde' ใช้ถามเกี่ยวกับตำแหน่งหรือสถานที่\nคำถามทุกคำในภาษาสเปนมีเครื่องหมายเน้นเสียงเขียนกำกับ",
+    "hint": "คำถามตัวไหนใช้ถามสถานที่?"
   },
   "q_gram_a1_15_003": {
-    "question": "อะไร does '¿Por qué?' หมายถึง?",
-    "correct": "Why?",
+    "question": "'¿Por qué?' แปลว่าอะไร?",
+    "correct": "ทำไม?",
     "wrong": [
-      "Because",
-      "How?",
-      "What สำหรับ?"
+      "เพราะว่า",
+      "อย่างไร?",
+      "เพื่ออะไร?"
     ],
-    "explanation": "'¿Por qué?' = Why? (สอง words, กับ accent on qué)\n- ¿Por qué estudias español? = Why do คุณ study สเปน?\nNote: 'porque' (หนึ่ง คำ, no accent) = เพราะ."
+    "explanation": "'¿Por qué?' = ทำไม? (สองคำ มีเครื่องหมายเน้นเสียงที่ qué)\n- ¿Por qué estudias español? = ทำไมคุณถึงเรียนภาษาสเปน?\nหมายเหตุ: 'porque' (คำเดียว ไม่มีเครื่องหมายเน้นเสียง) = เพราะว่า",
+    "hint": null
   },
   "q_gram_a1_15_004": {
-    "question": "¿___ años tienes? (How old are you?) (use ถูกต้อง question คำ)",
+    "question": "¿___ años tienes? (คุณอายุเท่าไร?) (ใช้คำถามให้ถูกต้อง)",
     "correct": "Cuántos",
     "wrong": [
       "Cuántas",
       "Cuánto",
       "Qué"
     ],
-    "explanation": "'Cuántos' สอดคล้องกับ เพศชาย พหูพจน์ คำนาม 'años'.\n- ¿Cuántos años tienes? = อย่างไร ผู้ชายy years do คุณ มี? (= อย่างไร เก่า/แก่ เป็น คุณ?)\nCuánto changes สำหรับ gender และ number: cuánto/cuánta/cuántos/cuántas.",
-    "conjugation_info": "cuánto (m.sg.), cuánta (f.sg.), cuántos (m.pl.), cuántas (f.pl.)"
+    "explanation": "'Cuántos' สอดคล้องกับคำนามเพศชายพหูพจน์ 'años'\n- ¿Cuántos años tienes? = คุณมีกี่ปี? (= คุณอายุเท่าไร?)\nCuánto เปลี่ยนรูปตามเพศและจำนวน: cuánto/cuánta/cuántos/cuántas",
+    "conjugation_info": "cuánto (m.sg.), cuánta (f.sg.), cuántos (m.pl.), cuántas (f.pl.)",
+    "hint": null
   },
   "q_gram_a1_15_005": {
     "question": "¿___ es tu nombre?",
@@ -1581,8 +1597,8 @@
       "Cómo",
       "Quién"
     ],
-    "explanation": "'¿Cuándo es la fiesta?' = เมื่อไหร่ เป็น party?\n'Cuándo' asks about เวลา.\n- ¿Cuándo vienes? = เมื่อไหร่ เป็น คุณ coming?",
-    "hint": "Which question คำ asks about เวลา?"
+    "explanation": "'¿Cuándo es la fiesta?' = งานเลี้ยงจัดเมื่อไร?\n'Cuándo' ใช้ถามเกี่ยวกับเวลา\n- ¿Cuándo vienes? = คุณจะมาเมื่อไร?",
+    "hint": "คำถามตัวไหนใช้ถามเวลา?"
   },
   "q_gram_a1_15_008": {
     "question": "ใคร เป็น she?",
@@ -1651,14 +1667,15 @@
     "hint": "Double negatives เป็น ถูกต้อง ในภาษาสเปน"
   },
   "q_gram_a1_16_004": {
-    "question": "อะไร does 'nunca' หมายถึง?",
-    "correct": "never",
+    "question": "'nunca' แปลว่าอะไร?",
+    "correct": "ไม่เคย",
     "wrong": [
-      "nothing",
-      "nobody",
-      "neither"
+      "ไม่มีอะไร",
+      "ไม่มีใคร",
+      "ก็ไม่เหมือนกัน"
     ],
-    "explanation": "'nunca' แปลว่า 'ไม่เคย'. มัน สามารถเป็น placed beสำหรับe หรือ after คำกริยา:\n- Nunca como รถยนต์ne. = I ไม่เคย eat เนื้อ.\n- No como รถยนต์ne nunca. = I ไม่เคย eat เนื้อ. (double negative)"
+    "explanation": "'nunca' แปลว่า 'ไม่เคย' วางไว้หน้าหรือหลังกริยาก็ได้:\n- Nunca como carne. = ฉันไม่เคยกินเนื้อสัตว์\n- No como carne nunca. = ฉันไม่เคยกินเนื้อสัตว์ (ปฏิเสธซ้อน)",
+    "hint": null
   },
   "q_gram_a1_16_005": {
     "question": "No quiero café, y ella ___ quiere café. (use คำ สำหรับ 'neither')",
@@ -1700,8 +1717,8 @@
       "nada",
       "nunca"
     ],
-    "explanation": "'nadie' แปลว่า 'nobody/no หนึ่ง'.\n- No hay nadie en casa. = มี nobody at บ้าน.\n- 'nadie' refers ไปยัง people, 'nada' refers ไปยัง things.",
-    "hint": "Which negative คำ refers ไปยัง people?"
+    "explanation": "'nadie' แปลว่า 'ไม่มีใคร'\n- No hay nadie en casa. = ไม่มีใครอยู่บ้าน\n- 'nadie' ใช้กับคน ส่วน 'nada' ใช้กับสิ่งของ",
+    "hint": "คำปฏิเสธตัวไหนใช้กับคน?"
   },
   "q_gram_a1_16_009": {
     "question": "Nothing is perfect.",
@@ -1747,14 +1764,15 @@
     "hint": "'los perros' เป็น พหูพจน์"
   },
   "q_gram_a1_17_003": {
-    "question": "อะไร does 'gustar' literally หมายถึง?",
-    "correct": "to กรุณา",
+    "question": "'gustar' แปลตรงตัวว่าอะไร?",
+    "correct": "ทำให้พอใจ",
     "wrong": [
-      "to like",
-      "to want",
-      "to love"
+      "ชอบ",
+      "ต้องการ",
+      "รัก"
     ],
-    "explanation": "'gustar' แปลตามตัวว่า 'ไปยัง กรุณา'. structure เป็น reversed จาก อังกฤษ.\n- Me gusta el café. = กาแฟ pleases me. (= I like กาแฟ.)\n thing liked เป็น grammatical subject."
+    "explanation": "'gustar' แปลตรงตัวว่า 'ทำให้พอใจ' โครงสร้างกลับกับภาษาอังกฤษ\n- Me gusta el café. = กาแฟทำให้ฉันพอใจ (= ฉันชอบกาแฟ)\nสิ่งที่ถูกชอบคือประธานของประโยค",
+    "hint": null
   },
   "q_gram_a1_17_004": {
     "question": "A ella ___ gusta bailar. (She likes ไปยัง dance.)",
@@ -1850,8 +1868,8 @@
       "tienes",
       "tienen"
     ],
-    "explanation": " ella สำหรับm ของ 'สิบer' เป็น 'tiene'.\n- Ella tiene hambre. = She เป็น หิว. (lit. She มี hunger.)\nสเปน uses สิบer + คำนาม ที่ไหน อังกฤษ uses ไปยัง เป็น + คำคุณศัพท์.",
-    "hint": "ella = 3rd คน เอกพจน์"
+    "explanation": "รูปของ ella ของ 'tener' คือ 'tiene'\n- Ella tiene hambre. = เธอหิว (แปลตรงตัวว่า เธอมีความหิว)\nภาษาสเปนใช้ tener + คำนาม ในที่ที่ภาษาอังกฤษใช้ to be + คำคุณศัพท์",
+    "hint": "ella = บุรุษที่ 3 เอกพจน์"
   },
   "q_gram_a1_18_003": {
     "question": "¿___ sed? (เป็น คุณ thirsty?)",
@@ -1865,14 +1883,15 @@
     "hint": "นี่คือ asking 'คุณ' (tú)"
   },
   "q_gram_a1_18_004": {
-    "question": "อะไร does 'tener razón' หมายถึง?",
-    "correct": "to be right",
+    "question": "'tener razón' แปลว่าอะไร?",
+    "correct": "ถูกต้อง",
     "wrong": [
-      "to have a reason",
-      "to be wrong",
-      "to have a question"
+      "มีเหตุผล",
+      "ผิด",
+      "มีคำถาม"
     ],
-    "explanation": "'สิบer razón' = ไปยัง เป็น right (lit. ไปยัง มี reaลูกชาย).\n- Tienes razón. = คุณ เป็น right.\nนี่คือ หนึ่ง ของ ผู้ชายy สิบer expressions ที่ไหน อังกฤษ uses 'ไปยัง เป็น'."
+    "explanation": "'tener razón' = ถูกต้อง (แปลตรงตัวว่า มีเหตุผล)\n- Tienes razón. = คุณพูดถูก\nนี่เป็นหนึ่งในสำนวน tener มากมายที่ภาษาอังกฤษใช้ 'to be'",
+    "hint": null
   },
   "q_gram_a1_18_005": {
     "question": "Nosotros ___ 25 años. (conjugate tener)",
@@ -1962,14 +1981,15 @@
     "hint": "อะไร เป็น nosotros สำหรับm ของ ir?"
   },
   "q_gram_a1_19_003": {
-    "question": "อะไร does 'ir a + infinitive' express?",
-    "correct": "near future / plans",
+    "question": "'ir a + infinitive' ใช้แสดงอะไร?",
+    "correct": "อนาคตอันใกล้ / แผนการ",
     "wrong": [
-      "past actions",
-      "comผู้ชายds",
-      "present habits"
+      "การกระทำในอดีต",
+      "คำสั่ง",
+      "นิสัยในปัจจุบัน"
     ],
-    "explanation": "'ir a + infinitive' expresses near future หรือ plans.\n- Voy a estudiar. = I am going ไปยัง study.\n- Vamos a comer. = We เป็น going ไปยัง eat.\nนี่คือ simplest way ไปยัง talk about future actions ในภาษาสเปน."
+    "explanation": "'ir a + infinitive' ใช้แสดงอนาคตอันใกล้หรือแผนการ\n- Voy a estudiar. = ฉันจะเรียน\n- Vamos a comer. = พวกเราจะไปกินข้าว\nนี่เป็นวิธีที่ง่ายที่สุดในการพูดถึงการกระทำในอนาคตในภาษาสเปน",
+    "hint": null
   },
   "q_gram_a1_19_004": {
     "question": "Ella ___ a la playa. (conjugate ir)",
@@ -2016,14 +2036,15 @@
     "hint": "los niños takes same สำหรับm as ellos"
   },
   "q_gram_a1_19_008": {
-    "question": "We เป็น going ไปยัง eat at a restaurant.",
+    "question": "พวกเราจะไปกินข้าวที่ร้านอาหาร",
     "correct": "Vamos a comer en un restaurante.",
     "wrong": [
       "Vamos comer en un restaurante.",
       "Voy a comer en un restaurante.",
       "Vamos a comer a un restaurante."
     ],
-    "explanation": "'ir a + infinitive' expresses near future.\n- Vamos a comer = We เป็น going ไปยัง eat.\nNote: 'en un restaurante' (at a ร้านอาหาร) uses 'en' สำหรับ loแมวion."
+    "explanation": "'ir a + infinitive' ใช้แสดงอนาคตอันใกล้\n- Vamos a comer = พวกเราจะไปกินข้าว\nหมายเหตุ: 'en un restaurante' (ที่ร้านอาหาร) ใช้ 'en' บอกสถานที่",
+    "hint": null
   },
   "q_gram_a1_19_009": {
     "question": "¿Vosotros ___ a la fiesta? (conjugate ir)",
@@ -2077,8 +2098,8 @@
       "veinti cinco",
       "veintecinco"
     ],
-    "explanation": "Numbers 21-29 เป็น writสิบ as หนึ่ง คำ: veinti + unit.\n- 21 = veintiuno, 22 = veintidós, 25 = veinticinco\nNote: 30+ uses สอง words: treinta y cinco.",
-    "hint": "21-29 เป็น single compound words"
+    "explanation": "ตัวเลข 21-29 เขียนเป็นคำเดียว: veinti + หลักหน่วย\n- 21 = veintiuno, 22 = veintidós, 25 = veinticinco\nหมายเหตุ: ตั้งแต่ 30 ขึ้นไปใช้สองคำ: treinta y cinco",
+    "hint": "21-29 เป็นคำประสมคำเดียว"
   },
   "q_gram_a1_20_004": {
     "question": "อะไร เป็น 'cincuenta' ในภาษาอังกฤษ?",
@@ -2109,8 +2130,8 @@
       "cent",
       "cien to"
     ],
-    "explanation": "'cien' ใช้ สำหรับ exactly 100.\n- cien perลูกชายas = 100 people\n'ciento' ใช้ สำหรับ 101-199: ciento uno, ciento dos, etc.",
-    "hint": "สำหรับ exactly 100, which สำหรับm ใช้?"
+    "explanation": "'cien' ใช้กับเลข 100 พอดี\n- cien personas = 100 คน\n'ciento' ใช้กับ 101-199: ciento uno, ciento dos เป็นต้น",
+    "hint": "เลข 100 พอดีใช้รูปไหน?"
   },
   "q_gram_a1_20_007": {
     "question": "I มี สำหรับty-สอง books.",

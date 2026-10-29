@@ -11,25 +11,26 @@
     "hint": " subject 'parecer' есть entire clause который follows, не 'yo'"
   },
   "q_gram_c2_01_002": {
-    "question": "Fue en París ___ nos conocimos por primera vez. (cleft sentence particle)",
+    "question": "Fue en París ___ nos conocimos por primera vez. (частица расчленённого предложения)",
     "correct": "donde",
     "wrong": [
       "que",
       "cuando",
       "cual"
     ],
-    "explanation": "это является cleft sentence (oración hendida) used для emphasis: 'Fue en París donde...' emphasizes location. когда focused element является place, 'donde' используется. If это были время, 'cuando' бы быть used; для other elements, 'que' есть more обычный. Some speakers accept 'que' здесь too, но 'donde' есть stylistically precise choice.",
-    "hint": " focused element является place (en París)"
+    "explanation": "Это расчленённое предложение (oración hendida), используемое для выделения: 'Fue en París donde...' подчёркивает место. Когда выделяется место, используется 'donde'. Если бы это было время, использовалось бы 'cuando'; для остальных элементов чаще употребляется 'que'. Некоторые говорящие допускают здесь и 'que', но 'donde' — стилистически точный выбор.",
+    "hint": "Выделяемый элемент — место (en París)"
   },
   "q_gram_c2_01_003": {
-    "question": "что stylistic effect does placing глагол перед subject produce в испанский declarative sentences (e.g., 'Llegó Juan' vs. 'Juan llegó')?",
-    "correct": "It presents the subject as new or unexpected information (rhematic focus), giving the sentence a more narrative or dramatic tone",
+    "question": "Какой стилистический эффект даёт постановка глагола перед подлежащим в испанских повествовательных предложениях (например, 'Llegó Juan' и 'Juan llegó')?",
+    "correct": "Подлежащее подаётся как новая или неожиданная информация (ремантический фокус), и предложение приобретает более повествовательный или драматичный тон",
     "wrong": [
-      "It makes the sentence grammatically more formal but has no change in meaning",
-      "It indicates that the action is habitual rather than a single event",
-      "It transforms the sentence into a question in formal registers"
+      "Предложение становится грамматически более формальным, но значение не меняется",
+      "Показывает, что действие регулярное, а не однократное",
+      "В формальной речи превращает предложение в вопрос"
     ],
-    "explanation": "в испанском, default слово order SVO может быть altered для information-structural purposes. глагол-Subject order (VS) places subject в rhematic (новый information) position: 'Llegó Juan' presents Juan's arrival as noteworthy или unexpected, whereas 'Juan llegó' treats Juan as already known (thematic). это VS order есть обычный в literary и journalistic prose для dramatic effect."
+    "explanation": "В испанском обычный порядок слов SVO можно менять ради информационной структуры. Порядок «глагол — подлежащее» (VS) ставит подлежащее в ремантическую позицию (новая информация): 'Llegó Juan' подаёт приход Хуана как нечто важное или неожиданное, тогда как 'Juan llegó' рассматривает Хуана как уже известного (тематическое). Порядок VS часто встречается в художественной и журналистской прозе для драматического эффекта.",
+    "hint": null
   },
   "q_gram_c2_01_004": {
     "question": "Lo que ___ es una explicación clara, no excusas. (necesitar, present изъявительное наклонение, nosotros — emphatic pseudocleft)",
@@ -54,15 +55,16 @@
     "hint": " ironic construction uses определённый артикль + 'que' к introduce relative clause"
   },
   "q_gram_c2_01_006": {
-    "question": "Hubiera sido mejor que ___ la verdad desde el principio. (decir, pluperfect сослагательное наклонение, tú — формальный literary register)",
+    "question": "Hubiera sido mejor que ___ la verdad desde el principio. (decir, pluscuamperfecto de subjuntivo, tú — формальный литературный регистр)",
     "correct": "hubieras dicho",
     "wrong": [
       "dijeras",
       "habrías dicho",
       "hubieses decido"
     ],
-    "explanation": "после 'hubiera sido mejor que', pluperfect сослагательное наклонение есть needed к express counterfactual past situation с literary или формальный tone. 'Hubieras dicho' uses hubiera + неправильный past причастие 'dicho'. alternative 'dijeras' (имперфект сослагательное наклонение) бы shift значение к unrealized present/general wish rather than regretted past action.",
-    "conjugation_info": "decir (pluperfect сослагательное наклонение): hubiera dicho, hubieras dicho, hubiera dicho, hubiéramos dicho, hubierais dicho, hubieran dicho"
+    "explanation": "После 'hubiera sido mejor que' нужен pluscuamperfecto de subjuntivo, чтобы выразить контрфактическую ситуацию в прошлом в литературном или формальном тоне. 'Hubieras dicho' состоит из hubiera + неправильного причастия 'dicho'. Вариант 'dijeras' (imperfecto de subjuntivo) сместил бы смысл к невыполненному желанию в настоящем или вообще, а не к сожалению о прошлом действии.",
+    "conjugation_info": "decir (pluperfect сослагательное наклонение): hubiera dicho, hubieras dicho, hubiera dicho, hubiéramos dicho, hubierais dicho, hubieran dicho",
+    "hint": null
   },
   "q_gram_c2_01_007": {
     "question": "De haber ___ la verdad, todo habría sido diferente. (saber, инфинитив в сложной форме — лаконичный литературный стиль)",
@@ -139,14 +141,15 @@
     "explanation": " expression 'sea lo que fuere' (come что may) preserves future сослагательное наклонение 'fuere' в fixed concessive formula. в modern испанский, это есть часто regularized к 'sea lo que sea', но archaic форма persists в формальный и literary registers. future сослагательное наклонение 'ser' shares формах с 'ir': fuere, fueres, fuere, etc."
   },
   "q_gram_c2_02_004": {
-    "question": "что есть 'pretérito anterior' (hubo cantado) и почему есть это considered archaic?",
-    "correct": "A compound past tense formed with the preterite of 'haber' + past participle, expressing immediate anteriority; it has been replaced by the simple preterite or pluperfect in all but literary usage",
+    "question": "Что такое 'pretérito anterior' (hubo cantado) и почему его считают архаичным?",
+    "correct": "Сложное прошедшее время, образуемое от претерита глагола 'haber' + причастие; выражает непосредственную предшествующость действия; его заменили простым претеритом или плюсквамперфектом везде, кроме литературного употребления",
     "wrong": [
-      "A simple past tense formed by adding special archaic endings to the verb stem, still common in legal texts",
-      "A conditional perfect tense that was used before the modern conditional emerged in the 16th century",
-      "A pluperfect indicative variant using 'ser' instead of 'haber' as the auxiliary, common until the 18th century"
+      "Простое прошедшее время, образуемое добавлением особых архаичных окончаний к основе глагола, до сих пор распространённое в юридических текстах",
+      "Условное совершенное время, которое использовалось до появления современного условного наклонения в XVI веке",
+      "Вариант плюсквамперфекта индикатива с 'ser' вместо 'haber' в роли вспомогательного глагола, распространённый до XVIII века"
     ],
-    "explanation": " pretérito anterior (hube cantado, hubiste cantado, hubo cantado, etc.) expresses action completed immediately перед another past action. это appeared после temporal conjunctions like 'apenas', 'en cuanto', 'no bien'. это имеет been almost entirely replaced от simple претерит или pluperfect (había cantado) в modern испанский, surviving только в очень формальный literary prose."
+    "explanation": "Pretérito anterior (hube cantado, hubiste cantado, hubo cantado и т. д.) выражает действие, завершённое непосредственно перед другим прошедшим действием. Оно употреблялось после временных союзов вроде 'apenas', 'en cuanto', 'no bien'. В современном испанском его почти полностью заменили простой претерит или плюсквамперфект (había cantado); оно сохранилось лишь в очень формальной литературной прозе.",
+    "hint": null
   },
   "q_gram_c2_02_005": {
     "question": "Donde ___ necesidad, acuda el ciudadano al servicio público. (haber, future сослагательное наклонение, archaic legal register)",
@@ -181,25 +184,26 @@
     "explanation": "в legal испанский, 'quien + future сослагательное наклонение' (cometiere) используется для hypothetical future agents в statutory provisions. это parallels archaic английский 'whoever shall commit'. пока 'cometa' (present сослагательное наклонение) есть acceptable в modern legal drafting, future сослагательное наклонение remains traditional форма в испанский jurisprudence."
   },
   "q_gram_c2_02_008": {
-    "question": "No bien hubo ___ la sentencia, el acusado se desplomó. (oír, pretérito anterior — literary narrative)",
+    "question": "No bien hubo ___ la sentencia, el acusado se desplomó. (oír, pretérito anterior — литературное повествование)",
     "correct": "oído",
     "wrong": [
       "oyendo",
       "oyó",
       "oída"
     ],
-    "explanation": "после 'no bien' (no sooner), pretérito anterior ('hubo oído') expresses action completed immediately перед another past event. past причастие 'oír' есть 'oído' (с accent к break diphthong). это tense есть reserved для highly формальный literary narrative.",
-    "hint": " past причастие 'oír' имеет accent mark"
+    "explanation": "После 'no bien' («как только») pretérito anterior ('hubo oído') выражает действие, завершённое непосредственно перед другим прошедшим событием. Причастие глагола 'oír' — 'oído' (с акцентом, чтобы разделить дифтонг). Это время используется только в очень формальном литературном повествовании.",
+    "hint": "У причастия глагола 'oír' есть знак ударения"
   },
   "q_gram_c2_02_009": {
     "question": "Adonde fueres, haz lo que vieres.",
-    "correct": "Wherever you may go, do as you may see (done). / When in Rome, do as the Romans do.",
+    "correct": "Куда бы ты ни пошёл, делай то, что увидишь (делают другие). / В чужой монастырь со своим уставом не ходят.",
     "wrong": [
-      "Wherever you went, do what you saw there.",
-      "Go where you want and do what you want.",
-      "Where you will go, see what you will do."
+      "Куда ты ходил, делай то, что ты там видел.",
+      "Иди куда хочешь и делай что хочешь.",
+      "Куда ты пойдёшь, смотри, что ты будешь делать."
     ],
-    "explanation": "это famous proverb preserves future сослагательное наклонение ('fueres' от ir, 'vieres' от ver) в условное наклонение-concessive structure. это есть испанский equivalent 'когда в Rome, do as Romans do'. future сослагательное наклонение здесь expresses hypothetical, open-ended future situations в timeless proverbial way. это форма имеет been replaced от present сослагательное наклонение или изъявительное наклонение в все non-proverbial modern usage."
+    "explanation": "Эта известная пословица сохраняет futuro de subjuntivo ('fueres' от ir, 'vieres' от ver) в условно-уступительной конструкции. Это испанский эквивалент русской поговорки «В чужой монастырь со своим уставом не ходят». Futuro de subjuntivo здесь выражает гипотетические, открытые будущие ситуации вне времени, как в пословице. В современном непословичном употреблении эта форма заменена presente de subjuntivo или индикативом.",
+    "hint": null
   },
   "q_gram_c2_02_010": {
     "question": "Si el demandado no ___ en el plazo de diez días, se procederá en rebeldía. (comparecer, future сослагательное наклонение, él — legal register)",
@@ -234,14 +238,15 @@
     "explanation": "Leísmo есть use indirect object местоимение 'le' в place direct object местоимение 'lo' (или 'la'). 'Le vi ayer' instead 'Lo vi ayer' есть characteristic central Spain (Castile). RAE accepts leísmo для мужского рода единственного числа animate referents но considers это incorrect для женского рода или inanimate referents."
   },
   "q_gram_c2_03_003": {
-    "question": "что есть key grammatical difference between 'ustedes' usage в Peninsular испанский и Latin American испанский?",
-    "correct": "In Peninsular Spanish, 'ustedes' is exclusively formal plural (vs. informal 'vosotros'); in Latin American Spanish, 'ustedes' serves as both formal and informal plural, replacing 'vosotros' entirely",
+    "question": "В чём главное грамматическое различие в употреблении 'ustedes' в испанском Испании и в латиноамериканском испанском?",
+    "correct": "В испанском Испании 'ustedes' — исключительно формальное множественное число (в отличие от неформального 'vosotros'); в латиноамериканском испанском 'ustedes' служит и формальным, и неформальным множественным числом, полностью заменяя 'vosotros'",
     "wrong": [
-      "In Peninsular Spanish, 'ustedes' takes second-person plural verbs; in Latin American Spanish it takes third-person plural verbs",
-      "In Peninsular Spanish, 'ustedes' is only used for women; in Latin American Spanish it is gender-neutral",
-      "There is no grammatical difference; the distinction is purely one of pronunciation"
+      "В испанском Испании 'ustedes' употребляется с глаголами 2-го лица множественного числа; в латиноамериканском — с глаголами 3-го лица множественного числа",
+      "В испанском Испании 'ustedes' используется только для женщин; в латиноамериканском оно нейтрально по роду",
+      "Грамматической разницы нет; различие только в произношении"
     ],
-    "explanation": "Это one большинство significant dialectal grammar differences в испанский. Peninsular испанский maintains two-way неформальный/формальный distinction в множественного числа: vosotros/as (неформальный) vs. ustedes (формальный). Latin American испанский имеет eliminated 'vosotros' entirely, using 'ustedes' с third-человек множественного числа verbs для все множественного числа addresses regardless formality."
+    "explanation": "Это одно из самых значительных диалектных грамматических различий в испанском. В испанском Испании сохраняется различие неформального и формального обращения во множественном числе: vosotros/as (неформальное) и ustedes (формальное). В латиноамериканском испанском 'vosotros' полностью исчезло, и 'ustedes' с глаголами 3-го лица множественного числа используется для любого обращения ко многим, независимо от степени формальности.",
+    "hint": null
   },
   "q_gram_c2_03_004": {
     "question": "Vos ___ a la fiesta anoche, ¿verdad? (ir, Argentine voseo, простое прошедшее)",
@@ -298,25 +303,27 @@
     "explanation": " RAE accepts leísmo для мужского рода единственного числа animate referents: 'Le vi' (instead etymologically правильный 'Lo vi') когда referring к male человек. Это только type leísmo considered acceptable. Leísmo с женского рода, множественного числа, или inanimate referents есть не accepted."
   },
   "q_gram_c2_03_009": {
-    "question": "Vos ___ que estudiar más si querés aprobar. (tener, Argentine voseo, present изъявительное наклонение)",
+    "question": "Vos ___ que estudiar más si querés aprobar. (tener, аргентинское voseo, presente de indicativo)",
     "correct": "tenés",
     "wrong": [
       "tienes",
       "tenéis",
       "tenís"
     ],
-    "explanation": "в Argentine voseo, -er verbs в present изъявительное наклонение stress final syllable и eliminate diphthong: tener → tenés (не tienes). Chilean voseo sometimes uses 'tenís' (с aspiration), но Rioplatense форма есть 'tenés'. vosotros форма 'tenéis' есть не used в Latin America.",
-    "conjugation_info": "tener (present indicative, voseo): vos tenés | Chilean: vos tenís | Standard tú: tienes"
+    "explanation": "В аргентинском voseo глаголы на -er в presente de indicativo получают ударение на последнем слоге и теряют дифтонг: tener → tenés (а не tienes). В чилийском voseo иногда используется 'tenís' (с придыханием), но для Рио-де-ла-Платы характерна форма 'tenés'. Форма 'tenéis' (vosotros) в Латинской Америке не используется.",
+    "conjugation_info": "tener (present indicative, voseo): vos tenés | Chilean: vos tenís | Standard tú: tienes",
+    "hint": null
   },
   "q_gram_c2_03_010": {
     "question": "¿Vos querés que yo te lo diga o preferís que me calle?",
-    "correct": "Do you want me to tell you, or do you prefer that I keep quiet?",
+    "correct": "Хочешь, чтобы я тебе сказал, или предпочитаешь, чтобы я промолчал?",
     "wrong": [
-      "Do you all want me to tell you, or do you prefer that I remain silent?",
-      "Would you like me to tell you, or would you prefer that I shut up?",
-      "Did you want me to tell you, or did you prefer that I stayed quiet?"
+      "Хотите ли вы все, чтобы я вам сказал, или предпочитаете, чтобы я молчал?",
+      "Хотел бы ты, чтобы я тебе сказал, или предпочёл бы, чтобы я заткнулся?",
+      "Ты хотел, чтобы я тебе сказал, или предпочитал, чтобы я промолчал?"
     ],
-    "explanation": "это sentence uses Argentine voseo формах: 'querés' (present изъявительное наклонение querer с vos) и 'preferís' (present изъявительное наклонение preferir с vos). 'vos' местоимение addresses single человек informally, equivalent к 'tú', не множественного числа 'vosotros'. сослагательное наклонение формах 'diga' и 'calle' remain standard regardless voseo."
+    "explanation": "В этом предложении используются формы аргентинского voseo: 'querés' (presente de indicativo глагола querer с vos) и 'preferís' (presente de indicativo глагола preferir с vos). Местоимение 'vos' обращено к одному человеку в неформальной манере, как 'tú', а не ко многим, как 'vosotros'. Формы subjuntivo 'diga' и 'calle' остаются стандартными независимо от voseo.",
+    "hint": null
   },
   "q_gram_c2_04_001": {
     "question": "¿No le ___ abrir la ventana? (importar, условное наклонение, usted — polite indirect request)",
@@ -330,15 +337,15 @@
     "conjugation_info": "importar (условное наклонение): importaría, importarías, importaría, importaríamos, importaríais, importarían"
   },
   "q_gram_c2_04_002": {
-    "question": "Yo que tú, no ___ eso. (decir, условное наклонение, yo — pragmatic advice softener)",
+    "question": "Yo que tú, no ___ eso. (decir, условное наклонение, yo — прагматический смягчитель совета)",
     "correct": "diría",
     "wrong": [
       "dijera",
       "digo",
       "dije"
     ],
-    "explanation": "'Yo que tú' (if I были ты) есть idiomatic pragmatic softener used к give advice indirectly. main clause takes условное наклонение ('diría') к express hypothetical nature advice. это structure есть more tactful than direct повелительное наклонение like 'no digas eso'.",
-    "hint": "'Yo que tú' functions like 'si yo fuera tú' но есть more colloquial"
+    "explanation": "'Yo que tú' («на твоём месте») — идиоматический прагматический смягчитель, с помощью которого совет даётся косвенно. Главное предложение стоит в условном наклонении ('diría'), выражая гипотетичность совета. Такая конструкция тактичнее прямого императива вроде 'no digas eso'.",
+    "hint": "'Yo que tú' работает как 'si yo fuera tú', но более разговорное"
   },
   "q_gram_c2_04_003": {
     "question": "Disculpe, ¿me ___ indicar dónde está la estación? (poder, условное наклонение — формальный politeness strategy)",
@@ -352,14 +359,15 @@
     "hint": " условное наклонение creates social distance и reduces imposition"
   },
   "q_gram_c2_04_004": {
-    "question": "что pragmatic function does diminutive serve в Mexican испанский expression 'ahorita vengo'?",
-    "correct": "It functions as a pragmatic softener indicating immediacy and reassurance, not literal smallness — it means 'I'll be right back'",
+    "question": "Какую прагматическую функцию выполняет уменьшительный суффикс в мексиканском выражении 'ahorita vengo'?",
+    "correct": "Он служит прагматическим смягчителем, указывающим на скорость и успокаивающим собеседника, а не на буквальную малость — означает «я сейчас вернусь»",
     "wrong": [
-      "It indicates that the speaker will come back for only a short visit",
-      "It is a grammatical error common in uneducated speech, as 'ahora' cannot take diminutives",
-      "It means the speaker is going to a small or nearby place"
+      "Он показывает, что говорящий вернётся лишь ненадолго",
+      "Это грамматическая ошибка, характерная для необразованной речи, так как 'ahora' не принимает уменьшительных суффиксов",
+      "Он означает, что говорящий идёт в маленькое или близкое место"
     ],
-    "explanation": "'Ahorita' в Mexican и Central American испанский является pragmatic diminutive который modifies temporal adverb 'ahora'. Rather than indicating smallness, diminutive suffix -ita serves as softening и immediatizing device: 'ahorita' feels warmer и more immediate than 'ahora'. это pragmatic use diminutives extends к много expressions: 'cerquita' (nice и close), 'lueguito' (right away)."
+    "explanation": "'Ahorita' в мексиканском и центральноамериканском испанском — прагматическое уменьшительное, изменяющее наречие времени 'ahora'. Суффикс -ita указывает не на малость, а служит смягчающим и «приближающим» средством: 'ahorita' звучит теплее и срочнее, чем 'ahora'. Такое прагматическое употребление уменьшительных распространяется на многие выражения: 'cerquita' (совсем близко), 'lueguito' (тотчас).",
+    "hint": null
   },
   "q_gram_c2_04_005": {
     "question": "Quisiera ___ una mesa para dos, por favor. (reservar — ultra-polite request using сослагательное прошедшего времени из querer)",
@@ -373,15 +381,15 @@
     "conjugation_info": "querer (имперфект сослагательное наклонение): quisiera, quisieras, quisiera, quisiéramos, quisierais, quisieran"
   },
   "q_gram_c2_04_006": {
-    "question": "Es que no ___ la hora de la reunión. (saber, прошедшее несовершенное изъявительное наклонение, yo — excuse-giving pragmatic marker)",
+    "question": "Es que no ___ la hora de la reunión. (saber, imperfecto de indicativo, yo — прагматический маркер оправдания)",
     "correct": "sabía",
     "wrong": [
       "supe",
       "sepa",
       "supiera"
     ],
-    "explanation": "'Es que' является pragmatic discourse marker used к introduce excuses, explanations, или justifications. это prefaces speaker's reason в way который solicits hearer's understanding. здесь, 'es que no sabía' (thing есть, I didn't know) uses имперфект 'sabía' к describe ongoing state ignorance as mitigating excuse.",
-    "hint": "'Es que' introduces explanation, и имперфект describes ongoing past state"
+    "explanation": "'Es que' — прагматический дискурсивный маркер, вводящий оправдания, объяснения или обоснования. Он предваряет причину таким образом, чтобы вызвать понимание собеседника. Здесь 'es que no sabía' («дело в том, что я не знал») использует imperfecto 'sabía' для описания длящегося состояния неведения как смягчающего оправдания.",
+    "hint": "'Es que' вводит объяснение, а imperfecto описывает длящееся состояние в прошлом"
   },
   "q_gram_c2_04_007": {
     "question": "Мне было интересно, не могли бы вы помочь мне с этим отчётом. (Переведите с максимальной вежливостью)",
@@ -407,13 +415,14 @@
   },
   "q_gram_c2_04_009": {
     "question": "No sé cómo decirle esto, pero me temo que su solicitud no ha sido aceptada.",
-    "correct": "I don't know how to tell you this, but I'm afraid your application has not been accepted.",
+    "correct": "Не знаю, как вам это сказать, но, боюсь, ваша заявка не была принята.",
     "wrong": [
-      "I don't know what to say, but I think your request was not accepted.",
-      "I cannot tell you this, but I fear that your application was rejected.",
-      "I'm not sure how to say this, but your application might not have been accepted."
+      "Не знаю, что сказать, но думаю, что ваш запрос не приняли.",
+      "Я не могу вам этого сказать, но опасаюсь, что вашу заявку отклонили.",
+      "Не уверен, как это сказать, но, возможно, ваша заявка не была принята."
     ],
-    "explanation": "это sentence demonstrates multiple pragmatic softening strategies для delivering плохой news: 'no sé cómo decirle' (prefatory hedging), 'me temo que' (epistemic distancing — literally 'I fear который'), и формальный 'le' (usted register). настоящее совершенное 'ha sido aceptada' есть appropriate tense для announcing result, и passive voice depersonalizes rejection."
+    "explanation": "Это предложение демонстрирует несколько прагматических стратегий смягчения при сообщении плохих новостей: 'no sé cómo decirle' (вступительное смягчение), 'me temo que' (эпистемическая дистанция — буквально «боюсь, что») и формальное 'le' (регистр usted). Pretérito perfecto 'ha sido aceptada' — подходящее время для сообщения о результате, а страдательный залог обезличивает отказ.",
+    "hint": null
   },
   "q_gram_c2_04_010": {
     "question": "¿No ___ usted tan amable de pasarme la sal? (ser, future изъявительное наклонение — rhetorical politeness с future tense)",
@@ -563,18 +572,19 @@
       "—",
       ","
     ],
-    "explanation": "A colon используется перед enumeration который имеет been announced от cataphoric element (в это case, 'tres ciudades'). colon signals который что follows specifies или lists что был previously announced. A dash бы только быть appropriate для parenthetical aside.",
-    "hint": " sentence announces list с 'tres ciudades' — что punctuation introduces enumeration?"
+    "explanation": "Двоеточие ставится перед перечислением, которое было предварено катафорическим элементом (здесь — 'tres ciudades'). Двоеточие показывает, что далее уточняется или перечисляется то, что было заявлено ранее. Тире подошло бы только для вставного пояснения.",
+    "hint": "Предложение вводит список словами 'tres ciudades' — какой знак препинания вводит перечисление?"
   },
   "q_gram_c2_06_004": {
-    "question": "что есть grammatical difference between 'Mi hermano, que vive en Madrid, es médico' и 'Mi hermano que vive en Madrid es médico'?",
-    "correct": "The first (with commas) is a non-restrictive clause implying one brother; the second (without commas) is restrictive, implying there are multiple brothers and identifying which one",
+    "question": "В чём грамматическая разница между 'Mi hermano, que vive en Madrid, es médico' и 'Mi hermano que vive en Madrid es médico'?",
+    "correct": "Первое (с запятыми) — нeограничительное придаточное, подразумевающее одного брата; второе (без запятых) — ограничительное, подразумевающее нескольких братьев и указывающее, о каком именно речь",
     "wrong": [
-      "There is no grammatical difference; the commas are optional stylistic choices",
-      "The first is informal and the second is formal register",
-      "The first uses the indicative mood and the second implies subjunctive"
+      "Грамматической разницы нет; запятые — необязательный стилистический выбор",
+      "Первое неформальное, а второе — формальный регистр",
+      "Первое использует индикатив, а второе подразумевает субхунтив"
     ],
-    "explanation": "в испанском, commas around relative clause determine whether это есть explicativa (non-restrictive, providing extra information) или especificativa (restrictive, narrowing down который referent). это punctuation distinction changes значение: с commas, speaker имеет one brother; без, speaker имеет multiple brothers и есть specifying который one."
+    "explanation": "В испанском запятые вокруг относительного придаточного определяют, является ли оно explicativa (неограничительным, даёт дополнительную информацию) или especificativa (ограничительным, уточняющим, о каком именно предмете речь). Эта пунктуационная разница меняет смысл: с запятыми у говорящего один брат; без них — несколько братьев, и уточняется, о котором идёт речь.",
+    "hint": null
   },
   "q_gram_c2_06_005": {
     "question": "El director declaró___ «No habrá más despidos este trimestre». ( director stated___)",
@@ -630,15 +640,16 @@
     "explanation": " colon после 'sencilla' introduces explanation. em dashes (rayas) enclose concessive parenthetical clause ('por injustas que sean' = однако unjust они may быть). 'Retirarse del acuerdo' означает 'к withdraw от agreement', не 'к retire'. correlative 'o...o' translates к 'either...или'."
   },
   "q_gram_c2_06_010": {
-    "question": "Había dos opciones —según nos explicaron—___ aceptar o renunciar. (haber, прошедшее несовершенное изъявительное наклонение — already conjugated; choose правильный punctuation после parenthetical)",
+    "question": "Había dos opciones —según nos explicaron—___ aceptar o renunciar. (haber, imperfecto de indicativo — уже проспрягован; выберите правильный знак препинания после вставной конструкции)",
     "correct": ":",
     "wrong": [
       ";",
       ",",
       "—"
     ],
-    "explanation": " em dashes (rayas) enclose parenthetical 'según nos explicaron' (as они explained к us). после closing dash, colon introduces specification 'dos opciones'. colon functions as cataphoric marker, и parenthetical insertion between dashes does не change punctuation logic main sentence.",
-    "conjugation_info": "Parenthetical insertions between rayas do не alter punctuation requirements main clause structure"
+    "explanation": "Тире (rayas) заключают вставную конструкцию 'según nos explicaron' («как нам объяснили»). После закрывающего тире двоеточие вводит уточнение к 'dos opciones'. Двоеточие выступает как катафорический маркер, а вставка между тире не меняет логику пунктуации основного предложения.",
+    "conjugation_info": "Parenthetical insertions between rayas do не alter punctuation requirements main clause structure",
+    "hint": null
   },
   "q_gram_c2_07_001": {
     "question": "Sírvase ___ a la recepción a las nueve en punto. (acudir, ultra-формальный повелительное наклонение usted)",
@@ -759,15 +770,15 @@
     "conjugation_info": "aparecer (pretérito indefinido): aparecí, apareciste, apareció, aparecimos, aparecisteis, aparecieron"
   },
   "q_gram_c2_08_002": {
-    "question": "No podía creerlo. ___ irse de allí cuanto antes. Nadie debía enterarse. (tener que, free indirect style, прошедшее несовершенное)",
+    "question": "No podía creerlo. ___ irse de allí cuanto antes. Nadie debía enterarse. (tener que, свободная косвенная речь, imperfecto)",
     "correct": "Tenía que",
     "wrong": [
       "Tuvo que",
       "Tiene que",
       "Tendría que"
     ],
-    "explanation": "Free indirect style (estilo indirecto libre) blends narrator's voice с character's thoughts без quotation marks или reporting verbs. имперфект 'tenía que' reflects character's internal urgency as filtered through narrator. short, decisive sentences ('No podía creerlo. Tenía que irse.') являются characteristic это literary technique.",
-    "hint": "Free indirect style uses character's tense perspective — здесь, имперфект mirrors internal thought"
+    "explanation": "Свободная косвенная речь (estilo indirecto libre) соединяет голос рассказчика с мыслями персонажа без кавычек и вводящих глаголов. Imperfecto 'tenía que' отражает внутреннюю спешку персонажа, пропущенную через рассказчика. Короткие решительные предложения ('No podía creerlo. Tenía que irse.') характерны для этого литературного приёма.",
+    "hint": "Свободная косвенная речь использует временную перспективу персонажа — здесь imperfecto отражает внутренние мысли"
   },
   "q_gram_c2_08_003": {
     "question": "Y el soldado, que nunca ___ miedo a nada, tembló por primera vez. (haber tenido, pluperfect изъявительное наклонение для literary characterization)",
@@ -791,15 +802,16 @@
     "explanation": " presente histórico является powerful literary device где past events являются narrated в настоящее время ('Colón llega América en 1492'). Grammatically, это transposes temporal frame, creating effect immediacy и reader immersion. в literary analysis, recognizing это device есть essential для understanding narrative perspective и author's stylistic choices."
   },
   "q_gram_c2_08_005": {
-    "question": "Mañana ___ el día decisivo. Lo sabía. Lo sentía en los huesos. (ser, literary present для narrative anticipation mixed с прошедшее несовершенное для interiority)",
+    "question": "Mañana ___ el día decisivo. Lo sabía. Lo sentía en los huesos. (ser, литературное настоящее время для предвосхищения в повествовании в сочетании с имперфектом для передачи внутреннего мира)",
     "correct": "sería",
     "wrong": [
       "era",
       "fue",
       "es"
     ],
-    "explanation": " условное наклонение 'sería' в literary narrative functions as 'future past' — это expresses character's anticipation future event от past narrative standpoint. Combined с имперфект ('sabía', 'sentía'), это creates layered temporal perspective characteristic sophisticated literary prose. Это distinct от simple имперфект 'era', который бы merely describe.",
-    "conjugation_info": "ser (условное наклонение): sería, serías, sería, seríamos, seríais, serían"
+    "explanation": "Условное наклонение 'sería' в литературном повествовании выступает как «будущее в прошедшем»: оно выражает ожидание героя относительно будущего события с точки зрения прошлого. В сочетании с имперфектом ('sabía', 'sentía') оно создаёт многослойную временную перспективу, характерную для изысканной художественной прозы. Это отличается от простого имперфекта 'era', который лишь описывал бы.",
+    "conjugation_info": "ser (условное наклонение): sería, serías, sería, seríamos, seríais, serían",
+    "hint": null
   },
   "q_gram_c2_08_006": {
     "question": "Le miraron con desprecio. ___ un intruso, un don nadie. ¿Qué hacía allí? (ser, free indirect style, прошедшее несовершенное)",
@@ -912,26 +924,27 @@
     "hint": "Impersonal 'haber' есть всегда единственного числа: ha habido, había, hubo, habrá"
   },
   "q_gram_c2_09_006": {
-    "question": "La carta ___ enviada ayer por el secretario. (ser, простое прошедшее passive — правильный passive voice construction)",
+    "question": "La carta ___ enviada ayer por el secretario. (ser, прошедшее время претерит, страдательный залог — правильная конструкция пассива)",
     "correct": "fue",
     "wrong": [
       "estuvo",
       "ha sido",
       "era"
     ],
-    "explanation": " passive voice с 'ser' uses pretérito indefinido 'fue' для completed past action с specified время ('ayer'). Using 'estuvo' (*'estuvo enviada') является обычный error — 'estar' + причастие describes resulting state, не action itself. 'La carta fue enviada' (action) vs. 'La carta estaba enviada' (resulting state) является crucial distinction.",
-    "conjugation_info": "ser (pretérito indefinido): fui, fuiste, fue, fuimos, fuisteis, fueron"
+    "explanation": "Страдательный залог с 'ser' использует претерит (pretérito indefinido) 'fue' для завершённого действия в прошлом с указанным временем ('ayer'). Использовать 'estuvo' (*'estuvo enviada') — частая ошибка: 'estar' + причастие описывает результирующее состояние, а не само действие. Различие 'La carta fue enviada' (действие) и 'La carta estaba enviada' (результирующее состояние) очень важно.",
+    "conjugation_info": "ser (pretérito indefinido): fui, fuiste, fue, fuimos, fuisteis, fueron",
+    "hint": null
   },
   "q_gram_c2_09_007": {
-    "question": "Llegó corriendo y ___ la puerta de un portazo. (identify правильный construction: avoid improper герундий)",
+    "question": "Llegó corriendo y ___ la puerta de un portazo. (определите правильную конструкцию: избегайте неправильного употребления герундия)",
     "correct": "cerró",
     "wrong": [
       "cerrando",
       "y cerrando",
       "para cerrando"
     ],
-    "explanation": "Using герундий к express result или subsequent action (*'Llegó cerrando la puerta') есть incorrect в испанский — герундий cannot express posteriority. правильный construction uses conjugated глагол ('cerró') coordinated с 'y'. это misuse герундий (gerundio de posterioridad) есть considered one большинство serious grammatical errors в формальный испанский.",
-    "hint": " испанский герундий cannot express action который occurs после main глагол"
+    "explanation": "Использовать герундий для выражения результата или последующего действия (*'Llegó cerrando la puerta') в испанском неправильно — герундий не может выражать следование во времени. Правильная конструкция — спрягаемый глагол ('cerró'), соединённый союзом 'y'. Такое неверное употребление герундия (gerundio de posterioridad) считается одной из самых серьёзных грамматических ошибок в формальном испанском.",
+    "hint": "Испанский герундий не может выражать действие, происходящее после главного глагола"
   },
   "q_gram_c2_09_008": {
     "question": "I am convinced то project будет succeed. (translate correctly, avoiding queísmo)",
@@ -998,14 +1011,15 @@
     "hint": "который marker introduces enumeration/specification rather than paraphrase?"
   },
   "q_gram_c2_10_004": {
-    "question": "в discourse analysis, что есть difference between anaphora и cataphora?",
-    "correct": "Anaphora refers back to something previously mentioned in the text, while cataphora refers forward to something that will be mentioned later",
+    "question": "В чём в анализе дискурса разница между анафорой и катафорой?",
+    "correct": "Анафора отсылает назад к тому, что уже упоминалось в тексте, а катафора отсылает вперёд к тому, что будет упомянуто позже",
     "wrong": [
-      "Anaphora is a literary device of repetition, while cataphora is a grammatical error",
-      "Both refer to the same thing: backward reference in text",
-      "Anaphora is used in spoken language and cataphora only in written language"
+      "Анафора — литературный приём повтора, а катафора — грамматическая ошибка",
+      "Оба термина обозначают одно и то же: отсылку назад в тексте",
+      "Анафора используется в устной речи, а катафора — только в письменной"
     ],
-    "explanation": "Anaphora (backward reference): 'Juan llegó. ÉL estaba cansado.' (él → Juan). Cataphora (forward reference): 'Lo que te voy decir es ESTO: no vuelvas.' (esto → no vuelvas). Both являются referential mechanisms который create textual cohesion. Mastering these concepts есть essential для C2-level discourse analysis и academic writing в испанский."
+    "explanation": "Анафора (отсылка назад): 'Juan llegó. ÉL estaba cansado.' (él → Juan). Катафора (отсылка вперёд): 'Lo que te voy a decir es ESTO: no vuelvas.' (esto → no vuelvas). Оба явления — референциальные механизмы, создающие связность текста. Владение этими понятиями необходимо для анализа дискурса и академического письма на испанском на уровне C2.",
+    "hint": null
   },
   "q_gram_c2_10_005": {
     "question": "El proyecto fracasó. No obstante, los investigadores ___ valiosas lecciones de la experiencia. (extraer, pretérito indefinido — maintaining thematic progression)",
@@ -1040,15 +1054,15 @@
     "explanation": " cataphoric construction 'lo que quiero recalcar es lo siguiente:' (что I want к emphasize есть following:) creates anticipation и foregrounds information который follows colon. в discourse analysis, это является focusing device (mecanismo de focalización). alternative без cataphora ('quiero recalcar que...') есть grammatically правильный но loses emphatic information structure."
   },
   "q_gram_c2_10_008": {
-    "question": "La economía creció un 3%. ___ se redujo la tasa de desempleo. (Choose consecutive discourse marker)",
+    "question": "La economía creció un 3%. ___ se redujo la tasa de desempleo. (Выберите союзное слово со значением следствия)",
     "correct": "En consecuencia,",
     "wrong": [
       "Sin embargo,",
       "Por el contrario,",
       "En cambio,"
     ],
-    "explanation": "'En consecuencia' (consequently/as result) является consecutive discourse marker который establishes cause-effect relationship: economic growth → reduced unemployment. other options являются adversative/contrastive, который бы contradict logical relationship between two propositions. Discourse coherence requires который connectors match logical relationship between clauses.",
-    "hint": " second clause является result first — который marker signals consequence?"
+    "explanation": "'En consecuencia' («следовательно», «в результате») — это маркер следствия в дискурсе, устанавливающий причинно-следственную связь: рост экономики → снижение безработицы. Остальные варианты выражают противопоставление, что противоречило бы логической связи между двумя утверждениями. Связность дискурса требует, чтобы союзные слова соответствовали логическим отношениям между частями высказывания.",
+    "hint": "Вторая часть — результат первой. Какой маркер указывает на следствие?"
   },
   "q_gram_c2_10_009": {
     "question": "En primer lugar, se analizarán los datos. A continuación, se presentarán los resultados. Por último, se extraerán las conclusiones.",
@@ -1115,15 +1129,15 @@
     "conjugation_info": "gustar (present): gusto, gustas, gusta, gustamos, gustáis, gustan — agrees с thing liked, не person"
   },
   "q_gram_c2_11_005": {
-    "question": "El investigador ___ que los resultados preliminares confirman la hipótesis. (английский source: ' researcher pointed out то preliminary results confirm hypothesis.')",
+    "question": "El investigador ___ que los resultados preliminares confirman la hipótesis. (исходная фраза: «Исследователь отметил, что предварительные результаты подтверждают гипотезу».)",
     "correct": "señaló",
     "wrong": [
       "apuntó",
       "puntualizó",
       "indicó fuera"
     ],
-    "explanation": "английский 'pointed out' translates as 'señaló' в academic contexts, maintaining изъявительное наклонение в subordinate clause потому что content есть presented as factual. 'Apuntó' could work colloquially но 'señaló' есть standard academic translation. 'Indicó fuera' incorrectly introduces сослагательное наклонение где none есть needed.",
-    "hint": "Choose standard reporting глагол used в испанский academic writing"
+    "explanation": "Английское 'pointed out' в академическом контексте переводится как 'señaló'; в придаточном предложении сохраняется индикатив, потому что содержание подаётся как факт. 'Apuntó' могло бы подойти в разговорной речи, но 'señaló' — стандартный академический перевод. 'Indicó fuera' ошибочно вводит сослагательное наклонение там, где оно не нужно.",
+    "hint": "Выберите стандартный глагол передачи чужой речи, используемый в испанской академической письменной речи"
   },
   "q_gram_c2_11_006": {
     "question": "Nos ___ muy bien en la fiesta. (английский source: 'We had a great время at party.' — pasárselo, pretérito indefinido, nosotros)",
@@ -1212,14 +1226,15 @@
     "hint": " expression uses глагол motion в gustar-type construction"
   },
   "q_gram_c2_12_004": {
-    "question": "что does idiomatic structure 'dar en el clavo' означать?",
-    "correct": "To hit the nail on the head — to be exactly right about something",
+    "question": "Что означает идиоматическая конструкция 'dar en el clavo'?",
+    "correct": "Попасть в точку (буквально: попасть по гвоздю) — быть абсолютно правым в чём-либо",
     "wrong": [
-      "To give someone a nail — to cause someone pain",
-      "To hammer home a point — to repeat an argument insistently",
-      "To nail down a deal — to finalize an agreement"
+      "Дать кому-то гвоздь — причинить кому-то боль",
+      "Вбивать мысль — настойчиво повторять довод",
+      "Заколотить сделку — окончательно оформить соглашение"
     ],
-    "explanation": "'Dar en el clavo' literally означает 'к hit nail' и idiomatically означает 'к быть exactly right / к hit nail на head'. Это one those rare cases где испанский и английский share similar idiomatic image, though structure differs ('dar en' vs. 'hit на')."
+    "explanation": "'Dar en el clavo' буквально означает «попасть по гвоздю», а в переносном смысле — «быть абсолютно правым / попасть в точку». Это один из редких случаев, когда испанский и английский используют схожий идиоматический образ, хотя структура различается ('dar en' и 'hit on').",
+    "hint": null
   },
   "q_gram_c2_12_005": {
     "question": "Los vecinos ___ gato por liebre cuando compraron esa casa supuestamente renovada. (dar, pretérito indefinido, passive 'les dieron')",
@@ -1330,26 +1345,27 @@
     "conjugation_info": "asistir (pretérito indefinido): asistí, asististe, asistió, asistimos, asististeis, asistieron"
   },
   "q_gram_c2_13_005": {
-    "question": "La decisión del comité ___ ejecutivo provocó controversia. (Choose слово который shows как punctuation/structure resolves ambiguity.)",
+    "question": "La decisión del comité ___ ejecutivo provocó controversia. (Выберите слово, показывающее, как пунктуация/структура разрешает неоднозначность.)",
     "correct": "más",
     "wrong": [
       "muy",
       "tan",
       "bastante"
     ],
-    "explanation": "'La decisión del comité más ejecutivo' есть ambiguous: does 'más ejecutivo' modify 'comité' (большинство executive committee) или 'la decisión' (большинство executive decision committee)? Inserting 'más' exposes structural ambiguity прилагательное attachment в испанский nominal groups.",
-    "hint": "Consider как comparative прилагательное может modify either committee или decision"
+    "explanation": "'La decisión del comité más ejecutivo' неоднозначно: относится ли 'más ejecutivo' к 'comité' (самый исполнительный комитет) или к 'la decisión' (самое исполнительное решение комитета)? Вставка 'más' обнажает структурную неоднозначность присоединения прилагательного в испанских именных группах.",
+    "hint": "Подумайте, как сравнительное прилагательное может относиться либо к комитету, либо к решению"
   },
   "q_gram_c2_13_006": {
-    "question": "Los padres de los alumnos que ___ molestos presentaron una queja formal. (estar, pretérito imperfecto — кто был upset: parents или students?)",
+    "question": "Los padres de los alumnos que ___ molestos presentaron una queja formal. (estar, pretérito imperfecto — кто был расстроен: родители или ученики?)",
     "correct": "estaban",
     "wrong": [
       "estuvieron",
       "están",
       "estuviesen"
     ],
-    "explanation": "это sentence contains relative clause attachment ambiguity: 'que estaban molestos' could modify 'los padres' (parents кто были upset) или 'los alumnos' (parents students кто были upset). имперфект 'estaban' describes ongoing state. только context или rephrasing может resolve ambiguity.",
-    "conjugation_info": "estar (pretérito imperfecto): estaba, estabas, estaba, estábamos, estabais, estaban"
+    "explanation": "В этом предложении есть неоднозначность присоединения придаточного определительного: 'que estaban molestos' может относиться к 'los padres' (родители, которые были расстроены) или к 'los alumnos' (родители учеников, которые были расстроены). Имперфект 'estaban' описывает длящееся состояние. Устранить неоднозначность могут только контекст или перефразирование.",
+    "conjugation_info": "estar (pretérito imperfecto): estaba, estabas, estaba, estábamos, estabais, estaban",
+    "hint": null
   },
   "q_gram_c2_13_007": {
     "question": "La profesora habló con ___ estudiante en su despacho. (артикль, сохраняющий максимальную двусмысленность)",
@@ -1413,8 +1429,8 @@
       "sean",
       "estuvieron"
     ],
-    "explanation": "Academic writing uses passive voice с 'ser + past причастие' к emphasize process over agent. 'Los datos fueron recopilados' (data были collected) uses претерит passive потому что data collection был completed past action. 'Estuvieron recopilados' бы incorrectly describe resulting state rather than action.",
-    "hint": "Use претерит 'ser' к форма passive voice для completed past action"
+    "explanation": "В академическом письме используется страдательный залог 'ser + причастие прошедшего времени', чтобы подчеркнуть процесс, а не исполнителя. 'Los datos fueron recopilados' («данные были собраны») использует претерит в пассиве, потому что сбор данных — завершённое действие в прошлом. 'Estuvieron recopilados' ошибочно описывало бы результирующее состояние, а не действие.",
+    "hint": "Используйте претерит от 'ser' для образования страдательного залога завершённого действия в прошлом"
   },
   "q_gram_c2_14_003": {
     "question": "Cabe ___ que los resultados podrían verse afectados por el tamaño reducido de la muestra.",
@@ -1513,35 +1529,38 @@
     "hint": "Условные предложения с нереальным условием требуют имперфекта сослагательного наклонения в придаточной с si"
   },
   "q_gram_c2_15_002": {
-    "question": "Habiéndose ___ todas las pruebas, el juez dictó sentencia. (presentar, причастие прошедшего времени в absolute participial clause)",
+    "question": "Habiéndose ___ todas las pruebas, el juez dictó sentencia. (presentar, причастие в абсолютном причастном обороте)",
     "correct": "presentado",
     "wrong": [
       "presentando",
       "presente",
       "presenten"
     ],
-    "explanation": " absolute participial clause 'habiéndose presentado todas las pruebas' (все evidence having been presented) uses compound герундий: habiendo + past причастие. с reflexive 'se', это becomes 'habiéndose presentado'. Это advanced literary construction который compresses temporal subordinate clause."
+    "explanation": "Абсолютный причастный оборот 'habiéndose presentado todas las pruebas' («после того как были представлены все доказательства») использует сложный герундий: habiendo + причастие прошедшего времени. С возвратным 'se' получается 'habiéndose presentado'. Это сложная литературная конструкция, сжимающая временное придаточное предложение.",
+    "hint": null
   },
   "q_gram_c2_15_003": {
-    "question": "что есть difference between 'ser aburrido' и 'estar aburrido'?",
-    "correct": "'Ser aburrido' means 'to be boring' (inherent quality), while 'estar aburrido' means 'to be bored' (temporary state)",
+    "question": "В чём разница между 'ser aburrido' и 'estar aburrido'?",
+    "correct": "'Ser aburrido' означает «быть скучным» (неотъемлемое качество), а 'estar aburrido' — «скучать, быть уставшим от скуки» (временное состояние)",
     "wrong": [
-      "Both mean 'to be bored' but 'ser' is more formal than 'estar'",
-      "'Ser aburrido' means 'to be bored' and 'estar aburrido' means 'to be boring'",
-      "'Ser aburrido' is used for people and 'estar aburrido' is used for things"
+      "Оба означают «скучать», но 'ser' более формально, чем 'estar'",
+      "'Ser aburrido' означает «скучать», а 'estar aburrido' — «быть скучным»",
+      "'Ser aburrido' употребляется о людях, а 'estar aburrido' — о вещах"
     ],
-    "explanation": " ser/estar distinction с adjectives есть fundamental. с 'aburrido': ser describes inherent characteristic (Juan es aburrido = Juan является скучный человек), пока estar describes state или condition (Juan está aburrido = Juan есть bored right now). это A2-level concept должен быть fully mastered от C2."
+    "explanation": "Различие ser/estar с прилагательными — основополагающее. С 'aburrido': ser описывает неотъемлемую характеристику (Juan es aburrido = Хуан — скучный человек), а estar описывает состояние (Juan está aburrido = Хуану сейчас скучно). Эту тему уровня A2 нужно полностью освоить к уровню C2.",
+    "hint": null
   },
   "q_gram_c2_15_004": {
-    "question": "A no ser que se ___ medidas urgentes, la crisis se agravará irreversiblemente. (tomar, сослагательное настоящего времени)",
+    "question": "A no ser que se ___ medidas urgentes, la crisis se agravará irreversiblemente. (tomar, настоящее время сослагательного наклонения)",
     "correct": "tomen",
     "wrong": [
       "toman",
       "tomarán",
       "tomaran"
     ],
-    "explanation": "'A no ser que' (unless) всегда triggers сослагательное наклонение. поскольку main clause uses future ('se agravará'), subordinate clause takes present сослагательное наклонение 'tomen'. impersonal 'se' с множественного числа 'medidas' requires множественного числа форма. это tests mastery across сослагательное наклонение triggers, tense sequencing, и impersonal constructions.",
-    "conjugation_info": "tomar (present сослагательное наклонение): tome, tomes, tome, tomemos, toméis, tomen"
+    "explanation": "'A no ser que' («если только не») всегда требует сослагательного наклонения. Поскольку в главном предложении используется будущее время ('se agravará'), в придаточном нужен презенс сослагательного 'tomen'. Безличное 'se' с существительным во множественном числе 'medidas' требует формы множественного числа. Это задание проверяет владение триггерами сослагательного наклонения, согласованием времён и безличными конструкциями.",
+    "conjugation_info": "tomar (present сослагательное наклонение): tome, tomes, tome, tomemos, toméis, tomen",
+    "hint": null
   },
   "q_gram_c2_15_005": {
     "question": "El informe, ___ conclusiones fueron cuestionadas por varios expertos, ha sido revisado por completo.",

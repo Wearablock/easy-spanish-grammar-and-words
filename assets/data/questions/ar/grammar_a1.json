@@ -76,14 +76,15 @@
     "hint": "ليست كل الكلمات ينتهي بـ -a هم مؤنث"
   },
   "q_gram_a1_01_008": {
-    "question": "الخريطة كبير.",
+    "question": "الخريطة كبيرة.",
     "correct": "El mapa es grande.",
     "wrong": [
       "La mapa es grande.",
       "Los mapas son grandes.",
       "El mapa es pequeño."
     ],
-    "explanation": "'\u0001' مذكر على الرغم من ينتهي بـ -a (another استثناء إلى الـ -a = مؤنث قاعدة).\n'كبير' = 'grande'، والذي doesn't change لـ جنس."
+    "explanation": "كلمة 'mapa' مذكّرة رغم أنها تنتهي بحرف -a (وهذا استثناء آخر من قاعدة أن -a تعني مؤنثًا).\nكلمة 'grande' تعني 'كبير' ولا تتغير بحسب الجنس.",
+    "hint": null
   },
   "q_gram_a1_01_009": {
     "question": "___ fotos son de mi familia. (select الـ صحيح أداة تعريف لـ الـ جمع مؤنث اسم)",
@@ -234,8 +235,8 @@
       "unas",
       "los"
     ],
-    "explanation": "'\u0001' اسم مذكر جمع; 'unos' يعني 'some' لـ مذكر plurals.\n- un libro → unos libros\n- una carta → unas cartas",
-    "hint": "Which نكرة أداة يُستخدم لـ مذكر plurals?"
+    "explanation": "كلمة 'libros' اسم مذكّر جمع، و'unos' تعني 'بعض' مع الأسماء المذكّرة الجمع.\n- un libro → unos libros\n- una carta → unas cartas",
+    "hint": "أي أداة تنكير تُستخدم مع المذكّر الجمع؟"
   },
   "q_gram_a1_03_003": {
     "question": "ما معنى 'unas' في 'unas flores'؟",
@@ -288,8 +289,8 @@
       "con",
       "de"
     ],
-    "explanation": "بعد 'sin' (بدون), الـ نكرة أداة هو omitted.\n- Café sin azúcar. (قهوة بدون sugar.)\n- Café con leche. (قهوة مع حليب.)",
-    "hint": "Which حرف جر يعني 'بدون'?"
+    "explanation": "بعد 'sin' (بدون) تُحذف أداة التنكير.\n- Café sin azúcar. (قهوة بدون سكر.)\n- Café con leche. (قهوة بحليب.)",
+    "hint": "أي حرف جر يعني 'بدون'؟"
   },
   "q_gram_a1_03_008": {
     "question": "I buy some flowers.",
@@ -342,8 +343,8 @@
       "Él",
       "Usted"
     ],
-    "explanation": "'eres' هو الـ tú form من الـ فعل ser.\n- Tú eres = أنت هم (غير رسمي)\nالـ ضمير 'tú' يُستخدم مع friends, عائلة, و peers.",
-    "hint": "Which ضمير goes مع 'eres'?"
+    "explanation": "'eres' هي صيغة المخاطب (tú) من الفعل ser.\n- Tú eres = أنتَ (غير رسمي)\nيُستخدم الضمير 'tú' مع الأصدقاء والعائلة والأقران.",
+    "hint": "أي ضمير يناسب 'eres'؟"
   },
   "q_gram_a1_04_003": {
     "question": "___ viven en Madrid.",
@@ -420,15 +421,16 @@
     "explanation": "عندما asking about identity مع 'usted', '¿Quién es usted?' يعني 'من هم أنت?' (رسمي).\nلاحظ أن 'usted' takes الـ same فعل form as él/ella (3rd شخص مفرد).\n- ¿Quién es usted? (رسمي) vs ¿Quién eres tú? (غير رسمي)"
   },
   "q_gram_a1_04_010": {
-    "question": "Yo hablo español, ___ habla francés. (conjugate مع الـ صحيح ضمير لـ 'she')",
+    "question": "Yo hablo español, ___ habla francés. (اختر الضمير الصحيح لـ 'هي')",
     "correct": "ella",
     "wrong": [
       "él",
       "tú",
       "usted"
     ],
-    "explanation": "Pronouns تُستخدم لـ emphasis أو إلى clarify من هو being talked about.\n- Yo hablo español, ella habla francés.\n- بدون pronouns, 'habla francés' could يعني he/she/أنت(رسمي) speaks French.",
-    "conjugation_info": "Use pronouns for emphasis: Yo hablo... ella habla... vs just Hablo... Habla..."
+    "explanation": "تُستخدم الضمائر للتوكيد أو لتوضيح من نتحدث عنه.\n- Yo hablo español, ella habla francés.\n- بدون الضمائر، قد تعني 'habla francés' أنه/أنها/حضرتك (رسمي) يتحدث الفرنسية.",
+    "conjugation_info": "Use pronouns for emphasis: Yo hablo... ella habla... vs just Hablo... Habla...",
+    "hint": null
   },
   "q_gram_a1_05_001": {
     "question": "Yo ___ estudiante.",
@@ -481,8 +483,8 @@
       "Está",
       "Hay"
     ],
-    "explanation": "'Son las tres' = هو هو three o'clock. لـ telling وقت, use 'ser'.\n- Es la una. (1:00 — مفرد)\n- Son las dos/tres/cuatro... (2:00+ — جمع)",
-    "hint": "Which form من ser يُستخدم مع جمع hours?"
+    "explanation": "'Son las tres' = الساعة الثالثة. نستخدم 'ser' للتعبير عن الوقت.\n- Es la una. (الساعة 1:00 — مفرد)\n- Son las dos/tres/cuatro... (من الساعة 2:00 فما فوق — جمع)",
+    "hint": "أي صيغة من ser تُستخدم مع الساعات الجمع؟"
   },
   "q_gram_a1_05_006": {
     "question": "La mesa ___ de madera. (conjugate ser)",
@@ -556,8 +558,8 @@
       "estoy",
       "están"
     ],
-    "explanation": "Estar يُستخدم للتعبير location.\n- El gato está en la mesa. = الـ قطة هو on الـ طاولة.\n- Location دائماً uses estar (not ser).",
-    "hint": "Which فعل يُستخدم لـ location?"
+    "explanation": "يُستخدم estar للتعبير عن المكان.\n- El gato está en la mesa. = القطة على الطاولة.\n- المكان يُعبَّر عنه دائمًا بـ estar (وليس ser).",
+    "hint": "أي فعل يُستخدم للمكان؟"
   },
   "q_gram_a1_06_003": {
     "question": "Mis amigos ___ contentos.",
@@ -567,18 +569,19 @@
       "estamos",
       "estáis"
     ],
-    "explanation": "Estar يُستخدم لـ emotions و حالة مؤقتةs.\n- están contentos = هم هم سعيد (right now)\n- 'contentos' يتوافق مع الـ مذكر جمع subject.",
-    "hint": "Emotions و feelings use which فعل?"
+    "explanation": "يُستخدم estar للمشاعر والحالات المؤقتة.\n- están contentos = هم سعداء (الآن)\n- كلمة 'contentos' تتطابق مع الفاعل المذكّر الجمع.",
+    "hint": "أي فعل تستخدمه المشاعر والأحاسيس؟"
   },
   "q_gram_a1_06_004": {
-    "question": "ماذا does 'estar' express في '¿Cómo estás?'?",
-    "correct": "health or feeling",
+    "question": "ماذا يعبّر الفعل 'estar' في '¿Cómo estás?'؟",
+    "correct": "الصحة أو الشعور",
     "wrong": [
-      "identity",
-      "profession",
-      "nationality"
+      "الهوية",
+      "المهنة",
+      "الجنسية"
     ],
-    "explanation": "'¿Cómo estás?' يعني 'كيف هم أنت?' و asks about someone's current state أو feeling.\nEstar يُستخدم لـ temporary conditions like health, mood, و emotional states."
+    "explanation": "'¿Cómo estás?' تعني 'كيف حالك؟' وتسأل عن حالة الشخص أو شعوره الحالي.\nيُستخدم estar للحالات المؤقتة مثل الصحة والمزاج والحالات العاطفية.",
+    "hint": null
   },
   "q_gram_a1_06_005": {
     "question": "Nosotros ___ cansados. (conjugate estar)",
@@ -634,15 +637,16 @@
     "explanation": "Being sick هو a temporary condition, so estar يُستخدم.\n- estar enfermo = إلى يكون sick (temporary)\nUsing 'ser enfermo' سوف incorrectly imply a permanent state."
   },
   "q_gram_a1_06_010": {
-    "question": "¿Dónde ___ tú ahora? (conjugate estar)",
+    "question": "¿Dónde ___ tú ahora? (صرّف الفعل estar)",
     "correct": "estás",
     "wrong": [
       "eres",
       "está",
       "estamos"
     ],
-    "explanation": "الـ tú form من 'estar' هو 'estás'.\n- ¿Dónde estás? = أين هم أنت?\nEstar هو دائماً used لـ asking about location.",
-    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están"
+    "explanation": "صيغة المخاطب (tú) من 'estar' هي 'estás'.\n- ¿Dónde estás? = أين أنتَ؟\nيُستخدم estar دائمًا للسؤال عن المكان.",
+    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están",
+    "hint": null
   },
   "q_gram_a1_07_001": {
     "question": "María ___ doctora.",
@@ -663,18 +667,19 @@
       "son",
       "están"
     ],
-    "explanation": "Estar يُستخدم لـ location.\n- El hospital está en la calle Mayor. = الـ hospital هو on Mayor شارع.\nLocation دائماً uses estar, even لـ permanent buildings.",
-    "hint": "Location دائماً uses which فعل?"
+    "explanation": "يُستخدم estar للمكان.\n- El hospital está en la calle Mayor. = المستشفى في شارع مايور.\nالمكان يُعبَّر عنه دائمًا بـ estar، حتى للمباني الثابتة.",
+    "hint": "أي فعل يُستخدم دائمًا للمكان؟"
   },
   "q_gram_a1_07_003": {
-    "question": "ماذا does 'ser aburrido' يعني vs 'estar aburrido'?",
-    "correct": "to be boring vs to be bored",
+    "question": "ماذا يعني 'ser aburrido' مقابل 'estar aburrido'؟",
+    "correct": "أن تكون مملًّا مقابل أن تكون تشعر بالملل",
     "wrong": [
-      "to be bored vs to be boring",
-      "both mean the same thing",
-      "to be tired vs to be tiring"
+      "أن تشعر بالملل مقابل أن تكون مملًّا",
+      "كلاهما يعني الشيء نفسه",
+      "أن تكون متعبًا مقابل أن تكون مرهِقًا"
     ],
-    "explanation": "Some adjectives change المعنى مع ser vs estar:\n- ser aburrido = إلى يكون ممل (characteristic)\n- estar aburrido = إلى يكون bored (feeling)\nالـ فعل choice changes الـ صفة's المعنى."
+    "explanation": "بعض الصفات يتغير معناها بين ser وestar:\n- ser aburrido = أن يكون مملًّا (صفة ثابتة)\n- estar aburrido = أن يشعر بالملل (شعور)\nاختيار الفعل يغيّر معنى الصفة.",
+    "hint": null
   },
   "q_gram_a1_07_004": {
     "question": "La fiesta ___ en mi casa. (conjugate الـ صحيح فعل لـ 'إلى يكون')",
@@ -911,8 +916,8 @@
       "compro",
       "compran"
     ],
-    "explanation": "لـ -ar verbs, الـ tú form ينتهي بـ -as.\n- comprar → compr + as = compras\n- ¿Tú compras? = Do أنت buy?",
-    "hint": "ماذا نهاية does tú take لـ -ar verbs?"
+    "explanation": "في الأفعال المنتهية بـ -ar، تنتهي صيغة tú بـ -as.\n- comprar → compr + as = compras\n- ¿Tú compras? = هل تشتري؟",
+    "hint": "ما اللاحقة التي يأخذها tú في أفعال -ar؟"
   },
   "q_gram_a1_09_006": {
     "question": "Ellos ___ muy bien. (conjugate cocinar)",
@@ -954,7 +959,7 @@
       "cantan",
       "cantas"
     ],
-    "explanation": "في الأفعال المنتهية بـ -ar، تنتهي صيغة vosotros بـ -áis.\n- cantar → cant + áis = cantáis\nتُستخدم هذه الصيغة في إسبانيا بشكل رئيسي.",
+    "explanation": "في الأفعال المنتهية بـ -ar، تنتهي صيغة vosotros بـ -áis.\n- cantar → cant + áis = cantáis\nتُستخدم هذه الصيغة أساسًا في إسبانيا.",
     "conjugation_info": "cantar - present: canto, cantas, canta, cantamos, cantáis, cantan",
     "hint": null
   },
@@ -1002,14 +1007,15 @@
     "hint": "ella هو 3rd شخص مفرد"
   },
   "q_gram_a1_10_004": {
-    "question": "ماذا هو الـ key difference between -er و -ir فعل endings?",
-    "correct": "Only the nosotros and vosotros forms differ",
+    "question": "ما الفرق الأساسي بين نهايات الأفعال -er و-ir؟",
+    "correct": "صيغتا nosotros وvosotros فقط هما المختلفتان",
     "wrong": [
-      "All forms are different",
-      "Only the yo form differs",
-      "There is no difference at all"
+      "كل الصيغ مختلفة",
+      "صيغة yo فقط هي المختلفة",
+      "لا يوجد أي فرق إطلاقًا"
     ],
-    "explanation": "الـ -er و -ir conjugations هم nearly identical.\n- فقط nosotros و vosotros differ:\n -er: comemos, coméis / -ir: vivimos, vivís\n كل other forms share الـ same endings: -o, -es, -e, -en."
+    "explanation": "تصريف -er و-ir متطابق تقريبًا.\n- الاختلاف فقط في nosotros وvosotros:\n  -er: comemos, coméis / -ir: vivimos, vivís\n  أما بقية الصيغ فلها النهايات نفسها: -o, -es, -e, -en.",
+    "hint": null
   },
   "q_gram_a1_10_005": {
     "question": "¿Tú ___ café? (conjugate beber)",
@@ -1055,14 +1061,15 @@
     "hint": "الـ vosotros نهاية لـ -ir verbs يملك an accent"
   },
   "q_gram_a1_10_009": {
-    "question": "She reads the newspaper every morning.",
+    "question": "هي تقرأ الجريدة كل صباح.",
     "correct": "Ella lee el periódico cada mañana.",
     "wrong": [
       "Ella lees el periódico cada mañana.",
       "Ella leen el periódico cada mañana.",
       "Ella leo el periódico cada mañana."
     ],
-    "explanation": "لـ -er verbs, الـ ella form ينتهي بـ -e.\n- leer → le + e = lee\nNote الـ double 'e' في lee — هذا صحيح لـ leer's 3rd شخص."
+    "explanation": "في الأفعال المنتهية بـ -er، تنتهي صيغة ella بـ -e.\n- leer → le + e = lee\nلاحظ حرف 'e' المزدوج في lee — وهذا صحيح لصيغة الغائب المفرد من leer.",
+    "hint": null
   },
   "q_gram_a1_10_010": {
     "question": "Nosotros ___ en un piso. (conjugate vivir)",
@@ -1083,8 +1090,8 @@
       "Es",
       "Están"
     ],
-    "explanation": "'Hay' يُستخدم للتعبير existence (هناك/هناك).\n- Hay un banco = هناك a bank.\nHay + نكرة أداة/number لـ stating ذلك something exists.",
-    "hint": "Which كلمة يعني 'هناك/هناك'?"
+    "explanation": "تُستخدم 'Hay' للتعبير عن الوجود (يوجد).\n- Hay un banco = يوجد بنك.\nتُستخدم Hay مع أداة التنكير/العدد للدلالة على وجود شيء ما.",
+    "hint": "أي كلمة تعني 'يوجد'؟"
   },
   "q_gram_a1_11_002": {
     "question": "El banco ___ en la esquina.",
@@ -1094,18 +1101,19 @@
       "es",
       "están"
     ],
-    "explanation": "Estar يُستخدم لـ الـ location من specific things.\n- El banco está en la esquina = الـ bank هو on الـ corner.\nالـ معرفة أداة 'el' signals a specific bank, so we use estar.",
-    "hint": "A specific bank (el banco) uses which فعل?"
+    "explanation": "يُستخدم estar لمكان أشياء محددة.\n- El banco está en la esquina = البنك على الناصية.\nأداة التعريف 'el' تدل على بنك محدد، لذلك نستخدم estar.",
+    "hint": "بنك محدد (el banco) يستخدم أي فعل؟"
   },
   "q_gram_a1_11_003": {
-    "question": "ماذا هو الـ difference between 'hay' و 'está'?",
-    "correct": "hay = existence, está = location of specific things",
+    "question": "ما الفرق بين 'hay' و'está'؟",
+    "correct": "hay = الوجود، está = مكان أشياء محددة",
     "wrong": [
-      "hay = location, está = existence",
-      "hay = plural only, está = singular only",
-      "they are interchangeable"
+      "hay = المكان، está = الوجود",
+      "hay = للجمع فقط، está = للمفرد فقط",
+      "يمكن استخدامهما بالتبادل"
     ],
-    "explanation": "'Hay' expresses existence (هناك/هم) و يُستخدم مع نكرة articles.\n'Está/Están' expresses الـ location من specific, already-known things.\n- Hay un libro. (A كتاب exists.) / El libro está aquí. (الكتاب هنا.)"
+    "explanation": "'Hay' تعبّر عن الوجود (يوجد) وتُستخدم مع أدوات التنكير.\n'Está/Están' تعبّر عن مكان أشياء محددة ومعروفة مسبقًا.\n- Hay un libro. (يوجد كتاب.) / El libro está aquí. (الكتاب هنا.)",
+    "hint": null
   },
   "q_gram_a1_11_004": {
     "question": "___ muchos estudiantes en la clase. (choose الـ صحيح form المعنى 'هناك')",
@@ -1163,15 +1171,16 @@
     "hint": null
   },
   "q_gram_a1_11_009": {
-    "question": "No ___ nadie en la oficina. (fill في الـ form من 'haber' المعنى 'هناك')",
+    "question": "No ___ nadie en la oficina. (املأ بصيغة 'haber' التي تعني 'يوجد')",
     "correct": "hay",
     "wrong": [
       "está",
       "es",
       "están"
     ],
-    "explanation": "'No hay nadie' = هناك nobody. هذا a double negative, وهو صحيح في الإسبانية.\n- hay + negative كلمة = هناك/هم not\nRemember: hay هو invariable و doesn't change form.",
-    "conjugation_info": "Hay in negative: No hay nada (nothing), No hay nadie (nobody), No hay ningún... (not any)"
+    "explanation": "'No hay nadie' = لا يوجد أحد. هذا نفي مزدوج، وهو صحيح في الإسبانية.\n- hay + كلمة نفي = لا يوجد\nتذكّر: hay ثابتة ولا تتغير صيغتها.",
+    "conjugation_info": "Hay in negative: No hay nada (nothing), No hay nadie (nobody), No hay ningún... (not any)",
+    "hint": null
   },
   "q_gram_a1_11_010": {
     "question": "توجد حديقة في مدينتي.",
@@ -1315,14 +1324,15 @@
     "hint": "flores هو مؤنث جمع"
   },
   "q_gram_a1_13_003": {
-    "question": "ماذا distance does 'aquel' indicate?",
-    "correct": "far from both speaker and listener",
+    "question": "ما المسافة التي يدل عليها 'aquel'؟",
+    "correct": "بعيد عن المتكلم والمستمع معًا",
     "wrong": [
-      "near the speaker",
-      "near the listener",
-      "it has no distance meaning"
+      "قريب من المتكلم",
+      "قريب من المستمع",
+      "ليس له معنى يتعلق بالمسافة"
     ],
-    "explanation": "الإسبانية يملك three levels من distance:\n- este = قريب الـ speaker (هنا/aquí)\n- ese = قريب الـ listener (هناك/ahí)\n- aquel = بعيد من both (over هناك/allí)"
+    "explanation": "في الإسبانية ثلاثة مستويات للمسافة:\n- este = قريب من المتكلم (هنا/aquí)\n- ese = قريب من المستمع (هناك/ahí)\n- aquel = بعيد عن الاثنين (هناك بعيدًا/allí)",
+    "hint": null
   },
   "q_gram_a1_13_004": {
     "question": "___ chica es mi amiga. (ذلك girl near أنت)",
@@ -1390,14 +1400,15 @@
     "conjugation_info": "este (m.sg.), esta (f.sg.), estos (m.pl.), estas (f.pl.) — قريب speaker"
   },
   "q_gram_a1_13_010": {
-    "question": "That house over there is very old.",
+    "question": "ذلك البيت هناك قديم جدًا.",
     "correct": "Aquella casa es muy vieja.",
     "wrong": [
       "Esa casa es muy vieja.",
       "Esta casa es muy vieja.",
       "Aquel casa es muy viejo."
     ],
-    "explanation": "'over هناك' signals الـ farthest distance level: aquel/aquella.\n- aquella casa = ذلك منزل over هناك (بعيد من both)\n'\u0001' مؤنث, so we use 'aquella' (not aquel)."
+    "explanation": "عبارة «هناك بعيدًا» تدل على أبعد مستوى للمسافة: aquel/aquella.\n- aquella casa = ذلك البيت هناك (بعيد عن الاثنين)\nكلمة 'casa' مؤنثة، لذلك نستخدم 'aquella' (وليس aquel).",
+    "hint": null
   },
   "q_gram_a1_14_001": {
     "question": "Vivo ___ Madrid. (fill في الـ preposition لـ 'في')",
@@ -1429,18 +1440,19 @@
       "de",
       "por"
     ],
-    "explanation": "'a' يعني 'إلى' و يشير إلى direction/destination.\n- Voy a la escuela. = I يذهب إلى مدرسة.\nir + a + place = going إلى somewhere.",
-    "hint": "Which حرف جر expresses direction?"
+    "explanation": "'a' تعني «إلى» وتدل على الاتجاه/الوجهة.\n- Voy a la escuela. = أذهب إلى المدرسة.\nir + a + مكان = الذهاب إلى مكان ما.",
+    "hint": "أي حرف جر يعبّر عن الاتجاه؟"
   },
   "q_gram_a1_14_004": {
-    "question": "ماذا does الـ preposition 'con' يعني?",
-    "correct": "with",
+    "question": "ماذا يعني حرف الجر 'con'؟",
+    "correct": "مع",
     "wrong": [
-      "without",
-      "for",
-      "from"
+      "بدون",
+      "لأجل",
+      "من"
     ],
-    "explanation": "'con' يعني 'مع' في الإسبانية.\n- Café con leche = قهوة مع حليب.\n- Voy con mis amigos. = I يذهب مع my friends."
+    "explanation": "'con' تعني «مع» في الإسبانية.\n- Café con leche = قهوة بالحليب.\n- Voy con mis amigos. = أذهب مع أصدقائي.",
+    "hint": null
   },
   "q_gram_a1_14_005": {
     "question": "Veo ___ mi madre. (I see my mother.)",
@@ -1515,8 +1527,8 @@
       "Dónde",
       "Cuándo"
     ],
-    "explanation": "'¿Qué hora es?' = ماذا وقت هو هو?\n'Qué' يُستخدم إلى ask 'ماذا' عندما seeking a definition أو general information.\nNote الـ accent mark on question words.",
-    "hint": "Which question كلمة يعني 'ماذا'?"
+    "explanation": "'¿Qué hora es?' = كم الساعة؟\nتُستخدم 'Qué' للسؤال بـ«ماذا» عند طلب تعريف أو معلومة عامة.\nلاحظ علامة التشديد (الأكسنت) على أدوات الاستفهام.",
+    "hint": "أي أداة استفهام تعني «ماذا»؟"
   },
   "q_gram_a1_15_002": {
     "question": "¿___ vives?",
@@ -1526,29 +1538,31 @@
       "Cómo",
       "Qué"
     ],
-    "explanation": "'¿Dónde vives?' = أين do أنت live?\n'Dónde' asks about location أو place.\nكل الإسبانية question words يملك a written accent.",
-    "hint": "Which question كلمة asks about place?"
+    "explanation": "'¿Dónde vives?' = أين تسكن؟\nتسأل 'Dónde' عن الموقع أو المكان.\nجميع أدوات الاستفهام في الإسبانية تحمل علامة تشديد مكتوبة.",
+    "hint": "أي أداة استفهام تسأل عن المكان؟"
   },
   "q_gram_a1_15_003": {
-    "question": "ما معنى '¿Por qué?'؟",
-    "correct": "Why?",
+    "question": "ماذا تعني '¿Por qué?'؟",
+    "correct": "لماذا؟",
     "wrong": [
-      "Because",
-      "How?",
-      "What for?"
+      "لأن",
+      "كيف؟",
+      "لأي غرض؟"
     ],
-    "explanation": "'¿Por qué?' = Why? (two words, مع accent on qué)\n- ¿Por qué estudias español? = Why do أنت study الإسبانية?\nNote: 'porque' (one كلمة, no accent) = لأن."
+    "explanation": "'¿Por qué?' = لماذا؟ (كلمتان، مع علامة التشديد على qué)\n- ¿Por qué estudias español? = لماذا تدرس الإسبانية؟\nملاحظة: 'porque' (كلمة واحدة، بدون علامة تشديد) = لأن.",
+    "hint": null
   },
   "q_gram_a1_15_004": {
-    "question": "¿___ años tienes? (How old are you?) (use الـ صحيح question كلمة)",
+    "question": "¿___ años tienes? (كم عمرك؟) (استخدم أداة الاستفهام الصحيحة)",
     "correct": "Cuántos",
     "wrong": [
       "Cuántas",
       "Cuánto",
       "Qué"
     ],
-    "explanation": "'Cuántos' يتوافق مع الـ مذكر جمع اسم 'años'.\n- ¿Cuántos años tienes? = كيف كثير years do أنت يملك? (= كيف قديم هم أنت?)\nCuánto changes لـ جنس و number: cuánto/cuánta/cuántos/cuántas.",
-    "conjugation_info": "cuánto (m.sg.), cuánta (f.sg.), cuántos (m.pl.), cuántas (f.pl.)"
+    "explanation": "تتوافق 'Cuántos' مع الاسم المذكر الجمع 'años'.\n- ¿Cuántos años tienes? = كم سنة لديك؟ (= كم عمرك؟)\nتتغير Cuánto حسب الجنس والعدد: cuánto/cuánta/cuántos/cuántas.",
+    "conjugation_info": "cuánto (m.sg.), cuánta (f.sg.), cuántos (m.pl.), cuántas (f.pl.)",
+    "hint": null
   },
   "q_gram_a1_15_005": {
     "question": "¿___ es tu nombre?",
@@ -1580,8 +1594,8 @@
       "Cómo",
       "Quién"
     ],
-    "explanation": "'¿Cuándo es la fiesta?' = عندما هو الـ party?\n'Cuándo' asks about وقت.\n- ¿Cuándo vienes? = عندما هم أنت coming?",
-    "hint": "Which question كلمة asks about وقت?"
+    "explanation": "'¿Cuándo es la fiesta?' = متى الحفلة؟\nتسأل 'Cuándo' عن الوقت.\n- ¿Cuándo vienes? = متى ستأتي؟",
+    "hint": "أي أداة استفهام تسأل عن الوقت؟"
   },
   "q_gram_a1_15_008": {
     "question": "من هو she?",
@@ -1699,8 +1713,8 @@
       "nada",
       "nunca"
     ],
-    "explanation": "'nadie' يعني 'nobody/no one'.\n- No hay nadie en casa. = هناك nobody at home.\n- 'nadie' يشير إلى ناس, 'nada' يشير إلى things.",
-    "hint": "Which negative كلمة يشير إلى ناس?"
+    "explanation": "'nadie' تعني «لا أحد».\n- No hay nadie en casa. = لا يوجد أحد في البيت.\n- 'nadie' تشير إلى الأشخاص، و'nada' تشير إلى الأشياء.",
+    "hint": "أي كلمة نفي تشير إلى الأشخاص؟"
   },
   "q_gram_a1_16_009": {
     "question": "Nothing is perfect.",
@@ -1746,14 +1760,15 @@
     "hint": "'los perros' هو جمع"
   },
   "q_gram_a1_17_003": {
-    "question": "ماذا does 'gustar' literally يعني?",
-    "correct": "to please",
+    "question": "ماذا يعني الفعل 'gustar' حرفيًا؟",
+    "correct": "يُرضي / يُعجب",
     "wrong": [
-      "to like",
-      "to want",
-      "to love"
+      "يحب (يُعجَب بـ)",
+      "يريد",
+      "يعشق"
     ],
-    "explanation": "'gustar' literally يعني 'إلى please'. الـ structure هو reversed من الإنجليزية.\n- Me gusta el café. = قهوة pleases me. (= I like قهوة.)\nالـ thing liked هو الـ grammatical subject."
+    "explanation": "'gustar' تعني حرفيًا «يُرضي / يُعجب». والتركيب معكوس مقارنةً بالإنجليزية والعربية.\n- Me gusta el café. = القهوة تعجبني. (= أحب القهوة.)\nالشيء المحبوب هو الفاعل نحويًا.",
+    "hint": null
   },
   "q_gram_a1_17_004": {
     "question": "A ella ___ gusta bailar. (She likes إلى dance.)",
@@ -1849,8 +1864,8 @@
       "tienes",
       "tienen"
     ],
-    "explanation": "الـ ella form من 'tener' هو 'tiene'.\n- Ella tiene hambre. = She هو جائع. (lit. She يملك hunger.)\nالإسبانية uses tener + اسم أين الإنجليزية uses إلى يكون + صفة.",
-    "hint": "ella = 3rd شخص مفرد"
+    "explanation": "صيغة ella من الفعل 'tener' هي 'tiene'.\n- Ella tiene hambre. = هي جائعة. (حرفيًا: لديها جوع.)\nتستخدم الإسبانية tener + اسم حيث تستخدم العربية والإنجليزية «يكون + صفة».",
+    "hint": "ella = الغائبة المفردة"
   },
   "q_gram_a1_18_003": {
     "question": "¿___ sed? (هم أنت thirsty?)",
@@ -1961,14 +1976,15 @@
     "hint": "ماذا هو الـ nosotros form من ir?"
   },
   "q_gram_a1_19_003": {
-    "question": "ماذا does 'ir a + المصدر' express?",
-    "correct": "near future / plans",
+    "question": "ماذا يعبّر عنه التركيب 'ir a + infinitive'؟",
+    "correct": "المستقبل القريب / الخطط",
     "wrong": [
-      "past actions",
-      "commands",
-      "present habits"
+      "أفعال ماضية",
+      "الأوامر",
+      "العادات الحالية"
     ],
-    "explanation": "'ir a + المصدر' expresses الـ قريب future أو plans.\n- Voy a estudiar. = I am going إلى study.\n- Vamos a comer. = We هم going إلى يأكل.\nهذا الـ simplest way إلى talk about future actions في الإسبانية."
+    "explanation": "يعبّر 'ir a + infinitive' عن المستقبل القريب أو الخطط.\n- Voy a estudiar. = سأدرس.\n- Vamos a comer. = سنأكل.\nهذه أبسط طريقة للحديث عن الأفعال المستقبلية في الإسبانية.",
+    "hint": null
   },
   "q_gram_a1_19_004": {
     "question": "Ella ___ a la playa. (conjugate ir)",
@@ -2015,14 +2031,15 @@
     "hint": "los niños takes الـ same form as ellos"
   },
   "q_gram_a1_19_008": {
-    "question": "We هم going إلى eat at a restaurant.",
+    "question": "سنأكل في مطعم.",
     "correct": "Vamos a comer en un restaurante.",
     "wrong": [
       "Vamos comer en un restaurante.",
       "Voy a comer en un restaurante.",
       "Vamos a comer a un restaurante."
     ],
-    "explanation": "'ir a + المصدر' expresses الـ قريب future.\n- Vamos a comer = We هم going إلى يأكل.\nNote: 'en un restaurante' (at a restaurant) uses 'en' لـ location."
+    "explanation": "يعبّر 'ir a + infinitive' عن المستقبل القريب.\n- Vamos a comer = سنأكل.\nلاحظ: 'en un restaurante' (في مطعم) تستخدم 'en' للدلالة على المكان.",
+    "hint": null
   },
   "q_gram_a1_19_009": {
     "question": "¿Vosotros ___ a la fiesta? (conjugate ir)",
@@ -2076,8 +2093,8 @@
       "veinti cinco",
       "veintecinco"
     ],
-    "explanation": "Numbers 21-29 هم written as one كلمة: veinti + unit.\n- 21 = veintiuno, 22 = veintidós, 25 = veinticinco\nNote: 30+ uses two words: treinta y cinco.",
-    "hint": "21-29 هم single compound words"
+    "explanation": "تُكتب الأعداد من 21 إلى 29 ككلمة واحدة: veinti + الآحاد.\n- 21 = veintiuno، 22 = veintidós، 25 = veinticinco\nلاحظ: من 30 فما فوق تُكتب بكلمتين: treinta y cinco.",
+    "hint": "الأعداد 21-29 كلمات مركبة مفردة"
   },
   "q_gram_a1_20_004": {
     "question": "ماذا هو 'cincuenta' في الإنجليزية?",

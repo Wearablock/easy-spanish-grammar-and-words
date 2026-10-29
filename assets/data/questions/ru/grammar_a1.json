@@ -76,14 +76,15 @@
     "hint": "Not все words оканчивающимся на -являются женского рода"
   },
   "q_gram_a1_01_008": {
-    "question": " map есть big.",
+    "question": "Карта большая.",
     "correct": "El mapa es grande.",
     "wrong": [
       "La mapa es grande.",
       "Los mapas son grandes.",
       "El mapa es pequeño."
     ],
-    "explanation": "'mapa' есть мужского рода несмотря на окончание -(another исключение к -= женского рода правило). 'большой' = 'grande', который doesn't change для gender."
+    "explanation": "'mapa' — мужского рода, хотя оканчивается на -a (ещё одно исключение из правила «-a = женский род»).\n«большой» = 'grande' — эта форма не меняется по родам.",
+    "hint": null
   },
   "q_gram_a1_01_009": {
     "question": "___ fotos son de mi familia. (выберите правильный артикль для существительного множественного числа женского рода рода)",
@@ -141,14 +142,15 @@
     "hint": "niños есть множественного числа niño"
   },
   "q_gram_a1_02_004": {
-    "question": "что does 'los' indicate в 'los libros'?",
-    "correct": "masculine plural definite article",
+    "question": "Что обозначает 'los' в 'los libros'?",
+    "correct": "определённый артикль мужского рода во множественном числе",
     "wrong": [
-      "feminine plural definite article",
-      "masculine singular definite article",
-      "masculine plural indefinite article"
+      "определённый артикль женского рода во множественном числе",
+      "определённый артикль мужского рода в единственном числе",
+      "неопределённый артикль мужского рода во множественном числе"
     ],
-    "explanation": "'los' есть мужского рода множественного числа определённый артикль (= '' для мужского рода множественного числа nouns). - el (m. sg.), la (f. sg.), los (m. pl.), las (f. pl.)"
+    "explanation": "'los' — определённый артикль мужского рода во множественном числе (= «the» для существительных мужского рода во мн. числе).\n- el (м. ед.), la (ж. ед.), los (м. мн.), las (ж. мн.)",
+    "hint": null
   },
   "q_gram_a1_02_005": {
     "question": "Vengo ___ cine. (fill в: de + el)",
@@ -419,15 +421,16 @@
     "explanation": "когда asking about identity с 'usted', '¿Quién es usted?' означает 'кто являются ты?' (формальный). Note который 'usted' takes same глагол форма as él/ella (3rd человек единственного числа). - ¿Quién es usted? (формальный) vs ¿Quién eres tú? (неформальный)"
   },
   "q_gram_a1_04_010": {
-    "question": "Yo hablo español, ___ habla francés. (conjugate с правильный местоимение для 'she')",
+    "question": "Yo hablo español, ___ habla francés. (подставьте правильное местоимение, «она»)",
     "correct": "ella",
     "wrong": [
       "él",
       "tú",
       "usted"
     ],
-    "explanation": "Pronouns используются для emphasis или к clarify кто есть being talked about. - Yo hablo español, ella habla francés. - без pronouns, 'habla francés' could означать he/she/ты(формальный) speaks French.",
-    "conjugation_info": "Use pronouns для emphasis: Yo hablo... ella habla... vs just Hablo... Habla..."
+    "explanation": "Местоимения используются для выделения или чтобы уточнить, о ком идёт речь.\n- Yo hablo español, ella habla francés.\n- Без местоимений 'habla francés' может означать: он/она/вы (вежливая форма) говорит по-французски.",
+    "conjugation_info": "Use pronouns для emphasis: Yo hablo... ella habla... vs just Hablo... Habla...",
+    "hint": null
   },
   "q_gram_a1_05_001": {
     "question": "Yo ___ estudiante.",
@@ -555,8 +558,8 @@
       "estoy",
       "están"
     ],
-    "explanation": "Estar используется к express location. - El gato está en la mesa. = кошка есть на стол. - Location всегда uses estar (не ser).",
-    "hint": "который глагол используется для location?"
+    "explanation": "Estar используется для указания местонахождения.\n- El gato está en la mesa. = Кошка на столе.\n- Местонахождение всегда выражается через estar (не ser).",
+    "hint": "Какой глагол используется для указания местонахождения?"
   },
   "q_gram_a1_06_003": {
     "question": "Mis amigos ___ contentos.",
@@ -570,14 +573,15 @@
     "hint": "Emotions и feelings use который глагол?"
   },
   "q_gram_a1_06_004": {
-    "question": "что does 'estar' express в '¿Cómo estás?'?",
-    "correct": "health or feeling",
+    "question": "Что выражает 'estar' в '¿Cómo estás?'?",
+    "correct": "здоровье или самочувствие",
     "wrong": [
-      "identity",
-      "profession",
-      "nationality"
+      "личность",
+      "профессию",
+      "национальность"
     ],
-    "explanation": "'¿Cómo estás?' означает 'как являются ты?' и asks about someone's current state или feeling. Estar используется для временный conditions like health, mood, и emotional states."
+    "explanation": "'¿Cómo estás?' означает «Как дела?» и спрашивает о текущем состоянии или самочувствии человека.\nEstar используется для временных состояний: здоровья, настроения, эмоций.",
+    "hint": null
   },
   "q_gram_a1_06_005": {
     "question": "Nosotros ___ cansados. (conjugate estar)",
@@ -633,15 +637,16 @@
     "explanation": "Being sick является временный condition, поэтому estar используется. - estar enfermo = к быть sick (временный) Using 'ser enfermo' бы incorrectly imply постоянный state."
   },
   "q_gram_a1_06_010": {
-    "question": "¿Dónde ___ tú ahora? (conjugate estar)",
+    "question": "¿Dónde ___ tú ahora? (проспрягайте estar)",
     "correct": "estás",
     "wrong": [
       "eres",
       "está",
       "estamos"
     ],
-    "explanation": " tú форма 'estar' есть 'estás'. - ¿Dónde estás? = где являются ты? Estar есть всегда used для asking about location.",
-    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están"
+    "explanation": "Форма 'estar' для tú — 'estás'.\n- ¿Dónde estás? = Где ты?\nEstar всегда используется, когда спрашивают о местонахождении.",
+    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están",
+    "hint": null
   },
   "q_gram_a1_07_001": {
     "question": "María ___ doctora.",
@@ -666,14 +671,15 @@
     "hint": "Location всегда uses который глагол?"
   },
   "q_gram_a1_07_003": {
-    "question": "что does 'ser aburrido' означать vs 'estar aburrido'?",
-    "correct": "to be boring vs to be bored",
+    "question": "Что означает 'ser aburrido' в отличие от 'estar aburrido'?",
+    "correct": "быть скучным vs скучать (испытывать скуку)",
     "wrong": [
-      "to be bored vs to be boring",
-      "both mean the same thing",
-      "to be tired vs to be tiring"
+      "скучать (испытывать скуку) vs быть скучным",
+      "оба означают одно и то же",
+      "быть усталым vs быть утомительным"
     ],
-    "explanation": "Some adjectives change значение с ser vs estar: - ser aburrido = к быть скучный (characteristic) - estar aburrido = к быть bored (feeling) глагол choice changes прилагательное's значение."
+    "explanation": "Некоторые прилагательные меняют значение в зависимости от ser или estar:\n- ser aburrido = быть скучным (свойство)\n- estar aburrido = скучать (чувство)\nВыбор глагола меняет значение прилагательного.",
+    "hint": null
   },
   "q_gram_a1_07_004": {
     "question": "La fiesta ___ en mi casa. (conjugate правильный глагол для 'к быть')",
@@ -910,8 +916,8 @@
       "compro",
       "compran"
     ],
-    "explanation": "для -ar verbs, tú форма оканчивается на -as. - comprar → compr + as = compras - ¿Tú compras? = Do ты buy?",
-    "hint": "что окончание does tú take для -ar verbs?"
+    "explanation": "У глаголов на -ar форма tú оканчивается на -as.\n- comprar → compr + as = compras\n- ¿Tú compras? = Ты покупаешь?",
+    "hint": "Какое окончание принимает tú у глаголов на -ar?"
   },
   "q_gram_a1_09_006": {
     "question": "Ellos ___ muy bien. (conjugate cocinar)",
@@ -1001,14 +1007,15 @@
     "hint": "ella есть 3rd человек единственного числа"
   },
   "q_gram_a1_10_004": {
-    "question": "что есть key difference between -er и -ir глагол endings?",
-    "correct": "Only the nosotros and vosotros forms differ",
+    "question": "В чём главное различие между окончаниями глаголов на -er и -ir?",
+    "correct": "Различаются только формы nosotros и vosotros",
     "wrong": [
-      "All forms are different",
-      "Only the yo form differs",
-      "There is no difference at all"
+      "Различаются все формы",
+      "Различается только форма yo",
+      "Никакой разницы нет"
     ],
-    "explanation": " -er и -ir conjugations являются nearly identical. - только nosotros и vosotros differ: -er: comemos, coméis / -ir: vivimos, vivís все other формах share same endings: -o, -es, -e, -en."
+    "explanation": "Спряжения на -er и -ir почти одинаковы.\n- Различаются только nosotros и vosotros:\n  -er: comemos, coméis / -ir: vivimos, vivís\n  Во всех остальных формах окончания совпадают: -o, -es, -e, -en.",
+    "hint": null
   },
   "q_gram_a1_10_005": {
     "question": "¿Tú ___ café? (conjugate beber)",
@@ -1054,14 +1061,15 @@
     "hint": " vosotros окончание для -ir verbs имеет accent"
   },
   "q_gram_a1_10_009": {
-    "question": "She reads the newspaper every morning.",
+    "question": "Она каждое утро читает газету.",
     "correct": "Ella lee el periódico cada mañana.",
     "wrong": [
       "Ella lees el periódico cada mañana.",
       "Ella leen el periódico cada mañana.",
       "Ella leo el periódico cada mañana."
     ],
-    "explanation": "для -er verbs, ella форма оканчивается на -e. - leer → le + e = lee Note double 'e' в lee — это есть правильный для leer's 3rd человек."
+    "explanation": "У глаголов на -er форма ella оканчивается на -e.\n- leer → le + e = lee\nОбратите внимание на двойное 'e' в lee — это правильно для 3-го лица глагола leer.",
+    "hint": null
   },
   "q_gram_a1_10_010": {
     "question": "Nosotros ___ en un piso. (conjugate vivir)",
@@ -1097,14 +1105,15 @@
     "hint": "A specific bank (el banco) uses который глагол?"
   },
   "q_gram_a1_11_003": {
-    "question": "что есть difference between 'hay' и 'está'?",
-    "correct": "hay = existence, está = location of specific things",
+    "question": "В чём разница между 'hay' и 'está'?",
+    "correct": "hay = существование, está = местонахождение конкретных предметов",
     "wrong": [
-      "hay = location, está = existence",
-      "hay = plural only, está = singular only",
-      "they are interchangeable"
+      "hay = местонахождение, está = существование",
+      "hay = только множественное число, está = только единственное",
+      "они взаимозаменяемы"
     ],
-    "explanation": "'Hay' expresses existence (Есть/являются) и используется с indefinite articles. 'Está/Están' expresses location specific, already-known things. - Hay un libro. (A книга exists.) / El libro está aquí. ( книга есть здесь.)"
+    "explanation": "'Hay' выражает существование (есть/имеется) и употребляется с неопределённым артиклем.\n'Está/Están' выражает местонахождение конкретных, уже известных предметов.\n- Hay un libro. (Существует книга.) / El libro está aquí. (Книга здесь.)",
+    "hint": null
   },
   "q_gram_a1_11_004": {
     "question": "___ muchos estudiantes en la clase. (choose правильный form значение 'Есть')",
@@ -1162,15 +1171,16 @@
     "hint": null
   },
   "q_gram_a1_11_009": {
-    "question": "No ___ nadie en la oficina. (fill в form из 'haber' значение 'Есть')",
+    "question": "No ___ nadie en la oficina. (подставьте форму глагола 'haber' со значением «есть, имеется»)",
     "correct": "hay",
     "wrong": [
       "está",
       "es",
       "están"
     ],
-    "explanation": "'No hay nadie' = Есть nobody. это является double negative, который есть правильный в испанский. - hay + negative слово = Есть/являются не Remember: hay есть invariable и doesn't change форма.",
-    "conjugation_info": "Hay в negative: No hay nada (nothing), No hay nadie (nobody), No hay ningún... (не any)"
+    "explanation": "'No hay nadie' = Никого нет. Это двойное отрицание, которое в испанском языке правильно.\n- hay + отрицательное слово = нет (кого-то/чего-то)\nПомните: hay неизменяемо и не меняет форму.",
+    "conjugation_info": "Hay в negative: No hay nada (nothing), No hay nadie (nobody), No hay ningún... (не any)",
+    "hint": null
   },
   "q_gram_a1_11_010": {
     "question": "В моём городе есть парк.",
@@ -1314,14 +1324,15 @@
     "hint": "flores есть женского рода множественного числа"
   },
   "q_gram_a1_13_003": {
-    "question": "что distance does 'aquel' indicate?",
-    "correct": "far from both speaker and listener",
+    "question": "Какое расстояние обозначает 'aquel'?",
+    "correct": "далеко и от говорящего, и от слушающего",
     "wrong": [
-      "near the speaker",
-      "near the listener",
-      "it has no distance meaning"
+      "рядом с говорящим",
+      "рядом со слушающим",
+      "не имеет значения расстояния"
     ],
-    "explanation": "испанский имеет three levels distance: - este = near speaker (здесь/aquí) - ese = near listener (там/ahí) - aquel = far от both (over там/allí)"
+    "explanation": "В испанском три степени удалённости:\n- este = рядом с говорящим (здесь/aquí)\n- ese = рядом со слушающим (там/ahí)\n- aquel = далеко от обоих (вон там/allí)",
+    "hint": null
   },
   "q_gram_a1_13_004": {
     "question": "___ chica es mi amiga. (то girl near ты)",
@@ -1389,14 +1400,15 @@
     "conjugation_info": "este (m.sg.), esta (f.sg.), estos (m.pl.), estas (f.pl.) — near speaker"
   },
   "q_gram_a1_13_010": {
-    "question": "That house over there is very old.",
+    "question": "Тот дом вон там очень старый.",
     "correct": "Aquella casa es muy vieja.",
     "wrong": [
       "Esa casa es muy vieja.",
       "Esta casa es muy vieja.",
       "Aquel casa es muy viejo."
     ],
-    "explanation": "'over там' signals farthest distance level: aquel/aquella. - aquella casa = который дом over там (far от both) 'casa' есть женского рода, поэтому we use 'aquella' (не aquel)."
+    "explanation": "«Вон там» указывает на самую дальнюю степень удалённости: aquel/aquella.\n- aquella casa = тот дом вон там (далеко от обоих)\n'casa' — женского рода, поэтому используется 'aquella' (а не aquel).",
+    "hint": null
   },
   "q_gram_a1_14_001": {
     "question": "Vivo ___ Madrid. (fill в preposition для 'в')",
@@ -1432,14 +1444,15 @@
     "hint": "который preposition expresses direction?"
   },
   "q_gram_a1_14_004": {
-    "question": "что does preposition 'con' означать?",
-    "correct": "with",
+    "question": "Что означает предлог 'con'?",
+    "correct": "с",
     "wrong": [
-      "without",
-      "for",
-      "from"
+      "без",
+      "для",
+      "из, от"
     ],
-    "explanation": "'con' означает 'с' в испанский. - Café con leche = Coffee с milk. - Voy con mis amigos. = I go с my friends."
+    "explanation": "'con' по-испански означает «с».\n- Café con leche = Кофе с молоком.\n- Voy con mis amigos. = Я иду с друзьями.",
+    "hint": null
   },
   "q_gram_a1_14_005": {
     "question": "Veo ___ mi madre. (I see my mother.)",
@@ -1525,8 +1538,8 @@
       "Cómo",
       "Qué"
     ],
-    "explanation": "'¿Dónde vives?' = где do ты live? 'Dónde' asks about location или place. все испанский question words иметь written accent.",
-    "hint": "который question слово asks about place?"
+    "explanation": "'¿Dónde vives?' = Где ты живёшь?\n'Dónde' спрашивает о местоположении или месте.\nУ всех испанских вопросительных слов есть графический акцент.",
+    "hint": "Какое вопросительное слово спрашивает о месте?"
   },
   "q_gram_a1_15_003": {
     "question": "Что означает '¿Por qué?'?",
@@ -1539,15 +1552,16 @@
     "explanation": "'¿Por qué?' = почему? (two words, с accent на qué) - ¿Por qué estudias español? = почему do ты study испанский? Note: 'porque' (one слово, no accent) = потому что."
   },
   "q_gram_a1_15_004": {
-    "question": "¿___ años tienes? (How old are you?) (use правильный question слово)",
+    "question": "¿___ años tienes? (Сколько тебе лет?) (используйте правильное вопросительное слово)",
     "correct": "Cuántos",
     "wrong": [
       "Cuántas",
       "Cuánto",
       "Qué"
     ],
-    "explanation": "'Cuántos' agrees с существительное мужского рода множественного числа 'años'. - ¿Cuántos años tienes? = как много years do ты иметь? (= как старый являются ты?) Cuánto changes для gender и number: cuánto/cuánta/cuántos/cuántas.",
-    "conjugation_info": "cuánto (m.sg.), cuánta (f.sg.), cuántos (m.pl.), cuántas (f.pl.)"
+    "explanation": "'Cuántos' согласуется с существительным мужского рода во множественном числе 'años'.\n- ¿Cuántos años tienes? = Сколько лет у тебя? (= Сколько тебе лет?)\nCuánto изменяется по роду и числу: cuánto/cuánta/cuántos/cuántas.",
+    "conjugation_info": "cuánto (m.sg.), cuánta (f.sg.), cuántos (m.pl.), cuántas (f.pl.)",
+    "hint": null
   },
   "q_gram_a1_15_005": {
     "question": "¿___ es tu nombre?",
@@ -1745,14 +1759,15 @@
     "hint": "'los perros' есть множественного числа"
   },
   "q_gram_a1_17_003": {
-    "question": "что does 'gustar' literally означать?",
-    "correct": "to please",
+    "question": "Что буквально означает 'gustar'?",
+    "correct": "нравиться, быть приятным",
     "wrong": [
-      "to like",
-      "to want",
-      "to love"
+      "любить (в смысле «мне нравится»)",
+      "хотеть",
+      "любить (чувство)"
     ],
-    "explanation": "'gustar' literally означает 'к please'. structure есть reversed от английский. - Me gusta el café. = Coffee pleases me. (= I like coffee.) thing liked есть grammatical subject."
+    "explanation": "'gustar' буквально означает «быть приятным, нравиться». Структура обратная по сравнению с русским «я люблю».\n- Me gusta el café. = Кофе мне нравится. (= Я люблю кофе.)\nТо, что нравится, является грамматическим подлежащим.",
+    "hint": null
   },
   "q_gram_a1_17_004": {
     "question": "A ella ___ gusta bailar. (She likes к dance.)",
@@ -1848,8 +1863,8 @@
       "tienes",
       "tienen"
     ],
-    "explanation": " ella форма 'tener' есть 'tiene'. - Ella tiene hambre. = She есть hungry. (lit. She имеет hunger.) испанский uses tener + существительное где английский uses к быть + прилагательное.",
-    "hint": "ella = 3rd человек единственного числа"
+    "explanation": "Форма ella глагола 'tener' — 'tiene'.\n- Ella tiene hambre. = Она голодна. (букв. У неё голод.)\nВ испанском используется tener + существительное там, где в русском «быть + прилагательное».",
+    "hint": "ella = 3-е лицо единственного числа"
   },
   "q_gram_a1_18_003": {
     "question": "¿___ sed? (есть ты thirsty?)",
@@ -1960,14 +1975,15 @@
     "hint": "что есть nosotros форма ir?"
   },
   "q_gram_a1_19_003": {
-    "question": "что does 'ir + инфинитив' express?",
-    "correct": "near future / plans",
+    "question": "Что выражает конструкция 'ir a + infinitive'?",
+    "correct": "ближайшее будущее / планы",
     "wrong": [
-      "past actions",
-      "commands",
-      "present habits"
+      "действия в прошлом",
+      "команды",
+      "привычки в настоящем"
     ],
-    "explanation": "'ir + инфинитив' expresses near future или plans. - Voy estudiar. = I am going к study. - Vamos comer. = We являются going к eat. Это simplest way к talk about future actions в испанский."
+    "explanation": "'ir a + infinitive' выражает ближайшее будущее или планы.\n- Voy a estudiar. = Я собираюсь учиться.\n- Vamos a comer. = Мы собираемся поесть.\nЭто самый простой способ говорить о будущих действиях по-испански.",
+    "hint": null
   },
   "q_gram_a1_19_004": {
     "question": "Ella ___ a la playa. (conjugate ir)",
@@ -2014,14 +2030,15 @@
     "hint": "los niños takes same форма as ellos"
   },
   "q_gram_a1_19_008": {
-    "question": "We есть going к eat at a restaurant.",
+    "question": "Мы собираемся поужинать в ресторане.",
     "correct": "Vamos a comer en un restaurante.",
     "wrong": [
       "Vamos comer en un restaurante.",
       "Voy a comer en un restaurante.",
       "Vamos a comer a un restaurante."
     ],
-    "explanation": "'ir + инфинитив' expresses near future. - Vamos comer = We являются going к eat. Note: 'en un restaurante' (at restaurant) uses 'en' для location."
+    "explanation": "'ir a + infinitive' выражает ближайшее будущее.\n- Vamos a comer = Мы собираемся поесть.\nОбратите внимание: в 'en un restaurante' (в ресторане) для обозначения места используется 'en'.",
+    "hint": null
   },
   "q_gram_a1_19_009": {
     "question": "¿Vosotros ___ a la fiesta? (conjugate ir)",
@@ -2075,8 +2092,8 @@
       "veinti cinco",
       "veintecinco"
     ],
-    "explanation": "Numbers 21-29 являются written as one слово: veinti + unit. - 21 = veintiuno, 22 = veintidós, 25 = veinticinco Note: 30+ uses two words: treinta y cinco.",
-    "hint": "21-29 являются single compound words"
+    "explanation": "Числа 21–29 пишутся одним словом: veinti + единицы.\n- 21 = veintiuno, 22 = veintidós, 25 = veinticinco\nОбратите внимание: числа от 30 пишутся двумя словами: treinta y cinco.",
+    "hint": "Числа 21–29 — это сложные слова, которые пишутся слитно"
   },
   "q_gram_a1_20_004": {
     "question": "что есть 'cincuenta' в английский?",

@@ -22,14 +22,15 @@
     "hint": "Ini adalah pengecualian terkenal untuk aturan -o = maskulin aturan"
   },
   "q_gram_a1_01_003": {
-    "question": "apa does 'casa' berarti di 'la casa'?",
-    "correct": "house",
+    "question": "Apa arti 'casa' dalam 'la casa'?",
+    "correct": "rumah",
     "wrong": [
-      "table",
-      "cat",
-      "book"
+      "meja",
+      "kucing",
+      "buku"
     ],
-    "explanation": "'casa' berarti 'house' dan adalah kata benda feminin berakhiran -a.\n- la casa = ini/itu house\n- una casa = a house"
+    "explanation": "'casa' berarti 'rumah' dan merupakan kata benda feminin yang berakhiran -a.\n- la casa = rumah itu\n- una casa = sebuah rumah",
+    "hint": null
   },
   "q_gram_a1_01_004": {
     "question": "___ ciudad es grande. (gunakan artikel yang benar untuk kata benda feminin)",
@@ -76,14 +77,15 @@
     "hint": "Tidak semua kata yang berakhiran -a adalah feminin"
   },
   "q_gram_a1_01_008": {
-    "question": "ini/itu map adalah big.",
+    "question": "Peta itu besar.",
     "correct": "El mapa es grande.",
     "wrong": [
       "La mapa es grande.",
       "Los mapas son grandes.",
       "El mapa es pequeño."
     ],
-    "explanation": "'mapa' adalah kata maskulin meskipun berakhiran -a (pengecualian lain untuk aturan -a = feminin aturan).\n'big' = 'grande', which tidak berubah untuk jenis kelamin."
+    "explanation": "'mapa' bersifat maskulin meskipun berakhiran -a (pengecualian lain dari aturan -a = feminin).\n'besar' = 'grande', yang tidak berubah menurut gender.",
+    "hint": null
   },
   "q_gram_a1_01_009": {
     "question": "___ fotos son de mi familia. (pilih artikel yang benar untuk kata benda feminin jamak)",
@@ -141,14 +143,15 @@
     "hint": "niños adalah bentuk jamak dari niño"
   },
   "q_gram_a1_02_004": {
-    "question": "apa does 'los' indicate di 'los libros'?",
-    "correct": "masculine plural definite article",
+    "question": "Apa yang ditunjukkan 'los' dalam 'los libros'?",
+    "correct": "artikel tentu maskulin jamak",
     "wrong": [
-      "feminine plural definite article",
-      "masculine singular definite article",
-      "masculine plural indefinite article"
+      "artikel tentu feminin jamak",
+      "artikel tentu maskulin tunggal",
+      "artikel tak tentu maskulin jamak"
     ],
-    "explanation": "'los' adalah artikel pasti maskulin jamak (= 'ini/itu' untuk maskulin jamak nouns).\n- el (m. sg.), la (f. sg.), los (m. pl.), las (f. pl.)"
+    "explanation": "'los' adalah artikel tentu maskulin jamak (= 'the' untuk kata benda maskulin jamak).\n- el (m. tunggal), la (f. tunggal), los (m. jamak), las (f. jamak)",
+    "hint": null
   },
   "q_gram_a1_02_005": {
     "question": "Vengo ___ cine. (isi: de + el)",
@@ -234,18 +237,19 @@
       "unas",
       "los"
     ],
-    "explanation": "'libros' adalah maskulin jamak kata benda; 'unos' berarti 'some' untuk maskulin jamaks.\n- un libro → unos libros\n- una carta → unas cartas",
-    "hint": "Which artikel tak pasti digunakan untuk maskulin jamaks?"
+    "explanation": "'libros' adalah kata benda maskulin jamak; 'unos' berarti 'beberapa' untuk maskulin jamak.\n- un libro → unos libros\n- una carta → unas cartas",
+    "hint": "Artikel tak tentu mana yang dipakai untuk maskulin jamak?"
   },
   "q_gram_a1_03_003": {
-    "question": "apa does 'unas' berarti di 'unas flores'?",
-    "correct": "some (feminine plural)",
+    "question": "Apa arti 'unas' dalam 'unas flores'?",
+    "correct": "beberapa (feminin jamak)",
     "wrong": [
-      "the (feminine plural)",
-      "a (feminine singular)",
-      "some (masculine plural)"
+      "artikel tentu (feminin jamak)",
+      "sebuah (feminin tunggal)",
+      "beberapa (maskulin jamak)"
     ],
-    "explanation": "'unas' adalah feminin jamak artikel tak pasti berarti 'some'.\n- un (m. sg.), una (f. sg.), unos (m. pl.), unas (f. pl.)"
+    "explanation": "'unas' adalah artikel tak tentu feminin jamak yang berarti 'beberapa'.\n- un (m. tunggal), una (f. tunggal), unos (m. jamak), unas (f. jamak)",
+    "hint": null
   },
   "q_gram_a1_03_004": {
     "question": "Soy ___. (I am a teacher.) (conjugate ini/itu appropriate response)",
@@ -288,8 +292,8 @@
       "con",
       "de"
     ],
-    "explanation": "setelah 'sin' (tanpa), ini/itu artikel tak pasti adalah omitted.\n- Café sin azúcar. (Coffee tanpa sugar.)\n- Café con leche. (Coffee dengan milk.)",
-    "hint": "Which preposition berarti 'tanpa'?"
+    "explanation": "Setelah 'sin' (tanpa), artikel tak tentu dihilangkan.\n- Café sin azúcar. (Kopi tanpa gula.)\n- Café con leche. (Kopi dengan susu.)",
+    "hint": "Preposisi mana yang berarti 'tanpa'?"
   },
   "q_gram_a1_03_008": {
     "question": "I buy some flowers.",
@@ -342,8 +346,8 @@
       "Él",
       "Usted"
     ],
-    "explanation": "'eres' adalah tú bentuk dari kata kerja ser.\n- Tú eres = kamu adalah (informal)\nini/itu kata ganti 'tú' digunakan dengan friends, family, dan peers.",
-    "hint": "Which kata ganti goes dengan 'eres'?"
+    "explanation": "'eres' adalah bentuk tú dari verba ser.\n- Tú eres = Kamu adalah (informal)\nPronomina 'tú' dipakai untuk teman, keluarga, dan teman sebaya.",
+    "hint": "Pronomina mana yang cocok dengan 'eres'?"
   },
   "q_gram_a1_04_003": {
     "question": "___ viven en Madrid.",
@@ -481,8 +485,8 @@
       "Está",
       "Hay"
     ],
-    "explanation": "'Son las tres' = Ini adalah three o'clock. untuk telling waktu, use 'ser'.\n- Es la una. (1:00 — tunggal)\n- Son las dos/tres/cuatro... (2:00+ — jamak)",
-    "hint": "Which bentuk dari ser digunakan dengan jamak hours?"
+    "explanation": "'Son las tres' = Pukul tiga. Untuk menyatakan waktu, gunakan 'ser'.\n- Es la una. (pukul 1:00 — tunggal)\n- Son las dos/tres/cuatro... (pukul 2:00 ke atas — jamak)",
+    "hint": "Bentuk ser mana yang dipakai dengan jam jamak?"
   },
   "q_gram_a1_05_006": {
     "question": "La mesa ___ de madera. (conjugate ser)",
@@ -556,8 +560,8 @@
       "estoy",
       "están"
     ],
-    "explanation": "Estar digunakan untuk mengungkapkan location.\n- El gato está en la mesa. = ini/itu cat adalah on ini/itu table.\n- Location selalu uses estar (not ser).",
-    "hint": "Which kata kerja digunakan untuk location?"
+    "explanation": "Estar dipakai untuk menyatakan lokasi.\n- El gato está en la mesa. = Kucing itu ada di atas meja.\n- Lokasi selalu memakai estar (bukan ser).",
+    "hint": "Verba mana yang dipakai untuk lokasi?"
   },
   "q_gram_a1_06_003": {
     "question": "Mis amigos ___ contentos.",
@@ -567,18 +571,19 @@
       "estamos",
       "estáis"
     ],
-    "explanation": "Estar digunakan untuk emotions dan keadaan sementaras.\n- están contentos = mereka adalah happy (saat ini)\n- 'contentos' sesuai dengan ini/itu maskulin jamak subject.",
-    "hint": "Emotions dan feelings use which kata kerja?"
+    "explanation": "Estar dipakai untuk emosi dan keadaan sementara.\n- están contentos = mereka senang (saat ini)\n- 'contentos' menyesuaikan dengan subjek maskulin jamak.",
+    "hint": "Emosi dan perasaan memakai verba yang mana?"
   },
   "q_gram_a1_06_004": {
-    "question": "apa does 'estar' express di '¿Cómo estás?'?",
-    "correct": "health or feeling",
+    "question": "Apa yang diungkapkan 'estar' dalam '¿Cómo estás?'?",
+    "correct": "kesehatan atau perasaan",
     "wrong": [
-      "identity",
-      "profession",
-      "nationality"
+      "identitas",
+      "profesi",
+      "kewarganegaraan"
     ],
-    "explanation": "'¿Cómo estás?' berarti 'bagaimana adalah kamu?' dan asks about someone's current state atau feeling.\nEstar digunakan untuk kondisi sementara like health, mood, dan emotional states."
+    "explanation": "'¿Cómo estás?' berarti 'Apa kabar?' dan menanyakan keadaan atau perasaan seseorang saat ini.\nEstar dipakai untuk kondisi sementara seperti kesehatan, suasana hati, dan keadaan emosi.",
+    "hint": null
   },
   "q_gram_a1_06_005": {
     "question": "Nosotros ___ cansados. (conjugate estar)",
@@ -663,18 +668,19 @@
       "son",
       "están"
     ],
-    "explanation": "Estar digunakan untuk location.\n- El hospital está en la calle Mayor. = ini/itu hospital adalah on Mayor Street.\nLocation selalu uses estar, even untuk permanent buildings.",
-    "hint": "Location selalu uses which kata kerja?"
+    "explanation": "Estar dipakai untuk lokasi.\n- El hospital está en la calle Mayor. = Rumah sakit itu ada di Jalan Mayor.\nLokasi selalu memakai estar, bahkan untuk bangunan permanen.",
+    "hint": "Lokasi selalu memakai verba yang mana?"
   },
   "q_gram_a1_07_003": {
-    "question": "apa does 'ser aburrido' berarti vs 'estar aburrido'?",
-    "correct": "to be boring vs to be bored",
+    "question": "Apa perbedaan arti 'ser aburrido' dan 'estar aburrido'?",
+    "correct": "membosankan vs merasa bosan",
     "wrong": [
-      "to be bored vs to be boring",
-      "both mean the same thing",
-      "to be tired vs to be tiring"
+      "merasa bosan vs membosankan",
+      "keduanya berarti sama",
+      "merasa lelah vs melelahkan"
     ],
-    "explanation": "Some adjectives change berarti dengan ser vs estar:\n- ser aburrido = ke menjadi boring (characteristic)\n- estar aburrido = ke menjadi bored (feeling)\nkata kerja choice changes ini/itu kata sifat's berarti."
+    "explanation": "Beberapa adjektiva berubah arti jika dipakai dengan ser atau estar:\n- ser aburrido = membosankan (sifat)\n- estar aburrido = merasa bosan (perasaan)\nPilihan verba mengubah makna adjektivanya.",
+    "hint": null
   },
   "q_gram_a1_07_004": {
     "question": "La fiesta ___ en mi casa. (conjugate ini/itu benar kata kerja untuk 'ke menjadi')",
@@ -883,14 +889,15 @@
     "hint": "María adalah 3rd orang tunggal (ella)"
   },
   "q_gram_a1_09_003": {
-    "question": "apa does 'estudiar' berarti?",
-    "correct": "to study",
+    "question": "Apa arti 'estudiar'?",
+    "correct": "belajar",
     "wrong": [
-      "to work",
-      "to speak",
-      "to buy"
+      "bekerja",
+      "berbicara",
+      "membeli"
     ],
-    "explanation": "'estudiar' berarti 'ke study'. itu adalah beraturan -ar kata kerja.\n- Yo estudio, tú estudias, él estudia..."
+    "explanation": "'estudiar' berarti 'belajar'. Ini adalah verba beraturan berakhiran -ar.\n- Yo estudio, tú estudias, él estudia...",
+    "hint": null
   },
   "q_gram_a1_09_004": {
     "question": "Nosotros ___ mucho. (conjugate trabajar)",
@@ -911,8 +918,8 @@
       "compro",
       "compran"
     ],
-    "explanation": "untuk -ar verbs, ini/itu tú form berakhiran -as.\n- comprar → compr + as = compras\n- ¿Tú compras? = Do kamu buy?",
-    "hint": "apa ending does tú take untuk -ar verbs?"
+    "explanation": "Untuk verba -ar, bentuk tú berakhiran -as.\n- comprar → compr + as = compras\n- ¿Tú compras? = Apakah kamu membeli?",
+    "hint": "Akhiran apa yang dipakai tú untuk verba -ar?"
   },
   "q_gram_a1_09_006": {
     "question": "Ellos ___ muy bien. (conjugate cocinar)",
@@ -947,14 +954,14 @@
     "explanation": "untuk -ar verbs, ini/itu ella form berakhiran -a.\n- estudiar → estudi + a = estudia\n- semua -ar verbs follow ini/itu same pattern: -o, -as, -a, -amos, -áis, -an."
   },
   "q_gram_a1_09_009": {
-    "question": "Vosotros ___ muy bien. (konjugasikan cantar)",
+    "question": "Vosotros ___ muy bien. (conjugate cantar)",
     "correct": "cantáis",
     "wrong": [
       "cantamos",
       "cantan",
       "cantas"
     ],
-    "explanation": "Untuk verba berakhiran -ar, bentuk vosotros berakhiran -áis.\n- cantar → cant + áis = cantáis\nBentuk ini terutama dipakai di Spanyol.",
+    "explanation": "Untuk kata kerja berakhiran -ar, bentuk vosotros berakhiran -áis.\n- cantar → cant + áis = cantáis\nBentuk ini terutama dipakai di Spanyol.",
     "conjugation_info": "cantar - present: canto, cantas, canta, cantamos, cantáis, cantan",
     "hint": null
   },
@@ -1055,14 +1062,15 @@
     "hint": "ini/itu vosotros ending untuk -ir verbs memiliki an accent"
   },
   "q_gram_a1_10_009": {
-    "question": "She reads the newspaper every morning.",
+    "question": "Dia membaca koran setiap pagi.",
     "correct": "Ella lee el periódico cada mañana.",
     "wrong": [
       "Ella lees el periódico cada mañana.",
       "Ella leen el periódico cada mañana.",
       "Ella leo el periódico cada mañana."
     ],
-    "explanation": "untuk -er verbs, ini/itu ella form berakhiran -e.\n- leer → le + e = lee\nNote ini/itu double 'e' di lee — ini adalah benar untuk leer's 3rd orang."
+    "explanation": "Untuk verba -er, bentuk ella berakhiran -e.\n- leer → le + e = lee\nPerhatikan 'e' ganda pada lee — ini benar untuk orang ketiga tunggal leer.",
+    "hint": null
   },
   "q_gram_a1_10_010": {
     "question": "Nosotros ___ en un piso. (conjugate vivir)",
@@ -1083,8 +1091,8 @@
       "Es",
       "Están"
     ],
-    "explanation": "'Hay' digunakan untuk mengungkapkan existence (Ada/Ada).\n- Hay un banco = di sana adalah bank.\nHay + artikel tak pasti/number untuk stating itu something exists.",
-    "hint": "Which kata berarti 'Ada/Ada'?"
+    "explanation": "'Hay' dipakai untuk menyatakan keberadaan (ada).\n- Hay un banco = Ada sebuah bank.\nHay + artikel tak tentu/angka dipakai untuk menyatakan bahwa sesuatu ada.",
+    "hint": "Kata mana yang berarti 'ada'?"
   },
   "q_gram_a1_11_002": {
     "question": "El banco ___ en la esquina.",
@@ -1094,8 +1102,8 @@
       "es",
       "están"
     ],
-    "explanation": "Estar digunakan untuk ini/itu location dari specific things.\n- El banco está en la esquina = ini/itu bank adalah on ini/itu corner.\nini/itu artikel pasti 'el' signals a specific bank, so we use estar.",
-    "hint": "A specific bank (el banco) uses which kata kerja?"
+    "explanation": "Estar dipakai untuk lokasi benda tertentu.\n- El banco está en la esquina = Bank itu ada di sudut jalan.\nArtikel tentu 'el' menandakan bank yang spesifik, jadi kita memakai estar.",
+    "hint": "Bank tertentu (el banco) memakai verba yang mana?"
   },
   "q_gram_a1_11_003": {
     "question": "apa adalah ini/itu difference between 'hay' dan 'está'?",
@@ -1163,15 +1171,16 @@
     "hint": null
   },
   "q_gram_a1_11_009": {
-    "question": "No ___ nadie en la oficina. (fill di ini/itu form dari 'haber' arti 'Ada')",
+    "question": "No ___ nadie en la oficina. (isi dengan bentuk 'haber' yang berarti 'ada')",
     "correct": "hay",
     "wrong": [
       "está",
       "es",
       "están"
     ],
-    "explanation": "'No hay nadie' = di sana adalah nobody. ini adalah double negative, yang merupakan benar dalam bahasa Spanyol.\n- hay + negative kata = Ada/adalah not\nRemember: hay adalah invariable dan doesn't change form.",
-    "conjugation_info": "Hay in negative: No hay nada (nothing), No hay nadie (nobody), No hay ningún... (not any)"
+    "explanation": "'No hay nadie' = Tidak ada siapa pun. Ini negatif ganda, yang benar dalam bahasa Spanyol.\n- hay + kata negatif = tidak ada\nIngat: hay bersifat invarian dan tidak berubah bentuk.",
+    "conjugation_info": "Hay in negative: No hay nada (nothing), No hay nadie (nobody), No hay ningún... (not any)",
+    "hint": null
   },
   "q_gram_a1_11_010": {
     "question": "Ada sebuah taman di kota saya.",
@@ -1315,14 +1324,15 @@
     "hint": "flores adalah feminin jamak"
   },
   "q_gram_a1_13_003": {
-    "question": "apa distance does 'aquel' indicate?",
-    "correct": "far from both speaker and listener",
+    "question": "'aquel' menunjukkan jarak seperti apa?",
+    "correct": "jauh dari pembicara maupun pendengar",
     "wrong": [
-      "near the speaker",
-      "near the listener",
-      "it has no distance meaning"
+      "dekat dengan pembicara",
+      "dekat dengan pendengar",
+      "tidak memiliki arti jarak"
     ],
-    "explanation": "Spanyol memiliki three levels dari distance:\n- este = near ini/itu speaker (di sini/aquí)\n- ese = near ini/itu listener (di sana/ahí)\n- aquel = far dari both (over di sana/allí)"
+    "explanation": "Bahasa Spanyol punya tiga tingkat jarak:\n- este = dekat dengan pembicara (di sini/aquí)\n- ese = dekat dengan pendengar (di situ/ahí)\n- aquel = jauh dari keduanya (di sana/allí)",
+    "hint": null
   },
   "q_gram_a1_13_004": {
     "question": "___ chica es mi amiga. (itu girl near kamu)",
@@ -1429,18 +1439,19 @@
       "de",
       "por"
     ],
-    "explanation": "'a' berarti 'ke' dan indicates direction/destination.\n- Voy a la escuela. = I go ke school.\nir + a + place = going ke somewhere.",
-    "hint": "Which preposition expresses direction?"
+    "explanation": "'a' berarti 'ke' dan menunjukkan arah/tujuan.\n- Voy a la escuela. = Saya pergi ke sekolah.\nir + a + tempat = pergi ke suatu tempat.",
+    "hint": "Preposisi mana yang menyatakan arah?"
   },
   "q_gram_a1_14_004": {
-    "question": "apa does ini/itu preposition 'con' berarti?",
-    "correct": "with",
+    "question": "Apa arti preposisi 'con'?",
+    "correct": "dengan",
     "wrong": [
-      "without",
-      "for",
-      "from"
+      "tanpa",
+      "untuk",
+      "dari"
     ],
-    "explanation": "'con' berarti 'dengan' dalam bahasa Spanyol.\n- Café con leche = Coffee dengan milk.\n- Voy con mis amigos. = I go dengan my friends."
+    "explanation": "'con' berarti 'dengan' dalam bahasa Spanyol.\n- Café con leche = Kopi dengan susu.\n- Voy con mis amigos. = Saya pergi dengan teman-teman saya.",
+    "hint": null
   },
   "q_gram_a1_14_005": {
     "question": "Veo ___ mi madre. (I see my mother.)",
@@ -1515,8 +1526,8 @@
       "Dónde",
       "Cuándo"
     ],
-    "explanation": "'¿Qué hora es?' = apa waktu adalah itu?\n'Qué' digunakan ke ask 'apa' kapan seeking a definition atau general information.\nNote ini/itu accent mark on question words.",
-    "hint": "Which question kata berarti 'apa'?"
+    "explanation": "'¿Qué hora es?' = Jam berapa sekarang?\n'Qué' dipakai untuk menanyakan 'apa' saat mencari definisi atau informasi umum.\nPerhatikan tanda aksen pada kata tanya.",
+    "hint": "Kata tanya mana yang berarti 'apa'?"
   },
   "q_gram_a1_15_002": {
     "question": "¿___ vives?",
@@ -1526,18 +1537,19 @@
       "Cómo",
       "Qué"
     ],
-    "explanation": "'¿Dónde vives?' = di mana do kamu live?\n'Dónde' asks about location atau place.\nsemua Spanyol question words memiliki a written accent.",
-    "hint": "Which question kata asks about place?"
+    "explanation": "'¿Dónde vives?' = Kamu tinggal di mana?\n'Dónde' menanyakan lokasi atau tempat.\nSemua kata tanya dalam bahasa Spanyol memakai tanda aksen tertulis.",
+    "hint": "Kata tanya mana yang menanyakan tempat?"
   },
   "q_gram_a1_15_003": {
-    "question": "apa does '¿Por qué?' berarti?",
-    "correct": "Why?",
+    "question": "Apa arti '¿Por qué?'?",
+    "correct": "Mengapa?",
     "wrong": [
-      "Because",
-      "How?",
-      "What for?"
+      "Karena",
+      "Bagaimana?",
+      "Untuk apa?"
     ],
-    "explanation": "'¿Por qué?' = Why? (two words, dengan accent on qué)\n- ¿Por qué estudias español? = Why do kamu study Spanyol?\nCatatan: 'porque' (one kata, no accent) = karena."
+    "explanation": "'¿Por qué?' = Mengapa? (dua kata, dengan aksen pada qué)\n- ¿Por qué estudias español? = Mengapa kamu belajar bahasa Spanyol?\nCatatan: 'porque' (satu kata, tanpa aksen) = karena.",
+    "hint": null
   },
   "q_gram_a1_15_004": {
     "question": "¿___ años tienes? (How old are you?) (use ini/itu benar question kata)",
@@ -1580,8 +1592,8 @@
       "Cómo",
       "Quién"
     ],
-    "explanation": "'¿Cuándo es la fiesta?' = kapan adalah party?\n'Cuándo' asks about waktu.\n- ¿Cuándo vienes? = kapan adalah kamu coming?",
-    "hint": "Which question kata asks about waktu?"
+    "explanation": "'¿Cuándo es la fiesta?' = Kapan pestanya?\n'Cuándo' menanyakan waktu.\n- ¿Cuándo vienes? = Kapan kamu datang?",
+    "hint": "Kata tanya mana yang menanyakan waktu?"
   },
   "q_gram_a1_15_008": {
     "question": "siapa adalah she?",
@@ -1650,14 +1662,15 @@
     "hint": "Double negatives adalah benar dalam bahasa Spanyol"
   },
   "q_gram_a1_16_004": {
-    "question": "apa does 'nunca' berarti?",
-    "correct": "never",
+    "question": "Apa arti 'nunca'?",
+    "correct": "tidak pernah",
     "wrong": [
-      "nothing",
-      "nobody",
-      "neither"
+      "tidak ada apa pun",
+      "tidak ada seorang pun",
+      "tidak juga"
     ],
-    "explanation": "'nunca' berarti 'tidak pernah'. itu bisa placed sebelum atau setelah kata kerja:\n- Nunca como carne. = I tidak pernah eat meat.\n- No como carne nunca. = I tidak pernah eat meat. (double negative)"
+    "explanation": "'nunca' berarti 'tidak pernah'. Kata ini bisa diletakkan sebelum atau sesudah kata kerja:\n- Nunca como carne. = Saya tidak pernah makan daging.\n- No como carne nunca. = Saya tidak pernah makan daging. (negasi ganda)",
+    "hint": null
   },
   "q_gram_a1_16_005": {
     "question": "No quiero café, y ella ___ quiere café. (use ini/itu kata untuk 'neither')",
@@ -1699,8 +1712,8 @@
       "nada",
       "nunca"
     ],
-    "explanation": "'nadie' berarti 'nobody/no one'.\n- No hay nadie en casa. = di sana adalah nobody at home.\n- 'nadie' mengacu pada orang, 'nada' mengacu pada things.",
-    "hint": "Which negative kata mengacu pada orang?"
+    "explanation": "'nadie' berarti 'tidak ada seorang pun'.\n- No hay nadie en casa. = Tidak ada siapa pun di rumah.\n- 'nadie' merujuk pada orang, 'nada' merujuk pada benda.",
+    "hint": "Kata negatif mana yang merujuk pada orang?"
   },
   "q_gram_a1_16_009": {
     "question": "Nothing is perfect.",
@@ -1746,14 +1759,15 @@
     "hint": "'los perros' adalah jamak"
   },
   "q_gram_a1_17_003": {
-    "question": "apa does 'gustar' literally berarti?",
-    "correct": "to please",
+    "question": "Apa arti harfiah 'gustar'?",
+    "correct": "menyenangkan",
     "wrong": [
-      "to like",
-      "to want",
-      "to love"
+      "menyukai",
+      "menginginkan",
+      "mencintai"
     ],
-    "explanation": "'gustar' secara harfiah berarti 'ke please'. ini/itu structure adalah reversed dari Inggris.\n- Me gusta el café. = Coffee pleases me. (= I like coffee.)\nini/itu thing liked adalah grammatical subject."
+    "explanation": "'gustar' secara harfiah berarti 'menyenangkan'. Strukturnya terbalik dari bahasa Indonesia.\n- Me gusta el café. = Kopi menyenangkan bagiku. (= Saya suka kopi.)\nHal yang disukai menjadi subjek gramatikal.",
+    "hint": null
   },
   "q_gram_a1_17_004": {
     "question": "A ella ___ gusta bailar. (She likes ke dance.)",
@@ -1864,14 +1878,15 @@
     "hint": "ini adalah asking 'kamu' (tú)"
   },
   "q_gram_a1_18_004": {
-    "question": "apa does 'tener razón' berarti?",
-    "correct": "to be right",
+    "question": "Apa arti 'tener razón'?",
+    "correct": "benar",
     "wrong": [
-      "to have a reason",
-      "to be wrong",
-      "to have a question"
+      "punya alasan",
+      "salah",
+      "punya pertanyaan"
     ],
-    "explanation": "'tener razón' = ke menjadi right (lit. ke memiliki reason).\n- Tienes razón. = kamu adalah right.\nini adalah one dari banyak tener expressions di mana Inggris uses 'ke menjadi'."
+    "explanation": "'tener razón' = benar (harfiah: punya alasan/kebenaran).\n- Tienes razón. = Kamu benar.\nIni salah satu dari banyak ungkapan tener yang dalam bahasa Indonesia tidak memakai 'punya'.",
+    "hint": null
   },
   "q_gram_a1_18_005": {
     "question": "Nosotros ___ 25 años. (conjugate tener)",
@@ -1961,14 +1976,15 @@
     "hint": "apa adalah nosotros bentuk dari ir?"
   },
   "q_gram_a1_19_003": {
-    "question": "apa does 'ir a + infinitif' express?",
-    "correct": "near future / plans",
+    "question": "Apa yang diungkapkan oleh 'ir a + infinitivo'?",
+    "correct": "masa depan dekat / rencana",
     "wrong": [
-      "past actions",
-      "commands",
-      "present habits"
+      "tindakan di masa lalu",
+      "perintah",
+      "kebiasaan saat ini"
     ],
-    "explanation": "'ir a + infinitif' expresses ini/itu near future atau plans.\n- Voy a estudiar. = I am going ke study.\n- Vamos a comer. = We adalah going ke eat.\nini adalah simplest way ke talk about future actions dalam bahasa Spanyol."
+    "explanation": "'ir a + infinitivo' mengungkapkan masa depan dekat atau rencana.\n- Voy a estudiar. = Saya akan belajar.\n- Vamos a comer. = Kita akan makan.\nIni cara paling sederhana untuk membicarakan tindakan di masa depan dalam bahasa Spanyol.",
+    "hint": null
   },
   "q_gram_a1_19_004": {
     "question": "Ella ___ a la playa. (conjugate ir)",
@@ -2108,8 +2124,8 @@
       "cent",
       "cien to"
     ],
-    "explanation": "'cien' digunakan untuk exactly 100.\n- cien personas = 100 orang\n'ciento' digunakan untuk 101-199: ciento uno, ciento dos, etc.",
-    "hint": "untuk exactly 100, which form digunakan?"
+    "explanation": "'cien' dipakai untuk tepat 100.\n- cien personas = 100 orang\n'ciento' dipakai untuk 101-199: ciento uno, ciento dos, dst.",
+    "hint": "Untuk tepat 100, bentuk mana yang dipakai?"
   },
   "q_gram_a1_20_007": {
     "question": "I memiliki forty-two books.",

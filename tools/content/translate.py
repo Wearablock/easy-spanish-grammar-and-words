@@ -4,6 +4,7 @@
     python3 tools/content/translate.py --plan              what would be translated (queue + English-mixed fields)
     python3 tools/content/translate.py --locale it --limit 25   try one small batch first
     python3 tools/content/translate.py                     everything, 4 batches in parallel
+    python3 tools/content/translate.py --lv 1              regenerate one LV of the daily path (all 14 locales)
 
 Each batch (25 questions) goes to `claude -p` with the master English entry and the rules for its type.
 The result is accepted only if the Spanish part is untouched (master.same), the correct answer is not
@@ -148,8 +149,15 @@ def apply(locale, batch, out):
     return ok, bad
 
 
+def lv_jobs(n):
+    """LV n of the daily path — every question in it, every locale (regenerate, not just the flagged ones)"""
+    import review
+    ids = [x for _, qs in review.lv_slice(n) for x in qs]
+    return {l: sorted(ids) for l in M.LOCALES if l != "en"}
+
+
 def main():
-    jobs = plan()
+    jobs = lv_jobs(int(sys.argv[sys.argv.index("--lv") + 1])) if "--lv" in sys.argv else plan()
     if "--locale" in sys.argv:
         only = sys.argv[sys.argv.index("--locale") + 1]
         jobs = {only: jobs.get(only, [])}

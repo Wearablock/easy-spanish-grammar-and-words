@@ -32,15 +32,16 @@
     "explanation": "'casa' significa 'casa' y es un sustantivo femenino que termina en -a.\n- la casa = el/la casa\n- una casa = a casa"
   },
   "q_gram_a1_01_004": {
-    "question": "___ ciudad es grande. (usa la forma correcta article para the femenino noun)",
+    "question": "___ ciudad es grande. (usa el artículo correcto para el sustantivo femenino)",
     "correct": "La",
     "wrong": [
       "El",
       "Los",
       "Las"
     ],
-    "explanation": "'ciudad' termina en -dad, que es a femenino terminación.\nsustantivos que termina en -ción, -sión, -dad, y -tad típicamente son femenino.",
-    "conjugation_info": "Feminine endings: -a, -ción, -sión, -dad, -tad, -tud"
+    "explanation": "'ciudad' termina en -dad, una terminación femenina.\nLos sustantivos que terminan en -ción, -sión, -dad y -tad suelen ser femeninos.",
+    "conjugation_info": "Feminine endings: -a, -ción, -sión, -dad, -tad, -tud",
+    "hint": null
   },
   "q_gram_a1_01_005": {
     "question": "___ problema es difícil.",
@@ -87,15 +88,16 @@
     "hint": null
   },
   "q_gram_a1_01_009": {
-    "question": "___ fotos son de mi familia. (selecciona la opción correcta article para the plural femenino noun)",
+    "question": "___ fotos son de mi familia. (elige el artículo correcto para el sustantivo femenino plural)",
     "correct": "Las",
     "wrong": [
       "Los",
       "La",
       "El"
     ],
-    "explanation": "'foto' es short para 'fotografía', cual es femenino.\n- la foto → las fotos\nAbbreviations keep el/la género del full palabra.",
-    "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)"
+    "explanation": "'foto' es la forma abreviada de 'fotografía', que es femenino.\n- la foto → las fotos\nLas palabras abreviadas conservan el género de la palabra completa.",
+    "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)",
+    "hint": null
   },
   "q_gram_a1_01_010": {
     "question": "La mano está fría.",
@@ -249,15 +251,16 @@
     "explanation": "'unas' es el plural femenino indefinite article significado 'algunos'.\n- un (m. sg.), una (f. sg.), unos (m. pl.), unas (f. pl.)"
   },
   "q_gram_a1_03_004": {
-    "question": "Soy ___. (I am a teacher.) (conjugate the appropriate response)",
+    "question": "Soy ___. (Yo soy maestro.) (elige la respuesta adecuada)",
     "correct": "profesor",
     "wrong": [
       "un profesor",
       "el profesor",
       "una profesora"
     ],
-    "explanation": "En español, el artículo indefinido se omite with professions después de ser.\n- Soy profesor. (correcto)\n- Soy un profesor. (incorrecto en español estándar)\nEsto regla applies a nationalities too: Soy español.",
-    "conjugation_info": "Ser + profession: no article needed. Soy profesor, Soy estudiante, Soy médico."
+    "explanation": "En español se omite el artículo indefinido con las profesiones después de ser.\n- Soy profesor. (correcto)\n- Soy un profesor. (incorrecto en el español estándar sin un adjetivo o complemento)\nEsta regla también se aplica a las nacionalidades: Soy español.",
+    "conjugation_info": "Ser + profession: no article needed. Soy profesor, Soy estudiante, Soy médico.",
+    "hint": null
   },
   "q_gram_a1_03_005": {
     "question": "Barcelona es ___ ciudad bonita.",
@@ -326,15 +329,16 @@
     "hint": null
   },
   "q_gram_a1_04_001": {
-    "question": "___ hablamos español. (fill en the subject pronoun)",
+    "question": "___ hablamos español. (completa con el pronombre de sujeto)",
     "correct": "Nosotros",
     "wrong": [
       "Yo",
       "Ellos",
       "Tú"
     ],
-    "explanation": "'hablamos' es el/la nosotros/nosotras form de hablar.\n- nosotros hablamos = we speak\nEl/la -amos que termina endicates primera persona plural.",
-    "conjugation_info": "Subject pronouns: yo, tú, él/ella/usted, nosotros, vosotros, ellos/ustedes"
+    "explanation": "'hablamos' es la forma de nosotros/nosotras del verbo hablar.\n- nosotros hablamos = hablamos (nosotros)\nLa terminación -amos indica la primera persona del plural.",
+    "conjugation_info": "Subject pronouns: yo, tú, él/ella/usted, nosotros, vosotros, ellos/ustedes",
+    "hint": null
   },
   "q_gram_a1_04_002": {
     "question": "___ eres mi amigo.",
@@ -359,25 +363,27 @@
     "hint": "viven es a 3rd persona plural verb form"
   },
   "q_gram_a1_04_004": {
-    "question": "¿Qué es the formal way para decir 'you' (singular) en Español?",
+    "question": "¿Cuál es la forma formal de dirigirse a una sola persona en español?",
     "correct": "usted",
     "wrong": [
       "tú",
       "vosotros",
       "nosotros"
     ],
-    "explanation": "'usted' es el/la formal singular 'tú', used with strangers, elders, y en professional settings.\n- tú = informal 'tú'\n- usted = formal 'tú' (toma 3rd persona verb forms)"
+    "explanation": "'usted' es el tratamiento formal en singular, que se usa con desconocidos, personas mayores y en contextos profesionales.\n- tú = tratamiento informal\n- usted = tratamiento formal (lleva el verbo en tercera persona)",
+    "hint": null
   },
   "q_gram_a1_04_005": {
-    "question": "___ es la profesora. (conjugate ser para the 3rd person)",
+    "question": "___ es la profesora. (conjuga ser en tercera persona)",
     "correct": "Ella",
     "wrong": [
       "Él",
       "Yo",
       "Nosotros"
     ],
-    "explanation": "'Ella' significa 'she' y se usa para a female subject.\n- Ella es la profesora = She es el/la teacher.\n- Él es el profesor = He es el/la teacher.",
-    "conjugation_info": "3rd person pronouns: él (he), ella (she), usted (you formal)"
+    "explanation": "'Ella' se usa para un sujeto femenino.\n- Ella es la profesora.\n- Él es el profesor.",
+    "conjugation_info": "3rd person pronouns: él (he), ella (she), usted (you formal)",
+    "hint": null
   },
   "q_gram_a1_04_006": {
     "question": "En España, ___ coméis paella.",
@@ -456,14 +462,15 @@
     "hint": "¿Qué es el/la tercera persona forma plural de ser?"
   },
   "q_gram_a1_05_003": {
-    "question": "¿Qué es the main use de 'ser' en 'Ella es doctora'?",
-    "correct": "to express profession",
+    "question": "¿Cuál es el uso principal de 'ser' en 'Ella es doctora'?",
+    "correct": "expresar la profesión",
     "wrong": [
-      "to express location",
-      "to express emotion",
-      "to express a temporary state"
+      "expresar la ubicación",
+      "expresar una emoción",
+      "expresar un estado temporal"
     ],
-    "explanation": "Ser se usa para professions: Ella es doctora (She es a doctor).\nOther uses de ser: identity, nationality, characteristics, tiempo, y origin."
+    "explanation": "Ser se usa para las profesiones: Ella es doctora.\nOtros usos de ser: identidad, nacionalidad, características, la hora y el origen.",
+    "hint": null
   },
   "q_gram_a1_05_004": {
     "question": "Tú ___ muy inteligente. (conjugate ser)",
@@ -918,8 +925,8 @@
       "compro",
       "compran"
     ],
-    "explanation": "Para -ar verbos, el/la forma tú termina en -as.\n- comprar → compr + as = compras\n- ¿Tú compras? = Do tú buy?",
-    "hint": "Qué terminación does tú tomar para -ar verbos?"
+    "explanation": "En los verbos en -ar, la forma de tú termina en -as.\n- comprar → compr + as = compras\n- ¿Tú compras? = ¿Compras tú?",
+    "hint": "¿Qué terminación lleva tú en los verbos en -ar?"
   },
   "q_gram_a1_09_006": {
     "question": "Ellos ___ muy bien. (conjugate cocinar)",
@@ -1042,14 +1049,15 @@
     "hint": "los estudiantes = ellos (3rd persona plural)"
   },
   "q_gram_a1_10_007": {
-    "question": "You (informal) open the door.",
+    "question": "Tú abres la puerta. (trato informal)",
     "correct": "Tú abres la puerta.",
     "wrong": [
       "Tú abre la puerta.",
       "Tú abro la puerta.",
       "Tú abren la puerta."
     ],
-    "explanation": "Para -ir verbos, el/la forma tú termina en -es.\n- abrir → abr + es = abres\n- Tú abres = Tú open."
+    "explanation": "En los verbos en -ir, la forma de tú termina en -es.\n- abrir → abr + es = abres\n- Tú abres = abres (tú).",
+    "hint": null
   },
   "q_gram_a1_10_008": {
     "question": "Vosotros ___ en un apartamento. (conjugate vivir)",
@@ -1063,14 +1071,15 @@
     "hint": "El/la vosotros terminación para -ir verbos tiene an accent"
   },
   "q_gram_a1_10_009": {
-    "question": "She reads the newspaper every morning.",
+    "question": "Ella lee el periódico cada mañana.",
     "correct": "Ella lee el periódico cada mañana.",
     "wrong": [
       "Ella lees el periódico cada mañana.",
       "Ella leen el periódico cada mañana.",
       "Ella leo el periódico cada mañana."
     ],
-    "explanation": "Para -er verbos, el/la forma ella termina en -e.\n- leer → le + e = lee\nnote el/la double 'e' en lee — Esto es correcto para leer's 3rd persona."
+    "explanation": "En los verbos en -er, la forma de ella termina en -e.\n- leer → le + e = lee\nObserva la doble 'e' en lee: es correcta para la tercera persona de leer.",
+    "hint": null
   },
   "q_gram_a1_10_010": {
     "question": "nosotros ___ en un piso. (conjugate vivir)",
@@ -1172,15 +1181,16 @@
     "hint": null
   },
   "q_gram_a1_11_009": {
-    "question": "no ___ nadie en la oficina. (fill en the form de 'haber' meaning 'allí is')",
+    "question": "No ___ nadie en la oficina. (completa con la forma de 'haber' que significa 'existir o estar presente')",
     "correct": "hay",
     "wrong": [
       "está",
       "es",
       "están"
     ],
-    "explanation": "'no hay nadie' = Hay nadie. Esto es un doble negación, que es correcto en español.\n- hay + negativo palabra = Hay/son not\nRemember: hay es invariable y no change form.",
-    "conjugation_info": "Hay in negative: no hay nada (nothing), no hay nadie (nobody), no hay ningún... (not any)"
+    "explanation": "'No hay nadie' = no existe ninguna persona. La doble negación es correcta en español.\n- hay + palabra negativa = no hay/no existen\nRecuerda: hay es invariable y no cambia de forma.",
+    "conjugation_info": "Hay in negative: no hay nada (nothing), no hay nadie (nobody), no hay ningún... (not any)",
+    "hint": null
   },
   "q_gram_a1_11_010": {
     "question": "Hay un parque en mi ciudad.",
@@ -1324,14 +1334,15 @@
     "hint": "flores es plural femenino"
   },
   "q_gram_a1_13_003": {
-    "question": "What distance does 'aquel' indicate?",
-    "correct": "far from both speaker and listener",
+    "question": "¿Qué distancia indica 'aquel'?",
+    "correct": "lejos tanto del hablante como del oyente",
     "wrong": [
-      "near the speaker",
-      "near the listener",
-      "it has no distance meaning"
+      "cerca del hablante",
+      "cerca del oyente",
+      "no tiene significado de distancia"
     ],
-    "explanation": "Español tiene three levels de distance:\n- este = near el/la speaker (aquí/aquí)\n- ese = near el/la listener (allí/ahí)\n- aquel = far from ambos (sobre allí/allí)"
+    "explanation": "El español tiene tres niveles de distancia:\n- este = cerca del hablante (aquí)\n- ese = cerca del oyente (ahí)\n- aquel = lejos de ambos (allí)",
+    "hint": null
   },
   "q_gram_a1_13_004": {
     "question": "___ chica es mi amiga. (that girl near you)",
@@ -1356,15 +1367,16 @@
     "hint": "Far distance + plural masculino"
   },
   "q_gram_a1_13_006": {
-    "question": "Me gusta ___ canción. (I como that song — near the listener)",
+    "question": "Me gusta ___ canción. (Me gusta esa canción: cerca del oyente)",
     "correct": "esa",
     "wrong": [
       "esta",
       "aquella",
       "ese"
     ],
-    "explanation": "'ese/esa' se usa para things near el/la listener (medium distance).\n- esa canción = eso song (near tú)\n'canción' es singular femenino.",
-    "conjugation_info": "este→aquí (here), ese→ahí (there), aquel→allí (over there)"
+    "explanation": "'ese/esa' se usa para lo que está cerca del oyente (distancia media).\n- esa canción = esa canción (cerca de ti)\n'canción' es femenino singular.",
+    "conjugation_info": "este→aquí (here), ese→ahí (there), aquel→allí (over there)",
+    "hint": null
   },
   "q_gram_a1_13_007": {
     "question": "___ montañas son muy altas. (those mountains sobre allí)",
@@ -1409,15 +1421,16 @@
     "explanation": "'sobre allí' signals el/la farthest distance level: aquel/aquella.\n- aquella casa = eso casa sobre allí (far from ambos)\n'casa' es femenino, así we use 'aquella' (not aquel)."
   },
   "q_gram_a1_14_001": {
-    "question": "Vivo ___ Madrid. (fill en the preposition para 'en')",
+    "question": "Vivo ___ Madrid. (completa con la preposición que indica lugar)",
     "correct": "en",
     "wrong": [
       "a",
       "de",
       "con"
     ],
-    "explanation": "'en' significa 'en/en/en' y se usa para location.\n- Vivo en Madrid. = I live en Madrid.\n- El libro está en la mesa. = El/la book es en el/la table.",
-    "conjugation_info": "en = in/on/at (location), a = to (direction), de = from/of"
+    "explanation": "'en' se usa para indicar ubicación (dentro de, en, sobre).\n- Vivo en Madrid.\n- El libro está en la mesa.",
+    "conjugation_info": "en = in/on/at (location), a = to (direction), de = from/of",
+    "hint": null
   },
   "q_gram_a1_14_002": {
     "question": "Soy ___ Colombia.",
@@ -1822,15 +1835,16 @@
     "explanation": "'les' es el/la indirect objeto pronoun para ellos/ellas/ustedes.\n- A ellos les gusta viajar. = Ellos como a travel.\n'gusta' (not gustan) porque 'viajar' es an infinitivo (singular)."
   },
   "q_gram_a1_17_009": {
-    "question": "A ustedes ___ gustan estos libros. (fill en the indirect object pronoun)",
+    "question": "A ustedes ___ gustan estos libros. (completa con el pronombre de objeto indirecto)",
     "correct": "les",
     "wrong": [
       "le",
       "nos",
       "os"
     ],
-    "explanation": "'ustedes' toma el/la indirect objeto pronoun 'les'.\n- A ustedes les gustan estos libros. = Tú todos como estos books.\nles = para ellos/ellas/ustedes.",
-    "conjugation_info": "me (yo), te (tú), le (él/ella/usted), nos (nosotros), os (vosotros), les (ellos/ustedes)"
+    "explanation": "'ustedes' lleva el pronombre de objeto indirecto 'les'.\n- A ustedes les gustan estos libros.\nles = para ellos/ellas/ustedes.",
+    "conjugation_info": "me (yo), te (tú), le (él/ella/usted), nos (nosotros), os (vosotros), les (ellos/ustedes)",
+    "hint": null
   },
   "q_gram_a1_17_010": {
     "question": "I really love chocolate.",

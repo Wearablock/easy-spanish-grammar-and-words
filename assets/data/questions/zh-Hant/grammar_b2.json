@@ -98,13 +98,14 @@
   },
   "q_gram_b2_01_010": {
     "question": "Ojalá que mis amigos estuvieran aquí para celebrar conmigo.",
-    "correct": "I wish my friends were here to celebrate with me.",
+    "correct": "真希望我的朋友們現在在這裡,和我一起慶祝。",
     "wrong": [
-      "I hope my friends are here to celebrate with me.",
-      "My friends wished they were here to celebrate with me.",
-      "I wished my friends had been here to celebrate with me."
+      "我希望我的朋友們會來這裡和我一起慶祝。",
+      "我的朋友們當時希望他們能在這裡和我一起慶祝。",
+      "我當時真希望我的朋友們曾經來這裡和我一起慶祝。"
     ],
-    "explanation": "'Ojalá que' + past 虛擬式 (estuvieran) expresses a wish about a present situation 那 是 unlikely 或 contrary 到 reality, translated as 'I wish... 是'."
+    "explanation": "'Ojalá que' + 虛擬式過去式(estuvieran)表達對現在不太可能或與事實相反的情況的願望,翻譯為「真希望……」。",
+    "hint": null
   },
   "q_gram_b2_02_001": {
     "question": "Si ella ___ tiempo, iría al gimnasio. (tener, past 虛擬式, ella form)",
@@ -140,14 +141,15 @@
     "hint": "Ser 和 ir share 相同 past 虛擬式 形式"
   },
   "q_gram_b2_02_004": {
-    "question": "什麼 是 structure 的 a Type 2 條件式 sentence 在西班牙語中?",
-    "correct": "Si + past subjunctive (imperfect subjunctive), conditional tense in the main clause",
+    "question": "西班牙語第二類條件句的結構是什麼?",
+    "correct": "Si + 虛擬式過去式(虛擬式過去未完成式),主句使用條件式",
     "wrong": [
-      "Si + present indicative, future tense in the main clause",
-      "Si + imperfect indicative, conditional tense in the main clause",
-      "Si + conditional tense, past subjunctive in the main clause"
+      "Si + 直陳式現在式,主句使用未來式",
+      "Si + 直陳式過去未完成式,主句使用條件式",
+      "Si + 條件式,主句使用虛擬式過去式"
     ],
-    "explanation": "Type 2 conditionals express unreal 或 unlikely present/future situations. si-clause takes past 虛擬式 (e.g., tuviera) 和 result clause uses 條件式 (e.g., compraría)."
+    "explanation": "第二類條件句表達與現在/未來事實不符或不太可能發生的情況。si 子句使用虛擬式過去式(例如 tuviera),結果子句使用條件式(例如 compraría)。",
+    "hint": null
   },
   "q_gram_b2_02_005": {
     "question": "Yo ___ más contentos a mis padres si sacara buenas notas. (hacer, 條件式, yo form)",
@@ -172,14 +174,15 @@
     "hint": " si-clause needs past 虛擬式, not 陳述式 或 條件式"
   },
   "q_gram_b2_02_007": {
-    "question": "If 他們 lived closer, we 將 see them more 經常.",
+    "question": "如果他們住得更近,我們就能更常見到他們了。",
     "correct": "Si ellos vivieran más cerca, los veríamos más a menudo.",
     "wrong": [
       "Si ellos vivirían más cerca, los veíamos más a menudo.",
       "Si ellos vivían más cerca, los veríamos más a menudo.",
       "Si ellos viven más cerca, los veremos más a menudo."
     ],
-    "explanation": "這 是 a Type 2 條件式. 'Si' + past 虛擬式 (vivieran) expresses unreal 條件, 和 條件式 (veríamos) expresses hypothetical result."
+    "explanation": "這是第二類條件句。'Si' + 虛擬式過去式(vivieran)表達不真實的條件,條件式(veríamos)表達假設的結果。",
+    "hint": null
   },
   "q_gram_b2_02_008": {
     "question": "Si yo ___ hablar chino, buscaría trabajo en Pekín. (saber)",
@@ -236,14 +239,15 @@
     "hint": " si-clause 在 Type 3 needs pluperfect 虛擬式"
   },
   "q_gram_b2_03_003": {
-    "question": "什麼 does a Type 3 條件式 sentence express 在西班牙語中?",
-    "correct": "An unreal or impossible condition in the past and its hypothetical consequence",
+    "question": "西班牙語的第三類條件句表達什麼?",
+    "correct": "過去不真實或不可能的條件,以及其假設的結果",
     "wrong": [
-      "A probable condition in the present with a likely outcome",
-      "An unreal condition in the present with a hypothetical outcome",
-      "A real condition in the past with a factual consequence"
+      "現在很可能的條件,以及可能的結果",
+      "現在不真實的條件,以及假設的結果",
+      "過去真實的條件,以及符合事實的結果"
     ],
-    "explanation": "Type 3 conditionals (si + pluperfect 虛擬式, 條件式 perfect) express situations 那 是 contrary 到 什麼 actually happened 在 past. 他們 describe missed opportunities 或 regrets."
+    "explanation": "第三類條件句(si + 虛擬式過去完成式,條件完成式)表達與過去實際發生的事相反的情況,用來描述錯失的機會或後悔的事。",
+    "hint": null
   },
   "q_gram_b2_03_004": {
     "question": "Nosotros ___ antes si hubiéramos tenido el mapa. (llegar, 條件式 perfect, nosotros form)",
@@ -355,14 +359,15 @@
     "hint": "條件完成式表示過去未實現的行為"
   },
   "q_gram_b2_04_004": {
-    "question": "什麼時候 是 條件式 perfect (habría + 過去分詞) used 在西班牙語中?",
-    "correct": "To express what would have happened in the past under different circumstances, or to speculate about the past",
+    "question": "西班牙語的條件完成式(habría + 過去分詞)在什麼時候使用?",
+    "correct": "用來表達在不同情況下過去本來會發生的事,或用來推測過去的事",
     "wrong": [
-      "To express what will have happened by a future point in time",
-      "To express what had happened before another past event",
-      "To express what someone wanted to happen in the present"
+      "用來表達到未來某個時間點時將已發生的事",
+      "用來表達在另一個過去事件之前已經發生的事",
+      "用來表達某人在現在希望發生的事"
     ],
-    "explanation": " 條件式 perfect 有 two main uses: (1) main clause 的 Type 3 conditionals (什麼 將 有 happened), 和 (2) speculation 或 conjecture about past events."
+    "explanation": "條件完成式有兩種主要用法:(1)第三類條件句的主句(本來會發生的事),(2)對過去事件的推測或猜想。",
+    "hint": null
   },
   "q_gram_b2_04_005": {
     "question": "Tú ___ la verdad antes, pero no te atreviste. (decir, 條件式 perfect, tú form)",
@@ -387,14 +392,15 @@
     "hint": " 條件式 perfect 可以 express past speculation"
   },
   "q_gram_b2_04_007": {
-    "question": "I 將 有 called 你, 但是 I lost my phone.",
+    "question": "我本來會打電話給你,但我的手機弄丟了。",
     "correct": "Te habría llamado, pero perdí mi teléfono.",
     "wrong": [
       "Te hubiera llamado, pero perdía mi teléfono.",
       "Te llamaría, pero perdí mi teléfono.",
       "Te había llamado, pero perdí mi teléfono."
     ],
-    "explanation": " 條件式 perfect (habría llamado) expresses 什麼 將 有 happened. 'pero' clause uses 簡單過去時 到 狀態 factual obstacle."
+    "explanation": "條件完成式(habría llamado)表達本來會發生的事。'pero' 之後的子句用簡單過去式來說明實際的阻礙。",
+    "hint": null
   },
   "q_gram_b2_04_008": {
     "question": "Sin tu ayuda, yo no ___ el trabajo a tiempo. (completar, 條件式 perfect)",
@@ -409,13 +415,14 @@
   },
   "q_gram_b2_04_009": {
     "question": "A las diez de la noche, los invitados ya se habrían marchado.",
-    "correct": "By ten at night, the guests would have already left.",
+    "correct": "到了晚上十點,客人們大概已經離開了。",
     "wrong": [
-      "At ten at night, the guests had already left.",
-      "By ten at night, the guests already left.",
-      "At ten at night, the guests would already leave."
+      "晚上十點時,客人們(在那之前)已經離開了。",
+      "到了晚上十點,客人們已經離開了(單純的過去事實)。",
+      "晚上十點時,客人們已經打算要離開。"
     ],
-    "explanation": " 條件式 perfect (se habrían marchado) 這裡 expresses conjecture about 什麼 probably happened at a past 時間. 'Ya' (already) emphasizes completed nature 的 action."
+    "explanation": "這裡的條件完成式(se habrían marchado)表達對過去某個時間點可能發生之事的推測。'Ya'(已經)強調動作已經完成。",
+    "hint": null
   },
   "q_gram_b2_04_010": {
     "question": "Ellos ___ el vuelo si no hubiera habido tráfico. (perder, 條件式 perfect, ellos form)",
@@ -451,14 +458,15 @@
     "hint": "'Cuando llegues' sets a future reference point"
   },
   "q_gram_b2_05_003": {
-    "question": "什麼 是 two main uses 的 future perfect tense 在西班牙語中?",
-    "correct": "To express an action completed before a future point in time, and to speculate about what has probably happened",
+    "question": "西班牙語的未來完成式有哪兩種主要用法?",
+    "correct": "表達在未來某個時間點之前已完成的動作,以及推測可能已經發生的事",
     "wrong": [
-      "To express a habitual action in the future and a completed past action",
-      "To express a future plan and a condition for that plan",
-      "To express desire about the future and doubt about the present"
+      "表達未來的習慣性動作,以及已完成的過去動作",
+      "表達未來的計畫,以及該計畫的條件",
+      "表達對未來的願望,以及對現在的懷疑"
     ],
-    "explanation": " future perfect (habré hablado) serves two purposes: (1) actions completed 由 a future deadline, 和 (2) conjecture about recent past events (e.g., 'habrá salido' = 'he 有 probably left')."
+    "explanation": "未來完成式(habré hablado)有兩個用途:(1)在未來期限前完成的動作,(2)對最近過去事件的推測(例如 'habrá salido' =「他大概已經出門了」)。",
+    "hint": null
   },
   "q_gram_b2_05_004": {
     "question": "Ella ___ toda la serie antes de que estrenen la nueva temporada. (ver, future perfect, ella form)",
@@ -472,15 +480,15 @@
     "conjugation_info": "ver (future perfect): habré visto, habrás visto, habrá visto, habremos visto, habréis visto, habrán visto"
   },
   "q_gram_b2_05_005": {
-    "question": "¿Dónde ___ mis llaves? No las encuentro por ningún lado. (poner, future perfect, yo form)",
+    "question": "¿Dónde ___ mis llaves? No las encuentro por ningún lado. (poner,未來完成式,yo 形式)",
     "correct": "habré puesto",
     "wrong": [
       "habría puesto",
       "había puesto",
       "pondré"
     ],
-    "explanation": "這裡 future perfect expresses conjecture about a recent event: '哪裡 可以 I 有 put my keys?' Poner 有 不規則 過去分詞 puesto.",
-    "hint": " future perfect 可以 express speculation about recent past"
+    "explanation": "這裡的未來完成式用來推測最近發生的事:「我到底把鑰匙放到哪裡去了?」Poner 的過去分詞是不規則的 puesto。",
+    "hint": "未來完成式可以用來推測最近的過去"
   },
   "q_gram_b2_05_006": {
     "question": "Ellos ___ de la ciudad antes de que empiece la tormenta. (salir, future perfect, ellos form)",
@@ -547,15 +555,15 @@
     "conjugation_info": "comprender (pluperfect subjunctive): hubiera comprendido, hubieras comprendido, hubiera comprendido, hubiéramos comprendido, hubierais comprendido, hubieran comprendido"
   },
   "q_gram_b2_06_002": {
-    "question": "Ojalá que nosotros ___ más tiempo en esa ciudad. (pasar, pluperfect 虛擬式)",
+    "question": "Ojalá que nosotros ___ más tiempo en esa ciudad. (pasar,虛擬式過去完成式)",
     "correct": "hubiéramos pasado",
     "wrong": [
       "habríamos pasado",
       "habíamos pasado",
       "pasáramos"
     ],
-    "explanation": "'Ojalá que' + pluperfect 虛擬式 expresses a wish about past 那 did not come true. nosotros 形式 是 hubiéramos pasado.",
-    "hint": "'Ojalá que' + pluperfect 虛擬式 = unfulfilled past wish"
+    "explanation": "'Ojalá que' + 虛擬式過去完成式,表達對過去未能實現之事的願望。nosotros 的形式是 hubiéramos pasado。",
+    "hint": "'Ojalá que' + 虛擬式過去完成式 = 對過去未實現的願望"
   },
   "q_gram_b2_06_003": {
     "question": "Me molestó que ellos no ___ a la reunión. (venir, pluperfect 虛擬式)",
@@ -569,14 +577,15 @@
     "hint": " 情感 是 past, 和 action happened 之前 情感"
   },
   "q_gram_b2_06_004": {
-    "question": "什麼 是 difference between past 虛擬式 和 pluperfect 虛擬式?",
-    "correct": "The past subjunctive refers to present/future unreal situations, while the pluperfect subjunctive refers to past unreal situations that can no longer be changed",
+    "question": "虛擬式過去式和虛擬式過去完成式有什麼差別?",
+    "correct": "虛擬式過去式指現在/未來不真實的情況,而虛擬式過去完成式指過去已無法改變的不真實情況",
     "wrong": [
-      "The past subjunctive is more formal than the pluperfect subjunctive",
-      "The pluperfect subjunctive is used only in si-clauses, while the past subjunctive is used everywhere else",
-      "The past subjunctive uses -ra endings and the pluperfect subjunctive uses -se endings"
+      "虛擬式過去式比虛擬式過去完成式更正式",
+      "虛擬式過去完成式只用於 si 子句,虛擬式過去式則用於其他所有地方",
+      "虛擬式過去式使用 -ra 字尾,虛擬式過去完成式使用 -se 字尾"
     ],
-    "explanation": " past 虛擬式 (hablara) deals 與 present/future hypothetical situations, 當...時 pluperfect 虛擬式 (hubiera hablado) deals 與 past counterfactual situations 那 是 impossible 到 改變."
+    "explanation": "虛擬式過去式(hablara)處理現在/未來的假設情況,而虛擬式過去完成式(hubiera hablado)處理與過去事實相反、且無法改變的情況。",
+    "hint": null
   },
   "q_gram_b2_06_005": {
     "question": "Tú ___ el error si hubieras revisado el documento. (descubrir, pluperfect 虛擬式, tú form)",
@@ -601,14 +610,15 @@
     "hint": " doubted action preceded main 動詞"
   },
   "q_gram_b2_06_007": {
-    "question": "I wish I had studied abroad 什麼時候 I 是 young.",
+    "question": "我真希望年輕的時候有出國留學過。",
     "correct": "Ojalá hubiera estudiado en el extranjero cuando era joven.",
     "wrong": [
       "Ojalá estudiara en el extranjero cuando era joven.",
       "Ojalá habría estudiado en el extranjero cuando era joven.",
       "Ojalá había estudiado en el extranjero cuando era joven."
     ],
-    "explanation": "'Ojalá' + pluperfect 虛擬式 (hubiera estudiado) expresses an impossible wish about past. past 虛擬式 (estudiara) 將 refer 到 present 或 future instead."
+    "explanation": "'Ojalá' 加過去完成式虛擬語氣(hubiera estudiado)可表達對過去事情無法實現的願望。若用過去式虛擬語氣(estudiara),則是指現在或未來。",
+    "hint": null
   },
   "q_gram_b2_06_008": {
     "question": "No creía que ellos ___ la verdad hasta ese momento. (saber, pluperfect 虛擬式)",
@@ -623,13 +633,14 @@
   },
   "q_gram_b2_06_009": {
     "question": "Era imposible que el tren hubiera llegado a tiempo con tanta nieve.",
-    "correct": "It was impossible that the train had arrived on time with so much snow.",
+    "correct": "雪下得那麼大,火車不可能準時抵達。",
     "wrong": [
-      "It is impossible that the train arrived on time with so much snow.",
-      "It was impossible that the train would arrive on time with so much snow.",
-      "It was impossible that the train will have arrived on time with so much snow."
+      "雪下得那麼大,火車現在不可能準時抵達。",
+      "雪下得那麼大,火車當時不可能會準時抵達。",
+      "雪下得那麼大,火車到時候不可能已經準時抵達了。"
     ],
-    "explanation": " pluperfect 虛擬式 (hubiera llegado) 之後 'era imposible que' expresses doubt about a completed past action. 它 translates naturally as 'had arrived' 在 英語."
+    "explanation": "在 'era imposible que' 之後使用過去完成式虛擬語氣(hubiera llegado),表示對已完成的過去動作抱持懷疑。翻成中文時,自然會譯為「已經抵達」之類的完成語意。",
+    "hint": null
   },
   "q_gram_b2_06_010": {
     "question": "Nosotros ___ antes si hubiéramos tenido más información. (actuar, 條件式 perfect, nosotros form)",
@@ -643,58 +654,60 @@
     "conjugation_info": "actuar (conditional perfect): habría actuado, habrías actuado, habría actuado, habríamos actuado, habríais actuado, habrían actuado"
   },
   "q_gram_b2_07_001": {
-    "question": "Aunque ___ mucho, iremos a la excursión. (llover, 現在虛擬式)",
+    "question": "Aunque ___ mucho, iremos a la excursión. (llover, 現在式虛擬語氣)",
     "correct": "llueva",
     "wrong": [
       "llueve",
       "lloviera",
       "llovería"
     ],
-    "explanation": "'Aunque' + 虛擬式 expresses a concession about something uncertain 或 hypothetical. 由於 rain 是 uncertain, 現在虛擬式 (llueva) 是 用過的.",
-    "hint": "'Aunque' + 虛擬式 = even if (uncertain)"
+    "explanation": "'Aunque' 加虛擬語氣,表示對不確定或假設的情況讓步。由於會不會下雨並不確定,所以使用現在式虛擬語氣(llueva)。",
+    "hint": "'Aunque' + 虛擬語氣 = 即使(不確定)"
   },
   "q_gram_b2_07_002": {
-    "question": "Aunque María ___ enferma ayer, fue a trabajar. (estar, 陳述式)",
+    "question": "Aunque María ___ enferma ayer, fue a trabajar. (estar, 直陳式)",
     "correct": "estaba",
     "wrong": [
       "estuviera",
       "esté",
       "estaría"
     ],
-    "explanation": "'Aunque' + 陳述式 expresses a concession about a known fact. 由於 María 是 actually 病 (a fact), 未完成過去時 陳述式 (estaba) 是 用過的.",
-    "hint": "'Aunque' + 陳述式 = 儘管 (known fact)"
+    "explanation": "'Aunque' 加直陳式,表示對已知事實讓步。因為 María 昨天確實生病了(是事實),所以使用未完成過去式直陳式(estaba)。",
+    "hint": "'Aunque' + 直陳式 = 雖然(已知事實)"
   },
   "q_gram_b2_07_003": {
-    "question": "如何 does mood (陳述式 vs. 虛擬式) change 含義 的 'aunque'?",
-    "correct": "'Aunque' + indicative means 'although' (stating a fact), while 'aunque' + subjunctive means 'even if' (uncertain or hypothetical)",
+    "question": "語氣(直陳式與虛擬語氣)的不同,會如何改變 'aunque' 的意思?",
+    "correct": "'Aunque' 加直陳式表示「雖然」(陳述事實),而 'aunque' 加虛擬語氣表示「即使」(不確定或假設)",
     "wrong": [
-      "'Aunque' + indicative is for present tense and 'aunque' + subjunctive is for past tense",
-      "'Aunque' + indicative is informal and 'aunque' + subjunctive is formal",
-      "'Aunque' + indicative is for positive statements and 'aunque' + subjunctive is for negative ones"
+      "'Aunque' 加直陳式用於現在時態,'aunque' 加虛擬語氣用於過去時態",
+      "'Aunque' 加直陳式較為口語,'aunque' 加虛擬語氣較為正式",
+      "'Aunque' 加直陳式用於肯定句,'aunque' 加虛擬語氣用於否定句"
     ],
-    "explanation": " choice between 陳述式 和 虛擬式 之後 'aunque' depends on whether 說話者 presents information as a known fact (陳述式) 或 as uncertain/hypothetical (虛擬式)."
+    "explanation": "'aunque' 之後要用直陳式還是虛擬語氣,取決於說話者是把資訊當作已知事實(直陳式),還是不確定/假設的情況(虛擬語氣)。",
+    "hint": null
   },
   "q_gram_b2_07_004": {
-    "question": "Aunque ella no ___ de acuerdo, aceptó la decisión. (estar, past 陳述式, ella form)",
+    "question": "Aunque ella no ___ de acuerdo, aceptó la decisión. (estar, 過去式直陳式, ella 的變位)",
     "correct": "estaba",
     "wrong": [
       "estuviera",
       "esté",
       "estaría"
     ],
-    "explanation": "由於 sentence states a past fact (she 是 not 在 agreement), 陳述式 是 用過的 與 'aunque'. 未完成過去時 estaba describes an ongoing past 狀態.",
-    "conjugation_info": "estar (imperfect indicative): estaba, estabas, estaba, estábamos, estabais, estaban"
+    "explanation": "因為句子陳述的是過去的事實(她並不同意),所以 'aunque' 之後使用直陳式。未完成過去式 estaba 描述的是過去持續的狀態。",
+    "conjugation_info": "estar (imperfect indicative): estaba, estabas, estaba, estábamos, estabais, estaban",
+    "hint": null
   },
   "q_gram_b2_07_005": {
-    "question": "Aunque ___ todo el dinero del mundo, no podría comprar la felicidad. (tener, past 虛擬式)",
+    "question": "Aunque ___ todo el dinero del mundo, no podría comprar la felicidad. (tener, 過去式虛擬語氣)",
     "correct": "tuviera",
     "wrong": [
       "tenía",
       "tendría",
       "tenga"
     ],
-    "explanation": "'Aunque' + past 虛擬式 expresses a hypothetical concession about an unreal present situation. 有 所有 money 在 world 是 clearly hypothetical.",
-    "hint": "這 是 clearly a hypothetical, unreal scenario"
+    "explanation": "'Aunque' 加過去式虛擬語氣,表示對與現實不符的現在情況做假設性的讓步。擁有全世界所有的錢,顯然是假設的情況。",
+    "hint": "這顯然是一個假設、不真實的情境"
   },
   "q_gram_b2_07_006": {
     "question": "Nosotros ___ el proyecto aunque el jefe no lo aprobara. (continuar, 條件式, nosotros form)",
@@ -783,14 +796,15 @@
     "hint": "之後 a 前置詞, 使用 'el/la cual' 或 'el/la que'"
   },
   "q_gram_b2_08_004": {
-    "question": "什麼 是 difference between 'que', 'el cual', 和 'cuyo' as relative pronouns?",
-    "correct": "'Que' is the most common relative pronoun, 'el cual' is used after prepositions or for clarity, and 'cuyo' expresses possession (whose)",
+    "question": "關係代名詞 'que'、'el cual' 和 'cuyo' 有什麼差別?",
+    "correct": "'Que' 是最常見的關係代名詞,'el cual' 用於介系詞之後或為了表達清楚,而 'cuyo' 表示所有關係(……的)",
     "wrong": [
-      "'Que' is for people, 'el cual' is for things, and 'cuyo' is for places",
-      "'Que' is informal, 'el cual' is formal, and 'cuyo' is archaic",
-      "'Que' is for subjects, 'el cual' is for objects, and 'cuyo' is for indirect objects"
+      "'Que' 用於人,'el cual' 用於事物,'cuyo' 用於地點",
+      "'Que' 是口語用法,'el cual' 是正式用法,'cuyo' 則是古語",
+      "'Que' 用於主詞,'el cual' 用於受詞,'cuyo' 用於間接受詞"
     ],
-    "explanation": "'Que' 是 default relative 代詞. 'El cual/la cual' 是 preferred 之後 前置詞 或 什麼時候 clarifying which antecedent 是 referred 到. 'Cuyo' functions as a possessive 形容詞 含義 'whose'."
+    "explanation": "'Que' 是預設的關係代名詞。'El cual/la cual' 適合用在介系詞之後,或需要釐清所指的先行詞時。'Cuyo' 的作用相當於所有格形容詞,意思是「……的」。",
+    "hint": null
   },
   "q_gram_b2_08_005": {
     "question": "Las razones por ___ dimitió el director no están claras. (relative 代詞 之後 'por', 複數)",
@@ -815,14 +829,15 @@
     "hint": "'Cuyo' 與名詞一致 那 follows 它, not antecedent"
   },
   "q_gram_b2_08_007": {
-    "question": " city 在 which we met 有 changed a lot.",
+    "question": "我們相遇的那座城市變了很多。",
     "correct": "La ciudad en la cual nos conocimos ha cambiado mucho.",
     "wrong": [
       "La ciudad en que nos conocíamos ha cambiado mucho.",
       "La ciudad cuya nos conocimos ha cambiado mucho.",
       "La ciudad la cual nos conocimos ha cambiado mucho."
     ],
-    "explanation": "'En la cual' (在 which) 是 正式 relative 代詞 construction 之後 a 前置詞. 'La cual' agrees 與 'ciudad' (女性 單數). 簡單過去時 'conocimos' 是 用過的 爲 specific past event."
+    "explanation": "'En la cual'(在……之中)是介系詞之後正式的關係代名詞結構。'La cual' 與 'ciudad'(陰性單數)性數一致。簡單過去式 'conocimos' 用於特定的過去事件。",
+    "hint": null
   },
   "q_gram_b2_08_008": {
     "question": "El autor ___ novela ganó el premio es de Colombia. (cuyo, agreeing 與 'novela')",
@@ -879,14 +894,15 @@
     "hint": "'Lo + 形容詞 + que' = 如何 [形容詞] something 是"
   },
   "q_gram_b2_09_003": {
-    "question": "什麼 does construction 'lo que' 表示, 和 如何 是 它 used?",
-    "correct": "'Lo que' means 'what' or 'that which' and introduces a noun clause referring to an abstract idea or an entire concept",
+    "question": "'lo que' 這個結構是什麼意思?該如何使用?",
+    "correct": "'Lo que' 意思是「……的東西/事情」,用來引導名詞子句,指稱抽象的概念或整個想法",
     "wrong": [
-      "'Lo que' means 'how much' and is used to express quantity",
-      "'Lo que' means 'the one who' and refers to a specific person",
-      "'Lo que' means 'which one' and is used in questions only"
+      "'Lo que' 意思是「多少」,用來表示數量",
+      "'Lo que' 意思是「……的那個人」,指稱特定的人",
+      "'Lo que' 意思是「哪一個」,只用於疑問句"
     ],
-    "explanation": "'Lo que' nominalizes an entire clause: 'lo que quiero' = '什麼 I want / 那 which I want'. 它 可以 function as subject 或 object 和 指 abstract concepts rather than specific 名詞."
+    "explanation": "'Lo que' 把整個子句名詞化:'lo que quiero' =「我想要的(東西)」。它可以作主詞或受詞,指稱的是抽象概念,而非特定的名詞。",
+    "hint": null
   },
   "q_gram_b2_09_004": {
     "question": "Lo que necesitamos ___ más tiempo para terminar el proyecto. (ser, 現在陳述式, 3rd 人)",
@@ -955,13 +971,14 @@
   },
   "q_gram_b2_09_010": {
     "question": "Lo que no me esperaba era que cancelaran el vuelo sin previo aviso.",
-    "correct": "What I did not expect was that they would cancel the flight without prior notice.",
+    "correct": "我沒料到的是,他們竟然沒有事先通知就取消了航班。",
     "wrong": [
-      "The thing I was not expecting was that they canceled the flight without previous notice.",
-      "What I am not expecting is that they cancel the flight without notice.",
-      "Which I did not expect was that they would cancel the flight without prior notice."
+      "我沒預期到的事情是,他們沒有事先通知就把航班取消了。",
+      "我現在沒有預期到的是,他們沒有通知就取消航班。",
+      "我沒料到的那個,是他們竟然沒有事先通知就取消了航班。"
     ],
-    "explanation": "'Lo que' 意思是 '什麼' (那 which). 'No me esperaba' 是 在 未完成過去時 (ongoing past expectation). 'Cancelaran' 是 past 虛擬式 因爲 它 follows a 名詞 clause expressing an unexpected event."
+    "explanation": "'Lo que' 意思是「……的事情」。'No me esperaba' 用未完成過去式(過去持續的預期)。'Cancelaran' 是過去式虛擬語氣,因為它接在表達意外事件的名詞子句之後。",
+    "hint": null
   },
   "q_gram_b2_10_001": {
     "question": "Quería ir al concierto; ___, no pude conseguir entradas. (discourse connector: 然而)",
@@ -1007,15 +1024,16 @@
     "explanation": "Discourse connectors (conectores del discurso) organize text 由 showing relationships between ideas: contrast (sin embargo), consequence (por lo tanto), replacement (en cambio), addition (además), etc."
   },
   "q_gram_b2_10_005": {
-    "question": "No me gusta el frío. ___, me gusta la nieve en invierno. (connector: despite 那, yo context)",
+    "question": "No me gusta el frío. ___, me gusta la nieve en invierno. (連接詞:儘管如此, yo 的語境)",
     "correct": "A pesar de eso",
     "wrong": [
       "Por lo tanto",
       "En conclusión",
       "Es decir"
     ],
-    "explanation": "'A pesar de eso' 意思是 'despite 那' 和 introduces a concessive idea. 說話者 dislikes 冷 但是 likes snow, which 是 a partial contradiction.",
-    "conjugation_info": "Concessive connectors: sin embargo, no obstante, a pesar de eso, con todo, aun así"
+    "explanation": "'A pesar de eso' 意思是「儘管如此」,用來引出讓步的想法。說話者不喜歡寒冷,卻喜歡冬天的雪,這在某種程度上是矛盾的。",
+    "conjugation_info": "Concessive connectors: sin embargo, no obstante, a pesar de eso, con todo, aun así",
+    "hint": null
   },
   "q_gram_b2_10_006": {
     "question": "Estudió mucho para el examen; ___, aprobó con la mejor nota de la clase. (consequence connector)",
@@ -1052,13 +1070,14 @@
   },
   "q_gram_b2_10_009": {
     "question": "La situación económica es difícil; no obstante, la empresa sigue creciendo.",
-    "correct": "The economic situation is difficult; nevertheless, the company continues to grow.",
+    "correct": "經濟情勢艱難,然而公司仍持續成長。",
     "wrong": [
-      "The economic situation is difficult; therefore, the company continues to grow.",
-      "The economic situation is difficult; that is, the company continues to grow.",
-      "The economic situation is difficult; on the other hand, the company continues to grow."
+      "經濟情勢艱難,因此公司仍持續成長。",
+      "經濟情勢艱難,也就是說公司仍持續成長。",
+      "經濟情勢艱難,另一方面公司仍持續成長。"
     ],
-    "explanation": "'No obstante' 意思是 'nevertheless/然而' 和 introduces a contrasting result. Despite difficult economics, company 是 still growing, which defies expectations."
+    "explanation": "'No obstante' 意思是「然而、儘管如此」,用來引出對比的結果。儘管經濟困難,公司仍在成長,這與預期相反。",
+    "hint": null
   },
   "q_gram_b2_10_010": {
     "question": "La propuesta fue aprobada. ___, debemos empezar a implementarla cuanto antes. (consequence connector, nosotros context)",
@@ -1116,15 +1135,15 @@
     "conjugation_info": "ponerse (preterite): me puse, te pusiste, se puso, nos pusimos, os pusisteis, se pusieron"
   },
   "q_gram_b2_11_005": {
-    "question": "Mi abuelo ___ viviendo en el mismo pueblo desde hace 60 años. (llevar + 副動詞, present)",
+    "question": "Mi abuelo ___ viviendo en el mismo pueblo desde hace 60 años. (llevar + 副動詞, 現在式)",
     "correct": "lleva",
     "wrong": [
       "está",
       "sigue",
       "viene"
     ],
-    "explanation": "'Llevar + 動名詞' expresses duration 的 an ongoing action. 'Lleva viviendo' + 時間 = '有 been living 爲'. 它 emphasizes accumulated duration.",
-    "hint": "'Llevar + 動名詞' = 到 有 been 做 something 爲 [時間]"
+    "explanation": "'Llevar + 副動詞' 表示持續進行的動作所經過的時間。'Lleva viviendo' + 時間 =「已經住了……」,強調累積的時間長度。",
+    "hint": "'Llevar + 副動詞' = 做某事已經持續了[一段時間]"
   },
   "q_gram_b2_11_006": {
     "question": "Ella ___ de fumar el año pasado y ahora se siente mucho mejor. (dejar de + 不定式, 簡單過去時, ella form)",
@@ -1149,14 +1168,15 @@
     "hint": "'Llevar' 是 關鍵 動詞 爲 duration 與 ongoing actions"
   },
   "q_gram_b2_11_008": {
-    "question": "She suddenly started crying 什麼時候 she heard news.",
+    "question": "她一聽到這個消息,就突然哭了起來。",
     "correct": "Ella se puso a llorar cuando escuchó la noticia.",
     "wrong": [
       "Ella empezó a llorar cuando escuchaba la noticia.",
       "Ella dejó de llorar cuando escuchó la noticia.",
       "Ella volvió a llorar cuando escuchó la noticia."
     ],
-    "explanation": "'Ponerse a + 不定式' 意思是 '到 suddenly start 做 something', which captures abruptness 的 crying. 簡單過去時 'se puso' 表示 a specific moment 的 sudden beginning."
+    "explanation": "'Ponerse a + 原形動詞' 意思是「突然開始做某事」,正好呼應哭泣的突然性。簡單過去式 'se puso' 表示突然開始的那個特定時刻。",
+    "hint": null
   },
   "q_gram_b2_11_009": {
     "question": "Tú ___ a cometer los mismos errores si no cambias de actitud. (volver a + 不定式, future, tú form)",
@@ -1213,14 +1233,15 @@
     "hint": "Two languages = 複數 subject"
   },
   "q_gram_b2_12_004": {
-    "question": "什麼 是 difference between passive se 和 impersonal se 在西班牙語中?",
-    "correct": "Passive se has an identifiable grammatical subject and the verb agrees with it, while impersonal se has no subject and the verb is always 3rd person singular",
+    "question": "西班牙語中,被動 se 和無人稱 se 有什麼差別?",
+    "correct": "被動 se 有可辨識的語法主詞,動詞要與它一致;無人稱 se 則沒有主詞,動詞永遠是第三人稱單數",
     "wrong": [
-      "Passive se is used only in writing, while impersonal se is used only in speech",
-      "Passive se uses the subjunctive, while impersonal se uses the indicative",
-      "There is no difference; they are two names for the same construction"
+      "被動 se 只用於書面,無人稱 se 只用於口語",
+      "被動 se 使用虛擬語氣,無人稱 se 使用直陳式",
+      "沒有差別,它們只是同一種結構的兩個名稱"
     ],
-    "explanation": "Passive se: 'Se venden casas' (houses 是 sold — 'casas' 是 主語, 動詞 是 複數). Impersonal se: 'Se vive bien aquí' (one lives well 這裡 — no subject, 動詞 stays 單數)."
+    "explanation": "被動 se:'Se venden casas'(房子被販售——'casas' 是主詞,動詞為複數)。無人稱 se:'Se vive bien aquí'(在這裡生活得很好——沒有主詞,動詞維持單數)。",
+    "hint": null
   },
   "q_gram_b2_12_005": {
     "question": "En la universidad ___ materias muy variadas. (ofrecer, passive se, present, 3rd 人 複數)",
@@ -1341,15 +1362,16 @@
     "hint": " 說話者 是 uncertain whether such a 人稱 exists"
   },
   "q_gram_b2_13_006": {
-    "question": "La empresa quiere contratar a alguien que ___ experiencia en inteligencia artificial. (tener, 現在虛擬式, 3rd 人 單數)",
+    "question": "La empresa quiere contratar a alguien que ___ experiencia en inteligencia artificial. (tener, 現在式虛擬語氣, 第三人稱單數)",
     "correct": "tenga",
     "wrong": [
       "tiene",
       "tendría",
       "tuviera"
     ],
-    "explanation": " 虛擬式 是 用過的 之後 'alguien que' 因爲 人稱 hasn't been identified yet. company 是 looking 爲 someone 誰 may 或 may not exist.",
-    "conjugation_info": "tener (present subjunctive): tenga, tengas, tenga, tengamos, tengáis, tengan"
+    "explanation": "'alguien que' 之後要用虛擬語氣,因為這個人還沒有確定是誰。公司在找的人可能存在,也可能不存在。",
+    "conjugation_info": "tener (present subjunctive): tenga, tengas, tenga, tengamos, tengáis, tengan",
+    "hint": null
   },
   "q_gram_b2_13_007": {
     "question": "Quiero comprar una casa que ___ jardín y que ___ en un barrio tranquilo. (tener, estar, 現在虛擬式)",
@@ -1385,13 +1407,14 @@
   },
   "q_gram_b2_13_010": {
     "question": "Necesitamos empleados que sean responsables y que tengan iniciativa.",
-    "correct": "We need employees who are responsible and who have initiative.",
+    "correct": "我們需要有責任感又有主動性的員工。",
     "wrong": [
-      "We need employees who would be responsible and who would have initiative.",
-      "We needed employees who were responsible and who had initiative.",
-      "We need employees that are being responsible and having initiative."
+      "我們需要會有責任感又會有主動性的員工。",
+      "我們當時需要有責任感又有主動性的員工。",
+      "我們需要正在表現得有責任感又正在展現主動性的員工。"
     ],
-    "explanation": "'Sean' 和 'tengan' 是 現在虛擬式 因爲 employees 有 not yet been found (hypothetical antecedent). 在 英語, 陳述式 是 用過的 在 translation 由於 英語 做 not distinguish 這 心情 在 relative clauses."
+    "explanation": "'Sean' 和 'tengan' 是現在式虛擬語氣,因為還沒找到這些員工(先行詞是假設性的)。中文翻譯時不區分關係子句中的語氣,所以直接用一般說法表達。",
+    "hint": null
   },
   "q_gram_b2_14_001": {
     "question": "Él habla como si ___ nativo. (ser,過去式虛擬式,él 變位)",
@@ -1406,15 +1429,15 @@
     "hint": null
   },
   "q_gram_b2_14_002": {
-    "question": "Ella gasta dinero como si ___ millonaria. (ser, past 虛擬式)",
+    "question": "Ella gasta dinero como si ___ millonaria. (ser, 過去式虛擬語氣)",
     "correct": "fuera",
     "wrong": [
       "es",
       "sería",
       "sea"
     ],
-    "explanation": "'Como si' 總是 triggers past 虛擬式 regardless 的 tense 的 main 動詞. 'Fuera' expresses an unreal comparison: she spends as if she 是 a millionaire (但是 she 是 not).",
-    "hint": "'Como si' 總是 需要 past 虛擬式"
+    "explanation": "無論主要動詞是什麼時態,'Como si' 都一律要用過去式虛擬語氣。'Fuera' 表達不真實的比較:她花錢的樣子好像是個百萬富翁(但其實不是)。",
+    "hint": "'Como si' 一律要用過去式虛擬語氣"
   },
   "q_gram_b2_14_003": {
     "question": "Los niños corrían como si los ___ un perro. (perseguir, past 虛擬式)",
@@ -1534,15 +1557,16 @@
     "explanation": "Emphatic constructions restructure a sentence 到 bring focus 到 a specific element. 'Lo que quiero es descansar' emphasizes 'descansar'. 'Es Juan quien lo hizo' emphasizes 'Juan'. 'Sí que lo hice' emphatically confirms action."
   },
   "q_gram_b2_15_004": {
-    "question": "Lo que necesitamos ___ más inversión en educación. (ser, present, 爲 emphatic focus)",
+    "question": "Lo que necesitamos ___ más inversión en educación. (ser, 現在式, 用於強調焦點)",
     "correct": "es",
     "wrong": [
       "son",
       "sea",
       "está"
     ],
-    "explanation": "在 emphatic cleft 'Lo que + clause + ser + focused element', 'ser' agrees 與 nominalized clause 'lo que', which 是 單數. 'Es' links two parts.",
-    "conjugation_info": "ser (現在陳述式): soy, eres, es, somos, sois, son"
+    "explanation": "在強調分裂句 'Lo que + 子句 + ser + 焦點成分' 中,'ser' 與名詞化的子句 'lo que' 一致,而它是單數。'Es' 連接前後兩個部分。",
+    "conjugation_info": "ser (現在陳述式): soy, eres, es, somos, sois, son",
+    "hint": null
   },
   "q_gram_b2_15_005": {
     "question": "___ María quien resolvió el problema, no Pedro. (emphatic cleft 與 ser)",
@@ -1642,14 +1666,15 @@
     "hint": " 第一 clause 是 affirmative, not negative"
   },
   "q_gram_b2_16_004": {
-    "question": "什麼 是 key difference between 'sino' 和 'pero' 在西班牙語中?",
-    "correct": "'Sino' is used after a negative statement to introduce a direct correction or replacement, while 'pero' introduces a contrast or limitation without direct replacement",
+    "question": "西班牙語中「sino」和「pero」的主要差異是什麼?",
+    "correct": "「Sino」用在否定句之後,引出直接的更正或替代;「pero」則引出對比或限制,不含直接替代的意思",
     "wrong": [
-      "'Sino' is formal and 'pero' is informal",
-      "'Sino' is used with nouns and 'pero' is used with verbs",
-      "'Sino' expresses cause and 'pero' expresses consequence"
+      "「Sino」較正式,「pero」較口語",
+      "「Sino」搭配名詞,「pero」搭配動詞",
+      "「Sino」表示原因,「pero」表示結果"
     ],
-    "explanation": "'Sino' 需要 a preceding negative 和 introduces 什麼 是 true instead (No A sino B). 'Pero' simply adds a contrasting 或 limiting idea 和 可以 follow affirmative 或 negative statements."
+    "explanation": "「Sino」前面必須有否定,並引出實際上為真的內容(No A sino B,不是 A 而是 B)。「Pero」只是補充一個對比或限制的想法,可以接在肯定句或否定句之後。",
+    "hint": null
   },
   "q_gram_b2_16_005": {
     "question": "No solo habla español ___ también francés e italiano. (sino/pero, 爲 'not 只... 但是 也')",
@@ -1716,36 +1741,37 @@
     "conjugation_info": "Extended pattern: no solo + clause, sino que además + clause (not 僅... but also/moreover)"
   },
   "q_gram_b2_17_001": {
-    "question": "Quiero que tú ___ a la fiesta esta noche. (venir, 現在虛擬式)",
+    "question": "Quiero que tú ___ a la fiesta esta noche. (venir,現在虛擬式)",
     "correct": "vengas",
     "wrong": [
       "vinieras",
       "vienes",
       "vendrías"
     ],
-    "explanation": "什麼時候 main 動詞 是 在 present tense (quiero), subordinate clause uses 現在虛擬式 (vengas) according 到 sequence 的 tenses. Present → 現在虛擬式.",
-    "hint": "Main 動詞 present tense → subordinate 現在虛擬式"
+    "explanation": "當主要動詞是現在式(quiero)時,依照時態呼應規則,從屬子句要用現在虛擬式(vengas)。現在式 → 現在虛擬式。",
+    "hint": "主要動詞為現在式 → 從屬子句用現在虛擬式"
   },
   "q_gram_b2_17_002": {
-    "question": "El profesor pidió que los estudiantes ___ el ensayo para el viernes. (entregar, past 虛擬式)",
+    "question": "El profesor pidió que los estudiantes ___ el ensayo para el viernes. (entregar,過去虛擬式)",
     "correct": "entregaran",
     "wrong": [
       "entreguen",
       "entregaban",
       "entregarían"
     ],
-    "explanation": "什麼時候 main 動詞 是 在 past tense (pidió, 簡單過去時), subordinate clause uses past 虛擬式 (entregaran). Past → Past 虛擬式.",
-    "hint": "Main 動詞 past tense → subordinate past 虛擬式"
+    "explanation": "當主要動詞是過去時態(pidió,簡單過去式)時,從屬子句要用過去虛擬式(entregaran)。過去式 → 過去虛擬式。",
+    "hint": "主要動詞為過去式 → 從屬子句用過去虛擬式"
   },
   "q_gram_b2_17_003": {
-    "question": "什麼 是 規則 的 sequence 的 tenses (concordancia temporal) 爲 虛擬式 在西班牙語中?",
-    "correct": "Present/future/present perfect main verb → present subjunctive; past main verb (preterite, imperfect, pluperfect, conditional) → past subjunctive",
+    "question": "西班牙語中虛擬式的時態呼應規則(concordancia temporal)是什麼?",
+    "correct": "主要動詞為現在式/未來式/現在完成式 → 用現在虛擬式;主要動詞為過去時態(簡單過去式、未完成過去式、過去完成式、條件式)→ 用過去虛擬式",
     "wrong": [
-      "The subjunctive always matches the exact tense of the main verb",
-      "Present main verb → past subjunctive; past main verb → present subjunctive",
-      "There is no fixed rule; any subjunctive tense can follow any main verb tense"
+      "虛擬式的時態一律要與主要動詞的時態完全相同",
+      "主要動詞為現在式 → 用過去虛擬式;主要動詞為過去式 → 用現在虛擬式",
+      "沒有固定規則;任何虛擬式時態都可以接在任何主要動詞時態之後"
     ],
-    "explanation": " sequence 的 tenses governs which 虛擬式 tense follows main 動詞. Present-sphere 動詞 trigger 現在虛擬式; past-sphere 動詞 trigger past 虛擬式 (過去虛擬式)."
+    "explanation": "時態呼應規則決定主要動詞之後該接哪一種虛擬式時態。屬於現在範疇的動詞要接現在虛擬式;屬於過去範疇的動詞則要接過去虛擬式(未完成虛擬式)。",
+    "hint": null
   },
   "q_gram_b2_17_004": {
     "question": "Dudaba que ella ___ la verdad. (decir, past 虛擬式, ella form)",
@@ -1845,15 +1871,15 @@
     "hint": "'La razón por la que' = reason why"
   },
   "q_gram_b2_18_003": {
-    "question": "El amigo ___ quien fui al cine es de Argentina. (preposition + relative 代詞 爲 人們)",
+    "question": "El amigo ___ quien fui al cine es de Argentina. (介系詞 + 指人的關係代名詞)",
     "correct": "con",
     "wrong": [
       "por",
       "de",
       "para"
     ],
-    "explanation": "'Con quien' 意思是 '與 whom' 和 是 用過的 爲 人們 之後 前置詞 'con'. 'El amigo con quien fui' = ' friend 與 whom I went'.",
-    "hint": "Which 前置詞 意思是 '與'?"
+    "explanation": "「Con quien」意思是「與……(某人)一起」,用於指人,且前面要加介系詞「con」。「El amigo con quien fui」=「和我一起去的那位朋友」。",
+    "hint": "哪個介系詞表示「與、和」?"
   },
   "q_gram_b2_18_004": {
     "question": "什麼時候 do 你 use 'preposition + el/la que' versus 'preposition + quien' 在 relative clauses?",
@@ -1888,14 +1914,15 @@
     "hint": "哪個介系詞表示地點(在……)?"
   },
   "q_gram_b2_18_007": {
-    "question": " book about which we spoke 是 非常 interesting.",
+    "question": "我們談論的那本書非常有趣。",
     "correct": "El libro del que hablamos es muy interesante.",
     "wrong": [
       "El libro que del hablamos es muy interesante.",
       "El libro sobre quien hablamos es muy interesante.",
       "El libro de que hablamos es muy interesante."
     ],
-    "explanation": "'Hablar de algo' (到 talk about something) 需要 前置詞 'de'. Combined 與 relative 代詞: 'del que' (de + el que). 'El libro del que hablamos' = ' book about which we spoke'."
+    "explanation": "「Hablar de algo」(談論某事)需要介系詞「de」。與關係代名詞結合後變成「del que」(de + el que)。「El libro del que hablamos」=「我們談論的那本書」。",
+    "hint": null
   },
   "q_gram_b2_18_008": {
     "question": "La empresa ___ la que trabajo ofrece buenos beneficios. (preposition + relative, '爲' 在 sense 的 employment)",

@@ -40,14 +40,15 @@
     "explanation": "'Pasaporte' es el/la official travel document needed a enter another country."
   },
   "q_vocab_a2_01_005": {
-    "question": "¿Qué significa 'reserva' en the context de travel?",
-    "correct": "reservation",
+    "question": "¿Qué significa 'reserva' en el contexto de los viajes?",
+    "correct": "apartar con antelación un hotel, un vuelo o una mesa",
     "wrong": [
-      "receipt",
-      "refund",
-      "departure"
+      "comprobante de pago",
+      "devolución de dinero",
+      "salida de un viaje"
     ],
-    "explanation": "'Reserva' significa 'reservation' o 'booking'. Tú hacer a 'reserva' en a hotel o restaurant."
+    "explanation": "'Reserva' es apartar con antelación una plaza o un servicio. Haces una 'reserva' en un hotel o en un restaurante.",
+    "hint": null
   },
   "q_vocab_a2_01_006": {
     "question": "I want a book a hotel room.",
@@ -208,14 +209,15 @@
     "hint": null
   },
   "q_vocab_a2_03_001": {
-    "question": "¿Qué significa 'partido' en the context de sports?",
-    "correct": "match/game",
+    "question": "¿Qué significa 'partido' en el contexto del deporte?",
+    "correct": "encuentro deportivo entre equipos o jugadores",
     "wrong": [
-      "team",
-      "score",
-      "stadium"
+      "conjunto de jugadores",
+      "resultado o marcador",
+      "recinto deportivo"
     ],
-    "explanation": "'Partido' significa 'match' o 'game' en sports. Por ejemplo, 'un partido de fútbol' es a football match."
+    "explanation": "'Partido' es un encuentro deportivo en el que compiten equipos o jugadores. Por ejemplo, 'un partido de fútbol' es un encuentro de fútbol.",
+    "hint": null
   },
   "q_vocab_a2_03_002": {
     "question": "¿Qué significa 'equipo' en 'Mi equipo favorito ganó el partido'?",
@@ -258,14 +260,15 @@
     "explanation": "'Ganar' significa 'a win'. El/la opposite es 'perder' (a lose). El/la sentence significa 'Our team es going a win el/la final.'"
   },
   "q_vocab_a2_03_006": {
-    "question": "En weekends I como a run en the park.",
+    "question": "Los fines de semana me gusta correr en el parque.",
     "correct": "Los fines de semana me gusta correr en el parque.",
     "wrong": [
       "Los fines de semana me gusta nadar en el parque.",
       "Los fines de semana me gusta jugar en el parque.",
       "Los fines de semana me gusta bailar en el parque."
     ],
-    "explanation": "'Correr' significa 'a run'. 'Me gusta' seguido de an infinitivo expresa qué tú como para hacer."
+    "explanation": "'Correr' es desplazarse a pie a gran velocidad. 'Me gusta' seguido de un infinitivo expresa lo que te gusta hacer.",
+    "hint": null
   },
   "q_vocab_a2_03_007": {
     "question": "¿Qué significa 'practicar' en 'Quiero practicar tenis este verano'?",
@@ -466,14 +469,15 @@
     "explanation": "'Recomendar' significa 'a recommend'. El/la pregunta '¿Qué me recomienda?' significa 'Qué do tú recommend?' using el/la formal 'usted' form."
   },
   "q_vocab_a2_05_006": {
-    "question": "I would como a order the grilled chicken, por favor.",
+    "question": "Quiero pedir el pollo a la plancha, por favor.",
     "correct": "Quiero pedir el pollo a la plancha, por favor.",
     "wrong": [
       "Quiero recomendar el pollo a la plancha, por favor.",
       "Quiero traer el pollo a la plancha, por favor.",
       "Quiero cocinar el pollo a la plancha, por favor."
     ],
-    "explanation": "'Pedir' significa 'a order' en a restaurant. 'Pollo a la plancha' significa 'grilled chicken'."
+    "explanation": "'Pedir' es lo que haces cuando encargas un plato en un restaurante. 'Pollo a la plancha' es pollo cocinado sobre una superficie metálica caliente, sin apenas aceite.",
+    "hint": null
   },
   "q_vocab_a2_05_007": {
     "question": "¿Qué significa 'menú' en '¿Tiene el menú del día?'?",
@@ -790,15 +794,16 @@
     "explanation": "'Teclado' significa 'keyboard'. Ello viene de 'tecla' (key). El/la sentence significa 'Esto keyboard no work well.'"
   },
   "q_vocab_a2_08_007": {
-    "question": "You want a show a friend a website. What ¿ decir?",
+    "question": "Quieres enseñarle un sitio web a un amigo. ¿Qué dices?",
     "correct": "Mira esta página web, es muy interesante.",
     "wrong": [
       "Descarga esta aplicación, es muy interesante.",
       "Envía este correo, es muy interesante.",
       "Escribe esta contraseña, es muy interesante."
     ],
-    "explanation": "'Página web' significa 'webpage' o 'website'. 'Mira' es el/la informal imperativo de 'mirar' (a look).",
-    "context": "Showing a friend something interesting on the internet"
+    "explanation": "'Página web' es una página de un sitio de internet. 'Mira' es el imperativo informal de 'mirar'.",
+    "context": "Showing a friend something interesting on the internet",
+    "hint": null
   },
   "q_vocab_a2_08_008": {
     "question": "¿Qué significa 'móvil' en 'He perdido mi móvil'?",
@@ -1042,14 +1047,15 @@
     "hint": null
   },
   "q_vocab_a2_11_001": {
-    "question": "¿Qué significa 'alto' mean when describing a person?",
-    "correct": "tall",
+    "question": "¿Qué significa 'alto' cuando se describe a una persona?",
+    "correct": "de gran estatura",
     "wrong": [
-      "short",
-      "thin",
-      "strong"
+      "de poca estatura",
+      "delgado",
+      "fuerte"
     ],
-    "explanation": "'Alto' significa 'tall' cuando describing a persona. El/la opposite es 'bajo' (short)."
+    "explanation": "'Alto' describe a una persona de gran estatura. Lo contrario es 'bajo' (de poca estatura).",
+    "hint": null
   },
   "q_vocab_a2_11_002": {
     "question": "¿Qué significa 'delgado' ?",
@@ -1207,15 +1213,16 @@
     "explanation": "'Generoso/a' significa 'generous'. El/la sentence significa 'My grandmother es muy generous with todos.'"
   },
   "q_vocab_a2_12_007": {
-    "question": "Your friend is always making people laugh. How would you describe them?",
+    "question": "Tu amigo siempre hace reír a la gente. ¿Cómo lo describirías?",
     "correct": "Es muy divertido, siempre nos hace reír.",
     "wrong": [
       "Es muy serio, siempre nos hace reír.",
       "Es muy tímido, siempre nos hace reír.",
       "Es muy antipático, siempre nos hace reír."
     ],
-    "explanation": "'Divertido' significa 'funny' o 'entertaining'. 'Hacer reír' significa 'para hacer laugh'.",
-    "context": "Describing a friend's personality to someone new"
+    "explanation": "'Divertido' describe a alguien gracioso o que entretiene. 'Hacer reír' significa provocar la risa en otros.",
+    "context": "Describing a friend's personality to someone new",
+    "hint": null
   },
   "q_vocab_a2_12_008": {
     "question": "¿Qué significa 'optimista' en 'Siempre soy optimista sobre el futuro'?",
@@ -1508,14 +1515,15 @@
     "explanation": "'Divertirse' significa 'para tener fun'. Ello es a verbo reflexivo. El/la sentence significa 'We tenía a lot de fun en el/la party.'"
   },
   "q_vocab_a2_15_006": {
-    "question": "En my free time I como para ir a the cinema.",
+    "question": "En mi tiempo libre me gusta ir al cine.",
     "correct": "En mi tiempo libre me gusta ir al cine.",
     "wrong": [
       "En mi tiempo libre me gusta ir al trabajo.",
       "En mi tiempo libre me gusta ir al banco.",
       "En mi tiempo libre me gusta ir al hospital."
     ],
-    "explanation": "'Tiempo libre' significa 'free tiempo'. 'Cine' significa 'cinema'. 'Ir al cine' es a común leisure activity."
+    "explanation": "'Tiempo libre' es el tiempo del que dispones fuera de tus obligaciones. 'Ir al cine' es una actividad de ocio muy habitual.",
+    "hint": null
   },
   "q_vocab_a2_15_007": {
     "question": "¿Qué significa 'aburrirse' en 'Me aburro cuando no tengo nada que hacer'?",
@@ -1538,15 +1546,16 @@
     "explanation": "'Película de terror' significa 'horror movie'. 'Pasarlo mal' significa 'para tener a malo tiempo'. El/la opposite es 'pasarlo bien'."
   },
   "q_vocab_a2_15_009": {
-    "question": "Your friend suggests going a a concert this fin de semana. You want a accept enthusiastically. What ¿ decir?",
+    "question": "Tu amigo te propone ir a un concierto este fin de semana. Quieres aceptar con entusiasmo. ¿Qué dices?",
     "correct": "¡Genial! Me encanta la música en vivo. ¡Vamos!",
     "wrong": [
       "¡Qué aburrido! No me gusta la música. Prefiero quedarme en casa.",
       "Bueno, vale, pero prefiero ir al cine.",
       "No sé, los conciertos son muy caros."
     ],
-    "explanation": "'¡Genial!' significa 'Great!'. 'Música en vivo' significa 'live music'. '¡Vamos!' significa 'Let's ir!'",
-    "context": "A friend invites you to a weekend concert"
+    "explanation": "'¡Genial!' expresa entusiasmo, como \"¡Estupendo!\". 'Música en vivo' es la música que se interpreta en directo. '¡Vamos!' equivale a \"¡Vámonos!\" o \"¡Vayamos!\".",
+    "context": "A friend invites you to a weekend concert",
+    "hint": null
   },
   "q_vocab_a2_15_010": {
     "question": "Has tenido un fin de semana estupendo haciendo actividades divertidas con amigos y quieres contárselo a un compañero de trabajo el lunes. ¿Qué dices?",

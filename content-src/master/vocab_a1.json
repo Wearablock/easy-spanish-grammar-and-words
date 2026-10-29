@@ -85,7 +85,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "12/15",
+    "votes": "11/15",
     "spanish": [
       "lo siento"
     ],
@@ -124,7 +124,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "12/13",
+    "votes": "11/15",
     "spanish": [
       "de nada"
     ],
@@ -132,11 +132,12 @@
       "question": "What does 'de nada' mean in '¡Gracias! — De nada.'?",
       "correct": "you're welcome",
       "wrong": [
-        "of course",
-        "no problem",
-        "goodbye"
+        "excuse me",
+        "good night",
+        "see you later"
       ],
-      "explanation": "'De nada' literally translates to 'of nothing' and is the standard response to 'gracias'."
+      "explanation": "'De nada' literally translates to 'of nothing' and is the standard response to 'gracias'.",
+      "hint": null
     }
   },
   "q_vocab_a1_01_008": {
@@ -301,7 +302,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "12/15",
     "spanish": [
       "esposa"
     ],
@@ -313,7 +314,8 @@
         "friend",
         "sister"
       ],
-      "explanation": "'Esposa' means 'wife'. 'Esposo' means 'husband'. These are formal terms for a married partner."
+      "explanation": "'Esposa' means 'wife'. 'Esposo' means 'husband'. In everyday speech people also say 'mujer' (wife) and 'marido' (husband).",
+      "hint": null
     }
   },
   "q_vocab_a1_02_007": {
@@ -338,7 +340,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "12/15",
     "spanish": [
       "primo"
     ],
@@ -377,9 +379,9 @@
     "type": "context",
     "translation_dir": null,
     "ref": "en",
-    "votes": "1/1",
+    "votes": "1/3",
     "spanish": [
-      "moro com meus pais"
+      "ich wohne bei meinen eltern"
     ],
     "entry": {
       "question": "Your neighbor asks about your family. How do you say 'I live with my parents'?",
@@ -416,7 +418,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "11/15",
     "spanish": [
       "mañana"
     ],
@@ -479,7 +481,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "12/15",
     "spanish": [
       "en punto"
     ],
@@ -518,7 +520,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "12/15",
     "spanish": [
       "tarde"
     ],
@@ -528,9 +530,10 @@
       "wrong": [
         "morning",
         "night",
-        "evening"
+        "noon"
       ],
-      "explanation": "'Tarde' means 'afternoon'. 'Buenas tardes' is used roughly from noon until sunset."
+      "explanation": "'Tarde' means 'afternoon'. 'Buenas tardes' is used roughly from noon until sunset.",
+      "hint": null
     }
   },
   "q_vocab_a1_03_008": {
@@ -575,9 +578,9 @@
     "type": "context",
     "translation_dir": null,
     "ref": "en",
-    "votes": "1/3",
+    "votes": "1/5",
     "spanish": [
-      "i wake up en seven en the morning"
+      "ich wache um sieben uhr morgens auf"
     ],
     "entry": {
       "question": "Your friend asks when you usually wake up. How do you say 'I wake up at seven in the morning'?",
@@ -697,7 +700,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "12/15",
     "spanish": [
       "primavera"
     ],
@@ -734,7 +737,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "12/15",
     "spanish": [
       "invierno"
     ],
@@ -750,23 +753,29 @@
     }
   },
   "q_vocab_a1_04_009": {
-    "type": "translation",
-    "translation_dir": "es_to_ko",
-    "spanish_side": "question",
+    "type": "fill_blank",
+    "translation_dir": null,
     "ref": "en",
-    "votes": "70%+",
+    "votes": "8/15",
     "spanish": [
-      "hoy es viernes. mañana es ___."
+      "hoy es viernes. mañana es ___.",
+      "today is friday. tomorrow is saturday.",
+      [
+        "today is friday. tomorrow is sunday.",
+        "today is friday. tomorrow is thursday.",
+        "today is thursday. tomorrow is friday."
+      ]
     ],
     "entry": {
       "question": "Hoy es viernes. Mañana es ___.",
-      "correct": "Today is Friday. Tomorrow is Saturday.",
+      "correct": "sábado",
       "wrong": [
-        "Today is Friday. Tomorrow is Thursday.",
-        "Today is Friday. Tomorrow is Sunday.",
-        "Today is Thursday. Tomorrow is Friday."
+        "jueves",
+        "domingo",
+        "lunes"
       ],
-      "explanation": "'Viernes' is Friday and the day after Friday is 'sábado' (Saturday)."
+      "explanation": "'Viernes' is Friday and the day after Friday is 'sábado' (Saturday).",
+      "hint": null
     }
   },
   "q_vocab_a1_04_010": {
@@ -875,7 +884,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "12/15",
     "spanish": [
       "amarillo"
     ],
@@ -914,7 +923,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "11/15",
     "spanish": [
       "gris"
     ],
@@ -1093,7 +1102,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "12/15",
     "spanish": [
       "pescado"
     ],
@@ -1130,7 +1139,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "12/15",
     "spanish": [
       "ensalada"
     ],
@@ -1269,7 +1278,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "12/15",
     "spanish": [
       "espalda"
     ],
@@ -1308,7 +1317,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "12/15",
     "spanish": [
       "boca"
     ],
@@ -1347,7 +1356,7 @@
     "type": "context",
     "translation_dir": null,
     "ref": "en",
-    "votes": "1/11",
+    "votes": "1/10",
     "spanish": [
       "s office و need لقول أين هو hurts. كيف do أنت say"
     ],
@@ -1367,7 +1376,7 @@
     "type": "context",
     "translation_dir": null,
     "ref": "en",
-    "votes": "2/11",
+    "votes": "2/10",
     "spanish": [
       "s appearance. 如何 do 你 say"
     ],
@@ -1489,7 +1498,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "12/15",
     "spanish": [
       "bolso"
     ],
@@ -1526,7 +1535,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "12/15",
     "spanish": [
       "falda"
     ],
@@ -1665,7 +1674,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "12/15",
     "spanish": [
       "sofá"
     ],
@@ -1704,7 +1713,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "12/15",
     "spanish": [
       "armario"
     ],
@@ -1883,7 +1892,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "12/15",
     "spanish": [
       "pizarra"
     ],
@@ -1920,7 +1929,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "12/15",
     "spanish": [
       "lápiz"
     ],
@@ -2059,7 +2068,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "12/15",
     "spanish": [
       "periodista"
     ],
@@ -2098,7 +2107,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "12/15",
     "spanish": [
       "camarero"
     ],
@@ -2137,9 +2146,9 @@
     "type": "context",
     "translation_dir": null,
     "ref": "en",
-    "votes": "1/1",
+    "votes": "1/3",
     "spanish": [
-      "sou professor"
+      "ich bin lehrer"
     ],
     "entry": {
       "question": "You meet someone at a party and they ask what you do. How do you say 'I am a teacher'?",
@@ -2277,7 +2286,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "12/15",
     "spanish": [
       "montaña"
     ],
@@ -2314,7 +2323,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "12/15",
     "spanish": [
       "río"
     ],
@@ -2353,9 +2362,9 @@
     "type": "context",
     "translation_dir": null,
     "ref": "en",
-    "votes": "1/11",
+    "votes": "1/8",
     "spanish": [
-      "ماذا سوف الـ weather يكون like tomorrow?"
+      "wie wird das wetter morgen?"
     ],
     "entry": {
       "question": "You are watching the weather forecast and want to know about tomorrow. How do you ask 'What will the weather be like tomorrow?'",
@@ -2455,7 +2464,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "12/15",
     "spanish": [
       "metro"
     ],
@@ -2494,7 +2503,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "12/15",
     "spanish": [
       "tren"
     ],
@@ -2551,9 +2560,9 @@
     "type": "context",
     "translation_dir": null,
     "ref": "en",
-    "votes": "1/1",
+    "votes": "1/3",
     "spanish": [
-      "vou de moto ao trabalho"
+      "ich fahre mit dem motorrad zur arbeit"
     ],
     "entry": {
       "question": "Your friend asks how you commute to work. How do you say 'I ride my motorcycle to work'?",
@@ -2673,7 +2682,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "12/15",
     "spanish": [
       "escribir"
     ],
@@ -2692,8 +2701,10 @@
     "type": "context",
     "translation_dir": null,
     "ref": "en",
-    "votes": "0/0",
-    "spanish": [],
+    "votes": "1/1",
+    "spanish": [
+      "autobus e l"
+    ],
     "entry": {
       "question": "You are at a bus stop and the bus is late. What verb describes what you are doing?",
       "correct": "esperar",
@@ -2710,7 +2721,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "12/15",
     "spanish": [
       "beber"
     ],
@@ -2849,7 +2860,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "12/15",
     "spanish": [
       "preocupado"
     ],
@@ -2889,7 +2900,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "14/15",
+    "votes": "12/15",
     "spanish": [
       "enfadado"
     ],

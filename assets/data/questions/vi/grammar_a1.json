@@ -76,14 +76,15 @@
     "hint": "không phải tất cả các từ kết thúc bằng -a là nữ tính"
   },
   "q_gram_a1_01_008": {
-    "question": " map là big.",
+    "question": "Bản đồ này to.",
     "correct": "El mapa es grande.",
     "wrong": [
       "La mapa es grande.",
       "Los mapas son grandes.",
       "El mapa es pequeño."
     ],
-    "explanation": "'mapa' là nam tính despite kết thúc bằng -a (another ngoại lệ để -a = nữ tính quy tắc).\n'big' = 'grande', mà doesn't change cho giống."
+    "explanation": "'mapa' là danh từ giống đực dù kết thúc bằng -a (một ngoại lệ nữa của quy tắc -a = giống cái).\n'to, lớn' = 'grande', từ này không thay đổi theo giống.",
+    "hint": null
   },
   "q_gram_a1_01_009": {
     "question": "___ fotos son de mi familia. (chọn mạo từ đúng cho danh từ nữ tính số nhiều)",
@@ -141,14 +142,15 @@
     "hint": "niños là số nhiều của niño"
   },
   "q_gram_a1_02_004": {
-    "question": "gì does 'los' indicate trong 'los libros'?",
-    "correct": "mạo từ xác định nam tính số nhiều",
+    "question": "'los' chỉ điều gì trong 'los libros'?",
+    "correct": "mạo từ xác định số nhiều giống đực",
     "wrong": [
-      "mạo từ xác định nữ tính số nhiều",
-      "mạo từ xác định nam tính số ít",
-      "masculine plural indefinite article"
+      "mạo từ xác định số nhiều giống cái",
+      "mạo từ xác định số ít giống đực",
+      "mạo từ không xác định số nhiều giống đực"
     ],
-    "explanation": "'los' là nam tính số nhiều mạo từ xác định (= '' cho nam tính số nhiều nouns).\n- el (m. sg.), la (f. sg.), los (m. pl.), las (f. pl.)"
+    "explanation": "'los' là mạo từ xác định số nhiều giống đực (= 'the' đứng trước danh từ giống đực số nhiều).\n- el (đực, số ít), la (cái, số ít), los (đực, số nhiều), las (cái, số nhiều)",
+    "hint": null
   },
   "q_gram_a1_02_005": {
     "question": "Vengo ___ cine. (điền vào: de + el)",
@@ -420,15 +422,16 @@
     "explanation": "khi nào asking about identity với 'usted', '¿Quién es usted?' có nghĩa là 'ai là bạn?' (trang trọng).\nNote mà 'usted' takes same động từ form as él/ella (3rd người số ít).\n- ¿Quién es usted? (trang trọng) vs ¿Quién eres tú? (thân mật)"
   },
   "q_gram_a1_04_010": {
-    "question": "Yo hablo español, ___ habla francés. (conjugate với đúng đại từ cho 'she')",
+    "question": "Yo hablo español, ___ habla francés. (dùng đại từ đúng cho 'cô ấy')",
     "correct": "ella",
     "wrong": [
       "él",
       "tú",
       "usted"
     ],
-    "explanation": "Pronouns được sử dụng cho emphasis hoặc để clarify ai là being talked about.\n- Yo hablo español, ella habla francés.\n- không có pronouns, 'habla francés' could có nghĩa he/she/bạn(trang trọng) speaks French.",
-    "conjugation_info": "Use pronouns cho emphasis: Yo hablo... ella habla... vs just Hablo... Habla..."
+    "explanation": "Đại từ nhân xưng được dùng để nhấn mạnh hoặc làm rõ đang nói về ai.\n- Yo hablo español, ella habla francés.\n- Nếu không có đại từ, 'habla francés' có thể là anh ấy/cô ấy/ngài (lịch sự) nói tiếng Pháp.",
+    "conjugation_info": "Use pronouns cho emphasis: Yo hablo... ella habla... vs just Hablo... Habla...",
+    "hint": null
   },
   "q_gram_a1_05_001": {
     "question": "Yo ___ estudiante.",
@@ -571,14 +574,15 @@
     "hint": "Emotions và feelings use mà động từ?"
   },
   "q_gram_a1_06_004": {
-    "question": "gì does 'estar' express trong '¿Cómo estás?'?",
-    "correct": "health or feeling",
+    "question": "'estar' diễn tả điều gì trong '¿Cómo estás?'?",
+    "correct": "sức khỏe hoặc cảm xúc",
     "wrong": [
-      "identity",
-      "profession",
-      "nationality"
+      "danh tính",
+      "nghề nghiệp",
+      "quốc tịch"
     ],
-    "explanation": "'¿Cómo estás?' có nghĩa là 'như thế nào là bạn?' và asks about someone's current state hoặc feeling.\nEstar được sử dụng cho temporary conditions like health, mood, và emotional states."
+    "explanation": "'¿Cómo estás?' nghĩa là 'Bạn khỏe không?' và hỏi về trạng thái hoặc cảm xúc hiện tại của một người.\nEstar được dùng cho các trạng thái tạm thời như sức khỏe, tâm trạng và cảm xúc.",
+    "hint": null
   },
   "q_gram_a1_06_005": {
     "question": "Nosotros ___ cansados. (conjugate estar)",
@@ -667,14 +671,15 @@
     "hint": "Location luôn uses mà động từ?"
   },
   "q_gram_a1_07_003": {
-    "question": "gì does 'ser aburrido' có nghĩa vs 'estar aburrido'?",
-    "correct": "to be boring vs to be bored",
+    "question": "'ser aburrido' khác với 'estar aburrido' như thế nào?",
+    "correct": "nhàm chán (gây chán) so với cảm thấy chán",
     "wrong": [
-      "to be bored vs to be boring",
-      "both mean the same thing",
-      "to be tired vs to be tiring"
+      "cảm thấy chán so với nhàm chán (gây chán)",
+      "cả hai có cùng nghĩa",
+      "mệt mỏi so với gây mệt mỏi"
     ],
-    "explanation": "Some adjectives change có nghĩa là với ser vs estar:\n- ser aburrido = để là boring (characteristic)\n- estar aburrido = để là bored (feeling)\n động từ choice changes tính từ's có nghĩa là."
+    "explanation": "Một số tính từ đổi nghĩa khi đi với ser hoặc estar:\n- ser aburrido = nhàm chán, gây chán (đặc điểm)\n- estar aburrido = cảm thấy chán (cảm giác)\nViệc chọn động từ làm thay đổi nghĩa của tính từ.",
+    "hint": null
   },
   "q_gram_a1_07_004": {
     "question": "La fiesta ___ en mi casa. (conjugate đúng động từ cho 'để là')",
@@ -912,8 +917,8 @@
       "compro",
       "compran"
     ],
-    "explanation": "cho -ar verbs, tú form kết thúc bằng -as.\n- comprar → compr + as = compras\n- ¿Tú compras? = Do bạn buy?",
-    "hint": "gì ending does tú take cho -ar verbs?"
+    "explanation": "Với động từ đuôi -ar, dạng của tú kết thúc bằng -as.\n- comprar → compr + as = compras\n- ¿Tú compras? = Bạn mua không?",
+    "hint": "Với động từ đuôi -ar, tú dùng đuôi nào?"
   },
   "q_gram_a1_09_006": {
     "question": "Ellos ___ muy bien. (conjugate cocinar)",
@@ -1056,14 +1061,15 @@
     "hint": " vosotros ending cho -ir verbs có an accent"
   },
   "q_gram_a1_10_009": {
-    "question": "She reads the newspaper every morning.",
+    "question": "Cô ấy đọc báo mỗi sáng.",
     "correct": "Ella lee el periódico cada mañana.",
     "wrong": [
       "Ella lees el periódico cada mañana.",
       "Ella leen el periódico cada mañana.",
       "Ella leo el periódico cada mañana."
     ],
-    "explanation": "cho -er verbs, ella form kết thúc bằng -e.\n- leer → le + e = lee\nNote double 'e' trong lee — Đây là đúng cho leer's 3rd người."
+    "explanation": "Với động từ đuôi -er, dạng của ella kết thúc bằng -e.\n- leer → le + e = lee\nLưu ý hai chữ 'e' liền nhau trong lee — đây là dạng đúng cho ngôi thứ ba của leer.",
+    "hint": null
   },
   "q_gram_a1_10_010": {
     "question": "Nosotros ___ en un piso. (conjugate vivir)",
@@ -1164,15 +1170,16 @@
     "hint": null
   },
   "q_gram_a1_11_009": {
-    "question": "No ___ nadie en la oficina. (fill trong form của 'haber' có nghĩa là 'Có')",
+    "question": "No ___ nadie en la oficina. (điền dạng của 'haber' nghĩa là 'có')",
     "correct": "hay",
     "wrong": [
       "está",
       "es",
       "están"
     ],
-    "explanation": "'No hay nadie' = Có nobody. Đây là a double negative, là đúng trong tiếng Tây Ban Nha.\n- hay + negative từ = Có/là not\nRemember: hay là invariable và doesn't change form.",
-    "conjugation_info": "Hay trong negative: No hay nada (nothing), No hay nadie (nobody), No hay ningún... (not any)"
+    "explanation": "'No hay nadie' = Không có ai. Đây là câu phủ định kép, hoàn toàn đúng trong tiếng Tây Ban Nha.\n- hay + từ phủ định = không có\nHãy nhớ: hay là dạng bất biến và không thay đổi hình thức.",
+    "conjugation_info": "Hay trong negative: No hay nada (nothing), No hay nadie (nobody), No hay ningún... (not any)",
+    "hint": null
   },
   "q_gram_a1_11_010": {
     "question": "Trong thành phố của tôi có một công viên.",
@@ -1316,14 +1323,15 @@
     "hint": "flores là nữ tính số nhiều"
   },
   "q_gram_a1_13_003": {
-    "question": "gì distance does 'aquel' indicate?",
-    "correct": "far from both speaker and listener",
+    "question": "'aquel' chỉ khoảng cách nào?",
+    "correct": "xa cả người nói lẫn người nghe",
     "wrong": [
-      "near the speaker",
-      "near the listener",
-      "it has no distance meaning"
+      "gần người nói",
+      "gần người nghe",
+      "không có nghĩa về khoảng cách"
     ],
-    "explanation": "Tây Ban Nha có three levels của distance:\n- este = near speaker (ở đây/aquí)\n- ese = near listener (ở đó/ahí)\n- aquel = far từ both (over ở đó/allí)"
+    "explanation": "Tiếng Tây Ban Nha có ba mức khoảng cách:\n- este = gần người nói (ở đây/aquí)\n- ese = gần người nghe (ở đó/ahí)\n- aquel = xa cả hai (ở đằng kia/allí)",
+    "hint": null
   },
   "q_gram_a1_13_004": {
     "question": "___ chica es mi amiga. (mà girl near bạn)",
@@ -1434,14 +1442,15 @@
     "hint": "mà preposition expresses direction?"
   },
   "q_gram_a1_14_004": {
-    "question": "gì does preposition 'con' có nghĩa?",
-    "correct": "with",
+    "question": "Giới từ 'con' có nghĩa là gì?",
+    "correct": "với, cùng với",
     "wrong": [
-      "without",
-      "for",
-      "from"
+      "không có",
+      "cho, để",
+      "từ"
     ],
-    "explanation": "'con' có nghĩa là 'với' trong tiếng Tây Ban Nha.\n- Café con leche = Coffee với milk.\n- Voy con mis amigos. = I go với my friends."
+    "explanation": "'con' nghĩa là 'với, cùng với' trong tiếng Tây Ban Nha.\n- Café con leche = Cà phê sữa (cà phê với sữa).\n- Voy con mis amigos. = Tôi đi cùng bạn bè của tôi.",
+    "hint": null
   },
   "q_gram_a1_14_005": {
     "question": "Veo ___ mi madre. (I see my mother.)",
@@ -1747,14 +1756,15 @@
     "hint": "'los perros' là số nhiều"
   },
   "q_gram_a1_17_003": {
-    "question": "gì does 'gustar' literally có nghĩa?",
-    "correct": "to please",
+    "question": "Nghĩa đen của 'gustar' là gì?",
+    "correct": "làm hài lòng, làm cho thích",
     "wrong": [
-      "to like",
-      "to want",
-      "to love"
+      "thích",
+      "muốn",
+      "yêu"
     ],
-    "explanation": "'gustar' literally có nghĩa là 'để please'. structure là reversed từ tiếng Anh.\n- Me gusta el café. = Coffee pleases me. (= I like coffee.)\n thing liked là grammatical subject."
+    "explanation": "Nghĩa đen của 'gustar' là 'làm hài lòng'. Cấu trúc này ngược với tiếng Anh.\n- Me gusta el café. = Cà phê làm tôi hài lòng. (= Tôi thích cà phê.)\nVật được thích là chủ ngữ ngữ pháp của câu.",
+    "hint": null
   },
   "q_gram_a1_17_004": {
     "question": "A ella ___ gusta bailar. (She likes để dance.)",
@@ -1962,14 +1972,15 @@
     "hint": "gì là nosotros form của ir?"
   },
   "q_gram_a1_19_003": {
-    "question": "gì does 'ir a + nguyên thể' express?",
-    "correct": "near future / plans",
+    "question": "'ir a + infinitive' diễn tả điều gì?",
+    "correct": "tương lai gần / kế hoạch",
     "wrong": [
-      "past actions",
-      "commands",
-      "present habits"
+      "hành động trong quá khứ",
+      "mệnh lệnh",
+      "thói quen ở hiện tại"
     ],
-    "explanation": "'ir a + nguyên thể' expresses near future hoặc plans.\n- Voy a estudiar. = I am going để study.\n- Vamos a comer. = We là going để eat.\nĐây là simplest way để talk about future actions trong tiếng Tây Ban Nha."
+    "explanation": "'ir a + infinitive' diễn tả tương lai gần hoặc kế hoạch.\n- Voy a estudiar. = Tôi sắp học.\n- Vamos a comer. = Chúng ta sắp ăn.\nĐây là cách đơn giản nhất để nói về hành động trong tương lai bằng tiếng Tây Ban Nha.",
+    "hint": null
   },
   "q_gram_a1_19_004": {
     "question": "Ella ___ a la playa. (conjugate ir)",

@@ -2,931 +2,1531 @@
   "q_vocab_a1_01_001": {
     "question": "Что означает 'hola'?",
     "correct": "привет",
-    "wrong": ["до свидания", "спасибо", "пожалуйста"],
+    "wrong": [
+      "до свидания",
+      "спасибо",
+      "пожалуйста"
+    ],
     "explanation": "'Hola' — это самое распространенное испанское приветствие, используемое в любое время суток."
   },
   "q_vocab_a1_01_002": {
     "question": "Что означает 'gracias'?",
     "correct": "спасибо",
-    "wrong": ["пожалуйста", "извините", "привет"],
+    "wrong": [
+      "пожалуйста",
+      "извините",
+      "привет"
+    ],
     "explanation": "'Gracias' означает 'спасибо'. Можно сказать 'muchas gracias', что означает 'большое спасибо'."
   },
   "q_vocab_a1_01_003": {
     "question": "Buenos ___, ¿cómo estás?",
     "correct": "días",
-    "wrong": ["noches", "gracias", "hola"],
+    "wrong": [
+      "noches",
+      "gracias",
+      "hola"
+    ],
     "explanation": "'Buenos días' означает 'доброе утро' и является распространенным приветствием, используемым утром."
   },
   "q_vocab_a1_01_004": {
     "question": "Что означает 'por favor'?",
     "correct": "пожалуйста",
-    "wrong": ["спасибо", "извините", "до свидания"],
+    "wrong": [
+      "спасибо",
+      "извините",
+      "до свидания"
+    ],
     "explanation": "'Por favor' используется для вежливых просьб, точно так же, как 'пожалуйста' на русском языке."
   },
   "q_vocab_a1_01_005": {
     "question": "Что означает 'lo siento' в выражении 'Lo siento mucho'?",
     "correct": "мне жаль / извините",
-    "wrong": ["я счастлив", "я устал", "я в порядке"],
+    "wrong": [
+      "я счастлив",
+      "я устал",
+      "я в порядке"
+    ],
     "explanation": "'Lo siento' буквально означает 'я чувствую это', но используется как 'мне жаль' или 'извините'. 'Mucho' добавляет акцент, означая 'очень'."
   },
   "q_vocab_a1_01_006": {
     "question": "До завтра!",
     "correct": "¡Hasta mañana!",
-    "wrong": ["¡Hasta luego!", "¡Buenas noches!", "¡Adiós para siempre!"],
+    "wrong": [
+      "¡Hasta luego!",
+      "¡Buenas noches!",
+      "¡Adiós para siempre!"
+    ],
     "explanation": "'Hasta mañana' буквально означает 'до завтра' и используется, когда вы увидите кого-то на следующий день."
   },
   "q_vocab_a1_01_007": {
     "question": "Что означает 'de nada' в разговоре '¡Gracias! — De nada.'?",
     "correct": "пожалуйста / не за что",
-    "wrong": ["конечно", "не проблема", "до свидания"],
+    "wrong": [
+      "конечно",
+      "не проблема",
+      "до свидания"
+    ],
     "explanation": "'De nada' буквально переводится как 'ни за что' и является стандартным ответом на 'gracias'."
   },
   "q_vocab_a1_01_008": {
     "question": "¿Cómo estás?",
     "correct": "Как дела?",
-    "wrong": ["Как тебя зовут?", "Откуда ты?", "Сколько тебе лет?"],
+    "wrong": [
+      "Как тебя зовут?",
+      "Откуда ты?",
+      "Сколько тебе лет?"
+    ],
     "explanation": "'¿Cómo estás?' — это неформальный способ спросить 'Как дела?'. Формальная версия — '¿Cómo está usted?'."
   },
   "q_vocab_a1_01_009": {
     "question": "Вы случайно сталкиваетесь с кем-то на улице. Что вы говорите?",
     "correct": "¡Perdón!",
-    "wrong": ["¡Hola!", "¡Gracias!", "¡Adiós!"],
+    "wrong": [
+      "¡Hola!",
+      "¡Gracias!",
+      "¡Adiós!"
+    ],
     "explanation": "'Perdón' означает 'извините' и используется, когда вы случайно побеспокоили кого-то.",
     "context": "Прогулка по переполненной улице"
   },
   "q_vocab_a1_01_010": {
     "question": "Вы уходите из дома друга поздно ночью. Что вы говорите?",
     "correct": "¡Buenas noches!",
-    "wrong": ["¡Buenos días!", "¡Buenas tardes!", "¡Hola!"],
+    "wrong": [
+      "¡Buenos días!",
+      "¡Buenas tardes!",
+      "¡Hola!"
+    ],
     "explanation": "'Buenas noches' означает 'спокойной ночи' и используется как приветствие и прощание вечером.",
     "context": "Уход из дома друга ночью"
   },
   "q_vocab_a1_02_001": {
     "question": "Что означает 'madre'?",
     "correct": "мать",
-    "wrong": ["отец", "сестра", "бабушка"],
+    "wrong": [
+      "отец",
+      "сестра",
+      "бабушка"
+    ],
     "explanation": "'Madre' означает 'мать'. Неформальное слово — 'mamá'."
   },
   "q_vocab_a1_02_002": {
     "question": "Mi ___ se llama Carlos. Es el esposo de mi madre.",
     "correct": "padre",
-    "wrong": ["hermano", "hijo", "abuelo"],
+    "wrong": [
+      "hermano",
+      "hijo",
+      "abuelo"
+    ],
     "explanation": "'Padre' означает 'отец'. Предложение переводится: 'Моего отца зовут Карлос. Он муж моей матери.'"
   },
   "q_vocab_a1_02_003": {
     "question": "Что означает 'hermana'?",
     "correct": "сестра",
-    "wrong": ["брат", "двоюродная сестра", "тетя"],
+    "wrong": [
+      "брат",
+      "двоюродная сестра",
+      "тетя"
+    ],
     "explanation": "'Hermana' — женский род, означающий 'сестра'. Мужской род 'hermano' означает 'брат'."
   },
   "q_vocab_a1_02_004": {
     "question": "Что означает 'abuelo'?",
     "correct": "дедушка",
-    "wrong": ["дядя", "отец", "двоюродный брат"],
+    "wrong": [
+      "дядя",
+      "отец",
+      "двоюродный брат"
+    ],
     "explanation": "'Abuelo' означает 'дедушка'. 'Abuela' — 'бабушка'. Вместе 'abuelos' может означать 'бабушка и дедушка'."
   },
   "q_vocab_a1_02_005": {
     "question": "Мой дядя живет в Мадриде.",
     "correct": "Mi tío vive en Madrid.",
-    "wrong": ["Mi primo vive en Madrid.", "Mi abuelo vive en Madrid.", "Mi sobrino vive en Madrid."],
+    "wrong": [
+      "Mi primo vive en Madrid.",
+      "Mi abuelo vive en Madrid.",
+      "Mi sobrino vive en Madrid."
+    ],
     "explanation": "'Tío' означает 'дядя'. 'Tía' — женская форма, означающая 'тетя'."
   },
   "q_vocab_a1_02_006": {
     "question": "Что означает 'esposa' в 'Ella es mi esposa'?",
     "correct": "жена",
-    "wrong": ["подруга", "друг", "сестра"],
+    "wrong": [
+      "подруга",
+      "друг",
+      "сестра"
+    ],
     "explanation": "'Esposa' означает 'жена'. 'Esposo' означает 'муж'. Это формальные термины для супруга."
   },
   "q_vocab_a1_02_007": {
     "question": "Вы хотите представить свою подругу кому-то. Какое слово вы используете?",
     "correct": "amiga",
-    "wrong": ["novia", "prima", "vecina"],
+    "wrong": [
+      "novia",
+      "prima",
+      "vecina"
+    ],
     "explanation": "'Amiga' означает 'подруга'. Использование 'novia' означало бы 'девушка' (романтический партнер), что отличается.",
     "context": "Знакомство друга на вечеринке"
   },
   "q_vocab_a1_02_008": {
     "question": "Что означает 'primo' в 'Mi primo tiene diez años'?",
     "correct": "двоюродный брат",
-    "wrong": ["брат", "племянник", "сын"],
+    "wrong": [
+      "брат",
+      "племянник",
+      "сын"
+    ],
     "explanation": "'Primo' (мужской род) означает 'двоюродный брат'. 'Prima' — женская форма. Предложение означает 'Моему двоюродному брату десять лет'."
   },
   "q_vocab_a1_02_009": {
     "question": "Tengo dos hermanos y una hermana.",
     "correct": "У меня два брата и одна сестра.",
-    "wrong": ["У меня две сестры и один брат.", "У меня два двоюродных брата и одна сестра.", "У меня два друга и одна сестра."],
+    "wrong": [
+      "У меня две сестры и один брат.",
+      "У меня два двоюродных брата и одна сестра.",
+      "У меня два друга и одна сестра."
+    ],
     "explanation": "'Hermanos' — множественное число мужского рода, означающее 'братья'. 'Hermana' означает 'сестра'."
   },
   "q_vocab_a1_02_010": {
     "question": "Ваш сосед спрашивает о вашей семье. Как вы говорите 'Я живу с родителями'?",
     "correct": "Vivo con mis padres.",
-    "wrong": ["Vivo con mis amigos.", "Vivo con mis hermanos.", "Vivo con mis abuelos."],
+    "wrong": [
+      "Vivo con mis amigos.",
+      "Vivo con mis hermanos.",
+      "Vivo con mis abuelos."
+    ],
     "explanation": "'Padres' означает 'родители'. Это множественное число от 'padre' (отец), но во множественном числе относится к обоим родителям.",
     "context": "Разговор с соседом о семье"
   },
   "q_vocab_a1_03_001": {
     "question": "Что означает 'hora'?",
     "correct": "час / время",
-    "wrong": ["минута", "день", "неделя"],
+    "wrong": [
+      "минута",
+      "день",
+      "неделя"
+    ],
     "explanation": "'Hora' означает 'час' или 'время' (при вопросе о том, который час). '¿Qué hora es?' = 'Который час?'"
   },
   "q_vocab_a1_03_002": {
     "question": "Что означает 'mañana' в 'por la mañana'?",
     "correct": "утро",
-    "wrong": ["день", "вечер", "ночь"],
+    "wrong": [
+      "день",
+      "вечер",
+      "ночь"
+    ],
     "explanation": "'Mañana' означает 'утро' при использовании с 'por la'. В других контекстах оно также может означать 'завтра'."
   },
   "q_vocab_a1_03_003": {
     "question": "Son las tres y ___. (3:30)",
     "correct": "media",
-    "wrong": ["cuarto", "punto", "minuto"],
+    "wrong": [
+      "cuarto",
+      "punto",
+      "minuto"
+    ],
     "explanation": "'Media' означает 'половина'. 'Son las tres y media' означает 'Сейчас три тридцать' (буквально 'три с половиной')."
   },
   "q_vocab_a1_03_004": {
     "question": "Что означает 'reloj'?",
     "correct": "часы (настенные / наручные)",
-    "wrong": ["календарь", "будильник", "таймер"],
+    "wrong": [
+      "календарь",
+      "будильник",
+      "таймер"
+    ],
     "explanation": "'Reloj' может означать как 'часы' (настенные), так и 'часы' (наручные) в испанском языке."
   },
   "q_vocab_a1_03_005": {
     "question": "Что означает 'en punto' в 'Son las cinco en punto'?",
     "correct": "ровно / точно",
-    "wrong": ["почти", "более-менее", "примерно"],
+    "wrong": [
+      "почти",
+      "более-менее",
+      "примерно"
+    ],
     "explanation": "'En punto' означает 'ровно' или 'точно'. 'Son las cinco en punto' = 'Сейчас ровно пять часов'."
   },
   "q_vocab_a1_03_006": {
     "question": "Сейчас час дня.",
     "correct": "Es la una.",
-    "wrong": ["Son las una.", "Es el uno.", "Son la una."],
+    "wrong": [
+      "Son las una.",
+      "Es el uno.",
+      "Son la una."
+    ],
     "explanation": "Для 1:00 мы используем 'Es la una' (единственное число). Для всех остальных часов используется 'Son las...' (множественное число)."
   },
   "q_vocab_a1_03_007": {
     "question": "Что означает 'tarde' в 'Buenas tardes'?",
     "correct": "день / послеобеденное время",
-    "wrong": ["утро", "ночь", "вечер"],
+    "wrong": [
+      "утро",
+      "ночь",
+      "вечер"
+    ],
     "explanation": "'Tarde' означает 'день / послеобеденное время'. 'Buenas tardes' используется примерно с полудня до заката."
   },
   "q_vocab_a1_03_008": {
     "question": "¿Qué hora es? — Son las dos y cuarto.",
     "correct": "Который час? — Сейчас 2:15.",
-    "wrong": ["Который час? — Сейчас 2:45.", "Который час? — Сейчас 2:30.", "Какой день? — Сегодня вторник."],
+    "wrong": [
+      "Который час? — Сейчас 2:45.",
+      "Который час? — Сейчас 2:30.",
+      "Какой день? — Сегодня вторник."
+    ],
     "explanation": "'Cuarto' означает 'четверть'. 'Son las dos y cuarto' = 'Сейчас два пятнадцать' (пятнадцать минут третьего)."
   },
   "q_vocab_a1_03_009": {
     "question": "Вам нужно спросить незнакомца на улице, который час. Что вы говорите?",
     "correct": "Perdone, ¿qué hora es?",
-    "wrong": ["¡Hola! ¿Qué día es?", "¿Cuánto cuesta?", "¿Dónde está el reloj?"],
+    "wrong": [
+      "¡Hola! ¿Qué día es?",
+      "¿Cuánto cuesta?",
+      "¿Dónde está el reloj?"
+    ],
     "explanation": "'Perdone, ¿qué hora es?' — вежливый способ спросить кого-то о времени. 'Perdone' — формальная форма 'извините'.",
     "context": "Спрашиваем время на улице"
   },
   "q_vocab_a1_03_010": {
     "question": "Ваш друг спрашивает, когда вы обычно просыпаетесь. Как сказать 'Я просыпаюсь в семь утра'?",
     "correct": "Me despierto a las siete de la mañana.",
-    "wrong": ["Me despierto a las siete de la noche.", "Me despierto a la siete de la mañana.", "Me duermo a las siete de la mañana."],
+    "wrong": [
+      "Me despierto a las siete de la noche.",
+      "Me despierto a la siete de la mañana.",
+      "Me duermo a las siete de la mañana."
+    ],
     "explanation": "'A las siete de la mañana' означает 'в семь утра'. Примечание: мы используем 'a las' для всех часов, кроме одного ('a la una').",
     "context": "Разговор о распорядке дня"
   },
   "q_vocab_a1_04_001": {
     "question": "Что означает 'lunes'?",
     "correct": "понедельник",
-    "wrong": ["вторник", "пятница", "воскресенье"],
+    "wrong": [
+      "вторник",
+      "пятница",
+      "воскресенье"
+    ],
     "explanation": "'Lunes' означает 'понедельник'. В испанском языке дни недели не пишутся с заглавной буквы."
   },
   "q_vocab_a1_04_002": {
     "question": "El primer mes del año es ___.",
     "correct": "enero",
-    "wrong": ["febrero", "marzo", "diciembre"],
+    "wrong": [
+      "febrero",
+      "marzo",
+      "diciembre"
+    ],
     "explanation": "'Enero' означает 'январь', первый месяц года. Как и дни, месяцы не пишутся с заглавной буквы в испанском языке."
   },
   "q_vocab_a1_04_003": {
     "question": "Что означает 'verano'?",
     "correct": "лето",
-    "wrong": ["зима", "весна", "осень"],
+    "wrong": [
+      "зима",
+      "весна",
+      "осень"
+    ],
     "explanation": "'Verano' означает 'лето'. Четыре сезона: primavera (весна), verano (лето), otoño (осень), invierno (зима)."
   },
   "q_vocab_a1_04_004": {
     "question": "Что означает 'semana'?",
     "correct": "неделя",
-    "wrong": ["месяц", "день", "год"],
+    "wrong": [
+      "месяц",
+      "день",
+      "год"
+    ],
     "explanation": "'Semana' означает 'неделя'. 'Fin de semana' означает 'выходные'."
   },
   "q_vocab_a1_04_005": {
     "question": "Суббота и воскресенье",
     "correct": "sábado y domingo",
-    "wrong": ["viernes y sábado", "lunes y martes", "jueves y viernes"],
+    "wrong": [
+      "viernes y sábado",
+      "lunes y martes",
+      "jueves y viernes"
+    ],
     "explanation": "'Sábado' — суббота, а 'domingo' — воскресенье. Вместе они образуют 'fin de semana' (выходные)."
   },
   "q_vocab_a1_04_006": {
     "question": "Что означает 'primavera' в 'Me gusta la primavera'?",
     "correct": "весна",
-    "wrong": ["лето", "осень", "зима"],
+    "wrong": [
+      "лето",
+      "осень",
+      "зима"
+    ],
     "explanation": "'Primavera' означает 'весна'. Предложение означает 'Мне нравится весна'."
   },
   "q_vocab_a1_04_007": {
     "question": "Кто-то спрашивает вас, какой сегодня день. Сегодня среда. Как вы отвечаете?",
     "correct": "Hoy es miércoles.",
-    "wrong": ["Hoy es martes.", "Hoy es jueves.", "Hoy es viernes."],
+    "wrong": [
+      "Hoy es martes.",
+      "Hoy es jueves.",
+      "Hoy es viernes."
+    ],
     "explanation": "'Miércoles' означает 'среда'. Обратите внимание на ударение на букве 'e'. 'Hoy es...' означает 'Сегодня...'.",
     "context": "Кто-то спрашивает, какой сегодня день"
   },
   "q_vocab_a1_04_008": {
     "question": "Что означает 'invierno' в 'En invierno hace frío'?",
     "correct": "зима",
-    "wrong": ["осень", "лето", "весна"],
+    "wrong": [
+      "осень",
+      "лето",
+      "весна"
+    ],
     "explanation": "'Invierno' означает 'зима'. Предложение означает 'Зимой холодно'."
   },
   "q_vocab_a1_04_009": {
     "question": "Hoy es viernes. Mañana es ___.",
-    "correct": "Сегодня пятница. Завтра суббота.",
-    "wrong": ["Сегодня пятница. Завтра четверг.", "Сегодня пятница. Завтра воскресенье.", "Сегодня четверг. Завтра пятница."],
+    "correct": "sábado",
+    "wrong": [
+      "jueves",
+      "domingo",
+      "lunes"
+    ],
     "explanation": "'Viernes' — пятница, а день после пятницы — 'sábado' (суббота)."
   },
   "q_vocab_a1_04_010": {
     "question": "Вы хотите назначить встречу. Как сказать 'Встреча в четверг'?",
     "correct": "La reunión es el jueves.",
-    "wrong": ["La reunión es el martes.", "La reunión es el miércoles.", "La reunión es la jueves."],
+    "wrong": [
+      "La reunión es el martes.",
+      "La reunión es el miércoles.",
+      "La reunión es la jueves."
+    ],
     "explanation": "Дни недели используются с артиклем 'el' (единственное число) или 'los' (множественное число/постоянство). 'El jueves' = 'в четверг'.",
     "context": "Назначение встречи на работе"
   },
   "q_vocab_a1_05_001": {
     "question": "Что означает 'rojo'?",
     "correct": "красный",
-    "wrong": ["синий", "зеленый", "желтый"],
+    "wrong": [
+      "синий",
+      "зеленый",
+      "желтый"
+    ],
     "explanation": "'Rojo' означает 'красный'. Как и большинство прилагательных, оно изменяет форму: rojo (муж. род), roja (жен. род)."
   },
   "q_vocab_a1_05_002": {
     "question": "Что означает 'blanco'?",
     "correct": "белый",
-    "wrong": ["черный", "серый", "коричневый"],
+    "wrong": [
+      "черный",
+      "серый",
+      "коричневый"
+    ],
     "explanation": "'Blanco' означает 'белый'. Его противоположность — 'negro' (черный)."
   },
   "q_vocab_a1_05_003": {
     "question": "El cielo es ___. (Небо ___)",
     "correct": "azul",
-    "wrong": ["rojo", "verde", "amarillo"],
+    "wrong": [
+      "rojo",
+      "verde",
+      "amarillo"
+    ],
     "explanation": "'Azul' означает 'синий'. В отличие от большинства прилагательных цвета, 'azul' не меняется для мужского/женского рода."
   },
   "q_vocab_a1_05_004": {
     "question": "Что означает 'negro'?",
     "correct": "черный",
-    "wrong": ["белый", "серый", "коричневый"],
+    "wrong": [
+      "белый",
+      "серый",
+      "коричневый"
+    ],
     "explanation": "'Negro' означает 'черный'. Оно следует обычному согласованию прилагательных: negro (муж. род), negra (жен. род)."
   },
   "q_vocab_a1_05_005": {
     "question": "Что означает 'amarillo' в 'El sol es amarillo'?",
     "correct": "желтый",
-    "wrong": ["оранжевый", "красный", "белый"],
+    "wrong": [
+      "оранжевый",
+      "красный",
+      "белый"
+    ],
     "explanation": "'Amarillo' означает 'желтый'. Предложение означает 'Солнце желтое'."
   },
   "q_vocab_a1_05_006": {
     "question": "Машина зеленая.",
     "correct": "El coche es verde.",
-    "wrong": ["El coche es rojo.", "El coche es azul.", "La coche es verde."],
+    "wrong": [
+      "El coche es rojo.",
+      "El coche es azul.",
+      "La coche es verde."
+    ],
     "explanation": "'Verde' означает 'зеленый'. 'Coche' (машина) — мужского рода, поэтому мы используем 'el'. 'Verde' не меняется по родам."
   },
   "q_vocab_a1_05_007": {
     "question": "Что означает 'gris' в 'El gato es gris'?",
     "correct": "серый",
-    "wrong": ["коричневый", "белый", "черный"],
+    "wrong": [
+      "коричневый",
+      "белый",
+      "черный"
+    ],
     "explanation": "'Gris' означает 'серый'. Как 'azul' и 'verde', оно не меняет форму для мужского/женского рода."
   },
   "q_vocab_a1_05_008": {
     "question": "¿De qué color es la naranja?",
     "correct": "Какого цвета апельсин?",
-    "wrong": ["Где апельсин?", "Сколько стоит апельсин?", "Нравится ли тебе апельсин?"],
+    "wrong": [
+      "Где апельсин?",
+      "Сколько стоит апельсин?",
+      "Нравится ли тебе апельсин?"
+    ],
     "explanation": "'¿De qué color es...?' означает 'Какого цвета...?' Это стандартный способ спросить о цветах в испанском языке."
   },
   "q_vocab_a1_05_009": {
     "question": "Вы покупаете одежду и хотите спросить, есть ли рубашка розового цвета. Что вы говорите?",
     "correct": "¿Tiene esta camisa en rosa?",
-    "wrong": ["¿Tiene esta camisa en rojo?", "¿Tiene esta camisa en marrón?", "¿Tiene esta falda en rosa?"],
+    "wrong": [
+      "¿Tiene esta camisa en rojo?",
+      "¿Tiene esta camisa en marrón?",
+      "¿Tiene esta falda en rosa?"
+    ],
     "explanation": "'Rosa' означает 'розовый'. '¿Tiene... en rosa?' — естественный способ спросить, есть ли что-то розового цвета.",
     "context": "Покупка одежды в магазине"
   },
   "q_vocab_a1_05_010": {
     "question": "Друг спрашивает о вашем любимом цвете. Как сказать 'Мой любимый цвет синий'?",
     "correct": "Mi color favorito es el azul.",
-    "wrong": ["Mi color favorito es el rojo.", "Mi color favorita es la azul.", "Mi color favorito es el verde."],
+    "wrong": [
+      "Mi color favorito es el rojo.",
+      "Mi color favorita es la azul.",
+      "Mi color favorito es el verde."
+    ],
     "explanation": "'Color' — мужского рода, поэтому мы говорим 'favorito' (а не 'favorita'). 'Azul' означает 'синий'.",
     "context": "Разговор о любимых цветах с другом"
   },
   "q_vocab_a1_06_001": {
     "question": "Что означает 'agua'?",
     "correct": "вода",
-    "wrong": ["молоко", "сок", "кофе"],
+    "wrong": [
+      "молоко",
+      "сок",
+      "кофе"
+    ],
     "explanation": "'Agua' означает 'вода'. Несмотря на то, что это женский род, в единственном числе используется 'el': 'el agua' (чтобы избежать двух звуков 'a' подряд)."
   },
   "q_vocab_a1_06_002": {
     "question": "Quiero un ___ con leche, por favor.",
     "correct": "café",
-    "wrong": ["pan", "arroz", "pollo"],
+    "wrong": [
+      "pan",
+      "arroz",
+      "pollo"
+    ],
     "explanation": "'Café con leche' означает 'кофе с молоком', очень популярный напиток в Испании и Латинской Америке."
   },
   "q_vocab_a1_06_003": {
     "question": "Что означает 'pan'?",
     "correct": "хлеб",
-    "wrong": ["рис", "мясо", "сыр"],
+    "wrong": [
+      "рис",
+      "мясо",
+      "сыр"
+    ],
     "explanation": "'Pan' означает 'хлеб'. Это один из самых основных продуктов питания в испаноязычных странах."
   },
   "q_vocab_a1_06_004": {
     "question": "Что означает 'pollo'?",
     "correct": "курица",
-    "wrong": ["рыба", "говядина", "свинина"],
+    "wrong": [
+      "рыба",
+      "говядина",
+      "свинина"
+    ],
     "explanation": "'Pollo' означает 'курица'. 'Carne' — общее слово для 'мясо'."
   },
   "q_vocab_a1_06_005": {
     "question": "Я хочу стакан апельсинового сока.",
     "correct": "Quiero un vaso de zumo de naranja.",
-    "wrong": ["Quiero un vaso de leche de naranja.", "Quiero una taza de zumo de naranja.", "Quiero un vaso de vino de naranja."],
+    "wrong": [
+      "Quiero un vaso de leche de naranja.",
+      "Quiero una taza de zumo de naranja.",
+      "Quiero un vaso de vino de naranja."
+    ],
     "explanation": "'Zumo' означает 'сок' (используется в Испании; 'jugo' используется в Латинской Америке). 'Vaso' означает 'стакан'."
   },
   "q_vocab_a1_06_006": {
     "question": "Что означает 'pescado' в 'El pescado está fresco'?",
     "correct": "рыба (как еда)",
-    "wrong": ["курица", "мясо", "креветка"],
+    "wrong": [
+      "курица",
+      "мясо",
+      "креветка"
+    ],
     "explanation": "'Pescado' относится к рыбе как еде. 'Pez' — живая рыба. Предложение означает 'Рыба свежая'."
   },
   "q_vocab_a1_06_007": {
     "question": "Вы в ресторане, и официант спрашивает, что вы хотите пить. Как заказать пиво?",
     "correct": "Una cerveza, por favor.",
-    "wrong": ["Un café, por favor.", "Un té, por favor.", "Un agua, por favor."],
+    "wrong": [
+      "Un café, por favor.",
+      "Un té, por favor.",
+      "Un agua, por favor."
+    ],
     "explanation": "'Cerveza' означает 'пиво'. 'Una cerveza, por favor' — вежливый способ заказать пиво в ресторане.",
     "context": "Заказ напитка в ресторане"
   },
   "q_vocab_a1_06_008": {
     "question": "Что означает 'ensalada' в 'La ensalada está rica'?",
     "correct": "салат",
-    "wrong": ["суп", "сэндвич", "омлет"],
+    "wrong": [
+      "суп",
+      "сэндвич",
+      "омлет"
+    ],
     "explanation": "'Ensalada' означает 'салат'. 'Rica' здесь означает 'вкусная'. Предложение означает 'Салат вкусный'."
   },
   "q_vocab_a1_06_009": {
     "question": "Me gustan las frutas y las verduras.",
     "correct": "Мне нравятся фрукты и овощи.",
-    "wrong": ["Мне нравятся мясо и рыба.", "Мне нравятся хлеб и сыр.", "Мне нравятся кофе и чай."],
+    "wrong": [
+      "Мне нравятся мясо и рыба.",
+      "Мне нравятся хлеб и сыр.",
+      "Мне нравятся кофе и чай."
+    ],
     "explanation": "'Frutas' означает 'фрукты', а 'verduras' означает 'овощи'. 'Me gustan' используется с существительными во множественном числе."
   },
   "q_vocab_a1_06_010": {
     "question": "Вы гость в испанском доме, и хозяин предлагает вам еду. Как вежливо принять?",
     "correct": "Sí, gracias. Tiene muy buena pinta.",
-    "wrong": ["No quiero nada.", "Dame más comida.", "No me gusta la comida española."],
+    "wrong": [
+      "No quiero nada.",
+      "Dame más comida.",
+      "No me gusta la comida española."
+    ],
     "explanation": "'Tiene muy buena pinta' означает 'Выглядит очень хорошо'. Это вежливый и благодарный способ принять еду.",
     "context": "Предложение еды в чьем-то доме"
   },
   "q_vocab_a1_07_001": {
     "question": "Что означает 'cabeza'?",
     "correct": "голова",
-    "wrong": ["рука", "нога", "рука (от плеча до кисти)"],
+    "wrong": [
+      "рука",
+      "нога",
+      "рука (от плеча до кисти)"
+    ],
     "explanation": "'Cabeza' означает 'голова'. 'Me duele la cabeza' означает 'У меня болит голова' (головная боль)."
   },
   "q_vocab_a1_07_002": {
     "question": "Что означает 'mano'?",
     "correct": "рука (кисть)",
-    "wrong": ["нога", "рука (от плеча до кисти)", "палец"],
+    "wrong": [
+      "нога",
+      "рука (от плеча до кисти)",
+      "палец"
+    ],
     "explanation": "'Mano' означает 'рука' (кисть). Примечание: несмотря на окончание -o, 'mano' женского рода (la mano)."
   },
   "q_vocab_a1_07_003": {
     "question": "No puedo caminar, me duele el ___.",
     "correct": "pie",
-    "wrong": ["ojo", "dedo", "diente"],
+    "wrong": [
+      "ojo",
+      "dedo",
+      "diente"
+    ],
     "explanation": "'Pie' означает 'нога' (ступня). Предложение означает 'Я не могу ходить, у меня болит нога'."
   },
   "q_vocab_a1_07_004": {
     "question": "Что означает 'ojo'?",
     "correct": "глаз",
-    "wrong": ["ухо", "нос", "рот"],
+    "wrong": [
+      "ухо",
+      "нос",
+      "рот"
+    ],
     "explanation": "'Ojo' означает 'глаз'. Множественное число — 'ojos'. 'Tiene los ojos azules' = 'У него/нее голубые глаза'."
   },
   "q_vocab_a1_07_005": {
     "question": "Что означает 'espalda' в 'Me duele la espalda'?",
     "correct": "спина",
-    "wrong": ["живот", "грудь", "шея"],
+    "wrong": [
+      "живот",
+      "грудь",
+      "шея"
+    ],
     "explanation": "'Espalda' означает 'спина' (часть тела). Предложение означает 'У меня болит спина'."
   },
   "q_vocab_a1_07_006": {
     "question": "Я чищу зубы каждое утро.",
     "correct": "Me lavo los dientes cada mañana.",
-    "wrong": ["Me lavo las manos cada mañana.", "Me lavo el pelo cada mañana.", "Me lavo los ojos cada mañana."],
+    "wrong": [
+      "Me lavo las manos cada mañana.",
+      "Me lavo el pelo cada mañana.",
+      "Me lavo los ojos cada mañana."
+    ],
     "explanation": "'Dientes' означает 'зубы' (единственное число: 'diente'). В испанском языке мы говорим 'lavarse los dientes' (мыть зубы), а не 'чистить'."
   },
   "q_vocab_a1_07_007": {
     "question": "Что означает 'boca' в 'Abre la boca'?",
     "correct": "рот",
-    "wrong": ["глаз", "рука", "ухо"],
+    "wrong": [
+      "глаз",
+      "рука",
+      "ухо"
+    ],
     "explanation": "'Boca' означает 'рот'. 'Abre la boca' означает 'Открой рот', обычно слышимое у стоматолога."
   },
   "q_vocab_a1_07_008": {
     "question": "Tengo el pelo largo y los ojos marrones.",
     "correct": "У меня длинные волосы и карие глаза.",
-    "wrong": ["У меня короткие волосы и голубые глаза.", "У меня длинные руки и карие глаза.", "У меня длинные волосы и зеленые глаза."],
+    "wrong": [
+      "У меня короткие волосы и голубые глаза.",
+      "У меня длинные руки и карие глаза.",
+      "У меня длинные волосы и зеленые глаза."
+    ],
     "explanation": "'Pelo' означает 'волосы', 'largo' означает 'длинный', а 'ojos marrones' означает 'карие глаза'."
   },
   "q_vocab_a1_07_009": {
     "question": "Вы у врача и вам нужно сказать, где болит. Как сказать 'У меня болит живот'?",
     "correct": "Me duele el estómago.",
-    "wrong": ["Me duele la cabeza.", "Me duele la espalda.", "Me duele el brazo."],
+    "wrong": [
+      "Me duele la cabeza.",
+      "Me duele la espalda.",
+      "Me duele el brazo."
+    ],
     "explanation": "'Estómago' означает 'живот'. 'Me duele' используется для частей тела в единственном числе, которые болят.",
     "context": "Визит к врачу с болью в животе"
   },
   "q_vocab_a1_07_010": {
     "question": "Вы описываете внешность друга. Как сказать 'У нее большие уши и маленький нос'?",
     "correct": "Tiene las orejas grandes y la nariz pequeña.",
-    "wrong": ["Tiene los ojos grandes y la boca pequeña.", "Tiene las orejas pequeñas y la nariz grande.", "Tiene las manos grandes y los pies pequeños."],
+    "wrong": [
+      "Tiene los ojos grandes y la boca pequeña.",
+      "Tiene las orejas pequeñas y la nariz grande.",
+      "Tiene las manos grandes y los pies pequeños."
+    ],
     "explanation": "'Orejas' означает 'уши', а 'nariz' означает 'нос'. В испанском языке мы используем 'tener' (иметь) для описания физических характеристик.",
     "context": "Описание физических особенностей друга"
   },
   "q_vocab_a1_08_001": {
     "question": "Что означает 'zapatos'?",
     "correct": "туфли / ботинки",
-    "wrong": ["сапоги", "носки", "сандалии"],
+    "wrong": [
+      "сапоги",
+      "носки",
+      "сандалии"
+    ],
     "explanation": "'Zapatos' означает 'туфли / ботинки' (единственное число: 'zapato'). 'Un par de zapatos' = 'пара обуви'."
   },
   "q_vocab_a1_08_002": {
     "question": "Hace frío, necesito mi ___.",
     "correct": "abrigo",
-    "wrong": ["camiseta", "falda", "sombrero"],
+    "wrong": [
+      "camiseta",
+      "falda",
+      "sombrero"
+    ],
     "explanation": "'Abrigo' означает 'пальто'. Предложение означает 'Холодно, мне нужно пальто'."
   },
   "q_vocab_a1_08_003": {
     "question": "Что означает 'camisa'?",
     "correct": "рубашка",
-    "wrong": ["футболка", "куртка", "платье"],
+    "wrong": [
+      "футболка",
+      "куртка",
+      "платье"
+    ],
     "explanation": "'Camisa' означает 'рубашка' (обычно формальная/с пуговицами). 'Camiseta' — футболка."
   },
   "q_vocab_a1_08_004": {
     "question": "Что означает 'vestido'?",
     "correct": "платье",
-    "wrong": ["юбка", "блузка", "брюки"],
+    "wrong": [
+      "юбка",
+      "блузка",
+      "брюки"
+    ],
     "explanation": "'Vestido' означает 'платье'. Оно происходит от глагола 'vestir' (одевать/носить)."
   },
   "q_vocab_a1_08_005": {
     "question": "Я ношу черные брюки.",
     "correct": "Llevo pantalones negros.",
-    "wrong": ["Llevo pantalones blancos.", "Llevo una falda negra.", "Llevo zapatos negros."],
+    "wrong": [
+      "Llevo pantalones blancos.",
+      "Llevo una falda negra.",
+      "Llevo zapatos negros."
+    ],
     "explanation": "'Pantalones' означает 'брюки'. 'Llevar' обычно используется для 'носить' в испанском языке."
   },
   "q_vocab_a1_08_006": {
     "question": "Что означает 'bolso' в 'Llevo mi bolso al trabajo'?",
     "correct": "сумка / дамская сумочка",
-    "wrong": ["кошелек", "ремень", "шляпа"],
+    "wrong": [
+      "кошелек",
+      "ремень",
+      "шляпа"
+    ],
     "explanation": "'Bolso' означает 'сумка' или 'дамская сумочка'. Предложение означает 'Я беру свою сумку на работу'."
   },
   "q_vocab_a1_08_007": {
     "question": "Вы собираетесь на пляж. Какой предмет вы обычно НЕ берете?",
     "correct": "botas",
-    "wrong": ["gafas", "sombrero", "camiseta"],
+    "wrong": [
+      "gafas",
+      "sombrero",
+      "camiseta"
+    ],
     "explanation": "'Botas' означает 'сапоги', которые не являются типичной пляжной обувью. 'Gafas' (очки/солнцезащитные очки) и 'sombrero' (шляпа) полезны на пляже.",
     "context": "Подготовка к дню на пляже"
   },
   "q_vocab_a1_08_008": {
     "question": "Что означает 'falda' в 'La falda es roja'?",
     "correct": "юбка",
-    "wrong": ["платье", "рубашка", "куртка"],
+    "wrong": [
+      "платье",
+      "рубашка",
+      "куртка"
+    ],
     "explanation": "'Falda' означает 'юбка'. Предложение означает 'Юбка красная'."
   },
   "q_vocab_a1_08_009": {
     "question": "Necesito un cinturón para estos pantalones.",
     "correct": "Мне нужен ремень для этих брюк.",
-    "wrong": ["Мне нужна куртка для этих брюк.", "Мне нужны носки для этих туфель.", "Мне нужна шляпа для этого платья."],
+    "wrong": [
+      "Мне нужна куртка для этих брюк.",
+      "Мне нужны носки для этих туфель.",
+      "Мне нужна шляпа для этого платья."
+    ],
     "explanation": "'Cinturón' означает 'ремень'. Предложение означает, что вам нужен ремень, потому что брюки слишком свободные."
   },
   "q_vocab_a1_08_010": {
     "question": "Вы в магазине одежды и хотите примерить куртку. Что вы говорите?",
     "correct": "¿Puedo probarme esta chaqueta?",
-    "wrong": ["¿Puedo comprar esta chaqueta?", "¿Puedo ver esta chaqueta?", "¿Puedo devolver esta chaqueta?"],
+    "wrong": [
+      "¿Puedo comprar esta chaqueta?",
+      "¿Puedo ver esta chaqueta?",
+      "¿Puedo devolver esta chaqueta?"
+    ],
     "explanation": "'Probarme' означает 'примерить'. 'Chaqueta' означает 'куртка'. Это вежливый способ попросить примерить одежду.",
     "context": "Покупки в магазине одежды"
   },
   "q_vocab_a1_09_001": {
     "question": "Что означает 'cocina'?",
     "correct": "кухня",
-    "wrong": ["спальня", "ванная", "гостиная"],
+    "wrong": [
+      "спальня",
+      "ванная",
+      "гостиная"
+    ],
     "explanation": "'Cocina' означает 'кухня'. Оно также может означать 'готовка' или 'плита' в зависимости от контекста."
   },
   "q_vocab_a1_09_002": {
     "question": "Что означает 'ventana'?",
     "correct": "окно",
-    "wrong": ["дверь", "стена", "крыша"],
+    "wrong": [
+      "дверь",
+      "стена",
+      "крыша"
+    ],
     "explanation": "'Ventana' означает 'окно'. 'Abrir la ventana' = 'открыть окно'."
   },
   "q_vocab_a1_09_003": {
     "question": "Duermo en la ___ todas las noches.",
     "correct": "cama",
-    "wrong": ["mesa", "silla", "puerta"],
+    "wrong": [
+      "mesa",
+      "silla",
+      "puerta"
+    ],
     "explanation": "'Cama' означает 'кровать'. Предложение означает 'Я сплю в кровати каждую ночь'."
   },
   "q_vocab_a1_09_004": {
     "question": "Что означает 'puerta'?",
     "correct": "дверь",
-    "wrong": ["окно", "пол", "потолок"],
+    "wrong": [
+      "окно",
+      "пол",
+      "потолок"
+    ],
     "explanation": "'Puerta' означает 'дверь'. 'Abrir la puerta' = 'открыть дверь', 'cerrar la puerta' = 'закрыть дверь'."
   },
   "q_vocab_a1_09_005": {
     "question": "Что означает 'sofá' в 'Me siento en el sofá'?",
     "correct": "диван / кушетка",
-    "wrong": ["стул", "кровать", "стол"],
+    "wrong": [
+      "стул",
+      "кровать",
+      "стол"
+    ],
     "explanation": "'Sofá' означает 'диван' или 'кушетка'. Предложение означает 'Я сижу на диване'. Обычно находится в 'salón' (гостиная)."
   },
   "q_vocab_a1_09_006": {
     "question": "Зеркало в ванной.",
     "correct": "El espejo está en el baño.",
-    "wrong": ["El espejo está en la cocina.", "La lámpara está en el baño.", "El armario está en el baño."],
+    "wrong": [
+      "El espejo está en la cocina.",
+      "La lámpara está en el baño.",
+      "El armario está en el baño."
+    ],
     "explanation": "'Espejo' означает 'зеркало', а 'baño' означает 'ванная'. Мы используем 'está' для местоположения."
   },
   "q_vocab_a1_09_007": {
     "question": "Что означает 'armario' в 'La ropa está en el armario'?",
     "correct": "шкаф / гардероб",
-    "wrong": ["ящик", "полка", "коробка"],
+    "wrong": [
+      "ящик",
+      "полка",
+      "коробка"
+    ],
     "explanation": "'Armario' означает 'шкаф' или 'гардероб'. Предложение означает 'Одежда в шкафу'."
   },
   "q_vocab_a1_09_008": {
     "question": "Hay una estantería con muchos libros en el salón.",
     "correct": "В гостиной есть книжная полка со многими книгами.",
-    "wrong": ["В кухне есть стол со многими книгами.", "В спальне есть книжная полка со многими книгами.", "В гостиной есть лампа со многими книгами."],
+    "wrong": [
+      "В кухне есть стол со многими книгами.",
+      "В спальне есть книжная полка со многими книгами.",
+      "В гостиной есть лампа со многими книгами."
+    ],
     "explanation": "'Estantería' означает 'книжная полка/стеллаж', а 'salón' означает 'гостиная'. 'Hay' означает 'есть/имеется'."
   },
   "q_vocab_a1_09_009": {
     "question": "Вы ищете квартиру и хотите спросить, есть ли в ней сад. Что вы говорите?",
     "correct": "¿El piso tiene jardín?",
-    "wrong": ["¿El piso tiene cocina?", "¿El piso tiene dormitorio?", "¿El piso tiene baño?"],
+    "wrong": [
+      "¿El piso tiene cocina?",
+      "¿El piso tiene dormitorio?",
+      "¿El piso tiene baño?"
+    ],
     "explanation": "'Jardín' означает 'сад'. 'Piso' означает 'квартира' в Испании. Это обычный вопрос при поиске жилья.",
     "context": "Просмотр квартир с агентом по недвижимости"
   },
   "q_vocab_a1_09_010": {
     "question": "Друг навещает ваш дом. Как сказать 'Спальня рядом с ванной'?",
     "correct": "El dormitorio está al lado del baño.",
-    "wrong": ["El dormitorio está lejos del baño.", "La cocina está al lado del baño.", "El dormitorio está en el baño."],
+    "wrong": [
+      "El dormitorio está lejos del baño.",
+      "La cocina está al lado del baño.",
+      "El dormitorio está en el baño."
+    ],
     "explanation": "'Dormitorio' означает 'спальня', 'al lado de' означает 'рядом с', а 'baño' означает 'ванная'.",
     "context": "Экскурсия по дому для друга"
   },
   "q_vocab_a1_10_001": {
     "question": "Что означает 'libro'?",
     "correct": "книга",
-    "wrong": ["тетрадь", "карандаш", "ручка"],
+    "wrong": [
+      "тетрадь",
+      "карандаш",
+      "ручка"
+    ],
     "explanation": "'Libro' означает 'книга'. 'Librería' означает 'книжный магазин' (не 'библиотека', которая 'biblioteca')."
   },
   "q_vocab_a1_10_002": {
     "question": "El estudiante escribe en el ___.",
     "correct": "cuaderno",
-    "wrong": ["libro", "examen", "pizarra"],
+    "wrong": [
+      "libro",
+      "examen",
+      "pizarra"
+    ],
     "explanation": "'Cuaderno' означает 'тетрадь'. Предложение означает 'Студент пишет в тетради'."
   },
   "q_vocab_a1_10_003": {
     "question": "Что означает 'profesor'?",
     "correct": "учитель / преподаватель",
-    "wrong": ["студент", "директор", "одноклассник"],
+    "wrong": [
+      "студент",
+      "директор",
+      "одноклассник"
+    ],
     "explanation": "'Profesor' означает 'учитель' или 'преподаватель'. Женская форма — 'profesora'."
   },
   "q_vocab_a1_10_004": {
     "question": "Что означает 'examen'?",
     "correct": "экзамен / тест",
-    "wrong": ["домашнее задание", "урок", "оценка"],
+    "wrong": [
+      "домашнее задание",
+      "урок",
+      "оценка"
+    ],
     "explanation": "'Examen' означает 'экзамен' или 'тест'. Множественное число — 'exámenes' (обратите внимание на смещение ударения)."
   },
   "q_vocab_a1_10_005": {
     "question": "Я занимаюсь в библиотеке.",
     "correct": "Estudio en la biblioteca.",
-    "wrong": ["Estudio en la librería.", "Estudio en la escuela.", "Estudio en el aula."],
+    "wrong": [
+      "Estudio en la librería.",
+      "Estudio en la escuela.",
+      "Estudio en el aula."
+    ],
     "explanation": "'Biblioteca' означает 'библиотека'. Будьте осторожны: 'librería' означает 'книжный магазин', а не 'библиотека'."
   },
   "q_vocab_a1_10_006": {
     "question": "Что означает 'pizarra' в 'El profesor escribe en la pizarra'?",
     "correct": "доска (классная)",
-    "wrong": ["парта", "тетрадь", "учебник"],
+    "wrong": [
+      "парта",
+      "тетрадь",
+      "учебник"
+    ],
     "explanation": "'Pizarra' означает 'доска' (классная или маркерная). Предложение означает 'Учитель пишет на доске'."
   },
   "q_vocab_a1_10_007": {
     "question": "Вы забыли сделать домашнее задание. Как сказать учителю?",
     "correct": "Lo siento, no tengo la tarea.",
-    "wrong": ["Lo siento, no tengo el libro.", "Lo siento, no tengo el bolígrafo.", "Lo siento, no tengo el examen."],
+    "wrong": [
+      "Lo siento, no tengo el libro.",
+      "Lo siento, no tengo el bolígrafo.",
+      "Lo siento, no tengo el examen."
+    ],
     "explanation": "'Tarea' означает 'домашнее задание' или 'задание'. В Испании также используется 'deberes' для домашнего задания.",
     "context": "Прибытие на урок без домашнего задания"
   },
   "q_vocab_a1_10_008": {
     "question": "Что означает 'lápiz' в 'Necesito un lápiz'?",
     "correct": "карандаш",
-    "wrong": ["ручка", "ластик", "линейка"],
+    "wrong": [
+      "ручка",
+      "ластик",
+      "линейка"
+    ],
     "explanation": "'Lápiz' означает 'карандаш'. Множественное число — 'lápices'. Ручка — 'bolígrafo' (или неформально 'boli')."
   },
   "q_vocab_a1_10_009": {
     "question": "Mi hermana estudia en la universidad.",
     "correct": "Моя сестра учится в университете.",
-    "wrong": ["Моя сестра учится в школе.", "Мой брат учится в университете.", "Моя сестра работает в университете."],
+    "wrong": [
+      "Моя сестра учится в школе.",
+      "Мой брат учится в университете.",
+      "Моя сестра работает в университете."
+    ],
     "explanation": "'Universidad' означает 'университет'. 'Estudiar en la universidad' = 'учиться в университете'."
   },
   "q_vocab_a1_10_010": {
     "question": "Вам нужно одолжить ручку у одноклассника. Что вы говорите?",
     "correct": "¿Me prestas un bolígrafo?",
-    "wrong": ["¿Me prestas un lápiz?", "¿Me prestas un cuaderno?", "¿Me prestas un libro?"],
+    "wrong": [
+      "¿Me prestas un lápiz?",
+      "¿Me prestas un cuaderno?",
+      "¿Me prestas un libro?"
+    ],
     "explanation": "'Bolígrafo' означает 'ручка'. '¿Me prestas...?' означает 'Можешь одолжить мне...?' что часто используется среди одноклассников.",
     "context": "На уроке без ручки"
   },
   "q_vocab_a1_11_001": {
     "question": "Что означает 'médico'?",
     "correct": "врач",
-    "wrong": ["медсестра", "стоматолог", "фармацевт"],
+    "wrong": [
+      "медсестра",
+      "стоматолог",
+      "фармацевт"
+    ],
     "explanation": "'Médico' означает 'врач'. Женская форма — 'médica'. 'Doctor/Doctora' также часто используется."
   },
   "q_vocab_a1_11_002": {
     "question": "Что означает 'abogado'?",
     "correct": "адвокат",
-    "wrong": ["инженер", "журналист", "бухгалтер"],
+    "wrong": [
+      "инженер",
+      "журналист",
+      "бухгалтер"
+    ],
     "explanation": "'Abogado' означает 'адвокат'. Женская форма — 'abogada'."
   },
   "q_vocab_a1_11_003": {
     "question": "El ___ prepara la comida en el restaurante.",
     "correct": "cocinero",
-    "wrong": ["camarero", "dentista", "policía"],
+    "wrong": [
+      "camarero",
+      "dentista",
+      "policía"
+    ],
     "explanation": "'Cocinero' означает 'повар/шеф-повар'. Предложение означает 'Повар готовит еду в ресторане'."
   },
   "q_vocab_a1_11_004": {
     "question": "Что означает 'enfermero'?",
     "correct": "медсестра / медбрат",
-    "wrong": ["врач", "стоматолог", "пациент"],
+    "wrong": [
+      "врач",
+      "стоматолог",
+      "пациент"
+    ],
     "explanation": "'Enfermero' означает 'медбрат' (мужской род). 'Enfermera' — женская форма. Они работают в больницах и клиниках."
   },
   "q_vocab_a1_11_005": {
     "question": "Что означает 'periodista' в 'El periodista trabaja en un periódico'?",
     "correct": "журналист",
-    "wrong": ["писатель", "редактор", "фотограф"],
+    "wrong": [
+      "писатель",
+      "редактор",
+      "фотограф"
+    ],
     "explanation": "'Periodista' означает 'журналист'. Это слово одинаково для мужского и женского рода. Предложение означает 'Журналист работает в газете'."
   },
   "q_vocab_a1_11_006": {
     "question": "Мой отец инженер.",
     "correct": "Mi padre es ingeniero.",
-    "wrong": ["Mi padre es abogado.", "Mi padre es profesor.", "Mi padre es médico."],
+    "wrong": [
+      "Mi padre es abogado.",
+      "Mi padre es profesor.",
+      "Mi padre es médico."
+    ],
     "explanation": "'Ingeniero' означает 'инженер'. В испанском языке профессии после 'ser' обычно не используют артикль (не 'un')."
   },
   "q_vocab_a1_11_007": {
     "question": "Что означает 'camarero' в 'El camarero trae la cuenta'?",
     "correct": "официант",
-    "wrong": ["шеф-повар", "менеджер", "клиент"],
+    "wrong": [
+      "шеф-повар",
+      "менеджер",
+      "клиент"
+    ],
     "explanation": "'Camarero' означает 'официант'. Предложение означает 'Официант приносит счет'. 'Camarera' — официантка."
   },
   "q_vocab_a1_11_008": {
     "question": "Soy estudiante de medicina. Quiero ser médico.",
     "correct": "Я студент-медик. Я хочу быть врачом.",
-    "wrong": ["Я студент юридического факультета. Я хочу быть адвокатом.", "Я студент-медик. Я хочу быть медсестрой.", "Я студент художественного факультета. Я хочу быть врачом."],
+    "wrong": [
+      "Я студент юридического факультета. Я хочу быть адвокатом.",
+      "Я студент-медик. Я хочу быть медсестрой.",
+      "Я студент художественного факультета. Я хочу быть врачом."
+    ],
     "explanation": "'Estudiante de medicina' означает 'студент-медик'. 'Quiero ser' означает 'Я хочу быть'."
   },
   "q_vocab_a1_11_009": {
     "question": "Вы встречаете кого-то на вечеринке, и они спрашивают, чем вы занимаетесь. Как сказать 'Я учитель'?",
     "correct": "Soy profesor.",
-    "wrong": ["Soy estudiante.", "Soy un profesor.", "Estoy profesor."],
+    "wrong": [
+      "Soy estudiante.",
+      "Soy un profesor.",
+      "Estoy profesor."
+    ],
     "explanation": "Мы используем 'soy' (а не 'estoy') для профессий, потому что они считаются постоянными чертами. Артикль перед профессией не нужен.",
     "context": "Знакомство с кем-то новым на вечеринке"
   },
   "q_vocab_a1_11_010": {
     "question": "Вы звоните в службу экстренной помощи. Как попросить полицию?",
     "correct": "¡Necesito la policía!",
-    "wrong": ["¡Necesito un médico!", "¡Necesito un bombero!", "¡Necesito una ambulancia!"],
+    "wrong": [
+      "¡Necesito un médico!",
+      "¡Necesito un bombero!",
+      "¡Necesito una ambulancia!"
+    ],
     "explanation": "'Policía' может означать 'полиция' (служба) или 'полицейский'. Здесь это относится к вызову полиции.",
     "context": "Звонок в экстренную службу"
   },
   "q_vocab_a1_12_001": {
     "question": "Что означает 'sol'?",
     "correct": "солнце",
-    "wrong": ["луна", "звезда", "облако"],
+    "wrong": [
+      "луна",
+      "звезда",
+      "облако"
+    ],
     "explanation": "'Sol' означает 'солнце'. 'Hace sol' означает 'Солнечно' (буквально 'Делает солнце')."
   },
   "q_vocab_a1_12_002": {
     "question": "Hoy no hay ___, el cielo está azul.",
     "correct": "nubes",
-    "wrong": ["sol", "lluvia", "viento"],
+    "wrong": [
+      "sol",
+      "lluvia",
+      "viento"
+    ],
     "explanation": "'Nubes' означает 'облака' (единственное число: 'nube'). Предложение означает 'Сегодня нет облаков, небо синее'."
   },
   "q_vocab_a1_12_003": {
     "question": "Что означает 'lluvia'?",
     "correct": "дождь",
-    "wrong": ["снег", "ветер", "буря"],
+    "wrong": [
+      "снег",
+      "ветер",
+      "буря"
+    ],
     "explanation": "'Lluvia' означает 'дождь'. Глагольная форма — 'llover' (идти дождю): 'Está lloviendo' = 'Идет дождь'."
   },
   "q_vocab_a1_12_004": {
     "question": "Что означает 'árbol'?",
     "correct": "дерево",
-    "wrong": ["цветок", "куст", "лист"],
+    "wrong": [
+      "цветок",
+      "куст",
+      "лист"
+    ],
     "explanation": "'Árbol' означает 'дерево'. Множественное число — 'árboles'. 'Bosque' означает 'лес' (много деревьев)."
   },
   "q_vocab_a1_12_005": {
     "question": "Сегодня очень холодно и идет снег.",
     "correct": "Hoy hace mucho frío y está nevando.",
-    "wrong": ["Hoy hace mucho calor y está nevando.", "Hoy hace mucho frío y está lloviendo.", "Hoy hace mucho viento y está nevando."],
+    "wrong": [
+      "Hoy hace mucho calor y está nevando.",
+      "Hoy hace mucho frío y está lloviendo.",
+      "Hoy hace mucho viento y está nevando."
+    ],
     "explanation": "'Frío' означает 'холодно', 'nieve' означает 'снег', а 'nevar' означает 'идти снегу'. 'Está nevando' = 'идет снег'."
   },
   "q_vocab_a1_12_006": {
     "question": "Что означает 'montaña' в 'Vamos a la montaña este fin de semana'?",
     "correct": "гора",
-    "wrong": ["пляж", "река", "озеро"],
+    "wrong": [
+      "пляж",
+      "река",
+      "озеро"
+    ],
     "explanation": "'Montaña' означает 'гора'. Предложение означает 'Мы едем в горы в эти выходные'."
   },
   "q_vocab_a1_12_007": {
     "question": "Вы хотите пойти на пляж. На какую погоду вы надеетесь?",
     "correct": "Hace sol y calor.",
-    "wrong": ["Llueve mucho.", "Hace frío y viento.", "Está nevando."],
+    "wrong": [
+      "Llueve mucho.",
+      "Hace frío y viento.",
+      "Está nevando."
+    ],
     "explanation": "'Hace sol y calor' означает 'Солнечно и жарко'. Это идеальная пляжная погода. 'Calor' означает 'жара/жарко'.",
     "context": "Планирование поездки на пляж"
   },
   "q_vocab_a1_12_008": {
     "question": "Что означает 'río' в 'El río es muy largo'?",
     "correct": "река",
-    "wrong": ["море", "озеро", "ручей"],
+    "wrong": [
+      "море",
+      "озеро",
+      "ручей"
+    ],
     "explanation": "'Río' означает 'река'. Предложение означает 'Река очень длинная'. 'Mar' означает 'море'."
   },
   "q_vocab_a1_12_009": {
     "question": "Las flores son muy bonitas en primavera.",
     "correct": "Цветы очень красивые весной.",
-    "wrong": ["Деревья очень красивые весной.", "Цветы очень красивые летом.", "Цветы очень большие весной."],
+    "wrong": [
+      "Деревья очень красивые весной.",
+      "Цветы очень красивые летом.",
+      "Цветы очень большие весной."
+    ],
     "explanation": "'Flores' означает 'цветы' (единственное число: 'flor'). 'Bonitas' означает 'красивые'. Цветы обычно расцветают в 'primavera' (весна)."
   },
   "q_vocab_a1_12_010": {
     "question": "Вы смотрите прогноз погоды и хотите узнать о завтрашней погоде. Как спросить 'Какая будет погода завтра?'",
     "correct": "¿Qué tiempo hará mañana?",
-    "wrong": ["¿Qué hora es mañana?", "¿Qué día es mañana?", "¿Cuándo es mañana?"],
+    "wrong": [
+      "¿Qué hora es mañana?",
+      "¿Qué día es mañana?",
+      "¿Cuándo es mañana?"
+    ],
     "explanation": "'Tiempo' здесь означает 'погода' (оно также может означать 'время'). '¿Qué tiempo hará?' использует будущее время глагола 'hacer'.",
     "context": "Просмотр прогноза погоды по телевизору"
   },
   "q_vocab_a1_13_001": {
     "question": "Что означает 'coche'?",
     "correct": "машина",
-    "wrong": ["автобус", "поезд", "велосипед"],
+    "wrong": [
+      "автобус",
+      "поезд",
+      "велосипед"
+    ],
     "explanation": "'Coche' означает 'машина'. В Латинской Америке более распространены 'carro' или 'auto'."
   },
   "q_vocab_a1_13_002": {
     "question": "Что означает 'avión'?",
     "correct": "самолет",
-    "wrong": ["поезд", "лодка", "вертолет"],
+    "wrong": [
+      "поезд",
+      "лодка",
+      "вертолет"
+    ],
     "explanation": "'Avión' означает 'самолет'. 'Aeropuerto' означает 'аэропорт'. 'Viajar en avión' = 'путешествовать на самолете'."
   },
   "q_vocab_a1_13_003": {
     "question": "Voy al trabajo en ___ porque no tengo coche.",
     "correct": "autobús",
-    "wrong": ["avión", "barco", "taxi"],
+    "wrong": [
+      "avión",
+      "barco",
+      "taxi"
+    ],
     "explanation": "'Autobús' означает 'автобус'. Предложение означает 'Я езжу на работу на автобусе, потому что у меня нет машины'."
   },
   "q_vocab_a1_13_004": {
     "question": "Что означает 'bicicleta'?",
     "correct": "велосипед",
-    "wrong": ["мотоцикл", "скутер", "машина"],
+    "wrong": [
+      "мотоцикл",
+      "скутер",
+      "машина"
+    ],
     "explanation": "'Bicicleta' означает 'велосипед'. В разговорной речи часто сокращается до 'bici'."
   },
   "q_vocab_a1_13_005": {
     "question": "Что означает 'metro' в 'Tomo el metro para ir al centro'?",
     "correct": "метро",
-    "wrong": ["автобус", "такси", "трамвай"],
+    "wrong": [
+      "автобус",
+      "такси",
+      "трамвай"
+    ],
     "explanation": "'Metro' означает 'метро'. Предложение означает 'Я еду на метро, чтобы попасть в центр (города)'."
   },
   "q_vocab_a1_13_006": {
     "question": "Я хожу в школу пешком.",
     "correct": "Voy a la escuela a pie.",
-    "wrong": ["Voy a la escuela en coche.", "Voy a la escuela en tren.", "Voy a la escuela en moto."],
+    "wrong": [
+      "Voy a la escuela en coche.",
+      "Voy a la escuela en tren.",
+      "Voy a la escuela en moto."
+    ],
     "explanation": "'A pie' означает 'пешком'. Мы говорим 'ir a pie' (идти пешком), а не 'caminar a' в этом контексте."
   },
   "q_vocab_a1_13_007": {
     "question": "Что означает 'tren' в 'El tren sale a las ocho'?",
     "correct": "поезд",
-    "wrong": ["автобус", "самолет", "такси"],
+    "wrong": [
+      "автобус",
+      "самолет",
+      "такси"
+    ],
     "explanation": "'Tren' означает 'поезд'. Предложение означает 'Поезд отправляется в восемь'. 'Estación de tren' = 'железнодорожная станция'."
   },
   "q_vocab_a1_13_008": {
     "question": "Quiero viajar a la isla en barco.",
     "correct": "Я хочу поехать на остров на лодке.",
-    "wrong": ["Я хочу поехать на остров на самолете.", "Я хочу поехать в город на лодке.", "Я хочу поехать на остров на поезде."],
+    "wrong": [
+      "Я хочу поехать на остров на самолете.",
+      "Я хочу поехать в город на лодке.",
+      "Я хочу поехать на остров на поезде."
+    ],
     "explanation": "'Barco' означает 'лодка' или 'корабль'. 'Isla' означает 'остров'. 'En barco' означает 'на лодке'."
   },
   "q_vocab_a1_13_009": {
     "question": "Вам нужно быстро добраться до аэропорта. Какой лучший вариант?",
     "correct": "Voy a tomar un taxi.",
-    "wrong": ["Voy a ir a pie.", "Voy a tomar el barco.", "Voy a ir en bicicleta."],
+    "wrong": [
+      "Voy a ir a pie.",
+      "Voy a tomar el barco.",
+      "Voy a ir en bicicleta."
+    ],
     "explanation": "'Taxi' — то же слово в испанском и английском языках. Такси — самый быстрый и практичный способ добраться до аэропорта.",
     "context": "Опоздание на рейс"
   },
   "q_vocab_a1_13_010": {
     "question": "Ваш друг спрашивает, как вы добираетесь на работу. Как сказать 'Я езжу на работу на мотоцикле'?",
     "correct": "Voy al trabajo en moto.",
-    "wrong": ["Voy al trabajo en metro.", "Voy al trabajo en taxi.", "Voy al trabajo a pie."],
+    "wrong": [
+      "Voy al trabajo en metro.",
+      "Voy al trabajo en taxi.",
+      "Voy al trabajo a pie."
+    ],
     "explanation": "'Moto' — сокращение от 'motocicleta' (мотоцикл). 'En moto' означает 'на мотоцикле'. 'Ir en moto' — естественное выражение.",
     "context": "Обсуждение ежедневной поездки с другом"
   },
   "q_vocab_a1_14_001": {
     "question": "Что означает 'comer'?",
     "correct": "есть",
-    "wrong": ["пить", "готовить", "спать"],
+    "wrong": [
+      "пить",
+      "готовить",
+      "спать"
+    ],
     "explanation": "'Comer' означает 'есть'. 'La comida' означает 'еда' или 'прием пищи' (особенно обед в Испании)."
   },
   "q_vocab_a1_14_002": {
     "question": "Me gusta ___ libros por la noche.",
     "correct": "leer",
-    "wrong": ["ver", "hacer", "dormir"],
+    "wrong": [
+      "ver",
+      "hacer",
+      "dormir"
+    ],
     "explanation": "'Leer' означает 'читать'. Предложение означает 'Мне нравится читать книги по ночам'."
   },
   "q_vocab_a1_14_003": {
     "question": "Что означает 'dormir'?",
     "correct": "спать",
-    "wrong": ["мечтать", "отдыхать", "просыпаться"],
+    "wrong": [
+      "мечтать",
+      "отдыхать",
+      "просыпаться"
+    ],
     "explanation": "'Dormir' означает 'спать'. Это глагол с изменением основы: duermo, duermes, duerme..."
   },
   "q_vocab_a1_14_004": {
     "question": "Что означает 'hablar'?",
     "correct": "говорить / разговаривать",
-    "wrong": ["слушать", "писать", "читать"],
+    "wrong": [
+      "слушать",
+      "писать",
+      "читать"
+    ],
     "explanation": "'Hablar' означает 'говорить' или 'разговаривать'. 'Hablar español' = 'говорить по-испански'."
   },
   "q_vocab_a1_14_005": {
     "question": "Я открываю окно каждое утро.",
     "correct": "Abro la ventana cada mañana.",
-    "wrong": ["Cierro la ventana cada mañana.", "Abro la puerta cada mañana.", "Abro la ventana cada noche."],
+    "wrong": [
+      "Cierro la ventana cada mañana.",
+      "Abro la puerta cada mañana.",
+      "Abro la ventana cada noche."
+    ],
     "explanation": "'Abrir' означает 'открывать'. 'Abro' — форма первого лица единственного числа (yo). Его противоположность — 'cerrar' (закрывать)."
   },
   "q_vocab_a1_14_006": {
     "question": "Что означает 'escribir' в 'Escribo un correo electrónico'?",
     "correct": "писать",
-    "wrong": ["читать", "отправлять", "печатать"],
+    "wrong": [
+      "читать",
+      "отправлять",
+      "печатать"
+    ],
     "explanation": "'Escribir' означает 'писать'. Предложение означает 'Я пишу электронное письмо'. 'Correo electrónico' = 'email'."
   },
   "q_vocab_a1_14_007": {
     "question": "Вы на автобусной остановке, и автобус опаздывает. Какой глагол описывает то, что вы делаете?",
     "correct": "esperar",
-    "wrong": ["correr", "llamar", "dormir"],
+    "wrong": [
+      "correr",
+      "llamar",
+      "dormir"
+    ],
     "explanation": "'Esperar' означает 'ждать'. 'Estoy esperando el autobús' = 'Я жду автобус'.",
     "context": "Ожидание опаздывающего автобуса"
   },
   "q_vocab_a1_14_008": {
     "question": "Что означает 'beber' в '¿Quieres beber algo?'?",
     "correct": "пить",
-    "wrong": ["есть", "покупать", "хотеть"],
+    "wrong": [
+      "есть",
+      "покупать",
+      "хотеть"
+    ],
     "explanation": "'Beber' означает 'пить'. Предложение означает 'Хочешь выпить что-нибудь?' 'Tomar' также используется для 'пить'."
   },
   "q_vocab_a1_14_009": {
     "question": "Me levanto a las siete y me ducho antes de desayunar.",
     "correct": "Я встаю в семь и принимаю душ перед завтраком.",
-    "wrong": ["Я ложусь спать в семь и принимаю душ перед ужином.", "Я встаю в семь и ем перед душем.", "Я встаю в восемь и принимаю душ перед завтраком."],
+    "wrong": [
+      "Я ложусь спать в семь и принимаю душ перед ужином.",
+      "Я встаю в семь и ем перед душем.",
+      "Я встаю в восемь и принимаю душ перед завтраком."
+    ],
     "explanation": "'Levantarse' означает 'вставать', 'ducharse' означает 'принимать душ', а 'desayunar' означает 'завтракать'."
   },
   "q_vocab_a1_14_010": {
     "question": "Ваш телефон звонит во время встречи. Как сказать коллегам, что вам нужно сделать?",
     "correct": "Necesito llamar por teléfono.",
-    "wrong": ["Necesito dormir un poco.", "Necesito comer algo.", "Necesito leer un libro."],
+    "wrong": [
+      "Necesito dormir un poco.",
+      "Necesito comer algo.",
+      "Necesito leer un libro."
+    ],
     "explanation": "'Llamar' означает 'звонить'. 'Llamar por teléfono' означает 'звонить по телефону'. Оно также может означать 'называть'.",
     "context": "Получение телефонного звонка во время встречи"
   },
   "q_vocab_a1_15_001": {
     "question": "Что означает 'contento'?",
     "correct": "счастливый / довольный",
-    "wrong": ["грустный", "злой", "уставший"],
+    "wrong": [
+      "грустный",
+      "злой",
+      "уставший"
+    ],
     "explanation": "'Contento' означает 'счастливый' или 'довольный'. Женская форма — 'contenta'. Похож на 'feliz', но менее интенсивный."
   },
   "q_vocab_a1_15_002": {
     "question": "Что означает 'triste'?",
     "correct": "грустный",
-    "wrong": ["счастливый", "злой", "скучающий"],
+    "wrong": [
+      "счастливый",
+      "злой",
+      "скучающий"
+    ],
     "explanation": "'Triste' означает 'грустный'. В отличие от многих прилагательных, оно имеет одинаковую форму для мужского и женского рода."
   },
   "q_vocab_a1_15_003": {
     "question": "Estoy muy ___ después de trabajar todo el día.",
     "correct": "cansado",
-    "wrong": ["contento", "nervioso", "aburrido"],
+    "wrong": [
+      "contento",
+      "nervioso",
+      "aburrido"
+    ],
     "explanation": "'Cansado' означает 'уставший'. Предложение означает 'Я очень устал после работы весь день'. Используйте 'estar' для временных состояний."
   },
   "q_vocab_a1_15_004": {
     "question": "Что означает 'enfermo'?",
     "correct": "больной",
-    "wrong": ["здоровый", "уставший", "грустный"],
+    "wrong": [
+      "здоровый",
+      "уставший",
+      "грустный"
+    ],
     "explanation": "'Enfermo' означает 'больной'. 'Estoy enfermo' = 'Я болен'. Женская форма — 'enferma'."
   },
   "q_vocab_a1_15_005": {
     "question": "Что означает 'preocupado' в 'Estoy preocupado por el examen'?",
     "correct": "обеспокоенный / взволнованный",
-    "wrong": ["взволнованный (от радости)", "нервный", "скучающий"],
+    "wrong": [
+      "взволнованный (от радости)",
+      "нервный",
+      "скучающий"
+    ],
     "explanation": "'Preocupado' означает 'обеспокоенный' или 'взволнованный'. Предложение означает 'Я обеспокоен экзаменом'. 'Preocuparse' = 'беспокоиться'."
   },
   "q_vocab_a1_15_006": {
     "question": "Я очень нервничаю перед собеседованием.",
     "correct": "Estoy muy nervioso por la entrevista.",
-    "wrong": ["Estoy muy contento por la entrevista.", "Estoy muy aburrido por la entrevista.", "Soy muy nervioso por la entrevista."],
+    "wrong": [
+      "Estoy muy contento por la entrevista.",
+      "Estoy muy aburrido por la entrevista.",
+      "Soy muy nervioso por la entrevista."
+    ],
     "explanation": "'Nervioso' означает 'нервный'. Мы используем 'estar' (а не 'ser'), потому что нервозность — временное состояние.",
     "hint": "Временные эмоции используют 'estar', а не 'ser'"
   },
   "q_vocab_a1_15_007": {
     "question": "Что означает 'enfadado' в 'Mi padre está enfadado conmigo'?",
     "correct": "злой / сердитый",
-    "wrong": ["счастливый", "гордый", "разочарованный"],
+    "wrong": [
+      "счастливый",
+      "гордый",
+      "разочарованный"
+    ],
     "explanation": "'Enfadado' означает 'злой' или 'сердитый'. Предложение означает 'Мой отец зол на меня'. В Латинской Америке более распространен 'enojado'."
   },
   "q_vocab_a1_15_008": {
     "question": "¿Cómo estás? — Estoy bien, gracias.",
     "correct": "Как дела? — Хорошо, спасибо.",
-    "wrong": ["Как дела? — Плохо, спасибо.", "Как тебя зовут? — Хорошо, спасибо.", "Как дела? — Устал, спасибо."],
+    "wrong": [
+      "Как дела? — Плохо, спасибо.",
+      "Как тебя зовут? — Хорошо, спасибо.",
+      "Как дела? — Устал, спасибо."
+    ],
     "explanation": "'Bien' означает 'хорошо'. 'Estoy bien' — стандартный положительный ответ на '¿Cómo estás?'."
   },
   "q_vocab_a1_15_009": {
     "question": "Ваш друг получил сюрприз в виде вечеринки по поводу дня рождения. Как бы вы описали их реакцию?",
     "correct": "Está muy sorprendido y emocionado.",
-    "wrong": ["Está muy triste y cansado.", "Está muy enfadado y preocupado.", "Está muy aburrido y nervioso."],
+    "wrong": [
+      "Está muy triste y cansado.",
+      "Está muy enfadado y preocupado.",
+      "Está muy aburrido y nervioso."
+    ],
     "explanation": "'Sorprendido' означает 'удивленный', а 'emocionado' означает 'взволнованный/восхищенный'. Оба используют 'estar' для временных состояний.",
     "context": "Вечеринка-сюрприз на день рождения"
   },
   "q_vocab_a1_15_010": {
     "question": "Ваш коллега говорит, что ему нечего делать на работе. Какое слово лучше всего описывает, как они себя чувствуют?",
     "correct": "aburrido",
-    "wrong": ["ocupado", "nervioso", "enfermo"],
+    "wrong": [
+      "ocupado",
+      "nervioso",
+      "enfermo"
+    ],
     "explanation": "'Aburrido' означает 'скучающий'. Его противоположность — 'ocupado' (занятый). Когда кому-то нечего делать, они чувствуют себя 'aburrido'.",
     "context": "Спокойный день в офисе"
   }

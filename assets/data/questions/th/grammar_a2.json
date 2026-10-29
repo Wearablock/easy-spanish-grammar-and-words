@@ -21,14 +21,15 @@
     "explanation": "Querer changes e→ie ใน ellos สำหรับm: quieren. boot pattern applies ไปยัง ทั้งหมด สำหรับms except nosotros/vosotros."
   },
   "q_gram_a2_01_003": {
-    "question": "อะไร does 'boot pattern' หมายถึง ใน context ของ สเปน รากศัพท์-changing verbs?",
-    "correct": "The stem change applies to all forms except nosotros and vosotros",
+    "question": "'boot pattern' ในบริบทของกริยาสเปนที่เปลี่ยนสระในรากศัพท์ หมายถึงอะไร?",
+    "correct": "การเปลี่ยนสระในรากศัพท์เกิดขึ้นกับทุกรูป ยกเว้น nosotros และ vosotros",
     "wrong": [
-      "The stem change applies only to the yo form",
-      "The stem change applies to all six conjugation forms",
-      "The stem change only happens in the past สิบse"
+      "การเปลี่ยนสระในรากศัพท์เกิดขึ้นเฉพาะรูป yo",
+      "การเปลี่ยนสระในรากศัพท์เกิดขึ้นกับการผันทั้งหกรูป",
+      "การเปลี่ยนสระในรากศัพท์เกิดขึ้นเฉพาะในกาลอดีต"
     ],
-    "explanation": " 'boot pattern' (หรือ 'shoe pattern') แปลว่า รากศัพท์ change occurs ใน yo, tú, él/ella, และ ellos/ellas สำหรับms, แต่ NOT ใน nosotros หรือ vosotros."
+    "explanation": "'boot pattern' (หรือ 'shoe pattern') หมายถึงการเปลี่ยนสระในรากศัพท์เกิดขึ้นในรูป yo, tú, él/ella และ ellos/ellas แต่ไม่เกิดในรูป nosotros และ vosotros",
+    "hint": null
   },
   "q_gram_a2_01_004": {
     "question": "Nosotros ___ la lección. (entender, e→ie, nosotros form)",
@@ -196,15 +197,16 @@
     "explanation": "Cuento (จาก contar, o→ue) แปลว่า 'I count' และ vuelvo (จาก volver, o→ue) แปลว่า 'I return'."
   },
   "q_gram_a2_02_010": {
-    "question": "Vosotros ___ a casa después de la clase. (volver, o→ue, vosotros form)",
+    "question": "Vosotros ___ a casa después de la clase. (volver, o→ue, รูป vosotros)",
     "correct": "volvéis",
     "wrong": [
       "vuelvéis",
       "volvemos",
       "vuelven"
     ],
-    "explanation": "Vosotros เป็น outside boot pattern, so volver uses สม่ำเสมอ รากศัพท์: volvéis.",
-    "conjugation_info": "volver (o→ue): vuelvo, vuelves, vuelve, volvemos, volvéis, vuelven"
+    "explanation": "Vosotros อยู่นอกรูปแบบ boot pattern ดังนั้น volver จึงใช้รากศัพท์ปกติ คือ volvéis",
+    "conjugation_info": "volver (o→ue): vuelvo, vuelves, vuelve, volvemos, volvéis, vuelven",
+    "hint": null
   },
   "q_gram_a2_03_001": {
     "question": "Yo ___ un café, por favor. (pedir, e→i)",
@@ -551,14 +553,15 @@
     "explanation": "'A ti' requires indirect object สรรพนาม 'te'. Gustar เป็น commonly used กับ IOPs."
   },
   "q_gram_a2_06_004": {
-    "question": "อะไร question does indirect object สรรพนาม answer?",
-    "correct": "To whom / สำหรับ whom",
+    "question": "สรรพนามกรรมรองตอบคำถามอะไร?",
+    "correct": "แก่ใคร / เพื่อใคร",
     "wrong": [
-      "What / whom (direct receiver of action)",
-      "Where / when",
-      "How / why"
+      "อะไร / ใคร (ผู้รับการกระทำโดยตรง)",
+      "ที่ไหน / เมื่อไร",
+      "อย่างไร / ทำไม"
     ],
-    "explanation": "Indirect object pronouns answer 'ไปยัง whom?' หรือ 'สำหรับ whom?' -- Le doy el libro = I give หนังสือ ไปยัง HIM/HER."
+    "explanation": "สรรพนามกรรมรองตอบคำถาม 'แก่ใคร?' หรือ 'เพื่อใคร?' -- Le doy el libro = ฉันให้หนังสือแก่เขา/เธอ",
+    "hint": null
   },
   "q_gram_a2_06_005": {
     "question": "Yo ___ escribo una carta a mis abuelos. (IOP สำหรับ 'a mis abuelos')",
@@ -634,24 +637,26 @@
     "hint": "Present progressive = estar (conjugated) + -ando/-iendo"
   },
   "q_gram_a2_07_002": {
-    "question": "Los niños están ___ en el parque. (jugar, gerund)",
+    "question": "Los niños están ___ en el parque. (jugar, เจอรันด์)",
     "correct": "jugando",
     "wrong": [
       "jugiendo",
       "juegando",
       "jugado"
     ],
-    "explanation": " gerund ของ -ar verbs ลงท้ายด้วย -ando: jugando. รากศัพท์ change does NOT apply ไปยัง สม่ำเสมอ gerunds ของ -ar verbs."
+    "explanation": "เจอรันด์ของกริยาลงท้าย -ar จะลงท้ายด้วย -ando คือ jugando การเปลี่ยนสระในรากศัพท์ไม่ใช้กับเจอรันด์ปกติของกริยาลงท้าย -ar",
+    "hint": null
   },
   "q_gram_a2_07_003": {
-    "question": "อะไร does present progressive (estar + gerund) express ในภาษาสเปน?",
-    "correct": "An action happening right now, at this moment",
+    "question": "ปัจจุบันกาลต่อเนื่อง (estar + เจอรันด์) แสดงความหมายอะไรในภาษาสเปน?",
+    "correct": "การกระทำที่กำลังเกิดขึ้นตอนนี้ ณ ขณะนี้",
     "wrong": [
-      "A habitual action that happens regularly",
-      "An action that will happen in the future",
-      "An action completed in the past"
+      "การกระทำที่ทำเป็นนิสัยหรือทำเป็นประจำ",
+      "การกระทำที่จะเกิดขึ้นในอนาคต",
+      "การกระทำที่เสร็จสิ้นแล้วในอดีต"
     ],
-    "explanation": " present progressive (estoy hablando) emphasizes นั้น an action เป็น ใน progress right NOW. Unlike อังกฤษ, มัน เป็น NOT used สำหรับ habitual actions."
+    "explanation": "ปัจจุบันกาลต่อเนื่อง (estoy hablando) เน้นว่าการกระทำนั้นกำลังดำเนินอยู่ ณ ตอนนี้ ไม่เหมือนภาษาอังกฤษ ตรงที่ไม่ใช้กับการกระทำที่ทำเป็นนิสัย",
+    "hint": null
   },
   "q_gram_a2_07_004": {
     "question": "Ella está ___ un libro interesante. (leer, gerund — ไม่สม่ำเสมอ)",
@@ -758,14 +763,15 @@
     "explanation": "สำหรับ ella, ir conjugates ไปยัง 'va': va a cocinar."
   },
   "q_gram_a2_08_004": {
-    "question": "อะไร does 'ir a + infinitive' express?",
-    "correct": "Plans, intentions, or near future actions",
+    "question": "'ir a + infinitive' แสดงความหมายอะไร?",
+    "correct": "แผนการ ความตั้งใจ หรือการกระทำในอนาคตอันใกล้",
     "wrong": [
-      "Completed past actions",
-      "Habitual actions in the present",
-      "Ongoing actions right now"
+      "การกระทำที่เสร็จสิ้นแล้วในอดีต",
+      "การกระทำที่ทำเป็นนิสัยในปัจจุบัน",
+      "การกระทำที่กำลังดำเนินอยู่ตอนนี้"
     ],
-    "explanation": "'Ir a + infinitive' expresses อะไร someหนึ่ง เป็น going ไปยัง do -- plans, inสิบtions, และ near future events."
+    "explanation": "'Ir a + infinitive' แสดงสิ่งที่ใครบางคนกำลังจะทำ -- แผนการ ความตั้งใจ และเหตุการณ์ในอนาคตอันใกล้",
+    "hint": null
   },
   "q_gram_a2_08_005": {
     "question": "¿Ustedes ___ a ver la película esta noche? (ir, ustedes form)",
@@ -965,14 +971,15 @@
     "explanation": "Poder มี an ไม่สม่ำเสมอ preterite รากศัพท์: pud-. Nosotros: pudimos."
   },
   "q_gram_a2_10_004": {
-    "question": "อะไร เป็น special about preterite สำหรับms ของ 'ir' และ 'ser'?",
-    "correct": "They share the exact same conjugation สำหรับms",
+    "question": "รูปกาลอดีต (pretérito) ของ 'ir' และ 'ser' มีอะไรพิเศษ?",
+    "correct": "ทั้งสองมีรูปการผันเหมือนกันทุกประการ",
     "wrong": [
-      "They both have regular preterite endings",
-      "Only 'ir' is irregular in the preterite",
-      "They have different stems but the same endings"
+      "ทั้งสองใช้คำลงท้ายกาลอดีตแบบปกติ",
+      "มีเพียง 'ir' ที่ผันไม่ปกติในกาลอดีต",
+      "ทั้งสองมีรากศัพท์ต่างกันแต่คำลงท้ายเหมือนกัน"
     ],
-    "explanation": "Ir และ ser share identical preterite สำหรับms: fui, fuiste, fue, fuimos, fuisteis, fueron. Context determines which คำกริยา เป็น meant."
+    "explanation": "Ir และ ser มีรูปกาลอดีตเหมือนกัน คือ fui, fuiste, fue, fuimos, fuisteis, fueron ต้องดูบริบทเพื่อรู้ว่าหมายถึงกริยาตัวไหน",
+    "hint": null
   },
   "q_gram_a2_10_005": {
     "question": "¿Dónde ___ tú las llaves? (poner, preterite, tú form)",
@@ -1017,13 +1024,14 @@
   },
   "q_gram_a2_10_009": {
     "question": "Ayer mi amigo me dijo algo interesante y yo no lo pude creer.",
-    "correct": "Yesterday my friend told me something interesting and I couldn't believe it.",
+    "correct": "เมื่อวานเพื่อนของฉันบอกอะไรบางอย่างที่น่าสนใจกับฉัน และฉันไม่อาจเชื่อได้",
     "wrong": [
-      "Yesterday my friend told me something boring and I couldn't believe it.",
-      "Yesterday my friend asked me something interesting and I couldn't understand it.",
-      "Today my friend told me something interesting and I couldn't believe it."
+      "เมื่อวานเพื่อนของฉันบอกอะไรบางอย่างที่น่าเบื่อกับฉัน และฉันไม่อาจเชื่อได้",
+      "เมื่อวานเพื่อนของฉันถามอะไรบางอย่างที่น่าสนใจกับฉัน และฉันไม่อาจเข้าใจได้",
+      "วันนี้เพื่อนของฉันบอกอะไรบางอย่างที่น่าสนใจกับฉัน และฉันไม่อาจเชื่อได้"
     ],
-    "explanation": "Dijo (จาก decir) = tเก่า/แก่, pude (จาก poder) = could. Both เป็น ไม่สม่ำเสมอ preterite สำหรับms."
+    "explanation": "Dijo (จาก decir) = บอก, pude (จาก poder) = สามารถ ทั้งสองเป็นรูปกาลอดีตที่ผันไม่ปกติ",
+    "hint": null
   },
   "q_gram_a2_10_010": {
     "question": "Nosotros ___ mucho trabajo la semana pasada. (tener, preterite, nosotros form)",
@@ -1265,14 +1273,15 @@
     "explanation": "A single, completed event uses preterite: hubo. 'Ayer' signals a specific past เวลา."
   },
   "q_gram_a2_13_003": {
-    "question": "อะไร เป็น key difference between preterite และ imperfect?",
-    "correct": "Preterite = completed actions; Imperfect = ongoing/habitual/descriptive",
+    "question": "ความแตกต่างสำคัญระหว่าง pretérito กับ imperfecto คืออะไร?",
+    "correct": "Pretérito = การกระทำที่เสร็จสิ้นแล้ว; Imperfecto = การกระทำที่ดำเนินอยู่/ทำเป็นนิสัย/ใช้บรรยาย",
     "wrong": [
-      "Preterite = present; Imperfect = past",
-      "Preterite = สำหรับmal; Imperfect = inสำหรับmal",
-      "Preterite = affirmative; Imperfect = negative"
+      "Pretérito = ปัจจุบัน; Imperfecto = อดีต",
+      "Pretérito = ทางการ; Imperfecto = ไม่เป็นทางการ",
+      "Pretérito = ประโยคบอกเล่า; Imperfecto = ประโยคปฏิเสธ"
     ],
-    "explanation": " preterite narrates completed events. imperfect describes background, habits, และ ongoing states. พวกเขา ofสิบ work together."
+    "explanation": "Pretérito ใช้เล่าเหตุการณ์ที่เสร็จสิ้นแล้ว ส่วน imperfecto ใช้บรรยายฉากหลัง นิสัย และสภาวะที่ต่อเนื่อง ทั้งสองมักใช้ร่วมกัน",
+    "hint": null
   },
   "q_gram_a2_13_004": {
     "question": "Mientras yo ___ la cena, mi hermano llegó. (preparar — background action)",
@@ -1474,14 +1483,15 @@
     "explanation": " superlative 'ส่วนใหญ่' = 'más': el más รถยนต์o de la ciudad."
   },
   "q_gram_a2_15_003": {
-    "question": "อะไร does absolute superlative suffix '-ísimo/a' express?",
-    "correct": "An extremely high degree of a quality (very, very)",
+    "question": "คำลงท้าย superlative สัมบูรณ์ '-ísimo/a' แสดงความหมายอะไร?",
+    "correct": "ระดับสูงมากของคุณสมบัติ (มาก ๆ เลย)",
     "wrong": [
-      "A comparison between two things",
-      "The lowest degree of a quality",
-      "A comparison among three or more things"
+      "การเปรียบเทียบระหว่างสองสิ่ง",
+      "ระดับต่ำที่สุดของคุณสมบัติ",
+      "การเปรียบเทียบระหว่างสามสิ่งขึ้นไป"
     ],
-    "explanation": " absolute superlative -ísimo/a แปลว่า 'extremely' หรือ 'มาก, มาก': grandísimo = extremely ใหญ่, facilísimo = extremely ง่าย."
+    "explanation": "Superlative สัมบูรณ์ -ísimo/a หมายถึง 'อย่างยิ่ง' หรือ 'มากเหลือเกิน': grandísimo = ใหญ่มาก, facilísimo = ง่ายมาก",
+    "hint": null
   },
   "q_gram_a2_15_004": {
     "question": "La pizza está ___. (caliente → absolute superlative -ísimo/a form)",
@@ -1557,15 +1567,16 @@
     "explanation": "'La más amable de' = kindest ใน (superlative). 'Riquísimo' = extremely delicious (absolute superlative)."
   },
   "q_gram_a2_16_001": {
-    "question": "¡___ tu tarea ahora! (hacer, affirmative tú command — ไม่สม่ำเสมอ)",
+    "question": "¡___ tu tarea ahora! (hacer, คำสั่งรูปบอกเล่าของ tú — ผันไม่ปกติ)",
     "correct": "Haz",
     "wrong": [
       "Hace",
       "Haces",
       "Hagas"
     ],
-    "explanation": "'Hacer' มี an ไม่สม่ำเสมอ tú comผู้ชายd: haz. มัน does not follow สม่ำเสมอ pattern.",
-    "conjugation_info": "Irregular tú comผู้ชายds: pon, sal, ven, สิบ, haz, di, sé, ve"
+    "explanation": "'Hacer' มีรูปคำสั่งของ tú ที่ไม่ปกติ คือ haz ไม่เป็นไปตามรูปแบบปกติ",
+    "conjugation_info": "Irregular tú comผู้ชายds: pon, sal, ven, สิบ, haz, di, sé, ve",
+    "hint": null
   },
   "q_gram_a2_16_002": {
     "question": "¡___ la puerta, por favor! (abrir, affirmative tú command)",
@@ -1681,14 +1692,15 @@
     "explanation": "'Por' ใช้ สำหรับ reaลูกชาย/cause: Gracias por tu ayuda = Thanks สำหรับ (เพราะ ของ) your help."
   },
   "q_gram_a2_17_003": {
-    "question": "อะไร does 'para' generally express?",
-    "correct": "Purpose, destination, deadline, or recipient",
+    "question": "โดยทั่วไป 'para' แสดงความหมายอะไร?",
+    "correct": "จุดประสงค์ ปลายทาง กำหนดเวลา หรือผู้รับ",
     "wrong": [
-      "Reason, exchange, duration, or movement through",
-      "Only future time expressions",
-      "Only movement and loแมวion"
+      "เหตุผล การแลกเปลี่ยน ระยะเวลา หรือการเคลื่อนที่ผ่าน",
+      "ใช้กับการแสดงเวลาในอนาคตเท่านั้น",
+      "ใช้กับการเคลื่อนที่และสถานที่เท่านั้น"
     ],
-    "explanation": "Para = purpose (para estudiar), destination (para Madrid), deadline (para mañana), recipient (para ti)."
+    "explanation": "Para = จุดประสงค์ (para estudiar), ปลายทาง (para Madrid), กำหนดเวลา (para mañana), ผู้รับ (para ti)",
+    "hint": null
   },
   "q_gram_a2_17_004": {
     "question": "Caminamos ___ el parque todas las mañanas. (por — through/along)",
@@ -1827,14 +1839,15 @@
     "explanation": "'Tampoco' แปลว่า 'neither/either' (negative counterpart ของ 'también'): Yo tampoco quiero ir."
   },
   "q_gram_a2_18_007": {
-    "question": "I มี ไม่เคย been ไปยัง Spain.",
+    "question": "ฉันไม่เคยไปสเปนเลย",
     "correct": "Nunca he estado en España.",
     "wrong": [
       "No nunca he estado en España.",
       "No he estado nunca España.",
       "Jamás no he estado en España."
     ],
-    "explanation": "'Nunca' beสำหรับe คำกริยา = no 'no' needed: Nunca he estado. (Alternatively: No he estado nunca en España.)"
+    "explanation": "'Nunca' อยู่หน้ากริยา = ไม่ต้องใช้ 'no': Nunca he estado. (หรือจะใช้: No he estado nunca en España ก็ได้)",
+    "hint": null
   },
   "q_gram_a2_18_008": {
     "question": "No hay ___ libro sobre ese tema en la biblioteca. (negative: not any/no)",
@@ -1889,14 +1902,15 @@
     "explanation": "'Que' แปลว่า 'ใคร' เมื่อไหร่ referring ไปยัง people as subject ของ relative clause."
   },
   "q_gram_a2_19_003": {
-    "question": "อย่างไร does 'que' differ จาก อังกฤษ 'นั้น/which/ใคร' ใน relative clauses?",
-    "correct": "ในภาษาสเปน, 'que' can never be omitted, unlike English",
+    "question": "'que' ในประโยคขยายความ (relative clause) ต่างจาก that/which/who ในภาษาอังกฤษอย่างไร",
+    "correct": "ในภาษาสเปน 'que' ละไม่ได้เลย ซึ่งต่างจากภาษาอังกฤษ",
     "wrong": [
-      "ในภาษาสเปน, 'que' is optional เหมือนกับ ในภาษาอังกฤษ",
-      "ในภาษาสเปน, 'que' is only used with people",
-      "In Spanish, 'que' changes form based on gender"
+      "ในภาษาสเปน 'que' จะใส่หรือไม่ใส่ก็ได้เหมือนในภาษาอังกฤษ",
+      "ในภาษาสเปน 'que' ใช้กับคนเท่านั้น",
+      "ในภาษาสเปน 'que' เปลี่ยนรูปตามเพศ"
     ],
-    "explanation": "ในภาษาอังกฤษ, คุณสามารถพูด ' หนังสือ I read' (omitting 'นั้น'). ในภาษาสเปน, 'que' เป็น เสมอ requiสีแดง: El libro que leo."
+    "explanation": "ในภาษาอังกฤษพูดว่า 'The book I read' ได้ (ละ 'that' ได้) แต่ในภาษาสเปนต้องมี 'que' เสมอ: El libro que leo.",
+    "hint": null
   },
   "q_gram_a2_19_004": {
     "question": "La casa en ___ vivo es pequeña. (que กับ preposition)",
@@ -2003,14 +2017,15 @@
     "explanation": "เมื่อไหร่ 'le' (IOP) comes beสำหรับe 'lo/la/los/las' (DOP), 'le' changes ไปยัง 'se': se los doy."
   },
   "q_gram_a2_20_004": {
-    "question": "Why does 'le' change ไปยัง 'se' ใน combined object pronouns?",
-    "correct": "To avoid the awkward sound of 'le lo' or 'le la'",
+    "question": "ทำไม 'le' จึงเปลี่ยนเป็น 'se' เมื่อใช้สรรพนามกรรมควบกัน?",
+    "correct": "เพื่อหลีกเลี่ยงเสียงที่ฟังแปร่งของ 'le lo' หรือ 'le la'",
     "wrong": [
-      "Because 'le' is only used alหนึ่ง",
-      "Because 'se' means something completely different",
-      "Because 'le' is only สำหรับ indirect objects with gustar"
+      "เพราะ 'le' ใช้ได้เฉพาะตอนอยู่เดี่ยว ๆ",
+      "เพราะ 'se' มีความหมายต่างออกไปโดยสิ้นเชิง",
+      "เพราะ 'le' ใช้เฉพาะกับกรรมรองของ gustar"
     ],
-    "explanation": "สเปน avoids 'le lo / le la / les los / les las' เพราะ พวกเขา sound awkward. 'Le/les' becomes 'se' beสำหรับe any DOP."
+    "explanation": "ภาษาสเปนเลี่ยง 'le lo / le la / les los / les las' เพราะฟังแปร่งหู 'Le/les' จะกลายเป็น 'se' เมื่ออยู่หน้าสรรพนามกรรมตรงทุกตัว",
+    "hint": null
   },
   "q_gram_a2_20_005": {
     "question": "¿Puedes dar___ ___ ? (combine: me + lo, attached ไปยัง infinitive)",

@@ -98,13 +98,14 @@
   },
   "q_gram_b2_01_010": {
     "question": "Ojalá que mis amigos estuvieran aquí para celebrar conmigo.",
-    "correct": "I wish my friends were here to celebrate with me.",
+    "correct": "ليت أصدقائي كانوا هنا ليحتفلوا معي.",
     "wrong": [
-      "I hope my friends are here to celebrate with me.",
-      "My friends wished they were here to celebrate with me.",
-      "I wished my friends had been here to celebrate with me."
+      "آمل أن يكون أصدقائي هنا للاحتفال معي.",
+      "تمنّى أصدقائي لو كانوا هنا للاحتفال معي.",
+      "تمنّيتُ لو كان أصدقائي قد حضروا للاحتفال معي."
     ],
-    "explanation": "'Ojalá que' + past صيغة المضارع المنصوب (estuvieran) expresses a wish about a present situation ذلك هو unlikely أو contrary إلى reality, translated as 'I wish... كانوا'."
+    "explanation": "'Ojalá que' + الماضي الشرطي (estuvieran) تعبّر عن أمنية بشأن وضع حاضر غير مرجّح أو مخالف للواقع، وتُترجم «ليت ... كانوا».",
+    "hint": null
   },
   "q_gram_b2_02_001": {
     "question": "Si ella ___ tiempo, iría al gimnasio. (tener, past صيغة المضارع المنصوب, ella form)",
@@ -140,14 +141,15 @@
     "hint": "Ser و ir share الـ same past صيغة المضارع المنصوب forms"
   },
   "q_gram_b2_02_004": {
-    "question": "ماذا هو الـ structure من a Type 2 الشرطي sentence في الإسبانية?",
-    "correct": "Si + past subjunctive (imperfect subjunctive), conditional tense in the main clause",
+    "question": "ما تركيب الجملة الشرطية من النوع الثاني في الإسبانية؟",
+    "correct": "Si + الماضي الشرطي (imperfecto de subjuntivo)، والزمن الشرطي (condicional) في الجملة الرئيسية",
     "wrong": [
-      "Si + present indicative, future tense in the main clause",
-      "Si + imperfect indicative, conditional tense in the main clause",
-      "Si + conditional tense, past subjunctive in the main clause"
+      "Si + المضارع الإخباري، والمستقبل في الجملة الرئيسية",
+      "Si + الماضي الناقص الإخباري، والزمن الشرطي (condicional) في الجملة الرئيسية",
+      "Si + الزمن الشرطي (condicional)، والماضي الشرطي في الجملة الرئيسية"
     ],
-    "explanation": "Type 2 conditionals express unreal أو unlikely present/future situations. الـ si-clause takes الـ past صيغة المضارع المنصوب (e.g., tuviera) و الـ result clause uses الـ الشرطي (e.g., compraría)."
+    "explanation": "الجمل الشرطية من النوع الثاني تعبّر عن مواقف حاضرة/مستقبلية غير واقعية أو غير مرجّحة. جملة si تأخذ الماضي الشرطي (مثل tuviera) وجملة النتيجة تستخدم الزمن الشرطي (مثل compraría).",
+    "hint": null
   },
   "q_gram_b2_02_005": {
     "question": "Yo ___ más contentos a mis padres si sacara buenas notas. (hacer, الشرطي, yo form)",
@@ -172,14 +174,15 @@
     "hint": "الـ si-clause needs past صيغة المضارع المنصوب, not الإخبار أو الشرطي"
   },
   "q_gram_b2_02_007": {
-    "question": "If هم lived closer, we سوف see them more غالباً.",
+    "question": "لو كانوا يعيشون أقرب، لرأيناهم أكثر.",
     "correct": "Si ellos vivieran más cerca, los veríamos más a menudo.",
     "wrong": [
       "Si ellos vivirían más cerca, los veíamos más a menudo.",
       "Si ellos vivían más cerca, los veríamos más a menudo.",
       "Si ellos viven más cerca, los veremos más a menudo."
     ],
-    "explanation": "هذا a Type 2 الشرطي. 'Si' + past صيغة المضارع المنصوب (vivieran) expresses الـ unreal condition, و الـ الشرطي (veríamos) expresses الـ hypothetical result."
+    "explanation": "هذه جملة شرطية من النوع الثاني. 'Si' + الماضي الشرطي (vivieran) يعبّر عن الشرط غير الواقعي، والزمن الشرطي (veríamos) يعبّر عن النتيجة الافتراضية.",
+    "hint": null
   },
   "q_gram_b2_02_008": {
     "question": "Si yo ___ hablar chino, buscaría trabajo en Pekín. (saber)",
@@ -236,14 +239,15 @@
     "hint": "الـ si-clause في Type 3 needs pluperfect صيغة المضارع المنصوب"
   },
   "q_gram_b2_03_003": {
-    "question": "ماذا does a Type 3 الشرطي sentence express في الإسبانية?",
-    "correct": "An unreal or impossible condition in the past and its hypothetical consequence",
+    "question": "ماذا تعبّر الجملة الشرطية من النوع الثالث في الإسبانية؟",
+    "correct": "شرط غير واقعي أو مستحيل في الماضي ونتيجته الافتراضية",
     "wrong": [
-      "A probable condition in the present with a likely outcome",
-      "An unreal condition in the present with a hypothetical outcome",
-      "A real condition in the past with a factual consequence"
+      "شرط محتمل في الحاضر ونتيجة مرجّحة",
+      "شرط غير واقعي في الحاضر ونتيجة افتراضية",
+      "شرط حقيقي في الماضي ونتيجة فعلية"
     ],
-    "explanation": "Type 3 conditionals (si + pluperfect صيغة المضارع المنصوب, الشرطي perfect) express situations ذلك هم contrary إلى ماذا actually happened في الـ past. هم describe missed opportunities أو regrets."
+    "explanation": "الجمل الشرطية من النوع الثالث (si + الماضي التام الشرطي، والزمن الشرطي التام) تعبّر عن مواقف مخالفة لما حدث فعلًا في الماضي. وهي تصف الفرص الضائعة والندم.",
+    "hint": null
   },
   "q_gram_b2_03_004": {
     "question": "Nosotros ___ antes si hubiéramos tenido el mapa. (llegar, الشرطي perfect, nosotros form)",
@@ -355,14 +359,15 @@
     "hint": "يعبّر الشرطي التام عن فعل ماضٍ لم يتحقق"
   },
   "q_gram_b2_04_004": {
-    "question": "عندما هو الـ الشرطي perfect (habría + اسم المفعول) used في الإسبانية?",
-    "correct": "To express what would have happened in the past under different circumstances, or to speculate about the past",
+    "question": "متى يُستخدم الزمن الشرطي التام (habría + اسم المفعول) في الإسبانية؟",
+    "correct": "للتعبير عمّا كان سيحدث في الماضي لو اختلفت الظروف، أو للتخمين بشأن الماضي",
     "wrong": [
-      "To express what will have happened by a future point in time",
-      "To express what had happened before another past event",
-      "To express what someone wanted to happen in the present"
+      "للتعبير عمّا سيكون قد حدث عند نقطة زمنية في المستقبل",
+      "للتعبير عمّا كان قد حدث قبل حدث ماضٍ آخر",
+      "للتعبير عمّا أراد شخص ما أن يحدث في الحاضر"
     ],
-    "explanation": "الـ الشرطي perfect يملك two main uses: (1) الـ main clause من Type 3 conditionals (ماذا سوف يملك happened), و (2) speculation أو conjecture about past events."
+    "explanation": "للزمن الشرطي التام استخدامان رئيسيان: (1) الجملة الرئيسية في الشرطية من النوع الثالث (ما كان سيحدث)، و(2) التخمين أو الافتراض بشأن أحداث ماضية.",
+    "hint": null
   },
   "q_gram_b2_04_005": {
     "question": "Tú ___ la verdad antes, pero no te atreviste. (decir, الشرطي perfect, tú form)",
@@ -387,14 +392,15 @@
     "hint": "الـ الشرطي perfect يمكن express past speculation"
   },
   "q_gram_b2_04_007": {
-    "question": "I سوف يملك called أنت, لكن I lost my phone.",
+    "question": "كنتُ سأتصل بك، لكنني أضعتُ هاتفي.",
     "correct": "Te habría llamado, pero perdí mi teléfono.",
     "wrong": [
       "Te hubiera llamado, pero perdía mi teléfono.",
       "Te llamaría, pero perdí mi teléfono.",
       "Te había llamado, pero perdí mi teléfono."
     ],
-    "explanation": "الـ الشرطي perfect (habría llamado) expresses ماذا سوف يملك happened. الـ 'pero' clause uses الـ الماضي البسيط إلى state الـ factual obstacle."
+    "explanation": "الزمن الشرطي التام (habría llamado) يعبّر عمّا كان سيحدث. وجملة 'pero' تستخدم الماضي البسيط (pretérito) لذكر العائق الفعلي.",
+    "hint": null
   },
   "q_gram_b2_04_008": {
     "question": "Sin tu ayuda, yo no ___ el trabajo a tiempo. (completar, الشرطي perfect)",
@@ -409,13 +415,14 @@
   },
   "q_gram_b2_04_009": {
     "question": "A las diez de la noche, los invitados ya se habrían marchado.",
-    "correct": "By ten at night, the guests would have already left.",
+    "correct": "بحلول العاشرة ليلًا، يكون الضيوف قد غادروا على الأرجح.",
     "wrong": [
-      "At ten at night, the guests had already left.",
-      "By ten at night, the guests already left.",
-      "At ten at night, the guests would already leave."
+      "في العاشرة ليلًا، كان الضيوف قد غادروا بالفعل.",
+      "بحلول العاشرة ليلًا، غادر الضيوف بالفعل.",
+      "في العاشرة ليلًا، كان الضيوف سيغادرون بالفعل."
     ],
-    "explanation": "الـ الشرطي perfect (se habrían marchado) هنا expresses conjecture about ماذا probably happened at a past وقت. 'Ya' (already) emphasizes الـ completed nature من الـ action."
+    "explanation": "الزمن الشرطي التام (se habrían marchado) يعبّر هنا عن تخمين لما حدث على الأرجح في وقت ماضٍ. وكلمة 'Ya' (بالفعل) تؤكد أن الفعل قد اكتمل.",
+    "hint": null
   },
   "q_gram_b2_04_010": {
     "question": "Ellos ___ el vuelo si no hubiera habido tráfico. (perder, الشرطي perfect, ellos form)",
@@ -451,14 +458,15 @@
     "hint": "'Cuando llegues' sets a future reference point"
   },
   "q_gram_b2_05_003": {
-    "question": "ماذا هم الـ two main uses من الـ future perfect tense في الإسبانية?",
-    "correct": "To express an action completed before a future point in time, and to speculate about what has probably happened",
+    "question": "ما الاستخدامان الرئيسيان للمستقبل التام في الإسبانية؟",
+    "correct": "للتعبير عن فعل يكتمل قبل نقطة زمنية في المستقبل، وللتخمين بشأن ما حدث على الأرجح",
     "wrong": [
-      "To express a habitual action in the future and a completed past action",
-      "To express a future plan and a condition for that plan",
-      "To express desire about the future and doubt about the present"
+      "للتعبير عن فعل معتاد في المستقبل وفعل ماضٍ مكتمل",
+      "للتعبير عن خطة مستقبلية وشرط لتلك الخطة",
+      "للتعبير عن رغبة بشأن المستقبل وشك بشأن الحاضر"
     ],
-    "explanation": "الـ future perfect (habré hablado) serves two purposes: (1) actions completed بواسطة a future deadline, و (2) conjecture about recent past events (e.g., 'habrá salido' = 'he يملك probably left')."
+    "explanation": "للمستقبل التام (habré hablado) غرضان: (1) أفعال تكتمل بحلول موعد نهائي في المستقبل، و(2) تخمين بشأن أحداث ماضية قريبة (مثل 'habrá salido' = «لعلّه خرج»).",
+    "hint": null
   },
   "q_gram_b2_05_004": {
     "question": "Ella ___ toda la serie antes de que estrenen la nueva temporada. (ver, future perfect, ella form)",
@@ -472,15 +480,15 @@
     "conjugation_info": "ver (future perfect): habré visto, habrás visto, habrá visto, habremos visto, habréis visto, habrán visto"
   },
   "q_gram_b2_05_005": {
-    "question": "¿Dónde ___ mis llaves? No las encuentro por ningún lado. (poner, future perfect, yo form)",
+    "question": "¿Dónde ___ mis llaves? No las encuentro por ningún lado. (وضع، المستقبل التام، صيغة yo)",
     "correct": "habré puesto",
     "wrong": [
       "habría puesto",
       "había puesto",
       "pondré"
     ],
-    "explanation": "هنا الـ future perfect expresses conjecture about a recent event: 'أين يمكن I يملك put my keys?' Poner يملك الـ شاذ اسم المفعول puesto.",
-    "hint": "الـ future perfect يمكن express speculation about الـ recent past"
+    "explanation": "هنا يعبّر المستقبل التام عن تخمين لحدث قريب: «أين تراني وضعتُ مفاتيحي؟» الفعل Poner له اسم مفعول شاذ هو puesto.",
+    "hint": "يمكن للمستقبل التام أن يعبّر عن تخمين بشأن الماضي القريب"
   },
   "q_gram_b2_05_006": {
     "question": "Ellos ___ de la ciudad antes de que empiece la tormenta. (salir, future perfect, ellos form)",
@@ -494,15 +502,15 @@
     "conjugation_info": "salir (future perfect): habré salido, habrás salido, habrá salido, habremos salido, habréis salido, habrán salido"
   },
   "q_gram_b2_05_007": {
-    "question": "Para finales de año, la empresa ___ más de mil empleados. (contratar, future perfect)",
+    "question": "Para finales de año, la empresa ___ más de mil empleados. (توظيف، المستقبل التام)",
     "correct": "habrá contratado",
     "wrong": [
       "habría contratado",
       "había contratado",
       "contratará"
     ],
-    "explanation": "الـ future perfect يُستخدم للتعبير ماذا سوف يملك been completed بواسطة a future point. 'Para finales de año' sets الـ future deadline.",
-    "hint": "'Para finales de año' signals a future deadline"
+    "explanation": "يُستخدم المستقبل التام للتعبير عمّا سيكون قد اكتمل بحلول نقطة في المستقبل. 'Para finales de año' تحدد الموعد النهائي في المستقبل.",
+    "hint": "'Para finales de año' تدل على موعد نهائي في المستقبل"
   },
   "q_gram_b2_05_008": {
     "question": "بواسطة الـ وقت أنت arrive, I سوف يملك already prepared dinner.",
@@ -547,15 +555,15 @@
     "conjugation_info": "comprender (pluperfect subjunctive): hubiera comprendido, hubieras comprendido, hubiera comprendido, hubiéramos comprendido, hubierais comprendido, hubieran comprendido"
   },
   "q_gram_b2_06_002": {
-    "question": "Ojalá que nosotros ___ más tiempo en esa ciudad. (pasar, pluperfect صيغة المضارع المنصوب)",
+    "question": "Ojalá que nosotros ___ más tiempo en esa ciudad. (قضاء، الماضي التام الشرطي)",
     "correct": "hubiéramos pasado",
     "wrong": [
       "habríamos pasado",
       "habíamos pasado",
       "pasáramos"
     ],
-    "explanation": "'Ojalá que' + pluperfect صيغة المضارع المنصوب expresses a wish about الـ past ذلك did not يأتي true. الـ nosotros form هو hubiéramos pasado.",
-    "hint": "'Ojalá que' + pluperfect صيغة المضارع المنصوب = unfulfilled past wish"
+    "explanation": "'Ojalá que' + الماضي التام الشرطي تعبّر عن أمنية بشأن الماضي لم تتحقق. صيغة nosotros هي hubiéramos pasado.",
+    "hint": "'Ojalá que' + الماضي التام الشرطي = أمنية ماضية لم تتحقق"
   },
   "q_gram_b2_06_003": {
     "question": "Me molestó que ellos no ___ a la reunión. (venir, pluperfect صيغة المضارع المنصوب)",
@@ -569,14 +577,15 @@
     "hint": "الـ emotion هو past, و الـ action happened قبل الـ emotion"
   },
   "q_gram_b2_06_004": {
-    "question": "ماذا هو الـ difference between الـ past صيغة المضارع المنصوب و الـ pluperfect صيغة المضارع المنصوب?",
-    "correct": "The past subjunctive refers to present/future unreal situations, while the pluperfect subjunctive refers to past unreal situations that can no longer be changed",
+    "question": "ما الفرق بين الماضي الشرطي والماضي التام الشرطي؟",
+    "correct": "الماضي الشرطي يشير إلى مواقف غير واقعية في الحاضر/المستقبل، بينما الماضي التام الشرطي يشير إلى مواقف ماضية غير واقعية لم يعد بالإمكان تغييرها",
     "wrong": [
-      "The past subjunctive is more formal than the pluperfect subjunctive",
-      "The pluperfect subjunctive is used only in si-clauses, while the past subjunctive is used everywhere else",
-      "The past subjunctive uses -ra endings and the pluperfect subjunctive uses -se endings"
+      "الماضي الشرطي أكثر رسمية من الماضي التام الشرطي",
+      "الماضي التام الشرطي يُستخدم فقط في جمل si، بينما يُستخدم الماضي الشرطي في كل ما عداها",
+      "الماضي الشرطي يستخدم النهايات -ra والماضي التام الشرطي يستخدم النهايات -se"
     ],
-    "explanation": "الـ past صيغة المضارع المنصوب (hablara) deals مع present/future hypothetical situations, بينما الـ pluperfect صيغة المضارع المنصوب (hubiera hablado) deals مع past counterfactual situations ذلك هم impossible إلى change."
+    "explanation": "الماضي الشرطي (hablara) يتناول مواقف افتراضية في الحاضر/المستقبل، بينما الماضي التام الشرطي (hubiera hablado) يتناول مواقف ماضية مخالفة للواقع يستحيل تغييرها.",
+    "hint": null
   },
   "q_gram_b2_06_005": {
     "question": "Tú ___ el error si hubieras revisado el documento. (descubrir, pluperfect صيغة المضارع المنصوب, tú form)",
@@ -601,14 +610,15 @@
     "hint": "الـ doubted action preceded الـ main فعل"
   },
   "q_gram_b2_06_007": {
-    "question": "I wish I had studied abroad عندما I كان young.",
+    "question": "ليتني درستُ في الخارج عندما كنتُ شابًّا.",
     "correct": "Ojalá hubiera estudiado en el extranjero cuando era joven.",
     "wrong": [
       "Ojalá estudiara en el extranjero cuando era joven.",
       "Ojalá habría estudiado en el extranjero cuando era joven.",
       "Ojalá había estudiado en el extranjero cuando era joven."
     ],
-    "explanation": "'Ojalá' + pluperfect صيغة المضارع المنصوب (hubiera estudiado) expresses an impossible wish about الـ past. الـ past صيغة المضارع المنصوب (estudiara) سوف refer إلى الـ present أو future instead."
+    "explanation": "'Ojalá' + الماضي التام الشرطي (hubiera estudiado) تعبّر عن أمنية مستحيلة بشأن الماضي. أما الماضي الشرطي (estudiara) فكان سيشير إلى الحاضر أو المستقبل.",
+    "hint": null
   },
   "q_gram_b2_06_008": {
     "question": "No creía que ellos ___ la verdad hasta ese momento. (saber, pluperfect صيغة المضارع المنصوب)",
@@ -623,13 +633,14 @@
   },
   "q_gram_b2_06_009": {
     "question": "Era imposible que el tren hubiera llegado a tiempo con tanta nieve.",
-    "correct": "It was impossible that the train had arrived on time with so much snow.",
+    "correct": "كان من المستحيل أن يكون القطار قد وصل في الوقت المحدد مع كل هذا الثلج.",
     "wrong": [
-      "It is impossible that the train arrived on time with so much snow.",
-      "It was impossible that the train would arrive on time with so much snow.",
-      "It was impossible that the train will have arrived on time with so much snow."
+      "من المستحيل أن يصل القطار في الوقت المحدد مع كل هذا الثلج.",
+      "كان من المستحيل أن يصل القطار في الوقت المحدد مع كل هذا الثلج.",
+      "كان من المستحيل أن يكون القطار سيصل في الوقت المحدد مع كل هذا الثلج."
     ],
-    "explanation": "الـ pluperfect صيغة المضارع المنصوب (hubiera llegado) بعد 'era imposible que' expresses doubt about a completed past action. هو translates naturally as 'had arrived' في الإنجليزية."
+    "explanation": "الماضي التام الشرطي (hubiera llegado) بعد 'era imposible que' يعبّر عن شك في فعل ماضٍ مكتمل. ويُترجم بشكل طبيعي «كان قد وصل».",
+    "hint": null
   },
   "q_gram_b2_06_010": {
     "question": "Nosotros ___ antes si hubiéramos tenido más información. (actuar, الشرطي perfect, nosotros form)",
@@ -643,58 +654,60 @@
     "conjugation_info": "actuar (conditional perfect): habría actuado, habrías actuado, habría actuado, habríamos actuado, habríais actuado, habrían actuado"
   },
   "q_gram_b2_07_001": {
-    "question": "Aunque ___ mucho, iremos a la excursión. (llover, المضارع المنصوب)",
+    "question": "Aunque ___ mucho, iremos a la excursión. (مطر، المضارع الشرطي)",
     "correct": "llueva",
     "wrong": [
       "llueve",
       "lloviera",
       "llovería"
     ],
-    "explanation": "'Aunque' + صيغة المضارع المنصوب expresses a concession about something uncertain أو hypothetical. بما أن الـ rain هو uncertain, الـ المضارع المنصوب (llueva) يُستخدم.",
-    "hint": "'Aunque' + صيغة المضارع المنصوب = even if (uncertain)"
+    "explanation": "'Aunque' + المضارع الشرطي (subjuntivo) تعبّر عن تنازل بشأن أمر غير مؤكد أو افتراضي. ولأن المطر غير مؤكد، يُستخدم المضارع الشرطي (llueva).",
+    "hint": "'Aunque' + subjuntivo = حتى لو (غير مؤكد)"
   },
   "q_gram_b2_07_002": {
-    "question": "Aunque María ___ enferma ayer, fue a trabajar. (estar, الإخبار)",
+    "question": "Aunque María ___ enferma ayer, fue a trabajar. (كون، الإخباري)",
     "correct": "estaba",
     "wrong": [
       "estuviera",
       "esté",
       "estaría"
     ],
-    "explanation": "'Aunque' + الإخبار expresses a concession about a known fact. بما أن María كان actually sick (a fact), الـ الماضي المستمر الإخبار (estaba) يُستخدم.",
-    "hint": "'Aunque' + الإخبار = على الرغم (known fact)"
+    "explanation": "'Aunque' + الإخباري تعبّر عن تنازل بشأن حقيقة معروفة. ولأن ماريا كانت مريضة فعلًا (حقيقة)، يُستخدم الماضي الناقص الإخباري (estaba).",
+    "hint": "'Aunque' + الإخباري = رغم أن (حقيقة معروفة)"
   },
   "q_gram_b2_07_003": {
-    "question": "كيف does الـ mood (الإخبار vs. صيغة المضارع المنصوب) change الـ المعنى من 'aunque'?",
-    "correct": "'Aunque' + indicative means 'although' (stating a fact), while 'aunque' + subjunctive means 'even if' (uncertain or hypothetical)",
+    "question": "كيف يغيّر الصيغة (الإخبارية مقابل الشرطية/التمنّي subjunctive) معنى 'aunque'؟",
+    "correct": "'Aunque' مع الصيغة الإخبارية تعني «رغم أنّ» (لعرض حقيقة)، أما 'aunque' مع صيغة subjunctive فتعني «حتى لو» (أمر غير مؤكد أو افتراضي)",
     "wrong": [
-      "'Aunque' + indicative is for present tense and 'aunque' + subjunctive is for past tense",
-      "'Aunque' + indicative is informal and 'aunque' + subjunctive is formal",
-      "'Aunque' + indicative is for positive statements and 'aunque' + subjunctive is for negative ones"
+      "'Aunque' مع الصيغة الإخبارية تُستخدم للزمن الحاضر، و'aunque' مع subjunctive تُستخدم للزمن الماضي",
+      "'Aunque' مع الصيغة الإخبارية غير رسمية، و'aunque' مع subjunctive رسمية",
+      "'Aunque' مع الصيغة الإخبارية للجمل المثبتة، و'aunque' مع subjunctive للجمل المنفية"
     ],
-    "explanation": "الـ choice between الإخبار و صيغة المضارع المنصوب بعد 'aunque' depends on whether الـ speaker presents الـ information as a known fact (الإخبار) أو as uncertain/hypothetical (صيغة المضارع المنصوب)."
+    "explanation": "يعتمد الاختيار بين الصيغة الإخبارية وsubjunctive بعد 'aunque' على ما إذا كان المتكلم يعرض المعلومة كحقيقة معروفة (إخبارية) أم كأمر غير مؤكد أو افتراضي (subjunctive).",
+    "hint": null
   },
   "q_gram_b2_07_004": {
-    "question": "Aunque ella no ___ de acuerdo, aceptó la decisión. (estar, past الإخبار, ella form)",
+    "question": "Aunque ella no ___ de acuerdo, aceptó la decisión. (estar، الماضي الإخباري، صيغة ella)",
     "correct": "estaba",
     "wrong": [
       "estuviera",
       "esté",
       "estaría"
     ],
-    "explanation": "بما أن الـ sentence states a past fact (she كان not في توافق), الـ الإخبار يُستخدم مع 'aunque'. الـ الماضي المستمر estaba describes an ongoing past state.",
-    "conjugation_info": "estar (imperfect indicative): estaba, estabas, estaba, estábamos, estabais, estaban"
+    "explanation": "بما أنّ الجملة تذكر حقيقة وقعت في الماضي (لم تكن موافقة)، تُستخدم الصيغة الإخبارية مع 'aunque'. والماضي الناقص estaba يصف حالة مستمرة في الماضي.",
+    "conjugation_info": "estar (imperfect indicative): estaba, estabas, estaba, estábamos, estabais, estaban",
+    "hint": null
   },
   "q_gram_b2_07_005": {
-    "question": "Aunque ___ todo el dinero del mundo, no podría comprar la felicidad. (tener, past صيغة المضارع المنصوب)",
+    "question": "Aunque ___ todo el dinero del mundo, no podría comprar la felicidad. (tener، الماضي subjunctive)",
     "correct": "tuviera",
     "wrong": [
       "tenía",
       "tendría",
       "tenga"
     ],
-    "explanation": "'Aunque' + past صيغة المضارع المنصوب expresses a hypothetical concession about an unreal present situation. Having كل الـ money في الـ world هو clearly hypothetical.",
-    "hint": "هذا clearly a hypothetical, unreal scenario"
+    "explanation": "'Aunque' مع الماضي subjunctive تعبّر عن تنازل افتراضي بشأن وضع حاضر غير واقعي. وامتلاك كل أموال العالم أمر افتراضي بوضوح.",
+    "hint": "هذا سيناريو افتراضي وغير واقعي بوضوح"
   },
   "q_gram_b2_07_006": {
     "question": "Nosotros ___ el proyecto aunque el jefe no lo aprobara. (continuar, الشرطي, nosotros form)",
@@ -783,14 +796,15 @@
     "hint": "بعد a حرف جر, use 'el/la cual' أو 'el/la que'"
   },
   "q_gram_b2_08_004": {
-    "question": "ماذا هو الـ difference between 'que', 'el cual', و 'cuyo' as relative pronouns?",
-    "correct": "'Que' is the most common relative pronoun, 'el cual' is used after prepositions or for clarity, and 'cuyo' expresses possession (whose)",
+    "question": "ما الفرق بين 'que' و'el cual' و'cuyo' كضمائر وصل؟",
+    "correct": "'Que' هو ضمير الوصل الأكثر شيوعًا، و'el cual' يُستخدم بعد حروف الجر أو لزيادة الوضوح، و'cuyo' يعبّر عن الملكية (الذي ... له)",
     "wrong": [
-      "'Que' is for people, 'el cual' is for things, and 'cuyo' is for places",
-      "'Que' is informal, 'el cual' is formal, and 'cuyo' is archaic",
-      "'Que' is for subjects, 'el cual' is for objects, and 'cuyo' is for indirect objects"
+      "'Que' للأشخاص، و'el cual' للأشياء، و'cuyo' للأماكن",
+      "'Que' غير رسمي، و'el cual' رسمي، و'cuyo' قديم الاستخدام",
+      "'Que' للفاعل، و'el cual' للمفعول به، و'cuyo' للمفعول به غير المباشر"
     ],
-    "explanation": "'Que' هو الـ default relative ضمير. 'El cual/la cual' هو preferred بعد prepositions أو عندما clarifying which antecedent هو referred إلى. 'Cuyo' functions as a possessive صفة المعنى 'whose'."
+    "explanation": "'Que' هو ضمير الوصل الافتراضي. أما 'El cual/la cual' فيُفضَّل بعد حروف الجر أو عند توضيح المرجع المقصود. و'Cuyo' يعمل كصفة ملكية بمعنى «الذي ... له».",
+    "hint": null
   },
   "q_gram_b2_08_005": {
     "question": "Las razones por ___ dimitió el director no están claras. (relative ضمير بعد 'por', جمع)",
@@ -815,14 +829,15 @@
     "hint": "'Cuyo' يتوافق مع الـ اسم ذلك follows هو, not الـ antecedent"
   },
   "q_gram_b2_08_007": {
-    "question": "الـ city في which we met يملك changed a lot.",
+    "question": "المدينة التي التقينا فيها تغيّرت كثيرًا.",
     "correct": "La ciudad en la cual nos conocimos ha cambiado mucho.",
     "wrong": [
       "La ciudad en que nos conocíamos ha cambiado mucho.",
       "La ciudad cuya nos conocimos ha cambiado mucho.",
       "La ciudad la cual nos conocimos ha cambiado mucho."
     ],
-    "explanation": "'En la cual' (في which) هو الـ رسمي relative ضمير construction بعد a حرف جر. 'La cual' يتوافق مع 'ciudad' (مؤنث مفرد). الـ الماضي البسيط 'conocimos' يُستخدم لـ الـ specific past event."
+    "explanation": "'En la cual' (التي فيها) هي صيغة ضمير الوصل الرسمية بعد حرف الجر. و'La cual' تتطابق مع 'ciudad' (مؤنث مفرد). ويُستخدم الماضي البسيط 'conocimos' للحدث الماضي المحدد.",
+    "hint": null
   },
   "q_gram_b2_08_008": {
     "question": "El autor ___ novela ganó el premio es de Colombia. (cuyo, agreeing مع 'novela')",
@@ -879,14 +894,15 @@
     "hint": "'Lo + صفة + que' = كيف [صفة] something هو"
   },
   "q_gram_b2_09_003": {
-    "question": "ماذا does الـ construction 'lo que' يعني, و كيف هو هو used?",
-    "correct": "'Lo que' means 'what' or 'that which' and introduces a noun clause referring to an abstract idea or an entire concept",
+    "question": "ماذا تعني العبارة 'lo que' وكيف تُستخدم؟",
+    "correct": "'Lo que' تعني «ما» أو «الشيء الذي»، وتُقدّم جملة اسمية تشير إلى فكرة مجردة أو مفهوم كامل",
     "wrong": [
-      "'Lo que' means 'how much' and is used to express quantity",
-      "'Lo que' means 'the one who' and refers to a specific person",
-      "'Lo que' means 'which one' and is used in questions only"
+      "'Lo que' تعني «كم» وتُستخدم للتعبير عن الكمية",
+      "'Lo que' تعني «الشخص الذي» وتشير إلى شخص محدد",
+      "'Lo que' تعني «أيّ واحد» وتُستخدم في الأسئلة فقط"
     ],
-    "explanation": "'Lo que' nominalizes an entire clause: 'lo que quiero' = 'ماذا I want / ذلك which I want'. هو يمكن function as subject أو object و يشير إلى abstract concepts rather than specific nouns."
+    "explanation": "'Lo que' تحوّل جملة كاملة إلى اسم: 'lo que quiero' = «ما أريده / الشيء الذي أريده». ويمكن أن تعمل فاعلًا أو مفعولًا به، وتشير إلى مفاهيم مجردة لا إلى أسماء محددة.",
+    "hint": null
   },
   "q_gram_b2_09_004": {
     "question": "Lo que necesitamos ___ más tiempo para terminar el proyecto. (ser, present الإخبار, 3rd شخص)",
@@ -955,13 +971,14 @@
   },
   "q_gram_b2_09_010": {
     "question": "Lo que no me esperaba era que cancelaran el vuelo sin previo aviso.",
-    "correct": "What I did not expect was that they would cancel the flight without prior notice.",
+    "correct": "ما لم أكن أتوقعه هو أنهم سيلغون الرحلة دون إشعار مسبق.",
     "wrong": [
-      "The thing I was not expecting was that they canceled the flight without previous notice.",
-      "What I am not expecting is that they cancel the flight without notice.",
-      "Which I did not expect was that they would cancel the flight without prior notice."
+      "الشيء الذي لم أكن أتوقعه هو أنهم ألغوا الرحلة دون إشعار سابق.",
+      "ما لا أتوقعه هو أن يلغوا الرحلة دون إشعار.",
+      "الذي لم أتوقعه كان أنهم سيلغون الرحلة دون إشعار مسبق."
     ],
-    "explanation": "'Lo que' يعني 'ماذا' (ذلك which). 'No me esperaba' هو في الـ الماضي المستمر (ongoing past expectation). 'Cancelaran' هو past صيغة المضارع المنصوب لأن هو follows a اسم clause expressing an unexpected event."
+    "explanation": "'Lo que' تعني «ما» (الشيء الذي). و'No me esperaba' في الماضي الناقص (توقّع مستمر في الماضي). و'Cancelaran' في الماضي subjunctive لأنها تأتي بعد جملة اسمية تعبّر عن حدث غير متوقع.",
+    "hint": null
   },
   "q_gram_b2_10_001": {
     "question": "Quería ir al concierto; ___, no pude conseguir entradas. (discourse connector: ومع ذلك)",
@@ -1116,15 +1133,15 @@
     "conjugation_info": "ponerse (preterite): me puse, te pusiste, se puso, nos pusimos, os pusisteis, se pusieron"
   },
   "q_gram_b2_11_005": {
-    "question": "Mi abuelo ___ viviendo en el mismo pueblo desde hace 60 años. (llevar + اسم الفاعل, present)",
+    "question": "Mi abuelo ___ viviendo en el mismo pueblo desde hace 60 años. (llevar + gerundio، المضارع)",
     "correct": "lleva",
     "wrong": [
       "está",
       "sigue",
       "viene"
     ],
-    "explanation": "'Llevar + اسم الفاعل' expresses duration من an ongoing action. 'Lleva viviendo' + وقت = 'يملك been living لـ'. هو emphasizes الـ accumulated duration.",
-    "hint": "'Llevar + اسم الفاعل' = إلى يملك been doing something لـ [وقت]"
+    "explanation": "'Llevar + gerundio' تعبّر عن مدة فعل مستمر. 'Lleva viviendo' + مدة = «يعيش منذ». وهي تؤكد على المدة المتراكمة.",
+    "hint": "'Llevar + gerundio' = أن يكون الشخص يفعل شيئًا منذ مدة [زمنية]"
   },
   "q_gram_b2_11_006": {
     "question": "Ella ___ de fumar el año pasado y ahora se siente mucho mejor. (dejar de + المصدر, الماضي البسيط, ella form)",
@@ -1213,14 +1230,15 @@
     "hint": "Two languages = جمع subject"
   },
   "q_gram_b2_12_004": {
-    "question": "ماذا هو الـ difference between passive se و impersonal se في الإسبانية?",
-    "correct": "Passive se has an identifiable grammatical subject and the verb agrees with it, while impersonal se has no subject and the verb is always 3rd person singular",
+    "question": "ما الفرق بين se المبني للمجهول وse غير الشخصية في الإسبانية؟",
+    "correct": "se المبني للمجهول لها فاعل نحوي محدد ويتطابق معه الفعل، أما se غير الشخصية فلا فاعل لها والفعل دائمًا في الغائب المفرد",
     "wrong": [
-      "Passive se is used only in writing, while impersonal se is used only in speech",
-      "Passive se uses the subjunctive, while impersonal se uses the indicative",
-      "There is no difference; they are two names for the same construction"
+      "se المبني للمجهول تُستخدم في الكتابة فقط، وse غير الشخصية في الكلام فقط",
+      "se المبني للمجهول تستخدم subjunctive، وse غير الشخصية تستخدم الصيغة الإخبارية",
+      "لا فرق؛ فهما اسمان للتركيب نفسه"
     ],
-    "explanation": "Passive se: 'Se venden casas' (houses هم sold — 'casas' هو الـ subject, فعل هو جمع). Impersonal se: 'Se vive bien aquí' (one lives well هنا — no subject, فعل stays مفرد)."
+    "explanation": "se المبني للمجهول: 'Se venden casas' (تُباع منازل — 'casas' هي الفاعل والفعل جمع). se غير الشخصية: 'Se vive bien aquí' (يعيش المرء جيدًا هنا — لا فاعل والفعل يبقى مفردًا).",
+    "hint": null
   },
   "q_gram_b2_12_005": {
     "question": "En la universidad ___ materias muy variadas. (ofrecer, passive se, present, 3rd شخص جمع)",
@@ -1276,15 +1294,16 @@
     "explanation": "'Se buscan personas' هو a passive se construction أين 'personas' هو الـ subject و الـ فعل agrees في جمع. هو translates as 'ناس هم sought' بدون specifying من هو looking."
   },
   "q_gram_b2_12_010": {
-    "question": "En la reunión ___ varios temas importantes. (tratar, passive se, الماضي البسيط, 3rd شخص جمع)",
+    "question": "En la reunión ___ varios temas importantes. (tratar، se المبني للمجهول، الماضي البسيط، الغائب الجمع)",
     "correct": "se trataron",
     "wrong": [
       "se trató",
       "trataron",
       "fueron tratados"
     ],
-    "explanation": "الـ passive se يمكن أن يكون used في any tense. في الـ الماضي البسيط مع a جمع subject ('varios temas'), الـ فعل هو 'se trataron' (several important topics كانوا discussed).",
-    "conjugation_info": "tratar (preterite): traté, trataste, trató, tratamos, tratasteis, trataron"
+    "explanation": "يمكن استخدام se المبني للمجهول في أي زمن. وفي الماضي البسيط مع فاعل جمع ('varios temas') يكون الفعل 'se trataron' (نُوقشت عدة مواضيع مهمة).",
+    "conjugation_info": "tratar (preterite): traté, trataste, trató, tratamos, tratasteis, trataron",
+    "hint": null
   },
   "q_gram_b2_13_001": {
     "question": "Busco a alguien que ___ hablar tres idiomas. (poder, المضارع المنصوب)",
@@ -1341,15 +1360,16 @@
     "hint": "المتكلم غير متأكد من وجود هذا الشخص"
   },
   "q_gram_b2_13_006": {
-    "question": "La empresa quiere contratar a alguien que ___ experiencia en inteligencia artificial. (tener, المضارع المنصوب, 3rd شخص مفرد)",
+    "question": "La empresa quiere contratar a alguien que ___ experiencia en inteligencia artificial. (tener، المضارع subjunctive، الغائب المفرد)",
     "correct": "tenga",
     "wrong": [
       "tiene",
       "tendría",
       "tuviera"
     ],
-    "explanation": "الـ صيغة المضارع المنصوب يُستخدم بعد 'alguien que' لأن الـ شخص hasn't been identified yet. الـ company هو looking لـ someone من may أو may not exist.",
-    "conjugation_info": "tener (present subjunctive): tenga, tengas, tenga, tengamos, tengáis, tengan"
+    "explanation": "يُستخدم subjunctive بعد 'alguien que' لأن الشخص لم يُحدَّد بعد. فالشركة تبحث عن شخص قد يكون موجودًا وقد لا يكون.",
+    "conjugation_info": "tener (present subjunctive): tenga, tengas, tenga, tengamos, tengáis, tengan",
+    "hint": null
   },
   "q_gram_b2_13_007": {
     "question": "Quiero comprar una casa que ___ jardín y que ___ en un barrio tranquilo. (tener, estar, المضارع المنصوب)",
@@ -1407,15 +1427,15 @@
     "hint": null
   },
   "q_gram_b2_14_002": {
-    "question": "Ella gasta dinero como si ___ millonaria. (ser, past صيغة المضارع المنصوب)",
+    "question": "Ella gasta dinero como si ___ millonaria. (ser، الماضي subjunctive)",
     "correct": "fuera",
     "wrong": [
       "es",
       "sería",
       "sea"
     ],
-    "explanation": "'Como si' دائماً triggers الـ past صيغة المضارع المنصوب regardless من الـ tense من الـ main فعل. 'Fuera' expresses an unreal comparison: she spends as if she كانوا a millionaire (لكن she هو not).",
-    "hint": "'Como si' دائماً requires past صيغة المضارع المنصوب"
+    "explanation": "'Como si' تستدعي دائمًا الماضي subjunctive بغض النظر عن زمن الفعل الرئيسي. و'Fuera' تعبّر عن مقارنة غير واقعية: هي تنفق كما لو كانت مليونيرة (لكنها ليست كذلك).",
+    "hint": "'Como si' تتطلب دائمًا الماضي subjunctive"
   },
   "q_gram_b2_14_003": {
     "question": "Los niños corrían como si los ___ un perro. (perseguir, past صيغة المضارع المنصوب)",
@@ -1643,14 +1663,15 @@
     "hint": "الـ first clause هو affirmative, not negative"
   },
   "q_gram_b2_16_004": {
-    "question": "ماذا هو الـ key difference between 'sino' و 'pero' في الإسبانية?",
-    "correct": "'Sino' is used after a negative statement to introduce a direct correction or replacement, while 'pero' introduces a contrast or limitation without direct replacement",
+    "question": "ما الفرق الأساسي بين 'sino' و'pero' في الإسبانية؟",
+    "correct": "'Sino' تُستخدم بعد جملة منفية لتقديم تصحيح مباشر أو بديل، أما 'pero' فتقدّم تباينًا أو تقييدًا دون بديل مباشر",
     "wrong": [
-      "'Sino' is formal and 'pero' is informal",
-      "'Sino' is used with nouns and 'pero' is used with verbs",
-      "'Sino' expresses cause and 'pero' expresses consequence"
+      "'Sino' رسمية و'pero' غير رسمية",
+      "'Sino' تُستخدم مع الأسماء و'pero' مع الأفعال",
+      "'Sino' تعبّر عن السبب و'pero' تعبّر عن النتيجة"
     ],
-    "explanation": "'Sino' requires a preceding negative و introduces ماذا هو true instead (No A sino B). 'Pero' simply adds a contrasting أو limiting idea و يمكن follow affirmative أو negative statements."
+    "explanation": "'Sino' تتطلب جملة منفية قبلها وتقدّم ما هو الصحيح بدلًا منها (No A sino B). أما 'Pero' فتضيف ببساطة فكرة مخالفة أو مقيِّدة ويمكن أن تأتي بعد جملة مثبتة أو منفية.",
+    "hint": null
   },
   "q_gram_b2_16_005": {
     "question": "No solo habla español ___ también francés e italiano. (sino/pero, لـ 'not فقط... لكن أيضاً')",
@@ -1692,8 +1713,8 @@
       "sino que",
       "aunque"
     ],
-    "explanation": "هنا 'pero' هو صحيح لأن الـ second clause does not directly contradict أو replace الـ first. هو adds additional information: الـ مشكلة هو not صعب, لكن هو requires patience.",
-    "hint": "الـ second clause adds information, هو does not replace 'difícil'"
+    "explanation": "'Pero' هي الصحيحة هنا لأن الجملة الثانية لا تناقض الأولى مباشرة ولا تحل محلها. إنها تضيف معلومة إضافية: المشكلة ليست صعبة، لكنها تتطلب صبرًا.",
+    "hint": "الجملة الثانية تضيف معلومة، ولا تحل محل 'difícil'"
   },
   "q_gram_b2_16_009": {
     "question": "No fue Pedro quien lo hizo, sino que fue María la responsable.",
@@ -1717,36 +1738,37 @@
     "conjugation_info": "Extended pattern: no solo + clause, sino que además + clause (not only... but also/moreover)"
   },
   "q_gram_b2_17_001": {
-    "question": "Quiero que tú ___ a la fiesta esta noche. (venir, المضارع المنصوب)",
+    "question": "Quiero que tú ___ a la fiesta esta noche. (venir، المضارع subjunctive)",
     "correct": "vengas",
     "wrong": [
       "vinieras",
       "vienes",
       "vendrías"
     ],
-    "explanation": "عندما الـ main فعل هو في الـ present tense (quiero), الـ subordinate clause uses الـ المضارع المنصوب (vengas) according إلى الـ sequence من tenses. Present → المضارع المنصوب.",
-    "hint": "Main فعل present tense → subordinate المضارع المنصوب"
+    "explanation": "عندما يكون الفعل الرئيسي في المضارع (quiero)، تستخدم الجملة التابعة المضارع subjunctive (vengas) وفق تتابع الأزمنة. المضارع ← المضارع subjunctive.",
+    "hint": "الفعل الرئيسي في المضارع ← الجملة التابعة في المضارع subjunctive"
   },
   "q_gram_b2_17_002": {
-    "question": "El profesor pidió que los estudiantes ___ el ensayo para el viernes. (entregar, past صيغة المضارع المنصوب)",
+    "question": "El profesor pidió que los estudiantes ___ el ensayo para el viernes. (entregar، الماضي subjunctive)",
     "correct": "entregaran",
     "wrong": [
       "entreguen",
       "entregaban",
       "entregarían"
     ],
-    "explanation": "عندما الـ main فعل هو في الـ past tense (pidió, الماضي البسيط), الـ subordinate clause uses الـ past صيغة المضارع المنصوب (entregaran). Past → Past صيغة المضارع المنصوب.",
-    "hint": "Main فعل past tense → subordinate past صيغة المضارع المنصوب"
+    "explanation": "عندما يكون الفعل الرئيسي في الماضي (pidió، الماضي البسيط)، تستخدم الجملة التابعة الماضي subjunctive (entregaran). الماضي ← الماضي subjunctive.",
+    "hint": "الفعل الرئيسي في الماضي ← الجملة التابعة في الماضي subjunctive"
   },
   "q_gram_b2_17_003": {
-    "question": "ماذا هو الـ قاعدة من sequence من tenses (concordancia temporal) لـ الـ صيغة المضارع المنصوب في الإسبانية?",
-    "correct": "Present/future/present perfect main verb → present subjunctive; past main verb (preterite, imperfect, pluperfect, conditional) → past subjunctive",
+    "question": "ما قاعدة تتابع الأزمنة (concordancia temporal) مع subjunctive في الإسبانية؟",
+    "correct": "الفعل الرئيسي في المضارع/المستقبل/المضارع التام ← المضارع subjunctive؛ والفعل الرئيسي في الماضي (البسيط، الناقص، التام السابق، الشرطي) ← الماضي subjunctive",
     "wrong": [
-      "The subjunctive always matches the exact tense of the main verb",
-      "Present main verb → past subjunctive; past main verb → present subjunctive",
-      "There is no fixed rule; any subjunctive tense can follow any main verb tense"
+      "يتطابق subjunctive دائمًا مع زمن الفعل الرئيسي تمامًا",
+      "الفعل الرئيسي في المضارع ← الماضي subjunctive؛ والفعل الرئيسي في الماضي ← المضارع subjunctive",
+      "لا توجد قاعدة ثابتة؛ يمكن لأي زمن subjunctive أن يتبع أي زمن للفعل الرئيسي"
     ],
-    "explanation": "الـ sequence من tenses governs which صيغة المضارع المنصوب tense follows الـ main فعل. Present-sphere verbs trigger المضارع المنصوب; past-sphere verbs trigger past صيغة المضارع المنصوب (الماضي الشرطي)."
+    "explanation": "يحدد تتابع الأزمنة أي زمن subjunctive يتبع الفعل الرئيسي. فأفعال دائرة الحاضر تستدعي المضارع subjunctive، وأفعال دائرة الماضي تستدعي الماضي subjunctive (الناقص).",
+    "hint": null
   },
   "q_gram_b2_17_004": {
     "question": "Dudaba que ella ___ la verdad. (decir, past صيغة المضارع المنصوب, ella form)",
@@ -1846,15 +1868,15 @@
     "hint": "'La razón por la que' = الـ reason why"
   },
   "q_gram_b2_18_003": {
-    "question": "El amigo ___ quien fui al cine es de Argentina. (preposition + relative ضمير لـ الناس)",
+    "question": "El amigo ___ quien fui al cine es de Argentina. (حرف جر + ضمير وصل للأشخاص)",
     "correct": "con",
     "wrong": [
       "por",
       "de",
       "para"
     ],
-    "explanation": "'Con quien' يعني 'مع whom' و يُستخدم لـ ناس بعد الـ حرف جر 'con'. 'El amigo con quien fui' = 'الـ صديق مع whom I went'.",
-    "hint": "Which حرف جر يعني 'مع'?"
+    "explanation": "'Con quien' تعني «الذي مع» وتُستخدم للأشخاص بعد حرف الجر 'con'. 'El amigo con quien fui' = «الصديق الذي ذهبتُ معه».",
+    "hint": "أي حرف جر يعني «مع»؟"
   },
   "q_gram_b2_18_004": {
     "question": "عندما do أنت use 'preposition + el/la que' versus 'preposition + quien' في relative clauses?",
@@ -1889,14 +1911,15 @@
     "hint": "أي حرف جر يدل على المكان (في)؟"
   },
   "q_gram_b2_18_007": {
-    "question": "الـ book about which we spoke هو جداً interesting.",
+    "question": "الكتاب الذي تحدثنا عنه مثير جدًا للاهتمام.",
     "correct": "El libro del que hablamos es muy interesante.",
     "wrong": [
       "El libro que del hablamos es muy interesante.",
       "El libro sobre quien hablamos es muy interesante.",
       "El libro de que hablamos es muy interesante."
     ],
-    "explanation": "'Hablar de algo' (إلى talk about something) requires الـ حرف جر 'de'. Combined مع الـ relative ضمير: 'del que' (de + el que). 'El libro del que hablamos' = 'الـ كتاب about which we spoke'."
+    "explanation": "'Hablar de algo' (التحدث عن شيء) يتطلب حرف الجر 'de'. وعند دمجه مع ضمير الوصل: 'del que' (de + el que). 'El libro del que hablamos' = «الكتاب الذي تحدثنا عنه».",
+    "hint": null
   },
   "q_gram_b2_18_008": {
     "question": "La empresa ___ la que trabajo ofrece buenos beneficios. (preposition + relative, 'لـ' في الـ sense من employment)",

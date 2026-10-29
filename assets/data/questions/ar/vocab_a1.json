@@ -162,15 +162,16 @@
     "explanation": "'Esposa' يعني 'wife'. 'Esposo' يعني 'husband'. These هم لـmal terms لـ a married partner."
   },
   "q_vocab_a1_02_007": {
-    "question": "أنت want إلى introduce لك female friend إلى someone. Which كلمة do أنت use?",
+    "question": "تريد أن تعرّف صديقتك على شخص ما. أي كلمة تستخدم؟",
     "correct": "amiga",
     "wrong": [
       "novia",
       "prima",
       "vecina"
     ],
-    "explanation": "'Amiga' يعني 'female صديق'. Using 'novia' سوف يعني 'girlfriend' (romantic partner), which هو different.",
-    "context": "Introducing a صديق at a party"
+    "explanation": "'Amiga' تعني «صديقة». أما استخدام 'novia' فيعني «حبيبة» (شريكة عاطفية)، وهذا مختلف.",
+    "context": "Introducing a صديق at a party",
+    "hint": null
   },
   "q_vocab_a1_02_008": {
     "question": "ما معنى 'primo' في 'Mi primo tiene diez años'؟",
@@ -388,11 +389,11 @@
   },
   "q_vocab_a1_04_009": {
     "question": "Hoy es viernes. Mañana es ___.",
-    "correct": "Today is Friday. Tomorrow is Saturday.",
+    "correct": "sábado",
     "wrong": [
-      "Today is Friday. Tomorrow is Thursday.",
-      "Today is Friday. Tomorrow is Sunday.",
-      "Today is Thursday. Tomorrow is Friday."
+      "jueves",
+      "domingo",
+      "lunes"
     ],
     "explanation": "'Viernes' هو الجمعة و الـ day بعد الجمعة هو 'sábado' (السبت)."
   },
@@ -428,14 +429,15 @@
     "explanation": "'Blanco' يعني 'أبيض'. Its opposite هو 'negro' (أسود)."
   },
   "q_vocab_a1_05_003": {
-    "question": "El cielo es ___. (الـ sky هو ___)",
+    "question": "El cielo es ___. (السماء ___)",
     "correct": "azul",
     "wrong": [
       "rojo",
       "verde",
       "amarillo"
     ],
-    "explanation": "'Azul' يعني 'أزرق'. Unlike معظم color adjectives, 'azul' does not change لـ مذكر/مؤنث."
+    "explanation": "'Azul' تعني «أزرق». وعلى خلاف معظم صفات الألوان، لا تتغير 'azul' بين المذكر والمؤنث.",
+    "hint": null
   },
   "q_vocab_a1_05_004": {
     "question": "ما معنى 'negro'؟",
@@ -458,24 +460,26 @@
     "explanation": "'Amarillo' يعني 'أصفر'. الـ sentence يعني 'الـ sun هو أصفر'."
   },
   "q_vocab_a1_05_006": {
-    "question": "الـ car هو green.",
+    "question": "السيارة خضراء.",
     "correct": "El coche es verde.",
     "wrong": [
       "El coche es rojo.",
       "El coche es azul.",
       "La coche es verde."
     ],
-    "explanation": "'Verde' يعني 'أخضر'. 'Coche' (car) هو مذكر, so we use 'el'. 'Verde' does not change لـ gender."
+    "explanation": "'Verde' تعني 'أخضر'. كلمة 'Coche' (سيارة) مذكّرة في الإسبانية، لذلك نستخدم 'el'. كلمة 'Verde' لا تتغيّر بحسب الجنس.",
+    "hint": null
   },
   "q_vocab_a1_05_007": {
-    "question": "ما معنى 'gris' في 'El gato es gris'؟",
-    "correct": "grey",
+    "question": "ماذا تعني 'gris' في جملة 'El gato es gris'؟",
+    "correct": "رمادي",
     "wrong": [
-      "بني",
+      "بنّي",
       "أبيض",
       "أسود"
     ],
-    "explanation": "'Gris' يعني 'grey'. Like 'azul' و 'verde', هو does not change لـm لـ مذكر/مؤنث."
+    "explanation": "'Gris' تعني 'رمادي'. مثل 'azul' و'verde'، لا يتغيّر شكلها بين المذكّر والمؤنّث.",
+    "hint": null
   },
   "q_vocab_a1_05_008": {
     "question": "¿De qué color es la naranja?",
@@ -920,14 +924,15 @@
     "context": "Giving a tour of your home to a صديق"
   },
   "q_vocab_a1_10_001": {
-    "question": "ما معنى 'libro'؟",
+    "question": "ماذا تعني 'libro'؟",
     "correct": "كتاب",
     "wrong": [
-      "notebook",
-      "pencil",
-      "pen"
+      "دفتر",
+      "قلم رصاص",
+      "قلم حبر"
     ],
-    "explanation": "'Libro' يعني 'كتاب'. 'Librería' يعني 'bookstore' (not 'library', which هو 'biblioteca')."
+    "explanation": "'Libro' تعني 'كتاب'. أما 'Librería' فتعني 'مكتبة لبيع الكتب' (وليست 'مكتبة عامة للقراءة' التي تُقال لها 'biblioteca').",
+    "hint": null
   },
   "q_vocab_a1_10_002": {
     "question": "El estudiante escribe en el ___.",
@@ -1011,15 +1016,16 @@
     "explanation": "'Universidad' يعني 'university'. 'Estudiar en la universidad' = 'يدرس at university'."
   },
   "q_vocab_a1_10_010": {
-    "question": "أنت need إلى borrow a pen من a classmate. ماذا do أنت say?",
+    "question": "تحتاج إلى استعارة قلم حبر من زميل في الصف. ماذا تقول؟",
     "correct": "¿Me prestas un bolígrafo?",
     "wrong": [
       "¿Me prestas un lápiz?",
       "¿Me prestas un cuaderno?",
       "¿Me prestas un libro?"
     ],
-    "explanation": "'Bolígrafo' يعني 'pen'. '¿Me prestas...?' يعني 'يمكن أنت lend me...?' which هو شائع among classmates.",
-    "context": "In class without a pen"
+    "explanation": "'Bolígrafo' تعني 'قلم حبر'. '¿Me prestas...?' تعني 'هل يمكنك أن تعيرني...؟' وهي عبارة شائعة بين زملاء الصف.",
+    "context": "In class without a pen",
+    "hint": null
   },
   "q_vocab_a1_11_001": {
     "question": "ما معنى 'médico'؟",
@@ -1215,15 +1221,16 @@
     "explanation": "'Flores' يعني 'flowers' (مفرد: 'flor'). 'Bonitas' يعني 'pretty'. Flowers typically bloom في 'primavera' (spring)."
   },
   "q_vocab_a1_12_010": {
-    "question": "أنت هم watching الـ weather forecast و want إلى know about tomorrow. كيف do أنت ask 'ماذا سوف الـ weather يكون like tomorrow?'",
+    "question": "أنت تشاهد نشرة الطقس وتريد أن تعرف حالة الطقس غدًا. كيف تسأل 'كيف سيكون الطقس غدًا؟'",
     "correct": "¿Qué tiempo hará mañana?",
     "wrong": [
       "¿Qué hora es mañana?",
       "¿Qué día es mañana?",
       "¿Cuándo es mañana?"
     ],
-    "explanation": "'Tiempo' هنا يعني 'weather' (هو يمكن أيضاً يعني 'وقت'). '¿Qué tiempo hará?' uses الـ future tense من 'hacer'.",
-    "context": "Watching the weather لـecast on TV"
+    "explanation": "'Tiempo' تعني هنا 'الطقس' (ويمكن أن تعني أيضًا 'الوقت'). '¿Qué tiempo hará?' تستخدم صيغة المستقبل من الفعل 'hacer'.",
+    "context": "Watching the weather لـecast on TV",
+    "hint": null
   },
   "q_vocab_a1_13_001": {
     "question": "ما معنى 'coche'؟",
@@ -1399,14 +1406,15 @@
     "context": "Waiting لـ a late bus"
   },
   "q_vocab_a1_14_008": {
-    "question": "ما معنى 'beber' في '¿Quieres beber algo?'؟",
+    "question": "ماذا تعني 'beber' في جملة '¿Quieres beber algo?'؟",
     "correct": "يشرب",
     "wrong": [
       "يأكل",
-      "to buy",
-      "to want"
+      "يشتري",
+      "يريد"
     ],
-    "explanation": "'Beber' يعني 'يشرب'. الـ sentence يعني 'Do أنت want يشرب something?' 'Tomar' هو أيضاً used لـ 'يشرب'."
+    "explanation": "'Beber' تعني 'يشرب'. معنى الجملة: 'هل تريد أن تشرب شيئًا؟' كما تُستخدم 'Tomar' أيضًا بمعنى 'يشرب'.",
+    "hint": null
   },
   "q_vocab_a1_14_009": {
     "question": "Me levanto a las siete y me ducho antes de desayunar.",

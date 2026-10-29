@@ -98,13 +98,14 @@
   },
   "q_gram_b2_01_010": {
     "question": "Ojalá que mis amigos estuvieran aquí para celebrar conmigo.",
-    "correct": "I wish my friends were here to celebrate with me.",
+    "correct": "Жаль, что мои друзья не здесь и не могут отпраздновать вместе со мной. (Если бы только мои друзья были здесь и праздновали со мной.)",
     "wrong": [
-      "I hope my friends are here to celebrate with me.",
-      "My friends wished they were here to celebrate with me.",
-      "I wished my friends had been here to celebrate with me."
+      "Надеюсь, мои друзья здесь, чтобы отпраздновать вместе со мной.",
+      "Мои друзья хотели бы быть здесь, чтобы отпраздновать вместе со мной.",
+      "Я жалел, что мои друзья не были здесь, чтобы отпраздновать вместе со мной."
     ],
-    "explanation": "'Ojalá que' + past сослагательное наклонение (estuvieran) expresses wish about present situation который есть unlikely или contrary к reality, translated as 'I wish... были'."
+    "explanation": "'Ojalá que' + имперфект сослагательного наклонения (estuvieran) выражает желание относительно настоящей ситуации, которая маловероятна или противоречит действительности; переводится как «если бы только... были».",
+    "hint": null
   },
   "q_gram_b2_02_001": {
     "question": "Si ella ___ tiempo, iría al gimnasio. (tener, past сослагательное наклонение, ella form)",
@@ -140,14 +141,15 @@
     "hint": "Ser и ir share same past сослагательное наклонение формах"
   },
   "q_gram_b2_02_004": {
-    "question": "что есть structure Type 2 условное наклонение sentence в испанский?",
-    "correct": "Si + past subjunctive (imperfect subjunctive), conditional tense in the main clause",
+    "question": "Какова структура условного предложения 2-го типа в испанском языке?",
+    "correct": "Si + имперфект сослагательного наклонения, в главной части — условное наклонение (condicional)",
     "wrong": [
-      "Si + present indicative, future tense in the main clause",
-      "Si + imperfect indicative, conditional tense in the main clause",
-      "Si + conditional tense, past subjunctive in the main clause"
+      "Si + настоящее время изъявительного наклонения, в главной части — будущее время",
+      "Si + имперфект изъявительного наклонения, в главной части — условное наклонение",
+      "Si + условное наклонение, в главной части — имперфект сослагательного наклонения"
     ],
-    "explanation": "Type 2 conditionals express unreal или unlikely present/future situations. si-clause takes past сослагательное наклонение (e.g., tuviera) и result clause uses условное наклонение (e.g., compraría)."
+    "explanation": "Условные предложения 2-го типа выражают нереальные или маловероятные ситуации в настоящем/будущем. В части с si употребляется имперфект сослагательного наклонения (например, tuviera), а в главной части — условное наклонение (например, compraría).",
+    "hint": null
   },
   "q_gram_b2_02_005": {
     "question": "Yo ___ más contentos a mis padres si sacara buenas notas. (hacer, условное наклонение, yo form)",
@@ -172,14 +174,15 @@
     "hint": " si-clause needs past сослагательное наклонение, не изъявительное наклонение или условное наклонение"
   },
   "q_gram_b2_02_007": {
-    "question": "If они lived closer, we бы see them more часто.",
+    "question": "Если бы они жили ближе, мы виделись бы с ними чаще.",
     "correct": "Si ellos vivieran más cerca, los veríamos más a menudo.",
     "wrong": [
       "Si ellos vivirían más cerca, los veíamos más a menudo.",
       "Si ellos vivían más cerca, los veríamos más a menudo.",
       "Si ellos viven más cerca, los veremos más a menudo."
     ],
-    "explanation": "это является Type 2 условное наклонение. 'Si' + past сослагательное наклонение (vivieran) expresses unreal condition, и условное наклонение (veríamos) expresses hypothetical result."
+    "explanation": "Это условное предложение 2-го типа. 'Si' + имперфект сослагательного наклонения (vivieran) выражает нереальное условие, а условное наклонение (veríamos) — гипотетический результат.",
+    "hint": null
   },
   "q_gram_b2_02_008": {
     "question": "Si yo ___ hablar chino, buscaría trabajo en Pekín. (saber)",
@@ -236,14 +239,15 @@
     "hint": " si-clause в Type 3 needs pluperfect сослагательное наклонение"
   },
   "q_gram_b2_03_003": {
-    "question": "что does Type 3 условное наклонение sentence express в испанский?",
-    "correct": "An unreal or impossible condition in the past and its hypothetical consequence",
+    "question": "Что выражает условное предложение 3-го типа в испанском языке?",
+    "correct": "Нереальное или невозможное условие в прошлом и его гипотетическое следствие",
     "wrong": [
-      "A probable condition in the present with a likely outcome",
-      "An unreal condition in the present with a hypothetical outcome",
-      "A real condition in the past with a factual consequence"
+      "Вероятное условие в настоящем с ожидаемым результатом",
+      "Нереальное условие в настоящем с гипотетическим результатом",
+      "Реальное условие в прошлом с фактическим следствием"
     ],
-    "explanation": "Type 3 conditionals (si + pluperfect сослагательное наклонение, условное наклонение perfect) express situations который являются contrary к что actually happened в past. они describe missed opportunities или regrets."
+    "explanation": "Условные предложения 3-го типа (si + плюсквамперфект сослагательного наклонения, условное перфектное) выражают ситуации, противоречащие тому, что произошло в прошлом на самом деле. Они описывают упущенные возможности или сожаления.",
+    "hint": null
   },
   "q_gram_b2_03_004": {
     "question": "Nosotros ___ antes si hubiéramos tenido el mapa. (llegar, условное наклонение perfect, nosotros form)",
@@ -355,14 +359,15 @@
     "hint": "Прошедшее условное выражает несостоявшееся действие в прошлом"
   },
   "q_gram_b2_04_004": {
-    "question": "когда есть условное наклонение perfect (habría + причастие прошедшего времени) used в испанском?",
-    "correct": "To express what would have happened in the past under different circumstances, or to speculate about the past",
+    "question": "Когда в испанском языке используется условное перфектное время (habría + причастие)?",
+    "correct": "Чтобы выразить, что произошло бы в прошлом при иных обстоятельствах, или чтобы строить предположения о прошлом",
     "wrong": [
-      "To express what will have happened by a future point in time",
-      "To express what had happened before another past event",
-      "To express what someone wanted to happen in the present"
+      "Чтобы выразить, что уже произойдёт к определённому моменту в будущем",
+      "Чтобы выразить, что произошло до другого события в прошлом",
+      "Чтобы выразить, чего кто-то хотел в настоящем"
     ],
-    "explanation": " условное наклонение perfect имеет two main uses: (1) main clause Type 3 conditionals (что бы иметь happened), и (2) speculation или conjecture about past events."
+    "explanation": "У условного перфектного времени два основных употребления: (1) главная часть условных предложений 3-го типа (что произошло бы) и (2) предположение или догадка о событиях прошлого.",
+    "hint": null
   },
   "q_gram_b2_04_005": {
     "question": "Tú ___ la verdad antes, pero no te atreviste. (decir, условное наклонение perfect, tú form)",
@@ -387,14 +392,15 @@
     "hint": " условное наклонение perfect может express past speculation"
   },
   "q_gram_b2_04_007": {
-    "question": "I бы иметь called ты, но I lost my phone.",
+    "question": "Я бы позвонил тебе, но потерял телефон.",
     "correct": "Te habría llamado, pero perdí mi teléfono.",
     "wrong": [
       "Te hubiera llamado, pero perdía mi teléfono.",
       "Te llamaría, pero perdí mi teléfono.",
       "Te había llamado, pero perdí mi teléfono."
     ],
-    "explanation": " условное наклонение perfect (habría llamado) expresses что бы иметь happened. 'pero' clause uses претерит к state factual obstacle."
+    "explanation": "Условное перфектное (habría llamado) выражает то, что произошло бы. В части с 'pero' используется претерит, чтобы назвать реальное препятствие.",
+    "hint": null
   },
   "q_gram_b2_04_008": {
     "question": "Sin tu ayuda, yo no ___ el trabajo a tiempo. (completar, условное наклонение perfect)",
@@ -409,13 +415,14 @@
   },
   "q_gram_b2_04_009": {
     "question": "A las diez de la noche, los invitados ya se habrían marchado.",
-    "correct": "By ten at night, the guests would have already left.",
+    "correct": "К десяти вечера гости, должно быть, уже ушли.",
     "wrong": [
-      "At ten at night, the guests had already left.",
-      "By ten at night, the guests already left.",
-      "At ten at night, the guests would already leave."
+      "В десять вечера гости уже ушли (к тому моменту уже ушли, это известный факт).",
+      "К десяти вечера гости уже уходили.",
+      "В десять вечера гости уже собирались бы уйти."
     ],
-    "explanation": " условное наклонение perfect (se habrían marchado) здесь expresses conjecture about что probably happened at past время. 'Ya' (already) emphasizes completed nature action."
+    "explanation": "Условное перфектное (se habrían marchado) здесь выражает предположение о том, что, вероятно, произошло в какой-то момент в прошлом. 'Ya' (уже) подчёркивает завершённость действия.",
+    "hint": null
   },
   "q_gram_b2_04_010": {
     "question": "Ellos ___ el vuelo si no hubiera habido tráfico. (perder, условное наклонение perfect, ellos form)",
@@ -451,14 +458,15 @@
     "hint": "'Cuando llegues' sets future reference point"
   },
   "q_gram_b2_05_003": {
-    "question": "что являются two main uses future perfect tense в испанский?",
-    "correct": "To express an action completed before a future point in time, and to speculate about what has probably happened",
+    "question": "Каковы два основных употребления будущего перфектного времени в испанском языке?",
+    "correct": "Выразить действие, завершённое к определённому моменту в будущем, и строить предположение о том, что, вероятно, уже произошло",
     "wrong": [
-      "To express a habitual action in the future and a completed past action",
-      "To express a future plan and a condition for that plan",
-      "To express desire about the future and doubt about the present"
+      "Выразить привычное действие в будущем и завершённое действие в прошлом",
+      "Выразить план на будущее и условие для этого плана",
+      "Выразить желание относительно будущего и сомнение относительно настоящего"
     ],
-    "explanation": " future perfect (habré hablado) serves two purposes: (1) actions completed от future deadline, и (2) conjecture about recent past events (e.g., 'habrá salido' = 'he имеет probably left')."
+    "explanation": "Будущее перфектное (habré hablado) служит двум целям: (1) действия, завершённые к будущему сроку, и (2) предположение о недавних событиях прошлого (например, 'habrá salido' = «он, вероятно, уже ушёл»).",
+    "hint": null
   },
   "q_gram_b2_05_004": {
     "question": "Ella ___ toda la serie antes de que estrenen la nueva temporada. (ver, future perfect, ella form)",
@@ -472,15 +480,15 @@
     "conjugation_info": "ver (future perfect): habré visto, habrás visto, habrá visto, habremos visto, habréis visto, habrán visto"
   },
   "q_gram_b2_05_005": {
-    "question": "¿Dónde ___ mis llaves? No las encuentro por ningún lado. (poner, future perfect, yo form)",
+    "question": "¿Dónde ___ mis llaves? No las encuentro por ningún lado. (poner, будущее перфектное, форма yo)",
     "correct": "habré puesto",
     "wrong": [
       "habría puesto",
       "había puesto",
       "pondré"
     ],
-    "explanation": "здесь future perfect expresses conjecture about recent event: 'где может I иметь put my keys?' Poner имеет неправильный past причастие puesto.",
-    "hint": " future perfect может express speculation about recent past"
+    "explanation": "Здесь будущее перфектное выражает предположение о недавнем событии: «Куда же я мог положить свои ключи?» У глагола poner неправильное причастие puesto.",
+    "hint": "Будущее перфектное может выражать предположение о недавнем прошлом"
   },
   "q_gram_b2_05_006": {
     "question": "Ellos ___ de la ciudad antes de que empiece la tormenta. (salir, future perfect, ellos form)",
@@ -494,15 +502,15 @@
     "conjugation_info": "salir (future perfect): habré salido, habrás salido, habrá salido, habremos salido, habréis salido, habrán salido"
   },
   "q_gram_b2_05_007": {
-    "question": "Para finales de año, la empresa ___ más de mil empleados. (contratar, future perfect)",
+    "question": "Para finales de año, la empresa ___ más de mil empleados. (contratar, будущее перфектное)",
     "correct": "habrá contratado",
     "wrong": [
       "habría contratado",
       "había contratado",
       "contratará"
     ],
-    "explanation": " future perfect используется к express что будет иметь been completed от future point. 'Para finales de año' sets future deadline.",
-    "hint": "'Para finales de año' signals future deadline"
+    "explanation": "Будущее перфектное используется, чтобы выразить, что будет завершено к определённому моменту в будущем. 'Para finales de año' задаёт срок в будущем.",
+    "hint": "'Para finales de año' указывает на срок в будущем"
   },
   "q_gram_b2_05_008": {
     "question": "от время ты arrive, I будет иметь already prepared dinner.",
@@ -547,15 +555,15 @@
     "conjugation_info": "comprender (pluperfect сослагательное наклонение): hubiera comprendido, hubieras comprendido, hubiera comprendido, hubiéramos comprendido, hubierais comprendido, hubieran comprendido"
   },
   "q_gram_b2_06_002": {
-    "question": "Ojalá que nosotros ___ más tiempo en esa ciudad. (pasar, pluperfect сослагательное наклонение)",
+    "question": "Ojalá que nosotros ___ más tiempo en esa ciudad. (pasar, плюсквамперфект сослагательного наклонения)",
     "correct": "hubiéramos pasado",
     "wrong": [
       "habríamos pasado",
       "habíamos pasado",
       "pasáramos"
     ],
-    "explanation": "'Ojalá que' + pluperfect сослагательное наклонение expresses wish about past который did не come true. nosotros форма есть hubiéramos pasado.",
-    "hint": "'Ojalá que' + pluperfect сослагательное наклонение = unfulfilled past wish"
+    "explanation": "'Ojalá que' + плюсквамперфект сослагательного наклонения выражает желание относительно прошлого, которое не сбылось. Форма nosotros — hubiéramos pasado.",
+    "hint": "'Ojalá que' + плюсквамперфект сослагательного наклонения = несбывшееся желание о прошлом"
   },
   "q_gram_b2_06_003": {
     "question": "Me molestó que ellos no ___ a la reunión. (venir, pluperfect сослагательное наклонение)",
@@ -569,14 +577,15 @@
     "hint": " emotion есть past, и action happened перед emotion"
   },
   "q_gram_b2_06_004": {
-    "question": "что есть difference between past сослагательное наклонение и pluperfect сослагательное наклонение?",
-    "correct": "The past subjunctive refers to present/future unreal situations, while the pluperfect subjunctive refers to past unreal situations that can no longer be changed",
+    "question": "В чём разница между past subjunctive (pretérito imperfecto de subjuntivo) и pluperfect subjunctive (pretérito pluscuamperfecto de subjuntivo)?",
+    "correct": "Past subjunctive относится к нереальным ситуациям в настоящем или будущем, а pluperfect subjunctive — к нереальным ситуациям в прошлом, которые уже нельзя изменить",
     "wrong": [
-      "The past subjunctive is more formal than the pluperfect subjunctive",
-      "The pluperfect subjunctive is used only in si-clauses, while the past subjunctive is used everywhere else",
-      "The past subjunctive uses -ra endings and the pluperfect subjunctive uses -se endings"
+      "Past subjunctive более формальное, чем pluperfect subjunctive",
+      "Pluperfect subjunctive используется только в придаточных с si, а past subjunctive — во всех остальных случаях",
+      "Past subjunctive образуется с окончаниями -ra, а pluperfect subjunctive — с окончаниями -se"
     ],
-    "explanation": " past сослагательное наклонение (hablara) deals с present/future hypothetical situations, пока pluperfect сослагательное наклонение (hubiera hablado) deals с past counterfactual situations который являются impossible к change."
+    "explanation": "Past subjunctive (hablara) используется для гипотетических ситуаций в настоящем или будущем, а pluperfect subjunctive (hubiera hablado) — для контрфактических ситуаций в прошлом, которые невозможно изменить.",
+    "hint": null
   },
   "q_gram_b2_06_005": {
     "question": "Tú ___ el error si hubieras revisado el documento. (descubrir, pluperfect сослагательное наклонение, tú form)",
@@ -601,14 +610,15 @@
     "hint": " doubted action preceded main глагол"
   },
   "q_gram_b2_06_007": {
-    "question": "I wish I had studied abroad когда I был young.",
+    "question": "Жаль, что я не учился за границей, когда был молодым.",
     "correct": "Ojalá hubiera estudiado en el extranjero cuando era joven.",
     "wrong": [
       "Ojalá estudiara en el extranjero cuando era joven.",
       "Ojalá habría estudiado en el extranjero cuando era joven.",
       "Ojalá había estudiado en el extranjero cuando era joven."
     ],
-    "explanation": "'Ojalá' + pluperfect сослагательное наклонение (hubiera estudiado) expresses impossible wish about past. past сослагательное наклонение (estudiara) бы refer к present или future instead."
+    "explanation": "'Ojalá' + pluperfect subjunctive (hubiera estudiado) выражает невозможное желание о прошлом. Past subjunctive (estudiara) относилось бы к настоящему или будущему.",
+    "hint": null
   },
   "q_gram_b2_06_008": {
     "question": "No creía que ellos ___ la verdad hasta ese momento. (saber, pluperfect сослагательное наклонение)",
@@ -623,13 +633,14 @@
   },
   "q_gram_b2_06_009": {
     "question": "Era imposible que el tren hubiera llegado a tiempo con tanta nieve.",
-    "correct": "It was impossible that the train had arrived on time with so much snow.",
+    "correct": "Было невозможно, чтобы поезд прибыл вовремя при таком снегопаде.",
     "wrong": [
-      "It is impossible that the train arrived on time with so much snow.",
-      "It was impossible that the train would arrive on time with so much snow.",
-      "It was impossible that the train will have arrived on time with so much snow."
+      "Невозможно, чтобы поезд прибыл вовремя при таком снегопаде.",
+      "Было невозможно, чтобы поезд прибыл бы вовремя при таком снегопаде — о будущем: поезд прибудет вовремя.",
+      "Было невозможно, чтобы поезд к тому моменту уже будет прибывшим вовремя при таком снегопаде."
     ],
-    "explanation": " pluperfect сослагательное наклонение (hubiera llegado) после 'era imposible que' expresses doubt about completed past action. это translates naturally as 'had arrived' в английский."
+    "explanation": "Pluperfect subjunctive (hubiera llegado) после 'era imposible que' выражает сомнение в завершённом действии в прошлом. По-русски это естественно передаётся как «прибыл вовремя».",
+    "hint": null
   },
   "q_gram_b2_06_010": {
     "question": "Nosotros ___ antes si hubiéramos tenido más información. (actuar, условное наклонение perfect, nosotros form)",
@@ -643,15 +654,15 @@
     "conjugation_info": "actuar (условное наклонение perfect): habría actuado, habrías actuado, habría actuado, habríamos actuado, habríais actuado, habrían actuado"
   },
   "q_gram_b2_07_001": {
-    "question": "Aunque ___ mucho, iremos a la excursión. (llover, сослагательное настоящего времени)",
+    "question": "Aunque ___ mucho, iremos a la excursión. (llover, presente de subjuntivo)",
     "correct": "llueva",
     "wrong": [
       "llueve",
       "lloviera",
       "llovería"
     ],
-    "explanation": "'Aunque' + сослагательное наклонение expresses concession about something uncertain или hypothetical. поскольку rain есть uncertain, present сослагательное наклонение (llueva) используется.",
-    "hint": "'Aunque' + сослагательное наклонение = even if (uncertain)"
+    "explanation": "'Aunque' + subjuntivo выражает уступку в отношении чего-то неопределённого или гипотетического. Поскольку дождь не наверняка, используется presente de subjuntivo (llueva).",
+    "hint": "'Aunque' + subjuntivo = даже если (неопределённо)"
   },
   "q_gram_b2_07_002": {
     "question": "Aunque María ___ enferma ayer, fue a trabajar. (estar, изъявительное наклонение)",
@@ -661,51 +672,54 @@
       "esté",
       "estaría"
     ],
-    "explanation": "'Aunque' + изъявительное наклонение expresses concession about known fact. поскольку María был actually sick (fact), имперфект изъявительное наклонение (estaba) используется.",
-    "hint": "'Aunque' + изъявительное наклонение = хотя (known fact)"
+    "explanation": "'Aunque' + изъявительное наклонение выражает уступку в отношении известного факта. Поскольку Мария действительно болела (это факт), используется pretérito imperfecto de indicativo (estaba).",
+    "hint": "'Aunque' + изъявительное наклонение = хотя (известный факт)"
   },
   "q_gram_b2_07_003": {
-    "question": "как does mood (изъявительное наклонение vs. сослагательное наклонение) change значение из 'aunque'?",
-    "correct": "'Aunque' + indicative means 'although' (stating a fact), while 'aunque' + subjunctive means 'even if' (uncertain or hypothetical)",
+    "question": "Как наклонение (изъявительное или сослагательное) меняет значение 'aunque'?",
+    "correct": "'Aunque' + изъявительное наклонение означает «хотя» (констатация факта), а 'aunque' + сослагательное означает «даже если» (неопределённо или гипотетически)",
     "wrong": [
-      "'Aunque' + indicative is for present tense and 'aunque' + subjunctive is for past tense",
-      "'Aunque' + indicative is informal and 'aunque' + subjunctive is formal",
-      "'Aunque' + indicative is for positive statements and 'aunque' + subjunctive is for negative ones"
+      "'Aunque' + изъявительное наклонение употребляется в настоящем времени, а 'aunque' + сослагательное — в прошедшем",
+      "'Aunque' + изъявительное наклонение разговорное, а 'aunque' + сослагательное — формальное",
+      "'Aunque' + изъявительное наклонение употребляется в утвердительных высказываниях, а 'aunque' + сослагательное — в отрицательных"
     ],
-    "explanation": " choice between изъявительное наклонение и сослагательное наклонение после 'aunque' depends на whether speaker presents information as known fact (изъявительное наклонение) или as uncertain/hypothetical (сослагательное наклонение)."
+    "explanation": "Выбор между изъявительным и сослагательным наклонением после 'aunque' зависит от того, подаёт ли говорящий информацию как известный факт (изъявительное) или как неопределённую/гипотетическую (сослагательное).",
+    "hint": null
   },
   "q_gram_b2_07_004": {
-    "question": "Aunque ella no ___ de acuerdo, aceptó la decisión. (estar, past изъявительное наклонение, ella form)",
+    "question": "Aunque ella no ___ de acuerdo, aceptó la decisión. (estar, прошедшее время изъявительного наклонения, форма ella)",
     "correct": "estaba",
     "wrong": [
       "estuviera",
       "esté",
       "estaría"
     ],
-    "explanation": "поскольку sentence states past fact (she был не в agreement), изъявительное наклонение используется с 'aunque'. имперфект estaba describes ongoing past state.",
-    "conjugation_info": "estar (имперфект indicative): estaba, estabas, estaba, estábamos, estabais, estaban"
+    "explanation": "Поскольку в предложении говорится о факте в прошлом (она была не согласна), после 'aunque' используется изъявительное наклонение. Imperfecto estaba описывает длительное состояние в прошлом.",
+    "conjugation_info": "estar (имперфект indicative): estaba, estabas, estaba, estábamos, estabais, estaban",
+    "hint": null
   },
   "q_gram_b2_07_005": {
-    "question": "Aunque ___ todo el dinero del mundo, no podría comprar la felicidad. (tener, past сослагательное наклонение)",
+    "question": "Aunque ___ todo el dinero del mundo, no podría comprar la felicidad. (tener, pretérito imperfecto de subjuntivo)",
     "correct": "tuviera",
     "wrong": [
       "tenía",
       "tendría",
       "tenga"
     ],
-    "explanation": "'Aunque' + past сослагательное наклонение expresses hypothetical concession about unreal present situation. Having все money в world есть clearly hypothetical.",
-    "hint": "Это clearly hypothetical, unreal scenario"
+    "explanation": "'Aunque' + pretérito imperfecto de subjuntivo выражает гипотетическую уступку о нереальной ситуации в настоящем. Иметь все деньги мира — очевидно гипотетическая ситуация.",
+    "hint": "Это явно гипотетическая, нереальная ситуация"
   },
   "q_gram_b2_07_006": {
-    "question": "Nosotros ___ el proyecto aunque el jefe no lo aprobara. (continuar, условное наклонение, nosotros form)",
+    "question": "Nosotros ___ el proyecto aunque el jefe no lo aprobara. (continuar, условное наклонение, форма nosotros)",
     "correct": "continuaríamos",
     "wrong": [
       "continuábamos",
       "continuamos",
       "continuemos"
     ],
-    "explanation": " main clause paired с 'aunque' + past сослагательное наклонение uses условное наклонение к express что бы happen despite concession.",
-    "conjugation_info": "continuar (условное наклонение): continuaría, continuarías, continuaría, continuaríamos, continuaríais, continuarían"
+    "explanation": "Главная часть предложения, сочетающаяся с 'aunque' + pretérito imperfecto de subjuntivo, использует условное наклонение, чтобы выразить, что произошло бы, несмотря на уступку.",
+    "conjugation_info": "continuar (условное наклонение): continuaría, continuarías, continuaría, continuaríamos, continuaríais, continuarían",
+    "hint": null
   },
   "q_gram_b2_07_007": {
     "question": "Aunque ___ cansados, los jugadores siguieron entrenando con intensidad. (estar, изъявительное наклонение)",
@@ -783,14 +797,15 @@
     "hint": "после preposition, use 'el/la cual' или 'el/la que'"
   },
   "q_gram_b2_08_004": {
-    "question": "что есть difference between 'que', 'el cual', и 'cuyo' as relative pronouns?",
-    "correct": "'Que' is the most common relative pronoun, 'el cual' is used after prepositions or for clarity, and 'cuyo' expresses possession (whose)",
+    "question": "В чём разница между 'que', 'el cual' и 'cuyo' как относительными местоимениями?",
+    "correct": "'Que' — самое распространённое относительное местоимение, 'el cual' используется после предлогов или для ясности, а 'cuyo' выражает принадлежность («чей»)",
     "wrong": [
-      "'Que' is for people, 'el cual' is for things, and 'cuyo' is for places",
-      "'Que' is informal, 'el cual' is formal, and 'cuyo' is archaic",
-      "'Que' is for subjects, 'el cual' is for objects, and 'cuyo' is for indirect objects"
+      "'Que' употребляется для людей, 'el cual' — для предметов, а 'cuyo' — для мест",
+      "'Que' разговорное, 'el cual' формальное, а 'cuyo' устаревшее",
+      "'Que' употребляется для подлежащих, 'el cual' — для прямых дополнений, а 'cuyo' — для косвенных дополнений"
     ],
-    "explanation": "'Que' есть default relative местоимение. 'El cual/la cual' есть preferred после prepositions или когда clarifying который antecedent есть referred к. 'Cuyo' functions as possessive прилагательное значение 'whose'."
+    "explanation": "'Que' — относительное местоимение по умолчанию. 'El cual/la cual' предпочтительно после предлогов или когда нужно уточнить, к какому антецеденту относится местоимение. 'Cuyo' выступает как притяжательное прилагательное со значением «чей».",
+    "hint": null
   },
   "q_gram_b2_08_005": {
     "question": "Las razones por ___ dimitió el director no están claras. (relative местоимение после 'por', множественное число)",
@@ -879,14 +894,15 @@
     "hint": "'Lo + прилагательное + que' = как [прилагательное] something есть"
   },
   "q_gram_b2_09_003": {
-    "question": "что does construction 'lo que' означать, и как есть это used?",
-    "correct": "'Lo que' means 'what' or 'that which' and introduces a noun clause referring to an abstract idea or an entire concept",
+    "question": "Что означает конструкция 'lo que' и как она используется?",
+    "correct": "'Lo que' означает «что» или «то, что» и вводит придаточное, заменяющее существительное, которое относится к абстрактной идее или к целому понятию",
     "wrong": [
-      "'Lo que' means 'how much' and is used to express quantity",
-      "'Lo que' means 'the one who' and refers to a specific person",
-      "'Lo que' means 'which one' and is used in questions only"
+      "'Lo que' означает «сколько» и используется для выражения количества",
+      "'Lo que' означает «тот, кто» и относится к конкретному человеку",
+      "'Lo que' означает «который из» и используется только в вопросах"
     ],
-    "explanation": "'Lo que' nominalizes entire clause: 'lo que quiero' = 'что I want / который который I want'. это может function as subject или object и refers к abstract concepts rather than specific nouns."
+    "explanation": "'Lo que' превращает целое предложение в именную группу: 'lo que quiero' = «то, что я хочу». Оно может быть подлежащим или дополнением и относится к абстрактным понятиям, а не к конкретным существительным.",
+    "hint": null
   },
   "q_gram_b2_09_004": {
     "question": "Lo que necesitamos ___ más tiempo para terminar el proyecto. (ser, present изъявительное наклонение, 3rd человек)",
@@ -1116,15 +1132,15 @@
     "conjugation_info": "ponerse (претерит): me puse, te pusiste, se puso, nos pusimos, os pusisteis, se pusieron"
   },
   "q_gram_b2_11_005": {
-    "question": "Mi abuelo ___ viviendo en el mismo pueblo desde hace 60 años. (llevar + герундий, present)",
+    "question": "Mi abuelo ___ viviendo en el mismo pueblo desde hace 60 años. (llevar + герундий, настоящее время)",
     "correct": "lleva",
     "wrong": [
       "está",
       "sigue",
       "viene"
     ],
-    "explanation": "'Llevar + герундий' expresses duration ongoing action. 'Lleva viviendo' + время = 'имеет been living для'. это emphasizes accumulated duration.",
-    "hint": "'Llevar + герундий' = к иметь been doing something для [время]"
+    "explanation": "'Llevar + герундий' выражает длительность продолжающегося действия. 'Lleva viviendo' + период времени = «живёт уже (столько-то)». Подчёркивается накопленная длительность.",
+    "hint": "'Llevar + герундий' = делать что-то уже [столько-то времени]"
   },
   "q_gram_b2_11_006": {
     "question": "Ella ___ de fumar el año pasado y ahora se siente mucho mejor. (dejar de + инфинитив, простое прошедшее, ella form)",
@@ -1213,14 +1229,15 @@
     "hint": "Two languages = множественного числа subject"
   },
   "q_gram_b2_12_004": {
-    "question": "что есть difference between passive se и impersonal se в испанский?",
-    "correct": "Passive se has an identifiable grammatical subject and the verb agrees with it, while impersonal se has no subject and the verb is always 3rd person singular",
+    "question": "В чём разница между пассивным se и безличным se в испанском языке?",
+    "correct": "У пассивного se есть определяемое грамматическое подлежащее, с которым согласуется глагол, а у безличного se подлежащего нет, и глагол всегда стоит в 3-м лице единственного числа",
     "wrong": [
-      "Passive se is used only in writing, while impersonal se is used only in speech",
-      "Passive se uses the subjunctive, while impersonal se uses the indicative",
-      "There is no difference; they are two names for the same construction"
+      "Пассивное se используется только на письме, а безличное se — только в устной речи",
+      "Пассивное se употребляется с сослагательным наклонением, а безличное se — с изъявительным",
+      "Разницы нет; это два названия одной и той же конструкции"
     ],
-    "explanation": "Passive se: 'Se venden casas' (houses являются sold — 'casas' есть subject, глагол есть множественного числа). Impersonal se: 'Se vive bien aquí' (one lives well здесь — no subject, глагол stays единственного числа)."
+    "explanation": "Пассивное se: 'Se venden casas' (дома продаются — 'casas' — подлежащее, глагол во множественном числе). Безличное se: 'Se vive bien aquí' (здесь хорошо живётся — подлежащего нет, глагол остаётся в единственном числе).",
+    "hint": null
   },
   "q_gram_b2_12_005": {
     "question": "En la universidad ___ materias muy variadas. (ofrecer, passive se, present, 3rd человек множественное число)",
@@ -1276,15 +1293,16 @@
     "explanation": "'Se buscan personas' является passive se construction где 'personas' есть subject и глагол agrees в множественного числа. это translates as 'люди являются sought' без specifying кто есть looking."
   },
   "q_gram_b2_12_010": {
-    "question": "En la reunión ___ varios temas importantes. (tratar, passive se, простое прошедшее, 3rd человек множественное число)",
+    "question": "En la reunión ___ varios temas importantes. (tratar, пассивное se, pretérito indefinido, 3-е лицо множественного числа)",
     "correct": "se trataron",
     "wrong": [
       "se trató",
       "trataron",
       "fueron tratados"
     ],
-    "explanation": " passive se может быть used в any tense. в претерит с множественного числа subject ('varios temas'), глагол есть 'se trataron' (several important topics были discussed).",
-    "conjugation_info": "tratar (претерит): traté, trataste, trató, tratamos, tratasteis, trataron"
+    "explanation": "Пассивное se можно использовать в любом времени. В pretérito indefinido с подлежащим во множественном числе ('varios temas') глагол имеет форму 'se trataron' (были обсуждены несколько важных тем).",
+    "conjugation_info": "tratar (претерит): traté, trataste, trató, tratamos, tratasteis, trataron",
+    "hint": null
   },
   "q_gram_b2_13_001": {
     "question": "Busco a alguien que ___ hablar tres idiomas. (poder, сослагательное настоящего времени)",
@@ -1341,15 +1359,16 @@
     "hint": "Говорящий не уверен, существует ли такой человек"
   },
   "q_gram_b2_13_006": {
-    "question": "La empresa quiere contratar a alguien que ___ experiencia en inteligencia artificial. (tener, сослагательное настоящего времени, 3rd человек единственное число)",
+    "question": "La empresa quiere contratar a alguien que ___ experiencia en inteligencia artificial. (tener, presente de subjuntivo, 3-е лицо единственного числа)",
     "correct": "tenga",
     "wrong": [
       "tiene",
       "tendría",
       "tuviera"
     ],
-    "explanation": " сослагательное наклонение используется после 'alguien que' потому что человек hasn't been identified yet. company есть looking для someone кто may или may не exist.",
-    "conjugation_info": "tener (present сослагательное наклонение): tenga, tengas, tenga, tengamos, tengáis, tengan"
+    "explanation": "После 'alguien que' используется сослагательное наклонение, потому что этот человек ещё не определён. Компания ищет кого-то, кто может существовать, а может и нет.",
+    "conjugation_info": "tener (present сослагательное наклонение): tenga, tengas, tenga, tengamos, tengáis, tengan",
+    "hint": null
   },
   "q_gram_b2_13_007": {
     "question": "Quiero comprar una casa que ___ jardín y que ___ en un barrio tranquilo. (tener, estar, сослагательное настоящего времени)",
@@ -1407,15 +1426,15 @@
     "hint": null
   },
   "q_gram_b2_14_002": {
-    "question": "Ella gasta dinero como si ___ millonaria. (ser, past сослагательное наклонение)",
+    "question": "Ella gasta dinero como si ___ millonaria. (ser, pretérito imperfecto de subjuntivo)",
     "correct": "fuera",
     "wrong": [
       "es",
       "sería",
       "sea"
     ],
-    "explanation": "'Como si' всегда triggers past сослагательное наклонение regardless tense main глагол. 'Fuera' expresses unreal comparison: she spends as if she были millionaire (но she есть не).",
-    "hint": "'Como si' всегда requires past сослагательное наклонение"
+    "explanation": "'Como si' всегда требует pretérito imperfecto de subjuntivo независимо от времени главного глагола. 'Fuera' выражает нереальное сравнение: она тратит деньги так, как если бы была миллионершей (но она ею не является).",
+    "hint": "'Como si' всегда требует pretérito imperfecto de subjuntivo"
   },
   "q_gram_b2_14_003": {
     "question": "Los niños corrían como si los ___ un perro. (perseguir, past сослагательное наклонение)",
@@ -1492,15 +1511,16 @@
     "explanation": "'Como si hubiera ganado' uses pluperfect сослагательное наклонение после 'como si' для past unreal comparison. main глагол 'actuaba' (имперфект) sets past context."
   },
   "q_gram_b2_14_010": {
-    "question": "Nosotros ___ como si no tuviéramos preocupaciones en el mundo. (vivir, прошедшее несовершенное изъявительное наклонение, nosotros form)",
+    "question": "Nosotros ___ como si no tuviéramos preocupaciones en el mundo. (vivir, pretérito imperfecto de indicativo, форма nosotros)",
     "correct": "vivíamos",
     "wrong": [
       "viviéramos",
       "viviríamos",
       "vivimos"
     ],
-    "explanation": " main clause перед 'como si' uses изъявительное наклонение (здесь, имперфект к describe habitual past action). только clause после 'como si' requires сослагательное наклонение.",
-    "conjugation_info": "vivir (имперфект indicative): vivía, vivías, vivía, vivíamos, vivíais, vivían"
+    "explanation": "Главная часть перед 'como si' использует изъявительное наклонение (здесь imperfecto для описания привычного действия в прошлом). Сослагательное наклонение требуется только в части после 'como si'.",
+    "conjugation_info": "vivir (имперфект indicative): vivía, vivías, vivía, vivíamos, vivíais, vivían",
+    "hint": null
   },
   "q_gram_b2_15_001": {
     "question": "___ que más me gusta de esta ciudad es la gastronomía. (emphatic construction с lo)",
@@ -1643,14 +1663,15 @@
     "hint": " first clause есть affirmative, не negative"
   },
   "q_gram_b2_16_004": {
-    "question": "что есть key difference between 'sino' и 'pero' в испанский?",
-    "correct": "'Sino' is used after a negative statement to introduce a direct correction or replacement, while 'pero' introduces a contrast or limitation without direct replacement",
+    "question": "В чём ключевое различие между 'sino' и 'pero' в испанском языке?",
+    "correct": "'Sino' употребляется после отрицания, чтобы ввести прямое исправление или замену, а 'pero' вводит противопоставление или ограничение без прямой замены",
     "wrong": [
-      "'Sino' is formal and 'pero' is informal",
-      "'Sino' is used with nouns and 'pero' is used with verbs",
-      "'Sino' expresses cause and 'pero' expresses consequence"
+      "'Sino' формальное, а 'pero' разговорное",
+      "'Sino' употребляется с существительными, а 'pero' — с глаголами",
+      "'Sino' выражает причину, а 'pero' выражает следствие"
     ],
-    "explanation": "'Sino' requires preceding negative и introduces что есть true instead (No A sino B). 'Pero' simply adds contrasting или limiting idea и может follow affirmative или negative statements."
+    "explanation": "'Sino' требует предшествующего отрицания и вводит то, что ВЕРНО на самом деле (No A sino B). 'Pero' просто добавляет противопоставляемую или ограничивающую мысль и может следовать как за утвердительным, так и за отрицательным высказыванием.",
+    "hint": null
   },
   "q_gram_b2_16_005": {
     "question": "No solo habla español ___ también francés e italiano. (sino/pero, для 'not только... но также')",
@@ -1692,8 +1713,8 @@
       "sino que",
       "aunque"
     ],
-    "explanation": "здесь 'pero' есть правильный потому что second clause does не directly contradict или replace first. это adds additional information: проблема есть не трудный, но это requires patience.",
-    "hint": " second clause adds information, это does не replace 'difícil'"
+    "explanation": "Здесь правильно 'pero', потому что вторая часть не противоречит первой напрямую и не заменяет её. Она добавляет информацию: проблема не сложная, НО требует терпения.",
+    "hint": "Вторая часть добавляет информацию, а не заменяет 'difícil'"
   },
   "q_gram_b2_16_009": {
     "question": "No fue Pedro quien lo hizo, sino que fue María la responsable.",
@@ -1728,15 +1749,15 @@
     "hint": "Main глагол настоящее время → subordinate present сослагательное наклонение"
   },
   "q_gram_b2_17_002": {
-    "question": "El profesor pidió que los estudiantes ___ el ensayo para el viernes. (entregar, past сослагательное наклонение)",
+    "question": "El profesor pidió que los estudiantes ___ el ensayo para el viernes. (entregar, pretérito imperfecto de subjuntivo)",
     "correct": "entregaran",
     "wrong": [
       "entreguen",
       "entregaban",
       "entregarían"
     ],
-    "explanation": "когда main глагол есть в past tense (pidió, претерит), subordinate clause uses past сослагательное наклонение (entregaran). Past → Past сослагательное наклонение.",
-    "hint": "Main глагол past tense → subordinate past сослагательное наклонение"
+    "explanation": "Когда главный глагол стоит в прошедшем времени (pidió, pretérito indefinido), в придаточном используется pretérito imperfecto de subjuntivo (entregaran). Прошедшее → imperfecto de subjuntivo.",
+    "hint": "Главный глагол в прошедшем времени → в придаточном imperfecto de subjuntivo"
   },
   "q_gram_b2_17_003": {
     "question": "что есть правило sequence tenses (concordancia temporal) для сослагательное наклонение в испанский?",

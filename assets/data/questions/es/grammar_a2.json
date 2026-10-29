@@ -21,14 +21,15 @@
     "explanation": "Querer changes e→ie en el/la forma ellos: quieren. El/la boot pattern applies a todos forms except nosotros/vosotros."
   },
   "q_gram_a2_01_003": {
-    "question": "¿Qué significa 'boot pattern' en the context de Español raíz-changing verbs?",
-    "correct": "The stem change applies to all forms except nosotros and vosotros",
+    "question": "¿Qué significa 'patrón de bota' en el contexto de los verbos con cambio vocálico del español?",
+    "correct": "El cambio de raíz se aplica a todas las formas excepto nosotros y vosotros",
     "wrong": [
-      "The stem change applies only to the yo form",
-      "The stem change applies to all six conjugation forms",
-      "The stem change only happens in the past tense"
+      "El cambio de raíz se aplica solo a la forma de yo",
+      "El cambio de raíz se aplica a las seis formas de la conjugación",
+      "El cambio de raíz solo ocurre en el pasado"
     ],
-    "explanation": "El/la 'boot pattern' (o 'shoe pattern') significa la raíz change occurs en yo, tú, él/ella, y ellos/ellas forms, pero noT en nosotros o vosotros."
+    "explanation": "El 'patrón de bota' (o 'patrón de zapato') significa que el cambio de raíz ocurre en las formas de yo, tú, él/ella y ellos/ellas, pero NO en nosotros ni en vosotros.",
+    "hint": null
   },
   "q_gram_a2_01_004": {
     "question": "nosotros ___ la lección. (entender, e→ie, forma nosotros)",
@@ -493,25 +494,27 @@
     "explanation": "'A los profesores' es plural masculino. El/la personal 'a' es dropped cuando using el pronombre: no los conozco."
   },
   "q_gram_a2_05_008": {
-    "question": "I ver the girls. I ver them every day.",
+    "question": "Veo a las chicas. Las veo todos los días.",
     "correct": "Veo a las chicas. Las veo todos los días.",
     "wrong": [
       "Veo a las chicas. Les veo todos los días.",
       "Veo a las chicas. Los veo todos los días.",
       "Veo a las chicas. La veo todos los días."
     ],
-    "explanation": "'Las chicas' es plural femenino, replaced por 'las'. Personal 'a' se usa con personas as direct objetos."
+    "explanation": "'Las chicas' es femenino plural y se sustituye por 'las'. La 'a' personal se usa con personas cuando son complemento directo.",
+    "hint": null
   },
   "q_gram_a2_05_009": {
-    "question": "Estoy leyendo el periódico. → Estoy leyéndo___. (attach the pronoun)",
+    "question": "Estoy leyendo el periódico. → Estoy leyéndo___. (añade el pronombre)",
     "correct": "lo",
     "wrong": [
       "le",
       "la",
       "los"
     ],
-    "explanation": "'El periódico' es singular masculino = lo. Cuando attaching a a gerundio, an accent es added: leyéndolo.",
-    "conjugation_info": "DOP attachment: infinitive (comprarlo), gerund (comprándolo), affirmative command (cómpralo)"
+    "explanation": "'El periódico' es masculino singular = lo. Al unir el pronombre al gerundio se añade un acento: leyéndolo.",
+    "conjugation_info": "DOP attachment: infinitive (comprarlo), gerund (comprándolo), affirmative command (cómpralo)",
+    "hint": null
   },
   "q_gram_a2_05_010": {
     "question": "¿Las llaves? no las encuentro por ningún lado.",
@@ -587,14 +590,15 @@
     "explanation": "'A María' es tercera persona singular. With gustar-type verbos, we use 'le': Le encanta bailar."
   },
   "q_gram_a2_06_007": {
-    "question": "The teacher da us homework every day.",
+    "question": "El profesor nos da tarea todos los días.",
     "correct": "El profesor nos da tarea todos los días.",
     "wrong": [
       "El profesor les da tarea todos los días.",
       "El profesor me da tarea todos los días.",
       "El profesor nos dan tarea todos los días."
     ],
-    "explanation": "'A us' = nos. El/la IOP va antes de el/la conjugado verb: nos da."
+    "explanation": "'A nosotros' = nos. El pronombre de objeto indirecto va antes del verbo conjugado: nos da.",
+    "hint": null
   },
   "q_gram_a2_06_008": {
     "question": "Ella ___ dice la verdad a su amiga. (IOP para 'a su amiga')",
@@ -649,14 +653,15 @@
     "explanation": "El/la gerundio de -ar verbos termina en -ando: jugando. La raíz change no apply a regular gerunds de -ar verbos."
   },
   "q_gram_a2_07_003": {
-    "question": "¿Qué significa the presente progresivo (estar + gerundio) express en Español?",
-    "correct": "An action happening right now, at this moment",
+    "question": "¿Qué expresa el presente progresivo (estar + gerundio) en español?",
+    "correct": "Una acción que ocurre ahora mismo, en este momento",
     "wrong": [
-      "A habitual action that happens regularly",
-      "An action that will happen in the future",
-      "An action completed in the past"
+      "Una acción habitual que ocurre con regularidad",
+      "Una acción que ocurrirá en el futuro",
+      "Una acción terminada en el pasado"
     ],
-    "explanation": "El/la presente progresivo (estoy hablando) emphasizes eso an action es en progress correcto ahora. Unlike Inglés, ello es noT se usa para habitual actions."
+    "explanation": "El presente progresivo (estoy hablando) subraya que una acción está en curso AHORA MISMO. A diferencia del inglés, NO se usa para acciones habituales.",
+    "hint": null
   },
   "q_gram_a2_07_004": {
     "question": "Ella está ___ un libro interesante. (leer, gerundio — irregular)",
@@ -857,14 +862,15 @@
     "explanation": "Regular -ir pretérito para ella termina en -ió: escribió."
   },
   "q_gram_a2_09_003": {
-    "question": "When do we use the pretérito tense en Español?",
-    "correct": "For completed, one-time actions in the past",
+    "question": "¿Cuándo se usa el pretérito indefinido en español?",
+    "correct": "Para acciones terminadas y puntuales en el pasado",
     "wrong": [
-      "For habitual or repeated actions in the past",
-      "For actions happening right now",
-      "For describing ongoing background situations in the past"
+      "Para acciones habituales o repetidas en el pasado",
+      "Para acciones que ocurren ahora mismo",
+      "Para describir situaciones de fondo que estaban en curso en el pasado"
     ],
-    "explanation": "El/la pretérito se usa para actions eso fueron completed en a specific point en el/la past: Ayer hablé, Anoche comí."
+    "explanation": "El pretérito indefinido se usa para acciones terminadas en un momento concreto del pasado: Ayer hablé, Anoche comí.",
+    "hint": null
   },
   "q_gram_a2_09_004": {
     "question": "nosotros ___ una pizza anoche. (comer, pretérito, forma nosotros)",
@@ -1066,14 +1072,15 @@
     "explanation": "Regular -ar imperfecto para ella termina en -aba: cocinaba. Esto describir a habitual past action."
   },
   "q_gram_a2_11_003": {
-    "question": "When do we use the imperfecto tense?",
-    "correct": "For habitual past actions, descriptions, and background information",
+    "question": "¿Cuándo se usa el pretérito imperfecto?",
+    "correct": "Para acciones habituales del pasado, descripciones e información de fondo",
     "wrong": [
-      "For single completed actions in the past",
-      "For future plans and intentions",
-      "For actions happening right now"
+      "Para acciones únicas y terminadas en el pasado",
+      "Para planes e intenciones de futuro",
+      "Para acciones que ocurren ahora mismo"
     ],
-    "explanation": "El/la imperfecto se usa para habitual/repeated past actions, physical/emotional descriptions, age, tiempo, y background settings."
+    "explanation": "El imperfecto se usa para acciones habituales o repetidas en el pasado, descripciones físicas y emocionales, la edad, la hora y los escenarios de fondo.",
+    "hint": null
   },
   "q_gram_a2_11_004": {
     "question": "nosotros ___ en una casa grande. (vivir, imperfecto, forma nosotros)",
@@ -1391,14 +1398,15 @@
     "explanation": "Equality comparisons with adjetivos use 'tan...como': tan alto como yo."
   },
   "q_gram_a2_14_004": {
-    "question": "¿Qué es the irregular comparative form de 'bueno'?",
-    "correct": "mejor (better)",
+    "question": "¿Cuál es la forma comparativa irregular de 'bueno'?",
+    "correct": "mejor",
     "wrong": [
-      "más bueno (more good)",
-      "buenísimo (very good)",
-      "bien (well)"
+      "más bueno",
+      "buenísimo",
+      "bien"
     ],
-    "explanation": "'Bueno' tiene el/la irregular comparative 'mejor' (better), not 'más bueno'. Similarly, 'malo' → 'peor'."
+    "explanation": "'Bueno' tiene el comparativo irregular 'mejor', no 'más bueno'. Igualmente, 'malo' → 'peor'.",
+    "hint": null
   },
   "q_gram_a2_14_005": {
     "question": "Esta película es ___ que la anterior. (comparative: worse — irregular)",
@@ -1485,14 +1493,15 @@
     "explanation": "El/la superlative 'la mayoría' = 'más': el más caro de la ciudad."
   },
   "q_gram_a2_15_003": {
-    "question": "¿Qué significa the absolute superlative suffix '-ísimo/a' express?",
-    "correct": "An extremely high degree of a quality (very, very)",
+    "question": "¿Qué expresa el sufijo superlativo absoluto '-ísimo/a'?",
+    "correct": "Un grado extremadamente alto de una cualidad (muy, muy)",
     "wrong": [
-      "A comparison between two things",
-      "The lowest degree of a quality",
-      "A comparison among three or more things"
+      "Una comparación entre dos cosas",
+      "El grado más bajo de una cualidad",
+      "Una comparación entre tres o más cosas"
     ],
-    "explanation": "El/la absolute superlative -ísimo/a significa 'extremely' o 'muy, muy': grandísimo = extremely grande, facilísimo = extremely easy."
+    "explanation": "El superlativo absoluto -ísimo/a significa 'extremadamente' o 'muy, muy': grandísimo = extremadamente grande, facilísimo = extremadamente fácil.",
+    "hint": null
   },
   "q_gram_a2_15_004": {
     "question": "La pizza está ___. (caliente → absolute superlative -ísimo/a form)",
@@ -1745,14 +1754,15 @@
     "explanation": "'Para' indica a deadline: para la reunión de mañana = para (por) tomorrow's meeting."
   },
   "q_gram_a2_17_008": {
-    "question": "I called you because de the party.",
+    "question": "Te llamé a causa de la fiesta.",
     "correct": "Te llamé por la fiesta.",
     "wrong": [
       "Te llamé para la fiesta.",
       "Te llamo por la fiesta.",
       "Me llamé por la fiesta."
     ],
-    "explanation": "'Por' indica reason/cause: por la fiesta = debido a el/la party."
+    "explanation": "'Por' indica razón o causa: por la fiesta = a causa de la fiesta.",
+    "hint": null
   },
   "q_gram_a2_17_009": {
     "question": "Viajamos ___ la mañana y llegamos ___ las tres de la tarde. (por/para — time expressions)",
@@ -1807,14 +1817,15 @@
     "explanation": "Cuando a negativo palabra viene antes de el verbo, 'no' es noT needed: Nunca estudio = I nunca study."
   },
   "q_gram_a2_18_004": {
-    "question": "¿Qué es the rule para Las dobles negaciones en Español?",
-    "correct": "They are grammatically correct and required when the negative word follows the verb",
+    "question": "¿Cuál es la regla de la doble negación en español?",
+    "correct": "Es gramaticalmente correcta y obligatoria cuando la palabra negativa va después del verbo",
     "wrong": [
-      "They are grammatically incorrect, just like in English",
-      "They cancel each other out to make a positive",
-      "They are only used in informal speech"
+      "Es gramaticalmente incorrecta, igual que en inglés",
+      "Las dos negaciones se anulan y forman una afirmación",
+      "Solo se usa en el habla informal"
     ],
-    "explanation": "En español, Las dobles negaciones son standard: no tengo nada (No tengo nada = I tener nada). Cuando el/la negativo palabra viene antes de el verbo, 'no' es dropped."
+    "explanation": "En español la doble negación es la norma: No tengo nada (no tengo ninguna cosa = no tengo nada). Cuando la palabra negativa va antes del verbo, se omite 'no'.",
+    "hint": null
   },
   "q_gram_a2_18_005": {
     "question": "no me gusta ___ el fútbol ___ el baloncesto. (neither...nor)",
@@ -1838,14 +1849,15 @@
     "explanation": "'Tampoco' significa 'ni/o' (negativo counterpart de 'también'): Yo tampoco quiero ir."
   },
   "q_gram_a2_18_007": {
-    "question": "I tener never been a Spain.",
+    "question": "Nunca he estado en España.",
     "correct": "Nunca he estado en España.",
     "wrong": [
       "No nunca he estado en España.",
       "No he estado nunca España.",
       "Jamás no he estado en España."
     ],
-    "explanation": "'Nunca' antes de el verbo = no 'no' needed: Nunca he estado. (Alternatively: no he estado nunca en España.)"
+    "explanation": "'Nunca' antes del verbo = no hace falta 'no': Nunca he estado. (Alternativa: No he estado nunca en España.)",
+    "hint": null
   },
   "q_gram_a2_18_008": {
     "question": "no hay ___ libro sobre ese tema en la biblioteca. (negativo: not any/no)",
@@ -1900,14 +1912,15 @@
     "explanation": "'Que' significa 'quién' cuando referring a personas as el sujeto del oración de relativo."
   },
   "q_gram_a2_19_003": {
-    "question": "How does 'que' differ from Inglés 'that/which/who' en oraciones de relativo?",
-    "correct": "In Spanish, 'que' can never be omitted, unlike English",
+    "question": "¿En qué se diferencia 'que' de los relativos ingleses 'that/which/who' en las oraciones de relativo?",
+    "correct": "En español, 'que' nunca se puede omitir, a diferencia del inglés",
     "wrong": [
-      "In Spanish, 'que' is optional just like in English",
-      "In Spanish, 'que' is only used with people",
-      "In Spanish, 'que' changes form based on gender"
+      "En español, 'que' es opcional, igual que en inglés",
+      "En español, 'que' solo se usa con personas",
+      "En español, 'que' cambia de forma según el género"
     ],
-    "explanation": "En inglés, tú puede decir 'El/la book I read' (omitting 'eso'). En español, 'que' es Siempre required: El libro que leo."
+    "explanation": "En inglés se puede decir 'The book I read' (omitiendo 'that'). En español, 'que' es SIEMPRE obligatorio: El libro que leo.",
+    "hint": null
   },
   "q_gram_a2_19_004": {
     "question": "La casa en ___ vivo es pequeña. (que with preposition)",
@@ -2015,14 +2028,15 @@
     "explanation": "Cuando 'le' (IOP) viene antes de 'lo/la/los/las' (DOP), 'le' cambia a 'se': se los doy."
   },
   "q_gram_a2_20_004": {
-    "question": "Why does 'le' change a 'se' en combined object pronouns?",
-    "correct": "To avoid the awkward sound of 'le lo' or 'le la'",
+    "question": "¿Por qué 'le' cambia a 'se' cuando se combinan pronombres de objeto?",
+    "correct": "Para evitar el sonido incómodo de 'le lo' o 'le la'",
     "wrong": [
-      "Because 'le' is only used alone",
-      "Because 'se' means something completely different",
-      "Because 'le' is only for indirect objects with gustar"
+      "Porque 'le' solo se usa solo, sin otro pronombre",
+      "Porque 'se' significa algo completamente distinto",
+      "Porque 'le' solo se usa con el complemento indirecto de gustar"
     ],
-    "explanation": "Español avoids 'le lo / le la / les los / les las' porque ellos sound awkward. 'Le/les' becomes 'se' antes de cualquier DOP."
+    "explanation": "El español evita 'le lo / le la / les los / les las' porque suenan mal. 'Le/les' se convierte en 'se' ante cualquier pronombre de complemento directo.",
+    "hint": null
   },
   "q_gram_a2_20_005": {
     "question": "¿Puedes dar___ ___ ? (combine: me + lo, attached a infinitivo)",
@@ -2046,14 +2060,15 @@
     "explanation": "IOP (te) + DOP (la). 'Te' = para tú, 'la' = ello (femenino, la camisa): Te la compro."
   },
   "q_gram_a2_20_007": {
-    "question": "I dar it a him every day. (the book, masculino)",
+    "question": "Todos los días le doy el libro a él. (el libro, masculino)",
     "correct": "Se lo doy todos los días.",
     "wrong": [
       "Le lo doy todos los días.",
       "Lo se doy todos los días.",
       "Se la doy todos los días."
     ],
-    "explanation": "'Le' → 'se' antes de 'lo'. Se lo doy = I dar ello (masc.) a him. IOP + DOP order."
+    "explanation": "'Le' → 'se' ante 'lo'. Se lo doy = le doy el libro (masc.) a él. Orden: pronombre de OI + pronombre de OD.",
+    "hint": null
   },
   "q_gram_a2_20_008": {
     "question": "Mi madre ___ ___ prepara todas las mañanas. (IOP + DOP replacing 'el desayuno' + 'a nosotros')",

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "q_gram_a1_01_010",
+    "problem": "The distractor 'La mano es fría.' is grammatical Spanish and can also translate 'The hand is cold.' (ser fría = cold by nature, e.g. a cold-blooded person's hand). So a second option is arguably correct, and the ser/estar contrast is too subtle for A1.",
+    "fix": "Make the distractor clearly wrong or remove the ser/estar trap. Replace 'La mano es fría.' with 'La mano está frío.' (gender error), or reword the question to 'My hand is cold right now.' so only 'está' fits. Alternatively drop ser/estar from the explanation and test only article and adjective agreement.",
+    "topic": "ch_gram_a1_01"
+  },
+  {
+    "id": "q_vocab_a1_01_007",
+    "problem": "The wrong option 'no problem' is also a valid translation of 'de nada'. In everyday use 'de nada' is the equivalent of 'no problem' as a reply to 'gracias'. 'Of course' is also a plausible reply, so learners can't tell which is meant.",
+    "fix": "Replace 'no problem' with a clearly wrong option such as 'excuse me', 'good night' or 'see you later'. Replace 'of course' with something like 'I don't know' too, so only one answer fits.",
+    "topic": "ch_vocab_a1_01"
+  },
+  {
+    "id": "q_vocab_a1_02_006",
+    "problem": "The explanation calls 'esposa' and 'esposo' 'formal terms'. That is misleading, because both are the ordinary, neutral words for wife and husband. 'Mujer' and 'marido' are the colloquial alternatives.",
+    "fix": "Change the explanation to: \"'Esposa' means 'wife'. 'Esposo' means 'husband'. In everyday speech people also say 'mujer' (wife) and 'marido' (husband).\"",
+    "topic": "ch_vocab_a1_02"
+  },
+  {
+    "id": "q_gram_a1_03_004",
+    "problem": "The explanation says 'Soy un profesor' is incorrect in standard Spanish. That is misleading, because it is grammatical (for example 'Soy un profesor muy bueno', or when classifying). The prompt's '(conjugate the appropriate response)' also makes no sense for an article question.",
+    "fix": "Change the explanation to say that the article is normally omitted with an unmodified profession after ser, and that it is used when an adjective or modifier is added. Delete '(conjugate the appropriate response)' from the prompt. Replace the distractor 'un profesor' with a clearly wrong option such as 'unos profesor'.",
+    "topic": "ch_gram_a1_03"
+  },
+  {
+    "id": "q_gram_a1_03_006",
+    "problem": "The distractor 'problemas' is also correct. 'No hay problemas' is very common Spanish and means 'There are no problems'. The English prompt gives the singular, but the Spanish blank does not force it. 'No hay un problema' is also acceptable.",
+    "fix": "Replace 'problemas' with a clearly wrong option such as 'unos problemas' or 'unas problema'. Replace 'un problema' with a clearly wrong option too, for example 'los problema'. Alternatively, use an uncountable noun, as in 'No hay ___. (There is no sugar.)' with the answer 'azúcar'.",
+    "topic": "ch_gram_a1_03"
+  },
+  {
+    "id": "q_vocab_a1_03_007",
+    "problem": "The wrong option 'evening' is arguably also correct. 'Tarde' covers the late afternoon and early evening, and 'Buenas tardes' is often translated 'Good evening'. The distractors 'night' and 'morning' are fine.",
+    "fix": "Replace the distractor 'evening' with a clearly wrong option such as 'noon' or 'tomorrow'. Alternatively, change the correct answer to 'afternoon / early evening' and drop 'evening' from the wrong options.",
+    "topic": "ch_vocab_a1_03"
+  },
+  {
+    "id": "q_gram_a1_04_005",
+    "problem": "The hint '(conjugate ser for the 3rd person)' is misleading, because the learner picks a pronoun and doesn't conjugate anything. Also, 'Él' and 'Ella' are both 3rd person, and nothing but 'la profesora' separates them. 'Él es la profesora' is odd but not strictly ungrammatical.",
+    "fix": "Change the hint to '(she)' or '(fill in the subject pronoun: she)'. Optionally add that 'la profesora' is feminine, which is why 'ella' fits.",
+    "topic": "ch_gram_a1_04"
+  },
+  {
+    "id": "q_gram_a1_04_009",
+    "problem": "'Qué' and 'Cómo' are also valid here. '¿Qué es usted?' asks about someone's profession or nature, and '¿Cómo es usted?' means 'What are you like?'. So there is more than one correct option. The item also doesn't test subject pronouns, which is what this topic covers.",
+    "fix": "Add context that forces 'Quién', for example '¿___ es usted? – Soy Ana García. (Who are you?)'. Alternatively replace the distractors with clearly wrong ones such as 'Dónde', 'Cuándo' and 'Cuál'. Or move the item to an interrogatives topic.",
+    "topic": "ch_gram_a1_04"
+  },
+  {
+    "id": "q_gram_a1_04_010",
+    "problem": "The hint says 'conjugate with the correct pronoun for she', but the task is to choose a pronoun. The wording is confusing. 'él' and 'usted' also fit grammatically with 'habla francés', so the item depends only on the '(she)' hint.",
+    "fix": "Reword the hint to '(she)', for example 'Yo hablo español, ___ habla francés. (she)'. Remove 'conjugate'.",
+    "topic": "ch_gram_a1_04"
+  },
+  {
+    "id": "q_vocab_a1_04_009",
+    "problem": "The question is a Spanish sentence with a blank ('Mañana es ___'), but the options are full English sentences. They don't fit the blank, and they repeat 'Today is Friday', which gives the answer away. The last distractor also changes the premise ('Today is Thursday').",
+    "fix": "Use Spanish one-word options. Correct: 'sábado'. Wrong: 'jueves', 'domingo', 'lunes'. Keep the explanation: the day after 'viernes' is 'sábado'.",
+    "topic": "ch_vocab_a1_04"
+  },
+  {
+    "id": "q_gram_a1_06_002",
+    "problem": "The explanation says 'Location always uses estar (not ser)'. That is false, because events use ser, as in 'La fiesta es en mi casa'.",
+    "fix": "Change the line to 'Estar is used for the location of people and things.'",
+    "topic": "ch_gram_a1_06"
+  },
+  {
+    "id": "q_gram_a1_06_010",
+    "problem": "The explanation says 'Estar is always used for asking about location'. That is misleading, because '¿Dónde es la fiesta?' uses ser.",
+    "fix": "Change the line to 'Estar is used to ask where a person or thing is.'",
+    "topic": "ch_gram_a1_06"
+  }
+]

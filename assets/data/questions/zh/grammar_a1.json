@@ -7,8 +7,8 @@
       "Los",
       "Las"
     ],
-    "explanation": "'libro' 是男性单数名词, 所以定冠词 'el' 是 用过的.\n- el libro (男性 单数)\n- la mesa (女性 单数)",
-    "hint": "libro 结尾 -o, which typically 表示 男性 性别"
+    "explanation": "'libro' 是阳性单数名词,所以使用定冠词 'el'。\n- el libro(阳性单数)\n- la mesa(阴性单数)",
+    "hint": "libro 以 -o 结尾,通常表示阳性"
   },
   "q_gram_a1_01_002": {
     "question": "___ mano es pequeña.",
@@ -22,25 +22,27 @@
     "hint": "这 是著名例外 到 -o = 男性 规则"
   },
   "q_gram_a1_01_003": {
-    "question": "什么 does 'casa' 表示 在 'la casa'?",
-    "correct": "house",
+    "question": "'la casa' 中的 'casa' 是什么意思?",
+    "correct": "房子",
     "wrong": [
-      "table",
-      "cat",
-      "book"
+      "桌子",
+      "猫",
+      "书"
     ],
-    "explanation": "'casa' 意思是 'house' 和 是 a 女性 名词 词尾 在 -a.\n- la casa = house\n- una casa = a house"
+    "explanation": "'casa' 的意思是“房子”,是以 -a 结尾的阴性名词。\n- la casa = 这座房子\n- una casa = 一座房子",
+    "hint": null
   },
   "q_gram_a1_01_004": {
-    "question": "___ ciudad es grande. (use 正确 冠词 为 阴性名词)",
+    "question": "___ ciudad es grande. (请为这个阴性名词选择正确的冠词)",
     "correct": "La",
     "wrong": [
       "El",
       "Los",
       "Las"
     ],
-    "explanation": "'ciudad' 结尾 -dad, which 是 a 女性 词尾.\n以...结尾的名词 -ción, -sión, -dad, 和 -tad 通常是女性.",
-    "conjugation_info": "女性 词尾: -a, -ción, -sión, -dad, -tad, -tud"
+    "explanation": "'ciudad' 以 -dad 结尾,这是阴性名词的词尾。\n以 -ción、-sión、-dad 和 -tad 结尾的名词通常是阴性。",
+    "conjugation_info": "女性 词尾: -a, -ción, -sión, -dad, -tad, -tud",
+    "hint": null
   },
   "q_gram_a1_01_005": {
     "question": "___ problema es difícil.",
@@ -76,25 +78,27 @@
     "hint": "Not 所有 words 词尾 在 -a 是女性"
   },
   "q_gram_a1_01_008": {
-    "question": " map 是 big.",
+    "question": "这张地图很大。",
     "correct": "El mapa es grande.",
     "wrong": [
       "La mapa es grande.",
       "Los mapas son grandes.",
       "El mapa es pequeño."
     ],
-    "explanation": "'mapa' 是 男性 despite 词尾 在 -a (another 例外 到 -a = 女性 规则).\n'big' = 'grande', which doesn't 改变 为 性别."
+    "explanation": "'mapa' 虽然以 -a 结尾,但却是阳性名词(这是“-a 结尾即阴性”规则的又一个例外)。\n“大”= 'grande',它不随性别变化。",
+    "hint": null
   },
   "q_gram_a1_01_009": {
-    "question": "___ fotos son de mi familia. (select 正确 冠词 为 复数 阴性名词)",
+    "question": "___ fotos son de mi familia. (请为这个阴性复数名词选择正确的冠词)",
     "correct": "Las",
     "wrong": [
       "Los",
       "La",
       "El"
     ],
-    "explanation": "'foto' 是 short 为 'fotografía', which 是 女性.\n- la foto → las fotos\nAbbreviations keep 性别 的 full 词.",
-    "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)"
+    "explanation": "'foto' 是 'fotografía' 的缩写,而 'fotografía' 是阴性名词。\n- la foto → las fotos\n缩略词沿用完整词的性别。",
+    "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)",
+    "hint": null
   },
   "q_gram_a1_01_010": {
     "question": "这只手是冰凉的。",
@@ -141,14 +145,15 @@
     "hint": "niños 是 复数 的 niño"
   },
   "q_gram_a1_02_004": {
-    "question": "什么 does 'los' indicate 在 'los libros'?",
-    "correct": "masculine plural definite article",
+    "question": "'los libros' 中的 'los' 表示什么?",
+    "correct": "阳性复数定冠词",
     "wrong": [
-      "feminine plural definite article",
-      "masculine singular definite article",
-      "masculine plural indefinite article"
+      "阴性复数定冠词",
+      "阳性单数定冠词",
+      "阳性复数不定冠词"
     ],
-    "explanation": "'los' 是 男性 复数 definite 冠词 (= '' 为 男性 复数 名词).\n- el (m. sg.), la (f. sg.), los (m. pl.), las (f. pl.)"
+    "explanation": "'los' 是阳性复数定冠词(= 用于阳性复数名词前的“the”)。\n- el(阳性单数)、la(阴性单数)、los(阳性复数)、las(阴性复数)",
+    "hint": null
   },
   "q_gram_a1_02_005": {
     "question": "Vengo ___ cine. (fill 在: de + el)",
@@ -234,18 +239,19 @@
       "unas",
       "los"
     ],
-    "explanation": "'libros' 是男性复数名词; 'unos' 意思是 'some' 为 男性 plurals.\n- un libro → unos libros\n- una carta → unas cartas",
-    "hint": "Which indefinite 冠词 是 用过的 为 男性 plurals?"
+    "explanation": "'libros' 是阳性复数名词;'unos' 用于阳性复数,意思是“一些”。\n- un libro → unos libros\n- una carta → unas cartas",
+    "hint": "阳性复数使用哪个不定冠词?"
   },
   "q_gram_a1_03_003": {
-    "question": "什么 does 'unas' 表示 在 'unas flores'?",
-    "correct": "some (feminine plural)",
+    "question": "'unas flores' 中的 'unas' 是什么意思?",
+    "correct": "一些(阴性复数)",
     "wrong": [
-      "the (feminine plural)",
-      "a (feminine singular)",
-      "some (masculine plural)"
+      "这些/那些(阴性复数,定冠词)",
+      "一个(阴性单数)",
+      "一些(阳性复数)"
     ],
-    "explanation": "'unas' 是 女性 复数 indefinite 冠词 含义 'some'.\n- un (m. sg.), una (f. sg.), unos (m. pl.), unas (f. pl.)"
+    "explanation": "'unas' 是阴性复数不定冠词,意思是“一些”。\n- un(阳性单数)、una(阴性单数)、unos(阳性复数)、unas(阴性复数)",
+    "hint": null
   },
   "q_gram_a1_03_004": {
     "question": "Soy ___. (I am a teacher.) (conjugate appropriate response)",
@@ -288,8 +294,8 @@
       "con",
       "de"
     ],
-    "explanation": "之后 'sin' (没有), indefinite 冠词 被省略.\n- Café sin azúcar. (Coffee 没有 sugar.)\n- Café con leche. (Coffee 与 milk.)",
-    "hint": "Which 前置词 意思是 '没有'?"
+    "explanation": "在 'sin'(没有)之后,不使用不定冠词。\n- Café sin azúcar.(不加糖的咖啡。)\n- Café con leche.(加牛奶的咖啡。)",
+    "hint": "哪个介词表示“没有”?"
   },
   "q_gram_a1_03_008": {
     "question": "I buy some flowers.",
@@ -342,8 +348,8 @@
       "Él",
       "Usted"
     ],
-    "explanation": "'eres' 是 tú 形式的动词 ser.\n- Tú eres = 你 是 (非正式)\n 代词 'tú' 是 用过的 与 friends, family, 和 peers.",
-    "hint": "Which 代词 goes 与 'eres'?"
+    "explanation": "'eres' 是动词 ser 的 tú 变位形式。\n- Tú eres = 你是(非正式)\n人称代词 'tú' 用于朋友、家人和同辈。",
+    "hint": "哪个人称代词与 'eres' 搭配?"
   },
   "q_gram_a1_04_003": {
     "question": "___ viven en Madrid.",
@@ -420,15 +426,16 @@
     "explanation": "询问身份时 与 'usted', '¿Quién es usted?' 意思是 '谁 是 你?' (正式).\n注意 'usted' 采用与...相同的动词形式 él/ella (3rd 人称 单数).\n- ¿Quién es usted? (正式) vs ¿Quién eres tú? (非正式)"
   },
   "q_gram_a1_04_010": {
-    "question": "Yo hablo español, ___ habla francés. (conjugate 与 正确 代词 为 'she')",
+    "question": "Yo hablo español, ___ habla francés. (请用表示“她”的正确代词填空)",
     "correct": "ella",
     "wrong": [
       "él",
       "tú",
       "usted"
     ],
-    "explanation": "代词 是 用过的 为 emphasis 或 到 clarify 谁 是 是 talked about.\n- Yo hablo español, ella habla francés.\n- 没有 代词, 'habla francés' could 意思 he/she/你(正式) speaks 法语.",
-    "conjugation_info": "使用 代词 for emphasis: Yo hablo... ella habla... vs just Hablo... Habla..."
+    "explanation": "使用人称代词是为了强调,或是为了说明所指的是谁。\n- Yo hablo español, ella habla francés.\n- 如果不用代词,'habla francés' 可能指他/她/您(敬称)说法语。",
+    "conjugation_info": "使用 代词 for emphasis: Yo hablo... ella habla... vs just Hablo... Habla...",
+    "hint": null
   },
   "q_gram_a1_05_001": {
     "question": "Yo ___ estudiante.",
@@ -481,8 +488,8 @@
       "Está",
       "Hay"
     ],
-    "explanation": "'Son las tres' = 它 是 three o'clock. 为 telling 时间, 使用 'ser'.\n- Es la una. (1:00 — 单数)\n- Son las dos/tres/cuatro... (2:00+ — 复数)",
-    "hint": "Which 形式的 ser 是 用过的 与 复数 小时?"
+    "explanation": "'Son las tres' = 现在三点。表示时间时使用 'ser'。\n- Es la una.(1点——单数)\n- Son las dos/tres/cuatro...(2点及以后——复数)",
+    "hint": "表示复数的钟点时,用 ser 的哪个形式?"
   },
   "q_gram_a1_05_006": {
     "question": "La mesa ___ de madera. (conjugate ser)",
@@ -556,8 +563,8 @@
       "estoy",
       "están"
     ],
-    "explanation": "Estar 是 用过的 用来表达 位置.\n- El gato está en la mesa. = cat 是 on table.\n- 位置 总是使用estar (not ser).",
-    "hint": "Which 动词 用于位置?"
+    "explanation": "表示位置时使用 estar。\n- El gato está en la mesa. = 猫在桌子上。\n- 表示位置总是用 estar(而不是 ser)。",
+    "hint": "表示位置用哪个动词?"
   },
   "q_gram_a1_06_003": {
     "question": "Mis amigos ___ contentos.",
@@ -567,18 +574,19 @@
       "estamos",
       "estáis"
     ],
-    "explanation": "Estar 是 用过的 为 emotions 和 临时 states.\n- están contentos = 他们 是 快乐 (right now)\n- 'contentos' agrees 与 男性 复数 subject.",
-    "hint": "Emotions 和 feelings 使用 which 动词?"
+    "explanation": "表示情绪和暂时的状态时使用 estar。\n- están contentos = 他们很高兴(此刻)\n- 'contentos' 与阳性复数主语保持一致。",
+    "hint": "情绪和感受用哪个动词?"
   },
   "q_gram_a1_06_004": {
-    "question": "什么 does 'estar' express 在 '¿Cómo estás?'?",
-    "correct": "health or feeling",
+    "question": "在 '¿Cómo estás?' 中,'estar' 表达的是什么?",
+    "correct": "健康状况或感受",
     "wrong": [
-      "identity",
-      "profession",
-      "nationality"
+      "身份",
+      "职业",
+      "国籍"
     ],
-    "explanation": "'¿Cómo estás?' 意思是 '如何 是 你?' 和 asks about someone's current 状态 或 感觉.\nEstar 用于临时条件 like 健康, 心情, 和 emotional states."
+    "explanation": "'¿Cómo estás?' 的意思是“你好吗?”,询问的是某人当前的状态或感受。\nEstar 用于表示健康、心情和情绪状态等暂时的状况。",
+    "hint": null
   },
   "q_gram_a1_06_005": {
     "question": "Nosotros ___ cansados. (conjugate estar)",
@@ -663,18 +671,19 @@
       "son",
       "están"
     ],
-    "explanation": "Estar 用于位置.\n- El hospital está en la calle Mayor. = hospital 是 on Mayor Street.\n位置 总是使用estar, even 为 永久 buildings.",
-    "hint": "位置 总是 uses which 动词?"
+    "explanation": "表示位置时使用 estar。\n- El hospital está en la calle Mayor. = 医院在马约尔街上。\n表示位置总是用 estar,即使是固定不变的建筑物也一样。",
+    "hint": "表示位置总是用哪个动词?"
   },
   "q_gram_a1_07_003": {
-    "question": "什么 does 'ser aburrido' 表示 vs 'estar aburrido'?",
-    "correct": "to be boring vs to be bored",
+    "question": "'ser aburrido' 和 'estar aburrido' 有什么区别?",
+    "correct": "“令人厌烦”与“感到无聊”",
     "wrong": [
-      "to be bored vs to be boring",
-      "both mean the same thing",
-      "to be tired vs to be tiring"
+      "“感到无聊”与“令人厌烦”",
+      "两者意思相同",
+      "“感到疲倦”与“令人疲倦”"
     ],
-    "explanation": "Some 形容词 改变 含义 与 ser vs estar:\n- ser aburrido = 到 是 boring (特征)\n- estar aburrido = 到 是 bored (感觉)\n 动词 choice 改变 形容词's 含义."
+    "explanation": "有些形容词搭配 ser 或 estar 时意思会改变:\n- ser aburrido = 令人厌烦、无趣(特征)\n- estar aburrido = 感到无聊(感受)\n动词的选择会改变形容词的含义。",
+    "hint": null
   },
   "q_gram_a1_07_004": {
     "question": "La fiesta ___ en mi casa. (conjugate 正确 动词 为 '到 是')",
@@ -884,14 +893,15 @@
     "hint": "María 是 3rd 人称 单数 (ella)"
   },
   "q_gram_a1_09_003": {
-    "question": "什么 does 'estudiar' 表示?",
-    "correct": "to study",
+    "question": "'estudiar' 是什么意思?",
+    "correct": "学习",
     "wrong": [
-      "to work",
-      "to speak",
-      "to buy"
+      "工作",
+      "说话",
+      "买"
     ],
-    "explanation": "'estudiar' 意思是 '到 study'. 它 是规则 -ar 动词.\n- Yo estudio, tú estudias, él estudia..."
+    "explanation": "'estudiar' 的意思是“学习”。它是规则的 -ar 动词。\n- Yo estudio, tú estudias, él estudia...",
+    "hint": null
   },
   "q_gram_a1_09_004": {
     "question": "Nosotros ___ mucho. (conjugate trabajar)",
@@ -948,14 +958,14 @@
     "explanation": "对于-ar动词, ella 形式 结尾 -a.\n- estudiar → estudi + a = estudia\n- 所有 -ar 动词 遵循相同的模式: -o, -as, -a, -amos, -áis, -an."
   },
   "q_gram_a1_09_009": {
-    "question": "Vosotros ___ muy bien. (请变位动词 cantar)",
+    "question": "Vosotros ___ muy bien. (conjugate cantar)",
     "correct": "cantáis",
     "wrong": [
       "cantamos",
       "cantan",
       "cantas"
     ],
-    "explanation": "以 -ar 结尾的动词,vosotros 的变位以 -áis 结尾。\n- cantar → cant + áis = cantáis\n这种形式主要在西班牙使用。",
+    "explanation": "-ar 动词的 vosotros 变位以 -áis 结尾。\n- cantar → cant + áis = cantáis\n这个形式主要在西班牙使用。",
     "conjugation_info": "cantar - present: canto, cantas, canta, cantamos, cantáis, cantan",
     "hint": null
   },
@@ -1003,14 +1013,15 @@
     "hint": "ella 是 3rd 人称 单数"
   },
   "q_gram_a1_10_004": {
-    "question": "什么 是 key difference between -er 和 -ir 动词 endings?",
-    "correct": "Only the nosotros and vosotros forms differ",
+    "question": "-er 和 -ir 动词词尾的主要区别是什么?",
+    "correct": "只有 nosotros 和 vosotros 形式不同",
     "wrong": [
-      "All forms are different",
-      "Only the yo form differs",
-      "There is no difference at all"
+      "所有形式都不同",
+      "只有 yo 形式不同",
+      "完全没有区别"
     ],
-    "explanation": " -er 和 -ir conjugations 几乎相同.\n- 仅 nosotros 和 vosotros differ:\n -er: comemos, coméis / -ir: vivimos, vivís\n 所有 other 形式 share 相同 词尾: -o, -es, -e, -en."
+    "explanation": "-er 和 -ir 动词的变位几乎相同。\n- 只有 nosotros 和 vosotros 不同:\n  -er:comemos, coméis / -ir:vivimos, vivís\n  其他所有形式的词尾都一样:-o, -es, -e, -en。",
+    "hint": null
   },
   "q_gram_a1_10_005": {
     "question": "¿Tú ___ café? (conjugate beber)",
@@ -1056,14 +1067,15 @@
     "hint": " vosotros 词尾 对于-ir动词 有 an 重音"
   },
   "q_gram_a1_10_009": {
-    "question": "She reads the newspaper every morning.",
+    "question": "她每天早上都看报纸。",
     "correct": "Ella lee el periódico cada mañana.",
     "wrong": [
       "Ella lees el periódico cada mañana.",
       "Ella leen el periódico cada mañana.",
       "Ella leo el periódico cada mañana."
     ],
-    "explanation": "对于-er动词, ella 形式 结尾 -e.\n- leer → le + e = lee\n注意 double 'e' 在 lee — 这 是 正确 为 leer's 3rd 人称."
+    "explanation": "对于以 -er 结尾的动词,ella 的变位以 -e 结尾。\n- leer → le + e = lee\n注意 lee 中有两个 e,这是 leer 第三人称的正确形式。",
+    "hint": null
   },
   "q_gram_a1_10_010": {
     "question": "Nosotros ___ en un piso. (conjugate vivir)",
@@ -1084,8 +1096,8 @@
       "Es",
       "Están"
     ],
-    "explanation": "'Hay' 用于表示存在 (那里 是/那里 是).\n- Hay un banco = 那里 是 a bank.\nHay + indefinite 冠词/数 为 stating 那 something exists.",
-    "hint": "Which 词 意思是 '那里 是/那里 是'?"
+    "explanation": "'Hay' 用来表示存在(有……)。\n- Hay un banco = 有一家银行。\nHay + 不定冠词/数词,用来表示某物存在。",
+    "hint": "哪个词表示“有”?"
   },
   "q_gram_a1_11_002": {
     "question": "El banco ___ en la esquina.",
@@ -1095,18 +1107,19 @@
       "es",
       "están"
     ],
-    "explanation": "Estar 是 用过的 为 位置 的 specific things.\n- El banco está en la esquina = bank 是 on corner.\n definite 冠词 'el' signals a specific bank, so we 使用 estar.",
-    "hint": "A specific bank (el banco) uses which 动词?"
+    "explanation": "Estar 用来表示特定事物的位置。\n- El banco está en la esquina = 银行在拐角处。\n定冠词 'el' 表示特指某一家银行,所以用 estar。",
+    "hint": "特指的银行(el banco)要用哪个动词?"
   },
   "q_gram_a1_11_003": {
-    "question": "什么 是 difference between 'hay' 和 'está'?",
-    "correct": "hay = existence, está = location of specific things",
+    "question": "'hay' 和 'está' 有什么区别?",
+    "correct": "hay 表示存在,está 表示特定事物的位置",
     "wrong": [
-      "hay = location, está = existence",
-      "hay = plural only, está = singular only",
-      "they are interchangeable"
+      "hay 表示位置,está 表示存在",
+      "hay 只用于复数,está 只用于单数",
+      "两者可以互换使用"
     ],
-    "explanation": "'Hay' 表示存在 (那里 是/是) 和 与不定冠词一起使用.\n'Está/Están' 表示位置 的 specific, already-known things.\n- Hay un libro. (A book exists.) / El libro está aquí. ( book 是 这里.)"
+    "explanation": "'Hay' 表示存在(有……),与不定冠词连用。\n'Está/Están' 表示已知的、特定事物所在的位置。\n- Hay un libro.(存在一本书。)/ El libro está aquí.(这本书在这里。)",
+    "hint": null
   },
   "q_gram_a1_11_004": {
     "question": "___ muchos estudiantes en la clase. (choose 正确 form 含义 '有')",
@@ -1164,15 +1177,16 @@
     "hint": null
   },
   "q_gram_a1_11_009": {
-    "question": "No ___ nadie en la oficina. (fill 在 form 的 'haber' 含义 '有')",
+    "question": "No ___ nadie en la oficina. (填入表示“有”的 'haber' 的形式)",
     "correct": "hay",
     "wrong": [
       "está",
       "es",
       "están"
     ],
-    "explanation": "'No hay nadie' = 那里 是 nobody. 这 是双重否定, which 在西班牙语中是正确的.\n- hay + negative 词 = 那里 是/是 not\n记住: hay 是不变的 和 doesn't 改变 形式.",
-    "conjugation_info": "Hay in negative: No hay nada (nothing), No hay nadie (nobody), No hay ningún... (not any)"
+    "explanation": "'No hay nadie' = 没有人。这是双重否定,在西班牙语中是正确的。\n- hay + 否定词 = 没有……\n记住:hay 是不变形式,不随人称或数变化。",
+    "conjugation_info": "Hay in negative: No hay nada (nothing), No hay nadie (nobody), No hay ningún... (not any)",
+    "hint": null
   },
   "q_gram_a1_11_010": {
     "question": "There is a park in my city.",
@@ -1315,14 +1329,15 @@
     "hint": "flores 是 女性 复数"
   },
   "q_gram_a1_13_003": {
-    "question": "什么 distance does 'aquel' indicate?",
-    "correct": "far from both speaker and listener",
+    "question": "'aquel' 表示什么距离?",
+    "correct": "离说话人和听话人都远",
     "wrong": [
-      "near the speaker",
-      "near the listener",
-      "it has no distance meaning"
+      "离说话人近",
+      "离听话人近",
+      "它没有距离的含义"
     ],
-    "explanation": "西班牙语有三种距离等级:\n- este = 靠近说话者 (这里/aquí)\n- ese = 靠近听者 (那里/ahí)\n- aquel = 远 来自 两者 (over 那里/allí)"
+    "explanation": "西班牙语有三个层次的距离:\n- este = 离说话人近(这里/aquí)\n- ese = 离听话人近(那里/ahí)\n- aquel = 离双方都远(那边/allí)",
+    "hint": null
   },
   "q_gram_a1_13_004": {
     "question": "___ chica es mi amiga. (那 girl near 你)",
@@ -1390,14 +1405,15 @@
     "conjugation_info": "este (m.sg.), esta (f.sg.), estos (m.pl.), estas (f.pl.) — 靠近 说话者"
   },
   "q_gram_a1_13_010": {
-    "question": "That house over there is very old.",
+    "question": "那边那座房子很旧。",
     "correct": "Aquella casa es muy vieja.",
     "wrong": [
       "Esa casa es muy vieja.",
       "Esta casa es muy vieja.",
       "Aquel casa es muy viejo."
     ],
-    "explanation": "'over 那里' signals farthest 距离 level: aquel/aquella.\n- aquella casa = 那 house over 那里 (远 来自 两者)\n'casa' 是 女性, so we 使用 'aquella' (not aquel)."
+    "explanation": "“那边”表示最远的距离层级:aquel/aquella。\n- aquella casa = 那边的那座房子(离双方都远)\n'casa' 是阴性名词,所以用 'aquella'(而不是 aquel)。",
+    "hint": null
   },
   "q_gram_a1_14_001": {
     "question": "Vivo ___ Madrid. (fill 在 preposition 为 '在')",
@@ -1429,18 +1445,19 @@
       "de",
       "por"
     ],
-    "explanation": "'a' 意思是 '到' 和 表示 direction/destination.\n- Voy a la escuela. = I go 到 school.\nir + a + place = going 到 somewhere.",
-    "hint": "Which 前置词 expresses direction?"
+    "explanation": "'a' 意为“到、去”,表示方向/目的地。\n- Voy a la escuela. = 我去学校。\nir + a + 地点 = 去某个地方。",
+    "hint": "哪个介词表示方向?"
   },
   "q_gram_a1_14_004": {
-    "question": "什么 does preposition 'con' 表示?",
-    "correct": "with",
+    "question": "介词 'con' 是什么意思?",
+    "correct": "和、带有",
     "wrong": [
-      "without",
-      "for",
-      "from"
+      "没有",
+      "为了",
+      "来自"
     ],
-    "explanation": "'con' 意思是 '与' 在 西班牙语.\n- Café con leche = Coffee 与 milk.\n- Voy con mis amigos. = I go 与 my friends."
+    "explanation": "'con' 在西班牙语中意为“和、带着”。\n- Café con leche = 牛奶咖啡(加牛奶的咖啡)。\n- Voy con mis amigos. = 我和朋友们一起去。",
+    "hint": null
   },
   "q_gram_a1_14_005": {
     "question": "Veo ___ mi madre. (I see my mother.)",
@@ -1515,8 +1532,8 @@
       "Dónde",
       "Cuándo"
     ],
-    "explanation": "'¿Qué hora es?' = 什么 时间 是 它?\n'Qué' 是 用过的 到 ask '什么' 什么时候 seeking a definition 或 general information.\n注意 重音 mark on question words.",
-    "hint": "Which question 词 意思是 '什么'?"
+    "explanation": "'¿Qué hora es?' = 现在几点?\n'Qué' 用于询问“什么”,即询问定义或一般信息。\n注意疑问词上的重音符号。",
+    "hint": "哪个疑问词表示“什么”?"
   },
   "q_gram_a1_15_002": {
     "question": "¿___ vives?",
@@ -1526,29 +1543,31 @@
       "Cómo",
       "Qué"
     ],
-    "explanation": "'¿Dónde vives?' = 哪里 做 你 live?\n'Dónde' asks about 位置 或 place.\n所有 西班牙语 question words 有 a written 重音.",
-    "hint": "Which question 词 asks about place?"
+    "explanation": "'¿Dónde vives?' = 你住在哪里?\n'Dónde' 用来询问位置或地点。\n西班牙语的所有疑问词都带有重音符号。",
+    "hint": "哪个疑问词用来问地点?"
   },
   "q_gram_a1_15_003": {
-    "question": "什么 does '¿Por qué?' 表示?",
-    "correct": "Why?",
+    "question": "'¿Por qué?' 是什么意思?",
+    "correct": "为什么?",
     "wrong": [
-      "Because",
-      "How?",
-      "What for?"
+      "因为",
+      "怎么样?",
+      "为了什么?"
     ],
-    "explanation": "'¿Por qué?' = Why? (two words, 与 重音 on qué)\n- ¿Por qué estudias español? = Why 做 你 study 西班牙语?\n注意: 'porque' (one 词, no 重音) = 因为."
+    "explanation": "'¿Por qué?' = 为什么?(两个单词,qué 上有重音符号)\n- ¿Por qué estudias español? = 你为什么学西班牙语?\n注意:'porque'(一个单词,无重音符号)= 因为。",
+    "hint": null
   },
   "q_gram_a1_15_004": {
-    "question": "¿___ años tienes? (How old are you?) (use 正确 question 词)",
+    "question": "¿___ años tienes? (你多大了?)(请使用正确的疑问词)",
     "correct": "Cuántos",
     "wrong": [
       "Cuántas",
       "Cuánto",
       "Qué"
     ],
-    "explanation": "'Cuántos' agrees 与 男性 复数 名词 'años'.\n- ¿Cuántos años tienes? = 如何 许多 years 做 你 有? (= 如何 old 是 你?)\nCuánto 改变 为 性别 和 数: cuánto/cuánta/cuántos/cuántas.",
-    "conjugation_info": "cuánto (m.sg.), cuánta (f.sg.), cuántos (m.pl.), cuántas (f.pl.)"
+    "explanation": "'Cuántos' 与阳性复数名词 'años' 保持一致。\n- ¿Cuántos años tienes? = 你有多少岁?(即:你多大了?)\nCuánto 会随性和数变化:cuánto/cuánta/cuántos/cuántas。",
+    "conjugation_info": "cuánto (m.sg.), cuánta (f.sg.), cuántos (m.pl.), cuántas (f.pl.)",
+    "hint": null
   },
   "q_gram_a1_15_005": {
     "question": "¿___ es tu nombre?",
@@ -1580,8 +1599,8 @@
       "Cómo",
       "Quién"
     ],
-    "explanation": "'¿Cuándo es la fiesta?' = 什么时候 是 party?\n'Cuándo' asks about 时间.\n- ¿Cuándo vienes? = 什么时候 是 你 coming?",
-    "hint": "Which question 词 asks about 时间?"
+    "explanation": "'¿Cuándo es la fiesta?' = 聚会是什么时候?\n'Cuándo' 用来询问时间。\n- ¿Cuándo vienes? = 你什么时候来?",
+    "hint": "哪个疑问词用来问时间?"
   },
   "q_gram_a1_15_008": {
     "question": "谁 是 she?",
@@ -1650,14 +1669,15 @@
     "hint": "Double negatives 是 正确 在 西班牙语"
   },
   "q_gram_a1_16_004": {
-    "question": "什么 does 'nunca' 表示?",
-    "correct": "never",
+    "question": "'nunca' 是什么意思?",
+    "correct": "从不",
     "wrong": [
-      "nothing",
-      "nobody",
-      "neither"
+      "什么也没有",
+      "没有人",
+      "也不"
     ],
-    "explanation": "'nunca' 意思是 '从不'. 它 可以 是 placed 之前 或 之后 动词:\n- Nunca como carne. = I 从不 eat meat.\n- No como carne nunca. = I 从不 eat meat. (double negative)"
+    "explanation": "'nunca' 意为“从不”。它可以放在动词前面或后面:\n- Nunca como carne. = 我从不吃肉。\n- No como carne nunca. = 我从不吃肉。(双重否定)",
+    "hint": null
   },
   "q_gram_a1_16_005": {
     "question": "No quiero café, y ella ___ quiere café. (use 词 为 'neither')",
@@ -1699,8 +1719,8 @@
       "nada",
       "nunca"
     ],
-    "explanation": "'nadie' 意思是 'nobody/no one'.\n- No hay nadie en casa. = 那里 是 nobody at home.\n- 'nadie' 指 人们, 'nada' 指 things.",
-    "hint": "Which negative 词 指 人们?"
+    "explanation": "'nadie' 意为“没有人”。\n- No hay nadie en casa. = 家里没有人。\n- 'nadie' 指人,'nada' 指事物。",
+    "hint": "哪个否定词指的是人?"
   },
   "q_gram_a1_16_009": {
     "question": "Nothing is perfect.",
@@ -1746,14 +1766,15 @@
     "hint": "'los perros' 是 复数"
   },
   "q_gram_a1_17_003": {
-    "question": "什么 does 'gustar' literally 表示?",
-    "correct": "to please",
+    "question": "'gustar' 的字面意思是什么?",
+    "correct": "使……喜欢、讨人喜欢",
     "wrong": [
-      "to like",
-      "to want",
-      "to love"
+      "喜欢",
+      "想要",
+      "爱"
     ],
-    "explanation": "'gustar' literally 意思是 '到 please'. structure 是 reversed 来自 英语.\n- Me gusta el café. = Coffee pleases me. (= I like coffee.)\n thing liked 是 grammatical subject."
+    "explanation": "'gustar' 的字面意思是“使……喜欢”。它的结构与汉语、英语的说法正好相反。\n- Me gusta el café. = 咖啡让我喜欢。(即:我喜欢咖啡。)\n被喜欢的事物才是语法上的主语。",
+    "hint": null
   },
   "q_gram_a1_17_004": {
     "question": "A ella ___ gusta bailar. (She likes 到 dance.)",
@@ -1849,8 +1870,8 @@
       "tienes",
       "tienen"
     ],
-    "explanation": " ella 形式的 'tener' 是 'tiene'.\n- Ella tiene hambre. = She 是 hungry. (lit. She 有 hunger.)\n西班牙语 uses tener + 名词 哪里 英语 uses 到 是 + 形容词.",
-    "hint": "ella = 3rd 人称 单数"
+    "explanation": "'tener' 的 ella 形式是 'tiene'。\n- Ella tiene hambre. = 她饿了。(字面意思:她有饥饿。)\n汉语说“是/很 + 形容词”的地方,西班牙语常用 tener + 名词。",
+    "hint": "ella = 第三人称单数"
   },
   "q_gram_a1_18_003": {
     "question": "¿___ sed? (是 你 thirsty?)",
@@ -1864,14 +1885,15 @@
     "hint": "这 是 asking '你' (tú)"
   },
   "q_gram_a1_18_004": {
-    "question": "什么 does 'tener razón' 表示?",
-    "correct": "to be right",
+    "question": "'tener razón' 是什么意思?",
+    "correct": "是对的、有道理",
     "wrong": [
-      "to have a reason",
-      "to be wrong",
-      "to have a question"
+      "有一个理由",
+      "是错的",
+      "有一个问题"
     ],
-    "explanation": "'tener razón' = 到 是 right (lit. 到 有 reason).\n- Tienes razón. = 你 是 right.\n这 是 one 的 许多 tener expressions 哪里 英语 uses '到 是'."
+    "explanation": "'tener razón' = 是对的(字面意思:有道理)。\n- Tienes razón. = 你说得对。\n这是众多 tener 表达之一,汉语和英语中这类说法常用“是”。",
+    "hint": null
   },
   "q_gram_a1_18_005": {
     "question": "Nosotros ___ 25 años. (conjugate tener)",
@@ -1960,14 +1982,15 @@
     "hint": "什么 是 nosotros 形式的 ir?"
   },
   "q_gram_a1_19_003": {
-    "question": "什么 does 'ir a + 不定式' express?",
-    "correct": "near future / plans",
+    "question": "'ir a + 动词原形' 表示什么?",
+    "correct": "近期的将来/计划",
     "wrong": [
-      "past actions",
-      "commands",
-      "present habits"
+      "过去的行为",
+      "命令",
+      "现在的习惯"
     ],
-    "explanation": "'ir a + 不定式' expresses 靠近 future 或 plans.\n- Voy a estudiar. = I am going 到 study.\n- Vamos a comer. = We 是 going 到 eat.\n这 是 simplest way 到 talk about future actions 在 西班牙语."
+    "explanation": "'ir a + 动词原形' 表示近期的将来或计划。\n- Voy a estudiar. = 我打算学习。\n- Vamos a comer. = 我们要去吃饭了。\n这是西班牙语中表达将来行为最简单的方式。",
+    "hint": null
   },
   "q_gram_a1_19_004": {
     "question": "Ella ___ a la playa. (conjugate ir)",
@@ -2014,14 +2037,15 @@
     "hint": "los niños takes 相同 形式 as ellos"
   },
   "q_gram_a1_19_008": {
-    "question": "We 是 going 到 eat at a restaurant.",
+    "question": "我们打算去餐厅吃饭。",
     "correct": "Vamos a comer en un restaurante.",
     "wrong": [
       "Vamos comer en un restaurante.",
       "Voy a comer en un restaurante.",
       "Vamos a comer a un restaurante."
     ],
-    "explanation": "'ir a + 不定式' expresses 靠近 future.\n- Vamos a comer = We 是 going 到 eat.\n注意: 'en un restaurante' (at a restaurant) uses 'en' 为 位置."
+    "explanation": "“ir a + 动词原形”表示近期将来。\n- Vamos a comer = 我们打算吃饭。\n注意:“en un restaurante”(在餐厅)表示地点时用 'en'。",
+    "hint": null
   },
   "q_gram_a1_19_009": {
     "question": "¿Vosotros ___ a la fiesta? (conjugate ir)",
@@ -2075,8 +2099,8 @@
       "veinti cinco",
       "veintecinco"
     ],
-    "explanation": "Numbers 21-29 是 written as one 词: veinti + unit.\n- 21 = veintiuno, 22 = veintidós, 25 = veinticinco\n注意: 30+ uses two words: treinta y cinco.",
-    "hint": "21-29 是 single compound words"
+    "explanation": "21到29写成一个词:veinti + 个位数。\n- 21 = veintiuno,22 = veintidós,25 = veinticinco\n注意:30以上要写成两个词:treinta y cinco。",
+    "hint": "21到29是单个合成词"
   },
   "q_gram_a1_20_004": {
     "question": "什么 是 'cincuenta' 在英语中?",
@@ -2107,8 +2131,8 @@
       "cent",
       "cien to"
     ],
-    "explanation": "'cien' 是 用过的 为 exactly 100.\n- cien personas = 100 人们\n'ciento' 是 用过的 为 101-199: ciento uno, ciento dos, etc.",
-    "hint": "为 exactly 100, which 形式 是 用过的?"
+    "explanation": "“cien”只用于正好100。\n- cien personas = 100个人\n“ciento”用于101到199:ciento uno、ciento dos 等。",
+    "hint": "正好100时,用哪种形式?"
   },
   "q_gram_a1_20_007": {
     "question": "I 有 forty-two books.",

@@ -21,14 +21,15 @@
     "explanation": "Querer changes e→ie в ellos форма: quieren. boot pattern applies к все формах кроме nosotros/vosotros."
   },
   "q_gram_a2_01_003": {
-    "question": "что does 'boot pattern' означать в context испанский основа-changing verbs?",
-    "correct": "The stem change applies to all forms except nosotros and vosotros",
+    "question": "Что означает «boot pattern» («схема ботинка») в контексте спanских глаголов с чередованием гласных в основе?",
+    "correct": "Чередование в основе происходит во всех формах, кроме nosotros и vosotros",
     "wrong": [
-      "The stem change applies only to the yo form",
-      "The stem change applies to all six conjugation forms",
-      "The stem change only happens in the past tense"
+      "Чередование в основе происходит только в форме yo",
+      "Чередование в основе происходит во всех шести формах спряжения",
+      "Чередование в основе происходит только в прошедшем времени"
     ],
-    "explanation": " 'boot pattern' (или 'shoe pattern') означает основа change occurs в yo, tú, él/ella, и ellos/ellas формах, но NOT в nosotros или vosotros."
+    "explanation": "«Boot pattern» («схема ботинка» или «схема башмака») означает, что чередование в основе происходит в формах yo, tú, él/ella и ellos/ellas, но НЕ в формах nosotros и vosotros.",
+    "hint": null
   },
   "q_gram_a2_01_004": {
     "question": "Nosotros ___ la lección. (entender, e→ie, nosotros form)",
@@ -196,15 +197,16 @@
     "explanation": "Cuento (от contar, o→ue) означает 'I count' и vuelvo (от volver, o→ue) означает 'I return'."
   },
   "q_gram_a2_02_010": {
-    "question": "Vosotros ___ a casa después de la clase. (volver, o→ue, vosotros form)",
+    "question": "Vosotros ___ a casa después de la clase. (volver, o→ue, форма vosotros)",
     "correct": "volvéis",
     "wrong": [
       "vuelvéis",
       "volvemos",
       "vuelven"
     ],
-    "explanation": "Vosotros есть outside boot pattern, поэтому volver uses правильный основа: volvéis.",
-    "conjugation_info": "volver (o→ue): vuelvo, vuelves, vuelve, volvemos, volvéis, vuelven"
+    "explanation": "Vosotros находится вне «схемы ботинка», поэтому volver сохраняет обычную основу: volvéis.",
+    "conjugation_info": "volver (o→ue): vuelvo, vuelves, vuelve, volvemos, volvéis, vuelven",
+    "hint": null
   },
   "q_gram_a2_03_001": {
     "question": "Yo ___ un café, por favor. (pedir, e→i)",
@@ -551,14 +553,15 @@
     "explanation": "'A ti' requires indirect object местоимение 'te'. Gustar есть commonly used с IOPs."
   },
   "q_gram_a2_06_004": {
-    "question": "что question does indirect object местоимение answer?",
-    "correct": "To whom / for whom",
+    "question": "На какой вопрос отвечает косвенное дополнение (местоимение)?",
+    "correct": "Кому / для кого",
     "wrong": [
-      "What / whom (direct receiver of action)",
-      "Where / when",
-      "How / why"
+      "Что / кого (прямой объект действия)",
+      "Где / когда",
+      "Как / почему"
     ],
-    "explanation": "Indirect object pronouns answer 'к whom?' или 'для whom?' -- Le doy el libro = I give книга к HIM/HER."
+    "explanation": "Местоимения косвенного дополнения отвечают на вопросы «кому?» или «для кого?» — Le doy el libro = Я даю книгу ЕМУ/ЕЙ.",
+    "hint": null
   },
   "q_gram_a2_06_005": {
     "question": "Yo ___ escribo una carta a mis abuelos. (IOP для 'a mis abuelos')",
@@ -641,17 +644,19 @@
       "juegando",
       "jugado"
     ],
-    "explanation": " герундий -ar verbs оканчивается на -ando: jugando. основа change does NOT apply к правильный gerunds -ar verbs."
+    "explanation": "Герундий глаголов на -ar оканчивается на -ando: jugando. Чередование гласных в основе в регулярных герундиях глаголов на -ar НЕ происходит.",
+    "hint": null
   },
   "q_gram_a2_07_003": {
-    "question": "что does present progressive (estar + герундий) express в испанский?",
-    "correct": "An action happening right now, at this moment",
+    "question": "Что выражает present progressive (estar + герундий) в испанском языке?",
+    "correct": "Действие, происходящее прямо сейчас, в этот момент",
     "wrong": [
-      "A habitual action that happens regularly",
-      "An action that will happen in the future",
-      "An action completed in the past"
+      "Привычное действие, которое происходит регулярно",
+      "Действие, которое произойдёт в будущем",
+      "Действие, завершённое в прошлом"
     ],
-    "explanation": " present progressive (estoy hablando) emphasizes который action есть в progress right NOW. Unlike английский, это есть NOT used для habitual actions."
+    "explanation": "Present progressive (estoy hablando) подчёркивает, что действие идёт именно СЕЙЧАС. В отличие от английского, оно НЕ используется для привычных действий.",
+    "hint": null
   },
   "q_gram_a2_07_004": {
     "question": "Ella está ___ un libro interesante. (leer, герундий — неправильный)",
@@ -758,14 +763,15 @@
     "explanation": "для ella, ir conjugates к 'va': va cocinar."
   },
   "q_gram_a2_08_004": {
-    "question": "что does 'ir + инфинитив' express?",
-    "correct": "Plans, intentions, or near future actions",
+    "question": "Что выражает конструкция 'ir a + infinitive'?",
+    "correct": "Планы, намерения или действия в ближайшем будущем",
     "wrong": [
-      "Completed past actions",
-      "Habitual actions in the present",
-      "Ongoing actions right now"
+      "Завершённые действия в прошлом",
+      "Привычные действия в настоящем",
+      "Действия, происходящие прямо сейчас"
     ],
-    "explanation": "'Ir + инфинитив' expresses что someone есть going к do -- plans, intentions, и near future events."
+    "explanation": "'Ir a + infinitive' выражает то, что кто-то собирается сделать, — планы, намерения и события ближайшего будущего.",
+    "hint": null
   },
   "q_gram_a2_08_005": {
     "question": "¿Ustedes ___ a ver la película esta noche? (ir, ustedes form)",
@@ -1017,13 +1023,14 @@
   },
   "q_gram_a2_10_009": {
     "question": "Ayer mi amigo me dijo algo interesante y yo no lo pude creer.",
-    "correct": "Yesterday my friend told me something interesting and I couldn't believe it.",
+    "correct": "Вчера мой друг сказал мне кое-что интересное, и я не смог в это поверить.",
     "wrong": [
-      "Yesterday my friend told me something boring and I couldn't believe it.",
-      "Yesterday my friend asked me something interesting and I couldn't understand it.",
-      "Today my friend told me something interesting and I couldn't believe it."
+      "Вчера мой друг сказал мне кое-что скучное, и я не смог в это поверить.",
+      "Вчера мой друг спросил меня о чём-то интересном, и я не смог этого понять.",
+      "Сегодня мой друг сказал мне кое-что интересное, и я не смог в это поверить."
     ],
-    "explanation": "Dijo (от decir) = told, pude (от poder) = could. Both являются неправильный претерит формах."
+    "explanation": "Dijo (от decir) = сказал, pude (от poder) = смог. Обе формы — неправильные формы претерита.",
+    "hint": null
   },
   "q_gram_a2_10_010": {
     "question": "Nosotros ___ mucho trabajo la semana pasada. (tener, простое прошедшее, nosotros form)",
@@ -1265,14 +1272,15 @@
     "explanation": "A single, completed event uses претерит: hubo. 'Ayer' signals specific past время."
   },
   "q_gram_a2_13_003": {
-    "question": "что есть key difference between претерит и имперфект?",
-    "correct": "Preterite = completed actions; Imperfect = ongoing/habitual/descriptive",
+    "question": "В чём ключевое различие между претеритом и имперфектом?",
+    "correct": "Претерит = завершённые действия; имперфект = длительные/привычные/описательные",
     "wrong": [
-      "Preterite = present; Imperfect = past",
-      "Preterite = formal; Imperfect = informal",
-      "Preterite = affirmative; Imperfect = negative"
+      "Претерит = настоящее; имперфект = прошедшее",
+      "Претерит = формальный; имперфект = неформальный",
+      "Претерит = утвердительный; имперфект = отрицательный"
     ],
-    "explanation": " претерит narrates completed events. имперфект describes background, habits, и ongoing states. они часто work together."
+    "explanation": "Претерит рассказывает о завершённых событиях. Имперфект описывает фон, привычки и длительные состояния. Часто они используются вместе.",
+    "hint": null
   },
   "q_gram_a2_13_004": {
     "question": "Mientras yo ___ la cena, mi hermano llegó. (preparar — background action)",
@@ -1474,14 +1482,15 @@
     "explanation": " superlative 'большинство' = 'más': el más caro de la ciudad."
   },
   "q_gram_a2_15_003": {
-    "question": "что does absolute superlative suffix '-ísimo/a' express?",
-    "correct": "An extremely high degree of a quality (very, very)",
+    "question": "Что выражает суффикс абсолютной превосходной степени '-ísimo/a'?",
+    "correct": "Крайне высокую степень качества («очень-очень»)",
     "wrong": [
-      "A comparison between two things",
-      "The lowest degree of a quality",
-      "A comparison among three or more things"
+      "Сравнение двух предметов",
+      "Самую низкую степень качества",
+      "Сравнение трёх и более предметов"
     ],
-    "explanation": " absolute superlative -ísimo/означает 'extremely' или 'очень, очень': grandísimo = extremely большой, facilísimo = extremely лёгкий."
+    "explanation": "Абсолютная превосходная степень -ísimo/a означает «чрезвычайно» или «очень-очень»: grandísimo = огромный, facilísimo = очень-очень лёгкий.",
+    "hint": null
   },
   "q_gram_a2_15_004": {
     "question": "La pizza está ___. (caliente → absolute superlative -ísimo/a form)",
@@ -1557,15 +1566,16 @@
     "explanation": "'La más amable de' = kindest в (superlative). 'Riquísimo' = extremely delicious (absolute superlative)."
   },
   "q_gram_a2_16_001": {
-    "question": "¡___ tu tarea ahora! (hacer, affirmative tú command — неправильный)",
+    "question": "¡___ tu tarea ahora! (hacer, утвердительный императив tú — неправильный)",
     "correct": "Haz",
     "wrong": [
       "Hace",
       "Haces",
       "Hagas"
     ],
-    "explanation": "'Hacer' имеет неправильный tú command: haz. это does не follow правильный pattern.",
-    "conjugation_info": "Irregular tú commands: pon, sal, ven, ten, haz, di, sé, ve"
+    "explanation": "У 'Hacer' неправильный императив для tú: haz. Он не следует обычной схеме.",
+    "conjugation_info": "Irregular tú commands: pon, sal, ven, ten, haz, di, sé, ve",
+    "hint": null
   },
   "q_gram_a2_16_002": {
     "question": "¡___ la puerta, por favor! (abrir, affirmative tú command)",
@@ -1681,14 +1691,15 @@
     "explanation": "'Por' используется для reason/cause: Gracias por tu ayuda = Thanks для (потому что ) твой help."
   },
   "q_gram_a2_17_003": {
-    "question": "что does 'para' generally express?",
-    "correct": "Purpose, destination, deadline, or recipient",
+    "question": "Что в целом выражает 'para'?",
+    "correct": "Цель, место назначения, срок или получателя",
     "wrong": [
-      "Reason, exchange, duration, or movement through",
-      "Only future time expressions",
-      "Only movement and location"
+      "Причину, обмен, продолжительность или движение через что-либо",
+      "Только выражения будущего времени",
+      "Только движение и местоположение"
     ],
-    "explanation": "Para = purpose (para estudiar), destination (para Madrid), deadline (para mañana), recipient (para ti)."
+    "explanation": "Para = цель (para estudiar), место назначения (para Madrid), срок (para mañana), получатель (para ti).",
+    "hint": null
   },
   "q_gram_a2_17_004": {
     "question": "Caminamos ___ el parque todas las mañanas. (por — through/along)",
@@ -1827,14 +1838,15 @@
     "explanation": "'Tampoco' означает 'neither/either' (negative counterpart 'también'): Yo tampoco quiero ir."
   },
   "q_gram_a2_18_007": {
-    "question": "I иметь никогда been к Spain.",
+    "question": "Я никогда не был в Испании.",
     "correct": "Nunca he estado en España.",
     "wrong": [
       "No nunca he estado en España.",
       "No he estado nunca España.",
       "Jamás no he estado en España."
     ],
-    "explanation": "'Nunca' перед глагол = no 'no' needed: Nunca he estado. (Alternatively: No he estado nunca en España.)"
+    "explanation": "'Nunca' перед глаголом = 'no' не нужно: Nunca he estado. (Или иначе: No he estado nunca en España.)",
+    "hint": null
   },
   "q_gram_a2_18_008": {
     "question": "No hay ___ libro sobre ese tema en la biblioteca. (negative: not any/no)",
@@ -1889,14 +1901,15 @@
     "explanation": "'Que' означает 'кто' когда referring к люди as subject relative clause."
   },
   "q_gram_a2_19_003": {
-    "question": "как does 'que' differ от английский 'то/который/кто' в relative clauses?",
-    "correct": "In Spanish, 'que' can never be omitted, unlike English",
+    "question": "Чем 'que' отличается от английских 'that/which/who' в относительных придаточных?",
+    "correct": "В испанском 'que' никогда нельзя опускать, в отличие от английского",
     "wrong": [
-      "In Spanish, 'que' is optional just like in English",
-      "In Spanish, 'que' is only used with people",
-      "In Spanish, 'que' changes form based on gender"
+      "В испанском 'que' необязательно, как и в английском",
+      "В испанском 'que' употребляется только с людьми",
+      "В испанском 'que' изменяется по роду"
     ],
-    "explanation": "в английский, можно say ' книга I read' (omitting 'который'). в испанском, 'que' есть всегда required: El libro que leo."
+    "explanation": "В английском можно сказать 'The book I read' (опустив 'that'). В испанском 'que' требуется ВСЕГДА: El libro que leo.",
+    "hint": null
   },
   "q_gram_a2_19_004": {
     "question": "La casa en ___ vivo es pequeña. (que с preposition)",
@@ -2003,14 +2016,15 @@
     "explanation": "когда 'le' (IOP) comes перед 'lo/la/los/las' (DOP), 'le' изменяется на 'se': se los doy."
   },
   "q_gram_a2_20_004": {
-    "question": "почему does 'le' change к 'se' в combined object pronouns?",
-    "correct": "To avoid the awkward sound of 'le lo' or 'le la'",
+    "question": "Почему 'le' меняется на 'se' в сочетаниях местоименных дополнений?",
+    "correct": "Чтобы избежать неблагозвучных сочетаний 'le lo' или 'le la'",
     "wrong": [
-      "Because 'le' is only used alone",
-      "Because 'se' means something completely different",
-      "Because 'le' is only for indirect objects with gustar"
+      "Потому что 'le' используется только отдельно",
+      "Потому что 'se' означает нечто совершенно другое",
+      "Потому что 'le' используется только с косвенным дополнением при gustar"
     ],
-    "explanation": "испанский avoids 'le lo / le la / les los / les las' потому что они sound awkward. 'Le/les' becomes 'se' перед any DOP."
+    "explanation": "Испанский избегает сочетаний 'le lo / le la / les los / les las', потому что они звучат неблагозвучно. 'Le/les' превращается в 'se' перед любым местоимением прямого дополнения.",
+    "hint": null
   },
   "q_gram_a2_20_005": {
     "question": "¿Puedes dar___ ___ ? (combine: me + lo, attached к инфинитив)",

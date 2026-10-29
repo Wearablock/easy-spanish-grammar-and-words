@@ -83,14 +83,14 @@
     "explanation": "после 'espero que' (I hope который), сослагательное наклонение есть required. Estudiar в tú сослагательное наклонение есть estudies."
   },
   "q_gram_b1_01_009": {
-    "question": "Vosotros ___ las instrucciones con cuidado. (escribir, настоящее время сослагательного наклонения, форма vosotros)",
+    "question": "Vosotros ___ las instrucciones con cuidado. (escribir, presente de subjuntivo, форма vosotros)",
     "correct": "escribáis",
     "wrong": [
       "escribís",
       "escribiréis",
       "escribíais"
     ],
-    "explanation": "Форма vosotros сослагательного наклонения от escribir имеет «противоположное» окончание -áis: escribáis.",
+    "explanation": "В subjuntivo у escribir форма vosotros получает «противоположное» окончание -áis: escribáis.",
     "conjugation_info": "escribir (present сослагательное наклонение): escriba, escribas, escriba, escribamos, escribáis, escriban",
     "hint": null
   },
@@ -344,14 +344,15 @@
     "explanation": "после 'dudo que' (I doubt который), сослагательное наклонение используется. Saber's сослагательное наклонение ellos форма есть sepan."
   },
   "q_gram_b1_04_004": {
-    "question": "который sentence correctly uses изъявительное наклонение (not сослагательное наклонение)?",
+    "question": "В каком предложении правильно используется изъявительное наклонение (а не сослагательное)?",
     "correct": "Estoy seguro de que ella viene mañana.",
     "wrong": [
       "Dudo que ella venga mañana.",
       "No creo que ella venga mañana.",
       "Es posible que ella venga mañana."
     ],
-    "explanation": "Certainty expressions like 'estoy seguro de que' use изъявительное наклонение. Doubt/denial expressions (dudo que, no creo que, es posible que) trigger сослагательное наклонение."
+    "explanation": "Выражения уверенности, такие как 'estoy seguro de que', требуют изъявительного наклонения. Выражения сомнения/отрицания (dudo que, no creo que, es posible que) требуют сослагательного.",
+    "hint": null
   },
   "q_gram_b1_04_005": {
     "question": "Tú ___ español mejor que yo. (hablar, сослагательное настоящего времени, tú form)",
@@ -437,14 +438,15 @@
     "explanation": "Poder имеет неправильный условное наклонение основа: podr-. tú форма есть podrías. условное наклонение используется для polite requests."
   },
   "q_gram_b1_05_003": {
-    "question": "что есть primary use условное наклонение tense в polite expressions?",
-    "correct": "To make polite requests and suggestions",
+    "question": "Для чего в первую очередь используется условное наклонение в вежливых выражениях?",
+    "correct": "Чтобы вежливо просить и делать предложения",
     "wrong": [
-      "To give direct orders",
-      "To describe past habits",
-      "To express certainty about the future"
+      "Чтобы отдавать прямые приказы",
+      "Чтобы описывать привычки в прошлом",
+      "Чтобы выразить уверенность в будущем"
     ],
-    "explanation": " условное наклонение есть commonly used для politeness: '¿Podrías ayudarme?' (Could ты help me?) sounds more polite than '¿Puedes ayudarme?'"
+    "explanation": "Условное наклонение часто используется для вежливости: '¿Podrías ayudarme?' («Не могли бы вы мне помочь?») звучит вежливее, чем '¿Puedes ayudarme?'",
+    "hint": null
   },
   "q_gram_b1_05_004": {
     "question": "Nosotros ___ más si tuviéramos tiempo. (estudiar, условное наклонение, nosotros form)",
@@ -624,15 +626,15 @@
     "conjugation_info": "hacer (future): haré, harás, hará, haremos, haréis, harán"
   },
   "q_gram_b1_07_001": {
-    "question": "Yo ___ mucho este año. (trabajar, настоящее совершенное)",
+    "question": "Yo ___ mucho este año. (trabajar, перфект)",
     "correct": "he trabajado",
     "wrong": [
       "ha trabajado",
       "hemos trabajado",
       "trabajé"
     ],
-    "explanation": " настоящее совершенное uses haber (he/имеет/ha/hemos/habéis/han) + past причастие. Yo: he trabajado.",
-    "hint": "настоящее совершенное = haber (present) + past причастие (-ado/-ido)"
+    "explanation": "Перфект (pretérito perfecto) образуется из глагола haber (he/has/ha/hemos/habéis/han) + причастие прошедшего времени. Yo: he trabajado.",
+    "hint": "Перфект = haber (настоящее время) + причастие (-ado/-ido)"
   },
   "q_gram_b1_07_002": {
     "question": "Ellos ya ___ la carta. (escribir, настоящее совершенное)",
@@ -852,14 +854,15 @@
     "explanation": "'Donde' используется as relative местоимение для places: 'La ciudad donde vivo' = город где I live."
   },
   "q_gram_b1_09_003": {
-    "question": "что does 'lo que' означать когда used as relative местоимение?",
-    "correct": "'What' or 'that which' (referring to an idea or unspecified thing)",
+    "question": "Что означает 'lo que' в роли относительного местоимения?",
+    "correct": "«Что» или «то, что» (относится к идее или неопределённому предмету)",
     "wrong": [
-      "'Who' (referring to a person)",
-      "'Where' (referring to a place)",
-      "'Whose' (indicating possession)"
+      "«Кто» (относится к человеку)",
+      "«Где» (относится к месту)",
+      "«Чей» (указывает на принадлежность)"
     ],
-    "explanation": "'Lo que' означает 'что' или 'который который' и refers к abstract ideas или unspecified things: 'No entiendo lo que dices' = I don't understand что ты're saying."
+    "explanation": "'Lo que' означает «что» или «то, что» и относится к абстрактным понятиям или неопределённым вещам: 'No entiendo lo que dices' = Я не понимаю, что ты говоришь.",
+    "hint": null
   },
   "q_gram_b1_09_004": {
     "question": "La persona con ___ hablé es muy amable. (relative местоимение после preposition, referring к человек)",
@@ -883,15 +886,16 @@
     "explanation": "'Lo que' означает 'что' или 'который который' когда referring к something abstract или unspecified."
   },
   "q_gram_b1_09_006": {
-    "question": "Los estudiantes ___ aprobaron el examen están contentos. (relative местоимение)",
+    "question": "Los estudiantes ___ aprobaron el examen están contentos. (относительное местоимение)",
     "correct": "que",
     "wrong": [
       "quien",
       "donde",
       "quienes"
     ],
-    "explanation": "'Que' используется as subject relative местоимение для both люди и things. это does не change для number.",
-    "conjugation_info": "Relative pronouns: que (people/things), quien/quienes (people after prep), donde (place), lo que (what/который который)"
+    "explanation": "'Que' используется как относительное местоимение в роли подлежащего и для людей, и для предметов. По числу оно не изменяется.",
+    "conjugation_info": "Relative pronouns: que (people/things), quien/quienes (people after prep), donde (place), lo que (what/который который)",
+    "hint": null
   },
   "q_gram_b1_09_007": {
     "question": "La chica ___ hermano estudia conmigo es de México. (relative местоимение для possession)",
@@ -966,14 +970,15 @@
     "explanation": "когда reporting глагол есть в present (dice), Есть NO tense shift: tiene stays as tiene."
   },
   "q_gram_b1_10_004": {
-    "question": "в reported speech, как does время marker 'hoy' change когда reporting глагол есть в past?",
-    "correct": "Hoy changes to 'ese día' or 'aquel día'",
+    "question": "Как меняется указатель времени 'hoy' в косвенной речи, если глагол, вводящий речь, стоит в прошедшем времени?",
+    "correct": "Hoy меняется на 'ese día' или 'aquel día'",
     "wrong": [
-      "Hoy stays the same",
-      "Hoy changes to 'mañana'",
-      "Hoy changes to 'ayer'"
+      "Hoy остаётся без изменений",
+      "Hoy меняется на 'mañana'",
+      "Hoy меняется на 'ayer'"
     ],
-    "explanation": "в reported speech с past reporting глагол, время markers shift: hoy → ese día, aquí → allí, mañana → al día siguiente, ayer → el día anterior."
+    "explanation": "В косвенной речи с вводящим глаголом в прошедшем времени указатели времени сдвигаются: hoy → ese día, aquí → allí, mañana → al día siguiente, ayer → el día anterior.",
+    "hint": null
   },
   "q_gram_b1_10_005": {
     "question": "Ella ___ que vendría a la fiesta. (decir, reported speech, ella, простое прошедшее)",
@@ -1059,14 +1064,15 @@
     "explanation": " passive uses ser conjugated для subject. 'Las casas' есть множественного числа женского рода: fueron construidas."
   },
   "q_gram_b1_11_003": {
-    "question": "что есть difference between passive с 'ser' и passive 'se'?",
-    "correct": "Passive with 'ser' emphasizes the agent; passive 'se' is used when the agent is unknown or unimportant",
+    "question": "В чём разница между пассивом с 'ser' и пассивным 'se'?",
+    "correct": "Пассив с 'ser' подчёркивает исполнителя действия; пассивное 'se' используется, когда исполнитель неизвестен или неважен",
     "wrong": [
-      "There is no difference",
-      "Passive 'se' is only for plural subjects",
-      "Passive with 'ser' is informal and passive 'se' is formal"
+      "Разницы нет",
+      "Пассивное 'se' употребляется только с подлежащим во множественном числе",
+      "Пассив с 'ser' — разговорный, а пассивное 'se' — формальный"
     ],
-    "explanation": "Passive с ser (El libro fue escrito por Cervantes) highlights agent. Passive se (Se venden coches) используется когда agent есть irrelevant."
+    "explanation": "Пассив с ser (El libro fue escrito por Cervantes) выделяет исполнителя. Пассивное se (Se venden coches) используется, когда исполнитель не важен.",
+    "hint": null
   },
   "q_gram_b1_11_004": {
     "question": "La carta ___ por mi secretaria ayer. (enviar, passive voice, простое прошедшее, ella form)",
@@ -1266,14 +1272,15 @@
     "explanation": "Negative tú commands use present сослагательное наклонение: No comas = Don't eat."
   },
   "q_gram_b1_13_003": {
-    "question": "что есть key difference between affirmative и negative tú commands?",
-    "correct": "Affirmative uses a special form (usually like él/ella indicative), while negative uses the present subjunctive",
+    "question": "В чём ключевое различие между утвердительной и отрицательной формами повелительного наклонения для tú?",
+    "correct": "Утвердительная форма особая (обычно совпадает с формой él/ella изъявительного наклонения), а отрицательная использует presente de subjuntivo",
     "wrong": [
-      "Both use the present subjunctive",
-      "Both use the indicative present tense",
-      "Negative commands use the infinitive"
+      "Обе используют presente de subjuntivo",
+      "Обе используют настоящее время изъявительного наклонения",
+      "Отрицательные приказы используют инфинитив"
     ],
-    "explanation": "Affirmative: Habla (special форма). Negative: No hables (сослагательное наклонение). это difference есть important для правильный command formation."
+    "explanation": "Утвердительная: Habla (особая форма). Отрицательная: No hables (сослагательное). Это различие важно для правильного образования повелительных форм.",
+    "hint": null
   },
   "q_gram_b1_13_004": {
     "question": "¡No ___ la puerta! (abrir, negative tú command)",
@@ -1473,14 +1480,15 @@
     "explanation": "'Para' используется к indicate recipient или destination: 'para ti' = для ты."
   },
   "q_gram_b1_15_003": {
-    "question": "что does 'por' express когда used в phrase 'por eso'?",
-    "correct": "Cause or reason (that's why / because of that)",
+    "question": "Что выражает 'por' в выражении 'por eso'?",
+    "correct": "Причину или основание (вот почему / из-за этого)",
     "wrong": [
-      "Purpose or goal",
-      "Destination",
-      "Comparison"
+      "Цель или намерение",
+      "Направление",
+      "Сравнение"
     ],
-    "explanation": "'Por eso' означает 'который's почему' или 'потому что который.' 'Por' expresses cause: Llueve mucho, por eso no salgo."
+    "explanation": "'Por eso' означает «вот почему» или «из-за этого». 'Por' выражает причину: Llueve mucho, por eso no salgo.",
+    "hint": null
   },
   "q_gram_b1_15_004": {
     "question": "Hablamos ___ teléfono todas las noches. (por/para, означает из communication)",
@@ -1650,15 +1658,16 @@
     "conjugation_info": "Verbs + герундий: estar + герундий (progressive), seguir + герундий (continue), pasar tiempo + герундий (spend time), llevar + time + герундий (have been doing)"
   },
   "q_gram_b1_16_010": {
-    "question": "Los estudiantes llevan dos horas ___ para el examen. (estudiar, герундий с 'llevar + время', ellos form)",
+    "question": "Los estudiantes llevan dos horas ___ para el examen. (estudiar, герундий с 'llevar + время', форма ellos)",
     "correct": "estudiando",
     "wrong": [
       "estudiar",
       "estudiado",
       "estudian"
     ],
-    "explanation": "'Llevar + время + герундий' означает 'к иметь been doing something для period': llevan dos horas estudiando = они иметь been studying для two hours.",
-    "conjugation_info": "llevar + time + герундий: Llevo una hora esperando (I've been waiting для hour). Llevan dos horas estudiando (They've been studying для two hours)."
+    "explanation": "'Llevar + время + герундий' означает «заниматься чем-то в течение какого-то времени»: llevan dos horas estudiando = они занимаются уже два часа.",
+    "conjugation_info": "llevar + time + герундий: Llevo una hora esperando (I've been waiting для hour). Llevan dos horas estudiando (They've been studying для two hours).",
+    "hint": null
   },
   "q_gram_b1_17_001": {
     "question": "Cuando ___ a casa, cenaré. (llegar, adverbial conjunction с future значение)",
@@ -1797,14 +1806,15 @@
     "explanation": "Estar + past причастие describes state resulting от action: está abierta = есть open (someone opened это)."
   },
   "q_gram_b1_18_004": {
-    "question": "что есть difference between 'ser malo' и 'estar malo'?",
-    "correct": "'Ser malo' means 'to be bad/evil' (character), 'estar malo' means 'to be sick/ill' (condition)",
+    "question": "В чём разница между 'ser malo' и 'estar malo'?",
+    "correct": "'Ser malo' значит «быть плохим/злым» (характер), 'estar malo' значит «быть больным» (состояние)",
     "wrong": [
-      "They mean the same thing",
-      "'Ser malo' means sick, 'estar malo' means bad",
-      "'Ser malo' is formal, 'estar malo' is informal"
+      "Они значат одно и то же",
+      "'Ser malo' значит «больной», 'estar malo' значит «плохой»",
+      "'Ser malo' — формальное выражение, 'estar malo' — неформальное"
     ],
-    "explanation": "Ser malo = плохой человек/thing (inherent quality). Estar malo = feeling sick (временный condition). пример: Él es malo (He есть плохой) vs. Él está malo (He есть sick)."
+    "explanation": "Ser malo = плохой человек/предмет (присущее качество). Estar malo = плохо себя чувствовать (временное состояние). Пример: Él es malo (Он плохой) и Él está malo (Он болен).",
+    "hint": null
   },
   "q_gram_b1_18_005": {
     "question": "El edificio ___ construido en 1990. (ser/estar, passive action)",

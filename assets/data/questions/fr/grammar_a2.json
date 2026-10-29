@@ -551,14 +551,15 @@
     "explanation": "'A ti' requires Le/La indirect object pronom 'te'. Gustar est couramment used avec IOPs."
   },
   "q_gram_a2_06_004": {
-    "question": "Que question does Le/La indirect object pronom answer?",
-    "correct": "To whom / for whom",
+    "question": "À quelle question répond le pronom complément d'objet indirect ?",
+    "correct": "À qui / pour qui",
     "wrong": [
-      "What / whom (direct receiver of action)",
-      "Where / when",
-      "How / why"
+      "Quoi / qui (receveur direct de l'action)",
+      "Où / quand",
+      "Comment / pourquoi"
     ],
-    "explanation": "Indirect object pronoms answer 'à whom?' ou 'pour whom?' -- Le doy el libro = I give Le/La book À HIM/HER."
+    "explanation": "Les pronoms compléments d'objet indirect répondent à « à qui ? » ou « pour qui ? » -- Le doy el libro = Je donne le livre À LUI/ELLE.",
+    "hint": null
   },
   "q_gram_a2_06_005": {
     "question": "Yo ___ escribo una carta a mis abuelos. (IOP pour 'a mis abuelos')",
@@ -1887,14 +1888,15 @@
     "explanation": "'Que' signifie 'qui' quand referring à personnes as le sujet de Le/La relative clause."
   },
   "q_gram_a2_19_003": {
-    "question": "Comment does 'que' differ de Anglais 'Cela/quel/qui' dans relative clauses?",
-    "correct": "In Spanish, 'que' can never be omitted, unlike English",
+    "question": "En quoi « que » diffère-t-il de « that/which/who » de l'anglais dans les propositions relatives ?",
+    "correct": "En espagnol, « que » ne peut jamais être omis, contrairement à l'anglais",
     "wrong": [
-      "In Spanish, 'que' is optional just like in English",
-      "In Spanish, 'que' is only used with people",
-      "In Spanish, 'que' changes form based on gender"
+      "En espagnol, « que » est facultatif, comme en anglais",
+      "En espagnol, « que » ne s'emploie qu'avec des personnes",
+      "En espagnol, « que » change de forme selon le genre"
     ],
-    "explanation": "En anglais, sur peut dire 'Le/La book I read' (omitting 'Cela'). En espagnol, 'que' est Toujours required: El libro que leo."
+    "explanation": "En anglais, on peut dire « The book I read » (en omettant « that »). En espagnol, « que » est TOUJOURS obligatoire : El libro que leo.",
+    "hint": null
   },
   "q_gram_a2_19_004": {
     "question": "La casa en ___ vivo es pequeña. (que avec preposition)",
@@ -2001,14 +2003,15 @@
     "explanation": "Quand 'le' (IOP) vient avant 'lo/la/los/las' (DOP), 'le' change en 'se': se los doy."
   },
   "q_gram_a2_20_004": {
-    "question": "Pourquoi does 'le' change en 'se' dans combined object pronoms?",
-    "correct": "To avoid the awkward sound of 'le lo' or 'le la'",
+    "question": "Pourquoi « le » devient-il « se » dans les pronoms compléments combinés ?",
+    "correct": "Pour éviter le son disgracieux de « le lo » ou « le la »",
     "wrong": [
-      "Because 'le' is only used alone",
-      "Because 'se' means something completely different",
-      "Because 'le' is only for indirect objects with gustar"
+      "Parce que « le » ne s'emploie que seul",
+      "Parce que « se » a un sens complètement différent",
+      "Parce que « le » ne sert que pour les objets indirects avec gustar"
     ],
-    "explanation": "Espagnol avoids 'le lo / le la / les los / les las' parce que ils sound awkward. 'Le/les' becomes 'se' avant n'importe quel DOP."
+    "explanation": "L'espagnol évite « le lo / le la / les los / les las » parce que ces suites sonnent mal. « Le/les » devient « se » devant tout pronom COD.",
+    "hint": null
   },
   "q_gram_a2_20_005": {
     "question": "¿Puedes dar___ ___ ? (combine: me + lo, attached à infinitif)",

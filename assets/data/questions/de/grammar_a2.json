@@ -813,14 +813,15 @@
     "explanation": "Für ella, ir conjugates zu 'va': va a cocinar."
   },
   "q_gram_a2_08_004": {
-    "question": "War does 'ir a + Infinitiv' express?",
-    "correct": "Plans, intentions, or near future actions",
+    "question": "Was drückt 'ir a + Infinitiv' aus?",
+    "correct": "Pläne, Absichten oder Handlungen in naher Zukunft",
     "wrong": [
-      "Completed past actions",
-      "Habitual actions in the present",
-      "Ongoing actions right now"
+      "Abgeschlossene Handlungen in der Vergangenheit",
+      "Gewohnheitsmäßige Handlungen in der Gegenwart",
+      "Handlungen, die gerade jetzt ablaufen"
     ],
-    "explanation": "'Ir a + Infinitiv' drückt aus war someone ist going zu do -- plans, intentions, und near Zukunft events."
+    "explanation": "'Ir a + Infinitiv' drückt aus, was jemand vorhat zu tun – Pläne, Absichten und Ereignisse in naher Zukunft.",
+    "hint": null
   },
   "q_gram_a2_08_005": {
     "question": "¿Ustedes ___ a ver la película esta noche? (ir, ustedes form)",
@@ -1646,25 +1647,27 @@
     "hint": null
   },
   "q_gram_a2_16_001": {
-    "question": "¡___ tu tarea ahora! (hacer, affirmative tú command — Unregelmäßig)",
+    "question": "¡___ tu tarea ahora! (hacer, bejahender tú-Imperativ — unregelmäßig)",
     "correct": "Haz",
     "wrong": [
       "Hace",
       "Haces",
       "Hagas"
     ],
-    "explanation": "'Hacer' hat an Unregelmäßig tú command: haz. Es does not follow der/die/das Regelmäßig pattern.",
-    "conjugation_info": "IrRegelmäßig tú commands: pon, sal, ven, ten, haz, di, sé, ve"
+    "explanation": "'Hacer' hat einen unregelmäßigen tú-Imperativ: haz. Er folgt nicht dem regelmäßigen Muster.",
+    "conjugation_info": "IrRegelmäßig tú commands: pon, sal, ven, ten, haz, di, sé, ve",
+    "hint": null
   },
   "q_gram_a2_16_002": {
-    "question": "¡___ la puerta, por favor! (abrir, affirmative tú command)",
+    "question": "¡___ la puerta, por favor! (abrir, bejahender tú-Imperativ)",
     "correct": "Abre",
     "wrong": [
       "Abres",
       "Abra",
       "Abrir"
     ],
-    "explanation": "Regelmäßig affirmative tú commands use der/die/das 3rd Person Singular Präsens form: abre (von abrir)."
+    "explanation": "Regelmäßige bejahende tú-Imperative entsprechen der 3. Person Singular Präsens: abre (von abrir).",
+    "hint": null
   },
   "q_gram_a2_16_003": {
     "question": "¡___ más despacio, por favor! (hablar, affirmative tú command)",
@@ -1687,25 +1690,27 @@
     "explanation": "Regelmäßig affirmative tú commands = él/ella/usted Präsens Indikativ: habla (speaks → speak!), come (eats → eat!), escribe (writes → write!)."
   },
   "q_gram_a2_16_005": {
-    "question": "¡___me la verdad! (decir, affirmative tú command + Pronomen — Unregelmäßig)",
+    "question": "¡___me la verdad! (decir, bejahender tú-Imperativ + Pronomen — unregelmäßig)",
     "correct": "Di",
     "wrong": [
       "Dice",
       "Deci",
       "Diga"
     ],
-    "explanation": "'Decir' hat der/die/das Unregelmäßig tú command 'di'. ProNomens attach zu der/die/das end: ¡Dime!",
-    "conjugation_info": "IrRegelmäßig tú commands: di (decir), haz (hacer), ve (ir), pon (poner), sal (salir), sé (ser), ten (tener), ven (venir)"
+    "explanation": "'Decir' hat den unregelmäßigen tú-Imperativ 'di'. Pronomen werden hinten angehängt: ¡Dime!",
+    "conjugation_info": "IrRegelmäßig tú commands: di (decir), haz (hacer), ve (ir), pon (poner), sal (salir), sé (ser), ten (tener), ven (venir)",
+    "hint": null
   },
   "q_gram_a2_16_006": {
-    "question": "¡___ de la casa inmediatamente! (salir, affirmative tú command — Unregelmäßig)",
+    "question": "¡___ de la casa inmediatamente! (salir, bejahender tú-Imperativ — unregelmäßig)",
     "correct": "Sal",
     "wrong": [
       "Sale",
       "Sales",
       "Salga"
     ],
-    "explanation": "'Salir' hat der/die/das Unregelmäßig tú command 'sal'."
+    "explanation": "'Salir' hat den unregelmäßigen tú-Imperativ 'sal'.",
+    "hint": null
   },
   "q_gram_a2_16_007": {
     "question": "Iss jetzt dein Gemüse!",
@@ -1719,14 +1724,15 @@
     "hint": null
   },
   "q_gram_a2_16_008": {
-    "question": "¡___ aquí, por favor! Necesito hablar contigo. (venir, affirmative tú command — Unregelmäßig)",
+    "question": "¡___ aquí, por favor! Necesito hablar contigo. (venir, bejahender tú-Imperativ — unregelmäßig)",
     "correct": "Ven",
     "wrong": [
       "Viene",
       "Vienes",
       "Venga"
     ],
-    "explanation": "'Venir' hat der/die/das Unregelmäßig tú command 'ven'."
+    "explanation": "'Venir' hat den unregelmäßigen tú-Imperativ 'ven'.",
+    "hint": null
   },
   "q_gram_a2_16_009": {
     "question": "¡Pon la mesa y después ven a comer!",
@@ -1771,14 +1777,15 @@
     "explanation": "'Por' wird verwendet für reason/cause: Gracias por tu ayuda = Thanks für (weil von) dein help."
   },
   "q_gram_a2_17_003": {
-    "question": "War does 'para' generally express?",
-    "correct": "Purpose, destination, deadline, or recipient",
+    "question": "Was drückt 'para' im Allgemeinen aus?",
+    "correct": "Zweck, Ziel, Frist oder Empfänger",
     "wrong": [
-      "Reason, exchange, duration, or movement through",
-      "Only future time expressions",
-      "Only movement and location"
+      "Grund, Tausch, Dauer oder Bewegung durch etwas hindurch",
+      "Nur zukünftige Zeitangaben",
+      "Nur Bewegung und Ort"
     ],
-    "explanation": "Para = purpose (para estudiar), destination (para Madrid), deadline (para mañana), recipient (para ti)."
+    "explanation": "Para = Zweck (para estudiar), Ziel (para Madrid), Frist (para mañana), Empfänger (para ti).",
+    "hint": null
   },
   "q_gram_a2_17_004": {
     "question": "Caminamos ___ el parque todas las mañanas. (por — through/along)",
@@ -1922,14 +1929,15 @@
     "explanation": "'Tampoco' bedeutet 'neither/either' (negative counterpart von 'también'): Yo tampoco quiero ir."
   },
   "q_gram_a2_18_007": {
-    "question": "I haben nie been zu Spain.",
+    "question": "Ich war noch nie in Spanien.",
     "correct": "Nunca he estado en España.",
     "wrong": [
       "No nunca he estado en España.",
       "No he estado nunca España.",
       "Jamás no he estado en España."
     ],
-    "explanation": "'Nunca' vor das Verb = no 'no' needed: Nunca he estado. (Alternatively: No he estado nunca en España.)"
+    "explanation": "'Nunca' vor dem Verb = kein 'no' nötig: Nunca he estado. (Alternativ: No he estado nunca en España.)",
+    "hint": null
   },
   "q_gram_a2_18_008": {
     "question": "No hay ___ libro sobre ese tema en la biblioteca. (Verneinung: kein)",
@@ -1971,7 +1979,7 @@
       "quien",
       "donde"
     ],
-    "explanation": "'Que' ist das häufigste Relativpronomen im Spanischen und bedeutet 'der/die/das, welche(r/s)'. Es verbindet Satzteile.",
+    "explanation": "'Que' ist das häufigste Relativpronomen im Spanischen und bedeutet 'der/die/das, welche(r/s)'. Es verbindet Satzteile miteinander.",
     "hint": "Im Spanischen wird das Relativpronomen 'que' nie weggelassen"
   },
   "q_gram_a2_19_002": {
@@ -2107,14 +2115,15 @@
     "explanation": "Wann 'le' (IOP) comes vor 'lo/la/los/las' (DOP), 'le' ändert sich zu 'se': se los doy."
   },
   "q_gram_a2_20_004": {
-    "question": "Warum does 'le' change zu 'se' in combined Objekt Pronomens?",
-    "correct": "To avoid the awkward sound of 'le lo' or 'le la'",
+    "question": "Warum wird 'le' bei kombinierten Objektpronomen zu 'se'?",
+    "correct": "Um den unschönen Klang von 'le lo' oder 'le la' zu vermeiden",
     "wrong": [
-      "Because 'le' is only used alone",
-      "Because 'se' means something completely different",
-      "Because 'le' is only for indirect objects with gustar"
+      "Weil 'le' nur allein verwendet wird",
+      "Weil 'se' etwas völlig anderes bedeutet",
+      "Weil 'le' nur für indirekte Objekte mit gustar gilt"
     ],
-    "explanation": "Spanisch avoids 'le lo / le la / les los / les las' weil sie sound awkward. 'Le/les' becomes 'se' vor any DOP."
+    "explanation": "Das Spanische meidet 'le lo / le la / les los / les las', weil es unschön klingt. 'Le/les' wird vor jedem direkten Objektpronomen zu 'se'.",
+    "hint": null
   },
   "q_gram_a2_20_005": {
     "question": "¿Puedes dar___ ___ ? (combine: me + lo, attached zu Infinitiv)",

@@ -101,10 +101,11 @@
     "correct": "La mano está fría.",
     "wrong": [
       "El mano está frío.",
-      "La mano es fría.",
+      "La mano está frío.",
       "Las manos están frías."
     ],
-    "explanation": "'mano' is feminine despite ending in -o (a key exception).\nWe use 'está' because feeling cold is a temporary state.\n- la mano fría (feminine adjective agreement)"
+    "explanation": "'mano' is feminine despite ending in -o (a key exception).\nWe use 'está' because feeling cold is a temporary state.\n- la mano fría (feminine adjective agreement)",
+    "hint": null
   },
   "q_gram_a1_02_001": {
     "question": "Voy ___ parque. (fill in: a + el)",
@@ -246,15 +247,16 @@
     "explanation": "'unas' is the feminine plural indefinite article meaning 'some'.\n- un (m. sg.), una (f. sg.), unos (m. pl.), unas (f. pl.)"
   },
   "q_gram_a1_03_004": {
-    "question": "Soy ___. (I am a teacher.) (conjugate the appropriate response)",
+    "question": "Soy ___. (I am a teacher.)",
     "correct": "profesor",
     "wrong": [
       "un profesor",
       "el profesor",
       "una profesora"
     ],
-    "explanation": "In Spanish, the indefinite article is omitted with professions after ser.\n- Soy profesor. (correct)\n- Soy un profesor. (incorrect in standard Spanish)\nThis rule applies to nationalities too: Soy español.",
-    "conjugation_info": "Ser + profession: no article needed. Soy profesor, Soy estudiante, Soy médico."
+    "explanation": "In Spanish, the indefinite article is normally omitted with an unmodified profession after ser.\n- Soy profesor. (correct)\n- Soy un profesor muy bueno. (the article is used when an adjective or modifier is added)\nThis rule applies to nationalities too: Soy español.",
+    "conjugation_info": "Ser + profession: no article needed. Soy profesor, Soy estudiante, Soy médico.",
+    "hint": null
   },
   "q_gram_a1_03_005": {
     "question": "Barcelona es ___ ciudad bonita.",
@@ -268,7 +270,7 @@
     "hint": "ciudad is a feminine noun"
   },
   "q_gram_a1_03_006": {
-    "question": "No hay ___. (There is no problem.)",
+    "question": "no hay ___. (There is no problem.)",
     "correct": "problema",
     "wrong": [
       "un problema",
@@ -276,7 +278,8 @@
       "problemas"
     ],
     "explanation": "After negative 'no hay', the indefinite article is omitted.\n- No hay problema. (correct)\n- No hay azúcar. (There is no sugar.)\nThe article is dropped in negative existential statements.",
-    "conjugation_info": "Omit indefinite article after: sin (without), no hay (there isn't), and with professions after ser."
+    "conjugation_info": "Omit indefinite article after: sin (without), no hay (there isn't), and with professions after ser.",
+    "hint": null
   },
   "q_gram_a1_03_007": {
     "question": "Café ___ azúcar, por favor. (Coffee without sugar)",
@@ -364,15 +367,16 @@
     "explanation": "'usted' is the formal singular 'you', used with strangers, elders, and in professional settings.\n- tú = informal 'you'\n- usted = formal 'you' (takes 3rd person verb forms)"
   },
   "q_gram_a1_04_005": {
-    "question": "___ es la profesora. (conjugate ser for the 3rd person)",
+    "question": "___ es la profesora. (she)",
     "correct": "Ella",
     "wrong": [
       "Él",
       "Yo",
       "Nosotros"
     ],
-    "explanation": "'Ella' means 'she' and is used for a female subject.\n- Ella es la profesora = She is the teacher.\n- Él es el profesor = He is the teacher.",
-    "conjugation_info": "3rd person pronouns: él (he), ella (she), usted (you formal)"
+    "explanation": "'Ella' means 'she' and is used for a female subject. 'La profesora' is feminine, which is why 'ella' fits.\n- Ella es la profesora = She is the teacher.\n- Él es el profesor = He is the teacher.",
+    "conjugation_info": "3rd person pronouns: él (he), ella (she), usted (you formal)",
+    "hint": null
   },
   "q_gram_a1_04_006": {
     "question": "En España, ___ coméis paella.",
@@ -407,17 +411,18 @@
     "hint": "Note the accent mark that distinguishes this pronoun from the article"
   },
   "q_gram_a1_04_009": {
-    "question": "¿___ es usted?",
+    "question": "¿___ es usted? – Soy Ana García. (Who are you?)",
     "correct": "Quién",
     "wrong": [
-      "Qué",
-      "Cómo",
-      "Dónde"
+      "Dónde",
+      "Cuándo",
+      "Cuál"
     ],
-    "explanation": "When asking about identity with 'usted', '¿Quién es usted?' means 'Who are you?' (formal).\nNote that 'usted' takes the same verb form as él/ella (3rd person singular).\n- ¿Quién es usted? (formal) vs ¿Quién eres tú? (informal)"
+    "explanation": "When asking about identity with 'usted', '¿Quién es usted?' means 'Who are you?' (formal).\nNote that 'usted' takes the same verb form as él/ella (3rd person singular).\n- ¿Quién es usted? (formal) vs ¿Quién eres tú? (informal)",
+    "hint": null
   },
   "q_gram_a1_04_010": {
-    "question": "Yo hablo español, ___ habla francés. (conjugate with the correct pronoun for 'she')",
+    "question": "Yo hablo español, ___ habla francés. (she)",
     "correct": "ella",
     "wrong": [
       "él",
@@ -425,7 +430,8 @@
       "usted"
     ],
     "explanation": "Pronouns are used for emphasis or to clarify who is being talked about.\n- Yo hablo español, ella habla francés.\n- Without pronouns, 'habla francés' could mean he/she/you(formal) speaks French.",
-    "conjugation_info": "Use pronouns for emphasis: Yo hablo... ella habla... vs just Hablo... Habla..."
+    "conjugation_info": "Use pronouns for emphasis: Yo hablo... ella habla... vs just Hablo... Habla...",
+    "hint": null
   },
   "q_gram_a1_05_001": {
     "question": "Yo ___ estudiante.",
@@ -553,7 +559,7 @@
       "estoy",
       "están"
     ],
-    "explanation": "Estar is used to express location.\n- El gato está en la mesa. = The cat is on the table.\n- Location always uses estar (not ser).",
+    "explanation": "Estar is used to express location.\n- El gato está en la mesa. = The cat is on the table.\n- Estar is used for the location of people and things.",
     "hint": "Which verb is used for location?"
   },
   "q_gram_a1_06_003": {
@@ -638,8 +644,9 @@
       "está",
       "estamos"
     ],
-    "explanation": "The tú form of 'estar' is 'estás'.\n- ¿Dónde estás? = Where are you?\nEstar is always used for asking about location.",
-    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están"
+    "explanation": "The tú form of 'estar' is 'estás'.\n- ¿Dónde estás? = Where are you?\nEstar is used to ask where a person or thing is.",
+    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están",
+    "hint": null
   },
   "q_gram_a1_07_001": {
     "question": "María ___ doctora.",

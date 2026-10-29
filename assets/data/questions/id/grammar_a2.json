@@ -21,14 +21,15 @@
     "explanation": "Querer changes e→ie di ini/itu ellos form: quieren. ini/itu boot pattern applies ke semua forms except nosotros/vosotros."
   },
   "q_gram_a2_01_003": {
-    "question": "apa does 'boot pattern' berarti di ini/itu context dari Spanyol akar kata-changing verbs?",
-    "correct": "The stem change applies to all forms except nosotros and vosotros",
+    "question": "Apa arti 'boot pattern' dalam konteks kata kerja berubah batang (stem-changing) bahasa Spanyol?",
+    "correct": "Perubahan batang berlaku untuk semua bentuk kecuali nosotros dan vosotros",
     "wrong": [
-      "The stem change applies only to the yo form",
-      "The stem change applies to all six conjugation forms",
-      "The stem change only happens in the past tense"
+      "Perubahan batang hanya berlaku untuk bentuk yo",
+      "Perubahan batang berlaku untuk keenam bentuk konjugasi",
+      "Perubahan batang hanya terjadi di waktu lampau"
     ],
-    "explanation": "ini/itu 'boot pattern' (atau 'shoe pattern') berarti ini/itu akar kata change occurs di yo, tú, él/ella, dan ellos/ellas forms, tetapi NOT di nosotros atau vosotros."
+    "explanation": "'Boot pattern' (atau 'pola sepatu bot') berarti perubahan batang terjadi pada bentuk yo, tú, él/ella, dan ellos/ellas, tetapi TIDAK pada nosotros dan vosotros.",
+    "hint": null
   },
   "q_gram_a2_01_004": {
     "question": "Nosotros ___ la lección. (entender, e→ie, nosotros form)",
@@ -551,14 +552,15 @@
     "explanation": "'A ti' requires ini/itu indirect object kata ganti 'te'. Gustar adalah commonly used dengan IOPs."
   },
   "q_gram_a2_06_004": {
-    "question": "apa question does ini/itu indirect object kata ganti answer?",
-    "correct": "To whom / for whom",
+    "question": "Pertanyaan apa yang dijawab oleh pronomina objek tak langsung?",
+    "correct": "Kepada siapa / untuk siapa",
     "wrong": [
-      "What / whom (direct receiver of action)",
-      "Where / when",
-      "How / why"
+      "Apa / siapa (penerima langsung tindakan)",
+      "Di mana / kapan",
+      "Bagaimana / mengapa"
     ],
-    "explanation": "Indirect object pronouns answer 'ke whom?' atau 'untuk whom?' -- Le doy el libro = I give ini/itu book ke HIM/HER."
+    "explanation": "Pronomina objek tak langsung menjawab 'kepada siapa?' atau 'untuk siapa?' -- Le doy el libro = Saya memberikan buku itu KEPADANYA.",
+    "hint": null
   },
   "q_gram_a2_06_005": {
     "question": "Yo ___ escribo una carta a mis abuelos. (IOP untuk 'a mis abuelos')",
@@ -634,24 +636,26 @@
     "hint": "Present progressive = estar (conjugated) + -ando/-iendo"
   },
   "q_gram_a2_07_002": {
-    "question": "Los niños están ___ en el parque. (jugar, gerundium)",
+    "question": "Los niños están ___ en el parque. (jugar, gerundio)",
     "correct": "jugando",
     "wrong": [
       "jugiendo",
       "juegando",
       "jugado"
     ],
-    "explanation": "ini/itu gerundium dari -ar verbs berakhiran -ando: jugando. ini/itu akar kata change does NOT apply ke beraturan gerunds dari -ar verbs."
+    "explanation": "Gerundio kata kerja -ar berakhiran -ando: jugando. Perubahan batang TIDAK berlaku pada gerundio beraturan kata kerja -ar.",
+    "hint": null
   },
   "q_gram_a2_07_003": {
-    "question": "apa does ini/itu present progressive (estar + gerundium) express dalam bahasa Spanyol?",
-    "correct": "An action happening right now, at this moment",
+    "question": "Apa yang diungkapkan oleh present progresivo (estar + gerundio) dalam bahasa Spanyol?",
+    "correct": "Tindakan yang sedang terjadi saat ini, pada saat ini juga",
     "wrong": [
-      "A habitual action that happens regularly",
-      "An action that will happen in the future",
-      "An action completed in the past"
+      "Tindakan kebiasaan yang terjadi secara teratur",
+      "Tindakan yang akan terjadi di masa depan",
+      "Tindakan yang sudah selesai di masa lalu"
     ],
-    "explanation": "ini/itu present progressive (estoy hablando) emphasizes itu an action adalah di progress right NOW. Unlike Inggris, itu adalah NOT used untuk habitual actions."
+    "explanation": "Present progresivo (estoy hablando) menekankan bahwa suatu tindakan sedang berlangsung SEKARANG. Berbeda dengan bahasa Inggris, bentuk ini TIDAK dipakai untuk tindakan kebiasaan.",
+    "hint": null
   },
   "q_gram_a2_07_004": {
     "question": "Ella está ___ un libro interesante. (leer, gerundium — tak beraturan)",
@@ -758,14 +762,15 @@
     "explanation": "untuk ella, ir conjugates ke 'va': va a cocinar."
   },
   "q_gram_a2_08_004": {
-    "question": "apa does 'ir a + infinitif' express?",
-    "correct": "Plans, intentions, or near future actions",
+    "question": "Apa yang diungkapkan oleh 'ir a + infinitivo'?",
+    "correct": "Rencana, niat, atau tindakan di masa depan dekat",
     "wrong": [
-      "Completed past actions",
-      "Habitual actions in the present",
-      "Ongoing actions right now"
+      "Tindakan lampau yang sudah selesai",
+      "Tindakan kebiasaan di masa kini",
+      "Tindakan yang sedang berlangsung sekarang"
     ],
-    "explanation": "'Ir a + infinitif' expresses apa someone adalah going ke do -- plans, intentions, dan near future events."
+    "explanation": "'Ir a + infinitivo' mengungkapkan apa yang akan dilakukan seseorang -- rencana, niat, dan peristiwa di masa depan dekat.",
+    "hint": null
   },
   "q_gram_a2_08_005": {
     "question": "¿Ustedes ___ a ver la película esta noche? (ir, ustedes form)",
@@ -965,14 +970,15 @@
     "explanation": "Poder memiliki an tak beraturan pretérito akar kata: pud-. Nosotros: pudimos."
   },
   "q_gram_a2_10_004": {
-    "question": "apa adalah special about ini/itu pretérito forms dari 'ir' dan 'ser'?",
-    "correct": "They share the exact same conjugation forms",
+    "question": "Apa yang istimewa dari bentuk pretérito 'ir' dan 'ser'?",
+    "correct": "Keduanya memiliki bentuk konjugasi yang persis sama",
     "wrong": [
-      "They both have regular preterite endings",
-      "Only 'ir' is irregular in the preterite",
-      "They have different stems but the same endings"
+      "Keduanya memiliki akhiran pretérito yang beraturan",
+      "Hanya 'ir' yang tidak beraturan di pretérito",
+      "Keduanya memiliki batang yang berbeda tetapi akhiran yang sama"
     ],
-    "explanation": "Ir dan ser share identical pretérito forms: fui, fuiste, fue, fuimos, fuisteis, fueron. Context determines which kata kerja adalah meant."
+    "explanation": "Ir dan ser memiliki bentuk pretérito yang identik: fui, fuiste, fue, fuimos, fuisteis, fueron. Konteks menentukan kata kerja mana yang dimaksud.",
+    "hint": null
   },
   "q_gram_a2_10_005": {
     "question": "¿Dónde ___ tú las llaves? (poner, pretérito, tú form)",
@@ -1473,14 +1479,15 @@
     "explanation": "ini/itu superlative 'paling' = 'más': el más caro de la ciudad."
   },
   "q_gram_a2_15_003": {
-    "question": "apa does ini/itu absolute superlative suffix '-ísimo/a' express?",
-    "correct": "An extremely high degree of a quality (very, very)",
+    "question": "Apa yang diungkapkan oleh sufiks superlatif absolut '-ísimo/a'?",
+    "correct": "Tingkat sifat yang sangat tinggi (sangat, sangat)",
     "wrong": [
-      "A comparison between two things",
-      "The lowest degree of a quality",
-      "A comparison among three or more things"
+      "Perbandingan antara dua hal",
+      "Tingkat sifat yang paling rendah",
+      "Perbandingan di antara tiga hal atau lebih"
     ],
-    "explanation": "ini/itu absolute superlative -ísimo/a berarti 'extremely' atau 'sangat, sangat': grandísimo = extremely big, facilísimo = extremely easy."
+    "explanation": "Superlatif absolut -ísimo/a berarti 'amat' atau 'sangat, sangat': grandísimo = sangat besar, facilísimo = sangat mudah.",
+    "hint": null
   },
   "q_gram_a2_15_004": {
     "question": "La pizza está ___. (caliente → absolute superlative -ísimo/a form)",
@@ -1556,15 +1563,16 @@
     "explanation": "'La más amable de' = ini/itu kindest di (superlative). 'Riquísimo' = extremely delicious (absolute superlative)."
   },
   "q_gram_a2_16_001": {
-    "question": "¡___ tu tarea ahora! (hacer, affirmative tú command — tak beraturan)",
+    "question": "¡___ tu tarea ahora! (hacer, perintah afirmatif tú — tidak beraturan)",
     "correct": "Haz",
     "wrong": [
       "Hace",
       "Haces",
       "Hagas"
     ],
-    "explanation": "'Hacer' memiliki an tak beraturan tú command: haz. itu does not follow ini/itu beraturan pattern.",
-    "conjugation_info": "Irregular tú commands: pon, sal, ven, ten, haz, di, sé, ve"
+    "explanation": "'Hacer' memiliki perintah tú yang tidak beraturan: haz. Bentuk ini tidak mengikuti pola reguler.",
+    "conjugation_info": "Irregular tú commands: pon, sal, ven, ten, haz, di, sé, ve",
+    "hint": null
   },
   "q_gram_a2_16_002": {
     "question": "¡___ la puerta, por favor! (abrir, affirmative tú command)",
@@ -1680,14 +1688,15 @@
     "explanation": "'Por' digunakan untuk reason/cause: Gracias por tu ayuda = Thanks untuk (karena dari) milikmu help."
   },
   "q_gram_a2_17_003": {
-    "question": "apa does 'para' generally express?",
-    "correct": "Purpose, destination, deadline, or recipient",
+    "question": "Apa yang secara umum diungkapkan oleh 'para'?",
+    "correct": "Tujuan, tempat tujuan, batas waktu, atau penerima",
     "wrong": [
-      "Reason, exchange, duration, or movement through",
-      "Only future time expressions",
-      "Only movement and location"
+      "Alasan, pertukaran, durasi, atau gerakan melewati suatu tempat",
+      "Hanya ungkapan waktu masa depan",
+      "Hanya gerakan dan lokasi"
     ],
-    "explanation": "Para = purpose (para estudiar), destination (para Madrid), deadline (para mañana), recipient (para ti)."
+    "explanation": "Para = tujuan (para estudiar), tempat tujuan (para Madrid), batas waktu (para mañana), penerima (para ti).",
+    "hint": null
   },
   "q_gram_a2_17_004": {
     "question": "Caminamos ___ el parque todas las mañanas. (por — through/along)",
@@ -1825,14 +1834,15 @@
     "explanation": "'Tampoco' berarti 'neither/either' (negative counterpart dari 'también'): Yo tampoco quiero ir."
   },
   "q_gram_a2_18_007": {
-    "question": "I memiliki tidak pernah been ke Spain.",
+    "question": "Saya belum pernah pergi ke Spanyol.",
     "correct": "Nunca he estado en España.",
     "wrong": [
       "No nunca he estado en España.",
       "No he estado nunca España.",
       "Jamás no he estado en España."
     ],
-    "explanation": "'Nunca' sebelum kata kerja = no 'no' needed: Nunca he estado. (Alternatively: No he estado nunca en España.)"
+    "explanation": "'Nunca' sebelum kata kerja = tidak perlu 'no': Nunca he estado. (Alternatif: No he estado nunca en España.)",
+    "hint": null
   },
   "q_gram_a2_18_008": {
     "question": "No hay ___ libro sobre ese tema en la biblioteca. (negative: not any/no)",
@@ -1887,14 +1897,15 @@
     "explanation": "'Que' berarti 'siapa' kapan referring ke orang as subjek dari ini/itu relative clause."
   },
   "q_gram_a2_19_003": {
-    "question": "bagaimana does 'que' differ dari Inggris 'itu/which/siapa' di relative clauses?",
-    "correct": "In Spanish, 'que' can never be omitted, unlike English",
+    "question": "Apa perbedaan 'que' dengan 'that/which/who' dalam bahasa Inggris pada klausa relatif?",
+    "correct": "Dalam bahasa Spanyol, 'que' tidak pernah boleh dihilangkan, berbeda dengan bahasa Inggris",
     "wrong": [
-      "In Spanish, 'que' is optional just like in English",
-      "In Spanish, 'que' is only used with people",
-      "In Spanish, 'que' changes form based on gender"
+      "Dalam bahasa Spanyol, 'que' bersifat opsional seperti dalam bahasa Inggris",
+      "Dalam bahasa Spanyol, 'que' hanya dipakai untuk orang",
+      "Dalam bahasa Spanyol, 'que' berubah bentuk menurut gender"
     ],
-    "explanation": "dalam bahasa Inggris, kamu bisa mengatakan 'ini/itu book I read' (omitting 'itu'). dalam bahasa Spanyol, 'que' adalah selalu required: El libro que leo."
+    "explanation": "Dalam bahasa Inggris, kita bisa mengatakan 'The book I read' (tanpa 'that'). Dalam bahasa Spanyol, 'que' SELALU diperlukan: El libro que leo.",
+    "hint": null
   },
   "q_gram_a2_19_004": {
     "question": "La casa en ___ vivo es pequeña. (que dengan preposition)",
@@ -2001,14 +2012,15 @@
     "explanation": "kapan 'le' (IOP) comes sebelum 'lo/la/los/las' (DOP), 'le' changes ke 'se': se los doy."
   },
   "q_gram_a2_20_004": {
-    "question": "Why does 'le' change ke 'se' di combined object pronouns?",
-    "correct": "To avoid the awkward sound of 'le lo' or 'le la'",
+    "question": "Mengapa 'le' berubah menjadi 'se' dalam gabungan pronomina objek?",
+    "correct": "Untuk menghindari bunyi yang janggal dari 'le lo' atau 'le la'",
     "wrong": [
-      "Because 'le' is only used alone",
-      "Because 'se' means something completely different",
-      "Because 'le' is only for indirect objects with gustar"
+      "Karena 'le' hanya dipakai sendirian",
+      "Karena 'se' memiliki arti yang sama sekali berbeda",
+      "Karena 'le' hanya untuk objek tidak langsung dengan gustar"
     ],
-    "explanation": "Spanyol avoids 'le lo / le la / les los / les las' karena mereka sound awkward. 'Le/les' becomes 'se' sebelum any DOP."
+    "explanation": "Bahasa Spanyol menghindari 'le lo / le la / les los / les las' karena terdengar janggal. 'Le/les' menjadi 'se' sebelum pronomina objek langsung apa pun.",
+    "hint": null
   },
   "q_gram_a2_20_005": {
     "question": "¿Puedes dar___ ___ ? (combine: me + lo, attached ke infinitif)",

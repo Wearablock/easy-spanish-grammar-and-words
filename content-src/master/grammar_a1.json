@@ -55,7 +55,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "12/15",
+    "votes": "11/15",
     "spanish": [
       "casa"
     ],
@@ -234,10 +234,11 @@
       "correct": "La mano está fría.",
       "wrong": [
         "El mano está frío.",
-        "La mano es fría.",
+        "La mano está frío.",
         "Las manos están frías."
       ],
-      "explanation": "'mano' is feminine despite ending in -o (a key exception).\nWe use 'está' because feeling cold is a temporary state.\n- la mano fría (feminine adjective agreement)"
+      "explanation": "'mano' is feminine despite ending in -o (a key exception).\nWe use 'está' because feeling cold is a temporary state.\n- la mano fría (feminine adjective agreement)",
+      "hint": null
     }
   },
   "q_gram_a1_02_001": {
@@ -322,7 +323,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "12/15",
+    "votes": "11/15",
     "spanish": [
       "los"
     ],
@@ -537,7 +538,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "12/15",
+    "votes": "11/15",
     "spanish": [
       "unas"
     ],
@@ -555,8 +556,8 @@
   "q_gram_a1_03_004": {
     "type": "conjugation",
     "translation_dir": null,
-    "ref": "en",
-    "votes": "15/15",
+    "ref": "es",
+    "votes": "14/15",
     "spanish": [
       "soy ___.",
       "profesor",
@@ -567,15 +568,16 @@
       ]
     ],
     "entry": {
-      "question": "Soy ___. (I am a teacher.) (conjugate the appropriate response)",
+      "question": "Soy ___. (Yo soy maestro.) (elige la respuesta adecuada)",
       "correct": "profesor",
       "wrong": [
         "un profesor",
         "el profesor",
         "una profesora"
       ],
-      "explanation": "In Spanish, the indefinite article is omitted with professions after ser.\n- Soy profesor. (correct)\n- Soy un profesor. (incorrect in standard Spanish)\nThis rule applies to nationalities too: Soy español.",
-      "conjugation_info": "Ser + profession: no article needed. Soy profesor, Soy estudiante, Soy médico."
+      "explanation": "En español se omite el artículo indefinido con las profesiones después de ser.\n- Soy profesor. (correcto)\n- Soy un profesor. (incorrecto en el español estándar sin un adjetivo o complemento)\nEsta regla también se aplica a las nacionalidades: Soy español.",
+      "conjugation_info": "Ser + profession: no article needed. Soy profesor, Soy estudiante, Soy médico.",
+      "hint": null
     }
   },
   "q_gram_a1_03_005": {
@@ -607,8 +609,8 @@
   "q_gram_a1_03_006": {
     "type": "conjugation",
     "translation_dir": null,
-    "ref": "en",
-    "votes": "15/15",
+    "ref": "es",
+    "votes": "14/15",
     "spanish": [
       "no hay ___.",
       "problema",
@@ -619,14 +621,14 @@
       ]
     ],
     "entry": {
-      "question": "No hay ___. (There is no problem.)",
+      "question": "no hay ___. (Allí is sin problema.)",
       "correct": "problema",
       "wrong": [
         "un problema",
         "el problema",
         "problemas"
       ],
-      "explanation": "After negative 'no hay', the indefinite article is omitted.\n- No hay problema. (correct)\n- No hay azúcar. (There is no sugar.)\nThe article is dropped in negative existential statements.",
+      "explanation": "Después de negativo 'no hay', el artículo indefinido se omite.\n- no hay problema. (correcto)\n- no hay azúcar. (No hay sugar.)\nEl artículo es dropped en negativo existential statements.",
       "conjugation_info": "Omit indefinite article after: sin (without), no hay (there isn't), and with professions after ser."
     }
   },
@@ -806,7 +808,7 @@
     "ref": "en",
     "votes": "1/4",
     "spanish": [
-      "du"
+      "vous"
     ],
     "entry": {
       "question": "What is the formal way to say 'you' (singular) in Spanish?",
@@ -834,15 +836,16 @@
       ]
     ],
     "entry": {
-      "question": "___ es la profesora. (conjugate ser for the 3rd person)",
+      "question": "___ es la profesora. (she)",
       "correct": "Ella",
       "wrong": [
         "Él",
         "Yo",
         "Nosotros"
       ],
-      "explanation": "'Ella' means 'she' and is used for a female subject.\n- Ella es la profesora = She is the teacher.\n- Él es el profesor = He is the teacher.",
-      "conjugation_info": "3rd person pronouns: él (he), ella (she), usted (you formal)"
+      "explanation": "'Ella' means 'she' and is used for a female subject. 'La profesora' is feminine, which is why 'ella' fits.\n- Ella es la profesora = She is the teacher.\n- Él es el profesor = He is the teacher.",
+      "conjugation_info": "3rd person pronouns: él (he), ella (she), usted (you formal)",
+      "hint": null
     }
   },
   "q_gram_a1_04_006": {
@@ -921,7 +924,7 @@
     "type": "translation",
     "translation_dir": "es_to_ko",
     "spanish_side": "question",
-    "ref": "en",
+    "ref": "fr",
     "votes": "70%+",
     "spanish": [
       "¿___ es usted?"
@@ -934,7 +937,7 @@
         "Cómo",
         "Dónde"
       ],
-      "explanation": "When asking about identity with 'usted', '¿Quién es usted?' means 'Who are you?' (formal).\nNote that 'usted' takes the same verb form as él/ella (3rd person singular).\n- ¿Quién es usted? (formal) vs ¿Quién eres tú? (informal)"
+      "explanation": "Quand asking à propos de identity avec 'usted', '¿Quién es usted?' signifie 'Qui sont vous?' (formel).\nNotez que 'usted' takes Le/La same verbe form as él/ella (3rd personne singulier).\n- ¿Quién es usted? (formel) vs ¿Quién eres tú? (informel)"
     }
   },
   "q_gram_a1_04_010": {
@@ -952,7 +955,7 @@
       ]
     ],
     "entry": {
-      "question": "Yo hablo español, ___ habla francés. (conjugate with the correct pronoun for 'she')",
+      "question": "Yo hablo español, ___ habla francés. (she)",
       "correct": "ella",
       "wrong": [
         "él",
@@ -960,7 +963,8 @@
         "usted"
       ],
       "explanation": "Pronouns are used for emphasis or to clarify who is being talked about.\n- Yo hablo español, ella habla francés.\n- Without pronouns, 'habla francés' could mean he/she/you(formal) speaks French.",
-      "conjugation_info": "Use pronouns for emphasis: Yo hablo... ella habla... vs just Hablo... Habla..."
+      "conjugation_info": "Use pronouns for emphasis: Yo hablo... ella habla... vs just Hablo... Habla...",
+      "hint": null
     }
   },
   "q_gram_a1_05_001": {
@@ -1252,7 +1256,7 @@
         "estoy",
         "están"
       ],
-      "explanation": "Estar is used to express location.\n- El gato está en la mesa. = The cat is on the table.\n- Location always uses estar (not ser).",
+      "explanation": "Estar is used to express location.\n- El gato está en la mesa. = The cat is on the table.\n- Estar is used for the location of people and things.",
       "hint": "Which verb is used for location?"
     }
   },
@@ -1286,7 +1290,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "12/15",
+    "votes": "11/15",
     "spanish": [
       "estar"
     ],
@@ -1441,8 +1445,9 @@
         "está",
         "estamos"
       ],
-      "explanation": "The tú form of 'estar' is 'estás'.\n- ¿Dónde estás? = Where are you?\nEstar is always used for asking about location.",
-      "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están"
+      "explanation": "The tú form of 'estar' is 'estás'.\n- ¿Dónde estás? = Where are you?\nEstar is used to ask where a person or thing is.",
+      "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están",
+      "hint": null
     }
   },
   "q_gram_a1_07_001": {
@@ -2730,7 +2735,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "12/15",
+    "votes": "11/15",
     "spanish": [
       "su"
     ],
@@ -4395,7 +4400,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "1/2",
+    "votes": "1/1",
     "spanish": [
       "ir + 不定詞"
     ],

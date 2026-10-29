@@ -1,23 +1,25 @@
 {
   "q_vocab_a1_01_001": {
-    "question": "apa does 'hola' berarti?",
-    "correct": "hello",
+    "question": "Apa arti 'hola'?",
+    "correct": "halo",
     "wrong": [
-      "goodbye",
-      "thank you",
-      "please"
+      "selamat tinggal",
+      "terima kasih",
+      "tolong"
     ],
-    "explanation": "'Hola' adalah yang paling umum Spanyol salam, digunakan kapan saja."
+    "explanation": "'Hola' adalah sapaan bahasa Spanyol yang paling umum, dipakai kapan saja sepanjang hari.",
+    "hint": null
   },
   "q_vocab_a1_01_002": {
-    "question": "apa does 'gracias' berarti?",
-    "correct": "thank you",
+    "question": "Apa arti 'gracias'?",
+    "correct": "terima kasih",
     "wrong": [
-      "please",
-      "sorry",
-      "hello"
+      "tolong",
+      "maaf",
+      "halo"
     ],
-    "explanation": "'Gracias' berarti 'thank kamu'. kamu bisa mengatakan 'muchas gracias' untuk 'thank kamu sangat'."
+    "explanation": "'Gracias' berarti 'terima kasih'. Kamu bisa mengatakan 'muchas gracias' untuk 'terima kasih banyak'.",
+    "hint": null
   },
   "q_vocab_a1_01_003": {
     "question": "Buenos ___, ¿cómo estás?",
@@ -30,24 +32,26 @@
     "explanation": "'Buenos días' berarti 'good morning' dan adalah salam umum digunakan di pagi hari."
   },
   "q_vocab_a1_01_004": {
-    "question": "apa does 'por favor' berarti?",
-    "correct": "please",
+    "question": "Apa arti 'por favor'?",
+    "correct": "tolong",
     "wrong": [
-      "thank you",
-      "excuse me",
-      "goodbye"
+      "terima kasih",
+      "permisi",
+      "selamat tinggal"
     ],
-    "explanation": "'Por favor' adalah digunakan untuk membuat permintaan sopan, sama seperti 'please' dalam bahasa Inggris."
+    "explanation": "'Por favor' dipakai untuk membuat permintaan yang sopan, seperti 'tolong' dalam bahasa Indonesia.",
+    "hint": null
   },
   "q_vocab_a1_01_005": {
-    "question": "apa does 'lo siento' berarti di 'Lo siento mucho'?",
-    "correct": "I'm sorry",
+    "question": "Apa arti 'lo siento' dalam 'Lo siento mucho'?",
+    "correct": "maaf",
     "wrong": [
-      "I'm happy",
-      "I'm tired",
-      "I'm fine"
+      "aku senang",
+      "aku lelah",
+      "aku baik-baik saja"
     ],
-    "explanation": "'Lo siento' secara harfiah berarti 'I feel itu' tetapi digunakan sebagai 'I'm sorry'. 'Mucho' menambahkan penekanan, berarti 'sangat'."
+    "explanation": "'Lo siento' secara harfiah berarti 'aku merasakannya', tetapi dipakai sebagai 'maaf'. 'Mucho' memberi penekanan, artinya 'sangat'.",
+    "hint": null
   },
   "q_vocab_a1_01_006": {
     "question": "See kamu tomorrow!",
@@ -60,14 +64,15 @@
     "explanation": "'Hasta mañana' secara harfiah berarti 'sampai tomorrow' dan digunakan kapan kamu akan see someone ini/itu next day."
   },
   "q_vocab_a1_01_007": {
-    "question": "apa does 'de nada' berarti di '¡Gracias! — De nada.'?",
-    "correct": "you're welcome",
+    "question": "Apa arti 'de nada' dalam '¡Gracias! — De nada.'?",
+    "correct": "sama-sama",
     "wrong": [
-      "of course",
-      "no problem",
-      "goodbye"
+      "tentu saja",
+      "tidak masalah",
+      "selamat tinggal"
     ],
-    "explanation": "'De nada' literally translates ke 'dari nothing' dan adalah standard response ke 'gracias'."
+    "explanation": "'De nada' secara harfiah berarti 'dari ketiadaan' dan merupakan jawaban standar untuk 'gracias'.",
+    "hint": null
   },
   "q_vocab_a1_01_008": {
     "question": "¿Cómo estás?",
@@ -102,14 +107,15 @@
     "context": "Leaving teman's house at night"
   },
   "q_vocab_a1_02_001": {
-    "question": "apa does 'madre' berarti?",
-    "correct": "mother",
+    "question": "Apa arti 'madre'?",
+    "correct": "ibu",
     "wrong": [
-      "father",
-      "sister",
-      "grandmother"
+      "ayah",
+      "saudara perempuan",
+      "nenek"
     ],
-    "explanation": "'Madre' berarti 'mother'. ini/itu informal kata adalah 'mamá'."
+    "explanation": "'Madre' berarti 'ibu'. Kata yang tidak resmi adalah 'mamá'.",
+    "hint": null
   },
   "q_vocab_a1_02_002": {
     "question": "Mi ___ se llama Carlos. Es el esposo de mi madre.",
@@ -122,24 +128,26 @@
     "explanation": "'Padre' berarti 'father'. ini/itu sentence says 'My father adalah named Carlos. He adalah husband dari my mother.'"
   },
   "q_vocab_a1_02_003": {
-    "question": "apa does 'hermana' berarti?",
-    "correct": "sister",
+    "question": "Apa arti 'hermana'?",
+    "correct": "saudara perempuan",
     "wrong": [
-      "brother",
-      "cousin",
-      "aunt"
+      "saudara laki-laki",
+      "sepupu",
+      "bibi"
     ],
-    "explanation": "'Hermana' adalah feminin form berarti 'sister'. ini/itu maskulin form 'hermano' berarti 'brother'."
+    "explanation": "'Hermana' adalah bentuk feminin yang berarti 'saudara perempuan'. Bentuk maskulinnya 'hermano' berarti 'saudara laki-laki'.",
+    "hint": null
   },
   "q_vocab_a1_02_004": {
-    "question": "apa does 'abuelo' berarti?",
-    "correct": "grandfather",
+    "question": "Apa arti 'abuelo'?",
+    "correct": "kakek",
     "wrong": [
-      "uncle",
-      "father",
-      "cousin"
+      "paman",
+      "ayah",
+      "sepupu"
     ],
-    "explanation": "'Abuelo' berarti 'grandfather'. 'Abuela' adalah 'grandmother'. Together, 'abuelos' bisa berarti 'grandparents'."
+    "explanation": "'Abuelo' berarti 'kakek'. 'Abuela' berarti 'nenek'. Bersama-sama, 'abuelos' bisa berarti 'kakek-nenek'.",
+    "hint": null
   },
   "q_vocab_a1_02_005": {
     "question": "My uncle lives di Madrid.",
@@ -152,35 +160,38 @@
     "explanation": "'Tío' berarti 'uncle'. 'Tía' adalah feminin form berarti 'aunt'."
   },
   "q_vocab_a1_02_006": {
-    "question": "apa does 'esposa' berarti di 'Ella es mi esposa'?",
-    "correct": "wife",
+    "question": "Apa arti 'esposa' dalam 'Ella es mi esposa'?",
+    "correct": "istri",
     "wrong": [
-      "girlfriend",
-      "friend",
-      "sister"
+      "pacar",
+      "teman",
+      "saudara perempuan"
     ],
-    "explanation": "'Esposa' berarti 'wife'. 'Esposo' berarti 'husband'. These adalah formal terms untuk a married partner."
+    "explanation": "'Esposa' berarti 'istri'. 'Esposo' berarti 'suami'. Keduanya adalah istilah formal untuk pasangan yang sudah menikah.",
+    "hint": null
   },
   "q_vocab_a1_02_007": {
-    "question": "kamu want ke introduce milikmu female friend ke someone. Which kata do kamu use?",
+    "question": "Kamu ingin memperkenalkan temanmu yang perempuan kepada seseorang. Kata mana yang kamu gunakan?",
     "correct": "amiga",
     "wrong": [
       "novia",
       "prima",
       "vecina"
     ],
-    "explanation": "'Amiga' berarti 'female friend'. Using 'novia' akan berarti 'girlfriend' (romantic partner), yang merupakan different.",
-    "context": "Introducing teman at a party"
+    "explanation": "'Amiga' berarti 'teman perempuan'. Jika memakai 'novia', artinya 'pacar' (pasangan romantis), yang berbeda maknanya.",
+    "context": "Introducing teman at a party",
+    "hint": null
   },
   "q_vocab_a1_02_008": {
-    "question": "apa does 'primo' berarti di 'Mi primo tiene diez años'?",
-    "correct": "cousin",
+    "question": "Apa arti 'primo' dalam 'Mi primo tiene diez años'?",
+    "correct": "sepupu",
     "wrong": [
-      "brother",
-      "nephew",
-      "son"
+      "saudara laki-laki",
+      "keponakan",
+      "anak laki-laki"
     ],
-    "explanation": "'Primo' (maskulin) berarti 'cousin'. 'Prima' adalah feminin form. ini/itu kalimat berarti 'My cousin adalah ten years old'."
+    "explanation": "'Primo' (maskulin) berarti 'sepupu'. 'Prima' adalah bentuk feminin. Kalimat itu berarti 'Sepupuku berumur sepuluh tahun'.",
+    "hint": null
   },
   "q_vocab_a1_02_009": {
     "question": "Tengo dos hermanos y una hermana.",
@@ -204,24 +215,26 @@
     "context": "Chatting with a neighbor about family"
   },
   "q_vocab_a1_03_001": {
-    "question": "apa does 'hora' berarti?",
-    "correct": "hour / time",
+    "question": "Apa arti 'hora'?",
+    "correct": "jam / waktu",
     "wrong": [
-      "minute",
-      "day",
-      "week"
+      "menit",
+      "hari",
+      "minggu"
     ],
-    "explanation": "'Hora' berarti 'hour' atau 'waktu' (kapan asking apa waktu itu adalah). '¿Qué hora es?' = 'apa waktu adalah itu?'"
+    "explanation": "'Hora' berarti 'jam' atau 'waktu' (saat menanyakan pukul berapa). '¿Qué hora es?' = 'Jam berapa sekarang?'",
+    "hint": null
   },
   "q_vocab_a1_03_002": {
-    "question": "apa does 'mañana' berarti di 'por la mañana'?",
-    "correct": "morning",
+    "question": "Apa arti 'mañana' dalam 'por la mañana'?",
+    "correct": "pagi",
     "wrong": [
-      "afternoon",
-      "evening",
-      "night"
+      "siang",
+      "sore",
+      "malam"
     ],
-    "explanation": "'Mañana' berarti 'morning' kapan used dengan 'por la'. itu bisa juga berarti 'tomorrow' di other contexts."
+    "explanation": "'Mañana' berarti 'pagi' jika dipakai dengan 'por la'. Dalam konteks lain, kata ini juga bisa berarti 'besok'.",
+    "hint": null
   },
   "q_vocab_a1_03_003": {
     "question": "Son las tres y ___. (3:30)",
@@ -234,24 +247,26 @@
     "explanation": "'Media' berarti 'half'. 'Son las tres y media' berarti 'Ini adalah three thirty' (literally 'three dan a half')."
   },
   "q_vocab_a1_03_004": {
-    "question": "apa does 'reloj' berarti?",
-    "correct": "clock / watch",
+    "question": "Apa arti 'reloj'?",
+    "correct": "jam dinding / jam tangan",
     "wrong": [
-      "calendar",
+      "kalender",
       "alarm",
-      "timer"
+      "pengatur waktu"
     ],
-    "explanation": "'Reloj' bisa berarti both 'clock' (wall clock) dan 'watch' (wristwatch) dalam bahasa Spanyol."
+    "explanation": "'Reloj' dalam bahasa Spanyol bisa berarti 'jam dinding' maupun 'jam tangan'.",
+    "hint": null
   },
   "q_vocab_a1_03_005": {
-    "question": "apa does 'en punto' berarti di 'Son las cinco en punto'?",
-    "correct": "on the dot / exactly",
+    "question": "Apa arti 'en punto' dalam 'Son las cinco en punto'?",
+    "correct": "tepat / pas",
     "wrong": [
-      "almost",
-      "more or less",
-      "approximately"
+      "hampir",
+      "kurang lebih",
+      "sekitar"
     ],
-    "explanation": "'En punto' berarti 'on ini/itu dot' atau 'sharp'. 'Son las cinco en punto' = 'Ini adalah exactly five o'clock'."
+    "explanation": "'En punto' berarti 'tepat' atau 'pas'. 'Son las cinco en punto' = 'Sekarang tepat pukul lima'.",
+    "hint": null
   },
   "q_vocab_a1_03_006": {
     "question": "itu adalah one o'clock.",
@@ -264,14 +279,15 @@
     "explanation": "untuk 1:00, we use 'Es la una' (tunggal). untuk semua other hours, we use 'Son las...' (jamak)."
   },
   "q_vocab_a1_03_007": {
-    "question": "apa does 'tarde' berarti di 'Buenas tardes'?",
-    "correct": "afternoon",
+    "question": "Apa arti 'tarde' dalam 'Buenas tardes'?",
+    "correct": "siang / sore",
     "wrong": [
-      "morning",
-      "night",
-      "evening"
+      "pagi",
+      "malam",
+      "petang"
     ],
-    "explanation": "'Tarde' berarti 'afternoon'. 'Buenas tardes' digunakan roughly dari noon sampai sunset."
+    "explanation": "'Tarde' berarti 'siang' hingga 'sore'. 'Buenas tardes' dipakai kira-kira dari tengah hari sampai matahari terbenam.",
+    "hint": null
   },
   "q_vocab_a1_03_008": {
     "question": "¿Qué hora es? — Son las dos y cuarto.",
@@ -306,14 +322,15 @@
     "context": "Talking about daily routines"
   },
   "q_vocab_a1_04_001": {
-    "question": "apa does 'lunes' berarti?",
-    "correct": "Monday",
+    "question": "Apa arti 'lunes'?",
+    "correct": "Senin",
     "wrong": [
-      "Tuesday",
-      "Friday",
-      "Sunday"
+      "Selasa",
+      "Jumat",
+      "Minggu"
     ],
-    "explanation": "'Lunes' berarti 'Monday'. dalam bahasa Spanyol, days dari ini/itu week adalah not capitalized."
+    "explanation": "'Lunes' berarti 'Senin'. Dalam bahasa Spanyol, nama hari tidak ditulis dengan huruf kapital.",
+    "hint": null
   },
   "q_vocab_a1_04_002": {
     "question": "El primer mes del año es ___.",
@@ -326,24 +343,26 @@
     "explanation": "'Enero' berarti 'January', ini/itu first month dari ini/itu year. Like days, months adalah not capitalized dalam bahasa Spanyol."
   },
   "q_vocab_a1_04_003": {
-    "question": "apa does 'verano' berarti?",
-    "correct": "summer",
+    "question": "Apa arti 'verano'?",
+    "correct": "musim panas",
     "wrong": [
-      "winter",
-      "spring",
-      "autumn"
+      "musim dingin",
+      "musim semi",
+      "musim gugur"
     ],
-    "explanation": "'Verano' berarti 'summer'. ini/itu four seasons adalah: primavera (spring), verano (summer), otoño (autumn), invierno (winter)."
+    "explanation": "'Verano' berarti 'musim panas'. Keempat musim adalah: primavera (musim semi), verano (musim panas), otoño (musim gugur), invierno (musim dingin).",
+    "hint": null
   },
   "q_vocab_a1_04_004": {
-    "question": "apa does 'semana' berarti?",
-    "correct": "week",
+    "question": "Apa arti 'semana'?",
+    "correct": "minggu",
     "wrong": [
-      "month",
-      "day",
-      "year"
+      "bulan",
+      "hari",
+      "tahun"
     ],
-    "explanation": "'Semana' berarti 'week'. 'Fin de semana' berarti 'weekend'."
+    "explanation": "'Semana' berarti 'minggu'. 'Fin de semana' berarti 'akhir pekan'.",
+    "hint": null
   },
   "q_vocab_a1_04_005": {
     "question": "Saturday dan Sunday",
@@ -356,14 +375,15 @@
     "explanation": "'Sábado' adalah Saturday dan 'domingo' adalah Sunday. Together mereka form ini/itu 'fin de semana' (weekend)."
   },
   "q_vocab_a1_04_006": {
-    "question": "apa does 'primavera' berarti di 'Me gusta la primavera'?",
-    "correct": "spring",
+    "question": "Apa arti 'primavera' dalam 'Me gusta la primavera'?",
+    "correct": "musim semi",
     "wrong": [
-      "summer",
-      "autumn",
-      "winter"
+      "musim panas",
+      "musim gugur",
+      "musim dingin"
     ],
-    "explanation": "'Primavera' berarti 'spring'. ini/itu kalimat berarti 'I like spring'."
+    "explanation": "'Primavera' berarti 'musim semi'. Kalimat itu berarti 'Aku suka musim semi'.",
+    "hint": null
   },
   "q_vocab_a1_04_007": {
     "question": "Someone asks kamu apa day itu adalah. Today adalah Wednesday. bagaimana do kamu answer?",
@@ -377,22 +397,23 @@
     "context": "Someone asking what day it is"
   },
   "q_vocab_a1_04_008": {
-    "question": "apa does 'invierno' berarti di 'En invierno hace frío'?",
-    "correct": "winter",
+    "question": "Apa arti 'invierno' dalam 'En invierno hace frío'?",
+    "correct": "musim dingin",
     "wrong": [
-      "autumn",
-      "summer",
-      "spring"
+      "musim gugur",
+      "musim panas",
+      "musim semi"
     ],
-    "explanation": "'Invierno' berarti 'winter'. ini/itu kalimat berarti 'di winter itu adalah cold'."
+    "explanation": "'Invierno' berarti 'musim dingin'. Kalimat itu berarti 'Di musim dingin cuacanya dingin'.",
+    "hint": null
   },
   "q_vocab_a1_04_009": {
     "question": "Hoy es viernes. Mañana es ___.",
-    "correct": "Today is Friday. Tomorrow is Saturday.",
+    "correct": "sábado",
     "wrong": [
-      "Today is Friday. Tomorrow is Thursday.",
-      "Today is Friday. Tomorrow is Sunday.",
-      "Today is Thursday. Tomorrow is Friday."
+      "jueves",
+      "domingo",
+      "lunes"
     ],
     "explanation": "'Viernes' adalah Friday dan ini/itu day setelah Friday adalah 'sábado' (Saturday)."
   },
@@ -408,74 +429,81 @@
     "context": "Scheduling a meeting at work"
   },
   "q_vocab_a1_05_001": {
-    "question": "apa does 'rojo' berarti?",
-    "correct": "red",
+    "question": "Apa arti 'rojo'?",
+    "correct": "merah",
     "wrong": [
-      "blue",
-      "green",
-      "yellow"
+      "biru",
+      "hijau",
+      "kuning"
     ],
-    "explanation": "'Rojo' berarti 'red'. Like paling adjectives, itu changes form: rojo (masc.), roja (fem.)."
+    "explanation": "'Rojo' berarti 'merah'. Seperti kebanyakan kata sifat, bentuknya berubah: rojo (maskulin), roja (feminin).",
+    "hint": null
   },
   "q_vocab_a1_05_002": {
-    "question": "apa does 'blanco' berarti?",
-    "correct": "white",
+    "question": "Apa arti 'blanco'?",
+    "correct": "putih",
     "wrong": [
-      "black",
-      "grey",
-      "brown"
+      "hitam",
+      "abu-abu",
+      "cokelat"
     ],
-    "explanation": "'Blanco' berarti 'white'. Its opposite adalah 'negro' (black)."
+    "explanation": "'Blanco' berarti 'putih'. Lawannya adalah 'negro' (hitam).",
+    "hint": null
   },
   "q_vocab_a1_05_003": {
-    "question": "El cielo es ___. (ini/itu sky adalah ___)",
+    "question": "El cielo es ___. (Langit itu ___)",
     "correct": "azul",
     "wrong": [
       "rojo",
       "verde",
       "amarillo"
     ],
-    "explanation": "'Azul' berarti 'blue'. Unlike paling color adjectives, 'azul' does not change untuk maskulin/feminin."
+    "explanation": "'Azul' berarti 'biru'. Tidak seperti kebanyakan kata sifat warna, 'azul' tidak berubah untuk maskulin/feminin.",
+    "hint": null
   },
   "q_vocab_a1_05_004": {
-    "question": "apa does 'negro' berarti?",
-    "correct": "black",
+    "question": "Apa arti 'negro'?",
+    "correct": "hitam",
     "wrong": [
-      "white",
-      "grey",
-      "brown"
+      "putih",
+      "abu-abu",
+      "cokelat"
     ],
-    "explanation": "'Negro' berarti 'black'. itu follows beraturan kata sifat agreement: negro (masc.), negra (fem.)."
+    "explanation": "'Negro' berarti 'hitam'. Kata ini mengikuti kesesuaian kata sifat yang biasa: negro (maskulin), negra (feminin).",
+    "hint": null
   },
   "q_vocab_a1_05_005": {
-    "question": "apa does 'amarillo' berarti di 'El sol es amarillo'?",
-    "correct": "yellow",
+    "question": "Apa arti 'amarillo' dalam 'El sol es amarillo'?",
+    "correct": "kuning",
     "wrong": [
-      "orange",
-      "red",
-      "white"
+      "oranye",
+      "merah",
+      "putih"
     ],
-    "explanation": "'Amarillo' berarti 'yellow'. ini/itu kalimat berarti 'ini/itu sun adalah yellow'."
+    "explanation": "'Amarillo' berarti 'kuning'. Kalimat itu berarti 'Matahari itu kuning'.",
+    "hint": null
   },
   "q_vocab_a1_05_006": {
-    "question": "ini/itu car adalah green.",
+    "question": "Mobil itu berwarna hijau.",
     "correct": "El coche es verde.",
     "wrong": [
       "El coche es rojo.",
       "El coche es azul.",
       "La coche es verde."
     ],
-    "explanation": "'Verde' berarti 'green'. 'Coche' (car) adalah maskulin, so we use 'el'. 'Verde' does not change untuk gender."
+    "explanation": "'Verde' berarti 'hijau'. 'Coche' (mobil) bersifat maskulin, jadi kita memakai 'el'. 'Verde' tidak berubah menurut gender.",
+    "hint": null
   },
   "q_vocab_a1_05_007": {
-    "question": "apa does 'gris' berarti di 'El gato es gris'?",
-    "correct": "grey",
+    "question": "Apa arti 'gris' dalam kalimat 'El gato es gris'?",
+    "correct": "abu-abu",
     "wrong": [
-      "brown",
-      "white",
-      "black"
+      "cokelat",
+      "putih",
+      "hitam"
     ],
-    "explanation": "'Gris' berarti 'grey'. Like 'azul' dan 'verde', itu does not change form untuk maskulin/feminin."
+    "explanation": "'Gris' berarti 'abu-abu'. Seperti 'azul' dan 'verde', kata ini tidak berubah bentuk untuk maskulin/feminin.",
+    "hint": null
   },
   "q_vocab_a1_05_008": {
     "question": "¿De qué color es la naranja?",
@@ -510,14 +538,15 @@
     "context": "Talking about favorite colors with teman"
   },
   "q_vocab_a1_06_001": {
-    "question": "apa does 'agua' berarti?",
-    "correct": "water",
+    "question": "Apa arti 'agua'?",
+    "correct": "air",
     "wrong": [
-      "milk",
-      "juice",
-      "coffee"
+      "susu",
+      "jus",
+      "kopi"
     ],
-    "explanation": "'Agua' berarti 'water'. Despite being feminin, itu uses 'el' di tunggal: 'el agua' (ke avoid two 'a' sounds together)."
+    "explanation": "'Agua' berarti 'air'. Meskipun feminin, kata ini memakai 'el' dalam bentuk tunggal: 'el agua' (untuk menghindari dua bunyi 'a' yang berurutan).",
+    "hint": null
   },
   "q_vocab_a1_06_002": {
     "question": "Quiero un ___ con leche, por favor.",
@@ -530,24 +559,26 @@
     "explanation": "'Café con leche' berarti 'coffee dengan milk', a sangat popular drink di Spain dan Latin America."
   },
   "q_vocab_a1_06_003": {
-    "question": "apa does 'pan' berarti?",
-    "correct": "bread",
+    "question": "Apa arti 'pan'?",
+    "correct": "roti",
     "wrong": [
-      "rice",
-      "meat",
-      "cheese"
+      "nasi",
+      "daging",
+      "keju"
     ],
-    "explanation": "'Pan' berarti 'bread'. Ini adalah one dari ini/itu paling basic food items dalam bahasa Spanyol-speaking countries."
+    "explanation": "'Pan' berarti 'roti'. Ini adalah salah satu makanan paling dasar di negara-negara berbahasa Spanyol.",
+    "hint": null
   },
   "q_vocab_a1_06_004": {
-    "question": "apa does 'pollo' berarti?",
-    "correct": "chicken",
+    "question": "Apa arti 'pollo'?",
+    "correct": "ayam",
     "wrong": [
-      "fish",
-      "beef",
-      "pork"
+      "ikan",
+      "daging sapi",
+      "daging babi"
     ],
-    "explanation": "'Pollo' berarti 'chicken'. 'Carne' adalah general kata untuk 'meat'."
+    "explanation": "'Pollo' berarti 'ayam'. 'Carne' adalah kata umum untuk 'daging'.",
+    "hint": null
   },
   "q_vocab_a1_06_005": {
     "question": "I want a glass dari orange juice.",
@@ -560,14 +591,15 @@
     "explanation": "'Zumo' berarti 'juice' (used di Spain; 'jugo' digunakan di Latin America). 'Vaso' berarti 'glass'."
   },
   "q_vocab_a1_06_006": {
-    "question": "apa does 'pescado' berarti di 'El pescado está fresco'?",
-    "correct": "fish (as food)",
+    "question": "Apa arti 'pescado' dalam kalimat 'El pescado está fresco'?",
+    "correct": "ikan (sebagai makanan)",
     "wrong": [
-      "chicken",
-      "meat",
-      "shrimp"
+      "ayam",
+      "daging",
+      "udang"
     ],
-    "explanation": "'Pescado' mengacu pada fish as food. 'Pez' adalah living fish. ini/itu kalimat berarti 'ini/itu fish adalah fresh'."
+    "explanation": "'Pescado' mengacu pada ikan sebagai makanan. 'Pez' adalah ikan yang hidup. Kalimat ini berarti 'Ikannya segar'.",
+    "hint": null
   },
   "q_vocab_a1_06_007": {
     "question": "kamu adalah at a restaurant dan ini/itu waiter asks apa kamu want ke drink. bagaimana do kamu order a beer?",
@@ -581,14 +613,15 @@
     "context": "Ordering a drink at a restaurant"
   },
   "q_vocab_a1_06_008": {
-    "question": "apa does 'ensalada' berarti di 'La ensalada está rica'?",
+    "question": "Apa arti 'ensalada' dalam kalimat 'La ensalada está rica'?",
     "correct": "salad",
     "wrong": [
-      "soup",
+      "sup",
       "sandwich",
-      "omelette"
+      "telur dadar"
     ],
-    "explanation": "'Ensalada' berarti 'salad'. 'Rica' di sini berarti 'delicious'. ini/itu kalimat berarti 'ini/itu salad adalah delicious'."
+    "explanation": "'Ensalada' berarti 'salad'. 'Rica' di sini berarti 'enak'. Kalimat ini berarti 'Saladnya enak'.",
+    "hint": null
   },
   "q_vocab_a1_06_009": {
     "question": "Me gustan las frutas y las verduras.",
@@ -612,24 +645,26 @@
     "context": "Being offered food at someone's home"
   },
   "q_vocab_a1_07_001": {
-    "question": "apa does 'cabeza' berarti?",
-    "correct": "head",
+    "question": "Apa arti 'cabeza'?",
+    "correct": "kepala",
     "wrong": [
-      "hand",
-      "foot",
-      "arm"
+      "tangan",
+      "kaki",
+      "lengan"
     ],
-    "explanation": "'Cabeza' berarti 'head'. 'Me duele la cabeza' berarti 'My head hurts' (I memiliki a headache)."
+    "explanation": "'Cabeza' berarti 'kepala'. 'Me duele la cabeza' berarti 'Kepalaku sakit' (aku sakit kepala).",
+    "hint": null
   },
   "q_vocab_a1_07_002": {
-    "question": "apa does 'mano' berarti?",
-    "correct": "hand",
+    "question": "Apa arti 'mano'?",
+    "correct": "tangan",
     "wrong": [
-      "foot",
-      "arm",
-      "finger"
+      "kaki",
+      "lengan",
+      "jari"
     ],
-    "explanation": "'Mano' berarti 'hand'. Catatan: meskipun berakhiran -o, 'mano' adalah feminin (la mano)."
+    "explanation": "'Mano' berarti 'tangan'. Perhatikan: meskipun berakhiran -o, 'mano' berjenis feminin (la mano).",
+    "hint": null
   },
   "q_vocab_a1_07_003": {
     "question": "No puedo caminar, me duele el ___.",
@@ -642,24 +677,26 @@
     "explanation": "'Pie' berarti 'foot'. ini/itu sentence says 'I cannot walk, my foot hurts'."
   },
   "q_vocab_a1_07_004": {
-    "question": "apa does 'ojo' berarti?",
-    "correct": "eye",
+    "question": "Apa arti 'ojo'?",
+    "correct": "mata",
     "wrong": [
-      "ear",
-      "nose",
-      "mouth"
+      "telinga",
+      "hidung",
+      "mulut"
     ],
-    "explanation": "'Ojo' berarti 'eye'. ini/itu jamak adalah 'ojos'. 'Tiene los ojos azules' = 'He/She memiliki blue eyes'."
+    "explanation": "'Ojo' berarti 'mata'. Bentuk jamaknya 'ojos'. 'Tiene los ojos azules' = 'Dia bermata biru'.",
+    "hint": null
   },
   "q_vocab_a1_07_005": {
-    "question": "apa does 'espalda' berarti di 'Me duele la espalda'?",
-    "correct": "back",
+    "question": "Apa arti 'espalda' dalam kalimat 'Me duele la espalda'?",
+    "correct": "punggung",
     "wrong": [
-      "stomach",
-      "chest",
-      "neck"
+      "perut",
+      "dada",
+      "leher"
     ],
-    "explanation": "'Espalda' berarti 'back' (body part). ini/itu kalimat berarti 'My back hurts'."
+    "explanation": "'Espalda' berarti 'punggung' (bagian tubuh). Kalimat ini berarti 'Punggungku sakit'.",
+    "hint": null
   },
   "q_vocab_a1_07_006": {
     "question": "I brush my teeth every morning.",
@@ -672,14 +709,15 @@
     "explanation": "'Dientes' berarti 'teeth' (tunggal: 'diente'). dalam bahasa Spanyol, we say 'lavarse los dientes' (wash ini/itu teeth) rather than 'brush'."
   },
   "q_vocab_a1_07_007": {
-    "question": "apa does 'boca' berarti di 'Abre la boca'?",
-    "correct": "mouth",
+    "question": "Apa arti 'boca' dalam kalimat 'Abre la boca'?",
+    "correct": "mulut",
     "wrong": [
-      "eye",
-      "hand",
-      "ear"
+      "mata",
+      "tangan",
+      "telinga"
     ],
-    "explanation": "'Boca' berarti 'mouth'. 'Abre la boca' berarti 'Open milikmu mouth', commonly heard at ini/itu dentist."
+    "explanation": "'Boca' berarti 'mulut'. 'Abre la boca' berarti 'Buka mulutmu', kalimat yang sering terdengar di dokter gigi.",
+    "hint": null
   },
   "q_vocab_a1_07_008": {
     "question": "Tengo el pelo largo y los ojos marrones.",
@@ -714,14 +752,15 @@
     "context": "Describing teman's physical features"
   },
   "q_vocab_a1_08_001": {
-    "question": "apa does 'zapatos' berarti?",
-    "correct": "shoes",
+    "question": "Apa arti 'zapatos'?",
+    "correct": "sepatu",
     "wrong": [
-      "boots",
-      "socks",
-      "sandals"
+      "sepatu bot",
+      "kaus kaki",
+      "sandal"
     ],
-    "explanation": "'Zapatos' berarti 'shoes' (tunggal: 'zapato'). 'Un par de zapatos' = 'a pair dari shoes'."
+    "explanation": "'Zapatos' berarti 'sepatu' (bentuk tunggal: 'zapato'). 'Un par de zapatos' = 'sepasang sepatu'.",
+    "hint": null
   },
   "q_vocab_a1_08_002": {
     "question": "Hace frío, necesito mi ___.",
@@ -734,24 +773,26 @@
     "explanation": "'Abrigo' berarti 'coat'. ini/itu sentence says 'itu's cold, I need my coat'."
   },
   "q_vocab_a1_08_003": {
-    "question": "apa does 'camisa' berarti?",
-    "correct": "shirt",
+    "question": "Apa arti 'camisa'?",
+    "correct": "kemeja",
     "wrong": [
-      "t-shirt",
-      "jacket",
-      "dress"
+      "kaus",
+      "jaket",
+      "gaun"
     ],
-    "explanation": "'Camisa' berarti 'shirt' (typically a formal/button-up shirt). A 'camiseta' adalah t-shirt."
+    "explanation": "'Camisa' berarti 'kemeja' (biasanya kemeja formal yang berkancing). 'Camiseta' adalah kaus.",
+    "hint": null
   },
   "q_vocab_a1_08_004": {
-    "question": "apa does 'vestido' berarti?",
-    "correct": "dress",
+    "question": "Apa arti 'vestido'?",
+    "correct": "gaun",
     "wrong": [
-      "skirt",
-      "blouse",
-      "pants"
+      "rok",
+      "blus",
+      "celana panjang"
     ],
-    "explanation": "'Vestido' berarti 'dress'. itu comes dari kata kerja 'vestir' (ke dress/ke wear)."
+    "explanation": "'Vestido' berarti 'gaun'. Kata ini berasal dari kata kerja 'vestir' (berpakaian/mengenakan).",
+    "hint": null
   },
   "q_vocab_a1_08_005": {
     "question": "I am wearing black pants.",
@@ -764,14 +805,15 @@
     "explanation": "'Pantalones' berarti 'pants/trousers'. 'Llevar' adalah commonly used untuk 'ke wear' dalam bahasa Spanyol."
   },
   "q_vocab_a1_08_006": {
-    "question": "apa does 'bolso' berarti di 'Llevo mi bolso al trabajo'?",
-    "correct": "bag / handbag",
+    "question": "Apa arti 'bolso' dalam kalimat 'Llevo mi bolso al trabajo'?",
+    "correct": "tas / tas tangan",
     "wrong": [
-      "wallet",
-      "belt",
-      "hat"
+      "dompet",
+      "ikat pinggang",
+      "topi"
     ],
-    "explanation": "'Bolso' berarti 'bag' atau 'handbag'. ini/itu kalimat berarti 'I take my bag ke work'."
+    "explanation": "'Bolso' berarti 'tas' atau 'tas tangan'. Kalimat ini berarti 'Aku membawa tasku ke tempat kerja'.",
+    "hint": null
   },
   "q_vocab_a1_08_007": {
     "question": "Kamu akan pergi ke pantai. Barang apa yang biasanya TIDAK akan kamu bawa?",
@@ -786,14 +828,15 @@
     "hint": null
   },
   "q_vocab_a1_08_008": {
-    "question": "apa does 'falda' berarti di 'La falda es roja'?",
-    "correct": "skirt",
+    "question": "Apa arti 'falda' dalam kalimat 'La falda es roja'?",
+    "correct": "rok",
     "wrong": [
-      "dress",
-      "shirt",
-      "jacket"
+      "gaun",
+      "kemeja",
+      "jaket"
     ],
-    "explanation": "'Falda' berarti 'skirt'. ini/itu kalimat berarti 'ini/itu skirt adalah red'."
+    "explanation": "'Falda' berarti 'rok'. Kalimat ini berarti 'Roknya berwarna merah'.",
+    "hint": null
   },
   "q_vocab_a1_08_009": {
     "question": "Necesito un cinturón para estos pantalones.",
@@ -818,24 +861,26 @@
     "hint": null
   },
   "q_vocab_a1_09_001": {
-    "question": "apa does 'cocina' berarti?",
-    "correct": "kitchen",
+    "question": "Apa arti 'cocina'?",
+    "correct": "dapur",
     "wrong": [
-      "bedroom",
-      "bathroom",
-      "living room"
+      "kamar tidur",
+      "kamar mandi",
+      "ruang tamu"
     ],
-    "explanation": "'Cocina' berarti 'kitchen'. itu bisa juga berarti 'cooking' atau 'stove' depending on context."
+    "explanation": "'Cocina' berarti 'dapur'. Tergantung konteks, kata ini juga bisa berarti 'memasak' atau 'kompor'.",
+    "hint": null
   },
   "q_vocab_a1_09_002": {
-    "question": "apa does 'ventana' berarti?",
-    "correct": "window",
+    "question": "Apa arti 'ventana'?",
+    "correct": "jendela",
     "wrong": [
-      "door",
-      "wall",
-      "roof"
+      "pintu",
+      "dinding",
+      "atap"
     ],
-    "explanation": "'Ventana' berarti 'window'. 'Abrir la ventana' = 'ke open ini/itu window'."
+    "explanation": "'Ventana' berarti 'jendela'. 'Abrir la ventana' = 'membuka jendela'.",
+    "hint": null
   },
   "q_vocab_a1_09_003": {
     "question": "Duermo en la ___ todas las noches.",
@@ -848,24 +893,26 @@
     "explanation": "'Cama' berarti 'bed'. ini/itu sentence says 'I sleep di ini/itu bed every night'."
   },
   "q_vocab_a1_09_004": {
-    "question": "apa does 'puerta' berarti?",
-    "correct": "door",
+    "question": "Apa arti 'puerta'?",
+    "correct": "pintu",
     "wrong": [
-      "window",
-      "floor",
-      "ceiling"
+      "jendela",
+      "lantai",
+      "langit-langit"
     ],
-    "explanation": "'Puerta' berarti 'door'. 'Abrir la puerta' = 'ke open ini/itu door', 'cerrar la puerta' = 'ke close ini/itu door'."
+    "explanation": "'Puerta' berarti 'pintu'. 'Abrir la puerta' = 'membuka pintu', 'cerrar la puerta' = 'menutup pintu'.",
+    "hint": null
   },
   "q_vocab_a1_09_005": {
-    "question": "apa does 'sofá' berarti di 'Me siento en el sofá'?",
-    "correct": "sofa / couch",
+    "question": "Apa arti 'sofá' dalam kalimat 'Me siento en el sofá'?",
+    "correct": "sofa / sofa panjang",
     "wrong": [
-      "chair",
-      "bed",
-      "table"
+      "kursi",
+      "tempat tidur",
+      "meja"
     ],
-    "explanation": "'Sofá' berarti 'sofa' atau 'couch'. ini/itu kalimat berarti 'I sit on ini/itu sofa'. Ini adalah biasanya di ini/itu 'salón' (living room)."
+    "explanation": "'Sofá' berarti 'sofa'. Kalimat ini berarti 'Aku duduk di sofa'. Biasanya sofa ada di 'salón' (ruang tamu).",
+    "hint": null
   },
   "q_vocab_a1_09_006": {
     "question": "ini/itu mirror adalah di ini/itu bathroom.",
@@ -878,14 +925,15 @@
     "explanation": "'Espejo' berarti 'mirror' dan 'baño' berarti 'bathroom'. Kita menggunakan 'está' untuk location."
   },
   "q_vocab_a1_09_007": {
-    "question": "apa does 'armario' berarti di 'La ropa está en el armario'?",
-    "correct": "wardrobe / closet",
+    "question": "Apa arti 'armario' dalam kalimat 'La ropa está en el armario'?",
+    "correct": "lemari pakaian",
     "wrong": [
-      "drawer",
-      "shelf",
-      "box"
+      "laci",
+      "rak",
+      "kotak"
     ],
-    "explanation": "'Armario' berarti 'wardrobe' atau 'closet'. ini/itu kalimat berarti 'ini/itu clothes adalah di ini/itu wardrobe'."
+    "explanation": "'Armario' berarti 'lemari pakaian'. Kalimat tersebut berarti 'Pakaian ada di dalam lemari'.",
+    "hint": null
   },
   "q_vocab_a1_09_008": {
     "question": "Hay una estantería con muchos libros en el salón.",
@@ -920,14 +968,15 @@
     "context": "Giving a tour of your home to teman"
   },
   "q_vocab_a1_10_001": {
-    "question": "apa does 'libro' berarti?",
-    "correct": "book",
+    "question": "Apa arti 'libro'?",
+    "correct": "buku",
     "wrong": [
-      "notebook",
-      "pencil",
-      "pen"
+      "buku tulis",
+      "pensil",
+      "pulpen"
     ],
-    "explanation": "'Libro' berarti 'book'. 'Librería' berarti 'bookstore' (not 'library', yang merupakan 'biblioteca')."
+    "explanation": "'Libro' berarti 'buku'. 'Librería' berarti 'toko buku' (bukan 'perpustakaan', yang dalam bahasa Spanyol adalah 'biblioteca').",
+    "hint": null
   },
   "q_vocab_a1_10_002": {
     "question": "El estudiante escribe en el ___.",
@@ -940,24 +989,26 @@
     "explanation": "'Cuaderno' berarti 'notebook'. ini/itu sentence says 'ini/itu student writes di ini/itu notebook'."
   },
   "q_vocab_a1_10_003": {
-    "question": "apa does 'profesor' berarti?",
-    "correct": "teacher / professor",
+    "question": "Apa arti 'profesor'?",
+    "correct": "guru / dosen",
     "wrong": [
-      "student",
-      "principal",
-      "classmate"
+      "murid",
+      "kepala sekolah",
+      "teman sekelas"
     ],
-    "explanation": "'Profesor' berarti 'teacher' atau 'professor'. ini/itu feminin form adalah 'profesora'."
+    "explanation": "'Profesor' berarti 'guru' atau 'dosen'. Bentuk femininnya adalah 'profesora'.",
+    "hint": null
   },
   "q_vocab_a1_10_004": {
-    "question": "apa does 'examen' berarti?",
-    "correct": "exam / test",
+    "question": "Apa arti 'examen'?",
+    "correct": "ujian",
     "wrong": [
-      "homework",
-      "class",
-      "grade"
+      "pekerjaan rumah",
+      "kelas",
+      "nilai"
     ],
-    "explanation": "'Examen' berarti 'exam' atau 'test'. ini/itu jamak adalah 'exámenes' (note ini/itu accent shift)."
+    "explanation": "'Examen' berarti 'ujian'. Bentuk jamaknya adalah 'exámenes' (perhatikan perpindahan aksennya).",
+    "hint": null
   },
   "q_vocab_a1_10_005": {
     "question": "I study at ini/itu library.",
@@ -970,14 +1021,15 @@
     "explanation": "'Biblioteca' berarti 'library'. menjadi careful: 'librería' berarti 'bookstore', not 'library'."
   },
   "q_vocab_a1_10_006": {
-    "question": "apa does 'pizarra' berarti di 'El profesor escribe en la pizarra'?",
-    "correct": "blackboard / whiteboard",
+    "question": "Apa arti 'pizarra' dalam kalimat 'El profesor escribe en la pizarra'?",
+    "correct": "papan tulis",
     "wrong": [
-      "desk",
-      "notebook",
-      "textbook"
+      "meja belajar",
+      "buku tulis",
+      "buku pelajaran"
     ],
-    "explanation": "'Pizarra' berarti 'blackboard' atau 'whiteboard'. ini/itu kalimat berarti 'ini/itu teacher writes on ini/itu board'."
+    "explanation": "'Pizarra' berarti 'papan tulis'. Kalimat tersebut berarti 'Gurunya menulis di papan tulis'.",
+    "hint": null
   },
   "q_vocab_a1_10_007": {
     "question": "kamu forgot ke do milikmu homework. bagaimana do kamu tell milikmu teacher?",
@@ -991,14 +1043,15 @@
     "context": "Arriving at class without homework"
   },
   "q_vocab_a1_10_008": {
-    "question": "apa does 'lápiz' berarti di 'Necesito un lápiz'?",
-    "correct": "pencil",
+    "question": "Apa arti 'lápiz' dalam kalimat 'Necesito un lápiz'?",
+    "correct": "pensil",
     "wrong": [
-      "pen",
-      "eraser",
-      "ruler"
+      "pulpen",
+      "penghapus",
+      "penggaris"
     ],
-    "explanation": "'Lápiz' berarti 'pencil'. ini/itu jamak adalah 'lápices'. A pen adalah 'bolígrafo' (atau 'boli' informally)."
+    "explanation": "'Lápiz' berarti 'pensil'. Bentuk jamaknya adalah 'lápices'. Pulpen dalam bahasa Spanyol adalah 'bolígrafo' (atau 'boli' dalam percakapan santai).",
+    "hint": null
   },
   "q_vocab_a1_10_009": {
     "question": "Mi hermana estudia en la universidad.",
@@ -1022,24 +1075,26 @@
     "context": "In class without a pen"
   },
   "q_vocab_a1_11_001": {
-    "question": "apa does 'médico' berarti?",
-    "correct": "doctor",
+    "question": "Apa arti 'médico'?",
+    "correct": "dokter",
     "wrong": [
-      "nurse",
-      "dentist",
-      "pharmacist"
+      "perawat",
+      "dokter gigi",
+      "apoteker"
     ],
-    "explanation": "'Médico' berarti 'doctor'. ini/itu feminin form adalah 'médica'. 'Doctor/Doctora' adalah juga commonly used."
+    "explanation": "'Médico' berarti 'dokter'. Bentuk femininnya adalah 'médica'. 'Doctor/Doctora' juga umum digunakan.",
+    "hint": null
   },
   "q_vocab_a1_11_002": {
-    "question": "apa does 'abogado' berarti?",
-    "correct": "lawyer",
+    "question": "Apa arti 'abogado'?",
+    "correct": "pengacara",
     "wrong": [
-      "engineer",
-      "journalist",
-      "accountant"
+      "insinyur",
+      "jurnalis",
+      "akuntan"
     ],
-    "explanation": "'Abogado' berarti 'lawyer'. ini/itu feminin form adalah 'abogada'."
+    "explanation": "'Abogado' berarti 'pengacara'. Bentuk femininnya adalah 'abogada'.",
+    "hint": null
   },
   "q_vocab_a1_11_003": {
     "question": "El ___ prepara la comida en el restaurante.",
@@ -1052,24 +1107,26 @@
     "explanation": "'Cocinero' berarti 'cook/chef'. ini/itu sentence says 'ini/itu cook prepares ini/itu food di ini/itu restaurant'."
   },
   "q_vocab_a1_11_004": {
-    "question": "apa does 'enfermero' berarti?",
-    "correct": "nurse",
+    "question": "Apa arti 'enfermero'?",
+    "correct": "perawat",
     "wrong": [
-      "doctor",
-      "dentist",
-      "patient"
+      "dokter",
+      "dokter gigi",
+      "pasien"
     ],
-    "explanation": "'Enfermero' berarti 'nurse' (male). 'Enfermera' adalah feminin form. mereka work di hospitals dan clinics."
+    "explanation": "'Enfermero' berarti 'perawat' (laki-laki). 'Enfermera' adalah bentuk femininnya. Mereka bekerja di rumah sakit dan klinik.",
+    "hint": null
   },
   "q_vocab_a1_11_005": {
-    "question": "apa does 'periodista' berarti di 'El periodista trabaja en un periódico'?",
-    "correct": "journalist",
+    "question": "Apa arti 'periodista' dalam kalimat 'El periodista trabaja en un periódico'?",
+    "correct": "jurnalis / wartawan",
     "wrong": [
-      "writer",
+      "penulis",
       "editor",
-      "photographer"
+      "fotografer"
     ],
-    "explanation": "'Periodista' berarti 'journalist'. ini kata adalah same untuk maskulin dan feminin. ini/itu kalimat berarti 'ini/itu journalist works at a newspaper'."
+    "explanation": "'Periodista' berarti 'jurnalis' atau 'wartawan'. Kata ini sama untuk maskulin dan feminin. Kalimat tersebut berarti 'Jurnalis itu bekerja di sebuah surat kabar'.",
+    "hint": null
   },
   "q_vocab_a1_11_006": {
     "question": "My father adalah an engineer.",
@@ -1082,14 +1139,15 @@
     "explanation": "'Ingeniero' berarti 'engineer'. dalam bahasa Spanyol, professions setelah 'ser' typically don't use an artikel (no 'un')."
   },
   "q_vocab_a1_11_007": {
-    "question": "apa does 'camarero' berarti di 'El camarero trae la cuenta'?",
-    "correct": "waiter",
+    "question": "Apa arti 'camarero' dalam kalimat 'El camarero trae la cuenta'?",
+    "correct": "pelayan",
     "wrong": [
-      "chef",
-      "manager",
-      "customer"
+      "koki",
+      "manajer",
+      "pelanggan"
     ],
-    "explanation": "'Camarero' berarti 'waiter'. ini/itu kalimat berarti 'ini/itu waiter brings ini/itu bill'. 'Camarera' adalah waitress."
+    "explanation": "'Camarero' berarti 'pelayan'. Kalimat tersebut berarti 'Pelayan membawakan tagihan'. 'Camarera' adalah pelayan perempuan.",
+    "hint": null
   },
   "q_vocab_a1_11_008": {
     "question": "Soy estudiante de medicina. Quiero ser médico.",
@@ -1124,14 +1182,15 @@
     "context": "Making an emergency phone call"
   },
   "q_vocab_a1_12_001": {
-    "question": "apa does 'sol' berarti?",
-    "correct": "sun",
+    "question": "Apa arti 'sol'?",
+    "correct": "matahari",
     "wrong": [
-      "moon",
-      "star",
-      "cloud"
+      "bulan",
+      "bintang",
+      "awan"
     ],
-    "explanation": "'Sol' berarti 'sun'. 'Hace sol' berarti 'Ini adalah sunny' (literally 'itu makes sun')."
+    "explanation": "'Sol' berarti 'matahari'. 'Hace sol' berarti 'Cuacanya cerah' (secara harfiah 'Membuat matahari').",
+    "hint": null
   },
   "q_vocab_a1_12_002": {
     "question": "Hoy no hay ___, el cielo está azul.",
@@ -1144,24 +1203,26 @@
     "explanation": "'Nubes' berarti 'clouds' (tunggal: 'nube'). ini/itu sentence says 'Today di sana adalah no clouds, ini/itu sky adalah blue'."
   },
   "q_vocab_a1_12_003": {
-    "question": "apa does 'lluvia' berarti?",
-    "correct": "rain",
+    "question": "Apa arti 'lluvia'?",
+    "correct": "hujan",
     "wrong": [
-      "snow",
-      "wind",
-      "storm"
+      "salju",
+      "angin",
+      "badai"
     ],
-    "explanation": "'Lluvia' berarti 'rain'. ini/itu bentuk kata kerja adalah 'llover' (ke rain): 'Está lloviendo' = 'Ini adalah raining'."
+    "explanation": "'Lluvia' berarti 'hujan'. Bentuk kata kerjanya adalah 'llover' (hujan turun): 'Está lloviendo' = 'Sedang hujan'.",
+    "hint": null
   },
   "q_vocab_a1_12_004": {
-    "question": "apa does 'árbol' berarti?",
-    "correct": "tree",
+    "question": "Apa arti 'árbol'?",
+    "correct": "pohon",
     "wrong": [
-      "flower",
-      "bush",
-      "leaf"
+      "bunga",
+      "semak",
+      "daun"
     ],
-    "explanation": "'Árbol' berarti 'tree'. ini/itu jamak adalah 'árboles'. 'Bosque' berarti 'forest' (banyak trees)."
+    "explanation": "'Árbol' berarti 'pohon'. Bentuk jamaknya adalah 'árboles'. 'Bosque' berarti 'hutan' (banyak pohon).",
+    "hint": null
   },
   "q_vocab_a1_12_005": {
     "question": "itu adalah sangat cold today dan itu adalah snowing.",
@@ -1174,14 +1235,15 @@
     "explanation": "'Frío' berarti 'cold', 'nieve' berarti 'snow', dan 'nevar' berarti 'ke snow'. 'Está nevando' = 'itu adalah snowing'."
   },
   "q_vocab_a1_12_006": {
-    "question": "apa does 'montaña' berarti di 'Vamos a la montaña este fin de semana'?",
-    "correct": "mountain",
+    "question": "Apa arti 'montaña' dalam kalimat 'Vamos a la montaña este fin de semana'?",
+    "correct": "gunung",
     "wrong": [
-      "beach",
-      "river",
-      "lake"
+      "pantai",
+      "sungai",
+      "danau"
     ],
-    "explanation": "'Montaña' berarti 'mountain'. ini/itu kalimat berarti 'We adalah going ke ini/itu mountain ini weekend'."
+    "explanation": "'Montaña' berarti 'gunung'. Kalimat tersebut berarti 'Kita pergi ke gunung akhir pekan ini'.",
+    "hint": null
   },
   "q_vocab_a1_12_007": {
     "question": "kamu want ke go ke ini/itu beach. apa weather do kamu hope untuk?",
@@ -1195,14 +1257,15 @@
     "context": "Planning a beach trip"
   },
   "q_vocab_a1_12_008": {
-    "question": "apa does 'río' berarti di 'El río es muy largo'?",
-    "correct": "river",
+    "question": "Apa arti 'río' dalam kalimat 'El río es muy largo'?",
+    "correct": "sungai",
     "wrong": [
-      "sea",
-      "lake",
-      "stream"
+      "laut",
+      "danau",
+      "anak sungai"
     ],
-    "explanation": "'Río' berarti 'river'. ini/itu kalimat berarti 'ini/itu river adalah sangat long'. 'Mar' berarti 'sea'."
+    "explanation": "'Río' berarti 'sungai'. Kalimat tersebut berarti 'Sungainya sangat panjang'. 'Mar' berarti 'laut'.",
+    "hint": null
   },
   "q_vocab_a1_12_009": {
     "question": "Las flores son muy bonitas en primavera.",
@@ -1226,24 +1289,26 @@
     "context": "Watching the weather forecast on TV"
   },
   "q_vocab_a1_13_001": {
-    "question": "apa does 'coche' berarti?",
-    "correct": "car",
+    "question": "Apa arti 'coche'?",
+    "correct": "mobil",
     "wrong": [
       "bus",
-      "train",
-      "bicycle"
+      "kereta",
+      "sepeda"
     ],
-    "explanation": "'Coche' berarti 'car'. di Latin America, 'carro' atau 'auto' adalah more commonly used."
+    "explanation": "'Coche' berarti 'mobil'. Di Amerika Latin, 'carro' atau 'auto' lebih umum digunakan.",
+    "hint": null
   },
   "q_vocab_a1_13_002": {
-    "question": "apa does 'avión' berarti?",
-    "correct": "airplane",
+    "question": "Apa arti 'avión'?",
+    "correct": "pesawat terbang",
     "wrong": [
-      "train",
-      "boat",
-      "helicopter"
+      "kereta",
+      "kapal",
+      "helikopter"
     ],
-    "explanation": "'Avión' berarti 'airplane'. 'Aeropuerto' berarti 'airport'. 'Viajar en avión' = 'ke travel oleh plane'."
+    "explanation": "'Avión' berarti 'pesawat terbang'. 'Aeropuerto' berarti 'bandara'. 'Viajar en avión' = 'bepergian dengan pesawat'.",
+    "hint": null
   },
   "q_vocab_a1_13_003": {
     "question": "Voy al trabajo en ___ porque no tengo coche.",
@@ -1256,24 +1321,26 @@
     "explanation": "'Autobús' berarti 'bus'. ini/itu sentence says 'I go ke work oleh bus karena I don't memiliki a car'."
   },
   "q_vocab_a1_13_004": {
-    "question": "apa does 'bicicleta' berarti?",
-    "correct": "bicycle",
+    "question": "Apa arti 'bicicleta'?",
+    "correct": "sepeda",
     "wrong": [
-      "motorcycle",
-      "scooter",
-      "car"
+      "sepeda motor",
+      "skuter",
+      "mobil"
     ],
-    "explanation": "'Bicicleta' berarti 'bicycle'. Ini adalah sering shortened ke 'bici' di casual speech."
+    "explanation": "'Bicicleta' berarti 'sepeda'. Kata ini sering disingkat menjadi 'bici' dalam percakapan santai.",
+    "hint": null
   },
   "q_vocab_a1_13_005": {
-    "question": "apa does 'metro' berarti di 'Tomo el metro para ir al centro'?",
-    "correct": "subway / metro",
+    "question": "Apa arti 'metro' dalam kalimat 'Tomo el metro para ir al centro'?",
+    "correct": "kereta bawah tanah / metro",
     "wrong": [
       "bus",
-      "taxi",
-      "tram"
+      "taksi",
+      "trem"
     ],
-    "explanation": "'Metro' berarti 'subway' atau 'metro'. ini/itu kalimat berarti 'I take ini/itu metro ke go ke ini/itu center (downtown)'."
+    "explanation": "'Metro' berarti 'kereta bawah tanah' atau 'metro'. Kalimat tersebut berarti 'Saya naik metro untuk pergi ke pusat kota'.",
+    "hint": null
   },
   "q_vocab_a1_13_006": {
     "question": "I go ke school on foot.",
@@ -1286,14 +1353,15 @@
     "explanation": "'A pie' berarti 'on foot'. We say 'ir a pie' (ke go on foot) rather than 'caminar a' di ini context."
   },
   "q_vocab_a1_13_007": {
-    "question": "apa does 'tren' berarti di 'El tren sale a las ocho'?",
-    "correct": "train",
+    "question": "Apa arti 'tren' dalam kalimat 'El tren sale a las ocho'?",
+    "correct": "kereta api",
     "wrong": [
       "bus",
-      "plane",
-      "taxi"
+      "pesawat",
+      "taksi"
     ],
-    "explanation": "'Tren' berarti 'train'. ini/itu kalimat berarti 'ini/itu train leaves at eight'. 'Estación de tren' = 'train station'."
+    "explanation": "'Tren' berarti 'kereta api'. Kalimat tersebut berarti 'Kereta api berangkat pukul delapan'. 'Estación de tren' = 'stasiun kereta api'.",
+    "hint": null
   },
   "q_vocab_a1_13_008": {
     "question": "Quiero viajar a la isla en barco.",
@@ -1328,14 +1396,15 @@
     "context": "Discussing daily commute with teman"
   },
   "q_vocab_a1_14_001": {
-    "question": "apa does 'comer' berarti?",
-    "correct": "to eat",
+    "question": "Apa arti 'comer'?",
+    "correct": "makan",
     "wrong": [
-      "to drink",
-      "to cook",
-      "to sleep"
+      "minum",
+      "memasak",
+      "tidur"
     ],
-    "explanation": "'Comer' berarti 'ke eat'. 'La comida' berarti 'ini/itu food' atau 'ini/itu meal' (especially lunch di Spain)."
+    "explanation": "'Comer' berarti 'makan'. 'La comida' berarti 'makanan' atau 'santapan' (terutama makan siang di Spanyol).",
+    "hint": null
   },
   "q_vocab_a1_14_002": {
     "question": "Me gusta ___ libros por la noche.",
@@ -1348,24 +1417,26 @@
     "explanation": "'Leer' berarti 'ke read'. ini/itu sentence says 'I like ke read books at night'."
   },
   "q_vocab_a1_14_003": {
-    "question": "apa does 'dormir' berarti?",
-    "correct": "to sleep",
+    "question": "Apa arti 'dormir'?",
+    "correct": "tidur",
     "wrong": [
-      "to dream",
-      "to rest",
-      "to wake up"
+      "bermimpi",
+      "beristirahat",
+      "bangun"
     ],
-    "explanation": "'Dormir' berarti 'ke sleep'. itu adalah akar kata-changing kata kerja: duermo, duermes, duerme..."
+    "explanation": "'Dormir' berarti 'tidur'. Ini adalah kata kerja dengan perubahan akar kata: duermo, duermes, duerme...",
+    "hint": null
   },
   "q_vocab_a1_14_004": {
-    "question": "apa does 'hablar' berarti?",
-    "correct": "to speak / to talk",
+    "question": "Apa arti 'hablar'?",
+    "correct": "berbicara / bicara",
     "wrong": [
-      "to listen",
-      "to write",
-      "to read"
+      "mendengarkan",
+      "menulis",
+      "membaca"
     ],
-    "explanation": "'Hablar' berarti 'ke speak' atau 'ke talk'. 'Hablar español' = 'ke speak Spanyol'."
+    "explanation": "'Hablar' berarti 'berbicara'. 'Hablar español' = 'berbicara bahasa Spanyol'.",
+    "hint": null
   },
   "q_vocab_a1_14_005": {
     "question": "I open ini/itu window every morning.",
@@ -1378,14 +1449,15 @@
     "explanation": "'Abrir' berarti 'ke open'. 'Abro' adalah first orang tunggal (yo) form. Its opposite adalah 'cerrar' (ke close)."
   },
   "q_vocab_a1_14_006": {
-    "question": "apa does 'escribir' berarti di 'Escribo un correo electrónico'?",
-    "correct": "to write",
+    "question": "Apa arti 'escribir' dalam kalimat 'Escribo un correo electrónico'?",
+    "correct": "menulis",
     "wrong": [
-      "to read",
-      "to send",
-      "to type"
+      "membaca",
+      "mengirim",
+      "mengetik"
     ],
-    "explanation": "'Escribir' berarti 'ke write'. ini/itu kalimat berarti 'I write an email'. 'Correo electrónico' = 'email'."
+    "explanation": "'Escribir' berarti 'menulis'. Kalimat tersebut berarti 'Saya menulis sebuah email'. 'Correo electrónico' = 'email'.",
+    "hint": null
   },
   "q_vocab_a1_14_007": {
     "question": "kamu adalah at a bus stop dan ini/itu bus adalah late. apa kata kerja describes apa kamu adalah doing?",
@@ -1399,14 +1471,15 @@
     "context": "Waiting for a late bus"
   },
   "q_vocab_a1_14_008": {
-    "question": "apa does 'beber' berarti di '¿Quieres beber algo?'?",
-    "correct": "to drink",
+    "question": "Apa arti 'beber' dalam kalimat '¿Quieres beber algo?'?",
+    "correct": "minum",
     "wrong": [
-      "to eat",
-      "to buy",
-      "to want"
+      "makan",
+      "membeli",
+      "ingin"
     ],
-    "explanation": "'Beber' berarti 'ke drink'. ini/itu kalimat berarti 'Do kamu want ke drink something?' 'Tomar' adalah juga used untuk 'ke drink'."
+    "explanation": "'Beber' berarti 'minum'. Kalimat tersebut berarti 'Kamu mau minum sesuatu?'. 'Tomar' juga digunakan untuk arti 'minum'.",
+    "hint": null
   },
   "q_vocab_a1_14_009": {
     "question": "Me levanto a las siete y me ducho antes de desayunar.",
@@ -1430,24 +1503,26 @@
     "context": "Receiving a phone call during a meeting"
   },
   "q_vocab_a1_15_001": {
-    "question": "apa does 'contento' berarti?",
-    "correct": "happy / pleased",
+    "question": "Apa arti 'contento'?",
+    "correct": "senang / puas",
     "wrong": [
-      "sad",
-      "angry",
-      "tired"
+      "sedih",
+      "marah",
+      "lelah"
     ],
-    "explanation": "'Contento' berarti 'happy' atau 'pleased'. ini/itu feminin form adalah 'contenta'. Similar ke 'feliz' tetapi less intense."
+    "explanation": "'Contento' berarti 'senang' atau 'puas'. Bentuk feminimnya adalah 'contenta'. Mirip dengan 'feliz' tetapi kurang intens.",
+    "hint": null
   },
   "q_vocab_a1_15_002": {
-    "question": "apa does 'triste' berarti?",
-    "correct": "sad",
+    "question": "Apa arti 'triste'?",
+    "correct": "sedih",
     "wrong": [
-      "happy",
-      "angry",
-      "bored"
+      "senang",
+      "marah",
+      "bosan"
     ],
-    "explanation": "'Triste' berarti 'sad'. Unlike banyak adjectives, itu memiliki ini/itu same form untuk maskulin dan feminin."
+    "explanation": "'Triste' berarti 'sedih'. Tidak seperti banyak kata sifat lainnya, bentuknya sama untuk maskulin dan feminin.",
+    "hint": null
   },
   "q_vocab_a1_15_003": {
     "question": "Estoy muy ___ después de trabajar todo el día.",
@@ -1460,24 +1535,26 @@
     "explanation": "'Cansado' berarti 'tired'. ini/itu sentence says 'I am sangat tired setelah working semua day'. Use 'estar' untuk keadaan sementaras."
   },
   "q_vocab_a1_15_004": {
-    "question": "apa does 'enfermo' berarti?",
-    "correct": "sick / ill",
+    "question": "Apa arti 'enfermo'?",
+    "correct": "sakit",
     "wrong": [
-      "healthy",
-      "tired",
-      "sad"
+      "sehat",
+      "lelah",
+      "sedih"
     ],
-    "explanation": "'Enfermo' berarti 'sick' atau 'ill'. 'Estoy enfermo' = 'I am sick'. ini/itu feminin form adalah 'enferma'."
+    "explanation": "'Enfermo' berarti 'sakit'. 'Estoy enfermo' = 'Saya sakit'. Bentuk feminimnya adalah 'enferma'.",
+    "hint": null
   },
   "q_vocab_a1_15_005": {
-    "question": "apa does 'preocupado' berarti di 'Estoy preocupado por el examen'?",
-    "correct": "worried",
+    "question": "Apa arti 'preocupado' dalam kalimat 'Estoy preocupado por el examen'?",
+    "correct": "khawatir",
     "wrong": [
-      "excited",
-      "nervous",
-      "bored"
+      "bersemangat",
+      "gugup",
+      "bosan"
     ],
-    "explanation": "'Preocupado' berarti 'worried'. ini/itu kalimat berarti 'I am worried about ini/itu exam'. 'Preocuparse' = 'ke worry'."
+    "explanation": "'Preocupado' berarti 'khawatir'. Kalimat tersebut berarti 'Saya khawatir tentang ujian itu'. 'Preocuparse' = 'khawatir'.",
+    "hint": null
   },
   "q_vocab_a1_15_006": {
     "question": "I am sangat nervous about ini/itu interview.",
@@ -1491,14 +1568,15 @@
     "hint": "Temporary emotions use 'estar', not 'ser'"
   },
   "q_vocab_a1_15_007": {
-    "question": "apa does 'enfadado' berarti di 'Mi padre está enfadado conmigo'?",
-    "correct": "angry",
+    "question": "Apa arti 'enfadado' dalam kalimat 'Mi padre está enfadado conmigo'?",
+    "correct": "marah",
     "wrong": [
-      "happy",
-      "proud",
-      "disappointed"
+      "senang",
+      "bangga",
+      "kecewa"
     ],
-    "explanation": "'Enfadado' berarti 'angry'. ini/itu kalimat berarti 'My father adalah angry dengan me'. di Latin America, 'enojado' adalah more umum."
+    "explanation": "'Enfadado' berarti 'marah'. Kalimat tersebut berarti 'Ayah saya marah kepada saya'. Di Amerika Latin, 'enojado' lebih umum digunakan.",
+    "hint": null
   },
   "q_vocab_a1_15_008": {
     "question": "¿Cómo estás? — Estoy bien, gracias.",

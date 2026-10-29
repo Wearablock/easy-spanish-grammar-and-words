@@ -21,14 +21,15 @@
     "explanation": "Querer 改变 e→ie 在 ellos 形式: quieren. boot pattern applies 到 所有 形式 except nosotros/vosotros."
   },
   "q_gram_a2_01_003": {
-    "question": "什么 does 'boot pattern' 表示 在 context 的 西班牙语 词根-changing verbs?",
-    "correct": "The stem change applies to all forms except nosotros and vosotros",
+    "question": "在西班牙语词干变化动词中,“靴子规则”(boot pattern)是什么意思?",
+    "correct": "除 nosotros 和 vosotros 外,其余所有人称形式都发生词干变化",
     "wrong": [
-      "The stem change applies only to the yo form",
-      "The stem change applies to all six conjugation forms",
-      "The stem change only happens in the past tense"
+      "词干变化只发生在 yo 形式",
+      "词干变化发生在全部六个变位形式中",
+      "词干变化只发生在过去时"
     ],
-    "explanation": " 'boot pattern' (或 'shoe pattern') 意思是 词根 改变 occurs 在 yo, tú, él/ella, 和 ellos/ellas 形式, 但是 NOT 在 nosotros 或 vosotros."
+    "explanation": "“靴子规则”(boot pattern,也叫“鞋形规则”)是指词干变化出现在 yo、tú、él/ella 和 ellos/ellas 的形式中,而 nosotros 和 vosotros 不发生变化。",
+    "hint": null
   },
   "q_gram_a2_01_004": {
     "question": "Nosotros ___ la lección. (entender, e→ie, nosotros form)",
@@ -196,15 +197,16 @@
     "explanation": "Cuento (来自 contar, o→ue) 意思是 'I count' 和 vuelvo (来自 volver, o→ue) 意思是 'I return'."
   },
   "q_gram_a2_02_010": {
-    "question": "Vosotros ___ a casa después de la clase. (volver, o→ue, vosotros form)",
+    "question": "Vosotros ___ a casa después de la clase. (volver,o→ue,vosotros 形式)",
     "correct": "volvéis",
     "wrong": [
       "vuelvéis",
       "volvemos",
       "vuelven"
     ],
-    "explanation": "Vosotros 是 outside boot pattern, so volver uses 规则 词根: volvéis.",
-    "conjugation_info": "volver (o→ue): vuelvo, vuelves, vuelve, volvemos, volvéis, vuelven"
+    "explanation": "vosotros 不在“靴子规则”范围内,所以 volver 使用规则词干:volvéis。",
+    "conjugation_info": "volver (o→ue): vuelvo, vuelves, vuelve, volvemos, volvéis, vuelven",
+    "hint": null
   },
   "q_gram_a2_03_001": {
     "question": "Yo ___ un café, por favor. (pedir, e→i)",
@@ -551,14 +553,15 @@
     "explanation": "'A ti' 需要 indirect object 代词 'te'. Gustar 是 commonly 用过的 与 IOPs."
   },
   "q_gram_a2_06_004": {
-    "question": "什么 question does indirect object 代词 answer?",
-    "correct": "To whom / for whom",
+    "question": "间接宾语代词回答的是什么问题?",
+    "correct": "给谁/为谁",
     "wrong": [
-      "What / whom (direct receiver of action)",
-      "Where / when",
-      "How / why"
+      "什么/谁(动作的直接承受者)",
+      "在哪里/什么时候",
+      "怎样/为什么"
     ],
-    "explanation": "Indirect object 代词 answer '到 whom?' 或 '为 whom?' -- Le doy el libro = I give book 到 HIM/HER."
+    "explanation": "间接宾语代词回答“给谁?”或“为谁?”——Le doy el libro = 我把书给他/她。",
+    "hint": null
   },
   "q_gram_a2_06_005": {
     "question": "Yo ___ escribo una carta a mis abuelos. (IOP 为 'a mis abuelos')",
@@ -644,14 +647,15 @@
     "explanation": " 动名词 的 -ar 动词 结尾 -ando: jugando. 词根 改变 做 NOT apply 到 规则 gerunds 的 -ar 动词."
   },
   "q_gram_a2_07_003": {
-    "question": "什么 does present progressive (estar + 副动词) express 在西班牙语中?",
-    "correct": "An action happening right now, at this moment",
+    "question": "西班牙语的现在进行时(estar + 副动词)表示什么?",
+    "correct": "此刻正在发生的动作",
     "wrong": [
-      "A habitual action that happens regularly",
-      "An action that will happen in the future",
-      "An action completed in the past"
+      "经常性、有规律发生的习惯动作",
+      "将来会发生的动作",
+      "过去已经完成的动作"
     ],
-    "explanation": " 现在进行时 (estoy hablando) emphasizes 那 an action 是 在 progress right NOW. Unlike 英语, 它 是 NOT 用过的 为 habitual actions."
+    "explanation": "现在进行时(estoy hablando)强调动作正在“此刻”进行。与英语不同,它不用于表示习惯性动作。",
+    "hint": null
   },
   "q_gram_a2_07_004": {
     "question": "Ella está ___ un libro interesante. (leer, 副动词 — 不规则)",
@@ -758,14 +762,15 @@
     "explanation": "为 ella, ir conjugates 到 'va': va a cocinar."
   },
   "q_gram_a2_08_004": {
-    "question": "什么 does 'ir a + 不定式' express?",
-    "correct": "Plans, intentions, or near future actions",
+    "question": "“ir a + 动词原形”表示什么?",
+    "correct": "计划、打算或近期将来的动作",
     "wrong": [
-      "Completed past actions",
-      "Habitual actions in the present",
-      "Ongoing actions right now"
+      "已完成的过去动作",
+      "现在的习惯性动作",
+      "此刻正在进行的动作"
     ],
-    "explanation": "'Ir a + 不定式' expresses 什么 someone 是 going 到 做 -- plans, intentions, 和 靠近 future events."
+    "explanation": "“Ir a + 动词原形”表示某人将要做什么——即计划、打算和近期将来的事情。",
+    "hint": null
   },
   "q_gram_a2_08_005": {
     "question": "¿Ustedes ___ a ver la película esta noche? (ir, ustedes form)",
@@ -965,14 +970,15 @@
     "explanation": "Poder 有 an 不规则 简单过去时 词根: pud-. Nosotros: pudimos."
   },
   "q_gram_a2_10_004": {
-    "question": "什么 是 special about 简单过去时 forms 的 'ir' 和 'ser'?",
-    "correct": "They share the exact same conjugation forms",
+    "question": "“ir”和“ser”的简单过去时(pretérito indefinido)有什么特别之处?",
+    "correct": "它们的变位形式完全相同",
     "wrong": [
-      "They both have regular preterite endings",
-      "Only 'ir' is irregular in the preterite",
-      "They have different stems but the same endings"
+      "它们的简单过去时词尾都是规则的",
+      "只有“ir”在简单过去时中是不规则的",
+      "它们词干不同,但词尾相同"
     ],
-    "explanation": "Ir 和 ser share identical 简单过去时 形式: fui, fuiste, fue, fuimos, fuisteis, fueron. Context determines which 动词 是 meant."
+    "explanation": "Ir 和 ser 的简单过去时形式完全相同:fui, fuiste, fue, fuimos, fuisteis, fueron。具体指哪个动词要由上下文判断。",
+    "hint": null
   },
   "q_gram_a2_10_005": {
     "question": "¿Dónde ___ tú las llaves? (poner, 简单过去时, tú form)",
@@ -1017,13 +1023,14 @@
   },
   "q_gram_a2_10_009": {
     "question": "Ayer mi amigo me dijo algo interesante y yo no lo pude creer.",
-    "correct": "Yesterday my friend told me something interesting and I couldn't believe it.",
+    "correct": "昨天我朋友告诉了我一件有趣的事,我简直不敢相信。",
     "wrong": [
-      "Yesterday my friend told me something boring and I couldn't believe it.",
-      "Yesterday my friend asked me something interesting and I couldn't understand it.",
-      "Today my friend told me something interesting and I couldn't believe it."
+      "昨天我朋友告诉了我一件无聊的事,我简直不敢相信。",
+      "昨天我朋友问了我一件有趣的事,我没能听懂。",
+      "今天我朋友告诉了我一件有趣的事,我简直不敢相信。"
     ],
-    "explanation": "Dijo (来自 decir) = told, pude (来自 poder) = could. 两者 是 不规则 简单过去时 形式."
+    "explanation": "Dijo(来自 decir)= 告诉,pude(来自 poder)= 能够。两者都是不规则的简单过去时形式。",
+    "hint": null
   },
   "q_gram_a2_10_010": {
     "question": "Nosotros ___ mucho trabajo la semana pasada. (tener, 简单过去时, nosotros form)",
@@ -1265,14 +1272,15 @@
     "explanation": "A single, completed event uses 简单过去时: hubo. 'Ayer' signals a specific past 时间."
   },
   "q_gram_a2_13_003": {
-    "question": "什么 是 key difference between 简单过去时 和 未完成过去时?",
-    "correct": "Preterite = completed actions; Imperfect = ongoing/habitual/descriptive",
+    "question": "简单过去时和未完成过去时的关键区别是什么?",
+    "correct": "简单过去时 = 已完成的动作;未完成过去时 = 持续/习惯/描述性的内容",
     "wrong": [
-      "Preterite = present; Imperfect = past",
-      "Preterite = formal; Imperfect = informal",
-      "Preterite = affirmative; Imperfect = negative"
+      "简单过去时 = 现在;未完成过去时 = 过去",
+      "简单过去时 = 正式;未完成过去时 = 非正式",
+      "简单过去时 = 肯定;未完成过去时 = 否定"
     ],
-    "explanation": " 简单过去时 narrates completed events. 未完成过去时 describes background, habits, 和 ongoing states. 他们 经常 work together."
+    "explanation": "简单过去时叙述已完成的事件,未完成过去时描述背景、习惯和持续的状态。两者经常搭配使用。",
+    "hint": null
   },
   "q_gram_a2_13_004": {
     "question": "Mientras yo ___ la cena, mi hermano llegó. (preparar — background action)",
@@ -1474,14 +1482,15 @@
     "explanation": " superlative '最' = 'más': el más caro de la ciudad."
   },
   "q_gram_a2_15_003": {
-    "question": "什么 does absolute superlative suffix '-ísimo/a' express?",
-    "correct": "An extremely high degree of a quality (very, very)",
+    "question": "绝对最高级后缀“-ísimo/a”表示什么?",
+    "correct": "某种性质的程度极高(非常非常)",
     "wrong": [
-      "A comparison between two things",
-      "The lowest degree of a quality",
-      "A comparison among three or more things"
+      "两个事物之间的比较",
+      "某种性质的最低程度",
+      "三个或更多事物之间的比较"
     ],
-    "explanation": " absolute superlative -ísimo/a 意思是 'extremely' 或 '非常, 非常': grandísimo = extremely big, facilísimo = extremely easy."
+    "explanation": "绝对最高级 -ísimo/a 表示“极其”或“非常非常”:grandísimo = 极大,facilísimo = 极容易。",
+    "hint": null
   },
   "q_gram_a2_15_004": {
     "question": "La pizza está ___. (caliente → absolute superlative -ísimo/a form)",
@@ -1681,14 +1690,15 @@
     "explanation": "'Por' 是 用过的 为 reason/cause: Gracias por tu ayuda = Thanks 为 (因为 的) 你的 help."
   },
   "q_gram_a2_17_003": {
-    "question": "什么 does 'para' generally express?",
-    "correct": "Purpose, destination, deadline, or recipient",
+    "question": "“para”一般表示什么?",
+    "correct": "目的、目的地、期限或接受者",
     "wrong": [
-      "Reason, exchange, duration, or movement through",
-      "Only future time expressions",
-      "Only movement and location"
+      "原因、交换、持续时间或经过某处",
+      "只用于表示将来的时间",
+      "只用于表示移动和位置"
     ],
-    "explanation": "Para = purpose (para estudiar), destination (para Madrid), deadline (para mañana), recipient (para ti)."
+    "explanation": "Para = 目的(para estudiar)、目的地(para Madrid)、期限(para mañana)、接受者(para ti)。",
+    "hint": null
   },
   "q_gram_a2_17_004": {
     "question": "Caminamos ___ el parque todas las mañanas. (por — through/along)",
@@ -1826,14 +1836,15 @@
     "explanation": "'Tampoco' 意思是 '都不/任意一个' (negative counterpart 的 'también'): Yo tampoco quiero ir."
   },
   "q_gram_a2_18_007": {
-    "question": "I 有 从不 been 到 Spain.",
+    "question": "我从来没有去过西班牙。",
     "correct": "Nunca he estado en España.",
     "wrong": [
       "No nunca he estado en España.",
       "No he estado nunca España.",
       "Jamás no he estado en España."
     ],
-    "explanation": "'Nunca' 之前 动词 = no 'no' needed: Nunca he estado. (Alternatively: No he estado nunca en España.)"
+    "explanation": "“Nunca”放在动词前时不需要再加“no”:Nunca he estado。(也可以说:No he estado nunca en España。)",
+    "hint": null
   },
   "q_gram_a2_18_008": {
     "question": "No hay ___ libro sobre ese tema en la biblioteca. (negative: not any/no)",
@@ -1888,14 +1899,15 @@
     "explanation": "'Que' 意思是 '谁' 什么时候 referring 到 人们 as 主语 的 relative clause."
   },
   "q_gram_a2_19_003": {
-    "question": "如何 does 'que' differ 从 英语 '那/which/谁' 在 relative clauses?",
-    "correct": "In Spanish, 'que' can never be omitted, unlike English",
+    "question": "在关系从句中,西班牙语的 'que' 与英语的 'that/which/who' 有什么不同?",
+    "correct": "与英语不同,西班牙语中的 'que' 永远不能省略",
     "wrong": [
-      "In Spanish, 'que' is optional just like in English",
-      "In Spanish, 'que' is only used with people",
-      "In Spanish, 'que' changes form based on gender"
+      "和英语一样,西班牙语中的 'que' 是可选的",
+      "西班牙语中的 'que' 只能用于指人",
+      "西班牙语中的 'que' 会随性别变化形式"
     ],
-    "explanation": "在 英语, 你可以 say ' book I read' (省略 '那'). 在 西班牙语, 'que' 是 总是 需要: El libro que leo."
+    "explanation": "在英语中可以说 'The book I read'(省略了 'that')。而在西班牙语中,'que' 是必不可少的:El libro que leo.",
+    "hint": null
   },
   "q_gram_a2_19_004": {
     "question": "La casa en ___ vivo es pequeña. (que 与 preposition)",
@@ -2002,14 +2014,15 @@
     "explanation": "什么时候 'le' (IOP) comes 之前 'lo/la/los/las' (DOP), 'le' 改为 'se': se los doy."
   },
   "q_gram_a2_20_004": {
-    "question": "Why does 'le' change 到 'se' 在 combined object pronouns?",
-    "correct": "To avoid the awkward sound of 'le lo' or 'le la'",
+    "question": "在连用的宾语代词中,为什么“le”要变成“se”?",
+    "correct": "为了避免“le lo”或“le la”读起来别扭",
     "wrong": [
-      "Because 'le' is only used alone",
-      "Because 'se' means something completely different",
-      "Because 'le' is only for indirect objects with gustar"
+      "因为“le”只能单独使用",
+      "因为“se”的意思完全不同",
+      "因为“le”只用于与 gustar 搭配的间接宾语"
     ],
-    "explanation": "西班牙语 avoids 'le lo / le la / les los / les las' 因为 他们 sound awkward. 'Le/les' becomes 'se' 之前 any DOP."
+    "explanation": "西班牙语避免使用“le lo / le la / les los / les las”,因为它们读起来别扭。“Le/les”在任何直接宾语代词前都变成“se”。",
+    "hint": null
   },
   "q_gram_a2_20_005": {
     "question": "¿Puedes dar___ ___ ? (combine: me + lo, attached 到 不定式)",
