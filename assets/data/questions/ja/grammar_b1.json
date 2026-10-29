@@ -651,15 +651,16 @@
     "explanation_ja": "The 未来形 of vivir (regular) uses the full infinitive + -emos: viviremos."
   },
   "q_gram_b1_06_008": {
-    "question": "Yo ___ que estudiar más para el examen. (haber, 未来時制)",
+    "question": "Yo ___ que estudiar más para el examen. (haber、未来形)",
     "correct": "habré",
     "wrong": [
       "he",
       "hube",
       "había"
     ],
-    "explanation": "Haber has 不規則 future 語幹: habr-. この yo形(一人称単数) は habré. 'Habré que' は 誤り; this 〜を意味する 'I 〜するだろう have (auxiliary).'",
-    "explanation_ja": "Haber has an irregular 未来形 stem: habr-. The yo form is habré. 'Habré que' is incorrect; this means 'I will have (auxiliary).'"
+    "explanation": "haber の未来形の語幹は不規則で、habr- です。yo の形は habré になります。ただし 'Habré que' は誤りです。これは「私は(助動詞として)持つことになる」という意味になってしまいます。",
+    "explanation_ja": "Haber has an irregular 未来形 stem: habr-. The yo form is habré. 'Habré que' is incorrect; this means 'I will have (auxiliary).'",
+    "hint": null
   },
   "q_gram_b1_06_009": {
     "question": "¿Dónde estarán mis llaves? No las encuentro.",
@@ -709,15 +710,16 @@
     "explanation_ja": "Escribir has an irregular past participle: escrito. Ellos: han escrito."
   },
   "q_gram_b1_07_003": {
-    "question": "〜は何 この function 〜の 'ya' そして 'todavía no' 〜と この 現在完了?",
-    "correct": "'Ya' means 'already' and 'todavía no' means 'not yet', both commonly used with present perfect",
+    "question": "現在完了と一緒に使われる 'ya' と 'todavía no' はどんな働きをしますか?",
+    "correct": "'Ya' は「すでに」、'todavía no' は「まだ〜ない」という意味で、どちらも現在完了とよく一緒に使われる",
     "wrong": [
-      "They are only used with the preterite tense",
-      "They signal the future tense",
-      "'Ya' means 'still' and 'todavía no' means 'never'"
+      "どちらも点過去とだけ使われる",
+      "どちらも未来を表す",
+      "'Ya' は「まだ」、'todavía no' は「決して〜ない」という意味である"
     ],
-    "explanation": "'Ya he comido' = I have already eaten. 'Todavía no he comido' = I have not eaten yet. These 副詞 は natural partners 〜の この 現在完了.",
-    "explanation_ja": "'Ya he comido' = I have already eaten. 'Todavía no he comido' = I have not eaten yet. These adverbs are natural partners of the present 完了形."
+    "explanation": "'Ya he comido' = もう食べました。'Todavía no he comido' = まだ食べていません。これらの副詞は現在完了と相性のよい組み合わせです。",
+    "explanation_ja": "'Ya he comido' = I have already eaten. 'Todavía no he comido' = I have not eaten yet. These adverbs are natural partners of the present 完了形.",
+    "hint": null
   },
   "q_gram_b1_07_004": {
     "question": "Nosotros ___ la puerta.",
@@ -755,26 +757,28 @@
     "explanation_ja": "Decir has an irregular past participle: dicho. Vosotros: habéis dicho."
   },
   "q_gram_b1_07_007": {
-    "question": "¿Todavía no ___ el informe? (hacer, tú, 現在完了)",
+    "question": "¿Todavía no ___ el informe? (hacer、tú、現在完了)",
     "correct": "has hecho",
     "wrong": [
       "has hacido",
       "has haciendo",
       "haces"
     ],
-    "explanation": "Hacer has 不規則 過去分詞: hecho. Tú: has hecho.",
-    "explanation_ja": "Hacer has an irregular past participle: hecho. Tú: has hecho."
+    "explanation": "hacer の過去分詞は不規則で、hecho です。tú の形は has hecho になります。",
+    "explanation_ja": "Hacer has an irregular past participle: hecho. Tú: has hecho.",
+    "hint": null
   },
   "q_gram_b1_07_008": {
-    "question": "I have already seen that movie.",
+    "question": "私はその映画をもう見ました。",
     "correct": "Ya he visto esa película.",
     "wrong": [
       "Ya he veido esa película.",
       "Ya vi esa película.",
       "Ya veo esa película."
     ],
-    "explanation": "Ver has 不規則 過去分詞: visto. 'Ya' (already) は 一般的に 使われた 〜と この 現在完了.",
-    "explanation_ja": "Ver has an irregular past participle: visto. 'Ya' (already) is commonly used with the present 完了形."
+    "explanation": "ver の過去分詞は不規則で、visto です。'Ya'(すでに)は現在完了とよく一緒に使われます。",
+    "explanation_ja": "Ver has an irregular past participle: visto. 'Ya' (already) is commonly used with the present 完了形.",
+    "hint": null
   },
   "q_gram_b1_07_009": {
     "question": "Ella ___ de vacaciones dos veces este año.",
@@ -868,15 +872,16 @@
     "explanation_ja": "The past 完了形 ellos form is habían + pp: habían bebido."
   },
   "q_gram_b1_08_007": {
-    "question": "When I arrived, she had already left.",
+    "question": "私が着いたとき、彼女はもう出発していました。",
     "correct": "Cuando llegué, ella ya había salido.",
     "wrong": [
       "Cuando llegué, ella ya ha salido.",
       "Cuando llegaba, ella ya salió.",
       "Cuando llego, ella ya había salido."
     ],
-    "explanation": "この 過去完了 (había salido) 示す この leaving happened 〜の前 この arriving. 'Cuando + 点過去' sets この past reference 点.",
-    "explanation_ja": "The past 完了形 (había salido) shows the leaving happened before the arriving. 'Cuando + 過去形' sets the past reference point."
+    "explanation": "過去完了(había salido)は、出発したのが到着より前だったことを示します。'Cuando + 点過去' が過去の基準点を設定します。",
+    "explanation_ja": "The past 完了形 (había salido) shows the leaving happened before the arriving. 'Cuando + 過去形' sets the past reference point.",
+    "hint": null
   },
   "q_gram_b1_08_008": {
     "question": "Tú no ___ ese libro antes. (leer, 過去完了)",
@@ -1062,15 +1067,16 @@
     "explanation_ja": "When the reporting verb is in the present (dice), there is NO tense shift: tiene stays as tiene."
   },
   "q_gram_b1_10_004": {
-    "question": "〜で reported speech, how does この 時 marker 'hoy' 変わる when この reporting verb は 〜で この past?",
-    "correct": "Hoy changes to 'ese día' or 'aquel día'",
+    "question": "伝達動詞が過去形のとき、間接話法では時を表す語 'hoy' はどう変わりますか?",
+    "correct": "Hoy は 'ese día' または 'aquel día' に変わる",
     "wrong": [
-      "Hoy stays the same",
-      "Hoy changes to 'mañana'",
-      "Hoy changes to 'ayer'"
+      "Hoy は変わらない",
+      "Hoy は 'mañana' に変わる",
+      "Hoy は 'ayer' に変わる"
     ],
-    "explanation": "〜で reported speech 〜と past reporting verb, 時 markers shift: hoy → ese día, aquí → allí, mañana → al día siguiente, ayer → el día anterior.",
-    "explanation_ja": "In reported speech with a past reporting verb, time markers shift: hoy → ese día, aquí → allí, mañana → al día siguiente, ayer → el día anterior."
+    "explanation": "伝達動詞が過去の間接話法では、時を表す語が変わります:hoy → ese día、aquí → allí、mañana → al día siguiente、ayer → el día anterior。",
+    "explanation_ja": "In reported speech with a past reporting verb, time markers shift: hoy → ese día, aquí → allí, mañana → al día siguiente, ayer → el día anterior.",
+    "hint": null
   },
   "q_gram_b1_10_005": {
     "question": "Ella ___ que vendría a la fiesta. (decir, reported speech, ella, 点過去)",
@@ -1816,16 +1822,17 @@
     "explanation_ja": "'Pasar tiempo + gerund' means 'to spend time doing something': pasó la tarde jugando = spent the afternoon playing."
   },
   "q_gram_b1_16_010": {
-    "question": "Los estudiantes llevan dos horas ___ para el examen.",
+    "question": "Los estudiantes llevan dos horas ___ para el examen. (estudiar、'llevar + 時間' に続く現在分詞、ellos の形)",
     "correct": "estudiando",
     "wrong": [
       "estudiar",
       "estudiado",
       "estudian"
     ],
-    "explanation": "'Llevar + 時 + 現在分詞(-ndo)' 〜を意味する '〜に have been doing something 〜のために period': llevan dos horas estudiando = 彼ら have been studying 〜のために two hours.",
+    "explanation": "'Llevar + 時間 + 現在分詞' は「ある期間ずっと〜している」という意味です:llevan dos horas estudiando = 彼らは2時間勉強し続けています。",
     "conjugation_info": "llevar + time + gerund: Llevo una hora esperando (I've been waiting for an hour). Llevan dos horas estudiando (They've been studying for two hours).",
-    "explanation_ja": "'Llevar + time + gerund' means 'to have been doing something for a period': llevan dos horas estudiando = they have been studying for two hours."
+    "explanation_ja": "'Llevar + time + gerund' means 'to have been doing something for a period': llevan dos horas estudiando = they have been studying for two hours.",
+    "hint": null
   },
   "q_gram_b1_17_001": {
     "question": "Cuando ___ a casa, cenaré. (llegar, adverbial conjunction 〜と future 意味)",
@@ -1898,15 +1905,16 @@
     "explanation_ja": "'Aunque' + 接続法 means 'even if' (hypothetical): Aunque llueva = Even if it rains (we don't know if it will)."
   },
   "q_gram_b1_17_007": {
-    "question": "Te lo explico ___ lo entiendas. (para que, purpose)",
+    "question": "Te lo explico ___ lo entiendas. (para que、目的)",
     "correct": "para que",
     "wrong": [
       "porque",
       "cuando",
       "aunque"
     ],
-    "explanation": "'Para que' (だから that/〜で order that) 常に 取る この 接続法: para que lo entiendas = だから that あなた understand それ.",
-    "explanation_ja": "'Para que' (so that/in order that) always takes the 接続法: para que lo entiendas = so that you understand it."
+    "explanation": "'Para que'(〜するために)は必ず接続法を伴います:para que lo entiendas = 君がそれを理解できるように。",
+    "explanation_ja": "'Para que' (so that/in order that) always takes the 接続法: para que lo entiendas = so that you understand it.",
+    "hint": null
   },
   "q_gram_b1_17_008": {
     "question": "I 〜するだろう wait 〜まで あなた arrive.",
@@ -1988,16 +1996,17 @@
     "explanation_ja": "Ser malo = bad person/thing (inherent quality). Estar malo = feeling sick (temporary condition). Example: Él es malo (He is bad) vs. Él está malo (He is sick)."
   },
   "q_gram_b1_18_005": {
-    "question": "El edificio ___ construido en 1990. (ser/estar, passive action)",
+    "question": "El edificio ___ construido en 1990. (ser/estar、受け身の動作)",
     "correct": "fue",
     "wrong": [
       "estaba",
       "está",
       "era"
     ],
-    "explanation": "Ser + 過去分詞 説明する passive action (who/what did それ): fue construido = だった built (〜によって someone).",
+    "explanation": "ser + 過去分詞は、(だれが/何がしたかという)受け身の動作を表します:fue construido = (だれかによって)建てられた。",
     "conjugation_info": "ser + pp = passive action (El libro fue escrito). estar + pp = resulting state (El libro está escrito = The book is written/finished).",
-    "explanation_ja": "Ser + past participle describes a passive action (who/what did it): fue construido = was built (by someone)."
+    "explanation_ja": "Ser + past participle describes a passive action (who/what did it): fue construido = was built (by someone).",
+    "hint": null
   },
   "q_gram_b1_18_006": {
     "question": "La comida de este restaurante ___ muy buena. (ser/estar, inherent quality)",

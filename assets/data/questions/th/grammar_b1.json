@@ -83,14 +83,14 @@
     "explanation": "After 'espero que' (I hope นั้น), subjunctive เป็น requiสีแดง. Estudiar ใน tú subjunctive เป็น estudies."
   },
   "q_gram_b1_01_009": {
-    "question": "Vosotros ___ las instrucciones con cuidado. (escribir, subjunctive ปัจจุบัน, รูป vosotros)",
+    "question": "Vosotros ___ las instrucciones con cuidado. (escribir, สับจังก์ทีฟปัจจุบัน, รูป vosotros)",
     "correct": "escribáis",
     "wrong": [
       "escribís",
       "escribiréis",
       "escribíais"
     ],
-    "explanation": "รูป subjunctive ของ escribir สำหรับ vosotros ใช้คำลงท้ายตรงข้ามคือ -áis: escribáis.",
+    "explanation": "สับจังก์ทีฟของ escribir เมื่อใช้กับ vosotros ใช้คำลงท้ายตรงข้ามคือ -áis: escribáis",
     "conjugation_info": "escribir (present subjunctive): escriba, escribas, escriba, escribamos, escribáis, escriban",
     "hint": null
   },
@@ -136,14 +136,15 @@
     "explanation": "Saber เป็น fully ไม่สม่ำเสมอ ใน subjunctive กับ รากศัพท์ sep-: sepa, sepas, sepa, sepamos, sepáis, sepan."
   },
   "q_gram_b1_02_004": {
-    "question": "Which ของ these verbs มี a FULLY ไม่สม่ำเสมอ subjunctive ปัจจุบัน (not derived จาก yo กาลบอกเล่า รูป)?",
+    "question": "กริยาในข้อใดต่อไปนี้ที่มีสับจังก์ทีฟปัจจุบันเป็นแบบไม่ปกติโดยสิ้นเชิง (ไม่ได้มาจากรูป yo ของอินดิเคทีฟ)?",
     "correct": "ser (sea, seas, sea, seamos, seáis, sean)",
     "wrong": [
-      "สิบer (สิบga, สิบgas...)",
+      "tener (tenga, tengas...)",
       "hacer (haga, hagas...)",
-      "pหนึ่งr (ponga, pongas...)"
+      "poner (ponga, pongas...)"
     ],
-    "explanation": "Ser เป็น fully ไม่สม่ำเสมอ เพราะ its subjunctive รากศัพท์ (se-) เป็น not derived จาก its yo indiแมวive (soy). Tener, hacer, และ pหนึ่งr derive their subjunctive จาก yo สำหรับm."
+    "explanation": "Ser ไม่ปกติโดยสิ้นเชิง เพราะรากของสับจังก์ทีฟ (se-) ไม่ได้มาจากรูป yo ของอินดิเคทีฟ (soy) ส่วน tener, hacer และ poner สร้างสับจังก์ทีฟจากรูป yo",
+    "hint": null
   },
   "q_gram_b1_02_005": {
     "question": "Nosotros ___ todo listo para mañana. (tener, subjunctive ปัจจุบัน, nosotros form)",
@@ -489,14 +490,15 @@
     "explanation": " conditional ใช้ สำหรับ giving advice: 'En tu lugar, yo hablaría...' (ใน your place, I จะ speak...)."
   },
   "q_gram_b1_05_008": {
-    "question": "I จะ travel around world if I had money.",
+    "question": "ฉันจะเดินทางรอบโลกถ้าฉันมีเงิน",
     "correct": "Viajaría por todo el mundo si tuviera dinero.",
     "wrong": [
       "Viajo por todo el mundo si tengo dinero.",
       "Viajaré por todo el mundo si tuviera dinero.",
       "Viajaba por todo el mundo si tuviera dinero."
     ],
-    "explanation": " conditional (viajaría) ใช้ สำหรับ hypothetical situations, ofสิบ paiสีแดง กับ 'si + imperfect subjunctive'."
+    "explanation": "คอนดิชันนัล (viajaría) ใช้กับสถานการณ์สมมติ มักใช้คู่กับ 'si + สับจังก์ทีฟอดีตไม่สมบูรณ์'",
+    "hint": null
   },
   "q_gram_b1_05_009": {
     "question": "Tú ___ la mesa antes de la cena. (poner, conditional, tú form)",
@@ -1153,14 +1155,15 @@
     "conjugation_info": "Conditional Type 1: Si + present indiแมวive, + future / present / imperative"
   },
   "q_gram_b1_12_002": {
-    "question": "Si estudias mucho, ___ el examen. (aprobar, result clause, future)",
+    "question": "Si estudias mucho, ___ el examen. (aprobar, อนุประโยคผลลัพธ์, อนาคต)",
     "correct": "aprobarás",
     "wrong": [
       "apruebas",
       "aprobarías",
       "aprobaste"
     ],
-    "explanation": "ใน conditional type 1, result clause สามารถ use future: Si estudias, aprobarás = If คุณ study, คุณ will pass."
+    "explanation": "ในประโยคเงื่อนไขแบบที่ 1 อนุประโยคผลลัพธ์ใช้อนาคตได้: Si estudias, aprobarás = ถ้าเธอเรียนหนัก เธอจะสอบผ่าน",
+    "hint": null
   },
   "q_gram_b1_12_003": {
     "question": "Si llueve, no ___ al parque. (ir, result clause, present)",
@@ -1204,14 +1207,15 @@
     "explanation": "ใน si-clause ของ type 1 conditionals, use present indiแมวive: salimos."
   },
   "q_gram_b1_12_007": {
-    "question": "If คุณ eat too much, คุณ will feel sick.",
+    "question": "ถ้าคุณกินมากเกินไป คุณจะรู้สึกไม่สบาย",
     "correct": "Si comes demasiado, te sentirás mal.",
     "wrong": [
       "Si comieras demasiado, te sentirías mal.",
       "Si comas demasiado, te sentirás mal.",
       "Si comerás demasiado, te sentirás mal."
     ],
-    "explanation": "Type 1 conditional: Si + present (comes) + future (sentirás). ไม่เคย use future หรือ subjunctive ใน si-clause."
+    "explanation": "ประโยคเงื่อนไขแบบที่ 1: Si + ปัจจุบัน (comes) + อนาคต (sentirás) อย่าใช้อนาคตหรือสับจังก์ทีฟในอนุประโยคที่ขึ้นต้นด้วย si",
+    "hint": null
   },
   "q_gram_b1_12_008": {
     "question": "Si María ___ a la fiesta, le daré el regalo. (venir, present)",
@@ -1714,15 +1718,16 @@
     "explanation": "'Aunque' + indiแมวive แปลว่า 'even though' (factual): Aunque estudio mucho = Even though I study a lot (มัน's true นั้น I study)."
   },
   "q_gram_b1_17_006": {
-    "question": "Aunque ___ mañana, iremos a la excursión. (llover, 'even if' = hypothetical)",
+    "question": "Aunque ___ mañana, iremos a la excursión. (llover, 'even if' = สมมติ)",
     "correct": "llueva",
     "wrong": [
       "llueve",
       "llovió",
       "lloverá"
     ],
-    "explanation": "'Aunque' + subjunctive แปลว่า 'even if' (hypothetical): Aunque llueva = Even if มัน rains (we don't know if มัน will).",
-    "conjugation_info": "Aunque + indiแมวive = 'even though' (fact). Aunque + subjunctive = 'even if' (hypothetical)."
+    "explanation": "'Aunque' + สับจังก์ทีฟ หมายถึง 'ต่อให้' (สมมติ): Aunque llueva = ต่อให้ฝนตก (เราไม่รู้ว่าจะตกหรือไม่)",
+    "conjugation_info": "Aunque + indiแมวive = 'even though' (fact). Aunque + subjunctive = 'even if' (hypothetical).",
+    "hint": null
   },
   "q_gram_b1_17_007": {
     "question": "Te lo explico ___ lo entiendas. (para que, purpose)",

@@ -290,14 +290,15 @@
     "hint": "นี่คือ a mixed conditional กับ a past condition"
   },
   "q_gram_b2_03_008": {
-    "question": "If we had arrived earlier, we จะ มี gotสิบ better seats.",
+    "question": "ถ้าเรามาถึงเร็วกว่านี้ เราคงได้ที่นั่งที่ดีกว่านี้",
     "correct": "Si hubiéramos llegado antes, habríamos conseguido mejores asientos.",
     "wrong": [
       "Si llegáramos antes, conseguiríamos mejores asientos.",
       "Si habíamos llegado antes, habríamos conseguido mejores asientos.",
       "Si hubiéramos llegado antes, conseguimos mejores asientos."
     ],
-    "explanation": "นี่คือ a Type 3 conditional: 'si hubiéramos llegado' (pluperfect subjunctive) + 'habríamos conseguido' (conditional perfect). มัน describes an unreal past scenario."
+    "explanation": "นี่คือประโยคเงื่อนไขแบบที่ 3: 'si hubiéramos llegado' (สับจังก์ทีฟอดีตสมบูรณ์) + 'habríamos conseguido' (คอนดิชันนัลสมบูรณ์) ใช้บรรยายเหตุการณ์สมมติในอดีตที่ไม่เป็นจริง",
+    "hint": null
   },
   "q_gram_b2_03_009": {
     "question": "Vosotros ___ la respuesta si hubierais leído el capítulo. (saber, conditional perfect, vosotros form)",
@@ -343,15 +344,15 @@
     "hint": "'En tu lugar' introduces a hypothetical situation"
   },
   "q_gram_b2_04_003": {
-    "question": "Nosotros ___ la noticia, pero nadie nos llamó. (creer, conditional perfect)",
+    "question": "Nosotros ___ la noticia, pero nadie nos llamó. (creer, คอนดิชันนัลสมบูรณ์)",
     "correct": "habríamos creído",
     "wrong": [
       "hubiéramos creído",
       "habíamos creído",
       "creeríamos"
     ],
-    "explanation": " conditional perfect (habríamos creído) indiแมวes something นั้น จะ มี happened if circumstances had been different. Creer's past participle เป็น creído.",
-    "hint": " conditional perfect expresses an unrealized past action"
+    "explanation": "คอนดิชันนัลสมบูรณ์ (habríamos creído) บอกสิ่งที่น่าจะเกิดขึ้นหากสถานการณ์ต่างออกไป ปาร์ทิซิเปิลของ creer คือ creído",
+    "hint": "คอนดิชันนัลสมบูรณ์ใช้แสดงการกระทำในอดีตที่ไม่เกิดขึ้นจริง"
   },
   "q_gram_b2_04_004": {
     "question": "เมื่อไหร่ เป็น conditional perfect (habría + past participle) used ในภาษาสเปน?",
@@ -493,15 +494,15 @@
     "conjugation_info": "salir (future perfect): habré salido, habrás salido, habrá salido, habremos salido, habréis salido, habrán salido"
   },
   "q_gram_b2_05_007": {
-    "question": "Para finales de año, la empresa ___ más de mil empleados. (contratar, future perfect)",
+    "question": "Para finales de año, la empresa ___ más de mil empleados. (contratar, อนาคตสมบูรณ์)",
     "correct": "habrá contratado",
     "wrong": [
       "habría contratado",
       "había contratado",
       "contratará"
     ],
-    "explanation": " future perfect ใช้เพื่อ express อะไร will มี been completed โดย a future point. 'Para finales de año' sets future deadline.",
-    "hint": "'Para finales de año' signals a future deadline"
+    "explanation": "อนาคตสมบูรณ์ใช้บอกสิ่งที่จะเสร็จสิ้นแล้วเมื่อถึงจุดหนึ่งในอนาคต 'Para finales de año' กำหนดเส้นตายในอนาคต",
+    "hint": "'Para finales de año' บ่งบอกเส้นตายในอนาคต"
   },
   "q_gram_b2_05_008": {
     "question": "โดย เวลา คุณ arrive, I will มี already prepaสีแดง อาหารเย็น.",
@@ -1329,15 +1330,15 @@
     "conjugation_info": "saber (present subjunctive): sepa, sepas, sepa, sepamos, sepáis, sepan"
   },
   "q_gram_b2_13_005": {
-    "question": "¿Conoces a alguien que ___ tocar el violín? (saber, subjunctive ปัจจุบัน)",
+    "question": "¿Conoces a alguien que ___ tocar el violín? (saber, สับจังก์ทีฟปัจจุบัน)",
     "correct": "sepa",
     "wrong": [
       "sabe",
       "sabría",
       "supiera"
     ],
-    "explanation": "ใน a question about whether such a คน exists, subjunctive ใช้ เพราะ speaker does not know if anyหนึ่ง fits description. 'Sepa' เป็น subjunctive ปัจจุบัน.",
-    "hint": " speaker เป็น uncertain whether such a คน exists"
+    "explanation": "ในคำถามว่ามีคนแบบนั้นอยู่หรือไม่ ใช้สับจังก์ทีฟ เพราะผู้พูดไม่รู้ว่ามีใครตรงตามที่บรรยายหรือเปล่า 'Sepa' คือสับจังก์ทีฟปัจจุบัน",
+    "hint": "ผู้พูดไม่แน่ใจว่ามีคนแบบนั้นอยู่หรือไม่"
   },
   "q_gram_b2_13_006": {
     "question": "La empresa quiere contratar a alguien que ___ experiencia en inteligencia artificial. (tener, subjunctive ปัจจุบัน, 3rd บุคคล เอกพจน์)",
@@ -1384,24 +1385,26 @@
   },
   "q_gram_b2_13_010": {
     "question": "Necesitamos empleados que sean responsables y que tengan iniciativa.",
-    "correct": "We need employees who are responsible และ who have initiative.",
+    "correct": "เราต้องการพนักงานที่มีความรับผิดชอบและมีความคิดริเริ่ม",
     "wrong": [
-      "We need employees who would be responsible และ who would have initiative.",
-      "We needed employees who were responsible และ who had initiative.",
-      "We need employees that are being responsible และ having initiative."
+      "เราต้องการพนักงานที่น่าจะมีความรับผิดชอบและน่าจะมีความคิดริเริ่ม",
+      "เราเคยต้องการพนักงานที่มีความรับผิดชอบและมีความคิดริเริ่ม",
+      "เราต้องการพนักงานที่กำลังแสดงความรับผิดชอบและกำลังมีความคิดริเริ่ม"
     ],
-    "explanation": "'Sean' และ 'สิบgan' เป็น subjunctive ปัจจุบัน เพราะ employees มี not yet been found (hypothetical antecedent). ในภาษาอังกฤษ, indiแมวive ใช้ ใน translation since อังกฤษ does not distinguish นี้ mood ใน relative clauses."
+    "explanation": "'Sean' และ 'tengan' เป็นสับจังก์ทีฟปัจจุบัน เพราะยังหาพนักงานเหล่านั้นไม่พบ (สิ่งที่กล่าวถึงเป็นเพียงสมมติ) ส่วนในภาษาอังกฤษใช้อินดิเคทีฟตอนแปล เพราะภาษาอังกฤษไม่แยกอารมณ์ของกริยาในอนุประโยคขยายแบบนี้",
+    "hint": null
   },
   "q_gram_b2_14_001": {
-    "question": "Él habla como si ___ nativo. (ser, past subjunctive, él form)",
+    "question": "Él habla como si ___ nativo. (ser, สับจังก์ทีฟอดีต, รูป él)",
     "correct": "fuera",
     "wrong": [
       "es",
       "sería",
       "fue"
     ],
-    "explanation": "'Como si' (as if) เป็น เสมอ ตามด้วย past subjunctive (หรือ pluperfect subjunctive) ในภาษาสเปน. Since 'ser' shares its past subjunctive กับ 'ir', สำหรับm เป็น fuera.",
-    "conjugation_info": "ser (past subjunctive): fuera, fueras, fuera, fuéramos, fuerais, fueran"
+    "explanation": "ใน 'Como si' (ราวกับว่า) สเปนใช้สับจังก์ทีฟอดีต (หรือสับจังก์ทีฟอดีตสมบูรณ์) เสมอ เนื่องจาก 'ser' มีสับจังก์ทีฟอดีตเหมือนกับ 'ir' จึงเป็นรูป fuera",
+    "conjugation_info": "ser (past subjunctive): fuera, fueras, fuera, fuéramos, fuerais, fueran",
+    "hint": null
   },
   "q_gram_b2_14_002": {
     "question": "Ella gasta dinero como si ___ millonaria. (ser, past subjunctive)",

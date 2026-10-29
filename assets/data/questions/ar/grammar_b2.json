@@ -290,14 +290,15 @@
     "hint": "هذا a mixed الشرطي مع a past condition"
   },
   "q_gram_b2_03_008": {
-    "question": "If we had arrived earlier, we سوف يملك gotten better seats.",
+    "question": "لو وصلنا في وقت أبكر، لحصلنا على مقاعد أفضل.",
     "correct": "Si hubiéramos llegado antes, habríamos conseguido mejores asientos.",
     "wrong": [
       "Si llegáramos antes, conseguiríamos mejores asientos.",
       "Si habíamos llegado antes, habríamos conseguido mejores asientos.",
       "Si hubiéramos llegado antes, conseguimos mejores asientos."
     ],
-    "explanation": "هذا a Type 3 الشرطي: 'si hubiéramos llegado' (pluperfect صيغة المضارع المنصوب) + 'habríamos conseguido' (الشرطي perfect). هو describes an unreal past scenario."
+    "explanation": "هذا شرط من النوع الثالث: 'si hubiéramos llegado' (الماضي التام subjuntivo) + 'habríamos conseguido' (الشرطي التام). ويصف موقفًا ماضيًا غير واقعي.",
+    "hint": null
   },
   "q_gram_b2_03_009": {
     "question": "Vosotros ___ la respuesta si hubierais leído el capítulo. (saber, الشرطي perfect, vosotros form)",
@@ -343,15 +344,15 @@
     "hint": "'En tu lugar' introduces a hypothetical situation"
   },
   "q_gram_b2_04_003": {
-    "question": "Nosotros ___ la noticia, pero nadie nos llamó. (creer, الشرطي perfect)",
+    "question": "Nosotros ___ la noticia, pero nadie nos llamó. (creer، الشرطي التام)",
     "correct": "habríamos creído",
     "wrong": [
       "hubiéramos creído",
       "habíamos creído",
       "creeríamos"
     ],
-    "explanation": "الـ الشرطي perfect (habríamos creído) يشير إلى something ذلك سوف يملك happened if circumstances had been different. Creer's اسم المفعول هو creído.",
-    "hint": "الـ الشرطي perfect expresses an unrealized past action"
+    "explanation": "يدل الشرطي التام (habríamos creído) على شيء كان سيحدث لو اختلفت الظروف. اسم المفعول من creer هو creído.",
+    "hint": "يعبّر الشرطي التام عن فعل ماضٍ لم يتحقق"
   },
   "q_gram_b2_04_004": {
     "question": "عندما هو الـ الشرطي perfect (habría + اسم المفعول) used في الإسبانية?",
@@ -1329,15 +1330,15 @@
     "conjugation_info": "saber (present subjunctive): sepa, sepas, sepa, sepamos, sepáis, sepan"
   },
   "q_gram_b2_13_005": {
-    "question": "¿Conoces a alguien que ___ tocar el violín? (saber, المضارع المنصوب)",
+    "question": "¿Conoces a alguien que ___ tocar el violín? (saber، المضارع subjuntivo)",
     "correct": "sepa",
     "wrong": [
       "sabe",
       "sabría",
       "supiera"
     ],
-    "explanation": "في a question about whether such a شخص exists, الـ صيغة المضارع المنصوب يُستخدم لأن الـ speaker does not know if anyone fits الـ description. 'Sepa' هو الـ المضارع المنصوب.",
-    "hint": "الـ speaker هو uncertain whether such a شخص exists"
+    "explanation": "في السؤال عمّا إذا كان هذا الشخص موجودًا، يُستخدم subjuntivo لأن المتكلم لا يعرف هل يوجد من ينطبق عليه الوصف. 'Sepa' هي صيغة المضارع subjuntivo.",
+    "hint": "المتكلم غير متأكد من وجود هذا الشخص"
   },
   "q_gram_b2_13_006": {
     "question": "La empresa quiere contratar a alguien que ___ experiencia en inteligencia artificial. (tener, المضارع المنصوب, 3rd شخص مفرد)",
@@ -1384,24 +1385,26 @@
   },
   "q_gram_b2_13_010": {
     "question": "Necesitamos empleados que sean responsables y que tengan iniciativa.",
-    "correct": "We need employees who are responsible and who have initiative.",
+    "correct": "نحتاج إلى موظفين يتحلّون بالمسؤولية ولديهم روح المبادرة.",
     "wrong": [
-      "We need employees who would be responsible and who would have initiative.",
-      "We needed employees who were responsible and who had initiative.",
-      "We need employees that are being responsible and having initiative."
+      "نحتاج إلى موظفين قد يكونون مسؤولين وقد تكون لديهم روح المبادرة.",
+      "احتجنا إلى موظفين كانوا مسؤولين وكانت لديهم روح المبادرة.",
+      "نحتاج إلى موظفين يكونون في حالة تحمّل المسؤولية وفي حالة امتلاك المبادرة."
     ],
-    "explanation": "'Sean' و 'tengan' هم المضارع المنصوب لأن الـ employees يملك not yet been found (hypothetical antecedent). في الإنجليزية, الـ الإخبار يُستخدم في translation بما أن الإنجليزية does not distinguish هذا mood في relative clauses."
+    "explanation": "'Sean' و'tengan' في المضارع subjuntivo لأن الموظفين لم يُعثر عليهم بعد (مرجع افتراضي). وفي الترجمة يُستخدم الفعل الخبري لأن الإنجليزية لا تميّز هذه الصيغة في الجمل الموصولة.",
+    "hint": null
   },
   "q_gram_b2_14_001": {
-    "question": "Él habla como si ___ nativo. (ser, past صيغة المضارع المنصوب, él form)",
+    "question": "Él habla como si ___ nativo. (ser، الماضي subjuntivo، صيغة él)",
     "correct": "fuera",
     "wrong": [
       "es",
       "sería",
       "fue"
     ],
-    "explanation": "'Como si' (as if) هو دائماً متبوعاً بـ الـ past صيغة المضارع المنصوب (أو pluperfect صيغة المضارع المنصوب) في الإسبانية. بما أن 'ser' shares its past صيغة المضارع المنصوب مع 'ir', الform fuera.",
-    "conjugation_info": "ser (past subjunctive): fuera, fueras, fuera, fuéramos, fuerais, fueran"
+    "explanation": "يأتي بعد 'Como si' (كأنّ) دائمًا الماضي subjuntivo (أو الماضي التام subjuntivo) في الإسبانية. ولأن الفعل 'ser' يشترك مع 'ir' في صيغة الماضي subjuntivo، فالصيغة هي fuera.",
+    "conjugation_info": "ser (past subjunctive): fuera, fueras, fuera, fuéramos, fuerais, fueran",
+    "hint": null
   },
   "q_gram_b2_14_002": {
     "question": "Ella gasta dinero como si ___ millonaria. (ser, past صيغة المضارع المنصوب)",

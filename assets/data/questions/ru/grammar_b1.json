@@ -83,14 +83,14 @@
     "explanation": "после 'espero que' (I hope который), сослагательное наклонение есть required. Estudiar в tú сослагательное наклонение есть estudies."
   },
   "q_gram_b1_01_009": {
-    "question": "Vosotros ___ las instrucciones con cuidado. (escribir, presente de subjuntivo, форма vosotros)",
+    "question": "Vosotros ___ las instrucciones con cuidado. (escribir, настоящее время сослагательного наклонения, форма vosotros)",
     "correct": "escribáis",
     "wrong": [
       "escribís",
       "escribiréis",
       "escribíais"
     ],
-    "explanation": "Форма subjuntivo для vosotros у глагола escribir имеет «противоположное» окончание -áis: escribáis.",
+    "explanation": "Форма vosotros сослагательного наклонения от escribir имеет «противоположное» окончание -áis: escribáis.",
     "conjugation_info": "escribir (present сослагательное наклонение): escriba, escribas, escriba, escribamos, escribáis, escriban",
     "hint": null
   },
@@ -136,14 +136,15 @@
     "explanation": "Saber есть fully неправильный в сослагательное наклонение с основа sep-: sepa, sepas, sepa, sepamos, sepáis, sepan."
   },
   "q_gram_b1_02_004": {
-    "question": "который из these verbs имеет a FULLY неправильный сослагательное настоящего времени (not derived от yo изъявительное наклонение form)?",
+    "question": "У какого из этих глаголов настоящее время сослагательного наклонения образуется ПОЛНОСТЬЮ неправильно (не от формы yo изъявительного наклонения)?",
     "correct": "ser (sea, seas, sea, seamos, seáis, sean)",
     "wrong": [
       "tener (tenga, tengas...)",
       "hacer (haga, hagas...)",
       "poner (ponga, pongas...)"
     ],
-    "explanation": "Ser есть fully неправильный потому что its сослагательное наклонение основа (se-) есть не derived от its yo изъявительное наклонение (soy). Tener, hacer, и poner derive their сослагательное наклонение от yo форма."
+    "explanation": "Ser — полностью неправильный глагол, потому что основа его сослагательного наклонения (se-) не образуется от формы yo изъявительного наклонения (soy). У tener, hacer и poner сослагательное наклонение образуется от формы yo.",
+    "hint": null
   },
   "q_gram_b1_02_005": {
     "question": "Nosotros ___ todo listo para mañana. (tener, сослагательное настоящего времени, nosotros form)",
@@ -488,14 +489,15 @@
     "explanation": " условное наклонение используется для giving advice: 'En tu lugar, yo hablaría...' (в твой place, I бы speak...)."
   },
   "q_gram_b1_05_008": {
-    "question": "I бы travel around world if I had money.",
+    "question": "Я бы путешествовал по всему миру, если бы у меня были деньги.",
     "correct": "Viajaría por todo el mundo si tuviera dinero.",
     "wrong": [
       "Viajo por todo el mundo si tengo dinero.",
       "Viajaré por todo el mundo si tuviera dinero.",
       "Viajaba por todo el mundo si tuviera dinero."
     ],
-    "explanation": " условное наклонение (viajaría) используется для hypothetical situations, часто paired с 'si + имперфект сослагательное наклонение'."
+    "explanation": "Условное наклонение (viajaría) используется для гипотетических ситуаций и часто сочетается с конструкцией «si + имперфект сослагательного наклонения».",
+    "hint": null
   },
   "q_gram_b1_05_009": {
     "question": "Tú ___ la mesa antes de la cena. (poner, условное наклонение, tú form)",
@@ -1711,15 +1713,16 @@
     "explanation": "'Aunque' + изъявительное наклонение означает 'even though' (factual): Aunque estudio mucho = Even though I study lot (это's true который I study)."
   },
   "q_gram_b1_17_006": {
-    "question": "Aunque ___ mañana, iremos a la excursión. (llover, 'even if' = hypothetical)",
+    "question": "Aunque ___ mañana, iremos a la excursión. (llover, 'даже если' = гипотетическая ситуация)",
     "correct": "llueva",
     "wrong": [
       "llueve",
       "llovió",
       "lloverá"
     ],
-    "explanation": "'Aunque' + сослагательное наклонение означает 'even if' (hypothetical): Aunque llueva = Even if это rains (we don't know if это будет).",
-    "conjugation_info": "Aunque + indicative = 'even though' (fact). Aunque + сослагательное наклонение = 'even if' (hypothetical)."
+    "explanation": "'Aunque' + сослагательное наклонение означает «даже если» (гипотетически): Aunque llueva = Даже если пойдёт дождь (мы не знаем, будет ли он).",
+    "conjugation_info": "Aunque + indicative = 'even though' (fact). Aunque + сослагательное наклонение = 'even if' (hypothetical).",
+    "hint": null
   },
   "q_gram_b1_17_007": {
     "question": "Te lo explico ___ lo entiendas. (para que, purpose)",

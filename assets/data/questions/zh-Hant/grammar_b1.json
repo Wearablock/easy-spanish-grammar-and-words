@@ -136,14 +136,15 @@
     "explanation": "Saber 是 fully 不規則 在 虛擬式 與 詞根 sep-: sepa, sepas, sepa, sepamos, sepáis, sepan."
   },
   "q_gram_b1_02_004": {
-    "question": "Which 的 these verbs 有 a FULLY 不規則 現在虛擬式 (not derived 從 yo 陳述式 form)?",
+    "question": "下列哪個動詞的虛擬式現在時是「完全不規則」的(不是由直陳式 yo 變位形推導而來)?",
     "correct": "ser (sea, seas, sea, seamos, seáis, sean)",
     "wrong": [
       "tener (tenga, tengas...)",
       "hacer (haga, hagas...)",
       "poner (ponga, pongas...)"
     ],
-    "explanation": "Ser 是 fully 不規則 因爲 its 虛擬式 詞根 (se-) 是 not derived 來自 its yo 陳述式 (soy). Tener, hacer, 和 poner derive their 虛擬式 來自 yo 形式."
+    "explanation": "Ser 是完全不規則的,因為它的虛擬式詞幹(se-)不是從直陳式 yo 變位(soy)推導出來的。Tener、hacer 和 poner 的虛擬式則都是由 yo 變位形推導而來。",
+    "hint": null
   },
   "q_gram_b1_02_005": {
     "question": "Nosotros ___ todo listo para mañana. (tener, 現在虛擬式, nosotros form)",
@@ -489,14 +490,15 @@
     "explanation": " 條件式 是 用過的 爲 giving advice: 'En tu lugar, yo hablaría...' (在 你的 place, I 將 speak...)."
   },
   "q_gram_b1_05_008": {
-    "question": "I 將 travel around world if I had money.",
+    "question": "如果我有錢,我會環遊世界。",
     "correct": "Viajaría por todo el mundo si tuviera dinero.",
     "wrong": [
       "Viajo por todo el mundo si tengo dinero.",
       "Viajaré por todo el mundo si tuviera dinero.",
       "Viajaba por todo el mundo si tuviera dinero."
     ],
-    "explanation": " 條件式 (viajaría) 是 用過的 爲 hypothetical situations, 經常 paired 與 'si + 過去虛擬式'."
+    "explanation": "條件式(viajaría)用於假設的情況,通常與「si + 過去未完成虛擬式」搭配。",
+    "hint": null
   },
   "q_gram_b1_05_009": {
     "question": "Tú ___ la mesa antes de la cena. (poner, 條件式, tú form)",
@@ -1152,14 +1154,15 @@
     "conjugation_info": "Conditional Type 1: Si + 現在陳述式, + future / present / imperative"
   },
   "q_gram_b1_12_002": {
-    "question": "Si estudias mucho, ___ el examen. (aprobar, result clause, future)",
+    "question": "Si estudias mucho, ___ el examen. (aprobar,結果子句,未來式)",
     "correct": "aprobarás",
     "wrong": [
       "apruebas",
       "aprobarías",
       "aprobaste"
     ],
-    "explanation": "在 條件式 type 1, result clause 可以 使用 future: Si estudias, aprobarás = If 你 study, 你 will pass."
+    "explanation": "在第一類條件句中,結果子句可以用未來式:Si estudias, aprobarás = 如果你用功讀書,你就會及格。",
+    "hint": null
   },
   "q_gram_b1_12_003": {
     "question": "Si llueve, no ___ al parque. (ir, result clause, present)",
@@ -1203,14 +1206,15 @@
     "explanation": "在 si-clause 的 type 1 conditionals, 使用 現在陳述式: salimos."
   },
   "q_gram_b1_12_007": {
-    "question": "If 你 eat too much, 你 will feel sick.",
+    "question": "如果你吃太多,你會覺得不舒服。",
     "correct": "Si comes demasiado, te sentirás mal.",
     "wrong": [
       "Si comieras demasiado, te sentirías mal.",
       "Si comas demasiado, te sentirás mal.",
       "Si comerás demasiado, te sentirás mal."
     ],
-    "explanation": "Type 1 條件式: Si + present (comes) + future (sentirás). 從不 使用 future 或 虛擬式 在 si-clause."
+    "explanation": "第一類條件句:Si + 現在式(comes)+ 未來式(sentirás)。si 子句中絕對不能用未來式或虛擬式。",
+    "hint": null
   },
   "q_gram_b1_12_008": {
     "question": "Si María ___ a la fiesta, le daré el regalo. (venir, present)",
@@ -1712,15 +1716,16 @@
     "explanation": "'Aunque' + 陳述式 意思是 'even though' (factual): Aunque estudio mucho = Even though I study a lot (它's true 那 I study)."
   },
   "q_gram_b1_17_006": {
-    "question": "Aunque ___ mañana, iremos a la excursión. (llover, 'even if' = hypothetical)",
+    "question": "Aunque ___ mañana, iremos a la excursión. (llover,「aunque」= 假設)",
     "correct": "llueva",
     "wrong": [
       "llueve",
       "llovió",
       "lloverá"
     ],
-    "explanation": "'Aunque' + 虛擬式 意思是 'even if' (hypothetical): Aunque llueva = Even if 它 rains (we don't know if 它 will).",
-    "conjugation_info": "Aunque + indicative = 'even though' (fact). Aunque + subjunctive = 'even if' (hypothetical)."
+    "explanation": "「Aunque」+ 虛擬式表示「即使」(假設):Aunque llueva = 即使下雨(我們不知道會不會下)。",
+    "conjugation_info": "Aunque + indicative = 'even though' (fact). Aunque + subjunctive = 'even if' (hypothetical).",
+    "hint": null
   },
   "q_gram_b1_17_007": {
     "question": "Te lo explico ___ lo entiendas. (para que, purpose)",

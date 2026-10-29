@@ -731,15 +731,16 @@
     "explanation": "Ser + de = origin/ที่ไหน someหนึ่ง เป็น จาก.\n- Ella es de México = She เป็น จาก Mexico (origin, perผู้ชายent).\n- Ella está en México = She เป็น ใน Mexico (loแมวion, possibly temporary)."
   },
   "q_gram_a1_07_009": {
-    "question": "La manzana ___ verde. ( apple เป็น green — มัน เป็น not ripe yet.)",
+    "question": "La manzana ___ verde. (แอปเปิลเป็นสีเขียว — ยังไม่สุก)",
     "correct": "está",
     "wrong": [
       "es",
       "son",
       "están"
     ],
-    "explanation": "กับ colors, estar แปลว่า a temporary/changeable state (unripe → will ripen).\n- La ผู้ชายzana está verde = แอปเปิ้ล เป็น สีเขียว (not ripe, temporary).\n- La ผู้ชายzana es verde = แอปเปิ้ล เป็น สีเขียว (โดย nature, its variety).",
-    "conjugation_info": "Ser verde = สีเขียว by nature. Estar verde = unripe/not ready."
+    "explanation": "เมื่อพูดถึงสี estar บอกสภาพชั่วคราวหรือเปลี่ยนแปลงได้ (ยังไม่สุก → เดี๋ยวก็สุก)\n- La manzana está verde = แอปเปิลเป็นสีเขียว (ยังไม่สุก เป็นแค่ชั่วคราว)\n- La manzana es verde = แอปเปิลเป็นสีเขียว (โดยธรรมชาติ เป็นสายพันธุ์สีเขียว)",
+    "conjugation_info": "Ser verde = สีเขียว by nature. Estar verde = unripe/not ready.",
+    "hint": null
   },
   "q_gram_a1_07_010": {
     "question": "หนังสืออยู่บนโต๊ะ",
@@ -947,14 +948,14 @@
     "explanation": "สำหรับ -ar verbs, ella สำหรับm ลงท้ายด้วย -a.\n- estudiar → estudi + a = estudia\n- ทั้งหมด -ar verbs follow same pattern: -o, -as, -a, -amos, -áis, -an."
   },
   "q_gram_a1_09_009": {
-    "question": "Vosotros ___ muy bien. (ผันกริยา cantar)",
+    "question": "Vosotros ___ muy bien. (صرف cantar)",
     "correct": "cantáis",
     "wrong": [
       "cantamos",
       "cantan",
       "cantas"
     ],
-    "explanation": "กริยากลุ่ม -ar เมื่อผันกับ vosotros จะลงท้ายด้วย -áis\n- cantar → cant + áis = cantáis\nรูปนี้ใช้เป็นหลักในประเทศสเปน",
+    "explanation": "กริยาลงท้าย -ar เมื่อใช้กับ vosotros จะลงท้ายด้วย -áis\n- cantar → cant + áis = cantáis\nรูปนี้ใช้เป็นหลักในสเปน",
     "conjugation_info": "cantar - present: canto, cantas, canta, cantamos, cantáis, cantan",
     "hint": null
   },
@@ -1152,14 +1153,15 @@
     "hint": "Expressing 'มี' กับ quantities uses hay"
   },
   "q_gram_a1_11_008": {
-    "question": " supermarket เป็น next ไปยัง โรงเรียน.",
+    "question": "ซูเปอร์มาร์เก็ตอยู่ข้างโรงเรียน",
     "correct": "El supermercado está al lado de la escuela.",
     "wrong": [
       "Hay un supermercado al lado de la escuela.",
       "El supermercado es al lado de la escuela.",
       "El supermercado hay al lado de la escuela."
     ],
-    "explanation": "We เป็น talking about a specific supermarket (el supermercado), so we use estar สำหรับ its loแมวion.\n- estar + al lado de = ไปยัง เป็น next ไปยัง\nHay จะ เป็น used if we said 'มี a supermarket...' (exisสิบce)."
+    "explanation": "เรากำลังพูดถึงซูเปอร์มาร์เก็ตที่เฉพาะเจาะจง (el supermercado) จึงใช้ estar บอกที่ตั้ง\n- estar + al lado de = อยู่ข้าง ๆ\nhay จะใช้เมื่อพูดว่า 'มีซูเปอร์มาร์เก็ตอยู่...' (บอกว่ามีอยู่)",
+    "hint": null
   },
   "q_gram_a1_11_009": {
     "question": "No ___ nadie en la oficina. (fill ใน form ของ 'haber' ความหมาย 'มี')",
@@ -1217,14 +1219,15 @@
     "hint": " possessive 'your' มี no accent mark"
   },
   "q_gram_a1_12_004": {
-    "question": "อะไร does 'su' หมายถึง ใน 'su casa'?",
-    "correct": "his/her/your (สำหรับmal)/their",
+    "question": "'su' ในประโยค 'su casa' หมายถึงอะไร?",
+    "correct": "ของเขา/ของเธอ/ของคุณ (สุภาพ)/ของพวกเขา",
     "wrong": [
-      "only 'his'",
-      "only 'her'",
-      "my"
+      "หมายถึง 'ของเขา' (ผู้ชาย) เท่านั้น",
+      "หมายถึง 'ของเธอ' (ผู้หญิง) เท่านั้น",
+      "ของฉัน"
     ],
-    "explanation": "'su' เป็น amใหญ่uous — มัน สามารถ หมายความว่า his, her, your (สำหรับmal), หรือ their.\n- su casa = his/her/your/their บ้าน\nไปยัง clarify: la casa de él (his), la casa de ella (her)."
+    "explanation": "'su' กำกวม — อาจหมายถึง ของเขา ของเธอ ของคุณ (สุภาพ) หรือของพวกเขา\n- su casa = บ้านของเขา/ของเธอ/ของคุณ/ของพวกเขา\nหากต้องการให้ชัดเจน: la casa de él (ของเขา), la casa de ella (ของเธอ)",
+    "hint": null
   },
   "q_gram_a1_12_005": {
     "question": "___ casa es bonita. (our house — select ถูกต้อง form)",
@@ -1592,15 +1595,16 @@
     "explanation": "'Quién' asks about people (ใคร).\n- ¿Quién es ella? = ใคร เป็น she?\n- ¿Quiénes ลูกชาย ellos? = ใคร เป็น พวกเขา? (พหูพจน์)"
   },
   "q_gram_a1_15_009": {
-    "question": "¿___ cuesta esto? (How much does this cost?) (select ถูกต้อง form ของ cuánto)",
+    "question": "¿___ cuesta esto? (สิ่งนี้ราคาเท่าไร?) (เลือกรูปที่ถูกต้องของ cuánto)",
     "correct": "Cuánto",
     "wrong": [
       "Cuántos",
       "Cuántas",
       "Cuánta"
     ],
-    "explanation": "'Cuánto' (เพศชาย เอกพจน์) ใช้ เมื่อไหร่ asking about price หรือ uncounโต๊ะ amounts.\n- ¿Cuánto cuesta? = อย่างไร much does มัน cost?\n- ¿Cuánto tiempo? = อย่างไร much เวลา?",
-    "conjugation_info": "¿Cuánto cuesta? (price), ¿Cuántos libros? (counโต๊ะ m.), ¿Cuántas perลูกชายas? (counโต๊ะ f.)"
+    "explanation": "ใช้ 'Cuánto' (เพศชาย เอกพจน์) เมื่อถามราคาหรือปริมาณที่นับไม่ได้\n- ¿Cuánto cuesta? = ราคาเท่าไร?\n- ¿Cuánto tiempo? = ใช้เวลานานเท่าไร?",
+    "conjugation_info": "¿Cuánto cuesta? (price), ¿Cuántos libros? (counโต๊ะ m.), ¿Cuántas perลูกชายas? (counโต๊ะ f.)",
+    "hint": null
   },
   "q_gram_a1_15_010": {
     "question": "ห้องน้ำอยู่ที่ไหน",

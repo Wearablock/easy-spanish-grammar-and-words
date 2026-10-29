@@ -90,7 +90,7 @@
       "escribiréis",
       "escribíais"
     ],
-    "explanation": "Ở thức giả định, động từ escribir ngôi vosotros dùng đuôi ngược lại là -áis: escribáis.",
+    "explanation": "Dạng giả định của escribir ở ngôi vosotros dùng đuôi đối lập -áis: escribáis.",
     "conjugation_info": "escribir (present subjunctive): escriba, escribas, escriba, escribamos, escribáis, escriban",
     "hint": null
   },
@@ -136,14 +136,15 @@
     "explanation": "Saber là fully bất quy tắc trong thức giả định với gốc từ sep-: sepa, sepas, sepa, sepamos, sepáis, sepan."
   },
   "q_gram_b1_02_004": {
-    "question": "mà của these verbs có a FULLY bất quy tắc thức giả định hiện tại (not derived từ yo thức trực thuyết form)?",
+    "question": "Động từ nào trong số này có thể giả định hiện tại BẤT QUY TẮC HOÀN TOÀN (không được tạo từ dạng yo của thức chỉ định)?",
     "correct": "ser (sea, seas, sea, seamos, seáis, sean)",
     "wrong": [
       "tener (tenga, tengas...)",
       "hacer (haga, hagas...)",
       "poner (ponga, pongas...)"
     ],
-    "explanation": "Ser là fully bất quy tắc vì its thức giả định gốc từ (se-) là not derived từ its yo thức trực thuyết (soy). Tener, hacer, và poner derive their thức giả định từ yo form."
+    "explanation": "Ser bất quy tắc hoàn toàn vì gốc giả định của nó (se-) không được tạo từ dạng yo của thức chỉ định (soy). Tener, hacer và poner tạo dạng giả định từ dạng yo.",
+    "hint": null
   },
   "q_gram_b1_02_005": {
     "question": "Nosotros ___ todo listo para mañana. (tener, thức giả định hiện tại, nosotros form)",
@@ -488,14 +489,15 @@
     "explanation": " thức điều kiện được sử dụng cho giving advice: 'En tu lugar, yo hablaría...' (trong của bạn place, I sẽ speak...)."
   },
   "q_gram_b1_05_008": {
-    "question": "I sẽ travel around world if I had money.",
+    "question": "Tôi sẽ đi du lịch vòng quanh thế giới nếu tôi có tiền.",
     "correct": "Viajaría por todo el mundo si tuviera dinero.",
     "wrong": [
       "Viajo por todo el mundo si tengo dinero.",
       "Viajaré por todo el mundo si tuviera dinero.",
       "Viajaba por todo el mundo si tuviera dinero."
     ],
-    "explanation": " thức điều kiện (viajaría) được sử dụng cho hypothetical situations, thường paired với 'si + quá khứ chưa hoàn thành thức giả định'."
+    "explanation": "Thì điều kiện (viajaría) được dùng cho các tình huống giả định, thường đi cùng 'si + quá khứ giả định'.",
+    "hint": null
   },
   "q_gram_b1_05_009": {
     "question": "Tú ___ la mesa antes de la cena. (poner, thức điều kiện, tú form)",
@@ -1151,14 +1153,15 @@
     "conjugation_info": "Conditional Type 1: Si + present indicative, + future / present / imperative"
   },
   "q_gram_b1_12_002": {
-    "question": "Si estudias mucho, ___ el examen. (aprobar, result clause, future)",
+    "question": "Si estudias mucho, ___ el examen. (aprobar, mệnh đề kết quả, tương lai)",
     "correct": "aprobarás",
     "wrong": [
       "apruebas",
       "aprobarías",
       "aprobaste"
     ],
-    "explanation": "trong thức điều kiện type 1, result clause có thể use future: Si estudias, aprobarás = If bạn study, bạn will pass."
+    "explanation": "Trong câu điều kiện loại 1, mệnh đề kết quả có thể dùng thì tương lai: Si estudias, aprobarás = Nếu bạn học chăm, bạn sẽ đỗ.",
+    "hint": null
   },
   "q_gram_b1_12_003": {
     "question": "Si llueve, no ___ al parque. (ir, result clause, present)",
@@ -1202,14 +1205,15 @@
     "explanation": "trong si-clause của type 1 conditionals, use present thức trực thuyết: salimos."
   },
   "q_gram_b1_12_007": {
-    "question": "If bạn eat too much, bạn will feel sick.",
+    "question": "Nếu bạn ăn quá nhiều, bạn sẽ thấy khó chịu.",
     "correct": "Si comes demasiado, te sentirás mal.",
     "wrong": [
       "Si comieras demasiado, te sentirías mal.",
       "Si comas demasiado, te sentirás mal.",
       "Si comerás demasiado, te sentirás mal."
     ],
-    "explanation": "Type 1 thức điều kiện: Si + present (comes) + future (sentirás). không bao giờ use future hoặc thức giả định trong si-clause."
+    "explanation": "Câu điều kiện loại 1: Si + hiện tại (comes) + tương lai (sentirás). Không bao giờ dùng thì tương lai hay giả định trong mệnh đề si.",
+    "hint": null
   },
   "q_gram_b1_12_008": {
     "question": "Si María ___ a la fiesta, le daré el regalo. (venir, present)",
@@ -1711,15 +1715,16 @@
     "explanation": "'Aunque' + thức trực thuyết có nghĩa là 'even though' (factual): Aunque estudio mucho = Even though I study a lot (nó's true mà I study)."
   },
   "q_gram_b1_17_006": {
-    "question": "Aunque ___ mañana, iremos a la excursión. (llover, 'even if' = hypothetical)",
+    "question": "Aunque ___ mañana, iremos a la excursión. (llover, 'even if' = giả định)",
     "correct": "llueva",
     "wrong": [
       "llueve",
       "llovió",
       "lloverá"
     ],
-    "explanation": "'Aunque' + thức giả định có nghĩa là 'even if' (hypothetical): Aunque llueva = Even if nó rains (we don't know if nó will).",
-    "conjugation_info": "Aunque + indicative = 'even though' (fact). Aunque + subjunctive = 'even if' (hypothetical)."
+    "explanation": "'Aunque' + giả định nghĩa là 'cho dù' (giả định): Aunque llueva = Cho dù trời mưa (ta không biết liệu có mưa hay không).",
+    "conjugation_info": "Aunque + indicative = 'even though' (fact). Aunque + subjunctive = 'even if' (hypothetical).",
+    "hint": null
   },
   "q_gram_b1_17_007": {
     "question": "Te lo explico ___ lo entiendas. (para que, purpose)",

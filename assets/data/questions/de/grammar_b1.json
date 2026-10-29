@@ -7,8 +7,8 @@
       "hablar",
       "hablarás"
     ],
-    "explanation": "Nach 'quiero que', der/die/das Präsens Konjunktiv ist erforderlich. Für -ar Verbs, der/die/das tú Konjunktiv ending ist -es: hables.",
-    "hint": "Take der/die/das yo Indikativ Stamm und add der/die/das opposite ending"
+    "explanation": "Nach 'quiero que' ist der Subjuntivo Präsens nötig. Bei -ar-Verben lautet die tú-Endung im Subjuntivo -es: hables.",
+    "hint": "Nimm den Stamm der yo-Form im Indikativ und hänge die „entgegengesetzte“ Endung an"
   },
   "q_gram_b1_01_002": {
     "question": "Es importante que nosotros ___ más agua. (beber)",
@@ -18,28 +18,31 @@
       "beber",
       "beberemos"
     ],
-    "explanation": "Nach 'es importante que', der/die/das Konjunktiv wird benötigt. Für -er Verbs, der/die/das nosotros Konjunktiv ending ist -amos: bebamos."
+    "explanation": "Nach 'es importante que' braucht man den Subjuntivo. Bei -er-Verben lautet die nosotros-Endung im Subjuntivo -amos: bebamos.",
+    "hint": null
   },
   "q_gram_b1_01_003": {
-    "question": "Wie do du form der/die/das Präsens Konjunktiv von Regelmäßig -ar Verbs?",
-    "correct": "Take the yo indicative stem and add -e, -es, -e, -emos, -éis, -en",
+    "question": "Wie bildet man den Subjuntivo Präsens regelmäßiger -ar-Verben?",
+    "correct": "Man nimmt den Stamm der yo-Form im Indikativ und hängt -e, -es, -e, -emos, -éis, -en an",
     "wrong": [
-      "Add -a, -as, -a, -amos, -áis, -an to the infinitive",
-      "Use the same endings as the indicative present tense",
-      "Take the infinitive stem and add -o, -as, -a, -amos, -áis, -an"
+      "Man hängt -a, -as, -a, -amos, -áis, -an an den Infinitiv an",
+      "Man verwendet dieselben Endungen wie im Indikativ Präsens",
+      "Man nimmt den Infinitivstamm und hängt -o, -as, -a, -amos, -áis, -an an"
     ],
-    "explanation": "Regelmäßige -ar-Verben form der/die/das Konjunktiv von taking der/die/das yo Indikativ Stamm und switching zu 'opposite' endings: -e, -es, -e, -emos, -éis, -en."
+    "explanation": "Regelmäßige -ar-Verben bilden den Subjuntivo, indem man den Stamm der yo-Form im Indikativ nimmt und die „entgegengesetzten“ Endungen anhängt: -e, -es, -e, -emos, -éis, -en.",
+    "hint": null
   },
   "q_gram_b1_01_004": {
-    "question": "Ellos ___ en esta ciudad desde hace años. (vivir, Präsens Konjunktiv, ellos form)",
+    "question": "Ellos ___ en esta ciudad desde hace años. (vivir, Präsens des Subjuntivo, Form ellos)",
     "correct": "vivan",
     "wrong": [
       "viven",
       "vivían",
       "vivirán"
     ],
-    "explanation": "Der/die/das Präsens Konjunktiv von vivir (an -ir Verb) in der/die/das ellos form uses der/die/das opposite ending -an: vivan.",
-    "conjugation_info": "vivir (Präsens Konjunktiv): viva, vivas, viva, vivamos, viváis, vivan"
+    "explanation": "Der Präsens-Subjuntivo von vivir (einem Verb auf -ir) in der Form ellos verwendet die umgekehrte Endung -an: vivan.",
+    "conjugation_info": "vivir (Präsens Konjunktiv): viva, vivas, viva, vivamos, viváis, vivan",
+    "hint": null
   },
   "q_gram_b1_01_005": {
     "question": "El profesor quiere que los estudiantes ___ el libro antes del examen. (leer)",
@@ -49,18 +52,20 @@
       "leían",
       "leerán"
     ],
-    "explanation": "Nach 'quiere que', use der/die/das Konjunktiv. Leer in der/die/das ellos Konjunktiv form ist lean (opposite ending -an für -er Verbs)."
+    "explanation": "Nach 'quiere que' steht der Subjuntivo. Leer lautet in der Subjuntivo-Form für ellos lean (umgekehrte Endung -an bei Verben auf -er).",
+    "hint": null
   },
   "q_gram_b1_01_006": {
-    "question": "Nosotros ___ la verdad siempre. (hablar, Präsens Konjunktiv, nosotros-Form)",
+    "question": "Nosotros ___ la verdad siempre. (hablar, Präsens des Subjuntivo, Form nosotros)",
     "correct": "hablemos",
     "wrong": [
       "hablamos",
       "hablaremos",
       "hablábamos"
     ],
-    "explanation": "Der/die/das nosotros Konjunktiv von hablar uses der/die/das opposite ending -emos: hablemos.",
-    "conjugation_info": "hablar (Präsens Konjunktiv): hable, hables, hable, hablemos, habléis, hablen"
+    "explanation": "Der Subjuntivo von hablar in der Form nosotros verwendet die umgekehrte Endung -emos: hablemos.",
+    "conjugation_info": "hablar (Präsens Konjunktiv): hable, hables, hable, hablemos, habléis, hablen",
+    "hint": null
   },
   "q_gram_b1_01_007": {
     "question": "No creo que ella ___ suficiente dinero para el viaje. (ahorrar)",
@@ -70,50 +75,54 @@
       "ahorrará",
       "ahorraba"
     ],
-    "explanation": "Nach 'no creo que', der/die/das Konjunktiv ist erforderlich. Ahorrar in der/die/das ella Konjunktiv form ist ahorre."
+    "explanation": "Nach 'no creo que' ist der Subjuntivo erforderlich. Ahorrar lautet in der Subjuntivo-Form für ella ahorre.",
+    "hint": null
   },
   "q_gram_b1_01_008": {
-    "question": "I hope das du study für der/die/das exam.",
+    "question": "Ich hoffe, dass du für die Prüfung lernst.",
     "correct": "Espero que estudies para el examen.",
     "wrong": [
       "Espero que estudias para el examen.",
       "Espero que estudiar para el examen.",
       "Espero que estudiarás para el examen."
     ],
-    "explanation": "Nach 'espero que' (I hope das), der/die/das Konjunktiv ist erforderlich. Estudiar in der/die/das tú Konjunktiv ist estudies."
+    "explanation": "Nach 'espero que' (ich hoffe, dass) ist der Subjuntivo erforderlich. Estudiar lautet im Subjuntivo für tú estudies.",
+    "hint": null
   },
   "q_gram_b1_01_009": {
-    "question": "Vosotros ___ las instrucciones con cuidado. (escribir, Präsens des Subjuntivo, vosotros-Form)",
+    "question": "Vosotros ___ las instrucciones con cuidado. (escribir, Präsens des Subjuntivo, Form vosotros)",
     "correct": "escribáis",
     "wrong": [
       "escribís",
       "escribiréis",
       "escribíais"
     ],
-    "explanation": "Der Subjuntivo von escribir in der vosotros-Form verwendet die gegenteilige Endung -áis: escribáis.",
+    "explanation": "Der Subjuntivo von escribir in der Form vosotros verwendet die umgekehrte Endung -áis: escribáis.",
     "conjugation_info": "escribir (Präsens Konjunktiv): escriba, escribas, escriba, escribamos, escribáis, escriban",
     "hint": null
   },
   "q_gram_b1_01_010": {
     "question": "Es necesario que los alumnos coman en la cafetería.",
-    "correct": "It is necessary that the students eat in the cafeteria.",
+    "correct": "Es ist notwendig, dass die Schüler in der Cafeteria essen.",
     "wrong": [
-      "It is necessary that the students ate in the cafeteria.",
-      "It is necessary that the students will eat in the cafeteria.",
-      "It is necessary that the students are eating in the cafeteria."
+      "Es war notwendig, dass die Schüler in der Cafeteria aßen.",
+      "Es ist notwendig, dass die Schüler in der Cafeteria essen werden.",
+      "Es ist notwendig, dass die Schüler gerade in der Cafeteria essen."
     ],
-    "explanation": "Coman ist der/die/das Präsens Konjunktiv von comer (ellos form). Nach 'es necesario que', der/die/das Konjunktiv drückt aus necessity."
+    "explanation": "Coman ist der Präsens-Subjuntivo von comer (Form ellos). Nach 'es necesario que' drückt der Subjuntivo die Notwendigkeit aus.",
+    "hint": null
   },
   "q_gram_b1_02_001": {
-    "question": "Yo ___ la verdad. (decir, Präsens Konjunktiv, yo-Form)",
+    "question": "Yo ___ la verdad. (decir, Präsens des Subjuntivo, Form yo)",
     "correct": "diga",
     "wrong": [
       "deca",
       "dice",
       "diría"
     ],
-    "explanation": "Decir hat an Unregelmäßig yo Indikativ form (digo), so der/die/das Konjunktiv Stamm ist dig-: diga.",
-    "conjugation_info": "decir (Präsens Konjunktiv): diga, digas, diga, digamos, digáis, digan"
+    "explanation": "Decir hat eine unregelmäßige Indikativform für yo (digo), daher lautet der Subjuntivo-Stamm dig-: diga.",
+    "conjugation_info": "decir (Präsens Konjunktiv): diga, digas, diga, digamos, digáis, digan",
+    "hint": null
   },
   "q_gram_b1_02_002": {
     "question": "Espero que tú ___ a la fiesta esta noche. (ir)",
@@ -123,7 +132,8 @@
       "irás",
       "ibas"
     ],
-    "explanation": "Ir ist fully Unregelmäßig in der/die/das Konjunktiv. Der/die/das tú-Form ist vayas (Stamm: vay-)."
+    "explanation": "Ir ist im Subjuntivo völlig unregelmäßig. Die Form für tú lautet vayas (Stamm: vay-).",
+    "hint": null
   },
   "q_gram_b1_02_003": {
     "question": "Es posible que él no ___ la respuesta. (saber)",
@@ -137,14 +147,15 @@
     "hint": null
   },
   "q_gram_b1_02_004": {
-    "question": "Welche von diese Verbs hat a FULLY Unregelmäßig Präsens Konjunktiv (not derived von der/die/das yo Indikativ form)?",
+    "question": "Welches dieser Verben hat einen VÖLLIG unregelmäßigen Präsens-Subjuntivo (nicht von der Indikativform yo abgeleitet)?",
     "correct": "ser (sea, seas, sea, seamos, seáis, sean)",
     "wrong": [
       "tener (tenga, tengas...)",
       "hacer (haga, hagas...)",
       "poner (ponga, pongas...)"
     ],
-    "explanation": "Ser ist fully Unregelmäßig weil its Konjunktiv Stamm (se-) ist not derived von its yo Indikativ (soy). Tener, hacer, und poner derive ihr Konjunktiv von der/die/das yo-Form."
+    "explanation": "Ser ist völlig unregelmäßig, weil sein Subjuntivo-Stamm (se-) nicht von der Indikativform yo (soy) abgeleitet ist. Tener, hacer und poner leiten ihren Subjuntivo von der Form yo ab.",
+    "hint": null
   },
   "q_gram_b1_02_005": {
     "question": "Nosotros ___ todo listo para mañana. (tener, Präsens Konjunktiv, nosotros-Form)",
@@ -165,17 +176,19 @@
       "harán",
       "hacían"
     ],
-    "explanation": "Hacer's Konjunktiv Stamm comes von hago → hag-. Der/die/das ellos form ist hagan."
+    "explanation": "Der Subjuntivo-Stamm von hacer kommt von hago → hag-. Die Form für ellos lautet hagan.",
+    "hint": null
   },
   "q_gram_b1_02_007": {
-    "question": "I doubt das she ist an home now.",
+    "question": "Ich bezweifle, dass sie jetzt zu Hause ist.",
     "correct": "Dudo que ella esté en casa ahora.",
     "wrong": [
       "Dudo que ella está en casa ahora.",
       "Dudo que ella estará en casa ahora.",
       "Dudo que ella sea en casa ahora."
     ],
-    "explanation": "Nach 'dudo que' (I doubt das), der/die/das Konjunktiv ist erforderlich. Estar's Konjunktiv ist esté (mit accent)."
+    "explanation": "Nach 'dudo que' (ich bezweifle, dass) ist der Subjuntivo erforderlich. Der Subjuntivo von estar ist esté (mit Akzent).",
+    "hint": null
   },
   "q_gram_b1_02_008": {
     "question": "Ojalá que ___ buen tiempo mañana. (haber)",
@@ -185,17 +198,19 @@
       "habrá",
       "había"
     ],
-    "explanation": "Haber ist fully Unregelmäßig in der/die/das Konjunktiv: haya. 'Ojalá que' immer triggers der/die/das Konjunktiv."
+    "explanation": "Haber ist im Subjuntivo völlig unregelmäßig: haya. 'Ojalá que' löst immer den Subjuntivo aus.",
+    "hint": null
   },
   "q_gram_b1_02_009": {
     "question": "Quiero que María me dé el libro mañana.",
-    "correct": "I want María to give me the book tomorrow.",
+    "correct": "Ich möchte, dass María mir morgen das Buch gibt.",
     "wrong": [
-      "I want María to buy me the book tomorrow.",
-      "I want María gave me the book tomorrow.",
-      "I want María will give me the book tomorrow."
+      "Ich möchte, dass María mir morgen das Buch kauft.",
+      "Ich möchte, dass María mir morgen das Buch gab.",
+      "Ich möchte, dass María mir morgen das Buch geben wird."
     ],
-    "explanation": "Dé ist der/die/das Präsens Konjunktiv von dar (mit accent zu distinguish von der/die/das Präposition 'de'). 'Quiero que' + Konjunktiv = I want someone zu do something."
+    "explanation": "Dé ist der Präsens-Subjuntivo von dar (mit Akzent, um es von der Präposition 'de' zu unterscheiden). 'Quiero que' + Subjuntivo = Ich möchte, dass jemand etwas tut.",
+    "hint": null
   },
   "q_gram_b1_02_010": {
     "question": "Ellos ___ de viaje la próxima semana. (salir, Präsens Konjunktiv, ellos form)",
@@ -216,8 +231,8 @@
       "vendrás",
       "venías"
     ],
-    "explanation": "Nach 'quiero que', der/die/das Konjunktiv ist erforderlich um auszudrücken a wish. Venir's Konjunktiv tú-Form ist vengas.",
-    "hint": "Wishes mit two different Subjekts require der/die/das Konjunktiv"
+    "explanation": "Nach 'quiero que' ist der Subjuntivo erforderlich, um einen Wunsch auszudrücken. Der Subjuntivo von venir lautet in der Form tú vengas.",
+    "hint": "Wünsche mit zwei verschiedenen Subjekten erfordern den Subjuntivo"
   },
   "q_gram_b1_03_002": {
     "question": "Espero que ellos ___ bien en el examen. (estar)",
@@ -227,28 +242,31 @@
       "estarán",
       "estaban"
     ],
-    "explanation": "Nach 'espero que' (I hope das), der/die/das Konjunktiv wird benötigt. Estar's ellos Konjunktiv ist estén."
+    "explanation": "Nach 'espero que' (ich hoffe, dass) braucht man den Subjuntivo. Der Subjuntivo von estar für ellos ist estén.",
+    "hint": null
   },
   "q_gram_b1_03_003": {
-    "question": "Wann do du use der/die/das Konjunktiv mit emotion Verbs like 'alegrarse' oder 'tener miedo'?",
-    "correct": "When the subject of the emotion verb is different from the subject of the dependent clause",
+    "question": "Wann verwendet man den Subjuntivo bei Gefühlsverben wie 'alegrarse' oder 'tener miedo'?",
+    "correct": "Wenn das Subjekt des Gefühlsverbs sich vom Subjekt des abhängigen Satzes unterscheidet",
     "wrong": [
-      "Always, regardless of the subjects",
-      "Only when the emotion is negative",
-      "Only when talking about the future"
+      "Immer, unabhängig von den Subjekten",
+      "Nur, wenn das Gefühl negativ ist",
+      "Nur, wenn man über die Zukunft spricht"
     ],
-    "explanation": "Der/die/das Konjunktiv wird verwendet nach emotion triggers (me alegra que, tengo miedo de que) wann Es gibt two different Subjekts. Mit der/die/das same Subjekt, use der/die/das Infinitiv instead."
+    "explanation": "Der Subjuntivo wird nach Gefühlsauslösern (me alegra que, tengo miedo de que) verwendet, wenn es zwei verschiedene Subjekte gibt. Bei gleichem Subjekt verwendet man stattdessen den Infinitiv.",
+    "hint": null
   },
   "q_gram_b1_03_004": {
-    "question": "Me sorprende que tú ___ aquí tan temprano. (estar, Präsens Konjunktiv, tú-Form)",
+    "question": "Me sorprende que tú ___ aquí tan temprano. (estar, Präsens des Subjuntivo, Form tú)",
     "correct": "estés",
     "wrong": [
       "estás",
       "estarás",
       "estabas"
     ],
-    "explanation": "Nach 'me sorprende que' (es surprises me das), der/die/das Konjunktiv ist erforderlich. Estar's tú Konjunktiv ist estés.",
-    "conjugation_info": "estar (Präsens Konjunktiv): esté, estés, esté, estemos, estéis, estén"
+    "explanation": "Nach 'me sorprende que' (es überrascht mich, dass) ist der Subjuntivo erforderlich. Der Subjuntivo von estar für tú ist estés.",
+    "conjugation_info": "estar (Präsens Konjunktiv): esté, estés, esté, estemos, estéis, estén",
+    "hint": null
   },
   "q_gram_b1_03_005": {
     "question": "Tengo miedo de que mi hermano no ___ a tiempo. (llegar)",
@@ -258,7 +276,8 @@
       "llegará",
       "llegaba"
     ],
-    "explanation": "Nach 'tengo miedo de que', der/die/das Konjunktiv wird verwendet. Llegar's él Konjunktiv ist llegue (note der/die/das spelling: -gue zu keep der/die/das hard g sound)."
+    "explanation": "Nach 'tengo miedo de que' wird der Subjuntivo verwendet. Der Subjuntivo von llegar für él ist llegue (Achtung Schreibweise: -gue, um den harten g-Laut zu erhalten).",
+    "hint": null
   },
   "q_gram_b1_03_006": {
     "question": "Nosotros ___ contentos de la noticia. (estar, Präsens Konjunktiv, nosotros-Form)",
@@ -279,38 +298,42 @@
       "pondrán",
       "ponían"
     ],
-    "explanation": "Nach 'me molesta que' (es bothers me das), der/die/das Konjunktiv wird benötigt. Poner's Konjunktiv Stamm ist pong-: pongan."
+    "explanation": "Nach 'me molesta que' (es stört mich, dass) braucht man den Subjuntivo. Der Subjuntivo-Stamm von poner ist pong-: pongan.",
+    "hint": null
   },
   "q_gram_b1_03_008": {
-    "question": "I am glad das du speak Spanisch well.",
+    "question": "Ich freue mich, dass du gut Spanisch sprichst.",
     "correct": "Me alegro de que hables español bien.",
     "wrong": [
       "Me alegro de que hablas español bien.",
       "Me alegro que hablarás español bien.",
       "Me alegro de que hablar español bien."
     ],
-    "explanation": "Nach 'me alegro de que' (I am glad das), der/die/das Konjunktiv ist erforderlich weil Es gibt two different Subjekts."
+    "explanation": "Nach „me alegro de que“ (ich freue mich, dass) muss der Subjuntivo stehen, weil es zwei verschiedene Subjekte gibt.",
+    "hint": null
   },
   "q_gram_b1_03_009": {
-    "question": "Ellos ___ la situación perfectamente. (comprender, Präsens Konjunktiv, ellos form)",
+    "question": "Ellos ___ la situación perfectamente. (comprender, Subjuntivo Präsens, Form ellos)",
     "correct": "comprendan",
     "wrong": [
       "comprenden",
       "comprenderán",
       "comprendían"
     ],
-    "explanation": "Comprender's ellos Konjunktiv uses der/die/das opposite ending -an: comprendan.",
-    "conjugation_info": "comprender (Präsens Konjunktiv): comprenda, comprendas, comprenda, comprendamos, comprendáis, comprendan"
+    "explanation": "Der Subjuntivo von comprender in der Form ellos verwendet die gegenteilige Endung -an: comprendan.",
+    "conjugation_info": "comprender (Präsens Konjunktiv): comprenda, comprendas, comprenda, comprendamos, comprendáis, comprendan",
+    "hint": null
   },
   "q_gram_b1_03_010": {
     "question": "Deseo que mis hijos tengan una vida feliz.",
-    "correct": "I wish that my children have a happy life.",
+    "correct": "Ich wünsche mir, dass meine Kinder ein glückliches Leben haben.",
     "wrong": [
-      "I wish that my children had a happy life.",
-      "I wish that my children will have a happy life.",
-      "I desire my children a happy life."
+      "Ich wünsche mir, dass meine Kinder ein glückliches Leben hatten.",
+      "Ich wünsche mir, dass meine Kinder ein glückliches Leben haben werden.",
+      "Ich begehre für meine Kinder ein glückliches Leben."
     ],
-    "explanation": "Tengan ist der/die/das Präsens Konjunktiv von tener (ellos form). 'Deseo que' drückt aus a wish und triggers der/die/das Konjunktiv."
+    "explanation": "Tengan ist der Subjuntivo Präsens von tener (Form ellos). „Deseo que“ drückt einen Wunsch aus und löst den Subjuntivo aus.",
+    "hint": null
   },
   "q_gram_b1_04_001": {
     "question": "Yo ___ que ella viene mañana. (creer, Präsens Konjunktiv, yo-Form)",
@@ -331,7 +354,8 @@
       "será",
       "era"
     ],
-    "explanation": "Nach 'no creo que' (I don't think das), der/die/das Konjunktiv ist erforderlich um auszudrücken doubt. Ser's Konjunktiv ist sea."
+    "explanation": "Nach „no creo que“ (ich glaube nicht, dass) muss der Subjuntivo stehen, um Zweifel auszudrücken. Der Subjuntivo von ser ist sea.",
+    "hint": null
   },
   "q_gram_b1_04_003": {
     "question": "Dudo que ellos ___ la verdad sobre el accidente. (saber)",
@@ -341,28 +365,31 @@
       "sabrán",
       "sabían"
     ],
-    "explanation": "Nach 'dudo que' (I doubt das), der/die/das Konjunktiv wird verwendet. Saber's Konjunktiv ellos form ist sepan."
+    "explanation": "Nach „dudo que“ (ich bezweifle, dass) steht der Subjuntivo. Der Subjuntivo von saber in der Form ellos ist sepan.",
+    "hint": null
   },
   "q_gram_b1_04_004": {
-    "question": "Welche Satz correctly uses der/die/das Indikativ (not Konjunktiv)?",
+    "question": "Welcher Satz verwendet korrekt den Indikativ (nicht den Subjuntivo)?",
     "correct": "Estoy seguro de que ella viene mañana.",
     "wrong": [
       "Dudo que ella venga mañana.",
       "No creo que ella venga mañana.",
       "Es posible que ella venga mañana."
     ],
-    "explanation": "Certainty expressions like 'estoy seguro de que' use der/die/das Indikativ. Doubt/denial expressions (dudo que, no creo que, es posible que) trigger der/die/das Konjunktiv."
+    "explanation": "Ausdrücke der Gewissheit wie „estoy seguro de que“ verwenden den Indikativ. Ausdrücke des Zweifels oder der Verneinung (dudo que, no creo que, es posible que) lösen den Subjuntivo aus.",
+    "hint": null
   },
   "q_gram_b1_04_005": {
-    "question": "Tú ___ español mejor que yo. (hablar, Präsens Konjunktiv, tú-Form)",
+    "question": "Tú ___ español mejor que yo. (hablar, Subjuntivo Präsens, Form tú)",
     "correct": "hables",
     "wrong": [
       "hablas",
       "hablarás",
       "hablabas"
     ],
-    "explanation": "Hablar's tú Konjunktiv ist hables, using der/die/das opposite ending -es für -ar Verbs.",
-    "conjugation_info": "hablar (Präsens Konjunktiv): hable, hables, hable, hablemos, habléis, hablen"
+    "explanation": "Der Subjuntivo von hablar in der Form tú ist hables; bei Verben auf -ar wird die gegenteilige Endung -es verwendet.",
+    "conjugation_info": "hablar (Präsens Konjunktiv): hable, hables, hable, hablemos, habléis, hablen",
+    "hint": null
   },
   "q_gram_b1_04_006": {
     "question": "No es verdad que los gatos ___ nueve vidas. (tener)",
@@ -372,17 +399,19 @@
       "tendrán",
       "tenían"
     ],
-    "explanation": "Nach 'no es verdad que' (es ist not true das), der/die/das Konjunktiv wird verwendet. Tener's ellos Konjunktiv ist tengan."
+    "explanation": "Nach „no es verdad que“ (es ist nicht wahr, dass) steht der Subjuntivo. Der Subjuntivo von tener in der Form ellos ist tengan.",
+    "hint": null
   },
   "q_gram_b1_04_007": {
-    "question": "Es ist possible das es wird rain tomorrow.",
+    "question": "Es ist möglich, dass es morgen regnet.",
     "correct": "Es posible que llueva mañana.",
     "wrong": [
       "Es posible que llueve mañana.",
       "Es posible que lloverá mañana.",
       "Es posible que llovía mañana."
     ],
-    "explanation": "Nach 'es posible que', der/die/das Konjunktiv ist erforderlich. Llover's Konjunktiv ist llueva."
+    "explanation": "Nach „es posible que“ muss der Subjuntivo stehen. Der Subjuntivo von llover ist llueva.",
+    "hint": null
   },
   "q_gram_b1_04_008": {
     "question": "Es probable que María no ___ venir a la reunión. (poder)",
@@ -392,28 +421,31 @@
       "podrá",
       "podía"
     ],
-    "explanation": "Nach 'es probable que', der/die/das Konjunktiv wird benötigt. Poder's Konjunktiv ella form ist pueda."
+    "explanation": "Nach „es probable que“ ist der Subjuntivo nötig. Der Subjuntivo von poder in der Form ella ist pueda.",
+    "hint": null
   },
   "q_gram_b1_04_009": {
     "question": "No creo que haya suficiente comida para todos.",
-    "correct": "I don't think there is enough food for everyone.",
+    "correct": "Ich glaube nicht, dass es genug Essen für alle gibt.",
     "wrong": [
-      "I think there is enough food for everyone.",
-      "I don't think there will be enough food for everyone.",
-      "I doubt there was enough food for everyone."
+      "Ich glaube, dass es genug Essen für alle gibt.",
+      "Ich glaube nicht, dass es genug Essen für alle geben wird.",
+      "Ich bezweifle, dass es genug Essen für alle gab."
     ],
-    "explanation": "Haya ist der/die/das Präsens Konjunktiv von haber. 'No creo que' + Konjunktiv drückt aus doubt in der/die/das Präsens."
+    "explanation": "Haya ist der Subjuntivo Präsens von haber. „No creo que“ + Subjuntivo drückt Zweifel in der Gegenwart aus.",
+    "hint": null
   },
   "q_gram_b1_04_010": {
-    "question": "Ella ___ ir al médico hoy. (deber, Präsens Konjunktiv, ella form)",
+    "question": "Ella ___ ir al médico hoy. (deber, Subjuntivo Präsens, Form ella)",
     "correct": "deba",
     "wrong": [
       "debe",
       "debería",
       "debía"
     ],
-    "explanation": "Deber's ella Konjunktiv uses der/die/das opposite ending -a: deba.",
-    "conjugation_info": "deber (Präsens Konjunktiv): deba, debas, deba, debamos, debáis, deban"
+    "explanation": "Der Subjuntivo von deber in der Form ella verwendet die gegenteilige Endung -a: deba.",
+    "conjugation_info": "deber (Präsens Konjunktiv): deba, debas, deba, debamos, debáis, deban",
+    "hint": null
   },
   "q_gram_b1_05_001": {
     "question": "Yo ___ un coche nuevo si tuviera dinero. (comprar, Konditional)",
@@ -423,8 +455,8 @@
       "compro",
       "compraba"
     ],
-    "explanation": "Der/die/das Konditional ist formed von adding -ía zu der/die/das Infinitiv: comprar + ía = compraría.",
-    "hint": "Der/die/das Konditional adds -ía endings zu der/die/das full Infinitiv"
+    "explanation": "Der Konditional wird gebildet, indem man -ía an den Infinitiv hängt: comprar + ía = compraría.",
+    "hint": "Der Konditional hängt die Endungen -ía an den vollständigen Infinitiv"
   },
   "q_gram_b1_05_002": {
     "question": "¿Tú ___ ayudarme con esta tarea, por favor? (poder, Konditional)",
@@ -434,28 +466,31 @@
       "podías",
       "pudiste"
     ],
-    "explanation": "Poder hat an Unregelmäßig Konditional Stamm: podr-. Der/die/das tú-Form ist podrías. Der/die/das Konditional wird verwendet für polite requests."
+    "explanation": "Poder hat einen unregelmäßigen Konditionalstamm: podr-. Die Form tú lautet podrías. Der Konditional wird für höfliche Bitten verwendet.",
+    "hint": null
   },
   "q_gram_b1_05_003": {
-    "question": "War ist der/die/das primary use von der/die/das Konditional Zeitform in polite expressions?",
-    "correct": "To make polite requests and suggestions",
+    "question": "Wozu dient der Konditional hauptsächlich in höflichen Ausdrücken?",
+    "correct": "Um höfliche Bitten und Vorschläge zu äußern",
     "wrong": [
-      "To give direct orders",
-      "To describe past habits",
-      "To express certainty about the future"
+      "Um direkte Befehle zu erteilen",
+      "Um vergangene Gewohnheiten zu beschreiben",
+      "Um Gewissheit über die Zukunft auszudrücken"
     ],
-    "explanation": "Der/die/das Konditional ist commonly used für politeness: '¿Podrías ayudarme?' (Könnte du help me?) sounds more polite than '¿Puedes ayudarme?'"
+    "explanation": "Der Konditional wird häufig zur Höflichkeit verwendet: „¿Podrías ayudarme?“ (Könntest du mir helfen?) klingt höflicher als „¿Puedes ayudarme?“",
+    "hint": null
   },
   "q_gram_b1_05_004": {
-    "question": "Nosotros ___ más si tuviéramos tiempo. (estudiar, Konditional, nosotros-Form)",
+    "question": "Nosotros ___ más si tuviéramos tiempo. (estudiar, Konditional, Form nosotros)",
     "correct": "estudiaríamos",
     "wrong": [
       "estudiamos",
       "estudiaremos",
       "estudiábamos"
     ],
-    "explanation": "Der/die/das Konditional von estudiar adds -íamos zu der/die/das Infinitiv: estudiaríamos.",
-    "conjugation_info": "estudiar (Konditional): estudiaría, estudiarías, estudiaría, estudiaríamos, estudiaríais, estudiarían"
+    "explanation": "Der Konditional von estudiar entsteht, indem man -íamos an den Infinitiv hängt: estudiaríamos.",
+    "conjugation_info": "estudiar (Konditional): estudiaría, estudiarías, estudiaría, estudiaríamos, estudiaríais, estudiarían",
+    "hint": null
   },
   "q_gram_b1_05_005": {
     "question": "Ella dijo que ___ a las ocho. (venir, Konditional)",
@@ -469,15 +504,16 @@
     "hint": null
   },
   "q_gram_b1_05_006": {
-    "question": "Ellos ___ la verdad si pudieran. (decir, Konditional, ellos form)",
+    "question": "Ellos ___ la verdad si pudieran. (decir, Konditional, Form ellos)",
     "correct": "dirían",
     "wrong": [
       "dicen",
       "dijeron",
       "decían"
     ],
-    "explanation": "Decir hat an Unregelmäßig Konditional Stamm: dir-. Der/die/das ellos form ist dirían.",
-    "conjugation_info": "decir (Konditional): diría, dirías, diría, diríamos, diríais, dirían"
+    "explanation": "Decir hat einen unregelmäßigen Konditionalstamm: dir-. Die Form ellos lautet dirían.",
+    "conjugation_info": "decir (Konditional): diría, dirías, diría, diríamos, diríais, dirían",
+    "hint": null
   },
   "q_gram_b1_05_007": {
     "question": "En tu lugar, yo ___ con el profesor. (hablar, Konditional)",
@@ -487,152 +523,166 @@
       "hablé",
       "hablaba"
     ],
-    "explanation": "Der/die/das Konditional wird verwendet für giving advice: 'En tu lugar, yo hablaría...' (In dein place, I würde speak...)."
+    "explanation": "Der Konditional wird verwendet, um Ratschläge zu geben: „En tu lugar, yo hablaría...“ (An deiner Stelle würde ich sprechen ...).",
+    "hint": null
   },
   "q_gram_b1_05_008": {
-    "question": "I würde travel around der/die/das world if I hatte money.",
+    "question": "Ich würde um die ganze Welt reisen, wenn ich Geld hätte.",
     "correct": "Viajaría por todo el mundo si tuviera dinero.",
     "wrong": [
       "Viajo por todo el mundo si tengo dinero.",
       "Viajaré por todo el mundo si tuviera dinero.",
       "Viajaba por todo el mundo si tuviera dinero."
     ],
-    "explanation": "Der/die/das Konditional (viajaría) wird verwendet für hypothetical situations, oft paired mit 'si + Imperfekt Konjunktiv'."
+    "explanation": "Der Konditional (viajaría) wird für hypothetische Situationen verwendet, oft zusammen mit „si + Subjuntivo Imperfekt“.",
+    "hint": null
   },
   "q_gram_b1_05_009": {
-    "question": "Tú ___ la mesa antes de la cena. (poner, Konditional, tú-Form)",
+    "question": "Tú ___ la mesa antes de la cena. (poner, Konditional, Form tú)",
     "correct": "pondrías",
     "wrong": [
       "pones",
       "pusiste",
       "ponías"
     ],
-    "explanation": "Poner hat an Unregelmäßig Konditional Stamm: pondr-. Der/die/das tú-Form ist pondrías.",
-    "conjugation_info": "poner (Konditional): pondría, pondrías, pondría, pondríamos, pondríais, pondrían"
+    "explanation": "Poner hat einen unregelmäßigen Konditionalstamm: pondr-. Die Form tú lautet pondrías.",
+    "conjugation_info": "poner (Konditional): pondría, pondrías, pondría, pondríamos, pondríais, pondrían",
+    "hint": null
   },
   "q_gram_b1_05_010": {
     "question": "¿Qué harías si ganaras la lotería?",
-    "correct": "What would you do if you won the lottery?",
+    "correct": "Was würdest du tun, wenn du im Lotto gewinnen würdest?",
     "wrong": [
-      "What did you do when you won the lottery?",
-      "What will you do if you win the lottery?",
-      "What are you doing if you win the lottery?"
+      "Was hast du getan, als du im Lotto gewonnen hast?",
+      "Was wirst du tun, wenn du im Lotto gewinnst?",
+      "Was machst du gerade, wenn du im Lotto gewinnst?"
     ],
-    "explanation": "Harías ist der/die/das Konditional von hacer (tú-Form, Unregelmäßig Stamm: har-). Es drückt aus a hypothetical situation."
+    "explanation": "Harías ist das Konditional von hacer (Form tú, unregelmäßiger Stamm: har-). Es drückt eine hypothetische Situation aus.",
+    "hint": null
   },
   "q_gram_b1_06_001": {
-    "question": "Yo ___ la verdad. (decir, Zukunft Zeitform, yo-Form)",
+    "question": "Yo ___ la verdad. (decir, Futur, Form yo)",
     "correct": "diré",
     "wrong": [
       "deciré",
       "digo",
       "dije"
     ],
-    "explanation": "Decir hat an Unregelmäßig Zukunft Stamm: dir-. Der/die/das yo-Form ist diré.",
-    "conjugation_info": "decir (Zukunft): diré, dirás, dirá, diremos, diréis, dirán"
+    "explanation": "Decir hat einen unregelmäßigen Futurstamm: dir-. Die Form yo lautet diré.",
+    "conjugation_info": "decir (Zukunft): diré, dirás, dirá, diremos, diréis, dirán",
+    "hint": null
   },
   "q_gram_b1_06_002": {
-    "question": "Mañana nosotros ___ al museo. (ir, Zukunft Zeitform)",
+    "question": "Mañana nosotros ___ al museo. (ir, Futur)",
     "correct": "iremos",
     "wrong": [
       "vamos",
       "fuimos",
       "íbamos"
     ],
-    "explanation": "Ir ist Regelmäßig in der/die/das Zukunft Zeitform: Infinitiv ir + emos = iremos."
+    "explanation": "Ir ist im Futur regelmäßig: Infinitiv ir + emos = iremos.",
+    "hint": null
   },
   "q_gram_b1_06_003": {
-    "question": "El año que viene ella ___ a España. (viajar, Zukunft Zeitform)",
+    "question": "El año que viene ella ___ a España. (viajar, Futur)",
     "correct": "viajará",
     "wrong": [
       "viaja",
       "viajó",
       "viajaba"
     ],
-    "explanation": "Regelmäßig Zukunft: Infinitiv + -á für ella: viajará. Der/die/das Zukunft wird verwendet für predictions und plans."
+    "explanation": "Regelmäßiges Futur: Infinitiv + -á für ella: viajará. Das Futur wird für Vorhersagen und Pläne verwendet.",
+    "hint": null
   },
   "q_gram_b1_06_004": {
-    "question": "Welche von der/die/das following Verbs hat a Regelmäßig Zukunft Zeitform Stamm?",
+    "question": "Welches der folgenden Verben hat einen REGELMÄSSIGEN Futurstamm?",
     "correct": "hablar (hablaré, hablarás...)",
     "wrong": [
       "tener (tendré, tendrás...)",
       "hacer (haré, harás...)",
       "poder (podré, podrás...)"
     ],
-    "explanation": "Hablar uses der/die/das full Infinitiv as der/die/das Zukunft Stamm: hablaré. Tener, hacer, und poder haben Unregelmäßig stems (tendr-, har-, podr-)."
+    "explanation": "Hablar verwendet den vollständigen Infinitiv als Futurstamm: hablaré. Tener, hacer und poder haben unregelmäßige Stämme (tendr-, har-, podr-).",
+    "hint": null
   },
   "q_gram_b1_06_005": {
-    "question": "Ellos ___ todo antes del viernes. (tener, Zukunft Zeitform, ellos form)",
+    "question": "Ellos ___ todo antes del viernes. (tener, Futur, Form ellos)",
     "correct": "tendrán",
     "wrong": [
       "tienen",
       "tuvieron",
       "tenían"
     ],
-    "explanation": "Tener hat an Unregelmäßig Zukunft Stamm: tendr-. Der/die/das ellos form ist tendrán.",
-    "conjugation_info": "tener (Zukunft): tendré, tendrás, tendrá, tendremos, tendréis, tendrán"
+    "explanation": "Tener hat einen unregelmäßigen Futurstamm: tendr-. Die Form ellos lautet tendrán.",
+    "conjugation_info": "tener (Zukunft): tendré, tendrás, tendrá, tendremos, tendréis, tendrán",
+    "hint": null
   },
   "q_gram_b1_06_006": {
-    "question": "¿Tú ___ venir a la cena el sábado? (poder, Zukunft Zeitform)",
+    "question": "¿Tú ___ venir a la cena el sábado? (poder, Futur)",
     "correct": "podrás",
     "wrong": [
       "puedes",
       "pudiste",
       "podías"
     ],
-    "explanation": "Poder hat an Unregelmäßig Zukunft Stamm: podr-. Der/die/das tú-Form ist podrás."
+    "explanation": "Poder hat einen unregelmäßigen Futurstamm: podr-. Die Form tú lautet podrás.",
+    "hint": null
   },
   "q_gram_b1_06_007": {
-    "question": "Next year we wird live in Madrid.",
+    "question": "Nächstes Jahr werden wir in Madrid wohnen.",
     "correct": "El año que viene viviremos en Madrid.",
     "wrong": [
       "El año que viene vivimos en Madrid.",
       "El año que viene vivíamos en Madrid.",
       "El año que viene vivieron en Madrid."
     ],
-    "explanation": "Der/die/das Zukunft von vivir (Regelmäßig) uses der/die/das full Infinitiv + -emos: viviremos."
+    "explanation": "Das Futur von vivir (regelmäßig) wird mit dem vollständigen Infinitiv + -emos gebildet: viviremos.",
+    "hint": null
   },
   "q_gram_b1_06_008": {
-    "question": "Yo ___ que estudiar más para el examen. (haber, Zukunft Zeitform)",
+    "question": "Yo ___ que estudiar más para el examen. (haber, Futur)",
     "correct": "habré",
     "wrong": [
       "he",
       "hube",
       "había"
     ],
-    "explanation": "Haber hat an Unregelmäßig Zukunft Stamm: habr-. Der/die/das yo-Form ist habré. 'Habré que' ist incorrect; dies bedeutet 'I wird haben (auxiliary).'"
+    "explanation": "Haber hat einen unregelmäßigen Futurstamm: habr-. Die Form yo lautet habré. 'Habré que' ist falsch; es bedeutet 'Ich werde (Hilfsverb) haben'.",
+    "hint": null
   },
   "q_gram_b1_06_009": {
     "question": "¿Dónde estarán mis llaves? No las encuentro.",
-    "correct": "Where could my keys be? I can't find them.",
+    "correct": "Wo mögen meine Schlüssel wohl sein? Ich finde sie nicht.",
     "wrong": [
-      "Where were my keys? I can't find them.",
-      "Where will my keys be? I can't find them.",
-      "Where are my keys? I couldn't find them."
+      "Wo waren meine Schlüssel? Ich finde sie nicht.",
+      "Wo werden meine Schlüssel sein? Ich finde sie nicht.",
+      "Wo sind meine Schlüssel? Ich konnte sie nicht finden."
     ],
-    "explanation": "Der/die/das Zukunft Zeitform kann express speculation oder probability in der/die/das Präsens. 'Estarán' hier bedeutet 'könnte sein / probably sind.'"
+    "explanation": "Das Futur kann eine Vermutung oder Wahrscheinlichkeit in der Gegenwart ausdrücken. 'Estarán' bedeutet hier 'könnten sein / sind wahrscheinlich'.",
+    "hint": null
   },
   "q_gram_b1_06_010": {
-    "question": "Nosotros ___ la tarea antes de la clase. (hacer, Zukunft Zeitform, nosotros-Form)",
+    "question": "Nosotros ___ la tarea antes de la clase. (hacer, Futur, Form nosotros)",
     "correct": "haremos",
     "wrong": [
       "hacemos",
       "hicimos",
       "hacíamos"
     ],
-    "explanation": "Hacer hat an Unregelmäßig Zukunft Stamm: har-. Der/die/das nosotros-Form ist haremos.",
-    "conjugation_info": "hacer (Zukunft): haré, harás, hará, haremos, haréis, harán"
+    "explanation": "Hacer hat einen unregelmäßigen Futurstamm: har-. Die Form nosotros lautet haremos.",
+    "conjugation_info": "hacer (Zukunft): haré, harás, hará, haremos, haréis, harán",
+    "hint": null
   },
   "q_gram_b1_07_001": {
-    "question": "Yo ___ mucho este año. (trabajar, Perfekt)",
+    "question": "Yo ___ mucho este año. (trabajar, Pretérito perfecto)",
     "correct": "he trabajado",
     "wrong": [
       "ha trabajado",
       "hemos trabajado",
       "trabajé"
     ],
-    "explanation": "Der/die/das Perfekt uses haber (he/hat/ha/hemos/habéis/han) + Vergangenheit Partizip. Yo: he trabajado.",
-    "hint": "Pretérito perfecto = haber (Präsens) + Vergangenheit Partizip (-ado/-ido)"
+    "explanation": "Das Pretérito perfecto wird mit haber (he/has/ha/hemos/habéis/han) + Partizip Perfekt gebildet. Yo: he trabajado.",
+    "hint": "Pretérito perfecto = haber (Präsens) + Partizip Perfekt (-ado/-ido)"
   },
   "q_gram_b1_07_002": {
     "question": "Ellos ya ___ la carta. (escribir, Perfekt)",
@@ -645,14 +695,15 @@
     "explanation": "Escribir hat an Unregelmäßig Vergangenheit Partizip: escrito. Ellos: han escrito."
   },
   "q_gram_b1_07_003": {
-    "question": "War ist der/die/das function von 'ya' und 'todavía no' mit der/die/das Perfekt?",
-    "correct": "'Ya' means 'already' and 'todavía no' means 'not yet', both commonly used with present perfect",
+    "question": "Welche Funktion haben 'ya' und 'todavía no' beim Pretérito perfecto?",
+    "correct": "'Ya' bedeutet 'schon' und 'todavía no' bedeutet 'noch nicht'; beide werden häufig mit dem Pretérito perfecto verwendet",
     "wrong": [
-      "They are only used with the preterite tense",
-      "They signal the future tense",
-      "'Ya' means 'still' and 'todavía no' means 'never'"
+      "Sie werden nur mit dem Pretérito indefinido verwendet",
+      "Sie zeigen das Futur an",
+      "'Ya' bedeutet 'noch immer' und 'todavía no' bedeutet 'nie'"
     ],
-    "explanation": "'Ya he comido' = I haben already eaten. 'Todavía no he comido' = I haben not eaten yet. Diese AdVerbs sind natural partners von der/die/das Perfekt."
+    "explanation": "'Ya he comido' = Ich habe schon gegessen. 'Todavía no he comido' = Ich habe noch nicht gegessen. Diese Adverbien passen natürlich zum Pretérito perfecto.",
+    "hint": null
   },
   "q_gram_b1_07_004": {
     "question": "Nosotros ___ la puerta. (abrir, Perfekt, nosotros-Form)",
@@ -666,14 +717,15 @@
     "conjugation_info": "abrir (Perfekt): he abierto, has abierto, ha abierto, hemos abierto, habéis abierto, han abierto"
   },
   "q_gram_b1_07_005": {
-    "question": "Esta semana María ___ tres libros. (leer, Perfekt)",
+    "question": "Esta semana María ___ tres libros. (leer, Pretérito perfecto)",
     "correct": "ha leído",
     "wrong": [
       "ha leido",
       "ha leyó",
       "han leído"
     ],
-    "explanation": "Leer's Vergangenheit Partizip ist leído (mit accent on der/die/das í). Ella: ha leído."
+    "explanation": "Das Partizip von leer ist leído (mit Akzent auf dem í). Ella: ha leído.",
+    "hint": null
   },
   "q_gram_b1_07_006": {
     "question": "Vosotros ___ la verdad. (decir, Perfekt, vosotros-Form)",
@@ -697,14 +749,15 @@
     "explanation": "Hacer hat an Unregelmäßig Vergangenheit Partizip: hecho. Tú: hat hecho."
   },
   "q_gram_b1_07_008": {
-    "question": "I haben already seen das movie.",
+    "question": "Ich habe diesen Film schon gesehen.",
     "correct": "Ya he visto esa película.",
     "wrong": [
       "Ya he veido esa película.",
       "Ya vi esa película.",
       "Ya veo esa película."
     ],
-    "explanation": "Ver hat an Unregelmäßig Vergangenheit Partizip: visto. 'Ya' (already) ist commonly used mit der/die/das Perfekt."
+    "explanation": "Ver hat ein unregelmäßiges Partizip: visto. 'Ya' (schon) wird häufig mit dem Pretérito perfecto verwendet.",
+    "hint": null
   },
   "q_gram_b1_07_009": {
     "question": "Ella ___ de vacaciones dos veces este año. (ir, Perfekt, ella form)",
@@ -719,24 +772,26 @@
   },
   "q_gram_b1_07_010": {
     "question": "Hoy hemos puesto la mesa tres veces.",
-    "correct": "Today we have set the table three times.",
+    "correct": "Heute haben wir den Tisch dreimal gedeckt.",
     "wrong": [
-      "Today we put the table three times.",
-      "Yesterday we have set the table three times.",
-      "Today we have placed the table three times."
+      "Heute deckten wir den Tisch dreimal.",
+      "Gestern haben wir den Tisch dreimal gedeckt.",
+      "Heute haben wir den Tisch dreimal aufgestellt."
     ],
-    "explanation": "Hemos puesto ist der/die/das Perfekt von poner (Unregelmäßig pp: puesto). 'Hoy' (today) signals Perfekt usage."
+    "explanation": "Hemos puesto ist das Pretérito perfecto von poner (unregelmäßiges Partizip: puesto). 'Hoy' (heute) deutet auf das Pretérito perfecto hin.",
+    "hint": null
   },
   "q_gram_b1_08_001": {
-    "question": "Yo ya ___ cuando tú llegaste. (comer, Plusquamperfekt, yo-Form)",
+    "question": "Yo ya ___ cuando tú llegaste. (comer, Plusquamperfekt, Form yo)",
     "correct": "había comido",
     "wrong": [
       "he comido",
       "habría comido",
       "hube comido"
     ],
-    "explanation": "Der/die/das Plusquamperfekt (Plusquamperfekt) uses había + Vergangenheit Partizip. Yo: había comido.",
-    "conjugation_info": "comer (Plusquamperfekt): había comido, habías comido, había comido, habíamos comido, habíais comido, habían comido"
+    "explanation": "Das Pluscuamperfecto (Plusquamperfekt) wird mit había + Partizip gebildet. Yo: había comido.",
+    "conjugation_info": "comer (Plusquamperfekt): había comido, habías comido, había comido, habíamos comido, habíais comido, habían comido",
+    "hint": null
   },
   "q_gram_b1_08_002": {
     "question": "Cuando llegamos al cine, la película ya ___. (empezar, Plusquamperfekt)",
@@ -746,7 +801,8 @@
       "empezó",
       "empezaba"
     ],
-    "explanation": "Der/die/das Plusquamperfekt wird verwendet für an action completed vor another Vergangenheit action. 'Había empezado' = hatte already started."
+    "explanation": "Das Plusquamperfekt wird für eine Handlung verwendet, die vor einer anderen vergangenen Handlung abgeschlossen war. 'Había empezado' = hatte schon begonnen.",
+    "hint": null
   },
   "q_gram_b1_08_003": {
     "question": "Ella nunca ___ a Europa antes de ese viaje. (viajar, Plusquamperfekt)",
@@ -756,28 +812,31 @@
       "viajó",
       "viajaba"
     ],
-    "explanation": "Der/die/das Plusquamperfekt drückt aus an action completed vor a reference point in der/die/das Vergangenheit. 'Había viajado' = hatte traveled."
+    "explanation": "Das Plusquamperfekt drückt eine Handlung aus, die vor einem Bezugspunkt in der Vergangenheit abgeschlossen war. 'Había viajado' = war gereist.",
+    "hint": null
   },
   "q_gram_b1_08_004": {
-    "question": "War ist der/die/das main function von der/die/das Plusquamperfekt (Plusquamperfekt) Zeitform?",
-    "correct": "To describe an action that happened before another past action",
+    "question": "Was ist die Hauptfunktion des Pluscuamperfecto (Plusquamperfekt)?",
+    "correct": "Eine Handlung zu beschreiben, die vor einer anderen vergangenen Handlung stattfand",
     "wrong": [
-      "To describe a habitual action in the past",
-      "To describe an action happening right now",
-      "To describe a future action"
+      "Eine gewohnheitsmäßige Handlung in der Vergangenheit zu beschreiben",
+      "Eine Handlung zu beschreiben, die gerade jetzt geschieht",
+      "Eine zukünftige Handlung zu beschreiben"
     ],
-    "explanation": "Der/die/das Plusquamperfekt (había + pp) zeigt an das one Vergangenheit action war completed vor another Vergangenheit action: 'Cuando llegué, ya había salido.'"
+    "explanation": "Das Plusquamperfekt (había + Partizip) zeigt an, dass eine vergangene Handlung vor einer anderen vergangenen Handlung abgeschlossen war: 'Cuando llegué, ya había salido.'",
+    "hint": null
   },
   "q_gram_b1_08_005": {
-    "question": "Nosotros ___ la tarea antes de ir a clase. (terminar, Plusquamperfekt, nosotros-Form)",
+    "question": "Nosotros ___ la tarea antes de ir a clase. (terminar, Plusquamperfekt, Form nosotros)",
     "correct": "habíamos terminado",
     "wrong": [
       "hemos terminado",
       "habríamos terminado",
       "terminamos"
     ],
-    "explanation": "Der/die/das nosotros Plusquamperfekt ist habíamos + Vergangenheit Partizip: habíamos terminado.",
-    "conjugation_info": "terminar (Plusquamperfekt): había terminado, habías terminado, había terminado, habíamos terminado, habíais terminado, habían terminado"
+    "explanation": "Das Plusquamperfekt in der Form nosotros besteht aus habíamos + Partizip: habíamos terminado.",
+    "conjugation_info": "terminar (Plusquamperfekt): había terminado, habías terminado, había terminado, habíamos terminado, habíais terminado, habían terminado",
+    "hint": null
   },
   "q_gram_b1_08_006": {
     "question": "Los niños ya ___ la leche cuando su madre llegó. (beber, Plusquamperfekt)",
@@ -787,17 +846,19 @@
       "bebieron",
       "bebían"
     ],
-    "explanation": "Der/die/das Plusquamperfekt ellos form ist habían + pp: habían bebido."
+    "explanation": "Das Plusquamperfekt in der Form ellos besteht aus habían + Partizip: habían bebido.",
+    "hint": null
   },
   "q_gram_b1_08_007": {
-    "question": "Wann I arrived, she hatte already left.",
+    "question": "Als ich ankam, war sie schon gegangen.",
     "correct": "Cuando llegué, ella ya había salido.",
     "wrong": [
       "Cuando llegué, ella ya ha salido.",
       "Cuando llegaba, ella ya salió.",
       "Cuando llego, ella ya había salido."
     ],
-    "explanation": "Der/die/das Plusquamperfekt (había salido) zeigt der/die/das leaving happened vor der/die/das arriving. 'Cuando + Präteritum' sets der/die/das Vergangenheit reference point."
+    "explanation": "Das Plusquamperfekt (había salido) zeigt, dass das Weggehen vor dem Ankommen stattfand. „Cuando + Indefinido“ legt den vergangenen Bezugspunkt fest.",
+    "hint": null
   },
   "q_gram_b1_08_008": {
     "question": "Tú no ___ ese libro antes. (leer, Plusquamperfekt)",
@@ -807,49 +868,53 @@
       "leíste",
       "leías"
     ],
-    "explanation": "Der/die/das tú Plusquamperfekt ist habías + pp: habías leído."
+    "explanation": "Das Plusquamperfekt in der Form tú besteht aus habías + Partizip: habías leído.",
+    "hint": null
   },
   "q_gram_b1_08_009": {
     "question": "Ellos no habían visto nunca una película tan buena.",
-    "correct": "They had never seen such a good movie.",
+    "correct": "Sie hatten noch nie einen so guten Film gesehen.",
     "wrong": [
-      "They have never seen such a good movie.",
-      "They never saw such a good movie.",
-      "They will never see such a good movie."
+      "Sie haben noch nie einen so guten Film gesehen.",
+      "Sie sahen nie einen so guten Film.",
+      "Sie werden nie einen so guten Film sehen."
     ],
-    "explanation": "Habían visto ist der/die/das Plusquamperfekt von ver (Unregelmäßig pp: visto). Es drückt aus das der/die/das experience preceded another Vergangenheit moment."
+    "explanation": "Habían visto ist das Plusquamperfekt von ver (unregelmäßiges Partizip: visto). Es drückt aus, dass die Erfahrung vor einem anderen vergangenen Zeitpunkt lag.",
+    "hint": null
   },
   "q_gram_b1_08_010": {
-    "question": "Vosotros ya ___ la noticia cuando os llamé. (saber, Plusquamperfekt, vosotros-Form)",
+    "question": "Vosotros ya ___ la noticia cuando os llamé. (saber, Plusquamperfekt, Form vosotros)",
     "correct": "habíais sabido",
     "wrong": [
       "habéis sabido",
       "supisteis",
       "sabíais"
     ],
-    "explanation": "Der/die/das vosotros Plusquamperfekt ist habíais + pp: habíais sabido.",
-    "conjugation_info": "saber (Plusquamperfekt): había sabido, habías sabido, había sabido, habíamos sabido, habíais sabido, habían sabido"
+    "explanation": "Das Plusquamperfekt in der Form vosotros besteht aus habíais + Partizip: habíais sabido.",
+    "conjugation_info": "saber (Plusquamperfekt): había sabido, habías sabido, había sabido, habíamos sabido, habíais sabido, habían sabido",
+    "hint": null
   },
   "q_gram_b1_09_001": {
-    "question": "El hombre ___ habla es mi profesor. (relative Pronomen)",
+    "question": "El hombre ___ habla es mi profesor. (Relativpronomen)",
     "correct": "que",
     "wrong": [
       "quien",
       "donde",
       "lo que"
     ],
-    "explanation": "'Que' ist der/die/das die meisten häufig relative Pronomen und kann refer zu both Leute und things as der/die/das Subjekt von der/die/das Nebensatz.",
-    "hint": "'Que' ist der/die/das universal relative Pronomen für Leute und things"
+    "explanation": "„Que“ ist das häufigste Relativpronomen und kann sich als Subjekt des Nebensatzes sowohl auf Personen als auch auf Dinge beziehen.",
+    "hint": "„Que“ ist das universelle Relativpronomen für Personen und Dinge"
   },
   "q_gram_b1_09_002": {
-    "question": "La ciudad ___ vivo es muy bonita. (relative Pronomen für place)",
+    "question": "La ciudad ___ vivo es muy bonita. (Relativpronomen für einen Ort)",
     "correct": "donde",
     "wrong": [
       "que",
       "quien",
       "lo que"
     ],
-    "explanation": "'Donde' wird verwendet as a relative Pronomen für places: 'La ciudad donde vivo' = Der/die/das city wo I live."
+    "explanation": "„Donde“ wird als Relativpronomen für Orte verwendet: „La ciudad donde vivo“ = Die Stadt, in der ich wohne.",
+    "hint": null
   },
   "q_gram_b1_09_003": {
     "question": "War does 'lo que' bedeuten wann used as a relative Pronomen?",
@@ -883,35 +948,38 @@
     "explanation": "'Lo que' bedeutet 'war' oder 'das welche' wann referring zu something abstract oder unspecified."
   },
   "q_gram_b1_09_006": {
-    "question": "Los estudiantes ___ aprobaron el examen están contentos. (relative Pronomen)",
+    "question": "Los estudiantes ___ aprobaron el examen están contentos. (Relativpronomen)",
     "correct": "que",
     "wrong": [
       "quien",
       "donde",
       "quienes"
     ],
-    "explanation": "'Que' wird verwendet as der/die/das Subjekt relative Pronomen für both Leute und things. Es does not change für number.",
-    "conjugation_info": "Relative Pronomens: que (people/things), quien/quienes (people after prep), donde (place), lo que (what/that which)"
+    "explanation": "„Que“ wird als Relativpronomen im Subjektfall sowohl für Personen als auch für Dinge verwendet. Es verändert sich nicht nach der Zahl.",
+    "conjugation_info": "Relative Pronomens: que (people/things), quien/quienes (people after prep), donde (place), lo que (what/that which)",
+    "hint": null
   },
   "q_gram_b1_09_007": {
-    "question": "La chica ___ hermano estudia conmigo es de México. (relative Pronomen für possession)",
+    "question": "La chica ___ hermano estudia conmigo es de México. (Relativpronomen für Besitz)",
     "correct": "cuyo",
     "wrong": [
       "que",
       "quien",
       "donde"
     ],
-    "explanation": "'Cuyo/cuya/cuyos/cuyas' ist der/die/das possessive relative Pronomen Bedeutung 'whose'. Es stimmt überein mit der/die/das Nomen es modifies (hermano = männlich Singular)."
+    "explanation": "„Cuyo/cuya/cuyos/cuyas“ ist das Possessiv-Relativpronomen mit der Bedeutung „dessen/deren“. Es richtet sich nach dem Nomen, auf das es sich bezieht (hermano = maskulin Singular).",
+    "hint": null
   },
   "q_gram_b1_09_008": {
-    "question": "Der/die/das book das I read war sehr interesting.",
+    "question": "Das Buch, das ich gelesen habe, war sehr interessant.",
     "correct": "El libro que leí fue muy interesante.",
     "wrong": [
       "El libro quien leí fue muy interesante.",
       "El libro donde leí fue muy interesante.",
       "El libro lo que leí fue muy interesante."
     ],
-    "explanation": "'Que' wird verwendet für things (el libro) as der/die/das Objekt von der/die/das relative Nebensatz. Es ist der/die/das die meisten versatile relative Pronomen."
+    "explanation": "„Que“ wird für Dinge (el libro) als Objekt des Relativsatzes verwendet. Es ist das vielseitigste Relativpronomen.",
+    "hint": null
   },
   "q_gram_b1_09_009": {
     "question": "Las personas a ___ invité no vinieron. (relative Pronomen, Leute nach Präposition, Plural)",
@@ -926,44 +994,48 @@
   },
   "q_gram_b1_09_010": {
     "question": "El restaurante donde comimos ayer estaba lleno.",
-    "correct": "The restaurant where we ate yesterday was full.",
+    "correct": "Das Restaurant, in dem wir gestern gegessen haben, war voll.",
     "wrong": [
-      "The restaurant that we ate yesterday was full.",
-      "The restaurant who we ate yesterday was full.",
-      "The restaurant which we ate yesterday was full."
+      "Das Restaurant, das wir gestern gegessen haben, war voll.",
+      "Das Restaurant, wer wir gestern gegessen haben, war voll.",
+      "Das Restaurant, welches wir gestern gegessen haben, war voll."
     ],
-    "explanation": "'Donde' ist der/die/das relative Pronomen für places. 'Comimos' ist der/die/das Präteritum nosotros-Form von comer."
+    "explanation": "„Donde“ ist das Relativpronomen für Orte. „Comimos“ ist die Form nosotros des Indefinido von comer.",
+    "hint": null
   },
   "q_gram_b1_10_001": {
-    "question": "María dijo: 'Estoy cansada.' → María dijo que ___ cansada. (reported speech, Präsens → ?)",
+    "question": "María dijo: 'Estoy cansada.' → María dijo que ___ cansada. (indirekte Rede, Präsens → ?)",
     "correct": "estaba",
     "wrong": [
       "está",
       "estuvo",
       "estaría"
     ],
-    "explanation": "In reported speech mit 'dijo que', der/die/das Präsens Zeitform shifts zu der/die/das Imperfekt: está → estaba.",
-    "conjugation_info": "Reported speech shifts (dijo que): Präsens → Imperfekt, Zukunft → Konditional, Präteritum → Plusquamperfekt"
+    "explanation": "In der indirekten Rede mit „dijo que“ wechselt das Präsens ins Imperfekt: está → estaba.",
+    "conjugation_info": "Reported speech shifts (dijo que): Präsens → Imperfekt, Zukunft → Konditional, Präteritum → Plusquamperfekt",
+    "hint": null
   },
   "q_gram_b1_10_002": {
-    "question": "Juan dijo: 'Iré mañana.' → Juan dijo que ___ al día siguiente. (reported speech, Zukunft → ?)",
+    "question": "Juan dijo: 'Iré mañana.' → Juan dijo que ___ al día siguiente. (indirekte Rede, Futur → ?)",
     "correct": "iría",
     "wrong": [
       "irá",
       "fue",
       "iba"
     ],
-    "explanation": "In reported speech, der/die/das Zukunft shifts zu Konditional: iré → iría. Auch, 'mañana' ändert sich zu 'al día siguiente'."
+    "explanation": "In der indirekten Rede wechselt das Futur ins Konditional: iré → iría. Außerdem wird „mañana“ zu „al día siguiente“.",
+    "hint": null
   },
   "q_gram_b1_10_003": {
-    "question": "Pedro dice: 'Tengo hambre.' → Pedro dice que ___ hambre. (reported speech mit 'dice')",
+    "question": "Pedro dice: 'Tengo hambre.' → Pedro dice que ___ hambre. (indirekte Rede mit „dice“)",
     "correct": "tiene",
     "wrong": [
       "tenía",
       "tendría",
       "tuvo"
     ],
-    "explanation": "Wann der/die/das reporting Verb ist in der/die/das Präsens (dice), Es gibt kein Zeitform shift: tiene stays as tiene."
+    "explanation": "Steht das einleitende Verb im Präsens (dice), gibt es KEINEN Zeitenwechsel: tiene bleibt tiene.",
+    "hint": null
   },
   "q_gram_b1_10_004": {
     "question": "Wie verändert sich in der indirekten Rede die Zeitangabe 'hoy', wenn das einleitende Verb in der Vergangenheit steht?",
@@ -977,35 +1049,38 @@
     "hint": null
   },
   "q_gram_b1_10_005": {
-    "question": "Ella ___ que vendría a la fiesta. (decir, reported speech, ella, Präteritum)",
+    "question": "Ella ___ que vendría a la fiesta. (decir, indirekte Rede, ella, Indefinido)",
     "correct": "dijo",
     "wrong": [
       "dice",
       "decía",
       "diría"
     ],
-    "explanation": "Der/die/das reporting Verb 'decir' in der/die/das Präteritum ella form ist dijo. 'Dijo que vendría' = She said she würde come.",
-    "conjugation_info": "decir (Präteritum): dije, dijiste, dijo, dijimos, dijisteis, dijeron"
+    "explanation": "Das einleitende Verb „decir“ im Indefinido, Form ella, lautet dijo. „Dijo que vendría“ = Sie sagte, sie werde zur Party kommen.",
+    "conjugation_info": "decir (Präteritum): dije, dijiste, dijo, dijimos, dijisteis, dijeron",
+    "hint": null
   },
   "q_gram_b1_10_006": {
-    "question": "Ana dijo: 'He terminado.' → Ana dijo que ___ terminado. (reported speech, Perfekt → ?)",
+    "question": "Ana dijo: 'He terminado.' → Ana dijo que ___ terminado. (indirekte Rede, Perfekt → ?)",
     "correct": "había",
     "wrong": [
       "ha",
       "haya",
       "habría"
     ],
-    "explanation": "In reported speech, der/die/das Perfekt shifts zu der/die/das Plusquamperfekt: he terminado → había terminado."
+    "explanation": "In der indirekten Rede wechselt das Perfekt ins Plusquamperfekt: he terminado → había terminado.",
+    "hint": null
   },
   "q_gram_b1_10_007": {
-    "question": "Carlos said das he war studying Spanisch.",
+    "question": "Carlos sagte, er lerne Spanisch.",
     "correct": "Carlos dijo que estaba estudiando español.",
     "wrong": [
       "Carlos dijo que está estudiando español.",
       "Carlos dice que estaba estudiando español.",
       "Carlos dijo que estudiará español."
     ],
-    "explanation": "In reported speech mit 'dijo que', der/die/das Präsens Progressiv shifts zu der/die/das Imperfekt Progressiv: está estudiando → estaba estudiando."
+    "explanation": "In der indirekten Rede mit „dijo que“ wechselt die Verlaufsform des Präsens in die Verlaufsform des Imperfekts: está estudiando → estaba estudiando.",
+    "hint": null
   },
   "q_gram_b1_10_008": {
     "question": "Mi madre dijo: 'Ven aquí.' → Mi madre dijo que ___ allí. (reported speech, command)",
@@ -1029,67 +1104,72 @@
     "hint": null
   },
   "q_gram_b1_10_010": {
-    "question": "Ellos ___ que no podían venir. (decir, reported speech, ellos, Präteritum)",
+    "question": "Ellos ___ que no podían venir. (decir, indirekte Rede, ellos, Indefinido)",
     "correct": "dijeron",
     "wrong": [
       "dicen",
       "decían",
       "dirían"
     ],
-    "explanation": "Decir in der/die/das Präteritum ellos form ist dijeron. 'Dijeron que no podían' = Sie said sie couldn't.",
-    "conjugation_info": "decir (Präteritum): dije, dijiste, dijo, dijimos, dijisteis, dijeron"
+    "explanation": "Decir im Indefinido, Form ellos, lautet dijeron. „Dijeron que no podían“ = Sie sagten, sie könnten nicht kommen.",
+    "conjugation_info": "decir (Präteritum): dije, dijiste, dijo, dijimos, dijisteis, dijeron",
+    "hint": null
   },
   "q_gram_b1_11_001": {
-    "question": "El libro ___ escrito por Cervantes. (ser, Passiv voice, Präteritum)",
+    "question": "El libro ___ escrito por Cervantes. (ser, Passiv, Indefinido)",
     "correct": "fue",
     "wrong": [
       "es",
       "era",
       "será"
     ],
-    "explanation": "Der/die/das Passiv voice uses ser + Vergangenheit Partizip (+ por + agent). 'Fue escrito por Cervantes' = war written von Cervantes.",
-    "hint": "Passive voice = ser (conjugated) + Vergangenheit Partizip + por + agent"
+    "explanation": "Das Passiv wird mit ser + Partizip (+ por + Agens) gebildet. „Fue escrito por Cervantes“ = wurde von Cervantes geschrieben.",
+    "hint": "Passiv = ser (konjugiert) + Partizip + por + Agens"
   },
   "q_gram_b1_11_002": {
-    "question": "Las casas ___ construidas en los años 80. (ser, Passiv voice, Präteritum)",
+    "question": "Las casas ___ construidas en los años 80. (ser, Passiv, Präteritum)",
     "correct": "fueron",
     "wrong": [
       "fue",
       "eran",
       "son"
     ],
-    "explanation": "Der/die/das Passiv uses ser conjugated für der/die/das Subjekt. 'Las casas' ist Plural weiblich: fueron construidas."
+    "explanation": "Das Passiv wird mit ser gebildet, das nach dem Subjekt konjugiert wird. „Las casas“ ist feminin Plural: fueron construidas.",
+    "hint": null
   },
   "q_gram_b1_11_003": {
-    "question": "War ist der/die/das difference between Passiv mit 'ser' und Passiv 'se'?",
-    "correct": "Passive with 'ser' emphasizes the agent; passive 'se' is used when the agent is unknown or unimportant",
+    "question": "Was ist der Unterschied zwischen dem Passiv mit „ser“ und dem Passiv mit „se“?",
+    "correct": "Das Passiv mit „ser“ betont den Handelnden; das Passiv mit „se“ wird verwendet, wenn der Handelnde unbekannt oder unwichtig ist",
     "wrong": [
-      "There is no difference",
-      "Passive 'se' is only for plural subjects",
-      "Passive with 'ser' is informal and passive 'se' is formal"
+      "Es gibt keinen Unterschied",
+      "Das Passiv mit „se“ gibt es nur bei Subjekten im Plural",
+      "Das Passiv mit „ser“ ist umgangssprachlich und das Passiv mit „se“ ist formell"
     ],
-    "explanation": "Passive mit ser (El libro fue escrito por Cervantes) highlights der/die/das agent. Passive se (Se venden coches) wird verwendet wann der/die/das agent ist irrelevant."
+    "explanation": "Das Passiv mit ser (El libro fue escrito por Cervantes) hebt den Handelnden hervor. Das Passiv mit se (Se venden coches) wird verwendet, wenn der Handelnde keine Rolle spielt.",
+    "hint": null
   },
   "q_gram_b1_11_004": {
-    "question": "La carta ___ por mi secretaria ayer. (enviar, Passiv voice, Präteritum, ella form)",
+    "question": "La carta ___ por mi secretaria ayer. (enviar, Passiv, Präteritum, Form ella)",
     "correct": "fue enviada",
     "wrong": [
       "fue enviado",
       "era enviada",
       "se envió"
     ],
-    "explanation": "In der/die/das Passiv voice, der/die/das Vergangenheit Partizip stimmt überein mit der/die/das Subjekt. 'La carta' ist weiblich Singular: fue enviada.",
-    "conjugation_info": "Passive voice: ser (conjugated) + Vergangenheit participle (agrees in gender/number with Subjekt) + por + agent"
+    "explanation": "Im Passiv richtet sich das Partizip Perfekt nach dem Subjekt. „La carta“ ist feminin Singular: fue enviada.",
+    "conjugation_info": "Passive voice: ser (conjugated) + Vergangenheit participle (agrees in gender/number with Subjekt) + por + agent",
+    "hint": null
   },
   "q_gram_b1_11_005": {
-    "question": "___ venden coches usados en esa tienda. (Passiv se)",
+    "question": "___ venden coches usados en esa tienda. (Passiv mit se)",
     "correct": "Se",
     "wrong": [
       "Son",
       "Están",
       "Han"
     ],
-    "explanation": "Passive se ist formed mit 'se + Verb (3rd Person)'. Das Verb stimmt überein mit der/die/das Subjekt: 'Se venden coches' (Cars sind sold)."
+    "explanation": "Das Passiv mit se wird mit „se + Verb (3. Person)“ gebildet. Das Verb richtet sich nach dem Subjekt: „Se venden coches“ (Autos werden verkauft).",
+    "hint": null
   },
   "q_gram_b1_11_006": {
     "question": "Las ventanas ___ por el viento anoche. (romper, Passiv voice, Präteritum, ellas form)",
@@ -1113,14 +1193,15 @@
     "explanation": "Impersonal se mit a Singular Verb wird verwendet für general statements: 'Se habla español' = Spanisch ist spoken (hier)."
   },
   "q_gram_b1_11_008": {
-    "question": "Dies painting war painted von Picasso.",
+    "question": "Dieses Gemälde wurde von Picasso gemalt.",
     "correct": "Este cuadro fue pintado por Picasso.",
     "wrong": [
       "Este cuadro era pintado por Picasso.",
       "Este cuadro se pintó por Picasso.",
       "Este cuadro fue pintando por Picasso."
     ],
-    "explanation": "Passive voice mit ser: fue + Vergangenheit Partizip (pintado) + por + agent (Picasso). Der/die/das pp stimmt überein mit 'cuadro' (männlich Singular)."
+    "explanation": "Passiv mit ser: fue + Partizip Perfekt (pintado) + por + Handelnder (Picasso). Das Partizip richtet sich nach „cuadro“ (maskulin Singular).",
+    "hint": null
   },
   "q_gram_b1_11_009": {
     "question": "Los documentos ___ por la directora. (firmar, Passiv voice, Präsens, ellos form)",
@@ -1135,44 +1216,48 @@
   },
   "q_gram_b1_11_010": {
     "question": "Se necesitan más profesores en esta escuela.",
-    "correct": "More teachers are needed at this school.",
+    "correct": "An dieser Schule werden mehr Lehrer gebraucht.",
     "wrong": [
-      "More teachers need this school.",
-      "One needs more teachers at this school.",
-      "More professors were needed at this school."
+      "Mehr Lehrer brauchen diese Schule.",
+      "Man braucht an dieser Schule mehr Lehrer.",
+      "An dieser Schule wurden mehr Professoren gebraucht."
     ],
-    "explanation": "Passive se: 'Se necesitan' stimmt überein mit der/die/das Plural Subjekt 'profesores'. Der/die/das agent ist not specified."
+    "explanation": "Passiv mit se: „Se necesitan“ richtet sich nach dem Subjekt im Plural „profesores“. Der Handelnde wird nicht genannt.",
+    "hint": null
   },
   "q_gram_b1_12_001": {
-    "question": "Si ___ buen tiempo, iremos a la playa. (hacer, Präsens Zeitform für Konditional type 1)",
+    "question": "Si ___ buen tiempo, iremos a la playa. (hacer, Präsens für den Konditionalsatz Typ 1)",
     "correct": "hace",
     "wrong": [
       "haga",
       "hiciera",
       "haría"
     ],
-    "explanation": "In Konditional type 1 (real/possible), der/die/das si-Nebensatz uses der/die/das Präsens Indikativ: Si hace buen tiempo...",
-    "conjugation_info": "Conditional Type 1: Si + Präsens Indikativ, + Zukunft / Präsens / Imperativ"
+    "explanation": "Im Konditionalsatz Typ 1 (real/möglich) steht im si-Satz der Indikativ Präsens: Si hace buen tiempo...",
+    "conjugation_info": "Conditional Type 1: Si + Präsens Indikativ, + Zukunft / Präsens / Imperativ",
+    "hint": null
   },
   "q_gram_b1_12_002": {
-    "question": "Si estudias mucho, ___ el examen. (aprobar, result Nebensatz, Zukunft)",
+    "question": "Si estudias mucho, ___ el examen. (aprobar, Hauptsatz, Futur)",
     "correct": "aprobarás",
     "wrong": [
       "apruebas",
       "aprobarías",
       "aprobaste"
     ],
-    "explanation": "In Konditional type 1, der/die/das result Nebensatz kann use der/die/das Zukunft: Si estudias, aprobarás = If du study, du wird pass."
+    "explanation": "Im Konditionalsatz Typ 1 kann im Hauptsatz das Futur stehen: Si estudias, aprobarás = Wenn du viel lernst, wirst du die Prüfung bestehen.",
+    "hint": null
   },
   "q_gram_b1_12_003": {
-    "question": "Si llueve, no ___ al parque. (ir, result Nebensatz, Präsens)",
+    "question": "Si llueve, no ___ al parque. (ir, Hauptsatz, Präsens)",
     "correct": "vamos",
     "wrong": [
       "iremos",
       "fuimos",
       "iríamos"
     ],
-    "explanation": "Der/die/das result Nebensatz von a type 1 Konditional kann auch use der/die/das Präsens Indikativ: Si llueve, no vamos = If es rains, we don't go."
+    "explanation": "Im Hauptsatz eines Konditionalsatzes Typ 1 kann auch der Indikativ Präsens stehen: Si llueve, no vamos = Wenn es regnet, gehen wir nicht.",
+    "hint": null
   },
   "q_gram_b1_12_004": {
     "question": "Welche Zeitenkombination ist für einen Konditionalsatz Typ 1 (reale Bedingung) richtig?",
@@ -1186,35 +1271,38 @@
     "hint": null
   },
   "q_gram_b1_12_005": {
-    "question": "Si tú ___ tiempo, ven a visitarnos. (tener, Präsens Indikativ, tú-Form)",
+    "question": "Si tú ___ tiempo, ven a visitarnos. (tener, Indikativ Präsens, Form tú)",
     "correct": "tienes",
     "wrong": [
       "tengas",
       "tuvieras",
       "tendrías"
     ],
-    "explanation": "In Konditional type 1, der/die/das si-Nebensatz uses der/die/das Präsens Indikativ: Si tienes tiempo = If du haben Zeit.",
-    "conjugation_info": "tener (Präsens Indikativ): tengo, tienes, tiene, tenemos, tenéis, tienen"
+    "explanation": "Im Konditionalsatz Typ 1 steht im si-Satz der Indikativ Präsens: Si tienes tiempo = Wenn du Zeit hast.",
+    "conjugation_info": "tener (Präsens Indikativ): tengo, tienes, tiene, tenemos, tenéis, tienen",
+    "hint": null
   },
   "q_gram_b1_12_006": {
-    "question": "Si no ___ ahora, llegaremos tarde. (salir, Präsens Indikativ, nosotros-Form)",
+    "question": "Si no ___ ahora, llegaremos tarde. (salir, Indikativ Präsens, Form nosotros)",
     "correct": "salimos",
     "wrong": [
       "salgamos",
       "saliéramos",
       "saldríamos"
     ],
-    "explanation": "In der/die/das si-Nebensatz von type 1 Konditionals, use der/die/das Präsens Indikativ: salimos."
+    "explanation": "Im si-Satz von Konditionalsätzen Typ 1 steht der Indikativ Präsens: salimos.",
+    "hint": null
   },
   "q_gram_b1_12_007": {
-    "question": "If du eat too much, du wird feel sick.",
+    "question": "Wenn du zu viel isst, wird dir schlecht werden.",
     "correct": "Si comes demasiado, te sentirás mal.",
     "wrong": [
       "Si comieras demasiado, te sentirías mal.",
       "Si comas demasiado, te sentirás mal.",
       "Si comerás demasiado, te sentirás mal."
     ],
-    "explanation": "Type 1 Konditional: Si + Präsens (comes) + Zukunft (sentirás). Nie use Zukunft oder Konjunktiv in der/die/das si-Nebensatz."
+    "explanation": "Konditionalsatz Typ 1: Si + Präsens (comes) + Futur (sentirás). Im si-Satz niemals Futur oder Subjuntivo verwenden.",
+    "hint": null
   },
   "q_gram_b1_12_008": {
     "question": "Si María ___ a la fiesta, le daré el regalo. (venir, Präsens)",
@@ -1224,7 +1312,8 @@
       "viniera",
       "vendría"
     ],
-    "explanation": "In Konditional type 1, der/die/das si-Nebensatz takes der/die/das Präsens Indikativ: Si viene = If she comes."
+    "explanation": "Im Konditionalsatz Typ 1 steht im si-Satz der Indikativ Präsens: Si viene = Wenn sie kommt.",
+    "hint": null
   },
   "q_gram_b1_12_009": {
     "question": "Si no estudias, no aprobarás el examen.",
@@ -1237,57 +1326,61 @@
     "explanation": "Das ist ein type 1 Konditional: Si + Präsens (estudias) + Zukunft (aprobarás). Es drückt aus a real, possible condition."
   },
   "q_gram_b1_12_010": {
-    "question": "Nosotros ___ a casa si empieza a llover. (volver, Zukunft, nosotros-Form)",
+    "question": "Nosotros ___ a casa si empieza a llover. (volver, Futur, Form nosotros)",
     "correct": "volveremos",
     "wrong": [
       "volvemos",
       "volveríamos",
       "volvimos"
     ],
-    "explanation": "In der/die/das result Nebensatz von a type 1 Konditional, der/die/das Zukunft ist commonly used: volveremos = we wird return.",
-    "conjugation_info": "volver (Zukunft): volveré, volverás, volverá, volveremos, volveréis, volverán"
+    "explanation": "Im Hauptsatz eines Konditionalsatzes Typ 1 wird häufig das Futur verwendet: volveremos = wir werden zurückkehren.",
+    "conjugation_info": "volver (Zukunft): volveré, volverás, volverá, volveremos, volveréis, volverán",
+    "hint": null
   },
   "q_gram_b1_13_001": {
-    "question": "¡No ___ tan rápido! (hablar, negative tú command)",
+    "question": "¡No ___ tan rápido! (hablar, verneinter Imperativ tú)",
     "correct": "hables",
     "wrong": [
       "habla",
       "hablas",
       "hablarás"
     ],
-    "explanation": "Negative tú commands use der/die/das Präsens Konjunktiv: No hables = Don't speak.",
-    "hint": "Negative commands immer use der/die/das Präsens Konjunktiv"
+    "explanation": "Der verneinte Imperativ der Form tú verwendet den Subjuntivo Präsens: No hables = Sprich nicht.",
+    "hint": "Verneinte Imperative verwenden immer den Subjuntivo Präsens"
   },
   "q_gram_b1_13_002": {
-    "question": "¡No ___ esa comida! Está mala. (comer, negative tú command)",
+    "question": "¡No ___ esa comida! Está mala. (comer, verneinter Imperativ tú)",
     "correct": "comas",
     "wrong": [
       "come",
       "comes",
       "comerás"
     ],
-    "explanation": "Negative tú commands use der/die/das Präsens Konjunktiv: No comas = Don't eat."
+    "explanation": "Der verneinte Imperativ der Form tú verwendet den Subjuntivo Präsens: No comas = Iss nicht.",
+    "hint": null
   },
   "q_gram_b1_13_003": {
-    "question": "War ist der/die/das key difference between affirmative und negative tú commands?",
-    "correct": "Affirmative uses a special form (usually like él/ella indicative), while negative uses the present subjunctive",
+    "question": "Was ist der Hauptunterschied zwischen dem bejahten und dem verneinten Imperativ der Form tú?",
+    "correct": "Der bejahte Imperativ hat eine besondere Form (meist wie der Indikativ der Form él/ella), der verneinte verwendet den Subjuntivo Präsens",
     "wrong": [
-      "Both use the present subjunctive",
-      "Both use the indicative present tense",
-      "Negative commands use the infinitive"
+      "Beide verwenden den Subjuntivo Präsens",
+      "Beide verwenden den Indikativ Präsens",
+      "Der verneinte Imperativ verwendet den Infinitiv"
     ],
-    "explanation": "Affirmative: Habla (special form). Negative: No hables (Konjunktiv). Dies difference ist important für richtig command formation."
+    "explanation": "Bejaht: Habla (besondere Form). Verneint: No hables (Subjuntivo). Dieser Unterschied ist wichtig, um Imperative richtig zu bilden.",
+    "hint": null
   },
   "q_gram_b1_13_004": {
-    "question": "¡No ___ la puerta! (abrir, negative tú command)",
+    "question": "¡No ___ la puerta! (abrir, verneinter Imperativ tú)",
     "correct": "abras",
     "wrong": [
       "abre",
       "abres",
       "abrirás"
     ],
-    "explanation": "Negative tú commands use der/die/das Konjunktiv: No abras = Don't open.",
-    "conjugation_info": "abrir: affirmative tú = abre, negative tú = no abras, negative usted = no abra"
+    "explanation": "Der verneinte Imperativ der Form tú verwendet den Subjuntivo: No abras = Öffne nicht.",
+    "conjugation_info": "abrir: affirmative tú = abre, negative tú = no abras, negative usted = no abra",
+    "hint": null
   },
   "q_gram_b1_13_005": {
     "question": "¡No lo ___ ahora! (hacer, negative tú command mit Pronomen)",
@@ -1300,35 +1393,38 @@
     "explanation": "In negative commands, Pronomens go Vor das Verb: No lo hagas = Don't do es. Compare affirmative: Hazlo."
   },
   "q_gram_b1_13_006": {
-    "question": "¡No ___ tarde a clase! (llegar, negative tú command)",
+    "question": "¡No ___ tarde a clase! (llegar, verneinter Imperativ tú)",
     "correct": "llegues",
     "wrong": [
       "llega",
       "llegas",
       "llegarás"
     ],
-    "explanation": "Negative tú command von llegar: no llegues. Note der/die/das spelling: -gue- zu preserve der/die/das hard g sound.",
-    "conjugation_info": "llegar: affirmative tú = llega, negative tú = no llegues, negative usted = no llegue"
+    "explanation": "Verneinter Imperativ der Form tú von llegar: no llegues. Beachte die Schreibung: -gue-, damit der harte g-Laut erhalten bleibt.",
+    "conjugation_info": "llegar: affirmative tú = llega, negative tú = no llegues, negative usted = no llegue",
+    "hint": null
   },
   "q_gram_b1_13_007": {
-    "question": "¡No me ___ eso! No es verdad. (decir, negative tú command mit Pronomen)",
+    "question": "¡No me ___ eso! No es verdad. (decir, verneinter Imperativ tú mit Pronomen)",
     "correct": "digas",
     "wrong": [
       "dices",
       "di",
       "dirás"
     ],
-    "explanation": "Negative tú command von decir: no digas. Der/die/das Pronomen 'me' goes vor das Verb in negative commands."
+    "explanation": "Verneinter Imperativ der Form tú von decir: no digas. Das Pronomen „me“ steht beim verneinten Imperativ vor dem Verb.",
+    "hint": null
   },
   "q_gram_b1_13_008": {
-    "question": "Don't go zu das place! Es's dangerous.",
+    "question": "Geh nicht an diesen Ort! Er ist gefährlich.",
     "correct": "¡No vayas a ese lugar! Es peligroso.",
     "wrong": [
       "¡No vas a ese lugar! Es peligroso.",
       "¡No ve a ese lugar! Es peligroso.",
       "¡No ir a ese lugar! Es peligroso."
     ],
-    "explanation": "Negative tú command von ir: no vayas (von der/die/das Konjunktiv). Ir ist Unregelmäßig in both affirmative (ve) und negative (no vayas) commands."
+    "explanation": "Verneinter tú-Imperativ von ir: no vayas (vom Subjuntivo abgeleitet). Ir ist sowohl im bejahten (ve) als auch im verneinten Imperativ (no vayas) unregelmäßig.",
+    "hint": null
   },
   "q_gram_b1_13_009": {
     "question": "¡No se lo ___ a nadie! Es un secreto. (contar, negative tú command)",
@@ -1343,54 +1439,59 @@
   },
   "q_gram_b1_13_010": {
     "question": "¡No pongas los pies en la mesa!",
-    "correct": "Don't put your feet on the table!",
+    "correct": "Stell deine Füße nicht auf den Tisch!",
     "wrong": [
-      "Don't put your hands on the table!",
-      "Put your feet on the table!",
-      "You shouldn't put your feet on the table."
+      "Leg deine Hände nicht auf den Tisch!",
+      "Stell deine Füße auf den Tisch!",
+      "Du solltest deine Füße nicht auf den Tisch stellen."
     ],
-    "explanation": "No pongas ist der/die/das negative tú command von poner. 'Los pies' = feet, 'la mesa' = table."
+    "explanation": "No pongas ist der verneinte tú-Imperativ von poner. „Los pies“ = die Füße, „la mesa“ = der Tisch.",
+    "hint": null
   },
   "q_gram_b1_14_001": {
-    "question": "Señor, ___ aquí, por favor. (sentarse, formell usted command)",
+    "question": "Señor, ___ aquí, por favor. (sentarse, Höflichkeitsform usted, Imperativ)",
     "correct": "siéntese",
     "wrong": [
       "siéntate",
       "sentarse",
       "se sienta"
     ],
-    "explanation": "Formell usted commands use der/die/das Präsens Konjunktiv. Mit Reflexiv: der/die/das Pronomen attaches zu der/die/das end: siéntese.",
-    "conjugation_info": "sentarse: tú = siéntate, usted = siéntese, ustedes = siénZeitform, negative usted = no se siente"
+    "explanation": "Der Imperativ der Höflichkeitsform usted verwendet den Subjuntivo Präsens. Bei reflexiven Verben wird das Pronomen am Ende angehängt: siéntese.",
+    "conjugation_info": "sentarse: tú = siéntate, usted = siéntese, ustedes = siénZeitform, negative usted = no se siente",
+    "hint": null
   },
   "q_gram_b1_14_002": {
-    "question": "Señora, por favor ___ la puerta al salir. (cerrar, formell usted command)",
+    "question": "Señora, por favor ___ la puerta al salir. (cerrar, Höflichkeitsform usted, Imperativ)",
     "correct": "cierre",
     "wrong": [
       "cierra",
       "cerrar",
       "cerrará"
     ],
-    "explanation": "Formell usted commands use der/die/das Präsens Konjunktiv form: cierre (von cerrar, e→ie)."
+    "explanation": "Der Imperativ der Höflichkeitsform usted verwendet die Form des Subjuntivo Präsens: cierre (von cerrar, e→ie).",
+    "hint": null
   },
   "q_gram_b1_14_003": {
-    "question": "Señores, ___ el formulario antes de entrar. (llenar, formell ustedes command)",
+    "question": "Señores, ___ el formulario antes de entrar. (llenar, Höflichkeitsform ustedes, Imperativ)",
     "correct": "llenen",
     "wrong": [
       "llena",
       "llenan",
       "llenarán"
     ],
-    "explanation": "Formell ustedes commands use der/die/das Präsens Konjunktiv ustedes form: llenen."
+    "explanation": "Der Imperativ der Höflichkeitsform ustedes verwendet die ustedes-Form des Subjuntivo Präsens: llenen.",
+    "hint": null
   },
   "q_gram_b1_14_004": {
-    "question": "Wie sind formell commands (usted/ustedes) formed?",
-    "correct": "They use the present subjunctive forms for usted and ustedes",
+    "question": "Wie werden die Höflichkeitsimperative (usted/ustedes) gebildet?",
+    "correct": "Sie verwenden die Formen des Subjuntivo Präsens für usted und ustedes",
     "wrong": [
-      "They use the infinitive form of the verb",
-      "They use the indicative present tense",
-      "They use special imperative endings different from the subjunctive"
+      "Sie verwenden die Infinitivform des Verbs",
+      "Sie verwenden das Präsens des Indikativs",
+      "Sie verwenden eigene Imperativendungen, die sich vom Subjuntivo unterscheiden"
     ],
-    "explanation": "Formell commands sind identical zu der/die/das Präsens Konjunktiv: hable (usted), hablen (ustedes), coma (usted), coman (ustedes)."
+    "explanation": "Die Höflichkeitsimperative sind identisch mit dem Subjuntivo Präsens: hable (usted), hablen (ustedes), coma (usted), coman (ustedes).",
+    "hint": null
   },
   "q_gram_b1_14_005": {
     "question": "Señor, ___ la verdad. (decir, formell usted command)",
@@ -1404,44 +1505,48 @@
     "conjugation_info": "decir: tú = di, usted = diga, ustedes = digan, negative usted = no diga"
   },
   "q_gram_b1_14_006": {
-    "question": "Señoras, no ___ en la sala de espera. (fumar, negative formell ustedes command)",
+    "question": "Señoras, no ___ en la sala de espera. (fumar, verneinte Höflichkeitsform ustedes, Imperativ)",
     "correct": "fumen",
     "wrong": [
       "fuman",
       "fumarán",
       "fumaron"
     ],
-    "explanation": "Negative formell commands auch use der/die/das Konjunktiv mit 'no' vor: No fumen = Don't smoke (ustedes)."
+    "explanation": "Auch der verneinte Höflichkeitsimperativ verwendet den Subjuntivo mit „no“ davor: No fumen = Rauchen Sie nicht (ustedes).",
+    "hint": null
   },
   "q_gram_b1_14_007": {
-    "question": "Sir, please tell me dein name.",
+    "question": "Sagen Sie mir bitte Ihren Namen, mein Herr.",
     "correct": "Señor, dígame su nombre, por favor.",
     "wrong": [
       "Señor, dime su nombre, por favor.",
       "Señor, decirme su nombre, por favor.",
       "Señor, me diga su nombre, por favor."
     ],
-    "explanation": "Formell usted command von decir: diga. In affirmative commands, Pronomens attach: dígame. Note der/die/das accent zu maintain stress."
+    "explanation": "Höflichkeitsimperativ (usted) von decir: diga. Im bejahten Imperativ werden die Pronomen angehängt: dígame. Beachte den Akzent, der die Betonung beibehält.",
+    "hint": null
   },
   "q_gram_b1_14_008": {
-    "question": "Señor, no ___ por aquí. Es peligroso. (ir, negative formell usted command)",
+    "question": "Señor, no ___ por aquí. Es peligroso. (ir, verneinte Höflichkeitsform usted, Imperativ)",
     "correct": "vaya",
     "wrong": [
       "va",
       "fue",
       "irá"
     ],
-    "explanation": "Negative formell command: No vaya. Ir ist fully Unregelmäßig in der/die/das Konjunktiv: vaya."
+    "explanation": "Verneinter Höflichkeitsimperativ: No vaya. Ir ist im Subjuntivo völlig unregelmäßig: vaya.",
+    "hint": null
   },
   "q_gram_b1_14_009": {
     "question": "Señores, tengan paciencia, por favor.",
-    "correct": "Gentlemen, have patience, please.",
+    "correct": "Meine Herren, haben Sie bitte Geduld.",
     "wrong": [
-      "Gentlemen, had patience, please.",
-      "Gentlemen, will have patience, please.",
-      "Sir, have patience, please."
+      "Meine Herren, hatten Sie bitte Geduld.",
+      "Meine Herren, Sie werden bitte Geduld haben.",
+      "Mein Herr, haben Sie bitte Geduld."
     ],
-    "explanation": "Tengan ist der/die/das formell ustedes command von tener. 'Señores' = Gentlemen (Plural formell address)."
+    "explanation": "Tengan ist der Höflichkeitsimperativ (ustedes) von tener. „Señores“ = meine Herren (höfliche Anrede im Plural).",
+    "hint": null
   },
   "q_gram_b1_14_010": {
     "question": "Señora, ___ cuidado con el escalón. (tener, formell usted command)",
@@ -1466,24 +1571,26 @@
     "hint": "'Por' ist für duration, cause, und exchange; 'para' ist für purpose und destination"
   },
   "q_gram_b1_15_002": {
-    "question": "Este regalo es ___ ti. (por/para, recipient)",
+    "question": "Este regalo es ___ ti. (por/para, Empfänger)",
     "correct": "para",
     "wrong": [
       "por",
       "de",
       "a"
     ],
-    "explanation": "'Para' wird verwendet, um indicate der/die/das recipient oder destination: 'para ti' = für du."
+    "explanation": "„Para“ bezeichnet den Empfänger oder das Ziel: „para ti“ = für dich.",
+    "hint": null
   },
   "q_gram_b1_15_003": {
-    "question": "War does 'por' express wann used in der/die/das Phrase 'por eso'?",
-    "correct": "Cause or reason (that's why / because of that)",
+    "question": "Was drückt „por“ in der Wendung „por eso“ aus?",
+    "correct": "Ursache oder Grund (deshalb / deswegen)",
     "wrong": [
-      "Purpose or goal",
-      "Destination",
-      "Comparison"
+      "Zweck oder Ziel",
+      "Ziel eines Weges",
+      "Vergleich"
     ],
-    "explanation": "'Por eso' bedeutet 'das's warum' oder 'weil von das.' 'Por' drückt aus cause: Llueve mucho, por eso no salgo."
+    "explanation": "„Por eso“ bedeutet „deshalb“ oder „deswegen“. „Por“ drückt eine Ursache aus: Llueve mucho, por eso no salgo.",
+    "hint": null
   },
   "q_gram_b1_15_004": {
     "question": "Hablamos ___ teléfono todas las noches. (por/para, bedeutet von communication)",
@@ -1507,25 +1614,27 @@
     "explanation": "'Para' wird verwendet für deadlines: 'para el lunes' = von Monday."
   },
   "q_gram_b1_15_006": {
-    "question": "___ un niño de cinco años, habla muy bien. (por/para, comparison)",
+    "question": "___ un niño de cinco años, habla muy bien. (por/para, Vergleich)",
     "correct": "Para",
     "wrong": [
       "Por",
       "Como",
       "De"
     ],
-    "explanation": "'Para' wird verwendet für comparisons Bedeutung 'für' in der/die/das sense von 'considering': 'Para un niño' = Für a child (considering he's a child).",
-    "conjugation_info": "Para + comparison: Para un principiante, lo haces muy bien. (For a beginner, you do it very well.)"
+    "explanation": "„Para“ wird bei Vergleichen im Sinn von „für“ im Sinn von „wenn man bedenkt“ verwendet: „Para un niño“ = Für ein Kind (wenn man bedenkt, dass er ein Kind ist).",
+    "conjugation_info": "Para + comparison: Para un principiante, lo haces muy bien. (For a beginner, you do it very well.)",
+    "hint": null
   },
   "q_gram_b1_15_007": {
-    "question": "No pudimos salir ___ la lluvia. (por/para, cause)",
+    "question": "No pudimos salir ___ la lluvia. (por/para, Ursache)",
     "correct": "por",
     "wrong": [
       "para",
       "de",
       "con"
     ],
-    "explanation": "'Por' drückt aus cause: 'por la lluvia' = weil von der/die/das rain."
+    "explanation": "„Por“ drückt eine Ursache aus: „por la lluvia“ = wegen des Regens.",
+    "hint": null
   },
   "q_gram_b1_15_008": {
     "question": "I study zu learn Spanisch.",
@@ -1550,34 +1659,37 @@
   },
   "q_gram_b1_15_010": {
     "question": "Caminamos por el parque todas las mañanas.",
-    "correct": "We walk through the park every morning.",
+    "correct": "Wir gehen jeden Morgen durch den Park spazieren.",
     "wrong": [
-      "We walk to the park every morning.",
-      "We walk for the park every morning.",
-      "We walk around the park every evening."
+      "Wir gehen jeden Morgen zum Park.",
+      "Wir gehen jeden Morgen für den Park spazieren.",
+      "Wir gehen jeden Abend um den Park herum spazieren."
     ],
-    "explanation": "'Por' zeigt an movement through oder along a place: 'por el parque' = through der/die/das park."
+    "explanation": "„Por“ bezeichnet eine Bewegung durch oder entlang eines Ortes: „por el parque“ = durch den Park.",
+    "hint": null
   },
   "q_gram_b1_16_001": {
-    "question": "___ es malo para la salud. (fumar, Gerundium/Infinitiv as Subjekt)",
+    "question": "___ es malo para la salud. (fumar, Gerundium/Infinitiv als Subjekt)",
     "correct": "Fumar",
     "wrong": [
       "Fumando",
       "Fuma",
       "Fumó"
     ],
-    "explanation": "Auf Spanisch, der/die/das Infinitiv (not der/die/das Gerundium) wird verwendet as der/die/das Subjekt von a Satz: Fumar es malo = Smoking ist bad.",
-    "conjugation_info": "Infinitive as Subjekt: Fumar es malo. Comer bien es importante. Dormir ocho horas es necesario."
+    "explanation": "Im Spanischen wird als Subjekt eines Satzes der Infinitiv (nicht das Gerundium) verwendet: Fumar es malo = Rauchen ist schlecht.",
+    "conjugation_info": "Infinitive as Subjekt: Fumar es malo. Comer bien es importante. Dormir ocho horas es necesario.",
+    "hint": null
   },
   "q_gram_b1_16_002": {
-    "question": "Ella salió ___ de la habitación. (correr, Gerundium expressing manner)",
+    "question": "Ella salió ___ de la habitación. (correr, Gerundium zur Angabe der Art und Weise)",
     "correct": "corriendo",
     "wrong": [
       "correr",
       "corre",
       "corrido"
     ],
-    "explanation": "Der/die/das Gerundium wird verwendet, um express manner (wie something ist done): salió corriendo = she left running."
+    "explanation": "Das Gerundium drückt die Art und Weise aus (wie etwas geschieht): salió corriendo = sie rannte hinaus.",
+    "hint": null
   },
   "q_gram_b1_16_003": {
     "question": "Antes de ___, debes lavarte las manos. (comer, Infinitiv nach Präposition)",
@@ -1587,39 +1699,43 @@
       "comes",
       "comido"
     ],
-    "explanation": "Nach Präpositions (antes de, después de, para, sin), Spanisch uses der/die/das Infinitiv: antes de comer."
+    "explanation": "Nach Präpositionen (antes de, después de, para, sin) steht im Spanischen der Infinitiv: antes de comer.",
+    "hint": null
   },
   "q_gram_b1_16_004": {
-    "question": "War ist der/die/das Regel für using Infinitiv vs. Gerundium nach Präpositions auf Spanisch?",
-    "correct": "Always use the infinitive after prepositions (never the gerund)",
+    "question": "Wie lautet die Regel für Infinitiv und Gerundium nach Präpositionen im Spanischen?",
+    "correct": "Nach Präpositionen steht immer der Infinitiv (nie das Gerundium)",
     "wrong": [
-      "Always use the gerund after prepositions",
-      "Use either one interchangeably",
-      "Use the gerund after 'de' and infinitive after 'en'"
+      "Nach Präpositionen steht immer das Gerundium",
+      "Beides ist austauschbar",
+      "Nach „de“ steht das Gerundium und nach „en“ der Infinitiv"
     ],
-    "explanation": "Unlike Englisch, Spanisch immer uses der/die/das Infinitiv nach Präpositions: antes de comer (vor eating), sin hablar (ohne speaking), para vivir (in order zu live)."
+    "explanation": "Anders als im Englischen steht im Spanischen nach Präpositionen immer der Infinitiv: antes de comer (vor dem Essen), sin hablar (ohne zu sprechen), para vivir (um zu leben).",
+    "hint": null
   },
   "q_gram_b1_16_005": {
-    "question": "Ella sigue ___ después de tantos años. (bailar, Gerundium mit 'seguir', ella form)",
+    "question": "Ella sigue ___ después de tantos años. (bailar, Gerundium mit „seguir“, Form ella)",
     "correct": "bailando",
     "wrong": [
       "bailar",
       "bailado",
       "baila"
     ],
-    "explanation": "Seguir + Gerundium bedeutet 'zu keep/continue doing'. Der/die/das Gerundium von -ar Verbs ist -ando: bailando.",
-    "conjugation_info": "Gerunds (-ar): hablando, bailando, cantando, estudiando. Gerunds (-er): comiendo, leyendo, haciendo. Gerunds (-ir): viviendo, durmiendo, pidiendo"
+    "explanation": "Seguir + Gerundium bedeutet „weiterhin etwas tun“. Das Gerundium der Verben auf -ar endet auf -ando: bailando.",
+    "conjugation_info": "Gerunds (-ar): hablando, bailando, cantando, estudiando. Gerunds (-er): comiendo, leyendo, haciendo. Gerunds (-ir): viviendo, durmiendo, pidiendo",
+    "hint": null
   },
   "q_gram_b1_16_006": {
-    "question": "Los niños están ___ en el jardín. (jugar, Präsens Progressiv, Gerundium)",
+    "question": "Los niños están ___ en el jardín. (jugar, present progressive, gerund)",
     "correct": "jugando",
     "wrong": [
       "jugar",
       "jugado",
       "juegan"
     ],
-    "explanation": "Der/die/das Präsens Progressiv: están jugando. Der/die/das Gerundium von -ar Verbs endet auf -ando.",
-    "conjugation_info": "Gerunds: -ar → -ando (hablando), -er → -iendo (comiendo), -ir → -iendo (viviendo). IrRegelmäßigs: durmiendo, leyendo, pidiendo"
+    "explanation": "Das Present Progressive: están jugando. Das Gerundium der -ar-Verben endet auf -ando.",
+    "conjugation_info": "Gerunds: -ar → -ando (hablando), -er → -iendo (comiendo), -ir → -iendo (viviendo). IrRegelmäßigs: durmiendo, leyendo, pidiendo",
+    "hint": null
   },
   "q_gram_b1_16_007": {
     "question": "Después de ___ la tarea, puedes salir a jugar. (terminar, Infinitiv nach Präposition)",
@@ -1629,7 +1745,8 @@
       "terminas",
       "terminado"
     ],
-    "explanation": "Nach 'después de' (nach), use der/die/das Infinitiv: después de terminar."
+    "explanation": "Nach 'después de' (nach) steht der Infinitiv: después de terminar.",
+    "hint": null
   },
   "q_gram_b1_16_008": {
     "question": "Sin ___ una palabra, salió de la habitación. (decir)",
@@ -1639,7 +1756,8 @@
       "dicho",
       "dice"
     ],
-    "explanation": "Nach Präpositions like 'sin' (ohne), Spanisch immer uses der/die/das Infinitiv: sin decir = ohne saying."
+    "explanation": "Nach Präpositionen wie 'sin' (ohne) steht im Spanischen immer der Infinitiv: sin decir = ohne zu sagen.",
+    "hint": null
   },
   "q_gram_b1_16_009": {
     "question": "El niño pasó la tarde ___ videojuegos. (jugar, Gerundium mit 'pasar tiempo')",
@@ -1649,8 +1767,9 @@
       "jugado",
       "juega"
     ],
-    "explanation": "'Pasar tiempo + Gerundium' bedeutet 'zu spend Zeit doing something': pasó la tarde jugando = spent der/die/das afternoon playing.",
-    "conjugation_info": "Verbs + gerund: estar + gerund (Progressiv), seguir + gerund (continue), pasar tiempo + gerund (spend time), llevar + time + gerund (have been doing)"
+    "explanation": "'Pasar tiempo + Gerundium' bedeutet 'Zeit mit etwas verbringen': pasó la tarde jugando = er verbrachte den Nachmittag mit Spielen.",
+    "conjugation_info": "Verbs + gerund: estar + gerund (Progressiv), seguir + gerund (continue), pasar tiempo + gerund (spend time), llevar + time + gerund (have been doing)",
+    "hint": null
   },
   "q_gram_b1_16_010": {
     "question": "Los estudiantes llevan dos horas ___ para el examen. (estudiar, Gerundium mit 'llevar + Zeit', ellos form)",
@@ -1685,25 +1804,27 @@
     "explanation": "'Cuando' + Indikativ (Imperfekt) für habitual Vergangenheit actions: Cuando era niño, iba = Wann I war a child, I used zu go."
   },
   "q_gram_b1_17_003": {
-    "question": "War determines whether 'cuando' takes der/die/das Indikativ oder Konjunktiv?",
-    "correct": "Indicative for past/habitual events, subjunctive for future/unrealized events",
+    "question": "Wovon hängt es ab, ob 'cuando' mit dem Indikativ oder dem Subjuntivo steht?",
+    "correct": "Indikativ bei vergangenen/gewohnheitsmäßigen Ereignissen, Subjuntivo bei zukünftigen/noch nicht eingetretenen Ereignissen",
     "wrong": [
-      "Always use the subjunctive after 'cuando'",
-      "Always use the indicative after 'cuando'",
-      "Use subjunctive only with negative sentences"
+      "Nach 'cuando' steht immer der Subjuntivo",
+      "Nach 'cuando' steht immer der Indikativ",
+      "Der Subjuntivo steht nur in verneinten Sätzen"
     ],
-    "explanation": "Past/habitual: Cuando llegaba, cenaba (Indikativ). Future: Cuando llegue, cenaré (Konjunktiv). Der/die/das key ist whether der/die/das event hat happened oder ist yet zu happen."
+    "explanation": "Vergangenheit/Gewohnheit: Cuando llegaba, cenaba (Indikativ). Zukunft: Cuando llegue, cenaré (Subjuntivo). Entscheidend ist, ob das Ereignis schon stattgefunden hat oder erst noch stattfinden wird.",
+    "hint": null
   },
   "q_gram_b1_17_004": {
-    "question": "Te llamaré antes de que ___ de casa. (salir, Konjunktion das immer takes Konjunktiv)",
+    "question": "Te llamaré antes de que ___ de casa. (salir, Konjunktion, die immer den Subjuntivo verlangt)",
     "correct": "salgas",
     "wrong": [
       "sales",
       "saliste",
       "saldrás"
     ],
-    "explanation": "'Antes de que' immer requires der/die/das Konjunktiv: antes de que salgas = vor du leave.",
-    "conjugation_info": "Always + Konjunktiv: antes de que, para que, sin que, a menos que. Variable: cuando, aunque, después de que"
+    "explanation": "'Antes de que' verlangt immer den Subjuntivo: antes de que salgas = bevor du das Haus verlässt.",
+    "conjugation_info": "Always + Konjunktiv: antes de que, para que, sin que, a menos que. Variable: cuando, aunque, después de que",
+    "hint": null
   },
   "q_gram_b1_17_005": {
     "question": "Aunque ___ mucho, no saco buenas notas. (estudiar, 'even though' = factual)",
@@ -1716,25 +1837,27 @@
     "explanation": "'Aunque' + Indikativ bedeutet 'even though' (factual): Aunque estudio mucho = Even though I study a lot (es's true das I study)."
   },
   "q_gram_b1_17_006": {
-    "question": "Aunque ___ mañana, iremos a la excursión. (llover, 'even if' = hypothetical)",
+    "question": "Aunque ___ mañana, iremos a la excursión. (llover, 'auch wenn' = hypothetisch)",
     "correct": "llueva",
     "wrong": [
       "llueve",
       "llovió",
       "lloverá"
     ],
-    "explanation": "'Aunque' + Konjunktiv bedeutet 'even if' (hypothetical): Aunque llueva = Even if es rains (we don't know if es wird).",
-    "conjugation_info": "Aunque + Indikativ = 'even though' (fact). Aunque + Konjunktiv = 'even if' (hypothetical)."
+    "explanation": "'Aunque' + Subjuntivo bedeutet 'auch wenn' (hypothetisch): Aunque llueva = Auch wenn es regnet (wir wissen nicht, ob es regnen wird).",
+    "conjugation_info": "Aunque + Indikativ = 'even though' (fact). Aunque + Konjunktiv = 'even if' (hypothetical).",
+    "hint": null
   },
   "q_gram_b1_17_007": {
-    "question": "Te lo explico ___ lo entiendas. (para que, purpose)",
+    "question": "Te lo explico ___ lo entiendas. (para que, Zweck)",
     "correct": "para que",
     "wrong": [
       "porque",
       "cuando",
       "aunque"
     ],
-    "explanation": "'Para que' (so das/in order das) immer takes der/die/das Konjunktiv: para que lo entiendas = so das du understand es."
+    "explanation": "'Para que' (damit) verlangt immer den Subjuntivo: para que lo entiendas = damit du es verstehst.",
+    "hint": null
   },
   "q_gram_b1_17_008": {
     "question": "I wird wait bis du arrive.",
@@ -1799,14 +1922,15 @@
     "explanation": "Estar + Vergangenheit Partizip beschreibt a state resulting von an action: está abierta = ist open (someone opened es)."
   },
   "q_gram_b1_18_004": {
-    "question": "War ist der/die/das difference between 'ser malo' und 'estar malo'?",
-    "correct": "'Ser malo' means 'to be bad/evil' (character), 'estar malo' means 'to be sick/ill' (condition)",
+    "question": "Was ist der Unterschied zwischen 'ser malo' und 'estar malo'?",
+    "correct": "'Ser malo' bedeutet 'schlecht/böse sein' (Charakter), 'estar malo' bedeutet 'krank sein' (Zustand)",
     "wrong": [
-      "They mean the same thing",
-      "'Ser malo' means sick, 'estar malo' means bad",
-      "'Ser malo' is formal, 'estar malo' is informal"
+      "Sie bedeuten dasselbe",
+      "'Ser malo' bedeutet krank, 'estar malo' bedeutet schlecht",
+      "'Ser malo' ist formell, 'estar malo' ist informell"
     ],
-    "explanation": "Ser malo = bad Person/thing (inherent quality). Estar malo = feeling sick (temporary condition). Beispiel: Él es malo (He ist bad) vs. Él está malo (He ist sick)."
+    "explanation": "Ser malo = schlechter Mensch/schlechte Sache (inhärente Eigenschaft). Estar malo = sich krank fühlen (vorübergehender Zustand). Beispiel: Él es malo (Er ist böse) vs. Él está malo (Er ist krank).",
+    "hint": null
   },
   "q_gram_b1_18_005": {
     "question": "El edificio ___ construido en 1990. (ser/estar, Passiv action)",
@@ -1820,24 +1944,26 @@
     "conjugation_info": "ser + pp = Passiv action (El libro fue escrito). estar + pp = resulting state (El libro está escrito = The book is written/finished)."
   },
   "q_gram_b1_18_006": {
-    "question": "La comida de este restaurante ___ muy buena. (ser/estar, inherent quality)",
+    "question": "La comida de este restaurante ___ muy buena. (ser/estar, inhärente Eigenschaft)",
     "correct": "es",
     "wrong": [
       "está",
       "fue",
       "esté"
     ],
-    "explanation": "Ser + bueno beschreibt an inherent quality: La comida es buena = Der/die/das food ist good (in general). Estar buena = tastes good (right now) oder ist attrAktiv (colloquial)."
+    "explanation": "Ser + bueno beschreibt eine inhärente Eigenschaft: La comida es buena = Das Essen ist (generell) gut. Estar buena = schmeckt (gerade jetzt) gut oder ist attraktiv (umgangssprachlich).",
+    "hint": null
   },
   "q_gram_b1_18_007": {
-    "question": "My brother ist bored weil der/die/das movie ist boring.",
+    "question": "Mein Bruder langweilt sich, weil der Film langweilig ist.",
     "correct": "Mi hermano está aburrido porque la película es aburrida.",
     "wrong": [
       "Mi hermano es aburrido porque la película está aburrida.",
       "Mi hermano está aburrido porque la película está aburrida.",
       "Mi hermano es aburrido porque la película es aburrida."
     ],
-    "explanation": "Estar aburrido = bored (feeling). Ser aburrida = boring (characteristic). Der/die/das Person feels bored (estar), der/die/das movie Ist boring (ser)."
+    "explanation": "Estar aburrido = gelangweilt sein (Gefühl). Ser aburrida = langweilig sein (Eigenschaft). Die Person fühlt sich gelangweilt (estar), der Film IST langweilig (ser).",
+    "hint": null
   },
   "q_gram_b1_18_008": {
     "question": "Pedro ___ muy listo. Siempre saca buenas notas. (ser/estar, Bedeutung 'clever')",
@@ -1851,13 +1977,14 @@
   },
   "q_gram_b1_18_009": {
     "question": "La ventana está rota desde ayer.",
-    "correct": "The window has been broken since yesterday.",
+    "correct": "Das Fenster ist seit gestern kaputt.",
     "wrong": [
-      "The window was broken since yesterday.",
-      "The window is breaking since yesterday.",
-      "The window will be broken since yesterday."
+      "Das Fenster wurde seit gestern zerbrochen.",
+      "Das Fenster geht seit gestern kaputt.",
+      "Das Fenster wird seit gestern kaputt sein."
     ],
-    "explanation": "Estar + rota (Vergangenheit Partizip) beschreibt der/die/das resulting state: der/die/das window ist in a broken state. Rota stimmt überein mit ventana (weiblich)."
+    "explanation": "Estar + rota (Partizip Perfekt) beschreibt den resultierenden Zustand: Das Fenster befindet sich in zerbrochenem Zustand. Rota richtet sich nach ventana (feminin).",
+    "hint": null
   },
   "q_gram_b1_18_010": {
     "question": "Ella ___ orgullosa de sus hijos. (aktuelles Gefühl)",

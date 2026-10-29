@@ -83,14 +83,14 @@
     "explanation": "بعد 'espero que' (I hope ذلك), الsubjunctive required. Estudiar في الـ tú صيغة المضارع المنصوب هو estudies."
   },
   "q_gram_b1_01_009": {
-    "question": "Vosotros ___ las instrucciones con cuidado. (escribir، المضارع الافتراضي subjuntivo، صيغة vosotros)",
+    "question": "Vosotros ___ las instrucciones con cuidado. (escribir، المضارع الشرطي subjuntivo، صيغة vosotros)",
     "correct": "escribáis",
     "wrong": [
       "escribís",
       "escribiréis",
       "escribíais"
     ],
-    "explanation": "صيغة vosotros في الـsubjuntivo للفعل escribir تستخدم النهاية المعاكسة -áis: escribáis.",
+    "explanation": "في صيغة subjuntivo مع vosotros يأخذ الفعل escribir النهاية المعاكسة -áis: escribáis.",
     "conjugation_info": "escribir (present subjunctive): escriba, escribas, escriba, escribamos, escribáis, escriban",
     "hint": null
   },
@@ -136,14 +136,15 @@
     "explanation": "Saber هو fully شاذ في الـ صيغة المضارع المنصوب مع الـ جذر sep-: sepa, sepas, sepa, sepamos, sepáis, sepan."
   },
   "q_gram_b1_02_004": {
-    "question": "Which من these verbs يملك a FULLY شاذ المضارع المنصوب (not derived من الـ yo الإخبار form)?",
+    "question": "أيٌّ من هذه الأفعال شاذٌّ تمامًا في المضارع الشرطي subjuntivo (أي لا يُشتق من صيغة yo في المضارع الدال indicativo)؟",
     "correct": "ser (sea, seas, sea, seamos, seáis, sean)",
     "wrong": [
       "tener (tenga, tengas...)",
       "hacer (haga, hagas...)",
       "poner (ponga, pongas...)"
     ],
-    "explanation": "Ser هو fully شاذ لأن its صيغة المضارع المنصوب جذر (se-) هو not derived من its yo الإخبار (soy). Tener, hacer, و poner derive their صيغة المضارع المنصوب من الـ yo form."
+    "explanation": "الفعل ser شاذ تمامًا لأن جذر صيغة subjuntivo له (se-) لا يُشتق من صيغة yo في المضارع الدال (soy). أما tener وhacer وponer فتُشتق صيغة subjuntivo لها من صيغة yo.",
+    "hint": null
   },
   "q_gram_b1_02_005": {
     "question": "Nosotros ___ todo listo para mañana. (tener, المضارع المنصوب, nosotros form)",
@@ -489,14 +490,15 @@
     "explanation": "الـ الشرطي يُستخدم لـ giving advice: 'En tu lugar, yo hablaría...' (في لك place, I سوف speak...)."
   },
   "q_gram_b1_05_008": {
-    "question": "I سوف travel around الـ world if I had money.",
+    "question": "سأسافر حول العالم لو كان لدي مال.",
     "correct": "Viajaría por todo el mundo si tuviera dinero.",
     "wrong": [
       "Viajo por todo el mundo si tengo dinero.",
       "Viajaré por todo el mundo si tuviera dinero.",
       "Viajaba por todo el mundo si tuviera dinero."
     ],
-    "explanation": "الـ الشرطي (viajaría) يُستخدم لـ hypothetical situations, غالباً paired مع 'si + الماضي الشرطي'."
+    "explanation": "يُستخدم الشرطي (viajaría) للمواقف الافتراضية، وغالبًا ما يأتي مع 'si + الماضي الناقص subjuntivo'.",
+    "hint": null
   },
   "q_gram_b1_05_009": {
     "question": "Tú ___ la mesa antes de la cena. (poner, الشرطي, tú form)",
@@ -1712,15 +1714,16 @@
     "explanation": "'Aunque' + الإخبار يعني 'even though' (factual): Aunque estudio mucho = Even though I study a lot (هو's true ذلك I study)."
   },
   "q_gram_b1_17_006": {
-    "question": "Aunque ___ mañana, iremos a la excursión. (llover, 'even if' = hypothetical)",
+    "question": "Aunque ___ mañana, iremos a la excursión. (llover، 'even if' = افتراضي)",
     "correct": "llueva",
     "wrong": [
       "llueve",
       "llovió",
       "lloverá"
     ],
-    "explanation": "'Aunque' + صيغة المضارع المنصوب يعني 'even if' (hypothetical): Aunque llueva = Even if هو rains (we don't know if هو سوف).",
-    "conjugation_info": "Aunque + indicative = 'even though' (fact). Aunque + subjunctive = 'even if' (hypothetical)."
+    "explanation": "'Aunque' + subjuntivo تعني «حتى لو» (افتراضيًا): Aunque llueva = حتى لو أمطرت (لا نعرف إن كانت ستمطر).",
+    "conjugation_info": "Aunque + indicative = 'even though' (fact). Aunque + subjunctive = 'even if' (hypothetical).",
+    "hint": null
   },
   "q_gram_b1_17_007": {
     "question": "Te lo explico ___ lo entiendas. (para que, purpose)",

@@ -10,14 +10,15 @@
     "explanation": "'Empresa' bedeutet 'company' oder 'business'. Es bezieht sich auf a commercial organization."
   },
   "q_vocab_b1_01_002": {
-    "question": "War does 'sueldo' bedeuten?",
-    "correct": "salary",
+    "question": "Was bedeutet 'sueldo'?",
+    "correct": "Gehalt",
     "wrong": [
-      "job",
-      "schedule",
-      "meeting"
+      "Arbeitsstelle",
+      "Zeitplan",
+      "Besprechung"
     ],
-    "explanation": "'Sueldo' bedeutet 'salary' oder 'wage'. Es's der/die/das money du receive für dein work jeder month."
+    "explanation": "'Sueldo' bedeutet 'Gehalt' oder 'Lohn'. Es ist das Geld, das man jeden Monat für seine Arbeit bekommt.",
+    "hint": null
   },
   "q_vocab_b1_01_003": {
     "question": "Mi ___ me pidió que terminara el informe antes del viernes.",
@@ -27,27 +28,30 @@
       "contrato",
       "horario"
     ],
-    "explanation": "'Jefe' bedeutet 'boss'. Der/die/das Satz bedeutet 'My boss asked me zu finish der/die/das report vor Friday.'"
+    "explanation": "'Jefe' bedeutet 'Chef'. Der Satz bedeutet 'Mein Chef hat mich gebeten, den Bericht vor Freitag fertigzustellen.'",
+    "hint": null
   },
   "q_vocab_b1_01_004": {
-    "question": "War does 'reunión' bedeuten?",
-    "correct": "meeting",
+    "question": "Was bedeutet 'reunión'?",
+    "correct": "Besprechung",
     "wrong": [
-      "interview",
-      "overtime",
-      "position"
+      "Vorstellungsgespräch",
+      "Überstunden",
+      "Stelle"
     ],
-    "explanation": "'Reunión' bedeutet 'meeting'. In der/die/das workplace, 'tener una reunión' bedeutet 'zu haben a meeting'."
+    "explanation": "'Reunión' bedeutet 'Besprechung' oder 'Meeting'. Im Berufsleben bedeutet 'tener una reunión' 'eine Besprechung haben'.",
+    "hint": null
   },
   "q_vocab_b1_01_005": {
-    "question": "War does 'horas extra' bedeuten in a work context?",
-    "correct": "overtime",
+    "question": "Was bedeutet 'horas extra' im Arbeitskontext?",
+    "correct": "Überstunden",
     "wrong": [
-      "flexible hours",
-      "shift work",
-      "lunch break"
+      "flexible Arbeitszeiten",
+      "Schichtarbeit",
+      "Mittagspause"
     ],
-    "explanation": "'Horas extra' bedeutet 'overtime'. Es bezieht sich auf additional hours worked beyond der/die/das Regelmäßig schedule."
+    "explanation": "'Horas extra' bedeutet 'Überstunden'. Gemeint sind zusätzliche Stunden, die über die reguläre Arbeitszeit hinaus gearbeitet werden.",
+    "hint": null
   },
   "q_vocab_b1_01_006": {
     "question": "I haben a job interview tomorrow.",
@@ -60,46 +64,50 @@
     "explanation": "'Entrevista de trabajo' bedeutet 'job interview'. 'Mañana' bedeutet 'tomorrow'."
   },
   "q_vocab_b1_01_007": {
-    "question": "War does 'contratar' bedeuten?",
-    "correct": "to hire",
+    "question": "Was bedeutet 'contratar'?",
+    "correct": "einstellen",
     "wrong": [
-      "to fire",
-      "to resign",
-      "to retire"
+      "entlassen",
+      "kündigen",
+      "in Rente gehen"
     ],
-    "explanation": "'Contratar' bedeutet 'zu hire' oder 'zu employ'. Der/die/das opposite ist 'despedir' (zu fire)."
+    "explanation": "'Contratar' bedeutet 'einstellen' oder 'anstellen'. Das Gegenteil ist 'despedir' (entlassen).",
+    "hint": null
   },
   "q_vocab_b1_01_008": {
     "question": "El empleado trabaja a tiempo parcial en la oficina.",
-    "correct": "The employee works part-time at the office.",
+    "correct": "Der Angestellte arbeitet in Teilzeit im Büro.",
     "wrong": [
-      "The employee works full-time at the office.",
-      "The employee works overtime at the office.",
-      "The employer works part-time at the office."
+      "Der Angestellte arbeitet in Vollzeit im Büro.",
+      "Der Angestellte macht im Büro Überstunden.",
+      "Der Arbeitgeber arbeitet in Teilzeit im Büro."
     ],
-    "explanation": "'A tiempo parcial' bedeutet 'part-Zeit'. 'Empleado' bedeutet 'employee'. Der/die/das opposite ist 'a tiempo completo' (full-Zeit)."
+    "explanation": "'A tiempo parcial' bedeutet 'in Teilzeit'. 'Empleado' bedeutet 'Angestellter'. Das Gegenteil ist 'a tiempo completo' (Vollzeit).",
+    "hint": null
   },
   "q_vocab_b1_01_009": {
-    "question": "Du want zu apply für a new position. War document do du need zu prepare?",
+    "question": "Du möchtest dich auf eine neue Stelle bewerben. Welches Dokument musst du vorbereiten?",
     "correct": "el currículum",
     "wrong": [
       "el contrato",
       "el horario",
       "el sueldo"
     ],
-    "explanation": "'El currículum' (auch 'currículum vitae' oder CV) ist der/die/das document listing dein work experience und education für job applications.",
-    "context": "Looking for a new job and preparing application materials"
+    "explanation": "'El currículum' (auch 'currículum vitae' oder CV) ist das Dokument, das deine Berufserfahrung und Ausbildung für Bewerbungen auflistet.",
+    "context": "Looking for a new job and preparing application materials",
+    "hint": null
   },
   "q_vocab_b1_01_010": {
-    "question": "Dein company ist letting Leute go due zu budget cuts. War ist happening?",
+    "question": "Deine Firma entlässt wegen Budgetkürzungen Leute. Was passiert gerade?",
     "correct": "La empresa está despidiendo empleados.",
     "wrong": [
       "La empresa está contratando empleados.",
       "La empresa está ascendiendo empleados.",
       "La empresa está formando empleados."
     ],
-    "explanation": "'Despedir' bedeutet 'zu fire' oder 'zu let go'. 'La empresa está despidiendo empleados' bedeutet 'Der/die/das company ist firing employees'.",
-    "context": "A company facing financial difficulties and reducing staff"
+    "explanation": "'Despedir' bedeutet 'entlassen'. 'La empresa está despidiendo empleados' bedeutet 'Die Firma entlässt Mitarbeiter'.",
+    "context": "A company facing financial difficulties and reducing staff",
+    "hint": null
   },
   "q_vocab_b1_02_001": {
     "question": "War does 'beca' bedeuten?",
@@ -119,17 +127,19 @@
       "suspender",
       "investigar"
     ],
-    "explanation": "'Matricularse' bedeutet 'zu enroll/register'. Der/die/das Satz bedeutet 'Students muss enroll vor September 30th.'"
+    "explanation": "'Matricularse' bedeutet 'sich einschreiben'. Der Satz bedeutet 'Die Studierenden müssen sich vor dem 30. September einschreiben.'",
+    "hint": null
   },
   "q_vocab_b1_02_003": {
-    "question": "War does 'aprobar' bedeuten in an academic context?",
-    "correct": "to pass (an exam)",
+    "question": "Was bedeutet 'aprobar' im akademischen Kontext?",
+    "correct": "bestehen (eine Prüfung)",
     "wrong": [
-      "to fail",
-      "to study",
-      "to teach"
+      "durchfallen",
+      "lernen",
+      "unterrichten"
     ],
-    "explanation": "'Aprobar' bedeutet 'zu pass' an exam oder course. Der/die/das opposite ist 'suspender' (zu fail)."
+    "explanation": "'Aprobar' bedeutet eine Prüfung oder einen Kurs 'bestehen'. Das Gegenteil ist 'suspender' (durchfallen).",
+    "hint": null
   },
   "q_vocab_b1_02_004": {
     "question": "War does 'asignatura' bedeuten?",
@@ -142,14 +152,15 @@
     "explanation": "'Asignatura' bedeutet 'Subjekt' oder 'course' in school. Zum Beispiel, 'matemáticas es mi asignatura favorita'."
   },
   "q_vocab_b1_02_005": {
-    "question": "She wants zu study a university degree.",
+    "question": "Sie möchte einen Universitätsabschluss machen.",
     "correct": "Ella quiere estudiar una carrera universitaria.",
     "wrong": [
       "Ella quiere aprobar una carrera universitaria.",
       "Ella quiere suspender una carrera universitaria.",
       "Ella quiere investigar una carrera universitaria."
     ],
-    "explanation": "'Carrera universitaria' bedeutet 'university degree'. 'Estudiar una carrera' ist der/die/das häufig expression für pursuing a degree."
+    "explanation": "'Carrera universitaria' bedeutet 'Universitätsstudium'. 'Estudiar una carrera' ist der gängige Ausdruck dafür, einen Studiengang zu absolvieren.",
+    "hint": null
   },
   "q_vocab_b1_02_006": {
     "question": "War does 'título' bedeuten in an educational context?",
@@ -162,35 +173,38 @@
     "explanation": "'Título' in education bedeutet 'degree' oder 'diploma'. 'Obtener un título' bedeutet 'zu obtain a degree'."
   },
   "q_vocab_b1_02_007": {
-    "question": "A student asks about der/die/das next step nach secondary school. War level comes next in Spain?",
+    "question": "Ein Schüler fragt nach dem nächsten Schritt nach der Sekundarschule. Welche Stufe kommt in Spanien als Nächstes?",
     "correct": "el bachillerato",
     "wrong": [
       "la educación primaria",
       "la matrícula",
       "la beca"
     ],
-    "explanation": "'Bachillerato' ist der/die/das Spanisch equivalent von upper secondary education (ages 16-18), taken nach 'educación secundaria'.",
-    "context": "A 16-year-old student planning their educational path in Spain"
+    "explanation": "„Bachillerato“ ist das spanische Gegenstück zur gymnasialen Oberstufe (16–18 Jahre) und folgt auf die „educación secundaria“.",
+    "context": "A 16-year-old student planning their educational path in Spain",
+    "hint": null
   },
   "q_vocab_b1_02_008": {
-    "question": "War does 'nota' bedeuten in der/die/das Phrase 'Saqué buenas notas este semestre'?",
-    "correct": "grade / mark",
+    "question": "Was bedeutet „nota“ im Satz „Saqué buenas notas este semestre“?",
+    "correct": "Note / Zensur",
     "wrong": [
-      "note (written)",
-      "notebook",
-      "news"
+      "Notiz (schriftlich)",
+      "Notizbuch",
+      "Nachrichten"
     ],
-    "explanation": "'Nota' in an academic context bedeutet 'grade' oder 'mark'. 'Sacar buenas notas' bedeutet 'zu get good grades'."
+    "explanation": "„Nota“ bedeutet im schulischen Zusammenhang „Note“ oder „Zensur“. „Sacar buenas notas“ heißt „gute Noten bekommen“.",
+    "hint": null
   },
   "q_vocab_b1_02_009": {
     "question": "Mi hermano suspendió tres asignaturas y tiene que repetir curso.",
-    "correct": "My brother failed three subjects and has to repeat the year.",
+    "correct": "Mein Bruder ist in drei Fächern durchgefallen und muss das Schuljahr wiederholen.",
     "wrong": [
-      "My brother passed three subjects and has to repeat the year.",
-      "My brother failed three exams and has to change schools.",
-      "My brother dropped three subjects and has to take extra classes."
+      "Mein Bruder hat drei Fächer bestanden und muss das Schuljahr wiederholen.",
+      "Mein Bruder ist in drei Prüfungen durchgefallen und muss die Schule wechseln.",
+      "Mein Bruder hat drei Fächer abgewählt und muss zusätzlichen Unterricht besuchen."
     ],
-    "explanation": "'Suspender' bedeutet 'zu fail'. 'Repetir curso' bedeutet 'zu repeat der/die/das school year'. Das ist häufig in der/die/das Spanisch education system."
+    "explanation": "„Suspender“ bedeutet „durchfallen“. „Repetir curso“ heißt „das Schuljahr wiederholen“. Das ist im spanischen Bildungssystem üblich.",
+    "hint": null
   },
   "q_vocab_b1_02_010": {
     "question": "Du sind a professor guiding a student wer wants zu do academic research. War do du suggest?",
@@ -204,14 +218,15 @@
     "context": "A university professor advising a student about their thesis"
   },
   "q_vocab_b1_03_001": {
-    "question": "War does 'medio ambiente' bedeuten?",
-    "correct": "environment",
+    "question": "Was bedeutet „medio ambiente“?",
+    "correct": "Umwelt",
     "wrong": [
-      "media",
-      "average",
-      "atmosphere"
+      "Medien",
+      "Durchschnitt",
+      "Atmosphäre"
     ],
-    "explanation": "'Medio ambiente' bedeutet 'environment' in der/die/das ecological sense. 'Proteger el medio ambiente' bedeutet 'zu protect der/die/das environment'."
+    "explanation": "„Medio ambiente“ bedeutet „Umwelt“ im ökologischen Sinn. „Proteger el medio ambiente“ heißt „die Umwelt schützen“.",
+    "hint": null
   },
   "q_vocab_b1_03_002": {
     "question": "War does 'contaminación' bedeuten?",
@@ -231,7 +246,8 @@
       "deforestar",
       "emitir"
     ],
-    "explanation": "'Reciclar' bedeutet 'zu recycle'. Der/die/das Satz bedeutet 'Es ist important zu recycle plastic zu reduce waste.'"
+    "explanation": "„Reciclar“ bedeutet „recyceln“. Der Satz heißt: „Es ist wichtig, Plastik zu recyceln, um Abfall zu reduzieren.“",
+    "hint": null
   },
   "q_vocab_b1_03_004": {
     "question": "War does 'cambio climático' bedeuten?",
@@ -264,14 +280,15 @@
     "explanation": "'Proteger' bedeutet 'zu protect'. 'Especies en peligro' bedeutet 'endangered species'."
   },
   "q_vocab_b1_03_007": {
-    "question": "War does 'deforestación' bedeuten?",
-    "correct": "deforestation",
+    "question": "Was bedeutet „deforestación“?",
+    "correct": "Abholzung",
     "wrong": [
-      "reforestation",
-      "desertification",
-      "irrigation"
+      "Wiederaufforstung",
+      "Wüstenbildung",
+      "Bewässerung"
     ],
-    "explanation": "'Deforestación' bedeutet 'deforestation', der/die/das clearing von forests. Es ist a major environmental concern worldwide."
+    "explanation": "„Deforestación“ bedeutet „Abholzung“, also das Roden von Wäldern. Sie ist weltweit ein großes Umweltproblem.",
+    "hint": null
   },
   "q_vocab_b1_03_008": {
     "question": "Las emisiones de CO2 están aumentando cada año.",
@@ -295,15 +312,16 @@
     "context": "A city council meeting discussing environmental policies"
   },
   "q_vocab_b1_03_010": {
-    "question": "Du see a factory dumping waste into a river. Wie do du describe dies?",
+    "question": "Du siehst, wie eine Fabrik Abfall in einen Fluss leitet. Wie beschreibst du das?",
     "correct": "La fábrica está contaminando el río.",
     "wrong": [
       "La fábrica está reciclando el río.",
       "La fábrica está protegiendo el río.",
       "La fábrica está renovando el río."
     ],
-    "explanation": "'Contaminar' bedeutet 'zu pollute'. 'Contaminar el río' bedeutet 'zu pollute der/die/das river'.",
-    "context": "Witnessing industrial pollution near a residential area"
+    "explanation": "„Contaminar“ bedeutet „verschmutzen“. „Contaminar el río“ heißt „den Fluss verschmutzen“.",
+    "context": "Witnessing industrial pollution near a residential area",
+    "hint": null
   },
   "q_vocab_b1_04_001": {
     "question": "War does 'periodista' bedeuten?",
@@ -323,7 +341,8 @@
       "titular",
       "publicidad"
     ],
-    "explanation": "'Periódico' bedeutet 'newspaper'. Der/die/das Satz bedeutet 'Today's newspaper hat a sehr interesting Artikel about politics.'"
+    "explanation": "„Periódico“ bedeutet „Zeitung“. Der Satz heißt: „Die heutige Zeitung hat einen sehr interessanten Artikel über Politik.“",
+    "hint": null
   },
   "q_vocab_b1_04_003": {
     "question": "War does 'redes sociales' bedeuten?",
@@ -336,34 +355,37 @@
     "explanation": "'Redes sociales' bedeutet 'social media' oder 'social networks'. Es bezieht sich auf platforms like Instagram, X, und Facebook."
   },
   "q_vocab_b1_04_004": {
-    "question": "War does 'titular' bedeuten in a newspaper?",
-    "correct": "headline",
+    "question": "Was bedeutet „titular“ in einer Zeitung?",
+    "correct": "Schlagzeile",
     "wrong": [
-      "title page",
-      "editor",
-      "subscriber"
+      "Titelseite",
+      "Redakteur",
+      "Abonnent"
     ],
-    "explanation": "'Titular' bedeutet 'headline' wann referring zu newspapers. Es's der/die/das main title von a news story."
+    "explanation": "„Titular“ bedeutet bei Zeitungen „Schlagzeile“. Es ist der Haupttitel einer Nachricht.",
+    "hint": null
   },
   "q_vocab_b1_04_005": {
-    "question": "Der/die/das magazine published an Artikel about climate change.",
+    "question": "Die Zeitschrift veröffentlichte einen Artikel über den Klimawandel.",
     "correct": "La revista publicó un artículo sobre el cambio climático.",
     "wrong": [
       "La revista informó un artículo sobre el cambio climático.",
       "El periódico publicó una noticia sobre el cambio climático.",
       "La revista anunció un artículo sobre el cambio climático."
     ],
-    "explanation": "'Publicar' bedeutet 'zu publish'. 'Revista' bedeutet 'magazine'. 'Publicar un artículo' ist der/die/das standard expression."
+    "explanation": "„Publicar“ bedeutet „veröffentlichen“. „Revista“ heißt „Zeitschrift“. „Publicar un artículo“ ist die übliche Wendung.",
+    "hint": null
   },
   "q_vocab_b1_04_006": {
-    "question": "War does 'publicidad' bedeuten?",
-    "correct": "advertising",
+    "question": "Was bedeutet „publicidad“?",
+    "correct": "Werbung",
     "wrong": [
-      "publicity stunt",
-      "public space",
-      "publication"
+      "Werbegag",
+      "öffentlicher Raum",
+      "Veröffentlichung"
     ],
-    "explanation": "'Publicidad' bedeutet 'advertising'. 'Anuncio' ist a single 'advertisement', während 'publicidad' ist der/die/das broader concept."
+    "explanation": "„Publicidad“ bedeutet „Werbung“. „Anuncio“ ist eine einzelne „Anzeige“, „publicidad“ dagegen der allgemeinere Begriff.",
+    "hint": null
   },
   "q_vocab_b1_04_007": {
     "question": "Du sind watching TV und a commercial break starts. War ist being shown?",
@@ -377,14 +399,15 @@
     "context": "Watching television during prime time"
   },
   "q_vocab_b1_04_008": {
-    "question": "War does 'prensa' bedeuten?",
-    "correct": "the press",
+    "question": "Was bedeutet „prensa“?",
+    "correct": "die Presse",
     "wrong": [
-      "pressure",
-      "printing",
-      "presentation"
+      "Druck (Belastung)",
+      "Drucken",
+      "Präsentation"
     ],
-    "explanation": "'Prensa' bedeutet 'der/die/das press' oder 'media' collectively. 'Libertad de prensa' bedeutet 'freedom von der/die/das press'."
+    "explanation": "„Prensa“ bedeutet „die Presse“ oder allgemein „die Medien“. „Libertad de prensa“ heißt „Pressefreiheit“.",
+    "hint": null
   },
   "q_vocab_b1_04_009": {
     "question": "La cadena de televisión informó sobre el terremoto.",
@@ -408,14 +431,15 @@
     "context": "A foreigner living in Spain who wants to know what's happening in the country"
   },
   "q_vocab_b1_05_001": {
-    "question": "War does 'exposición' bedeuten in an art context?",
-    "correct": "exhibition",
+    "question": "Was bedeutet „exposición“ im Kunstkontext?",
+    "correct": "Ausstellung",
     "wrong": [
-      "exposure",
-      "explanation",
-      "explosion"
+      "Belichtung",
+      "Erklärung",
+      "Explosion"
     ],
-    "explanation": "'Exposición' bedeutet 'exhibition' in der/die/das context von art. 'Ir a una exposición' bedeutet 'zu go zu an exhibition'."
+    "explanation": "„Exposición“ bedeutet im Kunstkontext „Ausstellung“. „Ir a una exposición“ heißt „eine Ausstellung besuchen“.",
+    "hint": null
   },
   "q_vocab_b1_05_002": {
     "question": "War does 'obra de arte' bedeuten?",
@@ -435,17 +459,19 @@
       "director",
       "pintor"
     ],
-    "explanation": "'Galería' kann refer zu a gallery oder section within a museum. Der/die/das Satz bedeutet 'Der/die/das museum's gallery contains paintings von Picasso und Dalí.'"
+    "explanation": "„Galería“ kann eine Galerie oder einen Bereich innerhalb eines Museums bezeichnen. Der Satz heißt: „Die Galerie des Museums enthält Gemälde von Picasso und Dalí.“",
+    "hint": null
   },
   "q_vocab_b1_05_004": {
-    "question": "War does 'patrimonio cultural' bedeuten?",
-    "correct": "cultural heritage",
+    "question": "Was bedeutet „patrimonio cultural“?",
+    "correct": "Kulturerbe",
     "wrong": [
-      "cultural patrimony fee",
-      "national park",
-      "cultural center"
+      "Kulturabgabe",
+      "Nationalpark",
+      "Kulturzentrum"
     ],
-    "explanation": "'Patrimonio cultural' bedeutet 'cultural heritage'. Es bezieht sich auf der/die/das traditions, art, und monuments valued von a society."
+    "explanation": "„Patrimonio cultural“ bedeutet „Kulturerbe“. Gemeint sind Traditionen, Kunst und Denkmäler, die eine Gesellschaft wertschätzt.",
+    "hint": null
   },
   "q_vocab_b1_05_005": {
     "question": "War does 'escultura' bedeuten?",
@@ -458,14 +484,15 @@
     "explanation": "'Escultura' bedeutet 'sculpture'. A sculptor ('escultor') creates three-dimensional works von art."
   },
   "q_vocab_b1_05_006": {
-    "question": "Der/die/das writer published his latest novel last month.",
+    "question": "Der Schriftsteller veröffentlichte letzten Monat seinen neuesten Roman.",
     "correct": "El escritor publicó su última novela el mes pasado.",
     "wrong": [
       "El pintor publicó su última novela el mes pasado.",
       "El escritor pintó su última novela el mes pasado.",
       "El director publicó su última novela el mes pasado."
     ],
-    "explanation": "'Escritor' bedeutet 'writer'. 'Novela' bedeutet 'novel'. 'Publicar' bedeutet 'zu publish'."
+    "explanation": "„Escritor“ bedeutet „Schriftsteller“. „Novela“ heißt „Roman“. „Publicar“ bedeutet „veröffentlichen“.",
+    "hint": null
   },
   "q_vocab_b1_05_007": {
     "question": "Was bedeutet 'cuadro' in der Kunst?",
@@ -489,15 +516,16 @@
     "explanation": "'Arquitectura' bedeutet 'architecture'. Barcelona ist known für Gaudí's unique architectural works."
   },
   "q_vocab_b1_05_009": {
-    "question": "Du visit a museum und want zu see der/die/das Spanisch masters. War do du ask für?",
+    "question": "Du besuchst ein Museum und möchtest die spanischen Meister sehen. Wonach fragst du?",
     "correct": "¿Dónde están los cuadros de los pintores españoles?",
     "wrong": [
       "¿Dónde están las novelas de los escritores españoles?",
       "¿Dónde están los poemas de los directores españoles?",
       "¿Dónde están las esculturas de los escritores españoles?"
     ],
-    "explanation": "'Pintores' bedeutet 'painters'. 'Cuadros' bedeutet 'paintings'. Das ist der/die/das richtig way zu ask about paintings von Spanisch artists.",
-    "context": "Visiting the Prado Museum in Madrid"
+    "explanation": "„Pintores“ bedeutet „Maler“. „Cuadros“ heißt „Gemälde“. So fragt man richtig nach Gemälden spanischer Künstler.",
+    "context": "Visiting the Prado Museum in Madrid",
+    "hint": null
   },
   "q_vocab_b1_05_010": {
     "question": "Du attend a poetry reading event. War sind du listening zu?",
@@ -528,17 +556,19 @@
       "enamoró",
       "peleó"
     ],
-    "explanation": "'Casarse' bedeutet 'zu get married'. Der/die/das Satz bedeutet 'My sister got married zu her boyfriend nach five years together.'"
+    "explanation": "„Casarse“ bedeutet „heiraten“. Der Satz heißt: „Meine Schwester hat nach fünf gemeinsamen Jahren ihren Freund geheiratet.“",
+    "hint": null
   },
   "q_vocab_b1_06_003": {
-    "question": "War does 'llevarse bien' bedeuten?",
-    "correct": "to get along well",
+    "question": "Was bedeutet „llevarse bien“?",
+    "correct": "sich gut verstehen",
     "wrong": [
-      "to carry well",
-      "to take well",
-      "to behave well"
+      "gut tragen",
+      "gut mitnehmen",
+      "sich gut benehmen"
     ],
-    "explanation": "'Llevarse bien' bedeutet 'zu get along well' mit someone. Der/die/das opposite ist 'llevarse mal' (zu not get along)."
+    "explanation": "„Llevarse bien“ bedeutet, sich mit jemandem gut zu verstehen. Das Gegenteil ist „llevarse mal“ (sich nicht verstehen).",
+    "hint": null
   },
   "q_vocab_b1_06_004": {
     "question": "War does 'confianza' bedeuten?",
@@ -593,34 +623,37 @@
   },
   "q_vocab_b1_06_009": {
     "question": "Después de divorciarse, ella empezó una nueva relación.",
-    "correct": "After getting divorced, she started a new relationship.",
+    "correct": "Nach ihrer Scheidung begann sie eine neue Beziehung.",
     "wrong": [
-      "After getting married, she started a new relationship.",
-      "After falling in love, she started a new friendship.",
-      "After breaking up, she started a new career."
+      "Nach ihrer Heirat begann sie eine neue Beziehung.",
+      "Nachdem sie sich verliebt hatte, begann sie eine neue Freundschaft.",
+      "Nach der Trennung begann sie eine neue Karriere."
     ],
-    "explanation": "'Divorciarse' bedeutet 'zu get divorced'. 'Relación' bedeutet 'relationship'. Der/die/das Satz beschreibt moving on nach divorce."
+    "explanation": "„Divorciarse“ bedeutet „sich scheiden lassen“. „Relación“ heißt „Beziehung“. Der Satz beschreibt den Neuanfang nach der Scheidung.",
+    "hint": null
   },
   "q_vocab_b1_06_010": {
-    "question": "Two friends haven't spoken in months nach a disKongruenz. One wants zu reconnect. War sollte sie do?",
+    "question": "Zwei Freunde haben nach einem Streit seit Monaten nicht mehr miteinander gesprochen. Einer von ihnen möchte den Kontakt wieder aufnehmen. Was sollte er tun?",
     "correct": "Debería llamar a su amigo y intentar perdonar.",
     "wrong": [
       "Debería discutir más con su amigo.",
       "Debería echar de menos a su amigo en silencio.",
       "Debería romper la amistad definitivamente."
     ],
-    "explanation": "'Perdonar' bedeutet 'zu forgive'. 'Amistad' bedeutet 'friendship'. Forgiving ist der/die/das first step zu restoring a friendship.",
-    "context": "Two long-time friends who had a falling out over a misunderstanding"
+    "explanation": "'Perdonar' bedeutet 'vergeben'. 'Amistad' bedeutet 'Freundschaft'. Zu vergeben ist der erste Schritt, um eine Freundschaft wiederherzustellen.",
+    "context": "Two long-time friends who had a falling out over a misunderstanding",
+    "hint": null
   },
   "q_vocab_b1_07_001": {
-    "question": "War does 'ley' bedeuten?",
-    "correct": "law",
+    "question": "Was bedeutet 'ley'?",
+    "correct": "Gesetz",
     "wrong": [
-      "lawyer",
-      "judge",
-      "trial"
+      "Rechtsanwalt",
+      "Richter",
+      "Gerichtsverfahren"
     ],
-    "explanation": "'Ley' bedeutet 'law'. 'Cumplir la ley' bedeutet 'zu obey der/die/das law'. 'Ley' bezieht sich auf a specific regulation oder statute."
+    "explanation": "'Ley' bedeutet 'Gesetz'. 'Cumplir la ley' bedeutet 'das Gesetz befolgen'. 'Ley' bezieht sich auf eine bestimmte Vorschrift oder Rechtsnorm.",
+    "hint": null
   },
   "q_vocab_b1_07_002": {
     "question": "War does 'abogado' bedeuten?",
@@ -640,7 +673,8 @@
       "víctima",
       "testigo"
     ],
-    "explanation": "'Juez' bedeutet 'judge'. Der/die/das Satz bedeutet 'Der/die/das judge declared der/die/das defendant guilty von der/die/das crime.'"
+    "explanation": "'Juez' bedeutet 'Richter'. Der Satz bedeutet: 'Der Richter erklärte den Angeklagten der Straftat für schuldig.'",
+    "hint": null
   },
   "q_vocab_b1_07_004": {
     "question": "War does 'derechos humanos' bedeuten?",
@@ -653,34 +687,37 @@
     "explanation": "'Derechos humanos' bedeutet 'human rights'. 'Derecho' bedeutet both 'right' (entitlement) und 'law' (field von study)."
   },
   "q_vocab_b1_07_005": {
-    "question": "War does 'culpable' bedeuten?",
-    "correct": "guilty",
+    "question": "Was bedeutet 'culpable'?",
+    "correct": "schuldig",
     "wrong": [
-      "innocent",
-      "capable",
-      "culprit"
+      "unschuldig",
+      "fähig",
+      "Täter"
     ],
-    "explanation": "'Culpable' bedeutet 'guilty'. Der/die/das opposite ist 'inocente' (innocent). 'Declarar culpable' bedeutet 'zu find guilty'."
+    "explanation": "'Culpable' bedeutet 'schuldig'. Das Gegenteil ist 'inocente' (unschuldig). 'Declarar culpable' bedeutet 'für schuldig erklären'.",
+    "hint": null
   },
   "q_vocab_b1_07_006": {
-    "question": "Everyone hat der/die/das right zu freedom von expression.",
+    "question": "Jeder hat das Recht auf freie Meinungsäußerung.",
     "correct": "Todos tienen derecho a la libertad de expresión.",
     "wrong": [
       "Todos tienen justicia a la libertad de expresión.",
       "Todos tienen ley a la libertad de expresión.",
       "Todos tienen juicio a la libertad de expresión."
     ],
-    "explanation": "'Derecho' bedeutet 'right'. 'Libertad de expresión' bedeutet 'freedom von expression'. 'Tener derecho a' bedeutet 'zu haben der/die/das right zu'."
+    "explanation": "'Derecho' bedeutet 'Recht'. 'Libertad de expresión' bedeutet 'Meinungsfreiheit'. 'Tener derecho a' bedeutet 'das Recht auf etwas haben'.",
+    "hint": null
   },
   "q_vocab_b1_07_007": {
-    "question": "War does 'denunciar' bedeuten?",
-    "correct": "to report (a crime)",
+    "question": "Was bedeutet 'denunciar'?",
+    "correct": "anzeigen (eine Straftat)",
     "wrong": [
-      "to denounce publicly",
-      "to deny",
-      "to demonstrate"
+      "öffentlich anprangern",
+      "leugnen",
+      "demonstrieren"
     ],
-    "explanation": "'Denunciar' bedeutet 'zu report' a crime oder wrongdoing zu der/die/das authorities. 'Poner una denuncia' bedeutet 'zu file a report'."
+    "explanation": "'Denunciar' bedeutet, ein Verbrechen oder Fehlverhalten bei den Behörden 'anzuzeigen'. 'Poner una denuncia' bedeutet 'eine Anzeige erstatten'.",
+    "hint": null
   },
   "q_vocab_b1_07_008": {
     "question": "La víctima declaró ante el juez durante el juicio.",
@@ -693,15 +730,16 @@
     "explanation": "'Víctima' bedeutet 'victim'. 'Juicio' bedeutet 'trial'. 'Declarar' hier bedeutet 'zu testify'."
   },
   "q_vocab_b1_07_009": {
-    "question": "Du witness a robbery. War sollte du do?",
+    "question": "Du wirst Zeuge eines Raubüberfalls. Was solltest du tun?",
     "correct": "Denunciar el delito a la policía.",
     "wrong": [
       "Defender al culpable ante la policía.",
       "Ignorar la justicia y el delito.",
       "Juzgar al inocente en la calle."
     ],
-    "explanation": "'Denunciar' bedeutet 'zu report'. 'Delito' bedeutet 'crime'. Du sollte report crimes zu der/die/das police.",
-    "context": "Walking home at night and seeing someone stealing from a store"
+    "explanation": "'Denunciar' bedeutet 'anzeigen'. 'Delito' bedeutet 'Straftat'. Straftaten sollte man bei der Polizei anzeigen.",
+    "context": "Walking home at night and seeing someone stealing from a store",
+    "hint": null
   },
   "q_vocab_b1_07_010": {
     "question": "A group von citizens ist protesting für equal rights. War sind sie demanding?",
@@ -732,7 +770,8 @@
       "descubrimientos",
       "datos"
     ],
-    "explanation": "'Científicos' bedeutet 'scientists'. Der/die/das Satz bedeutet 'Der/die/das scientists work in der/die/das laboratory analyzing data.'"
+    "explanation": "'Científicos' bedeutet 'Wissenschaftler'. Der Satz bedeutet: 'Die Wissenschaftler arbeiten im Labor und analysieren Daten.'",
+    "hint": null
   },
   "q_vocab_b1_08_003": {
     "question": "War does 'investigación' bedeuten?",
@@ -755,14 +794,15 @@
     "explanation": "'Inteligencia artificial' bedeutet 'artificial intelligence' (AI). Es's a rapidly growing field in technology."
   },
   "q_vocab_b1_08_005": {
-    "question": "Der/die/das scientist invented a new type von battery.",
+    "question": "Der Wissenschaftler erfand eine neue Art von Batterie.",
     "correct": "El científico inventó un nuevo tipo de batería.",
     "wrong": [
       "El científico descubrió un nuevo tipo de batería.",
       "El científico demostró un nuevo tipo de batería.",
       "El científico experimentó un nuevo tipo de batería."
     ],
-    "explanation": "'Inventar' bedeutet 'zu invent' (create something new). 'Descubrir' bedeutet 'zu discover' (find something existing)."
+    "explanation": "'Inventar' bedeutet 'erfinden' (etwas Neues schaffen). 'Descubrir' bedeutet 'entdecken' (etwas bereits Vorhandenes finden).",
+    "hint": null
   },
   "q_vocab_b1_08_006": {
     "question": "War does 'demostrar' bedeuten in a scientific context?",
@@ -786,14 +826,15 @@
     "context": "A press conference about a major scientific breakthrough"
   },
   "q_vocab_b1_08_008": {
-    "question": "War does 'dato' bedeuten?",
-    "correct": "data point / piece of data",
+    "question": "Was bedeutet 'dato'?",
+    "correct": "Datenpunkt / Angabe",
     "wrong": [
-      "date (calendar)",
-      "gift",
-      "detail"
+      "Datum (Kalender)",
+      "Geschenk",
+      "Detail"
     ],
-    "explanation": "'Dato' bedeutet 'data point' oder 'piece von information'. Der/die/das Plural 'datos' bedeutet 'data'. 'Base de datos' bedeutet 'database'."
+    "explanation": "'Dato' bedeutet 'Datenpunkt' oder 'Information'. Der Plural 'datos' bedeutet 'Daten'. 'Base de datos' bedeutet 'Datenbank'.",
+    "hint": null
   },
   "q_vocab_b1_08_009": {
     "question": "Los estudiantes realizaron un experimento en el laboratorio.",
@@ -827,14 +868,15 @@
     "explanation": "'Impuestos' bedeutet 'taxes'. 'Pagar impuestos' bedeutet 'zu pay taxes'. Es comes von 'imponer' (zu impose)."
   },
   "q_vocab_b1_09_002": {
-    "question": "War does 'desempleo' bedeuten?",
-    "correct": "unemployment",
+    "question": "Was bedeutet 'desempleo'?",
+    "correct": "Arbeitslosigkeit",
     "wrong": [
-      "employment",
-      "underemployment",
-      "retirement"
+      "Beschäftigung",
+      "Unterbeschäftigung",
+      "Ruhestand"
     ],
-    "explanation": "'Desempleo' bedeutet 'unemployment'. Der/die/das prefix 'des-' zeigt an negation. 'La tasa de desempleo' bedeutet 'der/die/das unemployment rate'."
+    "explanation": "'Desempleo' bedeutet 'Arbeitslosigkeit'. Die Vorsilbe 'des-' drückt eine Verneinung aus. 'La tasa de desempleo' bedeutet 'die Arbeitslosenquote'.",
+    "hint": null
   },
   "q_vocab_b1_09_003": {
     "question": "Es importante ___ dinero cada mes para el futuro.",
@@ -844,27 +886,30 @@
       "invertir",
       "deber"
     ],
-    "explanation": "'Ahorrar' bedeutet 'zu save' money. Der/die/das Satz bedeutet 'Es ist important zu save money jeder month für der/die/das Zukunft.'"
+    "explanation": "'Ahorrar' bedeutet Geld 'sparen'. Der Satz bedeutet: 'Es ist wichtig, jeden Monat Geld für die Zukunft zu sparen.'",
+    "hint": null
   },
   "q_vocab_b1_09_004": {
-    "question": "War does 'presupuesto' bedeuten?",
-    "correct": "budget",
+    "question": "Was bedeutet 'presupuesto'?",
+    "correct": "Budget / Haushalt",
     "wrong": [
-      "pressure",
-      "loan",
-      "price"
+      "Druck",
+      "Kredit",
+      "Preis"
     ],
-    "explanation": "'Presupuesto' bedeutet 'budget'. 'El presupuesto del gobierno' bedeutet 'der/die/das government's budget'."
+    "explanation": "'Presupuesto' bedeutet 'Budget' bzw. 'Haushalt'. 'El presupuesto del gobierno' bedeutet 'der Haushalt der Regierung'.",
+    "hint": null
   },
   "q_vocab_b1_09_005": {
-    "question": "War does 'inflación' refer zu in economics?",
-    "correct": "a general increase in prices over time",
+    "question": "Was bezeichnet 'inflación' in der Wirtschaft?",
+    "correct": "ein allgemeiner Anstieg der Preise im Laufe der Zeit",
     "wrong": [
-      "a decrease in the value of exports",
-      "an increase in employment rates",
-      "a rise in stock market values"
+      "ein Rückgang des Werts der Exporte",
+      "ein Anstieg der Beschäftigungsquote",
+      "ein Anstieg der Börsenwerte"
     ],
-    "explanation": "'Inflación' bedeutet 'inflation', der/die/das sustained increase in der/die/das general price level von goods und services."
+    "explanation": "'Inflación' bedeutet 'Inflation', also der anhaltende Anstieg des allgemeinen Preisniveaus von Waren und Dienstleistungen.",
+    "hint": null
   },
   "q_vocab_b1_09_006": {
     "question": "He decided zu invest in real estate.",
@@ -908,25 +953,27 @@
     "context": "Planning to open a small café in your neighborhood"
   },
   "q_vocab_b1_09_010": {
-    "question": "Der/die/das government needs zu address rising unemployment. War ist der/die/das issue?",
+    "question": "Die Regierung muss die steigende Arbeitslosigkeit angehen. Worum geht es?",
     "correct": "El gobierno necesita abordar el aumento del desempleo.",
     "wrong": [
       "El gobierno necesita abordar el aumento de la inversión.",
       "El gobierno necesita abordar el aumento del mercado.",
       "El gobierno necesita abordar el aumento del ahorro."
     ],
-    "explanation": "'Desempleo' bedeutet 'unemployment'. 'Abordar' bedeutet 'zu address/tackle'. Rising unemployment ist a serious economic concern.",
-    "context": "A news report about the country's economic challenges"
+    "explanation": "'Desempleo' bedeutet 'Arbeitslosigkeit'. 'Abordar' bedeutet 'angehen/in Angriff nehmen'. Steigende Arbeitslosigkeit ist ein ernstes wirtschaftliches Problem.",
+    "context": "A news report about the country's economic challenges",
+    "hint": null
   },
   "q_vocab_b1_10_001": {
-    "question": "War does 'en mi opinión' bedeuten?",
-    "correct": "in my opinion",
+    "question": "Was bedeutet 'en mi opinión'?",
+    "correct": "meiner Meinung nach",
     "wrong": [
-      "in my experience",
-      "in my view (formal)",
-      "to my knowledge"
+      "meiner Erfahrung nach",
+      "aus meiner Sicht (formell)",
+      "meines Wissens"
     ],
-    "explanation": "'En mi opinión' bedeutet 'in my opinion'. Es's one von der/die/das die meisten häufig ways um auszudrücken a personal viewpoint auf Spanisch."
+    "explanation": "'En mi opinión' bedeutet 'meiner Meinung nach'. Es ist eine der gebräuchlichsten Arten, im Spanischen einen persönlichen Standpunkt auszudrücken.",
+    "hint": null
   },
   "q_vocab_b1_10_002": {
     "question": "Creo que el cambio climático es un problema grave; ___, hay gente que no está de acuerdo.",
@@ -936,17 +983,19 @@
       "además",
       "en conclusión"
     ],
-    "explanation": "'Sin embargo' bedeutet 'jedoch' oder 'nevertheless'. Es introduces a contrasting idea. Der/die/das Satz bedeutet 'I think climate change ist a serious problem; jedoch, Es gibt Leute wer disagree.'"
+    "explanation": "'Sin embargo' bedeutet 'jedoch' oder 'trotzdem'. Es leitet einen Gegensatz ein. Der Satz bedeutet: 'Ich glaube, dass der Klimawandel ein ernstes Problem ist; allerdings gibt es Leute, die anderer Meinung sind.'",
+    "hint": null
   },
   "q_vocab_b1_10_003": {
-    "question": "War does 'estoy de acuerdo' bedeuten?",
-    "correct": "I agree",
+    "question": "Was bedeutet 'estoy de acuerdo'?",
+    "correct": "Ich stimme zu",
     "wrong": [
-      "I remember",
-      "I am right",
-      "I accord"
+      "Ich erinnere mich",
+      "Ich habe recht",
+      "Ich akkordiere"
     ],
-    "explanation": "'Estoy de acuerdo' bedeutet 'I agree'. Der/die/das opposite ist 'estoy en desacuerdo' oder 'no estoy de acuerdo' (I disagree)."
+    "explanation": "'Estoy de acuerdo' bedeutet 'Ich stimme zu' bzw. 'Ich bin einverstanden'. Das Gegenteil ist 'estoy en desacuerdo' oder 'no estoy de acuerdo' (Ich stimme nicht zu).",
+    "hint": null
   },
   "q_vocab_b1_10_004": {
     "question": "War does 'además' bedeuten?",
@@ -959,35 +1008,38 @@
     "explanation": "'Además' bedeutet 'furthermore', 'moreover', oder 'besides'. Es's used zu add information zu an argument."
   },
   "q_vocab_b1_10_005": {
-    "question": "In conclusion, education ist der/die/das key zu progress.",
+    "question": "Zusammenfassend lässt sich sagen: Bildung ist der Schlüssel zum Fortschritt.",
     "correct": "En conclusión, la educación es la clave del progreso.",
     "wrong": [
       "Sin embargo, la educación es la clave del progreso.",
       "Por un lado, la educación es la clave del progreso.",
       "A pesar de, la educación es la clave del progreso."
     ],
-    "explanation": "'En conclusión' bedeutet 'in conclusion'. Es's used zu summarize der/die/das main point von an argument oder essay."
+    "explanation": "'En conclusión' bedeutet 'zusammenfassend' bzw. 'abschließend'. Es wird verwendet, um den Kernpunkt einer Argumentation oder eines Aufsatzes zusammenzufassen.",
+    "hint": null
   },
   "q_vocab_b1_10_006": {
-    "question": "War does 'a pesar de' bedeuten?",
-    "correct": "despite / in spite of",
+    "question": "Was bedeutet 'a pesar de'?",
+    "correct": "trotz / ungeachtet",
     "wrong": [
-      "because of",
-      "apart from",
-      "according to"
+      "wegen",
+      "abgesehen von",
+      "laut / gemäß"
     ],
-    "explanation": "'A pesar de' bedeutet 'despite' oder 'in spite von'. 'A pesar de la lluvia, salimos' bedeutet 'Despite der/die/das rain, we went out'."
+    "explanation": "'A pesar de' bedeutet 'trotz' oder 'ungeachtet'. 'A pesar de la lluvia, salimos' bedeutet 'Trotz des Regens sind wir ausgegangen'.",
+    "hint": null
   },
   "q_vocab_b1_10_007": {
-    "question": "Du sind in a debate und want zu Präsens two sides von an argument. Welche expression do du use?",
+    "question": "Du bist in einer Debatte und möchtest zwei Seiten eines Arguments darstellen. Welchen Ausdruck verwendest du?",
     "correct": "por un lado... por otro lado...",
     "wrong": [
       "sin embargo... además...",
       "en conclusión... por lo tanto...",
       "aunque... a pesar de..."
     ],
-    "explanation": "'Por un lado... por otro lado...' bedeutet 'on one hand... on der/die/das other hand...' Es's used zu Präsens contrasting viewpoints.",
-    "context": "A classroom debate about whether social media is beneficial for society"
+    "explanation": "„Por un lado... por otro lado...“ bedeutet „einerseits... andererseits...“. Der Ausdruck wird verwendet, um gegensätzliche Standpunkte darzustellen.",
+    "context": "A classroom debate about whether social media is beneficial for society",
+    "hint": null
   },
   "q_vocab_b1_10_008": {
     "question": "War does 'por lo tanto' bedeuten?",
@@ -1031,14 +1083,15 @@
     "explanation": "'Tratamiento' bedeutet 'treatment'. 'Seguir un tratamiento' bedeutet 'zu follow a treatment' prescribed von a doctor."
   },
   "q_vocab_b1_11_002": {
-    "question": "War does 'diagnóstico' bedeuten?",
-    "correct": "diagnosis",
+    "question": "Was bedeutet „diagnóstico“?",
+    "correct": "Diagnose",
     "wrong": [
-      "diagnostic test",
-      "prognosis",
-      "prescription"
+      "Diagnosetest",
+      "Prognose",
+      "Rezept"
     ],
-    "explanation": "'Diagnóstico' bedeutet 'diagnosis'. Der/die/das doctor gives a 'diagnóstico' nach examining der/die/das patient."
+    "explanation": "„Diagnóstico“ bedeutet „Diagnose“. Der Arzt stellt nach der Untersuchung des Patienten ein „diagnóstico“.",
+    "hint": null
   },
   "q_vocab_b1_11_003": {
     "question": "El médico me mandó un ___ para comprobar mis niveles de colesterol.",
@@ -1048,7 +1101,8 @@
       "diagnóstico",
       "operación"
     ],
-    "explanation": "'Análisis de sangre' bedeutet 'blood test'. Der/die/das Satz bedeutet 'Der/die/das doctor ordered a blood test zu check my cholesterol levels.'"
+    "explanation": "„Análisis de sangre“ bedeutet „Blutuntersuchung“. Der Satz bedeutet: „Der Arzt hat mir eine Blutuntersuchung verordnet, um meine Cholesterinwerte zu überprüfen.“",
+    "hint": null
   },
   "q_vocab_b1_11_004": {
     "question": "War does 'vacuna' bedeuten?",
@@ -1071,14 +1125,15 @@
     "explanation": "'Crónico' bedeutet 'chronic', referring zu a condition das persists over a long Zeit. 'Enfermedad crónica' bedeutet 'chronic illness'."
   },
   "q_vocab_b1_11_006": {
-    "question": "Der/die/das patient ist recovering nach der/die/das surgery.",
+    "question": "Der Patient erholt sich nach der Operation.",
     "correct": "El paciente se está recuperando después de la cirugía.",
     "wrong": [
       "El paciente se está operando después de la cirugía.",
       "El paciente se está diagnosticando después de la cirugía.",
       "El paciente se está vacunando después de la cirugía."
     ],
-    "explanation": "'Recuperarse' bedeutet 'zu recover'. 'Cirugía' (oder 'operación') bedeutet 'surgery'. Recovery follows an operation."
+    "explanation": "„Recuperarse“ bedeutet „sich erholen“. „Cirugía“ (oder „operación“) bedeutet „Operation“. Die Erholung folgt auf eine Operation.",
+    "hint": null
   },
   "q_vocab_b1_11_007": {
     "question": "War does 'síntoma' bedeuten?",
@@ -1112,15 +1167,16 @@
     "context": "Experiencing recurring skin rashes and sneezing for several weeks"
   },
   "q_vocab_b1_11_010": {
-    "question": "Dein doctor says du need ongoing care für a condition das won't fully go away. Wie does der/die/das doctor describe es?",
+    "question": "Dein Arzt sagt, dass du wegen eines Leidens, das nicht vollständig verschwindet, dauerhaft behandelt werden musst. Wie beschreibt der Arzt es?",
     "correct": "Es una enfermedad crónica que requiere tratamiento continuo.",
     "wrong": [
       "Es una urgencia que requiere una operación inmediata.",
       "Es una alergia que requiere una vacuna nueva.",
       "Es un síntoma que requiere un análisis de sangre."
     ],
-    "explanation": "'Enfermedad crónica' bedeutet 'chronic illness'. 'Tratamiento continuo' bedeutet 'ongoing treatment'. Chronic conditions require long-term management.",
-    "context": "A follow-up appointment where your doctor explains a long-term health condition"
+    "explanation": "„Enfermedad crónica“ bedeutet „chronische Krankheit“. „Tratamiento continuo“ bedeutet „Dauerbehandlung“. Chronische Erkrankungen erfordern eine langfristige Betreuung.",
+    "context": "A follow-up appointment where your doctor explains a long-term health condition",
+    "hint": null
   },
   "q_vocab_b1_12_001": {
     "question": "Was bedeutet 'receta' beim Kochen?",
@@ -1141,37 +1197,41 @@
       "hervir",
       "mezclar"
     ],
-    "explanation": "'Pelar' bedeutet 'zu peel'. Der/die/das Satz bedeutet 'First du haben zu peel der/die/das potatoes vor frying them.'"
+    "explanation": "„Pelar“ bedeutet „schälen“. Der Satz bedeutet: „Zuerst muss man die Kartoffeln schälen, bevor man sie frittiert.“",
+    "hint": null
   },
   "q_vocab_b1_12_003": {
-    "question": "War does 'hervir' bedeuten?",
-    "correct": "to boil",
+    "question": "Was bedeutet „hervir“?",
+    "correct": "kochen (sieden)",
     "wrong": [
-      "to fry",
-      "to bake",
-      "to grill"
+      "braten",
+      "backen",
+      "grillen"
     ],
-    "explanation": "'Hervir' bedeutet 'zu boil'. 'Hervir el agua' bedeutet 'zu boil der/die/das water'. Es's one von der/die/das die meisten basic cooking techniques."
+    "explanation": "„Hervir“ bedeutet „kochen, sieden“. „Hervir el agua“ bedeutet „das Wasser kochen“. Es ist eine der grundlegendsten Kochtechniken.",
+    "hint": null
   },
   "q_vocab_b1_12_004": {
-    "question": "War does 'sartén' bedeuten?",
-    "correct": "frying pan",
+    "question": "Was bedeutet „sartén“?",
+    "correct": "Bratpfanne",
     "wrong": [
-      "pot",
-      "oven",
-      "blender"
+      "Topf",
+      "Backofen",
+      "Mixer"
     ],
-    "explanation": "'Sartén' bedeutet 'frying pan'. 'Freír en la sartén' bedeutet 'zu fry in der/die/das pan'. Es kann sein weiblich oder männlich depending on der/die/das region."
+    "explanation": "„Sartén“ bedeutet „Bratpfanne“. „Freír en la sartén“ bedeutet „in der Pfanne braten“. Je nach Region kann das Wort weiblich oder männlich sein.",
+    "hint": null
   },
   "q_vocab_b1_12_005": {
-    "question": "I need zu chop der/die/das onions für der/die/das sauce.",
+    "question": "Ich muss die Zwiebeln für die Soße hacken.",
     "correct": "Necesito picar las cebollas para la salsa.",
     "wrong": [
       "Necesito pelar las cebollas para la salsa.",
       "Necesito hervir las cebollas para la salsa.",
       "Necesito hornear las cebollas para la salsa."
     ],
-    "explanation": "'Picar' bedeutet 'zu chop' oder 'zu mince'. 'Cebolla' bedeutet 'onion'. Chopping ist different von peeling ('pelar')."
+    "explanation": "„Picar“ bedeutet „hacken“ oder „klein schneiden“. „Cebolla“ bedeutet „Zwiebel“. Hacken ist etwas anderes als Schälen („pelar“).",
+    "hint": null
   },
   "q_vocab_b1_12_006": {
     "question": "War does 'hornear' bedeuten?",
@@ -1184,15 +1244,16 @@
     "explanation": "'Hornear' bedeutet 'zu bake' (in an oven). Es comes von 'horno' (oven). 'Hornear un Vergangenheitel' bedeutet 'zu bake a cake'."
   },
   "q_vocab_b1_12_007": {
-    "question": "Du're making a stew und need zu cook es gently für a long Zeit. War instruction do du follow?",
+    "question": "Du machst einen Eintopf und musst ihn lange und schonend garen. Welcher Anweisung folgst du?",
     "correct": "cocinar a fuego lento",
     "wrong": [
       "freír a fuego alto",
       "hornear a fuego rápido",
       "hervir a fuego máximo"
     ],
-    "explanation": "'A fuego lento' bedeutet 'on low heat' oder 'zu simmer'. Stews sind typically cooked slowly on low heat für der/die/das best flavor.",
-    "context": "Following a traditional Spanish stew recipe in the kitchen"
+    "explanation": "„A fuego lento“ bedeutet „bei niedriger Hitze“ oder „köcheln lassen“. Eintöpfe werden in der Regel langsam bei niedriger Hitze gegart, damit sie den besten Geschmack bekommen.",
+    "context": "Following a traditional Spanish stew recipe in the kitchen",
+    "hint": null
   },
   "q_vocab_b1_12_008": {
     "question": "War does 'añadir' bedeuten in a recipe?",
@@ -1215,15 +1276,16 @@
     "explanation": "'Mezclar' bedeutet 'zu mix'. 'Olla' bedeutet 'pot'. 'Horno' bedeutet 'oven'. Das ist ein häufig cooking instruction."
   },
   "q_vocab_b1_12_010": {
-    "question": "Du want zu make grilled chicken für dinner. Welche cooking method do du use?",
+    "question": "Du möchtest zum Abendessen gegrilltes Hähnchen machen. Welche Garmethode wendest du an?",
     "correct": "asar el pollo",
     "wrong": [
       "hervir el pollo",
       "pelar el pollo",
       "picar el pollo"
     ],
-    "explanation": "'Asar' bedeutet 'zu roast' oder 'zu grill'. 'Asar el pollo' bedeutet 'zu roast/grill der/die/das chicken'. Es gives meat a crispy exterior.",
-    "context": "Preparing a Sunday family dinner with a barbecue"
+    "explanation": "„Asar“ bedeutet „braten“ oder „grillen“. „Asar el pollo“ bedeutet „das Hähnchen braten/grillen“. Dadurch bekommt das Fleisch eine knusprige Außenseite.",
+    "context": "Preparing a Sunday family dinner with a barbecue",
+    "hint": null
   },
   "q_vocab_b1_13_001": {
     "question": "War does 'alquilar' bedeuten?",
@@ -1253,47 +1315,52 @@
       "reformamos",
       "compramos"
     ],
-    "explanation": "'Mudarse' bedeutet 'zu move (house)'. Der/die/das Satz bedeutet 'We sind moving zu a quieter neighborhood next month.'"
+    "explanation": "„Mudarse“ bedeutet „umziehen“. Der Satz bedeutet: „Wir ziehen nächsten Monat in ein ruhigeres Viertel um.“",
+    "hint": null
   },
   "q_vocab_b1_13_004": {
-    "question": "War does 'propietario' bedeuten?",
-    "correct": "owner / landlord",
+    "question": "Was bedeutet „propietario“?",
+    "correct": "Eigentümer / Vermieter",
     "wrong": [
-      "tenant",
-      "real estate agent",
-      "neighbor"
+      "Mieter",
+      "Immobilienmakler",
+      "Nachbar"
     ],
-    "explanation": "'Propietario' bedeutet 'owner' oder 'landlord'. Der/die/das Person wer owns a property. Der/die/das tenant ist 'inquilino'."
+    "explanation": "„Propietario“ bedeutet „Eigentümer“ oder „Vermieter“. Es ist die Person, der eine Immobilie gehört. Der Mieter heißt „inquilino“.",
+    "hint": null
   },
   "q_vocab_b1_13_005": {
-    "question": "War does 'inquilino' bedeuten?",
-    "correct": "tenant",
+    "question": "Was bedeutet „inquilino“?",
+    "correct": "Mieter",
     "wrong": [
-      "landlord",
-      "neighbor",
-      "architect"
+      "Vermieter",
+      "Nachbar",
+      "Architekt"
     ],
-    "explanation": "'Inquilino' bedeutet 'tenant', der/die/das Person wer rents und lives in a property owned von someone else."
+    "explanation": "„Inquilino“ bedeutet „Mieter“, also die Person, die eine Immobilie mietet und darin wohnt, die jemand anderem gehört.",
+    "hint": null
   },
   "q_vocab_b1_13_006": {
-    "question": "We need zu renovate der/die/das kitchen vor selling der/die/das house.",
+    "question": "Wir müssen die Küche renovieren, bevor wir das Haus verkaufen.",
     "correct": "Necesitamos reformar la cocina antes de vender la casa.",
     "wrong": [
       "Necesitamos alquilar la cocina antes de vender la casa.",
       "Necesitamos mudarnos de la cocina antes de vender la casa.",
       "Necesitamos comprar la cocina antes de vender la casa."
     ],
-    "explanation": "'Reformar' bedeutet 'zu renovate' oder 'zu remodel'. Renovating vor selling kann increase property value."
+    "explanation": "„Reformar“ bedeutet „renovieren“ oder „umbauen“. Eine Renovierung vor dem Verkauf kann den Wert der Immobilie steigern.",
+    "hint": null
   },
   "q_vocab_b1_13_007": {
-    "question": "War does 'gastos' refer zu in der/die/das context von renting?",
-    "correct": "expenses / utility costs",
+    "question": "Was bedeutet „gastos“ im Zusammenhang mit dem Mieten?",
+    "correct": "Nebenkosten / Ausgaben",
     "wrong": [
-      "gas supply",
-      "garage",
-      "garden maintenance"
+      "Gasversorgung",
+      "Garage",
+      "Gartenpflege"
     ],
-    "explanation": "'Gastos' bedeutet 'expenses'. In renting, es bezieht sich auf utility costs like water, electricity, und community fees."
+    "explanation": "„Gastos“ bedeutet „Ausgaben“. Beim Mieten sind damit Nebenkosten wie Wasser, Strom und Gemeinschaftsgebühren gemeint.",
+    "hint": null
   },
   "q_vocab_b1_13_008": {
     "question": "El piso está en las afueras de la ciudad, pero tiene buen transporte.",
@@ -1346,7 +1413,8 @@
       "solidarios",
       "discriminados"
     ],
-    "explanation": "'Refugiados' bedeutet 'refugees'. Der/die/das Satz bedeutet 'Viele refugees hatte zu leave ihr country weil von der/die/das war.'"
+    "explanation": "„Refugiados“ bedeutet „Flüchtlinge“. Der Satz bedeutet: „Viele Flüchtlinge mussten wegen des Krieges ihr Land verlassen.“",
+    "hint": null
   },
   "q_vocab_b1_14_003": {
     "question": "War does 'desigualdad' bedeuten?",
@@ -1369,14 +1437,15 @@
     "explanation": "'Discriminación' bedeutet 'discrimination'. 'Luchar contra la discriminación' bedeutet 'zu fight against discrimination'."
   },
   "q_vocab_b1_14_005": {
-    "question": "Der/die/das NGO helps immigrants integrate into society.",
+    "question": "Die NGO hilft Einwanderern, sich in die Gesellschaft zu integrieren.",
     "correct": "La ONG ayuda a los inmigrantes a integrarse en la sociedad.",
     "wrong": [
       "La ONG ayuda a los voluntarios a integrarse en la sociedad.",
       "La ONG ayuda a los inmigrantes a discriminarse en la sociedad.",
       "La ONG ayuda a los refugiados a excluirse de la sociedad."
     ],
-    "explanation": "'ONG' bedeutet 'NGO' (non-governmental organization). 'Integrarse' bedeutet 'zu integrate'. NGOs oft help mit immigrant integration."
+    "explanation": "„ONG“ bedeutet „NGO“ (Nichtregierungsorganisation). „Integrarse“ bedeutet „sich integrieren“. NGOs helfen häufig bei der Integration von Einwanderern.",
+    "hint": null
   },
   "q_vocab_b1_14_006": {
     "question": "War does 'voluntariado' bedeuten?",
@@ -1420,14 +1489,15 @@
     "explanation": "'Violencia de género' bedeutet 'gender-based violence'. Es's a widely discussed social issue in Spain und Latin America."
   },
   "q_vocab_b1_14_010": {
-    "question": "Du want zu help refugees in dein city. War kann du do?",
+    "question": "Du möchtest Flüchtlingen in deiner Stadt helfen. Was kannst du tun?",
     "correct": "Colaborar con una ONG que apoya a refugiados.",
     "wrong": [
       "Discriminar a los refugiados de la ciudad.",
       "Excluir a los refugiados de la sociedad.",
       "Ignorar la inmigración en la ciudad."
     ],
-    "explanation": "'Colaborar' bedeutet 'zu collaborate' oder 'zu help'. Working mit NGOs ist one von der/die/das best ways zu support refugees.",
-    "context": "Looking for ways to contribute to your local refugee support network"
+    "explanation": "„Colaborar“ bedeutet „zusammenarbeiten“ oder „mithelfen“. Die Zusammenarbeit mit NGOs ist eine der besten Möglichkeiten, Flüchtlinge zu unterstützen.",
+    "context": "Looking for ways to contribute to your local refugee support network",
+    "hint": null
   }
 }

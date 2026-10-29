@@ -290,14 +290,15 @@
     "hint": "這 是 a mixed 條件式 與 a past 條件"
   },
   "q_gram_b2_03_008": {
-    "question": "If we had arrived earlier, we 將 有 gotten better seats.",
+    "question": "如果我們早點到,就能拿到更好的座位了。",
     "correct": "Si hubiéramos llegado antes, habríamos conseguido mejores asientos.",
     "wrong": [
       "Si llegáramos antes, conseguiríamos mejores asientos.",
       "Si habíamos llegado antes, habríamos conseguido mejores asientos.",
       "Si hubiéramos llegado antes, conseguimos mejores asientos."
     ],
-    "explanation": "這 是 a Type 3 條件式: 'si hubiéramos llegado' (pluperfect 虛擬式) + 'habríamos conseguido' (條件式 perfect). 它 describes an unreal past scenario."
+    "explanation": "這是第三類條件句:「si hubiéramos llegado」(過去完成虛擬式)+「habríamos conseguido」(條件完成式),用來描述與過去事實相反的情境。",
+    "hint": null
   },
   "q_gram_b2_03_009": {
     "question": "Vosotros ___ la respuesta si hubierais leído el capítulo. (saber, 條件式 perfect, vosotros form)",
@@ -343,15 +344,15 @@
     "hint": "'En tu lugar' introduces a hypothetical situation"
   },
   "q_gram_b2_04_003": {
-    "question": "Nosotros ___ la noticia, pero nadie nos llamó. (creer, 條件式 perfect)",
+    "question": "Nosotros ___ la noticia, pero nadie nos llamó. (creer,條件完成式)",
     "correct": "habríamos creído",
     "wrong": [
       "hubiéramos creído",
       "habíamos creído",
       "creeríamos"
     ],
-    "explanation": " 條件式 perfect (habríamos creído) 表示 something 那 將 有 happened if circumstances had been 不同. Creer's 過去分詞 是 creído.",
-    "hint": " 條件式 perfect expresses an unrealized past action"
+    "explanation": "條件完成式(habríamos creído)表示如果情況不同,本來會發生的事。Creer 的過去分詞是 creído。",
+    "hint": "條件完成式表示過去未實現的行為"
   },
   "q_gram_b2_04_004": {
     "question": "什麼時候 是 條件式 perfect (habría + 過去分詞) used 在西班牙語中?",
@@ -493,15 +494,15 @@
     "conjugation_info": "salir (future perfect): habré salido, habrás salido, habrá salido, habremos salido, habréis salido, habrán salido"
   },
   "q_gram_b2_05_007": {
-    "question": "Para finales de año, la empresa ___ más de mil empleados. (contratar, future perfect)",
+    "question": "Para finales de año, la empresa ___ más de mil empleados. (contratar,未來完成式)",
     "correct": "habrá contratado",
     "wrong": [
       "habría contratado",
       "había contratado",
       "contratará"
     ],
-    "explanation": " future perfect 是 用過的 用來表達 什麼 will 有 been completed 由 a future point. 'Para finales de año' sets future deadline.",
-    "hint": "'Para finales de año' signals a future deadline"
+    "explanation": "未來完成式用來表示到未來某個時間點之前將已完成的事。「Para finales de año」設定了未來的期限。",
+    "hint": "「Para finales de año」暗示未來的期限"
   },
   "q_gram_b2_05_008": {
     "question": "由 時間 你 arrive, I will 有 already prepared dinner.",
@@ -1393,15 +1394,16 @@
     "explanation": "'Sean' 和 'tengan' 是 現在虛擬式 因爲 employees 有 not yet been found (hypothetical antecedent). 在 英語, 陳述式 是 用過的 在 translation 由於 英語 做 not distinguish 這 心情 在 relative clauses."
   },
   "q_gram_b2_14_001": {
-    "question": "Él habla como si ___ nativo. (ser, past 虛擬式, él form)",
+    "question": "Él habla como si ___ nativo. (ser,過去式虛擬式,él 變位)",
     "correct": "fuera",
     "wrong": [
       "es",
       "sería",
       "fue"
     ],
-    "explanation": "'Como si' (as if) 是 總是 後跟 past 虛擬式 (或 pluperfect 虛擬式) 在 西班牙語. 由於 'ser' shares its past 虛擬式 與 'ir', 形式 是 fuera.",
-    "conjugation_info": "ser (past subjunctive): fuera, fueras, fuera, fuéramos, fuerais, fueran"
+    "explanation": "西班牙語中,「como si」(彷彿)後面一律接過去式虛擬式(或過去完成虛擬式)。由於 ser 的過去式虛擬式與 ir 相同,所以形式是 fuera。",
+    "conjugation_info": "ser (past subjunctive): fuera, fueras, fuera, fuéramos, fuerais, fueran",
+    "hint": null
   },
   "q_gram_b2_14_002": {
     "question": "Ella gasta dinero como si ___ millonaria. (ser, past 虛擬式)",

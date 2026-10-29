@@ -731,15 +731,16 @@
     "explanation": "Ser + de = 起源/哪里 someone 是 来自.\n- Ella es de México = She 是 来自 Mexico (起源, 永久).\n- Ella está en México = She 是 在 Mexico (位置, possibly 临时)."
   },
   "q_gram_a1_07_009": {
-    "question": "La manzana ___ verde. ( apple 是 green — 它 是 not ripe yet.)",
+    "question": "La manzana ___ verde. (苹果是绿的——还没有成熟。)",
     "correct": "está",
     "wrong": [
       "es",
       "son",
       "están"
     ],
-    "explanation": "与 colors, estar 意思是 a 临时/可变 状态 (unripe → will ripen).\n- La manzana está verde = apple 是 green (not 成熟, 临时).\n- La manzana es verde = apple 是 green (由 nature, its variety).",
-    "conjugation_info": "Ser verde = green by nature. Estar verde = unripe/not 准备好."
+    "explanation": "表示颜色时,estar 表示暂时的、可变化的状态(未成熟 → 之后会成熟)。\n- La manzana está verde = 这个苹果是青的(没熟,暂时的状态)。\n- La manzana es verde = 这个苹果是绿色的(本身品种就是绿色)。",
+    "conjugation_info": "Ser verde = green by nature. Estar verde = unripe/not 准备好.",
+    "hint": null
   },
   "q_gram_a1_07_010": {
     "question": "书在桌子上。",
@@ -947,14 +948,14 @@
     "explanation": "对于-ar动词, ella 形式 结尾 -a.\n- estudiar → estudi + a = estudia\n- 所有 -ar 动词 遵循相同的模式: -o, -as, -a, -amos, -áis, -an."
   },
   "q_gram_a1_09_009": {
-    "question": "Vosotros ___ muy bien. (动词变位:cantar)",
+    "question": "Vosotros ___ muy bien. (请变位动词 cantar)",
     "correct": "cantáis",
     "wrong": [
       "cantamos",
       "cantan",
       "cantas"
     ],
-    "explanation": "对于以 -ar 结尾的动词,vosotros 的变位词尾是 -áis。\n- cantar → cant + áis = cantáis\n这种形式主要在西班牙使用。",
+    "explanation": "以 -ar 结尾的动词,vosotros 的变位以 -áis 结尾。\n- cantar → cant + áis = cantáis\n这种形式主要在西班牙使用。",
     "conjugation_info": "cantar - present: canto, cantas, canta, cantamos, cantáis, cantan",
     "hint": null
   },
@@ -1152,14 +1153,15 @@
     "hint": "Expressing '那里 是' 与 quantities uses hay"
   },
   "q_gram_a1_11_008": {
-    "question": " supermarket 是 next 到 school.",
+    "question": "超市在学校旁边。",
     "correct": "El supermercado está al lado de la escuela.",
     "wrong": [
       "Hay un supermercado al lado de la escuela.",
       "El supermercado es al lado de la escuela.",
       "El supermercado hay al lado de la escuela."
     ],
-    "explanation": "We 是 talking about a specific supermarket (el supermercado), so we 使用 estar 为 its 位置.\n- estar + al lado de = 到 是 next 到\nHay 将 是 用过的 if we said '那里 是 a supermarket...' (existence)."
+    "explanation": "这里说的是某一个特定的超市(el supermercado),所以表示位置要用 estar。\n- estar + al lado de = 在……旁边\n如果要说“有一家超市……”(表示存在),才会用 hay。",
+    "hint": null
   },
   "q_gram_a1_11_009": {
     "question": "No ___ nadie en la oficina. (fill 在 form 的 'haber' 含义 '有')",
@@ -1216,14 +1218,15 @@
     "hint": " possessive '你的' 有 no 重音 mark"
   },
   "q_gram_a1_12_004": {
-    "question": "什么 does 'su' 表示 在 'su casa'?",
-    "correct": "his/her/your (formal)/their",
+    "question": "“su casa”中的“su”是什么意思?",
+    "correct": "他的/她的/您的/他们的",
     "wrong": [
-      "only 'his'",
-      "only 'her'",
-      "my"
+      "只表示“他的”",
+      "只表示“她的”",
+      "我的"
     ],
-    "explanation": "'su' 是 ambiguous — 它 可以 意思 his, her, 你的 (正式), 或 their.\n- su casa = his/her/你的/their house\n到 clarify: la casa de él (his), la casa de ella (her)."
+    "explanation": "“su”有歧义——可以表示他的、她的、您的(敬称)或他们的。\n- su casa = 他的/她的/您的/他们的房子\n为了表达清楚,可以说:la casa de él(他的)、la casa de ella(她的)。",
+    "hint": null
   },
   "q_gram_a1_12_005": {
     "question": "___ casa es bonita. (our house — select 正确 form)",
@@ -1591,15 +1594,16 @@
     "explanation": "'Quién' asks about 人们 (谁).\n- ¿Quién es ella? = 谁 是 she?\n- ¿Quiénes son ellos? = 谁 是 他们? (复数)"
   },
   "q_gram_a1_15_009": {
-    "question": "¿___ cuesta esto? (How much does this cost?) (select 正确 form 的 cuánto)",
+    "question": "¿___ cuesta esto? (这个多少钱?)(请选择 cuánto 的正确形式)",
     "correct": "Cuánto",
     "wrong": [
       "Cuántos",
       "Cuántas",
       "Cuánta"
     ],
-    "explanation": "'Cuánto' (男性 单数) 是 用过的 什么时候 asking about price 或 uncountable amounts.\n- ¿Cuánto cuesta? = 如何 much 做 它 cost?\n- ¿Cuánto tiempo? = 如何 much 时间?",
-    "conjugation_info": "¿Cuánto cuesta? (price), ¿Cuántos libros? (countable m.), ¿Cuántas personas? (countable f.)"
+    "explanation": "询问价格或不可数的数量时,使用“Cuánto”(阳性单数)。\n- ¿Cuánto cuesta? = 这个多少钱?\n- ¿Cuánto tiempo? = 多长时间?",
+    "conjugation_info": "¿Cuánto cuesta? (price), ¿Cuántos libros? (countable m.), ¿Cuántas personas? (countable f.)",
+    "hint": null
   },
   "q_gram_a1_15_010": {
     "question": "洗手间在哪里?",

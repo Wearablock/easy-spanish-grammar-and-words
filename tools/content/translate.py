@@ -50,7 +50,21 @@ EN_MORE = set("if would been have has had when where who this that was were will
 SLASH = re.compile(r"\b(il/la|der/die/das|é/está|es/está)\b", re.I)   # word-by-word machine translation leaves these
 
 
-def english_mixed(q):
+# words that are English and never Spanish — for CJK · Hangul · Thai · Arabic · Cyrillic locales
+EN_ONLY = set("the of and is are this that what which between difference used uses express expresses meaning describes "
+              "describe tense sentence word words when how why with without about".split())
+STRONG_EN = set("the what which does would should could hadn't isn't doesn't been were when where".split())
+
+
+def english_mixed(q, locale=None):
+    for field in ("question", "explanation", "hint"):
+        raw0 = q.get(field) or ""
+        outside = re.sub(r"['‘’\"«»「」“”][^'‘’\"«»「」“”]*['‘’\"«»「」“”]", " ", raw0)
+        words = re.findall(r"[A-Za-z']+", outside.lower())
+        if any(w in STRONG_EN for w in words):
+            return True
+        if locale in SCRIPT and len([w for w in words if w in EN_ONLY]) >= 2:
+            return True
     for field in ("question", "explanation", "hint"):
         raw = q.get(field) or ""
         if SLASH.search(raw):
@@ -74,7 +88,7 @@ def plan():
         ids = {(lv, qid) for lv, qid, _ in queue.get(l, [])}
         for lv in M.LEVELS:
             for qid, q in M.load(os.path.join(M.Q, l, f"{lv}.json")).items():
-                if english_mixed(q) or wrong_script(l, q):
+                if english_mixed(q, l) or wrong_script(l, q):
                     ids.add((lv, qid))
         if ids:
             jobs[l] = sorted(ids)

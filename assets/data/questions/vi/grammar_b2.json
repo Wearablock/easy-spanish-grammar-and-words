@@ -290,14 +290,15 @@
     "hint": "Đây là a mixed thức điều kiện với a past condition"
   },
   "q_gram_b2_03_008": {
-    "question": "If we had arrived earlier, we sẽ có gotten better seats.",
+    "question": "Nếu chúng tôi đến sớm hơn, chúng tôi đã có được chỗ ngồi tốt hơn.",
     "correct": "Si hubiéramos llegado antes, habríamos conseguido mejores asientos.",
     "wrong": [
       "Si llegáramos antes, conseguiríamos mejores asientos.",
       "Si habíamos llegado antes, habríamos conseguido mejores asientos.",
       "Si hubiéramos llegado antes, conseguimos mejores asientos."
     ],
-    "explanation": "Đây là a Type 3 thức điều kiện: 'si hubiéramos llegado' (pluperfect thức giả định) + 'habríamos conseguido' (thức điều kiện perfect). nó describes an unreal past scenario."
+    "explanation": "Đây là câu điều kiện loại 3: 'si hubiéramos llegado' (quá khứ hoàn thành giả định) + 'habríamos conseguido' (điều kiện hoàn thành). Câu diễn tả một tình huống không có thật trong quá khứ.",
+    "hint": null
   },
   "q_gram_b2_03_009": {
     "question": "Vosotros ___ la respuesta si hubierais leído el capítulo. (saber, thức điều kiện perfect, vosotros form)",
@@ -343,15 +344,15 @@
     "hint": "'En tu lugar' introduces a hypothetical situation"
   },
   "q_gram_b2_04_003": {
-    "question": "Nosotros ___ la noticia, pero nadie nos llamó. (creer, thức điều kiện perfect)",
+    "question": "Nosotros ___ la noticia, pero nadie nos llamó. (creer, điều kiện hoàn thành)",
     "correct": "habríamos creído",
     "wrong": [
       "hubiéramos creído",
       "habíamos creído",
       "creeríamos"
     ],
-    "explanation": " thức điều kiện perfect (habríamos creído) indicates something mà sẽ có happened if circumstances had been different. Creer's phân từ quá khứ là creído.",
-    "hint": " thức điều kiện perfect expresses an unrealized past action"
+    "explanation": "Điều kiện hoàn thành (habríamos creído) chỉ điều lẽ ra đã xảy ra nếu hoàn cảnh khác đi. Quá khứ phân từ của creer là creído.",
+    "hint": "Điều kiện hoàn thành diễn tả một hành động trong quá khứ đã không xảy ra"
   },
   "q_gram_b2_04_004": {
     "question": "khi nào là thức điều kiện perfect (habría + phân từ quá khứ) used trong tiếng Tây Ban Nha?",
@@ -493,15 +494,15 @@
     "conjugation_info": "salir (future perfect): habré salido, habrás salido, habrá salido, habremos salido, habréis salido, habrán salido"
   },
   "q_gram_b2_05_007": {
-    "question": "Para finales de año, la empresa ___ más de mil empleados. (contratar, future perfect)",
+    "question": "Para finales de año, la empresa ___ más de mil empleados. (contratar, tương lai hoàn thành)",
     "correct": "habrá contratado",
     "wrong": [
       "habría contratado",
       "había contratado",
       "contratará"
     ],
-    "explanation": " future perfect được sử dụng để express gì will có been completed bởi a future point. 'Para finales de año' sets future deadline.",
-    "hint": "'Para finales de año' signals a future deadline"
+    "explanation": "Tương lai hoàn thành được dùng để diễn tả điều sẽ hoàn tất trước một thời điểm trong tương lai. 'Para finales de año' đặt ra thời hạn trong tương lai.",
+    "hint": "'Para finales de año' báo hiệu một thời hạn trong tương lai"
   },
   "q_gram_b2_05_008": {
     "question": "bởi thời gian bạn arrive, I will có already prepared dinner.",
@@ -1328,15 +1329,15 @@
     "conjugation_info": "saber (present subjunctive): sepa, sepas, sepa, sepamos, sepáis, sepan"
   },
   "q_gram_b2_13_005": {
-    "question": "¿Conoces a alguien que ___ tocar el violín? (saber, thức giả định hiện tại)",
+    "question": "¿Conoces a alguien que ___ tocar el violín? (saber, hiện tại giả định)",
     "correct": "sepa",
     "wrong": [
       "sabe",
       "sabría",
       "supiera"
     ],
-    "explanation": "trong a question about whether such a người exists, thức giả định được sử dụng vì speaker does not know if anyone fits description. 'Sepa' là thức giả định hiện tại.",
-    "hint": " speaker là uncertain whether such a người exists"
+    "explanation": "Trong câu hỏi xem có người như vậy hay không, ta dùng thức giả định vì người nói không biết có ai phù hợp với mô tả hay không. 'Sepa' là hiện tại giả định.",
+    "hint": "Người nói không chắc có người như vậy tồn tại hay không"
   },
   "q_gram_b2_13_006": {
     "question": "La empresa quiere contratar a alguien que ___ experiencia en inteligencia artificial. (tener, thức giả định hiện tại, 3rd người số ít)",
@@ -1383,24 +1384,26 @@
   },
   "q_gram_b2_13_010": {
     "question": "Necesitamos empleados que sean responsables y que tengan iniciativa.",
-    "correct": "We need employees who are responsible and who have initiative.",
+    "correct": "Chúng tôi cần những nhân viên có trách nhiệm và có tinh thần chủ động.",
     "wrong": [
-      "We need employees who would be responsible and who would have initiative.",
-      "We needed employees who were responsible and who had initiative.",
-      "We need employees that are being responsible and having initiative."
+      "Chúng tôi cần những nhân viên sẽ có trách nhiệm và sẽ có tinh thần chủ động.",
+      "Chúng tôi đã cần những nhân viên có trách nhiệm và có tinh thần chủ động.",
+      "Chúng tôi cần những nhân viên đang tỏ ra có trách nhiệm và đang có tinh thần chủ động."
     ],
-    "explanation": "'Sean' và 'tengan' là thức giả định hiện tại vì employees có not yet been found (hypothetical antecedent). trong tiếng Anh, thức trực thuyết được sử dụng trong translation since tiếng Anh does not distinguish này mood trong relative clauses."
+    "explanation": "'Sean' và 'tengan' là hiện tại giả định vì những nhân viên đó vẫn chưa được tìm thấy (tiền ngữ mang tính giả định). Trong tiếng Việt, ta dịch bằng cách nói thông thường vì tiếng Việt không phân biệt thức này trong mệnh đề quan hệ.",
+    "hint": null
   },
   "q_gram_b2_14_001": {
-    "question": "Él habla como si ___ nativo. (ser, past thức giả định, él form)",
+    "question": "Él habla como si ___ nativo. (ser, quá khứ giả định, ngôi él)",
     "correct": "fuera",
     "wrong": [
       "es",
       "sería",
       "fue"
     ],
-    "explanation": "'Como si' (as if) là luôn theo sau bởi past thức giả định (hoặc pluperfect thức giả định) trong tiếng Tây Ban Nha. Since 'ser' shares its past thức giả định với 'ir', form là fuera.",
-    "conjugation_info": "ser (past subjunctive): fuera, fueras, fuera, fuéramos, fuerais, fueran"
+    "explanation": "'Como si' (như thể) luôn được theo sau bởi quá khứ giả định (hoặc quá khứ hoàn thành giả định) trong tiếng Tây Ban Nha. Vì 'ser' có chung dạng quá khứ giả định với 'ir', nên dạng đúng là fuera.",
+    "conjugation_info": "ser (past subjunctive): fuera, fueras, fuera, fuéramos, fuerais, fueran",
+    "hint": null
   },
   "q_gram_b2_14_002": {
     "question": "Ella gasta dinero como si ___ millonaria. (ser, past thức giả định)",

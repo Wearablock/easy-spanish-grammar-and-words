@@ -1,13 +1,14 @@
 {
   "q_vocab_a2_01_001": {
-    "question": "War does 'equipaje' bedeuten?",
-    "correct": "luggage",
+    "question": "Was bedeutet 'equipaje'?",
+    "correct": "Gepäck",
     "wrong": [
-      "ticket",
-      "passport",
-      "flight"
+      "Fahrkarte",
+      "Reisepass",
+      "Flug"
     ],
-    "explanation": "'Equipaje' bezieht sich auf der/die/das bags und suitcases du carry wann traveling."
+    "explanation": "'Equipaje' bezeichnet die Taschen und Koffer, die man auf Reisen mitnimmt.",
+    "hint": null
   },
   "q_vocab_a2_01_002": {
     "question": "War does 'vuelo' bedeuten?",
@@ -27,37 +28,41 @@
       "aterrizar",
       "despegar"
     ],
-    "explanation": "'Facturar' bedeutet 'zu check in' luggage an der/die/das airport. Du check in dein suitcase vor going zu der/die/das gate."
+    "explanation": "'Facturar' bedeutet, Gepäck am Flughafen 'aufzugeben'. Den Koffer gibt man auf, bevor man zum Gate geht.",
+    "hint": null
   },
   "q_vocab_a2_01_004": {
-    "question": "War does 'pasaporte' bedeuten?",
-    "correct": "passport",
+    "question": "Was bedeutet 'pasaporte'?",
+    "correct": "Reisepass",
     "wrong": [
-      "boarding pass",
-      "visa",
-      "ticket"
+      "Bordkarte",
+      "Visum",
+      "Fahrkarte"
     ],
-    "explanation": "'Pasaporte' ist der/die/das official travel document needed zu enter another country."
+    "explanation": "'Pasaporte' ist das offizielle Reisedokument, das man für die Einreise in ein anderes Land braucht.",
+    "hint": null
   },
   "q_vocab_a2_01_005": {
-    "question": "War does 'reserva' bedeuten in der/die/das context von travel?",
-    "correct": "reservation",
+    "question": "Was bedeutet 'reserva' im Zusammenhang mit Reisen?",
+    "correct": "Reservierung",
     "wrong": [
-      "receipt",
-      "refund",
-      "departure"
+      "Quittung",
+      "Rückerstattung",
+      "Abreise"
     ],
-    "explanation": "'Reserva' bedeutet 'reservation' oder 'booking'. Du make a 'reserva' an a hotel oder restaurant."
+    "explanation": "'Reserva' bedeutet 'Reservierung' oder 'Buchung'. Eine 'reserva' macht man in einem Hotel oder Restaurant.",
+    "hint": null
   },
   "q_vocab_a2_01_006": {
-    "question": "I want zu book a hotel room.",
+    "question": "Ich möchte ein Hotelzimmer buchen.",
     "correct": "Quiero reservar una habitación de hotel.",
     "wrong": [
       "Quiero facturar una habitación de hotel.",
       "Quiero embarcar una habitación de hotel.",
       "Quiero viajar una habitación de hotel."
     ],
-    "explanation": "'Reservar' bedeutet 'zu book/reserve'. 'Habitación' ist der/die/das Wort für a hotel room."
+    "explanation": "'Reservar' bedeutet 'buchen/reservieren'. 'Habitación' ist das Wort für ein Hotelzimmer.",
+    "hint": null
   },
   "q_vocab_a2_01_007": {
     "question": "War does 'billete' bedeuten in 'Compré un billete de avión'?",
@@ -80,26 +85,28 @@
     "explanation": "'Turista' bedeutet 'tourist', und 'maleta' bedeutet 'suitcase'. 'Grandes' bedeutet 'large'."
   },
   "q_vocab_a2_01_009": {
-    "question": "Du arrive an der/die/das airport und need zu find wo zu leave dein checked bags. War do du ask für?",
+    "question": "Du kommst am Flughafen an und musst herausfinden, wo du dein aufgegebenes Gepäck abgeben kannst. Wonach fragst du?",
     "correct": "el mostrador de facturación",
     "wrong": [
       "la puerta de embarque",
       "la sala de espera",
       "la oficina de turismo"
     ],
-    "explanation": "'El mostrador de facturación' ist der/die/das check-in counter wo du drop off dein checked luggage.",
-    "context": "At the airport entrance with heavy luggage"
+    "explanation": "'El mostrador de facturación' ist der Check-in-Schalter, an dem du dein aufgegebenes Gepäck abgibst.",
+    "context": "At the airport entrance with heavy luggage",
+    "hint": null
   },
   "q_vocab_a2_01_010": {
-    "question": "Du want zu confirm dein trip details an der/die/das hotel front desk. War do du say?",
+    "question": "Du möchtest an der Hotelrezeption deine Reisedaten bestätigen. Was sagst du?",
     "correct": "Tengo una reserva a nombre de...",
     "wrong": [
       "Quiero facturar mi equipaje.",
       "Necesito un billete de avión.",
       "¿Dónde está la puerta de embarque?"
     ],
-    "explanation": "'Tengo una reserva a nombre de...' bedeutet 'I haben a reservation under der/die/das name von...' Das ist der/die/das standard Phrase wann checking in an a hotel.",
-    "context": "Arriving at a hotel reception"
+    "explanation": "'Tengo una reserva a nombre de...' bedeutet 'Ich habe eine Reservierung auf den Namen ...'. Das ist der übliche Satz beim Einchecken im Hotel.",
+    "context": "Arriving at a hotel reception",
+    "hint": null
   },
   "q_vocab_a2_02_001": {
     "question": "War does 'médico' bedeuten?",
@@ -119,7 +126,8 @@
       "enfermero",
       "farmacéutico"
     ],
-    "explanation": "'Médico' (doctor) ist der/die/das Person wer prescribes ('recetar') medicine. Der/die/das Satz bedeutet 'Der/die/das doctor prescribed me some pills für der/die/das fever.'"
+    "explanation": "'Médico' (Arzt) ist die Person, die Medikamente verschreibt ('recetar'). Der Satz bedeutet: 'Der Arzt hat mir Tabletten gegen das Fieber verschrieben.'",
+    "hint": null
   },
   "q_vocab_a2_02_003": {
     "question": "War does 'farmacia' bedeuten?",
@@ -153,25 +161,27 @@
     "explanation": "'Dolor de cabeza' bedeutet 'headache' und 'fiebre' bedeutet 'fever'. 'Tener' wird mit verwendet symptoms auf Spanisch."
   },
   "q_vocab_a2_02_006": {
-    "question": "War does 'enfermera' bedeuten in 'La enfermera me puso una inyección'?",
-    "correct": "nurse",
+    "question": "Was bedeutet 'enfermera' in 'La enfermera me puso una inyección'?",
+    "correct": "Krankenschwester",
     "wrong": [
-      "doctor",
-      "surgeon",
-      "receptionist"
+      "Arzt",
+      "Chirurg",
+      "Empfangsdame"
     ],
-    "explanation": "'Enfermera' bedeutet 'nurse' (female). Der/die/das männlich form ist 'enfermero'. Der/die/das Satz bedeutet 'Der/die/das nurse gave me an injection.'"
+    "explanation": "'Enfermera' bedeutet 'Krankenschwester' (weiblich). Die männliche Form ist 'enfermero'. Der Satz bedeutet: 'Die Krankenschwester hat mir eine Spritze gegeben.'",
+    "hint": null
   },
   "q_vocab_a2_02_007": {
-    "question": "Du feel sick und need um zu beschreiben dein symptoms an der/die/das doctor's office. Du haben a cough und a runny nose. War do du say?",
+    "question": "Du fühlst dich krank und musst in der Arztpraxis deine Symptome beschreiben. Du hast Husten und eine laufende Nase. Was sagst du?",
     "correct": "Tengo tos y estoy resfriado.",
     "wrong": [
       "Me duele la pierna y no puedo caminar.",
       "Tengo fiebre y me duele la cabeza.",
       "Me duele el estómago y tengo náuseas."
     ],
-    "explanation": "'Tos' bedeutet 'cough' und 'resfriado' bedeutet 'cold'. Das sind typical symptoms von a häufig cold.",
-    "context": "At the doctor's office describing cold symptoms"
+    "explanation": "'Tos' bedeutet 'Husten' und 'resfriado' bedeutet 'erkältet'. Das sind typische Symptome einer gewöhnlichen Erkältung.",
+    "context": "At the doctor's office describing cold symptoms",
+    "hint": null
   },
   "q_vocab_a2_02_008": {
     "question": "Was bedeutet 'pastilla' in 'Toma una pastilla cada ocho horas'?",
@@ -186,44 +196,48 @@
   },
   "q_vocab_a2_02_009": {
     "question": "Me duele mucho la garganta y no puedo hablar.",
-    "correct": "My throat hurts a lot and I can't speak.",
+    "correct": "Mein Hals tut sehr weh und ich kann nicht sprechen.",
     "wrong": [
-      "My head hurts a lot and I can't sleep.",
-      "My stomach hurts a lot and I can't eat.",
-      "My back hurts a lot and I can't walk."
+      "Mein Kopf tut sehr weh und ich kann nicht schlafen.",
+      "Mein Magen tut sehr weh und ich kann nicht essen.",
+      "Mein Rücken tut sehr weh und ich kann nicht laufen."
     ],
-    "explanation": "'Garganta' bedeutet 'throat'. 'Doler' wird verwendet, um express pain. Der/die/das construction 'me duele' bedeutet 'es hurts me'."
+    "explanation": "'Garganta' bedeutet 'Hals' (Rachen). 'Doler' drückt Schmerz aus. Die Konstruktion 'me duele' bedeutet 'es tut mir weh'.",
+    "hint": null
   },
   "q_vocab_a2_02_010": {
-    "question": "Du sind an a pharmacy und need cold medicine aber don't haben a prescription. War do du ask?",
+    "question": "Du bist in einer Apotheke und brauchst ein Erkältungsmittel, hast aber kein Rezept. Was fragst du?",
     "correct": "¿Tiene algo para el resfriado sin receta?",
     "wrong": [
       "¿Dónde está el hospital más cercano?",
       "¿Puede darme una cita con el médico?",
       "¿Cuánto cuesta la consulta?"
     ],
-    "explanation": "'Sin receta' bedeutet 'ohne a prescription'. Viele basic medicines in Spain kann sein bought over der/die/das counter ('sin receta').",
-    "context": "At a pharmacy feeling ill without a doctor's prescription"
+    "explanation": "'Sin receta' bedeutet 'ohne Rezept'. Viele einfache Medikamente kann man in Spanien rezeptfrei ('sin receta') kaufen.",
+    "context": "At a pharmacy feeling ill without a doctor's prescription",
+    "hint": null
   },
   "q_vocab_a2_03_001": {
-    "question": "War does 'partido' bedeuten in der/die/das context von sports?",
-    "correct": "match/game",
+    "question": "Was bedeutet 'partido' im Zusammenhang mit Sport?",
+    "correct": "Spiel/Match",
     "wrong": [
-      "team",
-      "score",
-      "stadium"
+      "Mannschaft",
+      "Spielstand",
+      "Stadion"
     ],
-    "explanation": "'Partido' bedeutet 'match' oder 'game' in sports. Zum Beispiel, 'un partido de fútbol' ist a football match."
+    "explanation": "'Partido' bedeutet im Sport 'Spiel' oder 'Match'. Zum Beispiel ist 'un partido de fútbol' ein Fußballspiel.",
+    "hint": null
   },
   "q_vocab_a2_03_002": {
-    "question": "War does 'equipo' bedeuten in 'Mi equipo favorito ganó el partido'?",
-    "correct": "team",
+    "question": "Was bedeutet 'equipo' in 'Mi equipo favorito ganó el partido'?",
+    "correct": "Mannschaft",
     "wrong": [
-      "player",
-      "coach",
-      "stadium"
+      "Spieler",
+      "Trainer",
+      "Stadion"
     ],
-    "explanation": "'Equipo' bedeutet 'team'. Der/die/das Satz bedeutet 'My favorite team won der/die/das match.'"
+    "explanation": "'Equipo' bedeutet 'Mannschaft' oder 'Team'. Der Satz bedeutet: 'Meine Lieblingsmannschaft hat das Spiel gewonnen.'",
+    "hint": null
   },
   "q_vocab_a2_03_003": {
     "question": "Los fines de semana me gusta ___ al baloncesto con mis amigos.",
@@ -233,27 +247,30 @@
       "correr",
       "pintar"
     ],
-    "explanation": "'Jugar' bedeutet 'zu play'. Auf Spanisch, du say 'jugar al baloncesto' (play basketball) using der/die/das Präposition 'al'."
+    "explanation": "'Jugar' bedeutet 'spielen'. Auf Spanisch sagt man 'jugar al baloncesto' (Basketball spielen) mit der Präposition 'al'.",
+    "hint": null
   },
   "q_vocab_a2_03_004": {
-    "question": "War does 'natación' bedeuten?",
-    "correct": "swimming",
+    "question": "Was bedeutet 'natación'?",
+    "correct": "Schwimmen",
     "wrong": [
-      "running",
-      "cycling",
-      "hiking"
+      "Laufen",
+      "Radfahren",
+      "Wandern"
     ],
-    "explanation": "'Natación' ist der/die/das sport von swimming. Das Verb ist 'nadar' (zu swim)."
+    "explanation": "'Natación' ist die Sportart Schwimmen. Das Verb dazu ist 'nadar' (schwimmen).",
+    "hint": null
   },
   "q_vocab_a2_03_005": {
-    "question": "War does 'ganar' bedeuten in 'Nuestro equipo va a ganar la final'?",
-    "correct": "to win",
+    "question": "Was bedeutet 'ganar' in 'Nuestro equipo va a ganar la final'?",
+    "correct": "gewinnen",
     "wrong": [
-      "to lose",
-      "to play",
-      "to score"
+      "verlieren",
+      "spielen",
+      "ein Tor erzielen"
     ],
-    "explanation": "'Ganar' bedeutet 'zu win'. Der/die/das opposite ist 'perder' (zu lose). Der/die/das Satz bedeutet 'Our team ist going zu win der/die/das final.'"
+    "explanation": "'Ganar' bedeutet 'gewinnen'. Das Gegenteil ist 'perder' (verlieren). Der Satz bedeutet: 'Unsere Mannschaft wird das Finale gewinnen.'",
+    "hint": null
   },
   "q_vocab_a2_03_006": {
     "question": "Am Wochenende laufe ich gern im Park.",
@@ -267,24 +284,26 @@
     "hint": null
   },
   "q_vocab_a2_03_007": {
-    "question": "War does 'practicar' bedeuten in 'Quiero practicar tenis este verano'?",
-    "correct": "to practice/to play (a sport)",
+    "question": "Was bedeutet 'practicar' in 'Quiero practicar tenis este verano'?",
+    "correct": "üben/(eine Sportart) betreiben",
     "wrong": [
-      "to watch",
-      "to teach",
-      "to compete"
+      "zuschauen",
+      "unterrichten",
+      "an einem Wettkampf teilnehmen"
     ],
-    "explanation": "'Practicar' bedeutet 'zu practice' oder 'zu play' a sport. Unlike 'jugar', 'practicar' doesn't require der/die/das Präposition 'al'."
+    "explanation": "'Practicar' bedeutet 'üben' oder eine Sportart 'betreiben'. Anders als 'jugar' braucht 'practicar' nicht die Präposition 'al'.",
+    "hint": null
   },
   "q_vocab_a2_03_008": {
     "question": "Mi hermana perdió el partido de tenis ayer.",
-    "correct": "My sister lost the tennis match yesterday.",
+    "correct": "Meine Schwester hat gestern das Tennisspiel verloren.",
     "wrong": [
-      "My sister won the tennis match yesterday.",
-      "My sister played the tennis match yesterday.",
-      "My sister watched the tennis match yesterday."
+      "Meine Schwester hat gestern das Tennisspiel gewonnen.",
+      "Meine Schwester hat gestern das Tennisspiel gespielt.",
+      "Meine Schwester hat sich gestern das Tennisspiel angesehen."
     ],
-    "explanation": "'Perder' bedeutet 'zu lose'. 'Perdió' ist der/die/das Vergangenheit Zeitform (pretérito). Der/die/das opposite ist 'ganar' (zu win)."
+    "explanation": "'Perder' bedeutet 'verlieren'. 'Perdió' ist die Vergangenheitsform (pretérito). Das Gegenteil ist 'ganar' (gewinnen).",
+    "hint": null
   },
   "q_vocab_a2_03_009": {
     "question": "Dein friend asks war hobbies du haben. Du enjoy painting und dancing. War do du say?",
@@ -298,15 +317,16 @@
     "context": "Chatting with a friend about hobbies"
   },
   "q_vocab_a2_03_010": {
-    "question": "Du want zu join a local sports club. Du tell der/die/das receptionist welche sport du want zu play. War do du say?",
+    "question": "Du möchtest einem örtlichen Sportverein beitreten. Du sagst der Empfangsperson, welchen Sport du spielen möchtest. Was sagst du?",
     "correct": "Quiero apuntarme al equipo de fútbol.",
     "wrong": [
       "Quiero ver el partido de fútbol.",
       "Quiero comprar una entrada de fútbol.",
       "Quiero ganar el campeonato de fútbol."
     ],
-    "explanation": "'Apuntarse' bedeutet 'zu sign up' oder 'zu join'. 'Equipo' hier bezieht sich auf der/die/das team du want zu join.",
-    "context": "At the reception of a sports club"
+    "explanation": "'Apuntarse' bedeutet 'sich anmelden' oder 'beitreten'. 'Equipo' bezeichnet hier die Mannschaft, der man beitreten möchte.",
+    "context": "At the reception of a sports club",
+    "hint": null
   },
   "q_vocab_a2_04_001": {
     "question": "Was bedeutet 'oferta'?",
@@ -327,7 +347,8 @@
       "bonita",
       "grande"
     ],
-    "explanation": "'Barata' bedeutet 'cheap' (weiblich). Der/die/das Satz bedeutet 'Dies shirt ist sehr cheap, es costs nur five euros.'"
+    "explanation": "'Barata' bedeutet 'billig' bzw. 'günstig' (weibliche Form). Der Satz bedeutet: 'Dieses Hemd ist sehr günstig, es kostet nur fünf Euro.'",
+    "hint": null
   },
   "q_vocab_a2_04_003": {
     "question": "War does 'supermercado' bedeuten?",
@@ -340,14 +361,15 @@
     "explanation": "'Supermercado' ist a large store wo du buy groceries und household items."
   },
   "q_vocab_a2_04_004": {
-    "question": "War does 'talla' bedeuten in 'Necesito una talla más grande'?",
-    "correct": "size (clothing)",
+    "question": "Was bedeutet 'talla' in 'Necesito una talla más grande'?",
+    "correct": "Größe (Kleidung)",
     "wrong": [
-      "color",
-      "price",
-      "style"
+      "Farbe",
+      "Preis",
+      "Stil"
     ],
-    "explanation": "'Talla' bezieht sich auf clothing size. Der/die/das Satz bedeutet 'I need a bigger size.'"
+    "explanation": "'Talla' bezeichnet die Kleidergröße. Der Satz bedeutet: 'Ich brauche eine größere Größe.'",
+    "hint": null
   },
   "q_vocab_a2_04_005": {
     "question": "Kann I pay von credit card?",
@@ -360,35 +382,38 @@
     "explanation": "'Tarjeta de crédito' bedeutet 'credit card'. 'Pagar con' bedeutet 'zu pay mit'."
   },
   "q_vocab_a2_04_006": {
-    "question": "War does 'devolver' bedeuten in '¿Puedo devolver este producto?'?",
-    "correct": "to return (an item)",
+    "question": "Was bedeutet 'devolver' in '¿Puedo devolver este producto?'?",
+    "correct": "zurückgeben (einen Artikel)",
     "wrong": [
-      "to exchange",
-      "to buy",
-      "to try on"
+      "umtauschen",
+      "kaufen",
+      "anprobieren"
     ],
-    "explanation": "'Devolver' bedeutet 'zu return' something zu a shop. Der/die/das Satz bedeutet 'Kann I return dies product?'"
+    "explanation": "'Devolver' bedeutet, etwas in einem Geschäft 'zurückzugeben'. Der Satz bedeutet: 'Kann ich dieses Produkt zurückgeben?'",
+    "hint": null
   },
   "q_vocab_a2_04_007": {
-    "question": "Du see a dress du like aber want zu try es on first. War do du ask der/die/das shop assistant?",
+    "question": "Du siehst ein Kleid, das dir gefällt, möchtest es aber zuerst anprobieren. Was fragst du die Verkaufsperson?",
     "correct": "¿Puedo probarme este vestido?",
     "wrong": [
       "¿Puedo devolver este vestido?",
       "¿Puedo pagar este vestido?",
       "¿Puedo comprar este vestido?"
     ],
-    "explanation": "'Probarse' bedeutet 'zu try on' clothes. Es ist a Reflexiv Verb. Der/die/das fitting room ist 'el probador'.",
-    "context": "In a clothing store looking at a dress"
+    "explanation": "'Probarse' bedeutet, Kleidung 'anzuprobieren'. Es ist ein reflexives Verb. Die Umkleidekabine heißt 'el probador'.",
+    "context": "In a clothing store looking at a dress",
+    "hint": null
   },
   "q_vocab_a2_04_008": {
-    "question": "War does 'precio' bedeuten in 'El precio es demasiado alto'?",
-    "correct": "price",
+    "question": "Was bedeutet 'precio' in 'El precio es demasiado alto'?",
+    "correct": "Preis",
     "wrong": [
-      "quality",
-      "discount",
-      "receipt"
+      "Qualität",
+      "Rabatt",
+      "Kassenbon"
     ],
-    "explanation": "'Precio' bedeutet 'price'. Der/die/das Satz bedeutet 'Der/die/das price ist too high.' 'Demasiado' bedeutet 'too much'."
+    "explanation": "'Precio' bedeutet 'Preis'. Der Satz bedeutet: 'Der Preis ist zu hoch.' 'Demasiado' bedeutet 'zu viel'.",
+    "hint": null
   },
   "q_vocab_a2_04_009": {
     "question": "En el centro comercial hay muchas tiendas con rebajas.",
@@ -401,35 +426,38 @@
     "explanation": "'Centro comercial' bedeutet 'shopping mall'. 'Rebajas' bedeutet 'sales' (price reductions), similar zu 'ofertas'."
   },
   "q_vocab_a2_04_010": {
-    "question": "Du bought shoes online aber sie sind too small. Du call customer service zu arrange a return. War do du say?",
+    "question": "Du hast online Schuhe gekauft, aber sie sind zu klein. Du rufst den Kundenservice an, um eine Rücksendung zu vereinbaren. Was sagst du?",
     "correct": "Quiero devolver estos zapatos porque la talla es pequeña.",
     "wrong": [
       "Quiero comprar estos zapatos porque la talla es pequeña.",
       "Quiero probarme estos zapatos porque la talla es pequeña.",
       "Quiero pagar estos zapatos porque la talla es pequeña."
     ],
-    "explanation": "'Devolver' bedeutet 'zu return'. Du explain der/die/das reason using 'porque' (weil) und mention der/die/das size issue.",
-    "context": "Calling customer service about ill-fitting shoes bought online"
+    "explanation": "'Devolver' bedeutet 'zurückgeben'. Mit 'porque' (weil) nennst du den Grund und erwähnst das Größenproblem.",
+    "context": "Calling customer service about ill-fitting shoes bought online",
+    "hint": null
   },
   "q_vocab_a2_05_001": {
-    "question": "War does 'camarero' bedeuten?",
-    "correct": "waiter",
+    "question": "Was bedeutet 'camarero'?",
+    "correct": "Kellner",
     "wrong": [
-      "chef",
-      "customer",
-      "cashier"
+      "Koch",
+      "Kunde",
+      "Kassierer"
     ],
-    "explanation": "'Camarero' bedeutet 'waiter'. Der/die/das weiblich form ist 'camarera' (waitress)."
+    "explanation": "'Camarero' bedeutet 'Kellner'. Die weibliche Form ist 'camarera' (Kellnerin).",
+    "hint": null
   },
   "q_vocab_a2_05_002": {
-    "question": "War does 'cuenta' bedeuten in '¿Me trae la cuenta, por favor?'?",
-    "correct": "bill/check",
+    "question": "Was bedeutet 'cuenta' in '¿Me trae la cuenta, por favor?'?",
+    "correct": "Rechnung",
     "wrong": [
-      "menu",
-      "tip",
-      "receipt"
+      "Speisekarte",
+      "Trinkgeld",
+      "Kassenbon"
     ],
-    "explanation": "'Cuenta' bedeutet 'bill' oder 'check' in a restaurant. Der/die/das Satz bedeutet 'Könnte du bring me der/die/das bill, please?'"
+    "explanation": "'Cuenta' bedeutet in einem Restaurant 'Rechnung'. Der Satz bedeutet 'Könnten Sie mir bitte die Rechnung bringen?'",
+    "hint": null
   },
   "q_vocab_a2_05_003": {
     "question": "De ___, quiero la sopa de verduras.",
@@ -453,24 +481,26 @@
     "hint": null
   },
   "q_vocab_a2_05_005": {
-    "question": "War does 'recomendar' bedeuten in '¿Qué me recomienda?'?",
-    "correct": "to recommend",
+    "question": "Was bedeutet 'recomendar' in '¿Qué me recomienda?'?",
+    "correct": "empfehlen",
     "wrong": [
-      "to order",
-      "to serve",
-      "to bring"
+      "bestellen",
+      "servieren",
+      "bringen"
     ],
-    "explanation": "'Recomendar' bedeutet 'zu recommend'. Der/die/das question '¿Qué me recomienda?' bedeutet 'War do du recommend?' using der/die/das formell 'usted' form."
+    "explanation": "'Recomendar' bedeutet 'empfehlen'. Die Frage '¿Qué me recomienda?' bedeutet 'Was empfehlen Sie mir?' und verwendet die höfliche 'usted'-Form.",
+    "hint": null
   },
   "q_vocab_a2_05_006": {
-    "question": "I würde like zu order der/die/das grilled chicken, please.",
+    "question": "Ich möchte bitte das gegrillte Hähnchen bestellen.",
     "correct": "Quiero pedir el pollo a la plancha, por favor.",
     "wrong": [
       "Quiero recomendar el pollo a la plancha, por favor.",
       "Quiero traer el pollo a la plancha, por favor.",
       "Quiero cocinar el pollo a la plancha, por favor."
     ],
-    "explanation": "'Pedir' bedeutet 'zu order' in a restaurant. 'Pollo a la plancha' bedeutet 'grilled chicken'."
+    "explanation": "'Pedir' bedeutet in einem Restaurant 'bestellen'. 'Pollo a la plancha' bedeutet 'gegrilltes Hähnchen'.",
+    "hint": null
   },
   "q_vocab_a2_05_007": {
     "question": "War does 'menú' bedeuten in '¿Tiene el menú del día?'?",
@@ -504,15 +534,16 @@
     "context": "Arriving at a restaurant without a reservation"
   },
   "q_vocab_a2_05_010": {
-    "question": "Nach finishing dein meal, du want zu pay und leave. War do du say zu get der/die/das waiter's attention?",
+    "question": "Nach dem Essen möchtest du bezahlen und gehen. Was sagst du, um die Aufmerksamkeit des Kellners zu bekommen?",
     "correct": "¡Perdone! ¿Me trae la cuenta, por favor?",
     "wrong": [
       "¡Perdone! ¿Me trae el menú, por favor?",
       "¡Perdone! ¿Me trae el postre, por favor?",
       "¡Perdone! ¿Me trae la propina, por favor?"
     ],
-    "explanation": "'¡Perdone!' ist a polite way zu get someone's attention. '¿Me trae la cuenta?' bedeutet 'Könnte du bring me der/die/das bill?'",
-    "context": "Finishing a meal at a restaurant and wanting to pay"
+    "explanation": "'¡Perdone!' ist eine höfliche Art, jemanden anzusprechen. '¿Me trae la cuenta?' bedeutet 'Könnten Sie mir die Rechnung bringen?'",
+    "context": "Finishing a meal at a restaurant and wanting to pay",
+    "hint": null
   },
   "q_vocab_a2_06_001": {
     "question": "War does 'semáforo' bedeuten?",
@@ -532,17 +563,19 @@
       "calle",
       "acera"
     ],
-    "explanation": "'Esquina' bedeutet 'corner'. Der/die/das Satz bedeutet 'Der/die/das bakery ist on der/die/das corner von Mayor Street und Sol Street.'"
+    "explanation": "'Esquina' bedeutet 'Ecke'. Der Satz bedeutet 'Die Bäckerei liegt an der Ecke Calle Mayor und Calle Sol.'",
+    "hint": null
   },
   "q_vocab_a2_06_003": {
-    "question": "War does 'girar' bedeuten in 'Gire a la izquierda en el semáforo'?",
-    "correct": "to turn",
+    "question": "Was bedeutet 'girar' in 'Gire a la izquierda en el semáforo'?",
+    "correct": "abbiegen",
     "wrong": [
-      "to stop",
-      "to cross",
-      "to continue"
+      "anhalten",
+      "überqueren",
+      "weiterfahren"
     ],
-    "explanation": "'Girar' bedeutet 'zu turn'. 'Gire a la izquierda' bedeutet 'turn left'. Es ist in der/die/das formell Imperativ form."
+    "explanation": "'Girar' bedeutet 'abbiegen'. 'Gire a la izquierda' bedeutet 'biegen Sie links ab'. Es steht im höflichen Imperativ.",
+    "hint": null
   },
   "q_vocab_a2_06_004": {
     "question": "War does 'enfrente de' bedeuten?",
@@ -555,14 +588,15 @@
     "explanation": "'Enfrente de' bedeutet 'in front von' oder 'across von'. Zum Beispiel, 'El museo está enfrente de la iglesia.'"
   },
   "q_vocab_a2_06_005": {
-    "question": "Go straight und der/die/das museum ist on der/die/das right.",
+    "question": "Gehen Sie geradeaus, und das Museum ist auf der rechten Seite.",
     "correct": "Siga recto y el museo está a la derecha.",
     "wrong": [
       "Gire recto y el museo está a la derecha.",
       "Siga recto y el museo está a la izquierda.",
       "Cruce recto y el museo está a la derecha."
     ],
-    "explanation": "'Seguir recto' bedeutet 'zu go straight'. 'A la derecha' bedeutet 'on der/die/das right'. 'Siga' ist der/die/das formell Imperativ von 'seguir'."
+    "explanation": "'Seguir recto' bedeutet 'geradeaus gehen'. 'A la derecha' bedeutet 'rechts'. 'Siga' ist der höfliche Imperativ von 'seguir'.",
+    "hint": null
   },
   "q_vocab_a2_06_006": {
     "question": "Was bedeutet 'plaza' in 'Quedamos en la plaza Mayor a las cinco'?",
@@ -576,25 +610,27 @@
     "hint": null
   },
   "q_vocab_a2_06_007": {
-    "question": "Du sind lost und need zu find der/die/das nearest bank. Du stop a passerby. War do du ask?",
+    "question": "Du hast dich verlaufen und suchst die nächste Bank. Du sprichst einen Passanten an. Was fragst du?",
     "correct": "Perdone, ¿sabe dónde hay un banco cerca de aquí?",
     "wrong": [
       "Perdone, ¿sabe dónde hay una iglesia cerca de aquí?",
       "Perdone, ¿sabe cuánto cuesta el banco?",
       "Perdone, ¿sabe a qué hora abre el museo?"
     ],
-    "explanation": "'¿Dónde hay un banco?' bedeutet 'Wo ist dort a bank?' 'Cerca de aquí' bedeutet 'near hier'.",
-    "context": "Lost in a Spanish city and looking for a bank"
+    "explanation": "'¿Dónde hay un banco?' bedeutet 'Wo gibt es eine Bank?' 'Cerca de aquí' bedeutet 'hier in der Nähe'.",
+    "context": "Lost in a Spanish city and looking for a bank",
+    "hint": null
   },
   "q_vocab_a2_06_008": {
-    "question": "War does 'lejos' bedeuten in 'El aeropuerto está lejos del centro'?",
-    "correct": "far",
+    "question": "Was bedeutet 'lejos' in 'El aeropuerto está lejos del centro'?",
+    "correct": "weit",
     "wrong": [
-      "near",
-      "behind",
-      "above"
+      "nah",
+      "hinter",
+      "über"
     ],
-    "explanation": "'Lejos' bedeutet 'far'. Der/die/das opposite ist 'cerca' (near). Der/die/das Satz bedeutet 'Der/die/das airport ist far von der/die/das center.'"
+    "explanation": "'Lejos' bedeutet 'weit'. Das Gegenteil ist 'cerca' (nah). Der Satz bedeutet 'Der Flughafen ist weit vom Zentrum entfernt.'",
+    "hint": null
   },
   "q_vocab_a2_06_009": {
     "question": "La iglesia está entre el banco y el museo.",
@@ -607,35 +643,38 @@
     "explanation": "'Entre' bedeutet 'between'. 'Iglesia' bedeutet 'church'. Dies Präposition wird verwendet, um indicate location between two points."
   },
   "q_vocab_a2_06_010": {
-    "question": "A tourist asks du für directions zu der/die/das cathedral. Es's two blocks away, then left. War do du say?",
+    "question": "Ein Tourist fragt dich nach dem Weg zur Kathedrale. Sie ist zwei Straßen weiter, dann links. Was sagst du?",
     "correct": "Siga recto dos calles y gire a la izquierda.",
     "wrong": [
       "Cruce la plaza y la catedral está enfrente.",
       "Gire a la derecha y siga recto.",
       "Está muy lejos, necesita un taxi."
     ],
-    "explanation": "'Siga recto dos calles' bedeutet 'Go straight für two blocks'. 'Gire a la izquierda' bedeutet 'turn left'.",
-    "context": "A tourist stops you on the street asking for directions"
+    "explanation": "'Siga recto dos calles' bedeutet 'Gehen Sie zwei Straßen geradeaus'. 'Gire a la izquierda' bedeutet 'biegen Sie links ab'.",
+    "context": "A tourist stops you on the street asking for directions",
+    "hint": null
   },
   "q_vocab_a2_07_001": {
-    "question": "War does 'barrer' bedeuten?",
-    "correct": "to sweep",
+    "question": "Was bedeutet 'barrer'?",
+    "correct": "kehren",
     "wrong": [
-      "to mop",
-      "to dust",
-      "to vacuum"
+      "wischen",
+      "Staub wischen",
+      "staubsaugen"
     ],
-    "explanation": "'Barrer' bedeutet 'zu sweep' der/die/das floor, normalerweise mit a broom ('escoba')."
+    "explanation": "'Barrer' bedeutet den Boden 'kehren', normalerweise mit einem Besen ('escoba').",
+    "hint": null
   },
   "q_vocab_a2_07_002": {
-    "question": "War does 'planchar' bedeuten?",
-    "correct": "to iron",
+    "question": "Was bedeutet 'planchar'?",
+    "correct": "bügeln",
     "wrong": [
-      "to fold",
-      "to wash",
-      "to dry"
+      "falten",
+      "waschen",
+      "trocknen"
     ],
-    "explanation": "'Planchar' bedeutet 'zu iron' clothes. Der/die/das iron ist called 'la plancha'."
+    "explanation": "'Planchar' bedeutet Kleidung 'bügeln'. Das Bügeleisen heißt 'la plancha'.",
+    "hint": null
   },
   "q_vocab_a2_07_003": {
     "question": "Después de comer, hay que ___ los platos.",
@@ -645,68 +684,75 @@
       "planchar",
       "ordenar"
     ],
-    "explanation": "'Fregar' bedeutet 'zu wash/scrub' (dishes). 'Fregar los platos' bedeutet 'zu wash der/die/das dishes'."
+    "explanation": "'Fregar' bedeutet '(Geschirr) spülen/schrubben'. 'Fregar los platos' bedeutet 'das Geschirr spülen'.",
+    "hint": null
   },
   "q_vocab_a2_07_004": {
-    "question": "War does 'sacar la basura' bedeuten?",
-    "correct": "to take out the trash",
+    "question": "Was bedeutet 'sacar la basura'?",
+    "correct": "den Müll rausbringen",
     "wrong": [
-      "to clean the bathroom",
-      "to do the laundry",
-      "to vacuum the floor"
+      "das Badezimmer putzen",
+      "Wäsche waschen",
+      "den Boden staubsaugen"
     ],
-    "explanation": "'Sacar la basura' bedeutet 'zu take out der/die/das trash'. 'Basura' bedeutet 'garbage/trash'."
+    "explanation": "'Sacar la basura' bedeutet 'den Müll rausbringen'. 'Basura' bedeutet 'Müll/Abfall'.",
+    "hint": null
   },
   "q_vocab_a2_07_005": {
-    "question": "War does 'limpiar' bedeuten in 'Tengo que limpiar la casa antes de la fiesta'?",
-    "correct": "to clean",
+    "question": "Was bedeutet 'limpiar' in 'Tengo que limpiar la casa antes de la fiesta'?",
+    "correct": "putzen",
     "wrong": [
-      "to decorate",
-      "to organize",
-      "to paint"
+      "dekorieren",
+      "aufräumen",
+      "streichen"
     ],
-    "explanation": "'Limpiar' bedeutet 'zu clean'. Der/die/das Satz bedeutet 'I haben zu clean der/die/das house vor der/die/das party.'"
+    "explanation": "'Limpiar' bedeutet 'putzen/sauber machen'. Der Satz bedeutet 'Ich muss das Haus vor der Party putzen.'",
+    "hint": null
   },
   "q_vocab_a2_07_006": {
-    "question": "I need zu make der/die/das bed und tidy up my room.",
+    "question": "Ich muss das Bett machen und mein Zimmer aufräumen.",
     "correct": "Necesito hacer la cama y ordenar mi habitación.",
     "wrong": [
       "Necesito lavar la cama y limpiar mi habitación.",
       "Necesito barrer la cama y fregar mi habitación.",
       "Necesito planchar la cama y cocinar mi habitación."
     ],
-    "explanation": "'Hacer la cama' bedeutet 'zu make der/die/das bed'. 'Ordenar' bedeutet 'zu tidy up' oder 'zu organize'."
+    "explanation": "'Hacer la cama' bedeutet 'das Bett machen'. 'Ordenar' bedeutet 'aufräumen' oder 'ordnen'.",
+    "hint": null
   },
   "q_vocab_a2_07_007": {
-    "question": "War does 'pasar la aspiradora' bedeuten?",
-    "correct": "to vacuum",
+    "question": "Was bedeutet 'pasar la aspiradora'?",
+    "correct": "staubsaugen",
     "wrong": [
-      "to sweep",
-      "to mop",
-      "to dust"
+      "kehren",
+      "wischen",
+      "Staub wischen"
     ],
-    "explanation": "'Pasar la aspiradora' literally bedeutet 'zu pass der/die/das vacuum cleaner'. Es ist der/die/das standard expression für vacuuming auf Spanisch."
+    "explanation": "'Pasar la aspiradora' bedeutet wörtlich 'den Staubsauger darüberführen'. Es ist der übliche Ausdruck für Staubsaugen im Spanischen.",
+    "hint": null
   },
   "q_vocab_a2_07_008": {
     "question": "Mi madre siempre cocina y mi padre lava la ropa.",
-    "correct": "My mother always cooks and my father does the laundry.",
+    "correct": "Meine Mutter kocht immer, und mein Vater wäscht die Wäsche.",
     "wrong": [
-      "My mother always cleans and my father irons the clothes.",
-      "My mother always sweeps and my father folds the clothes.",
-      "My mother always cooks and my father irons the clothes."
+      "Meine Mutter putzt immer, und mein Vater bügelt die Kleidung.",
+      "Meine Mutter kehrt immer, und mein Vater faltet die Kleidung.",
+      "Meine Mutter kocht immer, und mein Vater bügelt die Kleidung."
     ],
-    "explanation": "'Cocinar' bedeutet 'zu cook' und 'lavar la ropa' bedeutet 'zu do der/die/das laundry'. 'Siempre' bedeutet 'immer'."
+    "explanation": "'Cocinar' bedeutet 'kochen' und 'lavar la ropa' bedeutet 'Wäsche waschen'. 'Siempre' bedeutet 'immer'.",
+    "hint": null
   },
   "q_vocab_a2_07_009": {
-    "question": "Dein roommate asks du zu help mit chores dies weekend. Du offer zu vacuum und take out der/die/das trash. War do du say?",
+    "question": "Dein Mitbewohner bittet dich, dieses Wochenende im Haushalt zu helfen. Du bietest an, zu staubsaugen und den Müll rauszubringen. Was sagst du?",
     "correct": "Yo puedo pasar la aspiradora y sacar la basura.",
     "wrong": [
       "Yo puedo cocinar y hacer la cama.",
       "Yo puedo planchar y lavar la ropa.",
       "Yo puedo fregar los platos y barrer."
     ],
-    "explanation": "'Pasar la aspiradora' ist 'zu vacuum' und 'sacar la basura' ist 'zu take out der/die/das trash'. 'Puedo' bedeutet 'I kann'.",
-    "context": "Dividing household chores with your roommate"
+    "explanation": "'Pasar la aspiradora' heißt 'staubsaugen' und 'sacar la basura' heißt 'den Müll rausbringen'. 'Puedo' bedeutet 'ich kann'.",
+    "context": "Dividing household chores with your roommate",
+    "hint": null
   },
   "q_vocab_a2_07_010": {
     "question": "Du just moved into a new apartment und need zu clean everything. Du describe zu a friend war du need zu do. War do du say?",
@@ -737,7 +783,8 @@
       "aplicación",
       "página web"
     ],
-    "explanation": "'Contraseña' bedeutet 'password'. Der/die/das Satz bedeutet 'I kann't access my email weil I forgot der/die/das password.'"
+    "explanation": "'Contraseña' bedeutet 'Passwort'. Der Satz heißt: 'Ich kann nicht auf mein E-Mail-Konto zugreifen, weil ich das Passwort vergessen habe.'",
+    "hint": null
   },
   "q_vocab_a2_08_003": {
     "question": "War does 'pantalla' bedeuten?",
@@ -750,14 +797,15 @@
     "explanation": "'Pantalla' bedeutet 'screen'. Es kann refer zu a computer screen, phone screen, oder TV screen."
   },
   "q_vocab_a2_08_004": {
-    "question": "War does 'descargar' bedeuten in 'Voy a descargar la aplicación'?",
-    "correct": "to download",
+    "question": "Was bedeutet 'descargar' in 'Voy a descargar la aplicación'?",
+    "correct": "herunterladen",
     "wrong": [
-      "to upload",
-      "to delete",
-      "to open"
+      "hochladen",
+      "löschen",
+      "öffnen"
     ],
-    "explanation": "'Descargar' bedeutet 'zu download'. Der/die/das opposite ist 'cargar' (zu upload/charge). Der/die/das Satz bedeutet 'I'm going zu download der/die/das app.'"
+    "explanation": "'Descargar' bedeutet 'herunterladen'. Das Gegenteil ist 'cargar' (hochladen/laden). Der Satz heißt: 'Ich werde die App herunterladen.'",
+    "hint": null
   },
   "q_vocab_a2_08_005": {
     "question": "I need zu send an email zu my boss.",
@@ -770,25 +818,27 @@
     "explanation": "'Enviar' bedeutet 'zu send'. 'Correo electrónico' bedeutet 'email'. 'Jefe' bedeutet 'boss'."
   },
   "q_vocab_a2_08_006": {
-    "question": "War does 'teclado' bedeuten in 'Este teclado no funciona bien'?",
-    "correct": "keyboard",
+    "question": "Was bedeutet 'teclado' in 'Este teclado no funciona bien'?",
+    "correct": "Tastatur",
     "wrong": [
-      "screen",
-      "mouse",
-      "printer"
+      "Bildschirm",
+      "Maus",
+      "Drucker"
     ],
-    "explanation": "'Teclado' bedeutet 'keyboard'. Es comes von 'tecla' (key). Der/die/das Satz bedeutet 'Dies keyboard doesn't work well.'"
+    "explanation": "'Teclado' bedeutet 'Tastatur'. Es kommt von 'tecla' (Taste). Der Satz heißt: 'Diese Tastatur funktioniert nicht gut.'",
+    "hint": null
   },
   "q_vocab_a2_08_007": {
-    "question": "Du want zu show a friend a website. War do du say?",
+    "question": "Du möchtest einer Freundin oder einem Freund eine Website zeigen. Was sagst du?",
     "correct": "Mira esta página web, es muy interesante.",
     "wrong": [
       "Descarga esta aplicación, es muy interesante.",
       "Envía este correo, es muy interesante.",
       "Escribe esta contraseña, es muy interesante."
     ],
-    "explanation": "'Página web' bedeutet 'webpage' oder 'website'. 'Mira' ist der/die/das informell Imperativ von 'mirar' (zu look).",
-    "context": "Showing a friend something interesting on the internet"
+    "explanation": "'Página web' bedeutet 'Webseite' oder 'Website'. 'Mira' ist der informelle Imperativ von 'mirar' (schauen).",
+    "context": "Showing a friend something interesting on the internet",
+    "hint": null
   },
   "q_vocab_a2_08_008": {
     "question": "Was bedeutet 'móvil' in 'He perdido mi móvil'?",
@@ -823,14 +873,15 @@
     "context": "Calling tech support because your computer is running slowly"
   },
   "q_vocab_a2_09_001": {
-    "question": "War does 'boda' bedeuten?",
-    "correct": "wedding",
+    "question": "Was bedeutet 'boda'?",
+    "correct": "Hochzeit",
     "wrong": [
-      "birthday",
-      "anniversary",
-      "baptism"
+      "Geburtstag",
+      "Jahrestag",
+      "Taufe"
     ],
-    "explanation": "'Boda' bedeutet 'wedding'. Der/die/das related Verb ist 'casarse' (zu get married)."
+    "explanation": "'Boda' bedeutet 'Hochzeit'. Das verwandte Verb ist 'casarse' (heiraten).",
+    "hint": null
   },
   "q_vocab_a2_09_002": {
     "question": "War does 'regalo' bedeuten?",
@@ -854,24 +905,26 @@
     "hint": null
   },
   "q_vocab_a2_09_004": {
-    "question": "War does 'cumpleaños' bedeuten?",
-    "correct": "birthday",
+    "question": "Was bedeutet 'cumpleaños'?",
+    "correct": "Geburtstag",
     "wrong": [
-      "wedding",
-      "anniversary",
-      "holiday"
+      "Hochzeit",
+      "Jahrestag",
+      "Feiertag"
     ],
-    "explanation": "'Cumpleaños' bedeutet 'birthday'. Es comes von 'cumplir años' (zu turn years old). Es ist der/die/das same in Singular und Plural."
+    "explanation": "'Cumpleaños' bedeutet 'Geburtstag'. Es kommt von 'cumplir años' (ein Jahr älter werden). Singular und Plural sind gleich.",
+    "hint": null
   },
   "q_vocab_a2_09_005": {
-    "question": "War does 'felicitar' bedeuten in 'Quiero felicitar a María por su boda'?",
-    "correct": "to congratulate",
+    "question": "Was bedeutet 'felicitar' in 'Quiero felicitar a María por su boda'?",
+    "correct": "gratulieren",
     "wrong": [
-      "to invite",
-      "to celebrate",
-      "to surprise"
+      "einladen",
+      "feiern",
+      "überraschen"
     ],
-    "explanation": "'Felicitar' bedeutet 'zu congratulate'. Der/die/das Satz bedeutet 'I want zu congratulate María on her wedding.'"
+    "explanation": "'Felicitar' bedeutet 'gratulieren'. Der Satz heißt: 'Ich möchte María zu ihrer Hochzeit gratulieren.'",
+    "hint": null
   },
   "q_vocab_a2_09_006": {
     "question": "We sind going zu celebrate my sister's birthday on Saturday.",
@@ -884,14 +937,15 @@
     "explanation": "'Celebrar' bedeutet 'zu celebrate'. 'Vamos a' + Infinitiv drückt aus Zukunft plans, Bedeutung 'we sind going zu'."
   },
   "q_vocab_a2_09_007": {
-    "question": "War does 'brindar' bedeuten in 'Vamos a brindar por los novios'?",
-    "correct": "to toast (raise a glass)",
+    "question": "Was bedeutet 'brindar' in 'Vamos a brindar por los novios'?",
+    "correct": "anstoßen (das Glas erheben)",
     "wrong": [
-      "to dance",
-      "to sing",
-      "to cheer"
+      "tanzen",
+      "singen",
+      "jubeln"
     ],
-    "explanation": "'Brindar' bedeutet 'zu toast' oder 'zu raise a glass'. 'Los novios' bezieht sich auf der/die/das bride und groom. 'Brindar por' bedeutet 'zu toast zu'."
+    "explanation": "'Brindar' bedeutet 'anstoßen' oder 'das Glas erheben'. 'Los novios' bezeichnet das Brautpaar. 'Brindar por' heißt 'anstoßen auf'.",
+    "hint": null
   },
   "q_vocab_a2_09_008": {
     "question": "Los invitados cantaron y bailaron en la fiesta toda la noche.",
@@ -904,15 +958,16 @@
     "explanation": "'Invitados' bedeutet 'guests'. 'Cantar' bedeutet 'zu sing' und 'bailar' bedeutet 'zu dance'. 'Toda la noche' bedeutet 'alle night'."
   },
   "q_vocab_a2_09_009": {
-    "question": "Es's dein colleague's birthday. Du want zu wish them well an der/die/das office. War do du say?",
+    "question": "Deine Kollegin oder dein Kollege hat Geburtstag. Du möchtest im Büro gratulieren. Was sagst du?",
     "correct": "¡Feliz cumpleaños! ¡Que cumplas muchos más!",
     "wrong": [
       "¡Buen provecho! ¡Que disfrutes!",
       "¡Enhorabuena! ¡Que tengas suerte!",
       "¡Buenas tardes! ¡Que descanses!"
     ],
-    "explanation": "'¡Feliz cumpleaños!' bedeutet 'Happy birthday!' '¡Que cumplas muchos más!' bedeutet 'May du haben viele more!'",
-    "context": "At the office on a colleague's birthday"
+    "explanation": "'¡Feliz cumpleaños!' bedeutet 'Alles Gute zum Geburtstag!' '¡Que cumplas muchos más!' bedeutet 'Mögest du noch viele weitere feiern!'",
+    "context": "At the office on a colleague's birthday",
+    "hint": null
   },
   "q_vocab_a2_09_010": {
     "question": "Du sind invited zu a New Year's Eve party und want zu make a toast an midnight. War do du say?",
@@ -943,7 +998,8 @@
       "pájaro",
       "conejo"
     ],
-    "explanation": "'Perro' bedeutet 'dog'. Der/die/das Satz bedeutet 'Der/die/das dog chased der/die/das cat alle around der/die/das garden.' 'Perseguir' bedeutet 'zu chase'."
+    "explanation": "'Perro' bedeutet 'Hund'. Der Satz heißt: 'Der Hund jagte die Katze durch den ganzen Garten.' 'Perseguir' bedeutet 'jagen' bzw. 'verfolgen'.",
+    "hint": null
   },
   "q_vocab_a2_10_003": {
     "question": "Was bedeutet 'caballo'?",
@@ -957,34 +1013,37 @@
     "hint": null
   },
   "q_vocab_a2_10_004": {
-    "question": "War does 'salvaje' bedeuten in 'Los leones son animales salvajes'?",
+    "question": "Was bedeutet 'salvaje' in 'Los leones son animales salvajes'?",
     "correct": "wild",
     "wrong": [
-      "domestic",
-      "dangerous",
-      "large"
+      "zahm",
+      "gefährlich",
+      "groß"
     ],
-    "explanation": "'Salvaje' bedeutet 'wild'. Der/die/das opposite ist 'doméstico' (domestic). Der/die/das Satz bedeutet 'Lions sind wild animals.'"
+    "explanation": "'Salvaje' bedeutet 'wild'. Das Gegenteil ist 'doméstico' (zahm, Haus-). Der Satz heißt: 'Löwen sind wilde Tiere.'",
+    "hint": null
   },
   "q_vocab_a2_10_005": {
-    "question": "My cat likes zu sleep on der/die/das sofa.",
+    "question": "Meine Katze schläft gern auf dem Sofa.",
     "correct": "A mi gato le gusta dormir en el sofá.",
     "wrong": [
       "A mi perro le gusta dormir en el sofá.",
       "A mi gato le gusta comer en el sofá.",
       "Mi gato gusta dormir en el sofá."
     ],
-    "explanation": "'Gato' bedeutet 'cat'. Note der/die/das structure 'a mi gato le gusta' — mit animals, we use der/die/das same 'gustar' construction as mit Leute."
+    "explanation": "'Gato' bedeutet 'Katze' (genauer: Kater). Achte auf die Struktur 'a mi gato le gusta': Bei Tieren verwendet man dieselbe 'gustar'-Konstruktion wie bei Personen.",
+    "hint": null
   },
   "q_vocab_a2_10_006": {
-    "question": "War does 'pájaro' bedeuten in 'Hay un pájaro bonito en el árbol'?",
-    "correct": "bird",
+    "question": "Was bedeutet 'pájaro' in 'Hay un pájaro bonito en el árbol'?",
+    "correct": "Vogel",
     "wrong": [
-      "butterfly",
-      "squirrel",
-      "insect"
+      "Schmetterling",
+      "Eichhörnchen",
+      "Insekt"
     ],
-    "explanation": "'Pájaro' bedeutet 'bird'. Der/die/das Satz bedeutet 'Es gibt a pretty bird in der/die/das tree.' 'Bonito' bedeutet 'pretty'."
+    "explanation": "'Pájaro' bedeutet 'Vogel'. Der Satz heißt: 'Auf dem Baum sitzt ein hübscher Vogel.' 'Bonito' bedeutet 'hübsch'.",
+    "hint": null
   },
   "q_vocab_a2_10_007": {
     "question": "Du sind an a pet store und want zu buy a rabbit für dein child. War do du say?",
@@ -998,14 +1057,15 @@
     "context": "At a pet store choosing a pet for your child"
   },
   "q_vocab_a2_10_008": {
-    "question": "War does 'mariposa' bedeuten?",
-    "correct": "butterfly",
+    "question": "Was bedeutet 'mariposa'?",
+    "correct": "Schmetterling",
     "wrong": [
-      "dragonfly",
-      "bee",
-      "ladybug"
+      "Libelle",
+      "Biene",
+      "Marienkäfer"
     ],
-    "explanation": "'Mariposa' bedeutet 'butterfly'. Es ist auch used as der/die/das name für der/die/das butterfly stroke in swimming."
+    "explanation": "'Mariposa' bedeutet 'Schmetterling'. Es wird auch als Bezeichnung für den Schmetterlingsstil beim Schwimmen verwendet.",
+    "hint": null
   },
   "q_vocab_a2_10_009": {
     "question": "En la granja hay vacas, cerdos y gallinas.",
@@ -1018,35 +1078,38 @@
     "explanation": "'Granja' bedeutet 'farm'. 'Vaca' ist 'cow', 'cerdo' ist 'pig', und 'gallina' ist 'chicken/hen'."
   },
   "q_vocab_a2_10_010": {
-    "question": "Du visit a nature reserve und see viele animals. Du describe der/die/das experience zu a friend. War do du say?",
+    "question": "Du besuchst ein Naturschutzgebiet und siehst viele Tiere. Du erzählst einer Freundin oder einem Freund davon. Was sagst du?",
     "correct": "Vimos muchos animales salvajes: pájaros, serpientes y caballos.",
     "wrong": [
       "Vimos muchas mascotas: perros, gatos y conejos.",
       "Compramos muchos animales: vacas, cerdos y gallinas.",
       "Vimos muchos peces en la granja."
     ],
-    "explanation": "'Animales salvajes' bedeutet 'wild animals'. 'Vimos' (we saw) ist der/die/das Vergangenheit Zeitform von 'ver'. Nature reserves haben wild, not domestic, animals.",
-    "context": "Telling a friend about a visit to a nature reserve"
+    "explanation": "'Animales salvajes' bedeutet 'wilde Tiere'. 'Vimos' (wir sahen) ist die Vergangenheitsform von 'ver'. In Naturschutzgebieten leben wilde, keine domestizierten Tiere.",
+    "context": "Telling a friend about a visit to a nature reserve",
+    "hint": null
   },
   "q_vocab_a2_11_001": {
-    "question": "War does 'alto' bedeuten wann describing a Person?",
-    "correct": "tall",
+    "question": "Was bedeutet 'alto' bei der Beschreibung einer Person?",
+    "correct": "groß",
     "wrong": [
-      "short",
-      "thin",
-      "strong"
+      "klein",
+      "dünn",
+      "stark"
     ],
-    "explanation": "'Alto' bedeutet 'tall' wann describing a Person. Der/die/das opposite ist 'bajo' (short)."
+    "explanation": "'Alto' bedeutet 'groß', wenn man eine Person beschreibt. Das Gegenteil ist 'bajo' (klein).",
+    "hint": null
   },
   "q_vocab_a2_11_002": {
-    "question": "War does 'delgado' bedeuten?",
-    "correct": "thin/slim",
+    "question": "Was bedeutet 'delgado'?",
+    "correct": "dünn/schlank",
     "wrong": [
-      "tall",
-      "fat",
-      "strong"
+      "groß",
+      "dick",
+      "stark"
     ],
-    "explanation": "'Delgado' bedeutet 'thin' oder 'slim'. Der/die/das opposite ist 'gordo' (fat). A more polite alternative ist 'corpulento'."
+    "explanation": "'Delgado' bedeutet 'dünn' oder 'schlank'. Das Gegenteil ist 'gordo' (dick). Eine höflichere Alternative ist 'corpulento'.",
+    "hint": null
   },
   "q_vocab_a2_11_003": {
     "question": "Mi hermana tiene el pelo ___ y rubio.",
@@ -1059,24 +1122,26 @@
     "explanation": "'Largo' bedeutet 'long'. 'Pelo largo y rubio' bedeutet 'long und blonde hair'."
   },
   "q_vocab_a2_11_004": {
-    "question": "War does 'rizado' bedeuten in 'Tiene el pelo rizado'?",
-    "correct": "curly",
+    "question": "Was bedeutet 'rizado' in 'Tiene el pelo rizado'?",
+    "correct": "lockig",
     "wrong": [
-      "straight",
-      "short",
-      "dark"
+      "glatt",
+      "kurz",
+      "dunkel"
     ],
-    "explanation": "'Rizado' bedeutet 'curly'. Der/die/das opposite ist 'liso' (straight). Der/die/das Satz bedeutet 'He/She hat curly hair.'"
+    "explanation": "'Rizado' bedeutet 'lockig'. Das Gegenteil ist 'liso' (glatt). Der Satz heißt: 'Er/Sie hat lockiges Haar.'",
+    "hint": null
   },
   "q_vocab_a2_11_005": {
-    "question": "War does 'guapo' bedeuten in 'Tu novio es muy guapo'?",
-    "correct": "handsome/good-looking",
+    "question": "Was bedeutet 'guapo' in 'Tu novio es muy guapo'?",
+    "correct": "gutaussehend/hübsch",
     "wrong": [
-      "tall",
-      "funny",
-      "kind"
+      "groß",
+      "lustig",
+      "freundlich"
     ],
-    "explanation": "'Guapo' bedeutet 'handsome' oder 'good-looking'. Der/die/das weiblich form ist 'guapa'. Der/die/das Satz bedeutet 'Dein boyfriend ist sehr handsome.'"
+    "explanation": "'Guapo' bedeutet 'gutaussehend' oder 'attraktiv'. Die weibliche Form ist 'guapa'. Der Satz heißt: 'Dein Freund sieht sehr gut aus.'",
+    "hint": null
   },
   "q_vocab_a2_11_006": {
     "question": "She hat brown eyes und wears glasses.",
@@ -1089,14 +1154,15 @@
     "explanation": "'Ojos marrones' bedeutet 'brown eyes'. 'Llevar gafas' bedeutet 'zu wear glasses'. Note: 'llevar' wird verwendet für wearing accessories."
   },
   "q_vocab_a2_11_007": {
-    "question": "War does 'barba' bedeuten in 'Mi padre tiene barba'?",
-    "correct": "beard",
+    "question": "Was bedeutet 'barba' in 'Mi padre tiene barba'?",
+    "correct": "Bart",
     "wrong": [
-      "mustache",
-      "glasses",
-      "hat"
+      "Schnurrbart",
+      "Brille",
+      "Hut"
     ],
-    "explanation": "'Barba' bedeutet 'beard'. 'Bigote' bedeutet 'mustache'. Der/die/das Satz bedeutet 'My father hat a beard.'"
+    "explanation": "'Barba' bedeutet 'Bart'. 'Bigote' bedeutet 'Schnurrbart'. Der Satz bedeutet 'Mein Vater hat einen Bart.'",
+    "hint": null
   },
   "q_vocab_a2_11_008": {
     "question": "Es una chica alta y delgada con el pelo moreno y liso.",
@@ -1109,36 +1175,39 @@
     "explanation": "'Moreno' bedeutet 'dark' (hair color) und 'liso' bedeutet 'straight'. Together mit 'alta y delgada', Das ist ein full physical description."
   },
   "q_vocab_a2_11_009": {
-    "question": "A police officer asks du um zu beschreiben someone du saw. Der/die/das Person war short mit red curly hair. War do du say?",
+    "question": "Ein Polizist bittet dich, jemanden zu beschreiben, den du gesehen hast. Die Person war klein und hatte rote, lockige Haare. Was sagst du?",
     "correct": "Era bajo, con el pelo pelirrojo y rizado.",
     "wrong": [
       "Era alto, con el pelo rubio y liso.",
       "Era gordo, con el pelo moreno y largo.",
       "Era delgado, con los ojos azules y gafas."
     ],
-    "explanation": "'Bajo' bedeutet 'short' (height). 'Pelirrojo' bedeutet 'red-haired' und 'rizado' bedeutet 'curly'. 'Era' ist Vergangenheit Zeitform von 'ser' für descriptions.",
-    "context": "At a police station describing someone you witnessed"
+    "explanation": "'Bajo' bedeutet 'klein' (Körpergröße). 'Pelirrojo' bedeutet 'rothaarig' und 'rizado' bedeutet 'lockig'. 'Era' ist die Vergangenheitsform von 'ser' für Beschreibungen.",
+    "context": "At a police station describing someone you witnessed",
+    "hint": null
   },
   "q_vocab_a2_11_010": {
-    "question": "Du sind picking up a friend an der/die/das airport whom du haben nie met. Sie ask wie zu recognize du. War do du say?",
+    "question": "Du holst am Flughafen einen Freund ab, den du noch nie getroffen hast. Er fragt, woran er dich erkennen kann. Was sagst du?",
     "correct": "Soy alto, con pelo rubio corto y llevo gafas.",
     "wrong": [
       "Soy bajo, con pelo moreno largo y llevo barba.",
       "Soy delgado, con ojos verdes y llevo sombrero.",
       "Soy gordo, con pelo rizado y llevo chaqueta roja."
     ],
-    "explanation": "Wann describing yourself, use 'soy' (I am) für permanent traits und 'llevo' (I wear) für accessories like glasses.",
-    "context": "On the phone with a friend who is arriving at the airport"
+    "explanation": "Wenn du dich selbst beschreibst, benutzt du 'soy' (ich bin) für dauerhafte Eigenschaften und 'llevo' (ich trage) für Accessoires wie eine Brille.",
+    "context": "On the phone with a friend who is arriving at the airport",
+    "hint": null
   },
   "q_vocab_a2_12_001": {
-    "question": "War does 'simpático' bedeuten?",
-    "correct": "nice/friendly",
+    "question": "Was bedeutet 'simpático'?",
+    "correct": "nett/freundlich",
     "wrong": [
-      "funny",
-      "shy",
-      "serious"
+      "lustig",
+      "schüchtern",
+      "ernst"
     ],
-    "explanation": "'Simpático' bedeutet 'nice' oder 'friendly'. Der/die/das opposite ist 'antipático' (unfriendly). Sein careful: es ist a false friend mit Englisch 'sympathetic'."
+    "explanation": "'Simpático' bedeutet 'nett' oder 'freundlich'. Das Gegenteil ist 'antipático' (unfreundlich). Vorsicht: Es ist ein falscher Freund zum englischen 'sympathetic'.",
+    "hint": null
   },
   "q_vocab_a2_12_002": {
     "question": "Mi compañero de clase es muy ___. Siempre me ayuda con los deberes.",
@@ -1148,7 +1217,8 @@
       "tímido",
       "celoso"
     ],
-    "explanation": "'Amable' bedeutet 'kind'. Der/die/das Satz bedeutet 'My classmate ist sehr kind. He immer helps me mit homework.'"
+    "explanation": "'Amable' bedeutet 'freundlich/nett'. Der Satz bedeutet 'Mein Klassenkamerad ist sehr nett. Er hilft mir immer bei den Hausaufgaben.'",
+    "hint": null
   },
   "q_vocab_a2_12_003": {
     "question": "War does 'tímido' bedeuten?",
@@ -1161,14 +1231,15 @@
     "explanation": "'Tímido' bedeutet 'shy'. A shy Person hat difficulty in social situations."
   },
   "q_vocab_a2_12_004": {
-    "question": "War does 'perezoso' bedeuten?",
-    "correct": "lazy",
+    "question": "Was bedeutet 'perezoso'?",
+    "correct": "faul",
     "wrong": [
-      "hardworking",
-      "patient",
-      "generous"
+      "fleißig",
+      "geduldig",
+      "großzügig"
     ],
-    "explanation": "'Perezoso' bedeutet 'lazy'. A synonym ist 'vago'. Der/die/das opposite ist 'trabajador' (hardworking)."
+    "explanation": "'Perezoso' bedeutet 'faul'. Ein Synonym ist 'vago'. Das Gegenteil ist 'trabajador' (fleißig).",
+    "hint": null
   },
   "q_vocab_a2_12_005": {
     "question": "My brother ist sehr hardworking und patient.",
@@ -1181,14 +1252,15 @@
     "explanation": "'Trabajador' bedeutet 'hardworking' und 'paciente' bedeutet 'patient'. Das sind positive personality traits."
   },
   "q_vocab_a2_12_006": {
-    "question": "War does 'generoso' bedeuten in 'Mi abuela es muy generosa con todos'?",
-    "correct": "generous",
+    "question": "Was bedeutet 'generoso' in 'Mi abuela es muy generosa con todos'?",
+    "correct": "großzügig",
     "wrong": [
-      "strict",
-      "patient",
-      "cheerful"
+      "streng",
+      "geduldig",
+      "fröhlich"
     ],
-    "explanation": "'Generoso/a' bedeutet 'generous'. Der/die/das Satz bedeutet 'My grandmother ist sehr generous mit everyone.'"
+    "explanation": "'Generoso/a' bedeutet 'großzügig'. Der Satz bedeutet 'Meine Großmutter ist zu allen sehr großzügig.'",
+    "hint": null
   },
   "q_vocab_a2_12_007": {
     "question": "Dein friend ist immer making Leute laugh. Wie würde du describe them?",
@@ -1202,14 +1274,15 @@
     "context": "Describing a friend's personality to someone new"
   },
   "q_vocab_a2_12_008": {
-    "question": "War does 'optimista' bedeuten in 'Siempre soy optimista sobre el futuro'?",
-    "correct": "optimistic",
+    "question": "Was bedeutet 'optimista' in 'Siempre soy optimista sobre el futuro'?",
+    "correct": "optimistisch",
     "wrong": [
-      "pessimistic",
-      "realistic",
-      "indifferent"
+      "pessimistisch",
+      "realistisch",
+      "gleichgültig"
     ],
-    "explanation": "'Optimista' bedeutet 'optimistic'. Der/die/das opposite ist 'pesimista'. Der/die/das Satz bedeutet 'I am immer optimistic about der/die/das Zukunft.'"
+    "explanation": "'Optimista' bedeutet 'optimistisch'. Das Gegenteil ist 'pesimista'. Der Satz bedeutet 'Ich bin immer optimistisch, was die Zukunft angeht.'",
+    "hint": null
   },
   "q_vocab_a2_12_009": {
     "question": "Ella es muy celosa y siempre quiere saber dónde está su novio.",
@@ -1222,15 +1295,16 @@
     "explanation": "'Celoso/a' bedeutet 'jealous'. Es beschreibt someone wer feels insecure oder possessive in a relationship."
   },
   "q_vocab_a2_12_010": {
-    "question": "Dein friend asks du um zu beschreiben dein ideal partner's personality. Du value kindness und a sense von humor. War do du say?",
+    "question": "Dein Freund bittet dich, die Persönlichkeit deines idealen Partners zu beschreiben. Dir sind Freundlichkeit und Humor wichtig. Was sagst du?",
     "correct": "Para mí, lo más importante es que sea amable y divertido.",
     "wrong": [
       "Para mí, lo más importante es que sea serio y trabajador.",
       "Para mí, lo más importante es que sea tímido y paciente.",
       "Para mí, lo más importante es que sea generoso y optimista."
     ],
-    "explanation": "'Amable' bedeutet 'kind' und 'divertido' bedeutet 'funny'. 'Lo más importante' bedeutet 'der/die/das die meisten important thing'. 'Sea' ist der/die/das Konjunktiv von 'ser'.",
-    "context": "Having a conversation with friends about ideal partner qualities"
+    "explanation": "'Amable' bedeutet 'freundlich' und 'divertido' bedeutet 'lustig'. 'Lo más importante' bedeutet 'das Wichtigste'. 'Sea' ist der Subjuntivo von 'ser'.",
+    "context": "Having a conversation with friends about ideal partner qualities",
+    "hint": null
   },
   "q_vocab_a2_13_001": {
     "question": "War does 'mensaje' bedeuten?",
@@ -1243,14 +1317,15 @@
     "explanation": "'Mensaje' bedeutet 'message'. Es kann sein a text message ('mensaje de texto') oder a phone message ('recado')."
   },
   "q_vocab_a2_13_002": {
-    "question": "War does 'sobre' bedeuten in 'Mete la carta en el sobre'?",
-    "correct": "envelope",
+    "question": "Was bedeutet 'sobre' in 'Mete la carta en el sobre'?",
+    "correct": "Briefumschlag",
     "wrong": [
-      "mailbox",
-      "stamp",
-      "folder"
+      "Briefkasten",
+      "Briefmarke",
+      "Mappe"
     ],
-    "explanation": "'Sobre' bedeutet 'envelope'. Der/die/das Satz bedeutet 'Put der/die/das letter in der/die/das envelope.' Note: 'sobre' auch bedeutet 'on/about' as a Präposition."
+    "explanation": "'Sobre' bedeutet 'Briefumschlag'. Der Satz bedeutet 'Steck den Brief in den Umschlag.' Hinweis: 'sobre' bedeutet als Präposition auch 'auf/über'.",
+    "hint": null
   },
   "q_vocab_a2_13_003": {
     "question": "Necesito comprar un ___ para enviar esta carta.",
@@ -1263,24 +1338,26 @@
     "explanation": "'Sello' bedeutet 'stamp' (postage stamp). Du buy stamps ('sellos') an post offices oder tobacco shops ('estancos') in Spain."
   },
   "q_vocab_a2_13_004": {
-    "question": "War does 'colgar' bedeuten in a phone conversation?",
-    "correct": "to hang up",
+    "question": "Was bedeutet 'colgar' in einem Telefongespräch?",
+    "correct": "auflegen",
     "wrong": [
-      "to call",
-      "to answer",
-      "to dial"
+      "anrufen",
+      "abheben",
+      "wählen"
     ],
-    "explanation": "'Colgar' bedeutet 'zu hang up' der/die/das phone. Der/die/das opposite actions sind 'llamar' (zu call) und 'contestar' (zu answer)."
+    "explanation": "'Colgar' bedeutet das Telefon 'auflegen'. Die gegenteiligen Handlungen sind 'llamar' (anrufen) und 'contestar' (abheben/antworten).",
+    "hint": null
   },
   "q_vocab_a2_13_005": {
-    "question": "War does 'recado' bedeuten in 'Te dejé un recado en el contestador'?",
-    "correct": "message (phone message)",
+    "question": "Was bedeutet 'recado' in 'Te dejé un recado en el contestador'?",
+    "correct": "Nachricht (Telefonnachricht)",
     "wrong": [
-      "letter",
-      "voicemail machine",
-      "phone number"
+      "Brief",
+      "Anrufbeantworter",
+      "Telefonnummer"
     ],
-    "explanation": "'Recado' bedeutet a message left für someone, besonders a phone message. Der/die/das Satz bedeutet 'I left du a message on der/die/das answering machine.'"
+    "explanation": "'Recado' bedeutet eine Nachricht, die man für jemanden hinterlässt, besonders eine Telefonnachricht. Der Satz bedeutet 'Ich habe dir eine Nachricht auf dem Anrufbeantworter hinterlassen.'",
+    "hint": null
   },
   "q_vocab_a2_13_006": {
     "question": "Dear María, I am writing zu invite du zu my party.",
@@ -1293,24 +1370,26 @@
     "explanation": "'Querida' bedeutet 'Dear' (weiblich) und wird verwendet in informell letters. 'Te escribo para' bedeutet 'I am writing zu du zu'."
   },
   "q_vocab_a2_13_007": {
-    "question": "War does 'contestar' bedeuten in '¿Por qué no contestas el teléfono?'?",
-    "correct": "to answer",
+    "question": "Was bedeutet 'contestar' in '¿Por qué no contestas el teléfono?'?",
+    "correct": "antworten/abheben",
     "wrong": [
-      "to call",
-      "to hang up",
-      "to dial"
+      "anrufen",
+      "auflegen",
+      "wählen"
     ],
-    "explanation": "'Contestar' bedeutet 'zu answer'. Der/die/das Satz bedeutet 'Warum don't du answer der/die/das phone?' Es kann refer zu answering calls, questions, oder messages."
+    "explanation": "'Contestar' bedeutet 'antworten' bzw. 'abheben'. Der Satz bedeutet 'Warum gehst du nicht ans Telefon?' Es kann sich auf Anrufe, Fragen oder Nachrichten beziehen.",
+    "hint": null
   },
   "q_vocab_a2_13_008": {
     "question": "Escribí 'Atentamente' al final de la carta formal.",
-    "correct": "I wrote 'Sincerely' at the end of the formal letter.",
+    "correct": "Ich schrieb 'Mit freundlichen Grüßen' ans Ende des formellen Briefes.",
     "wrong": [
-      "I wrote 'Dear' at the end of the formal letter.",
-      "I wrote 'Best wishes' at the end of the formal letter.",
-      "I wrote 'Goodbye' at the end of the formal letter."
+      "Ich schrieb 'Sehr geehrte' ans Ende des formellen Briefes.",
+      "Ich schrieb 'Alles Gute' ans Ende des formellen Briefes.",
+      "Ich schrieb 'Auf Wiedersehen' ans Ende des formellen Briefes."
     ],
-    "explanation": "'Atentamente' bedeutet 'Sincerely' oder 'Yours faithfully'. Es ist der/die/das standard closing für formell letters auf Spanisch."
+    "explanation": "'Atentamente' bedeutet 'Mit freundlichen Grüßen'. Es ist die übliche Schlussformel für formelle Briefe auf Spanisch.",
+    "hint": null
   },
   "q_vocab_a2_13_009": {
     "question": "Dein Telefon klingelt und du gehst ran. Was ist in Spanien eine übliche Art, sich am Telefon zu melden?",
@@ -1325,15 +1404,16 @@
     "hint": null
   },
   "q_vocab_a2_13_010": {
-    "question": "Du need zu mail a letter zu a friend in another country. Du go zu der/die/das post office. War do du say?",
+    "question": "Du musst einen Brief an einen Freund in einem anderen Land schicken. Du gehst zur Post. Was sagst du?",
     "correct": "Quiero enviar esta carta al extranjero. ¿Cuánto cuesta el sello?",
     "wrong": [
       "Quiero llamar a mi amigo en el extranjero. ¿Cuánto cuesta?",
       "Quiero comprar un buzón para el extranjero. ¿Dónde está?",
       "Quiero contestar esta carta del extranjero. ¿Tiene un sobre?"
     ],
-    "explanation": "'Enviar' bedeutet 'zu send'. 'Al extranjero' bedeutet 'abroad'. Du need a 'sello' (stamp) zu send mail.",
-    "context": "At the post office wanting to send a letter internationally"
+    "explanation": "'Enviar' bedeutet 'senden/schicken'. 'Al extranjero' bedeutet 'ins Ausland'. Um Post zu verschicken, braucht man einen 'sello' (Briefmarke).",
+    "context": "At the post office wanting to send a letter internationally",
+    "hint": null
   },
   "q_vocab_a2_14_001": {
     "question": "War does 'cajero automático' bedeuten?",
@@ -1353,7 +1433,8 @@
       "firmar",
       "ingresar"
     ],
-    "explanation": "'Sacar dinero' bedeutet 'zu withdraw money'. 'Retirar' ist a synonym. Der/die/das Satz bedeutet 'I need zu withdraw money von der/die/das ATM.'"
+    "explanation": "'Sacar dinero' bedeutet 'Geld abheben'. 'Retirar' ist ein Synonym. Der Satz bedeutet 'Ich muss am Geldautomaten Geld abheben.'",
+    "hint": null
   },
   "q_vocab_a2_14_003": {
     "question": "War does 'cuenta bancaria' bedeuten?",
@@ -1366,55 +1447,60 @@
     "explanation": "'Cuenta bancaria' bedeutet 'bank account'. 'Abrir una cuenta' bedeutet 'zu open an account'."
   },
   "q_vocab_a2_14_004": {
-    "question": "War does 'transferencia' bedeuten in 'Hice una transferencia de 200 euros'?",
-    "correct": "bank transfer",
+    "question": "Was bedeutet 'transferencia' in 'Hice una transferencia de 200 euros'?",
+    "correct": "Überweisung",
     "wrong": [
-      "withdrawal",
-      "deposit",
-      "payment"
+      "Abhebung",
+      "Einzahlung",
+      "Zahlung"
     ],
-    "explanation": "'Transferencia' bedeutet 'bank transfer'. Der/die/das Satz bedeutet 'I made a transfer von 200 euros.'"
+    "explanation": "'Transferencia' bedeutet 'Banküberweisung'. Der Satz bedeutet 'Ich habe 200 Euro überwiesen.'",
+    "hint": null
   },
   "q_vocab_a2_14_005": {
-    "question": "I want zu deposit money into my account.",
+    "question": "Ich möchte Geld auf mein Konto einzahlen.",
     "correct": "Quiero ingresar dinero en mi cuenta.",
     "wrong": [
       "Quiero sacar dinero de mi cuenta.",
       "Quiero enviar dinero a mi cuenta.",
       "Quiero firmar dinero en mi cuenta."
     ],
-    "explanation": "'Ingresar' bedeutet 'zu deposit' money. 'Depositar' ist auch used, besonders in Latin America. Der/die/das opposite ist 'sacar/retirar' (withdraw)."
+    "explanation": "'Ingresar' bedeutet Geld 'einzahlen'. 'Depositar' wird ebenfalls verwendet, besonders in Lateinamerika. Das Gegenteil ist 'sacar/retirar' (abheben).",
+    "hint": null
   },
   "q_vocab_a2_14_006": {
-    "question": "War does 'ventanilla' bedeuten in 'Diríjase a la ventanilla número tres'?",
-    "correct": "service window/counter",
+    "question": "Was bedeutet 'ventanilla' in 'Diríjase a la ventanilla número tres'?",
+    "correct": "Schalter",
     "wrong": [
-      "entrance",
-      "exit",
-      "waiting area"
+      "Eingang",
+      "Ausgang",
+      "Wartebereich"
     ],
-    "explanation": "'Ventanilla' bedeutet 'service window' oder 'counter' an a bank oder post office. Der/die/das Satz bedeutet 'Go zu window number three.'"
+    "explanation": "'Ventanilla' bedeutet 'Schalter' in einer Bank oder auf der Post. Der Satz bedeutet 'Gehen Sie bitte zu Schalter Nummer drei.'",
+    "hint": null
   },
   "q_vocab_a2_14_007": {
-    "question": "Du sind an der/die/das post office und want zu send a package zu dein family. War do du say?",
+    "question": "Du bist auf der Post und möchtest ein Paket an deine Familie schicken. Was sagst du?",
     "correct": "Quiero enviar este paquete a esta dirección, por favor.",
     "wrong": [
       "Quiero sacar este paquete de esta dirección, por favor.",
       "Quiero firmar este paquete en esta dirección, por favor.",
       "Quiero ingresar este paquete en esta dirección, por favor."
     ],
-    "explanation": "'Enviar un paquete' bedeutet 'zu send a package'. 'Dirección' bedeutet 'address'.",
-    "context": "At the post office with a package to send"
+    "explanation": "'Enviar un paquete' bedeutet 'ein Paket verschicken'. 'Dirección' bedeutet 'Adresse'.",
+    "context": "At the post office with a package to send",
+    "hint": null
   },
   "q_vocab_a2_14_008": {
-    "question": "War does 'firmar' bedeuten in 'Tiene que firmar aquí, por favor'?",
-    "correct": "to sign",
+    "question": "Was bedeutet 'firmar' in 'Tiene que firmar aquí, por favor'?",
+    "correct": "unterschreiben",
     "wrong": [
-      "to write",
-      "to fill in",
-      "to stamp"
+      "schreiben",
+      "ausfüllen",
+      "abstempeln"
     ],
-    "explanation": "'Firmar' bedeutet 'zu sign'. Der/die/das Satz bedeutet 'Du haben zu sign hier, please.' 'La firma' ist der/die/das Nomen Bedeutung 'signature'."
+    "explanation": "'Firmar' bedeutet 'unterschreiben'. Der Satz bedeutet 'Sie müssen hier unterschreiben, bitte.' 'La firma' ist das Nomen und bedeutet 'die Unterschrift'.",
+    "hint": null
   },
   "q_vocab_a2_14_009": {
     "question": "Por favor, rellene este formulario con sus datos personales.",
@@ -1427,25 +1513,27 @@
     "explanation": "'Rellenar un formulario' bedeutet 'zu fill in a form'. 'Datos personales' bedeutet 'personal details/information'."
   },
   "q_vocab_a2_14_010": {
-    "question": "Du sind an a bank und want zu open a new account. War do du say zu der/die/das bank clerk?",
+    "question": "Du bist in einer Bank und möchtest ein neues Konto eröffnen. Was sagst du zum Bankangestellten?",
     "correct": "Buenos días, quiero abrir una cuenta bancaria.",
     "wrong": [
       "Buenos días, quiero cerrar una cuenta bancaria.",
       "Buenos días, quiero sacar dinero de una cuenta.",
       "Buenos días, quiero enviar una transferencia."
     ],
-    "explanation": "'Abrir una cuenta' bedeutet 'zu open an account'. 'Cerrar' würde bedeuten 'zu close'. Das ist der/die/das first step in banking.",
-    "context": "At a bank wanting to open a new account"
+    "explanation": "'Abrir una cuenta' bedeutet 'ein Konto eröffnen'. 'Cerrar' würde 'schließen' bedeuten. Das ist der erste Schritt bei Bankgeschäften.",
+    "context": "At a bank wanting to open a new account",
+    "hint": null
   },
   "q_vocab_a2_15_001": {
-    "question": "War does 'película' bedeuten?",
-    "correct": "movie/film",
+    "question": "Was bedeutet 'película'?",
+    "correct": "Film",
     "wrong": [
-      "play",
-      "song",
-      "show"
+      "Theaterstück",
+      "Lied",
+      "Show"
     ],
-    "explanation": "'Película' bedeutet 'movie' oder 'film'. Du watch a 'película' an der/die/das 'cine' (cinema)."
+    "explanation": "'Película' bedeutet 'Film'. Eine 'película' sieht man im 'cine' (Kino).",
+    "hint": null
   },
   "q_vocab_a2_15_002": {
     "question": "War does 'concierto' bedeuten?",
@@ -1465,57 +1553,63 @@
       "concierto",
       "museo"
     ],
-    "explanation": "'Teatro' bedeutet 'theater'. An 'obra de teatro' ist a 'play'. Der/die/das Satz bedeutet 'Yesterday I went zu der/die/das theater zu see a sehr funny play.'"
+    "explanation": "'Teatro' bedeutet 'Theater'. Eine 'obra de teatro' ist ein 'Theaterstück'. Der Satz bedeutet 'Gestern bin ich ins Theater gegangen, um ein sehr lustiges Theaterstück zu sehen.'",
+    "hint": null
   },
   "q_vocab_a2_15_004": {
-    "question": "War does 'exposición' bedeuten in 'Fuimos a ver la exposición de arte moderno'?",
-    "correct": "exhibition",
+    "question": "Was bedeutet 'exposición' in 'Fuimos a ver la exposición de arte moderno'?",
+    "correct": "Ausstellung",
     "wrong": [
-      "collection",
-      "sculpture",
-      "painting"
+      "Sammlung",
+      "Skulptur",
+      "Gemälde"
     ],
-    "explanation": "'Exposición' bedeutet 'exhibition'. Der/die/das Satz bedeutet 'We went zu see der/die/das modern art exhibition.'"
+    "explanation": "'Exposición' bedeutet 'Ausstellung'. Der Satz bedeutet 'Wir sind zur Ausstellung moderner Kunst gegangen.'",
+    "hint": null
   },
   "q_vocab_a2_15_005": {
-    "question": "War does 'divertirse' bedeuten in 'Nos divertimos mucho en la fiesta'?",
-    "correct": "to have fun",
+    "question": "Was bedeutet 'divertirse' in 'Nos divertimos mucho en la fiesta'?",
+    "correct": "Spaß haben",
     "wrong": [
-      "to get bored",
-      "to get lost",
-      "to get tired"
+      "sich langweilen",
+      "sich verirren",
+      "müde werden"
     ],
-    "explanation": "'Divertirse' bedeutet 'zu haben fun'. Es ist a Reflexiv Verb. Der/die/das Satz bedeutet 'We hatte a lot von fun an der/die/das party.'"
+    "explanation": "'Divertirse' bedeutet 'Spaß haben'. Es ist ein reflexives Verb. Der Satz bedeutet 'Wir hatten auf der Party viel Spaß.'",
+    "hint": null
   },
   "q_vocab_a2_15_006": {
-    "question": "In my free Zeit I like zu go zu der/die/das cinema.",
+    "question": "In meiner Freizeit gehe ich gern ins Kino.",
     "correct": "En mi tiempo libre me gusta ir al cine.",
     "wrong": [
       "En mi tiempo libre me gusta ir al trabajo.",
       "En mi tiempo libre me gusta ir al banco.",
       "En mi tiempo libre me gusta ir al hospital."
     ],
-    "explanation": "'Tiempo libre' bedeutet 'free Zeit'. 'Cine' bedeutet 'cinema'. 'Ir al cine' ist a häufig leisure activity."
+    "explanation": "'Tiempo libre' bedeutet 'Freizeit'. 'Cine' bedeutet 'Kino'. 'Ir al cine' ist eine häufige Freizeitaktivität.",
+    "hint": null
   },
   "q_vocab_a2_15_007": {
-    "question": "War does 'aburrirse' bedeuten in 'Me aburro cuando no tengo nada que hacer'?",
-    "correct": "to get bored",
+    "question": "Was bedeutet 'aburrirse' in 'Me aburro cuando no tengo nada que hacer'?",
+    "correct": "sich langweilen",
     "wrong": [
-      "to have fun",
-      "to relax",
-      "to get angry"
+      "Spaß haben",
+      "sich entspannen",
+      "wütend werden"
     ],
-    "explanation": "'Aburrirse' bedeutet 'zu get bored'. Es ist der/die/das opposite von 'divertirse' (zu haben fun). Der/die/das Satz bedeutet 'I get bored wann I haben nothing zu do.'"
+    "explanation": "'Aburrirse' bedeutet 'sich langweilen'. Es ist das Gegenteil von 'divertirse' (Spaß haben). Der Satz bedeutet 'Ich langweile mich, wenn ich nichts zu tun habe.'",
+    "hint": null
   },
   "q_vocab_a2_15_008": {
     "question": "Ayer vimos una película de terror y lo pasamos muy mal.",
-    "correct": "Yesterday we watched a horror movie and we had a terrible time.",
+    "correct": "Gestern haben wir einen Horrorfilm gesehen und hatten eine schreckliche Zeit.",
     "wrong": [
-      "Yesterday we watched a comedy and we had a great time.",
-      "Yesterday we watched a horror movie and we had a great time.",
-      "Yesterday we watched an action movie and we had a terrible time."
+      "Gestern haben wir eine Komödie gesehen und hatten eine tolle Zeit.",
+      "Gestern haben wir einen Horrorfilm gesehen und hatten eine tolle Zeit.",
+      "Gestern haben wir einen Actionfilm gesehen und hatten eine schreckliche Zeit."
     ],
-    "explanation": "'Película de terror' bedeutet 'horror movie'. 'Pasarlo mal' bedeutet 'zu haben a bad Zeit'. Der/die/das opposite ist 'pasarlo bien'."
+    "explanation": "'Película de terror' bedeutet 'Horrorfilm'. 'Pasarlo mal' bedeutet 'eine schlechte Zeit haben'. Das Gegenteil ist 'pasarlo bien'.",
+    "hint": null
   },
   "q_vocab_a2_15_009": {
     "question": "Dein friend suggests going zu a concert dies weekend. Du want zu accept enthusiastically. War do du say?",

@@ -290,14 +290,15 @@
     "hint": "это является mixed условное наклонение с past condition"
   },
   "q_gram_b2_03_008": {
-    "question": "If we had arrived earlier, we бы иметь gotten better seats.",
+    "question": "Если бы мы приехали раньше, мы получили бы места получше.",
     "correct": "Si hubiéramos llegado antes, habríamos conseguido mejores asientos.",
     "wrong": [
       "Si llegáramos antes, conseguiríamos mejores asientos.",
       "Si habíamos llegado antes, habríamos conseguido mejores asientos.",
       "Si hubiéramos llegado antes, conseguimos mejores asientos."
     ],
-    "explanation": "это является Type 3 условное наклонение: 'si hubiéramos llegado' (pluperfect сослагательное наклонение) + 'habríamos conseguido' (условное наклонение perfect). это describes unreal past scenario."
+    "explanation": "Это условное предложение 3-го типа: 'si hubiéramos llegado' (плюсквамперфект сослагательного наклонения) + 'habríamos conseguido' (условное наклонение прошедшего времени). Оно описывает нереальную ситуацию в прошлом.",
+    "hint": null
   },
   "q_gram_b2_03_009": {
     "question": "Vosotros ___ la respuesta si hubierais leído el capítulo. (saber, условное наклонение perfect, vosotros form)",
@@ -343,15 +344,15 @@
     "hint": "'En tu lugar' introduces hypothetical situation"
   },
   "q_gram_b2_04_003": {
-    "question": "Nosotros ___ la noticia, pero nadie nos llamó. (creer, условное наклонение perfect)",
+    "question": "Nosotros ___ la noticia, pero nadie nos llamó. (creer, прошедшее условное)",
     "correct": "habríamos creído",
     "wrong": [
       "hubiéramos creído",
       "habíamos creído",
       "creeríamos"
     ],
-    "explanation": " условное наклонение perfect (habríamos creído) указывает на something который бы иметь happened if circumstances had been different. Creer's past причастие есть creído.",
-    "hint": " условное наклонение perfect expresses unrealized past action"
+    "explanation": "Прошедшее условное (habríamos creído) указывает на то, что могло бы произойти, если бы обстоятельства были другими. Причастие прошедшего времени от creer — creído.",
+    "hint": "Прошедшее условное выражает несостоявшееся действие в прошлом"
   },
   "q_gram_b2_04_004": {
     "question": "когда есть условное наклонение perfect (habría + причастие прошедшего времени) used в испанском?",
@@ -1329,15 +1330,15 @@
     "conjugation_info": "saber (present сослагательное наклонение): sepa, sepas, sepa, sepamos, sepáis, sepan"
   },
   "q_gram_b2_13_005": {
-    "question": "¿Conoces a alguien que ___ tocar el violín? (saber, сослагательное настоящего времени)",
+    "question": "¿Conoces a alguien que ___ tocar el violín? (saber, настоящее время сослагательного наклонения)",
     "correct": "sepa",
     "wrong": [
       "sabe",
       "sabría",
       "supiera"
     ],
-    "explanation": "в question about whether such человек exists, сослагательное наклонение используется потому что speaker does не know if anyone fits description. 'Sepa' есть present сослагательное наклонение.",
-    "hint": " speaker есть uncertain whether such человек exists"
+    "explanation": "В вопросе о том, существует ли такой человек, используется сослагательное наклонение, потому что говорящий не знает, подходит ли кто-нибудь под это описание. 'Sepa' — настоящее время сослагательного наклонения.",
+    "hint": "Говорящий не уверен, существует ли такой человек"
   },
   "q_gram_b2_13_006": {
     "question": "La empresa quiere contratar a alguien que ___ experiencia en inteligencia artificial. (tener, сослагательное настоящего времени, 3rd человек единственное число)",
@@ -1384,24 +1385,26 @@
   },
   "q_gram_b2_13_010": {
     "question": "Necesitamos empleados que sean responsables y que tengan iniciativa.",
-    "correct": "We need employees who are responsible and who have initiative.",
+    "correct": "Нам нужны сотрудники, которые ответственны и проявляют инициативу.",
     "wrong": [
-      "We need employees who would be responsible and who would have initiative.",
-      "We needed employees who were responsible and who had initiative.",
-      "We need employees that are being responsible and having initiative."
+      "Нам нужны сотрудники, которые были бы ответственными и проявляли бы инициативу.",
+      "Нам были нужны сотрудники, которые были ответственными и проявляли инициативу.",
+      "Нам нужны сотрудники, которые являются в процессе ответственности и проявления инициативы."
     ],
-    "explanation": "'Sean' и 'tengan' являются present сослагательное наклонение потому что employees иметь не yet been found (hypothetical antecedent). в английский, изъявительное наклонение используется в translation поскольку английский does не distinguish это mood в relative clauses."
+    "explanation": "'Sean' и 'tengan' стоят в настоящем времени сослагательного наклонения, потому что такие сотрудники ещё не найдены (гипотетический антецедент). В переводе используется изъявительное наклонение, так как в придаточных определительных предложениях русский язык, как и английский, не различает это наклонение.",
+    "hint": null
   },
   "q_gram_b2_14_001": {
-    "question": "Él habla como si ___ nativo. (ser, past сослагательное наклонение, él form)",
+    "question": "Él habla como si ___ nativo. (ser, прошедшее время сослагательного наклонения, форма él)",
     "correct": "fuera",
     "wrong": [
       "es",
       "sería",
       "fue"
     ],
-    "explanation": "'Como si' (as if) есть всегда за которым следует past сослагательное наклонение (или pluperfect сослагательное наклонение) в испанский. поскольку 'ser' shares its past сослагательное наклонение с 'ir', форма есть fuera.",
-    "conjugation_info": "ser (past сослагательное наклонение): fuera, fueras, fuera, fuéramos, fuerais, fueran"
+    "explanation": "За 'como si' («как будто») в испанском всегда следует имперфект сослагательного наклонения (или плюсквамперфект сослагательного наклонения). Поскольку у 'ser' форма имперфекта сослагательного наклонения совпадает с 'ir', получается fuera.",
+    "conjugation_info": "ser (past сослагательное наклонение): fuera, fueras, fuera, fuéramos, fuerais, fueran",
+    "hint": null
   },
   "q_gram_b2_14_002": {
     "question": "Ella gasta dinero como si ___ millonaria. (ser, past сослагательное наклонение)",

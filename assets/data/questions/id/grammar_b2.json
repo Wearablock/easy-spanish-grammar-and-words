@@ -290,14 +290,15 @@
     "hint": "ini adalah mixed kondisial dengan a past kondisi"
   },
   "q_gram_b2_03_008": {
-    "question": "If we had arrived earlier, we akan memiliki gotten better seats.",
+    "question": "Seandainya kami tiba lebih awal, kami pasti mendapat tempat duduk yang lebih baik.",
     "correct": "Si hubiéramos llegado antes, habríamos conseguido mejores asientos.",
     "wrong": [
       "Si llegáramos antes, conseguiríamos mejores asientos.",
       "Si habíamos llegado antes, habríamos conseguido mejores asientos.",
       "Si hubiéramos llegado antes, conseguimos mejores asientos."
     ],
-    "explanation": "ini adalah Type 3 kondisial: 'si hubiéramos llegado' (plusquamperfek subjungtif) + 'habríamos conseguido' (kondisial perfect). itu describes an unreal past scenario."
+    "explanation": "Ini adalah kalimat pengandaian tipe 3: 'si hubiéramos llegado' (subjuntivo pluscuamperfecto) + 'habríamos conseguido' (kondisional perfecto). Kalimat ini menggambarkan situasi masa lalu yang tidak nyata.",
+    "hint": null
   },
   "q_gram_b2_03_009": {
     "question": "Vosotros ___ la respuesta si hubierais leído el capítulo. (saber, kondisional perfect, vosotros form)",
@@ -343,15 +344,15 @@
     "hint": "'En tu lugar' introduces a hypothetical situation"
   },
   "q_gram_b2_04_003": {
-    "question": "Nosotros ___ la noticia, pero nadie nos llamó. (creer, kondisional perfect)",
+    "question": "Nosotros ___ la noticia, pero nadie nos llamó. (creer, condicional perfecto)",
     "correct": "habríamos creído",
     "wrong": [
       "hubiéramos creído",
       "habíamos creído",
       "creeríamos"
     ],
-    "explanation": "ini/itu kondisial perfect (habríamos creído) indicates something itu akan memiliki happened if circumstances had been different. Creer's partisip lampau adalah creído.",
-    "hint": "ini/itu kondisial perfect expresses an unrealized past action"
+    "explanation": "Kondisional perfecto (habríamos creído) menunjukkan sesuatu yang akan terjadi seandainya keadaannya berbeda. Participio lampau dari creer adalah creído.",
+    "hint": "Kondisional perfecto menyatakan tindakan masa lalu yang tidak terwujud"
   },
   "q_gram_b2_04_004": {
     "question": "kapan adalah ini/itu kondisional perfect (habría + partisip lampau) used dalam bahasa Spanyol?",
@@ -1328,15 +1329,15 @@
     "conjugation_info": "saber (present subjunctive): sepa, sepas, sepa, sepamos, sepáis, sepan"
   },
   "q_gram_b2_13_005": {
-    "question": "¿Conoces a alguien que ___ tocar el violín? (saber, subjungtif kala kini)",
+    "question": "¿Conoces a alguien que ___ tocar el violín? (saber, subjuntivo presente)",
     "correct": "sepa",
     "wrong": [
       "sabe",
       "sabría",
       "supiera"
     ],
-    "explanation": "di a question about whether such a orang exists, ini/itu subjungtif digunakan karena ini/itu speaker does not know if anyone fits ini/itu description. 'Sepa' adalah subjungtif kala kini.",
-    "hint": "ini/itu speaker adalah uncertain whether such a orang exists"
+    "explanation": "Dalam pertanyaan tentang apakah orang seperti itu ada, dipakai subjuntivo karena pembicara tidak tahu apakah ada yang sesuai dengan deskripsi tersebut. 'Sepa' adalah subjuntivo presente.",
+    "hint": "Pembicara tidak yakin apakah orang seperti itu ada"
   },
   "q_gram_b2_13_006": {
     "question": "La empresa quiere contratar a alguien que ___ experiencia en inteligencia artificial. (tener, subjungtif kala kini, 3rd orang tunggal)",
@@ -1383,24 +1384,26 @@
   },
   "q_gram_b2_13_010": {
     "question": "Necesitamos empleados que sean responsables y que tengan iniciativa.",
-    "correct": "We need employees who are responsible and who have initiative.",
+    "correct": "Kami membutuhkan karyawan yang bertanggung jawab dan yang punya inisiatif.",
     "wrong": [
-      "We need employees who would be responsible and who would have initiative.",
-      "We needed employees who were responsible and who had initiative.",
-      "We need employees that are being responsible and having initiative."
+      "Kami membutuhkan karyawan yang kiranya akan bertanggung jawab dan akan punya inisiatif.",
+      "Dulu kami membutuhkan karyawan yang bertanggung jawab dan yang punya inisiatif.",
+      "Kami membutuhkan karyawan yang sedang bersikap bertanggung jawab dan sedang punya inisiatif."
     ],
-    "explanation": "'Sean' dan 'tengan' adalah subjungtif kala kini karena ini/itu employees memiliki not yet been found (hypothetical antecedent). dalam bahasa Inggris, ini/itu indikatif digunakan di translation since Inggris does not distinguish ini mood di relative clauses."
+    "explanation": "'Sean' dan 'tengan' adalah subjuntivo presente karena karyawan tersebut belum ditemukan (anteseden hipotetis). Dalam terjemahan, dipakai bentuk biasa (indikatif) karena bahasa Indonesia tidak membedakan modus ini dalam anak kalimat relatif.",
+    "hint": null
   },
   "q_gram_b2_14_001": {
-    "question": "Él habla como si ___ nativo. (ser, past subjungtif, él form)",
+    "question": "Él habla como si ___ nativo. (ser, subjuntivo pasado, bentuk él)",
     "correct": "fuera",
     "wrong": [
       "es",
       "sería",
       "fue"
     ],
-    "explanation": "'Como si' (as if) adalah selalu diikuti oleh ini/itu past subjungtif (atau plusquamperfek subjungtif) dalam bahasa Spanyol. Since 'ser' shares its past subjungtif dengan 'ir', ini/itu form adalah fuera.",
-    "conjugation_info": "ser (past subjunctive): fuera, fueras, fuera, fuéramos, fuerais, fueran"
+    "explanation": "'Como si' (seolah-olah) selalu diikuti subjuntivo pasado (atau subjuntivo pluscuamperfecto) dalam bahasa Spanyol. Karena 'ser' memiliki subjuntivo pasado yang sama dengan 'ir', bentuknya adalah fuera.",
+    "conjugation_info": "ser (past subjunctive): fuera, fueras, fuera, fuéramos, fuerais, fueran",
+    "hint": null
   },
   "q_gram_b2_14_002": {
     "question": "Ella gasta dinero como si ___ millonaria. (ser, past subjungtif)",

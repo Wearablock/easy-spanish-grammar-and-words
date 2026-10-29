@@ -369,14 +369,14 @@
     "conjugation_info": "volver (o→ue): vuelvo, vuelves, vuelve, volvemos, volvéis, vuelven"
   },
   "q_gram_a2_03_001": {
-    "question": "Yo ___ un café, por favor. (pedir, e→i)",
+    "question": "Yo ___ un café, por favor. (pedir、e→i)",
     "correct": "pido",
     "wrong": [
       "pedo",
       "piedo",
       "pedimos"
     ],
-    "explanation": "Pedir は e→i 語幹変化動詞. 〜で この yo形(一人称単数): pido. 〜だけ -ir 動詞 have this パターン.",
+    "explanation": "pedir は e→i の語幹母音変化をする動詞です。yo の活用形は pido になります。このパターンになるのは -ir 動詞だけです。",
     "question_ja": "Yo ___ un café, por favor. (pedir, e→i)",
     "correct_ja": "pido",
     "wrong_ja": [
@@ -385,7 +385,7 @@
       "pedimos"
     ],
     "explanation_ja": "Pedir is an e→i stem-changing verb. In the yo form: pido. Only -ir verbs have this pattern.",
-    "hint": "この e→i 変わる 〜だけ 起こる 〜で -ir 動詞",
+    "hint": "e→i の変化が起こるのは -ir 動詞だけです",
     "hint_ja": "The e→i change only occurs in -ir verbs"
   },
   "q_gram_a2_03_002": {
@@ -1163,14 +1163,14 @@
     "explanation_ja": "The present progressive (estoy hablando) emphasizes that an action is in progress right NOW. Unlike English, it is NOT used for habitual actions."
   },
   "q_gram_a2_07_004": {
-    "question": "Ella está ___ un libro interesante.",
+    "question": "Ella está ___ un libro interesante. (leer、現在分詞・不規則)",
     "correct": "leyendo",
     "wrong": [
       "leiendo",
       "leendo",
       "leyando"
     ],
-    "explanation": "Leer has 不規則 現在分詞(-ndo): leyendo (not 'leiendo'). When この 語幹 〜で終わる 母音, -iendo becomes -yendo.",
+    "explanation": "leer の現在分詞は不規則で、leyendo です('leiendo' ではありません)。語幹が母音で終わる場合、-iendo は -yendo になります。",
     "question_ja": "Ella está ___ un libro interesante. (leer, gerund — irregular)",
     "correct_ja": "leyendo",
     "wrong_ja": [
@@ -1179,7 +1179,8 @@
       "leyando"
     ],
     "explanation_ja": "Leer has an irregular gerund: leyendo (not 'leiendo'). When the stem ends in a vowel, -iendo becomes -yendo.",
-    "conjugation_info": "Irregular gerunds: leer→leyendo, oír→oyendo, traer→trayendo, creer→creyendo, construir→construyendo"
+    "conjugation_info": "Irregular gerunds: leer→leyendo, oír→oyendo, traer→trayendo, creer→creyendo, construir→construyendo",
+    "hint": null
   },
   "q_gram_a2_07_005": {
     "question": "El bebé está ___ en su cuna.",
@@ -2766,14 +2767,14 @@
     "explanation_ja": "'La más amable de' = the kindest in (superlative). 'Riquísimo' = extremely delicious (absolute superlative)."
   },
   "q_gram_a2_16_001": {
-    "question": "¡___ tu tarea ahora! (hacer, 肯定 tú command — 不規則)",
+    "question": "¡___ tu tarea ahora! (hacer、tú に対する肯定命令・不規則)",
     "correct": "Haz",
     "wrong": [
       "Hace",
       "Haces",
       "Hagas"
     ],
-    "explanation": "'Hacer' has 不規則 tú command: haz. それ does not follow この 規則 パターン.",
+    "explanation": "'Hacer' の tú に対する命令形は不規則で、haz です。規則的なパターンには当てはまりません。",
     "question_ja": "¡___ tu tarea ahora! (hacer, affirmative tú command — irregular)",
     "correct_ja": "Haz",
     "wrong_ja": [
@@ -2782,7 +2783,8 @@
       "Hagas"
     ],
     "explanation_ja": "'Hacer' has an irregular tú command: haz. It does not follow the regular pattern.",
-    "conjugation_info": "Irregular tú commands: pon, sal, ven, ten, haz, di, sé, ve"
+    "conjugation_info": "Irregular tú commands: pon, sal, ven, ten, haz, di, sé, ve",
+    "hint": null
   },
   "q_gram_a2_16_002": {
     "question": "¡___ la puerta, por favor! (abrir, 肯定 tú command)",
@@ -3245,14 +3247,14 @@
     "explanation_ja": "'Tampoco' means 'neither/either' (negative counterpart of 'también'): Yo tampoco quiero ir."
   },
   "q_gram_a2_18_007": {
-    "question": "I have 決して been 〜に Spain.",
+    "question": "私はスペインに行ったことがありません。",
     "correct": "Nunca he estado en España.",
     "wrong": [
       "No nunca he estado en España.",
       "No he estado nunca España.",
       "Jamás no he estado en España."
     ],
-    "explanation": "'Nunca' 〜の前 動詞 = no 'no' needed: Nunca he estado. (Alternatively: No he estado nunca en España.)",
+    "explanation": "'Nunca' を動詞の前に置くときは 'no' は不要です。Nunca he estado。(別の言い方:No he estado nunca en España.)",
     "question_ja": "I have never been to Spain.",
     "correct_ja": "Nunca he estado en España.",
     "wrong_ja": [
@@ -3260,7 +3262,8 @@
       "No he estado nunca España.",
       "Jamás no he estado en España."
     ],
-    "explanation_ja": "'Nunca' before the verb = no 'no' needed: Nunca he estado. (Alternatively: No he estado nunca en España.)"
+    "explanation_ja": "'Nunca' before the verb = no 'no' needed: Nunca he estado. (Alternatively: No he estado nunca en España.)",
+    "hint": null
   },
   "q_gram_a2_18_008": {
     "question": "No hay ___ libro sobre ese tema en la biblioteca. (否定: not any/no)",
