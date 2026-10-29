@@ -326,7 +326,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get dailyNotification =>
-      'Pengingat belajar jika tidak mengakses lebih dari satu hari';
+      'Pengingat harian di jam pilihanmu, dan satu lagi jika kamu melewatkan sehari';
 
   @override
   String get notificationOff => 'Notifikasi mati';
@@ -687,4 +687,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get quizSayIt => 'Sekarang ucapkan seluruh kalimat';
+
+  @override
+  String get badgeNew => 'BARU';
 }

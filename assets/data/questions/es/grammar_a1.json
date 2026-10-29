@@ -79,7 +79,7 @@
     "hint": "No todas las palabras que terminan en -a son femeninas"
   },
   "q_gram_a1_01_008": {
-    "question": "El mapa es grande.",
+    "question": "Quieres decir que el objeto que muestra un territorio tiene mucho tamaño. ¿Qué oración es correcta?",
     "correct": "El mapa es grande.",
     "wrong": [
       "La mapa es grande.",
@@ -102,7 +102,7 @@
     "hint": null
   },
   "q_gram_a1_01_010": {
-    "question": "La mano está fría.",
+    "question": "Quieres decir que esa parte del cuerpo con la que agarras cosas tiene baja temperatura. ¿Qué oración es correcta?",
     "correct": "La mano está fría.",
     "wrong": [
       "El mano está frío.",
@@ -259,14 +259,14 @@
     "hint": null
   },
   "q_gram_a1_03_004": {
-    "question": "Soy ___. (Yo soy maestro.) (elige la respuesta adecuada)",
+    "question": "Soy ___. (Yo soy maestro.)",
     "correct": "profesor",
     "wrong": [
       "un profesor",
       "el profesor",
       "una profesora"
     ],
-    "explanation": "En español se omite el artículo indefinido con las profesiones después de ser.\n- Soy profesor. (correcto)\n- Soy un profesor. (incorrecto en el español estándar sin un adjetivo o complemento)\nEsta regla también se aplica a las nacionalidades: Soy español.",
+    "explanation": "En español, el artículo indefinido normalmente se omite con una profesión sin modificar después de ser.\n- Soy profesor. (correcto)\n- Soy un profesor muy bueno. (se usa el artículo cuando se añade un adjetivo o complemento)\nEsta regla también se aplica a las nacionalidades: Soy español.",
     "conjugation_info": "Ser + profession: no article needed. Soy profesor, Soy estudiante, Soy médico.",
     "hint": null
   },
@@ -282,27 +282,27 @@
     "hint": "ciudad es un sustantivo femenino"
   },
   "q_gram_a1_03_006": {
-    "question": "no hay ___. (Allí no hay ningún problema.)",
+    "question": "No hay ___. (No existe dificultad alguna.)",
     "correct": "problema",
     "wrong": [
       "un problema",
       "el problema",
-      "problemas"
+      "unos problemas"
     ],
-    "explanation": "Después de la forma negativa 'no hay', el artículo indefinido se omite.\n- no hay problema. (correcto)\n- no hay azúcar. (No hay nada de azúcar.)\nEl artículo se omite en las oraciones existenciales negativas.",
+    "explanation": "Después de la forma negativa 'no hay', el artículo indefinido se omite.\n- No hay problema. (correcto)\n- No hay azúcar. (No existe azúcar.)\nEl artículo se omite en las oraciones existenciales negativas.",
     "conjugation_info": "Omit indefinite article after: sin (without), no hay (there isn't), and with professions after ser.",
     "hint": null
   },
   "q_gram_a1_03_007": {
-    "question": "Café ___ azúcar, por favor. (Café sin azúcar)",
+    "question": "Café ___ azúcar, por favor. (Un café que no lleva azúcar)",
     "correct": "sin",
     "wrong": [
       "un",
       "con",
       "de"
     ],
-    "explanation": "Después de 'sin', el artículo indefinido se omite.\n- Café sin azúcar. (Café sin azúcar.)\n- Café con leche. (Café con leche.)",
-    "hint": "¿Qué preposición significa 'sin'?"
+    "explanation": "Después de 'sin', el artículo indefinido se omite.\n- Café sin azúcar. (Un café que no lleva azúcar.)\n- Café con leche. (Un café acompañado de leche.)",
+    "hint": "¿Qué preposición indica ausencia de algo?"
   },
   "q_gram_a1_03_008": {
     "question": "Compro algunas flores.",
@@ -316,7 +316,7 @@
     "hint": null
   },
   "q_gram_a1_03_009": {
-    "question": "___ gato está en la calle. (Un gato está en la calle: cualquier gato.)",
+    "question": "___ gato está en la calle. (Cualquier gato está en la calle, sin especificar cuál.)",
     "correct": "Un",
     "wrong": [
       "El",
@@ -429,14 +429,14 @@
     "hint": "Fíjate en la tilde que distingue este pronombre del artículo"
   },
   "q_gram_a1_04_009": {
-    "question": "¿___ es usted? – Soy Ana García.",
+    "question": "¿___ es usted? – Soy Ana García. (¿Quién eres?)",
     "correct": "Quién",
     "wrong": [
       "Dónde",
       "Cuándo",
       "Cuál"
     ],
-    "explanation": "Cuando se pregunta por la identidad con 'usted', '¿Quién es usted?' significa '¿Quién es usted?' en trato formal.\nObserva que 'usted' lleva la misma forma verbal que él/ella (tercera persona del singular).\n- ¿Quién es usted? (formal) frente a ¿Quién eres tú? (informal)",
+    "explanation": "Para preguntar por la identidad de alguien con 'usted', se dice '¿Quién es usted?', que equivale a preguntar «¿cómo se llama usted?» en trato formal.\nObserva que 'usted' lleva la misma forma verbal que él/ella (tercera persona del singular).\n- ¿Quién es usted? (formal) frente a ¿Quién eres tú? (informal)",
     "hint": null
   },
   "q_gram_a1_04_010": {
@@ -633,7 +633,7 @@
     "hint": "La temperatura es una condición temporal"
   },
   "q_gram_a1_06_007": {
-    "question": "Estoy estudiando español.",
+    "question": "Ahora mismo dedico mi tiempo al estudio del idioma español.",
     "correct": "Estoy estudiando español.",
     "wrong": [
       "Soy estudiando español.",
@@ -655,7 +655,7 @@
     "hint": "¿'Abierta' es una característica permanente o un estado que puede cambiar?"
   },
   "q_gram_a1_06_009": {
-    "question": "Mi hermano está enfermo.",
+    "question": "Mi hermano no se encuentra bien de salud.",
     "correct": "Mi hermano está enfermo.",
     "wrong": [
       "Mi hermano es enfermo.",
@@ -685,8 +685,8 @@
       "son",
       "están"
     ],
-    "explanation": "Ser se usa para professions.\n- María es doctora. = María es a doctor.\nProfession es an identity characteristic, not a temporary state.",
-    "hint": "Professions use ser, not estar"
+    "explanation": "Se usa ser para las profesiones.\n- María es doctora: su profesión es parte de lo que ella es.\nLa profesión es una característica de identidad, no un estado temporal.",
+    "hint": "Las profesiones usan ser, no estar"
   },
   "q_gram_a1_07_002": {
     "question": "El hospital ___ en la calle Mayor.",
@@ -696,28 +696,29 @@
       "son",
       "están"
     ],
-    "explanation": "Estar se usa para location.\n- El hospital está en la calle Mayor. = El/la hospital es en Mayor Street.\nLocation siempre uses estar, even para permanent buildings.",
-    "hint": "Location siempre uses cual verb?"
+    "explanation": "Se usa estar para la ubicación de lugares, cosas y personas.\n- El hospital está en la calle Mayor: indica dónde se encuentra.\n- Los eventos son la excepción: se usa ser (La fiesta es en mi casa).",
+    "hint": "¿Qué verbo se usa para la ubicación de lugares, cosas y personas?"
   },
   "q_gram_a1_07_003": {
-    "question": "¿Qué significa 'ser aburrido' mean vs. 'estar aburrido'?",
-    "correct": "to be boring vs to be bored",
+    "question": "¿Qué diferencia de significado hay entre 'ser aburrido' y 'estar aburrido'?",
+    "correct": "resultar aburrido vs. sentir aburrimiento",
     "wrong": [
-      "to be bored vs to be boring",
-      "both mean the same thing",
-      "to be tired vs to be tiring"
+      "sentir aburrimiento vs. resultar aburrido",
+      "significan exactamente lo mismo",
+      "estar cansado vs. resultar cansado"
     ],
-    "explanation": "Algunos adjetivos change significado with ser vs. estar:\n- ser aburrido = a ser boring (characteristic)\n- estar aburrido = a ser bored (feeling)\nEl verbo choice changes el adjetivo's significado."
+    "explanation": "Algunos adjetivos cambian de significado con ser o estar:\n- ser aburrido = resultar aburrido, ser algo que aburre (característica)\n- estar aburrido = sentir aburrimiento (sentimiento)\nEl verbo que elijas cambia el significado del adjetivo.",
+    "hint": null
   },
   "q_gram_a1_07_004": {
-    "question": "La fiesta ___ en mi casa. (usa el verbo correcto para «ser» o «estar»)",
+    "question": "La fiesta ___ en mi casa. (conjuga el verbo correcto para 'ser' o 'estar')",
     "correct": "es",
     "wrong": [
       "está",
       "son",
       "están"
     ],
-    "explanation": "Los eventos usan 'ser' para indicar el lugar, no 'estar'. ¡Es una excepción clave!\n- La fiesta es en mi casa. = La fiesta tiene lugar en mi casa.\n- Los edificios usan estar: El cine está en la calle.",
+    "explanation": "Los eventos usan 'ser' para indicar dónde tienen lugar, no 'estar'. ¡Es una excepción importante!\n- La fiesta es en mi casa: el evento se celebra en mi casa.\n- Los edificios usan estar: El cine está en la calle.",
     "conjugation_info": "Events (fiesta, concierto, reunión) use ser for location: La fiesta es en...",
     "hint": null
   },
@@ -729,18 +730,18 @@
       "son",
       "están"
     ],
-    "explanation": "'estar listo' = a ser ready (temporary state).\n- Pedro está listo = Pedro es ready.\n- Pedro es listo = Pedro es smart (permanent trait).\nSer/estar with 'listo' changes el/la significado entirely.",
-    "hint": "Es Pedro smart, o es he ready?"
+    "explanation": "'estar listo' = estar preparado (estado temporal).\n- Pedro está listo = Pedro está preparado.\n- Pedro es listo = Pedro es inteligente (rasgo permanente).\nSer o estar con 'listo' cambia por completo el significado.",
+    "hint": "¿Pedro es inteligente o está preparado?"
   },
   "q_gram_a1_07_006": {
-    "question": "El edificio ___ muy alto. (usa el verbo correcto para una característica)",
+    "question": "El edificio ___ muy alto. (conjuga el verbo correcto para una característica)",
     "correct": "es",
     "wrong": [
       "está",
       "estoy",
       "son"
     ],
-    "explanation": "Ser se usa para las características físicas inherentes.\n- El edificio es alto. = El edificio tiene mucha altura.\nLa altura es una característica permanente del edificio.",
+    "explanation": "Se usa ser para las características físicas inherentes.\n- El edificio es alto: así es el edificio por naturaleza.\nLa altura es una característica permanente del edificio.",
     "conjugation_info": "Ser = permanent traits: Es alto, es grande, es bonito. Estar = temporary states.",
     "hint": null
   },
@@ -752,28 +753,29 @@
       "es",
       "está"
     ],
-    "explanation": "Estar se usa para emotions y feelings.\n- Estoy contento = I am feliz (cómo I feel correcto ahora).\nEmotions son temporary states eso can change.",
-    "hint": "Emotions y moods use estar"
+    "explanation": "Se usa estar para las emociones y los sentimientos.\n- Estoy contento: así me siento ahora mismo.\nLas emociones son estados temporales que pueden cambiar.",
+    "hint": "Las emociones y los estados de ánimo usan estar"
   },
   "q_gram_a1_07_008": {
-    "question": "She is from Mexico.",
+    "question": "Ella es de México.",
     "correct": "Ella es de México.",
     "wrong": [
       "Ella está de México.",
       "Ella es en México.",
       "Ella está en México."
     ],
-    "explanation": "Ser + de = origin/donde alguien es from.\n- Ella es de México = She es from Mexico (origin, permanent).\n- Ella está en México = She es en Mexico (location, possibly temporary)."
+    "explanation": "Ser + de = origen, de dónde es alguien.\n- Ella es de México: su origen (permanente).\n- Ella está en México: se encuentra allí (ubicación, posiblemente temporal).",
+    "hint": null
   },
   "q_gram_a1_07_009": {
-    "question": "La manzana ___ verde. (La manzana tiene color verde: todavía no está madura.)",
+    "question": "La manzana ___ verde. (La manzana tiene color verde porque todavía no está madura.)",
     "correct": "está",
     "wrong": [
       "es",
       "son",
       "están"
     ],
-    "explanation": "Con los colores, estar indica un estado temporal o cambiante (sin madurar → madurará).\n- La manzana está verde = La manzana aún no está madura (temporal).\n- La manzana es verde = La manzana es verde por naturaleza (es su variedad).",
+    "explanation": "Con los colores, estar indica un estado temporal o cambiante (inmadura → madurará).\n- La manzana está verde: aún no está madura (temporal).\n- La manzana es verde: es verde por naturaleza, por su variedad.",
     "conjugation_info": "Ser verde = green by nature. Estar verde = unripe/not ready.",
     "hint": null
   },
@@ -785,7 +787,7 @@
       "El libro está la mesa.",
       "El libro es la mesa."
     ],
-    "explanation": "Estar se usa para la ubicación de los objetos.\n- El libro está en la mesa. = El libro se encuentra sobre la mesa.\nRecuerda: la ubicación de cosas y personas siempre usa estar.",
+    "explanation": "Se usa estar para la ubicación de los objetos.\n- El libro está en la mesa: indica dónde se encuentra el libro.\nRecuerda: la ubicación de cosas y personas siempre usa estar.",
     "hint": null
   },
   "q_gram_a1_08_001": {

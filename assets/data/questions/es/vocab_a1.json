@@ -560,14 +560,15 @@
     "hint": null
   },
   "q_vocab_a1_06_001": {
-    "question": "¿Qué significa 'agua' ?",
-    "correct": "water",
+    "question": "¿Qué significa 'agua'?",
+    "correct": "Un líquido transparente que se bebe",
     "wrong": [
-      "milk",
-      "juice",
-      "coffee"
+      "Un líquido blanco que se obtiene de la vaca",
+      "Una bebida hecha con fruta exprimida",
+      "Una bebida caliente de color oscuro"
     ],
-    "explanation": "'Agua' significa 'water'. Despite being femenino, ello uses 'el' en singular: 'el agua' (a avoid two 'a' sounds together)."
+    "explanation": "'Agua' es el líquido transparente que bebemos. Aunque es femenina, en singular lleva 'el': 'el agua' (para evitar dos sonidos 'a' seguidos).",
+    "hint": null
   },
   "q_vocab_a1_06_002": {
     "question": "Quiero un ___ con leche, por favor.",
@@ -577,47 +578,52 @@
       "arroz",
       "pollo"
     ],
-    "explanation": "'Café con leche' significa 'coffee with milk', a muy popular drink en Spain y Latin America."
+    "explanation": "'Café con leche' es una bebida de café mezclado con leche, muy popular en España y Latinoamérica.",
+    "hint": null
   },
   "q_vocab_a1_06_003": {
-    "question": "¿Qué significa 'pan' ?",
-    "correct": "bread",
+    "question": "¿Qué significa 'pan'?",
+    "correct": "Un alimento horneado hecho con harina",
     "wrong": [
-      "rice",
-      "meat",
-      "cheese"
+      "Un cereal en granos pequeños y blancos",
+      "Un alimento de origen animal, como la carne de res",
+      "Un producto lácteo que se hace con leche"
     ],
-    "explanation": "'Pan' significa 'bread'. Ello es one del la mayoría básico food items en español-speaking countries."
+    "explanation": "'Pan' es el alimento horneado que se hace con harina. Es uno de los alimentos más básicos en los países de habla hispana.",
+    "hint": null
   },
   "q_vocab_a1_06_004": {
-    "question": "¿Qué significa 'pollo' ?",
-    "correct": "chicken",
+    "question": "¿Qué significa 'pollo'?",
+    "correct": "La carne de un ave de corral",
     "wrong": [
-      "fish",
-      "beef",
-      "pork"
+      "Un animal que vive en el agua",
+      "La carne de vaca",
+      "La carne de cerdo"
     ],
-    "explanation": "'Pollo' significa 'chicken'. 'Carne' es el/la general palabra para 'meat'."
+    "explanation": "'Pollo' es el ave de corral que se come, o su carne. 'Carne' es la palabra general para este tipo de alimento.",
+    "hint": null
   },
   "q_vocab_a1_06_005": {
-    "question": "I want a glass de orange juice.",
+    "question": "Quiero un vaso de zumo de naranja.",
     "correct": "Quiero un vaso de zumo de naranja.",
     "wrong": [
       "Quiero un vaso de leche de naranja.",
       "Quiero una taza de zumo de naranja.",
       "Quiero un vaso de vino de naranja."
     ],
-    "explanation": "'Zumo' significa 'juice' (se usa en Spain; 'jugo' se usa en Latin America). 'Vaso' significa 'glass'."
+    "explanation": "'Zumo' es la palabra para el jugo en España ('jugo' se usa en Latinoamérica). 'Vaso' es el recipiente de cristal para beber.",
+    "hint": null
   },
   "q_vocab_a1_06_006": {
     "question": "¿Qué significa 'pescado' en 'El pescado está fresco'?",
-    "correct": "fish (as food)",
+    "correct": "El pez que se come como alimento",
     "wrong": [
-      "chicken",
-      "meat",
-      "shrimp"
+      "La carne de un ave de corral",
+      "La carne en general",
+      "Un marisco pequeño con cola"
     ],
-    "explanation": "'Pescado' se refiere a fish as food. 'Pez' es a living fish. El/la sentence significa 'El/la fish es fresh'."
+    "explanation": "'Pescado' se refiere al pez como alimento. 'Pez' es el animal vivo. La oración significa que el pescado acaba de pescarse o está en buen estado.",
+    "hint": null
   },
   "q_vocab_a1_06_007": {
     "question": "Estás en un restaurante y el camarero te pregunta qué quieres beber. ¿Cómo pides una cerveza?",
@@ -627,29 +633,31 @@
       "Un té, por favor.",
       "Un agua, por favor."
     ],
-    "explanation": "'Cerveza' es una bebida alcohólica hecha con cebada. 'Una cerveza, por favor' es una forma educada de pedirla en un restaurante.",
+    "explanation": "'Cerveza' es la bebida alcohólica de cebada y lúpulo. 'Una cerveza, por favor' es una forma educada de pedirla en un restaurante.",
     "context": "Ordering a drink at a restaurant",
     "hint": null
   },
   "q_vocab_a1_06_008": {
     "question": "¿Qué significa 'ensalada' en 'La ensalada está rica'?",
-    "correct": "salad",
+    "correct": "Un plato frío de verduras crudas",
     "wrong": [
-      "soup",
-      "sandwich",
-      "omelette"
+      "Un plato líquido y caliente",
+      "Un alimento colocado entre dos rebanadas de pan",
+      "Un plato de huevos batidos y cuajados"
     ],
-    "explanation": "'Ensalada' significa 'salad'. 'Rica' aquí significa 'delicious'. El/la sentence significa 'El/la salad es delicious'."
+    "explanation": "'Ensalada' es un plato frío de verduras crudas. 'Rica' aquí significa 'deliciosa'. La oración quiere decir que la ensalada está deliciosa.",
+    "hint": null
   },
   "q_vocab_a1_06_009": {
     "question": "Me gustan las frutas y las verduras.",
-    "correct": "I like fruits and vegetables.",
+    "correct": "Disfruto de las frutas y las verduras.",
     "wrong": [
-      "I like meat and fish.",
-      "I like bread and cheese.",
-      "I like coffee and tea."
+      "Me gustan la carne y el pescado.",
+      "Me gustan el pan y el queso.",
+      "Me gustan el café y el té."
     ],
-    "explanation": "'Frutas' significa 'fruits' y 'verduras' significa 'vegetables'. 'Me gustan' se usa con plural sustantivos."
+    "explanation": "'Frutas' son los frutos comestibles y 'verduras' son las hortalizas. 'Me gustan' se usa con sustantivos en plural.",
+    "hint": null
   },
   "q_vocab_a1_06_010": {
     "question": "Eres invitado en una casa española y el anfitrión te ofrece comida. ¿Cómo aceptas con educación?",
@@ -659,7 +667,7 @@
       "Dame más comida.",
       "No me gusta la comida española."
     ],
-    "explanation": "'Tiene muy buena pinta' quiere decir que la comida tiene muy buen aspecto. Es una manera amable y agradecida de aceptar la comida.",
+    "explanation": "'Tiene muy buena pinta' quiere decir que se ve muy apetitoso. Es una forma educada y agradecida de aceptar la comida.",
     "context": "Being offered food at someone's home",
     "hint": null
   },

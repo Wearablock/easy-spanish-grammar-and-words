@@ -328,7 +328,7 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get dailyNotification =>
-      'Lembrete de estudo se ficar mais de um dia sem acessar';
+      'Um lembrete diário no seu horário e outro se você pular um dia';
 
   @override
   String get notificationOff => 'Notificações desativadas';
@@ -690,4 +690,7 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get quizSayIt => 'Agora diga a frase inteira';
+
+  @override
+  String get badgeNew => 'NOVO';
 }

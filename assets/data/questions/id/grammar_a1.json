@@ -203,7 +203,7 @@
     "hint": "Pakai artikel jamak untuk hari yang berulang"
   },
   "q_gram_a1_02_009": {
-    "question": "Kucing itu mandiri.",
+    "question": "Kucing mandiri.",
     "correct": "Los gatos son independientes.",
     "wrong": [
       "Gatos son independientes.",
@@ -259,14 +259,14 @@
     "hint": null
   },
   "q_gram_a1_03_004": {
-    "question": "Soy ___. (Yo soy maestro.) (pilih jawaban yang tepat)",
+    "question": "Soy ___. (Saya seorang guru.)",
     "correct": "profesor",
     "wrong": [
       "un profesor",
       "el profesor",
       "una profesora"
     ],
-    "explanation": "Dalam bahasa Spanyol, artikel tak tentu dihilangkan untuk profesi setelah ser.\n- Soy profesor. (benar)\n- Soy un profesor. (salah dalam bahasa Spanyol baku tanpa adjektiva atau keterangan tambahan)\nAturan ini juga berlaku untuk kewarganegaraan: Soy español.",
+    "explanation": "Dalam bahasa Spanyol, artikel tak tentu biasanya dihilangkan untuk profesi tanpa keterangan tambahan setelah ser.\n- Soy profesor. (benar)\n- Soy un profesor muy bueno. (artikel dipakai jika ditambahkan adjektiva atau keterangan)\nAturan ini juga berlaku untuk kewarganegaraan: Soy español.",
     "conjugation_info": "Ser + profession: no article needed. Soy profesor, Soy estudiante, Soy médico.",
     "hint": null
   },
@@ -282,14 +282,14 @@
     "hint": "ciudad adalah kata benda feminin"
   },
   "q_gram_a1_03_006": {
-    "question": "no hay ___. (Allí is sin problema.)",
+    "question": "No hay ___. (Tidak ada masalah.)",
     "correct": "problema",
     "wrong": [
       "un problema",
       "el problema",
-      "problemas"
+      "unos problemas"
     ],
-    "explanation": "Setelah bentuk negatif 'no hay', artikel tak tentu dihilangkan.\n- no hay problema. (benar)\n- no hay azúcar. (Tidak ada gula.)\nArtikel dihilangkan dalam kalimat eksistensial negatif.",
+    "explanation": "Setelah bentuk negatif 'no hay', artikel tak tentu dihilangkan.\n- No hay problema. (benar)\n- No hay azúcar. (Tidak ada gula.)\nArtikel dihilangkan dalam kalimat eksistensial negatif.",
     "conjugation_info": "Omit indefinite article after: sin (without), no hay (there isn't), and with professions after ser.",
     "hint": null
   },
@@ -429,7 +429,7 @@
     "hint": "Perhatikan tanda aksen yang membedakan pronomina ini dari artikel"
   },
   "q_gram_a1_04_009": {
-    "question": "¿___ es usted? – Soy Ana García.",
+    "question": "¿___ es usted? – Soy Ana García. (Anda siapa?)",
     "correct": "Quién",
     "wrong": [
       "Dónde",
@@ -655,7 +655,7 @@
     "hint": "Apakah 'terbuka' karakteristik tetap atau keadaan yang bisa berubah?"
   },
   "q_gram_a1_06_009": {
-    "question": "Kakak laki-laki saya sedang sakit.",
+    "question": "Saudara laki-laki saya sedang sakit.",
     "correct": "Mi hermano está enfermo.",
     "wrong": [
       "Mi hermano es enfermo.",
@@ -685,8 +685,8 @@
       "son",
       "están"
     ],
-    "explanation": "Ser digunakan untuk profesi.\n- María es doctora. = María adalah doctor.\nProfession adalah an identity characteristic, not keadaan sementara.",
-    "hint": "Professions use ser, not estar"
+    "explanation": "Ser digunakan untuk profesi.\n- María es doctora. = María adalah seorang dokter.\nProfesi adalah ciri identitas, bukan keadaan sementara.",
+    "hint": "Profesi memakai ser, bukan estar"
   },
   "q_gram_a1_07_002": {
     "question": "El hospital ___ en la calle Mayor.",
@@ -696,30 +696,31 @@
       "son",
       "están"
     ],
-    "explanation": "Estar dipakai untuk lokasi.\n- El hospital está en la calle Mayor. = Rumah sakit itu ada di Jalan Mayor.\nLokasi selalu memakai estar, bahkan untuk bangunan permanen.",
-    "hint": "Lokasi selalu memakai verba yang mana?"
+    "explanation": "Estar digunakan untuk lokasi tempat, benda, dan orang.\n- El hospital está en la calle Mayor. = Rumah sakit itu ada di Jalan Mayor.\n- Acara adalah pengecualian: pakai ser (La fiesta es en mi casa).",
+    "hint": "Kata kerja mana yang dipakai untuk lokasi tempat, benda, dan orang?"
   },
   "q_gram_a1_07_003": {
-    "question": "Apa perbedaan arti 'ser aburrido' dan 'estar aburrido'?",
+    "question": "Apa arti 'ser aburrido' dibandingkan dengan 'estar aburrido'?",
     "correct": "membosankan vs merasa bosan",
     "wrong": [
       "merasa bosan vs membosankan",
       "keduanya berarti sama",
       "merasa lelah vs melelahkan"
     ],
-    "explanation": "Beberapa adjektiva berubah arti jika dipakai dengan ser atau estar:\n- ser aburrido = membosankan (sifat)\n- estar aburrido = merasa bosan (perasaan)\nPilihan verba mengubah makna adjektivanya.",
+    "explanation": "Beberapa kata sifat berubah arti dengan ser atau estar:\n- ser aburrido = membosankan (sifat)\n- estar aburrido = merasa bosan (perasaan)\nPilihan kata kerja mengubah arti kata sifatnya.",
     "hint": null
   },
   "q_gram_a1_07_004": {
-    "question": "La fiesta ___ en mi casa. (conjugate ini/itu benar kata kerja untuk 'ke menjadi')",
+    "question": "La fiesta ___ en mi casa. (konjugasikan kata kerja yang tepat untuk 'to be')",
     "correct": "es",
     "wrong": [
       "está",
       "son",
       "están"
     ],
-    "explanation": "Events use 'ser' untuk location, not 'estar'. ini adalah key pengecualian!\n- La fiesta es en mi casa. = ini/itu party adalah at my house.\n- Buildings use estar: El cine está en la calle.",
-    "conjugation_info": "Events (fiesta, concierto, reunión) use ser for location: La fiesta es en..."
+    "explanation": "Acara memakai 'ser' untuk lokasi, bukan 'estar'. Ini pengecualian penting!\n- La fiesta es en mi casa. = Pestanya diadakan di rumah saya.\n- Bangunan memakai estar: El cine está en la calle.",
+    "conjugation_info": "Events (fiesta, concierto, reunión) use ser for location: La fiesta es en...",
+    "hint": null
   },
   "q_gram_a1_07_005": {
     "question": "Pedro ___ listo para el examen.",
@@ -729,19 +730,20 @@
       "son",
       "están"
     ],
-    "explanation": "'estar listo' = ke menjadi ready (keadaan sementara).\n- Pedro está listo = Pedro adalah ready.\n- Pedro es listo = Pedro adalah smart (permanent trait).\nSer/estar dengan 'listo' changes ini/itu berarti entirely.",
-    "hint": "adalah Pedro smart, atau adalah he ready?"
+    "explanation": "'estar listo' = siap (keadaan sementara).\n- Pedro está listo = Pedro sudah siap.\n- Pedro es listo = Pedro pintar (sifat tetap).\nSer/estar dengan 'listo' mengubah artinya sepenuhnya.",
+    "hint": "Apakah Pedro pintar, atau dia sudah siap?"
   },
   "q_gram_a1_07_006": {
-    "question": "El edificio ___ muy alto. (conjugate ini/itu benar kata kerja untuk a characteristic)",
+    "question": "El edificio ___ muy alto. (konjugasikan kata kerja yang tepat untuk sebuah ciri)",
     "correct": "es",
     "wrong": [
       "está",
       "estoy",
       "son"
     ],
-    "explanation": "Ser digunakan untuk inherent physical characteristics.\n- El edificio es alto. = ini/itu building adalah tall.\nHeight adalah permanent characteristic dari ini/itu building.",
-    "conjugation_info": "Ser = permanent traits: Es alto, es grande, es bonito. Estar = temporary states."
+    "explanation": "Ser digunakan untuk ciri fisik bawaan.\n- El edificio es alto. = Gedung itu tinggi.\nTinggi adalah ciri tetap dari gedung tersebut.",
+    "conjugation_info": "Ser = permanent traits: Es alto, es grande, es bonito. Estar = temporary states.",
+    "hint": null
   },
   "q_gram_a1_07_007": {
     "question": "Hoy yo ___ muy contento.",
@@ -751,29 +753,31 @@
       "es",
       "está"
     ],
-    "explanation": "Estar digunakan untuk emotions dan feelings.\n- Estoy contento = I am happy (bagaimana I feel saat ini).\nEmotions adalah keadaan sementaras itu bisa change.",
-    "hint": "Emotions dan moods use estar"
+    "explanation": "Estar digunakan untuk emosi dan perasaan.\n- Estoy contento = Saya senang (perasaan saya saat ini).\nEmosi adalah keadaan sementara yang bisa berubah.",
+    "hint": "Emosi dan suasana hati memakai estar"
   },
   "q_gram_a1_07_008": {
-    "question": "She adalah dari Mexico.",
+    "question": "Dia berasal dari Meksiko.",
     "correct": "Ella es de México.",
     "wrong": [
       "Ella está de México.",
       "Ella es en México.",
       "Ella está en México."
     ],
-    "explanation": "Ser + de = origin/di mana someone adalah dari.\n- Ella es de México = She adalah dari Mexico (origin, permanent).\n- Ella está en México = She adalah di Mexico (location, possibly temporary)."
+    "explanation": "Ser + de = asal/dari mana seseorang berasal.\n- Ella es de México = Dia berasal dari Meksiko (asal, tetap).\n- Ella está en México = Dia berada di Meksiko (lokasi, mungkin sementara).",
+    "hint": null
   },
   "q_gram_a1_07_009": {
-    "question": "La manzana ___ verde. (ini/itu apple adalah green — itu adalah not ripe yet.)",
+    "question": "La manzana ___ verde. (Apelnya hijau — belum matang.)",
     "correct": "está",
     "wrong": [
       "es",
       "son",
       "están"
     ],
-    "explanation": "dengan colors, estar berarti a temporary/changeable state (unripe → akan ripen).\n- La manzana está verde = ini/itu apple adalah green (not ripe, temporary).\n- La manzana es verde = ini/itu apple adalah green (oleh nature, its variety).",
-    "conjugation_info": "Ser verde = green by nature. Estar verde = unripe/not ready."
+    "explanation": "Dengan warna, estar berarti keadaan sementara/yang bisa berubah (belum matang → akan matang).\n- La manzana está verde = Apelnya hijau (belum matang, sementara).\n- La manzana es verde = Apelnya hijau (memang dari sananya, jenisnya).",
+    "conjugation_info": "Ser verde = green by nature. Estar verde = unripe/not ready.",
+    "hint": null
   },
   "q_gram_a1_07_010": {
     "question": "Buku itu ada di atas meja.",
@@ -783,7 +787,7 @@
       "El libro está la mesa.",
       "El libro es la mesa."
     ],
-    "explanation": "Estar dipakai untuk menyatakan lokasi benda.\n- El libro está en la mesa. = Buku itu ada di atas meja.\nIngat: lokasi benda dan orang selalu memakai estar.",
+    "explanation": "Estar digunakan untuk lokasi benda.\n- El libro está en la mesa. = Buku itu ada di atas meja.\nIngat: lokasi benda dan orang selalu memakai estar.",
     "hint": null
   },
   "q_gram_a1_08_001": {

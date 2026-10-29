@@ -1,16 +1,15 @@
 import 'dart:async';
-import 'dart:math';
 import 'package:audioplayers/audioplayers.dart';
 import 'package:vibration/vibration.dart';
 
 /// 정답/오답 효과음 + 진동 피드백 서비스
+/// 효과음은 말소리가 아닌 음(언어 없음) — 모든 언어 앱이 같은 소리를 쓴다 (10-30)
 class FeedbackService {
   static final FeedbackService _instance = FeedbackService._();
   factory FeedbackService() => _instance;
   FeedbackService._();
 
   final _player = AudioPlayer();
-  final _random = Random();
 
   bool _soundEnabled = true;
   bool _vibrationEnabled = true;
@@ -30,8 +29,7 @@ class FeedbackService {
   /// 정답 피드백
   Future<void> playCorrect() async {
     if (_soundEnabled) {
-      final file = _random.nextBool() ? 'correct_male.mp3' : 'correct_female.mp3';
-      await _player.play(AssetSource('sounds/$file'));
+      await _player.play(AssetSource('sounds/correct.mp3'));
     }
     if (_vibrationEnabled && _hasVibrator) {
       Vibration.vibrate(duration: 50);
@@ -41,15 +39,14 @@ class FeedbackService {
   /// 오답 피드백
   Future<void> playWrong() async {
     if (_soundEnabled) {
-      final file = _random.nextBool() ? 'wrong_male.mp3' : 'wrong_female.mp3';
-      await _player.play(AssetSource('sounds/$file'));
+      await _player.play(AssetSource('sounds/wrong.mp3'));
     }
     if (_vibrationEnabled && _hasVibrator) {
       Vibration.vibrate(pattern: [0, 80, 60, 80]);
     }
   }
 
-  /// 말하기 시작 효과음 — 마이크 버튼 탭 시 ("Adelante").
+  /// 말하기 시작 효과음 — 마이크 버튼 탭 시 (짧게 올라가는 음 · tools/sounds/make.py).
   /// 재생 완료까지 대기하므로 녹음 시작 전 호출하면 효과음이 마이크에 잡히지 않음.
   Future<void> playSpeakStart() async {
     if (_soundEnabled) {
@@ -67,7 +64,7 @@ class FeedbackService {
     }
   }
 
-  /// 말하기 종료 효과음 — 발화 평가 시작 시 ("Vale").
+  /// 말하기 종료 효과음 — 발화 평가 시작 시 (짧게 내려가는 음).
   Future<void> playSpeakEnd() async {
     if (_soundEnabled) {
       await _player.play(AssetSource('sounds/speak_end.mp3'));

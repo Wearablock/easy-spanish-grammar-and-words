@@ -185,7 +185,7 @@
       "prima",
       "vecina"
     ],
-    "explanation": "'Amiga'는 '여자 친구(friend)'를 뜻합니다. 'novia'를 쓰면 '여자친구'(연인)라는 뜻이 되어 의미가 달라집니다.",
+    "explanation": "'Amiga'는 '여자인 친구'를 뜻합니다. 'novia'를 쓰면 '여자친구'(연인)라는 뜻이 되어 의미가 달라집니다.",
     "context": "파티에서 친구를 소개할 때",
     "hint": null
   },
@@ -560,14 +560,15 @@
     "hint": null
   },
   "q_vocab_a1_06_001": {
-    "question": "'agua'의 뜻은?",
+    "question": "'agua'는 무슨 뜻일까요?",
     "correct": "물",
     "wrong": [
       "우유",
       "주스",
       "커피"
     ],
-    "explanation": "'agua'는 '물'이라는 뜻입니다. 여성 명사이지만, 단수형에서는 'el agua'로 씁니다 (두 개의 'a' 소리가 연속되는 것을 피하기 위해)."
+    "explanation": "'Agua'는 '물'이라는 뜻입니다. 여성명사이지만 두 개의 'a' 소리가 연달아 나오는 것을 피하기 위해 단수에서는 'el agua'처럼 'el'을 씁니다.",
+    "hint": null
   },
   "q_vocab_a1_06_002": {
     "question": "Quiero un ___ con leche, por favor.",
@@ -577,89 +578,98 @@
       "arroz",
       "pollo"
     ],
-    "explanation": "'café con leche'는 '우유를 넣은 커피'라는 뜻으로, 스페인과 중남미에서 매우 인기 있는 음료입니다."
+    "explanation": "'Café con leche'는 '우유를 넣은 커피'라는 뜻으로, 스페인과 라틴아메리카에서 매우 인기 있는 음료입니다.",
+    "hint": null
   },
   "q_vocab_a1_06_003": {
-    "question": "'pan'의 뜻은?",
+    "question": "'pan'은 무슨 뜻일까요?",
     "correct": "빵",
     "wrong": [
-      "쌀",
+      "쌀밥",
       "고기",
       "치즈"
     ],
-    "explanation": "'pan'은 '빵'이라는 뜻입니다. 스페인어권 국가에서 빵은 가장 기본적인 식품 중 하나입니다."
+    "explanation": "'Pan'은 '빵'이라는 뜻입니다. 스페인어권 나라에서 가장 기본적인 음식 중 하나입니다.",
+    "hint": null
   },
   "q_vocab_a1_06_004": {
-    "question": "'pollo'의 뜻은?",
+    "question": "'pollo'는 무슨 뜻일까요?",
     "correct": "닭고기",
     "wrong": [
       "생선",
       "소고기",
       "돼지고기"
     ],
-    "explanation": "'pollo'는 '닭고기'라는 뜻입니다. 고기 전체를 가리키는 단어는 'carne'입니다."
+    "explanation": "'Pollo'는 '닭고기'라는 뜻입니다. 'Carne'는 '고기'를 뜻하는 일반적인 단어입니다.",
+    "hint": null
   },
   "q_vocab_a1_06_005": {
-    "question": "나는 오렌지 주스 한 잔을 원한다.",
+    "question": "오렌지 주스 한 잔을 원합니다.",
     "correct": "Quiero un vaso de zumo de naranja.",
     "wrong": [
       "Quiero un vaso de leche de naranja.",
       "Quiero una taza de zumo de naranja.",
       "Quiero un vaso de vino de naranja."
     ],
-    "explanation": "'zumo'는 '주스'라는 뜻입니다 (스페인에서 사용, 중남미에서는 'jugo'). 'vaso'는 '컵/잔'입니다."
+    "explanation": "'Zumo'는 '주스'라는 뜻입니다 (스페인에서 쓰며, 라틴아메리카에서는 'jugo'를 씁니다). 'Vaso'는 '유리잔'이라는 뜻입니다.",
+    "hint": null
   },
   "q_vocab_a1_06_006": {
-    "question": "'El pescado está fresco'에서 'pescado'의 뜻은?",
-    "correct": "생선 (음식)",
+    "question": "'El pescado está fresco'에서 'pescado'는 무슨 뜻일까요?",
+    "correct": "생선 (음식으로서)",
     "wrong": [
       "닭고기",
       "고기",
       "새우"
     ],
-    "explanation": "'pescado'는 음식으로서의 '생선'을 뜻합니다. 살아있는 물고기는 'pez'라고 합니다. 이 문장은 '생선이 신선하다'라는 뜻입니다."
+    "explanation": "'Pescado'는 음식으로서의 생선을 가리킵니다. 'Pez'는 살아 있는 물고기입니다. 이 문장은 '생선이 신선하다'라는 뜻입니다.",
+    "hint": null
   },
   "q_vocab_a1_06_007": {
-    "question": "식당에서 웨이터가 음료 주문을 물어봅니다. 맥주를 주문하려면 뭐라고 말할까요?",
+    "question": "식당에서 종업원이 무엇을 마실지 묻습니다. 맥주는 어떻게 주문할까요?",
     "correct": "Una cerveza, por favor.",
     "wrong": [
       "Un café, por favor.",
       "Un té, por favor.",
       "Un agua, por favor."
     ],
-    "explanation": "'cerveza'는 '맥주'라는 뜻입니다. 'Una cerveza, por favor'는 식당에서 맥주를 정중하게 주문하는 표현입니다.",
-    "context": "식당에서 음료를 주문하는 상황"
+    "explanation": "'Cerveza'는 '맥주'라는 뜻입니다. 'Una cerveza, por favor'는 식당에서 맥주를 정중하게 주문하는 표현입니다.",
+    "context": "식당에서 음료를 주문하는 상황",
+    "hint": null
   },
   "q_vocab_a1_06_008": {
-    "question": "'La ensalada está rica'에서 'ensalada'의 뜻은?",
+    "question": "'La ensalada está rica'에서 'ensalada'는 무슨 뜻일까요?",
     "correct": "샐러드",
     "wrong": [
       "수프",
       "샌드위치",
       "오믈렛"
     ],
-    "explanation": "'ensalada'는 '샐러드'라는 뜻입니다. 여기서 'rica'는 '맛있다'라는 의미입니다. 이 문장은 '샐러드가 맛있다'라는 뜻입니다."
+    "explanation": "'Ensalada'는 '샐러드'라는 뜻입니다. 여기서 'rica'는 '맛있는'이라는 뜻입니다. 이 문장은 '샐러드가 맛있다'라는 뜻입니다.",
+    "hint": null
   },
   "q_vocab_a1_06_009": {
     "question": "Me gustan las frutas y las verduras.",
-    "correct": "나는 과일과 채소를 좋아한다.",
+    "correct": "나는 과일과 채소를 좋아합니다.",
     "wrong": [
-      "나는 고기와 생선을 좋아한다.",
-      "나는 빵과 치즈를 좋아한다.",
-      "나는 커피와 차를 좋아한다."
+      "나는 고기와 생선을 좋아합니다.",
+      "나는 빵과 치즈를 좋아합니다.",
+      "나는 커피와 차를 좋아합니다."
     ],
-    "explanation": "'frutas'는 '과일', 'verduras'는 '채소'라는 뜻입니다. 'me gustan'은 복수 명사와 함께 쓰는 '~을 좋아하다'입니다."
+    "explanation": "'Frutas'는 '과일', 'verduras'는 '채소'라는 뜻입니다. 'Me gustan'은 복수 명사와 함께 씁니다.",
+    "hint": null
   },
   "q_vocab_a1_06_010": {
-    "question": "스페인 가정에 초대받아 음식을 대접받았습니다. 정중하게 수락하려면 뭐라고 말할까요?",
+    "question": "스페인 가정에 초대받았는데 집주인이 음식을 권합니다. 어떻게 정중하게 받아들일까요?",
     "correct": "Sí, gracias. Tiene muy buena pinta.",
     "wrong": [
       "No quiero nada.",
       "Dame más comida.",
       "No me gusta la comida española."
     ],
-    "explanation": "'Tiene muy buena pinta'는 '아주 맛있어 보인다'라는 뜻입니다. 음식을 대접받을 때 감사하게 수락하는 정중한 표현입니다.",
-    "context": "다른 사람의 집에서 음식을 대접받는 상황"
+    "explanation": "'Tiene muy buena pinta'는 '매우 맛있어 보인다'라는 뜻입니다. 음식을 받으면서 감사를 표하는 정중한 표현입니다.",
+    "context": "다른 사람의 집에서 음식을 대접받는 상황",
+    "hint": null
   },
   "q_vocab_a1_07_001": {
     "question": "'cabeza'의 뜻은?",

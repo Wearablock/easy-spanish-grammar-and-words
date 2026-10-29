@@ -259,14 +259,14 @@
     "hint": null
   },
   "q_gram_a1_03_004": {
-    "question": "Soy ___. (Yo soy maestro.) (choisis la bonne réponse)",
+    "question": "Soy ___. (Je suis professeur.)",
     "correct": "profesor",
     "wrong": [
       "un profesor",
       "el profesor",
       "una profesora"
     ],
-    "explanation": "En espagnol, on omet l'article indéfini devant les professions après ser.\n- Soy profesor. (correct)\n- Soy un profesor. (incorrect en espagnol standard, sans adjectif ni complément)\nCette règle s'applique aussi aux nationalités : Soy español.",
+    "explanation": "En espagnol, l'article indéfini est normalement omis devant une profession non qualifiée après ser.\n- Soy profesor. (correct)\n- Soy un profesor muy bueno. (l'article s'emploie quand on ajoute un adjectif ou un complément)\nCette règle s'applique aussi aux nationalités : Soy español.",
     "conjugation_info": "Ser + profession: no article needed. Soy profesor, Soy estudiante, Soy médico.",
     "hint": null
   },
@@ -282,14 +282,14 @@
     "hint": "ciudad est un nom féminin"
   },
   "q_gram_a1_03_006": {
-    "question": "no hay ___. (Là-bas, c'est sans problème.)",
+    "question": "No hay ___. (Il n'y a pas de problème.)",
     "correct": "problema",
     "wrong": [
       "un problema",
       "el problema",
-      "problemas"
+      "unos problemas"
     ],
-    "explanation": "Après la négation 'no hay', l'article indéfini est omis.\n- no hay problema. (correct)\n- no hay azúcar. (Il n'y a pas de sucre.)\nL'article est supprimé dans les phrases existentielles négatives.",
+    "explanation": "Après la négation 'no hay', l'article indéfini est omis.\n- No hay problema. (correct)\n- No hay azúcar. (Il n'y a pas de sucre.)\nL'article est supprimé dans les phrases existentielles négatives.",
     "conjugation_info": "Omit indefinite article after: sin (without), no hay (there isn't), and with professions after ser.",
     "hint": null
   },
@@ -429,7 +429,7 @@
     "hint": "Remarque l'accent qui distingue ce pronom de l'article"
   },
   "q_gram_a1_04_009": {
-    "question": "¿___ es usted? – Soy Ana García.",
+    "question": "¿___ es usted? – Soy Ana García. (Qui êtes-vous ?)",
     "correct": "Quién",
     "wrong": [
       "Dónde",
@@ -685,8 +685,8 @@
       "son",
       "están"
     ],
-    "explanation": "Ser est utilisé pour professions.\n- María es doctora. = María est a doctor.\nProfession est an identity characteristic, not a temporary state.",
-    "hint": "Professions use ser, not estar"
+    "explanation": "On utilise ser pour les professions.\n- María es doctora. = María est médecin.\nLa profession est une caractéristique d'identité, et non un état temporaire.",
+    "hint": "Les professions s'emploient avec ser, pas avec estar"
   },
   "q_gram_a1_07_002": {
     "question": "El hospital ___ en la calle Mayor.",
@@ -696,29 +696,31 @@
       "son",
       "están"
     ],
-    "explanation": "Estar est utilisé pour location.\n- El hospital está en la calle Mayor. = Le/La hospital est sur Mayor Street.\nLocation toujours uses estar, even pour permanent buildings.",
-    "hint": "Location toujours uses quel verbe?"
+    "explanation": "On utilise estar pour la localisation des lieux, des objets et des personnes.\n- El hospital está en la calle Mayor. = L'hôpital est dans la rue Mayor.\n- Les événements font exception : on emploie ser (La fiesta es en mi casa).",
+    "hint": "Quel verbe utilise-t-on pour la localisation des lieux, des objets et des personnes ?"
   },
   "q_gram_a1_07_003": {
-    "question": "Que 'ser aburrido' signifier vs 'estar aburrido'?",
-    "correct": "to be boring vs to be bored",
+    "question": "Que signifie 'ser aburrido' par rapport à 'estar aburrido' ?",
+    "correct": "être ennuyeux vs s'ennuyer (être las)",
     "wrong": [
-      "to be bored vs to be boring",
-      "both mean the same thing",
-      "to be tired vs to be tiring"
+      "s'ennuyer (être las) vs être ennuyeux",
+      "les deux veulent dire la même chose",
+      "être fatigué vs être fatigant"
     ],
-    "explanation": "Quelques adjectifs change sens avec ser vs estar:\n- ser aburrido = à être boring (characteristic)\n- estar aburrido = à être bored (feeling)\nLe verbe choice changes l'adjectif's sens."
+    "explanation": "Certains adjectifs changent de sens selon qu'on utilise ser ou estar :\n- ser aburrido = être ennuyeux (caractéristique)\n- estar aburrido = s'ennuyer (sentiment)\nLe choix du verbe change le sens de l'adjectif.",
+    "hint": null
   },
   "q_gram_a1_07_004": {
-    "question": "La fiesta ___ en mi casa. (conjugate Le/La correct verbe pour 'à être')",
+    "question": "La fiesta ___ en mi casa. (conjuguez le bon verbe pour « être »)",
     "correct": "es",
     "wrong": [
       "está",
       "son",
       "están"
     ],
-    "explanation": "Events use 'ser' pour location, not 'estar'. Ceci est un key exception!\n- La fiesta es en mi casa. = Le/La party est à my house.\n- Buildings use estar: El cine está en la calle.",
-    "conjugation_info": "Events (fiesta, concierto, reunión) use ser for location: La fiesta es en..."
+    "explanation": "Les événements utilisent « ser » pour indiquer le lieu, et non « estar ». C'est une exception importante !\n- La fiesta es en mi casa. = La fête a lieu chez moi.\n- Les bâtiments utilisent estar : El cine está en la calle.",
+    "conjugation_info": "Events (fiesta, concierto, reunión) use ser for location: La fiesta es en...",
+    "hint": null
   },
   "q_gram_a1_07_005": {
     "question": "Pedro ___ listo para el examen.",
@@ -728,19 +730,20 @@
       "son",
       "están"
     ],
-    "explanation": "'estar listo' = à être ready (temporary state).\n- Pedro está listo = Pedro est ready.\n- Pedro es listo = Pedro est smart (permanent trait).\nSer/estar avec 'listo' changes Le/La sens entirely.",
-    "hint": "Est Pedro smart, ou est he ready?"
+    "explanation": "'estar listo' = être prêt (état temporaire).\n- Pedro está listo = Pedro est prêt.\n- Pedro es listo = Pedro est malin (trait permanent).\nAvec 'listo', ser/estar change complètement le sens.",
+    "hint": "Pedro est-il malin, ou est-il prêt ?"
   },
   "q_gram_a1_07_006": {
-    "question": "El edificio ___ muy alto. (conjugate Le/La correct verbe pour a characteristic)",
+    "question": "El edificio ___ muy alto. (conjuguez le bon verbe pour une caractéristique)",
     "correct": "es",
     "wrong": [
       "está",
       "estoy",
       "son"
     ],
-    "explanation": "Ser est utilisé pour inherent physical characteristics.\n- El edificio es alto. = Le/La building est tall.\nHeight est a permanent characteristic de Le/La building.",
-    "conjugation_info": "Ser = permanent traits: Es alto, es grande, es bonito. Estar = temporary states."
+    "explanation": "On utilise ser pour les caractéristiques physiques inhérentes.\n- El edificio es alto. = L'immeuble est haut.\nLa hauteur est une caractéristique permanente du bâtiment.",
+    "conjugation_info": "Ser = permanent traits: Es alto, es grande, es bonito. Estar = temporary states.",
+    "hint": null
   },
   "q_gram_a1_07_007": {
     "question": "Hoy yo ___ muy contento.",
@@ -750,29 +753,31 @@
       "es",
       "está"
     ],
-    "explanation": "Estar est utilisé pour emotions et feelings.\n- Estoy contento = I am happy (comment I feel right maintenant).\nEmotions sont temporary states Cela peut change.",
-    "hint": "Emotions et moods use estar"
+    "explanation": "On utilise estar pour les émotions et les sentiments.\n- Estoy contento = Je suis content (ce que je ressens en ce moment).\nLes émotions sont des états temporaires qui peuvent changer.",
+    "hint": "Les émotions et les humeurs s'emploient avec estar"
   },
   "q_gram_a1_07_008": {
-    "question": "She est de Mexico.",
+    "question": "Elle est originaire du Mexique.",
     "correct": "Ella es de México.",
     "wrong": [
       "Ella está de México.",
       "Ella es en México.",
       "Ella está en México."
     ],
-    "explanation": "Ser + de = origin/où someone est de.\n- Ella es de México = She est de Mexico (origin, permanent).\n- Ella está en México = She est dans Mexico (location, possibly temporary)."
+    "explanation": "Ser + de = origine / lieu d'où l'on vient.\n- Ella es de México = Elle est originaire du Mexique (origine, permanente).\n- Ella está en México = Elle est au Mexique (localisation, peut-être temporaire).",
+    "hint": null
   },
   "q_gram_a1_07_009": {
-    "question": "La manzana ___ verde. (Le/La apple est green — il est not ripe encore.)",
+    "question": "La manzana ___ verde. (La pomme est verte : elle n'est pas encore mûre.)",
     "correct": "está",
     "wrong": [
       "es",
       "son",
       "están"
     ],
-    "explanation": "Avec colors, estar signifie a temporary/changeable state (unripe → sera ripen).\n- La manzana está verde = Le/La apple est green (not ripe, temporary).\n- La manzana es verde = Le/La apple est green (par nature, son variety).",
-    "conjugation_info": "Ser verde = green by nature. Estar verde = unripe/not ready."
+    "explanation": "Avec les couleurs, estar indique un état temporaire / changeant (pas mûre → va mûrir).\n- La manzana está verde = La pomme est verte (pas mûre, temporaire).\n- La manzana es verde = La pomme est verte (par nature, sa variété).",
+    "conjugation_info": "Ser verde = green by nature. Estar verde = unripe/not ready.",
+    "hint": null
   },
   "q_gram_a1_07_010": {
     "question": "Le livre est sur la table.",
@@ -782,7 +787,7 @@
       "El libro está la mesa.",
       "El libro es la mesa."
     ],
-    "explanation": "On utilise estar pour la localisation des objets.\n- El libro está en la mesa. = Le livre est sur la table.\nÀ retenir : la localisation des choses et des personnes se dit toujours avec estar.",
+    "explanation": "On utilise estar pour la localisation des objets.\n- El libro está en la mesa. = Le livre est sur la table.\nN'oubliez pas : la localisation des choses et des personnes s'exprime toujours avec estar.",
     "hint": null
   },
   "q_gram_a1_08_001": {

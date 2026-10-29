@@ -2,18 +2,14 @@
   "@@locale": "ar",
   "appTitle": "إسبانية سهلة",
   "appFullTitle": "إسبانية سهلة - قواعد وكلمات",
-
   "home": "الرئيسية",
   "progress": "التقدم",
   "settings": "الإعدادات",
   "wrongAnswers": "الأخطاء",
-
   "error": "خطأ: {message}",
-
   "startStudy": "بدء الدراسة",
   "continueStudy": "متابعة الدراسة",
   "startReview": "مراجعة",
-
   "todayStudy": "دراسة اليوم",
   "allTopicsCompleted": "تم إكمال جميع المواضيع!",
   "reviewEncouragement": "استمر في المراجعة لإتقان المحتوى.",
@@ -23,13 +19,11 @@
   "todayGoal": "هدف اليوم",
   "topicsProgress": "{studied}/{goal} مواضيع",
   "streakDays": "{days} أيام متتالية!",
-
   "overallProgress": "التقدم العام",
   "mastered": "متقن",
   "studiedOnce": "تمت دراسته مرة واحدة على الأقل",
   "totalQuestions": "إجمالي {count} سؤال",
   "questionsMastered": "{count} / {total} سؤال متقن",
-
   "study": "الدراسة",
   "notifications": "الإشعارات",
   "appSettings": "إعدادات التطبيق",
@@ -56,10 +50,9 @@
   "themeSystem": "النظام",
   "themeLight": "الوضع الفاتح",
   "themeDark": "الوضع الداكن",
-
   "studyComplete": "اكتملت الدراسة",
   "goodJob": "أحسنت!",
-  "goHome": "العودة للرئيسية",
+  "goHome": "الرئيسية",
   "accuracy": "الدقة",
   "correct": "صحيح",
   "wrong": "خطأ",
@@ -67,24 +60,19 @@
   "wrongReview": "مراجعة الأخطاء",
   "spacedReview": "المراجعة المتباعدة",
   "newLearning": "تعلم جديد",
-
   "errorOccurred": "حدث خطأ",
   "retry": "إعادة المحاولة",
   "stopStudy": "إيقاف الدراسة",
   "stopStudyConfirm": "هل تريد إيقاف الدراسة؟\nسيتم حفظ تقدمك.",
   "continueStudyButton": "متابعة",
   "stop": "إيقاف",
-
   "levelProgress": "التقدم حسب المستوى",
-
   "reviewAvailable": "لديك أسئلة للمراجعة!",
   "reviewWaiting": "{count} أسئلة بانتظار المراجعة",
-
   "welcome": "مرحباً!",
   "selectLevel": "اختر المستوى المستهدف",
   "canChangeInSettings": "يمكنك تغييره لاحقاً في الإعدادات",
   "start": "ابدأ",
-
   "levelTarget": "المستوى المستهدف",
   "levelNameA1": "مبتدئ",
   "levelNameA2": "أساسي",
@@ -95,14 +83,12 @@
   "grammar": "القواعد",
   "vocabulary": "المفردات",
   "grammarAndVocabulary": "القواعد والمفردات",
-
   "noWrongAnswers": "لا توجد أخطاء!",
   "noWrongAnswersDesc": "أنت تبلي بلاءً حسناً!\nاستمر في ذلك!",
   "wrongCount": "خطأ {count} مرات",
   "correctAnswer": "الإجابة الصحيحة",
   "yourAnswer": "إجابتك",
   "explanation": "الشرح",
-
   "premium": "مميز",
   "removeAds": "إزالة الإعلانات",
   "premiumActivated": "تم تفعيل المميز",
@@ -111,26 +97,22 @@
   "purchaseFailed": "فشل الشراء",
   "purchasesRestored": "تم استعادة المشتريات",
   "productNotAvailable": "المنتج غير متاح",
-
   "studyNotification": "تذكير الدراسة",
-  "dailyNotification": "تذكير بالدراسة عند عدم الدخول لأكثر من يوم",
+  "dailyNotification": "تذكير يومي في الوقت الذي تختاره، وتذكير آخر إذا فاتك يوم",
   "notificationOff": "الإشعارات معطلة",
   "notificationTime": "وقت الإشعار",
   "notificationChannelName": "تذكير الدراسة",
   "notificationChannelDesc": "تذكيرات يومية للدراسة",
   "notificationTitle": "إسبانية سهلة",
   "notificationBody": "حان وقت بدء الدراسة!",
-
   "language": "اللغة",
   "selectLanguage": "اختيار اللغة",
   "languageSystem": "النظام",
-
   "soundAndVibration": "الصوت والاهتزاز",
   "soundEffects": "المؤثرات الصوتية",
   "soundEffectsDesc": "تشغيل صوت عند الإجابة الصحيحة/الخاطئة",
   "vibration": "الاهتزاز",
   "vibrationDesc": "اهتزاز عند الإجابة الصحيحة/الخاطئة",
-
   "ttsSettings": "إعدادات الصوت",
   "ttsAutoPlay": "تشغيل تلقائي",
   "ttsAutoPlayDesc": "نطق الإسبانية تلقائياً عند الإجابة الصحيحة",
@@ -141,7 +123,6 @@
   "ttsSpeedNormal": "عادي",
   "ttsSpeedFast": "سريع",
   "ttsTestPlay": "معاينة",
-
   "showHint": "عرض التلميح",
   "nextQuestion": "السؤال التالي",
   "keyPoints": "النقاط الرئيسية",
@@ -153,10 +134,11 @@
   "continueReviewWithCount": "متابعة المراجعة ({count} متبقية)",
   "@continueReviewWithCount": {
     "placeholders": {
-      "count": {"type": "int"}
+      "count": {
+        "type": "int"
+      }
     }
   },
-
   "totalStudied": "إجمالي المدروس",
   "accuracyRate": "نسبة الدقة",
   "studyDays": "أيام الدراسة",
@@ -169,13 +151,11 @@
   "minutes": "{count} دقيقة",
   "selectDailyGoal": "اختيار الهدف اليومي",
   "selectTargetLevel": "اختيار المستوى المستهدف",
-
   "notificationMsg1": "مهاراتك في الإسبانية بانتظارك! هل أنت مستعد لخطوة أخرى اليوم؟",
   "notificationMsg2": "هل تتذكر ما تعلمته بالأمس؟ المراجعة تساعدك على التذكر لفترة أطول!",
   "notificationMsg3": "قليل كل يوم يصنع فرقاً كبيراً! ابدأ درس الإسبانية اليوم.",
   "notificationMsg4": "¡Hola! افتقدناك. لنتعلم الإسبانية معاً اليوم!",
   "notificationMsg5": "لا تكسر سلسلة تعلمك! ابدأ الدراسة الآن.",
-
   "howManyTopics": "كم موضوعاً في اليوم؟",
   "oneTopic": "موضوع واحد",
   "twoTopics": "موضوعان",
@@ -183,16 +163,20 @@
   "lightStart": "بداية خفيفة",
   "moderateAmount": "كمية معتدلة",
   "intensiveStudy": "دراسة مكثفة",
-
   "topicList": "قائمة المواضيع",
   "notStudiedYet": "لم تتم دراسته",
   "studiedLabel": "تمت الدراسة",
   "topicCount": "{count} مواضيع",
-  "@topicCount": { "placeholders": { "count": {"type": "int"} } },
-
+  "@topicCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
   "speakingPractice": "تدريب المحادثة",
   "speakingTest": "اختبار المحادثة",
-"speakingBrowseAll": "تصفح الكل",
+  "speakingBrowseAll": "تصفح الكل",
   "speakingFeatureDesc": "تدرّب على عشرات التنويعات من جملة واحدة: تغيير الفاعل، النفي، السؤال، استبدال الكلمات.",
   "practice": "تدريب",
   "test": "اختبار",
@@ -215,7 +199,6 @@
   "averageAccuracy": "متوسط الدقة {percent}",
   "testPassed": "🎉 ناجح!",
   "testFailed": "اقتربت. حاول مرة أخرى!",
-  "goHome": "الرئيسية",
   "sayInSpanishHint": "انظر وقلها بالإسبانية",
   "variationBase": "الجملة الأساسية",
   "variationSubject": "الفاعل · {subject}",
@@ -238,5 +221,6 @@
   "quizListenPrompt": "استمع واختر الكلمة الناقصة",
   "quizTypePrompt": "اكتب الكلمة الناقصة",
   "quizCheck": "تحقق",
-  "quizSayIt": "الآن قل الجملة كاملة"
+  "quizSayIt": "الآن قل الجملة كاملة",
+  "badgeNew": "جديد"
 }

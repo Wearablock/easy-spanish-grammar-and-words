@@ -154,7 +154,7 @@
       "определённый артикль мужского рода в единственном числе",
       "неопределённый артикль мужского рода во множественном числе"
     ],
-    "explanation": "'los' — определённый артикль мужского рода во множественном числе (= «тот/те» для существительных мужского рода во мн. числе).\n- el (м. ед.), la (ж. ед.), los (м. мн.), las (ж. мн.)",
+    "explanation": "'los' — определённый артикль мужского рода во множественном числе (используется перед существительными мужского рода во мн. числе; в русском артиклей нет).\n- el (м. ед.), la (ж. ед.), los (м. мн.), las (ж. мн.)",
     "hint": null
   },
   "q_gram_a1_02_005": {
@@ -259,14 +259,14 @@
     "hint": null
   },
   "q_gram_a1_03_004": {
-    "question": "Soy ___. (Yo soy maestro.) (выберите подходящий ответ)",
+    "question": "Soy ___. (Я учитель.)",
     "correct": "profesor",
     "wrong": [
       "un profesor",
       "el profesor",
       "una profesora"
     ],
-    "explanation": "В испанском языке неопределённый артикль опускается перед названием профессии после глагола ser.\n- Soy profesor. (правильно)\n- Soy un profesor. (неправильно в стандартном испанском без прилагательного или уточнения)\nЭто правило действует и для национальностей: Soy español.",
+    "explanation": "В испанском языке неопределённый артикль обычно опускается перед названием профессии без определения после ser.\n- Soy profesor. (правильно)\n- Soy un profesor muy bueno. (артикль используется, когда добавлено прилагательное или уточнение)\nЭто правило действует и для национальностей: Soy español.",
     "conjugation_info": "Ser + profession: no article needed. Soy profesor, Soy estudiante, Soy médico.",
     "hint": null
   },
@@ -282,14 +282,14 @@
     "hint": "ciudad — существительное женского рода"
   },
   "q_gram_a1_03_006": {
-    "question": "no hay ___. (Там — без проблем.)",
+    "question": "No hay ___. (Проблем нет.)",
     "correct": "problema",
     "wrong": [
       "un problema",
       "el problema",
-      "problemas"
+      "unos problemas"
     ],
-    "explanation": "После отрицательной конструкции 'no hay' неопределённый артикль опускается.\n- no hay problema. (правильно)\n- no hay azúcar. (Сахара нет.)\nАртикль опускается в отрицательных конструкциях со значением существования.",
+    "explanation": "После отрицательной конструкции 'no hay' неопределённый артикль опускается.\n- No hay problema. (правильно)\n- No hay azúcar. (Сахара нет.)\nАртикль опускается в отрицательных конструкциях со значением существования.",
     "conjugation_info": "Omit неопределённый артикль after: sin (without), no hay (there isn't), и с professions after ser.",
     "hint": null
   },
@@ -358,7 +358,7 @@
       "Él",
       "Usted"
     ],
-    "explanation": "'eres' — форма tú глагола ser.\n- Tú eres = ты есть / ты (неформальное обращение)\nМестоимение 'tú' используется с друзьями, родственниками и ровесниками.",
+    "explanation": "'eres' — форма tú глагола ser.\n- Tú eres = ты являешься (неформальное обращение)\nМестоимение 'tú' используется с друзьями, родственниками и ровесниками.",
     "hint": "С каким местоимением употребляется 'eres'?"
   },
   "q_gram_a1_04_003": {
@@ -429,7 +429,7 @@
     "hint": "Обратите внимание на знак ударения, который отличает это местоимение от артикля"
   },
   "q_gram_a1_04_009": {
-    "question": "¿___ es usted? – Soy Ana García.",
+    "question": "¿___ es usted? – Soy Ana García. (Кто вы?)",
     "correct": "Quién",
     "wrong": [
       "Dónde",
@@ -459,7 +459,7 @@
       "es",
       "somos"
     ],
-    "explanation": "Форма yo глагола 'ser' — 'soy'.\n- Yo soy estudiante = Я студент.\nSer используется для профессий и принадлежности.",
+    "explanation": "Форма yo глагола 'ser' — 'soy'.\n- Yo soy estudiante = Я студент.\nSer используется для профессий и личности.",
     "hint": "Какова форма первого лица единственного числа глагола ser?"
   },
   "q_gram_a1_05_002": {
@@ -554,7 +554,7 @@
     "hint": null
   },
   "q_gram_a1_05_010": {
-    "question": "Сейчас час дня.",
+    "question": "Сейчас час.",
     "correct": "Es la una.",
     "wrong": [
       "Son la una.",
@@ -685,8 +685,8 @@
       "son",
       "están"
     ],
-    "explanation": "Ser используется для professions. - María es doctora. = María является doctor. Profession есть identity characteristic, не временное состояние.",
-    "hint": "Professions use ser, не estar"
+    "explanation": "Для профессий используется ser.\n- María es doctora. = Мария — врач.\nПрофессия — это характеристика личности, а не временное состояние.",
+    "hint": "Для профессий используется ser, а не estar"
   },
   "q_gram_a1_07_002": {
     "question": "El hospital ___ en la calle Mayor.",
@@ -696,30 +696,31 @@
       "son",
       "están"
     ],
-    "explanation": "Estar используется для location. - El hospital está en la calle Mayor. = hospital есть на Mayor Street. Location всегда uses estar, even для постоянный buildings.",
-    "hint": "Location всегда uses который глагол?"
+    "explanation": "Estar используется для местонахождения мест, предметов и людей.\n- El hospital está en la calle Mayor. = Больница находится на улице Майор.\n- Исключение — события: для них используется ser (La fiesta es en mi casa).",
+    "hint": "Какой глагол используется для местонахождения мест, предметов и людей?"
   },
   "q_gram_a1_07_003": {
-    "question": "Что означает 'ser aburrido' в отличие от 'estar aburrido'?",
-    "correct": "быть скучным vs скучать (испытывать скуку)",
+    "question": "Что значит 'ser aburrido' по сравнению с 'estar aburrido'?",
+    "correct": "быть скучным и быть скучающим",
     "wrong": [
-      "скучать (испытывать скуку) vs быть скучным",
-      "оба означают одно и то же",
-      "быть усталым vs быть утомительным"
+      "быть скучающим и быть скучным",
+      "оба выражения означают одно и то же",
+      "быть уставшим и быть утомительным"
     ],
-    "explanation": "Некоторые прилагательные меняют значение в зависимости от ser или estar:\n- ser aburrido = быть скучным (свойство)\n- estar aburrido = скучать (чувство)\nВыбор глагола меняет значение прилагательного.",
+    "explanation": "Некоторые прилагательные меняют значение в зависимости от ser или estar:\n- ser aburrido = быть скучным (характеристика)\n- estar aburrido = скучать, быть в скуке (чувство)\nВыбор глагола меняет значение прилагательного.",
     "hint": null
   },
   "q_gram_a1_07_004": {
-    "question": "La fiesta ___ en mi casa. (conjugate правильный глагол для 'к быть')",
+    "question": "La fiesta ___ en mi casa. (проспрягайте нужный глагол 'быть')",
     "correct": "es",
     "wrong": [
       "está",
       "son",
       "están"
     ],
-    "explanation": "Events use 'ser' для location, не 'estar'. это является key исключение! - La fiesta es en mi casa. = party есть at my дом. - Buildings use estar: El cine está en la calle.",
-    "conjugation_info": "Events (fiesta, concierto, reunión) use ser для location: La fiesta es en..."
+    "explanation": "Для места проведения событий используется 'ser', а не 'estar'. Это важное исключение!\n- La fiesta es en mi casa. = Вечеринка будет у меня дома.\n- Для зданий используется estar: El cine está en la calle.",
+    "conjugation_info": "Events (fiesta, concierto, reunión) use ser для location: La fiesta es en...",
+    "hint": null
   },
   "q_gram_a1_07_005": {
     "question": "Pedro ___ listo para el examen.",
@@ -729,19 +730,20 @@
       "son",
       "están"
     ],
-    "explanation": "'estar listo' = к быть ready (временное состояние). - Pedro está listo = Pedro есть ready. - Pedro es listo = Pedro есть smart (постоянный trait). Ser/estar с 'listo' changes значение entirely.",
-    "hint": "есть Pedro smart, или есть he ready?"
+    "explanation": "'estar listo' = быть готовым (временное состояние).\n- Pedro está listo = Педро готов.\n- Pedro es listo = Педро умный (постоянная черта).\nС 'listo' выбор между ser и estar полностью меняет значение.",
+    "hint": "Педро умный или он готов?"
   },
   "q_gram_a1_07_006": {
-    "question": "El edificio ___ muy alto. (conjugate правильный глагол для a characteristic)",
+    "question": "El edificio ___ muy alto. (проспрягайте нужный глагол для характеристики)",
     "correct": "es",
     "wrong": [
       "está",
       "estoy",
       "son"
     ],
-    "explanation": "Ser используется для inherent physical characteristics. - El edificio es alto. = building есть tall. Height является постоянный characteristic building.",
-    "conjugation_info": "Ser = постоянный traits: Es alto, es grande, es bonito. Estar = временный states."
+    "explanation": "Ser используется для присущих физических характеристик.\n- El edificio es alto. = Здание высокое.\nВысота — постоянная характеристика здания.",
+    "conjugation_info": "Ser = постоянный traits: Es alto, es grande, es bonito. Estar = временный states.",
+    "hint": null
   },
   "q_gram_a1_07_007": {
     "question": "Hoy yo ___ muy contento.",
@@ -751,29 +753,31 @@
       "es",
       "está"
     ],
-    "explanation": "Estar используется для emotions и feelings. - Estoy contento = I am happy (как I feel right now). Emotions являются временный states который может change.",
-    "hint": "Emotions и moods use estar"
+    "explanation": "Estar используется для эмоций и чувств.\n- Estoy contento = Я рад (как я себя чувствую сейчас).\nЭмоции — это временные состояния, которые могут измениться.",
+    "hint": "Для эмоций и настроения используется estar"
   },
   "q_gram_a1_07_008": {
-    "question": "She есть от Mexico.",
+    "question": "Она из Мексики.",
     "correct": "Ella es de México.",
     "wrong": [
       "Ella está de México.",
       "Ella es en México.",
       "Ella está en México."
     ],
-    "explanation": "Ser + de = origin/где someone есть от. - Ella es de México = She есть от Mexico (origin, постоянный). - Ella está en México = She есть в Mexico (location, possibly временный)."
+    "explanation": "Ser + de = происхождение, откуда человек родом.\n- Ella es de México = Она из Мексики (происхождение, постоянное).\n- Ella está en México = Она в Мексике (местонахождение, возможно временное).",
+    "hint": null
   },
   "q_gram_a1_07_009": {
-    "question": "La manzana ___ verde. ( apple есть green — это есть not ripe yet.)",
+    "question": "La manzana ___ verde. (Яблоко зелёное — оно ещё не созрело.)",
     "correct": "está",
     "wrong": [
       "es",
       "son",
       "están"
     ],
-    "explanation": "с colors, estar означает временный/changeable state (unripe → будет ripen). - La manzana está verde = apple есть green (не ripe, временный). - La manzana es verde = apple есть green (от nature, its variety).",
-    "conjugation_info": "Ser verde = green by nature. Estar verde = unripe/не ready."
+    "explanation": "С цветами estar означает временное, изменчивое состояние (неспелое → созреет).\n- La manzana está verde = Яблоко зелёное (неспелое, временное состояние).\n- La manzana es verde = Яблоко зелёное (по природе, такой сорт).",
+    "conjugation_info": "Ser verde = green by nature. Estar verde = unripe/не ready.",
+    "hint": null
   },
   "q_gram_a1_07_010": {
     "question": "Книга лежит на столе.",
@@ -783,7 +787,7 @@
       "El libro está la mesa.",
       "El libro es la mesa."
     ],
-    "explanation": "Estar используется для указания местонахождения предметов.\n- El libro está en la mesa. = Книга лежит на столе.\nЗапомните: местонахождение предметов и людей всегда выражается через estar.",
+    "explanation": "Estar используется для местонахождения предметов.\n- El libro está en la mesa. = Книга лежит на столе.\nЗапомните: для местонахождения предметов и людей всегда используется estar.",
     "hint": null
   },
   "q_gram_a1_08_001": {

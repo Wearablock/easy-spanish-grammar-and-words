@@ -40,7 +40,7 @@
       "permisi",
       "selamat tinggal"
     ],
-    "explanation": "'Por favor' dipakai untuk membuat permintaan dengan sopan, sama seperti 'tolong' atau 'please' dalam bahasa Indonesia.",
+    "explanation": "'Por favor' dipakai untuk membuat permintaan dengan sopan, sama seperti 'please' dalam bahasa Inggris.",
     "hint": null
   },
   "q_vocab_a1_01_005": {
@@ -239,7 +239,7 @@
     "correct": "pagi",
     "wrong": [
       "siang/sore",
-      "malam (petang)",
+      "petang",
       "malam"
     ],
     "explanation": "'Mañana' berarti 'pagi' jika dipakai dengan 'por la'. Dalam konteks lain, kata ini juga bisa berarti 'besok'.",
@@ -567,7 +567,7 @@
       "jus",
       "kopi"
     ],
-    "explanation": "'Agua' berarti 'air'. Meskipun feminin, kata ini memakai 'el' dalam bentuk tunggal: 'el agua' (untuk menghindari dua bunyi 'a' yang berurutan).",
+    "explanation": "'Agua' berarti 'air'. Meskipun feminin, dalam bentuk tunggal memakai 'el': 'el agua' (untuk menghindari dua bunyi 'a' berurutan).",
     "hint": null
   },
   "q_vocab_a1_06_002": {
@@ -578,7 +578,8 @@
       "arroz",
       "pollo"
     ],
-    "explanation": "'Café con leche' berarti 'coffee dengan milk', a sangat popular drink di Spain dan Latin America."
+    "explanation": "'Café con leche' berarti 'kopi susu', minuman yang sangat populer di Spanyol dan Amerika Latin.",
+    "hint": null
   },
   "q_vocab_a1_06_003": {
     "question": "Apa arti 'pan'?",
@@ -588,7 +589,7 @@
       "daging",
       "keju"
     ],
-    "explanation": "'Pan' berarti 'roti'. Ini adalah salah satu makanan paling dasar di negara-negara berbahasa Spanyol.",
+    "explanation": "'Pan' berarti 'roti'. Ini salah satu makanan paling dasar di negara-negara berbahasa Spanyol.",
     "hint": null
   },
   "q_vocab_a1_06_004": {
@@ -603,14 +604,15 @@
     "hint": null
   },
   "q_vocab_a1_06_005": {
-    "question": "I want a glass dari orange juice.",
+    "question": "Saya mau segelas jus jeruk.",
     "correct": "Quiero un vaso de zumo de naranja.",
     "wrong": [
       "Quiero un vaso de leche de naranja.",
       "Quiero una taza de zumo de naranja.",
       "Quiero un vaso de vino de naranja."
     ],
-    "explanation": "'Zumo' berarti 'juice' (used di Spain; 'jugo' digunakan di Latin America). 'Vaso' berarti 'glass'."
+    "explanation": "'Zumo' berarti 'jus' (dipakai di Spanyol; 'jugo' dipakai di Amerika Latin). 'Vaso' berarti 'gelas'.",
+    "hint": null
   },
   "q_vocab_a1_06_006": {
     "question": "Apa arti 'pescado' dalam kalimat 'El pescado está fresco'?",
@@ -620,19 +622,20 @@
       "daging",
       "udang"
     ],
-    "explanation": "'Pescado' mengacu pada ikan sebagai makanan. 'Pez' adalah ikan yang hidup. Kalimat ini berarti 'Ikannya segar'.",
+    "explanation": "'Pescado' merujuk pada ikan sebagai makanan. 'Pez' adalah ikan yang hidup. Kalimat ini berarti 'Ikannya segar'.",
     "hint": null
   },
   "q_vocab_a1_06_007": {
-    "question": "kamu adalah at a restaurant dan ini/itu waiter asks apa kamu want ke drink. bagaimana do kamu order a beer?",
+    "question": "Anda sedang berada di restoran dan pelayan menanyakan Anda mau minum apa. Bagaimana cara memesan bir?",
     "correct": "Una cerveza, por favor.",
     "wrong": [
       "Un café, por favor.",
       "Un té, por favor.",
       "Un agua, por favor."
     ],
-    "explanation": "'Cerveza' berarti 'beer'. 'Una cerveza, por favor' adalah polite way ke order a beer at a restaurant.",
-    "context": "Ordering a drink at a restaurant"
+    "explanation": "'Cerveza' berarti 'bir'. 'Una cerveza, por favor' adalah cara sopan untuk memesan bir di restoran.",
+    "context": "Ordering a drink at a restaurant",
+    "hint": null
   },
   "q_vocab_a1_06_008": {
     "question": "Apa arti 'ensalada' dalam kalimat 'La ensalada está rica'?",
@@ -642,29 +645,31 @@
       "sandwich",
       "telur dadar"
     ],
-    "explanation": "'Ensalada' berarti 'salad'. 'Rica' di sini berarti 'enak'. Kalimat ini berarti 'Saladnya enak'.",
+    "explanation": "'Ensalada' berarti 'salad'. 'Rica' di sini berarti 'lezat'. Kalimat ini berarti 'Saladnya lezat'.",
     "hint": null
   },
   "q_vocab_a1_06_009": {
     "question": "Me gustan las frutas y las verduras.",
-    "correct": "I like fruits and vegetables.",
+    "correct": "Saya suka buah-buahan dan sayuran.",
     "wrong": [
-      "I like meat and fish.",
-      "I like bread and cheese.",
-      "I like coffee and tea."
+      "Saya suka daging dan ikan.",
+      "Saya suka roti dan keju.",
+      "Saya suka kopi dan teh."
     ],
-    "explanation": "'Frutas' berarti 'fruits' dan 'verduras' berarti 'vegetables'. 'Me gustan' digunakan dengan jamak nouns."
+    "explanation": "'Frutas' berarti 'buah-buahan' dan 'verduras' berarti 'sayuran'. 'Me gustan' dipakai dengan kata benda jamak.",
+    "hint": null
   },
   "q_vocab_a1_06_010": {
-    "question": "kamu adalah a guest at a Spanyol home dan ini/itu host offers kamu food. bagaimana do kamu politely accept?",
+    "question": "Anda sedang bertamu di rumah orang Spanyol dan tuan rumah menawarkan makanan. Bagaimana cara menerimanya dengan sopan?",
     "correct": "Sí, gracias. Tiene muy buena pinta.",
     "wrong": [
       "No quiero nada.",
       "Dame más comida.",
       "No me gusta la comida española."
     ],
-    "explanation": "'Tiene muy buena pinta' berarti 'itu looks sangat good'. ini adalah polite dan appreciative way ke accept food.",
-    "context": "Being offered food at someone's home"
+    "explanation": "'Tiene muy buena pinta' berarti 'Kelihatannya enak sekali'. Ini cara yang sopan dan menunjukkan apresiasi saat menerima makanan.",
+    "context": "Being offered food at someone's home",
+    "hint": null
   },
   "q_vocab_a1_07_001": {
     "question": "Apa arti 'cabeza'?",

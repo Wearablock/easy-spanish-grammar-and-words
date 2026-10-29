@@ -2,18 +2,14 @@
   "@@locale": "ja",
   "appTitle": "やさしいスペイン語",
   "appFullTitle": "やさしいスペイン語 - 文法と単語",
-
   "home": "ホーム",
   "progress": "進捗",
   "settings": "設定",
   "wrongAnswers": "間違いノート",
-
   "error": "エラー: {message}",
-
   "startStudy": "学習を始める",
   "continueStudy": "学習を続ける",
   "startReview": "復習する",
-
   "todayStudy": "今日の学習",
   "allTopicsCompleted": "すべてのトピック学習完了！",
   "reviewEncouragement": "復習で実力をさらに伸ばしましょう。",
@@ -23,13 +19,11 @@
   "todayGoal": "今日の目標",
   "topicsProgress": "{studied}/{goal} トピック",
   "streakDays": "{days}日連続学習中！",
-
   "overallProgress": "全体の進捗",
   "mastered": "完全習得",
   "studiedOnce": "1回以上学習",
   "totalQuestions": "全{count}問",
   "questionsMastered": "{count} / {total} 問完全習得",
-
   "study": "学習",
   "notifications": "通知",
   "appSettings": "アプリ設定",
@@ -56,7 +50,6 @@
   "themeSystem": "システム設定",
   "themeLight": "ライトモード",
   "themeDark": "ダークモード",
-
   "studyComplete": "学習完了",
   "goodJob": "お疲れ様でした",
   "goHome": "ホームへ",
@@ -67,24 +60,19 @@
   "wrongReview": "間違い復習",
   "spacedReview": "間隔反復復習",
   "newLearning": "新規学習",
-
   "errorOccurred": "エラーが発生しました",
   "retry": "再試行",
   "stopStudy": "学習を中断",
   "stopStudyConfirm": "学習を中断しますか？\n現在までの進捗は保存されます。",
   "continueStudyButton": "学習を続ける",
   "stop": "中断",
-
   "levelProgress": "レベル別進捗",
-
   "reviewAvailable": "復習する問題があります！",
   "reviewWaiting": "{count}問が復習を待っています",
-
   "welcome": "ようこそ！",
   "selectLevel": "目標レベルを選択してください",
   "canChangeInSettings": "後で設定で変更できます",
   "start": "始める",
-
   "levelTarget": "目標レベル",
   "levelNameA1": "入門",
   "levelNameA2": "初級",
@@ -95,14 +83,12 @@
   "grammar": "文法",
   "vocabulary": "語彙",
   "grammarAndVocabulary": "文法 & 語彙",
-
   "noWrongAnswers": "間違いはありません！",
   "noWrongAnswersDesc": "着実に学習を続けています。\nこの調子で頑張りましょう！",
   "wrongCount": "{count}回間違い",
   "correctAnswer": "正解",
   "yourAnswer": "あなたの回答",
   "explanation": "解説",
-
   "premium": "プレミアム",
   "removeAds": "広告を削除",
   "premiumActivated": "プレミアムが有効になりました",
@@ -111,26 +97,22 @@
   "purchaseFailed": "購入に失敗しました",
   "purchasesRestored": "購入が復元されました",
   "productNotAvailable": "商品を読み込めません",
-
   "studyNotification": "学習通知",
-  "dailyNotification": "1日以上アクセスしないと学習通知",
+  "dailyNotification": "毎日決めた時間に通知、1日休むともう一度",
   "notificationOff": "通知オフ",
   "notificationTime": "通知時間",
   "notificationChannelName": "学習リマインダー",
   "notificationChannelDesc": "毎日の学習時間をお知らせします",
   "notificationTitle": "やさしいスペイン語",
   "notificationBody": "今日の学習を始める時間です！",
-
   "language": "言語",
   "selectLanguage": "言語を選択",
   "languageSystem": "システム設定",
-
   "soundAndVibration": "サウンド・振動",
   "soundEffects": "効果音",
   "soundEffectsDesc": "正解/不正解時に効果音を再生",
   "vibration": "振動",
   "vibrationDesc": "正解/不正解時に振動フィードバック",
-
   "ttsSettings": "音声設定",
   "ttsAutoPlay": "自動再生",
   "ttsAutoPlayDesc": "正解確認時にスペイン語を自動発音",
@@ -141,7 +123,6 @@
   "ttsSpeedNormal": "普通",
   "ttsSpeedFast": "速い",
   "ttsTestPlay": "試聴",
-
   "showHint": "ヒントを見る",
   "nextQuestion": "次の問題",
   "keyPoints": "ポイント",
@@ -153,10 +134,11 @@
   "continueReviewWithCount": "復習を続ける（残り{count}問）",
   "@continueReviewWithCount": {
     "placeholders": {
-      "count": {"type": "int"}
+      "count": {
+        "type": "int"
+      }
     }
   },
-
   "totalStudied": "総学習問題",
   "accuracyRate": "正答率",
   "studyDays": "学習日数",
@@ -169,13 +151,11 @@
   "minutes": "{count}分",
   "selectDailyGoal": "1日の学習量を選択",
   "selectTargetLevel": "目標レベルを選択",
-
   "notificationMsg1": "スペイン語力が待っています！今日も一歩進みましょう。",
   "notificationMsg2": "昨日学んだこと、覚えていますか？復習すると記憶が長持ちします！",
   "notificationMsg3": "毎日コツコツ！今日のスペイン語学習を始めましょう。",
   "notificationMsg4": "¡Hola！スペイン語が恋しいです。今日も一緒に勉強しましょう！",
   "notificationMsg5": "連続学習記録が途切れる前に！今すぐ始めませんか？",
-
   "howManyTopics": "1日に何トピック学習しますか？",
   "oneTopic": "1トピック",
   "twoTopics": "2トピック",
@@ -183,16 +163,20 @@
   "lightStart": "軽くスタート",
   "moderateAmount": "ちょうどいい量",
   "intensiveStudy": "集中学習",
-
   "topicList": "トピック一覧",
   "notStudiedYet": "未学習",
   "studiedLabel": "学習済み",
   "topicCount": "{count}トピック",
-  "@topicCount": { "placeholders": { "count": {"type": "int"} } },
-
+  "@topicCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
   "speakingPractice": "スピーキング練習",
   "speakingTest": "スピーキングテスト",
-"speakingBrowseAll": "一覧から選ぶ",
+  "speakingBrowseAll": "一覧から選ぶ",
   "speakingFeatureDesc": "1つの文から主語・否定・疑問・単語の入れ替えで何十ものバリエーションを発話練習・テストできます。",
   "practice": "練習",
   "test": "テスト",
@@ -215,7 +199,6 @@
   "averageAccuracy": "平均正確度 {percent}",
   "testPassed": "🎉 合格！",
   "testFailed": "残念。もう一度挑戦しましょう。",
-  "goHome": "ホームへ",
   "sayInSpanishHint": "見てスペイン語で言いましょう",
   "variationBase": "基本文",
   "variationSubject": "主語変更 · {subject}",
@@ -238,5 +221,6 @@
   "quizListenPrompt": "聞いて空欄に入る語を選んでください",
   "quizTypePrompt": "空欄に入る語を入力してください",
   "quizCheck": "確認",
-  "quizSayIt": "文全体を声に出して言ってみましょう"
+  "quizSayIt": "文全体を声に出して言ってみましょう",
+  "badgeNew": "NEW"
 }

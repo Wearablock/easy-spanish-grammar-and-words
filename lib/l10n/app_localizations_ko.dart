@@ -323,7 +323,7 @@ class AppLocalizationsKo extends AppLocalizations {
   String get studyNotification => '학습 알림';
 
   @override
-  String get dailyNotification => '하루 이상 접속하지 않으면 학습 알림';
+  String get dailyNotification => '매일 정한 시간에 알림, 하루 쉬면 한 번 더';
 
   @override
   String get notificationOff => '알림 꺼짐';
@@ -678,4 +678,7 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get quizSayIt => '문장 전체를 따라 말해 보세요';
+
+  @override
+  String get badgeNew => 'NEW';
 }

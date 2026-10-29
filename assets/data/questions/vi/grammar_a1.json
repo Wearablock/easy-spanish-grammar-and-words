@@ -259,14 +259,14 @@
     "hint": null
   },
   "q_gram_a1_03_004": {
-    "question": "Soy ___. (Yo soy maestro.) (chọn đáp án phù hợp)",
+    "question": "Soy ___. (Tôi là giáo viên.)",
     "correct": "profesor",
     "wrong": [
       "un profesor",
       "el profesor",
       "una profesora"
     ],
-    "explanation": "Trong tiếng Tây Ban Nha, mạo từ bất định được bỏ đi khi nói về nghề nghiệp sau động từ ser.\n- Soy profesor. (đúng)\n- Soy un profesor. (sai trong tiếng Tây Ban Nha chuẩn nếu không có tính từ hoặc bổ ngữ đi kèm)\nQuy tắc này cũng áp dụng cho quốc tịch: Soy español.",
+    "explanation": "Trong tiếng Tây Ban Nha, mạo từ bất định thường được bỏ đi trước nghề nghiệp không có bổ ngữ đứng sau ser.\n- Soy profesor. (đúng)\n- Soy un profesor muy bueno. (dùng mạo từ khi có thêm tính từ hoặc bổ ngữ)\nQuy tắc này cũng áp dụng cho quốc tịch: Soy español.",
     "conjugation_info": "Ser + profession: no article needed. Soy profesor, Soy estudiante, Soy médico.",
     "hint": null
   },
@@ -282,14 +282,14 @@
     "hint": "ciudad là danh từ giống cái"
   },
   "q_gram_a1_03_006": {
-    "question": "no hay ___. (Ở đó không có vấn đề gì.)",
+    "question": "No hay ___. (Không có vấn đề gì.)",
     "correct": "problema",
     "wrong": [
       "un problema",
       "el problema",
-      "problemas"
+      "unos problemas"
     ],
-    "explanation": "Sau cấu trúc phủ định 'no hay', mạo từ bất định được lược bỏ.\n- no hay problema. (đúng)\n- no hay azúcar. (Không có đường.)\nMạo từ bị bỏ đi trong các câu phủ định nói về sự tồn tại.",
+    "explanation": "Sau cấu trúc phủ định 'no hay', mạo từ bất định được lược bỏ.\n- No hay problema. (đúng)\n- No hay azúcar. (Không có đường.)\nMạo từ bị bỏ đi trong các câu phủ định nói về sự tồn tại.",
     "conjugation_info": "Omit mạo từ không xác định after: sin (without), no hay (there isn't), và with professions after ser.",
     "hint": null
   },
@@ -373,7 +373,7 @@
     "hint": "viven là dạng động từ ngôi thứ ba số nhiều"
   },
   "q_gram_a1_04_004": {
-    "question": "Cách nói trang trọng của 'you' (số ít) trong tiếng Tây Ban Nha là gì?",
+    "question": "Cách nói trang trọng của 'bạn' (số ít) trong tiếng Tây Ban Nha là gì?",
     "correct": "usted",
     "wrong": [
       "tú",
@@ -429,7 +429,7 @@
     "hint": "Chú ý dấu sắc giúp phân biệt đại từ này với mạo từ"
   },
   "q_gram_a1_04_009": {
-    "question": "¿___ es usted? – Soy Ana García.",
+    "question": "¿___ es usted? – Soy Ana García. (Ông/Bà là ai?)",
     "correct": "Quién",
     "wrong": [
       "Dónde",
@@ -685,8 +685,8 @@
       "son",
       "están"
     ],
-    "explanation": "Ser được sử dụng cho professions.\n- María es doctora. = María là a doctor.\nProfession là an identity characteristic, not a temporary state.",
-    "hint": "Professions use ser, not estar"
+    "explanation": "Ser được dùng cho nghề nghiệp.\n- María es doctora. = María là bác sĩ.\nNghề nghiệp là đặc điểm nhận dạng, không phải trạng thái tạm thời.",
+    "hint": "Nghề nghiệp dùng ser, không dùng estar"
   },
   "q_gram_a1_07_002": {
     "question": "El hospital ___ en la calle Mayor.",
@@ -696,30 +696,31 @@
       "son",
       "están"
     ],
-    "explanation": "Estar được sử dụng cho location.\n- El hospital está en la calle Mayor. = hospital là on Mayor Street.\nLocation luôn uses estar, even cho permanent buildings.",
-    "hint": "Location luôn uses mà động từ?"
+    "explanation": "Estar được dùng để chỉ vị trí của địa điểm, đồ vật và con người.\n- El hospital está en la calle Mayor. = Bệnh viện nằm trên phố Mayor.\n- Sự kiện là ngoại lệ: dùng ser (La fiesta es en mi casa).",
+    "hint": "Động từ nào được dùng để chỉ vị trí của địa điểm, đồ vật và con người?"
   },
   "q_gram_a1_07_003": {
-    "question": "'ser aburrido' khác với 'estar aburrido' như thế nào?",
+    "question": "'ser aburrido' khác với 'estar aburrido' như thế nào về nghĩa?",
     "correct": "nhàm chán (gây chán) so với cảm thấy chán",
     "wrong": [
       "cảm thấy chán so với nhàm chán (gây chán)",
-      "cả hai có cùng nghĩa",
+      "cả hai có nghĩa giống nhau",
       "mệt mỏi so với gây mệt mỏi"
     ],
-    "explanation": "Một số tính từ đổi nghĩa khi đi với ser hoặc estar:\n- ser aburrido = nhàm chán, gây chán (đặc điểm)\n- estar aburrido = cảm thấy chán (cảm giác)\nViệc chọn động từ làm thay đổi nghĩa của tính từ.",
+    "explanation": "Một số tính từ đổi nghĩa tùy theo ser hay estar:\n- ser aburrido = nhàm chán, gây chán (đặc điểm)\n- estar aburrido = cảm thấy chán (cảm giác)\nViệc chọn động từ làm thay đổi nghĩa của tính từ.",
     "hint": null
   },
   "q_gram_a1_07_004": {
-    "question": "La fiesta ___ en mi casa. (conjugate đúng động từ cho 'để là')",
+    "question": "La fiesta ___ en mi casa. (hãy chia đúng động từ 'là/thì/ở')",
     "correct": "es",
     "wrong": [
       "está",
       "son",
       "están"
     ],
-    "explanation": "Events use 'ser' cho location, not 'estar'. Đây là a key ngoại lệ!\n- La fiesta es en mi casa. = party là tại my house.\n- Buildings use estar: El cine está en la calle.",
-    "conjugation_info": "Events (fiesta, concierto, reunión) use ser cho location: La fiesta es en..."
+    "explanation": "Với sự kiện, khi nói về địa điểm diễn ra ta dùng 'ser', không dùng 'estar'. Đây là một ngoại lệ quan trọng!\n- La fiesta es en mi casa. = Bữa tiệc diễn ra ở nhà tôi.\n- Với công trình thì dùng estar: El cine está en la calle.",
+    "conjugation_info": "Events (fiesta, concierto, reunión) use ser cho location: La fiesta es en...",
+    "hint": null
   },
   "q_gram_a1_07_005": {
     "question": "Pedro ___ listo para el examen.",
@@ -729,19 +730,20 @@
       "son",
       "están"
     ],
-    "explanation": "'estar listo' = để là ready (temporary state).\n- Pedro está listo = Pedro là ready.\n- Pedro es listo = Pedro là smart (permanent trait).\nSer/estar với 'listo' changes có nghĩa là entirely.",
-    "hint": "là Pedro smart, hoặc là he ready?"
+    "explanation": "'estar listo' = sẵn sàng (trạng thái tạm thời).\n- Pedro está listo = Pedro đã sẵn sàng.\n- Pedro es listo = Pedro thông minh (đặc điểm lâu dài).\nDùng ser hay estar với 'listo' làm nghĩa thay đổi hoàn toàn.",
+    "hint": "Pedro thông minh hay là cậu ấy đã sẵn sàng?"
   },
   "q_gram_a1_07_006": {
-    "question": "El edificio ___ muy alto. (conjugate đúng động từ cho a characteristic)",
+    "question": "El edificio ___ muy alto. (hãy chia đúng động từ cho một đặc điểm)",
     "correct": "es",
     "wrong": [
       "está",
       "estoy",
       "son"
     ],
-    "explanation": "Ser được sử dụng cho inherent physical characteristics.\n- El edificio es alto. = building là tall.\nHeight là a permanent characteristic của building.",
-    "conjugation_info": "Ser = permanent traits: Es alto, es grande, es bonito. Estar = temporary states."
+    "explanation": "Ser được dùng cho các đặc điểm vật lý vốn có.\n- El edificio es alto. = Tòa nhà cao.\nChiều cao là đặc điểm lâu dài của tòa nhà.",
+    "conjugation_info": "Ser = permanent traits: Es alto, es grande, es bonito. Estar = temporary states.",
+    "hint": null
   },
   "q_gram_a1_07_007": {
     "question": "Hoy yo ___ muy contento.",
@@ -751,18 +753,19 @@
       "es",
       "está"
     ],
-    "explanation": "Estar được sử dụng cho emotions và feelings.\n- Estoy contento = I am happy (như thế nào I feel right now).\nEmotions là temporary states mà có thể change.",
-    "hint": "Emotions và moods use estar"
+    "explanation": "Estar được dùng cho cảm xúc và tâm trạng.\n- Estoy contento = Tôi vui (cảm giác ngay lúc này).\nCảm xúc là trạng thái tạm thời và có thể thay đổi.",
+    "hint": "Cảm xúc và tâm trạng dùng estar"
   },
   "q_gram_a1_07_008": {
-    "question": "She là từ Mexico.",
+    "question": "Cô ấy đến từ Mexico.",
     "correct": "Ella es de México.",
     "wrong": [
       "Ella está de México.",
       "Ella es en México.",
       "Ella está en México."
     ],
-    "explanation": "Ser + de = origin/ở đâu someone là từ.\n- Ella es de México = She là từ Mexico (origin, permanent).\n- Ella está en México = She là trong Mexico (location, possibly temporary)."
+    "explanation": "Ser + de = nguồn gốc / ai đó đến từ đâu.\n- Ella es de México = Cô ấy đến từ Mexico (nguồn gốc, lâu dài).\n- Ella está en México = Cô ấy đang ở Mexico (vị trí, có thể chỉ tạm thời).",
+    "hint": null
   },
   "q_gram_a1_07_009": {
     "question": "La manzana ___ verde. (Quả táo màu xanh — nó chưa chín.)",
@@ -772,7 +775,7 @@
       "son",
       "están"
     ],
-    "explanation": "Với màu sắc, estar diễn tả trạng thái tạm thời/có thể thay đổi (chưa chín → sẽ chín).\n- La manzana está verde = Quả táo còn xanh (chưa chín, tạm thời).\n- La manzana es verde = Quả táo màu xanh (vốn dĩ, là đặc điểm của giống táo đó).",
+    "explanation": "Với màu sắc, estar chỉ trạng thái tạm thời/có thể thay đổi (chưa chín → sẽ chín).\n- La manzana está verde = Quả táo còn xanh (chưa chín, tạm thời).\n- La manzana es verde = Quả táo màu xanh (vốn dĩ, theo giống).",
     "conjugation_info": "Ser verde = green by nature. Estar verde = unripe/not ready.",
     "hint": null
   },
@@ -784,7 +787,7 @@
       "El libro está la mesa.",
       "El libro es la mesa."
     ],
-    "explanation": "Estar được dùng để chỉ vị trí của đồ vật.\n- El libro está en la mesa. = Quyển sách ở trên bàn.\nHãy nhớ: vị trí của đồ vật và người luôn dùng estar.",
+    "explanation": "Estar được dùng để chỉ vị trí của đồ vật.\n- El libro está en la mesa. = Quyển sách ở trên bàn.\nHãy nhớ: vị trí của đồ vật và con người luôn dùng estar.",
     "hint": null
   },
   "q_gram_a1_08_001": {

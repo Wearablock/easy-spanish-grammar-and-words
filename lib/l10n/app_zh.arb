@@ -2,18 +2,14 @@
   "@@locale": "zh",
   "appTitle": "轻松学西语",
   "appFullTitle": "轻松学西语 - 语法与词汇",
-
   "home": "首页",
   "progress": "进度",
   "settings": "设置",
   "wrongAnswers": "错题本",
-
   "error": "错误: {message}",
-
   "startStudy": "开始学习",
   "continueStudy": "继续学习",
   "startReview": "开始复习",
-
   "todayStudy": "今日学习",
   "allTopicsCompleted": "所有主题学习完成！",
   "reviewEncouragement": "通过复习进一步提升实力吧。",
@@ -23,13 +19,11 @@
   "todayGoal": "今日目标",
   "topicsProgress": "{studied}/{goal} 主题",
   "streakDays": "连续学习{days}天！",
-
   "overallProgress": "总体进度",
   "mastered": "完全掌握",
   "studiedOnce": "学习过1次以上",
   "totalQuestions": "共{count}题",
   "questionsMastered": "{count} / {total} 题完全掌握",
-
   "study": "学习",
   "notifications": "通知",
   "appSettings": "应用设置",
@@ -56,7 +50,6 @@
   "themeSystem": "跟随系统",
   "themeLight": "浅色模式",
   "themeDark": "深色模式",
-
   "studyComplete": "学习完成",
   "goodJob": "辛苦了",
   "goHome": "返回首页",
@@ -67,24 +60,19 @@
   "wrongReview": "错题复习",
   "spacedReview": "间隔复习",
   "newLearning": "新学习",
-
   "errorOccurred": "发生错误",
   "retry": "重试",
   "stopStudy": "停止学习",
   "stopStudyConfirm": "要停止学习吗？\n当前进度将被保存。",
   "continueStudyButton": "继续学习",
   "stop": "停止",
-
   "levelProgress": "各级别进度",
-
   "reviewAvailable": "有需要复习的题目！",
   "reviewWaiting": "{count}道题等待复习",
-
   "welcome": "欢迎！",
   "selectLevel": "请选择目标级别",
   "canChangeInSettings": "之后可以在设置中修改",
   "start": "开始",
-
   "levelTarget": "目标级别",
   "levelNameA1": "入门",
   "levelNameA2": "初级",
@@ -95,14 +83,12 @@
   "grammar": "语法",
   "vocabulary": "词汇",
   "grammarAndVocabulary": "语法 & 词汇",
-
   "noWrongAnswers": "没有错题！",
   "noWrongAnswersDesc": "你一直在稳步学习。\n继续加油！",
   "wrongCount": "错{count}次",
   "correctAnswer": "正确答案",
   "yourAnswer": "你的答案",
   "explanation": "解析",
-
   "premium": "高级版",
   "removeAds": "移除广告",
   "premiumActivated": "高级版已激活",
@@ -111,26 +97,22 @@
   "purchaseFailed": "购买失败",
   "purchasesRestored": "购买已恢复",
   "productNotAvailable": "无法加载商品",
-
   "studyNotification": "学习提醒",
-  "dailyNotification": "超过一天未访问时发送学习提醒",
+  "dailyNotification": "每天在设定时间提醒，中断一天再提醒一次",
   "notificationOff": "通知已关闭",
   "notificationTime": "通知时间",
   "notificationChannelName": "学习提醒",
   "notificationChannelDesc": "每天提醒您学习时间",
   "notificationTitle": "轻松学西语",
   "notificationBody": "是时候开始今天的学习了！",
-
   "language": "语言",
   "selectLanguage": "选择语言",
   "languageSystem": "跟随系统",
-
   "soundAndVibration": "声音与振动",
   "soundEffects": "音效",
   "soundEffectsDesc": "答对/答错时播放音效",
   "vibration": "振动",
   "vibrationDesc": "答对/答错时振动反馈",
-
   "ttsSettings": "语音设置",
   "ttsAutoPlay": "自动播放",
   "ttsAutoPlayDesc": "答对时自动播放西班牙语发音",
@@ -141,7 +123,6 @@
   "ttsSpeedNormal": "正常",
   "ttsSpeedFast": "快速",
   "ttsTestPlay": "试听",
-
   "showHint": "查看提示",
   "nextQuestion": "下一题",
   "keyPoints": "要点",
@@ -153,10 +134,11 @@
   "continueReviewWithCount": "继续复习（剩余{count}题）",
   "@continueReviewWithCount": {
     "placeholders": {
-      "count": {"type": "int"}
+      "count": {
+        "type": "int"
+      }
     }
   },
-
   "totalStudied": "总学习题数",
   "accuracyRate": "正确率",
   "studyDays": "学习天数",
@@ -169,13 +151,11 @@
   "minutes": "{count}分钟",
   "selectDailyGoal": "选择每日学习量",
   "selectTargetLevel": "选择目标级别",
-
   "notificationMsg1": "你的西班牙语在等你！今天也来进步一点吧？",
   "notificationMsg2": "还记得昨天学的内容吗？复习能记得更久！",
   "notificationMsg3": "每天一点点，坚持就是胜利！开始今天的西班牙语学习吧。",
   "notificationMsg4": "¡Hola！好久不见，今天一起学西班牙语吧！",
   "notificationMsg5": "别让连续学习记录中断！现在就开始吧。",
-
   "howManyTopics": "每天学习几个主题？",
   "oneTopic": "1个主题",
   "twoTopics": "2个主题",
@@ -183,16 +163,20 @@
   "lightStart": "轻松开始",
   "moderateAmount": "适量学习",
   "intensiveStudy": "集中学习",
-
   "topicList": "主题列表",
   "notStudiedYet": "未学习",
   "studiedLabel": "已学习",
   "topicCount": "{count}个主题",
-  "@topicCount": { "placeholders": { "count": {"type": "int"} } },
-
+  "@topicCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
   "speakingPractice": "口语练习",
   "speakingTest": "口语测试",
-"speakingBrowseAll": "浏览全部",
+  "speakingBrowseAll": "浏览全部",
   "speakingFeatureDesc": "从一个句子开始，通过更换主语、否定、疑问、替换词汇练习数十种变体。",
   "practice": "练习",
   "test": "测试",
@@ -215,7 +199,6 @@
   "averageAccuracy": "平均准确率 {percent}",
   "testPassed": "🎉 通过！",
   "testFailed": "再接再厉，再试一次！",
-  "goHome": "返回首页",
   "sayInSpanishHint": "看后用西班牙语说",
   "variationBase": "基础句",
   "variationSubject": "主语 · {subject}",
@@ -238,5 +221,6 @@
   "quizListenPrompt": "听一听，选出空格里的词",
   "quizTypePrompt": "输入空格里的词",
   "quizCheck": "检查",
-  "quizSayIt": "把整句话说出来"
+  "quizSayIt": "把整句话说出来",
+  "badgeNew": "新"
 }

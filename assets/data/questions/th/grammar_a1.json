@@ -251,7 +251,7 @@
     "question": "'unas' ในคำว่า 'unas flores' หมายถึงอะไร?",
     "correct": "บาง/หลาย (พหูพจน์เพศหญิง)",
     "wrong": [
-      "คำนำหน้านามเจาะจง the (พหูพจน์เพศหญิง)",
+      "คำนำหน้านามเจาะจง (พหูพจน์เพศหญิง)",
       "หนึ่ง (เอกพจน์เพศหญิง)",
       "บาง/หลาย (พหูพจน์เพศชาย)"
     ],
@@ -259,14 +259,14 @@
     "hint": null
   },
   "q_gram_a1_03_004": {
-    "question": "Soy ___. (Yo soy maestro.) (เลือกคำตอบที่เหมาะสม)",
+    "question": "Soy ___. (ฉันเป็นครู)",
     "correct": "profesor",
     "wrong": [
       "un profesor",
       "el profesor",
       "una profesora"
     ],
-    "explanation": "ในภาษาสเปน ไม่ใช้คำนำหน้านามไม่เจาะจงกับอาชีพที่ตามหลัง ser\n- Soy profesor. (ถูกต้อง)\n- Soy un profesor. (ไม่ถูกต้องในภาษาสเปนมาตรฐาน หากไม่มีคำคุณศัพท์หรือส่วนขยาย)\nกฎนี้ใช้กับสัญชาติด้วย: Soy español.",
+    "explanation": "ในภาษาสเปน โดยปกติจะละคำนำหน้านามไม่เจาะจงเมื่อพูดถึงอาชีพที่ไม่มีคำขยาย หลัง ser\n- Soy profesor. (ถูกต้อง)\n- Soy un profesor muy bueno. (ใช้คำนำหน้านามเมื่อมีคำคุณศัพท์หรือส่วนขยายเพิ่มเข้ามา)\nกฎนี้ใช้กับสัญชาติด้วย: Soy español.",
     "conjugation_info": "Ser + profession: no article needed. Soy profesor, Soy estudiante, Soy médico.",
     "hint": null
   },
@@ -282,14 +282,14 @@
     "hint": "ciudad เป็นคำนามเพศหญิง"
   },
   "q_gram_a1_03_006": {
-    "question": "no hay ___. (ที่นั่นไม่มีปัญหา)",
+    "question": "No hay ___. (ไม่มีปัญหา)",
     "correct": "problema",
     "wrong": [
       "un problema",
       "el problema",
-      "problemas"
+      "unos problemas"
     ],
-    "explanation": "หลังประโยคปฏิเสธ 'no hay' จะละคำนำหน้านามไม่เจาะจง\n- no hay problema. (ถูกต้อง)\n- no hay azúcar. (ไม่มีน้ำตาล)\nจะละคำนำหน้านามในประโยคปฏิเสธที่บอกว่าไม่มีสิ่งใดอยู่",
+    "explanation": "หลังประโยคปฏิเสธ 'no hay' จะละคำนำหน้านามไม่เจาะจง\n- No hay problema. (ถูกต้อง)\n- No hay azúcar. (ไม่มีน้ำตาล)\nจะละคำนำหน้านามในประโยคปฏิเสธที่บอกว่าไม่มีสิ่งใดอยู่",
     "conjugation_info": "Omit indefinite article after: sin (without), no hay (there isn't), and with professions after ser.",
     "hint": null
   },
@@ -374,11 +374,11 @@
   },
   "q_gram_a1_04_004": {
     "question": "ในภาษาสเปน คำว่า 'you' (เอกพจน์) แบบสุภาพคืออะไร?",
-    "correct": "usted (คุณ — แบบสุภาพ)",
+    "correct": "usted",
     "wrong": [
-      "tú (คุณ — แบบไม่เป็นทางการ)",
-      "vosotros (พวกคุณ)",
-      "nosotros (พวกเรา)"
+      "tú",
+      "vosotros",
+      "nosotros"
     ],
     "explanation": "'usted' คือ 'คุณ' เอกพจน์แบบสุภาพ ใช้กับคนแปลกหน้า ผู้ใหญ่ และในสถานการณ์ทางการ\n- tú = 'คุณ' แบบไม่เป็นทางการ\n- usted = 'คุณ' แบบสุภาพ (ใช้กริยารูปบุรุษที่ 3)",
     "hint": null
@@ -425,11 +425,11 @@
       "Yo",
       "Tú"
     ],
-    "explanation": "'Él' แปลว่า 'เขา' เครื่องหมายสำเสียงบน 'E' ทำให้แตกต่างจาก 'el' (คำนำหน้านาม)\n- Él habla = เขาพูด\n- El libro = หนังสือเล่มนั้น (คำนำหน้านาม ไม่มีเครื่องหมาย)",
-    "hint": "สังเกตเครื่องหมายสำเสียงที่ทำให้สรรพนามนี้ต่างจากคำนำหน้านาม"
+    "explanation": "'Él' แปลว่า 'เขา' เครื่องหมายสำเนียงบน 'E' ทำให้แตกต่างจาก 'el' (คำนำหน้านาม)\n- Él habla = เขาพูด\n- El libro = หนังสือเล่มนั้น (คำนำหน้านาม ไม่มีเครื่องหมาย)",
+    "hint": "สังเกตเครื่องหมายสำเนียงที่ทำให้สรรพนามนี้ต่างจากคำนำหน้านาม"
   },
   "q_gram_a1_04_009": {
-    "question": "¿___ es usted? – Soy Ana García.",
+    "question": "¿___ es usted? – Soy Ana García. (คุณคือใคร)",
     "correct": "Quién",
     "wrong": [
       "Dónde",
@@ -485,7 +485,7 @@
     "hint": null
   },
   "q_gram_a1_05_004": {
-    "question": "Tú ___ muy inteligente. (conjugate ser)",
+    "question": "Tú ___ muy inteligente. (ผันกริยา ser)",
     "correct": "eres",
     "wrong": [
       "soy",
@@ -508,7 +508,7 @@
     "hint": "ชั่วโมงที่เป็นพหูพจน์ใช้ ser รูปไหน?"
   },
   "q_gram_a1_05_006": {
-    "question": "La mesa ___ de madera. (conjugate ser)",
+    "question": "La mesa ___ de madera. (ผันกริยา ser)",
     "correct": "es",
     "wrong": [
       "está",
@@ -542,7 +542,7 @@
     "hint": null
   },
   "q_gram_a1_05_009": {
-    "question": "¿De dónde ___ ustedes? (conjugate ser)",
+    "question": "¿De dónde ___ ustedes? (ผันกริยา ser)",
     "correct": "son",
     "wrong": [
       "es",
@@ -565,7 +565,7 @@
     "hint": null
   },
   "q_gram_a1_06_001": {
-    "question": "Yo ___ en casa. (conjugate estar)",
+    "question": "Yo ___ en casa. (ผันกริยา estar)",
     "correct": "estoy",
     "wrong": [
       "soy",
@@ -610,7 +610,7 @@
     "hint": null
   },
   "q_gram_a1_06_005": {
-    "question": "Nosotros ___ cansados. (conjugate estar)",
+    "question": "Nosotros ___ cansados. (ผันกริยา estar)",
     "correct": "estamos",
     "wrong": [
       "somos",
@@ -666,7 +666,7 @@
     "hint": null
   },
   "q_gram_a1_06_010": {
-    "question": "¿Dónde ___ tú ahora? (conjugate estar)",
+    "question": "¿Dónde ___ tú ahora? (ผันกริยา estar)",
     "correct": "estás",
     "wrong": [
       "eres",
@@ -685,8 +685,8 @@
       "son",
       "están"
     ],
-    "explanation": "Ser ใช้ สำหรับ professions.\n- María es doctora. = María เป็น a หมอ.\nProfession เป็น an identity characteristic, not a temporary state.",
-    "hint": "Professions use ser, not estar"
+    "explanation": "ใช้ ser กับอาชีพ\n- María es doctora. = มาเรียเป็นหมอ\nอาชีพเป็นลักษณะที่บอกตัวตน ไม่ใช่สภาวะชั่วคราว",
+    "hint": "อาชีพใช้ ser ไม่ใช่ estar"
   },
   "q_gram_a1_07_002": {
     "question": "El hospital ___ en la calle Mayor.",
@@ -696,30 +696,31 @@
       "son",
       "están"
     ],
-    "explanation": "ใช้ estar เพื่อบอกตำแหน่งที่ตั้ง\n- El hospital está en la calle Mayor. = โรงพยาบาลอยู่บนถนนมายอร์\nการบอกตำแหน่งใช้ estar เสมอ แม้จะเป็นอาคารถาวรก็ตาม",
-    "hint": "การบอกตำแหน่งใช้กริยาตัวไหนเสมอ?"
+    "explanation": "ใช้ estar บอกที่ตั้งของสถานที่ สิ่งของ และบุคคล\n- El hospital está en la calle Mayor. = โรงพยาบาลอยู่บนถนนมายอร์\n- งานหรือเหตุการณ์เป็นข้อยกเว้น: ใช้ ser (La fiesta es en mi casa).",
+    "hint": "กริยาตัวไหนใช้บอกที่ตั้งของสถานที่ สิ่งของ และบุคคล?"
   },
   "q_gram_a1_07_003": {
     "question": "'ser aburrido' ต่างจาก 'estar aburrido' อย่างไร?",
-    "correct": "น่าเบื่อ เทียบกับ รู้สึกเบื่อ",
+    "correct": "น่าเบื่อ vs รู้สึกเบื่อ",
     "wrong": [
-      "รู้สึกเบื่อ เทียบกับ น่าเบื่อ",
-      "ความหมายเหมือนกันทั้งสองแบบ",
-      "เหนื่อย เทียบกับ น่าเหนื่อย"
+      "รู้สึกเบื่อ vs น่าเบื่อ",
+      "สองคำนี้มีความหมายเหมือนกัน",
+      "รู้สึกเหนื่อย vs น่าเหนื่อย"
     ],
-    "explanation": "คำคุณศัพท์บางคำเปลี่ยนความหมายเมื่อใช้กับ ser หรือ estar:\n- ser aburrido = น่าเบื่อ (ลักษณะนิสัย)\n- estar aburrido = รู้สึกเบื่อ (ความรู้สึก)\nการเลือกกริยาทำให้ความหมายของคำคุณศัพท์เปลี่ยนไป",
+    "explanation": "คุณศัพท์บางคำเปลี่ยนความหมายเมื่อใช้กับ ser หรือ estar:\n- ser aburrido = น่าเบื่อ (ลักษณะนิสัย)\n- estar aburrido = รู้สึกเบื่อ (ความรู้สึก)\nการเลือกกริยาเปลี่ยนความหมายของคุณศัพท์",
     "hint": null
   },
   "q_gram_a1_07_004": {
-    "question": "La fiesta ___ en mi casa. (conjugate ถูกต้อง คำกริยา สำหรับ 'ไปยัง เป็น')",
+    "question": "La fiesta ___ en mi casa. (ผันกริยา 'to be' ที่ถูกต้อง)",
     "correct": "es",
     "wrong": [
       "está",
       "son",
       "están"
     ],
-    "explanation": "Events use 'ser' สำหรับ loแมวion, not 'estar'. นี่คือ a key ข้อยกเว้น!\n- La fiesta es en mi casa. = party เป็น at my บ้าน.\n- Buildings use estar: El cine está en la calle.",
-    "conjugation_info": "Events (fiesta, concierto, reunión) use ser สำหรับ loแมวion: La fiesta es en..."
+    "explanation": "เหตุการณ์หรืองานใช้ 'ser' บอกสถานที่ ไม่ใช้ 'estar' นี่เป็นข้อยกเว้นสำคัญ!\n- La fiesta es en mi casa. = งานปาร์ตี้จัดที่บ้านของฉัน\n- อาคารสถานที่ใช้ estar: El cine está en la calle.",
+    "conjugation_info": "Events (fiesta, concierto, reunión) use ser สำหรับ loแมวion: La fiesta es en...",
+    "hint": null
   },
   "q_gram_a1_07_005": {
     "question": "Pedro ___ listo para el examen.",
@@ -729,19 +730,20 @@
       "son",
       "están"
     ],
-    "explanation": "'estar listo' = ไปยัง เป็น ready (temporary state).\n- Pedro está listo = Pedro เป็น ready.\n- Pedro es listo = Pedro เป็น smart (perผู้ชายent trait).\nSer/estar กับ 'listo' changes หมายถึง entirely.",
-    "hint": "เป็น Pedro smart, หรือ เป็น he ready?"
+    "explanation": "'estar listo' = พร้อม (สภาวะชั่วคราว)\n- Pedro está listo = เปโดรพร้อมแล้ว\n- Pedro es listo = เปโดรฉลาด (ลักษณะประจำตัว)\nการใช้ ser/estar กับ 'listo' ทำให้ความหมายเปลี่ยนไปเลย",
+    "hint": "เปโดรฉลาด หรือเขาพร้อม?"
   },
   "q_gram_a1_07_006": {
-    "question": "El edificio ___ muy alto. (conjugate ถูกต้อง คำกริยา สำหรับ a characteristic)",
+    "question": "El edificio ___ muy alto. (ผันกริยาที่ถูกต้องสำหรับบอกลักษณะ)",
     "correct": "es",
     "wrong": [
       "está",
       "estoy",
       "son"
     ],
-    "explanation": "Ser ใช้ สำหรับ inherent physical characteristics.\n- El edificio es alto. = building เป็น สูง.\nHeight เป็น a perผู้ชายent characteristic ของ building.",
-    "conjugation_info": "Ser = perผู้ชายent traits: Es alto, es grande, es bonito. Estar = temporary states."
+    "explanation": "ใช้ ser กับลักษณะทางกายภาพที่เป็นคุณสมบัติประจำตัว\n- El edificio es alto. = ตึกสูง\nความสูงเป็นลักษณะถาวรของตึก",
+    "conjugation_info": "Ser = perผู้ชายent traits: Es alto, es grande, es bonito. Estar = temporary states.",
+    "hint": null
   },
   "q_gram_a1_07_007": {
     "question": "Hoy yo ___ muy contento.",
@@ -751,18 +753,19 @@
       "es",
       "está"
     ],
-    "explanation": "Estar ใช้ สำหรับ emotions และ feelings.\n- Estoy conสิบto = I am มีความสุข (อย่างไร I feel right now).\nEmotions เป็น temporary states นั้น สามารถ change.",
-    "hint": "Emotions และ moods use estar"
+    "explanation": "ใช้ estar กับอารมณ์และความรู้สึก\n- Estoy contento = ฉันมีความสุข (รู้สึกอย่างไรในตอนนี้)\nอารมณ์เป็นสภาวะชั่วคราวที่เปลี่ยนแปลงได้",
+    "hint": "อารมณ์และความรู้สึกใช้ estar"
   },
   "q_gram_a1_07_008": {
-    "question": "She เป็น จาก Mexico.",
+    "question": "เธอมาจากเม็กซิโก",
     "correct": "Ella es de México.",
     "wrong": [
       "Ella está de México.",
       "Ella es en México.",
       "Ella está en México."
     ],
-    "explanation": "Ser + de = origin/ที่ไหน someหนึ่ง เป็น จาก.\n- Ella es de México = She เป็น จาก Mexico (origin, perผู้ชายent).\n- Ella está en México = She เป็น ใน Mexico (loแมวion, possibly temporary)."
+    "explanation": "Ser + de = ที่มา/มาจากที่ไหน\n- Ella es de México = เธอมาจากเม็กซิโก (ที่มา ถาวร)\n- Ella está en México = เธออยู่ที่เม็กซิโก (สถานที่ อาจเป็นแค่ชั่วคราว)",
+    "hint": null
   },
   "q_gram_a1_07_009": {
     "question": "La manzana ___ verde. (แอปเปิลเป็นสีเขียว — ยังไม่สุก)",
@@ -772,7 +775,7 @@
       "son",
       "están"
     ],
-    "explanation": "เมื่อพูดถึงสี estar บอกสภาพชั่วคราวหรือเปลี่ยนแปลงได้ (ยังไม่สุก → เดี๋ยวก็สุก)\n- La manzana está verde = แอปเปิลเป็นสีเขียว (ยังไม่สุก เป็นแค่ชั่วคราว)\n- La manzana es verde = แอปเปิลเป็นสีเขียว (โดยธรรมชาติ เป็นสายพันธุ์สีเขียว)",
+    "explanation": "กับสี estar หมายถึงสภาวะชั่วคราวที่เปลี่ยนแปลงได้ (ยังไม่สุก → เดี๋ยวก็สุก)\n- La manzana está verde = แอปเปิลยังเขียวอยู่ (ยังไม่สุก ชั่วคราว)\n- La manzana es verde = แอปเปิลสีเขียว (โดยธรรมชาติ เป็นพันธุ์สีเขียว)",
     "conjugation_info": "Ser verde = สีเขียว by nature. Estar verde = unripe/not ready.",
     "hint": null
   },
@@ -784,7 +787,7 @@
       "El libro está la mesa.",
       "El libro es la mesa."
     ],
-    "explanation": "ใช้ Estar บอกตำแหน่งที่ตั้งของสิ่งของ\n- El libro está en la mesa. = หนังสืออยู่บนโต๊ะ\nจำไว้ว่า ตำแหน่งของสิ่งของและบุคคลใช้ estar เสมอ",
+    "explanation": "ใช้ estar บอกที่ตั้งของสิ่งของ\n- El libro está en la mesa. = หนังสืออยู่บนโต๊ะ\nจำไว้ว่า ที่ตั้งของสิ่งของและบุคคลใช้ estar เสมอ",
     "hint": null
   },
   "q_gram_a1_08_001": {

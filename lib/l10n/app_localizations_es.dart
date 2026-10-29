@@ -329,7 +329,7 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get dailyNotification =>
-      'Recordatorio de estudio si no accedes en más de un día';
+      'Un aviso diario a tu hora, y otro si te saltas un día';
 
   @override
   String get notificationOff => 'Notificaciones desactivadas';
@@ -690,4 +690,7 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get quizSayIt => 'Ahora di la frase completa';
+
+  @override
+  String get badgeNew => 'NUEVO';
 }

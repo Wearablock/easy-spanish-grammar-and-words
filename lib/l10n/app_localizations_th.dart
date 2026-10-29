@@ -325,7 +325,8 @@ class AppLocalizationsTh extends AppLocalizations {
   String get studyNotification => 'แจ้งเตือนการเรียน';
 
   @override
-  String get dailyNotification => 'แจ้งเตือนเรียนเมื่อไม่เข้าแอปเกิน 1 วัน';
+  String get dailyNotification =>
+      'แจ้งเตือนทุกวันตามเวลาที่ตั้งไว้ และอีกครั้งถ้าคุณข้ามไปหนึ่งวัน';
 
   @override
   String get notificationOff => 'ปิดการแจ้งเตือน';
@@ -685,4 +686,7 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get quizSayIt => 'ลองพูดทั้งประโยค';
+
+  @override
+  String get badgeNew => 'ใหม่';
 }

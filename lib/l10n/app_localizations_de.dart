@@ -328,7 +328,7 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get dailyNotification =>
-      'Lernerinnerung bei mehr als einem Tag Inaktivität';
+      'Tägliche Erinnerung zu deiner Uhrzeit, und noch eine, wenn du einen Tag auslässt';
 
   @override
   String get notificationOff => 'Benachrichtigungen aus';
@@ -691,4 +691,7 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get quizSayIt => 'Sag jetzt den ganzen Satz';
+
+  @override
+  String get badgeNew => 'NEU';
 }

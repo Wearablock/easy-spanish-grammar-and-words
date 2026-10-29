@@ -259,14 +259,14 @@
     "hint": null
   },
   "q_gram_a1_03_004": {
-    "question": "Soy ___. (Yo soy maestro.) (اختر الإجابة المناسبة)",
+    "question": "Soy ___. (أنا مدرّس.)",
     "correct": "profesor",
     "wrong": [
       "un profesor",
       "el profesor",
       "una profesora"
     ],
-    "explanation": "في الإسبانية تُحذف أداة التنكير مع المهن بعد الفعل ser.\n- Soy profesor. (صحيح)\n- Soy un profesor. (غير صحيح في الإسبانية الفصحى إلا إذا وُجدت صفة أو مُكمّل)\nتنطبق هذه القاعدة أيضًا على الجنسيات: Soy español.",
+    "explanation": "في الإسبانية تُحذف عادةً أداة التنكير مع المهنة غير الموصوفة بعد الفعل ser.\n- Soy profesor. (صحيح)\n- Soy un profesor muy bueno. (تُستخدم الأداة عند إضافة صفة أو مُكمّل)\nتنطبق هذه القاعدة أيضًا على الجنسيات: Soy español.",
     "conjugation_info": "Ser + profession: no أداة needed. Soy profesor, Soy estudiante, Soy médico.",
     "hint": null
   },
@@ -282,14 +282,14 @@
     "hint": "ciudad اسم مؤنث"
   },
   "q_gram_a1_03_006": {
-    "question": "no hay ___. (لا توجد مشكلة هناك.)",
+    "question": "No hay ___. (لا توجد مشكلة.)",
     "correct": "problema",
     "wrong": [
       "un problema",
       "el problema",
-      "problemas"
+      "unos problemas"
     ],
-    "explanation": "بعد النفي 'no hay' تُحذف أداة التنكير.\n- no hay problema. (صحيح)\n- no hay azúcar. (لا يوجد سكر.)\nتُحذف الأداة في جمل الوجود المنفية.",
+    "explanation": "بعد النفي 'no hay' تُحذف أداة التنكير.\n- No hay problema. (صحيح)\n- No hay azúcar. (لا يوجد سكر.)\nتُحذف الأداة في جمل الوجود المنفية.",
     "conjugation_info": "Omit نكرة أداة after: sin (without), no hay (there isn't), and with professions after ser.",
     "hint": null
   },
@@ -425,11 +425,11 @@
       "Yo",
       "Tú"
     ],
-    "explanation": "'Él' تعني \"هو\". تفرّقها علامة الإيقاع على حرف 'E' عن 'el' (أداة التعريف).\n- Él habla = هو يتحدث\n- El libro = الكتاب (أداة تعريف، بدون علامة)",
-    "hint": "انتبه إلى علامة الإيقاع التي تميّز هذا الضمير عن أداة التعريف"
+    "explanation": "'Él' تعني \"هو\". تفرّقها علامة النبر على حرف 'E' عن 'el' (أداة التعريف).\n- Él habla = هو يتحدث\n- El libro = الكتاب (أداة تعريف، بدون علامة)",
+    "hint": "انتبه إلى علامة النبر التي تميّز هذا الضمير عن أداة التعريف"
   },
   "q_gram_a1_04_009": {
-    "question": "¿___ es usted? – Soy Ana García.",
+    "question": "¿___ es usted? – Soy Ana García. (من أنت؟)",
     "correct": "Quién",
     "wrong": [
       "Dónde",
@@ -599,7 +599,7 @@
     "hint": "أي فعل يُستخدم مع العواطف والمشاعر؟"
   },
   "q_gram_a1_06_004": {
-    "question": "ماذا يعبّر 'estar' في '¿Cómo estás؟'؟",
+    "question": "ماذا يعبّر 'estar' في '¿Cómo estás?'؟",
     "correct": "الصحة أو الشعور",
     "wrong": [
       "الهوية",
@@ -685,8 +685,8 @@
       "son",
       "están"
     ],
-    "explanation": "Ser يُستخدم لـ professions.\n- María es doctora. = María هو a doctor.\nProfession هو an identity characteristic, not a حالة مؤقتة.",
-    "hint": "Professions use ser, not estar"
+    "explanation": "يُستخدم ser مع المهن.\n- María es doctora. = ماريا طبيبة.\nالمهنة صفة تدل على الهوية وليست حالة مؤقتة.",
+    "hint": "المهن تستخدم ser وليس estar"
   },
   "q_gram_a1_07_002": {
     "question": "El hospital ___ en la calle Mayor.",
@@ -696,30 +696,31 @@
       "son",
       "están"
     ],
-    "explanation": "يُستخدم estar للمكان.\n- El hospital está en la calle Mayor. = المستشفى في شارع مايور.\nالمكان يُعبَّر عنه دائمًا بـ estar، حتى للمباني الثابتة.",
-    "hint": "أي فعل يُستخدم دائمًا للمكان؟"
+    "explanation": "يُستخدم estar للتعبير عن مكان الأماكن والأشياء والأشخاص.\n- El hospital está en la calle Mayor. = المستشفى في شارع مايور.\n- الأحداث استثناء: استخدم ser (La fiesta es en mi casa).",
+    "hint": "أي فعل يُستخدم للتعبير عن مكان الأماكن والأشياء والأشخاص؟"
   },
   "q_gram_a1_07_003": {
-    "question": "ماذا يعني 'ser aburrido' مقابل 'estar aburrido'؟",
-    "correct": "أن تكون مملًّا مقابل أن تكون تشعر بالملل",
+    "question": "ماذا تعني 'ser aburrido' مقابل 'estar aburrido'؟",
+    "correct": "أن يكون مملًّا مقابل أن يشعر بالملل",
     "wrong": [
-      "أن تشعر بالملل مقابل أن تكون مملًّا",
+      "أن يشعر بالملل مقابل أن يكون مملًّا",
       "كلاهما يعني الشيء نفسه",
-      "أن تكون متعبًا مقابل أن تكون مرهِقًا"
+      "أن يكون متعبًا مقابل أن يكون مرهقًا"
     ],
     "explanation": "بعض الصفات يتغير معناها بين ser وestar:\n- ser aburrido = أن يكون مملًّا (صفة ثابتة)\n- estar aburrido = أن يشعر بالملل (شعور)\nاختيار الفعل يغيّر معنى الصفة.",
     "hint": null
   },
   "q_gram_a1_07_004": {
-    "question": "La fiesta ___ en mi casa. (conjugate الـ صحيح فعل لـ 'إلى يكون')",
+    "question": "La fiesta ___ en mi casa. (صرّف الفعل الصحيح للفعل 'يكون')",
     "correct": "es",
     "wrong": [
       "está",
       "son",
       "están"
     ],
-    "explanation": "Events use 'ser' لـ location, not 'estar'. هذا a key استثناء!\n- La fiesta es en mi casa. = الـ party هو at my منزل.\n- Buildings use estar: El cine está en la calle.",
-    "conjugation_info": "Events (fiesta, concierto, reunión) use ser for location: La fiesta es en..."
+    "explanation": "الأحداث تستخدم 'ser' للتعبير عن المكان وليس 'estar'. هذا استثناء مهم!\n- La fiesta es en mi casa. = الحفلة في بيتي.\n- المباني تستخدم estar: El cine está en la calle.",
+    "conjugation_info": "Events (fiesta, concierto, reunión) use ser for location: La fiesta es en...",
+    "hint": null
   },
   "q_gram_a1_07_005": {
     "question": "Pedro ___ listo para el examen.",
@@ -729,19 +730,20 @@
       "son",
       "están"
     ],
-    "explanation": "'estar listo' = إلى يكون ready (حالة مؤقتة).\n- Pedro está listo = Pedro هو ready.\n- Pedro es listo = Pedro هو smart (permanent trait).\nSer/estar مع 'listo' changes الـ المعنى entirely.",
-    "hint": "هو Pedro smart, أو هو he ready?"
+    "explanation": "'estar listo' = أن يكون جاهزًا (حالة مؤقتة).\n- Pedro está listo = بيدرو جاهز.\n- Pedro es listo = بيدرو ذكي (صفة دائمة).\nاستخدام ser/estar مع 'listo' يغيّر المعنى تمامًا.",
+    "hint": "هل بيدرو ذكي أم جاهز؟"
   },
   "q_gram_a1_07_006": {
-    "question": "El edificio ___ muy alto. (conjugate الـ صحيح فعل لـ a characteristic)",
+    "question": "El edificio ___ muy alto. (صرّف الفعل الصحيح للتعبير عن صفة)",
     "correct": "es",
     "wrong": [
       "está",
       "estoy",
       "son"
     ],
-    "explanation": "Ser يُستخدم لـ inherent physical characteristics.\n- El edificio es alto. = الbuilding طويل.\nHeight هو a permanent characteristic من الـ building.",
-    "conjugation_info": "Ser = permanent traits: Es alto, es grande, es bonito. Estar = حالة مؤقتةs."
+    "explanation": "يُستخدم ser للصفات الجسدية الملازمة.\n- El edificio es alto. = المبنى عالٍ.\nالارتفاع صفة دائمة للمبنى.",
+    "conjugation_info": "Ser = permanent traits: Es alto, es grande, es bonito. Estar = حالة مؤقتةs.",
+    "hint": null
   },
   "q_gram_a1_07_007": {
     "question": "Hoy yo ___ muy contento.",
@@ -751,29 +753,31 @@
       "es",
       "está"
     ],
-    "explanation": "Estar يُستخدم لـ emotions و feelings.\n- Estoy contento = I am سعيد (كيف I feel right now).\nEmotions هم حالة مؤقتةs ذلك يمكن change.",
-    "hint": "Emotions و moods use estar"
+    "explanation": "يُستخدم estar للمشاعر والأحاسيس.\n- Estoy contento = أنا سعيد (كما أشعر الآن).\nالمشاعر حالات مؤقتة يمكن أن تتغير.",
+    "hint": "المشاعر والمزاج تستخدم estar"
   },
   "q_gram_a1_07_008": {
-    "question": "She هو من Mexico.",
+    "question": "هي من المكسيك.",
     "correct": "Ella es de México.",
     "wrong": [
       "Ella está de México.",
       "Ella es en México.",
       "Ella está en México."
     ],
-    "explanation": "Ser + de = origin/أين someone هو من.\n- Ella es de México = She هو من Mexico (origin, permanent).\n- Ella está en México = She هو في Mexico (location, possibly temporary)."
+    "explanation": "Ser + de = الأصل / من أين الشخص.\n- Ella es de México = هي من المكسيك (الأصل، دائم).\n- Ella está en México = هي في المكسيك (المكان، وقد يكون مؤقتًا).",
+    "hint": null
   },
   "q_gram_a1_07_009": {
-    "question": "La manzana ___ verde. (الـ apple هو green — هو هو not ripe yet.)",
+    "question": "La manzana ___ verde. (التفاحة خضراء — لم تنضج بعد.)",
     "correct": "está",
     "wrong": [
       "es",
       "son",
       "están"
     ],
-    "explanation": "مع colors, estar يعني a temporary/changeable state (unripe → سوف ripen).\n- La manzana está verde = الـ apple هو green (not ripe, temporary).\n- La manzana es verde = الـ apple هو green (بواسطة nature, its variety).",
-    "conjugation_info": "Ser verde = green by nature. Estar verde = unripe/not ready."
+    "explanation": "مع الألوان، يدل estar على حالة مؤقتة / قابلة للتغير (غير ناضجة ← ستنضج).\n- La manzana está verde = التفاحة خضراء (غير ناضجة، مؤقت).\n- La manzana es verde = التفاحة خضراء (بطبيعتها، هذا هو نوعها).",
+    "conjugation_info": "Ser verde = green by nature. Estar verde = unripe/not ready.",
+    "hint": null
   },
   "q_gram_a1_07_010": {
     "question": "الكتاب على الطاولة.",
@@ -783,7 +787,7 @@
       "El libro está la mesa.",
       "El libro es la mesa."
     ],
-    "explanation": "يُستخدم estar للدلالة على مكان الأشياء.\n- El libro está en la mesa. = الكتاب على الطاولة.\nتذكّر: مكان الأشياء والأشخاص يُعبَّر عنه دائمًا بـ estar.",
+    "explanation": "يُستخدم estar لمكان الأشياء.\n- El libro está en la mesa. = الكتاب على الطاولة.\nتذكّر: مكان الأشياء والأشخاص يستخدم دائمًا estar.",
     "hint": null
   },
   "q_gram_a1_08_001": {

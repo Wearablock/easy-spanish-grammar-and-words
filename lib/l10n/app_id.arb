@@ -2,18 +2,14 @@
   "@@locale": "id",
   "appTitle": "Spanyol Mudah",
   "appFullTitle": "Spanyol Mudah - Tata Bahasa",
-
   "home": "Beranda",
   "progress": "Progres",
   "settings": "Pengaturan",
   "wrongAnswers": "Jawaban Salah",
-
   "error": "Error: {message}",
-
   "startStudy": "Mulai belajar",
   "continueStudy": "Lanjutkan belajar",
   "startReview": "Ulang",
-
   "todayStudy": "Belajar hari ini",
   "allTopicsCompleted": "Semua topik selesai!",
   "reviewEncouragement": "Terus mengulang untuk menguasai materi.",
@@ -23,13 +19,11 @@
   "todayGoal": "Target hari ini",
   "topicsProgress": "{studied}/{goal} topik",
   "streakDays": "{days} hari berturut-turut!",
-
   "overallProgress": "Progres keseluruhan",
   "mastered": "Dikuasai",
   "studiedOnce": "Dipelajari setidaknya sekali",
   "totalQuestions": "Total {count} soal",
   "questionsMastered": "{count} / {total} soal dikuasai",
-
   "study": "Belajar",
   "notifications": "Notifikasi",
   "appSettings": "Pengaturan aplikasi",
@@ -56,10 +50,9 @@
   "themeSystem": "Sistem",
   "themeLight": "Mode terang",
   "themeDark": "Mode gelap",
-
   "studyComplete": "Belajar selesai",
   "goodJob": "Kerja bagus!",
-  "goHome": "Ke beranda",
+  "goHome": "Beranda",
   "accuracy": "Akurasi",
   "correct": "Benar",
   "wrong": "Salah",
@@ -67,24 +60,19 @@
   "wrongReview": "Ulang jawaban salah",
   "spacedReview": "Ulang berjarak",
   "newLearning": "Belajar baru",
-
   "errorOccurred": "Terjadi kesalahan",
   "retry": "Coba lagi",
   "stopStudy": "Hentikan belajar",
   "stopStudyConfirm": "Ingin menghentikan belajar?\nProgres akan disimpan.",
   "continueStudyButton": "Lanjutkan",
   "stop": "Hentikan",
-
   "levelProgress": "Progres per level",
-
   "reviewAvailable": "Ada soal yang perlu diulang!",
   "reviewWaiting": "{count} soal menunggu pengulangan",
-
   "welcome": "Selamat datang!",
   "selectLevel": "Pilih level target",
   "canChangeInSettings": "Bisa diubah nanti di pengaturan",
   "start": "Mulai",
-
   "levelTarget": "Level target",
   "levelNameA1": "Pemula",
   "levelNameA2": "Dasar",
@@ -95,14 +83,12 @@
   "grammar": "Tata bahasa",
   "vocabulary": "Kosakata",
   "grammarAndVocabulary": "Tata bahasa & Kosakata",
-
   "noWrongAnswers": "Tidak ada jawaban salah!",
   "noWrongAnswersDesc": "Kamu hebat!\nTerus semangat!",
   "wrongCount": "Salah {count} kali",
   "correctAnswer": "Jawaban benar",
   "yourAnswer": "Jawabanmu",
   "explanation": "Penjelasan",
-
   "premium": "Premium",
   "removeAds": "Hapus iklan",
   "premiumActivated": "Premium diaktifkan",
@@ -111,26 +97,22 @@
   "purchaseFailed": "Pembelian gagal",
   "purchasesRestored": "Pembelian dipulihkan",
   "productNotAvailable": "Produk tidak tersedia",
-
   "studyNotification": "Pengingat belajar",
-  "dailyNotification": "Pengingat belajar jika tidak mengakses lebih dari satu hari",
+  "dailyNotification": "Pengingat harian di jam pilihanmu, dan satu lagi jika kamu melewatkan sehari",
   "notificationOff": "Notifikasi mati",
   "notificationTime": "Waktu notifikasi",
   "notificationChannelName": "Pengingat belajar",
   "notificationChannelDesc": "Pengingat belajar harian",
   "notificationTitle": "Spanyol Mudah",
   "notificationBody": "Waktunya mulai belajar!",
-
   "language": "Bahasa",
   "selectLanguage": "Pilih bahasa",
   "languageSystem": "Sistem",
-
   "soundAndVibration": "Suara & getar",
   "soundEffects": "Efek suara",
   "soundEffectsDesc": "Putar suara saat benar/salah",
   "vibration": "Getar",
   "vibrationDesc": "Getar saat benar/salah",
-
   "ttsSettings": "Pengaturan suara",
   "ttsAutoPlay": "Putar otomatis",
   "ttsAutoPlayDesc": "Ucapkan bahasa Spanyol otomatis saat benar",
@@ -141,7 +123,6 @@
   "ttsSpeedNormal": "Normal",
   "ttsSpeedFast": "Cepat",
   "ttsTestPlay": "Pratinjau",
-
   "showHint": "Lihat petunjuk",
   "nextQuestion": "Pertanyaan berikutnya",
   "keyPoints": "Poin penting",
@@ -153,10 +134,11 @@
   "continueReviewWithCount": "Lanjut ulasan ({count} tersisa)",
   "@continueReviewWithCount": {
     "placeholders": {
-      "count": {"type": "int"}
+      "count": {
+        "type": "int"
+      }
     }
   },
-
   "totalStudied": "Total dipelajari",
   "accuracyRate": "Tingkat akurasi",
   "studyDays": "Hari belajar",
@@ -169,13 +151,11 @@
   "minutes": "{count} menit",
   "selectDailyGoal": "Pilih target harian",
   "selectTargetLevel": "Pilih level target",
-
   "notificationMsg1": "Kemampuan bahasa Spanyolmu menunggu! Siap melangkah lebih jauh hari ini?",
   "notificationMsg2": "Masih ingat pelajaran kemarin? Mengulang membantu mengingat lebih lama!",
   "notificationMsg3": "Sedikit setiap hari! Mulai pelajaran bahasa Spanyolmu hari ini.",
   "notificationMsg4": "¡Hola! Kami merindukanmu. Ayo belajar bahasa Spanyol bersama hari ini!",
   "notificationMsg5": "Jangan putus rekor belajarmu! Mulai belajar sekarang.",
-
   "howManyTopics": "Berapa topik per hari?",
   "oneTopic": "1 topik",
   "twoTopics": "2 topik",
@@ -183,16 +163,20 @@
   "lightStart": "Mulai ringan",
   "moderateAmount": "Jumlah sedang",
   "intensiveStudy": "Belajar intensif",
-
   "topicList": "Daftar topik",
   "notStudiedYet": "Belum dipelajari",
   "studiedLabel": "Sudah dipelajari",
   "topicCount": "{count} topik",
-  "@topicCount": { "placeholders": { "count": {"type": "int"} } },
-
+  "@topicCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
   "speakingPractice": "Latihan Berbicara",
   "speakingTest": "Tes Berbicara",
-"speakingBrowseAll": "Jelajahi semua",
+  "speakingBrowseAll": "Jelajahi semua",
   "speakingFeatureDesc": "Latih dan uji puluhan variasi dari satu kalimat: ubah subjek, negasi, pertanyaan, ganti kata.",
   "practice": "Latih",
   "test": "Tes",
@@ -215,7 +199,6 @@
   "averageAccuracy": "Akurasi rata-rata {percent}",
   "testPassed": "🎉 Lulus!",
   "testFailed": "Hampir. Coba lagi!",
-  "goHome": "Beranda",
   "sayInSpanishHint": "Lihat dan ucapkan dalam bahasa Spanyol",
   "variationBase": "Kalimat dasar",
   "variationSubject": "Subjek · {subject}",
@@ -238,5 +221,6 @@
   "quizListenPrompt": "Dengarkan dan pilih kata yang hilang",
   "quizTypePrompt": "Ketik kata yang hilang",
   "quizCheck": "Periksa",
-  "quizSayIt": "Sekarang ucapkan seluruh kalimat"
+  "quizSayIt": "Sekarang ucapkan seluruh kalimat",
+  "badgeNew": "BARU"
 }

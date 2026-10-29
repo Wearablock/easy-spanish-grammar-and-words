@@ -323,7 +323,7 @@ class AppLocalizationsZh extends AppLocalizations {
   String get studyNotification => '学习提醒';
 
   @override
-  String get dailyNotification => '超过一天未访问时发送学习提醒';
+  String get dailyNotification => '每天在设定时间提醒，中断一天再提醒一次';
 
   @override
   String get notificationOff => '通知已关闭';
@@ -677,6 +677,9 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get quizSayIt => '把整句话说出来';
+
+  @override
+  String get badgeNew => '新';
 }
 
 /// The translations for Chinese, using the Han script (`zh_Hant`).
@@ -998,7 +1001,7 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
   String get studyNotification => '學習提醒';
 
   @override
-  String get dailyNotification => '超過一天未訪問時發送學習提醒';
+  String get dailyNotification => '每天在設定時間提醒，中斷一天再提醒一次';
 
   @override
   String get notificationOff => '通知已關閉';
@@ -1352,4 +1355,7 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
 
   @override
   String get quizSayIt => '把整句話說出來';
+
+  @override
+  String get badgeNew => '新';
 }

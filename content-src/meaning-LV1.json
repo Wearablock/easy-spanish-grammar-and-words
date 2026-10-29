@@ -1,0 +1,2135 @@
+[
+ {
+  "id": "q_gram_a1_06_004",
+  "locale": "ar",
+  "reason": "The Spanish text '¿Cómo estás?' in the question has an Arabic question mark (؟) in place of the Spanish '?'. Spanish text must be copied exactly.",
+  "before": {
+   "question": "ماذا يعبّر 'estar' في '¿Cómo estás؟'؟",
+   "explanation": "'¿Cómo estás?' تعني 'كيف حالك؟' وتسأل عن الحالة أو الشعور الحالي للشخص.\nيُستخدم estar للحالات المؤقتة مثل الصحة والمزاج والحالات العاطفية.",
+   "hint": null,
+   "correct": "الصحة أو الشعور",
+   "wrong": [
+    "الهوية",
+    "المهنة",
+    "الجنسية"
+   ]
+  },
+  "after": {
+   "question": "ماذا يعبّر 'estar' في '¿Cómo estás?'؟",
+   "explanation": "'¿Cómo estás?' تعني 'كيف حالك؟' وتسأل عن الحالة أو الشعور الحالي للشخص.\nيُستخدم estar للحالات المؤقتة مثل الصحة والمزاج والحالات العاطفية.",
+   "hint": null,
+   "correct": "الصحة أو الشعور",
+   "wrong": [
+    "الهوية",
+    "المهنة",
+    "الجنسية"
+   ]
+  }
+ },
+ {
+  "id": "q_vocab_a1_02_006",
+  "locale": "ar",
+  "reason": "Wrong option 'girlfriend' was translated as 'صديقة حميمة' (close friend), which is a different meaning.",
+  "before": {
+   "question": "ماذا تعني كلمة 'esposa' في جملة 'Ella es mi esposa'؟",
+   "explanation": "'Esposa' تعني «زوجة». و'Esposo' تعني «زوج». وفي الحديث اليومي يقول الناس أيضاً 'mujer' (زوجة) و'marido' (زوج).",
+   "hint": null,
+   "correct": "زوجة",
+   "wrong": [
+    "صديقة حميمة",
+    "صديقة",
+    "أخت"
+   ]
+  },
+  "after": {
+   "question": "ماذا تعني كلمة 'esposa' في جملة 'Ella es mi esposa'؟",
+   "explanation": "'Esposa' تعني «زوجة». و'Esposo' تعني «زوج». وفي الحديث اليومي يقول الناس أيضاً 'mujer' (زوجة) و'marido' (زوج).",
+   "hint": null,
+   "correct": "زوجة",
+   "wrong": [
+    "حبيبة",
+    "صديقة",
+    "أخت"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_004",
+  "locale": "ar",
+  "reason": "Question hint left in Spanish with an extra instruction added; explanation wrongly calls 'Soy un profesor' incorrect instead of saying the article is used with a modifier.",
+  "before": {
+   "question": "Soy ___. (Yo soy maestro.) (اختر الإجابة المناسبة)",
+   "explanation": "في الإسبانية تُحذف أداة التنكير مع المهن بعد الفعل ser.\n- Soy profesor. (صحيح)\n- Soy un profesor. (غير صحيح في الإسبانية الفصحى إلا إذا وُجدت صفة أو مُكمّل)\nتنطبق هذه القاعدة أيضًا على الجنسيات: Soy español.",
+   "hint": null,
+   "correct": "profesor",
+   "wrong": [
+    "un profesor",
+    "el profesor",
+    "una profesora"
+   ]
+  },
+  "after": {
+   "question": "Soy ___. (أنا مدرّس.)",
+   "explanation": "في الإسبانية تُحذف عادةً أداة التنكير مع المهنة غير الموصوفة بعد الفعل ser.\n- Soy profesor. (صحيح)\n- Soy un profesor muy bueno. (تُستخدم الأداة عند إضافة صفة أو مُكمّل)\nتنطبق هذه القاعدة أيضًا على الجنسيات: Soy español.",
+   "hint": null,
+   "correct": "profesor",
+   "wrong": [
+    "un profesor",
+    "el profesor",
+    "una profesora"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_006",
+  "locale": "ar",
+  "reason": "Question hint adds 'there' (هناك), which is not in the master; the Spanish example in the explanation was changed from 'No hay problema.' to lowercase.",
+  "before": {
+   "question": "No hay ___. (لا توجد مشكلة هناك.)",
+   "explanation": "بعد النفي 'no hay' تُحذف أداة التنكير.\n- no hay problema. (صحيح)\n- no hay azúcar. (لا يوجد سكر.)\nتُحذف الأداة في جمل الوجود المنفية.",
+   "hint": null,
+   "correct": "problema",
+   "wrong": [
+    "un problema",
+    "el problema",
+    "unos problemas"
+   ]
+  },
+  "after": {
+   "question": "No hay ___. (لا توجد مشكلة.)",
+   "explanation": "بعد النفي 'no hay' تُحذف أداة التنكير.\n- No hay problema. (صحيح)\n- No hay azúcar. (لا يوجد سكر.)\nتُحذف الأداة في جمل الوجود المنفية.",
+   "hint": null,
+   "correct": "problema",
+   "wrong": [
+    "un problema",
+    "el problema",
+    "unos problemas"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_04_008",
+  "locale": "ar",
+  "reason": "'علامة الإيقاع' (rhythm mark) is a wrong term for the accent mark; should be 'علامة النبر'.",
+  "before": {
+   "question": "___ habla español muy bien. (هو يتحدث الإسبانية جيدًا جدًا.)",
+   "explanation": "'Él' تعني \"هو\". تفرّقها علامة الإيقاع على حرف 'E' عن 'el' (أداة التعريف).\n- Él habla = هو يتحدث\n- El libro = الكتاب (أداة تعريف، بدون علامة)",
+   "hint": "انتبه إلى علامة الإيقاع التي تميّز هذا الضمير عن أداة التعريف",
+   "correct": "Él",
+   "wrong": [
+    "Ella",
+    "Yo",
+    "Tú"
+   ]
+  },
+  "after": {
+   "question": "___ habla español muy bien. (هو يتحدث الإسبانية جيدًا جدًا.)",
+   "explanation": "'Él' تعني \"هو\". تفرّقها علامة النبر على حرف 'E' عن 'el' (أداة التعريف).\n- Él habla = هو يتحدث\n- El libro = الكتاب (أداة تعريف، بدون علامة)",
+   "hint": "انتبه إلى علامة النبر التي تميّز هذا الضمير عن أداة التعريف",
+   "correct": "Él",
+   "wrong": [
+    "Ella",
+    "Yo",
+    "Tú"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_04_009",
+  "locale": "ar",
+  "reason": "The parenthetical '(Who are you?)' from the master question is missing in the Arabic.",
+  "before": {
+   "question": "¿___ es usted? – Soy Ana García.",
+   "explanation": "عند السؤال عن الهوية مع 'usted'، فإن '¿Quién es usted?' تعني \"من حضرتك؟\" (رسمي).\nلاحظ أن 'usted' تأخذ نفس صيغة الفعل مع él/ella (الغائب المفرد).\n- ¿Quién es usted? (رسمي) مقابل ¿Quién eres tú? (غير رسمي)",
+   "hint": null,
+   "correct": "Quién",
+   "wrong": [
+    "Dónde",
+    "Cuándo",
+    "Cuál"
+   ]
+  },
+  "after": {
+   "question": "¿___ es usted? – Soy Ana García. (من أنت؟)",
+   "explanation": "عند السؤال عن الهوية مع 'usted'، فإن '¿Quién es usted?' تعني \"من حضرتك؟\" (رسمي).\nلاحظ أن 'usted' تأخذ نفس صيغة الفعل مع él/ella (الغائب المفرد).\n- ¿Quién es usted? (رسمي) مقابل ¿Quién eres tú? (غير رسمي)",
+   "hint": null,
+   "correct": "Quién",
+   "wrong": [
+    "Dónde",
+    "Cuándo",
+    "Cuál"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_04_009",
+  "locale": "de",
+  "reason": "The German question dropped the parenthetical hint '(Who are you?)' that the master has.",
+  "before": {
+   "question": "¿___ es usted? – Soy Ana García.",
+   "explanation": "Wenn man mit 'usted' nach der Identität fragt, bedeutet '¿Quién es usted?' 'Wer sind Sie?' (förmlich).\nBeachte, dass 'usted' dieselbe Verbform wie él/ella verlangt (3. Person Singular).\n- ¿Quién es usted? (förmlich) vs. ¿Quién eres tú? (informell)",
+   "hint": null,
+   "correct": "Quién",
+   "wrong": [
+    "Dónde",
+    "Cuándo",
+    "Cuál"
+   ]
+  },
+  "after": {
+   "question": "¿___ es usted? – Soy Ana García. (Wer sind Sie?)",
+   "explanation": "Wenn man mit 'usted' nach der Identität fragt, bedeutet '¿Quién es usted?' 'Wer sind Sie?' (förmlich).\nBeachte, dass 'usted' dieselbe Verbform wie él/ella verlangt (3. Person Singular).\n- ¿Quién es usted? (förmlich) vs. ¿Quién eres tú? (informell)",
+   "hint": null,
+   "correct": "Quién",
+   "wrong": [
+    "Dónde",
+    "Cuándo",
+    "Cuál"
+   ]
+  }
+ },
+ {
+  "id": "q_vocab_a1_02_006",
+  "locale": "de",
+  "reason": "Wrong options 'Freundin (Partnerin)' and 'Freundin' are confusingly near-identical in German; master has girlfriend / friend / sister.",
+  "before": {
+   "question": "Was bedeutet 'esposa' in 'Ella es mi esposa'?",
+   "explanation": "'Esposa' bedeutet 'Ehefrau'. 'Esposo' bedeutet 'Ehemann'. Im Alltag sagt man auch 'mujer' (Frau) und 'marido' (Mann).",
+   "hint": null,
+   "correct": "Ehefrau",
+   "wrong": [
+    "Freundin (Partnerin)",
+    "Freundin",
+    "Schwester"
+   ]
+  },
+  "after": {
+   "question": "Was bedeutet 'esposa' in 'Ella es mi esposa'?",
+   "explanation": "'Esposa' bedeutet 'Ehefrau'. 'Esposo' bedeutet 'Ehemann'. Im Alltag sagt man auch 'mujer' (Frau) und 'marido' (Mann).",
+   "hint": null,
+   "correct": "Ehefrau",
+   "wrong": [
+    "feste Freundin",
+    "Freund",
+    "Schwester"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_004",
+  "locale": "de",
+  "reason": "Question has a Spanish gloss and an added instruction instead of the English hint; explanation changes the second example's meaning.",
+  "before": {
+   "question": "Soy ___. (Yo soy maestro.) (wähle die passende Antwort)",
+   "explanation": "Im Spanischen lässt man den unbestimmten Artikel bei Berufen nach ser weg.\n- Soy profesor. (richtig)\n- Soy un profesor. (im Standardspanischen ohne Adjektiv oder Ergänzung falsch)\nDiese Regel gilt auch für Nationalitäten: Soy español.",
+   "hint": null,
+   "correct": "profesor",
+   "wrong": [
+    "un profesor",
+    "el profesor",
+    "una profesora"
+   ]
+  },
+  "after": {
+   "question": "Soy ___. (Ich bin Lehrer.)",
+   "explanation": "Im Spanischen lässt man den unbestimmten Artikel bei einem Beruf ohne Zusatz nach ser normalerweise weg.\n- Soy profesor. (richtig)\n- Soy un profesor muy bueno. (der Artikel steht, wenn ein Adjektiv oder eine Ergänzung hinzukommt)\nDiese Regel gilt auch für Nationalitäten: Soy español.",
+   "hint": null,
+   "correct": "profesor",
+   "wrong": [
+    "un profesor",
+    "el profesor",
+    "una profesora"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_006",
+  "locale": "de",
+  "reason": "Question adds 'Dort' (there) not in master; Spanish example in explanation lost its capital N.",
+  "before": {
+   "question": "No hay ___. (Dort gibt es kein Problem.)",
+   "explanation": "Nach der Verneinung 'no hay' entfällt der unbestimmte Artikel.\n- no hay problema. (richtig)\n- no hay azúcar. (Es gibt keinen Zucker.)\nDer Artikel entfällt in verneinten Existenzaussagen.",
+   "hint": null,
+   "correct": "problema",
+   "wrong": [
+    "un problema",
+    "el problema",
+    "unos problemas"
+   ]
+  },
+  "after": {
+   "question": "No hay ___. (Es gibt kein Problem.)",
+   "explanation": "Nach der Verneinung 'no hay' entfällt der unbestimmte Artikel.\n- No hay problema. (richtig)\n- No hay azúcar. (Es gibt keinen Zucker.)\nDer Artikel entfällt in verneinten Existenzaussagen.",
+   "hint": null,
+   "correct": "problema",
+   "wrong": [
+    "un problema",
+    "el problema",
+    "unos problemas"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_01_008",
+  "locale": "es",
+  "reason": "Question repeats the correct answer verbatim, giving it away; master asks to translate 'The map is big.'",
+  "before": {
+   "question": "El mapa es grande.",
+   "explanation": "'mapa' es masculino a pesar de terminar en -a (otra excepción a la regla -a = femenino).\n'grande' no cambia según el género.",
+   "hint": null,
+   "correct": "El mapa es grande.",
+   "wrong": [
+    "La mapa es grande.",
+    "Los mapas son grandes.",
+    "El mapa es pequeño."
+   ]
+  },
+  "after": {
+   "question": "Quieres decir que el objeto que muestra un territorio tiene mucho tamaño. ¿Qué oración es correcta?",
+   "explanation": "'mapa' es masculino a pesar de terminar en -a (otra excepción a la regla -a = femenino).\n'grande' no cambia según el género.",
+   "hint": null,
+   "correct": "El mapa es grande.",
+   "wrong": [
+    "La mapa es grande.",
+    "Los mapas son grandes.",
+    "El mapa es pequeño."
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_01_010",
+  "locale": "es",
+  "reason": "Question repeats the correct answer verbatim, giving it away; master asks to translate 'The hand is cold.'",
+  "before": {
+   "question": "La mano está fría.",
+   "explanation": "'mano' es femenina a pesar de terminar en -o (una excepción clave).\nUsamos 'está' porque sentir frío es un estado temporal.\n- la mano fría (concordancia del adjetivo femenino)",
+   "hint": null,
+   "correct": "La mano está fría.",
+   "wrong": [
+    "El mano está frío.",
+    "La mano está frío.",
+    "Las manos están frías."
+   ]
+  },
+  "after": {
+   "question": "Quieres decir que esa parte del cuerpo con la que agarras cosas tiene baja temperatura. ¿Qué oración es correcta?",
+   "explanation": "'mano' es femenina a pesar de terminar en -o (una excepción clave).\nUsamos 'está' porque sentir frío es un estado temporal.\n- la mano fría (concordancia del adjetivo femenino)",
+   "hint": null,
+   "correct": "La mano está fría.",
+   "wrong": [
+    "El mano está frío.",
+    "La mano está frío.",
+    "Las manos están frías."
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_04_009",
+  "locale": "es",
+  "reason": "Explanation is circular ('¿Quién es usted?' means '¿Quién es usted?') and drops the 'Who are you?' meaning.",
+  "before": {
+   "question": "¿___ es usted? – Soy Ana García.",
+   "explanation": "Cuando se pregunta por la identidad con 'usted', '¿Quién es usted?' significa '¿Quién es usted?' en trato formal.\nObserva que 'usted' lleva la misma forma verbal que él/ella (tercera persona del singular).\n- ¿Quién es usted? (formal) frente a ¿Quién eres tú? (informal)",
+   "hint": null,
+   "correct": "Quién",
+   "wrong": [
+    "Dónde",
+    "Cuándo",
+    "Cuál"
+   ]
+  },
+  "after": {
+   "question": "¿___ es usted? – Soy Ana García. (¿Quién eres?)",
+   "explanation": "Para preguntar por la identidad de alguien con 'usted', se dice '¿Quién es usted?', que equivale a preguntar «¿cómo se llama usted?» en trato formal.\nObserva que 'usted' lleva la misma forma verbal que él/ella (tercera persona del singular).\n- ¿Quién es usted? (formal) frente a ¿Quién eres tú? (informal)",
+   "hint": null,
+   "correct": "Quién",
+   "wrong": [
+    "Dónde",
+    "Cuándo",
+    "Cuál"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_06_007",
+  "locale": "es",
+  "reason": "Question is identical to the correct answer (gives it away); should be a Spanish paraphrase of the English prompt.",
+  "before": {
+   "question": "Estoy estudiando español.",
+   "explanation": "El presente progresivo se forma con estar + gerundio (-ando/-iendo).\n- Estoy estudiando: lo estoy haciendo ahora\n- estudiar → estudiando",
+   "hint": null,
+   "correct": "Estoy estudiando español.",
+   "wrong": [
+    "Soy estudiando español.",
+    "Estoy estudiar español.",
+    "Es estudiando español."
+   ]
+  },
+  "after": {
+   "question": "Ahora mismo dedico mi tiempo al estudio del idioma español.",
+   "explanation": "El presente progresivo se forma con estar + gerundio (-ando/-iendo).\n- Estoy estudiando: lo estoy haciendo ahora\n- estudiar → estudiando",
+   "hint": null,
+   "correct": "Estoy estudiando español.",
+   "wrong": [
+    "Soy estudiando español.",
+    "Estoy estudiar español.",
+    "Es estudiando español."
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_06_009",
+  "locale": "es",
+  "reason": "Question is identical to the correct answer (gives it away); should be a Spanish paraphrase of the English prompt.",
+  "before": {
+   "question": "Mi hermano está enfermo.",
+   "explanation": "Estar enfermo es una condición temporal, por eso se usa estar.\n- estar enfermo = encontrarse mal de salud (temporal)\nDecir 'ser enfermo' implicaría erróneamente un estado permanente.",
+   "hint": null,
+   "correct": "Mi hermano está enfermo.",
+   "wrong": [
+    "Mi hermano es enfermo.",
+    "Mi hermano está enfermedad.",
+    "Mis hermanos están enfermos."
+   ]
+  },
+  "after": {
+   "question": "Mi hermano no se encuentra bien de salud.",
+   "explanation": "Estar enfermo es una condición temporal, por eso se usa estar.\n- estar enfermo = encontrarse mal de salud (temporal)\nDecir 'ser enfermo' implicaría erróneamente un estado permanente.",
+   "hint": null,
+   "correct": "Mi hermano está enfermo.",
+   "wrong": [
+    "Mi hermano es enfermo.",
+    "Mi hermano está enfermedad.",
+    "Mis hermanos están enfermos."
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_004",
+  "locale": "es",
+  "reason": "Explanation changes the second example's meaning (adds 'incorrect' claim instead of article allowed with adjective); question has stray extra text.",
+  "before": {
+   "question": "Soy ___. (Yo soy maestro.) (elige la respuesta adecuada)",
+   "explanation": "En español se omite el artículo indefinido con las profesiones después de ser.\n- Soy profesor. (correcto)\n- Soy un profesor. (incorrecto en el español estándar sin un adjetivo o complemento)\nEsta regla también se aplica a las nacionalidades: Soy español.",
+   "hint": null,
+   "correct": "profesor",
+   "wrong": [
+    "un profesor",
+    "el profesor",
+    "una profesora"
+   ]
+  },
+  "after": {
+   "question": "Soy ___. (Yo soy maestro.)",
+   "explanation": "En español, el artículo indefinido normalmente se omite con una profesión sin modificar después de ser.\n- Soy profesor. (correcto)\n- Soy un profesor muy bueno. (se usa el artículo cuando se añade un adjetivo o complemento)\nEsta regla también se aplica a las nacionalidades: Soy español.",
+   "hint": null,
+   "correct": "profesor",
+   "wrong": [
+    "un profesor",
+    "el profesor",
+    "una profesora"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_006",
+  "locale": "es",
+  "reason": "Question adds 'Allí' (there) and 'ningún problema' gives away the answer; explanation starts lowercase.",
+  "before": {
+   "question": "No hay ___. (Allí no hay ningún problema.)",
+   "explanation": "Después de la forma negativa 'no hay', el artículo indefinido se omite.\n- no hay problema. (correcto)\n- no hay azúcar. (No hay nada de azúcar.)\nEl artículo se omite en las oraciones existenciales negativas.",
+   "hint": null,
+   "correct": "problema",
+   "wrong": [
+    "un problema",
+    "el problema",
+    "unos problemas"
+   ]
+  },
+  "after": {
+   "question": "No hay ___. (No existe dificultad alguna.)",
+   "explanation": "Después de la forma negativa 'no hay', el artículo indefinido se omite.\n- No hay problema. (correcto)\n- No hay azúcar. (No existe azúcar.)\nEl artículo se omite en las oraciones existenciales negativas.",
+   "hint": null,
+   "correct": "problema",
+   "wrong": [
+    "un problema",
+    "el problema",
+    "unos problemas"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_007",
+  "locale": "es",
+  "reason": "Question and hint give away the answer 'sin' while the master does not.",
+  "before": {
+   "question": "Café ___ azúcar, por favor. (Café sin azúcar)",
+   "explanation": "Después de 'sin', el artículo indefinido se omite.\n- Café sin azúcar. (Café sin azúcar.)\n- Café con leche. (Café con leche.)",
+   "hint": "¿Qué preposición significa 'sin'?",
+   "correct": "sin",
+   "wrong": [
+    "un",
+    "con",
+    "de"
+   ]
+  },
+  "after": {
+   "question": "Café ___ azúcar, por favor. (Un café que no lleva azúcar)",
+   "explanation": "Después de 'sin', el artículo indefinido se omite.\n- Café sin azúcar. (Un café que no lleva azúcar.)\n- Café con leche. (Un café acompañado de leche.)",
+   "hint": "¿Qué preposición indica ausencia de algo?",
+   "correct": "sin",
+   "wrong": [
+    "un",
+    "con",
+    "de"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_009",
+  "locale": "es",
+  "reason": "Question parenthetical repeats the Spanish sentence with 'Un', giving away the answer.",
+  "before": {
+   "question": "___ gato está en la calle. (Un gato está en la calle: cualquier gato.)",
+   "explanation": "Usamos el artículo indefinido 'un' para la primera mención o para una referencia no específica.\n- Un gato (cualquier gato, primera mención) frente a El gato (un gato concreto)\nEsta distinción es fundamental para hablar un español natural.",
+   "hint": null,
+   "correct": "Un",
+   "wrong": [
+    "El",
+    "Unos",
+    "La"
+   ]
+  },
+  "after": {
+   "question": "___ gato está en la calle. (Cualquier gato está en la calle, sin especificar cuál.)",
+   "explanation": "Usamos el artículo indefinido 'un' para la primera mención o para una referencia no específica.\n- Un gato (cualquier gato, primera mención) frente a El gato (un gato concreto)\nEsta distinción es fundamental para hablar un español natural.",
+   "hint": null,
+   "correct": "Un",
+   "wrong": [
+    "El",
+    "Unos",
+    "La"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_04_009",
+  "locale": "fr",
+  "reason": "French question omits the parenthetical hint '(Who are you?)' present in the master.",
+  "before": {
+   "question": "¿___ es usted? – Soy Ana García.",
+   "explanation": "Pour demander l'identité de quelqu'un avec 'usted', '¿Quién es usted?' signifie « Qui êtes-vous ? » (formel).\nNotez que 'usted' prend la même forme verbale que él/ella (3e personne du singulier).\n- ¿Quién es usted? (formel) vs ¿Quién eres tú? (informel)",
+   "hint": null,
+   "correct": "Quién",
+   "wrong": [
+    "Dónde",
+    "Cuándo",
+    "Cuál"
+   ]
+  },
+  "after": {
+   "question": "¿___ es usted? – Soy Ana García. (Qui êtes-vous ?)",
+   "explanation": "Pour demander l'identité de quelqu'un avec 'usted', '¿Quién es usted?' signifie « Qui êtes-vous ? » (formel).\nNotez que 'usted' prend la même forme verbale que él/ella (3e personne du singulier).\n- ¿Quién es usted? (formel) vs ¿Quién eres tú? (informel)",
+   "hint": null,
+   "correct": "Quién",
+   "wrong": [
+    "Dónde",
+    "Cuándo",
+    "Cuál"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_004",
+  "locale": "fr",
+  "reason": "Question hint left a Spanish/wrong sentence plus extra text; explanation changed the second example and its meaning.",
+  "before": {
+   "question": "Soy ___. (Yo soy maestro.) (choisis la bonne réponse)",
+   "explanation": "En espagnol, on omet l'article indéfini devant les professions après ser.\n- Soy profesor. (correct)\n- Soy un profesor. (incorrect en espagnol standard, sans adjectif ni complément)\nCette règle s'applique aussi aux nationalités : Soy español.",
+   "hint": null,
+   "correct": "profesor",
+   "wrong": [
+    "un profesor",
+    "el profesor",
+    "una profesora"
+   ]
+  },
+  "after": {
+   "question": "Soy ___. (Je suis professeur.)",
+   "explanation": "En espagnol, l'article indéfini est normalement omis devant une profession non qualifiée après ser.\n- Soy profesor. (correct)\n- Soy un profesor muy bueno. (l'article s'emploie quand on ajoute un adjectif ou un complément)\nCette règle s'applique aussi aux nationalités : Soy español.",
+   "hint": null,
+   "correct": "profesor",
+   "wrong": [
+    "un profesor",
+    "el profesor",
+    "una profesora"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_006",
+  "locale": "fr",
+  "reason": "Question hint 'Là-bas, c'est sans problème' does not match 'There is no problem'; example casing altered.",
+  "before": {
+   "question": "No hay ___. (Là-bas, c'est sans problème.)",
+   "explanation": "Après la négation 'no hay', l'article indéfini est omis.\n- no hay problema. (correct)\n- no hay azúcar. (Il n'y a pas de sucre.)\nL'article est supprimé dans les phrases existentielles négatives.",
+   "hint": null,
+   "correct": "problema",
+   "wrong": [
+    "un problema",
+    "el problema",
+    "unos problemas"
+   ]
+  },
+  "after": {
+   "question": "No hay ___. (Il n'y a pas de problème.)",
+   "explanation": "Après la négation 'no hay', l'article indéfini est omis.\n- No hay problema. (correct)\n- No hay azúcar. (Il n'y a pas de sucre.)\nL'article est supprimé dans les phrases existentielles négatives.",
+   "hint": null,
+   "correct": "problema",
+   "wrong": [
+    "un problema",
+    "el problema",
+    "unos problemas"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_02_009",
+  "locale": "id",
+  "reason": "'Kucing itu' means 'the/that cat' (specific), but the master is a general statement about cats.",
+  "before": {
+   "question": "Kucing itu mandiri.",
+   "explanation": "Dalam bahasa Spanyol, pernyataan umum memerlukan artikel tentu.\n- Los gatos son independientes. (Kucing pada umumnya)\nBahasa Inggris menghilangkan 'the' dalam pernyataan umum, tetapi bahasa Spanyol mewajibkannya.",
+   "hint": null,
+   "correct": "Los gatos son independientes.",
+   "wrong": [
+    "Gatos son independientes.",
+    "Unos gatos son independientes.",
+    "Las gatas son independientes."
+   ]
+  },
+  "after": {
+   "question": "Kucing mandiri.",
+   "explanation": "Dalam bahasa Spanyol, pernyataan umum memerlukan artikel tentu.\n- Los gatos son independientes. (Kucing pada umumnya)\nBahasa Inggris menghilangkan 'the' dalam pernyataan umum, tetapi bahasa Spanyol mewajibkannya.",
+   "hint": null,
+   "correct": "Los gatos son independientes.",
+   "wrong": [
+    "Gatos son independientes.",
+    "Unos gatos son independientes.",
+    "Las gatas son independientes."
+   ]
+  }
+ },
+ {
+  "id": "q_vocab_a1_01_004",
+  "locale": "id",
+  "reason": "Explanation says 'please' is Indonesian; master says it is English.",
+  "before": {
+   "question": "Apa arti 'por favor'?",
+   "explanation": "'Por favor' dipakai untuk membuat permintaan dengan sopan, sama seperti 'tolong' atau 'please' dalam bahasa Indonesia.",
+   "hint": null,
+   "correct": "tolong",
+   "wrong": [
+    "terima kasih",
+    "permisi",
+    "selamat tinggal"
+   ]
+  },
+  "after": {
+   "question": "Apa arti 'por favor'?",
+   "explanation": "'Por favor' dipakai untuk membuat permintaan dengan sopan, sama seperti 'please' dalam bahasa Inggris.",
+   "hint": null,
+   "correct": "tolong",
+   "wrong": [
+    "terima kasih",
+    "permisi",
+    "selamat tinggal"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_004",
+  "locale": "id",
+  "reason": "Question hint has Spanish text instead of an Indonesian translation plus extra text; explanation changes the second example from the master.",
+  "before": {
+   "question": "Soy ___. (Yo soy maestro.) (pilih jawaban yang tepat)",
+   "explanation": "Dalam bahasa Spanyol, artikel tak tentu dihilangkan untuk profesi setelah ser.\n- Soy profesor. (benar)\n- Soy un profesor. (salah dalam bahasa Spanyol baku tanpa adjektiva atau keterangan tambahan)\nAturan ini juga berlaku untuk kewarganegaraan: Soy español.",
+   "hint": null,
+   "correct": "profesor",
+   "wrong": [
+    "un profesor",
+    "el profesor",
+    "una profesora"
+   ]
+  },
+  "after": {
+   "question": "Soy ___. (Saya seorang guru.)",
+   "explanation": "Dalam bahasa Spanyol, artikel tak tentu biasanya dihilangkan untuk profesi tanpa keterangan tambahan setelah ser.\n- Soy profesor. (benar)\n- Soy un profesor muy bueno. (artikel dipakai jika ditambahkan adjektiva atau keterangan)\nAturan ini juga berlaku untuk kewarganegaraan: Soy español.",
+   "hint": null,
+   "correct": "profesor",
+   "wrong": [
+    "un profesor",
+    "el profesor",
+    "una profesora"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_006",
+  "locale": "id",
+  "reason": "Question hint is broken mixed text ('Allí is sin problema'); explanation example lowercased.",
+  "before": {
+   "question": "No hay ___. (Allí is sin problema.)",
+   "explanation": "Setelah bentuk negatif 'no hay', artikel tak tentu dihilangkan.\n- no hay problema. (benar)\n- no hay azúcar. (Tidak ada gula.)\nArtikel dihilangkan dalam kalimat eksistensial negatif.",
+   "hint": null,
+   "correct": "problema",
+   "wrong": [
+    "un problema",
+    "el problema",
+    "unos problemas"
+   ]
+  },
+  "after": {
+   "question": "No hay ___. (Tidak ada masalah.)",
+   "explanation": "Setelah bentuk negatif 'no hay', artikel tak tentu dihilangkan.\n- No hay problema. (benar)\n- No hay azúcar. (Tidak ada gula.)\nArtikel dihilangkan dalam kalimat eksistensial negatif.",
+   "hint": null,
+   "correct": "problema",
+   "wrong": [
+    "un problema",
+    "el problema",
+    "unos problemas"
+   ]
+  }
+ },
+ {
+  "id": "q_vocab_a1_03_002",
+  "locale": "id",
+  "reason": "Wrong option 'malam (petang)' duplicates 'malam'; 'evening' is rendered confusingly.",
+  "before": {
+   "question": "Apa arti 'mañana' dalam 'por la mañana'?",
+   "explanation": "'Mañana' berarti 'pagi' jika dipakai dengan 'por la'. Dalam konteks lain, kata ini juga bisa berarti 'besok'.",
+   "hint": null,
+   "correct": "pagi",
+   "wrong": [
+    "siang/sore",
+    "malam (petang)",
+    "malam"
+   ]
+  },
+  "after": {
+   "question": "Apa arti 'mañana' dalam 'por la mañana'?",
+   "explanation": "'Mañana' berarti 'pagi' jika dipakai dengan 'por la'. Dalam konteks lain, kata ini juga bisa berarti 'besok'.",
+   "hint": null,
+   "correct": "pagi",
+   "wrong": [
+    "siang/sore",
+    "petang",
+    "malam"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_04_008",
+  "locale": "id",
+  "reason": "Hint was left in English.",
+  "before": {
+   "question": "___ habla español muy bien. (Dia berbicara bahasa Spanyol dengan sangat baik.)",
+   "explanation": "'Él' berarti 'dia (laki-laki)'. Aksen pada huruf 'E' membedakannya dari 'el' (artikel).\n- Él habla = Dia berbicara\n- El libro = Buku itu (artikel, tanpa aksen)",
+   "hint": "Perhatikan tanda aksen yang membedakan pronomina ini dari artikel",
+   "correct": "Él",
+   "wrong": [
+    "Ella",
+    "Yo",
+    "Tú"
+   ]
+  },
+  "after": {
+   "question": "___ habla español muy bien. (Dia berbicara bahasa Spanyol dengan sangat baik.)",
+   "explanation": "'Él' berarti 'dia (laki-laki)'. Aksen pada huruf 'E' membedakannya dari 'el' (artikel).\n- Él habla = Dia berbicara\n- El libro = Buku itu (artikel, tanpa aksen)",
+   "hint": "Perhatikan tanda aksen yang membedakan pronomina ini dari artikel",
+   "correct": "Él",
+   "wrong": [
+    "Ella",
+    "Yo",
+    "Tú"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_04_009",
+  "locale": "id",
+  "reason": "The parenthetical hint '(Who are you?)' from the master is missing in the question.",
+  "before": {
+   "question": "¿___ es usted? – Soy Ana García.",
+   "explanation": "Saat menanyakan identitas dengan 'usted', '¿Quién es usted?' berarti 'Anda siapa?' (formal).\nPerhatikan bahwa 'usted' memakai bentuk kata kerja yang sama dengan él/ella (orang ketiga tunggal).\n- ¿Quién es usted? (formal) vs ¿Quién eres tú? (informal)",
+   "hint": null,
+   "correct": "Quién",
+   "wrong": [
+    "Dónde",
+    "Cuándo",
+    "Cuál"
+   ]
+  },
+  "after": {
+   "question": "¿___ es usted? – Soy Ana García. (Anda siapa?)",
+   "explanation": "Saat menanyakan identitas dengan 'usted', '¿Quién es usted?' berarti 'Anda siapa?' (formal).\nPerhatikan bahwa 'usted' memakai bentuk kata kerja yang sama dengan él/ella (orang ketiga tunggal).\n- ¿Quién es usted? (formal) vs ¿Quién eres tú? (informal)",
+   "hint": null,
+   "correct": "Quién",
+   "wrong": [
+    "Dónde",
+    "Cuándo",
+    "Cuál"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_04_008",
+  "locale": "it",
+  "reason": "Hint dropped the subject 'He', so 'Parla' is ambiguous between Él and Ella.",
+  "before": {
+   "question": "___ habla español muy bien. (Parla molto bene lo spagnolo.)",
+   "explanation": "'Él' significa 'lui'. L'accento sulla 'E' lo distingue da 'el' (l'articolo).\n- Él habla = Lui parla\n- El libro = Il libro (articolo, senza accento)",
+   "hint": "Fai attenzione all'accento che distingue questo pronome dall'articolo",
+   "correct": "Él",
+   "wrong": [
+    "Ella",
+    "Yo",
+    "Tú"
+   ]
+  },
+  "after": {
+   "question": "___ habla español muy bien. (Lui parla molto bene lo spagnolo.)",
+   "explanation": "'Él' significa 'lui'. L'accento sulla 'E' lo distingue da 'el' (l'articolo).\n- Él habla = Lui parla\n- El libro = Il libro (articolo, senza accento)",
+   "hint": "Fai attenzione all'accento che distingue questo pronome dall'articolo",
+   "correct": "Él",
+   "wrong": [
+    "Ella",
+    "Yo",
+    "Tú"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_04_009",
+  "locale": "it",
+  "reason": "The parenthetical translation '(Who are you?)' from the master is missing.",
+  "before": {
+   "question": "¿___ es usted? – Soy Ana García.",
+   "explanation": "Quando si chiede l'identità a qualcuno con 'usted', '¿Quién es usted?' significa 'Chi è lei?' (formale).\nNota che 'usted' prende la stessa forma verbale di él/ella (3ª persona singolare).\n- ¿Quién es usted? (formale) vs ¿Quién eres tú? (informale)",
+   "hint": null,
+   "correct": "Quién",
+   "wrong": [
+    "Dónde",
+    "Cuándo",
+    "Cuál"
+   ]
+  },
+  "after": {
+   "question": "¿___ es usted? – Soy Ana García. (Chi è lei?)",
+   "explanation": "Quando si chiede l'identità a qualcuno con 'usted', '¿Quién es usted?' significa 'Chi è lei?' (formale).\nNota che 'usted' prende la stessa forma verbale di él/ella (3ª persona singolare).\n- ¿Quién es usted? (formale) vs ¿Quién eres tú? (informale)",
+   "hint": null,
+   "correct": "Quién",
+   "wrong": [
+    "Dónde",
+    "Cuándo",
+    "Cuál"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_004",
+  "locale": "it",
+  "reason": "Parenthetical left in Spanish ('Yo soy maestro'), extra instruction added, and the second example differs from the master (missing 'muy bueno' and the adjective/modifier rule).",
+  "before": {
+   "question": "Soy ___. (Yo soy maestro.) (scegli la risposta giusta)",
+   "explanation": "In spagnolo l'articolo indeterminativo si omette con le professioni dopo il verbo ser.\n- Soy profesor. (corretto)\n- Soy un profesor. (non corretto nello spagnolo standard, senza un aggettivo o un complemento)\nQuesta regola vale anche per le nazionalità: Soy español.",
+   "hint": null,
+   "correct": "profesor",
+   "wrong": [
+    "un profesor",
+    "el profesor",
+    "una profesora"
+   ]
+  },
+  "after": {
+   "question": "Soy ___. (Sono un insegnante.)",
+   "explanation": "In spagnolo l'articolo indeterminativo normalmente si omette con una professione non modificata dopo il verbo ser.\n- Soy profesor. (corretto)\n- Soy un profesor muy bueno. (l'articolo si usa quando c'è un aggettivo o un complemento)\nQuesta regola vale anche per le nazionalità: Soy español.",
+   "hint": null,
+   "correct": "profesor",
+   "wrong": [
+    "un profesor",
+    "el profesor",
+    "una profesora"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_006",
+  "locale": "it",
+  "reason": "Question adds 'Lì' (there), which the master does not have; explanation starts the Spanish sentence in lowercase.",
+  "before": {
+   "question": "No hay ___. (Lì non ci sono problemi.)",
+   "explanation": "Dopo la forma negativa 'no hay', l'articolo indeterminativo si omette.\n- no hay problema. (corretto)\n- no hay azúcar. (Non c'è zucchero.)\nL'articolo viene omesso nelle frasi esistenziali negative.",
+   "hint": null,
+   "correct": "problema",
+   "wrong": [
+    "un problema",
+    "el problema",
+    "unos problemas"
+   ]
+  },
+  "after": {
+   "question": "No hay ___. (Non c'è nessun problema.)",
+   "explanation": "Dopo la forma negativa 'no hay', l'articolo indeterminativo si omette.\n- No hay problema. (corretto)\n- No hay azúcar. (Non c'è zucchero.)\nL'articolo viene omesso nelle frasi esistenziali negative.",
+   "hint": null,
+   "correct": "problema",
+   "wrong": [
+    "un problema",
+    "el problema",
+    "unos problemas"
+   ]
+  }
+ },
+ {
+  "id": "q_vocab_a1_03_005",
+  "locale": "it",
+  "reason": "Explanation has a broken word: 'precise' is not the right Italian form for 'sharp' ('preciso').",
+  "before": {
+   "question": "Cosa significa 'en punto' in 'Son las cinco en punto'?",
+   "explanation": "'En punto' significa 'in punto' o 'precise'. 'Son las cinco en punto' = 'Sono esattamente le cinque'.",
+   "hint": null,
+   "correct": "in punto / esattamente",
+   "wrong": [
+    "quasi",
+    "più o meno",
+    "circa"
+   ]
+  },
+  "after": {
+   "question": "Cosa significa 'en punto' in 'Son las cinco en punto'?",
+   "explanation": "'En punto' significa 'in punto' o 'preciso'. 'Son las cinco en punto' = 'Sono esattamente le cinque'.",
+   "hint": null,
+   "correct": "in punto / esattamente",
+   "wrong": [
+    "quasi",
+    "più o meno",
+    "circa"
+   ]
+  }
+ },
+ {
+  "id": "q_vocab_a1_03_006",
+  "locale": "it",
+  "reason": "Explanation says 'Per le 13:00 (o l'una)', but the master refers only to 1:00.",
+  "before": {
+   "question": "È l'una.",
+   "explanation": "Per le 13:00 (o l'una) si usa 'Es la una' (singolare). Per tutte le altre ore si usa 'Son las...' (plurale).",
+   "hint": null,
+   "correct": "Es la una.",
+   "wrong": [
+    "Son las una.",
+    "Es el uno.",
+    "Son la una."
+   ]
+  },
+  "after": {
+   "question": "È l'una.",
+   "explanation": "Per l'una (1:00) si usa 'Es la una' (singolare). Per tutte le altre ore si usa 'Son las...' (plurale).",
+   "hint": null,
+   "correct": "Es la una.",
+   "wrong": [
+    "Son las una.",
+    "Es el uno.",
+    "Son la una."
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_04_009",
+  "locale": "ja",
+  "reason": "Locale dropped the parenthetical hint '(Who are you?)' from the question.",
+  "before": {
+   "question": "¿___ es usted? – Soy Ana García.",
+   "explanation": "'usted' を使って身元をたずねるとき、'¿Quién es usted?' は「あなたはどなたですか?」(丁寧)という意味です。\n'usted' の動詞は él/ella と同じ形(三人称単数)を取ることに注意しましょう。\n- ¿Quién es usted?(丁寧)と ¿Quién eres tú?(くだけた言い方)",
+   "hint": null,
+   "correct": "Quién",
+   "wrong": [
+    "Dónde",
+    "Cuándo",
+    "Cuál"
+   ]
+  },
+  "after": {
+   "question": "¿___ es usted? – Soy Ana García. (あなたはどなたですか?)",
+   "explanation": "'usted' を使って身元をたずねるとき、'¿Quién es usted?' は「あなたはどなたですか?」(丁寧)という意味です。\n'usted' の動詞は él/ella と同じ形(三人称単数)を取ることに注意しましょう。\n- ¿Quién es usted?(丁寧)と ¿Quién eres tú?(くだけた言い方)",
+   "hint": null,
+   "correct": "Quién",
+   "wrong": [
+    "Dónde",
+    "Cuándo",
+    "Cuál"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_004",
+  "locale": "ja",
+  "reason": "Question hint left as Spanish with stray instruction; explanation example changed meaning from master (adjective case).",
+  "before": {
+   "question": "Soy ___. (Yo soy maestro.) (適切な答えを選んでください)",
+   "explanation": "スペイン語では、ser の後に職業を言うとき、不定冠詞を省略します。\n- Soy profesor.(正しい)\n- Soy un profesor.(形容詞や補足語がない標準的なスペイン語では誤り)\nこの規則は国籍にも当てはまります: Soy español.",
+   "hint": null,
+   "correct": "profesor",
+   "wrong": [
+    "un profesor",
+    "el profesor",
+    "una profesora"
+   ]
+  },
+  "after": {
+   "question": "Soy ___. (私は教師です。)",
+   "explanation": "スペイン語では、ser の後に修飾語のない職業を言うとき、不定冠詞は通常省略します。\n- Soy profesor.(正しい)\n- Soy un profesor muy bueno.(形容詞や修飾語がつく場合は冠詞を使います)\nこの規則は国籍にも当てはまります: Soy español.",
+   "hint": null,
+   "correct": "profesor",
+   "wrong": [
+    "un profesor",
+    "el profesor",
+    "una profesora"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_006",
+  "locale": "ja",
+  "reason": "Question hint is broken mixed-language text; explanation lowercased Spanish sentence.",
+  "before": {
+   "question": "No hay ___. (Allí is sin problema.)",
+   "explanation": "否定の 'no hay' の後では、不定冠詞を省略します。\n- no hay problema.(正しい)\n- no hay azúcar.(砂糖はありません。)\n否定の存在文では冠詞が省略されます。",
+   "hint": null,
+   "correct": "problema",
+   "wrong": [
+    "un problema",
+    "el problema",
+    "unos problemas"
+   ]
+  },
+  "after": {
+   "question": "No hay ___. (問題はありません。)",
+   "explanation": "否定の 'no hay' の後では、不定冠詞を省略します。\n- No hay problema.(正しい)\n- No hay azúcar.(砂糖はありません。)\n否定の存在文では冠詞が省略されます。",
+   "hint": null,
+   "correct": "problema",
+   "wrong": [
+    "un problema",
+    "el problema",
+    "unos problemas"
+   ]
+  }
+ },
+ {
+  "id": "q_vocab_a1_02_007",
+  "locale": "ko",
+  "reason": "Explanation leaves English '(friend)' in the Korean text.",
+  "before": {
+   "question": "여자 사람 친구를 다른 사람에게 소개하려고 합니다. 어떤 단어를 쓸까요?",
+   "explanation": "'Amiga'는 '여자 친구(friend)'를 뜻합니다. 'novia'를 쓰면 '여자친구'(연인)라는 뜻이 되어 의미가 달라집니다.",
+   "hint": null,
+   "correct": "amiga",
+   "wrong": [
+    "novia",
+    "prima",
+    "vecina"
+   ]
+  },
+  "after": {
+   "question": "여자 사람 친구를 다른 사람에게 소개하려고 합니다. 어떤 단어를 쓸까요?",
+   "explanation": "'Amiga'는 '여자인 친구'를 뜻합니다. 'novia'를 쓰면 '여자친구'(연인)라는 뜻이 되어 의미가 달라집니다.",
+   "hint": null,
+   "correct": "amiga",
+   "wrong": [
+    "novia",
+    "prima",
+    "vecina"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_004",
+  "locale": "ko",
+  "reason": "Question hint changed to Spanish 'maestro' with an added instruction; explanation example and rule differ from master.",
+  "before": {
+   "question": "Soy ___. (Yo soy maestro.) (알맞은 답을 고르세요)",
+   "explanation": "스페인어에서는 ser 뒤에 직업이 올 때 부정관사를 생략합니다.\n- Soy profesor. (맞음)\n- Soy un profesor. (형용사나 보충어가 없으면 표준 스페인어에서는 틀림)\n이 규칙은 국적에도 적용됩니다: Soy español.",
+   "hint": null,
+   "correct": "profesor",
+   "wrong": [
+    "un profesor",
+    "el profesor",
+    "una profesora"
+   ]
+  },
+  "after": {
+   "question": "Soy ___. (저는 선생님입니다.)",
+   "explanation": "스페인어에서는 ser 뒤에 수식어 없는 직업이 오면 보통 부정관사를 생략합니다.\n- Soy profesor. (맞음)\n- Soy un profesor muy bueno. (형용사나 수식어가 붙으면 관사를 씁니다)\n이 규칙은 국적에도 적용됩니다: Soy español.",
+   "hint": null,
+   "correct": "profesor",
+   "wrong": [
+    "un profesor",
+    "el profesor",
+    "una profesora"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_006",
+  "locale": "ko",
+  "reason": "Question adds 'there' (거기에는) and explanation changes capitalization of the Spanish sentence.",
+  "before": {
+   "question": "No hay ___. (거기에는 문제가 없어요.)",
+   "explanation": "부정문 'no hay' 뒤에서는 부정관사를 생략합니다.\n- no hay problema. (맞음)\n- no hay azúcar. (설탕이 없어요.)\n관사는 부정 존재문에서 생략됩니다.",
+   "hint": null,
+   "correct": "problema",
+   "wrong": [
+    "un problema",
+    "el problema",
+    "unos problemas"
+   ]
+  },
+  "after": {
+   "question": "No hay ___. (문제가 없어요.)",
+   "explanation": "부정문 'no hay' 뒤에서는 부정관사를 생략합니다.\n- No hay problema. (맞음)\n- No hay azúcar. (설탕이 없어요.)\n관사는 부정 존재문에서 생략됩니다.",
+   "hint": null,
+   "correct": "problema",
+   "wrong": [
+    "un problema",
+    "el problema",
+    "unos problemas"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_04_004",
+  "locale": "ko",
+  "reason": "Spanish options contain added Korean glosses instead of plain Spanish words as in master.",
+  "before": {
+   "question": "스페인어에서 '당신'(단수)의 공손한 표현은 무엇인가요?",
+   "explanation": "'usted'는 낯선 사람, 어르신, 직장 등 공식적인 자리에서 쓰는 공손한 단수 '당신'입니다.\n- tú = 친근한 '너'\n- usted = 공손한 '당신' (3인칭 동사 형태를 씀)",
+   "hint": null,
+   "correct": "usted(존칭 '당신')",
+   "wrong": [
+    "tú(친근한 '너')",
+    "vosotros(너희들)",
+    "nosotros(우리)"
+   ]
+  },
+  "after": {
+   "question": "스페인어에서 '당신'(단수)의 공손한 표현은 무엇인가요?",
+   "explanation": "'usted'는 낯선 사람, 어르신, 직장 등 공식적인 자리에서 쓰는 공손한 단수 '당신'입니다.\n- tú = 친근한 '너'\n- usted = 공손한 '당신' (3인칭 동사 형태를 씀)",
+   "hint": null,
+   "correct": "usted",
+   "wrong": [
+    "tú",
+    "vosotros",
+    "nosotros"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_04_009",
+  "locale": "ko",
+  "reason": "The parenthetical hint '(Who are you?)' from the master question is missing in the Korean question.",
+  "before": {
+   "question": "¿___ es usted? – Soy Ana García.",
+   "explanation": "'usted'에게 신분을 물을 때 '¿Quién es usted?'는 '당신은 누구십니까?'(공손한 표현)라는 뜻입니다.\n'usted'는 él/ella와 같은 동사 형태(3인칭 단수)를 쓴다는 점에 유의하세요.\n- ¿Quién es usted? (공손한 표현) vs ¿Quién eres tú? (친근한 표현)",
+   "hint": null,
+   "correct": "Quién",
+   "wrong": [
+    "Dónde",
+    "Cuándo",
+    "Cuál"
+   ]
+  },
+  "after": {
+   "question": "¿___ es usted? – Soy Ana García. (당신은 누구십니까?)",
+   "explanation": "'usted'에게 신분을 물을 때 '¿Quién es usted?'는 '당신은 누구십니까?'(공손한 표현)라는 뜻입니다.\n'usted'는 él/ella와 같은 동사 형태(3인칭 단수)를 쓴다는 점에 유의하세요.\n- ¿Quién es usted? (공손한 표현) vs ¿Quién eres tú? (친근한 표현)",
+   "hint": null,
+   "correct": "Quién",
+   "wrong": [
+    "Dónde",
+    "Cuándo",
+    "Cuál"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_004",
+  "locale": "pt",
+  "reason": "Question parenthetical changed to Spanish plus extra text; explanation changes the second example and drops the 'article used with a modifier' meaning.",
+  "before": {
+   "question": "Soy ___. (Yo soy maestro.) (escolha a resposta adequada)",
+   "explanation": "Em espanhol, omite-se o artigo indefinido com profissões depois de ser.\n- Soy profesor. (correto)\n- Soy un profesor. (incorreto no espanhol padrão, sem um adjetivo ou complemento)\nEssa regra também vale para nacionalidades: Soy español.",
+   "hint": null,
+   "correct": "profesor",
+   "wrong": [
+    "un profesor",
+    "el profesor",
+    "una profesora"
+   ]
+  },
+  "after": {
+   "question": "Soy ___. (Eu sou professor.)",
+   "explanation": "Em espanhol, o artigo indefinido normalmente é omitido com uma profissão sem modificador depois de ser.\n- Soy profesor. (correto)\n- Soy un profesor muy bueno. (o artigo é usado quando se acrescenta um adjetivo ou complemento)\nEssa regra também vale para nacionalidades: Soy español.",
+   "hint": null,
+   "correct": "profesor",
+   "wrong": [
+    "un profesor",
+    "el profesor",
+    "una profesora"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_006",
+  "locale": "pt",
+  "reason": "Question adds 'Ali' (there) changing the meaning; Spanish examples in explanation were lowercased.",
+  "before": {
+   "question": "No hay ___. (Ali não há problema.)",
+   "explanation": "Depois da negação 'no hay', o artigo indefinido é omitido.\n- no hay problema. (correto)\n- no hay azúcar. (Não há açúcar.)\nO artigo é omitido em frases existenciais negativas.",
+   "hint": null,
+   "correct": "problema",
+   "wrong": [
+    "un problema",
+    "el problema",
+    "unos problemas"
+   ]
+  },
+  "after": {
+   "question": "No hay ___. (Não há problema.)",
+   "explanation": "Depois da negação 'no hay', o artigo indefinido é omitido.\n- No hay problema. (correto)\n- No hay azúcar. (Não há açúcar.)\nO artigo é omitido em frases existenciais negativas.",
+   "hint": null,
+   "correct": "problema",
+   "wrong": [
+    "un problema",
+    "el problema",
+    "unos problemas"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_02_009",
+  "locale": "pt",
+  "reason": "Explanation says Portuguese omits the article in general statements, which is wrong; the master says English omits it.",
+  "before": {
+   "question": "Gatos são independentes.",
+   "explanation": "Em espanhol, afirmações gerais exigem o artigo definido.\n- Los gatos son independientes. (Gatos em geral)\nO português costuma omitir o artigo em afirmações gerais, mas o espanhol o exige.",
+   "hint": null,
+   "correct": "Los gatos son independientes.",
+   "wrong": [
+    "Gatos son independientes.",
+    "Unos gatos son independientes.",
+    "Las gatas son independientes."
+   ]
+  },
+  "after": {
+   "question": "Gatos são independentes.",
+   "explanation": "Em espanhol, afirmações gerais exigem o artigo definido.\n- Los gatos son independientes. (Gatos em geral)\nO inglês omite 'the' em afirmações gerais, mas o espanhol o exige.",
+   "hint": null,
+   "correct": "Los gatos son independientes.",
+   "wrong": [
+    "Gatos son independientes.",
+    "Unos gatos son independientes.",
+    "Las gatas son independientes."
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_04_009",
+  "locale": "pt",
+  "reason": "Locale dropped the '(Who are you?)' instruction hint present in the master question.",
+  "before": {
+   "question": "¿___ es usted? – Soy Ana García.",
+   "explanation": "Ao perguntar sobre a identidade de alguém com 'usted', '¿Quién es usted?' significa 'Quem é o senhor/a senhora?' (formal).\nObserve que 'usted' usa a mesma forma verbal de él/ella (3ª pessoa do singular).\n- ¿Quién es usted? (formal) vs ¿Quién eres tú? (informal)",
+   "hint": null,
+   "correct": "Quién",
+   "wrong": [
+    "Dónde",
+    "Cuándo",
+    "Cuál"
+   ]
+  },
+  "after": {
+   "question": "¿___ es usted? – Soy Ana García. (Quem é você?)",
+   "explanation": "Ao perguntar sobre a identidade de alguém com 'usted', '¿Quién es usted?' significa 'Quem é o senhor/a senhora?' (formal).\nObserve que 'usted' usa a mesma forma verbal de él/ella (3ª pessoa do singular).\n- ¿Quién es usted? (formal) vs ¿Quién eres tú? (informal)",
+   "hint": null,
+   "correct": "Quién",
+   "wrong": [
+    "Dónde",
+    "Cuándo",
+    "Cuál"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_05_001",
+  "locale": "ru",
+  "reason": "'identity' was mistranslated as 'принадлежность' (belonging).",
+  "before": {
+   "question": "Yo ___ estudiante.",
+   "explanation": "Форма yo глагола 'ser' — 'soy'.\n- Yo soy estudiante = Я студент.\nSer используется для профессий и принадлежности.",
+   "hint": "Какова форма первого лица единственного числа глагола ser?",
+   "correct": "soy",
+   "wrong": [
+    "eres",
+    "es",
+    "somos"
+   ]
+  },
+  "after": {
+   "question": "Yo ___ estudiante.",
+   "explanation": "Форма yo глагола 'ser' — 'soy'.\n- Yo soy estudiante = Я студент.\nSer используется для профессий и личности.",
+   "hint": "Какова форма первого лица единственного числа глагола ser?",
+   "correct": "soy",
+   "wrong": [
+    "eres",
+    "es",
+    "somos"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_05_010",
+  "locale": "ru",
+  "reason": "'Сейчас час дня' means 1 pm; master just says 'It is one o'clock'.",
+  "before": {
+   "question": "Сейчас час дня.",
+   "explanation": "Для 1:00 используется 'Es la una' (единственное число).\nДля всех остальных часов — 'Son las + число'.\n- Es la una. (1:00) и Son las dos. (2:00)",
+   "hint": null,
+   "correct": "Es la una.",
+   "wrong": [
+    "Son la una.",
+    "Es las una.",
+    "Son las una."
+   ]
+  },
+  "after": {
+   "question": "Сейчас час.",
+   "explanation": "Для 1:00 используется 'Es la una' (единственное число).\nДля всех остальных часов — 'Son las + число'.\n- Es la una. (1:00) и Son las dos. (2:00)",
+   "hint": null,
+   "correct": "Es la una.",
+   "wrong": [
+    "Son la una.",
+    "Es las una.",
+    "Son las una."
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_02_004",
+  "locale": "ru",
+  "reason": "Explanation renders 'the' as «тот/те», which is wrong; Russian has no article.",
+  "before": {
+   "question": "Что обозначает 'los' в 'los libros'?",
+   "explanation": "'los' — определённый артикль мужского рода во множественном числе (= «тот/те» для существительных мужского рода во мн. числе).\n- el (м. ед.), la (ж. ед.), los (м. мн.), las (ж. мн.)",
+   "hint": null,
+   "correct": "определённый артикль мужского рода во множественном числе",
+   "wrong": [
+    "определённый артикль женского рода во множественном числе",
+    "определённый артикль мужского рода в единственном числе",
+    "неопределённый артикль мужского рода во множественном числе"
+   ]
+  },
+  "after": {
+   "question": "Что обозначает 'los' в 'los libros'?",
+   "explanation": "'los' — определённый артикль мужского рода во множественном числе (используется перед существительными мужского рода во мн. числе; в русском артиклей нет).\n- el (м. ед.), la (ж. ед.), los (м. мн.), las (ж. мн.)",
+   "hint": null,
+   "correct": "определённый артикль мужского рода во множественном числе",
+   "wrong": [
+    "определённый артикль женского рода во множественном числе",
+    "определённый артикль мужского рода в единственном числе",
+    "неопределённый артикль мужского рода во множественном числе"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_004",
+  "locale": "ru",
+  "reason": "Question changed the English hint into Spanish with a different word and added extra text; explanation's second example differs from master.",
+  "before": {
+   "question": "Soy ___. (Yo soy maestro.) (выберите подходящий ответ)",
+   "explanation": "В испанском языке неопределённый артикль опускается перед названием профессии после глагола ser.\n- Soy profesor. (правильно)\n- Soy un profesor. (неправильно в стандартном испанском без прилагательного или уточнения)\nЭто правило действует и для национальностей: Soy español.",
+   "hint": null,
+   "correct": "profesor",
+   "wrong": [
+    "un profesor",
+    "el profesor",
+    "una profesora"
+   ]
+  },
+  "after": {
+   "question": "Soy ___. (Я учитель.)",
+   "explanation": "В испанском языке неопределённый артикль обычно опускается перед названием профессии без определения после ser.\n- Soy profesor. (правильно)\n- Soy un profesor muy bueno. (артикль используется, когда добавлено прилагательное или уточнение)\nЭто правило действует и для национальностей: Soy español.",
+   "hint": null,
+   "correct": "profesor",
+   "wrong": [
+    "un profesor",
+    "el profesor",
+    "una profesora"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_006",
+  "locale": "ru",
+  "reason": "Hint translation 'Там — без проблем' is wrong (should be 'There is no problem'); example in explanation lowercased.",
+  "before": {
+   "question": "No hay ___. (Там — без проблем.)",
+   "explanation": "После отрицательной конструкции 'no hay' неопределённый артикль опускается.\n- no hay problema. (правильно)\n- no hay azúcar. (Сахара нет.)\nАртикль опускается в отрицательных конструкциях со значением существования.",
+   "hint": null,
+   "correct": "problema",
+   "wrong": [
+    "un problema",
+    "el problema",
+    "unos problemas"
+   ]
+  },
+  "after": {
+   "question": "No hay ___. (Проблем нет.)",
+   "explanation": "После отрицательной конструкции 'no hay' неопределённый артикль опускается.\n- No hay problema. (правильно)\n- No hay azúcar. (Сахара нет.)\nАртикль опускается в отрицательных конструкциях со значением существования.",
+   "hint": null,
+   "correct": "problema",
+   "wrong": [
+    "un problema",
+    "el problema",
+    "unos problemas"
+   ]
+  }
+ },
+ {
+  "id": "q_vocab_a1_03_003",
+  "locale": "ru",
+  "reason": "Explanation contains leftover English and garbled mixed text.",
+  "before": {
+   "question": "Son las tres y ___. (3:30)",
+   "explanation": "«Media» означает «половина». «Son las tres y media» — «Half past three», то есть «half past three» по-русски: «Сейчас половина четвёртого» (буквально «три с половиной»).",
+   "hint": null,
+   "correct": "media",
+   "wrong": [
+    "cuarto",
+    "punto",
+    "minuto"
+   ]
+  },
+  "after": {
+   "question": "Son las tres y ___. (3:30)",
+   "explanation": "«Media» означает «половина». «Son las tres y media» — «Сейчас половина четвёртого» (буквально «три с половиной»).",
+   "hint": null,
+   "correct": "media",
+   "wrong": [
+    "cuarto",
+    "punto",
+    "minuto"
+   ]
+  }
+ },
+ {
+  "id": "q_vocab_a1_03_010",
+  "locale": "ru",
+  "reason": "Explanation says 'except hour of day/night' instead of 'except one o'clock'.",
+  "before": {
+   "question": "Друг спрашивает, когда вы обычно просыпаетесь. Как сказать «Я просыпаюсь в семь утра»?",
+   "explanation": "«A las siete de la mañana» означает «в семь утра». Обратите внимание: «a las» используется для всех часов, кроме часа дня/ночи («a la una»).",
+   "hint": null,
+   "correct": "Me despierto a las siete de la mañana.",
+   "wrong": [
+    "Me despierto a las siete de la noche.",
+    "Me despierto a la siete de la mañana.",
+    "Me duermo a las siete de la mañana."
+   ]
+  },
+  "after": {
+   "question": "Друг спрашивает, когда вы обычно просыпаетесь. Как сказать «Я просыпаюсь в семь утра»?",
+   "explanation": "«A las siete de la mañana» означает «в семь утра». Обратите внимание: «a las» используется для всех часов, кроме часа («a la una»).",
+   "hint": null,
+   "correct": "Me despierto a las siete de la mañana.",
+   "wrong": [
+    "Me despierto a las siete de la noche.",
+    "Me despierto a la siete de la mañana.",
+    "Me duermo a las siete de la mañana."
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_04_002",
+  "locale": "ru",
+  "reason": "Awkward mixed gloss 'ты есть / ты' for 'You are (informal)'.",
+  "before": {
+   "question": "___ eres mi amigo.",
+   "explanation": "'eres' — форма tú глагола ser.\n- Tú eres = ты есть / ты (неформальное обращение)\nМестоимение 'tú' используется с друзьями, родственниками и ровесниками.",
+   "hint": "С каким местоимением употребляется 'eres'?",
+   "correct": "Tú",
+   "wrong": [
+    "Yo",
+    "Él",
+    "Usted"
+   ]
+  },
+  "after": {
+   "question": "___ eres mi amigo.",
+   "explanation": "'eres' — форма tú глагола ser.\n- Tú eres = ты являешься (неформальное обращение)\nМестоимение 'tú' используется с друзьями, родственниками и ровесниками.",
+   "hint": "С каким местоимением употребляется 'eres'?",
+   "correct": "Tú",
+   "wrong": [
+    "Yo",
+    "Él",
+    "Usted"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_04_009",
+  "locale": "ru",
+  "reason": "The parenthetical translation hint '(Who are you?)' is missing from the question.",
+  "before": {
+   "question": "¿___ es usted? – Soy Ana García.",
+   "explanation": "Когда мы спрашиваем о личности с 'usted', '¿Quién es usted?' означает «Кто вы?» (вежливая форма).\nОбратите внимание, что 'usted' употребляется с той же формой глагола, что и él/ella (3-е лицо единственного числа).\n- ¿Quién es usted? (вежливо) и ¿Quién eres tú? (неформально)",
+   "hint": null,
+   "correct": "Quién",
+   "wrong": [
+    "Dónde",
+    "Cuándo",
+    "Cuál"
+   ]
+  },
+  "after": {
+   "question": "¿___ es usted? – Soy Ana García. (Кто вы?)",
+   "explanation": "Когда мы спрашиваем о личности с 'usted', '¿Quién es usted?' означает «Кто вы?» (вежливая форма).\nОбратите внимание, что 'usted' употребляется с той же формой глагола, что и él/ella (3-е лицо единственного числа).\n- ¿Quién es usted? (вежливо) и ¿Quién eres tú? (неформально)",
+   "hint": null,
+   "correct": "Quién",
+   "wrong": [
+    "Dónde",
+    "Cuándo",
+    "Cuál"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_06_001",
+  "locale": "th",
+  "reason": "Parenthetical instruction '(conjugate estar)' left in English.",
+  "before": {
+   "question": "Yo ___ en casa. (conjugate estar)",
+   "explanation": "รูป yo ของ 'estar' คือ 'estoy'\n- Estoy en casa = ฉันอยู่บ้าน\nใช้ estar กับสถานที่",
+   "hint": null,
+   "correct": "estoy",
+   "wrong": [
+    "soy",
+    "estás",
+    "está"
+   ]
+  },
+  "after": {
+   "question": "Yo ___ en casa. (ผันกริยา estar)",
+   "explanation": "รูป yo ของ 'estar' คือ 'estoy'\n- Estoy en casa = ฉันอยู่บ้าน\nใช้ estar กับสถานที่",
+   "hint": null,
+   "correct": "estoy",
+   "wrong": [
+    "soy",
+    "estás",
+    "está"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_06_005",
+  "locale": "th",
+  "reason": "Parenthetical instruction '(conjugate estar)' left in English.",
+  "before": {
+   "question": "Nosotros ___ cansados. (conjugate estar)",
+   "explanation": "รูป nosotros ของ 'estar' คือ 'estamos'\n- Estamos cansados = พวกเราเหนื่อย\nความเหนื่อยเป็นสภาวะชั่วคราว จึงใช้ estar",
+   "hint": null,
+   "correct": "estamos",
+   "wrong": [
+    "somos",
+    "están",
+    "estoy"
+   ]
+  },
+  "after": {
+   "question": "Nosotros ___ cansados. (ผันกริยา estar)",
+   "explanation": "รูป nosotros ของ 'estar' คือ 'estamos'\n- Estamos cansados = พวกเราเหนื่อย\nความเหนื่อยเป็นสภาวะชั่วคราว จึงใช้ estar",
+   "hint": null,
+   "correct": "estamos",
+   "wrong": [
+    "somos",
+    "están",
+    "estoy"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_06_010",
+  "locale": "th",
+  "reason": "Parenthetical instruction '(conjugate estar)' left in English.",
+  "before": {
+   "question": "¿Dónde ___ tú ahora? (conjugate estar)",
+   "explanation": "รูป tú ของ 'estar' คือ 'estás'\n- ¿Dónde estás? = คุณอยู่ที่ไหน\nใช้ estar เมื่อถามว่าคนหรือสิ่งของอยู่ที่ไหน",
+   "hint": null,
+   "correct": "estás",
+   "wrong": [
+    "eres",
+    "está",
+    "estamos"
+   ]
+  },
+  "after": {
+   "question": "¿Dónde ___ tú ahora? (ผันกริยา estar)",
+   "explanation": "รูป tú ของ 'estar' คือ 'estás'\n- ¿Dónde estás? = คุณอยู่ที่ไหน\nใช้ estar เมื่อถามว่าคนหรือสิ่งของอยู่ที่ไหน",
+   "hint": null,
+   "correct": "estás",
+   "wrong": [
+    "eres",
+    "está",
+    "estamos"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_003",
+  "locale": "th",
+  "reason": "Wrong option leaves English 'the' in the Thai text.",
+  "before": {
+   "question": "'unas' ในคำว่า 'unas flores' หมายถึงอะไร?",
+   "explanation": "'unas' เป็นคำนำหน้านามไม่เจาะจงพหูพจน์เพศหญิง แปลว่า 'บาง/หลาย'\n- un (ชาย เอกพจน์), una (หญิง เอกพจน์), unos (ชาย พหูพจน์), unas (หญิง พหูพจน์)",
+   "hint": null,
+   "correct": "บาง/หลาย (พหูพจน์เพศหญิง)",
+   "wrong": [
+    "คำนำหน้านามเจาะจง the (พหูพจน์เพศหญิง)",
+    "หนึ่ง (เอกพจน์เพศหญิง)",
+    "บาง/หลาย (พหูพจน์เพศชาย)"
+   ]
+  },
+  "after": {
+   "question": "'unas' ในคำว่า 'unas flores' หมายถึงอะไร?",
+   "explanation": "'unas' เป็นคำนำหน้านามไม่เจาะจงพหูพจน์เพศหญิง แปลว่า 'บาง/หลาย'\n- un (ชาย เอกพจน์), una (หญิง เอกพจน์), unos (ชาย พหูพจน์), unas (หญิง พหูพจน์)",
+   "hint": null,
+   "correct": "บาง/หลาย (พหูพจน์เพศหญิง)",
+   "wrong": [
+    "คำนำหน้านามเจาะจง (พหูพจน์เพศหญิง)",
+    "หนึ่ง (เอกพจน์เพศหญิง)",
+    "บาง/หลาย (พหูพจน์เพศชาย)"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_004",
+  "locale": "th",
+  "reason": "Question gives a different Spanish sentence instead of the English gloss; explanation example changed from 'Soy un profesor muy bueno'.",
+  "before": {
+   "question": "Soy ___. (Yo soy maestro.) (เลือกคำตอบที่เหมาะสม)",
+   "explanation": "ในภาษาสเปน ไม่ใช้คำนำหน้านามไม่เจาะจงกับอาชีพที่ตามหลัง ser\n- Soy profesor. (ถูกต้อง)\n- Soy un profesor. (ไม่ถูกต้องในภาษาสเปนมาตรฐาน หากไม่มีคำคุณศัพท์หรือส่วนขยาย)\nกฎนี้ใช้กับสัญชาติด้วย: Soy español.",
+   "hint": null,
+   "correct": "profesor",
+   "wrong": [
+    "un profesor",
+    "el profesor",
+    "una profesora"
+   ]
+  },
+  "after": {
+   "question": "Soy ___. (ฉันเป็นครู)",
+   "explanation": "ในภาษาสเปน โดยปกติจะละคำนำหน้านามไม่เจาะจงเมื่อพูดถึงอาชีพที่ไม่มีคำขยาย หลัง ser\n- Soy profesor. (ถูกต้อง)\n- Soy un profesor muy bueno. (ใช้คำนำหน้านามเมื่อมีคำคุณศัพท์หรือส่วนขยายเพิ่มเข้ามา)\nกฎนี้ใช้กับสัญชาติด้วย: Soy español.",
+   "hint": null,
+   "correct": "profesor",
+   "wrong": [
+    "un profesor",
+    "el profesor",
+    "una profesora"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_006",
+  "locale": "th",
+  "reason": "'ที่นั่น' (over there) changes the meaning of 'There is no problem'; Spanish examples were lowercased.",
+  "before": {
+   "question": "No hay ___. (ที่นั่นไม่มีปัญหา)",
+   "explanation": "หลังประโยคปฏิเสธ 'no hay' จะละคำนำหน้านามไม่เจาะจง\n- no hay problema. (ถูกต้อง)\n- no hay azúcar. (ไม่มีน้ำตาล)\nจะละคำนำหน้านามในประโยคปฏิเสธที่บอกว่าไม่มีสิ่งใดอยู่",
+   "hint": null,
+   "correct": "problema",
+   "wrong": [
+    "un problema",
+    "el problema",
+    "unos problemas"
+   ]
+  },
+  "after": {
+   "question": "No hay ___. (ไม่มีปัญหา)",
+   "explanation": "หลังประโยคปฏิเสธ 'no hay' จะละคำนำหน้านามไม่เจาะจง\n- No hay problema. (ถูกต้อง)\n- No hay azúcar. (ไม่มีน้ำตาล)\nจะละคำนำหน้านามในประโยคปฏิเสธที่บอกว่าไม่มีสิ่งใดอยู่",
+   "hint": null,
+   "correct": "problema",
+   "wrong": [
+    "un problema",
+    "el problema",
+    "unos problemas"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_05_004",
+  "locale": "th",
+  "reason": "Parenthetical hint '(conjugate ser)' left in English",
+  "before": {
+   "question": "Tú ___ muy inteligente. (conjugate ser)",
+   "explanation": "รูป tú ของ 'ser' คือ 'eres'\n- Tú eres inteligente = คุณฉลาด\nใช้ ser กับลักษณะประจำตัวที่เป็นธรรมชาติของบุคคล",
+   "hint": null,
+   "correct": "eres",
+   "wrong": [
+    "soy",
+    "es",
+    "son"
+   ]
+  },
+  "after": {
+   "question": "Tú ___ muy inteligente. (ผันกริยา ser)",
+   "explanation": "รูป tú ของ 'ser' คือ 'eres'\n- Tú eres inteligente = คุณฉลาด\nใช้ ser กับลักษณะประจำตัวที่เป็นธรรมชาติของบุคคล",
+   "hint": null,
+   "correct": "eres",
+   "wrong": [
+    "soy",
+    "es",
+    "son"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_05_006",
+  "locale": "th",
+  "reason": "Parenthetical hint '(conjugate ser)' left in English",
+  "before": {
+   "question": "La mesa ___ de madera. (conjugate ser)",
+   "explanation": "ใช้ ser เพื่อบอกว่าสิ่งของทำมาจากวัสดุอะไร\n- La mesa es de madera. = โต๊ะทำจากไม้\n- 'de' + วัสดุ ใช้กับ ser หมายถึง ทำจาก",
+   "hint": null,
+   "correct": "es",
+   "wrong": [
+    "está",
+    "son",
+    "soy"
+   ]
+  },
+  "after": {
+   "question": "La mesa ___ de madera. (ผันกริยา ser)",
+   "explanation": "ใช้ ser เพื่อบอกว่าสิ่งของทำมาจากวัสดุอะไร\n- La mesa es de madera. = โต๊ะทำจากไม้\n- 'de' + วัสดุ ใช้กับ ser หมายถึง ทำจาก",
+   "hint": null,
+   "correct": "es",
+   "wrong": [
+    "está",
+    "son",
+    "soy"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_05_009",
+  "locale": "th",
+  "reason": "Parenthetical hint '(conjugate ser)' left in English",
+  "before": {
+   "question": "¿De dónde ___ ustedes? (conjugate ser)",
+   "explanation": "รูป ustedes ของ 'ser' คือ 'son' (เหมือนกับ ellos/ellas)\n- ¿De dónde son ustedes? = พวกคุณมาจากที่ไหน\nser + de = ถิ่นกำเนิด",
+   "hint": null,
+   "correct": "son",
+   "wrong": [
+    "es",
+    "somos",
+    "sois"
+   ]
+  },
+  "after": {
+   "question": "¿De dónde ___ ustedes? (ผันกริยา ser)",
+   "explanation": "รูป ustedes ของ 'ser' คือ 'son' (เหมือนกับ ellos/ellas)\n- ¿De dónde son ustedes? = พวกคุณมาจากที่ไหน\nser + de = ถิ่นกำเนิด",
+   "hint": null,
+   "correct": "son",
+   "wrong": [
+    "es",
+    "somos",
+    "sois"
+   ]
+  }
+ },
+ {
+  "id": "q_vocab_a1_05_008",
+  "locale": "th",
+  "reason": "Explanation has broken text 'ส... สีอะไร?' instead of 'What color is...?'",
+  "before": {
+   "question": "¿De qué color es la naranja?",
+   "explanation": "'¿De qué color es...?' แปลว่า 'ส... สีอะไร?' เป็นวิธีมาตรฐานในการถามเรื่องสีในภาษาสเปน",
+   "hint": null,
+   "correct": "ส้มสีอะไร?",
+   "wrong": [
+    "ส้มอยู่ที่ไหน?",
+    "ส้มราคาเท่าไร?",
+    "คุณชอบส้มไหม?"
+   ]
+  },
+  "after": {
+   "question": "¿De qué color es la naranja?",
+   "explanation": "'¿De qué color es...?' แปลว่า '... สีอะไร?' เป็นวิธีมาตรฐานในการถามเรื่องสีในภาษาสเปน",
+   "hint": null,
+   "correct": "ส้มสีอะไร?",
+   "wrong": [
+    "ส้มอยู่ที่ไหน?",
+    "ส้มราคาเท่าไร?",
+    "คุณชอบส้มไหม?"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_04_004",
+  "locale": "th",
+  "reason": "Spanish options have Thai glosses added; master options are plain Spanish words",
+  "before": {
+   "question": "ในภาษาสเปน คำว่า 'you' (เอกพจน์) แบบสุภาพคืออะไร?",
+   "explanation": "'usted' คือ 'คุณ' เอกพจน์แบบสุภาพ ใช้กับคนแปลกหน้า ผู้ใหญ่ และในสถานการณ์ทางการ\n- tú = 'คุณ' แบบไม่เป็นทางการ\n- usted = 'คุณ' แบบสุภาพ (ใช้กริยารูปบุรุษที่ 3)",
+   "hint": null,
+   "correct": "usted (คุณ — แบบสุภาพ)",
+   "wrong": [
+    "tú (คุณ — แบบไม่เป็นทางการ)",
+    "vosotros (พวกคุณ)",
+    "nosotros (พวกเรา)"
+   ]
+  },
+  "after": {
+   "question": "ในภาษาสเปน คำว่า 'you' (เอกพจน์) แบบสุภาพคืออะไร?",
+   "explanation": "'usted' คือ 'คุณ' เอกพจน์แบบสุภาพ ใช้กับคนแปลกหน้า ผู้ใหญ่ และในสถานการณ์ทางการ\n- tú = 'คุณ' แบบไม่เป็นทางการ\n- usted = 'คุณ' แบบสุภาพ (ใช้กริยารูปบุรุษที่ 3)",
+   "hint": null,
+   "correct": "usted",
+   "wrong": [
+    "tú",
+    "vosotros",
+    "nosotros"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_04_008",
+  "locale": "th",
+  "reason": "Typo 'สำเสียง' should be 'สำเนียง' (accent mark)",
+  "before": {
+   "question": "___ habla español muy bien. (เขาพูดภาษาสเปนได้ดีมาก)",
+   "explanation": "'Él' แปลว่า 'เขา' เครื่องหมายสำเสียงบน 'E' ทำให้แตกต่างจาก 'el' (คำนำหน้านาม)\n- Él habla = เขาพูด\n- El libro = หนังสือเล่มนั้น (คำนำหน้านาม ไม่มีเครื่องหมาย)",
+   "hint": "สังเกตเครื่องหมายสำเสียงที่ทำให้สรรพนามนี้ต่างจากคำนำหน้านาม",
+   "correct": "Él",
+   "wrong": [
+    "Ella",
+    "Yo",
+    "Tú"
+   ]
+  },
+  "after": {
+   "question": "___ habla español muy bien. (เขาพูดภาษาสเปนได้ดีมาก)",
+   "explanation": "'Él' แปลว่า 'เขา' เครื่องหมายสำเนียงบน 'E' ทำให้แตกต่างจาก 'el' (คำนำหน้านาม)\n- Él habla = เขาพูด\n- El libro = หนังสือเล่มนั้น (คำนำหน้านาม ไม่มีเครื่องหมาย)",
+   "hint": "สังเกตเครื่องหมายสำเนียงที่ทำให้สรรพนามนี้ต่างจากคำนำหน้านาม",
+   "correct": "Él",
+   "wrong": [
+    "Ella",
+    "Yo",
+    "Tú"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_04_009",
+  "locale": "th",
+  "reason": "Missing the parenthetical '(Who are you?)' from the master question",
+  "before": {
+   "question": "¿___ es usted? – Soy Ana García.",
+   "explanation": "เมื่อถามถึงตัวตนของ 'usted' ประโยค '¿Quién es usted?' หมายถึง 'คุณคือใคร' (แบบสุภาพ)\nสังเกตว่า 'usted' ใช้กริยารูปเดียวกับ él/ella (บุรุษที่ 3 เอกพจน์)\n- ¿Quién es usted? (สุภาพ) เทียบกับ ¿Quién eres tú? (ไม่เป็นทางการ)",
+   "hint": null,
+   "correct": "Quién",
+   "wrong": [
+    "Dónde",
+    "Cuándo",
+    "Cuál"
+   ]
+  },
+  "after": {
+   "question": "¿___ es usted? – Soy Ana García. (คุณคือใคร)",
+   "explanation": "เมื่อถามถึงตัวตนของ 'usted' ประโยค '¿Quién es usted?' หมายถึง 'คุณคือใคร' (แบบสุภาพ)\nสังเกตว่า 'usted' ใช้กริยารูปเดียวกับ él/ella (บุรุษที่ 3 เอกพจน์)\n- ¿Quién es usted? (สุภาพ) เทียบกับ ¿Quién eres tú? (ไม่เป็นทางการ)",
+   "hint": null,
+   "correct": "Quién",
+   "wrong": [
+    "Dónde",
+    "Cuándo",
+    "Cuál"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_04_009",
+  "locale": "vi",
+  "reason": "Locale dropped the parenthetical hint '(Who are you?)' present in the master question.",
+  "before": {
+   "question": "¿___ es usted? – Soy Ana García.",
+   "explanation": "Khi hỏi về danh tính với 'usted', '¿Quién es usted?' nghĩa là 'Ông/Bà là ai?' (trang trọng).\nLưu ý rằng 'usted' dùng cùng dạng động từ với él/ella (ngôi thứ ba số ít).\n- ¿Quién es usted? (trang trọng) so với ¿Quién eres tú? (thân mật)",
+   "hint": null,
+   "correct": "Quién",
+   "wrong": [
+    "Dónde",
+    "Cuándo",
+    "Cuál"
+   ]
+  },
+  "after": {
+   "question": "¿___ es usted? – Soy Ana García. (Ông/Bà là ai?)",
+   "explanation": "Khi hỏi về danh tính với 'usted', '¿Quién es usted?' nghĩa là 'Ông/Bà là ai?' (trang trọng).\nLưu ý rằng 'usted' dùng cùng dạng động từ với él/ella (ngôi thứ ba số ít).\n- ¿Quién es usted? (trang trọng) so với ¿Quién eres tú? (thân mật)",
+   "hint": null,
+   "correct": "Quién",
+   "wrong": [
+    "Dónde",
+    "Cuándo",
+    "Cuál"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_004",
+  "locale": "vi",
+  "reason": "Question adds extra Spanish 'Yo soy maestro' and an instruction; explanation changes the second example sentence.",
+  "before": {
+   "question": "Soy ___. (Yo soy maestro.) (chọn đáp án phù hợp)",
+   "explanation": "Trong tiếng Tây Ban Nha, mạo từ bất định được bỏ đi khi nói về nghề nghiệp sau động từ ser.\n- Soy profesor. (đúng)\n- Soy un profesor. (sai trong tiếng Tây Ban Nha chuẩn nếu không có tính từ hoặc bổ ngữ đi kèm)\nQuy tắc này cũng áp dụng cho quốc tịch: Soy español.",
+   "hint": null,
+   "correct": "profesor",
+   "wrong": [
+    "un profesor",
+    "el profesor",
+    "una profesora"
+   ]
+  },
+  "after": {
+   "question": "Soy ___. (Tôi là giáo viên.)",
+   "explanation": "Trong tiếng Tây Ban Nha, mạo từ bất định thường được bỏ đi trước nghề nghiệp không có bổ ngữ đứng sau ser.\n- Soy profesor. (đúng)\n- Soy un profesor muy bueno. (dùng mạo từ khi có thêm tính từ hoặc bổ ngữ)\nQuy tắc này cũng áp dụng cho quốc tịch: Soy español.",
+   "hint": null,
+   "correct": "profesor",
+   "wrong": [
+    "un profesor",
+    "el profesor",
+    "una profesora"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_006",
+  "locale": "vi",
+  "reason": "Question adds 'Ở đó' (there); explanation altered the Spanish example capitalization 'No hay problema.'",
+  "before": {
+   "question": "No hay ___. (Ở đó không có vấn đề gì.)",
+   "explanation": "Sau cấu trúc phủ định 'no hay', mạo từ bất định được lược bỏ.\n- no hay problema. (đúng)\n- no hay azúcar. (Không có đường.)\nMạo từ bị bỏ đi trong các câu phủ định nói về sự tồn tại.",
+   "hint": null,
+   "correct": "problema",
+   "wrong": [
+    "un problema",
+    "el problema",
+    "unos problemas"
+   ]
+  },
+  "after": {
+   "question": "No hay ___. (Không có vấn đề gì.)",
+   "explanation": "Sau cấu trúc phủ định 'no hay', mạo từ bất định được lược bỏ.\n- No hay problema. (đúng)\n- No hay azúcar. (Không có đường.)\nMạo từ bị bỏ đi trong các câu phủ định nói về sự tồn tại.",
+   "hint": null,
+   "correct": "problema",
+   "wrong": [
+    "un problema",
+    "el problema",
+    "unos problemas"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_01_008",
+  "locale": "zh-Hant",
+  "reason": "Explanation leaves the English word 'big' untranslated in the Traditional Chinese text.",
+  "before": {
+   "question": "這張地圖很大。",
+   "explanation": "'mapa' 雖然以 -a 結尾,卻是陽性(「-a = 陰性」規則的另一個例外)。\n'big' = 'grande',不會隨性別變化。",
+   "hint": null,
+   "correct": "El mapa es grande.",
+   "wrong": [
+    "La mapa es grande.",
+    "Los mapas son grandes.",
+    "El mapa es pequeño."
+   ]
+  },
+  "after": {
+   "question": "這張地圖很大。",
+   "explanation": "'mapa' 雖然以 -a 結尾,卻是陽性(「-a = 陰性」規則的另一個例外)。\n「大」= 'grande',不會隨性別變化。",
+   "hint": null,
+   "correct": "El mapa es grande.",
+   "wrong": [
+    "La mapa es grande.",
+    "Los mapas son grandes.",
+    "El mapa es pequeño."
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_04_009",
+  "locale": "zh-Hant",
+  "reason": "Locale question dropped the parenthetical hint '(Who are you?)' present in the master.",
+  "before": {
+   "question": "¿___ es usted? – Soy Ana García.",
+   "explanation": "詢問對方身分並使用 'usted' 時,'¿Quién es usted?' 的意思是「您是誰?」(正式)。\n請注意,'usted' 搭配的動詞變位與 él/ella 相同(第三人稱單數)。\n- ¿Quién es usted? (正式)與 ¿Quién eres tú? (非正式)",
+   "hint": null,
+   "correct": "Quién",
+   "wrong": [
+    "Dónde",
+    "Cuándo",
+    "Cuál"
+   ]
+  },
+  "after": {
+   "question": "¿___ es usted? – Soy Ana García. (您是誰?)",
+   "explanation": "詢問對方身分並使用 'usted' 時,'¿Quién es usted?' 的意思是「您是誰?」(正式)。\n請注意,'usted' 搭配的動詞變位與 él/ella 相同(第三人稱單數)。\n- ¿Quién es usted? (正式)與 ¿Quién eres tú? (非正式)",
+   "hint": null,
+   "correct": "Quién",
+   "wrong": [
+    "Dónde",
+    "Cuándo",
+    "Cuál"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_004",
+  "locale": "zh-Hant",
+  "reason": "Question parenthetical left in Spanish and extra text added; explanation example changed from 'Soy un profesor muy bueno.' to a different claim.",
+  "before": {
+   "question": "Soy ___. (Yo soy maestro.) (選出適當的答案)",
+   "explanation": "在西班牙語中,ser 後面接職業時,不加不定冠詞。\n- Soy profesor. (正確)\n- Soy un profesor. (在標準西班牙語中,若沒有形容詞或補語則不正確)\n這條規則也適用於國籍:Soy español.",
+   "hint": null,
+   "correct": "profesor",
+   "wrong": [
+    "un profesor",
+    "el profesor",
+    "una profesora"
+   ]
+  },
+  "after": {
+   "question": "Soy ___. (我是老師。)",
+   "explanation": "在西班牙語中,ser 後面接沒有修飾語的職業時,通常省略不定冠詞。\n- Soy profesor. (正確)\n- Soy un profesor muy bueno. (加上形容詞或修飾語時,就要使用冠詞)\n這條規則也適用於國籍:Soy español.",
+   "hint": null,
+   "correct": "profesor",
+   "wrong": [
+    "un profesor",
+    "el profesor",
+    "una profesora"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_006",
+  "locale": "zh-Hant",
+  "reason": "Question adds 'there' (那裡), and the Spanish 'No hay' is lowercased in the explanation.",
+  "before": {
+   "question": "No hay ___. (那裡沒有問題。)",
+   "explanation": "在否定的 'no hay' 之後,不定冠詞要省略。\n- no hay problema. (正確)\n- no hay azúcar. (沒有糖。)\n在否定的存在句中,冠詞會被省略。",
+   "hint": null,
+   "correct": "problema",
+   "wrong": [
+    "un problema",
+    "el problema",
+    "unos problemas"
+   ]
+  },
+  "after": {
+   "question": "No hay ___. (沒有問題。)",
+   "explanation": "在否定的 'no hay' 之後,不定冠詞要省略。\n- No hay problema. (正確)\n- No hay azúcar. (沒有糖。)\n在否定的存在句中,冠詞會被省略。",
+   "hint": null,
+   "correct": "problema",
+   "wrong": [
+    "un problema",
+    "el problema",
+    "unos problemas"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_04_009",
+  "locale": "zh",
+  "reason": "Locale dropped the parenthetical hint '(Who are you?)' from the question.",
+  "before": {
+   "question": "¿___ es usted? – Soy Ana García.",
+   "explanation": "当用 'usted' 询问身份时,'¿Quién es usted?' 的意思是“您是谁?”(正式)。\n注意,'usted' 使用与 él/ella 相同的动词形式(第三人称单数)。\n- ¿Quién es usted?(正式)与 ¿Quién eres tú?(非正式)",
+   "hint": null,
+   "correct": "Quién",
+   "wrong": [
+    "Dónde",
+    "Cuándo",
+    "Cuál"
+   ]
+  },
+  "after": {
+   "question": "¿___ es usted? – Soy Ana García. (您是谁?)",
+   "explanation": "当用 'usted' 询问身份时,'¿Quién es usted?' 的意思是“您是谁?”(正式)。\n注意,'usted' 使用与 él/ella 相同的动词形式(第三人称单数)。\n- ¿Quién es usted?(正式)与 ¿Quién eres tú?(非正式)",
+   "hint": null,
+   "correct": "Quién",
+   "wrong": [
+    "Dónde",
+    "Cuándo",
+    "Cuál"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_004",
+  "locale": "zh",
+  "reason": "Question hint was rewritten as Spanish with an extra instruction, and the explanation example differs from the master.",
+  "before": {
+   "question": "Soy ___. (Yo soy maestro.) (选择合适的答案)",
+   "explanation": "在西班牙语中,ser 后面表示职业时通常省略不定冠词。\n- Soy profesor.(正确)\n- Soy un profesor.(在标准西班牙语中,若没有形容词或补充成分则不正确)\n这一规则同样适用于国籍:Soy español.",
+   "hint": null,
+   "correct": "profesor",
+   "wrong": [
+    "un profesor",
+    "el profesor",
+    "una profesora"
+   ]
+  },
+  "after": {
+   "question": "Soy ___. (我是一名老师。)",
+   "explanation": "在西班牙语中,ser 后面接不带修饰语的职业名词时,通常省略不定冠词。\n- Soy profesor.(正确)\n- Soy un profesor muy bueno.(加上形容词或补充成分时要使用冠词)\n这一规则同样适用于国籍:Soy español.",
+   "hint": null,
+   "correct": "profesor",
+   "wrong": [
+    "un profesor",
+    "el profesor",
+    "una profesora"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_03_006",
+  "locale": "zh",
+  "reason": "Question hint adds 'there' (那里), and Spanish examples in the explanation are not copied exactly (lowercase 'no hay').",
+  "before": {
+   "question": "No hay ___. (那里没有问题。)",
+   "explanation": "在否定结构 'no hay' 之后,不定冠词要省略。\n- no hay problema.(正确)\n- no hay azúcar.(没有糖。)\n在否定的存在句中,冠词要省略。",
+   "hint": null,
+   "correct": "problema",
+   "wrong": [
+    "un problema",
+    "el problema",
+    "unos problemas"
+   ]
+  },
+  "after": {
+   "question": "No hay ___. (没有问题。)",
+   "explanation": "在否定结构 'no hay' 之后,不定冠词要省略。\n- No hay problema.(正确)\n- No hay azúcar.(没有糖。)\n在否定的存在句中,冠词要省略。",
+   "hint": null,
+   "correct": "problema",
+   "wrong": [
+    "un problema",
+    "el problema",
+    "unos problemas"
+   ]
+  }
+ }
+]

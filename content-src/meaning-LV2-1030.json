@@ -1,0 +1,29 @@
+[
+ {
+  "id": "q_gram_a1_07_004",
+  "locale": "ko",
+  "reason": "The instruction leaves the English word 'be' in the Korean hint; it should be translated.",
+  "before": {
+   "question": "La fiesta ___ en mi casa. (알맞은 'be' 동사를 활용하세요)",
+   "explanation": "행사의 장소를 말할 때는 estar가 아니라 'ser'를 사용합니다. 중요한 예외입니다!\n- La fiesta es en mi casa. = 파티는 우리 집에서 열립니다.\n- 건물에는 estar를 씁니다: El cine está en la calle.",
+   "hint": null,
+   "correct": "es",
+   "wrong": [
+    "está",
+    "son",
+    "están"
+   ]
+  },
+  "after": {
+   "question": "La fiesta ___ en mi casa. ('~이다/~있다'에 해당하는 알맞은 동사를 활용하세요)",
+   "explanation": "행사의 장소를 말할 때는 estar가 아니라 'ser'를 사용합니다. 중요한 예외입니다!\n- La fiesta es en mi casa. = 파티는 우리 집에서 열립니다.\n- 건물에는 estar를 씁니다: El cine está en la calle.",
+   "hint": null,
+   "correct": "es",
+   "wrong": [
+    "está",
+    "son",
+    "están"
+   ]
+  }
+ }
+]

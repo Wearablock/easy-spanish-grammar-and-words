@@ -714,7 +714,7 @@ abstract class AppLocalizations {
   /// No description provided for @dailyNotification.
   ///
   /// In ko, this message translates to:
-  /// **'하루 이상 접속하지 않으면 학습 알림'**
+  /// **'매일 정한 시간에 알림, 하루 쉬면 한 번 더'**
   String get dailyNotification;
 
   /// No description provided for @notificationOff.
@@ -1370,6 +1370,12 @@ abstract class AppLocalizations {
   /// In ko, this message translates to:
   /// **'문장 전체를 따라 말해 보세요'**
   String get quizSayIt;
+
+  /// No description provided for @badgeNew.
+  ///
+  /// In ko, this message translates to:
+  /// **'NEW'**
+  String get badgeNew;
 }
 
 class _AppLocalizationsDelegate

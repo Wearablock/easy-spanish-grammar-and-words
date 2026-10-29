@@ -2,18 +2,14 @@
   "@@locale": "de",
   "appTitle": "Spanisch Leicht",
   "appFullTitle": "Spanisch Leicht - Grammatik",
-
   "home": "Start",
   "progress": "Fortschritt",
   "settings": "Einstellungen",
   "wrongAnswers": "Fehlerliste",
-
   "error": "Fehler: {message}",
-
   "startStudy": "Lernen starten",
   "continueStudy": "Lernen fortsetzen",
   "startReview": "Wiederholen",
-
   "todayStudy": "Heutiges Lernen",
   "allTopicsCompleted": "Alle Themen abgeschlossen!",
   "reviewEncouragement": "Wiederhole weiter, um den Stoff zu meistern.",
@@ -23,13 +19,11 @@
   "todayGoal": "Heutiges Ziel",
   "topicsProgress": "{studied}/{goal} Themen",
   "streakDays": "{days} Tage in Folge!",
-
   "overallProgress": "Gesamtfortschritt",
   "mastered": "Gemeistert",
   "studiedOnce": "Mindestens einmal gelernt",
   "totalQuestions": "Insgesamt {count} Fragen",
   "questionsMastered": "{count} / {total} Fragen gemeistert",
-
   "study": "Lernen",
   "notifications": "Benachrichtigungen",
   "appSettings": "App-Einstellungen",
@@ -56,10 +50,9 @@
   "themeSystem": "Systemstandard",
   "themeLight": "Heller Modus",
   "themeDark": "Dunkler Modus",
-
   "studyComplete": "Lernen abgeschlossen",
   "goodJob": "Gut gemacht!",
-  "goHome": "Zur Startseite",
+  "goHome": "Zum Start",
   "accuracy": "Genauigkeit",
   "correct": "Richtig",
   "wrong": "Falsch",
@@ -67,24 +60,19 @@
   "wrongReview": "Fehlerwiederholung",
   "spacedReview": "Verteilte Wiederholung",
   "newLearning": "Neues Lernen",
-
   "errorOccurred": "Ein Fehler ist aufgetreten",
   "retry": "Erneut versuchen",
   "stopStudy": "Lernen stoppen",
   "stopStudyConfirm": "Möchtest du das Lernen stoppen?\nDein Fortschritt wird gespeichert.",
   "continueStudyButton": "Weiterlernen",
   "stop": "Stoppen",
-
   "levelProgress": "Fortschritt nach Stufe",
-
   "reviewAvailable": "Du hast Fragen zum Wiederholen!",
   "reviewWaiting": "{count} Fragen warten auf Wiederholung",
-
   "welcome": "Willkommen!",
   "selectLevel": "Wähle dein Zielniveau",
   "canChangeInSettings": "Du kannst es später in den Einstellungen ändern",
   "start": "Starten",
-
   "levelTarget": "Zielniveau",
   "levelNameA1": "Anfänger",
   "levelNameA2": "Grundstufe",
@@ -95,14 +83,12 @@
   "grammar": "Grammatik",
   "vocabulary": "Wortschatz",
   "grammarAndVocabulary": "Grammatik & Wortschatz",
-
   "noWrongAnswers": "Keine Fehler!",
   "noWrongAnswersDesc": "Du machst das großartig!\nWeiter so!",
   "wrongCount": "{count} Mal falsch",
   "correctAnswer": "Richtige Antwort",
   "yourAnswer": "Deine Antwort",
   "explanation": "Erklärung",
-
   "premium": "Premium",
   "removeAds": "Werbung entfernen",
   "premiumActivated": "Premium aktiviert",
@@ -111,26 +97,22 @@
   "purchaseFailed": "Kauf fehlgeschlagen",
   "purchasesRestored": "Käufe wiederhergestellt",
   "productNotAvailable": "Produkt nicht verfügbar",
-
   "studyNotification": "Lernerinnerung",
-  "dailyNotification": "Lernerinnerung bei mehr als einem Tag Inaktivität",
+  "dailyNotification": "Tägliche Erinnerung zu deiner Uhrzeit, und noch eine, wenn du einen Tag auslässt",
   "notificationOff": "Benachrichtigungen aus",
   "notificationTime": "Benachrichtigungszeit",
   "notificationChannelName": "Lernerinnerung",
   "notificationChannelDesc": "Tägliche Lernerinnerungen",
   "notificationTitle": "Spanisch Leicht",
   "notificationBody": "Zeit, mit dem Lernen zu beginnen!",
-
   "language": "Sprache",
   "selectLanguage": "Sprache wählen",
   "languageSystem": "Systemstandard",
-
   "soundAndVibration": "Ton & Vibration",
   "soundEffects": "Soundeffekte",
   "soundEffectsDesc": "Ton bei richtiger/falscher Antwort abspielen",
   "vibration": "Vibration",
   "vibrationDesc": "Vibration bei richtiger/falscher Antwort",
-
   "ttsSettings": "Spracheinstellungen",
   "ttsAutoPlay": "Automatische Wiedergabe",
   "ttsAutoPlayDesc": "Spanisch automatisch aussprechen bei richtiger Antwort",
@@ -141,7 +123,6 @@
   "ttsSpeedNormal": "Normal",
   "ttsSpeedFast": "Schnell",
   "ttsTestPlay": "Vorschau",
-
   "showHint": "Hinweis anzeigen",
   "nextQuestion": "Nächste Frage",
   "keyPoints": "Wichtige Punkte",
@@ -153,10 +134,11 @@
   "continueReviewWithCount": "Weiter wiederholen ({count} übrig)",
   "@continueReviewWithCount": {
     "placeholders": {
-      "count": {"type": "int"}
+      "count": {
+        "type": "int"
+      }
     }
   },
-
   "totalStudied": "Gesamt gelernt",
   "accuracyRate": "Erfolgsrate",
   "studyDays": "Lerntage",
@@ -169,13 +151,11 @@
   "minutes": "{count} Min.",
   "selectDailyGoal": "Tagesziel wählen",
   "selectTargetLevel": "Zielniveau wählen",
-
   "notificationMsg1": "Dein Spanisch wartet auf dich! Bereit für einen weiteren Schritt heute?",
   "notificationMsg2": "Erinnerst du dich an das Gelernte von gestern? Wiederholen hilft beim Merken!",
   "notificationMsg3": "Jeden Tag ein bisschen! Starte deine Spanischlektion heute.",
   "notificationMsg4": "¡Hola! Wir haben dich vermisst. Lass uns heute zusammen Spanisch lernen!",
   "notificationMsg5": "Brich deine Serie nicht ab! Fang jetzt gleich an zu lernen.",
-
   "howManyTopics": "Wie viele Themen pro Tag?",
   "oneTopic": "1 Thema",
   "twoTopics": "2 Themen",
@@ -183,16 +163,20 @@
   "lightStart": "Leichter Start",
   "moderateAmount": "Moderate Menge",
   "intensiveStudy": "Intensives Lernen",
-
   "topicList": "Themenübersicht",
   "notStudiedYet": "Noch nicht gelernt",
   "studiedLabel": "Gelernt",
   "topicCount": "{count} Themen",
-  "@topicCount": { "placeholders": { "count": {"type": "int"} } },
-
+  "@topicCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
   "speakingPractice": "Sprechübung",
   "speakingTest": "Sprechtest",
-"speakingBrowseAll": "Alle durchsuchen",
+  "speakingBrowseAll": "Alle durchsuchen",
   "speakingFeatureDesc": "Übe und teste Dutzende Variationen aus einem Satz: Subjekt ändern, verneinen, fragen, Wörter tauschen.",
   "practice": "Üben",
   "test": "Test",
@@ -215,7 +199,6 @@
   "averageAccuracy": "Durchschnittliche Genauigkeit {percent}",
   "testPassed": "🎉 Bestanden!",
   "testFailed": "Knapp daneben. Versuch es nochmal!",
-  "goHome": "Zum Start",
   "sayInSpanishHint": "Anschauen und auf Spanisch sagen",
   "variationBase": "Basissatz",
   "variationSubject": "Subjekt · {subject}",
@@ -238,5 +221,6 @@
   "quizListenPrompt": "Hör zu und wähle das fehlende Wort",
   "quizTypePrompt": "Schreib das fehlende Wort",
   "quizCheck": "Prüfen",
-  "quizSayIt": "Sag jetzt den ganzen Satz"
+  "quizSayIt": "Sag jetzt den ganzen Satz",
+  "badgeNew": "NEU"
 }

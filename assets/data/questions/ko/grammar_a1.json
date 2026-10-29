@@ -259,14 +259,14 @@
     "hint": null
   },
   "q_gram_a1_03_004": {
-    "question": "Soy ___. (Yo soy maestro.) (알맞은 답을 고르세요)",
+    "question": "Soy ___. (저는 선생님입니다.)",
     "correct": "profesor",
     "wrong": [
       "un profesor",
       "el profesor",
       "una profesora"
     ],
-    "explanation": "스페인어에서는 ser 뒤에 직업이 올 때 부정관사를 생략합니다.\n- Soy profesor. (맞음)\n- Soy un profesor. (형용사나 보충어가 없으면 표준 스페인어에서는 틀림)\n이 규칙은 국적에도 적용됩니다: Soy español.",
+    "explanation": "스페인어에서는 ser 뒤에 수식어 없는 직업이 오면 보통 부정관사를 생략합니다.\n- Soy profesor. (맞음)\n- Soy un profesor muy bueno. (형용사나 수식어가 붙으면 관사를 씁니다)\n이 규칙은 국적에도 적용됩니다: Soy español.",
     "conjugation_info": "Ser + 직업: 관사 불필요. Soy profesor, Soy estudiante, Soy medico.",
     "hint": null
   },
@@ -282,14 +282,14 @@
     "hint": "ciudad는 여성 명사입니다"
   },
   "q_gram_a1_03_006": {
-    "question": "no hay ___. (거기에는 문제가 없어요.)",
+    "question": "No hay ___. (문제가 없어요.)",
     "correct": "problema",
     "wrong": [
       "un problema",
       "el problema",
-      "problemas"
+      "unos problemas"
     ],
-    "explanation": "부정문 'no hay' 뒤에서는 부정관사를 생략합니다.\n- no hay problema. (맞음)\n- no hay azúcar. (설탕이 없어요.)\n관사는 부정 존재문에서 생략됩니다.",
+    "explanation": "부정문 'no hay' 뒤에서는 부정관사를 생략합니다.\n- No hay problema. (맞음)\n- No hay azúcar. (설탕이 없어요.)\n관사는 부정 존재문에서 생략됩니다.",
     "conjugation_info": "부정관사 생략: sin (없이), no hay (없다), ser 뒤의 직업에서 생략합니다.",
     "hint": null
   },
@@ -374,11 +374,11 @@
   },
   "q_gram_a1_04_004": {
     "question": "스페인어에서 '당신'(단수)의 공손한 표현은 무엇인가요?",
-    "correct": "usted(존칭 '당신')",
+    "correct": "usted",
     "wrong": [
-      "tú(친근한 '너')",
-      "vosotros(너희들)",
-      "nosotros(우리)"
+      "tú",
+      "vosotros",
+      "nosotros"
     ],
     "explanation": "'usted'는 낯선 사람, 어르신, 직장 등 공식적인 자리에서 쓰는 공손한 단수 '당신'입니다.\n- tú = 친근한 '너'\n- usted = 공손한 '당신' (3인칭 동사 형태를 씀)",
     "hint": null
@@ -429,7 +429,7 @@
     "hint": "이 대명사를 관사와 구별해 주는 악센트 표시에 주목하세요"
   },
   "q_gram_a1_04_009": {
-    "question": "¿___ es usted? – Soy Ana García.",
+    "question": "¿___ es usted? – Soy Ana García. (당신은 누구십니까?)",
     "correct": "Quién",
     "wrong": [
       "Dónde",
@@ -685,8 +685,8 @@
       "son",
       "están"
     ],
-    "explanation": "ser는 직업을 나타낼 때 사용합니다.\n- María es doctora. = 마리아는 의사이다.\n직업은 정체성의 일부이므로 일시적 상태가 아닙니다.",
-    "hint": "직업은 ser를 사용합니다 (estar 아님)"
+    "explanation": "직업에는 ser를 사용합니다.\n- María es doctora. = 마리아는 의사입니다.\n직업은 일시적인 상태가 아니라 정체성에 해당하는 특성입니다.",
+    "hint": "직업에는 estar가 아니라 ser를 사용합니다"
   },
   "q_gram_a1_07_002": {
     "question": "El hospital ___ en la calle Mayor.",
@@ -696,29 +696,31 @@
       "son",
       "están"
     ],
-    "explanation": "estar는 위치를 나타낼 때 사용합니다.\n- El hospital está en la calle Mayor. = 병원은 마요르 거리에 있다.\n영구적인 건물이라도 위치에는 항상 estar를 사용합니다.",
-    "hint": "위치에는 항상 어떤 동사를 사용할까요?"
+    "explanation": "장소, 사물, 사람의 위치를 말할 때는 estar를 사용합니다.\n- El hospital está en la calle Mayor. = 병원은 마요르 거리에 있습니다.\n- 행사는 예외로, ser를 사용합니다 (La fiesta es en mi casa).",
+    "hint": "장소, 사물, 사람의 위치를 말할 때는 어떤 동사를 쓸까요?"
   },
   "q_gram_a1_07_003": {
-    "question": "'ser aburrido'와 'estar aburrido'의 차이는 무엇인가요?",
-    "correct": "지루한 사람 vs 지루해하는 상태",
+    "question": "'ser aburrido'와 'estar aburrido'는 각각 무슨 뜻일까요?",
+    "correct": "지루하다(지루한 사람·것이다) vs 지루함을 느끼다(지루해하다)",
     "wrong": [
-      "지루해하는 상태 vs 지루한 사람",
+      "지루함을 느끼다(지루해하다) vs 지루하다(지루한 사람·것이다)",
       "둘 다 같은 뜻이다",
-      "피곤한 vs 피곤하게 하는"
+      "피곤하다 vs 피곤하게 만든다"
     ],
-    "explanation": "일부 형용사는 ser/estar에 따라 의미가 달라집니다.\n- ser aburrido = 지루한 사람이다 (특성)\n- estar aburrido = 지루해하고 있다 (기분)\n동사 선택에 따라 형용사의 의미가 변합니다."
+    "explanation": "일부 형용사는 ser와 estar에 따라 의미가 달라집니다.\n- ser aburrido = 지루하다 (특성)\n- estar aburrido = 지루해하다 (감정)\n어떤 동사를 쓰느냐에 따라 형용사의 의미가 바뀝니다.",
+    "hint": null
   },
   "q_gram_a1_07_004": {
-    "question": "La fiesta ___ en mi casa. (올바른 '~이다' 동사를 활용하세요)",
+    "question": "La fiesta ___ en mi casa. ('~이다/~있다'에 해당하는 알맞은 동사를 활용하세요)",
     "correct": "es",
     "wrong": [
       "está",
       "son",
       "están"
     ],
-    "explanation": "행사의 장소에는 estar가 아닌 'ser'를 사용합니다. 이것은 핵심 예외입니다!\n- La fiesta es en mi casa. = 파티는 우리 집에서 열린다.\n- 건물의 위치에는 estar 사용: El cine está en la calle.",
-    "conjugation_info": "행사(fiesta, concierto, reunión)의 장소에는 ser 사용: La fiesta es en..."
+    "explanation": "행사의 장소를 말할 때는 estar가 아니라 'ser'를 사용합니다. 중요한 예외입니다!\n- La fiesta es en mi casa. = 파티는 우리 집에서 열립니다.\n- 건물에는 estar를 씁니다: El cine está en la calle.",
+    "conjugation_info": "행사(fiesta, concierto, reunión)의 장소에는 ser 사용: La fiesta es en...",
+    "hint": null
   },
   "q_gram_a1_07_005": {
     "question": "Pedro ___ listo para el examen.",
@@ -728,19 +730,20 @@
       "son",
       "están"
     ],
-    "explanation": "'estar listo' = 준비가 되어 있다 (일시적 상태).\n- Pedro está listo = 페드로는 준비가 되었다.\n- Pedro es listo = 페드로는 똑똑하다 (영구적 특성).\nser/estar에 따라 'listo'의 의미가 완전히 달라집니다.",
-    "hint": "페드로가 똑똑한 건가요, 준비가 된 건가요?"
+    "explanation": "'estar listo' = 준비되어 있다 (일시적인 상태).\n- Pedro está listo = 페드로는 준비가 되어 있다.\n- Pedro es listo = 페드로는 똑똑하다 (변하지 않는 성격).\n'listo'는 ser/estar에 따라 의미가 완전히 달라집니다.",
+    "hint": "페드로가 똑똑한 걸까요, 준비가 된 걸까요?"
   },
   "q_gram_a1_07_006": {
-    "question": "El edificio ___ muy alto. (특성을 나타내는 올바른 동사를 활용하세요)",
+    "question": "El edificio ___ muy alto. (특성을 나타내는 알맞은 동사를 활용하세요)",
     "correct": "es",
     "wrong": [
       "está",
       "estoy",
       "son"
     ],
-    "explanation": "ser는 본질적인 물리적 특성을 나타낼 때 사용합니다.\n- El edificio es alto. = 그 건물은 높다.\n높이는 건물의 영구적인 특성입니다.",
-    "conjugation_info": "ser = 영구적 특성: Es alto, es grande, es bonito. Estar = 일시적 상태."
+    "explanation": "본래의 신체적·외형적 특성에는 ser를 사용합니다.\n- El edificio es alto. = 그 건물은 높습니다.\n높이는 건물의 변하지 않는 특성입니다.",
+    "conjugation_info": "ser = 영구적 특성: Es alto, es grande, es bonito. Estar = 일시적 상태.",
+    "hint": null
   },
   "q_gram_a1_07_007": {
     "question": "Hoy yo ___ muy contento.",
@@ -750,39 +753,41 @@
       "es",
       "está"
     ],
-    "explanation": "estar는 감정과 기분을 나타낼 때 사용합니다.\n- Estoy contento = 나는 기분이 좋다 (지금 느끼는 감정).\n감정은 변할 수 있는 일시적 상태입니다.",
-    "hint": "감정과 기분에는 estar를 사용합니다"
+    "explanation": "감정과 기분에는 estar를 사용합니다.\n- Estoy contento = 나는 기쁘다 (지금 느끼는 기분).\n감정은 변할 수 있는 일시적인 상태입니다.",
+    "hint": "감정과 기분에는 estar를 씁니다"
   },
   "q_gram_a1_07_008": {
-    "question": "그녀는 멕시코 출신이다.",
+    "question": "그녀는 멕시코 출신입니다.",
     "correct": "Ella es de México.",
     "wrong": [
       "Ella está de México.",
       "Ella es en México.",
       "Ella está en México."
     ],
-    "explanation": "ser + de = 출신/출생지를 나타냅니다.\n- Ella es de México = 그녀는 멕시코 출신이다 (출신, 영구적).\n- Ella está en México = 그녀는 멕시코에 있다 (위치, 일시적일 수 있음)."
+    "explanation": "Ser + de = 출신 / 어디에서 왔는지.\n- Ella es de México = 그녀는 멕시코 출신입니다 (출신, 변하지 않음).\n- Ella está en México = 그녀는 멕시코에 있습니다 (위치, 일시적일 수 있음).",
+    "hint": null
   },
   "q_gram_a1_07_009": {
-    "question": "La manzana ___ verde. (사과가 아직 익지 않았다.)",
+    "question": "La manzana ___ verde. (사과가 녹색이다 — 아직 익지 않았다.)",
     "correct": "está",
     "wrong": [
       "es",
       "son",
       "están"
     ],
-    "explanation": "색깔과 함께 estar를 사용하면 일시적/변할 수 있는 상태를 의미합니다 (덜 익은 → 익어갈 것).\n- La manzana está verde = 사과가 덜 익었다 (일시적).\n- La manzana es verde = 사과가 원래 초록색이다 (품종 특성).",
-    "conjugation_info": "ser verde = 본래 초록색. estar verde = 덜 익은/준비 안 된."
+    "explanation": "색깔과 함께 쓰는 estar는 일시적으로 변할 수 있는 상태를 뜻합니다 (덜 익음 → 익게 됨).\n- La manzana está verde = 사과가 푸르다 (아직 익지 않음, 일시적).\n- La manzana es verde = 사과가 녹색이다 (본래 품종이 그러함).",
+    "conjugation_info": "ser verde = 본래 초록색. estar verde = 덜 익은/준비 안 된.",
+    "hint": null
   },
   "q_gram_a1_07_010": {
-    "question": "책은 탁자 위에 있다.",
+    "question": "책은 탁자 위에 있습니다.",
     "correct": "El libro está en la mesa.",
     "wrong": [
       "El libro es en la mesa.",
       "El libro está la mesa.",
       "El libro es la mesa."
     ],
-    "explanation": "사물의 위치를 말할 때는 estar를 씁니다.\n- El libro está en la mesa. = 책은 탁자 위에 있다.\n기억하세요: 사물과 사람의 위치에는 항상 estar를 씁니다.",
+    "explanation": "사물의 위치를 말할 때는 estar를 사용합니다.\n- El libro está en la mesa. = 책은 탁자 위에 있습니다.\n기억하세요: 사물과 사람의 위치에는 항상 estar를 씁니다.",
     "hint": null
   },
   "q_gram_a1_08_001": {

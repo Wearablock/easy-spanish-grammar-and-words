@@ -324,7 +324,8 @@ class AppLocalizationsAr extends AppLocalizations {
   String get studyNotification => 'تذكير الدراسة';
 
   @override
-  String get dailyNotification => 'تذكير بالدراسة عند عدم الدخول لأكثر من يوم';
+  String get dailyNotification =>
+      'تذكير يومي في الوقت الذي تختاره، وتذكير آخر إذا فاتك يوم';
 
   @override
   String get notificationOff => 'الإشعارات معطلة';
@@ -684,4 +685,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get quizSayIt => 'الآن قل الجملة كاملة';
+
+  @override
+  String get badgeNew => 'جديد';
 }

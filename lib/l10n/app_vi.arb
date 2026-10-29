@@ -2,18 +2,14 @@
   "@@locale": "vi",
   "appTitle": "Học Tây Ban Nha",
   "appFullTitle": "Học Tây Ban Nha - Ngữ Pháp",
-
   "home": "Trang chủ",
   "progress": "Tiến trình",
   "settings": "Cài đặt",
   "wrongAnswers": "Câu sai",
-
   "error": "Lỗi: {message}",
-
   "startStudy": "Bắt đầu học",
   "continueStudy": "Tiếp tục học",
   "startReview": "Ôn tập",
-
   "todayStudy": "Học hôm nay",
   "allTopicsCompleted": "Đã hoàn thành tất cả chủ đề!",
   "reviewEncouragement": "Tiếp tục ôn tập để nắm vững nội dung.",
@@ -23,13 +19,11 @@
   "todayGoal": "Mục tiêu hôm nay",
   "topicsProgress": "{studied}/{goal} chủ đề",
   "streakDays": "Học liên tục {days} ngày!",
-
   "overallProgress": "Tiến trình chung",
   "mastered": "Đã thành thạo",
   "studiedOnce": "Đã học ít nhất 1 lần",
   "totalQuestions": "Tổng {count} câu",
   "questionsMastered": "Thành thạo {count} / {total} câu",
-
   "study": "Học",
   "notifications": "Thông báo",
   "appSettings": "Cài đặt ứng dụng",
@@ -56,10 +50,9 @@
   "themeSystem": "Theo hệ thống",
   "themeLight": "Chế độ sáng",
   "themeDark": "Chế độ tối",
-
   "studyComplete": "Hoàn thành học",
   "goodJob": "Tốt lắm!",
-  "goHome": "Về trang chủ",
+  "goHome": "Trang chủ",
   "accuracy": "Độ chính xác",
   "correct": "Đúng",
   "wrong": "Sai",
@@ -67,24 +60,19 @@
   "wrongReview": "Ôn lại câu sai",
   "spacedReview": "Ôn tập giãn cách",
   "newLearning": "Học mới",
-
   "errorOccurred": "Đã xảy ra lỗi",
   "retry": "Thử lại",
   "stopStudy": "Dừng học",
   "stopStudyConfirm": "Bạn muốn dừng học?\nTiến trình sẽ được lưu.",
   "continueStudyButton": "Tiếp tục",
   "stop": "Dừng",
-
   "levelProgress": "Tiến trình theo cấp độ",
-
   "reviewAvailable": "Có câu cần ôn tập!",
   "reviewWaiting": "{count} câu đang chờ ôn tập",
-
   "welcome": "Chào mừng!",
   "selectLevel": "Chọn cấp độ mục tiêu",
   "canChangeInSettings": "Có thể thay đổi sau trong cài đặt",
   "start": "Bắt đầu",
-
   "levelTarget": "Cấp độ mục tiêu",
   "levelNameA1": "Sơ cấp",
   "levelNameA2": "Cơ bản",
@@ -95,14 +83,12 @@
   "grammar": "Ngữ pháp",
   "vocabulary": "Từ vựng",
   "grammarAndVocabulary": "Ngữ pháp & Từ vựng",
-
   "noWrongAnswers": "Không có câu sai!",
   "noWrongAnswersDesc": "Bạn đang làm rất tốt!\nHãy tiếp tục phát huy!",
   "wrongCount": "Sai {count} lần",
   "correctAnswer": "Đáp án đúng",
   "yourAnswer": "Câu trả lời của bạn",
   "explanation": "Giải thích",
-
   "premium": "Premium",
   "removeAds": "Xóa quảng cáo",
   "premiumActivated": "Đã kích hoạt Premium",
@@ -111,26 +97,22 @@
   "purchaseFailed": "Mua hàng thất bại",
   "purchasesRestored": "Đã khôi phục giao dịch mua",
   "productNotAvailable": "Không thể tải sản phẩm",
-
   "studyNotification": "Nhắc nhở học",
-  "dailyNotification": "Nhắc nhở học tập khi không truy cập hơn 1 ngày",
+  "dailyNotification": "Nhắc mỗi ngày vào giờ bạn chọn, và thêm một lần nếu bạn bỏ lỡ một ngày",
   "notificationOff": "Tắt thông báo",
   "notificationTime": "Thời gian thông báo",
   "notificationChannelName": "Nhắc nhở học",
   "notificationChannelDesc": "Nhắc nhở học hàng ngày",
   "notificationTitle": "Học Tây Ban Nha",
   "notificationBody": "Đến giờ bắt đầu học rồi!",
-
   "language": "Ngôn ngữ",
   "selectLanguage": "Chọn ngôn ngữ",
   "languageSystem": "Theo hệ thống",
-
   "soundAndVibration": "Âm thanh & rung",
   "soundEffects": "Hiệu ứng âm thanh",
   "soundEffectsDesc": "Phát âm thanh khi đúng/sai",
   "vibration": "Rung",
   "vibrationDesc": "Rung khi đúng/sai",
-
   "ttsSettings": "Cài đặt giọng nói",
   "ttsAutoPlay": "Tự động phát",
   "ttsAutoPlayDesc": "Tự động phát âm tiếng Tây Ban Nha khi đúng",
@@ -141,7 +123,6 @@
   "ttsSpeedNormal": "Bình thường",
   "ttsSpeedFast": "Nhanh",
   "ttsTestPlay": "Nghe thử",
-
   "showHint": "Xem gợi ý",
   "nextQuestion": "Câu tiếp theo",
   "keyPoints": "Điểm chính",
@@ -153,10 +134,11 @@
   "continueReviewWithCount": "Tiếp tục ôn tập (còn {count} câu)",
   "@continueReviewWithCount": {
     "placeholders": {
-      "count": {"type": "int"}
+      "count": {
+        "type": "int"
+      }
     }
   },
-
   "totalStudied": "Tổng đã học",
   "accuracyRate": "Tỉ lệ đúng",
   "studyDays": "Số ngày học",
@@ -169,13 +151,11 @@
   "minutes": "{count} phút",
   "selectDailyGoal": "Chọn mục tiêu hàng ngày",
   "selectTargetLevel": "Chọn cấp độ mục tiêu",
-
   "notificationMsg1": "Tiếng Tây Ban Nha đang chờ bạn! Sẵn sàng tiến thêm một bước hôm nay?",
   "notificationMsg2": "Bạn còn nhớ bài học hôm qua không? Ôn tập giúp nhớ lâu hơn!",
   "notificationMsg3": "Mỗi ngày một chút! Bắt đầu bài học tiếng Tây Ban Nha hôm nay.",
   "notificationMsg4": "¡Hola! Chúng tôi nhớ bạn. Hãy cùng học tiếng Tây Ban Nha hôm nay!",
   "notificationMsg5": "Đừng để chuỗi ngày học bị gián đoạn! Bắt đầu ngay bây giờ.",
-
   "howManyTopics": "Mỗi ngày học bao nhiêu chủ đề?",
   "oneTopic": "1 chủ đề",
   "twoTopics": "2 chủ đề",
@@ -183,16 +163,20 @@
   "lightStart": "Bắt đầu nhẹ nhàng",
   "moderateAmount": "Lượng vừa phải",
   "intensiveStudy": "Học tập chuyên sâu",
-
   "topicList": "Danh sách chủ đề",
   "notStudiedYet": "Chưa học",
   "studiedLabel": "Đã học",
   "topicCount": "{count} chủ đề",
-  "@topicCount": { "placeholders": { "count": {"type": "int"} } },
-
+  "@topicCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
   "speakingPractice": "Luyện Nói",
   "speakingTest": "Kiểm Tra Nói",
-"speakingBrowseAll": "Xem tất cả",
+  "speakingBrowseAll": "Xem tất cả",
   "speakingFeatureDesc": "Luyện và kiểm tra hàng chục biến thể từ một câu: đổi chủ ngữ, phủ định, câu hỏi, đổi từ.",
   "practice": "Luyện",
   "test": "Kiểm tra",
@@ -215,7 +199,6 @@
   "averageAccuracy": "Độ chính xác trung bình {percent}",
   "testPassed": "🎉 Đạt!",
   "testFailed": "Suýt rồi. Thử lại nhé!",
-  "goHome": "Trang chủ",
   "sayInSpanishHint": "Xem và nói bằng tiếng Tây Ban Nha",
   "variationBase": "Câu gốc",
   "variationSubject": "Chủ ngữ · {subject}",
@@ -238,5 +221,6 @@
   "quizListenPrompt": "Nghe và chọn từ còn thiếu",
   "quizTypePrompt": "Gõ từ còn thiếu",
   "quizCheck": "Kiểm tra",
-  "quizSayIt": "Giờ hãy nói cả câu"
+  "quizSayIt": "Giờ hãy nói cả câu",
+  "badgeNew": "MỚI"
 }

@@ -259,14 +259,14 @@
     "hint": null
   },
   "q_gram_a1_03_004": {
-    "question": "Soy ___. (Yo soy maestro.) (適切な答えを選んでください)",
+    "question": "Soy ___. (私は教師です。)",
     "correct": "profesor",
     "wrong": [
       "un profesor",
       "el profesor",
       "una profesora"
     ],
-    "explanation": "スペイン語では、ser の後に職業を言うとき、不定冠詞を省略します。\n- Soy profesor.(正しい)\n- Soy un profesor.(形容詞や補足語がない標準的なスペイン語では誤り)\nこの規則は国籍にも当てはまります: Soy español.",
+    "explanation": "スペイン語では、ser の後に修飾語のない職業を言うとき、不定冠詞は通常省略します。\n- Soy profesor.(正しい)\n- Soy un profesor muy bueno.(形容詞や修飾語がつく場合は冠詞を使います)\nこの規則は国籍にも当てはまります: Soy español.",
     "conjugation_info": "ser + 職業: 冠詞不要。Soy profesor, Soy estudiante, Soy médico.",
     "hint": null
   },
@@ -282,14 +282,14 @@
     "hint": "ciudad は女性名詞です"
   },
   "q_gram_a1_03_006": {
-    "question": "no hay ___. (Allí is sin problema.)",
+    "question": "No hay ___. (問題はありません。)",
     "correct": "problema",
     "wrong": [
       "un problema",
       "el problema",
-      "problemas"
+      "unos problemas"
     ],
-    "explanation": "否定の 'no hay' の後では、不定冠詞を省略します。\n- no hay problema.(正しい)\n- no hay azúcar.(砂糖はありません。)\n否定の存在文では冠詞が省略されます。",
+    "explanation": "否定の 'no hay' の後では、不定冠詞を省略します。\n- No hay problema.(正しい)\n- No hay azúcar.(砂糖はありません。)\n否定の存在文では冠詞が省略されます。",
     "conjugation_info": "不定冠詞省略: sin（なしで）、no hay（ない）、serの後の職業で省略します。",
     "hint": null
   },
@@ -429,7 +429,7 @@
     "hint": "この代名詞を冠詞と区別するアクセント記号に注目しましょう"
   },
   "q_gram_a1_04_009": {
-    "question": "¿___ es usted? – Soy Ana García.",
+    "question": "¿___ es usted? – Soy Ana García. (あなたはどなたですか?)",
     "correct": "Quién",
     "wrong": [
       "Dónde",
@@ -685,8 +685,8 @@
       "son",
       "están"
     ],
-    "explanation": "serは職業を表すときに使います。\n- María es doctora. = マリアは医者だ。\n職業はアイデンティティの一部であり、一時的な状態ではありません。",
-    "hint": "職業はserを使います（estarではなく）"
+    "explanation": "職業を表すときはserを使います。\n- María es doctora. = マリアは医者です。\n職業は一時的な状態ではなく、その人のアイデンティティを表す特徴です。",
+    "hint": "職業にはestarではなくserを使う"
   },
   "q_gram_a1_07_002": {
     "question": "El hospital ___ en la calle Mayor.",
@@ -696,29 +696,31 @@
       "son",
       "están"
     ],
-    "explanation": "estarは場所を表すときに使います。\n- El hospital está en la calle Mayor. = 病院はマヨール通りにある。\n永久的な建物でも場所には常にestarを使います。",
-    "hint": "場所には常にどの動詞を使いますか？"
+    "explanation": "場所・物・人の所在を表すときはestarを使います。\n- El hospital está en la calle Mayor. = その病院はマヨール通りにあります。\n- 例外はイベントで、この場合はserを使います(La fiesta es en mi casa)。",
+    "hint": "場所・物・人の所在を表すときに使う動詞はどれ?"
   },
   "q_gram_a1_07_003": {
-    "question": "'ser aburrido'と'estar aburrido'の違いは何ですか？",
-    "correct": "退屈な人 vs 退屈している状態",
+    "question": "'ser aburrido'と'estar aburrido'の意味の違いは何ですか?",
+    "correct": "退屈な(つまらない)人・物である vs 退屈している",
     "wrong": [
-      "退屈している状態 vs 退屈な人",
-      "どちらも同じ意味",
-      "疲れている vs 疲れさせる"
+      "退屈している vs 退屈な(つまらない)人・物である",
+      "どちらも同じ意味である",
+      "疲れている vs 疲れさせる(疲れるような)"
     ],
-    "explanation": "一部の形容詞はser/estarによって意味が変わります。\n- ser aburrido = 退屈な人だ（特性）\n- estar aburrido = 退屈している（気分）\n動詞の選択で形容詞の意味が変わります。"
+    "explanation": "形容詞によっては、serとestarのどちらを使うかで意味が変わります。\n- ser aburrido = 退屈な・つまらない(特徴)\n- estar aburrido = 退屈している(気持ち)\n動詞の選び方によって形容詞の意味が変わります。",
+    "hint": null
   },
   "q_gram_a1_07_004": {
-    "question": "La fiesta ___ en mi casa.（正しい「〜である」動詞を活用してください）",
+    "question": "La fiesta ___ en mi casa. (「~である」にあたる正しい動詞を活用させましょう)",
     "correct": "es",
     "wrong": [
       "está",
       "son",
       "están"
     ],
-    "explanation": "イベントの場所にはestarではなく'ser'を使います。これは重要な例外です！\n- La fiesta es en mi casa. = パーティーは私の家で行われる。\n- 建物の場所にはestar使用: El cine está en la calle.",
-    "conjugation_info": "イベント（fiesta, concierto, reunión）の場所にはser使用: La fiesta es en..."
+    "explanation": "イベントの開催場所にはestarではなく'ser'を使います。これは重要な例外です!\n- La fiesta es en mi casa. = パーティーは私の家で行われます。\n- 建物にはestarを使います: El cine está en la calle.",
+    "conjugation_info": "イベント（fiesta, concierto, reunión）の場所にはser使用: La fiesta es en...",
+    "hint": null
   },
   "q_gram_a1_07_005": {
     "question": "Pedro ___ listo para el examen.",
@@ -728,19 +730,20 @@
       "son",
       "están"
     ],
-    "explanation": "'estar listo' = 準備ができている（一時的な状態）。\n- Pedro está listo = ペドロは準備ができた。\n- Pedro es listo = ペドロは賢い（永久的な特性）。\nser/estarで'listo'の意味が完全に変わります。",
-    "hint": "ペドロは賢いのですか、準備ができたのですか？"
+    "explanation": "'estar listo' = 準備ができている(一時的な状態)。\n- Pedro está listo = ペドロは準備ができています。\n- Pedro es listo = ペドロは賢いです(変わらない特性)。\n'listo'はser/estarで意味がまったく変わります。",
+    "hint": "ペドロは賢いのか、それとも準備ができているのか?"
   },
   "q_gram_a1_07_006": {
-    "question": "El edificio ___ muy alto.（特性を表す正しい動詞を活用してください）",
+    "question": "El edificio ___ muy alto. (特徴を表す正しい動詞を活用させましょう)",
     "correct": "es",
     "wrong": [
       "está",
       "estoy",
       "son"
     ],
-    "explanation": "serは本質的な物理的特性を表すときに使います。\n- El edificio es alto. = その建物は高い。\n高さは建物の永久的な特性です。",
-    "conjugation_info": "ser = 永久的特性: Es alto, es grande, es bonito. Estar = 一時的状態。"
+    "explanation": "物の本来の外見的な特徴を表すときはserを使います。\n- El edificio es alto. = その建物は高いです。\n高さは建物の変わらない特徴です。",
+    "conjugation_info": "ser = 永久的特性: Es alto, es grande, es bonito. Estar = 一時的状態。",
+    "hint": null
   },
   "q_gram_a1_07_007": {
     "question": "Hoy yo ___ muy contento.",
@@ -750,29 +753,31 @@
       "es",
       "está"
     ],
-    "explanation": "estarは感情と気分を表すときに使います。\n- Estoy contento = 私は嬉しい（今の感情）。\n感情は変わりうる一時的な状態です。",
-    "hint": "感情や気分にはestarを使います"
+    "explanation": "感情や気持ちを表すときはestarを使います。\n- Estoy contento = 私は嬉しいです(今の気持ち)。\n感情は変わりうる一時的な状態です。",
+    "hint": "感情や気分にはestarを使う"
   },
   "q_gram_a1_07_008": {
-    "question": "彼女はメキシコ出身だ。",
+    "question": "彼女はメキシコ出身です。",
     "correct": "Ella es de México.",
     "wrong": [
       "Ella está de México.",
       "Ella es en México.",
       "Ella está en México."
     ],
-    "explanation": "ser + de = 出身/出生地を表します。\n- Ella es de México = 彼女はメキシコ出身だ（出身、永久的）。\n- Ella está en México = 彼女はメキシコにいる（場所、一時的かもしれない）。"
+    "explanation": "Ser + de = 出身(どこの出身か)。\n- Ella es de México = 彼女はメキシコ出身です(出身、変わらない)。\n- Ella está en México = 彼女はメキシコにいます(所在、一時的な場合もある)。",
+    "hint": null
   },
   "q_gram_a1_07_009": {
-    "question": "La manzana ___ verde.（りんごがまだ熟していない。）",
+    "question": "La manzana ___ verde. (リンゴは緑色です — まだ熟していません。)",
     "correct": "está",
     "wrong": [
       "es",
       "son",
       "están"
     ],
-    "explanation": "色と一緒にestarを使うと一時的/変わりうる状態を意味します（未熟→熟す）。\n- La manzana está verde = りんごがまだ熟していない（一時的）。\n- La manzana es verde = りんごは元々緑色だ（品種の特性）。",
-    "conjugation_info": "ser verde = 元々緑色。estar verde = 未熟/準備ができていない。"
+    "explanation": "色を表す場合、estarは一時的に変わりうる状態を表します(熟していない→これから熟す)。\n- La manzana está verde = リンゴは緑色です(まだ熟していない、一時的)。\n- La manzana es verde = リンゴは緑色です(本来そういう色、品種)。",
+    "conjugation_info": "ser verde = 元々緑色。estar verde = 未熟/準備ができていない。",
+    "hint": null
   },
   "q_gram_a1_07_010": {
     "question": "本はテーブルの上にあります。",
@@ -782,7 +787,7 @@
       "El libro está la mesa.",
       "El libro es la mesa."
     ],
-    "explanation": "物の位置には estar を使います。\n- El libro está en la mesa. = 本はテーブルの上にあります。\n覚えておきましょう:物や人の位置には常に estar を使います。",
+    "explanation": "物の所在を表すときはestarを使います。\n- El libro está en la mesa. = 本はテーブルの上にあります。\n覚えておきましょう:物や人の所在には常にestarを使います。",
     "hint": null
   },
   "q_gram_a1_08_001": {

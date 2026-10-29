@@ -2,18 +2,14 @@
   "@@locale": "th",
   "appTitle": "สเปนง่ายๆ",
   "appFullTitle": "สเปนง่ายๆ - ไวยากรณ์และคำศัพท์",
-
   "home": "หน้าหลัก",
   "progress": "ความคืบหน้า",
   "settings": "ตั้งค่า",
   "wrongAnswers": "ข้อผิดพลาด",
-
   "error": "ข้อผิดพลาด: {message}",
-
   "startStudy": "เริ่มเรียน",
   "continueStudy": "เรียนต่อ",
   "startReview": "ทบทวน",
-
   "todayStudy": "การเรียนวันนี้",
   "allTopicsCompleted": "เรียนครบทุกหัวข้อแล้ว!",
   "reviewEncouragement": "ทบทวนต่อเพื่อเชี่ยวชาญเนื้อหา",
@@ -23,13 +19,11 @@
   "todayGoal": "เป้าหมายวันนี้",
   "topicsProgress": "{studied}/{goal} หัวข้อ",
   "streakDays": "เรียนติดต่อกัน {days} วัน!",
-
   "overallProgress": "ความคืบหน้าโดยรวม",
   "mastered": "เชี่ยวชาญ",
   "studiedOnce": "เรียนแล้วอย่างน้อย 1 ครั้ง",
   "totalQuestions": "ทั้งหมด {count} ข้อ",
   "questionsMastered": "เชี่ยวชาญ {count} / {total} ข้อ",
-
   "study": "เรียน",
   "notifications": "การแจ้งเตือน",
   "appSettings": "ตั้งค่าแอป",
@@ -56,10 +50,9 @@
   "themeSystem": "ตามระบบ",
   "themeLight": "โหมดสว่าง",
   "themeDark": "โหมดมืด",
-
   "studyComplete": "เรียนเสร็จแล้ว",
   "goodJob": "ดีมาก!",
-  "goHome": "กลับหน้าหลัก",
+  "goHome": "หน้าหลัก",
   "accuracy": "ความแม่นยำ",
   "correct": "ถูก",
   "wrong": "ผิด",
@@ -67,24 +60,19 @@
   "wrongReview": "ทบทวนข้อผิด",
   "spacedReview": "ทบทวนแบบเว้นระยะ",
   "newLearning": "เรียนรู้ใหม่",
-
   "errorOccurred": "เกิดข้อผิดพลาด",
   "retry": "ลองอีกครั้ง",
   "stopStudy": "หยุดเรียน",
   "stopStudyConfirm": "ต้องการหยุดเรียนหรือไม่?\nความคืบหน้าจะถูกบันทึก",
   "continueStudyButton": "เรียนต่อ",
   "stop": "หยุด",
-
   "levelProgress": "ความคืบหน้าตามระดับ",
-
   "reviewAvailable": "มีข้อที่ต้องทบทวน!",
   "reviewWaiting": "{count} ข้อรอทบทวน",
-
   "welcome": "ยินดีต้อนรับ!",
   "selectLevel": "เลือกระดับเป้าหมาย",
   "canChangeInSettings": "เปลี่ยนได้ภายหลังในตั้งค่า",
   "start": "เริ่มต้น",
-
   "levelTarget": "ระดับเป้าหมาย",
   "levelNameA1": "เริ่มต้น",
   "levelNameA2": "พื้นฐาน",
@@ -95,14 +83,12 @@
   "grammar": "ไวยากรณ์",
   "vocabulary": "คำศัพท์",
   "grammarAndVocabulary": "ไวยากรณ์และคำศัพท์",
-
   "noWrongAnswers": "ไม่มีข้อผิด!",
   "noWrongAnswersDesc": "คุณทำได้ดีมาก!\nเก่งมาก สู้ต่อไป!",
   "wrongCount": "ผิด {count} ครั้ง",
   "correctAnswer": "คำตอบที่ถูก",
   "yourAnswer": "คำตอบของคุณ",
   "explanation": "คำอธิบาย",
-
   "premium": "พรีเมียม",
   "removeAds": "ลบโฆษณา",
   "premiumActivated": "เปิดใช้งานพรีเมียมแล้ว",
@@ -111,26 +97,22 @@
   "purchaseFailed": "การซื้อล้มเหลว",
   "purchasesRestored": "กู้คืนการซื้อแล้ว",
   "productNotAvailable": "ไม่สามารถโหลดสินค้าได้",
-
   "studyNotification": "แจ้งเตือนการเรียน",
-  "dailyNotification": "แจ้งเตือนเรียนเมื่อไม่เข้าแอปเกิน 1 วัน",
+  "dailyNotification": "แจ้งเตือนทุกวันตามเวลาที่ตั้งไว้ และอีกครั้งถ้าคุณข้ามไปหนึ่งวัน",
   "notificationOff": "ปิดการแจ้งเตือน",
   "notificationTime": "เวลาแจ้งเตือน",
   "notificationChannelName": "แจ้งเตือนการเรียน",
   "notificationChannelDesc": "แจ้งเตือนเวลาเรียนรายวัน",
   "notificationTitle": "สเปนง่ายๆ",
   "notificationBody": "ถึงเวลาเริ่มเรียนแล้ว!",
-
   "language": "ภาษา",
   "selectLanguage": "เลือกภาษา",
   "languageSystem": "ตามระบบ",
-
   "soundAndVibration": "เสียงและการสั่น",
   "soundEffects": "เอฟเฟกต์เสียง",
   "soundEffectsDesc": "เล่นเสียงเมื่อตอบถูก/ผิด",
   "vibration": "การสั่น",
   "vibrationDesc": "สั่นเมื่อตอบถูก/ผิด",
-
   "ttsSettings": "ตั้งค่าเสียง",
   "ttsAutoPlay": "เล่นอัตโนมัติ",
   "ttsAutoPlayDesc": "ออกเสียงสเปนอัตโนมัติเมื่อตอบถูก",
@@ -141,7 +123,6 @@
   "ttsSpeedNormal": "ปกติ",
   "ttsSpeedFast": "เร็ว",
   "ttsTestPlay": "ฟังตัวอย่าง",
-
   "showHint": "ดูคำใบ้",
   "nextQuestion": "คำถามถัดไป",
   "keyPoints": "ประเด็นสำคัญ",
@@ -153,10 +134,11 @@
   "continueReviewWithCount": "ทบทวนต่อ (เหลือ {count} ข้อ)",
   "@continueReviewWithCount": {
     "placeholders": {
-      "count": {"type": "int"}
+      "count": {
+        "type": "int"
+      }
     }
   },
-
   "totalStudied": "เรียนทั้งหมด",
   "accuracyRate": "อัตราความถูกต้อง",
   "studyDays": "จำนวนวันเรียน",
@@ -169,13 +151,11 @@
   "minutes": "{count} นาที",
   "selectDailyGoal": "เลือกเป้าหมายรายวัน",
   "selectTargetLevel": "เลือกระดับเป้าหมาย",
-
   "notificationMsg1": "ภาษาสเปนกำลังรอคุณอยู่! พร้อมก้าวหน้าอีกขั้นวันนี้ไหม?",
   "notificationMsg2": "จำสิ่งที่เรียนเมื่อวานได้ไหม? ทบทวนช่วยให้จำได้นานขึ้น!",
   "notificationMsg3": "ทีละนิดทุกวัน! เริ่มเรียนภาษาสเปนวันนี้เลย",
   "notificationMsg4": "¡Hola! คิดถึงคุณนะ มาเรียนภาษาสเปนด้วยกันวันนี้!",
   "notificationMsg5": "อย่าให้สถิติการเรียนต่อเนื่องขาด! เริ่มเรียนตอนนี้เลย",
-
   "howManyTopics": "วันละกี่หัวข้อ?",
   "oneTopic": "1 หัวข้อ",
   "twoTopics": "2 หัวข้อ",
@@ -183,16 +163,20 @@
   "lightStart": "เริ่มต้นเบาๆ",
   "moderateAmount": "ปริมาณพอดี",
   "intensiveStudy": "เรียนเข้มข้น",
-
   "topicList": "รายการหัวข้อ",
   "notStudiedYet": "ยังไม่ได้เรียน",
   "studiedLabel": "เรียนแล้ว",
   "topicCount": "{count} หัวข้อ",
-  "@topicCount": { "placeholders": { "count": {"type": "int"} } },
-
+  "@topicCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
   "speakingPractice": "ฝึกพูด",
   "speakingTest": "ทดสอบการพูด",
-"speakingBrowseAll": "ดูทั้งหมด",
+  "speakingBrowseAll": "ดูทั้งหมด",
   "speakingFeatureDesc": "ฝึกและทดสอบการพูดประโยคหลายสิบรูปแบบจากประโยคเดียว: เปลี่ยนประธาน ปฏิเสธ คำถาม สลับคำ",
   "practice": "ฝึก",
   "test": "ทดสอบ",
@@ -215,7 +199,6 @@
   "averageAccuracy": "ความแม่นยำเฉลี่ย {percent}",
   "testPassed": "🎉 ผ่าน!",
   "testFailed": "เกือบแล้ว ลองอีกครั้ง!",
-  "goHome": "หน้าหลัก",
   "sayInSpanishHint": "ดูแล้วพูดเป็นภาษาสเปน",
   "variationBase": "ประโยคพื้นฐาน",
   "variationSubject": "ประธาน · {subject}",
@@ -238,5 +221,6 @@
   "quizListenPrompt": "ฟังแล้วเลือกคำที่หายไป",
   "quizTypePrompt": "พิมพ์คำที่หายไป",
   "quizCheck": "ตรวจ",
-  "quizSayIt": "ลองพูดทั้งประโยค"
+  "quizSayIt": "ลองพูดทั้งประโยค",
+  "badgeNew": "ใหม่"
 }

@@ -327,7 +327,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get dailyNotification =>
-      'Напоминание об учёбе при отсутствии более суток';
+      'Ежедневное напоминание в ваше время и ещё одно, если пропустите день';
 
   @override
   String get notificationOff => 'Уведомления выключены';
@@ -689,4 +689,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get quizSayIt => 'Теперь произнесите всё предложение';
+
+  @override
+  String get badgeNew => 'НОВОЕ';
 }

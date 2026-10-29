@@ -2,18 +2,14 @@
   "@@locale": "it",
   "appTitle": "Spagnolo Facile",
   "appFullTitle": "Spagnolo Facile - Grammatica",
-
   "home": "Home",
   "progress": "Progresso",
   "settings": "Impostazioni",
   "wrongAnswers": "Errori",
-
   "error": "Errore: {message}",
-
   "startStudy": "Inizia a studiare",
   "continueStudy": "Continua a studiare",
   "startReview": "Ripassa",
-
   "todayStudy": "Studio di oggi",
   "allTopicsCompleted": "Tutti gli argomenti completati!",
   "reviewEncouragement": "Continua a ripassare per padroneggiare i contenuti.",
@@ -23,13 +19,11 @@
   "todayGoal": "Obiettivo di oggi",
   "topicsProgress": "{studied}/{goal} argomenti",
   "streakDays": "{days} giorni consecutivi!",
-
   "overallProgress": "Progresso generale",
   "mastered": "Padroneggiato",
   "studiedOnce": "Studiato almeno una volta",
   "totalQuestions": "{count} domande in totale",
   "questionsMastered": "{count} / {total} domande padroneggiate",
-
   "study": "Studio",
   "notifications": "Notifiche",
   "appSettings": "Impostazioni app",
@@ -56,10 +50,9 @@
   "themeSystem": "Sistema",
   "themeLight": "Modalità chiara",
   "themeDark": "Modalità scura",
-
   "studyComplete": "Studio completato",
   "goodJob": "Ottimo lavoro!",
-  "goHome": "Vai alla home",
+  "goHome": "Home",
   "accuracy": "Precisione",
   "correct": "Corretto",
   "wrong": "Sbagliato",
@@ -67,24 +60,19 @@
   "wrongReview": "Ripasso errori",
   "spacedReview": "Ripasso spaziato",
   "newLearning": "Nuovo apprendimento",
-
   "errorOccurred": "Si è verificato un errore",
   "retry": "Riprova",
   "stopStudy": "Interrompi studio",
   "stopStudyConfirm": "Vuoi interrompere lo studio?\nI tuoi progressi verranno salvati.",
   "continueStudyButton": "Continua",
   "stop": "Interrompi",
-
   "levelProgress": "Progresso per livello",
-
   "reviewAvailable": "Hai domande da ripassare!",
   "reviewWaiting": "{count} domande in attesa di ripasso",
-
   "welcome": "Benvenuto!",
   "selectLevel": "Seleziona il tuo livello obiettivo",
   "canChangeInSettings": "Puoi modificarlo nelle impostazioni",
   "start": "Inizia",
-
   "levelTarget": "Livello obiettivo",
   "levelNameA1": "Principiante",
   "levelNameA2": "Elementare",
@@ -95,14 +83,12 @@
   "grammar": "Grammatica",
   "vocabulary": "Vocabolario",
   "grammarAndVocabulary": "Grammatica & Vocabolario",
-
   "noWrongAnswers": "Nessun errore!",
   "noWrongAnswersDesc": "Stai andando alla grande!\nContinua così!",
   "wrongCount": "Sbagliato {count} volte",
   "correctAnswer": "Risposta corretta",
   "yourAnswer": "La tua risposta",
   "explanation": "Spiegazione",
-
   "premium": "Premium",
   "removeAds": "Rimuovi pubblicità",
   "premiumActivated": "Premium attivato",
@@ -111,26 +97,22 @@
   "purchaseFailed": "Acquisto fallito",
   "purchasesRestored": "Acquisti ripristinati",
   "productNotAvailable": "Prodotto non disponibile",
-
   "studyNotification": "Promemoria studio",
-  "dailyNotification": "Promemoria di studio dopo più di un giorno di inattività",
+  "dailyNotification": "Un promemoria al giorno all'ora scelta, e un altro se salti un giorno",
   "notificationOff": "Notifiche disattivate",
   "notificationTime": "Orario notifica",
   "notificationChannelName": "Promemoria studio",
   "notificationChannelDesc": "Promemoria giornalieri di studio",
   "notificationTitle": "Spagnolo Facile",
   "notificationBody": "È ora di iniziare a studiare!",
-
   "language": "Lingua",
   "selectLanguage": "Seleziona lingua",
   "languageSystem": "Sistema",
-
   "soundAndVibration": "Suono e vibrazione",
   "soundEffects": "Effetti sonori",
   "soundEffectsDesc": "Suono alla risposta corretta/sbagliata",
   "vibration": "Vibrazione",
   "vibrationDesc": "Vibrazione alla risposta corretta/sbagliata",
-
   "ttsSettings": "Impostazioni voce",
   "ttsAutoPlay": "Riproduzione automatica",
   "ttsAutoPlayDesc": "Pronuncia spagnolo automaticamente alla risposta corretta",
@@ -141,7 +123,6 @@
   "ttsSpeedNormal": "Normale",
   "ttsSpeedFast": "Veloce",
   "ttsTestPlay": "Anteprima",
-
   "showHint": "Mostra suggerimento",
   "nextQuestion": "Prossima domanda",
   "keyPoints": "Punti chiave",
@@ -153,10 +134,11 @@
   "continueReviewWithCount": "Continua la revisione ({count} rimanenti)",
   "@continueReviewWithCount": {
     "placeholders": {
-      "count": {"type": "int"}
+      "count": {
+        "type": "int"
+      }
     }
   },
-
   "totalStudied": "Totale studiato",
   "accuracyRate": "Tasso di precisione",
   "studyDays": "Giorni di studio",
@@ -169,13 +151,11 @@
   "minutes": "{count} min",
   "selectDailyGoal": "Seleziona obiettivo giornaliero",
   "selectTargetLevel": "Seleziona livello obiettivo",
-
   "notificationMsg1": "Il tuo spagnolo ti aspetta! Pronto a fare un altro passo oggi?",
   "notificationMsg2": "Ricordi cosa hai imparato ieri? Ripassare aiuta a ricordare meglio!",
   "notificationMsg3": "Un po' ogni giorno! Inizia la tua lezione di spagnolo oggi.",
   "notificationMsg4": "¡Hola! Ci sei mancato. Studiamo spagnolo insieme oggi!",
   "notificationMsg5": "Non interrompere la tua serie! Inizia a studiare adesso.",
-
   "howManyTopics": "Quanti argomenti al giorno?",
   "oneTopic": "1 argomento",
   "twoTopics": "2 argomenti",
@@ -183,16 +163,20 @@
   "lightStart": "Inizio leggero",
   "moderateAmount": "Quantità moderata",
   "intensiveStudy": "Studio intensivo",
-
   "topicList": "Elenco argomenti",
   "notStudiedYet": "Non studiato",
   "studiedLabel": "Studiato",
   "topicCount": "{count} argomenti",
-  "@topicCount": { "placeholders": { "count": {"type": "int"} } },
-
+  "@topicCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
   "speakingPractice": "Pratica di Conversazione",
   "speakingTest": "Test di Conversazione",
-"speakingBrowseAll": "Sfoglia tutto",
+  "speakingBrowseAll": "Sfoglia tutto",
   "speakingFeatureDesc": "Esercitati con decine di variazioni di una frase: cambia soggetto, nega, chiedi, scambia parole.",
   "practice": "Pratica",
   "test": "Test",
@@ -215,7 +199,6 @@
   "averageAccuracy": "Precisione media {percent}",
   "testPassed": "🎉 Superato!",
   "testFailed": "Ci sei quasi. Riprova!",
-  "goHome": "Home",
   "sayInSpanishHint": "Guarda e dillo in spagnolo",
   "variationBase": "Frase base",
   "variationSubject": "Soggetto · {subject}",
@@ -238,5 +221,6 @@
   "quizListenPrompt": "Ascolta e scegli la parola mancante",
   "quizTypePrompt": "Scrivi la parola mancante",
   "quizCheck": "Controlla",
-  "quizSayIt": "Ora di' la frase intera"
+  "quizSayIt": "Ora di' la frase intera",
+  "badgeNew": "NUOVO"
 }

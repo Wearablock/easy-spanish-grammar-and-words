@@ -259,14 +259,14 @@
     "hint": null
   },
   "q_gram_a1_03_004": {
-    "question": "Soy ___. (Yo soy maestro.) (wähle die passende Antwort)",
+    "question": "Soy ___. (Ich bin Lehrer.)",
     "correct": "profesor",
     "wrong": [
       "un profesor",
       "el profesor",
       "una profesora"
     ],
-    "explanation": "Im Spanischen lässt man den unbestimmten Artikel bei Berufen nach ser weg.\n- Soy profesor. (richtig)\n- Soy un profesor. (im Standardspanischen ohne Adjektiv oder Ergänzung falsch)\nDiese Regel gilt auch für Nationalitäten: Soy español.",
+    "explanation": "Im Spanischen lässt man den unbestimmten Artikel bei einem Beruf ohne Zusatz nach ser normalerweise weg.\n- Soy profesor. (richtig)\n- Soy un profesor muy bueno. (der Artikel steht, wenn ein Adjektiv oder eine Ergänzung hinzukommt)\nDiese Regel gilt auch für Nationalitäten: Soy español.",
     "conjugation_info": "Ser + profession: no Artikel needed. Soy profesor, Soy estudiante, Soy médico.",
     "hint": null
   },
@@ -282,14 +282,14 @@
     "hint": "ciudad ist ein feminines Nomen"
   },
   "q_gram_a1_03_006": {
-    "question": "no hay ___. (Dort gibt es kein Problem.)",
+    "question": "No hay ___. (Es gibt kein Problem.)",
     "correct": "problema",
     "wrong": [
       "un problema",
       "el problema",
-      "problemas"
+      "unos problemas"
     ],
-    "explanation": "Nach der Verneinung 'no hay' entfällt der unbestimmte Artikel.\n- no hay problema. (richtig)\n- no hay azúcar. (Es gibt keinen Zucker.)\nDer Artikel entfällt in verneinten Existenzaussagen.",
+    "explanation": "Nach der Verneinung 'no hay' entfällt der unbestimmte Artikel.\n- No hay problema. (richtig)\n- No hay azúcar. (Es gibt keinen Zucker.)\nDer Artikel entfällt in verneinten Existenzaussagen.",
     "conjugation_info": "Omit unbestimmt Artikel after: sin (without), no hay (there isn't), and with professions after ser.",
     "hint": null
   },
@@ -429,7 +429,7 @@
     "hint": "Beachte den Akzent, der dieses Pronomen vom Artikel unterscheidet"
   },
   "q_gram_a1_04_009": {
-    "question": "¿___ es usted? – Soy Ana García.",
+    "question": "¿___ es usted? – Soy Ana García. (Wer sind Sie?)",
     "correct": "Quién",
     "wrong": [
       "Dónde",
@@ -685,8 +685,8 @@
       "son",
       "están"
     ],
-    "explanation": "Ser wird verwendet für professions.\n- María es doctora. = María ist a doctor.\nProfession ist an identity characteristic, not a temporary state.",
-    "hint": "Berufe use ser, not estar"
+    "explanation": "Für Berufe verwendet man ser.\n- María es doctora. = María ist Ärztin.\nDer Beruf ist ein Merkmal der Identität, kein vorübergehender Zustand.",
+    "hint": "Berufe stehen mit ser, nicht mit estar"
   },
   "q_gram_a1_07_002": {
     "question": "El hospital ___ en la calle Mayor.",
@@ -696,8 +696,8 @@
       "son",
       "están"
     ],
-    "explanation": "Estar wird für den Ort verwendet.\n- El hospital está en la calle Mayor. = Das Krankenhaus befindet sich in der Calle Mayor.\nFür den Ort steht immer estar, auch bei dauerhaften Gebäuden.",
-    "hint": "Welches Verb steht immer bei Ortsangaben?"
+    "explanation": "Estar verwendet man für den Ort von Orten, Dingen und Personen.\n- El hospital está en la calle Mayor. = Das Krankenhaus befindet sich in der Calle Mayor.\n- Ausnahme sind Veranstaltungen: Dafür verwendet man ser (La fiesta es en mi casa).",
+    "hint": "Welches Verb verwendet man für den Ort von Orten, Dingen und Personen?"
   },
   "q_gram_a1_07_003": {
     "question": "Was bedeutet 'ser aburrido' im Vergleich zu 'estar aburrido'?",
@@ -711,14 +711,14 @@
     "hint": null
   },
   "q_gram_a1_07_004": {
-    "question": "La fiesta ___ en mi casa. (konjugiere das richtige Verb für „sein“)",
+    "question": "La fiesta ___ en mi casa. (konjugiere das richtige Verb für 'sein')",
     "correct": "es",
     "wrong": [
       "está",
       "son",
       "están"
     ],
-    "explanation": "Bei Ereignissen steht für den Ort 'ser', nicht 'estar'. Das ist eine wichtige Ausnahme!\n- La fiesta es en mi casa. = Die Party findet bei mir zu Hause statt.\n- Bei Gebäuden steht estar: El cine está en la calle.",
+    "explanation": "Bei Veranstaltungen verwendet man für den Ort 'ser', nicht 'estar'. Das ist eine wichtige Ausnahme!\n- La fiesta es en mi casa. = Die Party findet bei mir zu Hause statt.\n- Bei Gebäuden verwendet man estar: El cine está en la calle.",
     "conjugation_info": "Events (fiesta, concierto, reunión) use ser for location: La fiesta es en...",
     "hint": null
   },
@@ -730,8 +730,8 @@
       "son",
       "están"
     ],
-    "explanation": "'estar listo' = bereit sein (vorübergehender Zustand).\n- Pedro está listo = Pedro ist bereit.\n- Pedro es listo = Pedro ist clever (dauerhafte Eigenschaft).\nSer/estar mit 'listo' verändert die Bedeutung völlig.",
-    "hint": "Ist Pedro clever oder ist er bereit?"
+    "explanation": "'estar listo' = bereit sein (vorübergehender Zustand).\n- Pedro está listo = Pedro ist bereit.\n- Pedro es listo = Pedro ist schlau (dauerhafte Eigenschaft).\nMit 'listo' verändern ser/estar die Bedeutung vollständig.",
+    "hint": "Ist Pedro schlau oder ist er bereit?"
   },
   "q_gram_a1_07_006": {
     "question": "El edificio ___ muy alto. (konjugiere das richtige Verb für eine Eigenschaft)",
@@ -741,7 +741,7 @@
       "estoy",
       "son"
     ],
-    "explanation": "Ser wird für wesentliche körperliche Eigenschaften verwendet.\n- El edificio es alto. = Das Gebäude ist hoch.\nDie Höhe ist eine dauerhafte Eigenschaft des Gebäudes.",
+    "explanation": "Ser verwendet man für wesensbedingte körperliche Eigenschaften.\n- El edificio es alto. = Das Gebäude ist hoch.\nDie Höhe ist eine dauerhafte Eigenschaft des Gebäudes.",
     "conjugation_info": "Ser = permanent traits: Es alto, es grande, es bonito. Estar = temporary states.",
     "hint": null
   },
@@ -753,18 +753,19 @@
       "es",
       "está"
     ],
-    "explanation": "Estar wird verwendet für emotions und feelings.\n- Estoy contento = I am happy (wie I feel right now).\nEmotions sind temporary states das kann change.",
-    "hint": "Emotions und Moduss use estar"
+    "explanation": "Estar verwendet man für Emotionen und Gefühle.\n- Estoy contento = Ich bin zufrieden (so fühle ich mich gerade).\nGefühle sind vorübergehende Zustände, die sich ändern können.",
+    "hint": "Gefühle und Stimmungen stehen mit estar"
   },
   "q_gram_a1_07_008": {
-    "question": "She ist von Mexico.",
+    "question": "Sie kommt aus Mexiko.",
     "correct": "Ella es de México.",
     "wrong": [
       "Ella está de México.",
       "Ella es en México.",
       "Ella está en México."
     ],
-    "explanation": "Ser + de = origin/wo someone ist von.\n- Ella es de México = She ist von Mexico (origin, permanent).\n- Ella está en México = She ist in Mexico (location, possibly temporary)."
+    "explanation": "Ser + de = Herkunft, woher jemand kommt.\n- Ella es de México = Sie kommt aus Mexiko (Herkunft, dauerhaft).\n- Ella está en México = Sie ist in Mexiko (Aufenthaltsort, möglicherweise vorübergehend).",
+    "hint": null
   },
   "q_gram_a1_07_009": {
     "question": "La manzana ___ verde. (Der Apfel ist grün – er ist noch nicht reif.)",
@@ -774,7 +775,7 @@
       "son",
       "están"
     ],
-    "explanation": "Bei Farben bedeutet estar einen vorübergehenden/veränderlichen Zustand (unreif → wird reif).\n- La manzana está verde = Der Apfel ist grün (unreif, vorübergehend).\n- La manzana es verde = Der Apfel ist grün (von Natur aus, seine Sorte).",
+    "explanation": "Bei Farben bedeutet estar einen vorübergehenden, veränderlichen Zustand (unreif → wird reif).\n- La manzana está verde = Der Apfel ist grün (noch nicht reif, vorübergehend).\n- La manzana es verde = Der Apfel ist grün (von Natur aus, seine Sorte).",
     "conjugation_info": "Ser verde = green by nature. Estar verde = unripe/not ready.",
     "hint": null
   },
@@ -786,7 +787,7 @@
       "El libro está la mesa.",
       "El libro es la mesa."
     ],
-    "explanation": "Estar wird für den Ort von Gegenständen verwendet.\n- El libro está en la mesa. = Das Buch liegt auf dem Tisch.\nMerke: Für den Ort von Dingen und Personen verwendet man immer estar.",
+    "explanation": "Estar verwendet man für den Ort von Gegenständen.\n- El libro está en la mesa. = Das Buch liegt auf dem Tisch.\nMerke: Für den Ort von Dingen und Personen verwendet man immer estar.",
     "hint": null
   },
   "q_gram_a1_08_001": {

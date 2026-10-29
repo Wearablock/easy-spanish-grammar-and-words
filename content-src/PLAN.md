@@ -8,7 +8,7 @@
 | 날 | LV | 주제 | 상태 |
 |---|---|---|---|
 | **10-29** | LV1 | gram_a1_01 · vocab_a1_01 · gram_a1_02 · vocab_a1_02 · gram_a1_03 · vocab_a1_03 · gram_a1_04 · vocab_a1_04 · gram_a1_05 · vocab_a1_05 · gram_a1_06 | ✅ 10-30 00:5x 배포 · 원본 수정 12 · 1,540칸 |
-| 10-30 | LV2 | vocab_a1_06 · gram_a1_07 | |
+| 10-30 | LV2 | vocab_a1_06 · gram_a1_07 | ✅ 03:5x 배포 · 원본 1(07_002 «always estar» → 행사는 ser) · 280칸 · 뜻 검수 1(ko) · es UI 번역 문제 44개는 문제=정답 → 🙋 10-30 그대로 둠(문제 되면 es 화면을 뺀다) |
 | 10-31 | LV2 | vocab_a1_07 · gram_a1_08 | |
 | 11-01 | LV2 | vocab_a1_08 · gram_a1_09 | |
 | 11-02 | LV2 | vocab_a1_09 · gram_a1_10 | |
@@ -58,3 +58,8 @@
 🔵 A1~B1 끝 = 12-14 (하루 2주제 기준) · B2~C2(86주제)는 그 뒤 — 목표 레벨을 올린 사람만 보는 구간
 🔵 새 문제(LV 보강)를 넣는 날은 그 칸 «상태» 에 «+새 N» 으로 적는다 — 넣는 법은 README «매일 새 문제 넣기»
 🔵 이론 카드(topics_<언어>)도 그 주제 칸에서 같이 본다 — 10-29 기준 독일어 등은 통째 파일이 없다(대신 보이는 언어 확인 필요)
+
+
+## 🔁 10-30 — 하루 2주제 돌리는 법
+    export ES_TOPICS=ch_<a>,ch_<b> ES_TAG=<MMDD>
+    review.py LV<n> → fix_master.py LV<n> --propose → (보고) --apply → master.py build → translate.py --lv <n> → meaning.py --lv <n> → (es · pt 과잉 수정 되돌림) → master.py → publish.py

@@ -170,7 +170,7 @@
     "question": "ماذا تعني كلمة 'esposa' في جملة 'Ella es mi esposa'؟",
     "correct": "زوجة",
     "wrong": [
-      "صديقة حميمة",
+      "حبيبة",
       "صديقة",
       "أخت"
     ],
@@ -560,14 +560,15 @@
     "hint": null
   },
   "q_vocab_a1_06_001": {
-    "question": "ما معنى 'agua'؟",
+    "question": "ماذا تعني 'agua'؟",
     "correct": "ماء",
     "wrong": [
       "حليب",
-      "juice",
+      "عصير",
       "قهوة"
     ],
-    "explanation": "'Agua' يعني 'ماء'. Despite being مؤنث, هو uses 'el' في مفرد: 'el agua' (إلى avoid two 'a' sounds together)."
+    "explanation": "'Agua' تعني 'ماء'. ورغم أنها مؤنثة، فإنها تستخدم 'el' في المفرد: 'el agua' (لتجنب التقاء صوتَي 'a').",
+    "hint": null
   },
   "q_vocab_a1_06_002": {
     "question": "Quiero un ___ con leche, por favor.",
@@ -577,89 +578,98 @@
       "arroz",
       "pollo"
     ],
-    "explanation": "'Café con leche' يعني 'قهوة مع حليب', a جداً popular drink في Spain و Latin America."
+    "explanation": "'Café con leche' تعني 'قهوة بالحليب'، وهي مشروب شائع جدًا في إسبانيا وأمريكا اللاتينية.",
+    "hint": null
   },
   "q_vocab_a1_06_003": {
-    "question": "ما معنى 'pan'؟",
+    "question": "ماذا تعني 'pan'؟",
     "correct": "خبز",
     "wrong": [
-      "rice",
-      "meat",
-      "cheese"
+      "أرز",
+      "لحم",
+      "جبن"
     ],
-    "explanation": "'Pan' يعني 'خبز'. هو هو one من الـ معظم basic طعام items في الإسبانية-speaking countries."
+    "explanation": "'Pan' تعني 'خبز'. وهو من أبسط الأطعمة الأساسية في الدول الناطقة بالإسبانية.",
+    "hint": null
   },
   "q_vocab_a1_06_004": {
-    "question": "ما معنى 'pollo'؟",
-    "correct": "chicken",
+    "question": "ماذا تعني 'pollo'؟",
+    "correct": "دجاج",
     "wrong": [
-      "fish",
-      "beef",
-      "pork"
+      "سمك",
+      "لحم بقر",
+      "لحم خنزير"
     ],
-    "explanation": "'Pollo' يعني 'chicken'. 'Carne' هو الـ general كلمة لـ 'meat'."
+    "explanation": "'Pollo' تعني 'دجاج'. أما 'Carne' فهي الكلمة العامة لـ 'اللحم'.",
+    "hint": null
   },
   "q_vocab_a1_06_005": {
-    "question": "I want a glass من orange juice.",
+    "question": "أريد كوبًا من عصير البرتقال.",
     "correct": "Quiero un vaso de zumo de naranja.",
     "wrong": [
       "Quiero un vaso de leche de naranja.",
       "Quiero una taza de zumo de naranja.",
       "Quiero un vaso de vino de naranja."
     ],
-    "explanation": "'Zumo' يعني 'juice' (used في Spain; 'jugo' يُستخدم في Latin America). 'Vaso' يعني 'glass'."
+    "explanation": "'Zumo' تعني 'عصير' (تُستخدم في إسبانيا، بينما 'jugo' تُستخدم في أمريكا اللاتينية). و'Vaso' تعني 'كوب'.",
+    "hint": null
   },
   "q_vocab_a1_06_006": {
-    "question": "ما معنى 'pescado' في 'El pescado está fresco'؟",
-    "correct": "fish (as food)",
+    "question": "ماذا تعني 'pescado' في الجملة 'El pescado está fresco'؟",
+    "correct": "سمك (كطعام)",
     "wrong": [
-      "chicken",
-      "meat",
-      "shrimp"
+      "دجاج",
+      "لحم",
+      "جمبري"
     ],
-    "explanation": "'Pescado' يشير إلى fish as طعام. 'Pez' هو a living fish. الـ sentence يعني 'الـ fish هو fresh'."
+    "explanation": "'Pescado' تشير إلى السمك كطعام. أما 'Pez' فهو السمك الحي. ومعنى الجملة: 'السمك طازج'.",
+    "hint": null
   },
   "q_vocab_a1_06_007": {
-    "question": "أنت هم at a restaurant و الـ waiter asks ماذا أنت want إلى drink. كيف do أنت order a beer?",
+    "question": "أنت في مطعم والنادل يسأل ماذا تريد أن تشرب. كيف تطلب بيرة؟",
     "correct": "Una cerveza, por favor.",
     "wrong": [
       "Un café, por favor.",
       "Un té, por favor.",
       "Un agua, por favor."
     ],
-    "explanation": "'Cerveza' يعني 'beer'. 'Una cerveza, por favor' هو a polite way إلى order a beer at a مطعم.",
-    "context": "Ordering a drink at a مطعم"
+    "explanation": "'Cerveza' تعني 'بيرة'. و'Una cerveza, por favor' طريقة مهذبة لطلب بيرة في المطعم.",
+    "context": "Ordering a drink at a مطعم",
+    "hint": null
   },
   "q_vocab_a1_06_008": {
-    "question": "ما معنى 'ensalada' في 'La ensalada está rica'؟",
-    "correct": "salad",
+    "question": "ماذا تعني 'ensalada' في الجملة 'La ensalada está rica'؟",
+    "correct": "سلطة",
     "wrong": [
-      "soup",
-      "sandwich",
-      "omelette"
+      "شوربة",
+      "ساندويتش",
+      "عجّة"
     ],
-    "explanation": "'Ensalada' يعني 'salad'. 'Rica' هنا يعني 'delicious'. الـ sentence يعني 'الـ salad هو delicious'."
+    "explanation": "'Ensalada' تعني 'سلطة'. و'Rica' هنا تعني 'لذيذة'. ومعنى الجملة: 'السلطة لذيذة'.",
+    "hint": null
   },
   "q_vocab_a1_06_009": {
     "question": "Me gustan las frutas y las verduras.",
-    "correct": "I like fruits and vegetables.",
+    "correct": "أحب الفواكه والخضروات.",
     "wrong": [
-      "I like meat and fish.",
-      "I like bread and cheese.",
-      "I like coffee and tea."
+      "أحب اللحم والسمك.",
+      "أحب الخبز والجبن.",
+      "أحب القهوة والشاي."
     ],
-    "explanation": "'Frutas' يعني 'fruits' و 'verduras' يعني 'vegetables'. 'Me gustan' يُستخدم مع جمع nouns."
+    "explanation": "'Frutas' تعني 'فواكه' و'verduras' تعني 'خضروات'. تُستخدم 'Me gustan' مع الأسماء الجمع.",
+    "hint": null
   },
   "q_vocab_a1_06_010": {
-    "question": "أنت هم a guest at a الإسبانية home و الـ host offers أنت food. كيف do أنت politely accept?",
+    "question": "أنت ضيف في بيت إسباني والمضيف يعرض عليك الطعام. كيف تقبل بلباقة؟",
     "correct": "Sí, gracias. Tiene muy buena pinta.",
     "wrong": [
       "No quiero nada.",
       "Dame más comida.",
       "No me gusta la comida española."
     ],
-    "explanation": "'Tiene muy buena pinta' يعني 'هو looks جداً جيد'. هذا a polite و appreciative way إلى accept طعام.",
-    "context": "Being offered طعام at someone's home"
+    "explanation": "'Tiene muy buena pinta' تعني 'يبدو شهيًّا جدًا'. وهي طريقة مهذبة تُظهر التقدير عند قبول الطعام.",
+    "context": "Being offered طعام at someone's home",
+    "hint": null
   },
   "q_vocab_a1_07_001": {
     "question": "ما معنى 'cabeza'؟",

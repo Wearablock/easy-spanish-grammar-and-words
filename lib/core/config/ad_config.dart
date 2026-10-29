@@ -7,7 +7,8 @@ class AdConfig {
   AdConfig._();
 
   /// 스크린샷 모드 (true: 광고/디버그패널 숨김)
-  static const bool screenshotMode = false;
+  /// 빌드할 때 켠다: flutter build ios --simulator --dart-define=SCREENSHOT_MODE=true
+  static const bool screenshotMode = bool.fromEnvironment('SCREENSHOT_MODE');
 
   /// 광고 활성화 여부
   static bool get adsEnabled => !screenshotMode;

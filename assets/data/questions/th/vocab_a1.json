@@ -532,7 +532,7 @@
       "ส้มราคาเท่าไร?",
       "คุณชอบส้มไหม?"
     ],
-    "explanation": "'¿De qué color es...?' แปลว่า 'ส... สีอะไร?' เป็นวิธีมาตรฐานในการถามเรื่องสีในภาษาสเปน",
+    "explanation": "'¿De qué color es...?' แปลว่า '... สีอะไร?' เป็นวิธีมาตรฐานในการถามเรื่องสีในภาษาสเปน",
     "hint": null
   },
   "q_vocab_a1_05_009": {
@@ -567,7 +567,7 @@
       "น้ำผลไม้",
       "กาแฟ"
     ],
-    "explanation": "'Agua' แปลว่า 'น้ำ' แม้จะเป็นเพศหญิง แต่เมื่อเป็นเอกพจน์จะใช้ 'el' คือ 'el agua' (เพื่อไม่ให้เสียงสระ 'a' สองตัวมาชนกัน)",
+    "explanation": "'Agua' แปลว่า 'น้ำ' แม้จะเป็นเพศหญิง แต่ในรูปเอกพจน์ใช้ 'el' นำหน้า: 'el agua' (เพื่อหลีกเลี่ยงเสียง a สองเสียงติดกัน)",
     "hint": null
   },
   "q_vocab_a1_06_002": {
@@ -578,7 +578,8 @@
       "arroz",
       "pollo"
     ],
-    "explanation": "'Café con leche' แปลว่า 'กาแฟ กับ นม', a มาก popular drink ใน Spain และ Latin America."
+    "explanation": "'Café con leche' แปลว่า 'กาแฟใส่นม' เป็นเครื่องดื่มยอดนิยมมากในสเปนและลาตินอเมริกา",
+    "hint": null
   },
   "q_vocab_a1_06_003": {
     "question": "'pan' แปลว่าอะไร?",
@@ -593,7 +594,7 @@
   },
   "q_vocab_a1_06_004": {
     "question": "'pollo' แปลว่าอะไร?",
-    "correct": "เนื้อไก่ / ไก่",
+    "correct": "ไก่",
     "wrong": [
       "ปลา",
       "เนื้อวัว",
@@ -603,17 +604,18 @@
     "hint": null
   },
   "q_vocab_a1_06_005": {
-    "question": "I want a glass ของ สีส้ม น้ำผลไม้.",
+    "question": "ฉันอยากได้น้ำส้มหนึ่งแก้ว",
     "correct": "Quiero un vaso de zumo de naranja.",
     "wrong": [
       "Quiero un vaso de leche de naranja.",
       "Quiero una taza de zumo de naranja.",
       "Quiero un vaso de vino de naranja."
     ],
-    "explanation": "'Zumo' แปลว่า 'น้ำผลไม้' (used ใน Spain; 'jugo' ใช้ ใน Latin America). 'Vaso' แปลว่า 'glass'."
+    "explanation": "'Zumo' แปลว่า 'น้ำผลไม้' (ใช้ในสเปน ส่วนลาตินอเมริกาใช้ 'jugo') 'Vaso' แปลว่า 'แก้ว'",
+    "hint": null
   },
   "q_vocab_a1_06_006": {
-    "question": "'pescado' ในประโยค 'El pescado está fresco' แปลว่าอะไร?",
+    "question": "'pescado' ในประโยค 'El pescado está fresco' หมายถึงอะไร?",
     "correct": "ปลา (ในฐานะอาหาร)",
     "wrong": [
       "ไก่",
@@ -624,18 +626,19 @@
     "hint": null
   },
   "q_vocab_a1_06_007": {
-    "question": "คุณ เป็น at a ร้านอาหาร และ พนักงานเสิร์ฟ asks อะไร คุณ want ไปยัง drink. อย่างไร do คุณ order a เบียร์?",
+    "question": "คุณอยู่ที่ร้านอาหารและบริกรถามว่าจะดื่มอะไร คุณจะสั่งเบียร์ว่าอย่างไร?",
     "correct": "Una cerveza, por favor.",
     "wrong": [
       "Un café, por favor.",
       "Un té, por favor.",
       "Un agua, por favor."
     ],
-    "explanation": "'Cerveza' แปลว่า 'เบียร์'. 'Una cerveza, por favor' เป็น a polite way ไปยัง order a เบียร์ at a ร้านอาหาร.",
-    "context": "Ordering a drink at a ร้านอาหาร"
+    "explanation": "'Cerveza' แปลว่า 'เบียร์' 'Una cerveza, por favor' เป็นวิธีสั่งเบียร์ที่ร้านอาหารอย่างสุภาพ",
+    "context": "Ordering a drink at a ร้านอาหาร",
+    "hint": null
   },
   "q_vocab_a1_06_008": {
-    "question": "'ensalada' ในประโยค 'La ensalada está rica' แปลว่าอะไร?",
+    "question": "'ensalada' ในประโยค 'La ensalada está rica' หมายถึงอะไร?",
     "correct": "สลัด",
     "wrong": [
       "ซุป",
@@ -647,24 +650,26 @@
   },
   "q_vocab_a1_06_009": {
     "question": "Me gustan las frutas y las verduras.",
-    "correct": "I like fruits และ vegetables.",
+    "correct": "ฉันชอบผลไม้และผัก",
     "wrong": [
-      "I like เนื้อ และ ปลา.",
-      "I like ขนมปัง และ ชีส.",
-      "I like กาแฟ และ ชา."
+      "ฉันชอบเนื้อสัตว์และปลา",
+      "ฉันชอบขนมปังและชีส",
+      "ฉันชอบกาแฟและชา"
     ],
-    "explanation": "'Frutas' แปลว่า 'fruits' และ 'verduras' แปลว่า 'vegetables'. 'Me gustan' ใช้ กับ พหูพจน์ nouns."
+    "explanation": "'Frutas' แปลว่า 'ผลไม้' และ 'verduras' แปลว่า 'ผัก' ใช้ 'Me gustan' กับคำนามพหูพจน์",
+    "hint": null
   },
   "q_vocab_a1_06_010": {
-    "question": "คุณ เป็น a guest at a สเปน บ้าน และ host offers คุณ food. อย่างไร do คุณ politely accept?",
+    "question": "คุณเป็นแขกที่บ้านชาวสเปนและเจ้าของบ้านเสนออาหารให้ คุณจะรับไว้อย่างสุภาพว่าอย่างไร?",
     "correct": "Sí, gracias. Tiene muy buena pinta.",
     "wrong": [
       "No quiero nada.",
       "Dame más comida.",
       "No me gusta la comida española."
     ],
-    "explanation": "'Tiene muy buena pinta' แปลว่า 'มัน looks มาก ดี'. นี่คือ a polite และ appreciative way ไปยัง accept food.",
-    "context": "Being offeสีแดง food at someหนึ่ง's บ้าน"
+    "explanation": "'Tiene muy buena pinta' แปลว่า 'ดูน่ากินมาก' เป็นวิธีรับอาหารอย่างสุภาพและแสดงความขอบคุณ",
+    "context": "Being offeสีแดง food at someหนึ่ง's บ้าน",
+    "hint": null
   },
   "q_vocab_a1_07_001": {
     "question": "'cabeza' แปลว่าอะไร?",

@@ -2,18 +2,14 @@
   "@@locale": "zh_Hant",
   "appTitle": "輕鬆學西語",
   "appFullTitle": "輕鬆學西語 - 語法與詞彙",
-
   "home": "首頁",
   "progress": "進度",
   "settings": "設定",
   "wrongAnswers": "錯題本",
-
   "error": "錯誤: {message}",
-
   "startStudy": "開始學習",
   "continueStudy": "繼續學習",
   "startReview": "開始複習",
-
   "todayStudy": "今日學習",
   "allTopicsCompleted": "所有主題學習完成！",
   "reviewEncouragement": "透過複習進一步提升實力吧。",
@@ -23,13 +19,11 @@
   "todayGoal": "今日目標",
   "topicsProgress": "{studied}/{goal} 主題",
   "streakDays": "連續學習{days}天！",
-
   "overallProgress": "整體進度",
   "mastered": "完全掌握",
   "studiedOnce": "學習過1次以上",
   "totalQuestions": "共{count}題",
   "questionsMastered": "{count} / {total} 題完全掌握",
-
   "study": "學習",
   "notifications": "通知",
   "appSettings": "應用設定",
@@ -56,7 +50,6 @@
   "themeSystem": "跟隨系統",
   "themeLight": "淺色模式",
   "themeDark": "深色模式",
-
   "studyComplete": "學習完成",
   "goodJob": "辛苦了",
   "goHome": "返回首頁",
@@ -67,24 +60,19 @@
   "wrongReview": "錯題複習",
   "spacedReview": "間隔複習",
   "newLearning": "新學習",
-
   "errorOccurred": "發生錯誤",
   "retry": "重試",
   "stopStudy": "停止學習",
   "stopStudyConfirm": "要停止學習嗎？\n目前進度將被儲存。",
   "continueStudyButton": "繼續學習",
   "stop": "停止",
-
   "levelProgress": "各級別進度",
-
   "reviewAvailable": "有需要複習的題目！",
   "reviewWaiting": "{count}道題等待複習",
-
   "welcome": "歡迎！",
   "selectLevel": "請選擇目標級別",
   "canChangeInSettings": "之後可以在設定中修改",
   "start": "開始",
-
   "levelTarget": "目標級別",
   "levelNameA1": "入門",
   "levelNameA2": "初級",
@@ -95,14 +83,12 @@
   "grammar": "文法",
   "vocabulary": "詞彙",
   "grammarAndVocabulary": "文法 & 詞彙",
-
   "noWrongAnswers": "沒有錯題！",
   "noWrongAnswersDesc": "你一直在穩步學習。\n繼續加油！",
   "wrongCount": "錯{count}次",
   "correctAnswer": "正確答案",
   "yourAnswer": "你的答案",
   "explanation": "解析",
-
   "premium": "進階版",
   "removeAds": "移除廣告",
   "premiumActivated": "進階版已啟用",
@@ -111,26 +97,22 @@
   "purchaseFailed": "購買失敗",
   "purchasesRestored": "購買已恢復",
   "productNotAvailable": "無法載入商品",
-
   "studyNotification": "學習提醒",
-  "dailyNotification": "超過一天未訪問時發送學習提醒",
+  "dailyNotification": "每天在設定時間提醒，中斷一天再提醒一次",
   "notificationOff": "通知已關閉",
   "notificationTime": "通知時間",
   "notificationChannelName": "學習提醒",
   "notificationChannelDesc": "每天提醒您學習時間",
   "notificationTitle": "輕鬆學西語",
   "notificationBody": "是時候開始今天的學習了！",
-
   "language": "語言",
   "selectLanguage": "選擇語言",
   "languageSystem": "跟隨系統",
-
   "soundAndVibration": "聲音與振動",
   "soundEffects": "音效",
   "soundEffectsDesc": "答對/答錯時播放音效",
   "vibration": "振動",
   "vibrationDesc": "答對/答錯時振動回饋",
-
   "ttsSettings": "語音設定",
   "ttsAutoPlay": "自動播放",
   "ttsAutoPlayDesc": "答對時自動播放西班牙語發音",
@@ -141,7 +123,6 @@
   "ttsSpeedNormal": "正常",
   "ttsSpeedFast": "快速",
   "ttsTestPlay": "試聽",
-
   "showHint": "查看提示",
   "nextQuestion": "下一題",
   "keyPoints": "要點",
@@ -153,10 +134,11 @@
   "continueReviewWithCount": "繼續複習（剩餘{count}題）",
   "@continueReviewWithCount": {
     "placeholders": {
-      "count": {"type": "int"}
+      "count": {
+        "type": "int"
+      }
     }
   },
-
   "totalStudied": "總學習題數",
   "accuracyRate": "正確率",
   "studyDays": "學習天數",
@@ -169,13 +151,11 @@
   "minutes": "{count}分鐘",
   "selectDailyGoal": "選擇每日學習量",
   "selectTargetLevel": "選擇目標級別",
-
   "notificationMsg1": "你的西班牙語在等你！今天也來進步一點吧？",
   "notificationMsg2": "還記得昨天學的內容嗎？複習能記得更久！",
   "notificationMsg3": "每天一點點，堅持就是勝利！開始今天的西班牙語學習吧。",
   "notificationMsg4": "¡Hola！好久不見，今天一起學西班牙語吧！",
   "notificationMsg5": "別讓連續學習記錄中斷！現在就開始吧。",
-
   "howManyTopics": "每天學習幾個主題？",
   "oneTopic": "1個主題",
   "twoTopics": "2個主題",
@@ -183,16 +163,20 @@
   "lightStart": "輕鬆開始",
   "moderateAmount": "適量學習",
   "intensiveStudy": "集中學習",
-
   "topicList": "主題列表",
   "notStudiedYet": "未學習",
   "studiedLabel": "已學習",
   "topicCount": "{count}個主題",
-  "@topicCount": { "placeholders": { "count": {"type": "int"} } },
-
+  "@topicCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
   "speakingPractice": "口語練習",
   "speakingTest": "口語測試",
-"speakingBrowseAll": "瀏覽全部",
+  "speakingBrowseAll": "瀏覽全部",
   "speakingFeatureDesc": "從一個句子開始，透過更換主語、否定、疑問、替換詞彙練習數十種變化。",
   "practice": "練習",
   "test": "測試",
@@ -215,7 +199,6 @@
   "averageAccuracy": "平均準確率 {percent}",
   "testPassed": "🎉 通過！",
   "testFailed": "再接再厲，再試一次！",
-  "goHome": "返回首頁",
   "sayInSpanishHint": "看後用西班牙語說",
   "variationBase": "基礎句",
   "variationSubject": "主語 · {subject}",
@@ -238,5 +221,6 @@
   "quizListenPrompt": "聽一聽，選出空格裡的詞",
   "quizTypePrompt": "輸入空格裡的詞",
   "quizCheck": "檢查",
-  "quizSayIt": "把整句話說出來"
+  "quizSayIt": "把整句話說出來",
+  "badgeNew": "新"
 }

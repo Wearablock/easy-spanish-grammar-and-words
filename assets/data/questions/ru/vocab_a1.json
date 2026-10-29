@@ -253,7 +253,7 @@
       "punto",
       "minuto"
     ],
-    "explanation": "«Media» означает «половина». «Son las tres y media» — «Half past three», то есть «half past three» по-русски: «Сейчас половина четвёртого» (буквально «три с половиной»).",
+    "explanation": "«Media» означает «половина». «Son las tres y media» — «Сейчас половина четвёртого» (буквально «три с половиной»).",
     "hint": null
   },
   "q_vocab_a1_03_004": {
@@ -331,7 +331,7 @@
       "Me despierto a la siete de la mañana.",
       "Me duermo a las siete de la mañana."
     ],
-    "explanation": "«A las siete de la mañana» означает «в семь утра». Обратите внимание: «a las» используется для всех часов, кроме часа дня/ночи («a la una»).",
+    "explanation": "«A las siete de la mañana» означает «в семь утра». Обратите внимание: «a las» используется для всех часов, кроме часа («a la una»).",
     "context": "Разговор о распорядке дня",
     "hint": null
   },
@@ -560,14 +560,15 @@
     "hint": null
   },
   "q_vocab_a1_06_001": {
-    "question": "Что означает 'agua'?",
+    "question": "Что значит 'agua'?",
     "correct": "вода",
     "wrong": [
       "молоко",
       "сок",
       "кофе"
     ],
-    "explanation": "'Agua' означает 'вода'. Несмотря на то, что это женский род, в единственном числе используется 'el': 'el agua' (чтобы избежать двух звуков 'a' подряд)."
+    "explanation": "'Agua' означает 'вода'. Хотя это слово женского рода, в единственном числе оно употребляется с 'el': 'el agua' (чтобы не стояли рядом два звука «а»).",
+    "hint": null
   },
   "q_vocab_a1_06_002": {
     "question": "Quiero un ___ con leche, por favor.",
@@ -577,27 +578,30 @@
       "arroz",
       "pollo"
     ],
-    "explanation": "'Café con leche' означает 'кофе с молоком', очень популярный напиток в Испании и Латинской Америке."
+    "explanation": "'Café con leche' означает «кофе с молоком» — очень популярный напиток в Испании и Латинской Америке.",
+    "hint": null
   },
   "q_vocab_a1_06_003": {
-    "question": "Что означает 'pan'?",
+    "question": "Что значит 'pan'?",
     "correct": "хлеб",
     "wrong": [
       "рис",
       "мясо",
       "сыр"
     ],
-    "explanation": "'Pan' означает 'хлеб'. Это один из самых основных продуктов питания в испаноязычных странах."
+    "explanation": "'Pan' означает «хлеб». Это один из самых базовых продуктов в испаноязычных странах.",
+    "hint": null
   },
   "q_vocab_a1_06_004": {
-    "question": "Что означает 'pollo'?",
+    "question": "Что значит 'pollo'?",
     "correct": "курица",
     "wrong": [
       "рыба",
       "говядина",
       "свинина"
     ],
-    "explanation": "'Pollo' означает 'курица'. 'Carne' — общее слово для 'мясо'."
+    "explanation": "'Pollo' означает «курица». 'Carne' — общее слово для обозначения мяса.",
+    "hint": null
   },
   "q_vocab_a1_06_005": {
     "question": "Я хочу стакан апельсинового сока.",
@@ -607,59 +611,65 @@
       "Quiero una taza de zumo de naranja.",
       "Quiero un vaso de vino de naranja."
     ],
-    "explanation": "'Zumo' означает 'сок' (используется в Испании; 'jugo' используется в Латинской Америке). 'Vaso' означает 'стакан'."
+    "explanation": "'Zumo' означает «сок» (так говорят в Испании; в Латинской Америке используют 'jugo'). 'Vaso' означает «стакан».",
+    "hint": null
   },
   "q_vocab_a1_06_006": {
-    "question": "Что означает 'pescado' в 'El pescado está fresco'?",
+    "question": "Что значит 'pescado' во фразе 'El pescado está fresco'?",
     "correct": "рыба (как еда)",
     "wrong": [
       "курица",
       "мясо",
-      "креветка"
+      "креветки"
     ],
-    "explanation": "'Pescado' относится к рыбе как еде. 'Pez' — живая рыба. Предложение означает 'Рыба свежая'."
+    "explanation": "'Pescado' — это рыба как еда. 'Pez' — живая рыба. Предложение означает «Рыба свежая».",
+    "hint": null
   },
   "q_vocab_a1_06_007": {
-    "question": "Вы в ресторане, и официант спрашивает, что вы хотите пить. Как заказать пиво?",
+    "question": "Вы в ресторане, и официант спрашивает, что вы будете пить. Как заказать пиво?",
     "correct": "Una cerveza, por favor.",
     "wrong": [
       "Un café, por favor.",
       "Un té, por favor.",
       "Un agua, por favor."
     ],
-    "explanation": "'Cerveza' означает 'пиво'. 'Una cerveza, por favor' — вежливый способ заказать пиво в ресторане.",
-    "context": "Заказ напитка в ресторане"
+    "explanation": "'Cerveza' означает «пиво». 'Una cerveza, por favor' — вежливый способ заказать пиво в ресторане.",
+    "context": "Заказ напитка в ресторане",
+    "hint": null
   },
   "q_vocab_a1_06_008": {
-    "question": "Что означает 'ensalada' в 'La ensalada está rica'?",
+    "question": "Что значит 'ensalada' во фразе 'La ensalada está rica'?",
     "correct": "салат",
     "wrong": [
       "суп",
       "сэндвич",
       "омлет"
     ],
-    "explanation": "'Ensalada' означает 'салат'. 'Rica' здесь означает 'вкусная'. Предложение означает 'Салат вкусный'."
+    "explanation": "'Ensalada' означает «салат». 'Rica' здесь означает «вкусная». Предложение означает «Салат вкусный».",
+    "hint": null
   },
   "q_vocab_a1_06_009": {
     "question": "Me gustan las frutas y las verduras.",
-    "correct": "Мне нравятся фрукты и овощи.",
+    "correct": "Я люблю фрукты и овощи.",
     "wrong": [
-      "Мне нравятся мясо и рыба.",
-      "Мне нравятся хлеб и сыр.",
-      "Мне нравятся кофе и чай."
+      "Я люблю мясо и рыбу.",
+      "Я люблю хлеб и сыр.",
+      "Я люблю кофе и чай."
     ],
-    "explanation": "'Frutas' означает 'фрукты', а 'verduras' означает 'овощи'. 'Me gustan' используется с существительными во множественном числе."
+    "explanation": "'Frutas' означает «фрукты», а 'verduras' — «овощи». 'Me gustan' используется с существительными во множественном числе.",
+    "hint": null
   },
   "q_vocab_a1_06_010": {
-    "question": "Вы гость в испанском доме, и хозяин предлагает вам еду. Как вежливо принять?",
+    "question": "Вы в гостях в испанской семье, и хозяин предлагает вам угощение. Как вежливо согласиться?",
     "correct": "Sí, gracias. Tiene muy buena pinta.",
     "wrong": [
       "No quiero nada.",
       "Dame más comida.",
       "No me gusta la comida española."
     ],
-    "explanation": "'Tiene muy buena pinta' означает 'Выглядит очень хорошо'. Это вежливый и благодарный способ принять еду.",
-    "context": "Предложение еды в чьем-то доме"
+    "explanation": "'Tiene muy buena pinta' означает «Выглядит очень аппетитно». Это вежливый и благодарный способ принять угощение.",
+    "context": "Предложение еды в чьем-то доме",
+    "hint": null
   },
   "q_vocab_a1_07_001": {
     "question": "Что означает 'cabeza'?",

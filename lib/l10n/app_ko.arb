@@ -8,23 +8,21 @@
   "@appFullTitle": {
     "description": "앱 전체 제목 (스토어 등)"
   },
-
   "home": "홈",
   "progress": "진행률",
   "settings": "설정",
   "wrongAnswers": "오답노트",
-
   "error": "오류: {message}",
   "@error": {
     "placeholders": {
-      "message": {"type": "String"}
+      "message": {
+        "type": "String"
+      }
     }
   },
-
   "startStudy": "학습 시작하기",
   "continueStudy": "학습 이어하기",
   "startReview": "복습하기",
-
   "todayStudy": "오늘의 학습",
   "allTopicsCompleted": "모든 주제 학습 완료!",
   "reviewEncouragement": "복습을 통해 실력을 더욱 쌓아보세요.",
@@ -32,47 +30,61 @@
   "questionsCount": "{count}문제",
   "@questionsCount": {
     "placeholders": {
-      "count": {"type": "int"}
+      "count": {
+        "type": "int"
+      }
     }
   },
   "todayQuestionsCompleted": "오늘 {count}문제 학습 완료",
   "@todayQuestionsCompleted": {
     "placeholders": {
-      "count": {"type": "int"}
+      "count": {
+        "type": "int"
+      }
     }
   },
   "todayGoal": "오늘의 목표",
   "topicsProgress": "{studied}/{goal} 주제",
   "@topicsProgress": {
     "placeholders": {
-      "studied": {"type": "int"},
-      "goal": {"type": "int"}
+      "studied": {
+        "type": "int"
+      },
+      "goal": {
+        "type": "int"
+      }
     }
   },
   "streakDays": "연속 {days}일째 학습 중!",
   "@streakDays": {
     "placeholders": {
-      "days": {"type": "int"}
+      "days": {
+        "type": "int"
+      }
     }
   },
-
   "overallProgress": "전체 진행률",
   "mastered": "완전 습득",
   "studiedOnce": "1회 이상 학습",
   "totalQuestions": "총 {count}문제",
   "@totalQuestions": {
     "placeholders": {
-      "count": {"type": "int"}
+      "count": {
+        "type": "int"
+      }
     }
   },
   "questionsMastered": "{count} / {total} 문제 완전 습득",
   "@questionsMastered": {
     "placeholders": {
-      "count": {"type": "int"},
-      "total": {"type": "int"}
+      "count": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
     }
   },
-
   "study": "학습",
   "notifications": "알림",
   "appSettings": "앱 설정",
@@ -95,7 +107,9 @@
   "topicsUnit": "{count}주제",
   "@topicsUnit": {
     "placeholders": {
-      "count": {"type": "int"}
+      "count": {
+        "type": "int"
+      }
     }
   },
   "customSetting": "직접 설정",
@@ -104,7 +118,6 @@
   "themeSystem": "시스템 설정",
   "themeLight": "라이트 모드",
   "themeDark": "다크 모드",
-
   "studyComplete": "학습 완료",
   "goodJob": "수고하셨습니다",
   "goHome": "홈으로",
@@ -115,24 +128,22 @@
   "wrongReview": "오답 복습",
   "spacedReview": "망각곡선 복습",
   "newLearning": "신규 학습",
-
   "errorOccurred": "오류가 발생했습니다",
   "retry": "다시 시도",
   "stopStudy": "학습 중단",
   "stopStudyConfirm": "학습을 중단하시겠습니까?\n현재까지의 진행 상황은 저장됩니다.",
   "continueStudyButton": "계속 학습",
   "stop": "중단",
-
   "levelProgress": "레벨별 진행률",
-
   "reviewAvailable": "복습할 문제가 있어요!",
   "reviewWaiting": "{count}개의 문제가 복습을 기다려요",
   "@reviewWaiting": {
     "placeholders": {
-      "count": {"type": "int"}
+      "count": {
+        "type": "int"
+      }
     }
   },
-
   "welcome": "환영합니다!",
   "selectLevel": "목표 레벨을 선택하세요",
   "@selectLevel": {
@@ -140,39 +151,50 @@
   },
   "canChangeInSettings": "나중에 설정에서 변경할 수 있어요",
   "start": "시작하기",
-
   "levelTarget": "목표 레벨",
   "@levelTarget": {
     "description": "목표 레벨 라벨"
   },
   "levelNameA1": "입문",
-  "@levelNameA1": { "description": "A1 레벨명" },
+  "@levelNameA1": {
+    "description": "A1 레벨명"
+  },
   "levelNameA2": "초급",
-  "@levelNameA2": { "description": "A2 레벨명" },
+  "@levelNameA2": {
+    "description": "A2 레벨명"
+  },
   "levelNameB1": "중급",
-  "@levelNameB1": { "description": "B1 레벨명" },
+  "@levelNameB1": {
+    "description": "B1 레벨명"
+  },
   "levelNameB2": "중상급",
-  "@levelNameB2": { "description": "B2 레벨명" },
+  "@levelNameB2": {
+    "description": "B2 레벨명"
+  },
   "levelNameC1": "상급",
-  "@levelNameC1": { "description": "C1 레벨명" },
+  "@levelNameC1": {
+    "description": "C1 레벨명"
+  },
   "levelNameC2": "최상급",
-  "@levelNameC2": { "description": "C2 레벨명" },
+  "@levelNameC2": {
+    "description": "C2 레벨명"
+  },
   "grammar": "문법",
   "vocabulary": "어휘",
   "grammarAndVocabulary": "문법 & 어휘",
-
   "noWrongAnswers": "틀린 문제가 없어요!",
   "noWrongAnswersDesc": "꾸준히 학습하며 실력을 쌓아가고 있네요.\n앞으로도 화이팅!",
   "wrongCount": "{count}회 틀림",
   "@wrongCount": {
     "placeholders": {
-      "count": {"type": "int"}
+      "count": {
+        "type": "int"
+      }
     }
   },
   "correctAnswer": "정답",
   "yourAnswer": "내가 고른 답",
   "explanation": "해설",
-
   "premium": "프리미엄",
   "removeAds": "광고 제거",
   "premiumActivated": "프리미엄이 활성화되었습니다",
@@ -181,26 +203,22 @@
   "purchaseFailed": "구매에 실패했습니다",
   "purchasesRestored": "구매가 복원되었습니다",
   "productNotAvailable": "상품을 불러올 수 없습니다",
-
   "studyNotification": "학습 알림",
-  "dailyNotification": "하루 이상 접속하지 않으면 학습 알림",
+  "dailyNotification": "매일 정한 시간에 알림, 하루 쉬면 한 번 더",
   "notificationOff": "알림 꺼짐",
   "notificationTime": "알림 시간",
   "notificationChannelName": "학습 리마인더",
   "notificationChannelDesc": "매일 학습 시간을 알려드립니다",
   "notificationTitle": "쉬운 스페인어",
   "notificationBody": "오늘의 학습을 시작할 시간이에요!",
-
   "language": "언어",
   "selectLanguage": "언어 선택",
   "languageSystem": "시스템 설정",
-
   "soundAndVibration": "사운드 및 진동",
   "soundEffects": "효과음",
   "soundEffectsDesc": "정답/오답 시 효과음 재생",
   "vibration": "진동",
   "vibrationDesc": "정답/오답 시 진동 피드백",
-
   "ttsSettings": "음성 설정",
   "ttsAutoPlay": "자동 재생",
   "ttsAutoPlayDesc": "정답 확인 시 스페인어 자동 발음",
@@ -211,7 +229,6 @@
   "ttsSpeedNormal": "보통",
   "ttsSpeedFast": "빠르게",
   "ttsTestPlay": "미리 듣기",
-
   "showHint": "힌트 보기",
   "nextQuestion": "다음 문제",
   "keyPoints": "핵심 포인트",
@@ -223,10 +240,11 @@
   "continueReviewWithCount": "이어서 복습 ({count}개 남음)",
   "@continueReviewWithCount": {
     "placeholders": {
-      "count": {"type": "int"}
+      "count": {
+        "type": "int"
+      }
     }
   },
-
   "totalStudied": "총 학습 문제",
   "accuracyRate": "정답률",
   "studyDays": "학습 일수",
@@ -238,48 +256,62 @@
   "daysUnit": "{count}일",
   "@daysUnit": {
     "placeholders": {
-      "count": {"type": "int"}
+      "count": {
+        "type": "int"
+      }
     }
   },
   "minutes": "{count}분",
   "@minutes": {
     "placeholders": {
-      "count": {"type": "int"}
+      "count": {
+        "type": "int"
+      }
     }
   },
   "selectDailyGoal": "일일 학습량 선택",
   "selectTargetLevel": "목표 레벨 선택",
-
   "notificationMsg1": "스페인어 실력이 기다리고 있어요! 오늘도 한 걸음 나아가볼까요?",
-  "@notificationMsg1": { "description": "동기부여 알림 메시지 1" },
+  "@notificationMsg1": {
+    "description": "동기부여 알림 메시지 1"
+  },
   "notificationMsg2": "어제 배운 내용, 기억나시나요? 복습하면 더 오래 기억돼요!",
-  "@notificationMsg2": { "description": "동기부여 알림 메시지 2" },
+  "@notificationMsg2": {
+    "description": "동기부여 알림 메시지 2"
+  },
   "notificationMsg3": "매일 조금씩, 꾸준히! 오늘의 스페인어 학습을 시작해보세요.",
-  "@notificationMsg3": { "description": "동기부여 알림 메시지 3" },
+  "@notificationMsg3": {
+    "description": "동기부여 알림 메시지 3"
+  },
   "notificationMsg4": "¡Hola! 스페인어가 보고 싶었어요. 오늘도 함께 공부해요!",
-  "@notificationMsg4": { "description": "동기부여 알림 메시지 4" },
+  "@notificationMsg4": {
+    "description": "동기부여 알림 메시지 4"
+  },
   "notificationMsg5": "학습 연속 기록이 끊기기 전에! 지금 바로 시작해볼까요?",
-  "@notificationMsg5": { "description": "동기부여 알림 메시지 5" },
-
+  "@notificationMsg5": {
+    "description": "동기부여 알림 메시지 5"
+  },
   "howManyTopics": "하루에 몇 주제를 학습할까요?",
-  "@howManyTopics": { "description": "온보딩 일일 학습량 질문" },
+  "@howManyTopics": {
+    "description": "온보딩 일일 학습량 질문"
+  },
   "oneTopic": "1주제",
   "twoTopics": "2주제",
   "threeTopics": "3주제",
   "lightStart": "가볍게 시작",
   "moderateAmount": "적당한 학습량",
   "intensiveStudy": "집중 학습",
-
   "topicList": "주제 목록",
   "notStudiedYet": "미학습",
   "studiedLabel": "학습 완료",
   "topicCount": "{count}개 주제",
   "@topicCount": {
     "placeholders": {
-      "count": {"type": "int"}
+      "count": {
+        "type": "int"
+      }
     }
   },
-
   "speakingPractice": "말하기 연습",
   "speakingTest": "말하기 테스트",
   "speakingBrowseAll": "씨앗 골라서 연습",
@@ -288,11 +320,19 @@
   "test": "테스트",
   "cardsCount": "{count}개 카드",
   "@cardsCount": {
-    "placeholders": { "count": {"type": "int"} }
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
   },
   "loadFailedError": "로드 실패: {error}",
   "@loadFailedError": {
-    "placeholders": { "error": {"type": "String"} }
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
   },
   "noSeeds": "씨앗 문장이 없습니다.",
   "showMeaning": "뜻 보기",
@@ -306,35 +346,54 @@
   "micPermissionRequired": "마이크 또는 음성 인식 권한이 필요합니다. 설정에서 허용해주세요.",
   "speechError": "음성 인식 오류: {error}",
   "@speechError": {
-    "placeholders": { "error": {"type": "String"} }
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
   },
   "practiceResult": "연습 결과",
   "testResult": "테스트 결과",
   "passedOfTotal": "{passed} / {total} 통과",
   "@passedOfTotal": {
     "placeholders": {
-      "passed": {"type": "int"},
-      "total": {"type": "int"}
+      "passed": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
     }
   },
   "averageAccuracy": "평균 정확도 {percent}",
   "@averageAccuracy": {
-    "placeholders": { "percent": {"type": "String"} }
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
   },
   "testPassed": "🎉 합격!",
   "testFailed": "아쉬워요. 다시 도전해봐요.",
-  "goHome": "홈으로",
   "sayInSpanishHint": "보고 스페인어로 말하세요",
   "variationBase": "기본 문장",
   "variationSubject": "주어 변경 · {subject}",
   "@variationSubject": {
-    "placeholders": { "subject": {"type": "String"} }
+    "placeholders": {
+      "subject": {
+        "type": "String"
+      }
+    }
   },
   "variationNegative": "부정문",
   "variationInterrogative": "의문문",
   "variationNounSwap": "단어 교체 · {noun}",
   "@variationNounSwap": {
-    "placeholders": { "noun": {"type": "String"} }
+    "placeholders": {
+      "noun": {
+        "type": "String"
+      }
+    }
   },
   "variationPhrase": "관용 표현",
   "feedbackPerfect": "완벽해요! 🎉",
@@ -346,20 +405,29 @@
   "attemptCounter": "{current}/{total} 시도",
   "@attemptCounter": {
     "placeholders": {
-      "current": {"type": "int"},
-      "total": {"type": "int"}
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
     }
   },
   "playHint": "발음 힌트",
   "speakingReview": "말하기 복습",
   "speakingReviewDue": "{count}장 복습 대기",
   "@speakingReviewDue": {
-    "placeholders": { "count": {"type": "int"} }
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
   },
   "noReviewDue": "복습할 카드가 없습니다.\n다음에 다시 만나요!",
   "searchHint": "검색…",
   "quizListenPrompt": "듣고 빈칸에 들어갈 말을 고르세요",
   "quizTypePrompt": "빈칸에 들어갈 말을 직접 쓰세요",
   "quizCheck": "확인",
-  "quizSayIt": "문장 전체를 따라 말해 보세요"
+  "quizSayIt": "문장 전체를 따라 말해 보세요",
+  "badgeNew": "NEW"
 }

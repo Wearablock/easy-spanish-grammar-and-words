@@ -2,6 +2,7 @@
 """Content review of the English master with the Claude Code CLI — before translating a LV.
 
     python3 tools/content/review.py LV1        → content-src/review-LV1.json  (only flagged questions)
+    ES_TOPICS=ch_vocab_a1_06,ch_gram_a1_07 ES_TAG=1030 python3 tools/content/review.py LV2   → only those topics · review-LV2-1030.json
 
 LV = slice of the daily path (question_selector._orderForDailyPath: A1→B1, grammar/vocab alternating), 11 topics each.
 The reviewer flags: wrong answer · two correct options · Spanish error · misleading explanation · level mismatch.
@@ -28,7 +29,14 @@ def path_topics():
 def lv_slice(n, size=11):
     """LV1~LV8 = 11 topics each · LV9 = the rest (14) — A1~B1 is 102 topics"""
     t = path_topics()
-    return t[(n - 1) * size:] if n == 9 else t[(n - 1) * size: n * size]
+    t = t[(n - 1) * size:] if n == 9 else t[(n - 1) * size: n * size]
+    only = os.environ.get("ES_TOPICS")       # 10-30 daily 2 topics: ES_TOPICS=ch_vocab_a1_06,ch_gram_a1_07
+    return [x for x in t if x[0] in only.split(",")] if only else t
+
+
+def tag(n):
+    """file name part: LV2 · or LV2-1030 when ES_TAG=1030 (one record per day, not overwritten)"""
+    return f"LV{n}" + (f"-{os.environ['ES_TAG']}" if os.environ.get("ES_TAG") else "")
 
 
 PROMPT = """You are a strict Spanish teacher reviewing quiz items for learners (CEFR {cefr}). For each item check:
@@ -56,7 +64,7 @@ def main():
             g["topic"] = topic
         flagged += got
         print(f"{topic}: {len(qs)} checked · {len(got)} flagged", flush=True)
-    out = os.path.join(M.ROOT, "content-src", f"review-LV{n}.json")
+    out = os.path.join(M.ROOT, "content-src", f"review-{tag(n)}.json")
     M.save(out, flagged)
     print(f"→ {out} · {len(flagged)} flagged")
 

@@ -170,8 +170,8 @@
     "question": "Was bedeutet 'esposa' in 'Ella es mi esposa'?",
     "correct": "Ehefrau",
     "wrong": [
-      "Freundin (Partnerin)",
-      "Freundin",
+      "feste Freundin",
+      "Freund",
       "Schwester"
     ],
     "explanation": "'Esposa' bedeutet 'Ehefrau'. 'Esposo' bedeutet 'Ehemann'. Im Alltag sagt man auch 'mujer' (Frau) und 'marido' (Mann).",
@@ -262,7 +262,7 @@
     "wrong": [
       "Kalender",
       "Wecker",
-      "Zeitmesser"
+      "Timer"
     ],
     "explanation": "'Reloj' kann im Spanischen sowohl 'Uhr' (Wanduhr) als auch 'Armbanduhr' bedeuten.",
     "hint": null
@@ -567,7 +567,7 @@
       "Saft",
       "Kaffee"
     ],
-    "explanation": "'Agua' bedeutet 'Wasser'. Obwohl es feminin ist, steht im Singular 'el': 'el agua' (um zwei aufeinanderfolgende 'a'-Laute zu vermeiden).",
+    "explanation": "'Agua' bedeutet 'Wasser'. Obwohl das Wort feminin ist, steht im Singular 'el': 'el agua' (um zwei 'a'-Laute hintereinander zu vermeiden).",
     "hint": null
   },
   "q_vocab_a1_06_002": {
@@ -578,7 +578,8 @@
       "arroz",
       "pollo"
     ],
-    "explanation": "'Café con leche' bedeutet 'coffee mit milk', a sehr popular drink in Spain und Latin America."
+    "explanation": "'Café con leche' bedeutet 'Kaffee mit Milch' und ist in Spanien und Lateinamerika ein sehr beliebtes Getränk.",
+    "hint": null
   },
   "q_vocab_a1_06_003": {
     "question": "Was bedeutet 'pan'?",
@@ -588,7 +589,7 @@
       "Fleisch",
       "Käse"
     ],
-    "explanation": "'Pan' bedeutet 'Brot'. Es ist eines der grundlegendsten Lebensmittel in spanischsprachigen Ländern.",
+    "explanation": "'Pan' bedeutet 'Brot'. Es ist eines der grundlegendsten Nahrungsmittel in spanischsprachigen Ländern.",
     "hint": null
   },
   "q_vocab_a1_06_004": {
@@ -610,7 +611,7 @@
       "Quiero una taza de zumo de naranja.",
       "Quiero un vaso de vino de naranja."
     ],
-    "explanation": "'Zumo' bedeutet 'Saft' (so sagt man in Spanien; in Lateinamerika verwendet man 'jugo'). 'Vaso' bedeutet 'Glas'.",
+    "explanation": "'Zumo' bedeutet 'Saft' (in Spanien gebräuchlich; in Lateinamerika sagt man 'jugo'). 'Vaso' bedeutet 'Glas'.",
     "hint": null
   },
   "q_vocab_a1_06_006": {
@@ -619,9 +620,9 @@
     "wrong": [
       "Hähnchen",
       "Fleisch",
-      "Garnele"
+      "Garnelen"
     ],
-    "explanation": "'Pescado' bezeichnet Fisch als Lebensmittel. 'Pez' ist ein lebender Fisch. Der Satz bedeutet 'Der Fisch ist frisch'.",
+    "explanation": "'Pescado' bezeichnet Fisch als Nahrungsmittel. 'Pez' ist ein lebender Fisch. Der Satz bedeutet 'Der Fisch ist frisch'.",
     "hint": null
   },
   "q_vocab_a1_06_007": {
@@ -649,23 +650,24 @@
   },
   "q_vocab_a1_06_009": {
     "question": "Me gustan las frutas y las verduras.",
-    "correct": "I like fruits and vegetables.",
+    "correct": "Ich mag Obst und Gemüse.",
     "wrong": [
-      "I like meat and fish.",
-      "I like bread and cheese.",
-      "I like coffee and tea."
+      "Ich mag Fleisch und Fisch.",
+      "Ich mag Brot und Käse.",
+      "Ich mag Kaffee und Tee."
     ],
-    "explanation": "'Frutas' bedeutet 'fruits' und 'verduras' bedeutet 'vegetables'. 'Me gustan' wird mit verwendet Plural Nomens."
+    "explanation": "'Frutas' bedeutet 'Obst' (Früchte) und 'verduras' bedeutet 'Gemüse'. 'Me gustan' verwendet man mit Nomen im Plural.",
+    "hint": null
   },
   "q_vocab_a1_06_010": {
-    "question": "Du bist Gast in einem spanischen Haushalt und der Gastgeber bietet dir Essen an. Wie nimmst du höflich an?",
+    "question": "Du bist bei einer spanischen Familie zu Gast und der Gastgeber bietet dir etwas zu essen an. Wie nimmst du höflich an?",
     "correct": "Sí, gracias. Tiene muy buena pinta.",
     "wrong": [
       "No quiero nada.",
       "Dame más comida.",
       "No me gusta la comida española."
     ],
-    "explanation": "'Tiene muy buena pinta' bedeutet 'Es sieht sehr gut aus'. Das ist eine höfliche und wertschätzende Art, Essen anzunehmen.",
+    "explanation": "'Tiene muy buena pinta' bedeutet 'Das sieht sehr gut aus'. Das ist eine höfliche und anerkennende Art, Essen anzunehmen.",
     "context": "Being offered food at someone's home",
     "hint": null
   },

@@ -326,7 +326,7 @@ class AppLocalizationsVi extends AppLocalizations {
 
   @override
   String get dailyNotification =>
-      'Nhắc nhở học tập khi không truy cập hơn 1 ngày';
+      'Nhắc mỗi ngày vào giờ bạn chọn, và thêm một lần nếu bạn bỏ lỡ một ngày';
 
   @override
   String get notificationOff => 'Tắt thông báo';
@@ -687,4 +687,7 @@ class AppLocalizationsVi extends AppLocalizations {
 
   @override
   String get quizSayIt => 'Giờ hãy nói cả câu';
+
+  @override
+  String get badgeNew => 'MỚI';
 }

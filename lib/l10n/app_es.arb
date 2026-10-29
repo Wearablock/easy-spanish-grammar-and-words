@@ -2,18 +2,14 @@
   "@@locale": "es",
   "appTitle": "Español Fácil",
   "appFullTitle": "Español Fácil - Gramática",
-
   "home": "Inicio",
   "progress": "Progreso",
   "settings": "Ajustes",
   "wrongAnswers": "Errores",
-
   "error": "Error: {message}",
-
   "startStudy": "Empezar a estudiar",
   "continueStudy": "Continuar estudiando",
   "startReview": "Repasar",
-
   "todayStudy": "Estudio de hoy",
   "allTopicsCompleted": "¡Todos los temas completados!",
   "reviewEncouragement": "Sigue repasando para dominar el contenido.",
@@ -23,13 +19,11 @@
   "todayGoal": "Meta de hoy",
   "topicsProgress": "{studied}/{goal} temas",
   "streakDays": "¡{days} días seguidos!",
-
   "overallProgress": "Progreso general",
   "mastered": "Dominado",
   "studiedOnce": "Estudiado al menos una vez",
   "totalQuestions": "{count} preguntas en total",
   "questionsMastered": "{count} / {total} preguntas dominadas",
-
   "study": "Estudio",
   "notifications": "Notificaciones",
   "appSettings": "Configuración",
@@ -56,10 +50,9 @@
   "themeSystem": "Sistema",
   "themeLight": "Modo claro",
   "themeDark": "Modo oscuro",
-
   "studyComplete": "Estudio completado",
   "goodJob": "¡Buen trabajo!",
-  "goHome": "Ir al inicio",
+  "goHome": "Inicio",
   "accuracy": "Precisión",
   "correct": "Correcto",
   "wrong": "Incorrecto",
@@ -67,24 +60,19 @@
   "wrongReview": "Repaso de errores",
   "spacedReview": "Repaso espaciado",
   "newLearning": "Nuevo aprendizaje",
-
   "errorOccurred": "Ha ocurrido un error",
   "retry": "Reintentar",
   "stopStudy": "Detener estudio",
   "stopStudyConfirm": "¿Quieres detener el estudio?\nTu progreso se guardará.",
   "continueStudyButton": "Continuar",
   "stop": "Detener",
-
   "levelProgress": "Progreso por nivel",
-
   "reviewAvailable": "¡Tienes preguntas para repasar!",
   "reviewWaiting": "{count} preguntas esperando repaso",
-
   "welcome": "¡Bienvenido!",
   "selectLevel": "Selecciona tu nivel objetivo",
   "canChangeInSettings": "Puedes cambiarlo después en ajustes",
   "start": "Empezar",
-
   "levelTarget": "Nivel objetivo",
   "levelNameA1": "Principiante",
   "levelNameA2": "Elemental",
@@ -95,14 +83,12 @@
   "grammar": "Gramática",
   "vocabulary": "Vocabulario",
   "grammarAndVocabulary": "Gramática & Vocabulario",
-
   "noWrongAnswers": "¡Sin errores!",
   "noWrongAnswersDesc": "¡Lo estás haciendo genial!\nSigue así y sigue aprendiendo.",
   "wrongCount": "{count} veces incorrecto",
   "correctAnswer": "Respuesta correcta",
   "yourAnswer": "Tu respuesta",
   "explanation": "Explicación",
-
   "premium": "Premium",
   "removeAds": "Eliminar anuncios",
   "premiumActivated": "Premium activado",
@@ -111,26 +97,22 @@
   "purchaseFailed": "La compra ha fallado",
   "purchasesRestored": "Compras restauradas",
   "productNotAvailable": "Producto no disponible",
-
   "studyNotification": "Notificación de estudio",
-  "dailyNotification": "Recordatorio de estudio si no accedes en más de un día",
+  "dailyNotification": "Un aviso diario a tu hora, y otro si te saltas un día",
   "notificationOff": "Notificaciones desactivadas",
   "notificationTime": "Hora de notificación",
   "notificationChannelName": "Recordatorio de estudio",
   "notificationChannelDesc": "Recordatorios diarios de estudio",
   "notificationTitle": "Español Fácil",
   "notificationBody": "¡Es hora de empezar a estudiar!",
-
   "language": "Idioma",
   "selectLanguage": "Seleccionar idioma",
   "languageSystem": "Sistema",
-
   "soundAndVibration": "Sonido y vibración",
   "soundEffects": "Efectos de sonido",
   "soundEffectsDesc": "Reproducir sonido al acertar/fallar",
   "vibration": "Vibración",
   "vibrationDesc": "Vibración al acertar/fallar",
-
   "ttsSettings": "Configuración de voz",
   "ttsAutoPlay": "Reproducción automática",
   "ttsAutoPlayDesc": "Pronunciar español automáticamente al acertar",
@@ -141,7 +123,6 @@
   "ttsSpeedNormal": "Normal",
   "ttsSpeedFast": "Rápido",
   "ttsTestPlay": "Vista previa",
-
   "showHint": "Ver pista",
   "nextQuestion": "Siguiente pregunta",
   "keyPoints": "Puntos clave",
@@ -153,10 +134,11 @@
   "continueReviewWithCount": "Seguir repasando ({count} restantes)",
   "@continueReviewWithCount": {
     "placeholders": {
-      "count": {"type": "int"}
+      "count": {
+        "type": "int"
+      }
     }
   },
-
   "totalStudied": "Total estudiado",
   "accuracyRate": "Tasa de acierto",
   "studyDays": "Días de estudio",
@@ -169,13 +151,11 @@
   "minutes": "{count} min",
   "selectDailyGoal": "Seleccionar meta diaria",
   "selectTargetLevel": "Seleccionar nivel objetivo",
-
   "notificationMsg1": "¡Tu español te espera! ¿Listo para dar otro paso hoy?",
   "notificationMsg2": "¿Recuerdas lo que aprendiste ayer? ¡Repasar ayuda a recordar más!",
   "notificationMsg3": "¡Un poco cada día! Empieza tu lección de español hoy.",
   "notificationMsg4": "¡Hola! Te echamos de menos. ¡Estudiemos español juntos hoy!",
   "notificationMsg5": "¡No rompas tu racha! Empieza a estudiar ahora.",
-
   "howManyTopics": "¿Cuántos temas al día?",
   "oneTopic": "1 tema",
   "twoTopics": "2 temas",
@@ -183,16 +163,20 @@
   "lightStart": "Inicio ligero",
   "moderateAmount": "Cantidad moderada",
   "intensiveStudy": "Estudio intensivo",
-
   "topicList": "Lista de temas",
   "notStudiedYet": "Sin estudiar",
   "studiedLabel": "Estudiado",
   "topicCount": "{count} temas",
-  "@topicCount": { "placeholders": { "count": {"type": "int"} } },
-
+  "@topicCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
   "speakingPractice": "Práctica de Conversación",
   "speakingTest": "Examen de Conversación",
-"speakingBrowseAll": "Explorar todo",
+  "speakingBrowseAll": "Explorar todo",
   "speakingFeatureDesc": "Practica decenas de variaciones de una frase: cambia el sujeto, niega, pregunta o sustituye palabras.",
   "practice": "Practicar",
   "test": "Examen",
@@ -215,7 +199,6 @@
   "averageAccuracy": "Precisión media {percent}",
   "testPassed": "🎉 ¡Aprobado!",
   "testFailed": "Casi. ¡Inténtalo de nuevo!",
-  "goHome": "Inicio",
   "sayInSpanishHint": "Mira y dilo en español",
   "variationBase": "Frase base",
   "variationSubject": "Sujeto · {subject}",
@@ -238,5 +221,6 @@
   "quizListenPrompt": "Escucha y elige la palabra que falta",
   "quizTypePrompt": "Escribe la palabra que falta",
   "quizCheck": "Comprobar",
-  "quizSayIt": "Ahora di la frase completa"
+  "quizSayIt": "Ahora di la frase completa",
+  "badgeNew": "NUEVO"
 }

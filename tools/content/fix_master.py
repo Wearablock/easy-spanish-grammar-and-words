@@ -16,7 +16,7 @@ Items:
 
 
 def main():
-    lvname = sys.argv[1].upper()
+    lvname = sys.argv[1].upper() + (f"-{os.environ['ES_TAG']}" if os.environ.get("ES_TAG") else "")
     review = M.load(os.path.join(M.ROOT, "content-src", f"review-{lvname}.json"))
     out = os.path.join(M.ROOT, "content-src", f"fix-{lvname}.json")
     where = {}

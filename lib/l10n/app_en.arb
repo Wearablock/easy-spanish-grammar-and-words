@@ -2,18 +2,14 @@
   "@@locale": "en",
   "appTitle": "Easy Spanish",
   "appFullTitle": "Easy Spanish - Grammar & Words",
-
   "home": "Home",
   "progress": "Progress",
   "settings": "Settings",
   "wrongAnswers": "Wrong Answers",
-
   "error": "Error: {message}",
-
   "startStudy": "Start Study",
   "continueStudy": "Continue Study",
   "startReview": "Start Review",
-
   "todayStudy": "Today's Study",
   "allTopicsCompleted": "All Topics Completed!",
   "reviewEncouragement": "Keep practicing with reviews to master the content.",
@@ -23,13 +19,11 @@
   "todayGoal": "Today's Goal",
   "topicsProgress": "{studied}/{goal} topics",
   "streakDays": "{days} day streak!",
-
   "overallProgress": "Overall Progress",
   "mastered": "Mastered",
   "studiedOnce": "Studied Once",
   "totalQuestions": "Total {count} questions",
   "questionsMastered": "{count} / {total} questions mastered",
-
   "study": "Study",
   "notifications": "Notifications",
   "appSettings": "App Settings",
@@ -56,10 +50,9 @@
   "themeSystem": "System Default",
   "themeLight": "Light Mode",
   "themeDark": "Dark Mode",
-
   "studyComplete": "Study Complete",
   "goodJob": "Good job!",
-  "goHome": "Go Home",
+  "goHome": "Go home",
   "accuracy": "Accuracy",
   "correct": "Correct",
   "wrong": "Wrong",
@@ -67,24 +60,19 @@
   "wrongReview": "Wrong Review",
   "spacedReview": "Spaced Review",
   "newLearning": "New Learning",
-
   "errorOccurred": "An error occurred",
   "retry": "Retry",
   "stopStudy": "Stop Study",
   "stopStudyConfirm": "Do you want to stop studying?\nYour progress will be saved.",
   "continueStudyButton": "Continue",
   "stop": "Stop",
-
   "levelProgress": "Progress by Level",
-
   "reviewAvailable": "You have questions to review!",
   "reviewWaiting": "{count} questions waiting for review",
-
   "welcome": "Welcome!",
   "selectLevel": "Select your target level",
   "canChangeInSettings": "You can change this in settings later",
   "start": "Start",
-
   "levelTarget": "Target Level",
   "levelNameA1": "Beginner",
   "levelNameA2": "Elementary",
@@ -95,14 +83,12 @@
   "grammar": "Grammar",
   "vocabulary": "Vocabulary",
   "grammarAndVocabulary": "Grammar & Vocabulary",
-
   "noWrongAnswers": "No wrong answers!",
   "noWrongAnswersDesc": "You're doing great! Keep up the good work\nand continue building your skills!",
   "wrongCount": "Wrong {count} times",
   "correctAnswer": "Correct Answer",
   "yourAnswer": "Your Answer",
   "explanation": "Explanation",
-
   "premium": "Premium",
   "removeAds": "Remove Ads",
   "premiumActivated": "Premium activated",
@@ -111,26 +97,22 @@
   "purchaseFailed": "Purchase failed",
   "purchasesRestored": "Purchases restored",
   "productNotAvailable": "Product not available",
-
   "studyNotification": "Study Notification",
-  "dailyNotification": "Study reminder when inactive for over a day",
+  "dailyNotification": "A daily reminder at your time, plus one if you skip a day",
   "notificationOff": "Notification off",
   "notificationTime": "Notification Time",
   "notificationChannelName": "Study Reminder",
   "notificationChannelDesc": "Daily study time reminders",
   "notificationTitle": "Easy Spanish",
   "notificationBody": "Time to start today's study!",
-
   "language": "Language",
   "selectLanguage": "Select Language",
   "languageSystem": "System Default",
-
   "soundAndVibration": "Sound & Vibration",
   "soundEffects": "Sound Effects",
   "soundEffectsDesc": "Play sound on correct/wrong answers",
   "vibration": "Vibration",
   "vibrationDesc": "Haptic feedback on correct/wrong answers",
-
   "ttsSettings": "Voice Settings",
   "ttsAutoPlay": "Auto Play",
   "ttsAutoPlayDesc": "Auto-pronounce Spanish on correct answer",
@@ -141,7 +123,6 @@
   "ttsSpeedNormal": "Normal",
   "ttsSpeedFast": "Fast",
   "ttsTestPlay": "Preview",
-
   "showHint": "Show Hint",
   "nextQuestion": "Next Question",
   "keyPoints": "Key Points",
@@ -153,10 +134,11 @@
   "continueReviewWithCount": "Continue Review ({count} remaining)",
   "@continueReviewWithCount": {
     "placeholders": {
-      "count": {"type": "int"}
+      "count": {
+        "type": "int"
+      }
     }
   },
-
   "totalStudied": "Total Studied",
   "accuracyRate": "Accuracy Rate",
   "studyDays": "Study Days",
@@ -169,13 +151,11 @@
   "minutes": "{count} min",
   "selectDailyGoal": "Select Daily Goal",
   "selectTargetLevel": "Select Target Level",
-
   "notificationMsg1": "Your Spanish skills are waiting! Ready to take another step today?",
   "notificationMsg2": "Remember what you learned yesterday? Reviewing helps you remember longer!",
   "notificationMsg3": "A little every day goes a long way! Start your Spanish lesson today.",
   "notificationMsg4": "¡Hola! We've missed you. Let's study Spanish together today!",
   "notificationMsg5": "Don't break your streak! Start studying now before it's too late.",
-
   "howManyTopics": "How many topics per day?",
   "oneTopic": "1 topic",
   "twoTopics": "2 topics",
@@ -183,20 +163,20 @@
   "lightStart": "Light start",
   "moderateAmount": "Moderate amount",
   "intensiveStudy": "Intensive study",
-
   "topicList": "Topics",
   "notStudiedYet": "Not studied",
   "studiedLabel": "Studied",
   "topicCount": "{count} topics",
   "@topicCount": {
     "placeholders": {
-      "count": {"type": "int"}
+      "count": {
+        "type": "int"
+      }
     }
   },
-
   "speakingPractice": "Speaking Practice",
   "speakingTest": "Speaking Test",
-"speakingBrowseAll": "Browse all",
+  "speakingBrowseAll": "Browse all",
   "speakingFeatureDesc": "Practice and test dozens of variations from one sentence: change subject, negate, ask, swap words.",
   "practice": "Practice",
   "test": "Test",
@@ -219,7 +199,6 @@
   "averageAccuracy": "Average accuracy {percent}",
   "testPassed": "🎉 Passed!",
   "testFailed": "Not yet. Try again!",
-  "goHome": "Go home",
   "sayInSpanishHint": "Look and say it in Spanish",
   "variationBase": "Base sentence",
   "variationSubject": "Subject · {subject}",
@@ -242,5 +221,9 @@
   "quizListenPrompt": "Listen and pick the missing word",
   "quizTypePrompt": "Type the missing word",
   "quizCheck": "Check",
-  "quizSayIt": "Now say the whole sentence"
+  "quizSayIt": "Now say the whole sentence",
+  "badgeNew": "NEW",
+  "@badgeNew": {
+    "description": "Small badge on a new feature card"
+  }
 }

@@ -86,7 +86,7 @@
       "Los mapas son grandes.",
       "El mapa es pequeño."
     ],
-    "explanation": "'mapa' 雖然以 -a 結尾,卻是陽性(「-a = 陰性」規則的另一個例外)。\n'big' = 'grande',不會隨性別變化。",
+    "explanation": "'mapa' 雖然以 -a 結尾,卻是陽性(「-a = 陰性」規則的另一個例外)。\n「大」= 'grande',不會隨性別變化。",
     "hint": null
   },
   "q_gram_a1_01_009": {
@@ -259,14 +259,14 @@
     "hint": null
   },
   "q_gram_a1_03_004": {
-    "question": "Soy ___. (Yo soy maestro.) (選出適當的答案)",
+    "question": "Soy ___. (我是老師。)",
     "correct": "profesor",
     "wrong": [
       "un profesor",
       "el profesor",
       "una profesora"
     ],
-    "explanation": "在西班牙語中,ser 後面接職業時,不加不定冠詞。\n- Soy profesor. (正確)\n- Soy un profesor. (在標準西班牙語中,若沒有形容詞或補語則不正確)\n這條規則也適用於國籍:Soy español.",
+    "explanation": "在西班牙語中,ser 後面接沒有修飾語的職業時,通常省略不定冠詞。\n- Soy profesor. (正確)\n- Soy un profesor muy bueno. (加上形容詞或修飾語時,就要使用冠詞)\n這條規則也適用於國籍:Soy español.",
     "conjugation_info": "Ser + 職業: no 冠詞 needed. Soy profesor, Soy estudiante, Soy médico.",
     "hint": null
   },
@@ -282,14 +282,14 @@
     "hint": "ciudad 是陰性名詞"
   },
   "q_gram_a1_03_006": {
-    "question": "no hay ___. (那裡沒有問題。)",
+    "question": "No hay ___. (沒有問題。)",
     "correct": "problema",
     "wrong": [
       "un problema",
       "el problema",
-      "problemas"
+      "unos problemas"
     ],
-    "explanation": "在否定的 'no hay' 之後,不定冠詞要省略。\n- no hay problema. (正確)\n- no hay azúcar. (沒有糖。)\n在否定的存在句中,冠詞會被省略。",
+    "explanation": "在否定的 'no hay' 之後,不定冠詞要省略。\n- No hay problema. (正確)\n- No hay azúcar. (沒有糖。)\n在否定的存在句中,冠詞會被省略。",
     "conjugation_info": "省略 indefinite 冠詞 after: sin (沒有), no hay (那裡 isn't), 和 與 professions after ser.",
     "hint": null
   },
@@ -429,7 +429,7 @@
     "hint": "注意用來區分此代名詞與冠詞的重音符號"
   },
   "q_gram_a1_04_009": {
-    "question": "¿___ es usted? – Soy Ana García.",
+    "question": "¿___ es usted? – Soy Ana García. (您是誰?)",
     "correct": "Quién",
     "wrong": [
       "Dónde",
@@ -685,8 +685,8 @@
       "son",
       "están"
     ],
-    "explanation": "Ser 用於職業.\n- María es doctora. = María 是 a doctor.\n職業 是 an 身份 特徵, not a 臨時 狀態.",
-    "hint": "Professions 使用 ser, not estar"
+    "explanation": "職業要用 ser。\n- María es doctora. = 瑪麗亞是醫生。\n職業是身分特徵,不是暫時的狀態。",
+    "hint": "職業用 ser,不用 estar"
   },
   "q_gram_a1_07_002": {
     "question": "El hospital ___ en la calle Mayor.",
@@ -696,30 +696,31 @@
       "son",
       "están"
     ],
-    "explanation": "位置用 estar。\n- El hospital está en la calle Mayor. = 醫院在 Mayor 街上。\n表示位置一律用 estar,即使是永久性的建築物也一樣。",
-    "hint": "表示位置一律用哪個動詞?"
+    "explanation": "地點、物品和人所在的位置用 estar。\n- El hospital está en la calle Mayor. = 醫院在主街上。\n- 活動是例外:要用 ser(La fiesta es en mi casa)。",
+    "hint": "表示地點、物品和人所在的位置,要用哪個動詞?"
   },
   "q_gram_a1_07_003": {
-    "question": "「ser aburrido」和「estar aburrido」有什麼不同?",
-    "correct": "「很無聊(令人覺得無聊)」對「感到無聊」",
+    "question": "「ser aburrido」和「estar aburrido」的意思分別是什麼?",
+    "correct": "很無聊(令人覺得無聊)vs 感到無聊",
     "wrong": [
-      "「感到無聊」對「很無聊(令人覺得無聊)」",
+      "感到無聊 vs 很無聊(令人覺得無聊)",
       "兩者意思相同",
-      "「感到疲倦」對「令人疲倦」"
+      "感到疲倦 vs 令人疲倦"
     ],
-    "explanation": "有些形容詞搭配 ser 或 estar 時意思會改變:\n- ser aburrido = 很無聊、乏味(特質)\n- estar aburrido = 感到無聊(感受)\n動詞的選擇會改變形容詞的意思。",
+    "explanation": "有些形容詞搭配 ser 或 estar 時,意思會改變:\n- ser aburrido = 很無聊、令人覺得無聊(特質)\n- estar aburrido = 感到無聊(感受)\n動詞的選擇會改變形容詞的意思。",
     "hint": null
   },
   "q_gram_a1_07_004": {
-    "question": "La fiesta ___ en mi casa. (conjugate 正確 動詞 爲 '到 是')",
+    "question": "La fiesta ___ en mi casa. (請填入「是/在」的正確動詞變化)",
     "correct": "es",
     "wrong": [
       "está",
       "son",
       "están"
     ],
-    "explanation": "Events 使用 'ser' 爲 位置, not 'estar'. 這 是 a 關鍵 例外!\n- La fiesta es en mi casa. = party 是 at my house.\n- Buildings 使用 estar: El cine está en la calle.",
-    "conjugation_info": "Events (fiesta, concierto, reunión) 使用 ser for 位置: La fiesta es en..."
+    "explanation": "活動的地點要用 ser,而不是 estar。這是很重要的例外!\n- La fiesta es en mi casa. = 派對在我家。\n- 建築物則用 estar:El cine está en la calle.",
+    "conjugation_info": "Events (fiesta, concierto, reunión) 使用 ser for 位置: La fiesta es en...",
+    "hint": null
   },
   "q_gram_a1_07_005": {
     "question": "Pedro ___ listo para el examen.",
@@ -729,19 +730,20 @@
       "son",
       "están"
     ],
-    "explanation": "'estar listo' = 到 是 準備好 (臨時 狀態).\n- Pedro está listo = Pedro 是 準備好.\n- Pedro es listo = Pedro 是 smart (永久 trait).\nSer/estar 與 'listo' 改變 含義 entirely.",
-    "hint": "是 Pedro smart, 或 是 he 準備好?"
+    "explanation": "「estar listo」= 準備好了(暫時的狀態)。\n- Pedro está listo = 佩德羅準備好了。\n- Pedro es listo = 佩德羅很聰明(長久的特質)。\n「listo」搭配 ser 或 estar,意思完全不同。",
+    "hint": "佩德羅是聰明,還是準備好了?"
   },
   "q_gram_a1_07_006": {
-    "question": "El edificio ___ muy alto. (conjugate 正確 動詞 爲 a characteristic)",
+    "question": "El edificio ___ muy alto. (請填入表示特徵的正確動詞變化)",
     "correct": "es",
     "wrong": [
       "está",
       "estoy",
       "son"
     ],
-    "explanation": "Ser 是 用過的 爲 inherent physical characteristics.\n- El edificio es alto. = building 是 tall.\nHeight 是 a 永久 特徵 的 building.",
-    "conjugation_info": "Ser = 永久 traits: Es alto, es grande, es bonito. Estar = 臨時 states."
+    "explanation": "事物本身固有的外觀特徵用 ser。\n- El edificio es alto. = 這棟大樓很高。\n高度是建築物長久不變的特徵。",
+    "conjugation_info": "Ser = 永久 traits: Es alto, es grande, es bonito. Estar = 臨時 states.",
+    "hint": null
   },
   "q_gram_a1_07_007": {
     "question": "Hoy yo ___ muy contento.",
@@ -751,28 +753,29 @@
       "es",
       "está"
     ],
-    "explanation": "Estar 用於情感.\n- Estoy contento = I am 快樂 (如何 I feel right now).\nEmotions 是 臨時 states 那 可以 改變.",
-    "hint": "Emotions 和 moods 使用 estar"
+    "explanation": "情緒和感受用 estar。\n- Estoy contento = 我很開心(此刻的感受)。\n情緒是會改變的暫時狀態。",
+    "hint": "情緒和心情用 estar"
   },
   "q_gram_a1_07_008": {
-    "question": "She 是 從 Mexico.",
+    "question": "她來自墨西哥。",
     "correct": "Ella es de México.",
     "wrong": [
       "Ella está de México.",
       "Ella es en México.",
       "Ella está en México."
     ],
-    "explanation": "Ser + de = 起源/哪裡 someone 是 來自.\n- Ella es de México = She 是 來自 Mexico (起源, 永久).\n- Ella está en México = She 是 在 Mexico (位置, possibly 臨時)."
+    "explanation": "Ser + de = 來源、出身地。\n- Ella es de México = 她來自墨西哥(出身,不變)。\n- Ella está en México = 她在墨西哥(所在位置,可能是暫時的)。",
+    "hint": null
   },
   "q_gram_a1_07_009": {
-    "question": "La manzana ___ verde. (這顆蘋果是綠的——還沒成熟。)",
+    "question": "La manzana ___ verde. (這顆蘋果是綠色的——還沒成熟。)",
     "correct": "está",
     "wrong": [
       "es",
       "son",
       "están"
     ],
-    "explanation": "表示顏色時,estar 用來說明暫時的、可能改變的狀態(還沒熟 → 之後會變熟)。\n- La manzana está verde = 這顆蘋果是綠的(還沒成熟,屬於暫時狀態)。\n- La manzana es verde = 這顆蘋果是綠色的(本來就是綠色的品種)。",
+    "explanation": "談到顏色時,estar 表示暫時、會改變的狀態(未成熟 → 之後會熟)。\n- La manzana está verde = 這顆蘋果是綠的(還沒熟,暫時的)。\n- La manzana es verde = 這顆蘋果是綠色的(品種本來就是綠色)。",
     "conjugation_info": "Ser verde = green by nature. Estar verde = unripe/not 準備好.",
     "hint": null
   },
@@ -784,7 +787,7 @@
       "El libro está la mesa.",
       "El libro es la mesa."
     ],
-    "explanation": "物品的位置用 estar。\n- El libro está en la mesa. = 書在桌上。\n記住:事物和人的所在位置一律用 estar。",
+    "explanation": "物品的位置用 estar。\n- El libro está en la mesa. = 書在桌上。\n記住:事物和人所在的位置一律用 estar。",
     "hint": null
   },
   "q_gram_a1_08_001": {

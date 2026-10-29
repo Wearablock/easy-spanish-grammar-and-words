@@ -327,7 +327,8 @@ class AppLocalizationsEn extends AppLocalizations {
   String get studyNotification => 'Study Notification';
 
   @override
-  String get dailyNotification => 'Study reminder when inactive for over a day';
+  String get dailyNotification =>
+      'A daily reminder at your time, plus one if you skip a day';
 
   @override
   String get notificationOff => 'Notification off';
@@ -688,4 +689,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get quizSayIt => 'Now say the whole sentence';
+
+  @override
+  String get badgeNew => 'NEW';
 }

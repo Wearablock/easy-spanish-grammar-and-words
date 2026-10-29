@@ -61,6 +61,25 @@ class EspanolBiteApp extends ConsumerWidget {
         Locale('id'),
       ],
 
+      // iPad: 폰 화면을 늘리지 않고 가운데 한 열로 (10-30 · 늘린 화면은 대부분 비어 보였다)
+      builder: (context, child) {
+        final mq = MediaQuery.of(context);
+        if (mq.size.width <= 700) return child!;
+        const width = 640.0;
+        return ColoredBox(
+          color: Theme.of(context).scaffoldBackgroundColor,
+          child: Center(
+            child: SizedBox(
+              width: width,
+              child: MediaQuery(
+                data: mq.copyWith(size: Size(width, mq.size.height)),
+                child: child!,
+              ),
+            ),
+          ),
+        );
+      },
+
       home: const _AppHome(),
     );
   }

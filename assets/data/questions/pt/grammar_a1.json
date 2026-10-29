@@ -210,7 +210,7 @@
       "Unos gatos son independientes.",
       "Las gatas son independientes."
     ],
-    "explanation": "Em espanhol, afirmações gerais exigem o artigo definido.\n- Los gatos son independientes. (Gatos em geral)\nO português costuma omitir o artigo em afirmações gerais, mas o espanhol o exige.",
+    "explanation": "Em espanhol, afirmações gerais exigem o artigo definido.\n- Los gatos son independientes. (Gatos em geral)\nO inglês omite 'the' em afirmações gerais, mas o espanhol o exige.",
     "hint": null
   },
   "q_gram_a1_02_010": {
@@ -259,14 +259,14 @@
     "hint": null
   },
   "q_gram_a1_03_004": {
-    "question": "Soy ___. (Yo soy maestro.) (escolha a resposta adequada)",
+    "question": "Soy ___. (Eu sou professor.)",
     "correct": "profesor",
     "wrong": [
       "un profesor",
       "el profesor",
       "una profesora"
     ],
-    "explanation": "Em espanhol, omite-se o artigo indefinido com profissões depois de ser.\n- Soy profesor. (correto)\n- Soy un profesor. (incorreto no espanhol padrão, sem um adjetivo ou complemento)\nEssa regra também vale para nacionalidades: Soy español.",
+    "explanation": "Em espanhol, o artigo indefinido normalmente é omitido com uma profissão sem modificador depois de ser.\n- Soy profesor. (correto)\n- Soy un profesor muy bueno. (o artigo é usado quando se acrescenta um adjetivo ou complemento)\nEssa regra também vale para nacionalidades: Soy español.",
     "conjugation_info": "Ser + profession: no article needed. Soy profesor, Soy estudiante, Soy médico.",
     "hint": null
   },
@@ -282,14 +282,14 @@
     "hint": "ciudad é um substantivo feminino"
   },
   "q_gram_a1_03_006": {
-    "question": "no hay ___. (Ali não há problema.)",
+    "question": "No hay ___. (Não há problema.)",
     "correct": "problema",
     "wrong": [
       "un problema",
       "el problema",
-      "problemas"
+      "unos problemas"
     ],
-    "explanation": "Depois da negação 'no hay', o artigo indefinido é omitido.\n- no hay problema. (correto)\n- no hay azúcar. (Não há açúcar.)\nO artigo é omitido em frases existenciais negativas.",
+    "explanation": "Depois da negação 'no hay', o artigo indefinido é omitido.\n- No hay problema. (correto)\n- No hay azúcar. (Não há açúcar.)\nO artigo é omitido em frases existenciais negativas.",
     "conjugation_info": "Omit artigo indefinido after: sin (without), no hay (there isn't), e with professions after ser.",
     "hint": null
   },
@@ -429,7 +429,7 @@
     "hint": "Observe o acento que distingue este pronome do artigo"
   },
   "q_gram_a1_04_009": {
-    "question": "¿___ es usted? – Soy Ana García.",
+    "question": "¿___ es usted? – Soy Ana García. (Quem é você?)",
     "correct": "Quién",
     "wrong": [
       "Dónde",
@@ -685,7 +685,7 @@
       "son",
       "están"
     ],
-    "explanation": "Ser é usado para profissões.\n- María es doctora. = María é médica.\nProfissão é uma característica de identidade, não um estado temporário.",
+    "explanation": "Usa-se ser para profissões.\n- María es doctora. = María é médica.\nA profissão é uma característica de identidade, não um estado temporário.",
     "hint": "Profissões usam ser, não estar"
   },
   "q_gram_a1_07_002": {
@@ -696,18 +696,19 @@
       "son",
       "están"
     ],
-    "explanation": "Estar é usado para localização.\n- El hospital está en la calle Mayor. = O hospital fica na rua Mayor.\nLocalização sempre usa estar, mesmo para edifícios permanentes.",
-    "hint": "Qual verbo sempre se usa para localização?"
+    "explanation": "Usa-se estar para a localização de lugares, coisas e pessoas.\n- El hospital está en la calle Mayor. = O hospital fica na rua Mayor.\n- Eventos são a exceção: use ser (La fiesta es en mi casa).",
+    "hint": "Qual verbo é usado para a localização de lugares, coisas e pessoas?"
   },
   "q_gram_a1_07_003": {
-    "question": "O que does 'ser aburrido' significar vs 'estar aburrido'?",
-    "correct": "to be boring vs to be bored",
+    "question": "O que significa 'ser aburrido' em comparação com 'estar aburrido'?",
+    "correct": "ser chato vs estar entediado",
     "wrong": [
-      "to be bored vs to be boring",
-      "both mean the same thing",
-      "to be tired vs to be tiring"
+      "estar entediado vs ser chato",
+      "os dois significam a mesma coisa",
+      "estar cansado vs ser cansativo"
     ],
-    "explanation": "Some adjetivos change significado com ser vs estar:\n- ser aburrido = para ser boring (characteristic)\n- estar aburrido = para ser bored (feeling)\nO/a verbo choice changes o adjetivo's significado."
+    "explanation": "Alguns adjetivos mudam de significado com ser ou estar:\n- ser aburrido = ser chato (característica)\n- estar aburrido = estar entediado (sentimento)\nA escolha do verbo muda o significado do adjetivo.",
+    "hint": null
   },
   "q_gram_a1_07_004": {
     "question": "La fiesta ___ en mi casa. (conjugue o verbo correto para 'ser/estar')",
@@ -717,7 +718,7 @@
       "son",
       "están"
     ],
-    "explanation": "Eventos usam 'ser' para indicar localização, não 'estar'. Essa é uma exceção importante!\n- La fiesta es en mi casa. = A festa é na minha casa.\n- Edifícios usam estar: El cine está en la calle.",
+    "explanation": "Eventos usam 'ser' para indicar o lugar, não 'estar'. Essa é uma exceção importante!\n- La fiesta es en mi casa. = A festa é na minha casa.\n- Edifícios usam estar: El cine está en la calle.",
     "conjugation_info": "Events (fiesta, concierto, reunión) use ser para location: La fiesta es en...",
     "hint": null
   },
@@ -740,7 +741,7 @@
       "estoy",
       "son"
     ],
-    "explanation": "Ser é usado para características físicas inerentes.\n- El edificio es alto. = O prédio é alto.\nA altura é uma característica permanente do prédio.",
+    "explanation": "Usa-se ser para características físicas inerentes.\n- El edificio es alto. = O prédio é alto.\nA altura é uma característica permanente do prédio.",
     "conjugation_info": "Ser = permanent traits: Es alto, es grande, es bonito. Estar = estado temporários.",
     "hint": null
   },
@@ -752,8 +753,8 @@
       "es",
       "está"
     ],
-    "explanation": "Estar é usado para emotions e feelings.\n- Estoy contento = I am feliz (como I feel right now).\nEmotions são/estão estado temporários que pode change.",
-    "hint": "Emotions e moods use estar"
+    "explanation": "Usa-se estar para emoções e sentimentos.\n- Estoy contento = Estou feliz (como me sinto agora).\nEmoções são estados temporários que podem mudar.",
+    "hint": "Emoções e estados de humor usam estar"
   },
   "q_gram_a1_07_008": {
     "question": "Ela é do México.",

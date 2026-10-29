@@ -1,0 +1,110 @@
+[
+ {
+  "id": "q_vocab_a1_03_004",
+  "locale": "de",
+  "reason": "Wrong option 'Zeitmesser' is a generic word for a clock, so it could also be a correct answer; the master option is 'timer'.",
+  "before": {
+   "question": "Was bedeutet 'reloj'?",
+   "explanation": "'Reloj' kann im Spanischen sowohl 'Uhr' (Wanduhr) als auch 'Armbanduhr' bedeuten.",
+   "hint": null,
+   "correct": "Uhr (Wanduhr / Armbanduhr)",
+   "wrong": [
+    "Kalender",
+    "Wecker",
+    "Zeitmesser"
+   ]
+  },
+  "after": {
+   "question": "Was bedeutet 'reloj'?",
+   "explanation": "'Reloj' kann im Spanischen sowohl 'Uhr' (Wanduhr) als auch 'Armbanduhr' bedeuten.",
+   "hint": null,
+   "correct": "Uhr (Wanduhr / Armbanduhr)",
+   "wrong": [
+    "Kalender",
+    "Wecker",
+    "Timer"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_06_009",
+  "locale": "id",
+  "reason": "'Kakak laki-laki' means 'older brother', but the master says just 'brother'.",
+  "before": {
+   "question": "Kakak laki-laki saya sedang sakit.",
+   "explanation": "Sakit adalah kondisi sementara, jadi dipakai estar.\n- estar enfermo = sedang sakit (sementara)\nMemakai 'ser enfermo' akan keliru menyiratkan keadaan yang permanen.",
+   "hint": null,
+   "correct": "Mi hermano está enfermo.",
+   "wrong": [
+    "Mi hermano es enfermo.",
+    "Mi hermano está enfermedad.",
+    "Mis hermanos están enfermos."
+   ]
+  },
+  "after": {
+   "question": "Saudara laki-laki saya sedang sakit.",
+   "explanation": "Sakit adalah kondisi sementara, jadi dipakai estar.\n- estar enfermo = sedang sakit (sementara)\nMemakai 'ser enfermo' akan keliru menyiratkan keadaan yang permanen.",
+   "hint": null,
+   "correct": "Mi hermano está enfermo.",
+   "wrong": [
+    "Mi hermano es enfermo.",
+    "Mi hermano está enfermedad.",
+    "Mis hermanos están enfermos."
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_06_009",
+  "locale": "ko",
+  "reason": "'제 형' adds 'older brother' (and a male speaker); master just says 'my brother'.",
+  "before": {
+   "question": "제 형은 아픕니다.",
+   "explanation": "아픈 것은 일시적인 상태이므로 estar를 씁니다.\n- estar enfermo = 아프다 (일시적)\n'ser enfermo'를 쓰면 영구적인 상태라는 잘못된 뜻이 됩니다.",
+   "hint": null,
+   "correct": "Mi hermano está enfermo.",
+   "wrong": [
+    "Mi hermano es enfermo.",
+    "Mi hermano está enfermedad.",
+    "Mis hermanos están enfermos."
+   ]
+  },
+  "after": {
+   "question": "제 남자 형제는 아픕니다.",
+   "explanation": "아픈 것은 일시적인 상태이므로 estar를 씁니다.\n- estar enfermo = 아프다 (일시적)\n'ser enfermo'를 쓰면 영구적인 상태라는 잘못된 뜻이 됩니다.",
+   "hint": null,
+   "correct": "Mi hermano está enfermo.",
+   "wrong": [
+    "Mi hermano es enfermo.",
+    "Mi hermano está enfermedad.",
+    "Mis hermanos están enfermos."
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_04_004",
+  "locale": "vi",
+  "reason": "The English word 'you' is left untranslated in the question.",
+  "before": {
+   "question": "Cách nói trang trọng của 'you' (số ít) trong tiếng Tây Ban Nha là gì?",
+   "explanation": "'usted' là 'bạn' số ít trang trọng, dùng với người lạ, người lớn tuổi và trong môi trường công việc.\n- tú = 'bạn' thân mật\n- usted = 'bạn' trang trọng (chia động từ ở ngôi thứ ba)",
+   "hint": null,
+   "correct": "usted",
+   "wrong": [
+    "tú",
+    "vosotros",
+    "nosotros"
+   ]
+  },
+  "after": {
+   "question": "Cách nói trang trọng của 'bạn' (số ít) trong tiếng Tây Ban Nha là gì?",
+   "explanation": "'usted' là 'bạn' số ít trang trọng, dùng với người lạ, người lớn tuổi và trong môi trường công việc.\n- tú = 'bạn' thân mật\n- usted = 'bạn' trang trọng (chia động từ ở ngôi thứ ba)",
+   "hint": null,
+   "correct": "usted",
+   "wrong": [
+    "tú",
+    "vosotros",
+    "nosotros"
+   ]
+  }
+ }
+]

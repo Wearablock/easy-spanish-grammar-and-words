@@ -76,9 +76,9 @@ class _SpeakingPracticeCtaState extends ConsumerState<SpeakingPracticeCta> {
                   ),
                 ],
               ),
-              child: const Text(
-                'NUEVO',
-                style: TextStyle(
+              child: Text(
+                l10n.badgeNew,
+                style: const TextStyle(
                   color: Colors.white,
                   fontSize: 10,
                   fontWeight: FontWeight.w800,

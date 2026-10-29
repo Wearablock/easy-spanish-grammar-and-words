@@ -2,18 +2,14 @@
   "@@locale": "fr",
   "appTitle": "Espagnol Facile",
   "appFullTitle": "Espagnol Facile - Grammaire",
-
   "home": "Accueil",
   "progress": "Progrès",
   "settings": "Paramètres",
   "wrongAnswers": "Erreurs",
-
   "error": "Erreur : {message}",
-
   "startStudy": "Commencer l'étude",
   "continueStudy": "Continuer l'étude",
   "startReview": "Réviser",
-
   "todayStudy": "Étude du jour",
   "allTopicsCompleted": "Tous les sujets terminés !",
   "reviewEncouragement": "Continuez à réviser pour maîtriser le contenu.",
@@ -23,13 +19,11 @@
   "todayGoal": "Objectif du jour",
   "topicsProgress": "{studied}/{goal} sujets",
   "streakDays": "{days} jours consécutifs !",
-
   "overallProgress": "Progrès global",
   "mastered": "Maîtrisé",
   "studiedOnce": "Étudié au moins une fois",
   "totalQuestions": "{count} questions au total",
   "questionsMastered": "{count} / {total} questions maîtrisées",
-
   "study": "Étude",
   "notifications": "Notifications",
   "appSettings": "Paramètres de l'app",
@@ -56,10 +50,9 @@
   "themeSystem": "Système",
   "themeLight": "Mode clair",
   "themeDark": "Mode sombre",
-
   "studyComplete": "Étude terminée",
   "goodJob": "Bon travail !",
-  "goHome": "Retour à l'accueil",
+  "goHome": "Accueil",
   "accuracy": "Précision",
   "correct": "Correct",
   "wrong": "Incorrect",
@@ -67,24 +60,19 @@
   "wrongReview": "Révision des erreurs",
   "spacedReview": "Révision espacée",
   "newLearning": "Nouvel apprentissage",
-
   "errorOccurred": "Une erreur est survenue",
   "retry": "Réessayer",
   "stopStudy": "Arrêter l'étude",
   "stopStudyConfirm": "Voulez-vous arrêter l'étude ?\nVotre progrès sera sauvegardé.",
   "continueStudyButton": "Continuer",
   "stop": "Arrêter",
-
   "levelProgress": "Progrès par niveau",
-
   "reviewAvailable": "Vous avez des questions à réviser !",
   "reviewWaiting": "{count} questions en attente de révision",
-
   "welcome": "Bienvenue !",
   "selectLevel": "Sélectionnez votre niveau cible",
   "canChangeInSettings": "Vous pourrez le modifier dans les paramètres",
   "start": "Commencer",
-
   "levelTarget": "Niveau cible",
   "levelNameA1": "Débutant",
   "levelNameA2": "Élémentaire",
@@ -95,14 +83,12 @@
   "grammar": "Grammaire",
   "vocabulary": "Vocabulaire",
   "grammarAndVocabulary": "Grammaire & Vocabulaire",
-
   "noWrongAnswers": "Aucune erreur !",
   "noWrongAnswersDesc": "Vous vous en sortez très bien !\nContinuez comme ça !",
   "wrongCount": "{count} fois incorrect",
   "correctAnswer": "Bonne réponse",
   "yourAnswer": "Votre réponse",
   "explanation": "Explication",
-
   "premium": "Premium",
   "removeAds": "Supprimer les pubs",
   "premiumActivated": "Premium activé",
@@ -111,26 +97,22 @@
   "purchaseFailed": "L'achat a échoué",
   "purchasesRestored": "Achats restaurés",
   "productNotAvailable": "Produit non disponible",
-
   "studyNotification": "Rappel d'étude",
-  "dailyNotification": "Rappel d'étude après plus d'un jour d'inactivité",
+  "dailyNotification": "Un rappel quotidien à votre heure, et un autre si vous sautez un jour",
   "notificationOff": "Notifications désactivées",
   "notificationTime": "Heure de notification",
   "notificationChannelName": "Rappel d'étude",
   "notificationChannelDesc": "Rappels quotidiens d'étude",
   "notificationTitle": "Espagnol Facile",
   "notificationBody": "C'est l'heure de commencer à étudier !",
-
   "language": "Langue",
   "selectLanguage": "Choisir la langue",
   "languageSystem": "Système",
-
   "soundAndVibration": "Son et vibration",
   "soundEffects": "Effets sonores",
   "soundEffectsDesc": "Jouer un son en cas de bonne/mauvaise réponse",
   "vibration": "Vibration",
   "vibrationDesc": "Vibration en cas de bonne/mauvaise réponse",
-
   "ttsSettings": "Paramètres vocaux",
   "ttsAutoPlay": "Lecture automatique",
   "ttsAutoPlayDesc": "Prononcer l'espagnol automatiquement en cas de bonne réponse",
@@ -141,7 +123,6 @@
   "ttsSpeedNormal": "Normal",
   "ttsSpeedFast": "Rapide",
   "ttsTestPlay": "Aperçu",
-
   "showHint": "Voir l'indice",
   "nextQuestion": "Question suivante",
   "keyPoints": "Points clés",
@@ -153,10 +134,11 @@
   "continueReviewWithCount": "Continuer la révision ({count} restants)",
   "@continueReviewWithCount": {
     "placeholders": {
-      "count": {"type": "int"}
+      "count": {
+        "type": "int"
+      }
     }
   },
-
   "totalStudied": "Total étudié",
   "accuracyRate": "Taux de réussite",
   "studyDays": "Jours d'étude",
@@ -169,13 +151,11 @@
   "minutes": "{count} min",
   "selectDailyGoal": "Choisir l'objectif quotidien",
   "selectTargetLevel": "Choisir le niveau cible",
-
   "notificationMsg1": "Ton espagnol t'attend ! Prêt à avancer encore aujourd'hui ?",
   "notificationMsg2": "Tu te souviens de ce que tu as appris hier ? Réviser aide à mieux retenir !",
   "notificationMsg3": "Un peu chaque jour ! Commence ta leçon d'espagnol aujourd'hui.",
   "notificationMsg4": "¡Hola ! Tu nous as manqué. Étudions l'espagnol ensemble aujourd'hui !",
   "notificationMsg5": "Ne brise pas ta série ! Commence à étudier maintenant.",
-
   "howManyTopics": "Combien de sujets par jour ?",
   "oneTopic": "1 sujet",
   "twoTopics": "2 sujets",
@@ -183,16 +163,20 @@
   "lightStart": "Début léger",
   "moderateAmount": "Quantité modérée",
   "intensiveStudy": "Étude intensive",
-
   "topicList": "Liste des sujets",
   "notStudiedYet": "Non étudié",
   "studiedLabel": "Étudié",
   "topicCount": "{count} sujets",
-  "@topicCount": { "placeholders": { "count": {"type": "int"} } },
-
+  "@topicCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
   "speakingPractice": "Pratique d'expression",
   "speakingTest": "Test d'expression",
-"speakingBrowseAll": "Tout parcourir",
+  "speakingBrowseAll": "Tout parcourir",
   "speakingFeatureDesc": "Pratiquez et testez des dizaines de variations d'une phrase: changer le sujet, nier, questionner, remplacer des mots.",
   "practice": "Pratiquer",
   "test": "Test",
@@ -215,7 +199,6 @@
   "averageAccuracy": "Précision moyenne {percent}",
   "testPassed": "🎉 Réussi !",
   "testFailed": "Presque. Réessayez !",
-  "goHome": "Accueil",
   "sayInSpanishHint": "Regardez et dites-le en espagnol",
   "variationBase": "Phrase de base",
   "variationSubject": "Sujet · {subject}",
@@ -238,5 +221,6 @@
   "quizListenPrompt": "Écoute et choisis le mot manquant",
   "quizTypePrompt": "Écris le mot manquant",
   "quizCheck": "Vérifier",
-  "quizSayIt": "Dis maintenant la phrase entière"
+  "quizSayIt": "Dis maintenant la phrase entière",
+  "badgeNew": "NOUVEAU"
 }

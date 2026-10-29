@@ -567,7 +567,8 @@
       "suco",
       "café"
     ],
-    "explanation": "'Agua' significa 'água'. Apesar de ser feminina, usa 'el' no singular: 'el agua' (para evitar dois sons 'a' juntos)."
+    "explanation": "'Agua' significa 'água'. Apesar de ser feminina, usa 'el' no singular: 'el agua' (para evitar dois sons 'a' seguidos).",
+    "hint": null
   },
   "q_vocab_a1_06_002": {
     "question": "Quiero un ___ con leche, por favor.",
@@ -577,7 +578,8 @@
       "arroz",
       "pollo"
     ],
-    "explanation": "'Café con leche' significa 'café com leite', uma bebida muito popular na Espanha e América Latina."
+    "explanation": "'Café con leche' significa 'café com leite', uma bebida muito popular na Espanha e na América Latina.",
+    "hint": null
   },
   "q_vocab_a1_06_003": {
     "question": "O que significa 'pan'?",
@@ -587,17 +589,19 @@
       "carne",
       "queijo"
     ],
-    "explanation": "'Pan' significa 'pão'. É um dos alimentos mais básicos nos países de língua espanhola."
+    "explanation": "'Pan' significa 'pão'. É um dos alimentos mais básicos nos países de língua espanhola.",
+    "hint": null
   },
   "q_vocab_a1_06_004": {
     "question": "O que significa 'pollo'?",
     "correct": "frango",
     "wrong": [
       "peixe",
-      "carne de vaca",
-      "porco"
+      "carne bovina",
+      "carne de porco"
     ],
-    "explanation": "'Pollo' significa 'frango'. 'Carne' é a palavra geral para 'carne'."
+    "explanation": "'Pollo' significa 'frango'. 'Carne' é a palavra geral para 'carne'.",
+    "hint": null
   },
   "q_vocab_a1_06_005": {
     "question": "Quero um copo de suco de laranja.",
@@ -607,17 +611,19 @@
       "Quiero una taza de zumo de naranja.",
       "Quiero un vaso de vino de naranja."
     ],
-    "explanation": "'Zumo' significa 'suco' (usado na Espanha; 'jugo' é usado na América Latina). 'Vaso' significa 'copo'."
+    "explanation": "'Zumo' significa 'suco' (usado na Espanha; 'jugo' é usado na América Latina). 'Vaso' significa 'copo'.",
+    "hint": null
   },
   "q_vocab_a1_06_006": {
     "question": "O que significa 'pescado' em 'El pescado está fresco'?",
-    "correct": "peixe (como comida)",
+    "correct": "peixe (como alimento)",
     "wrong": [
       "frango",
       "carne",
       "camarão"
     ],
-    "explanation": "'Pescado' refere-se a peixe como alimento. 'Pez' é um peixe vivo. A frase significa 'O peixe está fresco'."
+    "explanation": "'Pescado' refere-se ao peixe como alimento. 'Pez' é o peixe vivo. A frase significa 'O peixe está fresco'.",
+    "hint": null
   },
   "q_vocab_a1_06_007": {
     "question": "Você está em um restaurante e o garçom pergunta o que você quer beber. Como você pede uma cerveja?",
@@ -627,8 +633,9 @@
       "Un té, por favor.",
       "Un agua, por favor."
     ],
-    "explanation": "'Cerveza' significa 'cerveja'. 'Una cerveza, por favor' é uma maneira educada de pedir uma cerveja em um restaurante.",
-    "context": "Pedindo uma bebida em um restaurante"
+    "explanation": "'Cerveza' significa 'cerveja'. 'Una cerveza, por favor' é uma forma educada de pedir uma cerveja em um restaurante.",
+    "context": "Pedindo uma bebida em um restaurante",
+    "hint": null
   },
   "q_vocab_a1_06_008": {
     "question": "O que significa 'ensalada' em 'La ensalada está rica'?",
@@ -638,28 +645,31 @@
       "sanduíche",
       "omelete"
     ],
-    "explanation": "'Ensalada' significa 'salada'. 'Rica' aqui significa 'deliciosa'. A frase significa 'A salada está deliciosa'."
+    "explanation": "'Ensalada' significa 'salada'. 'Rica' aqui significa 'deliciosa'. A frase significa 'A salada está deliciosa'.",
+    "hint": null
   },
   "q_vocab_a1_06_009": {
     "question": "Me gustan las frutas y las verduras.",
-    "correct": "Gosto de frutas e legumes.",
+    "correct": "Eu gosto de frutas e verduras.",
     "wrong": [
-      "Gosto de carne e peixe.",
-      "Gosto de pão e queijo.",
-      "Gosto de café e chá."
+      "Eu gosto de carne e peixe.",
+      "Eu gosto de pão e queijo.",
+      "Eu gosto de café e chá."
     ],
-    "explanation": "'Frutas' significa 'frutas' e 'verduras' significa 'legumes'. 'Me gustan' é usado com substantivos plurais."
+    "explanation": "'Frutas' significa 'frutas' e 'verduras' significa 'verduras'. 'Me gustan' é usado com substantivos no plural.",
+    "hint": null
   },
   "q_vocab_a1_06_010": {
-    "question": "Você é convidado em uma casa espanhola e o anfitrião oferece comida. Como você aceita educadamente?",
+    "question": "Você é convidado na casa de uma família espanhola e o anfitrião lhe oferece comida. Como você aceita com educação?",
     "correct": "Sí, gracias. Tiene muy buena pinta.",
     "wrong": [
       "No quiero nada.",
       "Dame más comida.",
       "No me gusta la comida española."
     ],
-    "explanation": "'Tiene muy buena pinta' significa 'Parece muito bom'. Esta é uma maneira educada e apreciativa de aceitar comida.",
-    "context": "Sendo oferecido comida na casa de alguém"
+    "explanation": "'Tiene muy buena pinta' significa 'Está com uma ótima aparência'. É uma forma educada e agradecida de aceitar comida.",
+    "context": "Sendo oferecido comida na casa de alguém",
+    "hint": null
   },
   "q_vocab_a1_07_001": {
     "question": "O que significa 'cabeza'?",

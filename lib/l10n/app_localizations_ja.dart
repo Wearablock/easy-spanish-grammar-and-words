@@ -323,7 +323,7 @@ class AppLocalizationsJa extends AppLocalizations {
   String get studyNotification => '学習通知';
 
   @override
-  String get dailyNotification => '1日以上アクセスしないと学習通知';
+  String get dailyNotification => '毎日決めた時間に通知、1日休むともう一度';
 
   @override
   String get notificationOff => '通知オフ';
@@ -678,4 +678,7 @@ class AppLocalizationsJa extends AppLocalizations {
 
   @override
   String get quizSayIt => '文全体を声に出して言ってみましょう';
+
+  @override
+  String get badgeNew => 'NEW';
 }
