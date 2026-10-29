@@ -7,8 +7,8 @@
       "Los",
       "Las"
     ],
-    "explanation": "'libro' là danh từ nam tính số ít, nên mạo từ xác định 'el' được sử dụng.\n- el libro (nam tính số ít)\n- la mesa (nữ tính số ít)",
-    "hint": "libro kết thúc bằng -o, thường chỉ nam tính giống"
+    "explanation": "'libro' là danh từ giống đực số ít, nên dùng mạo từ xác định 'el'.\n- el libro (giống đực số ít)\n- la mesa (giống cái số ít)",
+    "hint": "libro tận cùng bằng -o, thường cho biết đó là danh từ giống đực"
   },
   "q_gram_a1_01_002": {
     "question": "___ mano es pequeña.",
@@ -18,29 +18,31 @@
       "Los",
       "Las"
     ],
-    "explanation": "'mano' là một trong những ngoại lệ thông thường: despite kết thúc bằng -o, nó là nữ tính.\n- la mano (nữ tính, ngoại lệ)\n- el libro (nam tính, quy tắc -o ending)",
-    "hint": "Đây là ngoại lệ nổi tiếng để -o = nam tính quy tắc"
+    "explanation": "'mano' là một trong những ngoại lệ phổ biến: tuy tận cùng bằng -o nhưng lại là danh từ giống cái.\n- la mano (giống cái, ngoại lệ)\n- el libro (giống đực, tận cùng -o thông thường)",
+    "hint": "Đây là một ngoại lệ nổi tiếng của quy tắc -o = giống đực"
   },
   "q_gram_a1_01_003": {
-    "question": "Nghĩa của 'casa' trong 'la casa' là gì?",
-    "correct": "nhà",
+    "question": "'casa' trong 'la casa' có nghĩa là gì?",
+    "correct": "ngôi nhà",
     "wrong": [
-      "bàn",
-      "mèo",
-      "sách"
+      "cái bàn",
+      "con mèo",
+      "quyển sách"
     ],
-    "explanation": "'casa' có nghĩa là 'house' và là a nữ tính danh từ kết thúc bằng -a.\n- la casa = house\n- una casa = a house"
+    "explanation": "'casa' có nghĩa là 'ngôi nhà' và là danh từ giống cái tận cùng bằng -a.\n- la casa = ngôi nhà (xác định)\n- una casa = một ngôi nhà",
+    "hint": null
   },
   "q_gram_a1_01_004": {
-    "question": "___ ciudad es grande. (chọn mạo từ đúng cho danh từ nữ tính)",
+    "question": "___ ciudad es grande. (dùng mạo từ đúng cho danh từ giống cái)",
     "correct": "La",
     "wrong": [
       "El",
       "Los",
       "Las"
     ],
-    "explanation": "'ciudad' kết thúc bằng -dad, là a nữ tính ending.\nNouns kết thúc bằng -ción, -sión, -dad, và -tad là thường nữ tính.",
-    "conjugation_info": "nữ tính endings: -a, -ción, -sión, -dad, -tad, -tud"
+    "explanation": "'ciudad' tận cùng bằng -dad, là đuôi của danh từ giống cái.\nCác danh từ tận cùng bằng -ción, -sión, -dad và -tad thường là giống cái.",
+    "conjugation_info": "nữ tính endings: -a, -ción, -sión, -dad, -tad, -tud",
+    "hint": null
   },
   "q_gram_a1_01_005": {
     "question": "___ problema es difícil.",
@@ -50,8 +52,8 @@
       "Los",
       "Las"
     ],
-    "explanation": "'problema' là nam tính despite kết thúc bằng -a. Các từ có nguồn gốc Hy Lạp kết thúc bằng -ma là nam tính.\n- el problema, el tema, el sistema, el programa",
-    "hint": "Greek-origin words kết thúc bằng -ma là nam tính"
+    "explanation": "'problema' là danh từ giống đực dù tận cùng bằng -a. Các từ gốc Hy Lạp tận cùng bằng -ma là giống đực.\n- el problema, el tema, el sistema, el programa",
+    "hint": "Các từ gốc Hy Lạp tận cùng bằng -ma là giống đực"
   },
   "q_gram_a1_01_006": {
     "question": "___ televisión es nueva. (chọn mạo từ đúng)",
@@ -61,8 +63,9 @@
       "Los",
       "Las"
     ],
-    "explanation": "'televisión' kết thúc bằng -sión, làm cho nó là nữ tính.\ntất cả nouns kết thúc bằng -ción và -sión là nữ tính trong tiếng Tây Ban Nha.",
-    "conjugation_info": "nữ tính endings: -ción (nación), -sión (televisión), -dad (ciudad)"
+    "explanation": "'televisión' tận cùng bằng -sión nên là danh từ giống cái.\nTất cả danh từ tận cùng bằng -ción và -sión trong tiếng Tây Ban Nha đều là giống cái.",
+    "conjugation_info": "nữ tính endings: -ción (nación), -sión (televisión), -dad (ciudad)",
+    "hint": null
   },
   "q_gram_a1_01_007": {
     "question": "___ día es bonito.",
@@ -72,52 +75,54 @@
       "Los",
       "Las"
     ],
-    "explanation": "'día' là một trong những ngoại lệ phổ biến nhất trong tiếng Tây Ban Nha: nó là nam tính despite kết thúc bằng -a.\n- el día (nam tính, ngoại lệ)\n- Other exceptions: el mapa, el sofá",
-    "hint": "không phải tất cả các từ kết thúc bằng -a là nữ tính"
+    "explanation": "'día' là một trong những ngoại lệ phổ biến nhất trong tiếng Tây Ban Nha: là danh từ giống đực dù tận cùng bằng -a.\n- el día (giống đực, ngoại lệ)\n- Các ngoại lệ khác: el mapa, el sofá",
+    "hint": "Không phải từ nào tận cùng bằng -a cũng là giống cái"
   },
   "q_gram_a1_01_008": {
-    "question": "Bản đồ này to.",
+    "question": "Bản đồ thì to.",
     "correct": "El mapa es grande.",
     "wrong": [
       "La mapa es grande.",
       "Los mapas son grandes.",
       "El mapa es pequeño."
     ],
-    "explanation": "'mapa' là danh từ giống đực dù kết thúc bằng -a (một ngoại lệ nữa của quy tắc -a = giống cái).\n'to, lớn' = 'grande', từ này không thay đổi theo giống.",
+    "explanation": "'mapa' là danh từ giống đực dù tận cùng bằng -a (một ngoại lệ khác của quy tắc -a = giống cái).\n'to, lớn' = 'grande', không thay đổi theo giống.",
     "hint": null
   },
   "q_gram_a1_01_009": {
-    "question": "___ fotos son de mi familia. (chọn mạo từ đúng cho danh từ nữ tính số nhiều)",
+    "question": "___ fotos son de mi familia. (chọn mạo từ đúng cho danh từ giống cái số nhiều)",
     "correct": "Las",
     "wrong": [
       "Los",
       "La",
       "El"
     ],
-    "explanation": "'foto' là viết tắt của 'fotografía', là nữ tính.\n- la foto → las fotos\nCác từ viết tắt giữ giống của từ đầy đủ.",
-    "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)"
+    "explanation": "'foto' là dạng viết tắt của 'fotografía', một danh từ giống cái.\n- la foto → las fotos\nTừ viết tắt giữ nguyên giống của từ đầy đủ.",
+    "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)",
+    "hint": null
   },
   "q_gram_a1_01_010": {
     "question": "Bàn tay lạnh.",
     "correct": "La mano está fría.",
     "wrong": [
       "El mano está frío.",
-      "La mano es fría.",
+      "La mano está frío.",
       "Las manos están frías."
     ],
-    "explanation": "'mano' là danh từ giống cái dù kết thúc bằng -o (một ngoại lệ quan trọng).\nChúng ta dùng 'está' vì cảm giác lạnh là trạng thái tạm thời.\n- la mano fría (tính từ hòa hợp giống cái)",
+    "explanation": "'mano' là danh từ giống cái dù tận cùng bằng -o (một ngoại lệ quan trọng).\nTa dùng 'está' vì cảm giác lạnh là trạng thái tạm thời.\n- la mano fría (tính từ hòa hợp với danh từ giống cái)",
     "hint": null
   },
   "q_gram_a1_02_001": {
-    "question": "Voy ___ parque. (điền vào: a + el)",
+    "question": "Voy ___ parque. (điền: a + el)",
     "correct": "al",
     "wrong": [
       "a el",
       "a la",
       "del"
     ],
-    "explanation": "Khi giới từ 'a' được theo sau bởi mạo từ 'el', chúng rút gọn thành 'al'.\n- a + el = al (Voy al parque.)\nĐây là một trong hai sự rút gọn duy nhất trong tiếng Tây Ban Nha.",
-    "conjugation_info": "Contractions: a + el = al, de + el = del"
+    "explanation": "Khi giới từ 'a' đứng trước mạo từ 'el', chúng được rút gọn thành 'al'.\n- a + el = al (Voy al parque.)\nĐây là một trong hai trường hợp rút gọn duy nhất trong tiếng Tây Ban Nha.",
+    "conjugation_info": "Contractions: a + el = al, de + el = del",
+    "hint": null
   },
   "q_gram_a1_02_002": {
     "question": "___ escuela está cerca.",
@@ -127,8 +132,8 @@
       "Los",
       "Las"
     ],
-    "explanation": "'escuela' là danh từ nữ tính số ít kết thúc bằng -a.\n- la escuela (nữ tính số ít)\n- las escuelas (nữ tính số nhiều)",
-    "hint": "escuela kết thúc bằng -a, a typical nữ tính ending"
+    "explanation": "'escuela' là danh từ giống cái số ít tận cùng bằng -a.\n- la escuela (giống cái số ít)\n- las escuelas (giống cái số nhiều)",
+    "hint": "escuela tận cùng bằng -a, đuôi điển hình của danh từ giống cái"
   },
   "q_gram_a1_02_003": {
     "question": "___ niños juegan en el parque.",
@@ -138,30 +143,31 @@
       "El",
       "La"
     ],
-    "explanation": "'niños' là a danh từ nam tính số nhiều, nên mạo từ xác định 'los' được sử dụng.\n- el niño (nam tính số ít) → los niños (nam tính số nhiều)",
-    "hint": "niños là số nhiều của niño"
+    "explanation": "'niños' là danh từ giống đực số nhiều, nên dùng mạo từ xác định 'los'.\n- el niño (giống đực số ít) → los niños (giống đực số nhiều)",
+    "hint": "niños là dạng số nhiều của niño"
   },
   "q_gram_a1_02_004": {
     "question": "'los' chỉ điều gì trong 'los libros'?",
-    "correct": "mạo từ xác định số nhiều giống đực",
+    "correct": "mạo từ xác định giống đực số nhiều",
     "wrong": [
-      "mạo từ xác định số nhiều giống cái",
-      "mạo từ xác định số ít giống đực",
-      "mạo từ không xác định số nhiều giống đực"
+      "mạo từ xác định giống cái số nhiều",
+      "mạo từ xác định giống đực số ít",
+      "mạo từ không xác định giống đực số nhiều"
     ],
-    "explanation": "'los' là mạo từ xác định số nhiều giống đực (= 'the' đứng trước danh từ giống đực số nhiều).\n- el (đực, số ít), la (cái, số ít), los (đực, số nhiều), las (cái, số nhiều)",
+    "explanation": "'los' là mạo từ xác định giống đực số nhiều (= 'the' dùng cho danh từ giống đực số nhiều).\n- el (đực, số ít), la (cái, số ít), los (đực, số nhiều), las (cái, số nhiều)",
     "hint": null
   },
   "q_gram_a1_02_005": {
-    "question": "Vengo ___ cine. (điền vào: de + el)",
+    "question": "Vengo ___ cine. (điền: de + el)",
     "correct": "del",
     "wrong": [
       "de el",
       "de la",
       "al"
     ],
-    "explanation": "khi nào 'de' được theo sau bởi 'el', chúng rút gọn thành 'del'.\n- de + el = del (Vengo del cine.)\nSự rút gọn này là bắt buộc trong tiếng Tây Ban Nha.",
-    "conjugation_info": "Contractions: a + el = al, de + el = del"
+    "explanation": "Khi 'de' đứng trước 'el', chúng được rút gọn thành 'del'.\n- de + el = del (Vengo del cine.)\nSự rút gọn này là bắt buộc trong tiếng Tây Ban Nha.",
+    "conjugation_info": "Contractions: a + el = al, de + el = del",
+    "hint": null
   },
   "q_gram_a1_02_006": {
     "question": "___ flores son bonitas.",
@@ -171,51 +177,53 @@
       "La",
       "El"
     ],
-    "explanation": "'flores' là a danh từ nữ tính số nhiều.\n- la flor (nữ tính số ít) → las flores (nữ tính số nhiều)\n mạo từ xác định phải match trong giống và number.",
-    "hint": "flor là nữ tính; flores là its số nhiều form"
+    "explanation": "'flores' là danh từ giống cái số nhiều.\n- la flor (giống cái số ít) → las flores (giống cái số nhiều)\nMạo từ xác định phải hòa hợp với danh từ về giống và số.",
+    "hint": "flor là giống cái; flores là dạng số nhiều của nó"
   },
   "q_gram_a1_02_007": {
-    "question": "Tôi đi làm vào các ngày thứ Hai.",
+    "question": "Tôi làm việc vào các ngày thứ Hai.",
     "correct": "Trabajo los lunes.",
     "wrong": [
       "Trabajo el lunes.",
       "Trabajo en lunes.",
       "Trabajo lunes."
     ],
-    "explanation": "Với hành động lặp lại đều đặn vào một ngày trong tuần, dùng 'los' + ngày.\n- los lunes = vào các ngày thứ Hai (thói quen)\n- el lunes = vào thứ Hai (một ngày cụ thể, thứ Hai này)",
+    "explanation": "Với hành động lặp lại thường xuyên vào một ngày trong tuần, dùng 'los' + thứ.\n- los lunes = vào các ngày thứ Hai (thường xuyên)\n- el lunes = vào thứ Hai (cụ thể, thứ Hai này)",
     "hint": null
   },
   "q_gram_a1_02_008": {
-    "question": "Trabajo ___ lunes. (Tôi đi làm vào các ngày thứ Hai.)",
+    "question": "Trabajo ___ lunes. (Tôi làm việc vào các ngày thứ Hai.)",
     "correct": "los",
     "wrong": [
       "el",
       "la",
       "las"
     ],
-    "explanation": "Các ngày trong tuần trong tiếng Tây Ban Nha dùng mạo từ xác định.\n- 'los lunes' = vào các ngày thứ Hai (lặp lại)\n- 'el lunes' = vào thứ Hai (một ngày thứ Hai cụ thể)",
+    "explanation": "Các thứ trong tuần trong tiếng Tây Ban Nha dùng mạo từ xác định.\n- 'los lunes' = vào các ngày thứ Hai (lặp lại)\n- 'el lunes' = vào thứ Hai (một ngày thứ Hai cụ thể)",
     "hint": "Dùng mạo từ số nhiều cho những ngày lặp lại"
   },
   "q_gram_a1_02_009": {
-    "question": "Cats are independent.",
+    "question": "Loài mèo thì độc lập.",
     "correct": "Los gatos son independientes.",
     "wrong": [
       "Gatos son independientes.",
       "Unos gatos son independientes.",
       "Las gatas son independientes."
     ],
-    "explanation": "trong tiếng Tây Ban Nha, general statements require mạo từ xác định.\n- Los gatos son independientes. (Cats trong general)\ntiếng Anh omits '' trong general statements, nhưng Tây Ban Nha requires nó."
+    "explanation": "Trong tiếng Tây Ban Nha, các câu nói chung chung cần có mạo từ xác định.\n- Los gatos son independientes. (Loài mèo nói chung)\nTiếng Anh bỏ 'the' trong câu nói chung, nhưng tiếng Tây Ban Nha thì bắt buộc.",
+    "hint": null
   },
   "q_gram_a1_02_010": {
-    "question": "Vamos ___ escuela. (điền vào: a + la)",
+    "question": "Vamos ___ escuela. (điền: a + la)",
     "correct": "a la",
     "wrong": [
       "al",
       "a las",
       "a el"
     ],
-    "explanation": " contraction chỉ happens với 'a + el = al'. với 'la', no contraction occurs.\n- Voy al parque (a + el)\n- Voy a la escuela (a + la, no contraction)",
-    "conjugation_info": "Only a + el = al và de + el = del form contractions. Other combinations stay separate."
+    "explanation": "Sự rút gọn chỉ xảy ra với 'a + el = al'. Với 'la' thì không rút gọn.\n- Voy al parque (a + el)\n- Voy a la escuela (a + la, không rút gọn)",
+    "conjugation_info": "Only a + el = al và de + el = del form contractions. Other combinations stay separate.",
+    "hint": null
   },
   "q_gram_a1_03_001": {
     "question": "Tengo ___ amigo en España.",
@@ -225,8 +233,8 @@
       "unos",
       "el"
     ],
-    "explanation": "'amigo' là danh từ nam tính số ít, nên mạo từ không xác định 'un' được sử dụng.\n- un amigo = a friend (nam tính)\n- una amiga = a friend (nữ tính)",
-    "hint": "amigo kết thúc bằng -o, indicating nam tính giống"
+    "explanation": "'amigo' là danh từ giống đực số ít nên dùng mạo từ bất định 'un'.\n- un amigo = một người bạn (nam)\n- una amiga = một người bạn (nữ)",
+    "hint": "amigo kết thúc bằng -o, cho biết đây là giống đực"
   },
   "q_gram_a1_03_002": {
     "question": "Hay ___ libros en la mesa.",
@@ -236,29 +244,31 @@
       "unas",
       "los"
     ],
-    "explanation": "'libros' là a danh từ nam tính số nhiều; 'unos' có nghĩa là 'some' cho nam tính plurals.\n- un libro → unos libros\n- una carta → unas cartas",
-    "hint": "mà mạo từ không xác định được sử dụng cho nam tính plurals?"
+    "explanation": "'libros' là danh từ giống đực số nhiều; 'unos' nghĩa là 'một vài' dùng cho danh từ giống đực số nhiều.\n- un libro → unos libros\n- una carta → unas cartas",
+    "hint": "Mạo từ bất định nào dùng cho danh từ giống đực số nhiều?"
   },
   "q_gram_a1_03_003": {
-    "question": "Nghĩa của 'unas' trong 'unas flores' là gì?",
-    "correct": "some (feminine plural)",
+    "question": "'unas' có nghĩa là gì trong 'unas flores'?",
+    "correct": "một vài (giống cái, số nhiều)",
     "wrong": [
-      "the (feminine plural)",
-      "a (feminine singular)",
-      "some (masculine plural)"
+      "các (giống cái, số nhiều)",
+      "một (giống cái, số ít)",
+      "một vài (giống đực, số nhiều)"
     ],
-    "explanation": "'unas' là nữ tính số nhiều mạo từ không xác định có nghĩa là 'some'.\n- un (m. sg.), una (f. sg.), unos (m. pl.), unas (f. pl.)"
+    "explanation": "'unas' là mạo từ bất định giống cái số nhiều, nghĩa là 'một vài'.\n- un (đực, số ít), una (cái, số ít), unos (đực, số nhiều), unas (cái, số nhiều)",
+    "hint": null
   },
   "q_gram_a1_03_004": {
-    "question": "Soy ___. (I am a teacher.) (conjugate appropriate response)",
+    "question": "Soy ___. (Yo soy maestro.) (chọn đáp án phù hợp)",
     "correct": "profesor",
     "wrong": [
       "un profesor",
       "el profesor",
       "una profesora"
     ],
-    "explanation": "trong tiếng Tây Ban Nha, mạo từ không xác định là omitted với professions after ser.\n- Soy profesor. (đúng)\n- Soy un profesor. (incorrect trong standard Tây Ban Nha)\nnày quy tắc applies để nationalities too: Soy español.",
-    "conjugation_info": "Ser + profession: no article needed. Soy profesor, Soy estudiante, Soy médico."
+    "explanation": "Trong tiếng Tây Ban Nha, mạo từ bất định được bỏ đi khi nói về nghề nghiệp sau động từ ser.\n- Soy profesor. (đúng)\n- Soy un profesor. (sai trong tiếng Tây Ban Nha chuẩn nếu không có tính từ hoặc bổ ngữ đi kèm)\nQuy tắc này cũng áp dụng cho quốc tịch: Soy español.",
+    "conjugation_info": "Ser + profession: no article needed. Soy profesor, Soy estudiante, Soy médico.",
+    "hint": null
   },
   "q_gram_a1_03_005": {
     "question": "Barcelona es ___ ciudad bonita.",
@@ -268,19 +278,20 @@
       "la",
       "unas"
     ],
-    "explanation": "'ciudad' là nữ tính, và Chúng ta sử dụng mạo từ không xác định khi nào describing something cho first thời gian.\n- una ciudad bonita = a beautiful city\nNote: 'ciudad' kết thúc bằng -dad, a nữ tính ending.",
-    "hint": "ciudad là a nữ tính danh từ"
+    "explanation": "'ciudad' là danh từ giống cái, và ta dùng mạo từ bất định khi mô tả một sự vật lần đầu tiên.\n- una ciudad bonita = một thành phố xinh đẹp\nLưu ý: 'ciudad' kết thúc bằng -dad, là đuôi giống cái.",
+    "hint": "ciudad là danh từ giống cái"
   },
   "q_gram_a1_03_006": {
-    "question": "No hay ___. (Có no problem.)",
+    "question": "no hay ___. (Ở đó không có vấn đề gì.)",
     "correct": "problema",
     "wrong": [
       "un problema",
       "el problema",
       "problemas"
     ],
-    "explanation": "After negative 'no hay', mạo từ không xác định là omitted.\n- No hay problema. (đúng)\n- No hay azúcar. (Có no sugar.)\nmạo từ là dropped trong negative existential statements.",
-    "conjugation_info": "Omit mạo từ không xác định after: sin (without), no hay (there isn't), và with professions after ser."
+    "explanation": "Sau cấu trúc phủ định 'no hay', mạo từ bất định được lược bỏ.\n- no hay problema. (đúng)\n- no hay azúcar. (Không có đường.)\nMạo từ bị bỏ đi trong các câu phủ định nói về sự tồn tại.",
+    "conjugation_info": "Omit mạo từ không xác định after: sin (without), no hay (there isn't), và with professions after ser.",
+    "hint": null
   },
   "q_gram_a1_03_007": {
     "question": "Café ___ azúcar, por favor. (Cà phê không đường)",
@@ -290,51 +301,54 @@
       "con",
       "de"
     ],
-    "explanation": "After 'sin' (không có), mạo từ không xác định là omitted.\n- Café sin azúcar. (Coffee không có sugar.)\n- Café con leche. (Coffee với milk.)",
-    "hint": "mà preposition có nghĩa là 'không có'?"
+    "explanation": "Sau 'sin' (không có), mạo từ bất định được lược bỏ.\n- Café sin azúcar. (Cà phê không đường.)\n- Café con leche. (Cà phê sữa.)",
+    "hint": "Giới từ nào có nghĩa là 'không có'?"
   },
   "q_gram_a1_03_008": {
-    "question": "I buy some flowers.",
+    "question": "Tôi mua một vài bông hoa.",
     "correct": "Compro unas flores.",
     "wrong": [
       "Compro las flores.",
       "Compro un flores.",
       "Compro una flores."
     ],
-    "explanation": "'some flowers' = 'unas flores' (nữ tính số nhiều mạo từ không xác định).\n- unas + danh từ nữ tính số nhiều = some (unspecified)\n- las + danh từ nữ tính số nhiều = (specific)"
+    "explanation": "'một vài bông hoa' = 'unas flores' (mạo từ bất định giống cái số nhiều).\n- unas + danh từ giống cái số nhiều = một vài (không xác định)\n- las + danh từ giống cái số nhiều = những (xác định)",
+    "hint": null
   },
   "q_gram_a1_03_009": {
-    "question": "___ gato está en la calle. (A cat là trong street — any cat.)",
+    "question": "___ gato está en la calle. (Một con mèo ở ngoài đường — con mèo nào cũng được.)",
     "correct": "Un",
     "wrong": [
       "El",
       "Unos",
       "La"
     ],
-    "explanation": "Chúng ta sử dụng mạo từ không xác định 'un' cho first mention hoặc non-specific reference.\n- Un gato (any cat, first mention) vs El gato (a specific cat)\nnày distinction là crucial cho natural Tây Ban Nha.",
-    "conjugation_info": "Indefinite (first mention/non-specific): un/una/unos/unas. Definite (known/specific): el/la/los/las."
+    "explanation": "Ta dùng mạo từ bất định 'un' khi nhắc đến lần đầu hoặc nói về đối tượng không xác định.\n- Un gato (một con mèo bất kỳ, nhắc lần đầu) so với El gato (một con mèo cụ thể)\nSự phân biệt này rất quan trọng để nói tiếng Tây Ban Nha tự nhiên.",
+    "conjugation_info": "Indefinite (first mention/non-specific): un/una/unos/unas. Definite (known/specific): el/la/los/las.",
+    "hint": null
   },
   "q_gram_a1_03_010": {
-    "question": "Có vài quyển sách trên bàn.",
+    "question": "Có một vài quyển sách ở trên bàn.",
     "correct": "Hay unos libros en la mesa.",
     "wrong": [
       "Hay los libros en la mesa.",
       "Hay un libros en la mesa.",
       "Están unos libros en la mesa."
     ],
-    "explanation": "'vài quyển sách' = 'unos libros' (mạo từ bất định giống đực số nhiều).\nChúng ta dùng 'hay' để nói về sự tồn tại và dùng mạo từ bất định cho vật không xác định.\n- Hay unos libros. (sự tồn tại, không xác định)",
+    "explanation": "'một vài quyển sách' = 'unos libros' (mạo từ bất định giống đực số nhiều).\nTa dùng 'hay' để nói về sự tồn tại và dùng mạo từ bất định cho những vật không xác định.\n- Hay unos libros. (sự tồn tại, không xác định)",
     "hint": null
   },
   "q_gram_a1_04_001": {
-    "question": "___ hablamos español. (fill trong subject đại từ)",
+    "question": "___ hablamos español. (điền đại từ chủ ngữ)",
     "correct": "Nosotros",
     "wrong": [
       "Yo",
       "Ellos",
       "Tú"
     ],
-    "explanation": "'hablamos' là nosotros/nosotras form của hablar.\n- nosotros hablamos = we speak\n -amos ending indicates first người số nhiều.",
-    "conjugation_info": "Subject pronouns: yo, tú, él/ella/usted, nosotros, vosotros, ellos/ustedes"
+    "explanation": "'hablamos' là dạng nosotros/nosotras của động từ hablar.\n- nosotros hablamos = chúng tôi nói\nĐuôi -amos cho biết ngôi thứ nhất số nhiều.",
+    "conjugation_info": "Subject pronouns: yo, tú, él/ella/usted, nosotros, vosotros, ellos/ustedes",
+    "hint": null
   },
   "q_gram_a1_04_002": {
     "question": "___ eres mi amigo.",
@@ -344,8 +358,8 @@
       "Él",
       "Usted"
     ],
-    "explanation": "'eres' là tú form của động từ ser.\n- Tú eres = bạn là (thân mật)\n đại từ 'tú' được sử dụng với friends, family, và peers.",
-    "hint": "mà đại từ goes với 'eres'?"
+    "explanation": "'eres' là dạng ngôi tú của động từ ser.\n- Tú eres = Bạn là (thân mật)\nĐại từ 'tú' được dùng với bạn bè, gia đình và những người ngang hàng.",
+    "hint": "Đại từ nào đi với 'eres'?"
   },
   "q_gram_a1_04_003": {
     "question": "___ viven en Madrid.",
@@ -355,29 +369,31 @@
       "Tú",
       "Yo"
     ],
-    "explanation": "'viven' là ellos/ellas/ustedes form của vivir.\n- Ellos viven = họ live\n -en ending indicates third người số nhiều.",
-    "hint": "viven là a 3rd người số nhiều động từ form"
+    "explanation": "'viven' là dạng ellos/ellas/ustedes của động từ vivir.\n- Ellos viven = Họ sống\nĐuôi -en cho biết ngôi thứ ba số nhiều.",
+    "hint": "viven là dạng động từ ngôi thứ ba số nhiều"
   },
   "q_gram_a1_04_004": {
-    "question": "gì là trang trọng way để say 'bạn' (số ít) trong tiếng Tây Ban Nha?",
+    "question": "Cách nói trang trọng của 'you' (số ít) trong tiếng Tây Ban Nha là gì?",
     "correct": "usted",
     "wrong": [
       "tú",
       "vosotros",
       "nosotros"
     ],
-    "explanation": "'usted' là trang trọng số ít 'bạn', used với strangers, elders, và trong professional settings.\n- tú = thân mật 'bạn'\n- usted = trang trọng 'bạn' (takes 3rd người động từ forms)"
+    "explanation": "'usted' là 'bạn' số ít trang trọng, dùng với người lạ, người lớn tuổi và trong môi trường công việc.\n- tú = 'bạn' thân mật\n- usted = 'bạn' trang trọng (chia động từ ở ngôi thứ ba)",
+    "hint": null
   },
   "q_gram_a1_04_005": {
-    "question": "___ es la profesora. (conjugate ser cho 3rd người)",
+    "question": "___ es la profesora. (cô ấy)",
     "correct": "Ella",
     "wrong": [
       "Él",
       "Yo",
       "Nosotros"
     ],
-    "explanation": "'Ella' có nghĩa là 'she' và được sử dụng cho a female subject.\n- Ella es la profesora = She là teacher.\n- Él es el profesor = He là teacher.",
-    "conjugation_info": "3rd person pronouns: él (he), ella (she), usted (you formal)"
+    "explanation": "'Ella' nghĩa là 'cô ấy' và dùng cho chủ ngữ nữ. 'La profesora' là giống cái nên phù hợp với 'ella'.\n- Ella es la profesora = Cô ấy là giáo viên.\n- Él es el profesor = Anh ấy là giáo viên.",
+    "conjugation_info": "3rd person pronouns: él (he), ella (she), usted (you formal)",
+    "hint": null
   },
   "q_gram_a1_04_006": {
     "question": "En España, ___ coméis paella.",
@@ -387,49 +403,51 @@
       "nosotros",
       "ellos"
     ],
-    "explanation": "'vosotros' được sử dụng mainly trong Spain cho thân mật số nhiều 'bạn tất cả'.\n- coméis là vosotros form của comer\ntrong Latin America, 'ustedes' được sử dụng instead của 'vosotros'.",
-    "hint": "này đại từ là mainly used trong Spain"
+    "explanation": "'vosotros' chủ yếu được dùng ở Tây Ban Nha cho 'các bạn' số nhiều thân mật.\n- coméis là dạng vosotros của động từ comer\nỞ Mỹ Latinh, người ta dùng 'ustedes' thay cho 'vosotros'.",
+    "hint": "Đại từ này chủ yếu được dùng ở Tây Ban Nha"
   },
   "q_gram_a1_04_007": {
-    "question": "We live trong Barcelona.",
+    "question": "Chúng tôi sống ở Barcelona.",
     "correct": "Vivimos en Barcelona.",
     "wrong": [
       "Viven en Barcelona.",
       "Vivo en Barcelona.",
       "Vivís en Barcelona."
     ],
-    "explanation": "trong tiếng Tây Ban Nha, subject pronouns là thường omitted vì động từ ending shows ai là speaking.\n- vivimos = we live (nosotros là optional)\n- vivo = I live, vives = bạn live"
+    "explanation": "Trong tiếng Tây Ban Nha, đại từ chủ ngữ thường được lược bỏ vì đuôi động từ đã cho biết ai đang nói.\n- vivimos = chúng tôi sống (nosotros có thể bỏ)\n- vivo = tôi sống, vives = bạn sống",
+    "hint": null
   },
   "q_gram_a1_04_008": {
-    "question": "___ habla español muy bien. (He speaks Tây Ban Nha rất well.)",
+    "question": "___ habla español muy bien. (Anh ấy nói tiếng Tây Ban Nha rất giỏi.)",
     "correct": "Él",
     "wrong": [
       "Ella",
       "Yo",
       "Tú"
     ],
-    "explanation": "'Él' có nghĩa là 'he'. accent on 'E' distinguishes nó từ 'el' (mạo từ).\n- Él habla = He speaks\n- El libro = book (mạo từ, no accent)",
-    "hint": "Note accent mark mà distinguishes này đại từ từ mạo từ"
+    "explanation": "'Él' nghĩa là 'anh ấy'. Dấu sắc trên chữ 'E' giúp phân biệt với 'el' (mạo từ).\n- Él habla = Anh ấy nói\n- El libro = Quyển sách (mạo từ, không có dấu)",
+    "hint": "Chú ý dấu sắc giúp phân biệt đại từ này với mạo từ"
   },
   "q_gram_a1_04_009": {
-    "question": "¿___ es usted?",
+    "question": "¿___ es usted? – Soy Ana García.",
     "correct": "Quién",
     "wrong": [
-      "Qué",
-      "Cómo",
-      "Dónde"
+      "Dónde",
+      "Cuándo",
+      "Cuál"
     ],
-    "explanation": "khi nào asking about identity với 'usted', '¿Quién es usted?' có nghĩa là 'ai là bạn?' (trang trọng).\nNote mà 'usted' takes same động từ form as él/ella (3rd người số ít).\n- ¿Quién es usted? (trang trọng) vs ¿Quién eres tú? (thân mật)"
+    "explanation": "Khi hỏi về danh tính với 'usted', '¿Quién es usted?' nghĩa là 'Ông/Bà là ai?' (trang trọng).\nLưu ý rằng 'usted' dùng cùng dạng động từ với él/ella (ngôi thứ ba số ít).\n- ¿Quién es usted? (trang trọng) so với ¿Quién eres tú? (thân mật)",
+    "hint": null
   },
   "q_gram_a1_04_010": {
-    "question": "Yo hablo español, ___ habla francés. (dùng đại từ đúng cho 'cô ấy')",
+    "question": "Yo hablo español, ___ habla francés. (cô ấy)",
     "correct": "ella",
     "wrong": [
       "él",
       "tú",
       "usted"
     ],
-    "explanation": "Đại từ nhân xưng được dùng để nhấn mạnh hoặc làm rõ đang nói về ai.\n- Yo hablo español, ella habla francés.\n- Nếu không có đại từ, 'habla francés' có thể là anh ấy/cô ấy/ngài (lịch sự) nói tiếng Pháp.",
+    "explanation": "Đại từ được dùng để nhấn mạnh hoặc làm rõ đang nói về ai.\n- Yo hablo español, ella habla francés.\n- Nếu không có đại từ, 'habla francés' có thể nghĩa là anh ấy/cô ấy/ông/bà (trang trọng) nói tiếng Pháp.",
     "conjugation_info": "Use pronouns cho emphasis: Yo hablo... ella habla... vs just Hablo... Habla...",
     "hint": null
   },
@@ -441,8 +459,8 @@
       "es",
       "somos"
     ],
-    "explanation": " yo form của 'ser' là 'soy'.\n- Yo soy estudiante = I am a student.\nSer được sử dụng cho professions và identity.",
-    "hint": "gì là first người số ít form của ser?"
+    "explanation": "Dạng chia của 'ser' với yo là 'soy'.\n- Yo soy estudiante = Tôi là sinh viên.\nSer được dùng cho nghề nghiệp và danh tính.",
+    "hint": "Dạng ngôi thứ nhất số ít của ser là gì?"
   },
   "q_gram_a1_05_002": {
     "question": "Ellos ___ españoles.",
@@ -452,29 +470,31 @@
       "somos",
       "sois"
     ],
-    "explanation": " ellos/ellas/ustedes form của 'ser' là 'son'.\n- Ellos son españoles = chúng là Tây Ban Nha.\nSer được sử dụng cho nationality.",
-    "hint": "gì là third người số nhiều form của ser?"
+    "explanation": "Dạng chia của 'ser' với ellos/ellas/ustedes là 'son'.\n- Ellos son españoles = Họ là người Tây Ban Nha.\nSer được dùng cho quốc tịch.",
+    "hint": "Dạng ngôi thứ ba số nhiều của ser là gì?"
   },
   "q_gram_a1_05_003": {
-    "question": "gì là main use của 'ser' trong 'Ella es doctora'?",
-    "correct": "to express profession",
+    "question": "Công dụng chính của 'ser' trong câu 'Ella es doctora' là gì?",
+    "correct": "để diễn tả nghề nghiệp",
     "wrong": [
-      "to express location",
-      "to express emotion",
-      "to express a temporary state"
+      "để diễn tả vị trí",
+      "để diễn tả cảm xúc",
+      "để diễn tả trạng thái tạm thời"
     ],
-    "explanation": "Ser được sử dụng cho professions: Ella es doctora (She là a doctor).\nOther uses của ser: identity, nationality, characteristics, thời gian, và origin."
+    "explanation": "Ser được dùng cho nghề nghiệp: Ella es doctora (Cô ấy là bác sĩ).\nCác cách dùng khác của ser: danh tính, quốc tịch, đặc điểm, thời gian và nguồn gốc.",
+    "hint": null
   },
   "q_gram_a1_05_004": {
-    "question": "Tú ___ muy inteligente. (conjugate ser)",
+    "question": "Tú ___ muy inteligente. (chia động từ ser)",
     "correct": "eres",
     "wrong": [
       "soy",
       "es",
       "son"
     ],
-    "explanation": " tú form của 'ser' là 'eres'.\n- Tú eres inteligente = bạn là intelligent.\nSer được sử dụng cho inherent characteristics.",
-    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son"
+    "explanation": "Dạng chia của 'ser' với tú là 'eres'.\n- Tú eres inteligente = Bạn thông minh.\nSer được dùng cho những đặc điểm vốn có.",
+    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son",
+    "hint": null
   },
   "q_gram_a1_05_005": {
     "question": "___ las tres de la tarde.",
@@ -484,19 +504,20 @@
       "Está",
       "Hay"
     ],
-    "explanation": "'Son las tres' = nó là three o'clock. cho telling thời gian, use 'ser'.\n- Es la una. (1:00 — số ít)\n- Son las dos/tres/cuatro... (2:00+ — số nhiều)",
-    "hint": "mà form của ser được sử dụng với số nhiều hours?"
+    "explanation": "'Son las tres' = Bây giờ là ba giờ. Khi nói giờ, dùng 'ser'.\n- Es la una. (1:00 — số ít)\n- Son las dos/tres/cuatro... (từ 2:00 trở đi — số nhiều)",
+    "hint": "Dạng nào của ser được dùng với giờ ở số nhiều?"
   },
   "q_gram_a1_05_006": {
-    "question": "La mesa ___ de madera. (conjugate ser)",
+    "question": "La mesa ___ de madera. (chia động từ ser)",
     "correct": "es",
     "wrong": [
       "está",
       "son",
       "soy"
     ],
-    "explanation": "Ser được sử dụng để express gì something là made của.\n- La mesa es de madera. = table là made của wood.\n- 'de' + material với ser = made của.",
-    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son"
+    "explanation": "Ser được dùng để diễn tả vật được làm từ chất liệu gì.\n- La mesa es de madera. = Cái bàn làm bằng gỗ.\n- 'de' + chất liệu đi với ser = làm bằng.",
+    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son",
+    "hint": null
   },
   "q_gram_a1_05_007": {
     "question": "Nosotros ___ profesores de español.",
@@ -506,50 +527,54 @@
       "son",
       "es"
     ],
-    "explanation": "'somos' là nosotros form của ser.\n- Nosotros somos profesores = We là teachers.\nSer + profession (no mạo từ needed).",
-    "hint": "gì là first người số nhiều form của ser?"
+    "explanation": "'somos' là dạng chia của ser với nosotros.\n- Nosotros somos profesores = Chúng tôi là giáo viên.\nSer + nghề nghiệp (không cần mạo từ).",
+    "hint": "Dạng ngôi thứ nhất số nhiều của ser là gì?"
   },
   "q_gram_a1_05_008": {
-    "question": "Today là Monday.",
+    "question": "Hôm nay là thứ Hai.",
     "correct": "Hoy es lunes.",
     "wrong": [
       "Hoy está lunes.",
       "Hoy son lunes.",
       "Hoy es el lunes."
     ],
-    "explanation": "Ser được sử dụng cho dates và days của week.\n- Hoy es lunes. = Today là Monday.\nNote: No mạo từ được sử dụng khi nào stating gì day nó là."
+    "explanation": "Ser được dùng cho ngày tháng và các thứ trong tuần.\n- Hoy es lunes. = Hôm nay là thứ Hai.\nLưu ý: Không dùng mạo từ khi nói hôm nay là thứ mấy.",
+    "hint": null
   },
   "q_gram_a1_05_009": {
-    "question": "¿De dónde ___ ustedes? (conjugate ser)",
+    "question": "¿De dónde ___ ustedes? (chia động từ ser)",
     "correct": "son",
     "wrong": [
       "es",
       "somos",
       "sois"
     ],
-    "explanation": " ustedes form của 'ser' là 'son' (same as ellos/ellas).\n- ¿De dónde son ustedes? = ở đâu là bạn tất cả từ?\nSer + de = origin.",
-    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son"
+    "explanation": "Dạng chia của 'ser' với ustedes là 'son' (giống ellos/ellas).\n- ¿De dónde son ustedes? = Các bạn đến từ đâu?\nSer + de = nguồn gốc.",
+    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son",
+    "hint": null
   },
   "q_gram_a1_05_010": {
-    "question": "It is one o'clock.",
+    "question": "Bây giờ là một giờ.",
     "correct": "Es la una.",
     "wrong": [
       "Son la una.",
       "Es las una.",
       "Son las una."
     ],
-    "explanation": "cho 1:00, use 'Es la una' (số ít).\ncho tất cả other hours, use 'Son las + number'.\n- Es la una. (1:00) vs Son las dos. (2:00)"
+    "explanation": "Với 1:00, dùng 'Es la una' (số ít).\nVới tất cả các giờ khác, dùng 'Son las + số'.\n- Es la una. (1:00) so với Son las dos. (2:00)",
+    "hint": null
   },
   "q_gram_a1_06_001": {
-    "question": "Yo ___ en casa. (conjugate estar)",
+    "question": "Yo ___ en casa. (chia động từ estar)",
     "correct": "estoy",
     "wrong": [
       "soy",
       "estás",
       "está"
     ],
-    "explanation": " yo form của 'estar' là 'estoy'.\n- Estoy en casa = I am tại home.\nEstar được sử dụng cho location.",
-    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están"
+    "explanation": "Dạng chia của 'estar' với yo là 'estoy'.\n- Estoy en casa = Tôi đang ở nhà.\nEstar được dùng cho vị trí.",
+    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están",
+    "hint": null
   },
   "q_gram_a1_06_002": {
     "question": "El gato ___ en la mesa.",
@@ -559,8 +584,8 @@
       "estoy",
       "están"
     ],
-    "explanation": "Estar được sử dụng để express location.\n- El gato está en la mesa. = cat là on table.\n- Location luôn uses estar (not ser).",
-    "hint": "mà động từ được sử dụng cho location?"
+    "explanation": "Estar được dùng để diễn tả vị trí.\n- El gato está en la mesa. = Con mèo ở trên bàn.\n- Estar được dùng cho vị trí của người và vật.",
+    "hint": "Động từ nào được dùng cho vị trí?"
   },
   "q_gram_a1_06_003": {
     "question": "Mis amigos ___ contentos.",
@@ -570,30 +595,31 @@
       "estamos",
       "estáis"
     ],
-    "explanation": "Estar được sử dụng cho emotions và temporary states.\n- están contentos = chúng là happy (right now)\n- 'contentos' phù hợp với nam tính số nhiều subject.",
-    "hint": "Emotions và feelings use mà động từ?"
+    "explanation": "Estar được dùng cho cảm xúc và trạng thái tạm thời.\n- están contentos = họ đang vui (ngay lúc này)\n- 'contentos' hòa hợp với chủ ngữ giống đực số nhiều.",
+    "hint": "Cảm xúc và cảm giác dùng động từ nào?"
   },
   "q_gram_a1_06_004": {
-    "question": "'estar' diễn tả điều gì trong '¿Cómo estás?'?",
-    "correct": "sức khỏe hoặc cảm xúc",
+    "question": "'estar' diễn tả điều gì trong câu '¿Cómo estás?'?",
+    "correct": "sức khỏe hoặc cảm giác",
     "wrong": [
       "danh tính",
       "nghề nghiệp",
       "quốc tịch"
     ],
-    "explanation": "'¿Cómo estás?' nghĩa là 'Bạn khỏe không?' và hỏi về trạng thái hoặc cảm xúc hiện tại của một người.\nEstar được dùng cho các trạng thái tạm thời như sức khỏe, tâm trạng và cảm xúc.",
+    "explanation": "'¿Cómo estás?' có nghĩa là 'Bạn khỏe không?' và hỏi về trạng thái hay cảm giác hiện tại của ai đó.\nEstar được dùng cho các tình trạng tạm thời như sức khỏe, tâm trạng và trạng thái cảm xúc.",
     "hint": null
   },
   "q_gram_a1_06_005": {
-    "question": "Nosotros ___ cansados. (conjugate estar)",
+    "question": "Nosotros ___ cansados. (chia động từ estar)",
     "correct": "estamos",
     "wrong": [
       "somos",
       "están",
       "estoy"
     ],
-    "explanation": " nosotros form của 'estar' là 'estamos'.\n- Estamos cansados = We là tired.\nBeing tired là a temporary state, so estar được sử dụng.",
-    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están"
+    "explanation": "Dạng chia của 'estar' với nosotros là 'estamos'.\n- Estamos cansados = Chúng tôi đang mệt.\nMệt là trạng thái tạm thời nên dùng estar.",
+    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están",
+    "hint": null
   },
   "q_gram_a1_06_006": {
     "question": "La sopa ___ caliente.",
@@ -603,18 +629,19 @@
       "son",
       "están"
     ],
-    "explanation": "Estar được sử dụng cho temporary conditions.\n- La sopa está caliente. = soup là hot (right now).\n soup's temperature là a temporary state, not a permanent characteristic.",
-    "hint": "Temperature là a temporary condition"
+    "explanation": "Estar được dùng cho các tình trạng tạm thời.\n- La sopa está caliente. = Món súp đang nóng (ngay lúc này).\nNhiệt độ của món súp là trạng thái tạm thời, không phải đặc điểm cố định.",
+    "hint": "Nhiệt độ là một tình trạng tạm thời"
   },
   "q_gram_a1_06_007": {
-    "question": "I am studying Tây Ban Nha.",
+    "question": "Tôi đang học tiếng Tây Ban Nha.",
     "correct": "Estoy estudiando español.",
     "wrong": [
       "Soy estudiando español.",
       "Estoy estudiar español.",
       "Es estudiando español."
     ],
-    "explanation": " present progressive uses estar + danh động từ (-ando/-iendo).\n- Estoy estudiando = I am studying\n- estudiar → estudiando"
+    "explanation": "Thì hiện tại tiếp diễn dùng estar + gerundio (-ando/-iendo).\n- Estoy estudiando = Tôi đang học\n- estudiar → estudiando",
+    "hint": null
   },
   "q_gram_a1_06_008": {
     "question": "La puerta ___ abierta.",
@@ -624,29 +651,31 @@
       "son",
       "están"
     ],
-    "explanation": "Estar được sử dụng cho conditions hoặc states mà có thể change.\n- La puerta está abierta. = door là open.\n door có thể là opened hoặc closed; nó's a changeable state.",
-    "hint": "là 'open' a permanent characteristic hoặc a changeable state?"
+    "explanation": "Estar được dùng cho tình trạng hoặc trạng thái có thể thay đổi.\n- La puerta está abierta. = Cửa đang mở.\nCửa có thể mở hoặc đóng; đó là trạng thái thay đổi được.",
+    "hint": "'Mở' là đặc điểm cố định hay trạng thái có thể thay đổi?"
   },
   "q_gram_a1_06_009": {
-    "question": "My brother is sick.",
+    "question": "Anh trai tôi bị ốm.",
     "correct": "Mi hermano está enfermo.",
     "wrong": [
       "Mi hermano es enfermo.",
       "Mi hermano está enfermedad.",
       "Mis hermanos están enfermos."
     ],
-    "explanation": "Being sick là a temporary condition, so estar được sử dụng.\n- estar enfermo = để là sick (temporary)\nUsing 'ser enfermo' sẽ incorrectly imply a permanent state."
+    "explanation": "Bị ốm là tình trạng tạm thời, nên dùng estar.\n- estar enfermo = bị ốm (tạm thời)\nDùng 'ser enfermo' sẽ sai vì ngụ ý đó là trạng thái vĩnh viễn.",
+    "hint": null
   },
   "q_gram_a1_06_010": {
-    "question": "¿Dónde ___ tú ahora? (conjugate estar)",
+    "question": "¿Dónde ___ tú ahora? (chia động từ estar)",
     "correct": "estás",
     "wrong": [
       "eres",
       "está",
       "estamos"
     ],
-    "explanation": " tú form của 'estar' là 'estás'.\n- ¿Dónde estás? = ở đâu là bạn?\nEstar là luôn used cho asking about location.",
-    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están"
+    "explanation": "Dạng chia của 'estar' với tú là 'estás'.\n- ¿Dónde estás? = Bạn đang ở đâu?\nEstar được dùng để hỏi một người hoặc vật đang ở đâu.",
+    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están",
+    "hint": null
   },
   "q_gram_a1_07_001": {
     "question": "María ___ doctora.",

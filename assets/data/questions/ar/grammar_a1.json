@@ -7,8 +7,8 @@
       "Los",
       "Las"
     ],
-    "explanation": "'\u0001' اسم مذكر مفرد, لذا معرفة أداة 'el' يُستخدم.\n- el libro (مذكر مفرد)\n- la mesa (مؤنث مفرد)",
-    "hint": "libro ينتهي بـ -o، والذي عادة يشير إلى مذكر جنس"
+    "explanation": "'libro' اسم مذكر مفرد، لذلك نستخدم أداة التعريف 'el'.\n- el libro (مذكر مفرد)\n- la mesa (مؤنث مفرد)",
+    "hint": "ينتهي libro بحرف -o، وهذا يدل عادةً على المذكر"
   },
   "q_gram_a1_01_002": {
     "question": "___ mano es pequeña.",
@@ -18,29 +18,31 @@
       "Los",
       "Las"
     ],
-    "explanation": "'mano' هو أحد الاستثناءات الشائعة: على الرغم من ينتهي بـ -o, هو هو مؤنث.\n- la mano (مؤنث, استثناء)\n- el libro (مذكر, منتظم -o نهاية)",
-    "hint": "هذا استثناء مشهور إلى الـ -o = مذكر قاعدة"
+    "explanation": "'mano' من الاستثناءات الشائعة: فرغم أنها تنتهي بحرف -o، فهي مؤنثة.\n- la mano (مؤنث، استثناء)\n- el libro (مذكر، نهاية -o عادية)",
+    "hint": "هذا استثناء مشهور من قاعدة أن -o تعني المذكر"
   },
   "q_gram_a1_01_003": {
-    "question": "ما معنى 'casa' في 'la casa'؟",
+    "question": "ماذا تعني 'casa' في 'la casa'؟",
     "correct": "منزل",
     "wrong": [
       "طاولة",
       "قطة",
       "كتاب"
     ],
-    "explanation": "'casa' يعني 'منزل' و اسم مؤنث ينتهي بـ -a.\n- la casa = الـ منزل\n- una casa = a منزل"
+    "explanation": "'casa' تعني «منزل»، وهي اسم مؤنث ينتهي بحرف -a.\n- la casa = المنزل\n- una casa = منزل",
+    "hint": null
   },
   "q_gram_a1_01_004": {
-    "question": "___ ciudad es grande. (استخدم الأداة الصحيحة للاسم المؤنث)",
+    "question": "___ ciudad es grande. (استخدم أداة التعريف الصحيحة للاسم المؤنث)",
     "correct": "La",
     "wrong": [
       "El",
       "Los",
       "Las"
     ],
-    "explanation": "'ciudad' ينتهي بـ -dad, وهو a مؤنث نهاية.\nNouns ينتهي بـ -ción, -sión, -dad, و -tad هم عادة مؤنث.",
-    "conjugation_info": "مؤنث endings: -a, -ción, -sión, -dad, -tad, -tud"
+    "explanation": "'ciudad' تنتهي بـ -dad، وهي نهاية مؤنثة.\nالأسماء المنتهية بـ -ción و-sión و-dad و-tad تكون عادةً مؤنثة.",
+    "conjugation_info": "مؤنث endings: -a, -ción, -sión, -dad, -tad, -tud",
+    "hint": null
   },
   "q_gram_a1_01_005": {
     "question": "___ problema es difícil.",
@@ -50,19 +52,20 @@
       "Los",
       "Las"
     ],
-    "explanation": "'\u0001' مذكر على الرغم من ينتهي بـ -a. الكلمات من أصل يوناني ينتهي بـ -ma هم مذكر.\n- el problema, el tema, el sistema, el programa",
-    "hint": "كلمات من أصل يوناني ينتهي بـ -ma هم مذكر"
+    "explanation": "'problema' مذكر رغم أنها تنتهي بحرف -a. الكلمات ذات الأصل اليوناني المنتهية بـ -ma مذكرة.\n- el problema, el tema, el sistema, el programa",
+    "hint": "الكلمات ذات الأصل اليوناني المنتهية بـ -ma مذكرة"
   },
   "q_gram_a1_01_006": {
-    "question": "___ televisión es nueva. (اختر الأداة الصحيحة)",
+    "question": "___ televisión es nueva. (اختر أداة التعريف الصحيحة)",
     "correct": "La",
     "wrong": [
       "El",
       "Los",
       "Las"
     ],
-    "explanation": "'televisión' ينتهي بـ -sión, مما يجعله مؤنث.\nجميع الأسماء ينتهي بـ -ción و -sión هم مؤنث في الإسبانية.",
-    "conjugation_info": "مؤنث endings: -ción (nación), -sión (televisión), -dad (ciudad)"
+    "explanation": "'televisión' تنتهي بـ -sión، لذلك فهي مؤنثة.\nجميع الأسماء المنتهية بـ -ción و-sión في الإسبانية مؤنثة.",
+    "conjugation_info": "مؤنث endings: -ción (nación), -sión (televisión), -dad (ciudad)",
+    "hint": null
   },
   "q_gram_a1_01_007": {
     "question": "___ día es bonito.",
@@ -72,8 +75,8 @@
       "Los",
       "Las"
     ],
-    "explanation": "'día' هو أحد أكثر الاستثناءات شيوعاً في الإسبانية: هو هو مذكر على الرغم من ينتهي بـ -a.\n- el día (مذكر, استثناء)\n- استثناءات أخرى: el mapa, el sofá",
-    "hint": "ليست كل الكلمات ينتهي بـ -a هم مؤنث"
+    "explanation": "'día' من أكثر الاستثناءات شيوعاً في الإسبانية: فهي مذكرة رغم انتهائها بحرف -a.\n- el día (مذكر، استثناء)\n- استثناءات أخرى: el mapa, el sofá",
+    "hint": "ليست كل الكلمات المنتهية بحرف -a مؤنثة"
   },
   "q_gram_a1_01_008": {
     "question": "الخريطة كبيرة.",
@@ -83,29 +86,30 @@
       "Los mapas son grandes.",
       "El mapa es pequeño."
     ],
-    "explanation": "كلمة 'mapa' مذكّرة رغم أنها تنتهي بحرف -a (وهذا استثناء آخر من قاعدة أن -a تعني مؤنثًا).\nكلمة 'grande' تعني 'كبير' ولا تتغير بحسب الجنس.",
+    "explanation": "'mapa' مذكر رغم انتهائه بحرف -a (استثناء آخر من قاعدة أن -a تعني المؤنث).\n«كبير» = 'grande'، ولا تتغير بحسب الجنس.",
     "hint": null
   },
   "q_gram_a1_01_009": {
-    "question": "___ fotos son de mi familia. (select الـ صحيح أداة تعريف لـ الـ جمع مؤنث اسم)",
+    "question": "___ fotos son de mi familia. (اختر أداة التعريف الصحيحة للاسم المؤنث الجمع)",
     "correct": "Las",
     "wrong": [
       "Los",
       "La",
       "El"
     ],
-    "explanation": "'foto' هو قصير لـ 'fotografía', وهو مؤنث.\n- la foto → las fotos\nAbbreviations تحتفظ بجنس الكلمة الكاملة.",
-    "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)"
+    "explanation": "'foto' اختصار لكلمة 'fotografía'، وهي مؤنثة.\n- la foto → las fotos\nالاختصارات تحتفظ بجنس الكلمة الكاملة.",
+    "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)",
+    "hint": null
   },
   "q_gram_a1_01_010": {
     "question": "اليد باردة.",
     "correct": "La mano está fría.",
     "wrong": [
       "El mano está frío.",
-      "La mano es fría.",
+      "La mano está frío.",
       "Las manos están frías."
     ],
-    "explanation": "كلمة 'mano' مؤنثة رغم أنها تنتهي بـ -o (استثناء مهم).\nنستخدم 'está' لأن الشعور بالبرد حالة مؤقتة.\n- la mano fría (مطابقة الصفة للمؤنث)",
+    "explanation": "'mano' مؤنثة رغم انتهائها بحرف -o (استثناء مهم).\nنستخدم 'está' لأن الشعور بالبرد حالة مؤقتة.\n- la mano fría (توافق الصفة المؤنثة)",
     "hint": null
   },
   "q_gram_a1_02_001": {
@@ -116,8 +120,9 @@
       "a la",
       "del"
     ],
-    "explanation": "عندما الـ حرف جر 'a' هو متبوعاً بـ الـ أداة 'el', هم contract إلى 'al'.\n- a + el = al (Voy al parque.)\nهذا one من فقط two contractions في الإسبانية.",
-    "conjugation_info": "Contractions: a + el = al, de + el = del"
+    "explanation": "عندما يأتي حرف الجر 'a' قبل أداة التعريف 'el'، يندمجان في 'al'.\n- a + el = al (Voy al parque.)\nهذا أحد اندماجين فقط في الإسبانية.",
+    "conjugation_info": "Contractions: a + el = al, de + el = del",
+    "hint": null
   },
   "q_gram_a1_02_002": {
     "question": "___ escuela está cerca.",
@@ -127,8 +132,8 @@
       "Los",
       "Las"
     ],
-    "explanation": "'\u0001' اسم مؤنث مفرد ينتهي بـ -a.\n- la escuela (مؤنث مفرد)\n- las escuelas (مؤنث جمع)",
-    "hint": "escuela ينتهي بـ -a, a typical مؤنث نهاية"
+    "explanation": "'escuela' اسم مؤنث مفرد ينتهي بحرف -a.\n- la escuela (مؤنث مفرد)\n- las escuelas (مؤنث جمع)",
+    "hint": "تنتهي escuela بحرف -a، وهي نهاية مؤنثة نموذجية"
   },
   "q_gram_a1_02_003": {
     "question": "___ niños juegan en el parque.",
@@ -138,18 +143,19 @@
       "El",
       "La"
     ],
-    "explanation": "'\u0001' اسم مذكر جمع, لذا معرفة أداة 'los' يُستخدم.\n- el niño (مذكر مفرد) → los niños (مذكر جمع)",
-    "hint": "niños هو الـ جمع من niño"
+    "explanation": "'niños' اسم مذكر جمع، لذلك نستخدم أداة التعريف 'los'.\n- el niño (مذكر مفرد) → los niños (مذكر جمع)",
+    "hint": "niños هي جمع niño"
   },
   "q_gram_a1_02_004": {
-    "question": "ماذا يشير 'los' في 'los libros'؟",
+    "question": "ماذا تدل 'los' في 'los libros'؟",
     "correct": "أداة تعريف للمذكر الجمع",
     "wrong": [
       "أداة تعريف للمؤنث الجمع",
       "أداة تعريف للمذكر المفرد",
       "أداة تنكير للمذكر الجمع"
     ],
-    "explanation": "'los' هو الـ مذكر جمع معرفة أداة (= 'الـ' لـ مذكر جمع nouns).\n- el (m. sg.), la (f. sg.), los (m. pl.), las (f. pl.)"
+    "explanation": "'los' هي أداة التعريف للمذكر الجمع (= «الـ» للأسماء المذكرة الجمع).\n- el (مذكر مفرد)، la (مؤنث مفرد)، los (مذكر جمع)، las (مؤنث جمع)",
+    "hint": null
   },
   "q_gram_a1_02_005": {
     "question": "Vengo ___ cine. (أكمل: de + el)",
@@ -159,8 +165,9 @@
       "de la",
       "al"
     ],
-    "explanation": "عندما 'de' هو متبوعاً بـ 'el', هم contract إلى 'del'.\n- de + el = del (Vengo del cine.)\nهذا الاختصار إلزامي في الإسبانية.",
-    "conjugation_info": "Contractions: a + el = al, de + el = del"
+    "explanation": "عندما يأتي 'de' قبل 'el'، يندمجان في 'del'.\n- de + el = del (Vengo del cine.)\nهذا الاندماج إلزامي في الإسبانية.",
+    "conjugation_info": "Contractions: a + el = al, de + el = del",
+    "hint": null
   },
   "q_gram_a1_02_006": {
     "question": "___ flores son bonitas.",
@@ -170,8 +177,8 @@
       "La",
       "El"
     ],
-    "explanation": "'\u0001' اسم مؤنث جمع.\n- la flor (مؤنث مفرد) → las flores (مؤنث جمع)\nالـ معرفة أداة يجب match في جنس و number.",
-    "hint": "flor هو مؤنث; flores هو its جمع form"
+    "explanation": "'flores' اسم مؤنث جمع.\n- la flor (مؤنث مفرد) → las flores (مؤنث جمع)\nيجب أن تتوافق أداة التعريف في الجنس والعدد.",
+    "hint": "flor مؤنثة؛ و flores هي صيغة جمعها"
   },
   "q_gram_a1_02_007": {
     "question": "أعمل أيام الاثنين.",
@@ -181,7 +188,7 @@
       "Trabajo en lunes.",
       "Trabajo lunes."
     ],
-    "explanation": "للأفعال المعتادة التي تتكرر في يوم من أيام الأسبوع نستخدم 'los' + اسم اليوم.\n- los lunes = أيام الاثنين (بشكل معتاد)\n- el lunes = يوم الاثنين (يوم محدد، هذا الاثنين)",
+    "explanation": "للأفعال المعتادة في يوم من أيام الأسبوع، نستخدم 'los' + اليوم.\n- los lunes = أيام الاثنين (بشكل معتاد)\n- el lunes = يوم الاثنين (محدد، هذا الاثنين)",
     "hint": null
   },
   "q_gram_a1_02_008": {
@@ -192,18 +199,19 @@
       "la",
       "las"
     ],
-    "explanation": "تُستخدم أسماء أيام الأسبوع في الإسبانية مع أداة التعريف.\n- 'los lunes' = أيام الاثنين (بشكل متكرر)\n- 'el lunes' = يوم الاثنين (اثنين محدد بعينه)",
-    "hint": "استخدم أداة التعريف الجمع للأيام المتكررة"
+    "explanation": "تستخدم أيام الأسبوع في الإسبانية مع أدوات التعريف.\n- 'los lunes' = أيام الاثنين (بشكل متكرر)\n- 'el lunes' = يوم الاثنين (يوم اثنين محدد)",
+    "hint": "استخدم أداة الجمع للأيام المتكررة"
   },
   "q_gram_a1_02_009": {
-    "question": "Cats are independent.",
+    "question": "القطط مستقلة.",
     "correct": "Los gatos son independientes.",
     "wrong": [
       "Gatos son independientes.",
       "Unos gatos son independientes.",
       "Las gatas son independientes."
     ],
-    "explanation": "في الإسبانية, general statements require الـ معرفة أداة.\n- Los gatos son independientes. (قطط في general)\nالإنجليزية omits 'الـ' في general statements, لكن الإسبانية requires هو."
+    "explanation": "في الإسبانية تتطلب العبارات العامة أداة التعريف.\n- Los gatos son independientes. (القطط عموماً)\nالعربية تستخدم «ال» في العبارات العامة، والإسبانية تتطلب أداة التعريف كذلك، أما الإنجليزية فتحذفها.",
+    "hint": null
   },
   "q_gram_a1_02_010": {
     "question": "Vamos ___ escuela. (أكمل: a + la)",
@@ -213,8 +221,9 @@
       "a las",
       "a el"
     ],
-    "explanation": "الـ اختصار فقط happens مع 'a + el = al'. مع 'la', no اختصار occurs.\n- Voy al parque (a + el)\n- Voy a la escuela (a + la, no اختصار)",
-    "conjugation_info": "Only a + el = al and de + el = del form contractions. Other combinations stay separate."
+    "explanation": "الاندماج يحدث فقط في 'a + el = al'. أما مع 'la' فلا يحدث اندماج.\n- Voy al parque (a + el)\n- Voy a la escuela (a + la، بلا اندماج)",
+    "conjugation_info": "Only a + el = al and de + el = del form contractions. Other combinations stay separate.",
+    "hint": null
   },
   "q_gram_a1_03_001": {
     "question": "Tengo ___ amigo en España.",
@@ -224,8 +233,8 @@
       "unos",
       "el"
     ],
-    "explanation": "'\u0001' اسم مذكر مفرد, لذا نكرة أداة 'un' يُستخدم.\n- un amigo = a صديق (مذكر)\n- una amiga = a صديق (مؤنث)",
-    "hint": "amigo ينتهي بـ -o, indicating مذكر جنس"
+    "explanation": "'amigo' اسم مذكر مفرد، لذلك يُستخدم أداة التنكير 'un'.\n- un amigo = صديق (مذكر)\n- una amiga = صديقة (مؤنث)",
+    "hint": "تنتهي كلمة amigo بحرف -o، مما يدل على أنها مذكرة"
   },
   "q_gram_a1_03_002": {
     "question": "Hay ___ libros en la mesa.",
@@ -235,29 +244,31 @@
       "unas",
       "los"
     ],
-    "explanation": "كلمة 'libros' اسم مذكّر جمع، و'unos' تعني 'بعض' مع الأسماء المذكّرة الجمع.\n- un libro → unos libros\n- una carta → unas cartas",
-    "hint": "أي أداة تنكير تُستخدم مع المذكّر الجمع؟"
+    "explanation": "'libros' اسم مذكر جمع؛ و'unos' تعني \"بعض\" مع الجمع المذكر.\n- un libro → unos libros\n- una carta → unas cartas",
+    "hint": "أي أداة تنكير تُستخدم مع الجمع المذكر؟"
   },
   "q_gram_a1_03_003": {
-    "question": "ما معنى 'unas' في 'unas flores'؟",
-    "correct": "some (feminine plural)",
+    "question": "ماذا تعني 'unas' في 'unas flores'؟",
+    "correct": "بعض (جمع مؤنث)",
     "wrong": [
-      "the (feminine plural)",
-      "a (feminine singular)",
-      "some (masculine plural)"
+      "الـ (جمع مؤنث)",
+      "واحدة / ـٌ (مفرد مؤنث)",
+      "بعض (جمع مذكر)"
     ],
-    "explanation": "'unas' هو الـ مؤنث جمع نكرة أداة المعنى 'some'.\n- un (m. sg.), una (f. sg.), unos (m. pl.), unas (f. pl.)"
+    "explanation": "'unas' هي أداة التنكير للجمع المؤنث وتعني \"بعض\".\n- un (مذكر مفرد)، una (مؤنث مفرد)، unos (مذكر جمع)، unas (مؤنث جمع)",
+    "hint": null
   },
   "q_gram_a1_03_004": {
-    "question": "Soy ___. (I am a teacher.) (conjugate الـ appropriate response)",
+    "question": "Soy ___. (Yo soy maestro.) (اختر الإجابة المناسبة)",
     "correct": "profesor",
     "wrong": [
       "un profesor",
       "el profesor",
       "una profesora"
     ],
-    "explanation": "في الإسبانية, الـ نكرة أداة هو omitted مع professions بعد ser.\n- Soy profesor. (صحيح)\n- Soy un profesor. (incorrect في standard الإسبانية)\nهذا قاعدة applies إلى nationalities too: Soy español.",
-    "conjugation_info": "Ser + profession: no أداة needed. Soy profesor, Soy estudiante, Soy médico."
+    "explanation": "في الإسبانية تُحذف أداة التنكير مع المهن بعد الفعل ser.\n- Soy profesor. (صحيح)\n- Soy un profesor. (غير صحيح في الإسبانية الفصحى إلا إذا وُجدت صفة أو مُكمّل)\nتنطبق هذه القاعدة أيضًا على الجنسيات: Soy español.",
+    "conjugation_info": "Ser + profession: no أداة needed. Soy profesor, Soy estudiante, Soy médico.",
+    "hint": null
   },
   "q_gram_a1_03_005": {
     "question": "Barcelona es ___ ciudad bonita.",
@@ -267,19 +278,20 @@
       "la",
       "unas"
     ],
-    "explanation": "'\u0001' مؤنث, و we use الـ نكرة أداة عندما describing something لـ الـ first وقت.\n- una ciudad bonita = a جميل مدينة\nNote: 'ciudad' ينتهي بـ -dad, a مؤنث نهاية.",
+    "explanation": "'ciudad' كلمة مؤنثة، ونستخدم أداة التنكير عند وصف شيء للمرة الأولى.\n- una ciudad bonita = مدينة جميلة\nملاحظة: تنتهي 'ciudad' بـ -dad وهي نهاية مؤنثة.",
     "hint": "ciudad اسم مؤنث"
   },
   "q_gram_a1_03_006": {
-    "question": "No hay ___. (هناك no problem.)",
+    "question": "no hay ___. (لا توجد مشكلة هناك.)",
     "correct": "problema",
     "wrong": [
       "un problema",
       "el problema",
       "problemas"
     ],
-    "explanation": "بعد negative 'no hay', الـ نكرة أداة هو omitted.\n- No hay problema. (صحيح)\n- No hay azúcar. (هناك no sugar.)\nالـ أداة هو dropped في negative existential statements.",
-    "conjugation_info": "Omit نكرة أداة after: sin (without), no hay (there isn't), and with professions after ser."
+    "explanation": "بعد النفي 'no hay' تُحذف أداة التنكير.\n- no hay problema. (صحيح)\n- no hay azúcar. (لا يوجد سكر.)\nتُحذف الأداة في جمل الوجود المنفية.",
+    "conjugation_info": "Omit نكرة أداة after: sin (without), no hay (there isn't), and with professions after ser.",
+    "hint": null
   },
   "q_gram_a1_03_007": {
     "question": "Café ___ azúcar, por favor. (قهوة بدون سكر)",
@@ -289,29 +301,31 @@
       "con",
       "de"
     ],
-    "explanation": "بعد 'sin' (بدون) تُحذف أداة التنكير.\n- Café sin azúcar. (قهوة بدون سكر.)\n- Café con leche. (قهوة بحليب.)",
-    "hint": "أي حرف جر يعني 'بدون'؟"
+    "explanation": "بعد 'sin' (بدون) تُحذف أداة التنكير.\n- Café sin azúcar. (قهوة بدون سكر.)\n- Café con leche. (قهوة بالحليب.)",
+    "hint": "أي حرف جر يعني \"بدون\"؟"
   },
   "q_gram_a1_03_008": {
-    "question": "I buy some flowers.",
+    "question": "أشتري بعض الزهور.",
     "correct": "Compro unas flores.",
     "wrong": [
       "Compro las flores.",
       "Compro un flores.",
       "Compro una flores."
     ],
-    "explanation": "'some زهور' = 'unas flores' (مؤنث جمع نكرة أداة).\n- unas + مؤنث جمع اسم = some (unspecified)\n- las + مؤنث جمع اسم = الـ (specific)"
+    "explanation": "'some flowers' = 'unas flores' (أداة التنكير للجمع المؤنث).\n- unas + اسم مؤنث جمع = بعض (غير محدد)\n- las + اسم مؤنث جمع = الـ (محدد)",
+    "hint": null
   },
   "q_gram_a1_03_009": {
-    "question": "___ gato está en la calle. (A cat هو في الـ street — any cat.)",
+    "question": "___ gato está en la calle. (قط في الشارع — أي قط.)",
     "correct": "Un",
     "wrong": [
       "El",
       "Unos",
       "La"
     ],
-    "explanation": "We use الـ نكرة أداة 'un' لـ first mention أو non-specific reference.\n- Un gato (any قطة, first mention) vs El gato (a specific قطة)\nهذا distinction هو crucial لـ natural الإسبانية.",
-    "conjugation_info": "نكرة (first mention/non-specific): un/una/unos/unas. معرفة (known/specific): el/la/los/las."
+    "explanation": "نستخدم أداة التنكير 'un' عند الذكر الأول أو للإشارة غير المحددة.\n- Un gato (أي قط، ذكر أول مرة) مقابل El gato (قط محدد)\nهذا التمييز مهم للحصول على إسبانية طبيعية.",
+    "conjugation_info": "نكرة (first mention/non-specific): un/una/unos/unas. معرفة (known/specific): el/la/los/las.",
+    "hint": null
   },
   "q_gram_a1_03_010": {
     "question": "توجد بعض الكتب على الطاولة.",
@@ -321,19 +335,20 @@
       "Hay un libros en la mesa.",
       "Están unos libros en la mesa."
     ],
-    "explanation": "'بعض الكتب' = 'unos libros' (أداة النكرة للمذكر الجمع).\nنستخدم 'hay' للدلالة على الوجود، وأداة النكرة للأشياء غير المحددة.\n- Hay unos libros. (وجود، غير محدد)",
+    "explanation": "'some books' = 'unos libros' (أداة التنكير للجمع المذكر).\nنستخدم 'hay' للدلالة على الوجود، وأداة التنكير للأشياء غير المحددة.\n- Hay unos libros. (وجود، غير محدد)",
     "hint": null
   },
   "q_gram_a1_04_001": {
-    "question": "___ hablamos español. (fill في الـ subject ضمير)",
+    "question": "___ hablamos español. (املأ الفراغ بضمير الفاعل)",
     "correct": "Nosotros",
     "wrong": [
       "Yo",
       "Ellos",
       "Tú"
     ],
-    "explanation": "'hablamos' هو الـ nosotros/nosotras form من hablar.\n- nosotros hablamos = we speak\nالـ -amos نهاية يشير إلى first شخص جمع.",
-    "conjugation_info": "Subject pronouns: yo, tú, él/ella/usted, nosotros, vosotros, ellos/ustedes"
+    "explanation": "'hablamos' هي صيغة nosotros/nosotras من الفعل hablar.\n- nosotros hablamos = نحن نتحدث\nتدل النهاية -amos على ضمير المتكلمين الجمع.",
+    "conjugation_info": "Subject pronouns: yo, tú, él/ella/usted, nosotros, vosotros, ellos/ustedes",
+    "hint": null
   },
   "q_gram_a1_04_002": {
     "question": "___ eres mi amigo.",
@@ -343,7 +358,7 @@
       "Él",
       "Usted"
     ],
-    "explanation": "'eres' هي صيغة المخاطب (tú) من الفعل ser.\n- Tú eres = أنتَ (غير رسمي)\nيُستخدم الضمير 'tú' مع الأصدقاء والعائلة والأقران.",
+    "explanation": "'eres' هي صيغة tú من الفعل ser.\n- Tú eres = أنت (غير رسمي)\nيُستخدم الضمير 'tú' مع الأصدقاء والعائلة والأقران.",
     "hint": "أي ضمير يناسب 'eres'؟"
   },
   "q_gram_a1_04_003": {
@@ -354,29 +369,31 @@
       "Tú",
       "Yo"
     ],
-    "explanation": "'viven' هو الـ ellos/ellas/ustedes form من vivir.\n- Ellos viven = هم live\nالـ -en نهاية يشير إلى third شخص جمع.",
-    "hint": "viven هو a 3rd شخص جمع فعل form"
+    "explanation": "'viven' هي صيغة ellos/ellas/ustedes من الفعل vivir.\n- Ellos viven = هم يعيشون\nتدل النهاية -en على الغائبين الجمع.",
+    "hint": "viven صيغة فعل للغائبين الجمع"
   },
   "q_gram_a1_04_004": {
-    "question": "ماذا هو الـ رسمي way لقول 'أنت' (مفرد) في الإسبانية?",
+    "question": "ما هي الطريقة الرسمية لقول \"أنت\" (للمفرد) في الإسبانية؟",
     "correct": "usted",
     "wrong": [
       "tú",
       "vosotros",
       "nosotros"
     ],
-    "explanation": "'usted' هو الـ رسمي مفرد 'أنت', used مع strangers, elders, و في professional settings.\n- tú = غير رسمي 'أنت'\n- usted = رسمي 'أنت' (takes 3rd شخص فعل forms)"
+    "explanation": "'usted' هي \"أنت\" الرسمية للمفرد، وتُستخدم مع الغرباء وكبار السن وفي الأجواء المهنية.\n- tú = \"أنت\" غير الرسمية\n- usted = \"أنت\" الرسمية (تأخذ صيغ الفعل للغائب)",
+    "hint": null
   },
   "q_gram_a1_04_005": {
-    "question": "___ es la profesora. (conjugate ser لـ الـ 3rd شخص)",
+    "question": "___ es la profesora. (هي)",
     "correct": "Ella",
     "wrong": [
       "Él",
       "Yo",
       "Nosotros"
     ],
-    "explanation": "'Ella' يعني 'she' و يُستخدم لـ a female subject.\n- Ella es la profesora = She هو الـ معلم.\n- Él es el profesor = He هو الـ معلم.",
-    "conjugation_info": "3rd شخص pronouns: él (he), ella (she), usted (you formal)"
+    "explanation": "'Ella' تعني \"هي\" وتُستخدم للفاعل المؤنث. 'La profesora' مؤنثة، ولهذا يناسبها 'ella'.\n- Ella es la profesora = هي المعلمة.\n- Él es el profesor = هو المعلم.",
+    "conjugation_info": "3rd شخص pronouns: él (he), ella (she), usted (you formal)",
+    "hint": null
   },
   "q_gram_a1_04_006": {
     "question": "En España, ___ coméis paella.",
@@ -386,49 +403,51 @@
       "nosotros",
       "ellos"
     ],
-    "explanation": "'vosotros' يُستخدم mainly في Spain لـ الـ غير رسمي جمع 'أنت كل'.\n- coméis هو الـ vosotros form من comer\nفي Latin America, 'ustedes' يُستخدم instead من 'vosotros'.",
-    "hint": "هذا ضمير هو mainly used في Spain"
+    "explanation": "يُستخدم 'vosotros' بشكل رئيسي في إسبانيا للمخاطبين الجمع بصيغة غير رسمية.\n- coméis هي صيغة vosotros من الفعل comer\nفي أمريكا اللاتينية يُستخدم 'ustedes' بدلًا من 'vosotros'.",
+    "hint": "يُستخدم هذا الضمير بشكل رئيسي في إسبانيا"
   },
   "q_gram_a1_04_007": {
-    "question": "We live في Barcelona.",
+    "question": "نحن نعيش في برشلونة.",
     "correct": "Vivimos en Barcelona.",
     "wrong": [
       "Viven en Barcelona.",
       "Vivo en Barcelona.",
       "Vivís en Barcelona."
     ],
-    "explanation": "في الإسبانية, subject pronouns هم غالباً omitted لأن الـ فعل نهاية shows من هو speaking.\n- vivimos = we live (nosotros هو optional)\n- vivo = I live, vives = أنت live"
+    "explanation": "في الإسبانية غالبًا ما تُحذف ضمائر الفاعل لأن نهاية الفعل تبيّن من يتكلم.\n- vivimos = نحن نعيش (nosotros اختياري)\n- vivo = أنا أعيش، vives = أنت تعيش",
+    "hint": null
   },
   "q_gram_a1_04_008": {
-    "question": "___ habla español muy bien. (He speaks الإسبانية جداً well.)",
+    "question": "___ habla español muy bien. (هو يتحدث الإسبانية جيدًا جدًا.)",
     "correct": "Él",
     "wrong": [
       "Ella",
       "Yo",
       "Tú"
     ],
-    "explanation": "'Él' يعني 'he'. الـ accent on الـ 'E' distinguishes هو من 'el' (الـ أداة).\n- Él habla = He speaks\n- El libro = الـ كتاب (أداة, no accent)",
-    "hint": "Note الـ accent mark ذلك distinguishes هذا ضمير من الـ أداة"
+    "explanation": "'Él' تعني \"هو\". تفرّقها علامة الإيقاع على حرف 'E' عن 'el' (أداة التعريف).\n- Él habla = هو يتحدث\n- El libro = الكتاب (أداة تعريف، بدون علامة)",
+    "hint": "انتبه إلى علامة الإيقاع التي تميّز هذا الضمير عن أداة التعريف"
   },
   "q_gram_a1_04_009": {
-    "question": "¿___ es usted?",
+    "question": "¿___ es usted? – Soy Ana García.",
     "correct": "Quién",
     "wrong": [
-      "Qué",
-      "Cómo",
-      "Dónde"
+      "Dónde",
+      "Cuándo",
+      "Cuál"
     ],
-    "explanation": "عندما asking about identity مع 'usted', '¿Quién es usted?' يعني 'من هم أنت?' (رسمي).\nلاحظ أن 'usted' takes الـ same فعل form as él/ella (3rd شخص مفرد).\n- ¿Quién es usted? (رسمي) vs ¿Quién eres tú? (غير رسمي)"
+    "explanation": "عند السؤال عن الهوية مع 'usted'، فإن '¿Quién es usted?' تعني \"من حضرتك؟\" (رسمي).\nلاحظ أن 'usted' تأخذ نفس صيغة الفعل مع él/ella (الغائب المفرد).\n- ¿Quién es usted? (رسمي) مقابل ¿Quién eres tú? (غير رسمي)",
+    "hint": null
   },
   "q_gram_a1_04_010": {
-    "question": "Yo hablo español, ___ habla francés. (اختر الضمير الصحيح لـ 'هي')",
+    "question": "Yo hablo español, ___ habla francés. (هي)",
     "correct": "ella",
     "wrong": [
       "él",
       "tú",
       "usted"
     ],
-    "explanation": "تُستخدم الضمائر للتوكيد أو لتوضيح من نتحدث عنه.\n- Yo hablo español, ella habla francés.\n- بدون الضمائر، قد تعني 'habla francés' أنه/أنها/حضرتك (رسمي) يتحدث الفرنسية.",
+    "explanation": "تُستخدم الضمائر للتأكيد أو لتوضيح الشخص المقصود بالحديث.\n- Yo hablo español, ella habla francés.\n- بدون الضمائر، قد تعني 'habla francés' أن هو/هي/حضرتك (رسمي) يتحدث الفرنسية.",
     "conjugation_info": "Use pronouns for emphasis: Yo hablo... ella habla... vs just Hablo... Habla...",
     "hint": null
   },
@@ -440,8 +459,8 @@
       "es",
       "somos"
     ],
-    "explanation": "الـ yo form من 'ser' هو 'soy'.\n- Yo soy estudiante = I am a طالب.\nSer يُستخدم لـ professions و identity.",
-    "hint": "ماذا هو الـ first شخص مفرد form من ser?"
+    "explanation": "صيغة yo من الفعل 'ser' هي 'soy'.\n- Yo soy estudiante = أنا طالب.\nيُستخدم ser للمهن والهوية.",
+    "hint": "ما هي صيغة المتكلم المفرد من الفعل ser؟"
   },
   "q_gram_a1_05_002": {
     "question": "Ellos ___ españoles.",
@@ -451,29 +470,31 @@
       "somos",
       "sois"
     ],
-    "explanation": "الـ ellos/ellas/ustedes form من 'ser' هو 'son'.\n- Ellos son españoles = هم هم الإسبانية.\nSer يُستخدم لـ nationality.",
-    "hint": "ماذا هو الـ third شخص جمع form من ser?"
+    "explanation": "صيغة ellos/ellas/ustedes من الفعل 'ser' هي 'son'.\n- Ellos son españoles = هم إسبان.\nيُستخدم ser للجنسية.",
+    "hint": "ما هي صيغة الغائب الجمع من الفعل ser؟"
   },
   "q_gram_a1_05_003": {
-    "question": "ماذا هو الـ main use من 'ser' في 'Ella es doctora'?",
-    "correct": "to express profession",
+    "question": "ما الاستخدام الرئيسي للفعل 'ser' في 'Ella es doctora'؟",
+    "correct": "للتعبير عن المهنة",
     "wrong": [
-      "to express location",
-      "to express emotion",
-      "to express a temporary state"
+      "للتعبير عن المكان",
+      "للتعبير عن العاطفة",
+      "للتعبير عن حالة مؤقتة"
     ],
-    "explanation": "Ser يُستخدم لـ professions: Ella es doctora (She هو a doctor).\nOther uses من ser: identity, nationality, characteristics, وقت, و origin."
+    "explanation": "يُستخدم ser للمهن: Ella es doctora (هي طبيبة).\nومن استخداماته الأخرى: الهوية، والجنسية، والصفات، والوقت، والأصل.",
+    "hint": null
   },
   "q_gram_a1_05_004": {
-    "question": "Tú ___ muy inteligente. (conjugate ser)",
+    "question": "Tú ___ muy inteligente. (صرّف الفعل ser)",
     "correct": "eres",
     "wrong": [
       "soy",
       "es",
       "son"
     ],
-    "explanation": "الـ tú form من 'ser' هو 'eres'.\n- Tú eres inteligente = أنت هم intelligent.\nSer يُستخدم لـ inherent characteristics.",
-    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son"
+    "explanation": "صيغة tú من الفعل 'ser' هي 'eres'.\n- Tú eres inteligente = أنت ذكي.\nيُستخدم ser للصفات الثابتة الملازمة.",
+    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son",
+    "hint": null
   },
   "q_gram_a1_05_005": {
     "question": "___ las tres de la tarde.",
@@ -483,19 +504,20 @@
       "Está",
       "Hay"
     ],
-    "explanation": "'Son las tres' = الساعة الثالثة. نستخدم 'ser' للتعبير عن الوقت.\n- Es la una. (الساعة 1:00 — مفرد)\n- Son las dos/tres/cuatro... (من الساعة 2:00 فما فوق — جمع)",
-    "hint": "أي صيغة من ser تُستخدم مع الساعات الجمع؟"
+    "explanation": "'Son las tres' = إنها الساعة الثالثة. لقول الوقت نستخدم 'ser'.\n- Es la una. (الساعة 1:00 — مفرد)\n- Son las dos/tres/cuatro... (من 2:00 فصاعدًا — جمع)",
+    "hint": "أي صيغة من ser تُستخدم مع الساعات بصيغة الجمع؟"
   },
   "q_gram_a1_05_006": {
-    "question": "La mesa ___ de madera. (conjugate ser)",
+    "question": "La mesa ___ de madera. (صرّف الفعل ser)",
     "correct": "es",
     "wrong": [
       "está",
       "son",
       "soy"
     ],
-    "explanation": "Ser يُستخدم للتعبير ماذا something هو made من.\n- La mesa es de madera. = الـ طاولة هو made من wood.\n- 'de' + material مع ser = made من.",
-    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son"
+    "explanation": "يُستخدم ser للتعبير عن المادة التي صُنع منها الشيء.\n- La mesa es de madera. = الطاولة مصنوعة من الخشب.\n- 'de' + المادة مع ser = مصنوع من.",
+    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son",
+    "hint": null
   },
   "q_gram_a1_05_007": {
     "question": "Nosotros ___ profesores de español.",
@@ -505,50 +527,54 @@
       "son",
       "es"
     ],
-    "explanation": "'somos' هو الـ nosotros form من ser.\n- Nosotros somos profesores = We هم teachers.\nSer + profession (no أداة needed).",
-    "hint": "ماذا هو الـ first شخص جمع form من ser?"
+    "explanation": "'somos' هي صيغة nosotros من الفعل ser.\n- Nosotros somos profesores = نحن معلمون.\nser + المهنة (دون حاجة إلى أداة تعريف).",
+    "hint": "ما هي صيغة المتكلم الجمع من الفعل ser؟"
   },
   "q_gram_a1_05_008": {
-    "question": "Today هو Monday.",
+    "question": "اليوم هو الإثنين.",
     "correct": "Hoy es lunes.",
     "wrong": [
       "Hoy está lunes.",
       "Hoy son lunes.",
       "Hoy es el lunes."
     ],
-    "explanation": "Ser يُستخدم لـ dates و days من الـ أسبوع.\n- Hoy es lunes. = Today هو الاثنين.\nNote: No أداة يُستخدم عندما stating ماذا يوم هو هو."
+    "explanation": "يُستخدم ser للتواريخ وأيام الأسبوع.\n- Hoy es lunes. = اليوم هو الإثنين.\nملاحظة: لا تُستخدم أداة التعريف عند ذكر اليوم الحالي.",
+    "hint": null
   },
   "q_gram_a1_05_009": {
-    "question": "¿De dónde ___ ustedes? (conjugate ser)",
+    "question": "¿De dónde ___ ustedes? (صرّف الفعل ser)",
     "correct": "son",
     "wrong": [
       "es",
       "somos",
       "sois"
     ],
-    "explanation": "الـ ustedes form من 'ser' هو 'son' (same as ellos/ellas).\n- ¿De dónde son ustedes? = أين هم أنت كل من?\nSer + de = origin.",
-    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son"
+    "explanation": "صيغة ustedes من الفعل 'ser' هي 'son' (مثل ellos/ellas).\n- ¿De dónde son ustedes? = من أين أنتم؟\nser + de = الأصل.",
+    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son",
+    "hint": null
   },
   "q_gram_a1_05_010": {
-    "question": "It is one o'clock.",
+    "question": "إنها الساعة الواحدة.",
     "correct": "Es la una.",
     "wrong": [
       "Son la una.",
       "Es las una.",
       "Son las una."
     ],
-    "explanation": "لـ 1:00, use 'Es la una' (مفرد).\nلـ كل other hours, use 'Son las + number'.\n- Es la una. (1:00) vs Son las dos. (2:00)"
+    "explanation": "للساعة 1:00 نقول 'Es la una' (مفرد).\nأما بقية الساعات فنستخدم 'Son las + العدد'.\n- Es la una. (1:00) مقابل Son las dos. (2:00)",
+    "hint": null
   },
   "q_gram_a1_06_001": {
-    "question": "Yo ___ en casa. (conjugate estar)",
+    "question": "Yo ___ en casa. (صرّف الفعل estar)",
     "correct": "estoy",
     "wrong": [
       "soy",
       "estás",
       "está"
     ],
-    "explanation": "الـ yo form من 'estar' هو 'estoy'.\n- Estoy en casa = I am at home.\nEstar يُستخدم لـ location.",
-    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están"
+    "explanation": "صيغة yo من الفعل 'estar' هي 'estoy'.\n- Estoy en casa = أنا في البيت.\nيُستخدم estar للمكان.",
+    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están",
+    "hint": null
   },
   "q_gram_a1_06_002": {
     "question": "El gato ___ en la mesa.",
@@ -558,7 +584,7 @@
       "estoy",
       "están"
     ],
-    "explanation": "يُستخدم estar للتعبير عن المكان.\n- El gato está en la mesa. = القطة على الطاولة.\n- المكان يُعبَّر عنه دائمًا بـ estar (وليس ser).",
+    "explanation": "يُستخدم estar للتعبير عن المكان.\n- El gato está en la mesa. = القطة على الطاولة.\n- يُستخدم estar لمكان الأشخاص والأشياء.",
     "hint": "أي فعل يُستخدم للمكان؟"
   },
   "q_gram_a1_06_003": {
@@ -569,30 +595,31 @@
       "estamos",
       "estáis"
     ],
-    "explanation": "يُستخدم estar للمشاعر والحالات المؤقتة.\n- están contentos = هم سعداء (الآن)\n- كلمة 'contentos' تتطابق مع الفاعل المذكّر الجمع.",
-    "hint": "أي فعل تستخدمه المشاعر والأحاسيس؟"
+    "explanation": "يُستخدم estar للعواطف والحالات المؤقتة.\n- están contentos = هم سعداء (الآن)\n- تتطابق 'contentos' مع الفاعل المذكر الجمع.",
+    "hint": "أي فعل يُستخدم مع العواطف والمشاعر؟"
   },
   "q_gram_a1_06_004": {
-    "question": "ماذا يعبّر الفعل 'estar' في '¿Cómo estás?'؟",
+    "question": "ماذا يعبّر 'estar' في '¿Cómo estás؟'؟",
     "correct": "الصحة أو الشعور",
     "wrong": [
       "الهوية",
       "المهنة",
       "الجنسية"
     ],
-    "explanation": "'¿Cómo estás?' تعني 'كيف حالك؟' وتسأل عن حالة الشخص أو شعوره الحالي.\nيُستخدم estar للحالات المؤقتة مثل الصحة والمزاج والحالات العاطفية.",
+    "explanation": "'¿Cómo estás?' تعني 'كيف حالك؟' وتسأل عن الحالة أو الشعور الحالي للشخص.\nيُستخدم estar للحالات المؤقتة مثل الصحة والمزاج والحالات العاطفية.",
     "hint": null
   },
   "q_gram_a1_06_005": {
-    "question": "Nosotros ___ cansados. (conjugate estar)",
+    "question": "Nosotros ___ cansados. (صرّف الفعل estar)",
     "correct": "estamos",
     "wrong": [
       "somos",
       "están",
       "estoy"
     ],
-    "explanation": "الـ nosotros form من 'estar' هو 'estamos'.\n- Estamos cansados = We هم متعب.\nBeing متعب هو a حالة مؤقتة, so estar يُستخدم.",
-    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están"
+    "explanation": "صيغة nosotros من الفعل 'estar' هي 'estamos'.\n- Estamos cansados = نحن متعبون.\nالتعب حالة مؤقتة، لذلك يُستخدم estar.",
+    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están",
+    "hint": null
   },
   "q_gram_a1_06_006": {
     "question": "La sopa ___ caliente.",
@@ -602,18 +629,19 @@
       "son",
       "están"
     ],
-    "explanation": "Estar يُستخدم لـ temporary conditions.\n- La sopa está caliente. = الـ soup هو ساخن (right now).\nالـ soup's temperature هو a حالة مؤقتة, not a permanent characteristic.",
-    "hint": "Temperature هو a temporary condition"
+    "explanation": "يُستخدم estar للحالات المؤقتة.\n- La sopa está caliente. = الحساء ساخن (الآن).\nحرارة الحساء حالة مؤقتة وليست صفة دائمة.",
+    "hint": "الحرارة حالة مؤقتة"
   },
   "q_gram_a1_06_007": {
-    "question": "I am studying الإسبانية.",
+    "question": "أنا أدرس الإسبانية.",
     "correct": "Estoy estudiando español.",
     "wrong": [
       "Soy estudiando español.",
       "Estoy estudiar español.",
       "Es estudiando español."
     ],
-    "explanation": "الـ present progressive uses estar + اسم الفاعل (-ando/-iendo).\n- Estoy estudiando = I am studying\n- estudiar → estudiando"
+    "explanation": "يتكوّن المضارع المستمر من estar + المصدر الحالي (-ando/-iendo).\n- Estoy estudiando = أنا أدرس (الآن)\n- estudiar → estudiando",
+    "hint": null
   },
   "q_gram_a1_06_008": {
     "question": "La puerta ___ abierta.",
@@ -623,18 +651,19 @@
       "son",
       "están"
     ],
-    "explanation": "Estar يُستخدم لـ conditions أو states ذلك يمكن change.\n- La puerta está abierta. = الباب open.\nالـ باب يمكن أن يكون opened أو closed; هو's a changeable state.",
-    "hint": "هو 'open' a permanent characteristic أو a changeable state?"
+    "explanation": "يُستخدم estar للأحوال أو الحالات القابلة للتغيّر.\n- La puerta está abierta. = الباب مفتوح.\nيمكن فتح الباب أو إغلاقه؛ فهي حالة قابلة للتغيّر.",
+    "hint": "هل 'مفتوح' صفة دائمة أم حالة قابلة للتغيّر؟"
   },
   "q_gram_a1_06_009": {
-    "question": "My brother is sick.",
+    "question": "أخي مريض.",
     "correct": "Mi hermano está enfermo.",
     "wrong": [
       "Mi hermano es enfermo.",
       "Mi hermano está enfermedad.",
       "Mis hermanos están enfermos."
     ],
-    "explanation": "Being sick هو a temporary condition, so estar يُستخدم.\n- estar enfermo = إلى يكون sick (temporary)\nUsing 'ser enfermo' سوف incorrectly imply a permanent state."
+    "explanation": "المرض حالة مؤقتة، لذلك يُستخدم estar.\n- estar enfermo = أن يكون مريضًا (مؤقتًا)\nاستخدام 'ser enfermo' يوحي خطأً بحالة دائمة.",
+    "hint": null
   },
   "q_gram_a1_06_010": {
     "question": "¿Dónde ___ tú ahora? (صرّف الفعل estar)",
@@ -644,7 +673,7 @@
       "está",
       "estamos"
     ],
-    "explanation": "صيغة المخاطب (tú) من 'estar' هي 'estás'.\n- ¿Dónde estás? = أين أنتَ؟\nيُستخدم estar دائمًا للسؤال عن المكان.",
+    "explanation": "صيغة tú من الفعل 'estar' هي 'estás'.\n- ¿Dónde estás? = أين أنت؟\nيُستخدم estar للسؤال عن مكان شخص أو شيء.",
     "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están",
     "hint": null
   },

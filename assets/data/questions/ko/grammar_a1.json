@@ -7,8 +7,8 @@
       "Los",
       "Las"
     ],
-    "explanation": "'libro'는 남성 단수 명사이므로 정관사 'el'을 사용합니다.\n- el libro (남성 단수)\n- la mesa (여성 단수)",
-    "hint": "libro는 -o로 끝나므로 보통 남성입니다"
+    "explanation": "'libro'는 남성 단수 명사이므로 정관사 'el'을 씁니다.\n- el libro (남성 단수)\n- la mesa (여성 단수)",
+    "hint": "libro는 -o로 끝나는데, 보통 남성 명사임을 나타냅니다"
   },
   "q_gram_a1_01_002": {
     "question": "___ mano es pequeña.",
@@ -18,29 +18,31 @@
       "Los",
       "Las"
     ],
-    "explanation": "'mano'는 대표적인 예외 명사입니다. -o로 끝나지만 여성 명사입니다.\n- la mano (여성, 예외)\n- el libro (남성, 규칙적인 -o 어미)",
-    "hint": "-o = 남성이라는 규칙의 유명한 예외입니다"
+    "explanation": "'mano'는 대표적인 예외 중 하나로, -o로 끝나지만 여성 명사입니다.\n- la mano (여성, 예외)\n- el libro (남성, 일반적인 -o 어미)",
+    "hint": "'-o로 끝나면 남성'이라는 규칙의 유명한 예외입니다"
   },
   "q_gram_a1_01_003": {
-    "question": "'la casa'에서 'casa'는 무엇을 의미할까요?",
+    "question": "'la casa'에서 'casa'는 무슨 뜻일까요?",
     "correct": "집",
     "wrong": [
       "탁자",
       "고양이",
       "책"
     ],
-    "explanation": "'casa'는 '집'이라는 뜻의 여성 명사로 -a로 끝납니다.\n- la casa = 그 집\n- una casa = 집 하나"
+    "explanation": "'casa'는 '집'이라는 뜻이며, -a로 끝나는 여성 명사입니다.\n- la casa = 그 집\n- una casa = 어떤 집 한 채",
+    "hint": null
   },
   "q_gram_a1_01_004": {
-    "question": "___ ciudad es grande. (여성 명사에 맞는 관사를 선택하세요)",
+    "question": "___ ciudad es grande. (여성 명사에 맞는 관사를 쓰세요)",
     "correct": "La",
     "wrong": [
       "El",
       "Los",
       "Las"
     ],
-    "explanation": "'ciudad'는 -dad로 끝나며 여성형입니다.\n-cion, -sion, -dad, -tad로 끝나는 명사는 보통 여성입니다.",
-    "conjugation_info": "여성형 어미: -a, -cion, -sion, -dad, -tad, -tud"
+    "explanation": "'ciudad'는 -dad로 끝나며, 이는 여성 명사의 어미입니다.\n-ción, -sión, -dad, -tad로 끝나는 명사는 보통 여성입니다.",
+    "conjugation_info": "여성형 어미: -a, -cion, -sion, -dad, -tad, -tud",
+    "hint": null
   },
   "q_gram_a1_01_005": {
     "question": "___ problema es difícil.",
@@ -50,19 +52,20 @@
       "Los",
       "Las"
     ],
-    "explanation": "'problema'는 -a로 끝나지만 남성 명사입니다. 그리스어 기원의 -ma로 끝나는 단어는 남성입니다.\n- el problema, el tema, el sistema, el programa",
-    "hint": "그리스어 기원의 -ma 어미 단어는 남성입니다"
+    "explanation": "'problema'는 -a로 끝나지만 남성 명사입니다. -ma로 끝나는 그리스어 기원 단어는 남성입니다.\n- el problema, el tema, el sistema, el programa",
+    "hint": "-ma로 끝나는 그리스어 기원 단어는 남성입니다"
   },
   "q_gram_a1_01_006": {
-    "question": "___ televisión es nueva. (올바른 관사를 선택하세요)",
+    "question": "___ televisión es nueva. (알맞은 관사를 고르세요)",
     "correct": "La",
     "wrong": [
       "El",
       "Los",
       "Las"
     ],
-    "explanation": "'television'은 -sion으로 끝나므로 여성형입니다.\n-cion과 -sion으로 끝나는 모든 명사는 스페인어에서 여성입니다.",
-    "conjugation_info": "여성형 어미: -cion (nacion), -sion (television), -dad (ciudad)"
+    "explanation": "'televisión'은 -sión으로 끝나므로 여성 명사입니다.\n스페인어에서 -ción, -sión으로 끝나는 명사는 모두 여성입니다.",
+    "conjugation_info": "여성형 어미: -cion (nacion), -sion (television), -dad (ciudad)",
+    "hint": null
   },
   "q_gram_a1_01_007": {
     "question": "___ día es bonito.",
@@ -72,51 +75,54 @@
       "Los",
       "Las"
     ],
-    "explanation": "'dia'는 스페인어에서 가장 흔한 예외 중 하나입니다. -a로 끝나지만 남성 명사입니다.\n- el dia (남성, 예외)\n- 다른 예외: el mapa, el sofa",
-    "hint": "-a로 끝나는 모든 단어가 여성은 아닙니다"
+    "explanation": "'día'는 스페인어에서 가장 흔한 예외 중 하나로, -a로 끝나지만 남성 명사입니다.\n- el día (남성, 예외)\n- 다른 예외: el mapa, el sofá",
+    "hint": "-a로 끝나는 단어가 모두 여성인 것은 아닙니다"
   },
   "q_gram_a1_01_008": {
-    "question": "지도가 크다.",
+    "question": "지도는 큽니다.",
     "correct": "El mapa es grande.",
     "wrong": [
       "La mapa es grande.",
       "Los mapas son grandes.",
       "El mapa es pequeño."
     ],
-    "explanation": "'mapa'는 -a로 끝나지만 남성 명사입니다 (-a = 여성 규칙의 또 다른 예외).\n'크다' = 'grande'이며, 성별에 따라 변하지 않습니다."
+    "explanation": "'mapa'는 -a로 끝나지만 남성 명사입니다 ('-a = 여성' 규칙의 또 다른 예외).\n'크다'는 'grande'이며, 성에 따라 형태가 바뀌지 않습니다.",
+    "hint": null
   },
   "q_gram_a1_01_009": {
-    "question": "___ fotos son de mi familia. (여성 복수 명사에 맞는 관사를 선택하세요)",
+    "question": "___ fotos son de mi familia. (여성 복수 명사에 맞는 관사를 고르세요)",
     "correct": "Las",
     "wrong": [
       "Los",
       "La",
       "El"
     ],
-    "explanation": "'foto'는 'fotografia'의 줄임말로 여성 명사입니다.\n- la foto -> las fotos\n줄임말은 원래 단어의 성을 유지합니다.",
-    "conjugation_info": "la foto (fotografia), la moto (motocicleta), la radio (radiodifusion)"
+    "explanation": "'foto'는 'fotografía'의 줄임말이며, 여성 명사입니다.\n- la foto → las fotos\n줄임말은 원래 단어의 성을 그대로 따릅니다.",
+    "conjugation_info": "la foto (fotografia), la moto (motocicleta), la radio (radiodifusion)",
+    "hint": null
   },
   "q_gram_a1_01_010": {
-    "question": "손이 차갑다.",
+    "question": "손이 차갑습니다.",
     "correct": "La mano está fría.",
     "wrong": [
       "El mano está frío.",
-      "La mano es fría.",
+      "La mano está frío.",
       "Las manos están frías."
     ],
-    "explanation": "'mano'는 -o로 끝나지만 여성 명사입니다(대표적인 예외).\n추위를 느끼는 것은 일시적인 상태이므로 'está'를 씁니다.\n- la mano fría (여성 형용사 일치)",
+    "explanation": "'mano'는 -o로 끝나지만 여성 명사입니다 (중요한 예외).\n차갑게 느끼는 것은 일시적인 상태이므로 'está'를 씁니다.\n- la mano fría (여성 형용사 일치)",
     "hint": null
   },
   "q_gram_a1_02_001": {
-    "question": "Voy ___ parque. (a + el을 넣으세요)",
+    "question": "Voy ___ parque. (빈칸에 채우세요: a + el)",
     "correct": "al",
     "wrong": [
       "a el",
       "a la",
       "del"
     ],
-    "explanation": "전치사 'a' 뒤에 관사 'el'이 오면 'al'로 축약됩니다.\n- a + el = al (Voy al parque.)\n이것은 스페인어의 두 가지 축약형 중 하나입니다.",
-    "conjugation_info": "축약형: a + el = al, de + el = del"
+    "explanation": "전치사 'a' 뒤에 관사 'el'이 오면 'al'로 축약됩니다.\n- a + el = al (Voy al parque.)\n이는 스페인어에 단 두 개뿐인 축약형 중 하나입니다.",
+    "conjugation_info": "축약형: a + el = al, de + el = del",
+    "hint": null
   },
   "q_gram_a1_02_002": {
     "question": "___ escuela está cerca.",
@@ -127,7 +133,7 @@
       "Las"
     ],
     "explanation": "'escuela'는 -a로 끝나는 여성 단수 명사입니다.\n- la escuela (여성 단수)\n- las escuelas (여성 복수)",
-    "hint": "escuela는 -a로 끝나는 전형적인 여성 명사입니다"
+    "hint": "escuela는 여성 명사의 전형적인 어미인 -a로 끝납니다"
   },
   "q_gram_a1_02_003": {
     "question": "___ niños juegan en el parque.",
@@ -137,8 +143,8 @@
       "El",
       "La"
     ],
-    "explanation": "'ninos'는 남성 복수 명사이므로 정관사 'los'를 사용합니다.\n- el nino (남성 단수) -> los ninos (남성 복수)",
-    "hint": "ninos는 nino의 복수형입니다"
+    "explanation": "'niños'는 남성 복수 명사이므로 정관사 'los'를 씁니다.\n- el niño (남성 단수) → los niños (남성 복수)",
+    "hint": "niños는 niño의 복수형입니다"
   },
   "q_gram_a1_02_004": {
     "question": "'los libros'에서 'los'는 무엇을 나타낼까요?",
@@ -148,10 +154,11 @@
       "남성 단수 정관사",
       "남성 복수 부정관사"
     ],
-    "explanation": "'los'는 남성 복수 정관사입니다 (= 남성 복수 명사 앞의 'the').\n- el (남성 단수), la (여성 단수), los (남성 복수), las (여성 복수)"
+    "explanation": "'los'는 남성 복수 정관사입니다 (남성 복수 명사 앞의 '그'에 해당).\n- el (남성 단수), la (여성 단수), los (남성 복수), las (여성 복수)",
+    "hint": null
   },
   "q_gram_a1_02_005": {
-    "question": "Vengo ___ cine. (de + el을 넣으세요)",
+    "question": "Vengo ___ cine. (빈칸에 채우세요: de + el)",
     "correct": "del",
     "wrong": [
       "de el",
@@ -159,7 +166,8 @@
       "al"
     ],
     "explanation": "'de' 뒤에 'el'이 오면 'del'로 축약됩니다.\n- de + el = del (Vengo del cine.)\n이 축약은 스페인어에서 필수입니다.",
-    "conjugation_info": "축약형: a + el = al, de + el = del"
+    "conjugation_info": "축약형: a + el = al, de + el = del",
+    "hint": null
   },
   "q_gram_a1_02_006": {
     "question": "___ flores son bonitas.",
@@ -169,51 +177,53 @@
       "La",
       "El"
     ],
-    "explanation": "'flores'는 여성 복수 명사입니다.\n- la flor (여성 단수) -> las flores (여성 복수)\n정관사는 성과 수가 일치해야 합니다.",
-    "hint": "flor는 여성 명사이고 flores는 그 복수형입니다"
+    "explanation": "'flores'는 여성 복수 명사입니다.\n- la flor (여성 단수) → las flores (여성 복수)\n정관사는 성과 수가 일치해야 합니다.",
+    "hint": "flor는 여성 명사이고, flores는 그 복수형입니다"
   },
   "q_gram_a1_02_007": {
-    "question": "나는 월요일마다 일한다.",
+    "question": "저는 월요일마다 일합니다.",
     "correct": "Trabajo los lunes.",
     "wrong": [
       "Trabajo el lunes.",
       "Trabajo en lunes.",
       "Trabajo lunes."
     ],
-    "explanation": "습관적으로 특정 요일에 하는 행동에는 'los' + 요일을 사용합니다.\n- los lunes = 월요일마다 (습관)\n- el lunes = 월요일에 (특정, 이번 월요일)"
+    "explanation": "요일에 반복되는 행동을 말할 때는 'los' + 요일을 씁니다.\n- los lunes = 월요일마다 (반복)\n- el lunes = 월요일에 (특정한, 이번 월요일)",
+    "hint": null
   },
   "q_gram_a1_02_008": {
-    "question": "Trabajo ___ lunes. (나는 월요일마다 일한다.)",
+    "question": "Trabajo ___ lunes. (저는 월요일마다 일합니다.)",
     "correct": "los",
     "wrong": [
       "el",
       "la",
       "las"
     ],
-    "explanation": "스페인어에서 요일에는 정관사를 사용합니다.\n- 'los lunes' = 월요일마다 (반복)\n- 'el lunes' = 월요일에 (특정 하루)",
-    "hint": "반복되는 요일에는 복수 관사를 사용합니다"
+    "explanation": "스페인어에서 요일 앞에는 정관사를 씁니다.\n- 'los lunes' = 월요일마다 (반복)\n- 'el lunes' = 월요일에 (특정한 어느 하루)",
+    "hint": "반복되는 요일에는 복수 관사를 씁니다"
   },
   "q_gram_a1_02_009": {
-    "question": "고양이는 독립적이다.",
+    "question": "고양이는 독립적입니다.",
     "correct": "Los gatos son independientes.",
     "wrong": [
       "Gatos son independientes.",
       "Unos gatos son independientes.",
       "Las gatas son independientes."
     ],
-    "explanation": "스페인어에서는 일반적인 진술에 정관사가 필요합니다.\n- Los gatos son independientes. (고양이라는 동물 전반)\n영어는 일반적인 진술에서 'the'를 생략하지만, 스페인어는 반드시 씁니다.",
+    "explanation": "스페인어에서는 일반적인 사실을 말할 때 정관사가 필요합니다.\n- Los gatos son independientes. (고양이 일반)\n영어는 일반적인 진술에서 'the'를 생략하지만, 스페인어는 반드시 씁니다.",
     "hint": null
   },
   "q_gram_a1_02_010": {
-    "question": "Vamos ___ escuela. (a + la를 넣으세요)",
+    "question": "Vamos ___ escuela. (빈칸에 채우세요: a + la)",
     "correct": "a la",
     "wrong": [
       "al",
       "a las",
       "a el"
     ],
-    "explanation": "축약은 'a + el = al'에서만 일어납니다. 'la'와는 축약이 되지 않습니다.\n- Voy al parque (a + el)\n- Voy a la escuela (a + la, 축약 없음)",
-    "conjugation_info": "a + el = al, de + el = del만 축약됩니다. 다른 조합은 그대로 유지됩니다."
+    "explanation": "축약은 'a + el = al'일 때만 일어납니다. 'la' 앞에서는 축약되지 않습니다.\n- Voy al parque (a + el)\n- Voy a la escuela (a + la, 축약 없음)",
+    "conjugation_info": "a + el = al, de + el = del만 축약됩니다. 다른 조합은 그대로 유지됩니다.",
+    "hint": null
   },
   "q_gram_a1_03_001": {
     "question": "Tengo ___ amigo en España.",
@@ -223,7 +233,7 @@
       "unos",
       "el"
     ],
-    "explanation": "'amigo'는 남성 단수 명사이므로 부정관사 'un'을 사용합니다.\n- un amigo = 친구 한 명 (남성)\n- una amiga = 친구 한 명 (여성)",
+    "explanation": "'amigo'는 남성 단수 명사이므로 부정관사 'un'을 씁니다.\n- un amigo = 친구 한 명 (남성)\n- una amiga = 친구 한 명 (여성)",
     "hint": "amigo는 -o로 끝나므로 남성입니다"
   },
   "q_gram_a1_03_002": {
@@ -234,29 +244,31 @@
       "unas",
       "los"
     ],
-    "explanation": "'libros'는 남성 복수 명사이고, 'unos'는 남성 복수에 '몇몇'이라는 뜻입니다.\n- un libro -> unos libros\n- una carta -> unas cartas",
-    "hint": "남성 복수에 쓰이는 부정관사는 무엇일까요?"
+    "explanation": "'libros'는 남성 복수 명사이고, 'unos'는 남성 복수에 쓰는 '몇몇의'라는 뜻입니다.\n- un libro → unos libros\n- una carta → unas cartas",
+    "hint": "남성 복수에는 어떤 부정관사를 쓸까요?"
   },
   "q_gram_a1_03_003": {
-    "question": "'unas flores'에서 'unas'는 무엇을 의미할까요?",
+    "question": "'unas flores'에서 'unas'는 무슨 뜻인가요?",
     "correct": "몇몇의 (여성 복수)",
     "wrong": [
       "그 (여성 복수)",
       "하나의 (여성 단수)",
       "몇몇의 (남성 복수)"
     ],
-    "explanation": "'unas'는 여성 복수 부정관사로 '몇몇의'라는 뜻입니다.\n- un (남성 단수), una (여성 단수), unos (남성 복수), unas (여성 복수)"
+    "explanation": "'unas'는 '몇몇의'라는 뜻의 여성 복수 부정관사입니다.\n- un (남성 단수), una (여성 단수), unos (남성 복수), unas (여성 복수)",
+    "hint": null
   },
   "q_gram_a1_03_004": {
-    "question": "Soy ___. (I am a teacher.) (적절한 응답을 활용하세요)",
+    "question": "Soy ___. (Yo soy maestro.) (알맞은 답을 고르세요)",
     "correct": "profesor",
     "wrong": [
       "un profesor",
       "el profesor",
       "una profesora"
     ],
-    "explanation": "스페인어에서 ser 뒤에 직업이 올 때 부정관사를 생략합니다.\n- Soy profesor. (올바름)\n- Soy un profesor. (표준 스페인어에서 틀림)\n이 규칙은 국적에도 적용됩니다: Soy espanol.",
-    "conjugation_info": "Ser + 직업: 관사 불필요. Soy profesor, Soy estudiante, Soy medico."
+    "explanation": "스페인어에서는 ser 뒤에 직업이 올 때 부정관사를 생략합니다.\n- Soy profesor. (맞음)\n- Soy un profesor. (형용사나 보충어가 없으면 표준 스페인어에서는 틀림)\n이 규칙은 국적에도 적용됩니다: Soy español.",
+    "conjugation_info": "Ser + 직업: 관사 불필요. Soy profesor, Soy estudiante, Soy medico.",
+    "hint": null
   },
   "q_gram_a1_03_005": {
     "question": "Barcelona es ___ ciudad bonita.",
@@ -266,19 +278,20 @@
       "la",
       "unas"
     ],
-    "explanation": "'ciudad'는 여성 명사이며, 처음 묘사할 때 부정관사를 사용합니다.\n- una ciudad bonita = 아름다운 도시 하나\n참고: 'ciudad'는 여성형 어미 -dad로 끝납니다.",
+    "explanation": "'ciudad'는 여성 명사이고, 무언가를 처음 소개할 때는 부정관사를 씁니다.\n- una ciudad bonita = 아름다운 도시\n참고: 'ciudad'는 여성형 어미인 -dad로 끝납니다.",
     "hint": "ciudad는 여성 명사입니다"
   },
   "q_gram_a1_03_006": {
-    "question": "No hay ___. (문제가 없다.)",
+    "question": "no hay ___. (거기에는 문제가 없어요.)",
     "correct": "problema",
     "wrong": [
       "un problema",
       "el problema",
       "problemas"
     ],
-    "explanation": "부정형 'no hay' 뒤에서는 부정관사를 생략합니다.\n- No hay problema. (올바름)\n- No hay azucar. (설탕이 없다.)\n부정 존재문에서는 관사를 생략합니다.",
-    "conjugation_info": "부정관사 생략: sin (없이), no hay (없다), ser 뒤의 직업에서 생략합니다."
+    "explanation": "부정문 'no hay' 뒤에서는 부정관사를 생략합니다.\n- no hay problema. (맞음)\n- no hay azúcar. (설탕이 없어요.)\n관사는 부정 존재문에서 생략됩니다.",
+    "conjugation_info": "부정관사 생략: sin (없이), no hay (없다), ser 뒤의 직업에서 생략합니다.",
+    "hint": null
   },
   "q_gram_a1_03_007": {
     "question": "Café ___ azúcar, por favor. (설탕 없는 커피)",
@@ -288,29 +301,31 @@
       "con",
       "de"
     ],
-    "explanation": "'sin' (없이) 뒤에서는 부정관사를 생략합니다.\n- Cafe sin azucar. (설탕 없는 커피.)\n- Cafe con leche. (우유 넣은 커피.)",
-    "hint": "'없이'라는 뜻의 전치사는 무엇일까요?"
+    "explanation": "'sin'(~없이) 뒤에서는 부정관사를 생략합니다.\n- Café sin azúcar. (설탕 없는 커피.)\n- Café con leche. (우유를 넣은 커피.)",
+    "hint": "'~없이'를 뜻하는 전치사는 무엇일까요?"
   },
   "q_gram_a1_03_008": {
-    "question": "나는 꽃 몇 송이를 산다.",
+    "question": "나는 꽃을 몇 송이 산다.",
     "correct": "Compro unas flores.",
     "wrong": [
       "Compro las flores.",
       "Compro un flores.",
       "Compro una flores."
     ],
-    "explanation": "'꽃 몇 송이' = 'unas flores' (여성 복수 부정관사).\n- unas + 여성 복수 명사 = 몇몇의 (불특정)\n- las + 여성 복수 명사 = 그 (특정)"
+    "explanation": "'some flowers'(꽃 몇 송이) = 'unas flores' (여성 복수 부정관사).\n- unas + 여성 복수 명사 = 몇몇의 (특정되지 않음)\n- las + 여성 복수 명사 = 그 (특정됨)",
+    "hint": null
   },
   "q_gram_a1_03_009": {
-    "question": "___ gato está en la calle. (고양이 한 마리가 거리에 있다 - 아무 고양이나.)",
+    "question": "___ gato está en la calle. (길에 고양이 한 마리가 있어요 — 아무 고양이나.)",
     "correct": "Un",
     "wrong": [
       "El",
       "Unos",
       "La"
     ],
-    "explanation": "처음 언급하거나 불특정한 대상에는 부정관사 'un'을 사용합니다.\n- Un gato (아무 고양이, 첫 언급) vs El gato (특정 고양이)\n이 구분은 자연스러운 스페인어에 매우 중요합니다.",
-    "conjugation_info": "부정관사 (첫 언급/불특정): un/una/unos/unas. 정관사 (알려진/특정): el/la/los/las."
+    "explanation": "처음 언급하거나 특정하지 않은 대상에는 부정관사 'un'을 씁니다.\n- Un gato (아무 고양이, 처음 언급) vs El gato (특정한 고양이)\n이 구분은 자연스러운 스페인어에 매우 중요합니다.",
+    "conjugation_info": "부정관사 (첫 언급/불특정): un/una/unos/unas. 정관사 (알려진/특정): el/la/los/las.",
+    "hint": null
   },
   "q_gram_a1_03_010": {
     "question": "탁자 위에 책이 몇 권 있다.",
@@ -320,19 +335,20 @@
       "Hay un libros en la mesa.",
       "Están unos libros en la mesa."
     ],
-    "explanation": "'몇 권의 책' = 'unos libros'(남성 복수 부정관사)입니다.\n존재를 나타낼 때는 'hay'를 쓰고, 특정하지 않은 대상에는 부정관사를 씁니다.\n- Hay unos libros. (존재, 불특정)",
+    "explanation": "'some books'(책 몇 권) = 'unos libros' (남성 복수 부정관사).\n존재를 나타낼 때는 'hay'를 쓰고, 특정되지 않은 대상에는 부정관사를 씁니다.\n- Hay unos libros. (존재, 불특정)",
     "hint": null
   },
   "q_gram_a1_04_001": {
-    "question": "___ hablamos español. (주어 대명사를 넣으세요)",
+    "question": "___ hablamos español. (주어 대명사를 채우세요)",
     "correct": "Nosotros",
     "wrong": [
       "Yo",
       "Ellos",
       "Tú"
     ],
-    "explanation": "'hablamos'는 hablar의 nosotros/nosotras 형태입니다.\n- nosotros hablamos = 우리는 말한다\n-amos 어미는 1인칭 복수를 나타냅니다.",
-    "conjugation_info": "주어 대명사: yo, tu, el/ella/usted, nosotros, vosotros, ellos/ustedes"
+    "explanation": "'hablamos'는 hablar의 nosotros/nosotras 형태입니다.\n- nosotros hablamos = 우리는 말한다\n어미 -amos는 1인칭 복수를 나타냅니다.",
+    "conjugation_info": "주어 대명사: yo, tu, el/ella/usted, nosotros, vosotros, ellos/ustedes",
+    "hint": null
   },
   "q_gram_a1_04_002": {
     "question": "___ eres mi amigo.",
@@ -342,8 +358,8 @@
       "Él",
       "Usted"
     ],
-    "explanation": "'eres'는 동사 ser의 tu 형태입니다.\n- Tu eres = 너는 ~이다 (비격식)\n대명사 'tu'는 친구, 가족, 동료와 사용합니다.",
-    "hint": "'eres'와 함께 쓰이는 대명사는 무엇일까요?"
+    "explanation": "'eres'는 동사 ser의 tú 형태입니다.\n- Tú eres = 너는 ~이다 (친근한 표현)\n대명사 'tú'는 친구, 가족, 또래에게 씁니다.",
+    "hint": "'eres'와 어울리는 대명사는 무엇일까요?"
   },
   "q_gram_a1_04_003": {
     "question": "___ viven en Madrid.",
@@ -353,29 +369,31 @@
       "Tú",
       "Yo"
     ],
-    "explanation": "'viven'은 vivir의 ellos/ellas/ustedes 형태입니다.\n- Ellos viven = 그들은 산다\n-en 어미는 3인칭 복수를 나타냅니다.",
+    "explanation": "'viven'은 vivir의 ellos/ellas/ustedes 형태입니다.\n- Ellos viven = 그들은 산다\n어미 -en은 3인칭 복수를 나타냅니다.",
     "hint": "viven은 3인칭 복수 동사 형태입니다"
   },
   "q_gram_a1_04_004": {
-    "question": "스페인어에서 '당신' (단수)의 격식체는 무엇일까요?",
-    "correct": "usted",
+    "question": "스페인어에서 '당신'(단수)의 공손한 표현은 무엇인가요?",
+    "correct": "usted(존칭 '당신')",
     "wrong": [
-      "tu",
-      "vosotros",
-      "nosotros"
+      "tú(친근한 '너')",
+      "vosotros(너희들)",
+      "nosotros(우리)"
     ],
-    "explanation": "'usted'는 격식체 단수 '당신'으로, 낯선 사람, 어른, 직장 상황에서 사용합니다.\n- tu = 비격식 '너'\n- usted = 격식 '당신' (3인칭 동사 형태를 취함)"
+    "explanation": "'usted'는 낯선 사람, 어르신, 직장 등 공식적인 자리에서 쓰는 공손한 단수 '당신'입니다.\n- tú = 친근한 '너'\n- usted = 공손한 '당신' (3인칭 동사 형태를 씀)",
+    "hint": null
   },
   "q_gram_a1_04_005": {
-    "question": "___ es la profesora. (3인칭으로 ser를 활용하세요)",
+    "question": "___ es la profesora. (그녀)",
     "correct": "Ella",
     "wrong": [
       "Él",
       "Yo",
       "Nosotros"
     ],
-    "explanation": "'Ella'는 '그녀'를 의미하며 여성 주어에 사용합니다.\n- Ella es la profesora = 그녀는 선생님이다.\n- El es el profesor = 그는 선생님이다.",
-    "conjugation_info": "3인칭 대명사: el (그), ella (그녀), usted (당신, 격식)"
+    "explanation": "'Ella'는 '그녀'라는 뜻으로 여성 주어에 씁니다. 'La profesora'가 여성이므로 'ella'가 어울립니다.\n- Ella es la profesora = 그녀는 선생님이다.\n- Él es el profesor = 그는 선생님이다.",
+    "conjugation_info": "3인칭 대명사: el (그), ella (그녀), usted (당신, 격식)",
+    "hint": null
   },
   "q_gram_a1_04_006": {
     "question": "En España, ___ coméis paella.",
@@ -385,8 +403,8 @@
       "nosotros",
       "ellos"
     ],
-    "explanation": "'vosotros'는 주로 스페인에서 비격식 복수 '너희들'로 사용됩니다.\n- comeis는 comer의 vosotros 형태입니다\n중남미에서는 'vosotros' 대신 'ustedes'를 사용합니다.",
-    "hint": "이 대명사는 주로 스페인에서 사용됩니다"
+    "explanation": "'vosotros'는 주로 스페인에서 친근한 복수 '너희들'을 뜻할 때 씁니다.\n- coméis는 comer의 vosotros 형태입니다\n중남미에서는 'vosotros' 대신 'ustedes'를 씁니다.",
+    "hint": "이 대명사는 주로 스페인에서 쓰입니다"
   },
   "q_gram_a1_04_007": {
     "question": "우리는 바르셀로나에 산다.",
@@ -396,39 +414,42 @@
       "Vivo en Barcelona.",
       "Vivís en Barcelona."
     ],
-    "explanation": "스페인어에서는 동사 어미가 주어를 나타내므로 주어 대명사를 종종 생략합니다.\n- vivimos = 우리는 산다 (nosotros는 선택)\n- vivo = 나는 산다, vives = 너는 산다"
+    "explanation": "스페인어에서는 동사 어미가 누가 말하는지 알려 주기 때문에 주어 대명사를 자주 생략합니다.\n- vivimos = 우리는 산다 (nosotros는 생략 가능)\n- vivo = 나는 산다, vives = 너는 산다",
+    "hint": null
   },
   "q_gram_a1_04_008": {
-    "question": "___ habla español muy bien. (그는 스페인어를 아주 잘 한다.)",
+    "question": "___ habla español muy bien. (그는 스페인어를 아주 잘해요.)",
     "correct": "Él",
     "wrong": [
       "Ella",
       "Yo",
       "Tú"
     ],
-    "explanation": "'El'은 '그'를 의미합니다. 악센트가 관사 'el'과 구별합니다.\n- El habla = 그는 말한다\n- El libro = 그 책 (관사, 악센트 없음)",
-    "hint": "이 대명사를 관사와 구별하는 악센트 부호에 주의하세요"
+    "explanation": "'Él'는 '그'라는 뜻입니다. 'E'의 악센트 표시가 관사 'el'과 구별해 줍니다.\n- Él habla = 그는 말한다\n- El libro = 그 책 (관사, 악센트 없음)",
+    "hint": "이 대명사를 관사와 구별해 주는 악센트 표시에 주목하세요"
   },
   "q_gram_a1_04_009": {
-    "question": "¿___ es usted?",
-    "correct": "당신은 누구십니까?",
+    "question": "¿___ es usted? – Soy Ana García.",
+    "correct": "Quién",
     "wrong": [
-      "당신은 어디에 계십니까?",
-      "당신은 어떻게 지내십니까?",
-      "당신은 무엇을 하십니까?"
+      "Dónde",
+      "Cuándo",
+      "Cuál"
     ],
-    "explanation": "'usted'와 함께 신원을 물을 때, 'Quien es usted?'는 '당신은 누구십니까?' (격식)를 의미합니다.\n'usted'는 el/ella와 같은 동사 형태 (3인칭 단수)를 사용합니다.\n- Quien es usted? (격식) vs Quien eres tu? (비격식)"
+    "explanation": "'usted'에게 신분을 물을 때 '¿Quién es usted?'는 '당신은 누구십니까?'(공손한 표현)라는 뜻입니다.\n'usted'는 él/ella와 같은 동사 형태(3인칭 단수)를 쓴다는 점에 유의하세요.\n- ¿Quién es usted? (공손한 표현) vs ¿Quién eres tú? (친근한 표현)",
+    "hint": null
   },
   "q_gram_a1_04_010": {
-    "question": "Yo hablo español, ___ habla francés. ('그녀'에 해당하는 올바른 대명사로 활용하세요)",
+    "question": "Yo hablo español, ___ habla francés. (그녀)",
     "correct": "ella",
     "wrong": [
       "él",
       "tú",
       "usted"
     ],
-    "explanation": "대명사는 강조나 주어를 명확히 할 때 사용합니다.\n- Yo hablo espanol, ella habla frances.\n- 대명사 없이 'habla frances'는 그/그녀/당신(격식) 중 누구인지 불분명합니다.",
-    "conjugation_info": "강조를 위한 대명사 사용: Yo hablo... ella habla... vs 단순히 Hablo... Habla..."
+    "explanation": "대명사는 강조하거나 누구에 대해 말하는지 분명히 할 때 씁니다.\n- Yo hablo español, ella habla francés.\n- 대명사가 없으면 'habla francés'는 그/그녀/당신(공손한 표현)이 프랑스어를 한다는 뜻일 수 있습니다.",
+    "conjugation_info": "강조를 위한 대명사 사용: Yo hablo... ella habla... vs 단순히 Hablo... Habla...",
+    "hint": null
   },
   "q_gram_a1_05_001": {
     "question": "Yo ___ estudiante.",
@@ -438,7 +459,7 @@
       "es",
       "somos"
     ],
-    "explanation": "ser의 yo 형태는 'soy'입니다.\n- Yo soy estudiante = 나는 학생이다.\nSer는 직업과 정체성을 나타낼 때 사용합니다.",
+    "explanation": "'ser'의 yo 형태는 'soy'입니다.\n- Yo soy estudiante = 저는 학생입니다.\nSer는 직업과 정체성을 말할 때 씁니다.",
     "hint": "ser의 1인칭 단수 형태는 무엇일까요?"
   },
   "q_gram_a1_05_002": {
@@ -449,29 +470,31 @@
       "somos",
       "sois"
     ],
-    "explanation": "ser의 ellos/ellas/ustedes 형태는 'son'입니다.\n- Ellos son espanoles = 그들은 스페인 사람이다.\nSer는 국적을 나타낼 때 사용합니다.",
+    "explanation": "'ser'의 ellos/ellas/ustedes 형태는 'son'입니다.\n- Ellos son españoles = 그들은 스페인 사람입니다.\nSer는 국적을 말할 때 씁니다.",
     "hint": "ser의 3인칭 복수 형태는 무엇일까요?"
   },
   "q_gram_a1_05_003": {
-    "question": "'Ella es doctora'에서 'ser'의 주된 용법은 무엇일까요?",
-    "correct": "직업을 나타내기 위해",
+    "question": "'Ella es doctora'에서 'ser'의 주된 쓰임은 무엇일까요?",
+    "correct": "직업을 나타낸다",
     "wrong": [
-      "위치를 나타내기 위해",
-      "감정을 나타내기 위해",
-      "일시적 상태를 나타내기 위해"
+      "위치를 나타낸다",
+      "감정을 나타낸다",
+      "일시적인 상태를 나타낸다"
     ],
-    "explanation": "Ser는 직업을 나타낼 때 사용합니다: Ella es doctora (그녀는 의사이다).\nSer의 다른 용법: 정체성, 국적, 특성, 시간, 출신지."
+    "explanation": "Ser는 직업을 말할 때 씁니다: Ella es doctora (그녀는 의사입니다).\nser의 다른 쓰임: 정체성, 국적, 특징, 시간, 출신.",
+    "hint": null
   },
   "q_gram_a1_05_004": {
-    "question": "Tú ___ muy inteligente. (ser를 활용하세요)",
+    "question": "Tú ___ muy inteligente. (ser 활용)",
     "correct": "eres",
     "wrong": [
       "soy",
       "es",
       "son"
     ],
-    "explanation": "ser의 tu 형태는 'eres'입니다.\n- Tu eres inteligente = 너는 똑똑하다.\nSer는 본질적인 특성을 나타낼 때 사용합니다.",
-    "conjugation_info": "ser - 현재형: soy, eres, es, somos, sois, son"
+    "explanation": "'ser'의 tú 형태는 'eres'입니다.\n- Tú eres inteligente = 너는 똑똑해.\nSer는 타고난 특징을 말할 때 씁니다.",
+    "conjugation_info": "ser - 현재형: soy, eres, es, somos, sois, son",
+    "hint": null
   },
   "q_gram_a1_05_005": {
     "question": "___ las tres de la tarde.",
@@ -481,19 +504,20 @@
       "Está",
       "Hay"
     ],
-    "explanation": "'Son las tres' = 오후 3시이다. 시간을 말할 때 'ser'를 사용합니다.\n- Es la una. (1시 - 단수)\n- Son las dos/tres/cuatro... (2시 이상 - 복수)",
-    "hint": "복수 시간에 쓰이는 ser의 형태는 무엇일까요?"
+    "explanation": "'Son las tres' = 세 시입니다. 시간을 말할 때는 'ser'를 씁니다.\n- Es la una. (1시 — 단수)\n- Son las dos/tres/cuatro... (2시 이상 — 복수)",
+    "hint": "복수 시각에는 ser의 어떤 형태를 쓸까요?"
   },
   "q_gram_a1_05_006": {
-    "question": "La mesa ___ de madera. (ser를 활용하세요)",
+    "question": "La mesa ___ de madera. (ser 활용)",
     "correct": "es",
     "wrong": [
       "está",
       "son",
       "soy"
     ],
-    "explanation": "Ser는 무엇으로 만들어졌는지를 표현할 때 사용합니다.\n- La mesa es de madera. = 탁자는 나무로 되어 있다.\n- 'de' + 재료 + ser = ~로 만들어진.",
-    "conjugation_info": "ser - 현재형: soy, eres, es, somos, sois, son"
+    "explanation": "Ser는 무엇으로 만들어졌는지를 말할 때 씁니다.\n- La mesa es de madera. = 그 탁자는 나무로 만들어졌습니다.\n- ser와 함께 쓰는 'de' + 재료 = ~로 만든.",
+    "conjugation_info": "ser - 현재형: soy, eres, es, somos, sois, son",
+    "hint": null
   },
   "q_gram_a1_05_007": {
     "question": "Nosotros ___ profesores de español.",
@@ -503,29 +527,31 @@
       "son",
       "es"
     ],
-    "explanation": "'somos'는 ser의 nosotros 형태입니다.\n- Nosotros somos profesores = 우리는 선생님이다.\nSer + 직업 (관사 불필요).",
+    "explanation": "'somos'는 ser의 nosotros 형태입니다.\n- Nosotros somos profesores = 우리는 선생님입니다.\nSer + 직업 (관사는 필요 없습니다).",
     "hint": "ser의 1인칭 복수 형태는 무엇일까요?"
   },
   "q_gram_a1_05_008": {
-    "question": "오늘은 월요일이다.",
+    "question": "오늘은 월요일입니다.",
     "correct": "Hoy es lunes.",
     "wrong": [
       "Hoy está lunes.",
       "Hoy son lunes.",
       "Hoy es el lunes."
     ],
-    "explanation": "Ser는 날짜와 요일을 나타낼 때 사용합니다.\n- Hoy es lunes. = 오늘은 월요일이다.\n참고: 무슨 요일인지 말할 때는 관사를 사용하지 않습니다."
+    "explanation": "Ser는 날짜와 요일을 말할 때 씁니다.\n- Hoy es lunes. = 오늘은 월요일입니다.\n참고: 오늘이 무슨 요일인지 말할 때는 관사를 쓰지 않습니다.",
+    "hint": null
   },
   "q_gram_a1_05_009": {
-    "question": "¿De dónde ___ ustedes? (ser를 활용하세요)",
+    "question": "¿De dónde ___ ustedes? (ser 활용)",
     "correct": "son",
     "wrong": [
       "es",
       "somos",
       "sois"
     ],
-    "explanation": "ser의 ustedes 형태는 'son'입니다 (ellos/ellas와 동일).\n- De donde son ustedes? = 여러분은 어디 출신인가요?\nSer + de = 출신지.",
-    "conjugation_info": "ser - 현재형: soy, eres, es, somos, sois, son"
+    "explanation": "'ser'의 ustedes 형태는 'son'입니다 (ellos/ellas와 같습니다).\n- ¿De dónde son ustedes? = 여러분은 어디 출신이세요?\nSer + de = 출신.",
+    "conjugation_info": "ser - 현재형: soy, eres, es, somos, sois, son",
+    "hint": null
   },
   "q_gram_a1_05_010": {
     "question": "한 시입니다.",
@@ -535,19 +561,20 @@
       "Es las una.",
       "Son las una."
     ],
-    "explanation": "1시는 단수인 'Es la una'를 씁니다.\n그 외의 모든 시각은 'Son las + 숫자'를 씁니다.\n- Es la una. (1시) vs Son las dos. (2시)",
+    "explanation": "1시는 'Es la una'(단수)를 씁니다.\n그 밖의 모든 시각은 'Son las + 숫자'를 씁니다.\n- Es la una. (1시) vs Son las dos. (2시)",
     "hint": null
   },
   "q_gram_a1_06_001": {
-    "question": "Yo ___ en casa. (estar 동사 활용)",
+    "question": "Yo ___ en casa. (estar 활용)",
     "correct": "estoy",
     "wrong": [
       "soy",
       "estás",
       "está"
     ],
-    "explanation": "estar의 yo 형태는 'estoy'입니다.\n- Estoy en casa = 나는 집에 있다.\nestar는 위치를 나타냅니다.",
-    "conjugation_info": "estar - 현재형: estoy, estás, está, estamos, estáis, están"
+    "explanation": "'estar'의 yo 형태는 'estoy'입니다.\n- Estoy en casa = 저는 집에 있습니다.\nEstar는 위치를 말할 때 씁니다.",
+    "conjugation_info": "estar - 현재형: estoy, estás, está, estamos, estáis, están",
+    "hint": null
   },
   "q_gram_a1_06_002": {
     "question": "El gato ___ en la mesa.",
@@ -557,8 +584,8 @@
       "estoy",
       "están"
     ],
-    "explanation": "estar는 위치를 표현할 때 사용합니다.\n- El gato está en la mesa. = 고양이가 탁자 위에 있다.\n- 위치를 말할 때는 항상 estar를 사용합니다 (ser 아님).",
-    "hint": "위치를 나타낼 때 어떤 동사를 쓸까요?"
+    "explanation": "Estar는 위치를 나타낼 때 씁니다.\n- El gato está en la mesa. = 고양이가 탁자 위에 있습니다.\n- Estar는 사람과 사물의 위치를 말할 때 씁니다.",
+    "hint": "위치를 말할 때는 어떤 동사를 쓸까요?"
   },
   "q_gram_a1_06_003": {
     "question": "Mis amigos ___ contentos.",
@@ -568,29 +595,31 @@
       "estamos",
       "estáis"
     ],
-    "explanation": "estar는 감정이나 일시적 상태를 나타낼 때 사용합니다.\n- están contentos = 그들은 (지금) 기뻐하고 있다\n- 'contentos'는 남성 복수 주어와 성수가 일치합니다.",
-    "hint": "감정이나 기분에는 어떤 동사를 사용할까요?"
+    "explanation": "Estar는 감정과 일시적인 상태에 씁니다.\n- están contentos = 그들은 (지금) 기뻐합니다\n- 'contentos'는 남성 복수 주어에 일치합니다.",
+    "hint": "감정과 기분에는 어떤 동사를 쓸까요?"
   },
   "q_gram_a1_06_004": {
-    "question": "'¿Cómo estás?'에서 'estar'는 무엇을 표현할까요?",
-    "correct": "건강이나 기분",
+    "question": "'¿Cómo estás?'에서 'estar'는 무엇을 나타낼까요?",
+    "correct": "건강 또는 기분",
     "wrong": [
       "정체성",
       "직업",
       "국적"
     ],
-    "explanation": "'¿Cómo estás?'는 '어떻게 지내?'라는 뜻으로 현재 상태나 기분을 묻습니다.\nestar는 건강, 기분, 감정 같은 일시적 상태에 사용합니다."
+    "explanation": "'¿Cómo estás?'는 '어떻게 지내?'라는 뜻으로, 상대방의 현재 상태나 기분을 묻습니다.\nEstar는 건강, 기분, 감정 상태 같은 일시적인 상태에 씁니다.",
+    "hint": null
   },
   "q_gram_a1_06_005": {
-    "question": "Nosotros ___ cansados. (estar 동사 활용)",
+    "question": "Nosotros ___ cansados. (estar 활용)",
     "correct": "estamos",
     "wrong": [
       "somos",
       "están",
       "estoy"
     ],
-    "explanation": "estar의 nosotros 형태는 'estamos'입니다.\n- Estamos cansados = 우리는 피곤하다.\n피곤함은 일시적 상태이므로 estar를 사용합니다.",
-    "conjugation_info": "estar - 현재형: estoy, estás, está, estamos, estáis, están"
+    "explanation": "'estar'의 nosotros 형태는 'estamos'입니다.\n- Estamos cansados = 우리는 피곤합니다.\n피곤한 것은 일시적인 상태이므로 estar를 씁니다.",
+    "conjugation_info": "estar - 현재형: estoy, estás, está, estamos, estáis, están",
+    "hint": null
   },
   "q_gram_a1_06_006": {
     "question": "La sopa ___ caliente.",
@@ -600,18 +629,19 @@
       "son",
       "están"
     ],
-    "explanation": "estar는 일시적인 상태를 나타낼 때 사용합니다.\n- La sopa está caliente. = 수프가 (지금) 뜨겁다.\n수프의 온도는 일시적 상태이며 영구적 특성이 아닙니다.",
+    "explanation": "Estar는 일시적인 상태에 씁니다.\n- La sopa está caliente. = 수프가 (지금) 뜨겁습니다.\n수프의 온도는 영구적인 특징이 아니라 일시적인 상태입니다.",
     "hint": "온도는 일시적인 상태입니다"
   },
   "q_gram_a1_06_007": {
-    "question": "나는 스페인어를 공부하고 있다.",
+    "question": "저는 스페인어를 공부하고 있습니다.",
     "correct": "Estoy estudiando español.",
     "wrong": [
       "Soy estudiando español.",
       "Estoy estudiar español.",
       "Es estudiando español."
     ],
-    "explanation": "현재 진행형은 estar + 현재분사(-ando/-iendo)를 사용합니다.\n- Estoy estudiando = 나는 공부하고 있다\n- estudiar → estudiando"
+    "explanation": "현재진행형은 estar + 현재분사(-ando/-iendo)로 만듭니다.\n- Estoy estudiando = 저는 공부하고 있습니다\n- estudiar → estudiando",
+    "hint": null
   },
   "q_gram_a1_06_008": {
     "question": "La puerta ___ abierta.",
@@ -621,30 +651,31 @@
       "son",
       "están"
     ],
-    "explanation": "estar는 변할 수 있는 상태나 조건을 나타낼 때 사용합니다.\n- La puerta está abierta. = 문이 열려 있다.\n문은 열리거나 닫힐 수 있으므로 변할 수 있는 상태입니다.",
-    "hint": "'열려 있다'는 영구적 특성인가요, 변할 수 있는 상태인가요?"
+    "explanation": "Estar는 변할 수 있는 상태나 조건에 씁니다.\n- La puerta está abierta. = 문이 열려 있습니다.\n문은 열릴 수도 닫힐 수도 있으니, 바뀔 수 있는 상태입니다.",
+    "hint": "'열려 있음'은 영구적인 특징일까요, 바뀔 수 있는 상태일까요?"
   },
   "q_gram_a1_06_009": {
-    "question": "내 형은 아프다.",
+    "question": "제 형은 아픕니다.",
     "correct": "Mi hermano está enfermo.",
     "wrong": [
       "Mi hermano es enfermo.",
       "Mi hermano está enfermedad.",
       "Mis hermanos están enfermos."
     ],
-    "explanation": "아픈 것은 일시적인 상태이므로 estar를 씁니다.\n- estar enfermo = 아프다 (일시적)\n'ser enfermo'를 쓰면 영구적인 상태라는 뜻이 되어 잘못입니다.",
+    "explanation": "아픈 것은 일시적인 상태이므로 estar를 씁니다.\n- estar enfermo = 아프다 (일시적)\n'ser enfermo'를 쓰면 영구적인 상태라는 잘못된 뜻이 됩니다.",
     "hint": null
   },
   "q_gram_a1_06_010": {
-    "question": "¿Dónde ___ tú ahora? (estar 동사 활용)",
+    "question": "¿Dónde ___ tú ahora? (estar 활용)",
     "correct": "estás",
     "wrong": [
       "eres",
       "está",
       "estamos"
     ],
-    "explanation": "estar의 tú 형태는 'estás'입니다.\n- ¿Dónde estás? = 너 어디에 있어?\nestar는 위치를 물을 때 항상 사용합니다.",
-    "conjugation_info": "estar - 현재형: estoy, estás, está, estamos, estáis, están"
+    "explanation": "'estar'의 tú 형태는 'estás'입니다.\n- ¿Dónde estás? = 너 어디야?\nEstar는 사람이나 사물이 어디에 있는지 물을 때 씁니다.",
+    "conjugation_info": "estar - 현재형: estoy, estás, está, estamos, estáis, están",
+    "hint": null
   },
   "q_gram_a1_07_001": {
     "question": "María ___ doctora.",

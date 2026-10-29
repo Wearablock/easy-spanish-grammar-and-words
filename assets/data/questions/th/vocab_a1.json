@@ -1,23 +1,25 @@
 {
   "q_vocab_a1_01_001": {
-    "question": "'hola' หมายความว่าอะไร?",
+    "question": "'hola' หมายความว่าอะไร",
     "correct": "สวัสดี",
     "wrong": [
       "ลาก่อน",
       "ขอบคุณ",
       "กรุณา"
     ],
-    "explanation": "'Hola' เป็นคำทักทายภาษาสเปนที่ใช้บ่อยที่สุด ใช้ได้ตลอดทั้งวัน"
+    "explanation": "'Hola' เป็นคำทักทายภาษาสเปนที่ใช้บ่อยที่สุด ใช้ได้ทุกเวลาของวัน",
+    "hint": null
   },
   "q_vocab_a1_01_002": {
-    "question": "'gracias' หมายความว่าอะไร?",
+    "question": "'gracias' หมายความว่าอะไร",
     "correct": "ขอบคุณ",
     "wrong": [
       "กรุณา",
       "ขอโทษ",
       "สวัสดี"
     ],
-    "explanation": "'Gracias' แปลว่า 'ขอบคุณ' คุณสามารถพูด 'muchas gracias' สำหรับ 'ขอบคุณมาก'"
+    "explanation": "'Gracias' แปลว่า 'ขอบคุณ' ถ้าจะพูดว่า 'ขอบคุณมาก' ให้พูดว่า 'muchas gracias'",
+    "hint": null
   },
   "q_vocab_a1_01_003": {
     "question": "Buenos ___, ¿cómo estás?",
@@ -27,89 +29,97 @@
       "gracias",
       "hola"
     ],
-    "explanation": "'Buenos días' แปลว่า 'สวัสดีตอนเช้า' และเป็นคำทักทายทั่วไปที่ใช้ตอนเช้า"
+    "explanation": "'Buenos días' แปลว่า 'อรุณสวัสดิ์' เป็นคำทักทายที่ใช้กันทั่วไปในตอนเช้า",
+    "hint": null
   },
   "q_vocab_a1_01_004": {
-    "question": "'por favor' หมายความว่าอะไร?",
-    "correct": "กรุณา",
+    "question": "'por favor' หมายความว่าอะไร",
+    "correct": "กรุณา / ได้โปรด",
     "wrong": [
       "ขอบคุณ",
-      "ขอโทษ",
+      "ขอโทษ (เวลาขอทาง)",
       "ลาก่อน"
     ],
-    "explanation": "'Por favor' ใช้เพื่อขอร้องอย่างสุภาพ เหมือนกับ 'กรุณา' ในภาษาอังกฤษ"
+    "explanation": "'Por favor' ใช้ขอร้องอย่างสุภาพ เหมือนคำว่า 'please' ในภาษาอังกฤษ",
+    "hint": null
   },
   "q_vocab_a1_01_005": {
-    "question": "'lo siento' ใน 'Lo siento mucho' หมายความว่าอะไร?",
+    "question": "'lo siento' ในประโยค 'Lo siento mucho' หมายความว่าอะไร",
     "correct": "ฉันขอโทษ",
     "wrong": [
       "ฉันมีความสุข",
       "ฉันเหนื่อย",
       "ฉันสบายดี"
     ],
-    "explanation": "'Lo siento' แปลตามตัวว่า 'ฉันรู้สึก' แต่ใช้เป็น 'ฉันขอโทษ' 'Mucho' เพิ่มความเน้น หมายถึง 'มาก'"
+    "explanation": "'Lo siento' แปลตรงตัวว่า 'ฉันรู้สึกถึงมัน' แต่ใช้ในความหมายว่า 'ฉันขอโทษ' ส่วน 'mucho' ช่วยเน้นย้ำ แปลว่า 'มาก'",
+    "hint": null
   },
   "q_vocab_a1_01_006": {
-    "question": "พบกันพรุ่งนี้!",
+    "question": "แล้วพบกันพรุ่งนี้!",
     "correct": "¡Hasta mañana!",
     "wrong": [
       "¡Hasta luego!",
       "¡Buenas noches!",
       "¡Adiós para siempre!"
     ],
-    "explanation": "'Hasta mañana' แปลตามตัวว่า 'จนถึงพรุ่งนี้' และใช้เมื่อคุณจะพบใครสักคนในวันถัดไป"
+    "explanation": "'Hasta mañana' แปลตรงตัวว่า 'จนถึงพรุ่งนี้' ใช้เมื่อจะได้เจออีกฝ่ายในวันถัดไป",
+    "hint": null
   },
   "q_vocab_a1_01_007": {
-    "question": "'de nada' ใน '¡Gracias! — De nada.' หมายความว่าอะไร?",
-    "correct": "ยินดี",
+    "question": "'de nada' ในประโยค '¡Gracias! — De nada.' หมายความว่าอะไร",
+    "correct": "ยินดี / ไม่เป็นไร",
     "wrong": [
-      "แน่นอน",
-      "ไม่เป็นไร",
-      "ลาก่อน"
+      "ขอโทษ (เวลาขอทาง)",
+      "ราตรีสวัสดิ์",
+      "แล้วเจอกัน"
     ],
-    "explanation": "'De nada' แปลตามตัวว่า 'ของไม่มีอะไร' และเป็นการตอบกลับมาตรฐานต่อ 'gracias'"
+    "explanation": "'De nada' แปลตรงตัวว่า 'ไม่ใช่อะไรเลย' เป็นคำตอบมาตรฐานเมื่อมีคนพูดว่า 'gracias'",
+    "hint": null
   },
   "q_vocab_a1_01_008": {
     "question": "¿Cómo estás?",
-    "correct": "คุณสบายดีไหม?",
+    "correct": "คุณสบายดีไหม",
     "wrong": [
-      "คุณชื่ออะไร?",
-      "คุณมาจากไหน?",
-      "คุณอายุเท่าไหร่?"
+      "คุณชื่ออะไร",
+      "คุณมาจากที่ไหน",
+      "คุณอายุเท่าไร"
     ],
-    "explanation": "'¿Cómo estás?' เป็นวิธีไม่เป็นทางการในการถาม 'คุณสบายดีไหม?' รูปแบบทางการคือ '¿Cómo está usted?'"
+    "explanation": "'¿Cómo estás?' เป็นวิธีถามว่า 'คุณสบายดีไหม' แบบไม่เป็นทางการ ส่วนแบบทางการคือ '¿Cómo está usted?'",
+    "hint": null
   },
   "q_vocab_a1_01_009": {
-    "question": "คุณชนคนโดยไม่ตั้งใจบนถนน คุณจะพูดอะไร?",
+    "question": "คุณเดินชนคนอื่นบนถนนโดยไม่ได้ตั้งใจ คุณจะพูดว่าอะไร",
     "correct": "¡Perdón!",
     "wrong": [
       "¡Hola!",
       "¡Gracias!",
       "¡Adiós!"
     ],
-    "explanation": "'Perdón' แปลว่า 'ขอโทษ' และใช้เมื่อคุณรบกวนใครบางคนโดยไม่ตั้งใจ",
-    "context": "เดินบนถนนที่แออัด"
+    "explanation": "'Perdón' แปลว่า 'ขอโทษ' หรือ 'ขออภัย' ใช้เมื่อเผลอรบกวนผู้อื่น",
+    "context": "เดินบนถนนที่แออัด",
+    "hint": null
   },
   "q_vocab_a1_01_010": {
-    "question": "คุณกำลังออกจากบ้านเพื่อนตอนดึก คุณจะพูดอะไร?",
+    "question": "คุณกำลังจะกลับจากบ้านเพื่อนตอนดึก คุณจะพูดว่าอะไร",
     "correct": "¡Buenas noches!",
     "wrong": [
       "¡Buenos días!",
       "¡Buenas tardes!",
       "¡Hola!"
     ],
-    "explanation": "'Buenas noches' ใช้เป็นคำทักทายตอนเย็นหรือตอนกลางคืน และยังใช้เป็นคำบอกลาตอนกลางคืนด้วย",
-    "context": "ออกจาก a เพื่อน's บ้าน at กลางคืน"
+    "explanation": "'Buenas noches' แปลว่า 'ราตรีสวัสดิ์' ใช้ได้ทั้งเป็นคำทักทายและคำลาในตอนค่ำ",
+    "context": "ออกจาก a เพื่อน's บ้าน at กลางคืน",
+    "hint": null
   },
   "q_vocab_a1_02_001": {
-    "question": "'madre' แปลว่าอะไร?",
+    "question": "'madre' หมายความว่าอะไร",
     "correct": "แม่",
     "wrong": [
       "พ่อ",
       "พี่สาว/น้องสาว",
-      "ยาย/ย่า"
+      "ยาย/คุณย่า"
     ],
-    "explanation": "'Madre' แปลว่า 'แม่' คำที่ใช้แบบไม่เป็นทางการคือ 'mamá'",
+    "explanation": "'Madre' แปลว่า 'แม่' ส่วนคำที่ใช้แบบไม่เป็นทางการคือ 'mamá'",
     "hint": null
   },
   "q_vocab_a1_02_002": {
@@ -120,10 +130,11 @@
       "hijo",
       "abuelo"
     ],
-    "explanation": "'Padre' แปลว่า 'พ่อ'. senสิบce says 'My พ่อ เป็น named Carlos. He เป็น สามี ของ my แม่.'"
+    "explanation": "'Padre' แปลว่า 'พ่อ' ประโยคนี้แปลว่า 'พ่อของฉันชื่อคาร์ลอส เขาเป็นสามีของแม่ฉัน'",
+    "hint": null
   },
   "q_vocab_a1_02_003": {
-    "question": "'hermana' แปลว่าอะไร?",
+    "question": "'hermana' หมายความว่าอะไร",
     "correct": "พี่สาว/น้องสาว",
     "wrong": [
       "พี่ชาย/น้องชาย",
@@ -134,101 +145,104 @@
     "hint": null
   },
   "q_vocab_a1_02_004": {
-    "question": "'abuelo' แปลว่าอะไร?",
+    "question": "'abuelo' หมายความว่าอะไร",
     "correct": "ปู่/ตา",
     "wrong": [
-      "ลุง/น้า/อา",
+      "ลุง/น้าชาย/อา",
       "พ่อ",
       "ลูกพี่ลูกน้อง"
     ],
-    "explanation": "'Abuelo' แปลว่า 'ปู่/ตา' ส่วน 'Abuela' คือ 'ย่า/ยาย' และ 'abuelos' เมื่อใช้รวมกันอาจหมายถึง 'ปู่ย่าตายาย'",
+    "explanation": "'Abuelo' แปลว่า 'ปู่/ตา' ส่วน 'abuela' คือ 'ย่า/ยาย' และ 'abuelos' รวมกันอาจหมายถึง 'ปู่ย่าตายาย'",
     "hint": null
   },
   "q_vocab_a1_02_005": {
-    "question": "My ลุง/น้า/อา lives ใน Madrid.",
+    "question": "ลุง/อา/น้าชายของฉันอาศัยอยู่ในมาดริด",
     "correct": "Mi tío vive en Madrid.",
     "wrong": [
       "Mi primo vive en Madrid.",
       "Mi abuelo vive en Madrid.",
       "Mi sobrino vive en Madrid."
     ],
-    "explanation": "'Tío' แปลว่า 'ลุง/น้า/อา'. 'Tía' เป็น เพศหญิง สำหรับm หมายถึง 'ป้า/น้า/อา'."
+    "explanation": "'Tío' แปลว่า 'ลุง/อา/น้าชาย' ส่วน 'tía' เป็นรูปเพศหญิง แปลว่า 'ป้า/อา/น้าสาว'",
+    "hint": null
   },
   "q_vocab_a1_02_006": {
-    "question": "'esposa' ใน 'Ella es mi esposa' แปลว่าอะไร?",
+    "question": "'esposa' ในประโยค 'Ella es mi esposa' หมายความว่าอะไร",
     "correct": "ภรรยา",
     "wrong": [
       "แฟนสาว",
       "เพื่อน",
       "พี่สาว/น้องสาว"
     ],
-    "explanation": "'Esposa' แปลว่า 'ภรรยา' ส่วน 'Esposo' แปลว่า 'สามี' เป็นคำที่เป็นทางการสำหรับคู่สมรส",
+    "explanation": "'Esposa' แปลว่า 'ภรรยา' ส่วน 'esposo' แปลว่า 'สามี' ในภาษาพูดทั่วไปคนยังใช้ 'mujer' (ภรรยา) และ 'marido' (สามี) ด้วย",
     "hint": null
   },
   "q_vocab_a1_02_007": {
-    "question": "คุณต้องการแนะนำเพื่อนผู้หญิงของคุณให้ใครสักคนรู้จัก คุณจะใช้คำไหน?",
+    "question": "คุณอยากแนะนำเพื่อนผู้หญิงของคุณให้ใครสักคนรู้จัก คุณจะใช้คำไหน",
     "correct": "amiga",
     "wrong": [
       "novia",
       "prima",
       "vecina"
     ],
-    "explanation": "'Amiga' แปลว่า 'เพื่อนผู้หญิง' การใช้ 'novia' จะหมายถึง 'แฟนสาว' (คู่รัก) ซึ่งมีความหมายต่างออกไป",
+    "explanation": "'Amiga' แปลว่า 'เพื่อนผู้หญิง' ถ้าใช้ 'novia' จะหมายถึง 'แฟนสาว' (คู่รัก) ซึ่งต่างกัน",
     "context": "Introducing a เพื่อน at a party",
     "hint": null
   },
   "q_vocab_a1_02_008": {
-    "question": "'primo' ใน 'Mi primo tiene diez años' แปลว่าอะไร?",
+    "question": "'primo' ในประโยค 'Mi primo tiene diez años' หมายความว่าอะไร",
     "correct": "ลูกพี่ลูกน้อง",
     "wrong": [
       "พี่ชาย/น้องชาย",
       "หลานชาย",
       "ลูกชาย"
     ],
-    "explanation": "'Primo' (เพศชาย) แปลว่า 'ลูกพี่ลูกน้อง' ส่วน 'Prima' เป็นรูปเพศหญิง ประโยคนี้แปลว่า 'ลูกพี่ลูกน้องของฉันอายุสิบขวบ'",
+    "explanation": "'Primo' (เพศชาย) แปลว่า 'ลูกพี่ลูกน้อง' ส่วน 'prima' เป็นรูปเพศหญิง ประโยคนี้แปลว่า 'ลูกพี่ลูกน้องของฉันอายุสิบขวบ'",
     "hint": null
   },
   "q_vocab_a1_02_009": {
     "question": "Tengo dos hermanos y una hermana.",
-    "correct": "I have สอง brothers และ หนึ่ง พี่สาว/น้องสาว.",
+    "correct": "ฉันมีพี่ชาย/น้องชายสองคนและพี่สาว/น้องสาวหนึ่งคน",
     "wrong": [
-      "I have สอง sisters และ หนึ่ง พี่ชาย/น้องชาย.",
-      "I have สอง cousins และ หนึ่ง พี่สาว/น้องสาว.",
-      "I have สอง friends และ หนึ่ง พี่สาว/น้องสาว."
+      "ฉันมีพี่สาว/น้องสาวสองคนและพี่ชาย/น้องชายหนึ่งคน",
+      "ฉันมีลูกพี่ลูกน้องสองคนและพี่สาว/น้องสาวหนึ่งคน",
+      "ฉันมีเพื่อนสองคนและพี่สาว/น้องสาวหนึ่งคน"
     ],
-    "explanation": "'Herผู้ชายos' เป็น พหูพจน์ เพศชาย สำหรับm หมายถึง 'brothers'. 'Herผู้ชายa' แปลว่า 'พี่สาว/น้องสาว'."
+    "explanation": "'Hermanos' เป็นรูปพหูพจน์เพศชาย แปลว่า 'พี่ชาย/น้องชาย (หลายคน)' ส่วน 'hermana' แปลว่า 'พี่สาว/น้องสาว'",
+    "hint": null
   },
   "q_vocab_a1_02_010": {
-    "question": "Your neighbor asks about your ครอบครัว. อย่างไร do คุณ say 'I live กับ my พ่อแม่'?",
+    "question": "เพื่อนบ้านถามเรื่องครอบครัวของคุณ คุณจะพูดว่า 'ฉันอาศัยอยู่กับพ่อแม่' ว่าอย่างไร",
     "correct": "Vivo con mis padres.",
     "wrong": [
       "Vivo con mis amigos.",
-      "Vivo con mis herผู้ชายos.",
+      "Vivo con mis hermanos.",
       "Vivo con mis abuelos."
     ],
-    "explanation": "'Padres' แปลว่า 'พ่อแม่'. มัน เป็น พหูพจน์ ของ 'padre' (พ่อ) แต่ เมื่อไหร่ used ใน พหูพจน์ มัน refers ไปยัง both พ่อแม่.",
-    "context": "Chatting with a neighbor about ครอบครัว"
+    "explanation": "'Padres' แปลว่า 'พ่อแม่' เป็นรูปพหูพจน์ของ 'padre' (พ่อ) แต่เมื่อใช้พหูพจน์จะหมายถึงทั้งพ่อและแม่",
+    "context": "Chatting with a neighbor about ครอบครัว",
+    "hint": null
   },
   "q_vocab_a1_03_001": {
-    "question": "'hora' แปลว่าอะไร?",
+    "question": "'hora' แปลว่าอะไร",
     "correct": "ชั่วโมง / เวลา",
     "wrong": [
       "นาที",
       "วัน",
       "สัปดาห์"
     ],
-    "explanation": "'Hora' แปลว่า 'ชั่วโมง' หรือ 'เวลา' (เมื่อถามว่ากี่โมง) '¿Qué hora es?' = 'ตอนนี้กี่โมง?'",
+    "explanation": "'Hora' แปลว่า 'ชั่วโมง' หรือ 'เวลา' (เวลาใช้ถามว่ากี่โมง) '¿Qué hora es?' = 'ตอนนี้กี่โมงแล้ว'",
     "hint": null
   },
   "q_vocab_a1_03_002": {
-    "question": "'mañana' ใน 'por la mañana' แปลว่าอะไร?",
+    "question": "'mañana' ใน 'por la mañana' แปลว่าอะไร",
     "correct": "ตอนเช้า",
     "wrong": [
       "ตอนบ่าย",
       "ตอนเย็น",
       "ตอนกลางคืน"
     ],
-    "explanation": "'Mañana' แปลว่า 'ตอนเช้า' เมื่อใช้กับ 'por la' ในบริบทอื่นยังอาจหมายถึง 'พรุ่งนี้' ได้ด้วย",
+    "explanation": "'Mañana' แปลว่า 'ตอนเช้า' เมื่อใช้กับ 'por la' ในบริบทอื่นยังแปลว่า 'พรุ่งนี้' ได้ด้วย",
     "hint": null
   },
   "q_vocab_a1_03_003": {
@@ -239,92 +253,97 @@
       "punto",
       "minuto"
     ],
-    "explanation": "'Media' แปลว่า 'half'. 'ลูกชาย las tres y media' แปลว่า 'มัน เป็น สาม thirty' (literally 'สาม และ a half')."
+    "explanation": "'Media' แปลว่า 'ครึ่ง' 'Son las tres y media' แปลว่า 'ตอนนี้สามโมงครึ่ง' (แปลตรงตัวคือ 'สามโมงกับอีกครึ่งหนึ่ง')",
+    "hint": null
   },
   "q_vocab_a1_03_004": {
-    "question": "'reloj' แปลว่าอะไร?",
-    "correct": "นาฬิกา (ตั้งผนัง / นาฬิกาข้อมือ)",
+    "question": "'reloj' แปลว่าอะไร",
+    "correct": "นาฬิกา (ตั้งหรือแขวน) / นาฬิกาข้อมือ",
     "wrong": [
       "ปฏิทิน",
-      "นาฬิกาปลุก",
+      "สัญญาณปลุก",
       "ตัวจับเวลา"
     ],
-    "explanation": "'Reloj' ในภาษาสเปนหมายถึงได้ทั้ง 'นาฬิกาตั้งผนัง' (clock) และ 'นาฬิกาข้อมือ' (watch)",
+    "explanation": "ในภาษาสเปน 'Reloj' แปลได้ทั้ง 'นาฬิกาตั้งหรือแขวน' (นาฬิกาติดผนัง) และ 'นาฬิกาข้อมือ'",
     "hint": null
   },
   "q_vocab_a1_03_005": {
-    "question": "'en punto' ในประโยค 'Son las cinco en punto' แปลว่าอะไร?",
+    "question": "'en punto' ใน 'Son las cinco en punto' แปลว่าอะไร",
     "correct": "ตรงเวลาพอดี / เป๊ะ",
     "wrong": [
       "เกือบ",
-      "ประมาณ ๆ",
-      "โดยประมาณ"
+      "ประมาณ",
+      "โดยคร่าว ๆ"
     ],
-    "explanation": "'En punto' แปลว่า 'ตรงเวลาพอดี' หรือ 'เป๊ะ' 'Son las cinco en punto' = 'ตอนนี้ห้าโมงเย็นตรงพอดี'",
+    "explanation": "'En punto' แปลว่า 'ตรงเวลาพอดี' หรือ 'ตรงเป๊ะ' 'Son las cinco en punto' = 'ตอนนี้ห้าโมงตรงพอดี'",
     "hint": null
   },
   "q_vocab_a1_03_006": {
-    "question": "มัน เป็น หนึ่ง o'clock.",
+    "question": "ตอนนี้ตีหนึ่ง (หรือบ่ายโมง)",
     "correct": "Es la una.",
     "wrong": [
       "Son las una.",
       "Es el uno.",
       "Son la una."
     ],
-    "explanation": "สำหรับ 1:00, we use 'Es la una' (เอกพจน์). สำหรับ ทั้งหมด other hours, we use 'ลูกชาย las...' (พหูพจน์)."
+    "explanation": "สำหรับเวลา 1:00 เราใช้ 'Es la una' (เอกพจน์) ส่วนชั่วโมงอื่น ๆ ทั้งหมดใช้ 'Son las...' (พหูพจน์)",
+    "hint": null
   },
   "q_vocab_a1_03_007": {
-    "question": "'tarde' ในคำว่า 'Buenas tardes' แปลว่าอะไร?",
-    "correct": "ช่วงบ่าย",
+    "question": "'tarde' ใน 'Buenas tardes' แปลว่าอะไร",
+    "correct": "ตอนบ่าย",
     "wrong": [
-      "ช่วงเช้า",
-      "กลางคืน",
-      "ช่วงเย็น"
+      "ตอนเช้า",
+      "ตอนกลางคืน",
+      "ตอนเที่ยง"
     ],
-    "explanation": "'Tarde' แปลว่า 'ช่วงบ่าย' 'Buenas tardes' ใช้ตั้งแต่ราวเที่ยงวันไปจนถึงพระอาทิตย์ตก",
+    "explanation": "'Tarde' แปลว่า 'ตอนบ่าย' 'Buenas tardes' ใช้ตั้งแต่ราวเที่ยงไปจนถึงพระอาทิตย์ตก",
     "hint": null
   },
   "q_vocab_a1_03_008": {
     "question": "¿Qué hora es? — Son las dos y cuarto.",
-    "correct": "What time is it? — It is 2:15.",
+    "correct": "ตอนนี้กี่โมงแล้ว — ตอนนี้สองโมงสิบห้านาที",
     "wrong": [
-      "What time is it? — It is 2:45.",
-      "What time is it? — It is 2:30.",
-      "What วัน is it? — It is วันอังคาร."
+      "ตอนนี้กี่โมงแล้ว — ตอนนี้สองโมงสี่สิบห้านาที",
+      "ตอนนี้กี่โมงแล้ว — ตอนนี้สองโมงครึ่ง",
+      "วันนี้วันอะไร — วันนี้วันอังคาร"
     ],
-    "explanation": "'Cuarto' แปลว่า 'quarter'. 'ลูกชาย las dos y cuarto' = 'มัน เป็น สอง fifteen' (a quarter past สอง)."
+    "explanation": "'Cuarto' แปลว่า 'หนึ่งในสี่' 'Son las dos y cuarto' = 'ตอนนี้สองโมงสิบห้านาที' (สองโมงกับอีกหนึ่งในสี่ชั่วโมง)",
+    "hint": null
   },
   "q_vocab_a1_03_009": {
-    "question": "คุณ need ไปยัง ask a stranger on ถนน อะไร เวลา มัน เป็น. อะไร do คุณ say?",
+    "question": "คุณต้องการถามคนแปลกหน้าบนถนนว่าตอนนี้กี่โมงแล้ว คุณจะพูดว่าอย่างไร",
     "correct": "Perdone, ¿qué hora es?",
     "wrong": [
       "¡Hola! ¿Qué día es?",
       "¿Cuánto cuesta?",
       "¿Dónde está el reloj?"
     ],
-    "explanation": "'Perdหนึ่ง, ¿qué hora es?' เป็น a polite way ไปยัง ask someหนึ่ง เวลา. 'Perdหนึ่ง' เป็น สำหรับmal สำหรับm ของ 'ขอโทษ'.",
-    "context": "Asking the time on the ถนน"
+    "explanation": "'Perdone, ¿qué hora es?' เป็นวิธีถามเวลาอย่างสุภาพ 'Perdone' เป็นรูปทางการของคำว่า 'ขอโทษนะคะ/ครับ'",
+    "context": "Asking the time on the ถนน",
+    "hint": null
   },
   "q_vocab_a1_03_010": {
-    "question": "Your เพื่อน asks เมื่อไหร่ คุณ โดยปกติ wake up. อย่างไร do คุณ say 'I wake up at เจ็ด ใน ตอนเช้า'?",
+    "question": "เพื่อนถามว่าปกติคุณตื่นนอนกี่โมง คุณจะพูดว่า 'ฉันตื่นตอนเจ็ดโมงเช้า' อย่างไร",
     "correct": "Me despierto a las siete de la mañana.",
     "wrong": [
       "Me despierto a las siete de la noche.",
       "Me despierto a la siete de la mañana.",
       "Me duermo a las siete de la mañana."
     ],
-    "explanation": "'A las siete de la mañana' แปลว่า 'at เจ็ด ใน ตอนเช้า'. Note: we use 'a las' สำหรับ ทั้งหมด hours except หนึ่ง ('a la una').",
-    "context": "Talking about daily routines"
+    "explanation": "'A las siete de la mañana' แปลว่า 'ตอนเจ็ดโมงเช้า' ข้อสังเกต: เราใช้ 'a las' กับทุกชั่วโมง ยกเว้นตีหนึ่ง/บ่ายโมงที่ใช้ 'a la una'",
+    "context": "Talking about daily routines",
+    "hint": null
   },
   "q_vocab_a1_04_001": {
-    "question": "'lunes' แปลว่าอะไร?",
+    "question": "'lunes' แปลว่าอะไร",
     "correct": "วันจันทร์",
     "wrong": [
       "วันอังคาร",
       "วันศุกร์",
       "วันอาทิตย์"
     ],
-    "explanation": "'Lunes' แปลว่า 'วันจันทร์' ในภาษาสเปน ชื่อวันในสัปดาห์ไม่ขึ้นต้นด้วยตัวพิมพ์ใหญ่",
+    "explanation": "'Lunes' แปลว่า 'วันจันทร์' ในภาษาสเปน ชื่อวันในสัปดาห์ไม่ต้องขึ้นต้นด้วยตัวพิมพ์ใหญ่",
     "hint": null
   },
   "q_vocab_a1_04_002": {
@@ -335,21 +354,22 @@
       "marzo",
       "diciembre"
     ],
-    "explanation": "'Enero' แปลว่า 'January', first เดือน ของ ปี. Like วันs, months เป็น not capitalized ในภาษาสเปน."
+    "explanation": "'Enero' แปลว่า 'เดือนมกราคม' ซึ่งเป็นเดือนแรกของปี เช่นเดียวกับชื่อวัน ชื่อเดือนในภาษาสเปนไม่ต้องขึ้นต้นด้วยตัวพิมพ์ใหญ่",
+    "hint": null
   },
   "q_vocab_a1_04_003": {
-    "question": "'verano' แปลว่าอะไร?",
+    "question": "'verano' แปลว่าอะไร",
     "correct": "ฤดูร้อน",
     "wrong": [
       "ฤดูหนาว",
       "ฤดูใบไม้ผลิ",
       "ฤดูใบไม้ร่วง"
     ],
-    "explanation": "'Verano' แปลว่า 'ฤดูร้อน' ทั้งสี่ฤดูคือ primavera (ใบไม้ผลิ), verano (ร้อน), otoño (ใบไม้ร่วง), invierno (หนาว)",
+    "explanation": "'Verano' แปลว่า 'ฤดูร้อน' สี่ฤดูได้แก่ primavera (ฤดูใบไม้ผลิ), verano (ฤดูร้อน), otoño (ฤดูใบไม้ร่วง), invierno (ฤดูหนาว)",
     "hint": null
   },
   "q_vocab_a1_04_004": {
-    "question": "'semana' แปลว่าอะไร?",
+    "question": "'semana' แปลว่าอะไร",
     "correct": "สัปดาห์",
     "wrong": [
       "เดือน",
@@ -360,17 +380,18 @@
     "hint": null
   },
   "q_vocab_a1_04_005": {
-    "question": "วันเสาร์ และ วันอาทิตย์",
+    "question": "วันเสาร์และวันอาทิตย์",
     "correct": "sábado y domingo",
     "wrong": [
       "viernes y sábado",
       "lunes y martes",
       "jueves y viernes"
     ],
-    "explanation": "'Sáแย่o' เป็น วันเสาร์ และ 'domingo' เป็น วันอาทิตย์. Together พวกเขา สำหรับm 'fin de seผู้ชายa' (weekend)."
+    "explanation": "'Sábado' คือวันเสาร์ และ 'domingo' คือวันอาทิตย์ สองวันนี้รวมกันเป็น 'fin de semana' (วันหยุดสุดสัปดาห์)",
+    "hint": null
   },
   "q_vocab_a1_04_006": {
-    "question": "'primavera' ในประโยค 'Me gusta la primavera' แปลว่าอะไร?",
+    "question": "'primavera' ใน 'Me gusta la primavera' แปลว่าอะไร",
     "correct": "ฤดูใบไม้ผลิ",
     "wrong": [
       "ฤดูร้อน",
@@ -381,18 +402,19 @@
     "hint": null
   },
   "q_vocab_a1_04_007": {
-    "question": "Someหนึ่ง asks คุณ อะไร วัน มัน เป็น. วันนี้ เป็น วันพุธ. อย่างไร do คุณ answer?",
+    "question": "มีคนถามคุณว่าวันนี้วันอะไร วันนี้เป็นวันพุธ คุณจะตอบว่าอย่างไร",
     "correct": "Hoy es miércoles.",
     "wrong": [
       "Hoy es martes.",
       "Hoy es jueves.",
       "Hoy es viernes."
     ],
-    "explanation": "'Miércoles' แปลว่า 'วันพุธ'. Note accent mark on 'e'. 'Hoy es...' แปลว่า 'วันนี้ เป็น...'.",
-    "context": "Someหนึ่ง asking what วัน it is"
+    "explanation": "'Miércoles' แปลว่า 'วันพุธ' สังเกตเครื่องหมายสำเนียงบนตัว 'e' ส่วน 'Hoy es...' แปลว่า 'วันนี้เป็นวัน...'",
+    "context": "Someหนึ่ง asking what วัน it is",
+    "hint": null
   },
   "q_vocab_a1_04_008": {
-    "question": "'invierno' ในประโยค 'En invierno hace frío' แปลว่าอะไร?",
+    "question": "'invierno' ใน 'En invierno hace frío' แปลว่าอะไร",
     "correct": "ฤดูหนาว",
     "wrong": [
       "ฤดูใบไม้ร่วง",
@@ -410,18 +432,20 @@
       "domingo",
       "lunes"
     ],
-    "explanation": "'Viernes' เป็น วันศุกร์ และ วัน after วันศุกร์ เป็น 'sáแย่o' (วันเสาร์)."
+    "explanation": "'Viernes' คือวันศุกร์ และวันถัดจากวันศุกร์คือ 'sábado' (วันเสาร์)",
+    "hint": null
   },
   "q_vocab_a1_04_010": {
-    "question": "คุณ want ไปยัง schedule a meeting. อย่างไร do คุณ say ' meeting เป็น on วันพฤหัสบดี'?",
+    "question": "คุณต้องการนัดประชุม คุณจะพูดว่า 'การประชุมคือวันพฤหัสบดี' อย่างไร",
     "correct": "La reunión es el jueves.",
     "wrong": [
       "La reunión es el martes.",
       "La reunión es el miércoles.",
       "La reunión es la jueves."
     ],
-    "explanation": "Days ของ สัปดาห์ use คำนำหน้านาม 'el' (เอกพจน์) หรือ 'los' (พหูพจน์/habitual). 'El jueves' = 'on วันพฤหัสบดี'.",
-    "context": "Scheduling a meeting at work"
+    "explanation": "ชื่อวันในสัปดาห์ใช้คำนำหน้านาม 'el' (เอกพจน์) หรือ 'los' (พหูพจน์/เหตุการณ์ที่ทำเป็นประจำ) 'El jueves' = 'ในวันพฤหัสบดี'",
+    "context": "Scheduling a meeting at work",
+    "hint": null
   },
   "q_vocab_a1_05_001": {
     "question": "'rojo' แปลว่าอะไร?",
@@ -431,7 +455,7 @@
       "สีเขียว",
       "สีเหลือง"
     ],
-    "explanation": "'Rojo' แปลว่า 'สีแดง' เหมือนคุณศัพท์ส่วนใหญ่ คำนี้เปลี่ยนรูปตามเพศ: rojo (เพศชาย), roja (เพศหญิง)",
+    "explanation": "'Rojo' แปลว่า 'สีแดง' เหมือนคำคุณศัพท์ส่วนใหญ่ คำนี้เปลี่ยนรูปได้: rojo (เพศชาย), roja (เพศหญิง)",
     "hint": null
   },
   "q_vocab_a1_05_002": {
@@ -453,7 +477,7 @@
       "verde",
       "amarillo"
     ],
-    "explanation": "'Azul' แปลว่า 'สีน้ำเงิน / สีฟ้า' ต่างจากคุณศัพท์บอกสีส่วนใหญ่ 'azul' ไม่เปลี่ยนรูปตามเพศชาย/หญิง",
+    "explanation": "'Azul' แปลว่า 'สีน้ำเงิน' ต่างจากคำคุณศัพท์บอกสีส่วนใหญ่ 'azul' ไม่เปลี่ยนรูปตามเพศชาย/หญิง",
     "hint": null
   },
   "q_vocab_a1_05_004": {
@@ -464,7 +488,7 @@
       "สีเทา",
       "สีน้ำตาล"
     ],
-    "explanation": "'Negro' แปลว่า 'สีดำ' เปลี่ยนรูปตามเพศตามปกติเหมือนคุณศัพท์ทั่วไป: negro (เพศชาย), negra (เพศหญิง)",
+    "explanation": "'Negro' แปลว่า 'สีดำ' เปลี่ยนรูปตามเพศตามปกติของคำคุณศัพท์: negro (เพศชาย), negra (เพศหญิง)",
     "hint": null
   },
   "q_vocab_a1_05_005": {
@@ -479,7 +503,7 @@
     "hint": null
   },
   "q_vocab_a1_05_006": {
-    "question": "รถคันนี้เป็นสีเขียว",
+    "question": "รถคันนี้สีเขียว",
     "correct": "El coche es verde.",
     "wrong": [
       "El coche es rojo.",
@@ -502,35 +526,38 @@
   },
   "q_vocab_a1_05_008": {
     "question": "¿De qué color es la naranja?",
-    "correct": "What color is the สีส้ม?",
+    "correct": "ส้มสีอะไร?",
     "wrong": [
-      "Where is the สีส้ม?",
-      "How much is the สีส้ม?",
-      "Do you like the สีส้ม?"
+      "ส้มอยู่ที่ไหน?",
+      "ส้มราคาเท่าไร?",
+      "คุณชอบส้มไหม?"
     ],
-    "explanation": "'¿De qué color es...?' แปลว่า 'อะไร color เป็น...?' นี่คือ standard way ไปยัง ask about colors ในภาษาสเปน."
+    "explanation": "'¿De qué color es...?' แปลว่า 'ส... สีอะไร?' เป็นวิธีมาตรฐานในการถามเรื่องสีในภาษาสเปน",
+    "hint": null
   },
   "q_vocab_a1_05_009": {
-    "question": "คุณ เป็น shopping สำหรับ clothes และ want ไปยัง ask if a shirt comes ใน สีชมพู. อะไร do คุณ say?",
+    "question": "คุณกำลังซื้อเสื้อผ้าและอยากถามว่าเสื้อเชิ้ตตัวนี้มีสีชมพูไหม คุณจะพูดว่าอย่างไร?",
     "correct": "¿Tiene esta camisa en rosa?",
     "wrong": [
       "¿Tiene esta camisa en rojo?",
       "¿Tiene esta camisa en marrón?",
       "¿Tiene esta falda en rosa?"
     ],
-    "explanation": "'Rosa' แปลว่า 'สีชมพู'. '¿Tiene... en rosa?' เป็น a natural way ไปยัง ask if something comes ใน สีชมพู.",
-    "context": "Shopping สำหรับ clothes in a ร้านค้า"
+    "explanation": "'Rosa' แปลว่า 'สีชมพู' '¿Tiene... en rosa?' เป็นวิธีถามที่เป็นธรรมชาติว่าสิ่งของนั้นมีสีชมพูไหม",
+    "context": "Shopping สำหรับ clothes in a ร้านค้า",
+    "hint": null
   },
   "q_vocab_a1_05_010": {
-    "question": "A เพื่อน asks คุณ your favorite color. อย่างไร do คุณ say 'My favorite color เป็น สีน้ำเงิน'?",
+    "question": "เพื่อนถามว่าสีโปรดของคุณคืออะไร คุณจะพูดว่า 'สีโปรดของฉันคือสีน้ำเงิน' เป็นภาษาสเปนว่าอย่างไร?",
     "correct": "Mi color favorito es el azul.",
     "wrong": [
       "Mi color favorito es el rojo.",
       "Mi color favorita es la azul.",
       "Mi color favorito es el verde."
     ],
-    "explanation": "'Color' เป็น เพศชาย, so we say 'favorito' (not 'favorita'). 'Azul' แปลว่า 'สีน้ำเงิน'.",
-    "context": "Talking about favorite colors with a เพื่อน"
+    "explanation": "'Color' เป็นเพศชาย จึงพูดว่า 'favorito' (ไม่ใช่ 'favorita') 'Azul' แปลว่า 'สีน้ำเงิน'",
+    "context": "Talking about favorite colors with a เพื่อน",
+    "hint": null
   },
   "q_vocab_a1_06_001": {
     "question": "'agua' แปลว่าอะไร?",

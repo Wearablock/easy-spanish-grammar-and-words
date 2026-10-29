@@ -1,23 +1,25 @@
 {
   "q_vocab_a1_01_001": {
-    "question": "ما معنى 'hola'؟",
+    "question": "ماذا تعني كلمة 'hola'؟",
     "correct": "مرحباً",
     "wrong": [
       "وداعاً",
       "شكراً",
       "من فضلك"
     ],
-    "explanation": "'Hola' هو أكثر التحيات الإسبانية شيوعاً, used at any وقت من day."
+    "explanation": "'Hola' هي أكثر تحية شائعة في الإسبانية، وتُستخدم في أي وقت من اليوم.",
+    "hint": null
   },
   "q_vocab_a1_01_002": {
-    "question": "ما معنى 'gracias'؟",
+    "question": "ماذا تعني كلمة 'gracias'؟",
     "correct": "شكراً",
     "wrong": [
       "من فضلك",
       "آسف",
       "مرحباً"
     ],
-    "explanation": "'Gracias' يعني 'شكراً'. يمكنك أن تقول 'muchas gracias' لـ 'شكراً جداً much'."
+    "explanation": "'Gracias' تعني «شكراً». ويمكنك قول 'muchas gracias' لتعني «شكراً جزيلاً».",
+    "hint": null
   },
   "q_vocab_a1_01_003": {
     "question": "Buenos ___, ¿cómo estás?",
@@ -27,89 +29,98 @@
       "gracias",
       "hola"
     ],
-    "explanation": "'Buenos días' يعني 'صباح الخير' و هو a شائع تحية used في الـ صباح."
+    "explanation": "'Buenos días' تعني «صباح الخير»، وهي تحية شائعة تُقال في الصباح.",
+    "hint": null
   },
   "q_vocab_a1_01_004": {
-    "question": "ما معنى 'por favor'؟",
+    "question": "ماذا تعني عبارة 'por favor'؟",
     "correct": "من فضلك",
     "wrong": [
       "شكراً",
-      "عفواً",
+      "المعذرة",
       "وداعاً"
     ],
-    "explanation": "'Por favor' يُستخدم لتقديم طلبات مهذبة, تماماً مثل 'من فضلك' في الإنجليزية."
+    "explanation": "تُستخدم 'Por favor' لتقديم الطلبات بلطف، تماماً مثل «please» في الإنجليزية.",
+    "hint": null
   },
   "q_vocab_a1_01_005": {
-    "question": "ما معنى 'lo siento' في 'Lo siento mucho'؟",
-    "correct": "I'm sorry",
+    "question": "ماذا تعني عبارة 'lo siento' في جملة 'Lo siento mucho'؟",
+    "correct": "أنا آسف",
     "wrong": [
-      "I'm happy",
-      "I'm tired",
-      "I'm fine"
+      "أنا سعيد",
+      "أنا متعب",
+      "أنا بخير"
     ],
-    "explanation": "'Lo siento' literally يعني 'I feel هو' ولكن يُستخدم كـ 'I'm آسف'. 'Mucho' يضيف تأكيداً, بمعنى 'جداً much'."
+    "explanation": "'Lo siento' تعني حرفياً «أشعر بذلك»، لكنها تُستخدم بمعنى «أنا آسف». وكلمة 'Mucho' تزيد التأكيد وتعني «كثيراً».",
+    "hint": null
   },
   "q_vocab_a1_01_006": {
-    "question": "See أنت tomorrow!",
+    "question": "أراك غداً!",
     "correct": "¡Hasta mañana!",
     "wrong": [
       "¡Hasta luego!",
       "¡Buenas noches!",
       "¡Adiós para siempre!"
     ],
-    "explanation": "'Hasta mañana' literally يعني 'حتى غداً' و يُستخدم عندما أنت سوف see someone الـ next day."
+    "explanation": "'Hasta mañana' تعني حرفياً «حتى الغد»، وتُقال عندما ستقابل الشخص في اليوم التالي.",
+    "hint": null
   },
   "q_vocab_a1_01_007": {
-    "question": "ما معنى 'de nada' في '¡Gracias! — De nada.'؟",
+    "question": "ماذا تعني عبارة 'de nada' في '¡Gracias! — De nada.'؟",
     "correct": "عفواً",
     "wrong": [
-      "بالطبع",
-      "لا مشكلة",
-      "وداعاً"
+      "المعذرة",
+      "تصبح على خير",
+      "أراك لاحقاً"
     ],
-    "explanation": "'De nada' الترجمة الحرفية 'من nothing' و هو الرد القياسي على 'gracias'."
+    "explanation": "'De nada' تعني حرفياً «من لا شيء»، وهي الرد المعتاد على 'gracias'.",
+    "hint": null
   },
   "q_vocab_a1_01_008": {
     "question": "¿Cómo estás?",
-    "correct": "How are you?",
+    "correct": "كيف حالك؟",
     "wrong": [
-      "What is your name?",
-      "Where are you from?",
-      "How old are you?"
+      "ما اسمك؟",
+      "من أين أنت؟",
+      "كم عمرك؟"
     ],
-    "explanation": "'¿Cómo estás?' طريقة غير رسمية لطرح السؤال 'كيف هم أنت?' النسخة الرسمية هي '¿Cómo está usted?'."
+    "explanation": "'¿Cómo estás?' طريقة غير رسمية لسؤال «كيف حالك؟». أما الصيغة الرسمية فهي '¿Cómo está usted?'.",
+    "hint": null
   },
   "q_vocab_a1_01_009": {
-    "question": "اصطدمت بشخص ما في الشارع عن طريق الخطأ. ماذا تقول؟",
+    "question": "اصطدمت بالخطأ بشخص في الشارع. ماذا تقول؟",
     "correct": "¡Perdón!",
     "wrong": [
       "¡Hola!",
       "¡Gracias!",
       "¡Adiós!"
     ],
-    "explanation": "'Perdón' يعني 'عفواً' أو 'عفواً' و يُستخدم عندما أنت accidentally bother someone.",
-    "context": "Walking on a crowded شارع"
+    "explanation": "'Perdón' تعني «عفواً» أو «المعذرة»، وتُستخدم عندما تزعج أحداً عن غير قصد.",
+    "context": "Walking on a crowded شارع",
+    "hint": null
   },
   "q_vocab_a1_01_010": {
-    "question": "أنت تغادر منزل صديقك في وقت متأخر من الليل. ماذا تقول؟",
+    "question": "تغادر منزل صديق في وقت متأخر من الليل. ماذا تقول؟",
     "correct": "¡Buenas noches!",
     "wrong": [
       "¡Buenos días!",
       "¡Buenas tardes!",
       "¡Hola!"
     ],
-    "explanation": "'Buenas noches' يعني 'تصبح على خير' و يُستخدم both as a تحية و farewell في الـ مساء.",
-    "context": "Leaving a صديق's منزل at ليل"
+    "explanation": "'Buenas noches' تعني «تصبح على خير» أو «مساء الخير»، وتُستخدم للتحية والوداع معاً في المساء.",
+    "context": "Leaving a صديق's منزل at ليل",
+    "hint": null
   },
   "q_vocab_a1_02_001": {
-    "question": "ما معنى 'madre'؟",
+    "question": "ماذا تعني كلمة 'madre'؟",
     "correct": "أم",
     "wrong": [
       "أب",
       "أخت",
-      "grandmother"
+      "جدة"
     ],
-    "explanation": "'Madre' يعني 'أم'. الـ inلـmal كلمة هو 'mamá'."
+    "explanation": "'Madre' تعني «أم». والكلمة غير الرسمية هي 'mamá'.",
+    "hint": null
   },
   "q_vocab_a1_02_002": {
     "question": "Mi ___ se llama Carlos. Es el esposo de mi madre.",
@@ -119,47 +130,52 @@
       "hijo",
       "abuelo"
     ],
-    "explanation": "'Padre' يعني 'أب'. الـ sentence says 'My أب هو named Carlos. He هو الـ husband من my أم.'"
+    "explanation": "'Padre' تعني «أب». والجملة تقول: «اسم أبي كارلوس. هو زوج أمي».",
+    "hint": null
   },
   "q_vocab_a1_02_003": {
-    "question": "ما معنى 'hermana'؟",
+    "question": "ماذا تعني كلمة 'hermana'؟",
     "correct": "أخت",
     "wrong": [
       "أخ",
-      "cousin",
-      "aunt"
+      "ابن العم",
+      "عمة"
     ],
-    "explanation": "'Hermana' هو الـ مؤنث لـm بمعنى 'أخت'. الـ مذكر لـm 'hermano' يعني 'أخ'."
+    "explanation": "'Hermana' هي صيغة المؤنث وتعني «أخت». أما صيغة المذكر 'hermano' فتعني «أخ».",
+    "hint": null
   },
   "q_vocab_a1_02_004": {
-    "question": "ما معنى 'abuelo'؟",
-    "correct": "grandfather",
+    "question": "ماذا تعني كلمة 'abuelo'؟",
+    "correct": "جد",
     "wrong": [
-      "uncle",
+      "عم",
       "أب",
-      "cousin"
+      "ابن العم"
     ],
-    "explanation": "'Abuelo' يعني 'grandfather'. 'Abuela' هو 'grandmother'. Together, 'abuelos' يمكن يعني 'grandparents'."
+    "explanation": "'Abuelo' تعني «جد». و'Abuela' تعني «جدة». ويمكن أن تعني 'abuelos' معاً «الأجداد».",
+    "hint": null
   },
   "q_vocab_a1_02_005": {
-    "question": "My uncle lives في Madrid.",
+    "question": "عمّي يعيش في مدريد.",
     "correct": "Mi tío vive en Madrid.",
     "wrong": [
       "Mi primo vive en Madrid.",
       "Mi abuelo vive en Madrid.",
       "Mi sobrino vive en Madrid."
     ],
-    "explanation": "'Tío' يعني 'uncle'. 'Tía' هو الـ مؤنث لـm بمعنى 'aunt'."
+    "explanation": "'Tío' تعني «عم» أو «خال». و'Tía' هي صيغة المؤنث وتعني «عمة» أو «خالة».",
+    "hint": null
   },
   "q_vocab_a1_02_006": {
-    "question": "ما معنى 'esposa' في 'Ella es mi esposa'؟",
-    "correct": "wife",
+    "question": "ماذا تعني كلمة 'esposa' في جملة 'Ella es mi esposa'؟",
+    "correct": "زوجة",
     "wrong": [
-      "girlfriend",
-      "صديق",
+      "صديقة حميمة",
+      "صديقة",
       "أخت"
     ],
-    "explanation": "'Esposa' يعني 'wife'. 'Esposo' يعني 'husband'. These هم لـmal terms لـ a married partner."
+    "explanation": "'Esposa' تعني «زوجة». و'Esposo' تعني «زوج». وفي الحديث اليومي يقول الناس أيضاً 'mujer' (زوجة) و'marido' (زوج).",
+    "hint": null
   },
   "q_vocab_a1_02_007": {
     "question": "تريد أن تعرّف صديقتك على شخص ما. أي كلمة تستخدم؟",
@@ -169,60 +185,65 @@
       "prima",
       "vecina"
     ],
-    "explanation": "'Amiga' تعني «صديقة». أما استخدام 'novia' فيعني «حبيبة» (شريكة عاطفية)، وهذا مختلف.",
+    "explanation": "'Amiga' تعني «صديقة». أما استخدام 'novia' فيعني «حبيبة» أو «خطيبة» (شريكة عاطفية)، وهذا مختلف.",
     "context": "Introducing a صديق at a party",
     "hint": null
   },
   "q_vocab_a1_02_008": {
-    "question": "ما معنى 'primo' في 'Mi primo tiene diez años'؟",
-    "correct": "cousin",
+    "question": "ماذا تعني كلمة 'primo' في جملة 'Mi primo tiene diez años'؟",
+    "correct": "ابن العم",
     "wrong": [
       "أخ",
-      "nephew",
-      "son"
+      "ابن الأخ",
+      "ابن"
     ],
-    "explanation": "'Primo' (مذكر) يعني 'cousin'. 'Prima' هو الـ مؤنث لـm. الـ sentence يعني 'My cousin هو ten years old'."
+    "explanation": "'Primo' (مذكر) تعني «ابن العم» أو «ابن الخال». و'Prima' هي صيغة المؤنث. ومعنى الجملة: «عمر ابن عمي عشر سنوات».",
+    "hint": null
   },
   "q_vocab_a1_02_009": {
     "question": "Tengo dos hermanos y una hermana.",
-    "correct": "I have two brothers and one sister.",
+    "correct": "لدي أخوان وأخت واحدة.",
     "wrong": [
-      "I have two sisters and one brother.",
-      "I have two cousins and one sister.",
-      "I have two friends and one sister."
+      "لدي أختان وأخ واحد.",
+      "لدي ابنا عم وأخت واحدة.",
+      "لدي صديقان وأخت واحدة."
     ],
-    "explanation": "'Hermanos' هو الـ جمع مذكر لـm بمعنى 'brothers'. 'Hermana' يعني 'أخت'."
+    "explanation": "'Hermanos' هي صيغة الجمع المذكر وتعني «إخوة». و'Hermana' تعني «أخت».",
+    "hint": null
   },
   "q_vocab_a1_02_010": {
-    "question": "لك neighbor asks about لك family. كيف do أنت say 'I live مع my parents'?",
+    "question": "يسألك جارك عن عائلتك. كيف تقول «أعيش مع والديّ»؟",
     "correct": "Vivo con mis padres.",
     "wrong": [
       "Vivo con mis amigos.",
       "Vivo con mis hermanos.",
       "Vivo con mis abuelos."
     ],
-    "explanation": "'Padres' يعني 'parents'. هو هو الـ جمع من 'padre' (أب) لكن متى used في جمع هو يشير إلى both parents.",
-    "context": "Chatting with a neighbor about عائلة"
+    "explanation": "'Padres' تعني «الوالدين». وهي جمع 'padre' (أب)، لكنها عند استخدامها بالجمع تشير إلى الأب والأم معاً.",
+    "context": "Chatting with a neighbor about عائلة",
+    "hint": null
   },
   "q_vocab_a1_03_001": {
-    "question": "ما معنى 'hora'؟",
-    "correct": "hour / time",
+    "question": "ماذا تعني كلمة 'hora'؟",
+    "correct": "ساعة / وقت",
     "wrong": [
       "دقيقة",
       "يوم",
-      "week"
+      "أسبوع"
     ],
-    "explanation": "'Hora' يعني 'ساعة' أو 'وقت' (متى asking ماذا وقت هو هو). '¿Qué hora es?' = 'ماذا وقت هو هو?'"
+    "explanation": "'Hora' تعني «ساعة» أو «وقت» (عند السؤال عن الوقت). '¿Qué hora es?' = «كم الساعة الآن؟»",
+    "hint": null
   },
   "q_vocab_a1_03_002": {
-    "question": "ما معنى 'mañana' في 'por la mañana'؟",
-    "correct": "صباح",
+    "question": "ماذا تعني كلمة 'mañana' في عبارة 'por la mañana'؟",
+    "correct": "الصباح",
     "wrong": [
       "بعد الظهر",
-      "مساء",
-      "ليل"
+      "المساء",
+      "الليل"
     ],
-    "explanation": "'Mañana' يعني 'صباح' متى used مع 'por la'. هو يمكن أيضاً يعني 'غداً' في other contexts."
+    "explanation": "'Mañana' تعني «الصباح» عند استخدامها مع 'por la'. ويمكن أن تعني أيضًا «غدًا» في سياقات أخرى.",
+    "hint": null
   },
   "q_vocab_a1_03_003": {
     "question": "Son las tres y ___. (3:30)",
@@ -232,89 +253,98 @@
       "punto",
       "minuto"
     ],
-    "explanation": "'Media' يعني 'half'. 'Son las tres y media' يعني 'هو هو ثلاثة thirty' (literally 'ثلاثة و a half')."
+    "explanation": "'Media' تعني «نصف». 'Son las tres y media' تعني «الساعة الثالثة والنصف» (حرفيًا: «ثلاثة ونصف»).",
+    "hint": null
   },
   "q_vocab_a1_03_004": {
-    "question": "ما معنى 'reloj'؟",
-    "correct": "clock / watch",
+    "question": "ماذا تعني كلمة 'reloj'؟",
+    "correct": "ساعة حائط / ساعة يد",
     "wrong": [
-      "calendar",
-      "alarm",
-      "timer"
+      "تقويم",
+      "منبّه",
+      "مؤقّت"
     ],
-    "explanation": "'Reloj' يمكن يعني both 'clock' (wall clock) و 'watch' (wristwatch) في الإسبانية."
+    "explanation": "'Reloj' في الإسبانية يمكن أن تعني «ساعة الحائط» و«ساعة اليد» معًا.",
+    "hint": null
   },
   "q_vocab_a1_03_005": {
-    "question": "ما معنى 'en punto' في 'Son las cinco en punto'؟",
-    "correct": "on the dot / exactly",
+    "question": "ماذا تعني عبارة 'en punto' في جملة 'Son las cinco en punto'؟",
+    "correct": "تمامًا / بالضبط",
     "wrong": [
-      "almost",
-      "more or less",
-      "approximately"
+      "تقريبًا",
+      "أكثر أو أقل",
+      "حوالي"
     ],
-    "explanation": "'En punto' يعني 'on الـ dot' أو 'sharp'. 'Son las cinco en punto' = 'هو هو exactly خمسة o'clock'."
+    "explanation": "'En punto' تعني «تمامًا» أو «بالضبط». 'Son las cinco en punto' = «الساعة الخامسة تمامًا».",
+    "hint": null
   },
   "q_vocab_a1_03_006": {
-    "question": "هو هو one o'clock.",
+    "question": "الساعة الواحدة.",
     "correct": "Es la una.",
     "wrong": [
       "Son las una.",
       "Es el uno.",
       "Son la una."
     ],
-    "explanation": "لـ 1:00, we use 'Es la una' (مفرد). لـ كل other hours, we use 'Son las...' (جمع)."
+    "explanation": "للساعة 1:00 نستخدم 'Es la una' (المفرد). أما بقية الساعات فنستخدم 'Son las...' (الجمع).",
+    "hint": null
   },
   "q_vocab_a1_03_007": {
-    "question": "ما معنى 'tarde' في 'Buenas tardes'؟",
+    "question": "ماذا تعني كلمة 'tarde' في عبارة 'Buenas tardes'؟",
     "correct": "بعد الظهر",
     "wrong": [
-      "صباح",
-      "ليل",
-      "مساء"
+      "الصباح",
+      "الليل",
+      "الظهيرة"
     ],
-    "explanation": "'Tarde' يعني 'بعد الظهر'. 'Buenas tardes' يُستخدم roughly من noon حتى sunset."
+    "explanation": "'Tarde' تعني «بعد الظهر». تُستخدم 'Buenas tardes' تقريبًا من الظهر حتى غروب الشمس.",
+    "hint": null
   },
   "q_vocab_a1_03_008": {
     "question": "¿Qué hora es? — Son las dos y cuarto.",
-    "correct": "What time is it? — It is 2:15.",
+    "correct": "كم الساعة؟ — الساعة الثانية والربع.",
     "wrong": [
-      "What time is it? — It is 2:45.",
-      "What time is it? — It is 2:30.",
-      "What day is it? — It is Tuesday."
+      "كم الساعة؟ — الساعة الثالثة إلا ربعًا.",
+      "كم الساعة؟ — الساعة الثانية والنصف.",
+      "أي يوم هو اليوم؟ — إنه يوم الثلاثاء."
     ],
-    "explanation": "'Cuarto' يعني 'quarter'. 'Son las dos y cuarto' = 'هو هو two fifteen' (a quarter past two)."
+    "explanation": "'Cuarto' تعني «ربع». 'Son las dos y cuarto' = «الساعة الثانية والربع» (2:15).",
+    "hint": null
   },
   "q_vocab_a1_03_009": {
-    "question": "أنت need إلى ask a stranger on الـ street ماذا وقت هو هو. ماذا do أنت say?",
+    "question": "تريد أن تسأل شخصًا غريبًا في الشارع عن الوقت. ماذا تقول؟",
     "correct": "Perdone, ¿qué hora es?",
     "wrong": [
       "¡Hola! ¿Qué día es?",
       "¿Cuánto cuesta?",
       "¿Dónde está el reloj?"
     ],
-    "explanation": "'Perdone, ¿qué hora es?' هو a polite way إلى ask someone الـ وقت. 'Perdone' هو الـ لـmal لـm من 'عفواً'.",
-    "context": "Asking the time on the شارع"
+    "explanation": "'Perdone, ¿qué hora es?' طريقة مهذّبة لسؤال شخص عن الوقت. و'Perdone' هي صيغة الاحترام لعبارة «المعذرة».",
+    "context": "Asking the time on the شارع",
+    "hint": null
   },
   "q_vocab_a1_03_010": {
-    "question": "لك friend asks متى أنت عادة wake up. كيف do أنت say 'I wake up at seven في الـ morning'?",
+    "question": "يسألك صديقك متى تستيقظ عادةً. كيف تقول «أستيقظ في السابعة صباحًا»؟",
     "correct": "Me despierto a las siete de la mañana.",
     "wrong": [
       "Me despierto a las siete de la noche.",
       "Me despierto a la siete de la mañana.",
       "Me duermo a las siete de la mañana."
     ],
-    "explanation": "'A las siete de la mañana' يعني 'at سبعة في الـ صباح'. Note: we use 'a las' لـ كل hours except one ('a la una').",
-    "context": "Talking about daily routines"
+    "explanation": "'A las siete de la mañana' تعني «في السابعة صباحًا». ملاحظة: نستخدم 'a las' لجميع الساعات ما عدا الواحدة ('a la una').",
+    "context": "Talking about daily routines",
+    "hint": null
   },
   "q_vocab_a1_04_001": {
-    "question": "ما معنى 'lunes'؟",
-    "correct": "Monday",
+    "question": "ماذا تعني كلمة 'lunes'؟",
+    "correct": "الاثنين",
     "wrong": [
-      "Tuesday",
-      "Friday",
-      "Sunday"
+      "الثلاثاء",
+      "الجمعة",
+      "الأحد"
     ],
-    "explanation": "'Lunes' يعني 'الاثنين'. في الإسبانية, days من الـ week هم not capitalized."
+    "explanation": "'Lunes' تعني «الاثنين». في الإسبانية لا تُكتب أسماء أيام الأسبوع بحرف كبير.",
+    "hint": null
   },
   "q_vocab_a1_04_002": {
     "question": "El primer mes del año es ___.",
@@ -324,68 +354,75 @@
       "marzo",
       "diciembre"
     ],
-    "explanation": "'Enero' يعني 'January', الـ first month من الـ year. Like days, months هم not capitalized في الإسبانية."
+    "explanation": "'Enero' تعني «يناير»، أول شهر في السنة. وكما هو الحال مع الأيام، لا تُكتب أسماء الأشهر بحرف كبير في الإسبانية.",
+    "hint": null
   },
   "q_vocab_a1_04_003": {
-    "question": "ما معنى 'verano'؟",
-    "correct": "summer",
+    "question": "ماذا تعني كلمة 'verano'؟",
+    "correct": "الصيف",
     "wrong": [
-      "winter",
-      "spring",
-      "autumn"
+      "الشتاء",
+      "الربيع",
+      "الخريف"
     ],
-    "explanation": "'Verano' يعني 'summer'. الـ أربعة seasons هم: primavera (spring), verano (summer), otoño (autumn), invierno (winter)."
+    "explanation": "'Verano' تعني «الصيف». الفصول الأربعة هي: primavera (الربيع)، verano (الصيف)، otoño (الخريف)، invierno (الشتاء).",
+    "hint": null
   },
   "q_vocab_a1_04_004": {
-    "question": "ما معنى 'semana'؟",
-    "correct": "week",
+    "question": "ماذا تعني كلمة 'semana'؟",
+    "correct": "أسبوع",
     "wrong": [
-      "month",
+      "شهر",
       "يوم",
-      "year"
+      "سنة"
     ],
-    "explanation": "'Semana' يعني 'week'. 'Fin de semana' يعني 'weekend'."
+    "explanation": "'Semana' تعني «أسبوع». و'Fin de semana' تعني «عطلة نهاية الأسبوع».",
+    "hint": null
   },
   "q_vocab_a1_04_005": {
-    "question": "Saturday و Sunday",
+    "question": "السبت والأحد",
     "correct": "sábado y domingo",
     "wrong": [
       "viernes y sábado",
       "lunes y martes",
       "jueves y viernes"
     ],
-    "explanation": "'Sábado' هو السبت و 'domingo' هو الأحد. Together هم لـm الـ 'fin de semana' (weekend)."
+    "explanation": "'Sábado' هو السبت و'domingo' هو الأحد. معًا يشكّلان 'fin de semana' (عطلة نهاية الأسبوع).",
+    "hint": null
   },
   "q_vocab_a1_04_006": {
-    "question": "ما معنى 'primavera' في 'Me gusta la primavera'؟",
-    "correct": "spring",
+    "question": "ماذا تعني كلمة 'primavera' في جملة 'Me gusta la primavera'؟",
+    "correct": "الربيع",
     "wrong": [
-      "summer",
-      "autumn",
-      "winter"
+      "الصيف",
+      "الخريف",
+      "الشتاء"
     ],
-    "explanation": "'Primavera' يعني 'spring'. الـ sentence يعني 'I like spring'."
+    "explanation": "'Primavera' تعني «الربيع». ومعنى الجملة «أحب الربيع».",
+    "hint": null
   },
   "q_vocab_a1_04_007": {
-    "question": "Someone asks أنت ماذا day هو هو. Today هو Wednesday. كيف do أنت answer?",
+    "question": "يسألك أحدهم أي يوم هو اليوم. اليوم هو الأربعاء. كيف تجيب؟",
     "correct": "Hoy es miércoles.",
     "wrong": [
       "Hoy es martes.",
       "Hoy es jueves.",
       "Hoy es viernes."
     ],
-    "explanation": "'Miércoles' يعني 'الأربعاء'. Note الـ accent mark on الـ 'e'. 'Hoy es...' يعني 'اليوم هو...'.",
-    "context": "Someone asking what day it is"
+    "explanation": "'Miércoles' تعني «الأربعاء». انتبه إلى علامة التشكيل على حرف 'e'. و'Hoy es...' تعني «اليوم هو...».",
+    "context": "Someone asking what day it is",
+    "hint": null
   },
   "q_vocab_a1_04_008": {
-    "question": "ما معنى 'invierno' في 'En invierno hace frío'؟",
-    "correct": "winter",
+    "question": "ماذا تعني كلمة 'invierno' في جملة 'En invierno hace frío'؟",
+    "correct": "الشتاء",
     "wrong": [
-      "autumn",
-      "summer",
-      "spring"
+      "الخريف",
+      "الصيف",
+      "الربيع"
     ],
-    "explanation": "'Invierno' يعني 'winter'. الـ sentence يعني 'في winter هو هو بارد'."
+    "explanation": "'Invierno' تعني «الشتاء». ومعنى الجملة «في الشتاء يكون الجو باردًا».",
+    "hint": null
   },
   "q_vocab_a1_04_009": {
     "question": "Hoy es viernes. Mañana es ___.",
@@ -395,38 +432,42 @@
       "domingo",
       "lunes"
     ],
-    "explanation": "'Viernes' هو الجمعة و الـ day بعد الجمعة هو 'sábado' (السبت)."
+    "explanation": "'Viernes' هو الجمعة، واليوم الذي يلي الجمعة هو 'sábado' (السبت).",
+    "hint": null
   },
   "q_vocab_a1_04_010": {
-    "question": "أنت want إلى schedule a meeting. كيف do أنت say 'الـ meeting هو on Thursday'?",
+    "question": "تريد تحديد موعد لاجتماع. كيف تقول «الاجتماع يوم الخميس»؟",
     "correct": "La reunión es el jueves.",
     "wrong": [
       "La reunión es el martes.",
       "La reunión es el miércoles.",
       "La reunión es la jueves."
     ],
-    "explanation": "Days من الـ week use الـ أداة تعريف 'el' (مفرد) أو 'los' (جمع/habitual). 'El jueves' = 'on الخميس'.",
-    "context": "Scheduling a meeting at work"
+    "explanation": "تُستخدم مع أيام الأسبوع أداة التعريف 'el' (للمفرد) أو 'los' (للجمع أو العادة المتكررة). 'El jueves' = «يوم الخميس».",
+    "context": "Scheduling a meeting at work",
+    "hint": null
   },
   "q_vocab_a1_05_001": {
-    "question": "ما معنى 'rojo'؟",
+    "question": "ماذا تعني كلمة 'rojo'؟",
     "correct": "أحمر",
     "wrong": [
       "أزرق",
       "أخضر",
       "أصفر"
     ],
-    "explanation": "'Rojo' يعني 'red'. Like معظم adjectives, هو changes لـm: rojo (masc.), roja (fem.)."
+    "explanation": "'Rojo' تعني 'أحمر'. وكمعظم الصفات، يتغير شكلها: rojo (مذكر)، roja (مؤنث).",
+    "hint": null
   },
   "q_vocab_a1_05_002": {
-    "question": "ما معنى 'blanco'؟",
+    "question": "ماذا تعني كلمة 'blanco'؟",
     "correct": "أبيض",
     "wrong": [
       "أسود",
-      "grey",
+      "رمادي",
       "بني"
     ],
-    "explanation": "'Blanco' يعني 'أبيض'. Its opposite هو 'negro' (أسود)."
+    "explanation": "'Blanco' تعني 'أبيض'. وعكسها 'negro' (أسود).",
+    "hint": null
   },
   "q_vocab_a1_05_003": {
     "question": "El cielo es ___. (السماء ___)",
@@ -436,28 +477,30 @@
       "verde",
       "amarillo"
     ],
-    "explanation": "'Azul' تعني «أزرق». وعلى خلاف معظم صفات الألوان، لا تتغير 'azul' بين المذكر والمؤنث.",
+    "explanation": "'Azul' تعني 'أزرق'. وعلى عكس معظم صفات الألوان، لا تتغير 'azul' بين المذكر والمؤنث.",
     "hint": null
   },
   "q_vocab_a1_05_004": {
-    "question": "ما معنى 'negro'؟",
+    "question": "ماذا تعني كلمة 'negro'؟",
     "correct": "أسود",
     "wrong": [
       "أبيض",
-      "grey",
+      "رمادي",
       "بني"
     ],
-    "explanation": "'Negro' يعني 'أسود'. هو follows منتظم صفة agreement: negro (masc.), negra (fem.)."
+    "explanation": "'Negro' تعني 'أسود'. وهي تتبع قاعدة مطابقة الصفات المعتادة: negro (مذكر)، negra (مؤنث).",
+    "hint": null
   },
   "q_vocab_a1_05_005": {
-    "question": "ما معنى 'amarillo' في 'El sol es amarillo'؟",
+    "question": "ماذا تعني كلمة 'amarillo' في جملة 'El sol es amarillo'؟",
     "correct": "أصفر",
     "wrong": [
       "برتقالي",
       "أحمر",
       "أبيض"
     ],
-    "explanation": "'Amarillo' يعني 'أصفر'. الـ sentence يعني 'الـ sun هو أصفر'."
+    "explanation": "'Amarillo' تعني 'أصفر'. ومعنى الجملة: 'الشمس صفراء'.",
+    "hint": null
   },
   "q_vocab_a1_05_006": {
     "question": "السيارة خضراء.",
@@ -467,51 +510,54 @@
       "El coche es azul.",
       "La coche es verde."
     ],
-    "explanation": "'Verde' تعني 'أخضر'. كلمة 'Coche' (سيارة) مذكّرة في الإسبانية، لذلك نستخدم 'el'. كلمة 'Verde' لا تتغيّر بحسب الجنس.",
+    "explanation": "'Verde' تعني 'أخضر'. كلمة 'coche' (سيارة) مذكرة في الإسبانية، لذلك نستخدم 'el'. و'verde' لا تتغير بحسب الجنس.",
     "hint": null
   },
   "q_vocab_a1_05_007": {
-    "question": "ماذا تعني 'gris' في جملة 'El gato es gris'؟",
+    "question": "ماذا تعني كلمة 'gris' في جملة 'El gato es gris'؟",
     "correct": "رمادي",
     "wrong": [
-      "بنّي",
+      "بني",
       "أبيض",
       "أسود"
     ],
-    "explanation": "'Gris' تعني 'رمادي'. مثل 'azul' و'verde'، لا يتغيّر شكلها بين المذكّر والمؤنّث.",
+    "explanation": "'Gris' تعني 'رمادي'. وكـ 'azul' و'verde'، لا يتغير شكلها بين المذكر والمؤنث.",
     "hint": null
   },
   "q_vocab_a1_05_008": {
     "question": "¿De qué color es la naranja?",
-    "correct": "What color is the orange?",
+    "correct": "ما لون البرتقالة؟",
     "wrong": [
-      "Where is the orange?",
-      "How much is the orange?",
-      "Do you like the orange?"
+      "أين البرتقالة؟",
+      "بكم البرتقالة؟",
+      "هل تحب البرتقالة؟"
     ],
-    "explanation": "'¿De qué color es...?' يعني 'ماذا color هو...?' هذا الـ standard way إلى ask about colors في الإسبانية."
+    "explanation": "'¿De qué color es...?' تعني 'ما لون...؟'. هذه هي الطريقة المعتادة للسؤال عن الألوان في الإسبانية.",
+    "hint": null
   },
   "q_vocab_a1_05_009": {
-    "question": "أنت هم shopping لـ clothes و want إلى ask if a shirt comes في pink. ماذا do أنت say?",
+    "question": "أنت تتسوق لشراء ملابس وتريد أن تسأل هل يوجد القميص باللون الوردي. ماذا تقول؟",
     "correct": "¿Tiene esta camisa en rosa?",
     "wrong": [
       "¿Tiene esta camisa en rojo?",
       "¿Tiene esta camisa en marrón?",
       "¿Tiene esta falda en rosa?"
     ],
-    "explanation": "'Rosa' يعني 'وردي'. '¿Tiene... en rosa?' هو a natural way إلى ask if something comes في وردي.",
-    "context": "Shopping لـ clothes in a store"
+    "explanation": "'Rosa' تعني 'وردي'. و'¿Tiene... en rosa?' طريقة طبيعية للسؤال عن توفر شيء باللون الوردي.",
+    "context": "Shopping لـ clothes in a store",
+    "hint": null
   },
   "q_vocab_a1_05_010": {
-    "question": "A friend asks أنت لك favorite color. كيف do أنت say 'My favorite color هو blue'?",
+    "question": "سألك صديق عن لونك المفضل. كيف تقول 'لوني المفضل هو الأزرق'؟",
     "correct": "Mi color favorito es el azul.",
     "wrong": [
       "Mi color favorito es el rojo.",
       "Mi color favorita es la azul.",
       "Mi color favorito es el verde."
     ],
-    "explanation": "'Color' هو مذكر, so we say 'favorito' (not 'favorita'). 'Azul' يعني 'أزرق'.",
-    "context": "Talking about favorite colors with a صديق"
+    "explanation": "'Color' مذكر، لذلك نقول 'favorito' (وليس 'favorita'). و'Azul' تعني 'أزرق'.",
+    "context": "Talking about favorite colors with a صديق",
+    "hint": null
   },
   "q_vocab_a1_06_001": {
     "question": "ما معنى 'agua'؟",

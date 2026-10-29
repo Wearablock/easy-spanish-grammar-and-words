@@ -18,11 +18,11 @@
       "Los",
       "Las"
     ],
-    "explanation": "'mano' 是常见例外之一: despite 词尾 在 -o, 它 是 女性.\n- la mano (女性, 例外)\n- el libro (男性, 规则 -o 词尾)",
-    "hint": "这 是著名例外 到 -o = 男性 规则"
+    "explanation": "'mano' 是常见的例外之一:虽然以 -o 结尾,但它是阴性名词。\n- la mano(阴性,例外)\n- el libro(阳性,规则的 -o 结尾)",
+    "hint": "这是“-o 结尾 = 阳性”规则中著名的例外"
   },
   "q_gram_a1_01_003": {
-    "question": "'la casa' 中的 'casa' 是什么意思?",
+    "question": "在 'la casa' 中,'casa' 是什么意思?",
     "correct": "房子",
     "wrong": [
       "桌子",
@@ -52,19 +52,20 @@
       "Los",
       "Las"
     ],
-    "explanation": "'problema' 是 男性 despite 词尾 在 -a. 以...结尾的希腊起源词汇 -ma 是男性.\n- el problema, el tema, el sistema, el programa",
-    "hint": "Greek-起源 words 词尾 在 -ma 是男性"
+    "explanation": "'problema' 虽然以 -a 结尾,但是阳性名词。以 -ma 结尾的希腊语来源的词是阳性。\n- el problema, el tema, el sistema, el programa",
+    "hint": "以 -ma 结尾的希腊语来源的词是阳性"
   },
   "q_gram_a1_01_006": {
-    "question": "___ televisión es nueva. (select 正确 冠词)",
+    "question": "___ televisión es nueva. (请选择正确的冠词)",
     "correct": "La",
     "wrong": [
       "El",
       "Los",
       "Las"
     ],
-    "explanation": "'televisión' 结尾 -sión, making 它 女性.\n所有以...结尾的名词 -ción 和 -sión 是女性 在 西班牙语.",
-    "conjugation_info": "女性 词尾: -ción (nación), -sión (televisión), -dad (ciudad)"
+    "explanation": "'televisión' 以 -sión 结尾,所以是阴性。\n西班牙语中所有以 -ción 和 -sión 结尾的名词都是阴性。",
+    "conjugation_info": "女性 词尾: -ción (nación), -sión (televisión), -dad (ciudad)",
+    "hint": null
   },
   "q_gram_a1_01_007": {
     "question": "___ día es bonito.",
@@ -74,8 +75,8 @@
       "Los",
       "Las"
     ],
-    "explanation": "'día' 是最常见例外之一 在 西班牙语: 它 是 男性 despite 词尾 在 -a.\n- el día (男性, 例外)\n- Other 例外: el mapa, el sofá",
-    "hint": "Not 所有 words 词尾 在 -a 是女性"
+    "explanation": "'día' 是西班牙语中最常见的例外之一:虽然以 -a 结尾,但它是阳性。\n- el día(阳性,例外)\n- 其他例外:el mapa, el sofá",
+    "hint": "并不是所有以 -a 结尾的词都是阴性"
   },
   "q_gram_a1_01_008": {
     "question": "这张地图很大。",
@@ -85,7 +86,7 @@
       "Los mapas son grandes.",
       "El mapa es pequeño."
     ],
-    "explanation": "'mapa' 虽然以 -a 结尾,但却是阳性名词(这是“-a 结尾即阴性”规则的又一个例外)。\n“大”= 'grande',它不随性别变化。",
+    "explanation": "'mapa' 虽然以 -a 结尾,但是阳性(这是“-a = 阴性”规则的另一个例外)。\n“大”= 'grande',它不随性别变化。",
     "hint": null
   },
   "q_gram_a1_01_009": {
@@ -96,31 +97,32 @@
       "La",
       "El"
     ],
-    "explanation": "'foto' 是 'fotografía' 的缩写,而 'fotografía' 是阴性名词。\n- la foto → las fotos\n缩略词沿用完整词的性别。",
+    "explanation": "'foto' 是 'fotografía' 的简称,而 'fotografía' 是阴性。\n- la foto → las fotos\n缩略词沿用完整词的性别。",
     "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)",
     "hint": null
   },
   "q_gram_a1_01_010": {
-    "question": "这只手是冰凉的。",
+    "question": "这只手很冷。",
     "correct": "La mano está fría.",
     "wrong": [
       "El mano está frío.",
-      "La mano es fría.",
+      "La mano está frío.",
       "Las manos están frías."
     ],
-    "explanation": "'mano' 虽然以 -o 结尾,但它是阴性名词(重要的例外)。\n这里用 'está',因为感觉冷是一种暂时的状态。\n- la mano fría(阴性形容词的性数配合)",
+    "explanation": "'mano' 虽然以 -o 结尾,但是阴性(一个重要的例外)。\n这里用 'está',因为觉得冷是一种暂时的状态。\n- la mano fría(阴性形容词的性数配合)",
     "hint": null
   },
   "q_gram_a1_02_001": {
-    "question": "Voy ___ parque. (fill 在: a + el)",
+    "question": "Voy ___ parque. (填空:a + el)",
     "correct": "al",
     "wrong": [
       "a el",
       "a la",
       "del"
     ],
-    "explanation": "什么时候 前置词 'a' 是 后跟 冠词 'el', 它们缩约为 'al'.\n- a + el = al (Voy al parque.)\n这 是 one 的 仅 two contractions 在 西班牙语.",
-    "conjugation_info": "Contractions: a + el = al, de + el = del"
+    "explanation": "当介词 'a' 后面跟冠词 'el' 时,二者缩合为 'al'。\n- a + el = al(Voy al parque.)\n这是西班牙语中仅有的两个缩合形式之一。",
+    "conjugation_info": "Contractions: a + el = al, de + el = del",
+    "hint": null
   },
   "q_gram_a1_02_002": {
     "question": "___ escuela está cerca.",
@@ -130,8 +132,8 @@
       "Los",
       "Las"
     ],
-    "explanation": "'escuela' 是女性单数名词 词尾 在 -a.\n- la escuela (女性 单数)\n- las escuelas (女性 复数)",
-    "hint": "escuela 结尾 -a, a 典型 女性 词尾"
+    "explanation": "'escuela' 是以 -a 结尾的阴性单数名词。\n- la escuela(阴性单数)\n- las escuelas(阴性复数)",
+    "hint": "escuela 以 -a 结尾,是典型的阴性词尾"
   },
   "q_gram_a1_02_003": {
     "question": "___ niños juegan en el parque.",
@@ -141,30 +143,31 @@
       "El",
       "La"
     ],
-    "explanation": "'niños' 是男性复数名词, 所以定冠词 'los' 是 用过的.\n- el niño (男性 单数) → los niños (男性 复数)",
-    "hint": "niños 是 复数 的 niño"
+    "explanation": "'niños' 是阳性复数名词,所以使用定冠词 'los'。\n- el niño(阳性单数)→ los niños(阳性复数)",
+    "hint": "niños 是 niño 的复数"
   },
   "q_gram_a1_02_004": {
-    "question": "'los libros' 中的 'los' 表示什么?",
+    "question": "在 'los libros' 中,'los' 表示什么?",
     "correct": "阳性复数定冠词",
     "wrong": [
       "阴性复数定冠词",
       "阳性单数定冠词",
       "阳性复数不定冠词"
     ],
-    "explanation": "'los' 是阳性复数定冠词(= 用于阳性复数名词前的“the”)。\n- el(阳性单数)、la(阴性单数)、los(阳性复数)、las(阴性复数)",
+    "explanation": "'los' 是阳性复数定冠词(= 阳性复数名词前的“the”)。\n- el(阳性单数)、la(阴性单数)、los(阳性复数)、las(阴性复数)",
     "hint": null
   },
   "q_gram_a1_02_005": {
-    "question": "Vengo ___ cine. (fill 在: de + el)",
+    "question": "Vengo ___ cine. (填空:de + el)",
     "correct": "del",
     "wrong": [
       "de el",
       "de la",
       "al"
     ],
-    "explanation": "什么时候 'de' 是 后跟 'el', 它们缩约为 'del'.\n- de + el = del (Vengo del cine.)\n此缩约是强制性的 在 西班牙语.",
-    "conjugation_info": "Contractions: a + el = al, de + el = del"
+    "explanation": "当 'de' 后面跟 'el' 时,二者缩合为 'del'。\n- de + el = del(Vengo del cine.)\n这种缩合在西班牙语中是强制性的。",
+    "conjugation_info": "Contractions: a + el = al, de + el = del",
+    "hint": null
   },
   "q_gram_a1_02_006": {
     "question": "___ flores son bonitas.",
@@ -174,51 +177,53 @@
       "La",
       "El"
     ],
-    "explanation": "'flores' 是女性复数名词.\n- la flor (女性 单数) → las flores (女性 复数)\n定冠词必须匹配 在 性别 和 数.",
-    "hint": "flor 是 女性; flores 是 its 复数 形式"
+    "explanation": "'flores' 是阴性复数名词。\n- la flor(阴性单数)→ las flores(阴性复数)\n定冠词必须在性和数上与名词保持一致。",
+    "hint": "flor 是阴性;flores 是它的复数形式"
   },
   "q_gram_a1_02_007": {
-    "question": "我星期一上班。",
+    "question": "我每周一都工作。",
     "correct": "Trabajo los lunes.",
     "wrong": [
       "Trabajo el lunes.",
       "Trabajo en lunes.",
       "Trabajo lunes."
     ],
-    "explanation": "表示在星期几经常性地做某事时,用 'los' + 星期名称。\n- los lunes = 每逢星期一(经常性)\n- el lunes = 在星期一(特指,即这个星期一)",
+    "explanation": "表示在星期几经常性地做某事时,用 'los' + 星期名称。\n- los lunes = 每周一(经常性)\n- el lunes = 在周一(特定的某个周一,如这个周一)",
     "hint": null
   },
   "q_gram_a1_02_008": {
-    "question": "Trabajo ___ lunes. (我星期一上班。)",
+    "question": "Trabajo ___ lunes. (我每周一都工作。)",
     "correct": "los",
     "wrong": [
       "el",
       "la",
       "las"
     ],
-    "explanation": "西班牙语中星期名称要加定冠词。\n- 'los lunes' = 每逢星期一(反复发生)\n- 'el lunes' = 在星期一(某一个特定的星期一)",
-    "hint": "反复出现的日子要用复数冠词"
+    "explanation": "西班牙语中星期名称要加定冠词。\n- 'los lunes' = 每周一(反复发生)\n- 'el lunes' = 在周一(某一个特定的周一)",
+    "hint": "表示反复出现的日子时,用复数冠词"
   },
   "q_gram_a1_02_009": {
-    "question": "Cats are independent.",
+    "question": "猫是很独立的。",
     "correct": "Los gatos son independientes.",
     "wrong": [
       "Gatos son independientes.",
       "Unos gatos son independientes.",
       "Las gatas son independientes."
     ],
-    "explanation": "在 西班牙语, general statements 需要 definite 冠词.\n- Los gatos son independientes. (Cats 在 general)\n英语 omits '' 在 general statements, 但是 西班牙语 需要 它."
+    "explanation": "西班牙语中,泛指的陈述需要使用定冠词。\n- Los gatos son independientes.(泛指猫这一类动物)\n英语在泛指时省略 'the',但西班牙语必须使用。",
+    "hint": null
   },
   "q_gram_a1_02_010": {
-    "question": "Vamos ___ escuela. (fill 在: a + la)",
+    "question": "Vamos ___ escuela. (填空:a + la)",
     "correct": "a la",
     "wrong": [
       "al",
       "a las",
       "a el"
     ],
-    "explanation": " contraction 仅 happens 与 'a + el = al'. 与 'la', no contraction occurs.\n- Voy al parque (a + el)\n- Voy a la escuela (a + la, no contraction)",
-    "conjugation_info": "仅 a + el = al 和 de + el = del 形式 contractions. Other combinations stay separate."
+    "explanation": "只有 'a + el = al' 才会发生缩合。与 'la' 连用时不缩合。\n- Voy al parque(a + el)\n- Voy a la escuela(a + la,不缩合)",
+    "conjugation_info": "仅 a + el = al 和 de + el = del 形式 contractions. Other combinations stay separate.",
+    "hint": null
   },
   "q_gram_a1_03_001": {
     "question": "Tengo ___ amigo en España.",
@@ -228,8 +233,8 @@
       "unos",
       "el"
     ],
-    "explanation": "'amigo' 是男性单数名词, so indefinite 冠词 'un' 是 用过的.\n- un amigo = a friend (男性)\n- una amiga = a friend (女性)",
-    "hint": "amigo 结尾 -o, 表示 男性 性别"
+    "explanation": "'amigo' 是阳性单数名词,所以使用不定冠词 'un'。\n- un amigo = 一个朋友(男性)\n- una amiga = 一个朋友(女性)",
+    "hint": "amigo 以 -o 结尾,表示阳性"
   },
   "q_gram_a1_03_002": {
     "question": "Hay ___ libros en la mesa.",
@@ -239,11 +244,11 @@
       "unas",
       "los"
     ],
-    "explanation": "'libros' 是阳性复数名词;'unos' 用于阳性复数,意思是“一些”。\n- un libro → unos libros\n- una carta → unas cartas",
-    "hint": "阳性复数使用哪个不定冠词?"
+    "explanation": "'libros' 是阳性复数名词;'unos' 用于阳性复数,表示“一些”。\n- un libro → unos libros\n- una carta → unas cartas",
+    "hint": "阳性复数用哪个不定冠词?"
   },
   "q_gram_a1_03_003": {
-    "question": "'unas flores' 中的 'unas' 是什么意思?",
+    "question": "在 'unas flores' 中,'unas' 是什么意思?",
     "correct": "一些(阴性复数)",
     "wrong": [
       "这些/那些(阴性复数,定冠词)",
@@ -254,15 +259,16 @@
     "hint": null
   },
   "q_gram_a1_03_004": {
-    "question": "Soy ___. (I am a teacher.) (conjugate appropriate response)",
+    "question": "Soy ___. (Yo soy maestro.) (选择合适的答案)",
     "correct": "profesor",
     "wrong": [
       "un profesor",
       "el profesor",
       "una profesora"
     ],
-    "explanation": "在 西班牙语, indefinite 冠词 被省略 与 professions 之后 ser.\n- Soy profesor. (正确)\n- Soy un profesor. (incorrect 在 标准 西班牙语)\n此规则适用 到 nationalities too: Soy español.",
-    "conjugation_info": "Ser + 职业: no 冠词 needed. Soy profesor, Soy estudiante, Soy médico."
+    "explanation": "在西班牙语中,ser 后面表示职业时通常省略不定冠词。\n- Soy profesor.(正确)\n- Soy un profesor.(在标准西班牙语中,若没有形容词或补充成分则不正确)\n这一规则同样适用于国籍:Soy español.",
+    "conjugation_info": "Ser + 职业: no 冠词 needed. Soy profesor, Soy estudiante, Soy médico.",
+    "hint": null
   },
   "q_gram_a1_03_005": {
     "question": "Barcelona es ___ ciudad bonita.",
@@ -272,19 +278,20 @@
       "la",
       "unas"
     ],
-    "explanation": "'ciudad' 是 女性, 和 we 使用不定冠词 什么时候 describing something 为 第一 时间.\n- una ciudad bonita = a beautiful city\n注意: 'ciudad' 结尾 -dad, a 女性 词尾.",
-    "hint": "ciudad 是 a 女性 名词"
+    "explanation": "'ciudad' 是阴性名词,首次描述某事物时使用不定冠词。\n- una ciudad bonita = 一座美丽的城市\n注意:'ciudad' 以 -dad 结尾,这是阴性名词的词尾。",
+    "hint": "ciudad 是阴性名词"
   },
   "q_gram_a1_03_006": {
-    "question": "No hay ___. (有 no problem.)",
+    "question": "no hay ___. (那里没有问题。)",
     "correct": "problema",
     "wrong": [
       "un problema",
       "el problema",
       "problemas"
     ],
-    "explanation": "之后 negative 'no hay', indefinite 冠词 被省略.\n- No hay problema. (正确)\n- No hay azúcar. (那里 是 no sugar.)\n 冠词 是 dropped 在 negative existential statements.",
-    "conjugation_info": "省略 indefinite 冠词 after: sin (没有), no hay (那里 isn't), 和 与 professions after ser."
+    "explanation": "在否定结构 'no hay' 之后,不定冠词要省略。\n- no hay problema.(正确)\n- no hay azúcar.(没有糖。)\n在否定的存在句中,冠词要省略。",
+    "conjugation_info": "省略 indefinite 冠词 after: sin (没有), no hay (那里 isn't), 和 与 professions after ser.",
+    "hint": null
   },
   "q_gram_a1_03_007": {
     "question": "Café ___ azúcar, por favor. (不加糖的咖啡)",
@@ -294,29 +301,31 @@
       "con",
       "de"
     ],
-    "explanation": "在 'sin'(没有)之后,不使用不定冠词。\n- Café sin azúcar.(不加糖的咖啡。)\n- Café con leche.(加牛奶的咖啡。)",
+    "explanation": "在 'sin'(没有)之后,不定冠词要省略。\n- Café sin azúcar.(不加糖的咖啡。)\n- Café con leche.(加牛奶的咖啡。)",
     "hint": "哪个介词表示“没有”?"
   },
   "q_gram_a1_03_008": {
-    "question": "I buy some flowers.",
+    "question": "我买一些花。",
     "correct": "Compro unas flores.",
     "wrong": [
       "Compro las flores.",
       "Compro un flores.",
       "Compro una flores."
     ],
-    "explanation": "'some flowers' = 'unas flores' (女性 复数 indefinite 冠词).\n- unas + 女性 复数 名词 = some (unspecified)\n- las + 女性 复数 名词 = (specific)"
+    "explanation": "“一些花” = 'unas flores'(阴性复数不定冠词)。\n- unas + 阴性复数名词 = 一些(不特指)\n- las + 阴性复数名词 = 这些/那些(特指)",
+    "hint": null
   },
   "q_gram_a1_03_009": {
-    "question": "___ gato está en la calle. (A cat 是 在 street — any cat.)",
+    "question": "___ gato está en la calle. (街上有一只猫——随便哪只猫。)",
     "correct": "Un",
     "wrong": [
       "El",
       "Unos",
       "La"
     ],
-    "explanation": "We 使用不定冠词 'un' 为 第一 mention 或 non-specific reference.\n- Un gato (any cat, 第一 mention) vs El gato (a specific cat)\n这 distinction 是 crucial 为 natural 西班牙语.",
-    "conjugation_info": "Indefinite (第一 mention/non-specific): un/una/unos/unas. Definite (known/specific): el/la/los/las."
+    "explanation": "首次提到或泛指某物时,使用不定冠词 'un'。\n- Un gato(任意一只猫,首次提及)与 El gato(特定的那只猫)\n这一区别对说出自然的西班牙语至关重要。",
+    "conjugation_info": "Indefinite (第一 mention/non-specific): un/una/unos/unas. Definite (known/specific): el/la/los/las.",
+    "hint": null
   },
   "q_gram_a1_03_010": {
     "question": "桌子上有一些书。",
@@ -326,19 +335,20 @@
       "Hay un libros en la mesa.",
       "Están unos libros en la mesa."
     ],
-    "explanation": "'一些书' = 'unos libros'(阳性复数不定冠词)。\n表示存在用 'hay',指不特定的事物用不定冠词。\n- Hay unos libros.(存在,不特指)",
+    "explanation": "“一些书” = 'unos libros'(阳性复数不定冠词)。\n表示存在用 'hay',不特指的事物用不定冠词。\n- Hay unos libros.(存在,不特指)",
     "hint": null
   },
   "q_gram_a1_04_001": {
-    "question": "___ hablamos español. (fill 在 主语 代词)",
+    "question": "___ hablamos español. (填入主语人称代词)",
     "correct": "Nosotros",
     "wrong": [
       "Yo",
       "Ellos",
       "Tú"
     ],
-    "explanation": "'hablamos' 是 nosotros/nosotras 形式的 hablar.\n- nosotros hablamos = we speak\n -amos 词尾 表示 第一 人称 复数.",
-    "conjugation_info": "Subject 代词: yo, tú, él/ella/usted, nosotros, vosotros, ellos/ustedes"
+    "explanation": "'hablamos' 是 hablar 的 nosotros/nosotras 变位形式。\n- nosotros hablamos = 我们说\n词尾 -amos 表示第一人称复数。",
+    "conjugation_info": "Subject 代词: yo, tú, él/ella/usted, nosotros, vosotros, ellos/ustedes",
+    "hint": null
   },
   "q_gram_a1_04_002": {
     "question": "___ eres mi amigo.",
@@ -348,7 +358,7 @@
       "Él",
       "Usted"
     ],
-    "explanation": "'eres' 是动词 ser 的 tú 变位形式。\n- Tú eres = 你是(非正式)\n人称代词 'tú' 用于朋友、家人和同辈。",
+    "explanation": "'eres' 是动词 ser 的 tú 形式。\n- Tú eres = 你是(非正式)\n人称代词 'tú' 用于朋友、家人和同辈。",
     "hint": "哪个人称代词与 'eres' 搭配?"
   },
   "q_gram_a1_04_003": {
@@ -359,29 +369,31 @@
       "Tú",
       "Yo"
     ],
-    "explanation": "'viven' 是 ellos/ellas/ustedes 形式的 vivir.\n- Ellos viven = 他们 live\n -en 词尾 表示 第三 人称 复数.",
-    "hint": "viven 是 a 3rd 人称 复数 动词 形式"
+    "explanation": "'viven' 是 vivir 的 ellos/ellas/ustedes 变位形式。\n- Ellos viven = 他们住\n词尾 -en 表示第三人称复数。",
+    "hint": "viven 是第三人称复数动词形式"
   },
   "q_gram_a1_04_004": {
-    "question": "什么 是 正式 way 用来说 '你' (单数) 在西班牙语中?",
+    "question": "西班牙语中表示“您”(单数)的正式说法是什么?",
     "correct": "usted",
     "wrong": [
       "tú",
       "vosotros",
       "nosotros"
     ],
-    "explanation": "'usted' 是 正式 单数 '你', 用过的 与 strangers, elders, 和 在 professional settings.\n- tú = 非正式 '你'\n- usted = 正式 '你' (takes 3rd 人称 动词 形式)"
+    "explanation": "'usted' 是正式的单数“您”,用于陌生人、长辈和职场场合。\n- tú = 非正式的“你”\n- usted = 正式的“您”(搭配第三人称动词形式)",
+    "hint": null
   },
   "q_gram_a1_04_005": {
-    "question": "___ es la profesora. (conjugate ser 为 3rd 人)",
+    "question": "___ es la profesora. (她)",
     "correct": "Ella",
     "wrong": [
       "Él",
       "Yo",
       "Nosotros"
     ],
-    "explanation": "'Ella' 意思是 'she' 和 是 用过的 为 a female subject.\n- Ella es la profesora = She 是 teacher.\n- Él es el profesor = He 是 teacher.",
-    "conjugation_info": "3rd 人称 代词: él (he), ella (she), usted (you 正式)"
+    "explanation": "'Ella' 意思是“她”,用于女性主语。'La profesora' 是阴性,所以用 'ella'。\n- Ella es la profesora = 她是老师。\n- Él es el profesor = 他是老师。",
+    "conjugation_info": "3rd 人称 代词: él (he), ella (she), usted (you 正式)",
+    "hint": null
   },
   "q_gram_a1_04_006": {
     "question": "En España, ___ coméis paella.",
@@ -391,49 +403,51 @@
       "nosotros",
       "ellos"
     ],
-    "explanation": "'vosotros' 是 用过的 mainly 在 西班牙 为 非正式 复数 '你 所有'.\n- coméis 是 vosotros 形式的 comer\n在 拉丁美洲, 'ustedes' 是 用过的 instead 的 'vosotros'.",
-    "hint": "这 代词 是 mainly 用过的 在 西班牙"
+    "explanation": "'vosotros' 主要在西班牙使用,表示非正式的复数“你们”。\n- coméis 是 comer 的 vosotros 形式\n在拉丁美洲,用 'ustedes' 代替 'vosotros'。",
+    "hint": "这个代词主要在西班牙使用"
   },
   "q_gram_a1_04_007": {
-    "question": "We live 在 Barcelona.",
+    "question": "我们住在巴塞罗那。",
     "correct": "Vivimos en Barcelona.",
     "wrong": [
       "Viven en Barcelona.",
       "Vivo en Barcelona.",
       "Vivís en Barcelona."
     ],
-    "explanation": "在 西班牙语, subject 代词 经常被省略 因为 动词 词尾 shows 谁 是 speaking.\n- vivimos = we live (nosotros 是 可选)\n- vivo = I live, vives = 你 live"
+    "explanation": "在西班牙语中,主语人称代词常常省略,因为动词词尾已经表明了说话的人。\n- vivimos = 我们住(nosotros 可以省略)\n- vivo = 我住,vives = 你住",
+    "hint": null
   },
   "q_gram_a1_04_008": {
-    "question": "___ habla español muy bien. (He speaks 西班牙语 非常 well.)",
+    "question": "___ habla español muy bien. (他西班牙语说得很好。)",
     "correct": "Él",
     "wrong": [
       "Ella",
       "Yo",
       "Tú"
     ],
-    "explanation": "'Él' 意思是 'he'. 重音 on 'E' distinguishes 它 来自 'el' ( 冠词).\n- Él habla = He speaks\n- El libro = book (冠词, no 重音)",
-    "hint": "注意 重音 mark 那 distinguishes 这 代词 来自 冠词"
+    "explanation": "'Él' 意思是“他”。'E' 上的重音符号用来区别它与冠词 'el'。\n- Él habla = 他说\n- El libro = 这本书(冠词,无重音符号)",
+    "hint": "注意区分这个代词与冠词的重音符号"
   },
   "q_gram_a1_04_009": {
-    "question": "¿___ es usted?",
+    "question": "¿___ es usted? – Soy Ana García.",
     "correct": "Quién",
     "wrong": [
-      "Qué",
-      "Cómo",
-      "Dónde"
+      "Dónde",
+      "Cuándo",
+      "Cuál"
     ],
-    "explanation": "询问身份时 与 'usted', '¿Quién es usted?' 意思是 '谁 是 你?' (正式).\n注意 'usted' 采用与...相同的动词形式 él/ella (3rd 人称 单数).\n- ¿Quién es usted? (正式) vs ¿Quién eres tú? (非正式)"
+    "explanation": "当用 'usted' 询问身份时,'¿Quién es usted?' 的意思是“您是谁?”(正式)。\n注意,'usted' 使用与 él/ella 相同的动词形式(第三人称单数)。\n- ¿Quién es usted?(正式)与 ¿Quién eres tú?(非正式)",
+    "hint": null
   },
   "q_gram_a1_04_010": {
-    "question": "Yo hablo español, ___ habla francés. (请用表示“她”的正确代词填空)",
+    "question": "Yo hablo español, ___ habla francés. (她)",
     "correct": "ella",
     "wrong": [
       "él",
       "tú",
       "usted"
     ],
-    "explanation": "使用人称代词是为了强调,或是为了说明所指的是谁。\n- Yo hablo español, ella habla francés.\n- 如果不用代词,'habla francés' 可能指他/她/您(敬称)说法语。",
+    "explanation": "使用人称代词是为了强调,或者说明所指的是谁。\n- Yo hablo español, ella habla francés.\n- 如果不用代词,'habla francés' 可能指他/她/您(正式)说法语。",
     "conjugation_info": "使用 代词 for emphasis: Yo hablo... ella habla... vs just Hablo... Habla...",
     "hint": null
   },
@@ -445,8 +459,8 @@
       "es",
       "somos"
     ],
-    "explanation": " yo 形式的 'ser' 是 'soy'.\n- Yo soy estudiante = I am a student.\nSer 用于职业 和 身份.",
-    "hint": "什么 是 第一 人称 单数 形式的 ser?"
+    "explanation": "ser 的 yo 形式是 'soy'。\n- Yo soy estudiante = 我是学生。\nser 用于表示职业和身份。",
+    "hint": "ser 的第一人称单数形式是什么?"
   },
   "q_gram_a1_05_002": {
     "question": "Ellos ___ españoles.",
@@ -456,29 +470,31 @@
       "somos",
       "sois"
     ],
-    "explanation": " ellos/ellas/ustedes 形式的 'ser' 是 'son'.\n- Ellos son españoles = 他们 是 西班牙语.\nSer 用于国籍.",
-    "hint": "什么 是 第三 人称 复数 形式的 ser?"
+    "explanation": "ser 的 ellos/ellas/ustedes 形式是 'son'。\n- Ellos son españoles = 他们是西班牙人。\nser 用于表示国籍。",
+    "hint": "ser 的第三人称复数形式是什么?"
   },
   "q_gram_a1_05_003": {
-    "question": "什么 是 main use 的 'ser' 在 'Ella es doctora'?",
-    "correct": "to express profession",
+    "question": "在 'Ella es doctora' 中,'ser' 的主要用法是什么?",
+    "correct": "表示职业",
     "wrong": [
-      "to express location",
-      "to express emotion",
-      "to express a temporary state"
+      "表示位置",
+      "表示情绪",
+      "表示暂时的状态"
     ],
-    "explanation": "Ser 用于职业: Ella es doctora (She 是 a doctor).\nOther uses 的 ser: 身份, 国籍, characteristics, 时间, 和 起源."
+    "explanation": "ser 用于表示职业:Ella es doctora(她是医生)。\nser 的其他用法:身份、国籍、特征、时间和来源。",
+    "hint": null
   },
   "q_gram_a1_05_004": {
-    "question": "Tú ___ muy inteligente. (conjugate ser)",
+    "question": "Tú ___ muy inteligente. (变位 ser)",
     "correct": "eres",
     "wrong": [
       "soy",
       "es",
       "son"
     ],
-    "explanation": " tú 形式的 'ser' 是 'eres'.\n- Tú eres inteligente = 你 是 intelligent.\nSer 是 用过的 为 inherent characteristics.",
-    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son"
+    "explanation": "ser 的 tú 形式是 'eres'。\n- Tú eres inteligente = 你很聪明。\nser 用于表示固有的特征。",
+    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son",
+    "hint": null
   },
   "q_gram_a1_05_005": {
     "question": "___ las tres de la tarde.",
@@ -488,19 +504,20 @@
       "Está",
       "Hay"
     ],
-    "explanation": "'Son las tres' = 现在三点。表示时间时使用 'ser'。\n- Es la una.(1点——单数)\n- Son las dos/tres/cuatro...(2点及以后——复数)",
-    "hint": "表示复数的钟点时,用 ser 的哪个形式?"
+    "explanation": "'Son las tres' = 现在是三点。表示时间时要用 ser。\n- Es la una.(1点——单数)\n- Son las dos/tres/cuatro...(2点及以后——复数)",
+    "hint": "表示复数的钟点时,用 ser 的哪种形式?"
   },
   "q_gram_a1_05_006": {
-    "question": "La mesa ___ de madera. (conjugate ser)",
+    "question": "La mesa ___ de madera. (变位 ser)",
     "correct": "es",
     "wrong": [
       "está",
       "son",
       "soy"
     ],
-    "explanation": "Ser 是 用过的 用来表达 什么 something 是 made 的.\n- La mesa es de madera. = table 是 made 的 wood.\n- 'de' + 材料 与 ser = made 的.",
-    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son"
+    "explanation": "ser 用于表示某物由什么材料制成。\n- La mesa es de madera. = 这张桌子是木头做的。\n- ser + 'de' + 材料 = 由……制成。",
+    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son",
+    "hint": null
   },
   "q_gram_a1_05_007": {
     "question": "Nosotros ___ profesores de español.",
@@ -510,50 +527,54 @@
       "son",
       "es"
     ],
-    "explanation": "'somos' 是 nosotros 形式的 ser.\n- Nosotros somos profesores = We 是 teachers.\nSer + 职业 (no 冠词 needed).",
-    "hint": "什么 是 第一 人称 复数 形式的 ser?"
+    "explanation": "'somos' 是 ser 的 nosotros 形式。\n- Nosotros somos profesores = 我们是老师。\nser + 职业(不需要冠词)。",
+    "hint": "ser 的第一人称复数形式是什么?"
   },
   "q_gram_a1_05_008": {
-    "question": "Today 是 Monday.",
+    "question": "今天是星期一。",
     "correct": "Hoy es lunes.",
     "wrong": [
       "Hoy está lunes.",
       "Hoy son lunes.",
       "Hoy es el lunes."
     ],
-    "explanation": "Ser 用于日期和星期几.\n- Hoy es lunes. = Today 是 星期一.\n注意: No 冠词 是 用过的 什么时候 stating 什么 天 它 是."
+    "explanation": "ser 用于表示日期和星期。\n- Hoy es lunes. = 今天是星期一。\n注意:说今天是星期几时不用冠词。",
+    "hint": null
   },
   "q_gram_a1_05_009": {
-    "question": "¿De dónde ___ ustedes? (conjugate ser)",
+    "question": "¿De dónde ___ ustedes? (变位 ser)",
     "correct": "son",
     "wrong": [
       "es",
       "somos",
       "sois"
     ],
-    "explanation": " ustedes 形式的 'ser' 是 'son' (相同 as ellos/ellas).\n- ¿De dónde son ustedes? = 哪里 是 你 所有 来自?\nSer + de = 起源.",
-    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son"
+    "explanation": "ser 的 ustedes 形式是 'son'(与 ellos/ellas 相同)。\n- ¿De dónde son ustedes? = 你们是哪里人?\nser + de = 来源。",
+    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son",
+    "hint": null
   },
   "q_gram_a1_05_010": {
-    "question": "It is one o'clock.",
+    "question": "现在是一点钟。",
     "correct": "Es la una.",
     "wrong": [
       "Son la una.",
       "Es las una.",
       "Son las una."
     ],
-    "explanation": "对于1点，使用 'Es la una' (单数).\n对于所有其他时间，使用 'Son las + 数'.\n- Es la una. (1:00) vs Son las dos. (2:00)"
+    "explanation": "表示1点时,用 'Es la una'(单数)。\n其他所有钟点,都用 'Son las + 数字'。\n- Es la una.(1点)vs Son las dos.(2点)",
+    "hint": null
   },
   "q_gram_a1_06_001": {
-    "question": "Yo ___ en casa. (conjugate estar)",
+    "question": "Yo ___ en casa. (变位 estar)",
     "correct": "estoy",
     "wrong": [
       "soy",
       "estás",
       "está"
     ],
-    "explanation": " yo 形式的 'estar' 是 'estoy'.\n- Estoy en casa = I am at home.\nEstar 用于位置.",
-    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están"
+    "explanation": "estar 的 yo 形式是 'estoy'。\n- Estoy en casa = 我在家。\nestar 用于表示位置。",
+    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están",
+    "hint": null
   },
   "q_gram_a1_06_002": {
     "question": "El gato ___ en la mesa.",
@@ -563,7 +584,7 @@
       "estoy",
       "están"
     ],
-    "explanation": "表示位置时使用 estar。\n- El gato está en la mesa. = 猫在桌子上。\n- 表示位置总是用 estar(而不是 ser)。",
+    "explanation": "estar 用于表示位置。\n- El gato está en la mesa. = 猫在桌子上。\n- estar 用于表示人和物所在的位置。",
     "hint": "表示位置用哪个动词?"
   },
   "q_gram_a1_06_003": {
@@ -574,30 +595,31 @@
       "estamos",
       "estáis"
     ],
-    "explanation": "表示情绪和暂时的状态时使用 estar。\n- están contentos = 他们很高兴(此刻)\n- 'contentos' 与阳性复数主语保持一致。",
-    "hint": "情绪和感受用哪个动词?"
+    "explanation": "estar 用于表示情绪和暂时的状态。\n- están contentos = 他们很高兴(此刻)\n- 'contentos' 与阳性复数的主语保持一致。",
+    "hint": "表达情绪和感受要用哪个动词?"
   },
   "q_gram_a1_06_004": {
-    "question": "在 '¿Cómo estás?' 中,'estar' 表达的是什么?",
+    "question": "在 '¿Cómo estás?' 中,'estar' 表示什么?",
     "correct": "健康状况或感受",
     "wrong": [
       "身份",
       "职业",
       "国籍"
     ],
-    "explanation": "'¿Cómo estás?' 的意思是“你好吗?”,询问的是某人当前的状态或感受。\nEstar 用于表示健康、心情和情绪状态等暂时的状况。",
+    "explanation": "'¿Cómo estás?' 的意思是“你好吗?”,询问的是对方当下的状态或感受。\nestar 用于表示健康、心情和情绪状态等暂时的情况。",
     "hint": null
   },
   "q_gram_a1_06_005": {
-    "question": "Nosotros ___ cansados. (conjugate estar)",
+    "question": "Nosotros ___ cansados. (变位 estar)",
     "correct": "estamos",
     "wrong": [
       "somos",
       "están",
       "estoy"
     ],
-    "explanation": " nosotros 形式的 'estar' 是 'estamos'.\n- Estamos cansados = We 是 疲倦.\n是 疲倦 是 a 临时 状态, so estar 是 用过的.",
-    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están"
+    "explanation": "estar 的 nosotros 形式是 'estamos'。\n- Estamos cansados = 我们累了。\n累是一种暂时的状态,所以用 estar。",
+    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están",
+    "hint": null
   },
   "q_gram_a1_06_006": {
     "question": "La sopa ___ caliente.",
@@ -607,18 +629,19 @@
       "son",
       "están"
     ],
-    "explanation": "Estar 用于临时条件.\n- La sopa está caliente. = soup 是 热 (right now).\n soup's temperature 是 a 临时 状态, not a 永久 特征.",
-    "hint": "Temperature 是 a 临时 条件"
+    "explanation": "estar 用于表示暂时的状况。\n- La sopa está caliente. = 汤是热的(此刻)。\n汤的温度是暂时的状态,而不是永久的特征。",
+    "hint": "温度是一种暂时的状况"
   },
   "q_gram_a1_06_007": {
-    "question": "I am studying 西班牙语.",
+    "question": "我在学西班牙语。",
     "correct": "Estoy estudiando español.",
     "wrong": [
       "Soy estudiando español.",
       "Estoy estudiar español.",
       "Es estudiando español."
     ],
-    "explanation": " 现在进行时 uses estar + 动名词 (-ando/-iendo).\n- Estoy estudiando = I am studying\n- estudiar → estudiando"
+    "explanation": "现在进行时用 estar + 现在分词(-ando/-iendo)。\n- Estoy estudiando = 我正在学习\n- estudiar → estudiando",
+    "hint": null
   },
   "q_gram_a1_06_008": {
     "question": "La puerta ___ abierta.",
@@ -628,29 +651,31 @@
       "son",
       "están"
     ],
-    "explanation": "Estar 是 用过的 为 conditions 或 states 那 可以 改变.\n- La puerta está abierta. = door 是 打开.\n门可以打开或关闭; 它's a 可变 状态.",
-    "hint": "是 '打开' a 永久 特征 或 a 可变 状态?"
+    "explanation": "estar 用于表示可以改变的状况或状态。\n- La puerta está abierta. = 门开着。\n门可以开也可以关,这是一种可变的状态。",
+    "hint": "“开着”是永久的特征,还是可变的状态?"
   },
   "q_gram_a1_06_009": {
-    "question": "My brother is sick.",
+    "question": "我哥哥生病了。",
     "correct": "Mi hermano está enfermo.",
     "wrong": [
       "Mi hermano es enfermo.",
       "Mi hermano está enfermedad.",
       "Mis hermanos están enfermos."
     ],
-    "explanation": "生病是临时条件, so estar 是 用过的.\n- estar enfermo = 到 是 病 (临时)\n使用 'ser enfermo' 将 incorrectly imply a 永久 状态."
+    "explanation": "生病是暂时的状况,所以用 estar。\n- estar enfermo = 生病(暂时)\n如果用 'ser enfermo',就会错误地暗示这是一种永久的状态。",
+    "hint": null
   },
   "q_gram_a1_06_010": {
-    "question": "¿Dónde ___ tú ahora? (conjugate estar)",
+    "question": "¿Dónde ___ tú ahora? (变位 estar)",
     "correct": "estás",
     "wrong": [
       "eres",
       "está",
       "estamos"
     ],
-    "explanation": " tú 形式的 'estar' 是 'estás'.\n- ¿Dónde estás? = 哪里 是 你?\nEstar 是 总是 用过的 为 asking about 位置.",
-    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están"
+    "explanation": "estar 的 tú 形式是 'estás'。\n- ¿Dónde estás? = 你在哪里?\nestar 用于询问人或物在哪里。",
+    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están",
+    "hint": null
   },
   "q_gram_a1_07_001": {
     "question": "María ___ doctora.",

@@ -1,23 +1,25 @@
 {
   "q_vocab_a1_01_001": {
-    "question": "'hola' の意味は何ですか？",
-    "correct": "やあ／こんにちは",
+    "question": "'hola'はどういう意味ですか?",
+    "correct": "こんにちは",
     "wrong": [
       "さようなら",
       "ありがとう",
       "お願いします"
     ],
-    "explanation": "'Hola' はスペイン語で最も基本的な挨拶です。"
+    "explanation": "'Hola'は最も一般的なスペイン語のあいさつで、一日のどの時間帯でも使えます。",
+    "hint": null
   },
   "q_vocab_a1_01_002": {
-    "question": "'gracias' の意味は何ですか？",
+    "question": "'gracias'はどういう意味ですか?",
     "correct": "ありがとう",
     "wrong": [
       "お願いします",
-      "申し訳ありません",
+      "ごめんなさい",
       "こんにちは"
     ],
-    "explanation": "'Gracias' は 'ありがとう' という意味です。"
+    "explanation": "'Gracias'は「ありがとう」という意味です。「どうもありがとうございます」は'muchas gracias'と言います。",
+    "hint": null
   },
   "q_vocab_a1_01_003": {
     "question": "Buenos ___, ¿cómo estás?",
@@ -27,88 +29,96 @@
       "gracias",
       "hola"
     ],
-    "explanation": "'Buenos días' は 'おはよう' という意味です。"
+    "explanation": "'Buenos días'は「おはよう」という意味で、朝に使う一般的なあいさつです。",
+    "hint": null
   },
   "q_vocab_a1_01_004": {
-    "question": "'por favor' の意味は何ですか？",
+    "question": "'por favor'はどういう意味ですか?",
     "correct": "お願いします",
     "wrong": [
       "ありがとう",
-      "実例ます",
+      "すみません(呼びかけ)",
       "さようなら"
     ],
-    "explanation": "'Por favor' は丁寧な要求で使われます。"
+    "explanation": "'Por favor'は丁寧にお願いするときに使い、日本語の「お願いします」「どうか」にあたります。",
+    "hint": null
   },
   "q_vocab_a1_01_005": {
-    "question": "'Lo siento mucho' の 'lo siento' の意味は？",
-    "correct": "申し訳ありません",
+    "question": "'Lo siento mucho'の中の'lo siento'はどういう意味ですか?",
+    "correct": "ごめんなさい",
     "wrong": [
-      "嬉しいです",
-      "疲れています",
-      "大丈夫です"
+      "うれしいです",
+      "疲れました",
+      "元気です"
     ],
-    "explanation": "'Lo siento' は 'I'm sorry' という意味です。"
+    "explanation": "'Lo siento'は直訳すると「それを感じる」ですが、「ごめんなさい」の意味で使われます。'Mucho'は「とても」という強調を加えます。",
+    "hint": null
   },
   "q_vocab_a1_01_006": {
-    "question": "また明日！",
+    "question": "また明日ね!",
     "correct": "¡Hasta mañana!",
     "wrong": [
       "¡Hasta luego!",
       "¡Buenas noches!",
       "¡Adiós para siempre!"
     ],
-    "explanation": "'Hasta mañana' は 'また明日' という意味です。"
+    "explanation": "'Hasta mañana'は直訳すると「明日まで」で、翌日に会う相手に使います。",
+    "hint": null
   },
   "q_vocab_a1_01_007": {
-    "question": "'¡Gracias! — De nada.' の 'de nada' はどういう意味ですか?",
+    "question": "'¡Gracias! — De nada.'の中の'de nada'はどういう意味ですか?",
     "correct": "どういたしまして",
     "wrong": [
-      "もちろん",
-      "問題ないよ",
-      "さようなら"
+      "すみません(呼びかけ)",
+      "おやすみなさい",
+      "またあとで"
     ],
-    "explanation": "'De nada' は直訳すると「何でもないこと」で、'gracias' に対する標準的な返事です。",
+    "explanation": "'De nada'は直訳すると「何でもないこと」で、'gracias'に対する標準的な返事です。",
     "hint": null
   },
   "q_vocab_a1_01_008": {
     "question": "¿Cómo estás?",
-    "correct": "元気ですか？",
+    "correct": "お元気ですか?",
     "wrong": [
-      "お名前は？",
-      "出身地は？",
-      "年齢は？"
+      "お名前は何ですか?",
+      "どちらのご出身ですか?",
+      "何歳ですか?"
     ],
-    "explanation": "'¿Cómo estás?' は親友への敬語版の質問です。"
+    "explanation": "'¿Cómo estás?'は「お元気ですか?」とたずねるカジュアルな言い方です。丁寧な形は'¿Cómo está usted?'です。",
+    "hint": null
   },
   "q_vocab_a1_01_009": {
-    "question": "街で誰かとぶつかった。何と言いますか？",
+    "question": "道で誰かに偶然ぶつかってしまいました。何と言いますか?",
     "correct": "¡Perdón!",
     "wrong": [
       "¡Hola!",
       "¡Gracias!",
       "¡Adiós!"
     ],
-    "explanation": "'Perdón' は 'Excuse me' または 'Sorry' という意味です。"
+    "explanation": "'Perdón'は「失礼」「すみません」という意味で、うっかり誰かに迷惑をかけたときに使います。",
+    "hint": null
   },
   "q_vocab_a1_01_010": {
-    "question": "友達の家を夜遅く出る。何と言いますか？",
+    "question": "夜遅くに友達の家を出るところです。何と言いますか?",
     "correct": "¡Buenas noches!",
     "wrong": [
       "¡Buenos días!",
       "¡Buenas tardes!",
       "¡Hola!"
     ],
-    "explanation": "'Buenas noches' は夜の挨拶です。"
+    "explanation": "'Buenas noches'は「おやすみなさい」「こんばんは」の意味で、夜のあいさつにも別れのあいさつにも使われます。",
+    "hint": null
   },
   "q_vocab_a1_02_001": {
-    "question": "〜は何を 'madre' 意味する?",
-    "correct": "mother",
+    "question": "'madre'はどういう意味ですか?",
+    "correct": "母",
     "wrong": [
-      "father",
-      "sister",
-      "grandmother"
+      "父",
+      "姉・妹",
+      "祖母"
     ],
-    "explanation": "'Madre' 〜を意味する 'mother'. この 砕けた 語 は 'mamá'."
+    "explanation": "'Madre'は「母」という意味です。くだけた言い方は'mamá'です。",
+    "hint": null
   },
   "q_vocab_a1_02_002": {
     "question": "Mi ___ se llama Carlos. Es el esposo de mi madre.",
@@ -118,47 +128,52 @@
       "hijo",
       "abuelo"
     ],
-    "explanation": "'Padre' 〜を意味する 'father'. この 文 says 'My father は named Carlos. He は この husband 〜の my mother.'"
+    "explanation": "'Padre'は「父」という意味です。この文は「私の父はカルロスといいます。彼は私の母の夫です。」という意味です。",
+    "hint": null
   },
   "q_vocab_a1_02_003": {
-    "question": "〜は何を 'hermana' 意味する?",
-    "correct": "sister",
+    "question": "'hermana'はどういう意味ですか?",
+    "correct": "姉・妹",
     "wrong": [
-      "brother",
-      "cousin",
-      "aunt"
+      "兄・弟",
+      "いとこ",
+      "おば"
     ],
-    "explanation": "'Hermana' は 女性形 意味 'sister'. 男性形 'hermano' 〜を意味する 'brother'."
+    "explanation": "'Hermana'は「姉・妹」を表す女性形です。男性形の'hermano'は「兄・弟」という意味です。",
+    "hint": null
   },
   "q_vocab_a1_02_004": {
-    "question": "〜は何を 'abuelo' 意味する?",
-    "correct": "grandfather",
+    "question": "'abuelo'はどういう意味ですか?",
+    "correct": "祖父",
     "wrong": [
-      "uncle",
-      "father",
-      "cousin"
+      "おじ",
+      "父",
+      "いとこ"
     ],
-    "explanation": "'Abuelo' 〜を意味する 'grandfather'. 'Abuela' は 'grandmother'. Together, 'abuelos' 〜できる 意味する 'grandparents'."
+    "explanation": "'Abuelo'は「祖父」という意味です。'Abuela'は「祖母」です。'abuelos'と複数形にすると「祖父母」を表せます。",
+    "hint": null
   },
   "q_vocab_a1_02_005": {
-    "question": "My uncle lives 〜で Madrid.",
+    "question": "私のおじはマドリードに住んでいます。",
     "correct": "Mi tío vive en Madrid.",
     "wrong": [
       "Mi primo vive en Madrid.",
       "Mi abuelo vive en Madrid.",
       "Mi sobrino vive en Madrid."
     ],
-    "explanation": "'Tío' 〜を意味する 'uncle'. 'Tía' は 女性形 意味 'aunt'."
+    "explanation": "'Tío'は「おじ」という意味です。'Tía'はその女性形で「おば」を表します。",
+    "hint": null
   },
   "q_vocab_a1_02_006": {
-    "question": "〜は何を 'esposa' 意味する 〜で 'Ella es mi esposa'?",
-    "correct": "wife",
+    "question": "'Ella es mi esposa'の中の'esposa'はどういう意味ですか?",
+    "correct": "妻",
     "wrong": [
-      "girlfriend",
-      "friend",
-      "sister"
+      "ガールフレンド",
+      "友達",
+      "姉・妹"
     ],
-    "explanation": "'Esposa' 〜を意味する 'wife'. 'Esposo' 〜を意味する 'husband'. これらは 丁寧 terms 〜のために married partner."
+    "explanation": "'Esposa'は「妻」という意味です。'Esposo'は「夫」です。日常会話では'mujer'(妻)や'marido'(夫)もよく使われます。",
+    "hint": null
   },
   "q_vocab_a1_02_007": {
     "question": "女性の友達を誰かに紹介したいとき、どの単語を使いますか?",
@@ -168,62 +183,64 @@
       "prima",
       "vecina"
     ],
-    "explanation": "'Amiga' は「女性の友達」を意味します。'novia' を使うと「彼女」(恋人)の意味になり、異なります。",
+    "explanation": "'Amiga'は「女性の友達」という意味です。'novia'を使うと「ガールフレンド」(恋人)の意味になり、違ってしまいます。",
     "context": "Introducing a friend at a party",
     "hint": null
   },
   "q_vocab_a1_02_008": {
-    "question": "〜は何を 'primo' 意味する 〜で 'Mi primo tiene diez años'?",
-    "correct": "cousin",
+    "question": "'Mi primo tiene diez años'の中の'primo'はどういう意味ですか?",
+    "correct": "いとこ",
     "wrong": [
-      "brother",
-      "nephew",
-      "son"
+      "兄・弟",
+      "甥",
+      "息子"
     ],
-    "explanation": "'Primo' (男性) 〜を意味する 'cousin'. 'Prima' は 女性形. この 文 〜を意味する 'My cousin は ten years old'."
+    "explanation": "'Primo'(男性形)は「いとこ」という意味です。'Prima'は女性形です。この文は「私のいとこは10歳です」という意味です。",
+    "hint": null
   },
   "q_vocab_a1_02_009": {
     "question": "Tengo dos hermanos y una hermana.",
-    "correct": "I have two brothers and one sister.",
+    "correct": "私には兄弟が2人と姉妹が1人います。",
     "wrong": [
-      "I have two sisters and one brother.",
-      "I have two cousins and one sister.",
-      "I have two friends and one sister."
+      "私には姉妹が2人と兄弟が1人います。",
+      "私にはいとこが2人と姉妹が1人います。",
+      "私には友達が2人と姉妹が1人います。"
     ],
-    "explanation": "'Hermanos' は この 複数 男性形 意味 'brothers'. 'Hermana' 〜を意味する 'sister'."
+    "explanation": "'Hermanos'は男性複数形で「兄弟」という意味です。'Hermana'は「姉・妹」です。",
+    "hint": null
   },
   "q_vocab_a1_02_010": {
-    "question": "隣人があなたの家族について尋ねています。「私は両親と住んでいます」はどう言いますか?",
+    "question": "隣の人があなたの家族について尋ねました。「私は両親と住んでいます」はどう言いますか?",
     "correct": "Vivo con mis padres.",
     "wrong": [
       "Vivo con mis amigos.",
       "Vivo con mis hermanos.",
       "Vivo con mis abuelos."
     ],
-    "explanation": "'Padres' は「両親」の意味です。'padre'(父)の複数形ですが、複数で使うと父母の両方を指します。",
+    "explanation": "'Padres'は「両親」という意味です。'padre'(父)の複数形ですが、複数で使うと父と母の両方を指します。",
     "context": "Chatting with a neighbor about family",
     "hint": null
   },
   "q_vocab_a1_03_001": {
-    "question": "'hora' はどういう意味ですか?",
-    "correct": "時間 / 時刻",
+    "question": "'hora'の意味は何ですか?",
+    "correct": "時間/時刻",
     "wrong": [
       "分",
       "日",
       "週"
     ],
-    "explanation": "'Hora' は「時間(1時間)」または「時刻」(何時か尋ねるとき)を意味します。'¿Qué hora es?' = 「何時ですか?」",
+    "explanation": "'Hora'は「1時間」または「時刻」(時間を尋ねるとき)を意味します。'¿Qué hora es?' =「今何時ですか?」",
     "hint": null
   },
   "q_vocab_a1_03_002": {
-    "question": "'por la mañana' の 'mañana' はどういう意味ですか?",
+    "question": "'por la mañana'の'mañana'はどんな意味ですか?",
     "correct": "朝",
     "wrong": [
       "午後",
       "夕方",
       "夜"
     ],
-    "explanation": "'por la' と一緒に使うと、'mañana' は「朝」を意味します。他の文脈では「明日」の意味にもなります。",
+    "explanation": "'Mañana'は'por la'と一緒に使うと「朝」という意味になります。ほかの文脈では「明日」という意味にもなります。",
     "hint": null
   },
   "q_vocab_a1_03_003": {
@@ -234,91 +251,98 @@
       "punto",
       "minuto"
     ],
-    "explanation": "'Media' 〜を意味する 'half'. 'Son las tres y media' 〜を意味する 'それ は three thirty' (literally 'three そして half')."
+    "explanation": "'Media'は「半分」という意味です。'Son las tres y media'は「3時30分です」という意味です(直訳は「3時と半分」)。",
+    "hint": null
   },
   "q_vocab_a1_03_004": {
-    "question": "〜は何を 'reloj' 意味する?",
-    "correct": "clock / watch",
+    "question": "'reloj'の意味は何ですか?",
+    "correct": "時計/腕時計",
     "wrong": [
-      "calendar",
-      "alarm",
-      "timer"
+      "カレンダー",
+      "アラーム",
+      "タイマー"
     ],
-    "explanation": "'Reloj' 〜できる 意味する 両方 'clock' (wall clock) そして 'watch' (wristwatch) スペイン語では."
+    "explanation": "スペイン語の'reloj'は「時計」(壁掛け時計)と「腕時計」(手首につける時計)の両方を意味します。",
+    "hint": null
   },
   "q_vocab_a1_03_005": {
-    "question": "〜は何を 'en punto' 意味する 〜で 'Son las cinco en punto'?",
-    "correct": "on the dot / exactly",
+    "question": "'Son las cinco en punto'の'en punto'はどんな意味ですか?",
+    "correct": "ちょうど/きっかり",
     "wrong": [
-      "almost",
-      "more or less",
-      "approximately"
+      "もうすぐ",
+      "だいたい",
+      "およそ"
     ],
-    "explanation": "'En punto' 〜を意味する '〜に この dot' または 'sharp'. 'Son las cinco en punto' = 'それ は exactly five o'clock'."
+    "explanation": "'En punto'は「ちょうど」「きっかり」という意味です。'Son las cinco en punto' =「5時ちょうどです」。",
+    "hint": null
   },
   "q_vocab_a1_03_006": {
-    "question": "それ は one o'clock.",
+    "question": "1時です。",
     "correct": "Es la una.",
     "wrong": [
       "Son las una.",
       "Es el uno.",
       "Son la una."
     ],
-    "explanation": "〜のために 1:00, we 使う 'Es la una' (単数). 〜のために all other hours, we 使う 'Son las...' (複数)."
+    "explanation": "1時のときは'Es la una'(単数)を使います。それ以外の時刻はすべて'Son las...'(複数)を使います。",
+    "hint": null
   },
   "q_vocab_a1_03_007": {
-    "question": "〜は何を 'tarde' 意味する 〜で 'Buenas tardes'?",
-    "correct": "afternoon",
+    "question": "'Buenas tardes'の'tarde'はどんな意味ですか?",
+    "correct": "午後",
     "wrong": [
-      "morning",
-      "night",
-      "evening"
+      "朝",
+      "夜",
+      "正午"
     ],
-    "explanation": "'Tarde' 〜を意味する 'afternoon'. 'Buenas tardes' 使われる roughly 〜から noon 〜まで sunset."
+    "explanation": "'Tarde'は「午後」という意味です。'Buenas tardes'はおおよそ正午から日没までの間に使います。",
+    "hint": null
   },
   "q_vocab_a1_03_008": {
     "question": "¿Qué hora es? — Son las dos y cuarto.",
-    "correct": "What time is it? — It is 2:15.",
+    "correct": "今何時ですか?— 2時15分です。",
     "wrong": [
-      "What time is it? — It is 2:45.",
-      "What time is it? — It is 2:30.",
-      "What day is it? — It is Tuesday."
+      "今何時ですか?— 2時45分です。",
+      "今何時ですか?— 2時30分です。",
+      "今日は何曜日ですか?— 火曜日です。"
     ],
-    "explanation": "'Cuarto' 〜を意味する 'quarter'. 'Son las dos y cuarto' = 'それ は two fifteen' ( quarter past two)."
+    "explanation": "'Cuarto'は「4分の1」という意味です。'Son las dos y cuarto' =「2時15分です」(2時を15分過ぎたところ)。",
+    "hint": null
   },
   "q_vocab_a1_03_009": {
-    "question": "道で見知らぬ人に時間をたずねる必要があります。何と言いますか?",
+    "question": "道で見知らぬ人に今何時か尋ねたいとき、何と言いますか?",
     "correct": "Perdone, ¿qué hora es?",
     "wrong": [
       "¡Hola! ¿Qué día es?",
       "¿Cuánto cuesta?",
       "¿Dónde está el reloj?"
     ],
-    "explanation": "'Perdone, ¿qué hora es?' は時間をたずねる丁寧な言い方です。'Perdone' は「すみません」の丁寧形です。",
+    "explanation": "'Perdone, ¿qué hora es?'は、時間を丁寧に尋ねる言い方です。'Perdone'は「すみません」のフォーマルな形です。",
     "context": "Asking the time on the street",
     "hint": null
   },
   "q_vocab_a1_03_010": {
-    "question": "友達が普段何時に起きるか尋ねています。「私は朝7時に起きます」はどう言いますか?",
+    "question": "友達が普段何時に起きるか尋ねています。「私は朝7時に起きます」はスペイン語でどう言いますか?",
     "correct": "Me despierto a las siete de la mañana.",
     "wrong": [
       "Me despierto a las siete de la noche.",
       "Me despierto a la siete de la mañana.",
       "Me duermo a las siete de la mañana."
     ],
-    "explanation": "'A las siete de la mañana' は「朝の7時に」という意味です。注意:1時('a la una')を除くすべての時刻には 'a las' を使います。",
+    "explanation": "'A las siete de la mañana'は「朝の7時に」という意味です。注意:1時('a la una')以外のすべての時刻には'a las'を使います。",
     "context": "Talking about daily routines",
     "hint": null
   },
   "q_vocab_a1_04_001": {
-    "question": "〜は何を 'lunes' 意味する?",
-    "correct": "Monday",
+    "question": "'lunes'の意味は何ですか?",
+    "correct": "月曜日",
     "wrong": [
-      "Tuesday",
-      "Friday",
-      "Sunday"
+      "火曜日",
+      "金曜日",
+      "日曜日"
     ],
-    "explanation": "'Lunes' 〜を意味する 'Monday'. スペイン語では, days 〜の この week は not capitalized."
+    "explanation": "'Lunes'は「月曜日」という意味です。スペイン語では曜日は大文字で始めません。",
+    "hint": null
   },
   "q_vocab_a1_04_002": {
     "question": "El primer mes del año es ___.",
@@ -328,47 +352,52 @@
       "marzo",
       "diciembre"
     ],
-    "explanation": "'Enero' 〜を意味する 'January', この first month 〜の この year. Like days, months は not capitalized スペイン語では."
+    "explanation": "'Enero'は「1月」で、1年の最初の月です。曜日と同じく、スペイン語では月名も大文字で始めません。",
+    "hint": null
   },
   "q_vocab_a1_04_003": {
-    "question": "〜は何を 'verano' 意味する?",
-    "correct": "summer",
+    "question": "'verano'の意味は何ですか?",
+    "correct": "夏",
     "wrong": [
-      "winter",
-      "spring",
-      "autumn"
+      "冬",
+      "春",
+      "秋"
     ],
-    "explanation": "'Verano' 〜を意味する 'summer'. この four seasons は: primavera (spring), verano (summer), otoño (autumn), invierno (winter)."
+    "explanation": "'Verano'は「夏」という意味です。四季は primavera(春)、verano(夏)、otoño(秋)、invierno(冬)です。",
+    "hint": null
   },
   "q_vocab_a1_04_004": {
-    "question": "〜は何を 'semana' 意味する?",
-    "correct": "week",
+    "question": "'semana'の意味は何ですか?",
+    "correct": "週",
     "wrong": [
-      "month",
-      "day",
-      "year"
+      "月",
+      "日",
+      "年"
     ],
-    "explanation": "'Semana' 〜を意味する 'week'. 'Fin de semana' 〜を意味する 'weekend'."
+    "explanation": "'Semana'は「週」という意味です。'Fin de semana'は「週末」という意味です。",
+    "hint": null
   },
   "q_vocab_a1_04_005": {
-    "question": "Saturday そして Sunday",
+    "question": "土曜日と日曜日",
     "correct": "sábado y domingo",
     "wrong": [
       "viernes y sábado",
       "lunes y martes",
       "jueves y viernes"
     ],
-    "explanation": "'Sábado' は Saturday そして 'domingo' は Sunday. Together 彼ら 形 この 'fin de semana' (weekend)."
+    "explanation": "'Sábado'は土曜日、'domingo'は日曜日です。この2日を合わせて'fin de semana'(週末)といいます。",
+    "hint": null
   },
   "q_vocab_a1_04_006": {
-    "question": "〜は何を 'primavera' 意味する 〜で 'Me gusta la primavera'?",
-    "correct": "spring",
+    "question": "'Me gusta la primavera'の'primavera'はどんな意味ですか?",
+    "correct": "春",
     "wrong": [
-      "summer",
-      "autumn",
-      "winter"
+      "夏",
+      "秋",
+      "冬"
     ],
-    "explanation": "'Primavera' 〜を意味する 'spring'. この 文 〜を意味する 'I like spring'."
+    "explanation": "'Primavera'は「春」という意味です。この文は「私は春が好きです」という意味です。",
+    "hint": null
   },
   "q_vocab_a1_04_007": {
     "question": "誰かに今日は何曜日か聞かれました。今日は水曜日です。どう答えますか?",
@@ -378,19 +407,20 @@
       "Hoy es jueves.",
       "Hoy es viernes."
     ],
-    "explanation": "'Miércoles' は「水曜日」という意味です。'e' のアクセント記号に注意しましょう。'Hoy es...' は「今日は…です」という意味です。",
+    "explanation": "'Miércoles'は「水曜日」という意味です。'e'にアクセント記号が付くことに注意しましょう。'Hoy es...'は「今日は…です」という意味です。",
     "context": "Someone asking what day it is",
     "hint": null
   },
   "q_vocab_a1_04_008": {
-    "question": "〜は何を 'invierno' 意味する 〜で 'En invierno hace frío'?",
-    "correct": "winter",
+    "question": "'En invierno hace frío'の'invierno'はどんな意味ですか?",
+    "correct": "冬",
     "wrong": [
-      "autumn",
-      "summer",
-      "spring"
+      "秋",
+      "夏",
+      "春"
     ],
-    "explanation": "'Invierno' 〜を意味する 'winter'. この 文 〜を意味する '〜で winter それ は cold'."
+    "explanation": "'Invierno'は「冬」という意味です。この文は「冬は寒いです」という意味です。",
+    "hint": null
   },
   "q_vocab_a1_04_009": {
     "question": "Hoy es viernes. Mañana es ___.",
@@ -400,38 +430,42 @@
       "domingo",
       "lunes"
     ],
-    "explanation": "'Viernes' は Friday そして この day 〜の後 Friday は 'sábado' (Saturday)."
+    "explanation": "'Viernes'は金曜日で、金曜日の翌日は'sábado'(土曜日)です。",
+    "hint": null
   },
   "q_vocab_a1_04_010": {
-    "question": "あなた want 〜に schedule meeting. どのように〜する say 'この meeting は 〜に Thursday'?",
+    "question": "会議の予定を伝えたいとき、「会議は木曜日です」はスペイン語でどう言いますか?",
     "correct": "La reunión es el jueves.",
     "wrong": [
       "La reunión es el martes.",
       "La reunión es el miércoles.",
       "La reunión es la jueves."
     ],
-    "explanation": "Days 〜の この week 使う 冠詞 'el' (単数) または 'los' (複数/habitual). 'El jueves' = '〜に Thursday'.",
-    "context": "Scheduling a meeting at work"
+    "explanation": "曜日には、単数なら冠詞'el'、複数(習慣的な場合)なら'los'を使います。'El jueves' =「木曜日に」。",
+    "context": "Scheduling a meeting at work",
+    "hint": null
   },
   "q_vocab_a1_05_001": {
-    "question": "〜は何を 'rojo' 意味する?",
-    "correct": "red",
+    "question": "'rojo'はどういう意味ですか?",
+    "correct": "赤",
     "wrong": [
-      "blue",
-      "green",
-      "yellow"
+      "青",
+      "緑",
+      "黄色"
     ],
-    "explanation": "'Rojo' 〜を意味する 'red'. Like most 形容詞, それ 変わる 形: rojo (masc.), roja (fem.)."
+    "explanation": "'Rojo'は「赤」という意味です。ほとんどの形容詞と同じく形が変わります:rojo(男性形)、roja(女性形)。",
+    "hint": null
   },
   "q_vocab_a1_05_002": {
-    "question": "〜は何を 'blanco' 意味する?",
-    "correct": "white",
+    "question": "'blanco'はどういう意味ですか?",
+    "correct": "白",
     "wrong": [
-      "black",
-      "grey",
-      "brown"
+      "黒",
+      "灰色",
+      "茶色"
     ],
-    "explanation": "'Blanco' 〜を意味する 'white'. その opposite は 'negro' (black)."
+    "explanation": "'Blanco'は「白」という意味です。反対の色は'negro'(黒)です。",
+    "hint": null
   },
   "q_vocab_a1_05_003": {
     "question": "El cielo es ___. (空は___です)",
@@ -441,28 +475,30 @@
       "verde",
       "amarillo"
     ],
-    "explanation": "'Azul' は「青」という意味です。ほとんどの色の形容詞と違い、'azul' は男性形・女性形で形が変わりません。",
+    "explanation": "'Azul'は「青」という意味です。ほとんどの色の形容詞と違い、'azul'は男性形・女性形で形が変わりません。",
     "hint": null
   },
   "q_vocab_a1_05_004": {
-    "question": "〜は何を 'negro' 意味する?",
-    "correct": "black",
+    "question": "'negro'はどういう意味ですか?",
+    "correct": "黒",
     "wrong": [
-      "white",
-      "grey",
-      "brown"
+      "白",
+      "灰色",
+      "茶色"
     ],
-    "explanation": "'Negro' 〜を意味する 'black'. それ follows 規則 adjective agreement: negro (masc.), negra (fem.)."
+    "explanation": "'Negro'は「黒」という意味です。通常の形容詞の一致に従います:negro(男性形)、negra(女性形)。",
+    "hint": null
   },
   "q_vocab_a1_05_005": {
-    "question": "〜は何を 'amarillo' 意味する 〜で 'El sol es amarillo'?",
-    "correct": "yellow",
+    "question": "'El sol es amarillo'の'amarillo'はどういう意味ですか?",
+    "correct": "黄色",
     "wrong": [
-      "orange",
-      "red",
-      "white"
+      "オレンジ色",
+      "赤",
+      "白"
     ],
-    "explanation": "'Amarillo' 〜を意味する 'yellow'. この 文 〜を意味する 'この sun は yellow'."
+    "explanation": "'Amarillo'は「黄色」という意味です。この文は「太陽は黄色です」という意味です。",
+    "hint": null
   },
   "q_vocab_a1_05_006": {
     "question": "その車は緑色です。",
@@ -472,52 +508,54 @@
       "El coche es azul.",
       "La coche es verde."
     ],
-    "explanation": "'Verde' は「緑」という意味です。'Coche'(車)は男性名詞なので 'el' を使います。'Verde' は性によって形が変わりません。",
+    "explanation": "'Verde'は「緑」という意味です。'Coche'(車)は男性名詞なので'el'を使います。'Verde'は性によって形が変わりません。",
     "hint": null
   },
   "q_vocab_a1_05_007": {
-    "question": "'El gato es gris' の 'gris' はどういう意味ですか?",
+    "question": "'El gato es gris'の'gris'はどういう意味ですか?",
     "correct": "灰色",
     "wrong": [
       "茶色",
       "白",
       "黒"
     ],
-    "explanation": "'Gris' は「灰色」という意味です。'azul' や 'verde' と同じく、男性形・女性形で形が変わりません。",
+    "explanation": "'Gris'は「灰色」という意味です。'azul'や'verde'と同じく、男性形・女性形で形が変わりません。",
     "hint": null
   },
   "q_vocab_a1_05_008": {
     "question": "¿De qué color es la naranja?",
-    "correct": "What color is the orange?",
+    "correct": "そのオレンジは何色ですか?",
     "wrong": [
-      "Where is the orange?",
-      "How much is the orange?",
-      "Do you like the orange?"
+      "そのオレンジはどこにありますか?",
+      "そのオレンジはいくらですか?",
+      "そのオレンジは好きですか?"
     ],
-    "explanation": "'¿De qué color es...?' 〜を意味する 'What color は...?' これは この standard 方法 尋ねるため 〜について colors スペイン語では."
+    "explanation": "'¿De qué color es...?'は「…は何色ですか?」という意味です。スペイン語で色をたずねるときの標準的な言い方です。",
+    "hint": null
   },
   "q_vocab_a1_05_009": {
-    "question": "服を買いに来て、シャツにピンク色がないか聞きたいです。何と言いますか?",
+    "question": "洋服を買いに来ていて、シャツにピンクがあるかたずねたいとします。何と言いますか?",
     "correct": "¿Tiene esta camisa en rosa?",
     "wrong": [
       "¿Tiene esta camisa en rojo?",
       "¿Tiene esta camisa en marrón?",
       "¿Tiene esta falda en rosa?"
     ],
-    "explanation": "'Rosa' は「ピンク」という意味です。'¿Tiene... en rosa?' は、ピンク色があるか尋ねるときの自然な言い方です。",
+    "explanation": "'Rosa'は「ピンク」という意味です。'¿Tiene... en rosa?'は、ピンクがあるかどうかをたずねる自然な言い方です。",
     "context": "Shopping for clothes in a store",
     "hint": null
   },
   "q_vocab_a1_05_010": {
-    "question": " friend asks あなた あなたの favorite color. どのように〜する say 'My favorite color は blue'?",
+    "question": "友だちに好きな色をたずねられました。「私の好きな色は青です」はスペイン語で何と言いますか?",
     "correct": "Mi color favorito es el azul.",
     "wrong": [
       "Mi color favorito es el rojo.",
       "Mi color favorita es la azul.",
       "Mi color favorito es el verde."
     ],
-    "explanation": "'Color' は 男性, だから we say 'favorito' (not 'favorita'). 'Azul' 〜を意味する 'blue'.",
-    "context": "Talking about favorite colors with a friend"
+    "explanation": "'Color'は男性名詞なので、'favorita'ではなく'favorito'と言います。'Azul'は「青」という意味です。",
+    "context": "Talking about favorite colors with a friend",
+    "hint": null
   },
   "q_vocab_a1_06_001": {
     "question": "〜は何を 'agua' 意味する?",

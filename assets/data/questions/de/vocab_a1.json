@@ -7,7 +7,7 @@
       "danke",
       "bitte"
     ],
-    "explanation": "'Hola' ist der häufigste spanische Gruß und wird zu jeder Tageszeit verwendet.",
+    "explanation": "'Hola' ist die häufigste spanische Begrüßung und passt zu jeder Tageszeit.",
     "hint": null
   },
   "q_vocab_a1_01_002": {
@@ -18,7 +18,7 @@
       "Entschuldigung",
       "hallo"
     ],
-    "explanation": "'Gracias' bedeutet 'danke'. Man kann 'muchas gracias' für 'vielen Dank' sagen.",
+    "explanation": "'Gracias' bedeutet 'danke'. Mit 'muchas gracias' sagst du 'vielen Dank'.",
     "hint": null
   },
   "q_vocab_a1_01_003": {
@@ -29,7 +29,7 @@
       "gracias",
       "hola"
     ],
-    "explanation": "'Buenos días' bedeutet 'guten Morgen' und ist ein gängiger Gruß am Vormittag.",
+    "explanation": "'Buenos días' heißt 'guten Morgen' und ist eine gängige Begrüßung am Morgen.",
     "hint": null
   },
   "q_vocab_a1_01_004": {
@@ -40,7 +40,7 @@
       "Entschuldigung",
       "auf Wiedersehen"
     ],
-    "explanation": "'Por favor' wird verwendet, um höfliche Bitten zu äußern, genau wie 'bitte' im Deutschen.",
+    "explanation": "'Por favor' verwendet man für höfliche Bitten, genau wie 'bitte' im Deutschen.",
     "hint": null
   },
   "q_vocab_a1_01_005": {
@@ -51,7 +51,7 @@
       "Ich bin müde",
       "Mir geht es gut"
     ],
-    "explanation": "'Lo siento' bedeutet wörtlich 'ich fühle es', wird aber als 'es tut mir leid' verwendet. 'Mucho' verstärkt den Ausdruck und bedeutet 'sehr'.",
+    "explanation": "'Lo siento' heißt wörtlich 'ich fühle es', wird aber als 'es tut mir leid' verwendet. 'Mucho' verstärkt die Aussage und bedeutet 'sehr'.",
     "hint": null
   },
   "q_vocab_a1_01_006": {
@@ -62,16 +62,16 @@
       "¡Buenas noches!",
       "¡Adiós para siempre!"
     ],
-    "explanation": "'Hasta mañana' bedeutet wörtlich 'bis morgen' und wird verwendet, wenn man jemanden am nächsten Tag wiedersieht.",
+    "explanation": "'Hasta mañana' heißt wörtlich 'bis morgen' und wird verwendet, wenn man jemanden am nächsten Tag wiedersieht.",
     "hint": null
   },
   "q_vocab_a1_01_007": {
     "question": "Was bedeutet 'de nada' in '¡Gracias! — De nada.'?",
     "correct": "gern geschehen",
     "wrong": [
-      "natürlich",
-      "kein Problem",
-      "auf Wiedersehen"
+      "Entschuldigung",
+      "gute Nacht",
+      "bis später"
     ],
     "explanation": "'De nada' heißt wörtlich 'von nichts' und ist die übliche Antwort auf 'gracias'.",
     "hint": null
@@ -88,26 +88,26 @@
     "hint": null
   },
   "q_vocab_a1_01_009": {
-    "question": "Du stößt auf der Straße versehentlich mit jemandem zusammen. Was sagst du?",
+    "question": "Du rempelst auf der Straße versehentlich jemanden an. Was sagst du?",
     "correct": "¡Perdón!",
     "wrong": [
       "¡Hola!",
       "¡Gracias!",
       "¡Adiós!"
     ],
-    "explanation": "'Perdón' bedeutet 'Verzeihung' oder 'Entschuldigung' und wird verwendet, wenn man jemanden versehentlich stört.",
+    "explanation": "'Perdón' bedeutet 'Verzeihung' oder 'Entschuldigung' und wird gesagt, wenn man jemanden versehentlich stört.",
     "context": "Walking on a crowded street",
     "hint": null
   },
   "q_vocab_a1_01_010": {
-    "question": "Du verlässt spätabends das Haus eines Freundes. Was sagst du?",
+    "question": "Du verlässt spät abends das Haus eines Freundes. Was sagst du?",
     "correct": "¡Buenas noches!",
     "wrong": [
       "¡Buenos días!",
       "¡Buenas tardes!",
       "¡Hola!"
     ],
-    "explanation": "'Buenas noches' bedeutet 'gute Nacht' bzw. 'guten Abend' und wird am Abend sowohl zur Begrüßung als auch zum Abschied verwendet.",
+    "explanation": "'Buenas noches' heißt 'gute Nacht' und wird abends sowohl zur Begrüßung als auch zum Abschied verwendet.",
     "context": "Leaving a friend's house at night",
     "hint": null
   },
@@ -119,7 +119,7 @@
       "Schwester",
       "Großmutter"
     ],
-    "explanation": "'Madre' bedeutet 'Mutter'. Das umgangssprachliche Wort ist 'mamá'.",
+    "explanation": "'Madre' bedeutet 'Mutter'. Die umgangssprachliche Form ist 'mamá'.",
     "hint": null
   },
   "q_vocab_a1_02_002": {
@@ -130,7 +130,7 @@
       "hijo",
       "abuelo"
     ],
-    "explanation": "'Padre' bedeutet 'Vater'. Der Satz lautet: 'Mein Vater heißt Carlos. Er ist der Ehemann meiner Mutter.'",
+    "explanation": "'Padre' bedeutet 'Vater'. Der Satz heißt: 'Mein Vater heißt Carlos. Er ist der Ehemann meiner Mutter.'",
     "hint": null
   },
   "q_vocab_a1_02_003": {
@@ -152,7 +152,7 @@
       "Vater",
       "Cousin"
     ],
-    "explanation": "'Abuelo' bedeutet 'Großvater'. 'Abuela' ist 'Großmutter'. Zusammen kann 'abuelos' 'Großeltern' bedeuten.",
+    "explanation": "'Abuelo' bedeutet 'Großvater'. 'Abuela' ist die 'Großmutter'. Zusammen kann 'abuelos' 'Großeltern' bedeuten.",
     "hint": null
   },
   "q_vocab_a1_02_005": {
@@ -174,19 +174,20 @@
       "Freundin",
       "Schwester"
     ],
-    "explanation": "'Esposa' bedeutet 'Ehefrau'. 'Esposo' bedeutet 'Ehemann'. Das sind förmliche Bezeichnungen für einen verheirateten Partner.",
+    "explanation": "'Esposa' bedeutet 'Ehefrau'. 'Esposo' bedeutet 'Ehemann'. Im Alltag sagt man auch 'mujer' (Frau) und 'marido' (Mann).",
     "hint": null
   },
   "q_vocab_a1_02_007": {
-    "question": "Du want zu introduce dein female friend zu someone. Welche Wort do du use?",
+    "question": "Du möchtest jemandem deine Freundin (Freundschaft) vorstellen. Welches Wort verwendest du?",
     "correct": "amiga",
     "wrong": [
       "novia",
       "prima",
       "vecina"
     ],
-    "explanation": "'Amiga' bedeutet 'female friend'. Using 'novia' würde bedeuten 'girlfriend' (romantic partner), welche ist different.",
-    "context": "Introducing a friend at a party"
+    "explanation": "'Amiga' bedeutet 'Freundin' im Sinne von Freundschaft. 'Novia' hieße 'feste Freundin' (Partnerin) und hat eine andere Bedeutung.",
+    "context": "Introducing a friend at a party",
+    "hint": null
   },
   "q_vocab_a1_02_008": {
     "question": "Was bedeutet 'primo' in 'Mi primo tiene diez años'?",
@@ -196,7 +197,7 @@
       "Neffe",
       "Sohn"
     ],
-    "explanation": "'Primo' (männlich) bedeutet 'Cousin'. 'Prima' ist die weibliche Form. Der Satz bedeutet 'Mein Cousin ist zehn Jahre alt'.",
+    "explanation": "'Primo' (männlich) bedeutet 'Cousin'. 'Prima' ist die weibliche Form. Der Satz heißt: 'Mein Cousin ist zehn Jahre alt.'",
     "hint": null
   },
   "q_vocab_a1_02_009": {
@@ -235,13 +236,13 @@
   },
   "q_vocab_a1_03_002": {
     "question": "Was bedeutet 'mañana' in 'por la mañana'?",
-    "correct": "Morgen (Tageszeit)",
+    "correct": "Morgen (Tageszeit), Vormittag",
     "wrong": [
       "Nachmittag",
       "Abend",
       "Nacht"
     ],
-    "explanation": "'Mañana' bedeutet 'Morgen' (Tageszeit), wenn es mit 'por la' verwendet wird. In anderen Zusammenhängen kann es auch 'morgen' (der nächste Tag) bedeuten.",
+    "explanation": "'Mañana' bedeutet zusammen mit 'por la' 'Morgen' bzw. 'Vormittag'. In anderen Zusammenhängen kann es auch 'morgen' (der Tag nach heute) bedeuten.",
     "hint": null
   },
   "q_vocab_a1_03_003": {
@@ -252,15 +253,16 @@
       "punto",
       "minuto"
     ],
-    "explanation": "'Media' bedeutet 'half'. 'Son las tres y media' bedeutet 'Es ist three thirty' (literally 'three und a half')."
+    "explanation": "'Media' bedeutet 'halb'. 'Son las tres y media' heißt 'Es ist halb vier' (wörtlich 'drei und eine halbe').",
+    "hint": null
   },
   "q_vocab_a1_03_004": {
     "question": "Was bedeutet 'reloj'?",
-    "correct": "Uhr (Wanduhr) / Armbanduhr",
+    "correct": "Uhr (Wanduhr / Armbanduhr)",
     "wrong": [
       "Kalender",
       "Wecker",
-      "Zeitmesser (Timer)"
+      "Zeitmesser"
     ],
     "explanation": "'Reloj' kann im Spanischen sowohl 'Uhr' (Wanduhr) als auch 'Armbanduhr' bedeuten.",
     "hint": null
@@ -273,18 +275,19 @@
       "mehr oder weniger",
       "ungefähr"
     ],
-    "explanation": "'En punto' bedeutet 'genau' oder 'Punkt'. 'Son las cinco en punto' = 'Es ist genau fünf Uhr'.",
+    "explanation": "'En punto' bedeutet 'genau' oder 'pünktlich'. 'Son las cinco en punto' = 'Es ist genau fünf Uhr'.",
     "hint": null
   },
   "q_vocab_a1_03_006": {
-    "question": "Es ist one o'clock.",
+    "question": "Es ist ein Uhr.",
     "correct": "Es la una.",
     "wrong": [
       "Son las una.",
       "Es el uno.",
       "Son la una."
     ],
-    "explanation": "Für 1:00, we use 'Es la una' (Singular). Für alle other hours, we use 'Son las...' (Plural)."
+    "explanation": "Für 1:00 Uhr verwendet man 'Es la una' (Singular). Für alle anderen Stunden verwendet man 'Son las...' (Plural).",
+    "hint": null
   },
   "q_vocab_a1_03_007": {
     "question": "Was bedeutet 'tarde' in 'Buenas tardes'?",
@@ -292,30 +295,31 @@
     "wrong": [
       "Morgen",
       "Nacht",
-      "Abend"
+      "Mittag"
     ],
-    "explanation": "'Tarde' bedeutet 'Nachmittag'. 'Buenas tardes' wird ungefähr von Mittag bis Sonnenuntergang verwendet.",
+    "explanation": "'Tarde' bedeutet 'Nachmittag'. 'Buenas tardes' sagt man ungefähr von mittags bis zum Sonnenuntergang.",
     "hint": null
   },
   "q_vocab_a1_03_008": {
     "question": "¿Qué hora es? — Son las dos y cuarto.",
-    "correct": "What time is it? — It is 2:15.",
+    "correct": "Wie spät ist es? — Es ist Viertel nach zwei (2:15).",
     "wrong": [
-      "What time is it? — It is 2:45.",
-      "What time is it? — It is 2:30.",
-      "What day is it? — It is Tuesday."
+      "Wie spät ist es? — Es ist Viertel vor drei (2:45).",
+      "Wie spät ist es? — Es ist halb drei (2:30).",
+      "Welcher Tag ist heute? — Es ist Dienstag."
     ],
-    "explanation": "'Cuarto' bedeutet 'quarter'. 'Son las dos y cuarto' = 'Es ist two fifteen' (a quarter Vergangenheit two)."
+    "explanation": "'Cuarto' bedeutet 'Viertel'. 'Son las dos y cuarto' = 'Es ist Viertel nach zwei' (zwei Uhr fünfzehn).",
+    "hint": null
   },
   "q_vocab_a1_03_009": {
-    "question": "Du musst einen Fremden auf der Straße nach der Uhrzeit fragen. Was sagst du?",
+    "question": "Du möchtest einen Fremden auf der Straße nach der Uhrzeit fragen. Was sagst du?",
     "correct": "Perdone, ¿qué hora es?",
     "wrong": [
       "¡Hola! ¿Qué día es?",
       "¿Cuánto cuesta?",
       "¿Dónde está el reloj?"
     ],
-    "explanation": "'Perdone, ¿qué hora es?' ist eine höfliche Art, jemanden nach der Uhrzeit zu fragen. 'Perdone' ist die förmliche Form von 'Entschuldigung'.",
+    "explanation": "'Perdone, ¿qué hora es?' ist eine höfliche Art, jemanden nach der Uhrzeit zu fragen. 'Perdone' ist die Höflichkeitsform von 'Entschuldigung'.",
     "context": "Asking the time on the street",
     "hint": null
   },
@@ -327,7 +331,7 @@
       "Me despierto a la siete de la mañana.",
       "Me duermo a las siete de la mañana."
     ],
-    "explanation": "'A las siete de la mañana' bedeutet 'um sieben Uhr morgens'. Beachte: Wir verwenden 'a las' für alle Uhrzeiten außer eins ('a la una').",
+    "explanation": "'A las siete de la mañana' bedeutet 'um sieben Uhr morgens'. Merke: Man verwendet 'a las' für alle Stunden außer eins ('a la una').",
     "context": "Talking about daily routines",
     "hint": null
   },
@@ -339,7 +343,7 @@
       "Freitag",
       "Sonntag"
     ],
-    "explanation": "'Lunes' bedeutet 'Montag'. Im Spanischen werden die Wochentage kleingeschrieben.",
+    "explanation": "'Lunes' bedeutet 'Montag'. Im Spanischen werden die Wochentage nicht großgeschrieben.",
     "hint": null
   },
   "q_vocab_a1_04_002": {
@@ -350,7 +354,7 @@
       "marzo",
       "diciembre"
     ],
-    "explanation": "'Enero' bedeutet 'Januar', der erste Monat des Jahres. Wie die Wochentage werden auch die Monate im Spanischen kleingeschrieben.",
+    "explanation": "'Enero' bedeutet 'Januar', der erste Monat des Jahres. Wie die Wochentage werden auch die Monate im Spanischen nicht großgeschrieben.",
     "hint": null
   },
   "q_vocab_a1_04_003": {
@@ -432,14 +436,14 @@
     "hint": null
   },
   "q_vocab_a1_04_010": {
-    "question": "Du möchtest einen Termin vereinbaren. Wie sagst du 'Das Meeting ist am Donnerstag'?",
+    "question": "Du möchtest einen Termin vereinbaren. Wie sagst du 'Das Treffen ist am Donnerstag'?",
     "correct": "La reunión es el jueves.",
     "wrong": [
       "La reunión es el martes.",
       "La reunión es el miércoles.",
       "La reunión es la jueves."
     ],
-    "explanation": "Wochentage werden mit dem Artikel 'el' (Singular) oder 'los' (Plural/gewohnheitsmäßig) verwendet. 'El jueves' = 'am Donnerstag'.",
+    "explanation": "Bei Wochentagen verwendet man den Artikel 'el' (Singular) oder 'los' (Plural/regelmäßig). 'El jueves' = 'am Donnerstag'.",
     "context": "Scheduling a meeting at work",
     "hint": null
   },
@@ -473,7 +477,7 @@
       "verde",
       "amarillo"
     ],
-    "explanation": "'Azul' bedeutet 'blau'. Anders als die meisten Farbadjektive verändert sich 'azul' nicht nach maskulin/feminin.",
+    "explanation": "'Azul' bedeutet 'blau'. Anders als die meisten Farbadjektive verändert sich 'azul' nicht nach männlich/weiblich.",
     "hint": null
   },
   "q_vocab_a1_05_004": {
@@ -484,7 +488,7 @@
       "grau",
       "braun"
     ],
-    "explanation": "'Negro' bedeutet 'schwarz'. Es folgt der regelmäßigen Angleichung der Adjektive: negro (m.), negra (f.).",
+    "explanation": "'Negro' bedeutet 'schwarz'. Es richtet sich regelmäßig nach dem Bezugswort: negro (m.), negra (f.).",
     "hint": null
   },
   "q_vocab_a1_05_005": {
@@ -517,7 +521,7 @@
       "weiß",
       "schwarz"
     ],
-    "explanation": "'Gris' bedeutet 'grau'. Wie 'azul' und 'verde' ändert es sich nicht nach männlich/weiblich.",
+    "explanation": "'Gris' bedeutet 'grau'. Wie 'azul' und 'verde' verändert es sich nicht nach männlich/weiblich.",
     "hint": null
   },
   "q_vocab_a1_05_008": {
@@ -528,30 +532,32 @@
       "Wie viel kostet die Orange?",
       "Magst du die Orange?"
     ],
-    "explanation": "'¿De qué color es...?' bedeutet 'Welche Farbe hat...?' So fragt man im Spanischen standardmäßig nach Farben.",
+    "explanation": "'¿De qué color es...?' bedeutet 'Welche Farbe hat...?'. So fragt man im Spanischen üblicherweise nach Farben.",
     "hint": null
   },
   "q_vocab_a1_05_009": {
-    "question": "Du sind shopping für clothes und want zu ask if a shirt comes in pink. War do du say?",
+    "question": "Du kaufst Kleidung ein und möchtest fragen, ob es ein Hemd in Rosa gibt. Was sagst du?",
     "correct": "¿Tiene esta camisa en rosa?",
     "wrong": [
       "¿Tiene esta camisa en rojo?",
       "¿Tiene esta camisa en marrón?",
       "¿Tiene esta falda en rosa?"
     ],
-    "explanation": "'Rosa' bedeutet 'pink'. '¿Tiene... en rosa?' ist a natural way zu ask if something comes in pink.",
-    "context": "Shopping for clothes in a store"
+    "explanation": "'Rosa' bedeutet 'rosa'. '¿Tiene... en rosa?' ist eine natürliche Art zu fragen, ob es etwas in Rosa gibt.",
+    "context": "Shopping for clothes in a store",
+    "hint": null
   },
   "q_vocab_a1_05_010": {
-    "question": "A friend asks du dein favorite color. Wie do du say 'My favorite color ist blue'?",
+    "question": "Ein Freund fragt dich nach deiner Lieblingsfarbe. Wie sagst du 'Meine Lieblingsfarbe ist Blau'?",
     "correct": "Mi color favorito es el azul.",
     "wrong": [
       "Mi color favorito es el rojo.",
       "Mi color favorita es la azul.",
       "Mi color favorito es el verde."
     ],
-    "explanation": "'Color' ist männlich, so we say 'favorito' (not 'favorita'). 'Azul' bedeutet 'blue'.",
-    "context": "Talking about favorite colors with a friend"
+    "explanation": "'Color' ist maskulin, deshalb sagen wir 'favorito' (nicht 'favorita'). 'Azul' bedeutet 'blau'.",
+    "context": "Talking about favorite colors with a friend",
+    "hint": null
   },
   "q_vocab_a1_06_001": {
     "question": "Was bedeutet 'agua'?",

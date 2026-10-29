@@ -7,8 +7,8 @@
       "Los",
       "Las"
     ],
-    "explanation": "'libro' est a masculin singulier nom, donc l'article défini 'el' est utilisé.\n- el libro (masculin singulier)\n- la mesa (féminin singulier)",
-    "hint": "libro se termine par -o, quel typiquement indique masculin genre"
+    "explanation": "'libro' est un nom masculin singulier, on utilise donc l'article défini 'el'.\n- el libro (masculin singulier)\n- la mesa (féminin singulier)",
+    "hint": "libro se termine par -o, ce qui indique généralement le genre masculin"
   },
   "q_gram_a1_01_002": {
     "question": "___ mano es pequeña.",
@@ -18,29 +18,31 @@
       "Los",
       "Las"
     ],
-    "explanation": "'mano' est one de Le/La commun exceptions: despite terminaison dans -o, il est féminin.\n- la mano (féminin, exception)\n- el libro (masculin, régulier -o terminaison)",
-    "hint": "Ceci est un famous exception à Le/La -o = masculin règle"
+    "explanation": "'mano' est l'une des exceptions courantes : bien qu'il se termine par -o, il est féminin.\n- la mano (féminin, exception)\n- el libro (masculin, terminaison régulière en -o)",
+    "hint": "C'est une exception célèbre à la règle -o = masculin"
   },
   "q_gram_a1_01_003": {
-    "question": "Que 'casa' signifier dans 'la casa'?",
-    "correct": "house",
+    "question": "Que signifie 'casa' dans 'la casa' ?",
+    "correct": "maison",
     "wrong": [
       "table",
-      "cat",
-      "book"
+      "chat",
+      "livre"
     ],
-    "explanation": "'casa' signifie 'house' et est a nom féminin terminaison dans -a.\n- la casa = Le/La house\n- una casa = a house"
+    "explanation": "'casa' signifie « maison » et c'est un nom féminin se terminant par -a.\n- la casa = la maison\n- una casa = une maison",
+    "hint": null
   },
   "q_gram_a1_01_004": {
-    "question": "___ ciudad es grande. (use Le/La correct article pour Le/La nom féminin)",
+    "question": "___ ciudad es grande. (utilisez l'article correct pour le nom féminin)",
     "correct": "La",
     "wrong": [
       "El",
       "Los",
       "Las"
     ],
-    "explanation": "'ciudad' se termine par -dad, quel est a féminin terminaison.\nNoms terminaison dans -ción, -sión, -dad, et -tad sont typiquement féminin.",
-    "conjugation_info": "Feminine endings: -a, -ción, -sión, -dad, -tad, -tud"
+    "explanation": "'ciudad' se termine par -dad, une terminaison féminine.\nLes noms en -ción, -sión, -dad et -tad sont généralement féminins.",
+    "conjugation_info": "Feminine endings: -a, -ción, -sión, -dad, -tad, -tud",
+    "hint": null
   },
   "q_gram_a1_01_005": {
     "question": "___ problema es difícil.",
@@ -50,19 +52,20 @@
       "Los",
       "Las"
     ],
-    "explanation": "'problema' est masculin despite terminaison dans -a. Mots de Greek origin terminaison dans -ma sont masculin.\n- el problema, el tema, el sistema, el programa",
-    "hint": "Greek-origin mots terminaison dans -ma sont masculin"
+    "explanation": "'problema' est masculin bien qu'il se termine par -a. Les mots d'origine grecque en -ma sont masculins.\n- el problema, el tema, el sistema, el programa",
+    "hint": "Les mots d'origine grecque en -ma sont masculins"
   },
   "q_gram_a1_01_006": {
-    "question": "___ televisión es nueva. (select Le/La correct article)",
+    "question": "___ televisión es nueva. (choisissez l'article correct)",
     "correct": "La",
     "wrong": [
       "El",
       "Los",
       "Las"
     ],
-    "explanation": "'televisión' se termine par -sión, making il féminin.\nTous noms terminaison dans -ción et -sión sont féminin en espagnol.",
-    "conjugation_info": "Feminine endings: -ción (nación), -sión (televisión), -dad (ciudad)"
+    "explanation": "'televisión' se termine par -sión, ce qui le rend féminin.\nTous les noms en -ción et -sión sont féminins en espagnol.",
+    "conjugation_info": "Feminine endings: -ción (nación), -sión (televisión), -dad (ciudad)",
+    "hint": null
   },
   "q_gram_a1_01_007": {
     "question": "___ día es bonito.",
@@ -72,51 +75,54 @@
       "Los",
       "Las"
     ],
-    "explanation": "'día' est one de Le/La la plupart commun exceptions en espagnol: il est masculin despite terminaison dans -a.\n- el día (masculin, exception)\n- Other exceptions: el mapa, el sofá",
-    "hint": "Not tous mots terminaison dans -a sont féminin"
+    "explanation": "'día' est l'une des exceptions les plus courantes en espagnol : il est masculin bien qu'il se termine par -a.\n- el día (masculin, exception)\n- Autres exceptions : el mapa, el sofá",
+    "hint": "Tous les mots en -a ne sont pas féminins"
   },
   "q_gram_a1_01_008": {
-    "question": "Le/La map est grand.",
+    "question": "La carte est grande.",
     "correct": "El mapa es grande.",
     "wrong": [
       "La mapa es grande.",
       "Los mapas son grandes.",
       "El mapa es pequeño."
     ],
-    "explanation": "'mapa' est masculin despite terminaison dans -a (another exception à Le/La -a = féminin règle).\n'grand' = 'grande', quel ne pas change pour genre."
+    "explanation": "'mapa' est masculin bien qu'il se termine par -a (une autre exception à la règle -a = féminin).\n« grand » = 'grande', qui ne change pas selon le genre.",
+    "hint": null
   },
   "q_gram_a1_01_009": {
-    "question": "___ fotos son de mi familia. (select Le/La correct article pour Le/La pluriel nom féminin)",
+    "question": "___ fotos son de mi familia. (choisissez l'article correct pour le nom féminin pluriel)",
     "correct": "Las",
     "wrong": [
       "Los",
       "La",
       "El"
     ],
-    "explanation": "'foto' est short pour 'fotografía', quel est féminin.\n- la foto → las fotos\nAbbreviations keep Le/La genre de Le/La full mot.",
-    "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)"
+    "explanation": "'foto' est l'abréviation de 'fotografía', qui est féminin.\n- la foto → las fotos\nLes abréviations gardent le genre du mot complet.",
+    "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)",
+    "hint": null
   },
   "q_gram_a1_01_010": {
     "question": "La main est froide.",
     "correct": "La mano está fría.",
     "wrong": [
       "El mano está frío.",
-      "La mano es fría.",
+      "La mano está frío.",
       "Las manos están frías."
     ],
-    "explanation": "« mano » est féminin bien qu'il se termine par -o (une exception importante).\nOn utilise « está » parce que avoir froid est un état temporaire.\n- la mano fría (accord de l'adjectif au féminin)",
+    "explanation": "'mano' est féminin bien qu'il se termine par -o (une exception importante).\nOn utilise 'está' car avoir froid est un état temporaire.\n- la mano fría (accord de l'adjectif au féminin)",
     "hint": null
   },
   "q_gram_a1_02_001": {
-    "question": "Voy ___ parque. (fill dans: a + el)",
+    "question": "Voy ___ parque. (complétez : a + el)",
     "correct": "al",
     "wrong": [
       "a el",
       "a la",
       "del"
     ],
-    "explanation": "Quand Le/La preposition 'a' est suivi de l'article 'el', ils contract à 'al'.\n- a + el = al (Voy al parque.)\nC'est one de seulement two contractions en espagnol.",
-    "conjugation_info": "Contractions: a + el = al, de + el = del"
+    "explanation": "Quand la préposition 'a' est suivie de l'article 'el', elles se contractent en 'al'.\n- a + el = al (Voy al parque.)\nC'est l'une des deux seules contractions de l'espagnol.",
+    "conjugation_info": "Contractions: a + el = al, de + el = del",
+    "hint": null
   },
   "q_gram_a1_02_002": {
     "question": "___ escuela está cerca.",
@@ -126,8 +132,8 @@
       "Los",
       "Las"
     ],
-    "explanation": "'escuela' est a féminin singulier nom terminaison dans -a.\n- la escuela (féminin singulier)\n- las escuelas (féminin pluriel)",
-    "hint": "escuela se termine par -a, a typical féminin terminaison"
+    "explanation": "'escuela' est un nom féminin singulier se terminant par -a.\n- la escuela (féminin singulier)\n- las escuelas (féminin pluriel)",
+    "hint": "escuela se termine par -a, une terminaison typiquement féminine"
   },
   "q_gram_a1_02_003": {
     "question": "___ niños juegan en el parque.",
@@ -137,29 +143,31 @@
       "El",
       "La"
     ],
-    "explanation": "'niños' est a masculin pluriel nom, donc l'article défini 'los' est utilisé.\n- el niño (masculin singulier) → los niños (masculin pluriel)",
-    "hint": "niños est Le/La pluriel de niño"
+    "explanation": "'niños' est un nom masculin pluriel, on utilise donc l'article défini 'los'.\n- el niño (masculin singulier) → los niños (masculin pluriel)",
+    "hint": "niños est le pluriel de niño"
   },
   "q_gram_a1_02_004": {
-    "question": "Que 'los' indiquer dans 'los libros'?",
-    "correct": "masculine plural definite article",
+    "question": "Qu'indique 'los' dans 'los libros' ?",
+    "correct": "article défini masculin pluriel",
     "wrong": [
-      "feminine plural definite article",
-      "masculine singular definite article",
-      "masculine plural indefinite article"
+      "article défini féminin pluriel",
+      "article défini masculin singulier",
+      "article indéfini masculin pluriel"
     ],
-    "explanation": "'los' est Le/La masculin pluriel article défini (= 'Le/La' pour masculin pluriel noms).\n- el (m. sg.), la (f. sg.), los (m. pl.), las (f. pl.)"
+    "explanation": "'los' est l'article défini masculin pluriel (= « les » pour les noms masculins pluriels).\n- el (m. sg.), la (f. sg.), los (m. pl.), las (f. pl.)",
+    "hint": null
   },
   "q_gram_a1_02_005": {
-    "question": "Vengo ___ cine. (fill dans: de + el)",
+    "question": "Vengo ___ cine. (complétez : de + el)",
     "correct": "del",
     "wrong": [
       "de el",
       "de la",
       "al"
     ],
-    "explanation": "Quand 'de' est suivi de 'el', ils contract à 'del'.\n- de + el = del (Vengo del cine.)\nCe contraction est mandatory en espagnol.",
-    "conjugation_info": "Contractions: a + el = al, de + el = del"
+    "explanation": "Quand 'de' est suivi de 'el', ils se contractent en 'del'.\n- de + el = del (Vengo del cine.)\nCette contraction est obligatoire en espagnol.",
+    "conjugation_info": "Contractions: a + el = al, de + el = del",
+    "hint": null
   },
   "q_gram_a1_02_006": {
     "question": "___ flores son bonitas.",
@@ -169,50 +177,53 @@
       "La",
       "El"
     ],
-    "explanation": "'flores' est a féminin pluriel nom.\n- la flor (féminin singulier) → las flores (féminin pluriel)\nL'article défini doit match dans genre et nombre.",
-    "hint": "flor est féminin; flores est son forme plurielle"
+    "explanation": "'flores' est un nom féminin pluriel.\n- la flor (féminin singulier) → las flores (féminin pluriel)\nL'article défini doit s'accorder en genre et en nombre.",
+    "hint": "flor est féminin ; flores est son pluriel"
   },
   "q_gram_a1_02_007": {
-    "question": "I work sur Mondays.",
+    "question": "Je travaille le lundi.",
     "correct": "Trabajo los lunes.",
     "wrong": [
       "Trabajo el lunes.",
       "Trabajo en lunes.",
       "Trabajo lunes."
     ],
-    "explanation": "Pour habitual actions sur a jour de Le/La week, use 'los' + jour.\n- los lunes = sur Mondays (habitual)\n- el lunes = sur Monday (specific, Ce Monday)"
+    "explanation": "Pour une action habituelle un jour de la semaine, on utilise 'los' + jour.\n- los lunes = le lundi (habituellement, chaque lundi)\n- el lunes = lundi (un lundi précis, ce lundi)",
+    "hint": null
   },
   "q_gram_a1_02_008": {
-    "question": "Trabajo ___ lunes. (I work sur Mondays.)",
+    "question": "Trabajo ___ lunes. (Je travaille le lundi.)",
     "correct": "los",
     "wrong": [
       "el",
       "la",
       "las"
     ],
-    "explanation": "Days de Le/La week en espagnol use definite articles.\n- 'los lunes' = sur Mondays (recurring)\n- 'el lunes' = sur Monday (one specific Monday)",
-    "hint": "Use Le/La pluriel article pour recurring days"
+    "explanation": "En espagnol, les jours de la semaine s'emploient avec l'article défini.\n- 'los lunes' = le lundi (de façon récurrente)\n- 'el lunes' = lundi (un seul lundi précis)",
+    "hint": "Utilisez l'article pluriel pour les jours récurrents"
   },
   "q_gram_a1_02_009": {
-    "question": "Cats are independent.",
+    "question": "Les chats sont indépendants.",
     "correct": "Los gatos son independientes.",
     "wrong": [
       "Gatos son independientes.",
       "Unos gatos son independientes.",
       "Las gatas son independientes."
     ],
-    "explanation": "En espagnol, general statements require l'article défini.\n- Los gatos son independientes. (Cats dans general)\nAnglais omits 'Le/La' dans general statements, mais Espagnol requires il."
+    "explanation": "En espagnol, les généralités exigent l'article défini.\n- Los gatos son independientes. (Les chats en général)\nLe français emploie aussi l'article dans les généralités, mais l'anglais l'omet ; l'espagnol, lui, l'exige.",
+    "hint": null
   },
   "q_gram_a1_02_010": {
-    "question": "Vamos ___ escuela. (fill dans: a + la)",
+    "question": "Vamos ___ escuela. (complétez : a + la)",
     "correct": "a la",
     "wrong": [
       "al",
       "a las",
       "a el"
     ],
-    "explanation": "Le/La contraction seulement happens avec 'a + el = al'. Avec 'la', no contraction occurs.\n- Voy al parque (a + el)\n- Voy a la escuela (a + la, no contraction)",
-    "conjugation_info": "Only a + el = al and de + el = del form contractions. Other combinations stay separate."
+    "explanation": "La contraction ne se produit qu'avec 'a + el = al'. Avec 'la', il n'y a pas de contraction.\n- Voy al parque (a + el)\n- Voy a la escuela (a + la, pas de contraction)",
+    "conjugation_info": "Only a + el = al and de + el = del form contractions. Other combinations stay separate.",
+    "hint": null
   },
   "q_gram_a1_03_001": {
     "question": "Tengo ___ amigo en España.",
@@ -222,8 +233,8 @@
       "unos",
       "el"
     ],
-    "explanation": "'amigo' est a masculin singulier nom, donc l'article indéfini 'un' est utilisé.\n- un amigo = a ami (masculin)\n- una amiga = a ami (féminin)",
-    "hint": "amigo se termine par -o, indicating masculin genre"
+    "explanation": "'amigo' est un nom masculin singulier, on utilise donc l'article indéfini 'un'.\n- un amigo = un ami (masculin)\n- una amiga = une amie (féminin)",
+    "hint": "amigo se termine par -o, ce qui indique le genre masculin"
   },
   "q_gram_a1_03_002": {
     "question": "Hay ___ libros en la mesa.",
@@ -233,29 +244,31 @@
       "unas",
       "los"
     ],
-    "explanation": "'libros' est a masculin pluriel nom; 'unos' signifie 'quelques' pour masculin plurals.\n- un libro → unos libros\n- una carta → unas cartas",
-    "hint": "Quel article indéfini est utilisé pour masculin plurals?"
+    "explanation": "'libros' est un nom masculin pluriel ; 'unos' signifie « des » pour le masculin pluriel.\n- un libro → unos libros\n- una carta → unas cartas",
+    "hint": "Quel article indéfini utilise-t-on pour le masculin pluriel ?"
   },
   "q_gram_a1_03_003": {
-    "question": "Que 'unas' signifier dans 'unas flores'?",
-    "correct": "some (feminine plural)",
+    "question": "Que signifie 'unas' dans 'unas flores' ?",
+    "correct": "des (féminin pluriel)",
     "wrong": [
-      "the (feminine plural)",
-      "a (feminine singular)",
-      "some (masculine plural)"
+      "les (féminin pluriel)",
+      "une (féminin singulier)",
+      "des (masculin pluriel)"
     ],
-    "explanation": "'unas' est Le/La féminin pluriel article indéfini sens 'quelques'.\n- un (m. sg.), una (f. sg.), unos (m. pl.), unas (f. pl.)"
+    "explanation": "'unas' est l'article indéfini féminin pluriel et signifie « des ».\n- un (m. sg.), una (f. sg.), unos (m. pl.), unas (f. pl.)",
+    "hint": null
   },
   "q_gram_a1_03_004": {
-    "question": "Soy ___. (I am a teacher.) (conjugate Le/La appropriate response)",
+    "question": "Soy ___. (Yo soy maestro.) (choisis la bonne réponse)",
     "correct": "profesor",
     "wrong": [
       "un profesor",
       "el profesor",
       "una profesora"
     ],
-    "explanation": "En espagnol, l'article indéfini est omis avec professions après ser.\n- Soy profesor. (correct)\n- Soy un profesor. (incorrect dans standard Espagnol)\nCe règle applies à nationalities too: Soy español.",
-    "conjugation_info": "Ser + profession: no article needed. Soy profesor, Soy estudiante, Soy médico."
+    "explanation": "En espagnol, on omet l'article indéfini devant les professions après ser.\n- Soy profesor. (correct)\n- Soy un profesor. (incorrect en espagnol standard, sans adjectif ni complément)\nCette règle s'applique aussi aux nationalités : Soy español.",
+    "conjugation_info": "Ser + profession: no article needed. Soy profesor, Soy estudiante, Soy médico.",
+    "hint": null
   },
   "q_gram_a1_03_005": {
     "question": "Barcelona es ___ ciudad bonita.",
@@ -265,51 +278,54 @@
       "la",
       "unas"
     ],
-    "explanation": "'ciudad' est féminin, et we use l'article indéfini quand describing something pour Le/La premier temps.\n- una ciudad bonita = a beautiful city\nNote: 'ciudad' se termine par -dad, a féminin terminaison.",
-    "hint": "ciudad est a nom féminin"
+    "explanation": "'ciudad' est féminin, et on utilise l'article indéfini quand on décrit quelque chose pour la première fois.\n- una ciudad bonita = une belle ville\nRemarque : 'ciudad' se termine par -dad, une terminaison féminine.",
+    "hint": "ciudad est un nom féminin"
   },
   "q_gram_a1_03_006": {
-    "question": "No hay ___. (Il n'y a pas de problem.)",
+    "question": "no hay ___. (Là-bas, c'est sans problème.)",
     "correct": "problema",
     "wrong": [
       "un problema",
       "el problema",
       "problemas"
     ],
-    "explanation": "Après negative 'no hay', l'article indéfini est omis.\n- No hay problema. (correct)\n- No hay azúcar. (Il n'y a pas de sugar.)\nL'article est dropped dans negative existential statements.",
-    "conjugation_info": "Omit indefinite article after: sin (without), no hay (there isn't), and with professions after ser."
+    "explanation": "Après la négation 'no hay', l'article indéfini est omis.\n- no hay problema. (correct)\n- no hay azúcar. (Il n'y a pas de sucre.)\nL'article est supprimé dans les phrases existentielles négatives.",
+    "conjugation_info": "Omit indefinite article after: sin (without), no hay (there isn't), and with professions after ser.",
+    "hint": null
   },
   "q_gram_a1_03_007": {
-    "question": "Café ___ azúcar, por favor. (Coffee sans sugar)",
+    "question": "Café ___ azúcar, por favor. (Café sans sucre)",
     "correct": "sin",
     "wrong": [
       "un",
       "con",
       "de"
     ],
-    "explanation": "Après 'sin' (sans), l'article indéfini est omis.\n- Café sin azúcar. (Coffee sans sugar.)\n- Café con leche. (Coffee avec milk.)",
-    "hint": "Quel preposition signifie 'sans'?"
+    "explanation": "Après 'sin' (sans), l'article indéfini est omis.\n- Café sin azúcar. (Un café sans sucre.)\n- Café con leche. (Un café avec du lait.)",
+    "hint": "Quelle préposition signifie « sans » ?"
   },
   "q_gram_a1_03_008": {
-    "question": "I buy quelques flowers.",
+    "question": "J'achète des fleurs.",
     "correct": "Compro unas flores.",
     "wrong": [
       "Compro las flores.",
       "Compro un flores.",
       "Compro una flores."
     ],
-    "explanation": "'quelques flowers' = 'unas flores' (féminin pluriel article indéfini).\n- unas + féminin pluriel nom = quelques (unspecified)\n- las + féminin pluriel nom = Le/La (specific)"
+    "explanation": "« des fleurs » = 'unas flores' (article indéfini féminin pluriel).\n- unas + nom féminin pluriel = des (non précisé)\n- las + nom féminin pluriel = les (précis)",
+    "hint": null
   },
   "q_gram_a1_03_009": {
-    "question": "___ gato está en la calle. (A cat est dans Le/La street — n'importe quel cat.)",
+    "question": "___ gato está en la calle. (Un chat est dans la rue — n'importe quel chat.)",
     "correct": "Un",
     "wrong": [
       "El",
       "Unos",
       "La"
     ],
-    "explanation": "We use l'article indéfini 'un' pour premier mention ou non-specific reference.\n- Un gato (n'importe quel cat, premier mention) vs El gato (a specific cat)\nCe distinction est crucial pour natural Espagnol.",
-    "conjugation_info": "Indefinite (first mention/non-specific): un/una/unos/unas. Definite (known/specific): el/la/los/las."
+    "explanation": "On utilise l'article indéfini 'un' pour une première mention ou une référence non spécifique.\n- Un gato (n'importe quel chat, première mention) vs El gato (un chat précis)\nCette distinction est essentielle pour un espagnol naturel.",
+    "conjugation_info": "Indefinite (first mention/non-specific): un/una/unos/unas. Definite (known/specific): el/la/los/las.",
+    "hint": null
   },
   "q_gram_a1_03_010": {
     "question": "Il y a des livres sur la table.",
@@ -319,19 +335,20 @@
       "Hay un libros en la mesa.",
       "Están unos libros en la mesa."
     ],
-    "explanation": "« des livres » = « unos libros » (article indéfini masculin pluriel).\nOn utilise « hay » pour exprimer l'existence, et l'article indéfini pour des éléments non spécifiques.\n- Hay unos libros. (existence, non spécifique)",
+    "explanation": "« des livres » = 'unos libros' (article indéfini masculin pluriel).\nOn utilise 'hay' pour exprimer l'existence et l'article indéfini pour des éléments non spécifiques.\n- Hay unos libros. (existence, non spécifique)",
     "hint": null
   },
   "q_gram_a1_04_001": {
-    "question": "___ hablamos español. (fill dans le sujet pronom)",
+    "question": "___ hablamos español. (complète avec le pronom sujet)",
     "correct": "Nosotros",
     "wrong": [
       "Yo",
       "Ellos",
       "Tú"
     ],
-    "explanation": "'hablamos' est Le/La nosotros/nosotras form de hablar.\n- nosotros hablamos = we speak\nLe/La -amos terminaison indique premier personne pluriel.",
-    "conjugation_info": "Subject pronouns: yo, tú, él/ella/usted, nosotros, vosotros, ellos/ustedes"
+    "explanation": "'hablamos' est la forme nosotros/nosotras de hablar.\n- nosotros hablamos = nous parlons\nLa terminaison -amos indique la première personne du pluriel.",
+    "conjugation_info": "Subject pronouns: yo, tú, él/ella/usted, nosotros, vosotros, ellos/ustedes",
+    "hint": null
   },
   "q_gram_a1_04_002": {
     "question": "___ eres mi amigo.",
@@ -341,8 +358,8 @@
       "Él",
       "Usted"
     ],
-    "explanation": "'eres' est Le/La forme tú de le verbe ser.\n- Tú eres = Vous sont (informel)\nLe pronom 'tú' est utilisé avec friends, famille, et peers.",
-    "hint": "Quel pronom goes avec 'eres'?"
+    "explanation": "'eres' est la forme tú du verbe ser.\n- Tú eres = Tu es (informel)\nLe pronom 'tú' s'utilise avec les amis, la famille et les personnes de son âge.",
+    "hint": "Quel pronom va avec 'eres' ?"
   },
   "q_gram_a1_04_003": {
     "question": "___ viven en Madrid.",
@@ -352,29 +369,31 @@
       "Tú",
       "Yo"
     ],
-    "explanation": "'viven' est Le/La ellos/ellas/forme ustedes de vivir.\n- Ellos viven = Ils live\nLe/La -en terminaison indique troisième personne pluriel.",
-    "hint": "viven est a 3rd personne pluriel verbe form"
+    "explanation": "'viven' est la forme ellos/ellas/ustedes de vivir.\n- Ellos viven = Ils vivent\nLa terminaison -en indique la troisième personne du pluriel.",
+    "hint": "viven est une forme verbale de la 3e personne du pluriel"
   },
   "q_gram_a1_04_004": {
-    "question": "Quel est Le/La formel way pour dire 'vous' (singulier) en espagnol?",
+    "question": "Quelle est la façon formelle de dire « vous » (singulier) en espagnol ?",
     "correct": "usted",
     "wrong": [
       "tú",
       "vosotros",
       "nosotros"
     ],
-    "explanation": "'usted' est Le/La formel singulier 'vous', used avec strangers, elders, et dans professional settings.\n- tú = informel 'vous'\n- usted = formel 'vous' (takes 3rd personne verbe forms)"
+    "explanation": "'usted' est le « vous » singulier de politesse, utilisé avec des inconnus, des personnes âgées et dans le cadre professionnel.\n- tú = « tu » informel\n- usted = « vous » formel (se conjugue à la 3e personne)",
+    "hint": null
   },
   "q_gram_a1_04_005": {
-    "question": "___ es la profesora. (conjugate ser pour Le/La 3rd personne)",
+    "question": "___ es la profesora. (elle)",
     "correct": "Ella",
     "wrong": [
       "Él",
       "Yo",
       "Nosotros"
     ],
-    "explanation": "'Ella' signifie 'she' et est utilisé pour a female subject.\n- Ella es la profesora = She est Le/La teacher.\n- Él es el profesor = He est Le/La teacher.",
-    "conjugation_info": "3rd person pronouns: él (he), ella (she), usted (you formal)"
+    "explanation": "'Ella' signifie « elle » et s'emploie pour un sujet féminin. 'La profesora' est féminin, c'est pourquoi 'ella' convient.\n- Ella es la profesora = Elle est la professeure.\n- Él es el profesor = Il est le professeur.",
+    "conjugation_info": "3rd person pronouns: él (he), ella (she), usted (you formal)",
+    "hint": null
   },
   "q_gram_a1_04_006": {
     "question": "En España, ___ coméis paella.",
@@ -384,50 +403,53 @@
       "nosotros",
       "ellos"
     ],
-    "explanation": "'vosotros' est utilisé mainly dans Spain pour Le/La informel pluriel 'vous tous'.\n- coméis est Le/La forme vosotros de comer\nDans Latin America, 'ustedes' est utilisé instead de 'vosotros'.",
-    "hint": "Ce pronom est mainly used dans Spain"
+    "explanation": "'vosotros' s'emploie surtout en Espagne pour le « vous » pluriel informel.\n- coméis est la forme vosotros de comer\nEn Amérique latine, on utilise 'ustedes' à la place de 'vosotros'.",
+    "hint": "Ce pronom est surtout utilisé en Espagne"
   },
   "q_gram_a1_04_007": {
-    "question": "We live dans Barcelona.",
+    "question": "Nous habitons à Barcelone.",
     "correct": "Vivimos en Barcelona.",
     "wrong": [
       "Viven en Barcelona.",
       "Vivo en Barcelona.",
       "Vivís en Barcelona."
     ],
-    "explanation": "En espagnol, subject pronoms sont souvent omitted parce que le verbe terminaison montre Qui est speaking.\n- vivimos = we live (nosotros est optional)\n- vivo = I live, vives = vous live"
+    "explanation": "En espagnol, les pronoms sujets sont souvent omis car la terminaison du verbe indique qui parle.\n- vivimos = nous habitons (nosotros est facultatif)\n- vivo = j'habite, vives = tu habites",
+    "hint": null
   },
   "q_gram_a1_04_008": {
-    "question": "___ habla español muy bien. (He speaks Espagnol très well.)",
+    "question": "___ habla español muy bien. (Il parle très bien espagnol.)",
     "correct": "Él",
     "wrong": [
       "Ella",
       "Yo",
       "Tú"
     ],
-    "explanation": "'Él' signifie 'he'. Le/La accent sur Le/La 'E' distinguishes il de 'el' (l'article).\n- Él habla = He speaks\n- El libro = Le/La book (article, no accent)",
-    "hint": "Note Le/La accent mark Cela distinguishes Ce pronom de l'article"
+    "explanation": "'Él' signifie « il ». L'accent sur le 'E' le distingue de 'el' (l'article).\n- Él habla = Il parle\n- El libro = Le livre (article, sans accent)",
+    "hint": "Remarque l'accent qui distingue ce pronom de l'article"
   },
   "q_gram_a1_04_009": {
-    "question": "¿___ es usted?",
+    "question": "¿___ es usted? – Soy Ana García.",
     "correct": "Quién",
     "wrong": [
-      "Qué",
-      "Cómo",
-      "Dónde"
+      "Dónde",
+      "Cuándo",
+      "Cuál"
     ],
-    "explanation": "Quand asking à propos de identity avec 'usted', '¿Quién es usted?' signifie 'Qui sont vous?' (formel).\nNotez que 'usted' takes Le/La same verbe form as él/ella (3rd personne singulier).\n- ¿Quién es usted? (formel) vs ¿Quién eres tú? (informel)"
+    "explanation": "Pour demander l'identité de quelqu'un avec 'usted', '¿Quién es usted?' signifie « Qui êtes-vous ? » (formel).\nNotez que 'usted' prend la même forme verbale que él/ella (3e personne du singulier).\n- ¿Quién es usted? (formel) vs ¿Quién eres tú? (informel)",
+    "hint": null
   },
   "q_gram_a1_04_010": {
-    "question": "Yo hablo español, ___ habla francés. (conjugate avec Le/La correct pronom pour 'she')",
+    "question": "Yo hablo español, ___ habla francés. (elle)",
     "correct": "ella",
     "wrong": [
       "él",
       "tú",
       "usted"
     ],
-    "explanation": "Pronoms sont utilisés pour emphasis ou à clarify Qui est being talked à propos de.\n- Yo hablo español, ella habla francés.\n- Sans pronoms, 'habla francés' pourrait signifier he/she/vous(formel) speaks French.",
-    "conjugation_info": "Use pronouns for emphasis: Yo hablo... ella habla... vs just Hablo... Habla..."
+    "explanation": "Les pronoms servent à insister ou à préciser de qui l'on parle.\n- Yo hablo español, ella habla francés.\n- Sans pronoms, 'habla francés' pourrait signifier qu'il/elle/vous (formel) parle français.",
+    "conjugation_info": "Use pronouns for emphasis: Yo hablo... ella habla... vs just Hablo... Habla...",
+    "hint": null
   },
   "q_gram_a1_05_001": {
     "question": "Yo ___ estudiante.",
@@ -437,8 +459,8 @@
       "es",
       "somos"
     ],
-    "explanation": "Le/La forme yo de 'ser' est 'soy'.\n- Yo soy estudiante = I am a student.\nSer est utilisé pour professions et identity.",
-    "hint": "Quel est Le/La premier personne forme singulière de ser?"
+    "explanation": "La forme yo du verbe 'ser' est 'soy'.\n- Yo soy estudiante = Je suis étudiant(e).\nSer s'emploie pour les professions et l'identité.",
+    "hint": "Quelle est la forme de la première personne du singulier de ser ?"
   },
   "q_gram_a1_05_002": {
     "question": "Ellos ___ españoles.",
@@ -448,29 +470,31 @@
       "somos",
       "sois"
     ],
-    "explanation": "Le/La ellos/ellas/forme ustedes de 'ser' est 'son'.\n- Ellos son españoles = Ils sont Espagnol.\nSer est utilisé pour nationality.",
-    "hint": "Quel est Le/La troisième personne forme plurielle de ser?"
+    "explanation": "La forme ellos/ellas/ustedes du verbe 'ser' est 'son'.\n- Ellos son españoles = Ils sont espagnols.\nSer s'emploie pour la nationalité.",
+    "hint": "Quelle est la forme de la troisième personne du pluriel de ser ?"
   },
   "q_gram_a1_05_003": {
-    "question": "Quel est Le/La main use de 'ser' dans 'Ella es doctora'?",
-    "correct": "to express profession",
+    "question": "Quel est l'usage principal de 'ser' dans 'Ella es doctora' ?",
+    "correct": "exprimer la profession",
     "wrong": [
-      "to express location",
-      "to express emotion",
-      "to express a temporary state"
+      "exprimer le lieu",
+      "exprimer une émotion",
+      "exprimer un état temporaire"
     ],
-    "explanation": "Ser est utilisé pour professions: Ella es doctora (She est a doctor).\nOther uses de ser: identity, nationality, characteristics, temps, et origin."
+    "explanation": "Ser s'emploie pour les professions : Ella es doctora (Elle est médecin).\nAutres usages de ser : l'identité, la nationalité, les caractéristiques, l'heure et l'origine.",
+    "hint": null
   },
   "q_gram_a1_05_004": {
-    "question": "Tú ___ muy inteligente. (conjugate ser)",
+    "question": "Tú ___ muy inteligente. (conjuguer ser)",
     "correct": "eres",
     "wrong": [
       "soy",
       "es",
       "son"
     ],
-    "explanation": "Le/La forme tú de 'ser' est 'eres'.\n- Tú eres inteligente = Vous sont intelligent.\nSer est utilisé pour inherent characteristics.",
-    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son"
+    "explanation": "La forme tú du verbe 'ser' est 'eres'.\n- Tú eres inteligente = Tu es intelligent(e).\nSer s'emploie pour les caractéristiques propres à une personne.",
+    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son",
+    "hint": null
   },
   "q_gram_a1_05_005": {
     "question": "___ las tres de la tarde.",
@@ -480,19 +504,20 @@
       "Está",
       "Hay"
     ],
-    "explanation": "'Son las tres' = Il est three o'clock. Pour telling temps, use 'ser'.\n- Es la una. (1:00 — singulier)\n- Son las dos/tres/cuatro... (2:00+ — pluriel)",
-    "hint": "Quel form de ser est utilisé avec pluriel hours?"
+    "explanation": "'Son las tres' = Il est trois heures. Pour dire l'heure, on utilise 'ser'.\n- Es la una. (1 h — singulier)\n- Son las dos/tres/cuatro... (2 h et plus — pluriel)",
+    "hint": "Quelle forme de ser s'emploie avec des heures au pluriel ?"
   },
   "q_gram_a1_05_006": {
-    "question": "La mesa ___ de madera. (conjugate ser)",
+    "question": "La mesa ___ de madera. (conjuguer ser)",
     "correct": "es",
     "wrong": [
       "está",
       "son",
       "soy"
     ],
-    "explanation": "Ser est utilisé pour exprimer que something est made de.\n- La mesa es de madera. = Le/La table est made de wood.\n- 'de' + material avec ser = made de.",
-    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son"
+    "explanation": "Ser s'emploie pour exprimer la matière dont est fait quelque chose.\n- La mesa es de madera. = La table est en bois.\n- 'de' + matière avec ser = fait en.",
+    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son",
+    "hint": null
   },
   "q_gram_a1_05_007": {
     "question": "Nosotros ___ profesores de español.",
@@ -502,50 +527,54 @@
       "son",
       "es"
     ],
-    "explanation": "'somos' est Le/La forme nosotros de ser.\n- Nosotros somos profesores = We sont teachers.\nSer + profession (no article needed).",
-    "hint": "Quel est Le/La premier personne forme plurielle de ser?"
+    "explanation": "'somos' est la forme nosotros de ser.\n- Nosotros somos profesores = Nous sommes professeurs.\nSer + profession (pas d'article nécessaire).",
+    "hint": "Quelle est la forme de la première personne du pluriel de ser ?"
   },
   "q_gram_a1_05_008": {
-    "question": "Today est Monday.",
+    "question": "Aujourd'hui, c'est lundi.",
     "correct": "Hoy es lunes.",
     "wrong": [
       "Hoy está lunes.",
       "Hoy son lunes.",
       "Hoy es el lunes."
     ],
-    "explanation": "Ser est utilisé pour dates et days de Le/La week.\n- Hoy es lunes. = Today est Monday.\nNote: No article est utilisé quand stating que jour il est."
+    "explanation": "Ser s'emploie pour les dates et les jours de la semaine.\n- Hoy es lunes. = Aujourd'hui, c'est lundi.\nRemarque : on n'utilise pas d'article pour dire quel jour on est.",
+    "hint": null
   },
   "q_gram_a1_05_009": {
-    "question": "¿De dónde ___ ustedes? (conjugate ser)",
+    "question": "¿De dónde ___ ustedes? (conjuguer ser)",
     "correct": "son",
     "wrong": [
       "es",
       "somos",
       "sois"
     ],
-    "explanation": "Le/La forme ustedes de 'ser' est 'son' (same as ellos/ellas).\n- ¿De dónde son ustedes? = Où sont vous tous de?\nSer + de = origin.",
-    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son"
+    "explanation": "La forme ustedes du verbe 'ser' est 'son' (comme ellos/ellas).\n- ¿De dónde son ustedes? = D'où venez-vous ?\nSer + de = origine.",
+    "conjugation_info": "ser - present: soy, eres, es, somos, sois, son",
+    "hint": null
   },
   "q_gram_a1_05_010": {
-    "question": "It is one o'clock.",
+    "question": "Il est une heure.",
     "correct": "Es la una.",
     "wrong": [
       "Son la una.",
       "Es las una.",
       "Son las una."
     ],
-    "explanation": "Pour 1:00, use 'Es la una' (singulier).\nPour tous other hours, use 'Son las + nombre'.\n- Es la una. (1:00) vs Son las dos. (2:00)"
+    "explanation": "Pour 1 h, on dit 'Es la una' (singulier).\nPour toutes les autres heures, on utilise 'Son las + nombre'.\n- Es la una. (1 h) vs Son las dos. (2 h)",
+    "hint": null
   },
   "q_gram_a1_06_001": {
-    "question": "Yo ___ en casa. (conjugate estar)",
+    "question": "Yo ___ en casa. (conjuguer estar)",
     "correct": "estoy",
     "wrong": [
       "soy",
       "estás",
       "está"
     ],
-    "explanation": "Le/La forme yo de 'estar' est 'estoy'.\n- Estoy en casa = I am à home.\nEstar est utilisé pour location.",
-    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están"
+    "explanation": "La forme yo du verbe 'estar' est 'estoy'.\n- Estoy en casa = Je suis à la maison.\nEstar s'emploie pour le lieu.",
+    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están",
+    "hint": null
   },
   "q_gram_a1_06_002": {
     "question": "El gato ___ en la mesa.",
@@ -555,8 +584,8 @@
       "estoy",
       "están"
     ],
-    "explanation": "Estar est utilisé pour exprimer location.\n- El gato está en la mesa. = Le/La cat est sur Le/La table.\n- Location toujours uses estar (not ser).",
-    "hint": "Quel verbe est utilisé pour location?"
+    "explanation": "Estar s'emploie pour exprimer le lieu.\n- El gato está en la mesa. = Le chat est sur la table.\n- Estar s'emploie pour la situation des personnes et des choses.",
+    "hint": "Quel verbe s'emploie pour le lieu ?"
   },
   "q_gram_a1_06_003": {
     "question": "Mis amigos ___ contentos.",
@@ -566,29 +595,31 @@
       "estamos",
       "estáis"
     ],
-    "explanation": "Estar est utilisé pour emotions et temporary states.\n- están contentos = ils sont happy (right maintenant)\n- 'contentos' s'accorde avec Le/La masculin pluriel subject.",
-    "hint": "Emotions et feelings use quel verbe?"
+    "explanation": "Estar s'emploie pour les émotions et les états temporaires.\n- están contentos = ils sont contents (en ce moment)\n- 'contentos' s'accorde avec le sujet masculin pluriel.",
+    "hint": "Quel verbe s'emploie pour les émotions et les sentiments ?"
   },
   "q_gram_a1_06_004": {
-    "question": "Que 'estar' exprimer dans '¿Cómo estás?'?",
-    "correct": "health or feeling",
+    "question": "Qu'exprime 'estar' dans '¿Cómo estás?' ?",
+    "correct": "la santé ou le ressenti",
     "wrong": [
-      "identity",
-      "profession",
-      "nationality"
+      "l'identité",
+      "la profession",
+      "la nationalité"
     ],
-    "explanation": "'¿Cómo estás?' signifie 'Comment sont vous?' et asks à propos de someone's current state ou feeling.\nEstar est utilisé pour temporary conditions like health, mood, et emotional states."
+    "explanation": "'¿Cómo estás?' signifie 'Comment vas-tu ?' et s'enquiert de l'état ou du ressenti actuel de quelqu'un.\nEstar s'emploie pour les états temporaires comme la santé, l'humeur et les états émotionnels.",
+    "hint": null
   },
   "q_gram_a1_06_005": {
-    "question": "Nosotros ___ cansados. (conjugate estar)",
+    "question": "Nosotros ___ cansados. (conjuguer estar)",
     "correct": "estamos",
     "wrong": [
       "somos",
       "están",
       "estoy"
     ],
-    "explanation": "Le/La forme nosotros de 'estar' est 'estamos'.\n- Estamos cansados = We sont tired.\nBeing tired est a temporary state, donc estar est utilisé.",
-    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están"
+    "explanation": "La forme nosotros du verbe 'estar' est 'estamos'.\n- Estamos cansados = Nous sommes fatigués.\nÊtre fatigué est un état temporaire, donc on utilise estar.",
+    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están",
+    "hint": null
   },
   "q_gram_a1_06_006": {
     "question": "La sopa ___ caliente.",
@@ -598,18 +629,19 @@
       "son",
       "están"
     ],
-    "explanation": "Estar est utilisé pour temporary conditions.\n- La sopa está caliente. = Le/La soup est hot (right maintenant).\nLe/La soup's temperature est a temporary state, not a permanent characteristic.",
-    "hint": "Temperature est a temporary condition"
+    "explanation": "Estar s'emploie pour les états temporaires.\n- La sopa está caliente. = La soupe est chaude (en ce moment).\nLa température de la soupe est un état temporaire, pas une caractéristique permanente.",
+    "hint": "La température est un état temporaire"
   },
   "q_gram_a1_06_007": {
-    "question": "I am studying Espagnol.",
+    "question": "J'étudie l'espagnol.",
     "correct": "Estoy estudiando español.",
     "wrong": [
       "Soy estudiando español.",
       "Estoy estudiar español.",
       "Es estudiando español."
     ],
-    "explanation": "Le/La présent progressif uses estar + gérondif (-ando/-iendo).\n- Estoy estudiando = I am studying\n- estudiar → estudiando"
+    "explanation": "Le présent progressif se forme avec estar + gérondif (-ando/-iendo).\n- Estoy estudiando = Je suis en train d'étudier\n- estudiar → estudiando",
+    "hint": null
   },
   "q_gram_a1_06_008": {
     "question": "La puerta ___ abierta.",
@@ -619,29 +651,31 @@
       "son",
       "están"
     ],
-    "explanation": "Estar est utilisé pour conditions ou states Cela peut change.\n- La puerta está abierta. = Le/La door est open.\nLe/La door peut être opened ou closed; il's a changeable state.",
-    "hint": "Est 'open' a permanent characteristic ou a changeable state?"
+    "explanation": "Estar s'emploie pour les conditions ou états qui peuvent changer.\n- La puerta está abierta. = La porte est ouverte.\nUne porte peut être ouverte ou fermée ; c'est un état changeant.",
+    "hint": "« Ouvert » est-il une caractéristique permanente ou un état changeant ?"
   },
   "q_gram_a1_06_009": {
-    "question": "My brother is sick.",
+    "question": "Mon frère est malade.",
     "correct": "Mi hermano está enfermo.",
     "wrong": [
       "Mi hermano es enfermo.",
       "Mi hermano está enfermedad.",
       "Mis hermanos están enfermos."
     ],
-    "explanation": "Being sick est a temporary condition, donc estar est utilisé.\n- estar enfermo = à être sick (temporary)\nUsing 'ser enfermo' serait incorrectly imply a permanent state."
+    "explanation": "Être malade est un état temporaire, donc on utilise estar.\n- estar enfermo = être malade (temporaire)\nDire 'ser enfermo' sous-entendrait à tort un état permanent.",
+    "hint": null
   },
   "q_gram_a1_06_010": {
-    "question": "¿Dónde ___ tú ahora? (conjugate estar)",
+    "question": "¿Dónde ___ tú ahora? (conjuguer estar)",
     "correct": "estás",
     "wrong": [
       "eres",
       "está",
       "estamos"
     ],
-    "explanation": "Le/La forme tú de 'estar' est 'estás'.\n- ¿Dónde estás? = Où sont vous?\nEstar est toujours used pour asking à propos de location.",
-    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están"
+    "explanation": "La forme tú du verbe 'estar' est 'estás'.\n- ¿Dónde estás? = Où es-tu ?\nEstar s'emploie pour demander où se trouve une personne ou une chose.",
+    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están",
+    "hint": null
   },
   "q_gram_a1_07_001": {
     "question": "María ___ doctora.",

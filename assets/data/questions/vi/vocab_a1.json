@@ -1,23 +1,25 @@
 {
   "q_vocab_a1_01_001": {
-    "question": "Nghĩa của 'hola' là gì?",
+    "question": "'hola' có nghĩa là gì?",
     "correct": "xin chào",
     "wrong": [
       "tạm biệt",
       "cảm ơn",
       "làm ơn"
     ],
-    "explanation": "'Hola' là nhất phổ biến Tây Ban Nha lời chào, used vào bất kỳ thời gian nào trong ngày."
+    "explanation": "'Hola' là lời chào phổ biến nhất trong tiếng Tây Ban Nha, dùng được vào bất kỳ thời điểm nào trong ngày.",
+    "hint": null
   },
   "q_vocab_a1_01_002": {
-    "question": "Nghĩa của 'gracias' là gì?",
+    "question": "'gracias' có nghĩa là gì?",
     "correct": "cảm ơn",
     "wrong": [
       "làm ơn",
       "xin lỗi",
       "xin chào"
     ],
-    "explanation": "'Gracias' có nghĩa là 'thank bạn'. Bạn có thể nói 'muchas gracias' cho 'thank bạn rất much'."
+    "explanation": "'Gracias' nghĩa là 'cảm ơn'. Bạn có thể nói 'muchas gracias' để nói 'cảm ơn rất nhiều'.",
+    "hint": null
   },
   "q_vocab_a1_01_003": {
     "question": "Buenos ___, ¿cómo estás?",
@@ -27,89 +29,98 @@
       "gracias",
       "hola"
     ],
-    "explanation": "'Buenos días' có nghĩa là 'good morning' và là a phổ biến lời chào used trong morning."
+    "explanation": "'Buenos días' nghĩa là 'chào buổi sáng', là lời chào thông dụng vào buổi sáng.",
+    "hint": null
   },
   "q_vocab_a1_01_004": {
-    "question": "Nghĩa của 'por favor' là gì?",
+    "question": "'por favor' có nghĩa là gì?",
     "correct": "làm ơn",
     "wrong": [
       "cảm ơn",
-      "xin lỗi",
+      "xin phép",
       "tạm biệt"
     ],
-    "explanation": "'Por favor' được sử dụng để make polite requests, giống như 'please' trong tiếng Anh."
+    "explanation": "'Por favor' dùng để đưa ra lời yêu cầu lịch sự, giống như 'làm ơn' trong tiếng Việt.",
+    "hint": null
   },
   "q_vocab_a1_01_005": {
-    "question": "Nghĩa của 'lo siento' trong 'Lo siento mucho' là gì?",
-    "correct": "I'm sorry",
+    "question": "'lo siento' trong câu 'Lo siento mucho' có nghĩa là gì?",
+    "correct": "tôi xin lỗi",
     "wrong": [
-      "I'm happy",
-      "I'm tired",
-      "I'm fine"
+      "tôi vui",
+      "tôi mệt",
+      "tôi khỏe"
     ],
-    "explanation": "'Lo siento' literally có nghĩa là 'I feel nó' nhưng được sử dụng as 'I'm sorry'. 'Mucho' thêm nhấn mạnh, có nghĩa là 'rất much'."
+    "explanation": "'Lo siento' theo nghĩa đen là 'tôi cảm thấy điều đó', nhưng được dùng với nghĩa 'tôi xin lỗi'. 'Mucho' nhấn mạnh thêm, nghĩa là 'rất nhiều'.",
+    "hint": null
   },
   "q_vocab_a1_01_006": {
-    "question": "See bạn tomorrow!",
+    "question": "Hẹn gặp lại ngày mai!",
     "correct": "¡Hasta mañana!",
     "wrong": [
       "¡Hasta luego!",
       "¡Buenas noches!",
       "¡Adiós para siempre!"
     ],
-    "explanation": "'Hasta mañana' literally có nghĩa là 'until tomorrow' và được sử dụng khi bạn sẽ gặp ai đó vào ngày hôm sau."
+    "explanation": "'Hasta mañana' theo nghĩa đen là 'hẹn đến ngày mai', dùng khi bạn sẽ gặp lại người đó vào ngày hôm sau.",
+    "hint": null
   },
   "q_vocab_a1_01_007": {
-    "question": "Nghĩa của 'de nada' trong '¡Gracias! — De nada.' là gì?",
+    "question": "'de nada' trong '¡Gracias! — De nada.' có nghĩa là gì?",
     "correct": "không có gì",
     "wrong": [
-      "of course",
-      "no problem",
-      "tạm biệt"
+      "xin phép",
+      "chúc ngủ ngon",
+      "hẹn gặp lại"
     ],
-    "explanation": "'De nada' literally translates để 'của nothing' và là câu trả lời tiêu chuẩn cho 'gracias'."
+    "explanation": "'De nada' theo nghĩa đen là 'của không có gì', và là câu đáp lại tiêu chuẩn cho 'gracias'.",
+    "hint": null
   },
   "q_vocab_a1_01_008": {
     "question": "¿Cómo estás?",
-    "correct": "How are you?",
+    "correct": "Bạn khỏe không?",
     "wrong": [
-      "What is your name?",
-      "Where are you from?",
-      "How old are you?"
+      "Bạn tên là gì?",
+      "Bạn đến từ đâu?",
+      "Bạn bao nhiêu tuổi?"
     ],
-    "explanation": "'¿Cómo estás?' là cách hỏi không chính thức 'như thế nào là bạn?' Phiên bản chính thức là '¿Cómo está usted?'."
+    "explanation": "'¿Cómo estás?' là cách hỏi thân mật 'Bạn khỏe không?'. Dạng trang trọng là '¿Cómo está usted?'.",
+    "hint": null
   },
   "q_vocab_a1_01_009": {
-    "question": "bạn accidentally bump into someone on street. gì do bạn say?",
+    "question": "Bạn vô tình va phải một người trên đường. Bạn nói gì?",
     "correct": "¡Perdón!",
     "wrong": [
       "¡Hola!",
       "¡Gracias!",
       "¡Adiós!"
     ],
-    "explanation": "'Perdón' có nghĩa là 'pardon' hoặc 'excuse me' và được sử dụng khi nào bạn accidentally bother someone.",
-    "context": "Walking on a crowded street"
+    "explanation": "'Perdón' nghĩa là 'xin thứ lỗi' hoặc 'xin lỗi', dùng khi bạn vô tình làm phiền ai đó.",
+    "context": "Walking on a crowded street",
+    "hint": null
   },
   "q_vocab_a1_01_010": {
-    "question": "bạn là leaving a friend's house late at night. gì do bạn say?",
+    "question": "Bạn rời nhà bạn bè vào đêm khuya. Bạn nói gì?",
     "correct": "¡Buenas noches!",
     "wrong": [
       "¡Buenos días!",
       "¡Buenas tardes!",
       "¡Hola!"
     ],
-    "explanation": "'Buenas noches' có nghĩa là 'good night' và được sử dụng both as a lời chào và farewell vào buổi tối.",
-    "context": "Leaving a friend's house tại night"
+    "explanation": "'Buenas noches' nghĩa là 'chúc ngủ ngon' hoặc 'chào buổi tối', dùng được cả khi gặp lẫn khi chia tay vào buổi tối.",
+    "context": "Leaving a friend's house tại night",
+    "hint": null
   },
   "q_vocab_a1_02_001": {
-    "question": "Nghĩa của 'madre' là gì?",
+    "question": "'madre' có nghĩa là gì?",
     "correct": "mẹ",
     "wrong": [
-      "cha/bố",
+      "bố",
       "chị/em gái",
       "bà"
     ],
-    "explanation": "'Madre' có nghĩa là 'mother'. Từ không chính thức là 'mamá'."
+    "explanation": "'Madre' nghĩa là 'mẹ'. Cách gọi thân mật là 'mamá'.",
+    "hint": null
   },
   "q_vocab_a1_02_002": {
     "question": "Mi ___ se llama Carlos. Es el esposo de mi madre.",
@@ -119,47 +130,52 @@
       "hijo",
       "abuelo"
     ],
-    "explanation": "'Padre' có nghĩa là 'father'. Câu nói 'My father là named Carlos. Anh ấy là chồng của mẹ tôi.'"
+    "explanation": "'Padre' nghĩa là 'bố'. Câu này nói: 'Bố tôi tên là Carlos. Ông ấy là chồng của mẹ tôi.'",
+    "hint": null
   },
   "q_vocab_a1_02_003": {
-    "question": "Nghĩa của 'hermana' là gì?",
+    "question": "'hermana' có nghĩa là gì?",
     "correct": "chị/em gái",
     "wrong": [
       "anh/em trai",
       "anh/chị/em họ",
       "dì/cô"
     ],
-    "explanation": "'Hermana' là dạng nữ tính có nghĩa là 'sister'. nam tính form 'hermano' có nghĩa là 'brother'."
+    "explanation": "'Hermana' là dạng giống cái, nghĩa là 'chị/em gái'. Dạng giống đực 'hermano' nghĩa là 'anh/em trai'.",
+    "hint": null
   },
   "q_vocab_a1_02_004": {
-    "question": "Nghĩa của 'abuelo' là gì?",
+    "question": "'abuelo' có nghĩa là gì?",
     "correct": "ông",
     "wrong": [
-      "chú/bác",
-      "cha/bố",
+      "chú/bác/cậu",
+      "bố",
       "anh/chị/em họ"
     ],
-    "explanation": "'Abuelo' có nghĩa là 'grandfather'. 'Abuela' là 'grandmother'. Together, 'abuelos' có thể có nghĩa là 'grandparents'."
+    "explanation": "'Abuelo' nghĩa là 'ông'. 'Abuela' là 'bà'. 'Abuelos' gộp lại có thể nghĩa là 'ông bà'.",
+    "hint": null
   },
   "q_vocab_a1_02_005": {
-    "question": "My uncle lives trong Madrid.",
+    "question": "Chú tôi sống ở Madrid.",
     "correct": "Mi tío vive en Madrid.",
     "wrong": [
       "Mi primo vive en Madrid.",
       "Mi abuelo vive en Madrid.",
       "Mi sobrino vive en Madrid."
     ],
-    "explanation": "'Tío' có nghĩa là 'uncle'. 'Tía' là dạng nữ tính có nghĩa là 'aunt'."
+    "explanation": "'Tío' nghĩa là 'chú/bác/cậu'. 'Tía' là dạng giống cái, nghĩa là 'dì/cô/bác gái'.",
+    "hint": null
   },
   "q_vocab_a1_02_006": {
-    "question": "Nghĩa của 'esposa' trong 'Ella es mi esposa' là gì?",
+    "question": "'esposa' trong câu 'Ella es mi esposa' có nghĩa là gì?",
     "correct": "vợ",
     "wrong": [
-      "girlfriend",
+      "bạn gái",
       "bạn",
       "chị/em gái"
     ],
-    "explanation": "'Esposa' có nghĩa là 'wife'. 'Esposo' có nghĩa là 'husband'. Đây là các thuật ngữ trang trọng cho người bạn đời đã kết hôn."
+    "explanation": "'Esposa' nghĩa là 'vợ'. 'Esposo' nghĩa là 'chồng'. Trong lời nói hằng ngày, người ta cũng dùng 'mujer' (vợ) và 'marido' (chồng).",
+    "hint": null
   },
   "q_vocab_a1_02_007": {
     "question": "Bạn muốn giới thiệu người bạn nữ của mình với ai đó. Bạn dùng từ nào?",
@@ -174,55 +190,60 @@
     "hint": null
   },
   "q_vocab_a1_02_008": {
-    "question": "Nghĩa của 'primo' trong 'Mi primo tiene diez años' là gì?",
-    "correct": "anh/chị/em họ",
+    "question": "'primo' trong câu 'Mi primo tiene diez años' có nghĩa là gì?",
+    "correct": "anh/em họ",
     "wrong": [
       "anh/em trai",
-      "nephew",
+      "cháu trai",
       "con trai"
     ],
-    "explanation": "'Primo' (nam tính) có nghĩa là 'cousin'. 'Prima' là dạng nữ tính. sentence có nghĩa là 'My cousin là ten years old'."
+    "explanation": "'Primo' (giống đực) nghĩa là 'anh/em họ'. 'Prima' là dạng giống cái. Câu này nghĩa là 'Anh/em họ của tôi mười tuổi'.",
+    "hint": null
   },
   "q_vocab_a1_02_009": {
     "question": "Tengo dos hermanos y una hermana.",
-    "correct": "I have two brothers and one sister.",
+    "correct": "Tôi có hai anh/em trai và một chị/em gái.",
     "wrong": [
-      "I have two sisters and one brother.",
-      "I have two cousins and one sister.",
-      "I have two friends and one sister."
+      "Tôi có hai chị/em gái và một anh/em trai.",
+      "Tôi có hai anh/chị/em họ và một chị/em gái.",
+      "Tôi có hai người bạn và một chị/em gái."
     ],
-    "explanation": "'Hermanos' là số nhiều nam tính form có nghĩa là 'brothers'. 'Hermana' có nghĩa là 'sister'."
+    "explanation": "'Hermanos' là dạng số nhiều giống đực, nghĩa là 'anh/em trai'. 'Hermana' nghĩa là 'chị/em gái'.",
+    "hint": null
   },
   "q_vocab_a1_02_010": {
-    "question": "của bạn neighbor asks about của bạn family. như thế nào do bạn say 'I live với my parents'?",
+    "question": "Hàng xóm hỏi về gia đình bạn. Bạn nói 'Tôi sống với bố mẹ' như thế nào?",
     "correct": "Vivo con mis padres.",
     "wrong": [
       "Vivo con mis amigos.",
       "Vivo con mis hermanos.",
       "Vivo con mis abuelos."
     ],
-    "explanation": "'Padres' có nghĩa là 'parents'. nó là số nhiều của 'padre' (father) nhưng khi nào used trong số nhiều nó refers để both parents.",
-    "context": "Chatting with a neighbor about family"
+    "explanation": "'Padres' nghĩa là 'bố mẹ'. Đây là số nhiều của 'padre' (bố), nhưng khi dùng ở số nhiều thì chỉ cả bố lẫn mẹ.",
+    "context": "Chatting with a neighbor about family",
+    "hint": null
   },
   "q_vocab_a1_03_001": {
-    "question": "Nghĩa của 'hora' là gì?",
-    "correct": "hour / time",
+    "question": "'hora' nghĩa là gì?",
+    "correct": "giờ / thời gian",
     "wrong": [
-      "minute",
+      "phút",
       "ngày",
       "tuần"
     ],
-    "explanation": "'Hora' có nghĩa là 'hour' hoặc 'thời gian' (khi nào asking gì thời gian nó là). '¿Qué hora es?' = 'gì thời gian là nó?'"
+    "explanation": "'Hora' nghĩa là 'giờ' hoặc 'thời gian' (khi hỏi mấy giờ). '¿Qué hora es?' = 'Mấy giờ rồi?'",
+    "hint": null
   },
   "q_vocab_a1_03_002": {
-    "question": "Nghĩa của 'mañana' trong 'por la mañana' là gì?",
+    "question": "'mañana' trong 'por la mañana' nghĩa là gì?",
     "correct": "buổi sáng",
     "wrong": [
       "buổi chiều",
       "buổi tối",
-      "đêm"
+      "ban đêm"
     ],
-    "explanation": "'Mañana' có nghĩa là 'morning' khi nào used với 'por la'. nó có thể cũng có nghĩa 'tomorrow' trong other contexts."
+    "explanation": "'Mañana' nghĩa là 'buổi sáng' khi đi với 'por la'. Trong những ngữ cảnh khác, nó còn có thể nghĩa là 'ngày mai'.",
+    "hint": null
   },
   "q_vocab_a1_03_003": {
     "question": "Son las tres y ___. (3:30)",
@@ -232,89 +253,98 @@
       "punto",
       "minuto"
     ],
-    "explanation": "'Media' có nghĩa là 'half'. 'Son las tres y media' có nghĩa là 'nó là three thirty' (literally 'three và a half')."
+    "explanation": "'Media' nghĩa là 'một nửa'. 'Son las tres y media' nghĩa là '3 giờ 30' (nghĩa đen là 'ba giờ rưỡi').",
+    "hint": null
   },
   "q_vocab_a1_03_004": {
-    "question": "Nghĩa của 'reloj' là gì?",
-    "correct": "clock / watch",
+    "question": "'reloj' nghĩa là gì?",
+    "correct": "đồng hồ (treo tường) / đồng hồ đeo tay",
     "wrong": [
-      "calendar",
-      "alarm",
-      "timer"
+      "lịch",
+      "chuông báo thức",
+      "đồng hồ bấm giờ"
     ],
-    "explanation": "'Reloj' có thể có nghĩa là both 'clock' (wall clock) và 'watch' (wristwatch) trong tiếng Tây Ban Nha."
+    "explanation": "Trong tiếng Tây Ban Nha, 'reloj' có thể là 'đồng hồ' (đồng hồ treo tường) và cũng là 'đồng hồ đeo tay'.",
+    "hint": null
   },
   "q_vocab_a1_03_005": {
-    "question": "Nghĩa của 'en punto' trong 'Son las cinco en punto' là gì?",
-    "correct": "on the dot / exactly",
+    "question": "'en punto' trong 'Son las cinco en punto' nghĩa là gì?",
+    "correct": "đúng giờ / chính xác",
     "wrong": [
-      "almost",
-      "more or less",
-      "approximately"
+      "gần như",
+      "khoảng chừng",
+      "xấp xỉ"
     ],
-    "explanation": "'En punto' có nghĩa là 'on dot' hoặc 'sharp'. 'Son las cinco en punto' = 'nó là exactly five o'clock'."
+    "explanation": "'En punto' nghĩa là 'đúng giờ' hoặc 'chính xác'. 'Son las cinco en punto' = 'Đúng 5 giờ'.",
+    "hint": null
   },
   "q_vocab_a1_03_006": {
-    "question": "nó là one o'clock.",
+    "question": "Một giờ.",
     "correct": "Es la una.",
     "wrong": [
       "Son las una.",
       "Es el uno.",
       "Son la una."
     ],
-    "explanation": "cho 1:00, Chúng ta sử dụng 'Es la una' (số ít). cho tất cả other hours, Chúng ta sử dụng 'Son las...' (số nhiều)."
+    "explanation": "Với 1 giờ, ta dùng 'Es la una' (số ít). Với tất cả các giờ khác, ta dùng 'Son las...' (số nhiều).",
+    "hint": null
   },
   "q_vocab_a1_03_007": {
-    "question": "Nghĩa của 'tarde' trong 'Buenas tardes' là gì?",
+    "question": "'tarde' trong 'Buenas tardes' nghĩa là gì?",
     "correct": "buổi chiều",
     "wrong": [
       "buổi sáng",
-      "đêm",
-      "buổi tối"
+      "ban đêm",
+      "buổi trưa"
     ],
-    "explanation": "'Tarde' có nghĩa là 'afternoon'. 'Buenas tardes' được sử dụng roughly từ noon until sunset."
+    "explanation": "'Tarde' nghĩa là 'buổi chiều'. 'Buenas tardes' được dùng từ khoảng trưa cho đến lúc hoàng hôn.",
+    "hint": null
   },
   "q_vocab_a1_03_008": {
     "question": "¿Qué hora es? — Son las dos y cuarto.",
-    "correct": "What time is it? — It is 2:15.",
+    "correct": "Mấy giờ rồi? — 2 giờ 15.",
     "wrong": [
-      "What time is it? — It is 2:45.",
-      "What time is it? — It is 2:30.",
-      "What day is it? — It is Tuesday."
+      "Mấy giờ rồi? — 2 giờ 45.",
+      "Mấy giờ rồi? — 2 giờ 30.",
+      "Hôm nay là thứ mấy? — Thứ Ba."
     ],
-    "explanation": "'Cuarto' có nghĩa là 'quarter'. 'Son las dos y cuarto' = 'nó là two fifteen' (a quarter past two)."
+    "explanation": "'Cuarto' nghĩa là 'một phần tư'. 'Son las dos y cuarto' = '2 giờ 15' (hai giờ mười lăm phút).",
+    "hint": null
   },
   "q_vocab_a1_03_009": {
-    "question": "bạn need đến ask a stranger on street gì thời gian nó là. gì do bạn say?",
+    "question": "Bạn cần hỏi một người lạ trên đường xem bây giờ là mấy giờ. Bạn nói gì?",
     "correct": "Perdone, ¿qué hora es?",
     "wrong": [
       "¡Hola! ¿Qué día es?",
       "¿Cuánto cuesta?",
       "¿Dónde está el reloj?"
     ],
-    "explanation": "'Perdone, ¿qué hora es?' là a polite way để ask someone thời gian. 'Perdone' là trang trọng form của 'excuse me'.",
-    "context": "Asking  time on  street"
+    "explanation": "'Perdone, ¿qué hora es?' là cách lịch sự để hỏi giờ. 'Perdone' là dạng trang trọng của 'xin lỗi / cho tôi hỏi'.",
+    "context": "Asking  time on  street",
+    "hint": null
   },
   "q_vocab_a1_03_010": {
-    "question": "của bạn friend asks khi nào bạn thường wake up. như thế nào do bạn say 'I wake up at seven trong morning'?",
+    "question": "Bạn của bạn hỏi bạn thường thức dậy lúc mấy giờ. Bạn nói 'Tôi thức dậy lúc bảy giờ sáng' thế nào?",
     "correct": "Me despierto a las siete de la mañana.",
     "wrong": [
       "Me despierto a las siete de la noche.",
       "Me despierto a la siete de la mañana.",
       "Me duermo a las siete de la mañana."
     ],
-    "explanation": "'A las siete de la mañana' có nghĩa là 'tại seven trong morning'. Note: Chúng ta sử dụng 'a las' cho tất cả hours except one ('a la una').",
-    "context": "Talking about daily routines"
+    "explanation": "'A las siete de la mañana' nghĩa là 'lúc bảy giờ sáng'. Lưu ý: ta dùng 'a las' cho mọi giờ, trừ một giờ ('a la una').",
+    "context": "Talking about daily routines",
+    "hint": null
   },
   "q_vocab_a1_04_001": {
-    "question": "Nghĩa của 'lunes' là gì?",
-    "correct": "Monday",
+    "question": "'lunes' nghĩa là gì?",
+    "correct": "Thứ Hai",
     "wrong": [
-      "Tuesday",
-      "Friday",
-      "Sunday"
+      "Thứ Ba",
+      "Thứ Sáu",
+      "Chủ Nhật"
     ],
-    "explanation": "'Lunes' có nghĩa là 'Monday'. trong tiếng Tây Ban Nha, days của week là not capitalized."
+    "explanation": "'Lunes' nghĩa là 'Thứ Hai'. Trong tiếng Tây Ban Nha, các thứ trong tuần không viết hoa.",
+    "hint": null
   },
   "q_vocab_a1_04_002": {
     "question": "El primer mes del año es ___.",
@@ -324,68 +354,75 @@
       "marzo",
       "diciembre"
     ],
-    "explanation": "'Enero' có nghĩa là 'January', first month của year. Like days, months là not capitalized trong tiếng Tây Ban Nha."
+    "explanation": "'Enero' nghĩa là 'tháng Một', tháng đầu tiên của năm. Giống như các thứ trong tuần, tên tháng không viết hoa trong tiếng Tây Ban Nha.",
+    "hint": null
   },
   "q_vocab_a1_04_003": {
-    "question": "Nghĩa của 'verano' là gì?",
-    "correct": "summer",
+    "question": "'verano' nghĩa là gì?",
+    "correct": "mùa hè",
     "wrong": [
-      "winter",
-      "spring",
-      "autumn"
+      "mùa đông",
+      "mùa xuân",
+      "mùa thu"
     ],
-    "explanation": "'Verano' có nghĩa là 'summer'. four seasons là: primavera (spring), verano (summer), otoño (autumn), invierno (winter)."
+    "explanation": "'Verano' nghĩa là 'mùa hè'. Bốn mùa là: primavera (mùa xuân), verano (mùa hè), otoño (mùa thu), invierno (mùa đông).",
+    "hint": null
   },
   "q_vocab_a1_04_004": {
-    "question": "Nghĩa của 'semana' là gì?",
+    "question": "'semana' nghĩa là gì?",
     "correct": "tuần",
     "wrong": [
       "tháng",
       "ngày",
       "năm"
     ],
-    "explanation": "'Semana' có nghĩa là 'week'. 'Fin de semana' có nghĩa là 'weekend'."
+    "explanation": "'Semana' nghĩa là 'tuần'. 'Fin de semana' nghĩa là 'cuối tuần'.",
+    "hint": null
   },
   "q_vocab_a1_04_005": {
-    "question": "Saturday và Sunday",
+    "question": "Thứ Bảy và Chủ Nhật",
     "correct": "sábado y domingo",
     "wrong": [
       "viernes y sábado",
       "lunes y martes",
       "jueves y viernes"
     ],
-    "explanation": "'Sábado' là Saturday và 'domingo' là Sunday. Together họ form 'fin de semana' (weekend)."
+    "explanation": "'Sábado' là Thứ Bảy và 'domingo' là Chủ Nhật. Hai ngày này hợp lại thành 'fin de semana' (cuối tuần).",
+    "hint": null
   },
   "q_vocab_a1_04_006": {
-    "question": "Nghĩa của 'primavera' trong 'Me gusta la primavera' là gì?",
-    "correct": "spring",
+    "question": "'primavera' trong 'Me gusta la primavera' nghĩa là gì?",
+    "correct": "mùa xuân",
     "wrong": [
-      "summer",
-      "autumn",
-      "winter"
+      "mùa hè",
+      "mùa thu",
+      "mùa đông"
     ],
-    "explanation": "'Primavera' có nghĩa là 'spring'. sentence có nghĩa là 'I like spring'."
+    "explanation": "'Primavera' nghĩa là 'mùa xuân'. Câu này nghĩa là 'Tôi thích mùa xuân'.",
+    "hint": null
   },
   "q_vocab_a1_04_007": {
-    "question": "Someone asks bạn gì day nó là. Today là Wednesday. như thế nào do bạn answer?",
+    "question": "Có người hỏi bạn hôm nay là thứ mấy. Hôm nay là Thứ Tư. Bạn trả lời thế nào?",
     "correct": "Hoy es miércoles.",
     "wrong": [
       "Hoy es martes.",
       "Hoy es jueves.",
       "Hoy es viernes."
     ],
-    "explanation": "'Miércoles' có nghĩa là 'Wednesday'. Note accent mark on 'e'. 'Hoy es...' có nghĩa là 'Today là...'.",
-    "context": "Someone asking what day nó là"
+    "explanation": "'Miércoles' nghĩa là 'Thứ Tư'. Lưu ý dấu sắc trên chữ 'e'. 'Hoy es...' nghĩa là 'Hôm nay là...'.",
+    "context": "Someone asking what day nó là",
+    "hint": null
   },
   "q_vocab_a1_04_008": {
-    "question": "Nghĩa của 'invierno' trong 'En invierno hace frío' là gì?",
-    "correct": "winter",
+    "question": "'invierno' trong 'En invierno hace frío' nghĩa là gì?",
+    "correct": "mùa đông",
     "wrong": [
-      "autumn",
-      "summer",
-      "spring"
+      "mùa thu",
+      "mùa hè",
+      "mùa xuân"
     ],
-    "explanation": "'Invierno' có nghĩa là 'winter'. sentence có nghĩa là 'trong winter nó là cold'."
+    "explanation": "'Invierno' nghĩa là 'mùa đông'. Câu này nghĩa là 'Vào mùa đông trời lạnh'.",
+    "hint": null
   },
   "q_vocab_a1_04_009": {
     "question": "Hoy es viernes. Mañana es ___.",
@@ -395,38 +432,42 @@
       "domingo",
       "lunes"
     ],
-    "explanation": "'Viernes' là Friday và day after Friday là 'sábado' (Saturday)."
+    "explanation": "'Viernes' là Thứ Sáu và ngày sau Thứ Sáu là 'sábado' (Thứ Bảy).",
+    "hint": null
   },
   "q_vocab_a1_04_010": {
-    "question": "bạn want đến schedule a meeting. như thế nào do bạn say ' meeting là on Thursday'?",
+    "question": "Bạn muốn lên lịch một cuộc họp. Bạn nói 'Cuộc họp diễn ra vào Thứ Năm' thế nào?",
     "correct": "La reunión es el jueves.",
     "wrong": [
       "La reunión es el martes.",
       "La reunión es el miércoles.",
       "La reunión es la jueves."
     ],
-    "explanation": "Days của week use mạo từ 'el' (số ít) hoặc 'los' (số nhiều/habitual). 'El jueves' = 'on Thursday'.",
-    "context": "Scheduling a meeting tại work"
+    "explanation": "Các thứ trong tuần dùng mạo từ 'el' (số ít) hoặc 'los' (số nhiều/thói quen lặp lại). 'El jueves' = 'vào Thứ Năm'.",
+    "context": "Scheduling a meeting tại work",
+    "hint": null
   },
   "q_vocab_a1_05_001": {
-    "question": "Nghĩa của 'rojo' là gì?",
+    "question": "'rojo' nghĩa là gì?",
     "correct": "đỏ",
     "wrong": [
       "xanh dương",
       "xanh lá",
       "vàng"
     ],
-    "explanation": "'Rojo' có nghĩa là 'red'. Like nhất adjectives, nó changes form: rojo (masc.), roja (fem.)."
+    "explanation": "'Rojo' nghĩa là 'đỏ'. Giống hầu hết các tính từ, nó thay đổi dạng: rojo (giống đực), roja (giống cái).",
+    "hint": null
   },
   "q_vocab_a1_05_002": {
-    "question": "Nghĩa của 'blanco' là gì?",
-    "correct": "white",
+    "question": "'blanco' nghĩa là gì?",
+    "correct": "trắng",
     "wrong": [
-      "black",
-      "grey",
-      "brown"
+      "đen",
+      "xám",
+      "nâu"
     ],
-    "explanation": "'Blanco' có nghĩa là 'white'. Its opposite là 'negro' (black)."
+    "explanation": "'Blanco' nghĩa là 'trắng'. Từ trái nghĩa của nó là 'negro' (đen).",
+    "hint": null
   },
   "q_vocab_a1_05_003": {
     "question": "El cielo es ___. (Bầu trời có màu ___)",
@@ -440,24 +481,26 @@
     "hint": null
   },
   "q_vocab_a1_05_004": {
-    "question": "Nghĩa của 'negro' là gì?",
-    "correct": "black",
+    "question": "'negro' nghĩa là gì?",
+    "correct": "đen",
     "wrong": [
-      "white",
-      "grey",
-      "brown"
+      "trắng",
+      "xám",
+      "nâu"
     ],
-    "explanation": "'Negro' có nghĩa là 'black'. nó follows quy tắc sự hòa hợp tính từ: negro (masc.), negra (fem.)."
+    "explanation": "'Negro' nghĩa là 'đen'. Nó tuân theo quy tắc hòa hợp tính từ thông thường: negro (giống đực), negra (giống cái).",
+    "hint": null
   },
   "q_vocab_a1_05_005": {
-    "question": "Nghĩa của 'amarillo' trong 'El sol es amarillo' là gì?",
+    "question": "'amarillo' nghĩa là gì trong câu 'El sol es amarillo'?",
     "correct": "vàng",
     "wrong": [
-      "orange",
+      "cam",
       "đỏ",
-      "white"
+      "trắng"
     ],
-    "explanation": "'Amarillo' có nghĩa là 'yellow'. sentence có nghĩa là ' sun là yellow'."
+    "explanation": "'Amarillo' nghĩa là 'vàng'. Câu này có nghĩa là 'Mặt trời màu vàng'.",
+    "hint": null
   },
   "q_vocab_a1_05_006": {
     "question": "Chiếc xe màu xanh lá.",
@@ -467,51 +510,54 @@
       "El coche es azul.",
       "La coche es verde."
     ],
-    "explanation": "'Verde' nghĩa là 'xanh lá'. 'Coche' (xe hơi) là giống đực nên dùng 'el'. 'Verde' không thay đổi theo giống.",
+    "explanation": "'Verde' nghĩa là 'xanh lá'. 'Coche' (xe hơi) là danh từ giống đực nên ta dùng 'el'. 'Verde' không thay đổi theo giống.",
     "hint": null
   },
   "q_vocab_a1_05_007": {
-    "question": "'Gris' nghĩa là gì trong câu 'El gato es gris'?",
-    "correct": "màu xám",
+    "question": "'gris' nghĩa là gì trong câu 'El gato es gris'?",
+    "correct": "xám",
     "wrong": [
-      "màu nâu",
-      "màu trắng",
-      "màu đen"
+      "nâu",
+      "trắng",
+      "đen"
     ],
-    "explanation": "'Gris' nghĩa là 'màu xám'. Giống như 'azul' và 'verde', nó không thay đổi dạng theo giống đực/giống cái.",
+    "explanation": "'Gris' nghĩa là 'xám'. Giống như 'azul' và 'verde', nó không thay đổi dạng theo giống đực/giống cái.",
     "hint": null
   },
   "q_vocab_a1_05_008": {
     "question": "¿De qué color es la naranja?",
-    "correct": "What color is the orange?",
+    "correct": "Quả cam có màu gì?",
     "wrong": [
-      "Where is the orange?",
-      "How much is the orange?",
-      "Do you like the orange?"
+      "Quả cam ở đâu?",
+      "Quả cam giá bao nhiêu?",
+      "Bạn có thích quả cam không?"
     ],
-    "explanation": "'¿De qué color es...?' có nghĩa là 'gì color là...?' Đây là standard way để ask about colors trong tiếng Tây Ban Nha."
+    "explanation": "'¿De qué color es...?' nghĩa là '... có màu gì?'. Đây là cách hỏi về màu sắc thông dụng trong tiếng Tây Ban Nha.",
+    "hint": null
   },
   "q_vocab_a1_05_009": {
-    "question": "bạn là shopping cho clothes và want đến ask if a shirt comes trong pink. gì do bạn say?",
+    "question": "Bạn đang mua quần áo và muốn hỏi xem chiếc áo sơ mi có màu hồng không. Bạn nói gì?",
     "correct": "¿Tiene esta camisa en rosa?",
     "wrong": [
       "¿Tiene esta camisa en rojo?",
       "¿Tiene esta camisa en marrón?",
       "¿Tiene esta falda en rosa?"
     ],
-    "explanation": "'Rosa' có nghĩa là 'pink'. '¿Tiene... en rosa?' là a natural way để ask if something comes trong pink.",
-    "context": "Shopping cho clothes trong a store"
+    "explanation": "'Rosa' nghĩa là 'hồng'. '¿Tiene... en rosa?' là cách tự nhiên để hỏi xem một món đồ có màu hồng không.",
+    "context": "Shopping cho clothes trong a store",
+    "hint": null
   },
   "q_vocab_a1_05_010": {
-    "question": "A friend asks bạn của bạn favorite color. như thế nào do bạn say 'My favorite color là blue'?",
+    "question": "Một người bạn hỏi bạn màu yêu thích là gì. Bạn nói 'Màu yêu thích của tôi là màu xanh dương' như thế nào?",
     "correct": "Mi color favorito es el azul.",
     "wrong": [
       "Mi color favorito es el rojo.",
       "Mi color favorita es la azul.",
       "Mi color favorito es el verde."
     ],
-    "explanation": "'Color' là nam tính, so we say 'favorito' (not 'favorita'). 'Azul' có nghĩa là 'blue'.",
-    "context": "Talking about favorite colors with a friend"
+    "explanation": "'Color' là danh từ giống đực nên ta nói 'favorito' (không phải 'favorita'). 'Azul' nghĩa là 'xanh dương'.",
+    "context": "Talking about favorite colors with a friend",
+    "hint": null
   },
   "q_vocab_a1_06_001": {
     "question": "Nghĩa của 'agua' là gì?",

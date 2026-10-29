@@ -7,8 +7,8 @@
       "Los",
       "Las"
     ],
-    "explanation": "'libro' เป็นคำนามเพศชายเอกพจน์ ดังนั้นจึงใช้คำนำหน้านามชี้เฉพาะ 'el'\n- el libro (เพศชาย เอกพจน์)\n- la mesa (เพศหญิง เอกพจน์)",
-    "hint": "libro ลงท้ายด้วย -o ซึ่งโดยทั่วไปแล้วบ่งบอกถึงเพศชาย"
+    "explanation": "'libro' เป็นคำนามเพศชายเอกพจน์ จึงใช้คำนำหน้านามชี้เฉพาะ 'el'\n- el libro (เพศชาย เอกพจน์)\n- la mesa (เพศหญิง เอกพจน์)",
+    "hint": "libro ลงท้ายด้วย -o ซึ่งโดยทั่วไปบ่งบอกว่าเป็นเพศชาย"
   },
   "q_gram_a1_01_002": {
     "question": "___ mano es pequeña.",
@@ -18,30 +18,31 @@
       "Los",
       "Las"
     ],
-    "explanation": "'ผู้ชายo' เป็นข้อยกเว้นที่พบบ่อย: แม้จะลงท้ายด้วย -o แต่เป็นเพศหญิง\n- la ผู้ชายo (เพศหญิง, ข้อยกเว้น)\n- el libro (เพศชาย, ปกติลงท้าย -o)",
-    "hint": "นี่คือข้อยกเว้นที่มีชื่อเสียงของกฎ -o = เพศชาย"
+    "explanation": "'mano' เป็นหนึ่งในข้อยกเว้นที่พบบ่อย: แม้ลงท้ายด้วย -o แต่เป็นเพศหญิง\n- la mano (เพศหญิง ข้อยกเว้น)\n- el libro (เพศชาย ลงท้าย -o ตามปกติ)",
+    "hint": "นี่เป็นข้อยกเว้นที่มีชื่อเสียงของกฎ -o = เพศชาย"
   },
   "q_gram_a1_01_003": {
-    "question": "'casa' ในประโยค 'la casa' หมายถึงอะไร?",
+    "question": "'casa' ใน 'la casa' แปลว่าอะไร?",
     "correct": "บ้าน",
     "wrong": [
       "โต๊ะ",
       "แมว",
       "หนังสือ"
     ],
-    "explanation": "'casa' แปลว่า 'บ้าน' เป็นคำนามเพศหญิงที่ลงท้ายด้วย -a\n- la casa = บ้าน (เจาะจง)\n- una casa = บ้านหลังหนึ่ง",
+    "explanation": "'casa' แปลว่า 'บ้าน' เป็นคำนามเพศหญิงที่ลงท้ายด้วย -a\n- la casa = บ้าน (เฉพาะเจาะจง)\n- una casa = บ้านหลังหนึ่ง",
     "hint": null
   },
   "q_gram_a1_01_004": {
-    "question": "___ ciudad es grande. (use ถูกต้อง คำนำหน้านาม สำหรับ เพศหญิง คำนาม)",
+    "question": "___ ciudad es grande. (ใช้คำนำหน้านามที่ถูกต้องสำหรับคำนามเพศหญิง)",
     "correct": "La",
     "wrong": [
       "El",
       "Los",
       "Las"
     ],
-    "explanation": "'ciudad' ลงท้ายด้วย -dad ซึ่งเป็นคำลงท้ายเพศหญิง\nคำนามที่ลงท้ายด้วย -ción, -sión, -dad และ -tad มักจะเป็นเพศหญิง",
-    "conjugation_info": "คำลงท้ายเพศหญิง: -a, -ción, -sión, -dad, -tad, -tud"
+    "explanation": "'ciudad' ลงท้ายด้วย -dad ซึ่งเป็นตัวลงท้ายของเพศหญิง\nคำนามที่ลงท้ายด้วย -ción, -sión, -dad และ -tad โดยทั่วไปเป็นเพศหญิง",
+    "conjugation_info": "คำลงท้ายเพศหญิง: -a, -ción, -sión, -dad, -tad, -tud",
+    "hint": null
   },
   "q_gram_a1_01_005": {
     "question": "___ problema es difícil.",
@@ -51,19 +52,20 @@
       "Los",
       "Las"
     ],
-    "explanation": "'problema' เป็นเพศชายแม้จะลงท้ายด้วย -a คำที่มีต้นกำเนิดจากภาษากรีกที่ลงท้ายด้วย -ma เป็นเพศชาย\n- el problema, el tema, el sistema, el programa",
-    "hint": "คำต้นกำเนิดจากภาษากรีกที่ลงท้ายด้วย -ma เป็นเพศชาย"
+    "explanation": "'problema' เป็นเพศชาย แม้จะลงท้ายด้วย -a คำที่มาจากภาษากรีกและลงท้ายด้วย -ma เป็นเพศชาย\n- el problema, el tema, el sistema, el programa",
+    "hint": "คำที่มาจากภาษากรีกและลงท้ายด้วย -ma เป็นเพศชาย"
   },
   "q_gram_a1_01_006": {
-    "question": "___ televisión es nueva. (select ถูกต้อง คำนำหน้านาม)",
+    "question": "___ televisión es nueva. (เลือกคำนำหน้านามที่ถูกต้อง)",
     "correct": "La",
     "wrong": [
       "El",
       "Los",
       "Las"
     ],
-    "explanation": "'televisión' ลงท้ายด้วย -sión ทำให้เป็นเพศหญิง\nคำนามทั้งหมดที่ลงท้ายด้วย -ción และ -sión เป็นเพศหญิงในภาษาสเปน",
-    "conjugation_info": "คำลงท้ายเพศหญิง: -ción (nación), -sión (televisión), -dad (ciudad)"
+    "explanation": "'televisión' ลงท้ายด้วย -sión จึงเป็นเพศหญิง\nคำนามทุกคำที่ลงท้ายด้วย -ción และ -sión ในภาษาสเปนเป็นเพศหญิง",
+    "conjugation_info": "คำลงท้ายเพศหญิง: -ción (nación), -sión (televisión), -dad (ciudad)",
+    "hint": null
   },
   "q_gram_a1_01_007": {
     "question": "___ día es bonito.",
@@ -73,51 +75,54 @@
       "Los",
       "Las"
     ],
-    "explanation": "'día' เป็นข้อยกเว้นที่พบบ่อยที่สุดในภาษาสเปน: เป็นเพศชายแม้จะลงท้ายด้วย -a\n- el día (เพศชาย, ข้อยกเว้น)\n- ข้อยกเว้นอื่นๆ: el mapa, el sofá",
-    "hint": "ไม่ใช่ทุกคำที่ลงท้ายด้วย -a เป็นเพศหญิง"
+    "explanation": "'día' เป็นหนึ่งในข้อยกเว้นที่พบบ่อยที่สุดในภาษาสเปน: เป็นเพศชายแม้ลงท้ายด้วย -a\n- el día (เพศชาย ข้อยกเว้น)\n- ข้อยกเว้นอื่น ๆ: el mapa, el sofá",
+    "hint": "คำที่ลงท้ายด้วย -a ไม่ได้เป็นเพศหญิงทั้งหมด"
   },
   "q_gram_a1_01_008": {
-    "question": " map เป็น ใหญ่.",
+    "question": "แผนที่ใหญ่",
     "correct": "El mapa es grande.",
     "wrong": [
       "La mapa es grande.",
       "Los mapas son grandes.",
       "El mapa es pequeño."
     ],
-    "explanation": "'mapa' เป็นเพศชายแม้จะลงท้ายด้วย -a (ข้อยกเว้นอีกอันของกฎ -a = เพศหญิง)\n'ใหญ่' = 'grande' ซึ่งไม่เปลี่ยนตามเพศ"
+    "explanation": "'mapa' เป็นเพศชายแม้ลงท้ายด้วย -a (อีกหนึ่งข้อยกเว้นของกฎ -a = เพศหญิง)\n'ใหญ่' = 'grande' ซึ่งไม่เปลี่ยนรูปตามเพศ",
+    "hint": null
   },
   "q_gram_a1_01_009": {
-    "question": "___ fotos son de mi familia. (select ถูกต้อง คำนำหน้านาม สำหรับ พหูพจน์ เพศหญิง คำนาม)",
+    "question": "___ fotos son de mi familia. (เลือกคำนำหน้านามที่ถูกต้องสำหรับคำนามเพศหญิงพหูพจน์)",
     "correct": "Las",
     "wrong": [
       "Los",
       "La",
       "El"
     ],
-    "explanation": "'foto' เป็นคำย่อของ 'fotografía' ซึ่งเป็นเพศหญิง\n- la foto → las fotos\nคำย่อคงเพศของคำเต็ม",
-    "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)"
+    "explanation": "'foto' เป็นคำย่อของ 'fotografía' ซึ่งเป็นเพศหญิง\n- la foto → las fotos\nคำย่อยังคงเพศเดียวกับคำเต็ม",
+    "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)",
+    "hint": null
   },
   "q_gram_a1_01_010": {
     "question": "มือเย็น",
     "correct": "La mano está fría.",
     "wrong": [
       "El mano está frío.",
-      "La mano es fría.",
+      "La mano está frío.",
       "Las manos están frías."
     ],
-    "explanation": "'mano' เป็นเพศหญิง แม้จะลงท้ายด้วย -o (ข้อยกเว้นสำคัญ)\nเราใช้ 'está' เพราะความรู้สึกหนาวเป็นสภาวะชั่วคราว\n- la mano fría (คำคุณศัพท์ต้องสอดคล้องกับเพศหญิง)",
+    "explanation": "'mano' เป็นเพศหญิงแม้ลงท้ายด้วย -o (ข้อยกเว้นสำคัญ)\nเราใช้ 'está' เพราะความรู้สึกเย็นเป็นสภาวะชั่วคราว\n- la mano fría (คำคุณศัพท์เปลี่ยนรูปตามเพศหญิง)",
     "hint": null
   },
   "q_gram_a1_02_001": {
-    "question": "Voy ___ parque. (fill ใน: a + el)",
+    "question": "Voy ___ parque. (เติม: a + el)",
     "correct": "al",
     "wrong": [
       "a el",
       "a la",
       "del"
     ],
-    "explanation": "เมื่อคำบุพบท 'a' ตามด้วยคำนำหน้านาม 'el' พวกเขาจะหดตัวเป็น 'al'\n- a + el = al (Voy al parque.)\nนี่เป็นหนึ่งในสองการหดตัวในภาษาสเปน",
-    "conjugation_info": "การหดตัว: a + el = al, de + el = del"
+    "explanation": "เมื่อบุพบท 'a' ตามด้วยคำนำหน้านาม 'el' จะรวมกันเป็น 'al'\n- a + el = al (Voy al parque.)\nนี่เป็นหนึ่งในการหดคำเพียงสองแบบในภาษาสเปน",
+    "conjugation_info": "การหดตัว: a + el = al, de + el = del",
+    "hint": null
   },
   "q_gram_a1_02_002": {
     "question": "___ escuela está cerca.",
@@ -128,7 +133,7 @@
       "Las"
     ],
     "explanation": "'escuela' เป็นคำนามเพศหญิงเอกพจน์ที่ลงท้ายด้วย -a\n- la escuela (เพศหญิง เอกพจน์)\n- las escuelas (เพศหญิง พหูพจน์)",
-    "hint": "escuela ลงท้ายด้วย -a ซึ่งเป็นคำลงท้ายเพศหญิงทั่วไป"
+    "hint": "escuela ลงท้ายด้วย -a ซึ่งเป็นตัวลงท้ายทั่วไปของเพศหญิง"
   },
   "q_gram_a1_02_003": {
     "question": "___ niños juegan en el parque.",
@@ -138,30 +143,31 @@
       "El",
       "La"
     ],
-    "explanation": "'niños' เป็นคำนามเพศชายพหูพจน์ ดังนั้นจึงใช้คำนำหน้านามชี้เฉพาะ 'los'\n- el niño (เพศชาย เอกพจน์) → los niños (เพศชาย พหูพจน์)",
-    "hint": "niños เป็นพหูพจน์ของ niño"
+    "explanation": "'niños' เป็นคำนามเพศชายพหูพจน์ จึงใช้คำนำหน้านามชี้เฉพาะ 'los'\n- el niño (เพศชาย เอกพจน์) → los niños (เพศชาย พหูพจน์)",
+    "hint": "niños เป็นรูปพหูพจน์ของ niño"
   },
   "q_gram_a1_02_004": {
     "question": "'los' ใน 'los libros' บ่งบอกอะไร?",
-    "correct": "คำนำหน้านามเจาะจงพหูพจน์เพศชาย",
+    "correct": "คำนำหน้านามชี้เฉพาะเพศชายพหูพจน์",
     "wrong": [
-      "คำนำหน้านามเจาะจงพหูพจน์เพศหญิง",
-      "คำนำหน้านามเจาะจงเอกพจน์เพศชาย",
-      "คำนำหน้านามไม่เจาะจงพหูพจน์เพศชาย"
+      "คำนำหน้านามชี้เฉพาะเพศหญิงพหูพจน์",
+      "คำนำหน้านามชี้เฉพาะเพศชายเอกพจน์",
+      "คำนำหน้านามไม่ชี้เฉพาะเพศชายพหูพจน์"
     ],
-    "explanation": "'los' คือคำนำหน้านามเจาะจงพหูพจน์เพศชาย (= 'the' สำหรับคำนามพหูพจน์เพศชาย)\n- el (ช. เอกพจน์), la (ญ. เอกพจน์), los (ช. พหูพจน์), las (ญ. พหูพจน์)",
+    "explanation": "'los' คือคำนำหน้านามชี้เฉพาะเพศชายพหูพจน์ (= 'the' สำหรับคำนามเพศชายพหูพจน์)\n- el (ชาย เอกพจน์), la (หญิง เอกพจน์), los (ชาย พหูพจน์), las (หญิง พหูพจน์)",
     "hint": null
   },
   "q_gram_a1_02_005": {
-    "question": "Vengo ___ cine. (fill ใน: de + el)",
+    "question": "Vengo ___ cine. (เติม: de + el)",
     "correct": "del",
     "wrong": [
       "de el",
       "de la",
       "al"
     ],
-    "explanation": "เมื่อ 'de' ตามด้วย 'el' พวกเขาจะหดตัวเป็น 'del'\n- de + el = del (Vengo del cine.)\nการหดตัวนี้เป็นข้อบังคับในภาษาสเปน",
-    "conjugation_info": "การหดตัว: a + el = al, de + el = del"
+    "explanation": "เมื่อ 'de' ตามด้วย 'el' จะรวมกันเป็น 'del'\n- de + el = del (Vengo del cine.)\nการหดคำนี้เป็นข้อบังคับในภาษาสเปน",
+    "conjugation_info": "การหดตัว: a + el = al, de + el = del",
+    "hint": null
   },
   "q_gram_a1_02_006": {
     "question": "___ flores son bonitas.",
@@ -171,51 +177,53 @@
       "La",
       "El"
     ],
-    "explanation": "'flores' เป็น a เพศหญิง พหูพจน์ คำนาม.\n- la flor (เพศหญิง เอกพจน์) → las flores (เพศหญิง พหูพจน์)\n definite คำนำหน้านาม ต้อง match ใน gender และ number.",
-    "hint": "flor เป็น เพศหญิง; flores เป็น its พหูพจน์ สำหรับm"
+    "explanation": "'flores' เป็นคำนามเพศหญิงพหูพจน์\n- la flor (เพศหญิง เอกพจน์) → las flores (เพศหญิง พหูพจน์)\nคำนำหน้านามชี้เฉพาะต้องสอดคล้องกับเพศและจำนวน",
+    "hint": "flor เป็นเพศหญิง; flores คือรูปพหูพจน์ของมัน"
   },
   "q_gram_a1_02_007": {
-    "question": "ฉันทำงานทุกวันจันทร์",
+    "question": "ฉันทำงานวันจันทร์ (ทุกสัปดาห์)",
     "correct": "Trabajo los lunes.",
     "wrong": [
       "Trabajo el lunes.",
       "Trabajo en lunes.",
       "Trabajo lunes."
     ],
-    "explanation": "สำหรับการกระทำที่ทำเป็นประจำในวันใดวันหนึ่งของสัปดาห์ ให้ใช้ 'los' + ชื่อวัน\n- los lunes = ทุกวันจันทร์ (เป็นประจำ)\n- el lunes = วันจันทร์ (เจาะจง เช่น วันจันทร์นี้)",
+    "explanation": "สำหรับการกระทำที่ทำเป็นประจำในวันใดวันหนึ่งของสัปดาห์ ให้ใช้ 'los' + ชื่อวัน\n- los lunes = ทุกวันจันทร์ (เป็นประจำ)\n- el lunes = วันจันทร์ (เจาะจง คือวันจันทร์นี้)",
     "hint": null
   },
   "q_gram_a1_02_008": {
-    "question": "Trabajo ___ lunes. (ฉันทำงานทุกวันจันทร์)",
+    "question": "Trabajo ___ lunes. (ฉันทำงานวันจันทร์ทุกสัปดาห์)",
     "correct": "los",
     "wrong": [
       "el",
       "la",
       "las"
     ],
-    "explanation": "ชื่อวันในสัปดาห์ในภาษาสเปนใช้คำนำหน้านามเจาะจง\n- 'los lunes' = ทุกวันจันทร์ (เกิดซ้ำเป็นประจำ)\n- 'el lunes' = วันจันทร์วันใดวันหนึ่งโดยเฉพาะ",
+    "explanation": "วันในสัปดาห์ในภาษาสเปนใช้คำนำหน้านามชี้เฉพาะ\n- 'los lunes' = ทุกวันจันทร์ (เกิดซ้ำเป็นประจำ)\n- 'el lunes' = วันจันทร์ (วันจันทร์วันใดวันหนึ่งโดยเฉพาะ)",
     "hint": "ใช้คำนำหน้านามพหูพจน์สำหรับวันที่เกิดซ้ำเป็นประจำ"
   },
   "q_gram_a1_02_009": {
-    "question": "Cats are independent.",
+    "question": "แมวเป็นสัตว์ที่ไม่พึ่งพาใคร",
     "correct": "Los gatos son independientes.",
     "wrong": [
       "Gatos son independientes.",
       "Unos gatos son independientes.",
       "Las gatas son independientes."
     ],
-    "explanation": "ในภาษาสเปน, general statements require definite คำนำหน้านาม.\n- Los gatos ลูกชาย independientes. (Cats ใน general)\nอังกฤษ omits '' ใน general statements, แต่ สเปน requires มัน."
+    "explanation": "ในภาษาสเปน ประโยคที่พูดถึงสิ่งทั่วไปต้องมีคำนำหน้านามชี้เฉพาะ\n- Los gatos son independientes. (แมวโดยทั่วไป)\nภาษาอังกฤษละ 'the' ในประโยคทั่วไป แต่ภาษาสเปนต้องใช้",
+    "hint": null
   },
   "q_gram_a1_02_010": {
-    "question": "Vamos ___ escuela. (fill ใน: a + la)",
+    "question": "Vamos ___ escuela. (เติม: a + la)",
     "correct": "a la",
     "wrong": [
       "al",
       "a las",
       "a el"
     ],
-    "explanation": " contraction เท่านั้น happens กับ 'a + el = al'. กับ 'la', no contraction occurs.\n- Voy al parque (a + el)\n- Voy a la escuela (a + la, no contraction)",
-    "conjugation_info": "Only a + el = al and de + el = del สำหรับm contractions. Other combinations stay separate."
+    "explanation": "การหดคำเกิดขึ้นเฉพาะกับ 'a + el = al' เท่านั้น เมื่อเป็น 'la' จะไม่มีการหดคำ\n- Voy al parque (a + el)\n- Voy a la escuela (a + la ไม่หดคำ)",
+    "conjugation_info": "Only a + el = al and de + el = del สำหรับm contractions. Other combinations stay separate.",
+    "hint": null
   },
   "q_gram_a1_03_001": {
     "question": "Tengo ___ amigo en España.",
@@ -225,8 +233,8 @@
       "unos",
       "el"
     ],
-    "explanation": "'amigo' เป็น a เพศชาย เอกพจน์ คำนาม, so indefinite คำนำหน้านาม 'un' ใช้.\n- un amigo = a เพื่อน (เพศชาย)\n- una amiga = a เพื่อน (เพศหญิง)",
-    "hint": "amigo ลงท้ายด้วย -o, indiแมวing เพศชาย gender"
+    "explanation": "'amigo' เป็นคำนามเอกพจน์เพศชาย จึงใช้คำนำหน้านามไม่เจาะจง 'un'\n- un amigo = เพื่อนคนหนึ่ง (เพศชาย)\n- una amiga = เพื่อนคนหนึ่ง (เพศหญิง)",
+    "hint": "amigo ลงท้ายด้วย -o แสดงว่าเป็นเพศชาย"
   },
   "q_gram_a1_03_002": {
     "question": "Hay ___ libros en la mesa.",
@@ -236,30 +244,31 @@
       "unas",
       "los"
     ],
-    "explanation": "'libros' เป็นคำนามพหูพจน์เพศชาย ส่วน 'unos' แปลว่า 'บางส่วน/ไม่กี่' ใช้กับพหูพจน์เพศชาย\n- un libro → unos libros\n- una carta → unas cartas",
+    "explanation": "'libros' เป็นคำนามพหูพจน์เพศชาย 'unos' แปลว่า 'บาง/หลาย' สำหรับพหูพจน์เพศชาย\n- un libro → unos libros\n- una carta → unas cartas",
     "hint": "คำนำหน้านามไม่เจาะจงตัวไหนใช้กับพหูพจน์เพศชาย?"
   },
   "q_gram_a1_03_003": {
-    "question": "'unas' ในประโยค 'unas flores' หมายถึงอะไร?",
-    "correct": "บางส่วน/ไม่กี่ (พหูพจน์เพศหญิง)",
+    "question": "'unas' ในคำว่า 'unas flores' หมายถึงอะไร?",
+    "correct": "บาง/หลาย (พหูพจน์เพศหญิง)",
     "wrong": [
-      "the (พหูพจน์เพศหญิง)",
+      "คำนำหน้านามเจาะจง the (พหูพจน์เพศหญิง)",
       "หนึ่ง (เอกพจน์เพศหญิง)",
-      "บางส่วน/ไม่กี่ (พหูพจน์เพศชาย)"
+      "บาง/หลาย (พหูพจน์เพศชาย)"
     ],
-    "explanation": "'unas' คือคำนำหน้านามไม่เจาะจงพหูพจน์เพศหญิง แปลว่า 'บางส่วน/ไม่กี่'\n- un (ช. เอกพจน์), una (ญ. เอกพจน์), unos (ช. พหูพจน์), unas (ญ. พหูพจน์)",
+    "explanation": "'unas' เป็นคำนำหน้านามไม่เจาะจงพหูพจน์เพศหญิง แปลว่า 'บาง/หลาย'\n- un (ชาย เอกพจน์), una (หญิง เอกพจน์), unos (ชาย พหูพจน์), unas (หญิง พหูพจน์)",
     "hint": null
   },
   "q_gram_a1_03_004": {
-    "question": "Soy ___. (I am a teacher.) (conjugate appropriate response)",
+    "question": "Soy ___. (Yo soy maestro.) (เลือกคำตอบที่เหมาะสม)",
     "correct": "profesor",
     "wrong": [
       "un profesor",
       "el profesor",
       "una profesora"
     ],
-    "explanation": "ในภาษาสเปน, indefinite คำนำหน้านาม เป็น omitted กับ professions after ser.\n- Soy profesor. (ถูกต้อง)\n- Soy un profesor. (incorrect ใน standard สเปน)\nนี้ กฎ applies ไปยัง nationalities too: Soy español.",
-    "conjugation_info": "Ser + profession: no article needed. Soy profesor, Soy estudiante, Soy médico."
+    "explanation": "ในภาษาสเปน ไม่ใช้คำนำหน้านามไม่เจาะจงกับอาชีพที่ตามหลัง ser\n- Soy profesor. (ถูกต้อง)\n- Soy un profesor. (ไม่ถูกต้องในภาษาสเปนมาตรฐาน หากไม่มีคำคุณศัพท์หรือส่วนขยาย)\nกฎนี้ใช้กับสัญชาติด้วย: Soy español.",
+    "conjugation_info": "Ser + profession: no article needed. Soy profesor, Soy estudiante, Soy médico.",
+    "hint": null
   },
   "q_gram_a1_03_005": {
     "question": "Barcelona es ___ ciudad bonita.",
@@ -269,19 +278,20 @@
       "la",
       "unas"
     ],
-    "explanation": "'ciudad' เป็น เพศหญิง, และ we use indefinite คำนำหน้านาม เมื่อไหร่ describing something สำหรับ first เวลา.\n- una ciudad bonita = a สวยงาม เมือง\nNote: 'ciudad' ลงท้ายด้วย -dad, a เพศหญิง ending.",
-    "hint": "ciudad เป็น a เพศหญิง คำนาม"
+    "explanation": "'ciudad' เป็นเพศหญิง และเราใช้คำนำหน้านามไม่เจาะจงเมื่ออธิบายสิ่งใดเป็นครั้งแรก\n- una ciudad bonita = เมืองที่สวยงามเมืองหนึ่ง\nหมายเหตุ: 'ciudad' ลงท้ายด้วย -dad ซึ่งเป็นคำลงท้ายของเพศหญิง",
+    "hint": "ciudad เป็นคำนามเพศหญิง"
   },
   "q_gram_a1_03_006": {
-    "question": "No hay ___. (มี ไม่เป็นไร.)",
+    "question": "no hay ___. (ที่นั่นไม่มีปัญหา)",
     "correct": "problema",
     "wrong": [
       "un problema",
       "el problema",
       "problemas"
     ],
-    "explanation": "After negative 'no hay', indefinite คำนำหน้านาม เป็น omitted.\n- No hay problema. (ถูกต้อง)\n- No hay azúรถยนต์. (มี no sugar.)\n คำนำหน้านาม เป็น dropped ใน negative exisสิบtial statements.",
-    "conjugation_info": "Omit indefinite article after: sin (without), no hay (there isn't), and with professions after ser."
+    "explanation": "หลังประโยคปฏิเสธ 'no hay' จะละคำนำหน้านามไม่เจาะจง\n- no hay problema. (ถูกต้อง)\n- no hay azúcar. (ไม่มีน้ำตาล)\nจะละคำนำหน้านามในประโยคปฏิเสธที่บอกว่าไม่มีสิ่งใดอยู่",
+    "conjugation_info": "Omit indefinite article after: sin (without), no hay (there isn't), and with professions after ser.",
+    "hint": null
   },
   "q_gram_a1_03_007": {
     "question": "Café ___ azúcar, por favor. (กาแฟไม่ใส่น้ำตาล)",
@@ -291,29 +301,31 @@
       "con",
       "de"
     ],
-    "explanation": "หลัง 'sin' (ไม่มี/ปราศจาก) จะไม่ใช้คำนำหน้านามไม่เจาะจง\n- Café sin azúcar. (กาแฟไม่ใส่น้ำตาล)\n- Café con leche. (กาแฟใส่นม)",
-    "hint": "บุพบทตัวไหนแปลว่า 'ไม่มี/ปราศจาก'?"
+    "explanation": "หลัง 'sin' (ไม่มี/ปราศจาก) จะละคำนำหน้านามไม่เจาะจง\n- Café sin azúcar. (กาแฟไม่ใส่น้ำตาล)\n- Café con leche. (กาแฟใส่นม)",
+    "hint": "คำบุพบทตัวไหนแปลว่า 'ไม่มี/ปราศจาก'?"
   },
   "q_gram_a1_03_008": {
-    "question": "I buy some flowers.",
+    "question": "ฉันซื้อดอกไม้มาหลายดอก",
     "correct": "Compro unas flores.",
     "wrong": [
       "Compro las flores.",
       "Compro un flores.",
       "Compro una flores."
     ],
-    "explanation": "'some flowers' = 'unas flores' (เพศหญิง พหูพจน์ indefinite คำนำหน้านาม).\n- unas + เพศหญิง พหูพจน์ คำนาม = some (unspecified)\n- las + เพศหญิง พหูพจน์ คำนาม = (specific)"
+    "explanation": "'ดอกไม้หลายดอก' = 'unas flores' (คำนำหน้านามไม่เจาะจงพหูพจน์เพศหญิง)\n- unas + นามพหูพจน์เพศหญิง = บาง/หลาย (ไม่เจาะจง)\n- las + นามพหูพจน์เพศหญิง = ... นั้น (เจาะจง)",
+    "hint": null
   },
   "q_gram_a1_03_009": {
-    "question": "___ gato está en la calle. (A cat เป็น ใน street — any cat.)",
+    "question": "___ gato está en la calle. (แมวตัวหนึ่งอยู่บนถนน — แมวตัวไหนก็ได้)",
     "correct": "Un",
     "wrong": [
       "El",
       "Unos",
       "La"
     ],
-    "explanation": "We use indefinite คำนำหน้านาม 'un' สำหรับ first mention หรือ non-specific reference.\n- Un gato (any แมว, first mention) vs El gato (a specific แมว)\nนี้ distinction เป็น crucial สำหรับ natural สเปน.",
-    "conjugation_info": "Indefinite (first mention/non-specific): un/una/unos/unas. Definite (known/specific): el/la/los/las."
+    "explanation": "เราใช้คำนำหน้านามไม่เจาะจง 'un' เมื่อกล่าวถึงเป็นครั้งแรกหรือไม่ได้ระบุเจาะจง\n- Un gato (แมวตัวไหนก็ได้ กล่าวถึงครั้งแรก) เทียบกับ El gato (แมวตัวที่เจาะจง)\nความแตกต่างนี้สำคัญมากสำหรับการพูดภาษาสเปนให้เป็นธรรมชาติ",
+    "conjugation_info": "Indefinite (first mention/non-specific): un/una/unos/unas. Definite (known/specific): el/la/los/las.",
+    "hint": null
   },
   "q_gram_a1_03_010": {
     "question": "มีหนังสือหลายเล่มอยู่บนโต๊ะ",
@@ -323,19 +335,20 @@
       "Hay un libros en la mesa.",
       "Están unos libros en la mesa."
     ],
-    "explanation": "'หนังสือหลายเล่ม' = 'unos libros' (คำนำหน้านามไม่เจาะจง เพศชาย พหูพจน์)\nเราใช้ 'hay' บอกการมีอยู่ และใช้คำนำหน้านามไม่เจาะจงกับสิ่งที่ไม่ได้ระบุชัดเจน\n- Hay unos libros. (การมีอยู่ ไม่เจาะจง)",
+    "explanation": "'หนังสือหลายเล่ม' = 'unos libros' (คำนำหน้านามไม่เจาะจงพหูพจน์เพศชาย)\nเราใช้ 'hay' บอกว่ามีสิ่งของอยู่ และใช้คำนำหน้านามไม่เจาะจงกับสิ่งที่ไม่เจาะจง\n- Hay unos libros. (บอกการมีอยู่ ไม่เจาะจง)",
     "hint": null
   },
   "q_gram_a1_04_001": {
-    "question": "___ hablamos español. (fill ใน subject สรรพนาม)",
+    "question": "___ hablamos español. (เติมสรรพนามประธาน)",
     "correct": "Nosotros",
     "wrong": [
       "Yo",
       "Ellos",
       "Tú"
     ],
-    "explanation": "'hablamos' เป็น nosotros/nosotras สำหรับm ของ hablar.\n- nosotros hablamos = we speak\n -amos ending indiแมวes first คน พหูพจน์.",
-    "conjugation_info": "Subject pronouns: yo, tú, él/ella/usted, nosotros, vosotros, ellos/ustedes"
+    "explanation": "'hablamos' เป็นรูปของ nosotros/nosotras ของกริยา hablar\n- nosotros hablamos = พวกเราพูด\nคำลงท้าย -amos แสดงบุรุษที่ 1 พหูพจน์",
+    "conjugation_info": "Subject pronouns: yo, tú, él/ella/usted, nosotros, vosotros, ellos/ustedes",
+    "hint": null
   },
   "q_gram_a1_04_002": {
     "question": "___ eres mi amigo.",
@@ -345,7 +358,7 @@
       "Él",
       "Usted"
     ],
-    "explanation": "'eres' คือรูปของกริยา ser สำหรับ tú\n- Tú eres = คุณเป็น (แบบไม่เป็นทางการ)\nสรรพนาม 'tú' ใช้กับเพื่อน ครอบครัว และคนรุ่นราวคราวเดียวกัน",
+    "explanation": "'eres' เป็นรูป tú ของกริยา ser\n- Tú eres = คุณเป็น (แบบไม่เป็นทางการ)\nสรรพนาม 'tú' ใช้กับเพื่อน ครอบครัว และคนรุ่นเดียวกัน",
     "hint": "สรรพนามตัวไหนใช้คู่กับ 'eres'?"
   },
   "q_gram_a1_04_003": {
@@ -356,29 +369,31 @@
       "Tú",
       "Yo"
     ],
-    "explanation": "'viven' เป็น ellos/ellas/ustedes สำหรับm ของ vivir.\n- Ellos viven = พวกเขา live\n -en ending indiแมวes third คน พหูพจน์.",
-    "hint": "viven เป็น a 3rd คน พหูพจน์ คำกริยา สำหรับm"
+    "explanation": "'viven' เป็นรูป ellos/ellas/ustedes ของกริยา vivir\n- Ellos viven = พวกเขาอาศัยอยู่\nคำลงท้าย -en แสดงบุรุษที่ 3 พหูพจน์",
+    "hint": "viven เป็นกริยารูปบุรุษที่ 3 พหูพจน์"
   },
   "q_gram_a1_04_004": {
-    "question": "อะไร เป็น ทางการ way เพื่อพูด 'คุณ' (เอกพจน์) ในภาษาสเปน?",
-    "correct": "usted",
+    "question": "ในภาษาสเปน คำว่า 'you' (เอกพจน์) แบบสุภาพคืออะไร?",
+    "correct": "usted (คุณ — แบบสุภาพ)",
     "wrong": [
-      "tú",
-      "vosotros",
-      "nosotros"
+      "tú (คุณ — แบบไม่เป็นทางการ)",
+      "vosotros (พวกคุณ)",
+      "nosotros (พวกเรา)"
     ],
-    "explanation": "'usted' เป็น สำหรับmal เอกพจน์ 'คุณ', used กับ strangers, elders, และ ใน professional settings.\n- tú = inสำหรับmal 'คุณ'\n- usted = สำหรับmal 'คุณ' (takes 3rd คน คำกริยา สำหรับms)"
+    "explanation": "'usted' คือ 'คุณ' เอกพจน์แบบสุภาพ ใช้กับคนแปลกหน้า ผู้ใหญ่ และในสถานการณ์ทางการ\n- tú = 'คุณ' แบบไม่เป็นทางการ\n- usted = 'คุณ' แบบสุภาพ (ใช้กริยารูปบุรุษที่ 3)",
+    "hint": null
   },
   "q_gram_a1_04_005": {
-    "question": "___ es la profesora. (conjugate ser สำหรับ 3rd บุคคล)",
+    "question": "___ es la profesora. (เธอ)",
     "correct": "Ella",
     "wrong": [
       "Él",
       "Yo",
       "Nosotros"
     ],
-    "explanation": "'Ella' แปลว่า 'she' และ ใช้ สำหรับ a female subject.\n- Ella es la profesora = She เป็น ครู.\n- Él es el profesor = He เป็น ครู.",
-    "conjugation_info": "3rd คน pronouns: él (he), ella (she), usted (you สำหรับmal)"
+    "explanation": "'Ella' แปลว่า 'เธอ' ใช้กับประธานที่เป็นผู้หญิง 'La profesora' เป็นเพศหญิง จึงใช้ 'ella'\n- Ella es la profesora = เธอเป็นครู\n- Él es el profesor = เขาเป็นครู",
+    "conjugation_info": "3rd คน pronouns: él (he), ella (she), usted (you สำหรับmal)",
+    "hint": null
   },
   "q_gram_a1_04_006": {
     "question": "En España, ___ coméis paella.",
@@ -388,50 +403,53 @@
       "nosotros",
       "ellos"
     ],
-    "explanation": "'vosotros' ใช้เป็นหลักในสเปน หมายถึง 'พวกคุณ' พหูพจน์แบบไม่เป็นทางการ\n- coméis คือรูปผันของ comer สำหรับ vosotros\nในละตินอเมริกา ใช้ 'ustedes' แทน 'vosotros'",
-    "hint": "สรรพนามนี้ใช้เป็นหลักในสเปน"
+    "explanation": "'vosotros' ใช้เป็นหลักในสเปน หมายถึง 'พวกคุณ' พหูพจน์แบบไม่เป็นทางการ\n- coméis เป็นรูป vosotros ของกริยา comer\nในละตินอเมริกาจะใช้ 'ustedes' แทน 'vosotros'",
+    "hint": "สรรพนามตัวนี้ใช้เป็นหลักในสเปน"
   },
   "q_gram_a1_04_007": {
-    "question": "We live ใน Barcelona.",
+    "question": "พวกเราอาศัยอยู่ในบาร์เซโลนา",
     "correct": "Vivimos en Barcelona.",
     "wrong": [
       "Viven en Barcelona.",
       "Vivo en Barcelona.",
       "Vivís en Barcelona."
     ],
-    "explanation": "ในภาษาสเปน, subject pronouns เป็น ofสิบ omitted เพราะ คำกริยา ending shows ใคร เป็น speaking.\n- vivimos = we live (nosotros เป็น optional)\n- vivo = I live, vives = คุณ live"
+    "explanation": "ในภาษาสเปนมักละสรรพนามประธาน เพราะคำลงท้ายของกริยาบอกอยู่แล้วว่าใครเป็นผู้พูด\n- vivimos = พวกเราอาศัยอยู่ (จะใส่ nosotros หรือไม่ก็ได้)\n- vivo = ฉันอาศัยอยู่, vives = คุณอาศัยอยู่",
+    "hint": null
   },
   "q_gram_a1_04_008": {
-    "question": "___ habla español muy bien. (He speaks สเปน มาก well.)",
+    "question": "___ habla español muy bien. (เขาพูดภาษาสเปนได้ดีมาก)",
     "correct": "Él",
     "wrong": [
       "Ella",
       "Yo",
       "Tú"
     ],
-    "explanation": "'Él' แปลว่า 'he'. accent on 'E' distinguishes มัน จาก 'el' ( คำนำหน้านาม).\n- Él habla = He speaks\n- El libro = หนังสือ (คำนำหน้านาม, no accent)",
-    "hint": "Note accent mark นั้น distinguishes นี้ สรรพนาม จาก คำนำหน้านาม"
+    "explanation": "'Él' แปลว่า 'เขา' เครื่องหมายสำเสียงบน 'E' ทำให้แตกต่างจาก 'el' (คำนำหน้านาม)\n- Él habla = เขาพูด\n- El libro = หนังสือเล่มนั้น (คำนำหน้านาม ไม่มีเครื่องหมาย)",
+    "hint": "สังเกตเครื่องหมายสำเสียงที่ทำให้สรรพนามนี้ต่างจากคำนำหน้านาม"
   },
   "q_gram_a1_04_009": {
-    "question": "¿___ es usted?",
+    "question": "¿___ es usted? – Soy Ana García.",
     "correct": "Quién",
     "wrong": [
-      "Qué",
-      "Cómo",
-      "Dónde"
+      "Dónde",
+      "Cuándo",
+      "Cuál"
     ],
-    "explanation": "เมื่อไหร่ asking about identity กับ 'usted', '¿Quién es usted?' แปลว่า 'ใคร เป็น คุณ?' (สำหรับmal).\nสังเกตว่า 'usted' takes same คำกริยา สำหรับm as él/ella (3rd คน เอกพจน์).\n- ¿Quién es usted? (สำหรับmal) vs ¿Quién eres tú? (inสำหรับmal)"
+    "explanation": "เมื่อถามถึงตัวตนของ 'usted' ประโยค '¿Quién es usted?' หมายถึง 'คุณคือใคร' (แบบสุภาพ)\nสังเกตว่า 'usted' ใช้กริยารูปเดียวกับ él/ella (บุรุษที่ 3 เอกพจน์)\n- ¿Quién es usted? (สุภาพ) เทียบกับ ¿Quién eres tú? (ไม่เป็นทางการ)",
+    "hint": null
   },
   "q_gram_a1_04_010": {
-    "question": "Yo hablo español, ___ habla francés. (conjugate กับ ถูกต้อง สรรพนาม สำหรับ 'she')",
+    "question": "Yo hablo español, ___ habla francés. (เธอ)",
     "correct": "ella",
     "wrong": [
       "él",
       "tú",
       "usted"
     ],
-    "explanation": "Pronouns เป็น used สำหรับ emphasis หรือ ไปยัง clarify ใคร เป็น being talked about.\n- Yo hablo español, ella habla francés.\n- โดยไม่มี pronouns, 'habla francés' could หมายความว่า he/she/คุณ(สำหรับmal) speaks French.",
-    "conjugation_info": "Use pronouns สำหรับ emphasis: Yo hablo... ella habla... vs just Hablo... Habla..."
+    "explanation": "ใช้สรรพนามเพื่อเน้น หรือเพื่อทำให้ชัดเจนว่ากำลังพูดถึงใคร\n- Yo hablo español, ella habla francés.\n- ถ้าไม่มีสรรพนาม 'habla francés' อาจหมายถึง เขา/เธอ/คุณ (สุภาพ) พูดภาษาฝรั่งเศส",
+    "conjugation_info": "Use pronouns สำหรับ emphasis: Yo hablo... ella habla... vs just Hablo... Habla...",
+    "hint": null
   },
   "q_gram_a1_05_001": {
     "question": "Yo ___ estudiante.",
@@ -441,8 +459,8 @@
       "es",
       "somos"
     ],
-    "explanation": " yo สำหรับm ของ 'ser' เป็น 'soy'.\n- Yo soy estudiante = I am a นักเรียน.\nSer ใช้ สำหรับ professions และ identity.",
-    "hint": "อะไร เป็น first คน เอกพจน์ สำหรับm ของ ser?"
+    "explanation": "รูป yo ของ 'ser' คือ 'soy'\n- Yo soy estudiante = ฉันเป็นนักเรียน\nใช้ ser กับอาชีพและอัตลักษณ์ของบุคคล",
+    "hint": "รูปบุรุษที่หนึ่งเอกพจน์ของ ser คืออะไร?"
   },
   "q_gram_a1_05_002": {
     "question": "Ellos ___ españoles.",
@@ -452,18 +470,19 @@
       "somos",
       "sois"
     ],
-    "explanation": " ellos/ellas/ustedes สำหรับm ของ 'ser' เป็น 'ลูกชาย'.\n- Ellos ลูกชาย españoles = พวกเขา เป็น สเปน.\nSer ใช้ สำหรับ nationality.",
-    "hint": "อะไร เป็น third คน พหูพจน์ สำหรับm ของ ser?"
+    "explanation": "รูป ellos/ellas/ustedes ของ 'ser' คือ 'son'\n- Ellos son españoles = พวกเขาเป็นชาวสเปน\nใช้ ser กับสัญชาติ",
+    "hint": "รูปบุรุษที่สามพหูพจน์ของ ser คืออะไร?"
   },
   "q_gram_a1_05_003": {
-    "question": "อะไร เป็น main use ของ 'ser' ใน 'Ella es doctora'?",
-    "correct": "to express profession",
+    "question": "การใช้ 'ser' หลักในประโยค 'Ella es doctora' คืออะไร?",
+    "correct": "บอกอาชีพ",
     "wrong": [
-      "to express loแมวion",
-      "to express emotion",
-      "to express a temporary state"
+      "บอกสถานที่",
+      "บอกอารมณ์",
+      "บอกสภาวะชั่วคราว"
     ],
-    "explanation": "Ser ใช้ สำหรับ professions: Ella es doctora (She เป็น a หมอ).\nOther uses ของ ser: identity, nationality, characteristics, เวลา, และ origin."
+    "explanation": "ใช้ ser กับอาชีพ: Ella es doctora (เธอเป็นหมอ)\nการใช้ ser แบบอื่นๆ: อัตลักษณ์ สัญชาติ ลักษณะ เวลา และถิ่นกำเนิด",
+    "hint": null
   },
   "q_gram_a1_05_004": {
     "question": "Tú ___ muy inteligente. (conjugate ser)",
@@ -473,8 +492,9 @@
       "es",
       "son"
     ],
-    "explanation": " tú สำหรับm ของ 'ser' เป็น 'eres'.\n- Tú eres inteligente = คุณ เป็น intelligent.\nSer ใช้ สำหรับ inherent characteristics.",
-    "conjugation_info": "ser - present: soy, eres, es, somos, sois, ลูกชาย"
+    "explanation": "รูป tú ของ 'ser' คือ 'eres'\n- Tú eres inteligente = คุณฉลาด\nใช้ ser กับลักษณะประจำตัวที่เป็นธรรมชาติของบุคคล",
+    "conjugation_info": "ser - present: soy, eres, es, somos, sois, ลูกชาย",
+    "hint": null
   },
   "q_gram_a1_05_005": {
     "question": "___ las tres de la tarde.",
@@ -484,7 +504,7 @@
       "Está",
       "Hay"
     ],
-    "explanation": "'Son las tres' = สามโมงแล้ว การบอกเวลาใช้ 'ser'\n- Es la una. (ตีหนึ่ง/บ่ายโมง — เอกพจน์)\n- Son las dos/tres/cuatro... (สองโมงขึ้นไป — พหูพจน์)",
+    "explanation": "'Son las tres' = สามโมงแล้ว การบอกเวลาใช้ 'ser'\n- Es la una. (ตีหนึ่ง/บ่ายโมง — เอกพจน์)\n- Son las dos/tres/cuatro... (สองนาฬิกาเป็นต้นไป — พหูพจน์)",
     "hint": "ชั่วโมงที่เป็นพหูพจน์ใช้ ser รูปไหน?"
   },
   "q_gram_a1_05_006": {
@@ -495,8 +515,9 @@
       "son",
       "soy"
     ],
-    "explanation": "Ser ใช้เพื่อ express อะไร something เป็น made ของ.\n- La mesa es de madera. = โต๊ะ เป็น made ของ wood.\n- 'de' + material กับ ser = made ของ.",
-    "conjugation_info": "ser - present: soy, eres, es, somos, sois, ลูกชาย"
+    "explanation": "ใช้ ser เพื่อบอกว่าสิ่งของทำมาจากวัสดุอะไร\n- La mesa es de madera. = โต๊ะทำจากไม้\n- 'de' + วัสดุ ใช้กับ ser หมายถึง ทำจาก",
+    "conjugation_info": "ser - present: soy, eres, es, somos, sois, ลูกชาย",
+    "hint": null
   },
   "q_gram_a1_05_007": {
     "question": "Nosotros ___ profesores de español.",
@@ -506,18 +527,19 @@
       "son",
       "es"
     ],
-    "explanation": "'somos' เป็น nosotros สำหรับm ของ ser.\n- Nosotros somos profesores = We เป็น ชาchers.\nSer + profession (no คำนำหน้านาม needed).",
-    "hint": "อะไร เป็น first คน พหูพจน์ สำหรับm ของ ser?"
+    "explanation": "'somos' คือรูป nosotros ของ ser\n- Nosotros somos profesores = พวกเราเป็นครู\nser + อาชีพ (ไม่ต้องมีคำนำหน้านาม)",
+    "hint": "รูปบุรุษที่หนึ่งพหูพจน์ของ ser คืออะไร?"
   },
   "q_gram_a1_05_008": {
-    "question": "วันนี้ เป็น วันจันทร์.",
+    "question": "วันนี้เป็นวันจันทร์",
     "correct": "Hoy es lunes.",
     "wrong": [
       "Hoy está lunes.",
       "Hoy son lunes.",
       "Hoy es el lunes."
     ],
-    "explanation": "Ser ใช้ สำหรับ dates และ วันs ของ สัปดาห์.\n- Hoy es lunes. = วันนี้ เป็น วันจันทร์.\nNote: No คำนำหน้านาม ใช้ เมื่อไหร่ stating อะไร วัน มัน เป็น."
+    "explanation": "ใช้ ser กับวันที่และวันในสัปดาห์\n- Hoy es lunes. = วันนี้เป็นวันจันทร์\nหมายเหตุ: เวลาบอกว่าวันนี้เป็นวันอะไร ไม่ใช้คำนำหน้านาม",
+    "hint": null
   },
   "q_gram_a1_05_009": {
     "question": "¿De dónde ___ ustedes? (conjugate ser)",
@@ -527,18 +549,20 @@
       "somos",
       "sois"
     ],
-    "explanation": " ustedes สำหรับm ของ 'ser' เป็น 'ลูกชาย' (same as ellos/ellas).\n- ¿De dónde ลูกชาย ustedes? = ที่ไหน เป็น คุณ ทั้งหมด จาก?\nSer + de = origin.",
-    "conjugation_info": "ser - present: soy, eres, es, somos, sois, ลูกชาย"
+    "explanation": "รูป ustedes ของ 'ser' คือ 'son' (เหมือนกับ ellos/ellas)\n- ¿De dónde son ustedes? = พวกคุณมาจากที่ไหน\nser + de = ถิ่นกำเนิด",
+    "conjugation_info": "ser - present: soy, eres, es, somos, sois, ลูกชาย",
+    "hint": null
   },
   "q_gram_a1_05_010": {
-    "question": "It is one o'clock.",
+    "question": "ตอนนี้ตีหนึ่ง",
     "correct": "Es la una.",
     "wrong": [
       "Son la una.",
       "Es las una.",
       "Son las una."
     ],
-    "explanation": "สำหรับ 1:00, use 'Es la una' (เอกพจน์).\nสำหรับ ทั้งหมด other hours, use 'Son las + number'.\n- Es la una. (1:00) vs Son las dos. (2:00)"
+    "explanation": "สำหรับหนึ่งนาฬิกา ใช้ 'Es la una' (เอกพจน์)\nส่วนชั่วโมงอื่นๆ ทั้งหมด ใช้ 'Son las + ตัวเลข'\n- Es la una. (1:00) เทียบกับ Son las dos. (2:00)",
+    "hint": null
   },
   "q_gram_a1_06_001": {
     "question": "Yo ___ en casa. (conjugate estar)",
@@ -548,8 +572,9 @@
       "estás",
       "está"
     ],
-    "explanation": " yo สำหรับm ของ 'estar' เป็น 'estoy'.\n- Estoy en casa = I am at บ้าน.\nEstar ใช้ สำหรับ loแมวion.",
-    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están"
+    "explanation": "รูป yo ของ 'estar' คือ 'estoy'\n- Estoy en casa = ฉันอยู่บ้าน\nใช้ estar กับสถานที่",
+    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están",
+    "hint": null
   },
   "q_gram_a1_06_002": {
     "question": "El gato ___ en la mesa.",
@@ -559,8 +584,8 @@
       "estoy",
       "están"
     ],
-    "explanation": "ใช้ estar เพื่อบอกตำแหน่งที่ตั้ง\n- El gato está en la mesa. = แมวอยู่บนโต๊ะ\n- การบอกตำแหน่งใช้ estar เสมอ (ไม่ใช่ ser)",
-    "hint": "กริยาตัวไหนใช้บอกตำแหน่งที่ตั้ง?"
+    "explanation": "ใช้ estar เพื่อบอกสถานที่\n- El gato está en la mesa. = แมวอยู่บนโต๊ะ\n- ใช้ estar กับตำแหน่งที่ตั้งของคนและสิ่งของ",
+    "hint": "ใช้กริยาตัวไหนกับสถานที่?"
   },
   "q_gram_a1_06_003": {
     "question": "Mis amigos ___ contentos.",
@@ -570,18 +595,18 @@
       "estamos",
       "estáis"
     ],
-    "explanation": "ใช้ estar กับอารมณ์และสภาวะชั่วคราว\n- están contentos = พวกเขามีความสุข (ตอนนี้)\n- 'contentos' สอดคล้องกับประธานพหูพจน์เพศชาย",
+    "explanation": "ใช้ estar กับอารมณ์และสภาวะชั่วคราว\n- están contentos = พวกเขามีความสุข (ตอนนี้)\n- 'contentos' สอดคล้องกับประธานที่เป็นเพศชายพหูพจน์",
     "hint": "อารมณ์และความรู้สึกใช้กริยาตัวไหน?"
   },
   "q_gram_a1_06_004": {
-    "question": "'estar' ใน '¿Cómo estás?' สื่อถึงอะไร?",
+    "question": "'estar' ใน '¿Cómo estás?' บอกถึงอะไร?",
     "correct": "สุขภาพหรือความรู้สึก",
     "wrong": [
-      "ตัวตน",
+      "อัตลักษณ์",
       "อาชีพ",
       "สัญชาติ"
     ],
-    "explanation": "'¿Cómo estás?' แปลว่า 'สบายดีไหม?' เป็นการถามถึงสภาพหรือความรู้สึกในขณะนี้\nEstar ใช้กับสภาวะชั่วคราว เช่น สุขภาพ อารมณ์ และความรู้สึก",
+    "explanation": "'¿Cómo estás?' แปลว่า 'คุณสบายดีไหม' เป็นการถามถึงสภาวะหรือความรู้สึกในขณะนี้ของอีกฝ่าย\nใช้ estar กับสภาพชั่วคราว เช่น สุขภาพ อารมณ์ และสภาวะทางความรู้สึก",
     "hint": null
   },
   "q_gram_a1_06_005": {
@@ -592,8 +617,9 @@
       "están",
       "estoy"
     ],
-    "explanation": " nosotros สำหรับm ของ 'estar' เป็น 'estamos'.\n- Estamos canเศร้าos = We เป็น เหนื่อย.\nBeing เหนื่อย เป็น a temporary state, so estar ใช้.",
-    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están"
+    "explanation": "รูป nosotros ของ 'estar' คือ 'estamos'\n- Estamos cansados = พวกเราเหนื่อย\nความเหนื่อยเป็นสภาวะชั่วคราว จึงใช้ estar",
+    "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están",
+    "hint": null
   },
   "q_gram_a1_06_006": {
     "question": "La sopa ___ caliente.",
@@ -603,18 +629,19 @@
       "son",
       "están"
     ],
-    "explanation": "Estar ใช้ สำหรับ temporary conditions.\n- La sopa está caliente. = ซุป เป็น ร้อน (right now).\n ซุป's temperature เป็น a temporary state, not a perผู้ชายent characteristic.",
-    "hint": "Temperature เป็น a temporary condition"
+    "explanation": "ใช้ estar กับสภาพชั่วคราว\n- La sopa está caliente. = ซุปร้อน (ตอนนี้)\nอุณหภูมิของซุปเป็นสภาวะชั่วคราว ไม่ใช่ลักษณะถาวร",
+    "hint": "อุณหภูมิเป็นสภาพชั่วคราว"
   },
   "q_gram_a1_06_007": {
-    "question": "I am studying สเปน.",
+    "question": "ฉันกำลังเรียนภาษาสเปน",
     "correct": "Estoy estudiando español.",
     "wrong": [
       "Soy estudiando español.",
       "Estoy estudiar español.",
       "Es estudiando español."
     ],
-    "explanation": " present progressive uses estar + gerund (-ando/-iendo).\n- Estoy estudiando = I am studying\n- estudiar → estudiando"
+    "explanation": "ปัจจุบันกาลต่อเนื่องใช้ estar + gerund (-ando/-iendo)\n- Estoy estudiando = ฉันกำลังเรียน\n- estudiar → estudiando",
+    "hint": null
   },
   "q_gram_a1_06_008": {
     "question": "La puerta ___ abierta.",
@@ -624,28 +651,29 @@
       "son",
       "están"
     ],
-    "explanation": "Estar ใช้ สำหรับ conditions หรือ states นั้น สามารถ change.\n- La puerta está abierta. = door เป็น open.\n door สามารถเป็น opened หรือ closed; มัน's a changeable state.",
-    "hint": "เป็น 'open' a perผู้ชายent characteristic หรือ a changeable state?"
+    "explanation": "ใช้ estar กับสภาพหรือสภาวะที่เปลี่ยนแปลงได้\n- La puerta está abierta. = ประตูเปิดอยู่\nประตูเปิดหรือปิดได้ จึงเป็นสภาวะที่เปลี่ยนแปลงได้",
+    "hint": "'เปิด' เป็นลักษณะถาวร หรือสภาวะที่เปลี่ยนแปลงได้?"
   },
   "q_gram_a1_06_009": {
-    "question": "My brother is sick.",
+    "question": "พี่ชาย/น้องชายของฉันป่วย",
     "correct": "Mi hermano está enfermo.",
     "wrong": [
       "Mi hermano es enfermo.",
       "Mi hermano está enfermedad.",
       "Mis hermanos están enfermos."
     ],
-    "explanation": "Being sick เป็น a temporary condition, so estar ใช้.\n- estar enfermo = ไปยัง เป็น sick (temporary)\nUsing 'ser enfermo' จะ incorrectly imply a perผู้ชายent state."
+    "explanation": "การป่วยเป็นสภาพชั่วคราว จึงใช้ estar\n- estar enfermo = ป่วย (ชั่วคราว)\nถ้าใช้ 'ser enfermo' จะให้ความหมายผิดว่าเป็นภาวะถาวร",
+    "hint": null
   },
   "q_gram_a1_06_010": {
-    "question": "¿Dónde ___ tú ahora? (ผันกริยา estar)",
+    "question": "¿Dónde ___ tú ahora? (conjugate estar)",
     "correct": "estás",
     "wrong": [
       "eres",
       "está",
       "estamos"
     ],
-    "explanation": "รูป tú ของ 'estar' คือ 'estás'\n- ¿Dónde estás? = คุณอยู่ที่ไหน?\nการถามตำแหน่งที่ตั้งใช้ estar เสมอ",
+    "explanation": "รูป tú ของ 'estar' คือ 'estás'\n- ¿Dónde estás? = คุณอยู่ที่ไหน\nใช้ estar เมื่อถามว่าคนหรือสิ่งของอยู่ที่ไหน",
     "conjugation_info": "estar - present: estoy, estás, está, estamos, estáis, están",
     "hint": null
   },

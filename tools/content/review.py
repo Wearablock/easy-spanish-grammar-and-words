@@ -26,7 +26,9 @@ def path_topics():
 
 
 def lv_slice(n, size=11):
-    return path_topics()[(n - 1) * size: n * size]
+    """LV1~LV8 = 11 topics each · LV9 = the rest (14) — A1~B1 is 102 topics"""
+    t = path_topics()
+    return t[(n - 1) * size:] if n == 9 else t[(n - 1) * size: n * size]
 
 
 PROMPT = """You are a strict Spanish teacher reviewing quiz items for learners (CEFR {cefr}). For each item check:

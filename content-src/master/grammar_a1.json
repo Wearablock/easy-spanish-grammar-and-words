@@ -323,7 +323,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "11/15",
+    "votes": "10/15",
     "spanish": [
       "los"
     ],
@@ -556,8 +556,8 @@
   "q_gram_a1_03_004": {
     "type": "conjugation",
     "translation_dir": null,
-    "ref": "es",
-    "votes": "14/15",
+    "ref": "en",
+    "votes": "15/15",
     "spanish": [
       "soy ___.",
       "profesor",
@@ -568,14 +568,14 @@
       ]
     ],
     "entry": {
-      "question": "Soy ___. (Yo soy maestro.) (elige la respuesta adecuada)",
+      "question": "Soy ___. (I am a teacher.)",
       "correct": "profesor",
       "wrong": [
         "un profesor",
         "el profesor",
         "una profesora"
       ],
-      "explanation": "En español se omite el artículo indefinido con las profesiones después de ser.\n- Soy profesor. (correcto)\n- Soy un profesor. (incorrecto en el español estándar sin un adjetivo o complemento)\nEsta regla también se aplica a las nacionalidades: Soy español.",
+      "explanation": "In Spanish, the indefinite article is normally omitted with an unmodified profession after ser.\n- Soy profesor. (correct)\n- Soy un profesor muy bueno. (the article is used when an adjective or modifier is added)\nThis rule applies to nationalities too: Soy español.",
       "conjugation_info": "Ser + profession: no article needed. Soy profesor, Soy estudiante, Soy médico.",
       "hint": null
     }
@@ -609,8 +609,8 @@
   "q_gram_a1_03_006": {
     "type": "conjugation",
     "translation_dir": null,
-    "ref": "es",
-    "votes": "14/15",
+    "ref": "en",
+    "votes": "15/15",
     "spanish": [
       "no hay ___.",
       "problema",
@@ -621,15 +621,16 @@
       ]
     ],
     "entry": {
-      "question": "no hay ___. (Allí is sin problema.)",
+      "question": "no hay ___. (There is no problem.)",
       "correct": "problema",
       "wrong": [
         "un problema",
         "el problema",
         "problemas"
       ],
-      "explanation": "Después de negativo 'no hay', el artículo indefinido se omite.\n- no hay problema. (correcto)\n- no hay azúcar. (No hay sugar.)\nEl artículo es dropped en negativo existential statements.",
-      "conjugation_info": "Omit indefinite article after: sin (without), no hay (there isn't), and with professions after ser."
+      "explanation": "After negative 'no hay', the indefinite article is omitted.\n- No hay problema. (correct)\n- No hay azúcar. (There is no sugar.)\nThe article is dropped in negative existential statements.",
+      "conjugation_info": "Omit indefinite article after: sin (without), no hay (there isn't), and with professions after ser.",
+      "hint": null
     }
   },
   "q_gram_a1_03_007": {
@@ -806,9 +807,9 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "1/4",
+    "votes": "1/5",
     "spanish": [
-      "vous"
+      "sie"
     ],
     "entry": {
       "question": "What is the formal way to say 'you' (singular) in Spanish?",
@@ -921,23 +922,29 @@
     }
   },
   "q_gram_a1_04_009": {
-    "type": "translation",
-    "translation_dir": "es_to_ko",
-    "spanish_side": "question",
-    "ref": "fr",
-    "votes": "70%+",
+    "type": "fill_blank",
+    "translation_dir": null,
+    "ref": "en",
+    "votes": "1/15",
     "spanish": [
-      "¿___ es usted?"
+      "¿___ es usted?",
+      "من",
+      [
+        "أين",
+        "كيف",
+        "ماذا"
+      ]
     ],
     "entry": {
-      "question": "¿___ es usted?",
+      "question": "¿___ es usted? – Soy Ana García. (Who are you?)",
       "correct": "Quién",
       "wrong": [
-        "Qué",
-        "Cómo",
-        "Dónde"
+        "Dónde",
+        "Cuándo",
+        "Cuál"
       ],
-      "explanation": "Quand asking à propos de identity avec 'usted', '¿Quién es usted?' signifie 'Qui sont vous?' (formel).\nNotez que 'usted' takes Le/La same verbe form as él/ella (3rd personne singulier).\n- ¿Quién es usted? (formel) vs ¿Quién eres tú? (informel)"
+      "explanation": "When asking about identity with 'usted', '¿Quién es usted?' means 'Who are you?' (formal).\nNote that 'usted' takes the same verb form as él/ella (3rd person singular).\n- ¿Quién es usted? (formal) vs ¿Quién eres tú? (informal)",
+      "hint": null
     }
   },
   "q_gram_a1_04_010": {
@@ -1023,7 +1030,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "12/15",
+    "votes": "9/15",
     "spanish": [
       "ser"
     ],
@@ -1290,7 +1297,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "11/15",
+    "votes": "10/15",
     "spanish": [
       "estar"
     ],

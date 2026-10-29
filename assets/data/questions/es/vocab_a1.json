@@ -1,23 +1,25 @@
 {
   "q_vocab_a1_01_001": {
-    "question": "¿Qué significa 'hola' ?",
-    "correct": "hello",
+    "question": "¿Qué significa 'hola'?",
+    "correct": "saludo informal para encontrarse con alguien",
     "wrong": [
-      "goodbye",
-      "thank you",
-      "please"
+      "despedida",
+      "expresión de agradecimiento",
+      "fórmula de cortesía para pedir algo"
     ],
-    "explanation": "'Hola' es el/la más común Saludo español, se usa en cualquier momento del día."
+    "explanation": "'Hola' es el saludo más común en español y se usa a cualquier hora del día.",
+    "hint": null
   },
   "q_vocab_a1_01_002": {
-    "question": "¿Qué significa 'gracias' ?",
-    "correct": "thank you",
+    "question": "¿Qué significa 'gracias'?",
+    "correct": "expresión de agradecimiento",
     "wrong": [
-      "please",
-      "sorry",
-      "hello"
+      "fórmula de cortesía para pedir algo",
+      "disculpa",
+      "saludo"
     ],
-    "explanation": "'Gracias' significa 'gracias'. Tú puede decir 'muchas gracias' para 'gracias muchísimo'."
+    "explanation": "'Gracias' se usa para dar las gracias. Puedes decir 'muchas gracias' para agradecer mucho.",
+    "hint": null
   },
   "q_vocab_a1_01_003": {
     "question": "Buenos ___, ¿cómo estás?",
@@ -27,91 +29,98 @@
       "gracias",
       "hola"
     ],
-    "explanation": "'Buenos días' significa 'buenos días' y es a común saludo se usa en el/la mañana."
+    "explanation": "'Buenos días' es un saludo habitual que se usa por la mañana.",
+    "hint": null
   },
   "q_vocab_a1_01_004": {
-    "question": "¿Qué significa 'por favor' ?",
-    "correct": "please",
+    "question": "¿Qué significa 'por favor'?",
+    "correct": "fórmula de cortesía para pedir algo",
     "wrong": [
-      "thank you",
-      "excuse me",
-      "goodbye"
+      "expresión de agradecimiento",
+      "permiso, con perdón",
+      "despedida"
     ],
-    "explanation": "'Por favor' se usa para hacer cortés requests, just como 'por favor' en inglés."
+    "explanation": "'Por favor' se usa para hacer peticiones con educación.",
+    "hint": null
   },
   "q_vocab_a1_01_005": {
     "question": "¿Qué significa 'lo siento' en 'Lo siento mucho'?",
-    "correct": "I'm sorry",
+    "correct": "te pido disculpas",
     "wrong": [
-      "I'm happy",
-      "I'm tired",
-      "I'm fine"
+      "estoy contento",
+      "estoy cansado",
+      "estoy bien"
     ],
-    "explanation": "'Lo siento' literalmente significa 'I feel ello' pero se usa as 'I'm lo siento'. 'Mucho' adds emphasis, significado 'muchísimo'."
+    "explanation": "'Lo siento' se usa para disculparse o expresar pena. 'Mucho' añade énfasis y significa 'muy intensamente'.",
+    "hint": null
   },
   "q_vocab_a1_01_006": {
-    "question": "hasta mañana!",
+    "question": "¡Nos vemos mañana!",
     "correct": "¡Hasta mañana!",
     "wrong": [
       "¡Hasta luego!",
       "¡Buenas noches!",
       "¡Adiós para siempre!"
     ],
-    "explanation": "'Hasta mañana' literalmente significa 'hasta tomorrow' y se usa cuando tú will ver alguien el/la siguiente día."
+    "explanation": "'Hasta mañana' significa literalmente 'hasta el día siguiente' y se usa cuando vas a ver a alguien al día siguiente.",
+    "hint": null
   },
   "q_vocab_a1_01_007": {
     "question": "¿Qué significa 'de nada' en '¡Gracias! — De nada.'?",
-    "correct": "you're welcome",
+    "correct": "no hay de qué",
     "wrong": [
-      "of course",
-      "no problem",
-      "goodbye"
+      "con permiso",
+      "buenas noches",
+      "hasta luego"
     ],
-    "explanation": "'De nada' literalmente translates a 'de nada' y es el/la standard response a 'gracias'."
+    "explanation": "'De nada' es la respuesta habitual a 'gracias'.",
+    "hint": null
   },
   "q_vocab_a1_01_008": {
     "question": "¿Cómo estás?",
-    "correct": "How are you?",
+    "correct": "¿Cómo te encuentras?",
     "wrong": [
-      "What is your name?",
-      "Where are you from?",
-      "How old are you?"
+      "¿Cómo te llamas?",
+      "¿De dónde eres?",
+      "¿Cuántos años tienes?"
     ],
-    "explanation": "'¿Cómo estás?' es an informal way para preguntar '¿cómo estás??' El/la formal version es '¿Cómo está usted?'."
+    "explanation": "'¿Cómo estás?' es una forma informal de preguntar cómo se encuentra alguien. La forma formal es '¿Cómo está usted?'.",
+    "hint": null
   },
   "q_vocab_a1_01_009": {
-    "question": "Chocas sin querer con alguien en la calle. ¿Qué dices?",
+    "question": "Sin querer chocas con alguien en la calle. ¿Qué dices?",
     "correct": "¡Perdón!",
     "wrong": [
       "¡Hola!",
       "¡Gracias!",
       "¡Adiós!"
     ],
-    "explanation": "'Perdón' es una expresión para pedir disculpas o para llamar la atención con cortesía, y se usa cuando molestas a alguien sin querer.",
+    "explanation": "'Perdón' se usa para pedir disculpas cuando molestas a alguien sin querer.",
     "context": "Walking on a crowded street",
     "hint": null
   },
   "q_vocab_a1_01_010": {
-    "question": "Te vas de casa de un amigo ya entrada la noche. ¿Qué dices?",
+    "question": "Te despides de la casa de un amigo a altas horas de la noche. ¿Qué dices?",
     "correct": "¡Buenas noches!",
     "wrong": [
       "¡Buenos días!",
       "¡Buenas tardes!",
       "¡Hola!"
     ],
-    "explanation": "'Buenas noches' se usa tanto como saludo como para despedirse al caer la noche.",
+    "explanation": "'Buenas noches' se usa tanto para saludar como para despedirse por la noche.",
     "context": "Leaving a friend's house at night",
     "hint": null
   },
   "q_vocab_a1_02_001": {
-    "question": "¿Qué significa 'madre' ?",
-    "correct": "mother",
+    "question": "¿Qué significa 'madre'?",
+    "correct": "mujer que ha tenido hijos",
     "wrong": [
-      "father",
-      "sister",
-      "grandmother"
+      "padre",
+      "hermana",
+      "abuela"
     ],
-    "explanation": "'Madre' significa 'mother'. El/la informal palabra es 'mamá'."
+    "explanation": "'Madre' es la mujer que tiene hijos. La palabra informal es 'mamá'.",
+    "hint": null
   },
   "q_vocab_a1_02_002": {
     "question": "Mi ___ se llama Carlos. Es el esposo de mi madre.",
@@ -121,110 +130,120 @@
       "hijo",
       "abuelo"
     ],
-    "explanation": "'Padre' significa 'father'. El/la sentence dice 'My father es named Carlos. He es el/la husband de my mother.'"
+    "explanation": "'Padre' es el progenitor varón. La frase dice: 'Mi padre se llama Carlos. Es el esposo de mi madre.'",
+    "hint": null
   },
   "q_vocab_a1_02_003": {
-    "question": "¿Qué significa 'hermana' ?",
-    "correct": "sister",
+    "question": "¿Qué significa 'hermana'?",
+    "correct": "hija de los mismos padres que tú",
     "wrong": [
-      "brother",
-      "cousin",
-      "aunt"
+      "hermano",
+      "prima",
+      "tía"
     ],
-    "explanation": "'Hermana' es la forma femenina significado 'sister'. La forma masculina 'hermano' significa 'brother'."
+    "explanation": "'Hermana' es la forma femenina. La forma masculina, 'hermano', designa al hijo varón de los mismos padres.",
+    "hint": null
   },
   "q_vocab_a1_02_004": {
-    "question": "¿Qué significa 'abuelo' ?",
-    "correct": "grandfather",
+    "question": "¿Qué significa 'abuelo'?",
+    "correct": "padre de tu padre o de tu madre",
     "wrong": [
-      "uncle",
-      "father",
-      "cousin"
+      "tío",
+      "padre",
+      "primo"
     ],
-    "explanation": "'Abuelo' significa 'grandfather'. 'Abuela' es 'grandmother'. Together, 'abuelos' can significar 'grandparents'."
+    "explanation": "'Abuelo' es el padre de tu padre o de tu madre. 'Abuela' es la madre de ellos. Juntos, 'abuelos' son el abuelo y la abuela.",
+    "hint": null
   },
   "q_vocab_a1_02_005": {
-    "question": "My uncle lives en Madrid.",
+    "question": "Mi tío vive en Madrid.",
     "correct": "Mi tío vive en Madrid.",
     "wrong": [
       "Mi primo vive en Madrid.",
       "Mi abuelo vive en Madrid.",
       "Mi sobrino vive en Madrid."
     ],
-    "explanation": "'Tío' significa 'uncle'. 'Tía' es la forma femenina significado 'aunt'."
+    "explanation": "'Tío' es el hermano de tu padre o de tu madre. 'Tía' es la forma femenina.",
+    "hint": null
   },
   "q_vocab_a1_02_006": {
     "question": "¿Qué significa 'esposa' en 'Ella es mi esposa'?",
-    "correct": "wife",
+    "correct": "mujer casada con alguien",
     "wrong": [
-      "girlfriend",
-      "friend",
-      "sister"
+      "novia",
+      "amiga",
+      "hermana"
     ],
-    "explanation": "'Esposa' significa 'wife'. 'Esposo' significa 'husband'. Estos son formal terms para a married partner."
+    "explanation": "'Esposa' es la mujer casada. 'Esposo' es el hombre casado. En el habla cotidiana también se dice 'mujer' y 'marido'.",
+    "hint": null
   },
   "q_vocab_a1_02_007": {
-    "question": "Quieres presentar a tu amiga a otra persona. ¿Qué palabra usas?",
+    "question": "Quieres presentar a tu amiga a alguien. ¿Qué palabra usas?",
     "correct": "amiga",
     "wrong": [
       "novia",
       "prima",
       "vecina"
     ],
-    "explanation": "'Amiga' designa a una persona de sexo femenino con quien tienes una relación de amistad. Usar 'novia' significaría pareja sentimental, que es algo distinto.",
+    "explanation": "'Amiga' designa a una mujer con quien tienes amistad. Usar 'novia' significaría que es tu pareja sentimental, que es distinto.",
     "context": "Introducing a friend at a party",
     "hint": null
   },
   "q_vocab_a1_02_008": {
     "question": "¿Qué significa 'primo' en 'Mi primo tiene diez años'?",
-    "correct": "cousin",
+    "correct": "hijo de tu tío o de tu tía",
     "wrong": [
-      "brother",
-      "nephew",
-      "son"
+      "hermano",
+      "sobrino",
+      "hijo"
     ],
-    "explanation": "'Primo' (masculino) significa 'cousin'. 'Prima' es la forma femenina. El/la sentence significa 'My cousin es ten años viejo'."
+    "explanation": "'Primo' (masculino) es el hijo de tu tío o tía. 'Prima' es la forma femenina. La frase significa 'Mi primo tiene diez años'.",
+    "hint": null
   },
   "q_vocab_a1_02_009": {
     "question": "Tengo dos hermanos y una hermana.",
-    "correct": "I have two brothers and one sister.",
+    "correct": "Tengo dos hermanos y una hermana.",
     "wrong": [
-      "I have two sisters and one brother.",
-      "I have two cousins and one sister.",
-      "I have two friends and one sister."
+      "Tengo dos hermanas y un hermano.",
+      "Tengo dos primos y una hermana.",
+      "Tengo dos amigos y una hermana."
     ],
-    "explanation": "'Hermanos' es el plural forma masculina significado 'brothers'. 'Hermana' significa 'sister'."
+    "explanation": "'Hermanos' es el plural masculino. 'Hermana' es la forma femenina singular.",
+    "hint": null
   },
   "q_vocab_a1_02_010": {
-    "question": "Your neighbor asks about your family. ¿Cómo se dice 'I live with my parents'?",
+    "question": "Tu vecino te pregunta por tu familia. ¿Cómo dices 'Vivo con mis padres'?",
     "correct": "Vivo con mis padres.",
     "wrong": [
       "Vivo con mis amigos.",
       "Vivo con mis hermanos.",
       "Vivo con mis abuelos."
     ],
-    "explanation": "'Padres' significa 'parents'. Ello es el plural de 'padre' (father) pero cuando se usa en plural ello se refiere a ambos parents.",
-    "context": "Chatting with a neighbor about family"
+    "explanation": "'Padres' significa el padre y la madre. Es el plural de 'padre', pero en plural se refiere a ambos progenitores.",
+    "context": "Chatting with a neighbor about family",
+    "hint": null
   },
   "q_vocab_a1_03_001": {
-    "question": "¿Qué significa 'hora' ?",
-    "correct": "hour / time",
+    "question": "¿Qué significa 'hora'?",
+    "correct": "hora / tiempo",
     "wrong": [
-      "minute",
-      "day",
-      "week"
+      "minuto",
+      "día",
+      "semana"
     ],
-    "explanation": "'Hora' significa 'hora' o 'tiempo' (cuando asking qué tiempo ello es). '¿Qué hora es?' = 'Qué tiempo es ello?'"
+    "explanation": "'Hora' sirve para la hora del reloj y también para preguntar qué hora es: '¿Qué hora es?'.",
+    "hint": null
   },
   "q_vocab_a1_03_002": {
     "question": "¿Qué significa 'mañana' en 'por la mañana'?",
-    "correct": "morning",
+    "correct": "las primeras horas del día",
     "wrong": [
-      "afternoon",
-      "evening",
-      "night"
+      "la tarde",
+      "el anochecer",
+      "la noche"
     ],
-    "explanation": "'Mañana' significa 'mañana' cuando used with 'por la'. Ello can también significar 'tomorrow' en other contexts."
+    "explanation": "'Mañana' con 'por la' se refiere a la parte del día antes del mediodía. En otros contextos también puede significar el día siguiente a hoy.",
+    "hint": null
   },
   "q_vocab_a1_03_003": {
     "question": "Son las tres y ___. (3:30)",
@@ -234,57 +253,63 @@
       "punto",
       "minuto"
     ],
-    "explanation": "'Media' significa 'half'. 'Son las tres y media' significa 'Ello es three thirty' (literalmente 'three y a half')."
+    "explanation": "'Media' equivale a la mitad de una hora. 'Son las tres y media' son las tres y treinta (literalmente, tres y la mitad).",
+    "hint": null
   },
   "q_vocab_a1_03_004": {
-    "question": "¿Qué significa 'reloj' ?",
-    "correct": "clock / watch",
+    "question": "¿Qué significa 'reloj'?",
+    "correct": "aparato que marca la hora (de pared o de pulsera)",
     "wrong": [
-      "calendar",
-      "alarm",
-      "timer"
+      "calendario",
+      "despertador",
+      "temporizador"
     ],
-    "explanation": "'Reloj' can significar ambos 'clock' (wall clock) y 'watch' (wristwatch) en español."
+    "explanation": "'Reloj' designa tanto el reloj de pared como el reloj de pulsera.",
+    "hint": null
   },
   "q_vocab_a1_03_005": {
     "question": "¿Qué significa 'en punto' en 'Son las cinco en punto'?",
-    "correct": "on the dot / exactly",
+    "correct": "exactamente, sin minutos de más",
     "wrong": [
-      "almost",
-      "more or less",
-      "approximately"
+      "casi",
+      "más o menos",
+      "aproximadamente"
     ],
-    "explanation": "'En punto' significa 'en el/la dot' o 'sharp'. 'Son las cinco en punto' = 'Ello es exactly five o'clock'."
+    "explanation": "'En punto' indica una hora exacta. 'Son las cinco en punto' = son exactamente las cinco.",
+    "hint": null
   },
   "q_vocab_a1_03_006": {
-    "question": "It is one o'clock.",
+    "question": "Es la una en punto.",
     "correct": "Es la una.",
     "wrong": [
       "Son las una.",
       "Es el uno.",
       "Son la una."
     ],
-    "explanation": "Para 1:00, we use 'Es la una' (singular). Para todos other hours, we use 'Son las...' (plural)."
+    "explanation": "Para la 1:00 se usa 'Es la una' (singular). Para todas las demás horas se usa 'Son las...' (plural).",
+    "hint": null
   },
   "q_vocab_a1_03_007": {
     "question": "¿Qué significa 'tarde' en 'Buenas tardes'?",
-    "correct": "afternoon",
+    "correct": "la parte del día después del mediodía",
     "wrong": [
-      "morning",
-      "night",
-      "evening"
+      "la mañana",
+      "la noche",
+      "el mediodía"
     ],
-    "explanation": "'Tarde' significa 'tarde'. 'Buenas tardes' se usa roughly from noon hasta sunset."
+    "explanation": "'Tarde' es la parte del día que va del mediodía al atardecer. 'Buenas tardes' se usa más o menos en ese tramo.",
+    "hint": null
   },
   "q_vocab_a1_03_008": {
     "question": "¿Qué hora es? — Son las dos y cuarto.",
-    "correct": "What time is it? — It is 2:15.",
+    "correct": "¿Qué hora es? — Son las 2:15.",
     "wrong": [
-      "What time is it? — It is 2:45.",
-      "What time is it? — It is 2:30.",
-      "What day is it? — It is Tuesday."
+      "¿Qué hora es? — Son las 2:45.",
+      "¿Qué hora es? — Son las 2:30.",
+      "¿Qué día es? — Es martes."
     ],
-    "explanation": "'Cuarto' significa 'quarter'. 'Son las dos y cuarto' = 'Ello es two fifteen' (a quarter past two)."
+    "explanation": "'Cuarto' es la cuarta parte de una hora. 'Son las dos y cuarto' = son las dos y quince.",
+    "hint": null
   },
   "q_vocab_a1_03_009": {
     "question": "Necesitas preguntarle la hora a un desconocido en la calle. ¿Qué dices?",
@@ -294,31 +319,32 @@
       "¿Cuánto cuesta?",
       "¿Dónde está el reloj?"
     ],
-    "explanation": "'Perdone, ¿qué hora es?' es una forma educada de preguntar la hora a alguien. 'Perdone' es la forma formal de 'disculpa'.",
+    "explanation": "'Perdone, ¿qué hora es?' es una forma educada de preguntar la hora. 'Perdone' es la forma formal de pedir disculpas o llamar la atención.",
     "context": "Asking the time on the street",
     "hint": null
   },
   "q_vocab_a1_03_010": {
-    "question": "Tu amigo te pregunta a qué hora te despiertas normalmente. ¿Cómo dices «me despierto a las siete de la mañana»?",
+    "question": "Un amigo te pregunta a qué hora sueles despertarte. ¿Cómo dices que te despiertas a las siete de la mañana?",
     "correct": "Me despierto a las siete de la mañana.",
     "wrong": [
       "Me despierto a las siete de la noche.",
       "Me despierto a la siete de la mañana.",
       "Me duermo a las siete de la mañana."
     ],
-    "explanation": "'A las siete de la mañana' indica la hora a la que ocurre algo por la mañana. Recuerda: se usa 'a las' para todas las horas excepto la una ('a la una').",
+    "explanation": "'A las siete de la mañana' indica las siete de la mañana. Ojo: se usa 'a las' para todas las horas salvo la una ('a la una').",
     "context": "Talking about daily routines",
     "hint": null
   },
   "q_vocab_a1_04_001": {
-    "question": "¿Qué significa 'lunes' ?",
-    "correct": "Monday",
+    "question": "¿Qué significa 'lunes'?",
+    "correct": "el primer día laborable de la semana",
     "wrong": [
-      "Tuesday",
-      "Friday",
-      "Sunday"
+      "martes",
+      "viernes",
+      "domingo"
     ],
-    "explanation": "'Lunes' significa 'Monday'. En español, días del semana son not capitalized."
+    "explanation": "'Lunes' es el primer día laborable de la semana. En español los días de la semana no se escriben con mayúscula.",
+    "hint": null
   },
   "q_vocab_a1_04_002": {
     "question": "El primer mes del año es ___.",
@@ -328,47 +354,52 @@
       "marzo",
       "diciembre"
     ],
-    "explanation": "'Enero' significa 'January', el/la primero mes del años. Como días, months son not capitalized en español."
+    "explanation": "'Enero' es el primer mes del año. Igual que los días, los meses no se escriben con mayúscula en español.",
+    "hint": null
   },
   "q_vocab_a1_04_003": {
-    "question": "¿Qué significa 'verano' ?",
-    "correct": "summer",
+    "question": "¿Qué significa 'verano'?",
+    "correct": "la estación más calurosa del año",
     "wrong": [
-      "winter",
-      "spring",
-      "autumn"
+      "invierno",
+      "primavera",
+      "otoño"
     ],
-    "explanation": "'Verano' significa 'summer'. El/la four seasons son: primavera (spring), verano (summer), otoño (autumn), invierno (winter)."
+    "explanation": "'Verano' es la estación más calurosa. Las cuatro estaciones son: primavera, verano, otoño e invierno.",
+    "hint": null
   },
   "q_vocab_a1_04_004": {
-    "question": "¿Qué significa 'semana' ?",
-    "correct": "week",
+    "question": "¿Qué significa 'semana'?",
+    "correct": "período de siete días",
     "wrong": [
-      "month",
-      "day",
-      "year"
+      "mes",
+      "día",
+      "año"
     ],
-    "explanation": "'Semana' significa 'semana'. 'Fin de semana' significa 'fin de semana'."
+    "explanation": "'Semana' es un período de siete días. 'Fin de semana' es el sábado y el domingo.",
+    "hint": null
   },
   "q_vocab_a1_04_005": {
-    "question": "Saturday and Sunday",
+    "question": "Los dos días del fin de semana",
     "correct": "sábado y domingo",
     "wrong": [
       "viernes y sábado",
       "lunes y martes",
       "jueves y viernes"
     ],
-    "explanation": "'Sábado' es Saturday y 'domingo' es Sunday. Together forma ellos el/la 'fin de semana' (fin de semana)."
+    "explanation": "'Sábado' y 'domingo' son los dos días que forman el 'fin de semana'.",
+    "hint": null
   },
   "q_vocab_a1_04_006": {
     "question": "¿Qué significa 'primavera' en 'Me gusta la primavera'?",
-    "correct": "spring",
+    "correct": "la estación que sigue al invierno",
     "wrong": [
-      "summer",
-      "autumn",
-      "winter"
+      "verano",
+      "otoño",
+      "invierno"
     ],
-    "explanation": "'Primavera' significa 'spring'. El/la sentence significa 'I como spring'."
+    "explanation": "'Primavera' es la estación posterior al invierno. La frase expresa que a quien habla le gusta esa estación.",
+    "hint": null
   },
   "q_vocab_a1_04_007": {
     "question": "Alguien te pregunta qué día es. Hoy es miércoles. ¿Cómo respondes?",
@@ -378,19 +409,20 @@
       "Hoy es jueves.",
       "Hoy es viernes."
     ],
-    "explanation": "'Miércoles' es el día de la semana entre el martes y el jueves. Fíjate en la tilde de la 'é'. 'Hoy es...' sirve para decir qué día es hoy.",
+    "explanation": "'Miércoles' lleva tilde en la 'é'. 'Hoy es...' se usa para decir el día en que estamos.",
     "context": "Someone asking what day it is",
     "hint": null
   },
   "q_vocab_a1_04_008": {
     "question": "¿Qué significa 'invierno' en 'En invierno hace frío'?",
-    "correct": "winter",
+    "correct": "la estación más fría del año",
     "wrong": [
-      "autumn",
-      "summer",
-      "spring"
+      "otoño",
+      "verano",
+      "primavera"
     ],
-    "explanation": "'Invierno' significa 'winter'. El/la sentence significa 'En winter ello es frío'."
+    "explanation": "'Invierno' es la estación más fría del año. La frase indica que en esa estación hace frío.",
+    "hint": null
   },
   "q_vocab_a1_04_009": {
     "question": "Hoy es viernes. Mañana es ___.",
@@ -400,123 +432,132 @@
       "domingo",
       "lunes"
     ],
-    "explanation": "'Viernes' es Friday y el/la día después de Friday es 'sábado' (Saturday)."
+    "explanation": "Después del viernes viene el 'sábado'.",
+    "hint": null
   },
   "q_vocab_a1_04_010": {
-    "question": "You want a schedule a meeting. ¿Cómo se dice 'The meeting is en Thursday'?",
+    "question": "Quieres fijar una reunión. ¿Cómo dices que la reunión es el jueves?",
     "correct": "La reunión es el jueves.",
     "wrong": [
       "La reunión es el martes.",
       "La reunión es el miércoles.",
       "La reunión es la jueves."
     ],
-    "explanation": "Días del semana use el artículo 'el' (singular) o 'los' (plural/habitual). 'El jueves' = 'en Thursday'.",
-    "context": "Scheduling a meeting at work"
+    "explanation": "Los días de la semana llevan el artículo 'el' (singular) o 'los' (plural o hábito). 'El jueves' indica que algo ocurre ese día.",
+    "context": "Scheduling a meeting at work",
+    "hint": null
   },
   "q_vocab_a1_05_001": {
-    "question": "¿Qué significa 'rojo' ?",
-    "correct": "red",
+    "question": "¿Qué significa 'rojo'?",
+    "correct": "el color de la sangre o del tomate maduro",
     "wrong": [
-      "blue",
-      "green",
-      "yellow"
+      "el color del cielo o del mar",
+      "el color de la hierba o de las hojas",
+      "el color del sol o de los limones"
     ],
-    "explanation": "'Rojo' significa 'red'. Como la mayoría adjetivos, ello changes form: rojo (masc.), roja (fem.)."
+    "explanation": "'Rojo' es un color. Como la mayoría de los adjetivos, cambia de forma: rojo (masc.), roja (fem.).",
+    "hint": null
   },
   "q_vocab_a1_05_002": {
-    "question": "¿Qué significa 'blanco' ?",
-    "correct": "white",
+    "question": "¿Qué significa 'blanco'?",
+    "correct": "el color de la nieve o de la leche",
     "wrong": [
-      "black",
-      "grey",
-      "brown"
+      "el color del carbón o de la noche",
+      "el color de las nubes de tormenta o de la ceniza",
+      "el color del chocolate o de la tierra"
     ],
-    "explanation": "'Blanco' significa 'white'. Su opposite es 'negro' (black)."
+    "explanation": "'Blanco' es el color de la nieve. Su opuesto es 'negro'.",
+    "hint": null
   },
   "q_vocab_a1_05_003": {
-    "question": "El cielo es ___. (el color del cielo despejado)",
+    "question": "El cielo es ___. (El cielo es ___)",
     "correct": "azul",
     "wrong": [
       "rojo",
       "verde",
       "amarillo"
     ],
-    "explanation": "'Azul' es el color del cielo despejado. A diferencia de la mayoría de los adjetivos de color, 'azul' no cambia en masculino y femenino.",
+    "explanation": "'Azul' es el color del cielo despejado. A diferencia de muchos adjetivos de color, 'azul' no cambia entre masculino y femenino.",
     "hint": null
   },
   "q_vocab_a1_05_004": {
-    "question": "¿Qué significa 'negro' ?",
-    "correct": "black",
+    "question": "¿Qué significa 'negro'?",
+    "correct": "el color de la noche o del carbón",
     "wrong": [
-      "white",
-      "grey",
-      "brown"
+      "el color de la nieve o de la leche",
+      "el color de las nubes de tormenta o de la ceniza",
+      "el color del chocolate o de la tierra"
     ],
-    "explanation": "'Negro' significa 'black'. Ello follows regular adjective agreement: negro (masc.), negra (fem.)."
+    "explanation": "'Negro' es un color oscuro. Sigue la concordancia regular de los adjetivos: negro (masc.), negra (fem.).",
+    "hint": null
   },
   "q_vocab_a1_05_005": {
     "question": "¿Qué significa 'amarillo' en 'El sol es amarillo'?",
-    "correct": "yellow",
+    "correct": "el color de los limones o del sol",
     "wrong": [
-      "orange",
-      "red",
-      "white"
+      "el color de las naranjas o de las zanahorias",
+      "el color de la sangre o de los tomates",
+      "el color de la nieve o de la leche"
     ],
-    "explanation": "'Amarillo' significa 'yellow'. El/la sentence significa 'El/la sun es yellow'."
+    "explanation": "'Amarillo' es el color de los limones. La frase indica el color del sol.",
+    "hint": null
   },
   "q_vocab_a1_05_006": {
-    "question": "El coche es de color verde.",
+    "question": "El coche es verde.",
     "correct": "El coche es verde.",
     "wrong": [
       "El coche es rojo.",
       "El coche es azul.",
       "La coche es verde."
     ],
-    "explanation": "'Verde' es el color de la hierba. 'Coche' es masculino, por eso se usa 'el'. 'Verde' no cambia según el género.",
+    "explanation": "'Verde' es el color de la hierba. 'Coche' es masculino, por eso usamos 'el'. 'Verde' no cambia según el género.",
     "hint": null
   },
   "q_vocab_a1_05_007": {
     "question": "¿Qué significa 'gris' en 'El gato es gris'?",
-    "correct": "grey",
+    "correct": "el color de la ceniza o de las nubes de tormenta",
     "wrong": [
-      "brown",
-      "white",
-      "black"
+      "el color del chocolate o de la tierra",
+      "el color de la nieve o de la leche",
+      "el color del carbón o de la noche"
     ],
-    "explanation": "'Gris' significa 'grey'. Como 'azul' y 'verde', ello no change form para masculino/femenino."
+    "explanation": "'Gris' es un color intermedio entre el blanco y el negro. Como 'azul' y 'verde', no cambia de forma entre masculino y femenino.",
+    "hint": null
   },
   "q_vocab_a1_05_008": {
     "question": "¿De qué color es la naranja?",
-    "correct": "What color is the orange?",
+    "correct": "¿Cuál es el color de la naranja?",
     "wrong": [
-      "Where is the orange?",
-      "How much is the orange?",
-      "Do you like the orange?"
+      "¿Dónde está la naranja?",
+      "¿Cuánto cuesta la naranja?",
+      "¿Te gusta la naranja?"
     ],
-    "explanation": "'¿De qué color es...?' significa 'Qué color es...?' Esto es el/la standard way para preguntar about colors en español."
+    "explanation": "'¿De qué color es...?' sirve para preguntar por el color de algo. Es la forma habitual de preguntar por los colores en español.",
+    "hint": null
   },
   "q_vocab_a1_05_009": {
-    "question": "Estás comprando ropa y quieres preguntar si hay una camisa en color rosa. ¿Qué dices?",
+    "question": "Estás comprando ropa y quieres preguntar si una camisa tiene versión en rosa. ¿Qué dices?",
     "correct": "¿Tiene esta camisa en rosa?",
     "wrong": [
       "¿Tiene esta camisa en rojo?",
       "¿Tiene esta camisa en marrón?",
       "¿Tiene esta falda en rosa?"
     ],
-    "explanation": "'Rosa' es el color de las flores del mismo nombre, un rojo muy claro. '¿Tiene... en rosa?' es una forma natural de preguntar si algo existe en ese color.",
+    "explanation": "'Rosa' es el color rosado. '¿Tiene... en rosa?' es una forma natural de preguntar si algo está disponible en ese color.",
     "context": "Shopping for clothes in a store",
     "hint": null
   },
   "q_vocab_a1_05_010": {
-    "question": "A friend asks you your favorite color. ¿Cómo se dice 'My favorite color is blue'?",
+    "question": "Un amigo te pregunta cuál es tu color favorito. ¿Cómo dices 'Mi color favorito es el azul'?",
     "correct": "Mi color favorito es el azul.",
     "wrong": [
       "Mi color favorito es el rojo.",
       "Mi color favorita es la azul.",
       "Mi color favorito es el verde."
     ],
-    "explanation": "'Color' es masculino, así we decir 'favorito' (not 'favorita'). 'Azul' significa 'blue'.",
-    "context": "Talking about favorite colors with a friend"
+    "explanation": "'Color' es masculino, por eso decimos 'favorito' (no 'favorita'). 'Azul' es el color del cielo.",
+    "context": "Talking about favorite colors with a friend",
+    "hint": null
   },
   "q_vocab_a1_06_001": {
     "question": "¿Qué significa 'agua' ?",

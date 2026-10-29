@@ -3,11 +3,12 @@
     "question": "O que significa 'hola'?",
     "correct": "olá",
     "wrong": [
-      "adeus",
+      "tchau",
       "obrigado",
       "por favor"
     ],
-    "explanation": "'Hola' é a saudação espanhola mais comum, usada a qualquer hora do dia."
+    "explanation": "'Hola' é a saudação mais comum em espanhol, usada a qualquer hora do dia.",
+    "hint": null
   },
   "q_vocab_a1_01_002": {
     "question": "O que significa 'gracias'?",
@@ -17,7 +18,8 @@
       "desculpe",
       "olá"
     ],
-    "explanation": "'Gracias' significa 'obrigado'. Você pode dizer 'muchas gracias' para 'muito obrigado'."
+    "explanation": "'Gracias' significa 'obrigado'. Você pode dizer 'muchas gracias' para 'muito obrigado'.",
+    "hint": null
   },
   "q_vocab_a1_01_003": {
     "question": "Buenos ___, ¿cómo estás?",
@@ -27,7 +29,8 @@
       "gracias",
       "hola"
     ],
-    "explanation": "'Buenos días' significa 'bom dia' e é uma saudação comum usada de manhã."
+    "explanation": "'Buenos días' significa 'bom dia' e é uma saudação comum usada de manhã.",
+    "hint": null
   },
   "q_vocab_a1_01_004": {
     "question": "O que significa 'por favor'?",
@@ -35,9 +38,10 @@
     "wrong": [
       "obrigado",
       "com licença",
-      "adeus"
+      "tchau"
     ],
-    "explanation": "'Por favor' é usado para fazer pedidos educados, assim como 'por favor' em português."
+    "explanation": "'Por favor' é usado para fazer pedidos educados, exatamente como 'por favor' em português.",
+    "hint": null
   },
   "q_vocab_a1_01_005": {
     "question": "O que significa 'lo siento' em 'Lo siento mucho'?",
@@ -47,7 +51,8 @@
       "estou cansado",
       "estou bem"
     ],
-    "explanation": "'Lo siento' literalmente significa 'eu sinto' mas é usado como 'sinto muito'. 'Mucho' adiciona ênfase, significando 'muito'."
+    "explanation": "'Lo siento' significa literalmente 'eu sinto isso', mas é usado como 'sinto muito'. 'Mucho' dá ênfase, significando 'muito'.",
+    "hint": null
   },
   "q_vocab_a1_01_006": {
     "question": "Até amanhã!",
@@ -57,38 +62,42 @@
       "¡Buenas noches!",
       "¡Adiós para siempre!"
     ],
-    "explanation": "'Hasta mañana' literalmente significa 'até amanhã' e é usado quando você verá alguém no dia seguinte."
+    "explanation": "'Hasta mañana' significa literalmente 'até amanhã' e é usado quando você vai ver a pessoa no dia seguinte.",
+    "hint": null
   },
   "q_vocab_a1_01_007": {
     "question": "O que significa 'de nada' em '¡Gracias! — De nada.'?",
     "correct": "de nada",
     "wrong": [
-      "claro",
-      "sem problema",
-      "adeus"
+      "com licença",
+      "boa noite",
+      "até logo"
     ],
-    "explanation": "'De nada' literalmente se traduz como 'de nada' e é a resposta padrão para 'gracias'."
+    "explanation": "'De nada' se traduz literalmente como 'de nada' e é a resposta padrão a 'gracias'.",
+    "hint": null
   },
   "q_vocab_a1_01_008": {
     "question": "¿Cómo estás?",
-    "correct": "Como está?",
+    "correct": "Como você está?",
     "wrong": [
       "Qual é o seu nome?",
       "De onde você é?",
       "Quantos anos você tem?"
     ],
-    "explanation": "'¿Cómo estás?' é uma forma informal de perguntar 'Como você está?' A versão formal é '¿Cómo está usted?'."
+    "explanation": "'¿Cómo estás?' é a forma informal de perguntar 'Como você está?'. A versão formal é '¿Cómo está usted?'.",
+    "hint": null
   },
   "q_vocab_a1_01_009": {
-    "question": "Você acidentalmente esbarra em alguém na rua. O que você diz?",
+    "question": "Você esbarra sem querer em alguém na rua. O que você diz?",
     "correct": "¡Perdón!",
     "wrong": [
       "¡Hola!",
       "¡Gracias!",
       "¡Adiós!"
     ],
-    "explanation": "'Perdón' significa 'perdão' ou 'com licença' e é usado quando você acidentalmente incomoda alguém.",
-    "context": "Caminhando em uma rua cheia de gente"
+    "explanation": "'Perdón' significa 'perdão' ou 'com licença' e é usado quando você incomoda alguém sem querer.",
+    "context": "Caminhando em uma rua cheia de gente",
+    "hint": null
   },
   "q_vocab_a1_01_010": {
     "question": "Você está saindo da casa de um amigo tarde da noite. O que você diz?",
@@ -99,7 +108,8 @@
       "¡Hola!"
     ],
     "explanation": "'Buenas noches' significa 'boa noite' e é usado tanto como saudação quanto como despedida à noite.",
-    "context": "Saindo da casa de um amigo à noite"
+    "context": "Saindo da casa de um amigo à noite",
+    "hint": null
   },
   "q_vocab_a1_02_001": {
     "question": "O que significa 'madre'?",
@@ -109,7 +119,8 @@
       "irmã",
       "avó"
     ],
-    "explanation": "'Madre' significa 'mãe'. A palavra informal é 'mamá'."
+    "explanation": "'Madre' significa 'mãe'. A palavra informal é 'mamá'.",
+    "hint": null
   },
   "q_vocab_a1_02_002": {
     "question": "Mi ___ se llama Carlos. Es el esposo de mi madre.",
@@ -119,17 +130,19 @@
       "hijo",
       "abuelo"
     ],
-    "explanation": "'Padre' significa 'pai'. A frase diz 'Meu pai se chama Carlos. Ele é o marido da minha mãe.'"
+    "explanation": "'Padre' significa 'pai'. A frase diz 'Meu pai se chama Carlos. Ele é o marido da minha mãe.'",
+    "hint": null
   },
   "q_vocab_a1_02_003": {
     "question": "O que significa 'hermana'?",
     "correct": "irmã",
     "wrong": [
       "irmão",
-      "prima",
+      "primo",
       "tia"
     ],
-    "explanation": "'Hermana' é a forma feminina que significa 'irmã'. A forma masculina 'hermano' significa 'irmão'."
+    "explanation": "'Hermana' é a forma feminina que significa 'irmã'. A forma masculina 'hermano' significa 'irmão'.",
+    "hint": null
   },
   "q_vocab_a1_02_004": {
     "question": "O que significa 'abuelo'?",
@@ -139,7 +152,8 @@
       "pai",
       "primo"
     ],
-    "explanation": "'Abuelo' significa 'avô'. 'Abuela' é 'avó'. Juntos, 'abuelos' pode significar 'avós'."
+    "explanation": "'Abuelo' significa 'avô'. 'Abuela' é 'avó'. Juntos, 'abuelos' pode significar 'avós'.",
+    "hint": null
   },
   "q_vocab_a1_02_005": {
     "question": "Meu tio mora em Madri.",
@@ -149,7 +163,8 @@
       "Mi abuelo vive en Madrid.",
       "Mi sobrino vive en Madrid."
     ],
-    "explanation": "'Tío' significa 'tio'. 'Tía' é a forma feminina que significa 'tia'."
+    "explanation": "'Tío' significa 'tio'. 'Tía' é a forma feminina que significa 'tia'.",
+    "hint": null
   },
   "q_vocab_a1_02_006": {
     "question": "O que significa 'esposa' em 'Ella es mi esposa'?",
@@ -159,10 +174,11 @@
       "amiga",
       "irmã"
     ],
-    "explanation": "'Esposa' significa 'esposa'. 'Esposo' significa 'marido'. São termos formais para um parceiro casado."
+    "explanation": "'Esposa' significa 'esposa'. 'Esposo' significa 'marido'. No dia a dia, as pessoas também dizem 'mujer' (esposa) e 'marido' (marido).",
+    "hint": null
   },
   "q_vocab_a1_02_007": {
-    "question": "Você quer apresentar sua amiga para alguém. Qual palavra você usa?",
+    "question": "Você quer apresentar sua amiga a alguém. Qual palavra você usa?",
     "correct": "amiga",
     "wrong": [
       "novia",
@@ -170,7 +186,8 @@
       "vecina"
     ],
     "explanation": "'Amiga' significa 'amiga'. Usar 'novia' significaria 'namorada' (parceira romântica), o que é diferente.",
-    "context": "Apresentando uma amiga em uma festa"
+    "context": "Apresentando uma amiga em uma festa",
+    "hint": null
   },
   "q_vocab_a1_02_008": {
     "question": "O que significa 'primo' em 'Mi primo tiene diez años'?",
@@ -180,7 +197,8 @@
       "sobrinho",
       "filho"
     ],
-    "explanation": "'Primo' (masculino) significa 'primo'. 'Prima' é a forma feminina. A frase significa 'Meu primo tem dez anos'."
+    "explanation": "'Primo' (masculino) significa 'primo'. 'Prima' é a forma feminina. A frase significa 'Meu primo tem dez anos'.",
+    "hint": null
   },
   "q_vocab_a1_02_009": {
     "question": "Tengo dos hermanos y una hermana.",
@@ -190,7 +208,8 @@
       "Tenho dois primos e uma irmã.",
       "Tenho dois amigos e uma irmã."
     ],
-    "explanation": "'Hermanos' é a forma plural masculina que significa 'irmãos'. 'Hermana' significa 'irmã'."
+    "explanation": "'Hermanos' é a forma masculina plural que significa 'irmãos'. 'Hermana' significa 'irmã'.",
+    "hint": null
   },
   "q_vocab_a1_02_010": {
     "question": "Seu vizinho pergunta sobre sua família. Como você diz 'Moro com meus pais'?",
@@ -200,28 +219,31 @@
       "Vivo con mis hermanos.",
       "Vivo con mis abuelos."
     ],
-    "explanation": "'Padres' significa 'pais'. É o plural de 'padre' (pai) mas quando usado no plural refere-se a ambos os pais.",
-    "context": "Conversando com um vizinho sobre a família"
+    "explanation": "'Padres' significa 'pais'. É o plural de 'padre' (pai), mas quando usado no plural se refere a ambos os pais.",
+    "context": "Conversando com um vizinho sobre a família",
+    "hint": null
   },
   "q_vocab_a1_03_001": {
     "question": "O que significa 'hora'?",
-    "correct": "hora",
+    "correct": "hora / horário",
     "wrong": [
       "minuto",
       "dia",
       "semana"
     ],
-    "explanation": "'Hora' significa 'hora' (quando se pergunta que horas são). '¿Qué hora es?' = 'Que horas são?'"
+    "explanation": "'Hora' significa 'hora' ou 'horário' (quando se pergunta que horas são). '¿Qué hora es?' = 'Que horas são?'",
+    "hint": null
   },
   "q_vocab_a1_03_002": {
     "question": "O que significa 'mañana' em 'por la mañana'?",
     "correct": "manhã",
     "wrong": [
       "tarde",
-      "noite",
-      "madrugada"
+      "entardecer",
+      "noite"
     ],
-    "explanation": "'Mañana' significa 'manhã' quando usado com 'por la'. Também pode significar 'amanhã' em outros contextos."
+    "explanation": "'Mañana' significa 'manhã' quando usado com 'por la'. Em outros contextos, também pode significar 'amanhã'.",
+    "hint": null
   },
   "q_vocab_a1_03_003": {
     "question": "Son las tres y ___. (3:30)",
@@ -231,17 +253,19 @@
       "punto",
       "minuto"
     ],
-    "explanation": "'Media' significa 'meia'. 'Son las tres y media' significa 'São três e meia' (literalmente 'três e meia')."
+    "explanation": "'Media' significa 'meia'. 'Son las tres y media' quer dizer 'São três e meia' (literalmente 'três e meia').",
+    "hint": null
   },
   "q_vocab_a1_03_004": {
     "question": "O que significa 'reloj'?",
-    "correct": "relógio",
+    "correct": "relógio (de parede) / relógio (de pulso)",
     "wrong": [
       "calendário",
       "alarme",
       "cronômetro"
     ],
-    "explanation": "'Reloj' pode significar tanto 'relógio' (de parede) quanto 'relógio' (de pulso) em espanhol."
+    "explanation": "Em espanhol, 'reloj' pode significar tanto 'relógio' de parede quanto 'relógio' de pulso.",
+    "hint": null
   },
   "q_vocab_a1_03_005": {
     "question": "O que significa 'en punto' em 'Son las cinco en punto'?",
@@ -251,7 +275,8 @@
       "mais ou menos",
       "aproximadamente"
     ],
-    "explanation": "'En punto' significa 'em ponto'. 'Son las cinco en punto' = 'São exatamente cinco horas'."
+    "explanation": "'En punto' significa 'em ponto' ou 'pontualmente'. 'Son las cinco en punto' = 'São cinco horas em ponto'.",
+    "hint": null
   },
   "q_vocab_a1_03_006": {
     "question": "É uma hora.",
@@ -261,7 +286,8 @@
       "Es el uno.",
       "Son la una."
     ],
-    "explanation": "Para 1:00, usamos 'Es la una' (singular). Para todas as outras horas, usamos 'Son las...' (plural)."
+    "explanation": "Para 1h00, usamos 'Es la una' (singular). Para todas as outras horas, usamos 'Son las...' (plural).",
+    "hint": null
   },
   "q_vocab_a1_03_007": {
     "question": "O que significa 'tarde' em 'Buenas tardes'?",
@@ -269,22 +295,24 @@
     "wrong": [
       "manhã",
       "noite",
-      "anoitecer"
+      "meio-dia"
     ],
-    "explanation": "'Tarde' significa 'tarde'. 'Buenas tardes' é usado aproximadamente do meio-dia até o pôr do sol."
+    "explanation": "'Tarde' significa 'tarde'. 'Buenas tardes' é usado mais ou menos do meio-dia até o pôr do sol.",
+    "hint": null
   },
   "q_vocab_a1_03_008": {
     "question": "¿Qué hora es? — Son las dos y cuarto.",
-    "correct": "Que horas são? — São duas e quinze.",
+    "correct": "Que horas são? — São 2h15.",
     "wrong": [
-      "Que horas são? — São duas e quarenta e cinco.",
-      "Que horas são? — São duas e meia.",
-      "Que dia é? — É terça-feira."
+      "Que horas são? — São 2h45.",
+      "Que horas são? — São 2h30.",
+      "Que dia é hoje? — É terça-feira."
     ],
-    "explanation": "'Cuarto' significa 'um quarto'. 'Son las dos y cuarto' = 'São duas e quinze' (um quarto depois das duas)."
+    "explanation": "'Cuarto' significa 'quarto'. 'Son las dos y cuarto' = 'São duas e quinze' (duas e um quarto).",
+    "hint": null
   },
   "q_vocab_a1_03_009": {
-    "question": "Você precisa perguntar a um estranho na rua que horas são. O que você diz?",
+    "question": "Você precisa perguntar a um desconhecido na rua que horas são. O que você diz?",
     "correct": "Perdone, ¿qué hora es?",
     "wrong": [
       "¡Hola! ¿Qué día es?",
@@ -292,18 +320,20 @@
       "¿Dónde está el reloj?"
     ],
     "explanation": "'Perdone, ¿qué hora es?' é uma forma educada de perguntar as horas a alguém. 'Perdone' é a forma formal de 'com licença'.",
-    "context": "Perguntando as horas na rua"
+    "context": "Perguntando as horas na rua",
+    "hint": null
   },
   "q_vocab_a1_03_010": {
-    "question": "Seu amigo pergunta quando você geralmente acorda. Como você diz 'Acordo às sete da manhã'?",
+    "question": "Seu amigo pergunta a que horas você costuma acordar. Como você diz 'Eu acordo às sete da manhã'?",
     "correct": "Me despierto a las siete de la mañana.",
     "wrong": [
       "Me despierto a las siete de la noche.",
       "Me despierto a la siete de la mañana.",
       "Me duermo a las siete de la mañana."
     ],
-    "explanation": "'A las siete de la mañana' significa 'às sete da manhã'. Nota: usamos 'a las' para todas as horas exceto uma ('a la una').",
-    "context": "Falando sobre rotinas diárias"
+    "explanation": "'A las siete de la mañana' significa 'às sete da manhã'. Atenção: usamos 'a las' para todas as horas, exceto uma ('a la una').",
+    "context": "Falando sobre rotinas diárias",
+    "hint": null
   },
   "q_vocab_a1_04_001": {
     "question": "O que significa 'lunes'?",
@@ -313,7 +343,8 @@
       "sexta-feira",
       "domingo"
     ],
-    "explanation": "'Lunes' significa 'segunda-feira'. Em espanhol, os dias da semana não são capitalizados."
+    "explanation": "'Lunes' significa 'segunda-feira'. Em espanhol, os dias da semana não são escritos com letra maiúscula.",
+    "hint": null
   },
   "q_vocab_a1_04_002": {
     "question": "El primer mes del año es ___.",
@@ -323,7 +354,8 @@
       "marzo",
       "diciembre"
     ],
-    "explanation": "'Enero' significa 'janeiro', o primeiro mês do ano. Como os dias, os meses não são capitalizados em espanhol."
+    "explanation": "'Enero' significa 'janeiro', o primeiro mês do ano. Assim como os dias, os meses não são escritos com maiúscula em espanhol.",
+    "hint": null
   },
   "q_vocab_a1_04_003": {
     "question": "O que significa 'verano'?",
@@ -333,7 +365,8 @@
       "primavera",
       "outono"
     ],
-    "explanation": "'Verano' significa 'verão'. As quatro estações são: primavera (primavera), verano (verão), otoño (outono), invierno (inverno)."
+    "explanation": "'Verano' significa 'verão'. As quatro estações são: primavera (primavera), verano (verão), otoño (outono), invierno (inverno).",
+    "hint": null
   },
   "q_vocab_a1_04_004": {
     "question": "O que significa 'semana'?",
@@ -343,7 +376,8 @@
       "dia",
       "ano"
     ],
-    "explanation": "'Semana' significa 'semana'. 'Fin de semana' significa 'fim de semana'."
+    "explanation": "'Semana' significa 'semana'. 'Fin de semana' significa 'fim de semana'.",
+    "hint": null
   },
   "q_vocab_a1_04_005": {
     "question": "Sábado e domingo",
@@ -353,7 +387,8 @@
       "lunes y martes",
       "jueves y viernes"
     ],
-    "explanation": "'Sábado' é sábado e 'domingo' é domingo. Juntos formam o 'fin de semana' (fim de semana)."
+    "explanation": "'Sábado' é sábado e 'domingo' é domingo. Juntos formam o 'fin de semana' (fim de semana).",
+    "hint": null
   },
   "q_vocab_a1_04_006": {
     "question": "O que significa 'primavera' em 'Me gusta la primavera'?",
@@ -363,7 +398,8 @@
       "outono",
       "inverno"
     ],
-    "explanation": "'Primavera' significa 'primavera'. A frase significa 'Eu gosto da primavera'."
+    "explanation": "'Primavera' significa 'primavera'. A frase quer dizer 'Eu gosto da primavera'.",
+    "hint": null
   },
   "q_vocab_a1_04_007": {
     "question": "Alguém pergunta que dia é hoje. Hoje é quarta-feira. Como você responde?",
@@ -373,8 +409,9 @@
       "Hoy es jueves.",
       "Hoy es viernes."
     ],
-    "explanation": "'Miércoles' significa 'quarta-feira'. Note o acento agudo no 'e'. 'Hoy es...' significa 'Hoje é...'.",
-    "context": "Alguém perguntando que dia é hoje"
+    "explanation": "'Miércoles' significa 'quarta-feira'. Repare no acento no 'e'. 'Hoy es...' significa 'Hoje é...'.",
+    "context": "Alguém perguntando que dia é hoje",
+    "hint": null
   },
   "q_vocab_a1_04_008": {
     "question": "O que significa 'invierno' em 'En invierno hace frío'?",
@@ -384,7 +421,8 @@
       "verão",
       "primavera"
     ],
-    "explanation": "'Invierno' significa 'inverno'. A frase significa 'No inverno faz frio'."
+    "explanation": "'Invierno' significa 'inverno'. A frase quer dizer 'No inverno faz frio'.",
+    "hint": null
   },
   "q_vocab_a1_04_009": {
     "question": "Hoy es viernes. Mañana es ___.",
@@ -394,7 +432,8 @@
       "domingo",
       "lunes"
     ],
-    "explanation": "'Viernes' é sexta-feira e o dia após sexta-feira é 'sábado' (sábado)."
+    "explanation": "'Viernes' é sexta-feira e o dia depois da sexta-feira é 'sábado'.",
+    "hint": null
   },
   "q_vocab_a1_04_010": {
     "question": "Você quer marcar uma reunião. Como você diz 'A reunião é na quinta-feira'?",
@@ -405,7 +444,8 @@
       "La reunión es la jueves."
     ],
     "explanation": "Os dias da semana usam o artigo 'el' (singular) ou 'los' (plural/habitual). 'El jueves' = 'na quinta-feira'.",
-    "context": "Marcando uma reunião no trabalho"
+    "context": "Marcando uma reunião no trabalho",
+    "hint": null
   },
   "q_vocab_a1_05_001": {
     "question": "O que significa 'rojo'?",
@@ -415,7 +455,8 @@
       "verde",
       "amarelo"
     ],
-    "explanation": "'Rojo' significa 'vermelho'. Como a maioria dos adjetivos, muda de forma: rojo (masc.), roja (fem.)."
+    "explanation": "'Rojo' significa 'vermelho'. Como a maioria dos adjetivos, ele muda de forma: rojo (masc.), roja (fem.).",
+    "hint": null
   },
   "q_vocab_a1_05_002": {
     "question": "O que significa 'blanco'?",
@@ -425,7 +466,8 @@
       "cinza",
       "marrom"
     ],
-    "explanation": "'Blanco' significa 'branco'. Seu oposto é 'negro' (preto)."
+    "explanation": "'Blanco' significa 'branco'. O oposto é 'negro' (preto).",
+    "hint": null
   },
   "q_vocab_a1_05_003": {
     "question": "El cielo es ___. (O céu é ___)",
@@ -435,7 +477,8 @@
       "verde",
       "amarillo"
     ],
-    "explanation": "'Azul' significa 'azul'. Ao contrário da maioria dos adjetivos de cor, 'azul' não muda para masculino/feminino."
+    "explanation": "'Azul' significa 'azul'. Diferente da maioria dos adjetivos de cor, 'azul' não muda entre masculino e feminino.",
+    "hint": null
   },
   "q_vocab_a1_05_004": {
     "question": "O que significa 'negro'?",
@@ -445,7 +488,8 @@
       "cinza",
       "marrom"
     ],
-    "explanation": "'Negro' significa 'preto'. Segue a concordância regular de adjetivos: negro (masc.), negra (fem.)."
+    "explanation": "'Negro' significa 'preto'. Segue a concordância normal dos adjetivos: negro (masc.), negra (fem.).",
+    "hint": null
   },
   "q_vocab_a1_05_005": {
     "question": "O que significa 'amarillo' em 'El sol es amarillo'?",
@@ -455,7 +499,8 @@
       "vermelho",
       "branco"
     ],
-    "explanation": "'Amarillo' significa 'amarelo'. A frase significa 'O sol é amarelo'."
+    "explanation": "'Amarillo' significa 'amarelo'. A frase quer dizer 'O sol é amarelo'.",
+    "hint": null
   },
   "q_vocab_a1_05_006": {
     "question": "O carro é verde.",
@@ -465,7 +510,8 @@
       "El coche es azul.",
       "La coche es verde."
     ],
-    "explanation": "'Verde' significa 'verde'. 'Coche' (carro) é masculino, então usamos 'el'. 'Verde' não muda por gênero."
+    "explanation": "'Verde' significa 'verde'. 'Coche' (carro) é masculino, por isso usamos 'el'. 'Verde' não muda de acordo com o gênero.",
+    "hint": null
   },
   "q_vocab_a1_05_007": {
     "question": "O que significa 'gris' em 'El gato es gris'?",
@@ -475,39 +521,43 @@
       "branco",
       "preto"
     ],
-    "explanation": "'Gris' significa 'cinza'. Como 'azul' e 'verde', não muda de forma para masculino/feminino."
+    "explanation": "'Gris' significa 'cinza'. Assim como 'azul' e 'verde', não muda de forma entre masculino e feminino.",
+    "hint": null
   },
   "q_vocab_a1_05_008": {
     "question": "¿De qué color es la naranja?",
-    "correct": "De que cor é a laranja?",
+    "correct": "Que cor é a laranja?",
     "wrong": [
       "Onde está a laranja?",
       "Quanto custa a laranja?",
       "Você gosta da laranja?"
     ],
-    "explanation": "'¿De qué color es...?' significa 'De que cor é...?' Esta é a maneira padrão de perguntar sobre cores em espanhol."
+    "explanation": "'¿De qué color es...?' significa 'Que cor é...?'. É a forma padrão de perguntar sobre cores em espanhol.",
+    "hint": null
   },
   "q_vocab_a1_05_009": {
-    "question": "Você está comprando roupas e quer perguntar se uma camisa vem em rosa. O que você diz?",
+    "question": "Você está comprando roupas e quer perguntar se uma camisa tem na cor rosa. O que você diz?",
     "correct": "¿Tiene esta camisa en rosa?",
     "wrong": [
       "¿Tiene esta camisa en rojo?",
       "¿Tiene esta camisa en marrón?",
       "¿Tiene esta falda en rosa?"
     ],
-    "explanation": "'Rosa' significa 'rosa'. '¿Tiene... en rosa?' é uma maneira natural de perguntar se algo vem em rosa.",
-    "context": "Comprando roupas em uma loja"
+    "explanation": "'Rosa' significa 'rosa'. '¿Tiene... en rosa?' é uma forma natural de perguntar se algo existe na cor rosa.",
+    "context": "Comprando roupas em uma loja",
+    "hint": null
   },
   "q_vocab_a1_05_010": {
-    "question": "Um amigo pergunta sua cor favorita. Como você diz 'Minha cor favorita é azul'?",
+    "question": "Um amigo pergunta qual é a sua cor favorita. Como você diz 'Minha cor favorita é azul'?",
     "correct": "Mi color favorito es el azul.",
     "wrong": [
       "Mi color favorito es el rojo.",
       "Mi color favorita es la azul.",
       "Mi color favorito es el verde."
     ],
-    "explanation": "'Color' é masculino, então dizemos 'favorito' (não 'favorita'). 'Azul' significa 'azul'.",
-    "context": "Falando sobre cores favoritas com um amigo"
+    "explanation": "'Color' é masculino, por isso dizemos 'favorito' (e não 'favorita'). 'Azul' significa 'azul'.",
+    "context": "Falando sobre cores favoritas com um amigo",
+    "hint": null
   },
   "q_vocab_a1_06_001": {
     "question": "O que significa 'agua'?",
