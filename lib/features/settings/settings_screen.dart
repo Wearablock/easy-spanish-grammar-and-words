@@ -26,6 +26,7 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
   String _targetLevel = LevelConstants.defaultTargetLevel;
   int _dailyGoal = StudyConstants.defaultDailyGoal;
   bool _notificationEnabled = false;
+  TimeOfDay _notificationTime = const TimeOfDay(hour: 20, minute: 0);
   String _locale = 'system';
   String _themeMode = 'system';
   bool _soundEnabled = true;
@@ -57,6 +58,7 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
       dao.getTtsSpeechRate(),
       dao.getTtsVoice(),
       ttsService.getSpanishVoices(),
+      dao.getNotificationTime(),
     ]);
 
     if (mounted) {
@@ -64,6 +66,7 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
         _targetLevel = results[0] as String;
         _dailyGoal = results[1] as int;
         _notificationEnabled = results[2] as bool;
+        _notificationTime = results[11] as TimeOfDay;
         _locale = results[3] as String;
         _themeMode = results[4] as String;
         _soundEnabled = results[5] as bool;
@@ -235,6 +238,7 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
                 final granted = await service.requestPermission();
                 if (!granted) return;
                 await service.scheduleInactivityReminder();
+                await service.scheduleDaily(_notificationTime);
               } else {
                 await service.cancelReminder();
               }
@@ -243,6 +247,20 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
               setState(() => _notificationEnabled = value);
             },
           ),
+          // 10-29 리뉴얼 — 매일 알림 시각(기본 20:00)
+          if (_notificationEnabled)
+            ListTile(
+              leading: const Icon(Icons.schedule),
+              title: Text(l10n.notificationTime),
+              trailing: Text(_notificationTime.format(context)),
+              onTap: () async {
+                final picked = await showTimePicker(context: context, initialTime: _notificationTime);
+                if (picked == null) return;
+                await ref.read(userSettingsDaoProvider).setNotificationTime(picked);
+                await ref.read(notificationServiceProvider).scheduleDaily(picked);
+                setState(() => _notificationTime = picked);
+              },
+            ),
           const Divider(height: 24),
 
           // 4. 앱 설정

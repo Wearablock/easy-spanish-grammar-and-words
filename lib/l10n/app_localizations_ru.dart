@@ -686,4 +686,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get quizCheck => 'Проверить';
+
+  @override
+  String get quizSayIt => 'Теперь произнесите всё предложение';
 }

@@ -2,6 +2,7 @@ import 'dart:convert';
 import 'dart:io';
 import 'package:crypto/crypto.dart';
 import 'package:flutter/foundation.dart';
+import 'package:flutter/services.dart';
 import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -30,6 +31,13 @@ class RemoteContentService {
     if (dir == null) return;
     try {
       final prefs = await SharedPreferences.getInstance();
+      if (prefs.getString('remote_content_build') != AppConfig.buildNumber) {
+        for (final k in prefs.getKeys().where((k) => k.startsWith(_kShaPrefix)).toList()) {
+          await prefs.remove(k);
+        }
+        await prefs.remove(_kLast);
+        await prefs.setString('remote_content_build', AppConfig.buildNumber);
+      }
       final last = DateTime.tryParse(prefs.getString(_kLast) ?? '');
       if (!force && last != null && DateTime.now().difference(last) < _minInterval) return;
 
@@ -48,6 +56,11 @@ class RemoteContentService {
         final path = e.key;
         final sha = (e.value as Map)['sha256'] as String;
         if (!_safe(path) || prefs.getString('$_kShaPrefix$path') == sha) continue;
+        // 앱에 든 파일과 같으면 받지 않는다 — 안 그러면 첫 실행에 292개(약 23MB)를 다 받는다
+        if (await _bundledSha(path) == sha) {
+          await prefs.setString('$_kShaPrefix$path', sha);
+          continue;
+        }
         final r = await http
             .get(Uri.parse('$baseUrl/data/$path?h=${sha.substring(0, 12)}'))
             .timeout(const Duration(seconds: 30));
@@ -67,6 +80,15 @@ class RemoteContentService {
       if (got > 0) debugPrint('RemoteContent: $got file(s) updated — used from next launch');
     } catch (e) {
       debugPrint('RemoteContent: skipped ($e)');
+    }
+  }
+
+  static Future<String?> _bundledSha(String path) async {
+    try {
+      final b = await rootBundle.load('assets/data/$path');
+      return sha256.convert(b.buffer.asUint8List(b.offsetInBytes, b.lengthInBytes)).toString();
+    } catch (_) {
+      return null; // 앱에 없는 새 파일
     }
   }
 

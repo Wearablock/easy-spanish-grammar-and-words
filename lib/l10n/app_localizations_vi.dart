@@ -684,4 +684,7 @@ class AppLocalizationsVi extends AppLocalizations {
 
   @override
   String get quizCheck => 'Kiểm tra';
+
+  @override
+  String get quizSayIt => 'Giờ hãy nói cả câu';
 }

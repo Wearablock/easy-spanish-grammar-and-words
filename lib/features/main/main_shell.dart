@@ -76,6 +76,7 @@ class _MainShellState extends ConsumerState<MainShell>
     if (enabled) {
       final service = ref.read(notificationServiceProvider);
       await service.reschedule();
+      await service.scheduleDaily(await dao.getNotificationTime());
     }
   }
 

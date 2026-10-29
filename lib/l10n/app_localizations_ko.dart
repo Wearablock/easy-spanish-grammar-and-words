@@ -675,4 +675,7 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get quizCheck => '확인';
+
+  @override
+  String get quizSayIt => '문장 전체를 따라 말해 보세요';
 }

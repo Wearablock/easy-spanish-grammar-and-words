@@ -1364,6 +1364,12 @@ abstract class AppLocalizations {
   /// In ko, this message translates to:
   /// **'확인'**
   String get quizCheck;
+
+  /// No description provided for @quizSayIt.
+  ///
+  /// In ko, this message translates to:
+  /// **'문장 전체를 따라 말해 보세요'**
+  String get quizSayIt;
 }
 
 class _AppLocalizationsDelegate

@@ -254,6 +254,7 @@ class _OnboardingScreenState extends ConsumerState<OnboardingScreen> {
       final service = ref.read(notificationServiceProvider);
       if (await service.requestPermission()) {
         await service.scheduleInactivityReminder();
+        await service.scheduleDaily(await dao.getNotificationTime());
         await dao.setNotificationEnabled(true);
       }
 

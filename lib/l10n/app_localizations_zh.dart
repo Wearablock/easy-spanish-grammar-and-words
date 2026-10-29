@@ -674,6 +674,9 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get quizCheck => '检查';
+
+  @override
+  String get quizSayIt => '把整句话说出来';
 }
 
 /// The translations for Chinese, using the Han script (`zh_Hant`).
@@ -1346,4 +1349,7 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
 
   @override
   String get quizCheck => '檢查';
+
+  @override
+  String get quizSayIt => '把整句話說出來';
 }

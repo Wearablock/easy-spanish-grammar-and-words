@@ -199,8 +199,35 @@ class NotificationService {
     debugPrint('비접속 알림 예약됨: $scheduledTime');
   }
 
+  /// 10-29 리뉴얼 — 매일 정한 시각 알림(기본 20:00 · 설정에서 바꾼다) · «하루 안 들어오면» 알림과 따로 간다
+  static const int _dailyId = 2;
+
+  Future<void> scheduleDaily(TimeOfDay time) async {
+    if (!_isInitialized) return;
+    final now = tz.TZDateTime.now(tz.local);
+    var at = tz.TZDateTime(tz.local, now.year, now.month, now.day, time.hour, time.minute);
+    if (!at.isAfter(now)) at = at.add(const Duration(days: 1));
+    await _notifications.zonedSchedule(
+      _dailyId,
+      _notificationTitle,
+      _motivationalMessages[_random.nextInt(_motivationalMessages.length)],
+      at,
+      NotificationDetails(
+        android: AndroidNotificationDetails(_channelId, _channelName,
+            channelDescription: _channelDescription,
+            importance: Importance.high,
+            priority: Priority.high,
+            icon: '@mipmap/ic_launcher'),
+        iOS: const DarwinNotificationDetails(presentAlert: true, presentBadge: true, presentSound: true),
+      ),
+      androidScheduleMode: AndroidScheduleMode.inexactAllowWhileIdle,
+      matchDateTimeComponents: DateTimeComponents.time,
+    );
+  }
+
   /// 예약된 알림 취소
   Future<void> cancelReminder() async {
+    await _notifications.cancel(_dailyId);
     await _notifications.cancel(_reminderId);
     debugPrint('비접속 알림 취소됨');
   }

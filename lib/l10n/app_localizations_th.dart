@@ -682,4 +682,7 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get quizCheck => 'ตรวจ';
+
+  @override
+  String get quizSayIt => 'ลองพูดทั้งประโยค';
 }

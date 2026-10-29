@@ -9,6 +9,8 @@ import 'question_header.dart';
 import 'option_button.dart';
 import 'explanation_card.dart';
 import 'tts_button.dart';
+import '../../../services/speech_service.dart';
+import '../../speaking_practice/utils/text_similarity.dart';
 
 class QuizCard extends ConsumerStatefulWidget {
   final Question question;
@@ -34,6 +36,10 @@ class _QuizCardState extends ConsumerState<QuizCard> {
   late List<String> _shuffledOptions;
   late final _QuizMode _mode;
   final _typed = TextEditingController();
+  // 따라 말하기(답한 뒤 · 빈칸 문장) — 기존 말하기 연습의 음성 인식을 그대로 쓴다
+  bool _listening = false;
+  String _heard = '';
+  double? _sayScore;
   int? _selectedIndex;
   bool _answered = false;
   bool _showHint = false;
@@ -49,8 +55,38 @@ class _QuizCardState extends ConsumerState<QuizCard> {
     }
   }
 
+  Future<void> _toggleSay() async {
+    final speech = SpeechService();
+    if (_listening) {
+      await speech.stopListening();
+      setState(() => _listening = false);
+      return;
+    }
+    setState(() {
+      _listening = true;
+      _heard = '';
+      _sayScore = null;
+    });
+    await speech.startListening(
+      onResult: (text, isFinal) {
+        if (!mounted) return;
+        setState(() {
+          _heard = text;
+          if (isFinal) {
+            _listening = false;
+            _sayScore = TextSimilarity.calculate(text, _fullSentence);
+          }
+        });
+      },
+      onPermissionError: (_) =>
+          mounted ? setState(() => _listening = false) : null,
+      onError: (_) => mounted ? setState(() => _listening = false) : null,
+    );
+  }
+
   @override
   void dispose() {
+    if (_listening) SpeechService().cancelListening();
     _typed.dispose();
     super.dispose();
   }
@@ -349,6 +385,47 @@ class _QuizCardState extends ConsumerState<QuizCard> {
 
           // 해설 (정답 확인 후)
           if (_answered) ...[
+            // 10-29 리뉴얼 — 답한 뒤 그 문장을 소리 내 말한다(한 판 안에 «말하기» 를 넣는다)
+            if (widget.question.question.contains('___')) ...[
+              const SizedBox(height: 16),
+              Container(
+                width: double.infinity,
+                padding: const EdgeInsets.all(12),
+                decoration: BoxDecoration(
+                  color: theme.colorScheme.primary.withValues(alpha: 0.06),
+                  borderRadius: BorderRadius.circular(12),
+                ),
+                child: Column(
+                  children: [
+                    Text(l10n.quizSayIt, style: theme.textTheme.bodyMedium),
+                    const SizedBox(height: 4),
+                    Text(
+                      _fullSentence,
+                      textAlign: TextAlign.center,
+                      style: theme.textTheme.titleMedium?.copyWith(
+                        fontWeight: FontWeight.w600,
+                      ),
+                    ),
+                    const SizedBox(height: 8),
+                    IconButton.filled(
+                      iconSize: 28,
+                      onPressed: _toggleSay,
+                      icon: Icon(_listening ? Icons.stop : Icons.mic),
+                    ),
+                    if (_heard.isNotEmpty)
+                      Text(_heard, textAlign: TextAlign.center),
+                    if (_sayScore != null)
+                      Text(
+                        TextSimilarity.toPercent(_sayScore!),
+                        style: theme.textTheme.titleLarge?.copyWith(
+                          color: TextSimilarity.colorOf(_sayScore!),
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                  ],
+                ),
+              ),
+            ],
             const SizedBox(height: 16),
             ExplanationCard(explanation: widget.question.explanation),
             const SizedBox(height: 24),

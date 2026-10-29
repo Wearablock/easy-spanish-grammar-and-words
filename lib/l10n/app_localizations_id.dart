@@ -684,4 +684,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get quizCheck => 'Periksa';
+
+  @override
+  String get quizSayIt => 'Sekarang ucapkan seluruh kalimat';
 }

@@ -685,4 +685,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get quizCheck => 'Check';
+
+  @override
+  String get quizSayIt => 'Now say the whole sentence';
 }

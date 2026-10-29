@@ -94,6 +94,27 @@ class QuestionSelector {
     return unstudiedTopics;
   }
 
+  /// 10-29 리뉴얼 — 매일 경로 순서
+  /// 1.4.0 은 문법 A1→C2 를 다 끝내야 어휘가 처음 나왔다(LevelIds.all 순서 그대로).
+  /// → 레벨마다 문법 · 어휘 주제를 번갈아 놓고(gram_a1_01 · vocab_a1_01 · gram_a1_02 …),
+  ///   목표 레벨(기본 B1)까지를 먼저 돈다 · 다 끝나면 그 위 레벨이 이어진다
+  List<String> _orderForDailyPath(List<String> topics, String targetLevel) {
+    const order = {'a1': 1, 'a2': 2, 'b1': 3, 'b2': 4, 'c1': 5, 'c2': 6};
+    final target = order[targetLevel] ?? 3;
+    int lv(String t) => order[t.split('_').length > 2 ? t.split('_')[2] : ''] ?? 9;
+    int no(String t) => int.tryParse(t.split('_').last) ?? 0;
+    int kind(String t) => t.contains('_vocab_') ? 1 : 0;
+    final sorted = [...topics]
+      ..sort((a, b) {
+        final ta = lv(a) <= target ? 0 : 1, tb = lv(b) <= target ? 0 : 1;
+        if (ta != tb) return ta - tb;
+        if (lv(a) != lv(b)) return lv(a) - lv(b);
+        if (no(a) != no(b)) return no(a) - no(b);
+        return kind(a) - kind(b);
+      });
+    return sorted;
+  }
+
   /// 일일 문제 배분 계산
   DailyAllocation calculateAllocation({
     required int dailyGoal,
@@ -329,9 +350,12 @@ class QuestionSelector {
     final allStudiedIds = results[0] as Set<String>;
     final allQuestionMeta = results[1] as List<QuestionMeta>;
 
-    final unstudiedTopics = _findUnstudiedTopics(
-      allMeta: allQuestionMeta,
-      studiedIds: allStudiedIds,
+    final unstudiedTopics = _orderForDailyPath(
+      _findUnstudiedTopics(
+        allMeta: allQuestionMeta,
+        studiedIds: allStudiedIds,
+      ),
+      await _db.userSettingsDao.getTargetLevel(),
     );
 
     if (unstudiedTopics.isEmpty) {

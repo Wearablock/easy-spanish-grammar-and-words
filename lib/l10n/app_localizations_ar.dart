@@ -681,4 +681,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get quizCheck => 'تحقق';
+
+  @override
+  String get quizSayIt => 'الآن قل الجملة كاملة';
 }

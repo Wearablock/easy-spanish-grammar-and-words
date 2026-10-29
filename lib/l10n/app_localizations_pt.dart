@@ -687,4 +687,7 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get quizCheck => 'Verificar';
+
+  @override
+  String get quizSayIt => 'Agora diga a frase inteira';
 }
