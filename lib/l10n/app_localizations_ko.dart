@@ -663,4 +663,16 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get noReviewDue => '복습할 카드가 없습니다.\n다음에 다시 만나요!';
+
+  @override
+  String get searchHint => '검색…';
+
+  @override
+  String get quizListenPrompt => '듣고 빈칸에 들어갈 말을 고르세요';
+
+  @override
+  String get quizTypePrompt => '빈칸에 들어갈 말을 직접 쓰세요';
+
+  @override
+  String get quizCheck => '확인';
 }

@@ -26,8 +26,14 @@ class QuizCard extends ConsumerStatefulWidget {
   ConsumerState<QuizCard> createState() => _QuizCardState();
 }
 
+/// 10-29 리뉴얼 — 1.4.0 은 100% «읽고 고르기» 였다. 빈칸 문제의 일부를 듣기 · 쓰기로 돌려 한 판 안에서 영역을 섞는다
+/// 새 문제를 만들지 않고 있는 1,880문제를 그대로 쓴다 · 어느 문제가 어떤 방식인지는 문제 id 로 정해져서 매번 같다
+enum _QuizMode { choose, listen, type }
+
 class _QuizCardState extends ConsumerState<QuizCard> {
   late List<String> _shuffledOptions;
+  late final _QuizMode _mode;
+  final _typed = TextEditingController();
   int? _selectedIndex;
   bool _answered = false;
   bool _showHint = false;
@@ -37,10 +43,72 @@ class _QuizCardState extends ConsumerState<QuizCard> {
   void initState() {
     super.initState();
     _shuffledOptions = widget.question.getShuffledOptions();
+    _mode = _pickMode();
+    if (_mode == _QuizMode.listen) {
+      WidgetsBinding.instance.addPostFrameCallback((_) => _speakSentence());
+    }
   }
 
-  int get _correctIndex =>
-      widget.question.getCorrectIndex(_shuffledOptions);
+  @override
+  void dispose() {
+    _typed.dispose();
+    super.dispose();
+  }
+
+  _QuizMode _pickMode() {
+    final q = widget.question;
+    final blank =
+        (q.type == QuestionType.fillBlank ||
+            q.type == QuestionType.conjugation) &&
+        q.question.contains('___');
+    if (!blank) return _QuizMode.choose;
+    switch (q.id.codeUnits.fold<int>(0, (a, b) => a + b) % 3) {
+      case 1:
+        return _QuizMode.listen;
+      case 2:
+        // 한 낱말 정답만 쓰기로 — 여러 낱말을 치게 하면 폰에서 오타가 정답을 가린다
+        return q.correct.trim().contains(' ')
+            ? _QuizMode.choose
+            : _QuizMode.type;
+      default:
+        return _QuizMode.choose;
+    }
+  }
+
+  String get _fullSentence => _stripHint(
+    widget.question.question,
+  ).replaceAll('___', widget.question.correct);
+
+  void _speakSentence() => ref.read(ttsServiceProvider).speak(_fullSentence);
+
+  /// 대소문자 · 악센트 · 끝 문장부호는 봐준다(폰 키보드) — 정답 칸에는 바른 철자가 보인다
+  static String _norm(String v) {
+    const from = 'áéíóúüñ', to = 'aeiouun';
+    var t = v.trim().toLowerCase().replaceAll(RegExp(r'[.!?¿¡,]'), '');
+    for (var i = 0; i < from.length; i++) {
+      t = t.replaceAll(from[i], to[i]);
+    }
+    return t;
+  }
+
+  void _onTypedSubmit() {
+    if (_answered || _typed.text.trim().isEmpty) return;
+    final isCorrect = _norm(_typed.text) == _norm(widget.question.correct);
+    setState(() {
+      _answered = true;
+      _selectedIndex = isCorrect ? _correctIndex : -1;
+    });
+    widget.onAnswered(isCorrect, _typed.text.trim());
+    final feedback = ref.read(feedbackServiceProvider);
+    if (isCorrect) {
+      feedback.playCorrect();
+      _autoPlayTts();
+    } else {
+      feedback.playWrong();
+    }
+  }
+
+  int get _correctIndex => widget.question.getCorrectIndex(_shuffledOptions);
 
   /// 선택지가 스페인어인지 (한국어 선택지에는 TTS 숨김)
   bool get _areOptionsSpanish {
@@ -105,11 +173,34 @@ class _QuizCardState extends ConsumerState<QuizCard> {
           ),
           const SizedBox(height: 16),
 
-          // 문제 텍스트
-          QuestionHeader(
-            questionText: widget.question.question,
-            questionContext: widget.question.context,
-          ),
+          // 듣기 · 쓰기 안내
+          if (_mode != _QuizMode.choose)
+            Padding(
+              padding: const EdgeInsets.only(bottom: 8),
+              child: Text(
+                _mode == _QuizMode.listen
+                    ? l10n.quizListenPrompt
+                    : l10n.quizTypePrompt,
+                style: theme.textTheme.bodyMedium?.copyWith(
+                  color: theme.colorScheme.onSurfaceVariant,
+                ),
+              ),
+            ),
+
+          // 문제 텍스트 — 듣기는 답하기 전까지 글을 숨기고 소리만 준다
+          if (_mode == _QuizMode.listen && !_answered)
+            Center(
+              child: IconButton.filled(
+                iconSize: 40,
+                onPressed: _speakSentence,
+                icon: const Icon(Icons.volume_up),
+              ),
+            )
+          else
+            QuestionHeader(
+              questionText: widget.question.question,
+              questionContext: widget.question.context,
+            ),
 
           // 정답 확인 후 문제 텍스트 TTS (문장형 스페인어)
           if (_answered && _questionTtsText != null)
@@ -141,10 +232,13 @@ class _QuizCardState extends ConsumerState<QuizCard> {
                           const SizedBox(width: 4),
                           Container(
                             padding: const EdgeInsets.symmetric(
-                                horizontal: 4, vertical: 1),
+                              horizontal: 4,
+                              vertical: 1,
+                            ),
                             decoration: BoxDecoration(
-                              color: theme.colorScheme.secondary
-                                  .withValues(alpha: 0.15),
+                              color: theme.colorScheme.secondary.withValues(
+                                alpha: 0.15,
+                              ),
                               borderRadius: BorderRadius.circular(4),
                             ),
                             child: Text(
@@ -173,8 +267,11 @@ class _QuizCardState extends ConsumerState<QuizCard> {
               ),
               child: Row(
                 children: [
-                  Icon(Icons.lightbulb,
-                      color: theme.colorScheme.secondary, size: 16),
+                  Icon(
+                    Icons.lightbulb,
+                    color: theme.colorScheme.secondary,
+                    size: 16,
+                  ),
                   const SizedBox(width: 8),
                   Expanded(child: Text(widget.question.hint!)),
                 ],
@@ -183,29 +280,72 @@ class _QuizCardState extends ConsumerState<QuizCard> {
           ],
           const SizedBox(height: 24),
 
-          // 선택지
-          ...List.generate(_shuffledOptions.length, (index) {
-            return Row(
-              children: [
-                Expanded(
-                  child: OptionButton(
-                    index: index,
-                    text: _shuffledOptions[index],
-                    optionState: _getOptionState(index),
-                    onTap: () => _onOptionSelected(index),
-                  ),
+          // 쓰기 — 빈칸 낱말을 직접 친다
+          if (_mode == _QuizMode.type) ...[
+            TextField(
+              controller: _typed,
+              enabled: !_answered,
+              autocorrect: false,
+              enableSuggestions: false,
+              textInputAction: TextInputAction.done,
+              onSubmitted: (_) => _onTypedSubmit(),
+              decoration: InputDecoration(
+                border: const OutlineInputBorder(),
+                suffixIcon: _answered
+                    ? Icon(
+                        _selectedIndex == _correctIndex
+                            ? Icons.check_circle
+                            : Icons.cancel,
+                        color: _selectedIndex == _correctIndex
+                            ? Colors.green
+                            : theme.colorScheme.error,
+                      )
+                    : null,
+              ),
+            ),
+            const SizedBox(height: 12),
+            if (!_answered)
+              SizedBox(
+                width: double.infinity,
+                child: ElevatedButton(
+                  onPressed: _onTypedSubmit,
+                  child: Text(l10n.quizCheck),
                 ),
-                if (_answered && _areOptionsSpanish)
-                  Padding(
-                    padding: const EdgeInsets.only(left: 4, bottom: 12),
-                    child: TtsButton(
+              )
+            else
+              Text(
+                widget.question.correct,
+                style: theme.textTheme.titleLarge?.copyWith(
+                  color: Colors.green,
+                  fontWeight: FontWeight.w600,
+                ),
+              ),
+          ],
+
+          // 선택지
+          if (_mode != _QuizMode.type)
+            ...List.generate(_shuffledOptions.length, (index) {
+              return Row(
+                children: [
+                  Expanded(
+                    child: OptionButton(
+                      index: index,
                       text: _shuffledOptions[index],
-                      iconSize: 18,
+                      optionState: _getOptionState(index),
+                      onTap: () => _onOptionSelected(index),
                     ),
                   ),
-              ],
-            );
-          }),
+                  if (_answered && _areOptionsSpanish)
+                    Padding(
+                      padding: const EdgeInsets.only(left: 4, bottom: 12),
+                      child: TtsButton(
+                        text: _shuffledOptions[index],
+                        iconSize: 18,
+                      ),
+                    ),
+                ],
+              );
+            }),
 
           // 해설 (정답 확인 후)
           if (_answered) ...[

@@ -197,7 +197,7 @@ class _SpeakingSeedListScreenState extends State<SpeakingSeedListScreen> {
                   icon: const Icon(Icons.clear, size: 18),
                   onPressed: () => setState(() => _searchQuery = ''),
                 ),
-          hintText: 'Buscar…',
+          hintText: AppLocalizations.of(context)!.searchHint,
           isDense: true,
           border: OutlineInputBorder(
             borderRadius: BorderRadius.circular(24),

@@ -170,12 +170,7 @@ class StudySessionController extends StateNotifier<StudySessionState> {
     final session = state.session;
     if (session == null) return;
 
-    // 이론 → 퀴즈 전환 시 전면 광고
-    final isPremium = _ref.read(isPremiumProvider);
-    if (!isPremium) {
-      await AdService().showInterstitialAd();
-    }
-
+    // 10-29 리뉴얼 — 이론 → 퀴즈 사이 전면 광고를 뺐다(배우고 바로 풀 차례에 흐름이 끊긴다 · 광고는 한 판 끝난 뒤에만)
     session.moveNext();
 
     if (session.isCompleted) {
@@ -264,6 +259,11 @@ class StudySessionController extends StateNotifier<StudySessionState> {
     _ref.invalidate(appStatsProvider);
     _ref.invalidate(levelDistributionProvider);
     _ref.invalidate(wrongAnswersWithQuestionsProvider);
+    // 10-29 — 진도 탭이 읽는 넷이 빠져 있어서 한 판을 끝내도 «공부 0 · 0% · 0일» 이 남았다
+    _ref.invalidate(overallSummaryProvider);
+    _ref.invalidate(todaySummaryProvider);
+    _ref.invalidate(overallProgressProvider);
+    _ref.invalidate(levelProgressProvider);
   }
 
   /// 세션 중단

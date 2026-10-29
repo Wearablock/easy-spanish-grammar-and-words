@@ -672,4 +672,16 @@ class AppLocalizationsVi extends AppLocalizations {
 
   @override
   String get noReviewDue => 'Không có thẻ nào để ôn.\nHẹn gặp lại!';
+
+  @override
+  String get searchHint => 'Tìm kiếm…';
+
+  @override
+  String get quizListenPrompt => 'Nghe và chọn từ còn thiếu';
+
+  @override
+  String get quizTypePrompt => 'Gõ từ còn thiếu';
+
+  @override
+  String get quizCheck => 'Kiểm tra';
 }

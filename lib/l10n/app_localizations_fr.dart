@@ -679,4 +679,16 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get noReviewDue => 'Aucune carte à réviser.\nÀ la prochaine !';
+
+  @override
+  String get searchHint => 'Rechercher…';
+
+  @override
+  String get quizListenPrompt => 'Écoute et choisis le mot manquant';
+
+  @override
+  String get quizTypePrompt => 'Écris le mot manquant';
+
+  @override
+  String get quizCheck => 'Vérifier';
 }

@@ -669,4 +669,16 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get noReviewDue => 'لا توجد بطاقات للمراجعة.\nإلى اللقاء!';
+
+  @override
+  String get searchHint => 'بحث…';
+
+  @override
+  String get quizListenPrompt => 'استمع واختر الكلمة الناقصة';
+
+  @override
+  String get quizTypePrompt => 'اكتب الكلمة الناقصة';
+
+  @override
+  String get quizCheck => 'تحقق';
 }

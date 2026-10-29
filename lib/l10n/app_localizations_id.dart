@@ -672,4 +672,16 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get noReviewDue => 'Tidak ada kartu untuk diulas.\nSampai jumpa!';
+
+  @override
+  String get searchHint => 'Cari…';
+
+  @override
+  String get quizListenPrompt => 'Dengarkan dan pilih kata yang hilang';
+
+  @override
+  String get quizTypePrompt => 'Ketik kata yang hilang';
+
+  @override
+  String get quizCheck => 'Periksa';
 }

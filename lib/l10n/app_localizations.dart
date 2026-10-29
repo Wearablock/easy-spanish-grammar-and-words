@@ -1340,6 +1340,30 @@ abstract class AppLocalizations {
   /// In ko, this message translates to:
   /// **'복습할 카드가 없습니다.\n다음에 다시 만나요!'**
   String get noReviewDue;
+
+  /// No description provided for @searchHint.
+  ///
+  /// In ko, this message translates to:
+  /// **'검색…'**
+  String get searchHint;
+
+  /// No description provided for @quizListenPrompt.
+  ///
+  /// In ko, this message translates to:
+  /// **'듣고 빈칸에 들어갈 말을 고르세요'**
+  String get quizListenPrompt;
+
+  /// No description provided for @quizTypePrompt.
+  ///
+  /// In ko, this message translates to:
+  /// **'빈칸에 들어갈 말을 직접 쓰세요'**
+  String get quizTypePrompt;
+
+  /// No description provided for @quizCheck.
+  ///
+  /// In ko, this message translates to:
+  /// **'확인'**
+  String get quizCheck;
 }
 
 class _AppLocalizationsDelegate

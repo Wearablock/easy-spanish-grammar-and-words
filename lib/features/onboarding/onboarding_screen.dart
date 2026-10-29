@@ -3,6 +3,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../core/config/setting_keys.dart';
 import '../../data/providers/database_providers.dart';
+import '../../data/providers/notification_providers.dart';
 import '../../l10n/app_localizations.dart';
 
 /// 최초 실행 시 일일 학습량 설정 온보딩 화면
@@ -248,6 +249,13 @@ class _OnboardingScreenState extends ConsumerState<OnboardingScreen> {
 
       // 최초 실행 기록
       await dao.recordFirstLaunch();
+
+      // 10-29 리뉴얼 — 알림이 기본 꺼짐이라 «매일 폰으로» 를 받쳐 주지 못했다 → 시작할 때 한 번 묻고 허락하면 켠다
+      final service = ref.read(notificationServiceProvider);
+      if (await service.requestPermission()) {
+        await service.scheduleInactivityReminder();
+        await dao.setNotificationEnabled(true);
+      }
 
       // 메인 화면으로 이동
       widget.onComplete();

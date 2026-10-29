@@ -674,4 +674,16 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get noReviewDue => 'Нет карточек для повторения.\nДо следующего раза!';
+
+  @override
+  String get searchHint => 'Поиск…';
+
+  @override
+  String get quizListenPrompt => 'Послушайте и выберите пропущенное слово';
+
+  @override
+  String get quizTypePrompt => 'Напишите пропущенное слово';
+
+  @override
+  String get quizCheck => 'Проверить';
 }

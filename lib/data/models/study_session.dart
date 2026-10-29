@@ -243,10 +243,8 @@ class StudySession {
     final seconds = durationSeconds;
     final minutes = seconds ~/ 60;
     final remainingSeconds = seconds % 60;
-    if (minutes > 0) {
-      return '$minutes분 $remainingSeconds초';
-    }
-    return '$remainingSeconds초';
+    // 10-29 — 한국어로 박혀 있어 15개 언어 화면 모두에 «4분 27초» 가 나왔다 → 언어와 무관한 m:ss
+    return '$minutes:${remainingSeconds.toString().padLeft(2, '0')}';
   }
 
   // ── Serialization ──

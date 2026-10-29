@@ -673,4 +673,16 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get noReviewDue => 'No cards to review.\nSee you next time!';
+
+  @override
+  String get searchHint => 'Search…';
+
+  @override
+  String get quizListenPrompt => 'Listen and pick the missing word';
+
+  @override
+  String get quizTypePrompt => 'Type the missing word';
+
+  @override
+  String get quizCheck => 'Check';
 }

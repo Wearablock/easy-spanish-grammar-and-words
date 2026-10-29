@@ -675,4 +675,16 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get noReviewDue => 'Sem cartões para revisar.\nAté a próxima!';
+
+  @override
+  String get searchHint => 'Buscar…';
+
+  @override
+  String get quizListenPrompt => 'Ouça e escolha a palavra que falta';
+
+  @override
+  String get quizTypePrompt => 'Escreva a palavra que falta';
+
+  @override
+  String get quizCheck => 'Verificar';
 }

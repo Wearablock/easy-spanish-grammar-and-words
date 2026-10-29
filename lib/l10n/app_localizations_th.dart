@@ -670,4 +670,16 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get noReviewDue => 'ไม่มีการ์ดให้ทบทวน\nแล้วพบกันใหม่!';
+
+  @override
+  String get searchHint => 'ค้นหา…';
+
+  @override
+  String get quizListenPrompt => 'ฟังแล้วเลือกคำที่หายไป';
+
+  @override
+  String get quizTypePrompt => 'พิมพ์คำที่หายไป';
+
+  @override
+  String get quizCheck => 'ตรวจ';
 }

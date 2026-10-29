@@ -663,4 +663,16 @@ class AppLocalizationsJa extends AppLocalizations {
 
   @override
   String get noReviewDue => '復習するカードがありません。\nまた次回!';
+
+  @override
+  String get searchHint => '検索…';
+
+  @override
+  String get quizListenPrompt => '聞いて空欄に入る語を選んでください';
+
+  @override
+  String get quizTypePrompt => '空欄に入る語を入力してください';
+
+  @override
+  String get quizCheck => '確認';
 }

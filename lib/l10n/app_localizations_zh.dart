@@ -662,6 +662,18 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get noReviewDue => '暂无需要复习的卡片。\n下次再见!';
+
+  @override
+  String get searchHint => '搜索…';
+
+  @override
+  String get quizListenPrompt => '听一听，选出空格里的词';
+
+  @override
+  String get quizTypePrompt => '输入空格里的词';
+
+  @override
+  String get quizCheck => '检查';
 }
 
 /// The translations for Chinese, using the Han script (`zh_Hant`).
@@ -1322,4 +1334,16 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
 
   @override
   String get noReviewDue => '暫無需要複習的卡片。\n下次再見!';
+
+  @override
+  String get searchHint => '搜尋…';
+
+  @override
+  String get quizListenPrompt => '聽一聽，選出空格裡的詞';
+
+  @override
+  String get quizTypePrompt => '輸入空格裡的詞';
+
+  @override
+  String get quizCheck => '檢查';
 }
