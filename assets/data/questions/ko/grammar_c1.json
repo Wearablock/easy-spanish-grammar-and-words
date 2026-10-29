@@ -1030,22 +1030,22 @@
     "conjugation_info": "emitir (미래 직설법): emitiré, emitirás, emitirá, emitiremos, emitiréis, emitirán"
   },
   "q_gram_c1_11_001": {
-    "question": "___ Juan quien resolvió el problema, no María. (강조 분열문)",
-    "correct": "Fue",
+    "question": "Fue María ___ resolvió el problema, no Pedro. (강조 분열문)",
+    "correct": "quien",
     "wrong": [
-      "Era",
-      "Es",
-      "Siendo"
+      "que",
+      "la que",
+      "cual"
     ],
     "explanation": "분열문(oración escindida)에서 'ser'는 강조하고자 하는 요소 앞에 위치합니다. 'Fue Juan quien...'은 'Juan이 바로 그 사람이다'라는 강조 구문입니다. 점과거 'fue'는 과거의 특정 행위를 가리키므로 'era'(불완료)보다 적절합니다."
   },
   "q_gram_c1_11_002": {
-    "question": "Lo que necesitamos ___ más tiempo para prepararnos. (ser, 유사 분열문, 직설법 현재)",
+    "question": "Lo que necesitamos ___ más tiempo para completar la investigación. (ser, 유사 분열문, 직설법 현재)",
     "correct": "es",
     "wrong": [
+      "está",
       "fue",
-      "sea",
-      "será"
+      "sea"
     ],
     "explanation": "유사 분열문(pseudo-cleft)은 'lo que + 동사 + ser + 강조 요소' 형태를 취합니다. 'Lo que necesitamos es...'는 현재의 필요를 표현하므로 현재 직설법 'es'가 올바릅니다. 이 구문은 주어 위치에 관계절을 놓아 정보 초점을 이동시킵니다."
   },
@@ -1060,64 +1060,64 @@
     "explanation": "분열문(Fue María quien lo dijo)은 'ser + 강조 요소 + que/quien'으로 특정 요소를 분리하여 강조합니다. 유사 분열문(Lo que María dijo fue la verdad)은 관계절을 주어로 사용하여 정보를 재구성합니다. 둘 다 구어와 문어에서 사용됩니다."
   },
   "q_gram_c1_11_004": {
-    "question": "Fue a ella a quien le ___ el premio, no a él. (entregar, 점과거, pasiva refleja, 3인칭 단수)",
-    "correct": "entregaron",
+    "question": "Fue precisamente en Barcelona donde se ___ la primera reunión del comité. (entregar, 점과거, pasiva refleja, 3인칭 단수)",
+    "correct": "celebró",
     "wrong": [
-      "entregó",
-      "entregaban",
-      "entregarían"
+      "celebraba",
+      "ha celebrado",
+      "celebre"
     ],
     "explanation": "분열문 'fue a ella a quien...'에서 강조된 요소는 간접 목적어입니다. 주절 동사 'entregaron'은 3인칭 복수로 불특정 행위자(그들이/사람들이)를 나타냅니다. 점과거는 과거의 구체적 사건을 표현합니다.",
     "conjugation_info": "entregar (점과거): entregué, entregaste, entregó, entregamos, entregasteis, entregaron"
   },
   "q_gram_c1_11_005": {
-    "question": "No ___ el dinero lo que me preocupa, sino la falta de tiempo. (ser, 강조 부정 분열문)",
-    "correct": "es",
+    "question": "A mí, lo que más me ___ es la falta de transparencia por parte del gobierno. (ser, 강조 부정 분열문)",
+    "correct": "preocupa",
     "wrong": [
-      "fue",
-      "sea",
-      "está"
+      "preocupo",
+      "preocupe",
+      "preocupan"
     ],
     "explanation": "'No es X lo que... sino Y' 구문은 부정 분열문으로, 한 요소를 배제하고 다른 요소를 강조합니다. 'No es el dinero lo que me preocupa, sino la falta de tiempo'에서 현재 시제 'es'는 현재의 걱정을 나타냅니다."
   },
   "q_gram_c1_11_006": {
-    "question": "Lo que más me ___ de la película fue la banda sonora. (impresionar, 점과거, 3인칭 단수)",
-    "correct": "impresionó",
+    "question": "Fue entonces cuando el presidente ___ su dimisión ante la asamblea. (impresionar, 점과거, 3인칭 단수)",
+    "correct": "presentó",
     "wrong": [
-      "impresiona",
-      "impresionaba",
-      "impresionaría"
+      "presentaba",
+      "presenta",
+      "presentaría"
     ],
     "explanation": "유사 분열문 'Lo que más me impresionó... fue...'에서 두 동사 모두 점과거입니다. 'impresionó'는 과거의 구체적 인상을 나타내며, 'fue'와 시제가 일치해야 합니다.",
     "conjugation_info": "impresionar (점과거): impresioné, impresionaste, impresionó, impresionamos, impresionasteis, impresionaron"
   },
   "q_gram_c1_11_007": {
-    "question": "Fue ___ esta ciudad donde conocí a mi esposa, no en Madrid. (전치사 선택, 강조 분열문)",
-    "correct": "en",
+    "question": "El problema, ___ lo ve el comité, requiere una solución inmediata. (전치사 선택, 강조 분열문)",
+    "correct": "según",
     "wrong": [
-      "a",
-      "de",
-      "por"
+      "como",
+      "que",
+      "cual"
     ],
     "explanation": "분열문에서 강조되는 요소가 장소일 때, 원래 문장의 전치사가 유지됩니다. 'Conocí a mi esposa en esta ciudad' → 'Fue en esta ciudad donde conocí a mi esposa'. 장소를 나타내는 전치사 'en'이 필요합니다."
   },
   "q_gram_c1_11_008": {
     "question": "내가 가장 그리워하는 것은 조부모님의 집에서 보낸 여름이다.",
-    "correct": "Lo que más echo de menos son los veranos en casa de mis abuelos.",
+    "correct": "Lo que realmente quiero es que comprendan la gravedad de la situación.",
     "wrong": [
-      "Que yo más extraño es los veranos en la casa de mis abuelos.",
-      "Lo que más echo en falta es los veranos de la casa de mis abuelos.",
-      "Lo más que extraño son los veranos en casa de mis abuelos."
+      "Qué realmente quiero es que ellos entienden la severidad de la situación.",
+      "Lo que de verdad quiero es ellos comprender la seriedad de la situación.",
+      "Realmente lo que quiero es comprendan la gravedad de la situación."
     ],
     "explanation": "유사 분열문 'Lo que más echo de menos son...'에서 'echar de menos'는 '그리워하다'를 뜻합니다. 복수 보어('los veranos')와 일치하여 'son'이 사용됩니다. 'echar en falta'도 같은 뜻이지만, 이 문맥에서는 'echo de menos'가 가장 자연스럽습니다."
   },
   "q_gram_c1_11_009": {
-    "question": "Fueron los propios empleados quienes ___ la irregularidad a la dirección. (denunciar, 점과거, ellos 형태)",
-    "correct": "denunciaron",
+    "question": "Ni siquiera el director ___ capaz de resolver semejante dilema ético. (denunciar, 점과거, ellos 형태)",
+    "correct": "sería",
     "wrong": [
-      "denunciaran",
-      "denunciarían",
-      "han denunciado"
+      "fuera",
+      "fue",
+      "es"
     ],
     "explanation": "분열문 'Fueron los propios empleados quienes...'에서 관계절의 동사는 선행사 'los propios empleados'와 일치합니다. 주절의 'fueron'이 점과거이므로 종속절도 점과거 'denunciaron'을 사용합니다.",
     "conjugation_info": "denunciar (점과거): denuncié, denunciaste, denunció, denunciamos, denunciasteis, denunciaron"

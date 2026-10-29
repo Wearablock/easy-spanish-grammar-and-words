@@ -347,7 +347,7 @@
   },
   "q_vocab_c1_04_005": {
     "question": "~해 주시면 감사하겠습니다",
-    "correct": "Le agradecería que (+ 접속법)",
+    "correct": "Le agradecería que (+ subjunctive)",
     "wrong": [
       "Yo quiero que usted",
       "Me gustaría mucho si tú",
@@ -610,377 +610,616 @@
     ],
     "context": "학업 좌절과 개인적 성장에 대한 성찰",
     "explanation": "'No hay mal que por bien no venga'(전화위복)는 부정적 사건(시험 실패)이 긍정적 결과(공부 습관 개선과 더 나은 성적)로 이어진 것을 완벽하게 설명합니다. 이 속담은 역경의 변혁적 잠재력을 담고 있습니다."
-  }
-,
+  },
   "q_vocab_c1_07_001": {
     "question": "비즈니스 맥락에서 'el rendimiento'의 뜻은?",
     "correct": "성과 / 수익률 / 생산성",
-    "wrong": ["시각적 렌더링", "항복", "임대료"],
+    "wrong": [
+      "시각적 렌더링",
+      "항복",
+      "임대료"
+    ],
     "explanation": "'Rendimiento'는 비즈니스에서 '성과', '수익률', '생산성'을 의미합니다. 'El rendimiento del equipo'는 '팀 성과'이며, 'rendimiento de la inversión'은 '투자 수익률'입니다."
   },
   "q_vocab_c1_07_002": {
     "question": "직장에서 'el flujo de trabajo'의 뜻은?",
     "correct": "워크플로 / 업무 흐름",
-    "wrong": ["직장에서의 물 흐름", "노동의 유체 역학", "근로자의 이동"],
+    "wrong": [
+      "직장에서의 물 흐름",
+      "노동의 유체 역학",
+      "근로자의 이동"
+    ],
     "explanation": "'El flujo de trabajo'는 '워크플로'를 의미하며, 업무가 시작부터 완료까지 거치는 일련의 과정입니다. 프로젝트 관리와 비즈니스 운영에서 표준 용어입니다."
   },
   "q_vocab_c1_07_003": {
     "question": "La empresa necesita ___ su modelo de negocio para adaptarse al mercado digital.",
     "correct": "reestructurar",
-    "wrong": ["reconstruir", "redecorar", "reciclar"],
+    "wrong": [
+      "reconstruir",
+      "redecorar",
+      "reciclar"
+    ],
     "explanation": "'Reestructurar'는 '구조조정하다'를 의미하며, 특히 기업의 운영, 재정 또는 전략을 재편성하는 것을 말합니다. 이 문장은 '기업은 디지털 시장에 적응하기 위해 비즈니스 모델을 구조조정해야 한다'는 뜻입니다."
   },
   "q_vocab_c1_07_004": {
     "question": "IT 및 비즈니스에서 'la escalabilidad'의 뜻은?",
     "correct": "확장성",
-    "wrong": ["계단을 오르는 능력", "측정 척도", "탈출 가능성"],
+    "wrong": [
+      "계단을 오르는 능력",
+      "측정 척도",
+      "탈출 가능성"
+    ],
     "explanation": "'La escalabilidad'는 '확장성'을 의미합니다. 시스템, 네트워크 또는 비즈니스가 증가하는 작업량을 처리하거나 확장할 수 있는 능력입니다. 기술 스타트업과 소프트웨어 개발에서 핵심 개념입니다."
   },
   "q_vocab_c1_07_005": {
     "question": "저널리즘에서 'el titular'의 뜻은?",
     "correct": "헤드라인 / 표제",
-    "wrong": ["직함 보유자만", "자막", "저자명"],
+    "wrong": [
+      "직함 보유자만",
+      "자막",
+      "저자명"
+    ],
     "explanation": "'El titular'는 저널리즘에서 '헤드라인'을 의미합니다. 독자의 관심을 끌기 위한 신문 기사의 제목입니다. 다른 맥락에서는 '직함 보유자'를 의미할 수도 있지만, 미디어에서는 헤드라인을 가리킵니다."
   },
   "q_vocab_c1_07_006": {
     "question": "이해관계자",
     "correct": "la parte interesada / el interesado",
-    "wrong": ["el accionista", "el competidor", "el intermediario"],
+    "wrong": [
+      "el accionista",
+      "el competidor",
+      "el intermediario"
+    ],
     "explanation": "'이해관계자'는 스페인어로 'la parte interesada' 또는 'el interesado'입니다. '주주(accionista)'와 달리, 이해관계자는 사업이나 프로젝트에 이해관계가 있거나 영향을 받는 모든 당사자를 의미합니다."
   },
   "q_vocab_c1_07_007": {
     "question": "비즈니스 용어에서 'externalizar'의 뜻은?",
     "correct": "아웃소싱하다 / 외주화하다",
-    "wrong": ["감정을 표출하다", "제품을 수출하다", "무언가를 외부로 만들다"],
+    "wrong": [
+      "감정을 표출하다",
+      "제품을 수출하다",
+      "무언가를 외부로 만들다"
+    ],
     "explanation": "'Externalizar'는 '아웃소싱하다'를 의미하며, 비즈니스 프로세스나 기능을 외부 회사에 위탁하는 관행입니다. 'La empresa decidió externalizar el servicio de atención al cliente'는 '회사가 고객 서비스를 외주화하기로 결정했다'는 뜻입니다."
   },
   "q_vocab_c1_07_008": {
     "question": "la competencia desleal",
     "correct": "불공정 경쟁",
-    "wrong": ["불충한 역량", "비충성적 경쟁자", "불성실한 능력"],
+    "wrong": [
+      "불충한 역량",
+      "비충성적 경쟁자",
+      "불성실한 능력"
+    ],
     "explanation": "'La competencia desleal'은 '불공정 경쟁'을 의미합니다. 경쟁사에게 기만적이거나 사기적이거나 불공정한 상업 관행을 말합니다. 상법의 법적 개념입니다."
   },
   "q_vocab_c1_07_009": {
     "question": "소프트웨어 개발팀이 계속 지연되는 제품 출시를 어떻게 처리할지 논의하고 있습니다. 프로젝트 매니저가 새로운 접근법을 도입하자고 제안합니다. 이 방법론을 설명하는 전문 용어는?",
     "correct": "Implementar una metodología ágil para iterar más rápidamente.",
-    "wrong": ["Cancelar el proyecto y empezar uno nuevo.", "Despedir a todos los desarrolladores del equipo.", "Ignorar los plazos y lanzar cuando esté listo."],
+    "wrong": [
+      "Cancelar el proyecto y empezar uno nuevo.",
+      "Despedir a todos los desarrolladores del equipo.",
+      "Ignorar los plazos y lanzar cuando esté listo."
+    ],
     "explanation": "'Metodología ágil'은 '애자일 방법론'으로, 작은 단위로 작업을 반복 제공하는 프로젝트 관리 및 소프트웨어 개발의 반복적 접근 방식입니다. 'Iterar'는 '반복하다'를 의미하며, 반복적인 개선 사이클을 통해 점진적으로 발전시키는 것입니다.",
     "context": "소프트웨어 프로젝트 관리 회의"
   },
   "q_vocab_c1_07_010": {
     "question": "한 기자가 기업 부패에 대한 민감한 정보를 제공한 취재원의 신원을 보호해야 합니다. 어떤 직업적 원칙이 적용될까요?",
     "correct": "El secreto profesional obliga a proteger la identidad de las fuentes confidenciales.",
-    "wrong": ["La ley obliga a revelar todas las fuentes en cualquier caso.", "El periodista debe publicar el nombre completo de la fuente.", "Las fuentes anónimas no son válidas en el periodismo."],
+    "wrong": [
+      "La ley obliga a revelar todas las fuentes en cualquier caso.",
+      "El periodista debe publicar el nombre completo de la fuente.",
+      "Las fuentes anónimas no son válidas en el periodismo."
+    ],
     "explanation": "'El secreto profesional'은 '직업적 비밀 유지 의무'를 의미합니다. 언론에서 이 윤리 원칙은 기밀 취재원('fuentes confidenciales')의 신원을 보호하며, 이는 언론의 자유와 탐사 보도의 근간입니다.",
     "context": "탐사 보도 윤리 토론"
   },
   "q_vocab_c1_08_001": {
     "question": "철학적 담론에서 'la trascendencia'의 뜻은?",
     "correct": "초월성 / 심원한 의의",
-    "wrong": ["투명성", "이전", "전환"],
+    "wrong": [
+      "투명성",
+      "이전",
+      "전환"
+    ],
     "explanation": "'La trascendencia'는 '초월성' 또는 '심원한 의의'를 의미합니다. 철학에서는 일상적이거나 물리적 영역을 넘어서는 존재의 측면을 가리킵니다. 일상 용법에서는 지속적인 중요성을 뜻합니다."
   },
   "q_vocab_c1_08_002": {
     "question": "El concepto de ___ ha sido debatido por filósofos durante siglos.",
     "correct": "identidad",
-    "wrong": ["cantidad", "velocidad", "intensidad"],
+    "wrong": [
+      "cantidad",
+      "velocidad",
+      "intensidad"
+    ],
     "explanation": "'Identidad'는 '정체성'을 의미합니다. 이 문장은 '정체성의 개념은 수세기 동안 철학자들에 의해 논의되어 왔다'는 뜻입니다. 정체성은 철학, 심리학, 사회학의 핵심 추상 개념입니다."
   },
   "q_vocab_c1_08_003": {
     "question": "'el paradigma'의 뜻은?",
     "correct": "패러다임 / 사고 모형",
-    "wrong": ["낙원", "문단", "역설만"],
+    "wrong": [
+      "낙원",
+      "문단",
+      "역설만"
+    ],
     "explanation": "'El paradigma'는 '패러다임'을 의미하며, 사고의 틀, 이해의 모형, 또는 특정 분야를 정의하는 일련의 수용된 신념입니다. 'Un cambio de paradigma'(패러다임 전환)는 접근 방식이나 기저 가정의 근본적 변화를 의미합니다."
   },
   "q_vocab_c1_08_004": {
     "question": "추상적 개념으로서 'la conciencia'의 뜻은?",
     "correct": "의식 / 자각 / 양심",
-    "wrong": ["회의", "집중", "결과"],
+    "wrong": [
+      "회의",
+      "집중",
+      "결과"
+    ],
     "explanation": "'La conciencia'는 추상적 개념으로 이중 의미를 가집니다: '의식'(존재에 대한 철학적 자각)과 '양심'(도덕적 자각). 'Tomar conciencia'는 '자각하다' 또는 '의식을 높이다'를 뜻합니다."
   },
   "q_vocab_c1_08_005": {
     "question": "본질적인 / 고유한",
     "correct": "intrínseco",
-    "wrong": ["intenso", "íntimo", "introvertido"],
+    "wrong": [
+      "intenso",
+      "íntimo",
+      "introvertido"
+    ],
     "explanation": "'본질적인' 또는 '고유한'은 스페인어로 'intrínseco'입니다. 어떤 것에 본질적이고 영구적으로 속하는 특성을 설명합니다: 'el valor intrínseco'(내재적 가치)."
   },
   "q_vocab_c1_08_006": {
     "question": "'la equidad'의 뜻은? 'la igualdad'와 어떻게 다른가요?",
     "correct": "형평성 / 공정함; 각자에게 필요한 것을 제공하는 것이며, 'igualdad'는 모두에게 같은 것을 주는 것",
-    "wrong": ["두 개념은 완전히 동일하다", "'Equidad'는 승마를 뜻하고 'igualdad'는 평등을 뜻한다", "'Equidad'는 경제 용어이고 'igualdad'는 사회적 용어만이다"],
+    "wrong": [
+      "두 개념은 완전히 동일하다",
+      "'Equidad'는 승마를 뜻하고 'igualdad'는 평등을 뜻한다",
+      "'Equidad'는 경제 용어이고 'igualdad'는 사회적 용어만이다"
+    ],
     "explanation": "'La equidad'는 '형평성' 또는 '공정함'을 의미하며, 공정한 결과를 달성하기 위해 개인의 필요에 따라 자원을 제공하는 것입니다. 'La igualdad'는 '평등'으로, 모두를 동일하게 대우하는 것입니다. 이 구분은 사회 정의 담론에서 매우 중요합니다."
   },
   "q_vocab_c1_08_007": {
     "question": "한 철학자가 인간의 자유는 책임과 분리될 수 없다고 주장합니다. 이 논증의 핵심 추상 개념은?",
     "correct": "La autonomía: la capacidad del individuo de gobernarse a sí mismo implica asumir las consecuencias de sus actos.",
-    "wrong": ["La dependencia: el ser humano depende de otros para actuar.", "La obediencia: la libertad consiste en seguir las reglas establecidas.", "La indiferencia: la libertad y la responsabilidad no están relacionadas."],
+    "wrong": [
+      "La dependencia: el ser humano depende de otros para actuar.",
+      "La obediencia: la libertad consiste en seguir las reglas establecidas.",
+      "La indiferencia: la libertad y la responsabilidad no están relacionadas."
+    ],
     "explanation": "'La autonomía'는 '자율성'을 의미하며, 자기 통치의 능력입니다. 자유와 책임 사이의 철학적 연결은 자율성에 뿌리를 두고 있습니다: 선택의 자유가 있다는 것은 그 선택에 대한 책임이 따른다는 뜻입니다.",
     "context": "실존주의와 윤리에 관한 철학 세미나"
   },
   "q_vocab_c1_08_008": {
     "question": "추상적 심리 개념으로서 'la resiliencia'의 뜻은?",
     "correct": "회복력 / 역경으로부터 회복하는 능력",
-    "wrong": ["변화에 대한 저항", "직장에서의 사임", "타인과의 유사성"],
+    "wrong": [
+      "변화에 대한 저항",
+      "직장에서의 사임",
+      "타인과의 유사성"
+    ],
     "explanation": "'La resiliencia'는 '회복력'을 의미하며, 어려움으로부터 회복하고 도전적인 상황에 적응하는 심리적 능력입니다. 심리학, 교육, 자기 개발의 핵심 개념이 되었습니다."
   },
   "q_vocab_c1_08_009": {
     "question": "la alteridad",
     "correct": "타자성 / 다름의 특질",
-    "wrong": ["변경", "대안", "고도"],
+    "wrong": [
+      "변경",
+      "대안",
+      "고도"
+    ],
     "explanation": "'La alteridad'는 '타자성'을 의미하며, '타자'를 자신과 근본적으로 다른 존재로 인식하는 철학적 개념입니다. 특히 에마뉘엘 레비나스의 철학에서 윤리학의 핵심입니다."
   },
   "q_vocab_c1_08_010": {
     "question": "두 명의 토론자가 도덕이 보편적인지 아니면 문화적으로 결정되는지를 논의하고 있습니다. 이 토론의 틀을 형성하는 추상 개념 쌍은?",
     "correct": "El universalismo moral frente al relativismo cultural: ¿existen valores absolutos o dependen del contexto?",
-    "wrong": ["El capitalismo frente al socialismo: ¿quién tiene más dinero?", "El optimismo frente al pesimismo: ¿quién es más feliz?", "La ciencia frente a la religión: ¿quién tiene la verdad?"],
+    "wrong": [
+      "El capitalismo frente al socialismo: ¿quién tiene más dinero?",
+      "El optimismo frente al pesimismo: ¿quién es más feliz?",
+      "La ciencia frente a la religión: ¿quién tiene la verdad?"
+    ],
     "explanation": "'El universalismo moral'(도덕적 보편주의)은 특정 윤리 원칙이 모든 인간에게 적용된다고 주장하며, 'el relativismo cultural'(문화적 상대주의)은 도덕 기준이 문화에 의해 형성된다고 주장합니다. 이것은 윤리학에서 가장 근본적인 논쟁 중 하나입니다.",
     "context": "대학 윤리학 세미나 토론"
   },
   "q_vocab_c1_09_001": {
     "question": "수사법에서 'la metáfora'의 뜻은?",
     "correct": "은유 -- 'like'나 'as'를 사용하지 않고 서로 다른 두 가지를 직접 비교하는 비유법",
-    "wrong": ["하나가 다른 것으로 물리적으로 변형되는 것", "무언가에 대한 문자 그대로의 묘사", "비교를 위한 수학 공식"],
+    "wrong": [
+      "하나가 다른 것으로 물리적으로 변형되는 것",
+      "무언가에 대한 문자 그대로의 묘사",
+      "비교를 위한 수학 공식"
+    ],
     "explanation": "'La metáfora'는 한 가지를 다른 것으로 묘사하는 수사법입니다: 'La vida es un viaje'(인생은 여행이다). 직유(símil)와 달리 은유는 'como'(~처럼)를 사용하지 않습니다."
   },
   "q_vocab_c1_09_002": {
     "question": "문학적 장치로서 'la ironía'의 뜻은?",
     "correct": "아이러니 -- 의도한 것과 반대로 말하거나 기대와 현실 사이의 대비",
-    "wrong": ["철로 무언가를 만드는 것", "화난 연설의 한 유형", "빈정거림(sarcasm)의 동의어만"],
+    "wrong": [
+      "철로 무언가를 만드는 것",
+      "화난 연설의 한 유형",
+      "빈정거림(sarcasm)의 동의어만"
+    ],
     "explanation": "'La ironía'는 언어적 아이러니(의미하는 것의 반대를 말함), 상황적 아이러니(결과가 기대와 반대일 때), 극적 아이러니(관객이 등장인물이 모르는 것을 알 때)를 포괄합니다."
   },
   "q_vocab_c1_09_003": {
     "question": "El orador usó una ___ al decir que había esperado 'un millón de años' para recibir la respuesta.",
     "correct": "hipérbole",
-    "wrong": ["metáfora", "antítesis", "alegoría"],
+    "wrong": [
+      "metáfora",
+      "antítesis",
+      "alegoría"
+    ],
     "explanation": "'Hipérbole'는 '과장법'을 의미합니다. 강조나 효과를 위한 의도적인 과장입니다. 기다림을 '백만 년'이라고 말하는 것은 문자 그대로 받아들이지 않는 과장법의 명확한 예입니다."
   },
   "q_vocab_c1_09_004": {
     "question": "'el eufemismo'의 뜻은?",
     "correct": "완곡어법 -- 너무 거칠거나 직설적인 표현을 대체하기 위해 사용하는 부드럽거나 간접적인 표현",
-    "wrong": ["열광의 한 유형", "행복감에 찬 진술", "유럽의 비유법"],
+    "wrong": [
+      "열광의 한 유형",
+      "행복감에 찬 진술",
+      "유럽의 비유법"
+    ],
     "explanation": "'El eufemismo'는 불쾌하거나 거슬리는 것을 순화하여 표현하는 수사법입니다. 예를 들어, 'morir'(죽다) 대신 'pasar a mejor vida'(더 나은 삶으로 가다)를 사용합니다."
   },
   "q_vocab_c1_09_005": {
     "question": "'el oxímoron'의 뜻은?",
     "correct": "모순어법 -- 서로 모순되는 용어를 결합하는 비유법",
-    "wrong": ["산소 화합물의 한 종류", "항상 오류인 모순", "반복을 사용하는 비유법"],
+    "wrong": [
+      "산소 화합물의 한 종류",
+      "항상 오류인 모순",
+      "반복을 사용하는 비유법"
+    ],
     "explanation": "'El oxímoron'은 두 개의 모순되는 용어를 효과를 위해 함께 배치하는 수사법입니다: 'un silencio ensordecedor'(귀청이 터지는 침묵), 'la oscura claridad'(어두운 명료함). 역설을 통해 인상적인 이미지를 만듭니다."
   },
   "q_vocab_c1_09_006": {
     "question": "축소법 / 의도적 경시",
     "correct": "la litotes / la atenuación",
-    "wrong": ["la hipérbole", "la exageración", "la amplificación"],
+    "wrong": [
+      "la hipérbole",
+      "la exageración",
+      "la amplificación"
+    ],
     "explanation": "'축소법'은 스페인어로 'la litotes' 또는 'la atenuación'입니다. 과장법의 반대로, 반어적 효과를 위해 의도적으로 축소 표현합니다. 'No es mala idea'(나쁜 생각이 아니다)는 '훌륭한 생각이다'라는 의미의 축소법입니다."
   },
   "q_vocab_c1_09_007": {
     "question": "수사법으로서 'la antítesis'의 뜻은?",
     "correct": "대조법 -- 균형 잡힌 구조에서 대비되는 개념을 병치하는 것",
-    "wrong": ["토론에서의 반론", "논제에 대한 답변", "논증을 파괴하는 진술"],
+    "wrong": [
+      "토론에서의 반론",
+      "논제에 대한 답변",
+      "논증을 파괴하는 진술"
+    ],
     "explanation": "'La antítesis'는 두 대립 개념을 강조를 위해 나란히 배치합니다: 'Es tan corto el amor y tan largo el olvido'(사랑은 그토록 짧고 망각은 그토록 길다) -- 파블로 네루다. 강력한 수사적 대비를 만듭니다."
   },
   "q_vocab_c1_09_008": {
     "question": "la sinécdoque",
     "correct": "제유법 -- 부분이 전체를, 또는 전체가 부분을 대표하는 비유법",
-    "wrong": ["문학 용어로서의 유대교 회당", "동기화된 반향", "동의어의 한 유형"],
+    "wrong": [
+      "문학 용어로서의 유대교 회당",
+      "동기화된 반향",
+      "동의어의 한 유형"
+    ],
     "explanation": "'La sinécdoque'는 부분이 전체를 대표하거나 그 반대인 비유법입니다. 예를 들어, 'Necesitamos más manos'(더 많은 손이 필요하다)에서 '손'은 일꾼/사람을 대표합니다."
   },
   "q_vocab_c1_09_009": {
     "question": "한 정치 연설에서 '우리는 전쟁이 아닌 평화를, 파괴가 아닌 창조를, 절망이 아닌 희망을 가져옵니다'라고 말합니다. 주로 사용된 수사법은?",
     "correct": "La antítesis con anáfora: la repetición de una estructura que contrasta ideas opuestas.",
-    "wrong": ["La hipérbole: una exageración deliberada de los hechos.", "El eufemismo: una suavización del lenguaje directo.", "La metonimia: la sustitución de un término por otro relacionado."],
+    "wrong": [
+      "La hipérbole: una exageración deliberada de los hechos.",
+      "El eufemismo: una suavización del lenguaje directo.",
+      "La metonimia: la sustitución de un término por otro relacionado."
+    ],
     "explanation": "이 연설은 대립 쌍(전쟁/평화, 파괴/창조, 절망/희망)을 병치하는 '대조법(antítesis)'과 '~이 아닌 ~을'이라는 구조를 반복하는 '수사 반복법(anáfora)'을 사용합니다. 이 두 장치가 함께 강력한 리듬감과 설득 효과를 만듭니다.",
     "context": "정치 담론의 수사 전략 분석"
   },
   "q_vocab_c1_09_010": {
     "question": "한 작가가 잔인한 인물을 '금 같은 마음을 가진 사람'이라고 묘사하여 외모와 현실 사이의 괴리를 부각합니다. 어떤 수사법이 사용되었나요?",
     "correct": "La ironía: el escritor dice lo contrario de lo que quiere comunicar para crear un efecto de contraste.",
-    "wrong": ["La metáfora: el escritor describe literalmente que el corazón es de oro.", "La hipérbole: el escritor exagera la bondad del personaje.", "El eufemismo: el escritor suaviza la crueldad del personaje."],
+    "wrong": [
+      "La metáfora: el escritor describe literalmente que el corazón es de oro.",
+      "La hipérbole: el escritor exagera la bondad del personaje.",
+      "El eufemismo: el escritor suaviza la crueldad del personaje."
+    ],
     "explanation": "이것은 '아이러니(ironía)'입니다. '금 같은 마음'이라는 묘사가 실제 인물의 잔인함과 직접적으로 모순되기 때문입니다. 독자는 문자 그대로의 의미와 반대되는 의도된 의미를 이해하여 강력한 비판적 효과를 만들어냅니다.",
     "context": "인물 묘사 기법의 문학적 분석"
   },
   "q_vocab_c1_10_001": {
     "question": "스페인 문화에서 'la corrida de toros'의 뜻은?",
     "correct": "투우",
-    "wrong": ["황소와 함께하는 달리기 경주", "황소의 통로", "황소 농장의 한 유형"],
+    "wrong": [
+      "황소와 함께하는 달리기 경주",
+      "황소의 통로",
+      "황소 농장의 한 유형"
+    ],
     "explanation": "'La corrida de toros'는 '투우'를 의미하며, 스페인의 전통적인 볼거리로 투우사(matador)와 황소가 등장합니다. 일부는 예술로 찬양하고 다른 이들은 동물 학대로 비판하는 매우 논쟁적인 문화적 관행입니다."
   },
   "q_vocab_c1_10_002": {
     "question": "Don Quijote es considerado la primera novela ___ de la literatura occidental.",
     "correct": "moderna",
-    "wrong": ["antigua", "clásica", "medieval"],
+    "wrong": [
+      "antigua",
+      "clásica",
+      "medieval"
+    ],
     "explanation": "미겔 데 세르반테스의 '돈키호테'(1605/1615)는 최초의 근대 소설로 널리 인정받고 있습니다. 메타픽션, 신뢰할 수 없는 서술, 복잡한 인물 심리 등 근대 문학을 정의하는 혁신적 기법을 도입했습니다."
   },
   "q_vocab_c1_10_003": {
     "question": "문화 예술 형태로서 'el flamenco'가 포괄하는 것은?",
     "correct": "안달루시아에서 유래한 노래(cante), 춤(baile), 기타 연주(toque)의 결합",
-    "wrong": ["스페인 토종 새의 한 종류만", "춤이 없는 음악 장르만", "마드리드 출신의 투우 형태"],
+    "wrong": [
+      "스페인 토종 새의 한 종류만",
+      "춤이 없는 음악 장르만",
+      "마드리드 출신의 투우 형태"
+    ],
     "explanation": "'El flamenco'는 안달루시아 출신의 종합 예술 형태로 세 가지 요소를 포함합니다: 'cante'(노래), 'baile'(춤), 'toque'(기타 연주). 2010년에 유네스코 무형문화유산으로 지정되었습니다."
   },
   "q_vocab_c1_10_004": {
     "question": "스페인에서 'la siesta'가 문화적으로 상징하는 것은?",
     "correct": "더운 기후에 대한 적응과 긴 점심 식사 중심의 사회적 리듬을 반영하는 전통적인 낮잠",
-    "wrong": ["여름에 기념하는 축제의 일종", "일곱째 날에 기념하는 스페인 공휴일", "전통적인 저녁 축제"],
+    "wrong": [
+      "여름에 기념하는 축제의 일종",
+      "일곱째 날에 기념하는 스페인 공휴일",
+      "전통적인 저녁 축제"
+    ],
     "explanation": "'La siesta'는 전통적으로 점심 식사 후에 취하는 짧은 낮잠입니다. 스페인의 지중해성 기후 적응과 점심이 주요 식사인 사회 구조를 반영합니다. 현대 도시 생활에서는 줄어들고 있지만 문화적으로 여전히 중요합니다."
   },
   "q_vocab_c1_10_005": {
     "question": "산티아고 순례길 (문화적/역사적 의미)",
-    "correct": "el Camino de Santiago: 산티아고 데 콤포스텔라 대성당으로 향하는 고대 순례길",
-    "wrong": ["el Camino de Santiago: 스페인 북부의 현대 고속도로", "el Camino de Santiago: 유명한 스페인 레스토랑 체인", "el Camino de Santiago: 전통적인 스페인 춤의 한 유형"],
+    "correct": "el Camino de Santiago: an ancient pilgrimage route to the Cathedral of Santiago de Compostela",
+    "wrong": [
+      "el Camino de Santiago: a modern highway in northern Spain",
+      "el Camino de Santiago: a famous Spanish restaurant chain",
+      "el Camino de Santiago: a type of traditional Spanish dance"
+    ],
     "explanation": "'El Camino de Santiago'(산티아고 순례길)는 갈리시아의 산티아고 데 콤포스텔라 대성당으로 이어지는 가장 중요한 기독교 순례길 중 하나입니다. 1993년부터 유네스코 세계문화유산이며, 매년 수십만 명의 순례자와 도보 여행자를 끌어들입니다."
   },
   "q_vocab_c1_10_006": {
     "question": "'La Tomatina'는 무엇을 가리키나요?",
     "correct": "발렌시아의 부뇰에서 매년 열리는 토마토 던지기 축제",
-    "wrong": ["바르셀로나의 토마토 요리 대회", "스페인 전역의 토마토 수확 축제", "크리스마스에 제공되는 전통 토마토 수프"],
+    "wrong": [
+      "바르셀로나의 토마토 요리 대회",
+      "스페인 전역의 토마토 수확 축제",
+      "크리스마스에 제공되는 전통 토마토 수프"
+    ],
     "explanation": "'La Tomatina'는 매년 8월 마지막 수요일에 발렌시아의 부뇰에서 열리는 유명한 축제입니다. 참가자들이 서로에게 토마토를 던지는 세계 최대의 음식 싸움으로, 국제적인 방문객을 끌어들입니다."
   },
   "q_vocab_c1_10_007": {
     "question": "관광 가이드가 외국 방문객에게 'las tapas'의 의미를 설명합니다. 단순한 음식 이상의 문화적 의미를 가장 잘 포착하는 설명은?",
     "correct": "Las tapas represent a social dining culture of sharing small dishes, encouraging conversation and community bonding.",
-    "wrong": ["Tapas are simply appetizers served before the main course.", "Tapas are the main meal of the day in Spain.", "Tapas are only served in formal restaurants for tourists."],
+    "wrong": [
+      "Tapas are simply appetizers served before the main course.",
+      "Tapas are the main meal of the day in Spain.",
+      "Tapas are only served in formal restaurants for tourists."
+    ],
     "explanation": "'Las tapas'는 단순한 음식을 넘어, 대화와 유대를 촉진하는 소량의 음식을 함께 나누는 사교적 식사 의례('ir de tapas')를 구현합니다. 이 관행은 형식적이고 개인화된 식사보다 사교와 공유 경험을 중시하는 스페인의 가치관을 반영합니다.",
     "context": "스페인 사회적 관습을 설명하는 문화 투어"
   },
   "q_vocab_c1_10_008": {
     "question": "'el Día de los Muertos'는 무엇을 가리키며, 어느 나라와 가장 관련이 있나요?",
     "correct": "죽은 자의 날, 11월 1-2일에 고인을 기리는 멕시코의 축제",
-    "wrong": ["10월 31일에 할로윈을 기념하는 스페인 공휴일", "모든 라틴 아메리카 국가에서 지키는 종교적 금식", "묘지에서만 행해지는 추모의 날"],
+    "wrong": [
+      "10월 31일에 할로윈을 기념하는 스페인 공휴일",
+      "모든 라틴 아메리카 국가에서 지키는 종교적 금식",
+      "묘지에서만 행해지는 추모의 날"
+    ],
     "explanation": "'El Día de los Muertos'(죽은 자의 날)는 11월 1-2일에 열리는 멕시코(스페인이 아닌) 전통으로, 가족들이 제단('ofrendas')을 만들고 묘지를 방문하며 고인의 삶을 기립니다. 2008년에 유네스코에 의해 인정받았습니다."
   },
   "q_vocab_c1_10_009": {
     "question": "Las Fallas de Valencia",
     "correct": "거대한 예술 조각품을 제작하고 소각하는 발렌시아의 연례 축제",
-    "wrong": ["카나리아 제도의 화산 분화 축제", "전통적인 발렌시아 오렌지 수확 축제", "발렌시아 역사의 실패를 기념하는 행사"],
+    "wrong": [
+      "카나리아 제도의 화산 분화 축제",
+      "전통적인 발렌시아 오렌지 수확 축제",
+      "발렌시아 역사의 실패를 기념하는 행사"
+    ],
     "explanation": "'Las Fallas'는 3월 15-19일(성 요셉의 날) 전후에 발렌시아에서 열리는 대규모 축제입니다. 각 마을이 거대한 예술 조각품('ninots')을 세우고, 마지막 밤('la cremà')에 소각합니다. 유네스코 무형문화유산입니다."
   },
   "q_vocab_c1_10_010": {
     "question": "한 학생이 가브리엘 가르시아 마르케스의 '백년의 고독'이 어떻게 라틴 아메리카 문화 정체성을 반영하는지에 대한 에세이를 작성하고 있습니다. 분석의 핵심이 되어야 할 문학적, 문화적 개념은?",
     "correct": "El realismo mágico: la fusión de elementos fantásticos con la realidad cotidiana latinoamericana.",
-    "wrong": ["El naturalismo: la descripción científica y objetiva de la realidad.", "El romanticismo: la exaltación de los sentimientos individuales europeos.", "El existencialismo: la angustia del ser humano ante la libertad."],
+    "wrong": [
+      "El naturalismo: la descripción científica y objetiva de la realidad.",
+      "El romanticismo: la exaltación de los sentimientos individuales europeos.",
+      "El existencialismo: la angustia del ser humano ante la libertad."
+    ],
     "explanation": "'El realismo mágico'(마술적 사실주의)는 마법적 요소가 사실적 배경 속에 자연스럽게 나타나는 문학 장르입니다. 가르시아 마르케스의 걸작은 그 대표적 예로, 신화, 구전 전통, 그리고 비범함과 일상의 융합을 통해 라틴 아메리카 문화 정체성을 반영합니다.",
     "context": "라틴 아메리카 문화 정체성에 관한 대학 문학 에세이"
   },
   "q_vocab_c1_11_001": {
     "question": "'empezar', 'comenzar', 'iniciar' 사이의 격식 차이는?",
     "correct": "'empezar'는 비격식/중립적, 'comenzar'는 약간 더 격식적, 'iniciar'는 가장 격식적/기술적",
-    "wrong": ["세 단어 모두 격식 차이 없이 동일하다", "'iniciar'가 가장 비격식적이고 'empezar'가 가장 격식적이다", "'comenzar'는 라틴아메리카에서만 사용된다"],
+    "wrong": [
+      "세 단어 모두 격식 차이 없이 동일하다",
+      "'iniciar'가 가장 비격식적이고 'empezar'가 가장 격식적이다",
+      "'comenzar'는 라틴아메리카에서만 사용된다"
+    ],
     "explanation": "'시작하다'를 뜻하는 이 세 동의어는 격식 수준이 다릅니다: 'empezar'(일상적), 'comenzar'(약간 격식, 문학적), 'iniciar'(격식, 기술적, 행정적). 적절한 단어를 선택하는 것이 C1 수준의 격식 인식을 보여줍니다."
   },
   "q_vocab_c1_11_002": {
     "question": "'efectivo'와 'eficaz'의 정확한 차이는?",
     "correct": "'eficaz'는 원하는 결과를 달성하는 것; 'efectivo'는 실제로 현실에서 효과를 내는 것",
-    "wrong": ["완벽한 동의어로 구분이 없다", "'eficaz'는 돈을 가리키고 'efectivo'는 결과를 가리킨다", "'efectivo'는 군사적 맥락에서만 사용된다"],
+    "wrong": [
+      "완벽한 동의어로 구분이 없다",
+      "'eficaz'는 돈을 가리키고 'efectivo'는 결과를 가리킨다",
+      "'efectivo'는 군사적 맥락에서만 사용된다"
+    ],
     "explanation": "'Eficaz'(유효한)는 의도된 결과를 산출하는 능력에 초점을 맞추고, 'efectivo'(효과적인)는 실제로 현실에서 작동한다는 것을 강조합니다. 치료법이 이론적으로 'eficaz'할 수 있지만 실제 적용에서는 'efectivo'하지 않을 수 있습니다."
   },
   "q_vocab_c1_11_003": {
     "question": "El gobierno implementó medidas ___ para reducir la contaminación atmosférica.",
     "correct": "drásticas",
-    "wrong": ["dramáticas", "trágicas", "fantásticas"],
+    "wrong": [
+      "dramáticas",
+      "trágicas",
+      "fantásticas"
+    ],
     "explanation": "'Drásticas'는 '과감한, 극단적인'(심각하고 광범위한 조치)을 의미합니다. 'Dramáticas'(극적인)와 'trágicas'(비극적인)는 거짓 동족어로 존재하며, 'drástico'는 특히 문제 해결을 위한 극단적 조치를 가리킵니다. 이 문장은 '정부는 대기 오염을 줄이기 위해 과감한 조치를 시행했다'는 뜻입니다."
   },
   "q_vocab_c1_11_004": {
     "question": "'austero'와 'sobrio'의 차이는?",
     "correct": "'austero'는 사치를 피하며 엄격하게 단순한 것; 'sobrio'는 절제되고 우아한 단순함",
-    "wrong": ["'austero'는 취한 상태이고 'sobrio'는 맨정신이다", "정확한 동의어로 '지루한'을 뜻한다", "'austero'는 긍정적이고 'sobrio'는 항상 부정적이다"],
+    "wrong": [
+      "'austero'는 취한 상태이고 'sobrio'는 맨정신이다",
+      "정확한 동의어로 '지루한'을 뜻한다",
+      "'austero'는 긍정적이고 'sobrio'는 항상 부정적이다"
+    ],
     "explanation": "'Austero'(금욕적인)는 엄격함과 사치나 안락의 의도적 회피를 암시합니다: 'una vida austera'. 'Sobrio'(절제된)는 과잉 없는 세련된 절제와 균형을 암시합니다: 'un estilo sobrio'. 둘 다 단순함을 전달하지만 뉘앙스가 다릅니다."
   },
   "q_vocab_c1_11_005": {
     "question": "'elogiar'(칭찬하다)의 고급 반의어는?",
     "correct": "vituperar / denostar (비난하다 / 매도하다)",
-    "wrong": ["criticar (비판하다 -- 너무 일반적)", "ignorar (무시하다)", "olvidar (잊다)"],
+    "wrong": [
+      "criticar (비판하다 -- 너무 일반적)",
+      "ignorar (무시하다)",
+      "olvidar (잊다)"
+    ],
     "explanation": "'Vituperar'와 'denostar'는 'elogiar'의 고급 반의어입니다. 'Criticar'는 일반적 수준의 반의어인 반면, 'vituperar'(비난하다)와 'denostar'(매도하다)는 칭찬에 대한 가장 강력한 반대를 나타내며, 가혹하고 공개적인 비난을 전달합니다."
   },
   "q_vocab_c1_11_006": {
     "question": "악화되다 / 나빠지다",
     "correct": "empeorar / deteriorarse / agravarse",
-    "wrong": ["mejorar / optimizar / progresar", "mantener / conservar / preservar", "cambiar / modificar / alterar"],
+    "wrong": [
+      "mejorar / optimizar / progresar",
+      "mantener / conservar / preservar",
+      "cambiar / modificar / alterar"
+    ],
     "explanation": "'악화되다'는 'empeorar'(일반적), 'deteriorarse'(상태의 점진적 쇠퇴), 'agravarse'(더 심각해짐, 주로 의료/위기)로 번역됩니다. 각각 다른 뉘앙스가 있습니다: 'La situación se agravó'(상황이 악화되었다 -- 위기 수준이 됨)."
   },
   "q_vocab_c1_11_007": {
     "question": "'perspicaz'와 'sagaz'의 미묘한 차이는?",
     "correct": "'perspicaz'는 통찰력 있는/예리한(세부를 명확히 보는 것); 'sagaz'는 영리한/기민한(통찰을 전략적으로 활용하는 것)",
-    "wrong": ["'지능적'을 뜻하는 동일한 동의어이다", "'perspicaz'는 부정적이고 'sagaz'는 긍정적이다", "'perspicaz'는 의심스러운 것이고 'sagaz'는 현명한 것이다"],
+    "wrong": [
+      "'지능적'을 뜻하는 동일한 동의어이다",
+      "'perspicaz'는 부정적이고 'sagaz'는 긍정적이다",
+      "'perspicaz'는 의심스러운 것이고 'sagaz'는 현명한 것이다"
+    ],
     "explanation": "'Perspicaz'(통찰력 있는)는 미묘한 세부를 알아차리는 예리한 지각력을 강조합니다. 'Sagaz'(기민한/영리한)는 그 지각을 실질적 이점을 위해 전략적으로 활용하는 것을 암시합니다. 형사가 단서를 알아차릴 때 'perspicaz'하고, 그것을 연결하여 사건을 해결할 때 'sagaz'합니다."
   },
   "q_vocab_c1_11_008": {
     "question": "escueto",
     "correct": "간결한 / 짤막한 / 간략한",
-    "wrong": ["뼈만 남은 / 마른", "비밀스러운 / 숨겨진", "무서운 / 두려운"],
+    "wrong": [
+      "뼈만 남은 / 마른",
+      "비밀스러운 / 숨겨진",
+      "무서운 / 두려운"
+    ],
     "explanation": "'Escueto'는 '간결한', '짤막한', '간략한'을 의미하며, 불필요한 세부 없이 짧은 것을 묘사합니다. 'Una respuesta escueta'는 꾸밈없이 짧은 답변입니다. 중립적이거나 약간 부정적(너무 짧다는 의미)일 수 있습니다."
   },
   "q_vocab_c1_11_009": {
     "question": "공식 보고서를 작성 중인데 한 정책이 '완전히 실패했다'고 표현해야 합니다. 격식체에 가장 적절한 동의어는?",
     "correct": "'La política fracasó rotundamente' -- 격식체에서 강조적 실패를 표현하는 'fracasar rotundamente' 사용.",
-    "wrong": ["'La política falló totalmente' -- 보고서에 너무 비격식적이다.", "'La política fue un desastre completo' -- 너무 구어적이다.", "'La política no funcionó para nada' -- 너무 대화체이다."],
+    "wrong": [
+      "'La política falló totalmente' -- 보고서에 너무 비격식적이다.",
+      "'La política fue un desastre completo' -- 너무 구어적이다.",
+      "'La política no funcionó para nada' -- 너무 대화체이다."
+    ],
     "explanation": "'Fracasar rotundamente'는 '완전히 실패하다'를 의미합니다. 격식 문체에서 'fracasar'(실패하다)는 'fallar'(더 기계적/비격식)보다 적절하며, 'rotundamente'(단호히/완전히)는 'totalmente'나 'completamente'보다 강한 격식 부사입니다.",
     "context": "공식 정책 평가 보고서 작성"
   },
   "q_vocab_c1_11_010": {
     "question": "한 문학 비평가가 과도하게 화려하고 지나친 소설의 문체를 묘사해야 합니다. 이 비평의 틀을 가장 잘 잡는 동의어-반의어 쌍은?",
     "correct": "Synonyms: 'recargado' / 'ampuloso' (ornate/pompous); Antonyms: 'sobrio' / 'escueto' (restrained/succinct).",
-    "wrong": ["Synonyms: 'bonito' / 'elegante'; Antonyms: 'feo' / 'horrible'.", "Synonyms: 'largo' / 'extenso'; Antonyms: 'corto' / 'breve'.", "Synonyms: 'difícil' / 'complejo'; Antonyms: 'fácil' / 'simple'."],
+    "wrong": [
+      "Synonyms: 'bonito' / 'elegante'; Antonyms: 'feo' / 'horrible'.",
+      "Synonyms: 'largo' / 'extenso'; Antonyms: 'corto' / 'breve'.",
+      "Synonyms: 'difícil' / 'complejo'; Antonyms: 'fácil' / 'simple'."
+    ],
     "explanation": "'Recargado'(과부하/화려한)와 'ampuloso'(과장된/거창한)는 과도하게 장식된 문체를 정확히 묘사합니다. 그 반의어인 'sobrio'(절제된)와 'escueto'(간결한)는 반대되는 미학을 나타냅니다. 이 어휘는 고급 문학 비평에 필수적입니다.",
     "context": "산문 문체에 대한 문학 비평"
   },
   "q_vocab_c1_12_001": {
     "question": "연어 표현 'tomar una decisión'의 뜻은?",
     "correct": "결정을 내리다",
-    "wrong": ["결정을 빼앗다", "결정을 마시다", "음료를 선택하다"],
+    "wrong": [
+      "결정을 빼앗다",
+      "결정을 마시다",
+      "음료를 선택하다"
+    ],
     "explanation": "'Tomar una decisión'은 '결정을 내리다'를 의미합니다. 스페인어에서 결정은 'hacer'(만들다)가 아니라 'tomar'(취하다)와 함께 사용합니다. 'Hacer una decisión'은 틀린 표현이므로 가장 중요한 연어 중 하나입니다."
   },
   "q_vocab_c1_12_002": {
     "question": "El profesor hizo ___ en la importancia de la participación activa en clase.",
     "correct": "hincapié",
-    "wrong": ["esfuerzo", "presión", "referencia"],
+    "wrong": [
+      "esfuerzo",
+      "presión",
+      "referencia"
+    ],
     "explanation": "'Hacer hincapié en'은 '~을 강조하다'를 의미합니다. 이 문장은 '교수가 수업에서의 적극적 참여의 중요성을 강조했다'는 뜻입니다. 이것은 고정 연어로, 'hincapié'는 이 표현 외에서는 거의 사용되지 않습니다."
   },
   "q_vocab_c1_12_003": {
     "question": "연어 표현 'prestar atención'의 뜻은?",
     "correct": "주의를 기울이다",
-    "wrong": ["누군가에게 주의를 빌려주다", "주의를 빌리다", "주의를 요구하다"],
+    "wrong": [
+      "누군가에게 주의를 빌려주다",
+      "주의를 빌리다",
+      "주의를 요구하다"
+    ],
     "explanation": "'Prestar atención'은 '주의를 기울이다'를 의미합니다. 스페인어에서 주의는 'pagar'(지불하다)가 아니라 'prestar'(빌려주다)와 함께 사용합니다. 'Presta atención a lo que dice el profesor'는 '선생님이 하는 말에 주의를 기울여라'입니다."
   },
   "q_vocab_c1_12_004": {
     "question": "'correr el riesgo'의 뜻은?",
     "correct": "위험을 감수하다",
-    "wrong": ["위험으로부터 도망치다", "위험과 경주하다", "달려서 위험을 피하다"],
+    "wrong": [
+      "위험으로부터 도망치다",
+      "위험과 경주하다",
+      "달려서 위험을 피하다"
+    ],
     "explanation": "'Correr el riesgo'는 '위험을 감수하다'를 의미합니다. 'Si no actúas ahora, corres el riesgo de perder la oportunidad'는 '지금 행동하지 않으면 기회를 잃을 위험을 감수하게 된다'는 뜻입니다."
   },
   "q_vocab_c1_12_005": {
     "question": "불만을 제기하다",
     "correct": "presentar una queja / interponer una reclamación",
-    "wrong": ["poner una queja en un archivo", "archivar un documento de queja", "dar una queja al archivo"],
+    "wrong": [
+      "poner una queja en un archivo",
+      "archivar un documento de queja",
+      "dar una queja al archivo"
+    ],
     "explanation": "'불만을 제기하다'는 스페인어로 'presentar una queja'(일반) 또는 'interponer una reclamación'(격식/법률)입니다. 동사 'interponer'는 법적, 행정적 맥락에서 공식 청구를 제기할 때 사용됩니다."
   },
   "q_vocab_c1_12_006": {
     "question": "'dar por sentado'의 뜻은?",
     "correct": "당연시하다 / 기정사실로 여기다",
-    "wrong": ["앉은 느낌이 들다", "앉아서 주다", "허가를 내리다"],
+    "wrong": [
+      "앉은 느낌이 들다",
+      "앉아서 주다",
+      "허가를 내리다"
+    ],
     "explanation": "'Dar por sentado'는 '당연시하다'를 의미합니다. 의문 없이 무언가를 가정하는 것입니다. 'No des por sentado que todos están de acuerdo'는 '모두가 동의한다고 당연시하지 마라'는 뜻입니다."
   },
   "q_vocab_c1_12_007": {
     "question": "매니저가 직원에게 말합니다: 'Hay que poner en marcha el proyecto antes de fin de mes.' 여기서 'poner en marcha'의 뜻은?",
     "correct": "착수하다 / 시작하다 / 가동시키다",
-    "wrong": ["행진에 올려놓다", "프로젝트를 중단하다", "프로젝트를 향해 행진하다"],
+    "wrong": [
+      "행진에 올려놓다",
+      "프로젝트를 중단하다",
+      "프로젝트를 향해 행진하다"
+    ],
     "explanation": "'Poner en marcha'는 '착수하다', '시작하다', '가동시키다'를 의미합니다. 프로젝트, 계획 또는 과정을 개시하는 일반적인 비즈니스 연어입니다. 매니저는 월말 전에 프로젝트를 착수해야 한다고 말하고 있습니다.",
     "context": "프로젝트 일정에 관한 비즈니스 회의"
   },
   "q_vocab_c1_12_008": {
     "question": "'llevar a cabo'의 뜻은?",
     "correct": "수행하다 / 이행하다 / 실행하다",
-    "wrong": ["밧줄 끝까지 나르다", "곶으로 이끌다", "결승선까지 가져오다"],
+    "wrong": [
+      "밧줄 끝까지 나르다",
+      "곶으로 이끌다",
+      "결승선까지 가져오다"
+    ],
     "explanation": "'Llevar a cabo'는 '수행하다' 또는 '이행하다'를 의미합니다. 과제, 프로젝트 또는 계획을 완수하는 데 사용되는 격식 연어입니다: 'Llevaron a cabo una investigación exhaustiva'(그들은 철저한 조사를 수행했다)."
   },
   "q_vocab_c1_12_009": {
     "question": "hacer caso omiso de",
     "correct": "무시하다 / 의도적으로 도외시하다",
-    "wrong": ["법적 사건을 만들다", "무언가로 집을 짓다", "면밀히 주의를 기울이다"],
+    "wrong": [
+      "법적 사건을 만들다",
+      "무언가로 집을 짓다",
+      "면밀히 주의를 기울이다"
+    ],
     "explanation": "'Hacer caso omiso de'는 '무시하다' 또는 '의도적으로 도외시하다'를 의미합니다. 의식적으로 무언가를 간과하는 것을 암시합니다: 'Hizo caso omiso de las advertencias'(그는 경고를 무시했다). 단순히 'ignorar'보다 더 격식적인 표현입니다."
   },
   "q_vocab_c1_12_010": {
     "question": "연구팀이 이해관계자들에게 연구 결과를 발표합니다. 수석 연구원이 말합니다: 'Los resultados arrojan luz sobre un fenómeno hasta ahora desconocido.' 'Arrojar luz sobre'의 뜻과 그 중요성은?",
     "correct": "'Arrojar luz sobre'는 '~에 빛을 비추다/해명하다'를 의미하며, 연구가 이전에 알려지지 않은 것을 밝혔음을 나타낸다.",
-    "wrong": ["연구가 실험 중에 문자 그대로 빛을 생산했다는 의미이다.", "결과가 너무 밝아서 줄여야 한다는 의미이다.", "발표 중 청중에게 스포트라이트를 비추는 것이다."],
+    "wrong": [
+      "연구가 실험 중에 문자 그대로 빛을 생산했다는 의미이다.",
+      "결과가 너무 밝아서 줄여야 한다는 의미이다.",
+      "발표 중 청중에게 스포트라이트를 비추는 것이다."
+    ],
     "explanation": "'Arrojar luz sobre'(~에 빛을 비추다/해명하다)는 명확히 하거나 밝히는 것을 뜻하는 핵심 학술 및 전문 연어입니다. 'Los resultados arrojan'(결과가 비추다)과 결합하면 이해를 진전시키는 중요한 발견을 소개할 때 사용되는 표준 학술 언어입니다.",
     "context": "학술 이해관계자 대상 연구 발표"
   }
