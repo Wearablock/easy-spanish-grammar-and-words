@@ -7,6 +7,7 @@ import '../../../data/models/question.dart';
 import '../../../data/providers/study_providers.dart';
 import '../../../l10n/app_localizations.dart';
 import '../../study/widgets/tts_button.dart';
+import '../../../core/utils/level_label.dart';
 
 class WrongAnswerCard extends ConsumerStatefulWidget {
   final WrongAnswerWithQuestion item;
@@ -100,7 +101,7 @@ class _WrongAnswerCardState extends ConsumerState<WrongAnswerCard> {
                       borderRadius: BorderRadius.circular(6),
                     ),
                     child: Text(
-                      cefrLevel.toUpperCase(),
+                      levelLabel(cefrLevel),
                       style: TextStyle(
                         fontSize: 11,
                         fontWeight: FontWeight.w800,
@@ -185,6 +186,7 @@ class _WrongAnswerCardState extends ConsumerState<WrongAnswerCard> {
                               const SizedBox(height: 4),
                               MarkdownBody(
                                 data: fixMarkdownBold(q.explanation),
+                                inlineSyntaxes: markdownInlineSyntaxes,
                                 styleSheet:
                                     MarkdownStyleSheet.fromTheme(theme)
                                         .copyWith(

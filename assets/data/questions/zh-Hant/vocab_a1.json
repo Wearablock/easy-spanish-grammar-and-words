@@ -660,109 +660,114 @@
     "hint": null
   },
   "q_vocab_a1_07_001": {
-    "question": "「cabeza」是什麼意思?",
+    "question": "'cabeza' 是什麼意思?",
     "correct": "頭",
     "wrong": [
       "手",
       "腳",
       "手臂"
     ],
-    "explanation": "「Cabeza」的意思是「頭」。「Me duele la cabeza」的意思是「我頭痛」(我有頭痛的症狀)。",
+    "explanation": "'Cabeza' 的意思是「頭」。'Me duele la cabeza' 的意思是「我頭痛」(我頭很痛)。",
     "hint": null
   },
   "q_vocab_a1_07_002": {
-    "question": "「mano」是什麼意思?",
+    "question": "'mano' 是什麼意思?",
     "correct": "手",
     "wrong": [
       "腳",
       "手臂",
       "手指"
     ],
-    "explanation": "「Mano」的意思是「手」。注意:雖然它以 -o 結尾,但「mano」是陰性名詞(la mano)。",
+    "explanation": "'Mano' 的意思是「手」。注意:雖然以 -o 結尾,'mano' 卻是陰性名詞(la mano)。",
     "hint": null
   },
   "q_vocab_a1_07_003": {
-    "question": "No puedo caminar, me duele el ___.",
+    "question": "no puedo caminar, me duele el ___.",
     "correct": "pie",
     "wrong": [
       "ojo",
-      "dedo",
+      "brazo",
       "diente"
     ],
-    "explanation": "'Pie' 意思是 'foot'. sentence says 'I cannot walk, my foot hurts'."
+    "explanation": "'Pie' 的意思是「腳」。這句話的意思是「我不能走路,我的腳很痛」。",
+    "hint": null
   },
   "q_vocab_a1_07_004": {
-    "question": "「ojo」是什麼意思?",
+    "question": "'ojo' 是什麼意思?",
     "correct": "眼睛",
     "wrong": [
       "耳朵",
       "鼻子",
       "嘴巴"
     ],
-    "explanation": "「Ojo」的意思是「眼睛」。複數是「ojos」。「Tiene los ojos azules」=「他/她有一雙藍眼睛」。",
+    "explanation": "'Ojo' 的意思是「眼睛」。複數是 'ojos'。'Tiene los ojos azules' = 「他/她有一雙藍色的眼睛」。",
     "hint": null
   },
   "q_vocab_a1_07_005": {
-    "question": "在「Me duele la espalda」這句話中,「espalda」是什麼意思?",
+    "question": "在 'Me duele la espalda' 中,'espalda' 是什麼意思?",
     "correct": "背",
     "wrong": [
-      "胃",
-      "胸",
+      "肚子",
+      "胸口",
       "脖子"
     ],
-    "explanation": "「Espalda」的意思是「背」(身體部位)。這句話的意思是「我的背很痛」。",
+    "explanation": "'Espalda' 的意思是「背」(身體部位)。這句話的意思是「我背痛」。",
     "hint": null
   },
   "q_vocab_a1_07_006": {
-    "question": "I brush my teeth every morning.",
+    "question": "我每天早上刷牙。",
     "correct": "Me lavo los dientes cada mañana.",
     "wrong": [
       "Me lavo las manos cada mañana.",
       "Me lavo el pelo cada mañana.",
       "Me lavo los ojos cada mañana."
     ],
-    "explanation": "'Dientes' 意思是 'teeth' (單數: 'diente'). 在 西班牙語, we say 'lavarse los dientes' (wash teeth) rather than 'brush'."
+    "explanation": "'Dientes' 的意思是「牙齒」(單數:'diente')。說西班牙語的人常說 'lavarse los dientes'(字面意思是「洗牙齒」);'cepillarse los dientes'(刷牙)也是正確的說法。",
+    "hint": null
   },
   "q_vocab_a1_07_007": {
-    "question": "在「Abre la boca」這句話中,「boca」是什麼意思?",
+    "question": "在 'Abre la boca' 中,'boca' 是什麼意思?",
     "correct": "嘴巴",
     "wrong": [
       "眼睛",
       "手",
       "耳朵"
     ],
-    "explanation": "「Boca」的意思是「嘴巴」。「Abre la boca」的意思是「張開你的嘴巴」,在牙醫診所很常聽到。",
+    "explanation": "'Boca' 的意思是「嘴巴」。'Abre la boca' 的意思是「張開你的嘴」,在牙醫診所很常聽到。",
     "hint": null
   },
   "q_vocab_a1_07_008": {
     "question": "Tengo el pelo largo y los ojos marrones.",
-    "correct": "I have long hair and brown eyes.",
+    "correct": "我有一頭長髮和棕色的眼睛。",
     "wrong": [
-      "I have short hair and blue eyes.",
-      "I have long arms and brown eyes.",
-      "I have long hair and green eyes."
+      "我有一頭短髮和藍色的眼睛。",
+      "我有長長的手臂和棕色的眼睛。",
+      "我有一頭長髮和綠色的眼睛。"
     ],
-    "explanation": "'Pelo' 意思是 'hair', 'largo' 意思是 'long', 和 'ojos marrones' 意思是 'brown eyes'."
+    "explanation": "'Pelo' 是「頭髮」,'largo' 是「長的」,'ojos marrones' 是「棕色的眼睛」。",
+    "hint": null
   },
   "q_vocab_a1_07_009": {
-    "question": "你 是 at doctor's office 和 need 用來說 哪裡 它 hurts. 如何 do 你 say 'My stomach hurts'?",
+    "question": "你在診所看醫生,需要說明哪裡痛。「我肚子痛」該怎麼說?",
     "correct": "Me duele el estómago.",
     "wrong": [
       "Me duele la cabeza.",
       "Me duele la espalda.",
       "Me duele el brazo."
     ],
-    "explanation": "'Estómago' 意思是 'stomach'. 'Me duele' 是 用過的 爲 單數 body parts 那 hurt."
+    "explanation": "'Estómago' 的意思是「胃/肚子」。'Me duele' 用於單數的身體部位疼痛。",
+    "hint": null
   },
   "q_vocab_a1_07_010": {
-    "question": "你 是 describing a friend's appearance. 如何 do 你 say 'She 有 big ears 和 a small nose'?",
+    "question": "你正在描述朋友的外貌。「她有大耳朵和小鼻子」該怎麼說?",
     "correct": "Tiene las orejas grandes y la nariz pequeña.",
     "wrong": [
       "Tiene los ojos grandes y la boca pequeña.",
       "Tiene las orejas pequeñas y la nariz grande.",
       "Tiene las manos grandes y los pies pequeños."
     ],
-    "explanation": "'Orejas' 意思是 'ears' 和 'nariz' 意思是 'nose'. 在 西班牙語, we 使用 'tener' (到 有) 用來描述 physical features."
+    "explanation": "'Orejas' 是「耳朵」,'nariz' 是「鼻子」。在西班牙語中,我們用 'tener'(有)來描述外貌特徵。",
+    "hint": null
   },
   "q_vocab_a1_08_001": {
     "question": "「zapatos」是什麼意思?",

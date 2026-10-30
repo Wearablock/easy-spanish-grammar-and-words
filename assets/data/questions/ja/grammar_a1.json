@@ -11,7 +11,7 @@
     "hint": "libro は -o で終わるので、通常は男性名詞です"
   },
   "q_gram_a1_01_002": {
-    "question": "___ mano es pequeña.",
+    "question": "___ mano es grande.",
     "correct": "La",
     "wrong": [
       "El",
@@ -33,7 +33,7 @@
     "hint": null
   },
   "q_gram_a1_01_004": {
-    "question": "___ ciudad es grande. (女性名詞に合う冠詞を使いましょう)",
+    "question": "___ ciudad es grande.",
     "correct": "La",
     "wrong": [
       "El",
@@ -41,7 +41,6 @@
       "Las"
     ],
     "explanation": "'ciudad' は女性名詞の語尾である -dad で終わっています。\n-ción、-sión、-dad、-tad で終わる名詞は通常、女性名詞です。",
-    "conjugation_info": "女性形語尾: -a, -ción, -sión, -dad, -tad, -tud",
     "hint": null
   },
   "q_gram_a1_01_005": {
@@ -56,7 +55,7 @@
     "hint": "ギリシャ語由来で -ma で終わる単語は男性名詞です"
   },
   "q_gram_a1_01_006": {
-    "question": "___ televisión es nueva. (正しい冠詞を選びましょう)",
+    "question": "___ televisión es grande.",
     "correct": "La",
     "wrong": [
       "El",
@@ -64,7 +63,6 @@
       "Las"
     ],
     "explanation": "'televisión' は -sión で終わるので女性名詞です。\nスペイン語では -ción と -sión で終わる名詞はすべて女性名詞です。",
-    "conjugation_info": "女性形語尾: -ción (nación), -sión (televisión), -dad (ciudad)",
     "hint": null
   },
   "q_gram_a1_01_007": {
@@ -90,7 +88,7 @@
     "hint": null
   },
   "q_gram_a1_01_009": {
-    "question": "___ fotos son de mi familia. (女性複数名詞に合う冠詞を選びましょう)",
+    "question": "___ fotos son de mi familia.",
     "correct": "Las",
     "wrong": [
       "Los",
@@ -98,7 +96,6 @@
       "El"
     ],
     "explanation": "'foto' は 'fotografía' の短縮形で、女性名詞です。\n- la foto → las fotos\n短縮語は元の単語の性を引き継ぎます。",
-    "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)",
     "hint": null
   },
   "q_gram_a1_01_010": {
@@ -791,112 +788,117 @@
     "hint": null
   },
   "q_gram_a1_08_001": {
-    "question": "La chica es ___.（背が高い、女性形）",
+    "question": "La chica es ___. (背が高い、女性形)",
     "correct": "alta",
     "wrong": [
       "alto",
       "altos",
       "altas"
     ],
-    "explanation": "-oで終わる形容詞は女性名詞に合わせて-aに変わります。\n- el chico alto → la chica alta\n形容詞は名詞の性に一致する必要があります。",
-    "conjugation_info": "alto/alta/altos/altas — -oで終わる形容詞は4つの形を持つ"
+    "explanation": "-oで終わる形容詞は、女性名詞に合わせて-aに変わります。\n- el chico alto → la chica alta\n形容詞は名詞の性に一致させなければなりません。",
+    "conjugation_info": "alto/alta/altos/altas — -oで終わる形容詞は4つの形を持つ",
+    "hint": null
   },
   "q_gram_a1_08_002": {
-    "question": "Los chicos son ___.（賢い）",
+    "question": "Los chicos son ___. (頭がいい)",
     "correct": "inteligentes",
     "wrong": [
       "inteligente",
       "inteligento",
       "inteligenta"
     ],
-    "explanation": "-eで終わる形容詞は性別ではなく数によってのみ変わります。\n- inteligente（単数）→ inteligentes（複数）\n-eで終わる形容詞は男性/女性の区別がありません。",
-    "hint": "-eで終わる形容詞は数によってのみ変わります"
+    "explanation": "-eで終わる形容詞は、性ではなく数だけが変わります。\n- inteligente(単数)→ inteligentes(複数)\n-eで終わる形容詞には男性形・女性形の区別がありません。",
+    "hint": "-eで終わる形容詞は数だけが変わります"
   },
   "q_gram_a1_08_003": {
-    "question": "Es un ___ libro.（良い — 短縮形）",
+    "question": "Es un ___ libro. (良い―短縮形)",
     "correct": "buen",
     "wrong": [
       "bueno",
       "buena",
       "buenos"
     ],
-    "explanation": "'bueno'は男性単数名詞の前で'buen'に短縮されます。\n- un buen libro（名詞の前で）\n- El libro es bueno.（名詞の後で、完全形）\nmalo → mal, grande → granも同様です。",
-    "hint": "一部の形容詞は名詞の前で短縮形を持ちます"
+    "explanation": "'bueno'は男性単数名詞の前では'buen'に短縮されます。\n- un buen libro(名詞の前)\n- El libro es bueno.(名詞の後ろ、完全形)\n同様の例:malo → mal、grande → gran。",
+    "hint": "形容詞の中には、名詞の前で短縮形になるものがあります"
   },
   "q_gram_a1_08_004": {
-    "question": "'bonito'の女性複数形は何ですか？",
+    "question": "'bonito'の女性複数形として正しいものはどれですか?",
     "correct": "bonitas",
     "wrong": [
       "bonitos",
       "bonita",
       "bonite"
     ],
-    "explanation": "-oで終わる形容詞は4つの形を持ちます。\n- bonito（男性単数）→ bonita（女性単数）\n- bonitos（男性複数）→ bonitas（女性複数）"
+    "explanation": "-oで終わる形容詞には4つの形があります。\n- bonito(男性単数)→ bonita(女性単数)\n- bonitos(男性複数)→ bonitas(女性複数)",
+    "hint": null
   },
   "q_gram_a1_08_005": {
-    "question": "Las lecciones son ___.（簡単な、複数形）",
+    "question": "Las lecciones son ___. (やさしい、複数)",
     "correct": "fáciles",
     "wrong": [
       "fácil",
       "fácila",
       "fácilas"
     ],
-    "explanation": "子音で終わる形容詞は複数形に-esを付け、性別変化はありません。\n- fácil（単数）→ fáciles（複数）\n- difícil → difíciles\n子音で終わる形容詞は数によってのみ変わります。",
-    "conjugation_info": "子音で終わる形容詞: fácil/fáciles, difícil/difíciles, azul/azules"
+    "explanation": "子音で終わる形容詞は、複数形では-esを付け、性による変化はありません。\n- fácil(単数)→ fáciles(複数)\n- difícil → difíciles\n子音で終わる形容詞は数だけが変化します。",
+    "conjugation_info": "子音で終わる形容詞: fácil/fáciles, difícil/difíciles, azul/azules",
+    "hint": null
   },
   "q_gram_a1_08_006": {
-    "question": "Las casas son ___.（小さい、女性複数形）",
+    "question": "Las casas son ___. (小さい、女性複数)",
     "correct": "pequeñas",
     "wrong": [
       "pequeño",
       "pequeños",
       "pequeña"
     ],
-    "explanation": "'casas'は女性複数名詞なので形容詞も女性複数形である必要があります。\n- la casa pequeña → las casas pequeñas\n-oで終わる形容詞は-/-os/-asに変わります。",
-    "hint": "形容詞は名詞の性と数の両方に一致する必要があります"
+    "explanation": "'casas'は女性複数なので、形容詞も女性複数にしなければなりません。\n- la casa pequeña → las casas pequeñas\n-oで終わる形容詞は-a/-os/-asに変化します。",
+    "hint": "形容詞は名詞の性と数の両方に一致させる必要があります"
   },
   "q_gram_a1_08_007": {
-    "question": "彼女は偉大な女性だ。",
+    "question": "彼女は偉大な女性です。",
     "correct": "Ella es una gran mujer.",
     "wrong": [
       "Ella es una grande mujer.",
       "Ella es un gran mujer.",
       "Ella es una gran mujera."
     ],
-    "explanation": "'grande'は単数名詞（男性/女性とも）の前で'gran'に短縮されます。\n- una gran mujer = 偉大な女性\n- un gran hombre = 偉大な男性\n注意: 名詞の前の'gran'は「偉大な」、名詞の後の'grande'は「大きい」を意味します。"
+    "explanation": "'grande'は、男性・女性を問わず単数名詞の前では'gran'に短縮されます。\n- una gran mujer = 偉大な女性\n- un gran hombre = 偉大な男性\n注意:'gran'は「偉大な」を意味し、名詞の後ろの'grande'は「大きい」を意味します。",
+    "hint": null
   },
   "q_gram_a1_08_008": {
-    "question": "Es una ciudad ___.（美しい、女性形）",
+    "question": "Es una ciudad ___. (美しい、女性形)",
     "correct": "bonita",
     "wrong": [
       "bonito",
       "bonitas",
       "bonitos"
     ],
-    "explanation": "スペイン語ではほとんどの形容詞は名詞の後に来ます。\n- una ciudad bonita = 美しい都市\n'ciudad'は女性単数なので'bonita'が性と数に一致します。",
-    "hint": "スペイン語では形容詞は通常名詞の後に来ます"
+    "explanation": "スペイン語では、ほとんどの形容詞は名詞の後ろに置かれます。\n- una ciudad bonita = 美しい街\n'ciudad'は女性単数なので、'bonita'が性と数に一致します。",
+    "hint": "スペイン語では、形容詞は通常名詞の後ろに来ます"
   },
   "q_gram_a1_08_009": {
-    "question": "学生たちは賢い。(男女混合のグループ)",
+    "question": "学生たちは頭がいいです。(男女混合のグループ)",
     "correct": "Los estudiantes son inteligentes.",
     "wrong": [
       "Las estudiantes son inteligentes.",
       "Los estudiantes son inteligente.",
       "Los estudiantes es inteligentes."
     ],
-    "explanation": "男女混合のグループには男性複数形を使います。\n- los estudiantes = 学生たち(男女混合または男性のみのグループ)\n- 'inteligentes' は性では変化せず、数だけが変化します。\n混合グループでは男性複数形が基本です。",
+    "explanation": "男女混合のグループには、男性複数形を使います。\n- los estudiantes = 学生たち(男女混合または男性のみのグループ)\n- 'inteligentes'は性では変わらず、数だけが変わります。\n男女混合のグループでは、男性複数形が基本です。",
     "hint": null
   },
   "q_gram_a1_08_010": {
-    "question": "Es un ___ día.（悪い — 男性単数名詞の前の短縮形）",
+    "question": "Es un ___ día. (悪い―男性単数名詞の前の短縮形)",
     "correct": "mal",
     "wrong": [
       "malo",
       "mala",
       "malos"
     ],
-    "explanation": "'malo'は男性単数名詞の前で'mal'に短縮されます。\n- un mal día = 悪い日\n- El día es malo.（名詞の後で、完全形）\nbueno → buenと同様に、この短縮は男性単数名詞の前でのみ起こります。",
-    "conjugation_info": "男性単数名詞の前の短縮形: bueno → buen, malo → mal, grande → gran（すべての単数名詞）"
+    "explanation": "'malo'は男性単数名詞の前では'mal'に短縮されます。\n- un mal día = 悪い日\n- El día es malo.(名詞の後ろ、完全形)\nbueno → buen と同様に、この短縮は男性単数名詞の前でのみ起こります。",
+    "conjugation_info": "男性単数名詞の前の短縮形: bueno → buen, malo → mal, grande → gran（すべての単数名詞）",
+    "hint": null
   },
   "q_gram_a1_09_001": {
     "question": "Yo ___ español todos los días.",
@@ -2195,5 +2197,137 @@
     ],
     "explanation": "16〜19の数字は合成語です: dieci + 一の位（一語）。\n- 16 = dieciséis, 17 = diecisiete, 18 = dieciocho, 19 = diecinueve\nこれらは元々'diez y seis'等でしたが、現在は一語で書きます。",
     "conjugation_info": "16-19: dieciséis, diecisiete, dieciocho, diecinueve（すべて一語）"
+  },
+  "q_gram_a1_01_011": {
+    "question": "___ mesa es grande.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'mesa' は -a で終わるので女性単数です:la mesa。\n- la mesa(女性単数)\n- el libro(男性単数)",
+    "hint": "mesa は -a で終わっています"
+  },
+  "q_gram_a1_01_012": {
+    "question": "___ gatos son grandes.",
+    "correct": "Los",
+    "wrong": [
+      "El",
+      "La",
+      "Las"
+    ],
+    "explanation": "'gatos' は 'gato'(男性、-o)の複数形なので、冠詞は 'los' です。\n- el gato → los gatos",
+    "hint": "gato は -o で終わっていて、しかも複数です"
+  },
+  "q_gram_a1_01_013": {
+    "question": "___ casas son grandes.",
+    "correct": "Las",
+    "wrong": [
+      "El",
+      "La",
+      "Los"
+    ],
+    "explanation": "'casas' は 'casa'(女性、-a)の複数形なので、冠詞は 'las' です。\n- la casa → las casas",
+    "hint": "casa は -a で終わっていて、しかも複数です"
+  },
+  "q_gram_a1_01_014": {
+    "question": "___ niño es inteligente.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'niño' は -o で終わるので男性単数です:el niño。\n- el niño(男の子)· la niña(女の子)",
+    "hint": "niño は -o で終わっています"
+  },
+  "q_gram_a1_01_015": {
+    "question": "___ ventana es grande.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'ventana' は -a で終わるので女性単数です:la ventana。",
+    "hint": "ventana は -a で終わっています"
+  },
+  "q_gram_a1_01_016": {
+    "question": "___ perros son inteligentes.",
+    "correct": "Los",
+    "wrong": [
+      "El",
+      "La",
+      "Las"
+    ],
+    "explanation": "'perros' は 'perro'(男性、-o)の複数形なので、冠詞は 'los' です。\n- el perro → los perros",
+    "hint": "perro は -o で終わっていて、しかも複数です"
+  },
+  "q_gram_a1_01_017": {
+    "question": "___ chicas son interesantes.",
+    "correct": "Las",
+    "wrong": [
+      "El",
+      "La",
+      "Los"
+    ],
+    "explanation": "'chicas' は 'chica'(女性、-a)の複数形なので、冠詞は 'las' です。\n- la chica → las chicas",
+    "hint": "chica は -a で終わっていて、しかも複数です"
+  },
+  "q_gram_a1_01_018": {
+    "question": "そのテーブルは大きいです。",
+    "correct": "La mesa es grande.",
+    "wrong": [
+      "El mesa es grande.",
+      "Las mesa es grande.",
+      "La mesas es grande."
+    ],
+    "explanation": "'mesa' は女性単数なので 'la' が付きます。\n「大きい」= 'grande' は、男性形も女性形も同じ形です。",
+    "hint": null
+  },
+  "q_gram_a1_01_019": {
+    "question": "その本はおもしろいです。",
+    "correct": "Los libros son interesantes.",
+    "wrong": [
+      "Las libros son interesantes.",
+      "El libros son interesantes.",
+      "Los libro son interesantes."
+    ],
+    "explanation": "'libros' は男性複数なので 'los' が付きます。\n名詞も冠詞も複数形にします:los libros。",
+    "hint": null
+  },
+  "q_gram_a1_01_020": {
+    "question": "___ canción es alegre.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'canción' は -ción で終わっていて、-ción で終わる名詞は女性です:la canción。\n- la canción · la nación · la estación",
+    "hint": "語尾の -ción に注目しましょう"
+  },
+  "q_gram_a1_01_021": {
+    "question": "___ color es verde.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'color' は -or で終わっていて、-or で終わる名詞はたいてい男性です:el color。\n- el color · el amor · el profesor",
+    "hint": "語尾の -or に注目しましょう"
+  },
+  "q_gram_a1_01_022": {
+    "question": "___ viaje es increíble.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'viaje' は -aje で終わっていて、-aje で終わる名詞は男性です:el viaje。\n- el viaje · el paisaje · el mensaje",
+    "hint": "語尾の -aje に注目しましょう"
   }
 }

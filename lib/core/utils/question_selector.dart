@@ -102,7 +102,13 @@ class QuestionSelector {
     const order = {'a1': 1, 'a2': 2, 'b1': 3, 'b2': 4, 'c1': 5, 'c2': 6};
     final target = order[targetLevel] ?? 3;
     int lv(String t) => order[t.split('_').length > 2 ? t.split('_')[2] : ''] ?? 9;
-    int no(String t) => int.tryParse(t.split('_').last) ?? 0;
+    // 'ch_gram_a1_01b' (10-31 split topic) comes right after 01 — int.tryParse('01b') would put it first
+    int no(String t) {
+      final m = RegExp(r'^(\d+)([a-z]?)$').firstMatch(t.split('_').last);
+      if (m == null) return 0;
+      final sub = m.group(2)!.isEmpty ? 0 : m.group(2)!.codeUnitAt(0) - 96;
+      return int.parse(m.group(1)!) * 10 + sub;
+    }
     int kind(String t) => t.contains('_vocab_') ? 1 : 0;
     final sorted = [...topics]
       ..sort((a, b) {

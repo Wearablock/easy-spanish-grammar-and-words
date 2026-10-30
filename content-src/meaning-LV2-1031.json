@@ -1,0 +1,137 @@
+[
+ {
+  "id": "q_gram_a1_08_001",
+  "locale": "it",
+  "reason": "The parenthetical uses the feminine 'alta' instead of the neutral word for 'tall', which gives the answer away.",
+  "before": {
+   "question": "La chica es ___. (alta, forma femminile)",
+   "explanation": "Gli aggettivi che terminano in -o cambiano in -a quando si riferiscono a nomi femminili.\n- el chico alto → la chica alta\nL'aggettivo deve concordare con il nome in genere.",
+   "hint": null,
+   "correct": "alta",
+   "wrong": [
+    "alto",
+    "altos",
+    "altas"
+   ]
+  },
+  "after": {
+   "question": "La chica es ___. (alto, forma femminile)",
+   "explanation": "Gli aggettivi che terminano in -o cambiano in -a quando si riferiscono a nomi femminili.\n- el chico alto → la chica alta\nL'aggettivo deve concordare con il nome in genere.",
+   "hint": null,
+   "correct": "alta",
+   "wrong": [
+    "alto",
+    "altos",
+    "altas"
+   ]
+  }
+ },
+ {
+  "id": "q_vocab_a1_07_010",
+  "locale": "es",
+  "reason": "Question restates the exact correct answer sentence, giving it away; the master only describes it in English.",
+  "before": {
+   "question": "Estás describiendo el aspecto de una amiga. ¿Cómo dices que tiene las orejas grandes y la nariz pequeña?",
+   "explanation": "'Orejas' son las partes externas del oído y 'nariz' es el órgano del olfato. En español usamos 'tener' para describir rasgos físicos.",
+   "hint": null,
+   "correct": "Tiene las orejas grandes y la nariz pequeña.",
+   "wrong": [
+    "Tiene los ojos grandes y la boca pequeña.",
+    "Tiene las orejas pequeñas y la nariz grande.",
+    "Tiene las manos grandes y los pies pequeños."
+   ]
+  },
+  "after": {
+   "question": "Estás describiendo el aspecto de una amiga. ¿Cómo dices que sus orejas son de tamaño grande y su nariz es de tamaño pequeño?",
+   "explanation": "'Orejas' son las partes externas del oído y 'nariz' es el órgano del olfato. En español usamos 'tener' para describir rasgos físicos.",
+   "hint": null,
+   "correct": "Tiene las orejas grandes y la nariz pequeña.",
+   "wrong": [
+    "Tiene los ojos grandes y la boca pequeña.",
+    "Tiene las orejas pequeñas y la nariz grande.",
+    "Tiene las manos grandes y los pies pequeños."
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_08_001",
+  "locale": "ko",
+  "reason": "Explanation says '여성 명사 앞뒤에서' (before and after feminine nouns), which isn't in the master, which says only 'for feminine nouns'.",
+  "before": {
+   "question": "La chica es ___. (키가 큰, 여성형)",
+   "explanation": "-o로 끝나는 형용사는 여성 명사 앞뒤에서 -a로 바뀝니다.\n- el chico alto → la chica alta\n형용사는 명사의 성에 일치해야 합니다.",
+   "hint": null,
+   "correct": "alta",
+   "wrong": [
+    "alto",
+    "altos",
+    "altas"
+   ]
+  },
+  "after": {
+   "question": "La chica es ___. (키가 큰, 여성형)",
+   "explanation": "-o로 끝나는 형용사는 여성 명사를 꾸밀 때 -a로 바뀝니다.\n- el chico alto → la chica alta\n형용사는 명사의 성에 일치해야 합니다.",
+   "hint": null,
+   "correct": "alta",
+   "wrong": [
+    "alto",
+    "altos",
+    "altas"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_08_001",
+  "locale": "pt",
+  "reason": "Hint 'alta' gives away the answer; master gives only the English meaning.",
+  "before": {
+   "question": "La chica es ___. (alta, forma feminina)",
+   "explanation": "Os adjetivos terminados em -o mudam para -a quando acompanham substantivos femininos.\n- el chico alto → la chica alta\nO adjetivo deve concordar com o substantivo em gênero.",
+   "hint": null,
+   "correct": "alta",
+   "wrong": [
+    "alto",
+    "altos",
+    "altas"
+   ]
+  },
+  "after": {
+   "question": "La chica es ___. (de estatura elevada, forma feminina)",
+   "explanation": "Os adjetivos terminados em -o mudam para -a quando acompanham substantivos femininos.\n- el chico alto → la chica alta\nO adjetivo deve concordar com o substantivo em gênero.",
+   "hint": null,
+   "correct": "alta",
+   "wrong": [
+    "alto",
+    "altos",
+    "altas"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_08_008",
+  "locale": "pt",
+  "reason": "Hint 'bonita' gives away the answer; master gives only the English meaning.",
+  "before": {
+   "question": "Es una ciudad ___. (bonita, feminino)",
+   "explanation": "Em espanhol, a maioria dos adjetivos vem depois do substantivo.\n- una ciudad bonita = uma cidade bonita\n'ciudad' é feminino singular, então 'bonita' concorda em gênero e número.",
+   "hint": "Em espanhol, os adjetivos geralmente vêm depois do substantivo",
+   "correct": "bonita",
+   "wrong": [
+    "bonito",
+    "bonitas",
+    "bonitos"
+   ]
+  },
+  "after": {
+   "question": "Es una ciudad ___. (belo, feminino)",
+   "explanation": "Em espanhol, a maioria dos adjetivos vem depois do substantivo.\n- una ciudad bonita = uma cidade bonita\n'ciudad' é feminino singular, então 'bonita' concorda em gênero e número.",
+   "hint": "Em espanhol, os adjetivos geralmente vêm depois do substantivo",
+   "correct": "bonita",
+   "wrong": [
+    "bonito",
+    "bonitas",
+    "bonitos"
+   ]
+  }
+ }
+]

@@ -5,6 +5,7 @@ import '../../data/providers/database_providers.dart';
 import '../../data/providers/topic_providers.dart';
 import '../../l10n/app_localizations.dart';
 import 'topic_detail_screen.dart';
+import '../../core/utils/level_label.dart';
 
 class TopicListScreen extends ConsumerWidget {
   final String level;
@@ -32,7 +33,7 @@ class TopicListScreen extends ConsumerWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('${level.toUpperCase()} - $levelName'),
+        title: Text('${levelLabel(level)} - $levelName'),
       ),
       body: grammarTopicsAsync.when(
         loading: () => const Center(child: CircularProgressIndicator()),

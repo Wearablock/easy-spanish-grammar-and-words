@@ -11,7 +11,7 @@
     "hint": "libro оканчивается на -o, что обычно указывает на мужской род"
   },
   "q_gram_a1_01_002": {
-    "question": "___ mano es pequeña.",
+    "question": "___ mano es grande.",
     "correct": "La",
     "wrong": [
       "El",
@@ -33,7 +33,7 @@
     "hint": null
   },
   "q_gram_a1_01_004": {
-    "question": "___ ciudad es grande. (используйте правильный артикль для существительного женского рода)",
+    "question": "___ ciudad es grande.",
     "correct": "La",
     "wrong": [
       "El",
@@ -41,7 +41,6 @@
       "Las"
     ],
     "explanation": "'ciudad' оканчивается на -dad — это окончание женского рода.\nСуществительные на -ción, -sión, -dad и -tad, как правило, женского рода.",
-    "conjugation_info": "Окончания женского рода: -a, -ción, -sión, -dad, -tad, -tud",
     "hint": null
   },
   "q_gram_a1_01_005": {
@@ -56,7 +55,7 @@
     "hint": "Слова греческого происхождения на -ma — мужского рода"
   },
   "q_gram_a1_01_006": {
-    "question": "___ televisión es nueva. (выберите правильный артикль)",
+    "question": "___ televisión es grande.",
     "correct": "La",
     "wrong": [
       "El",
@@ -64,7 +63,6 @@
       "Las"
     ],
     "explanation": "'televisión' оканчивается на -sión, поэтому слово женского рода.\nВсе существительные на -ción и -sión в испанском языке женского рода.",
-    "conjugation_info": "Окончания женского рода: -ción (nación), -sión (televisión), -dad (ciudad)",
     "hint": null
   },
   "q_gram_a1_01_007": {
@@ -90,7 +88,7 @@
     "hint": null
   },
   "q_gram_a1_01_009": {
-    "question": "___ fotos son de mi familia. (выберите правильный артикль для существительного женского рода во множественном числе)",
+    "question": "___ fotos son de mi familia.",
     "correct": "Las",
     "wrong": [
       "Los",
@@ -98,7 +96,6 @@
       "El"
     ],
     "explanation": "'foto' — сокращение от 'fotografía', слова женского рода.\n- la foto → las fotos\nСокращённые слова сохраняют род полной формы.",
-    "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)",
     "hint": null
   },
   "q_gram_a1_01_010": {
@@ -791,90 +788,94 @@
     "hint": null
   },
   "q_gram_a1_08_001": {
-    "question": "La chica es ___. (tall, женский род form)",
+    "question": "La chica es ___. (высокий, женский род)",
     "correct": "alta",
     "wrong": [
       "alto",
       "altos",
       "altas"
     ],
-    "explanation": "Adjectives оканчивающимся на -o change к -для женского рода nouns. - el chico alto → la chica alta прилагательное должен agree с существительное в gender.",
-    "conjugation_info": "alto/alta/altos/altas — 4 формах для adjectives оканчивающимся на -o"
+    "explanation": "Прилагательные на -o в женском роде меняют окончание на -a.\n- el chico alto → la chica alta\nПрилагательное должно согласовываться с существительным в роде.",
+    "conjugation_info": "alto/alta/altos/altas — 4 формах для adjectives оканчивающимся на -o",
+    "hint": null
   },
   "q_gram_a1_08_002": {
-    "question": "Los chicos son ___. (intelligent)",
+    "question": "Los chicos son ___. (умный)",
     "correct": "inteligentes",
     "wrong": [
       "inteligente",
       "inteligento",
       "inteligenta"
     ],
-    "explanation": "Adjectives оканчивающимся на -e только change для number, не gender. - inteligente (единственного числа) → inteligentes (множественного числа) No мужского рода/женского рода distinction для -e adjectives.",
-    "hint": "Adjectives оканчивающимся на -e только change для number"
+    "explanation": "Прилагательные на -e изменяются только по числу, но не по роду.\n- inteligente (ед. ч.) → inteligentes (мн. ч.)\nУ прилагательных на -e нет различия между мужским и женским родом.",
+    "hint": "Прилагательные на -e изменяются только по числу"
   },
   "q_gram_a1_08_003": {
-    "question": "Es un ___ libro. (good — shortened form)",
+    "question": "Es un ___ libro. (хороший — сокращённая форма)",
     "correct": "buen",
     "wrong": [
       "bueno",
       "buena",
       "buenos"
     ],
-    "explanation": "'bueno' shortens к 'buen' перед существительное мужского рода единственного числа. - un buen libro (перед существительное) - El libro es bueno. (после существительное, full форма) Similar: malo → mal, grande → gran.",
-    "hint": "Some adjectives иметь shortened форма перед nouns"
+    "explanation": "'bueno' сокращается до 'buen' перед существительным мужского рода в единственном числе.\n- un buen libro (перед существительным)\n- El libro es bueno. (после существительного — полная форма)\nАналогично: malo → mal, grande → gran.",
+    "hint": "У некоторых прилагательных есть сокращённая форма перед существительным"
   },
   "q_gram_a1_08_004": {
-    "question": "что есть правильный женского рода множественного числа форма 'bonito'?",
+    "question": "Какая форма 'bonito' правильная для женского рода множественного числа?",
     "correct": "bonitas",
     "wrong": [
       "bonitos",
       "bonita",
       "bonite"
     ],
-    "explanation": "Adjectives оканчивающимся на -o иметь four формах: - bonito (m. sg.) → bonita (f. sg.) - bonitos (m. pl.) → bonitas (f. pl.)"
+    "explanation": "У прилагательных на -o четыре формы:\n- bonito (м. р., ед. ч.) → bonita (ж. р., ед. ч.)\n- bonitos (м. р., мн. ч.) → bonitas (ж. р., мн. ч.)",
+    "hint": null
   },
   "q_gram_a1_08_005": {
-    "question": "Las lecciones son ___. (easy, множественное число)",
+    "question": "Las lecciones son ___. (лёгкий, мн. ч.)",
     "correct": "fáciles",
     "wrong": [
       "fácil",
       "fácila",
       "fácilas"
     ],
-    "explanation": "Adjectives оканчивающимся на consonant add -es для множественного числа, с no gender change. - fácil (единственного числа) → fáciles (множественного числа) - difícil → difíciles Consonant-окончание adjectives только vary в number.",
-    "conjugation_info": "Consonant-окончание adjectives: fácil/fáciles, difícil/difíciles, azul/azules"
+    "explanation": "Прилагательные на согласный образуют множественное число добавлением -es, род при этом не меняется.\n- fácil (ед. ч.) → fáciles (мн. ч.)\n- difícil → difíciles\nПрилагательные на согласный изменяются только по числу.",
+    "conjugation_info": "Consonant-окончание adjectives: fácil/fáciles, difícil/difíciles, azul/azules",
+    "hint": null
   },
   "q_gram_a1_08_006": {
-    "question": "Las casas son ___. (small, женский род множественное число)",
+    "question": "Las casas son ___. (маленький, женский род, мн. ч.)",
     "correct": "pequeñas",
     "wrong": [
       "pequeño",
       "pequeños",
       "pequeña"
     ],
-    "explanation": "'casas' есть женского рода множественного числа, поэтому прилагательное должен быть женского рода множественного числа too. - la casa pequeña → las casas pequeñas Adjectives оканчивающимся на -o change к -a/-os/-as.",
-    "hint": " прилагательное должен match существительное в gender и number"
+    "explanation": "'casas' — существительное женского рода во множественном числе, поэтому прилагательное тоже должно стоять в женском роде и во множественном числе.\n- la casa pequeña → las casas pequeñas\nПрилагательные на -o принимают формы -a/-os/-as.",
+    "hint": "Прилагательное должно согласовываться с существительным и в роде, И в числе"
   },
   "q_gram_a1_08_007": {
-    "question": "She есть a great woman.",
+    "question": "Она — великая женщина.",
     "correct": "Ella es una gran mujer.",
     "wrong": [
       "Ella es una grande mujer.",
       "Ella es un gran mujer.",
       "Ella es una gran mujera."
     ],
-    "explanation": "'grande' shortens к 'gran' перед any единственного числа существительное (мужского рода или женского рода). - una gran mujer = great woman - un gran hombre = great man Note: 'gran' означает 'great', пока 'grande' после существительное означает 'большой'."
+    "explanation": "'grande' сокращается до 'gran' перед любым существительным в единственном числе (мужского или женского рода).\n- una gran mujer = великая женщина\n- un gran hombre = великий человек\nОбратите внимание: 'gran' значит «великий», а 'grande' после существительного значит «большой».",
+    "hint": null
   },
   "q_gram_a1_08_008": {
-    "question": "Es una ciudad ___. (beautiful, женский род)",
+    "question": "Es una ciudad ___. (красивый, женский род)",
     "correct": "bonita",
     "wrong": [
       "bonito",
       "bonitas",
       "bonitos"
     ],
-    "explanation": "большинство adjectives follow существительное в испанский. - una ciudad bonita = beautiful город 'ciudad' есть женского рода единственного числа, поэтому 'bonita' agrees в gender и number.",
-    "hint": "в испанском, adjectives обычно come после существительное"
+    "explanation": "В испанском языке большинство прилагательных стоит после существительного.\n- una ciudad bonita = красивый город\n'ciudad' — существительное женского рода в единственном числе, поэтому 'bonita' согласуется с ним в роде и числе.",
+    "hint": "В испанском языке прилагательные обычно стоят после существительного"
   },
   "q_gram_a1_08_009": {
     "question": "Студенты умные. (смешанная группа)",
@@ -884,19 +885,20 @@
       "Los estudiantes son inteligente.",
       "Los estudiantes es inteligentes."
     ],
-    "explanation": "Для групп смешанного состава используется мужской род множественного числа.\n- los estudiantes = студенты (смешанная или мужская группа)\n- 'inteligentes' не меняется по роду, только по числу.\nМужской род множественного числа — норма для смешанных групп.",
+    "explanation": "Для смешанной по полу группы используется мужской род множественного числа.\n- los estudiantes = студенты (смешанная или мужская группа)\n- 'inteligentes' не меняется по роду, только по числу.\nМужской род множественного числа — форма по умолчанию для смешанных групп.",
     "hint": null
   },
   "q_gram_a1_08_010": {
-    "question": "Es un ___ día. (bad — shortened form перед masc. sg. существительное)",
+    "question": "Es un ___ día. (плохой — сокращённая форма перед сущ. м. р. ед. ч.)",
     "correct": "mal",
     "wrong": [
       "malo",
       "mala",
       "malos"
     ],
-    "explanation": "'malo' shortens к 'mal' перед существительное мужского рода единственного числа. - un mal día = плохой день - El día es malo. (после существительное, full форма) Like bueno → buen, это shortening только happens перед masc. sg. nouns.",
-    "conjugation_info": "Shortened формах before masc. sg. nouns: bueno → buen, malo → mal, grande → gran (any sg. noun)"
+    "explanation": "'malo' сокращается до 'mal' перед существительным мужского рода в единственном числе.\n- un mal día = плохой день\n- El día es malo. (после существительного — полная форма)\nКак и bueno → buen, такое сокращение происходит только перед существительными м. р. ед. ч.",
+    "conjugation_info": "Shortened формах before masc. sg. nouns: bueno → buen, malo → mal, grande → gran (any sg. noun)",
+    "hint": null
   },
   "q_gram_a1_09_001": {
     "question": "Yo ___ español todos los días.",
@@ -2201,5 +2203,137 @@
     ],
     "explanation": "Numbers 16-19 являются compounds: dieci + unit (one слово). - 16 = dieciséis, 17 = diecisiete, 18 = dieciocho, 19 = diecinueve These были originally 'diez y seis' etc. но являются now written as one слово.",
     "conjugation_info": "16-19: dieciséis, diecisiete, dieciocho, diecinueve (все one word)"
+  },
+  "q_gram_a1_01_011": {
+    "question": "___ mesa es grande.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'mesa' оканчивается на -a, поэтому это существительное женского рода в единственном числе: la mesa.\n- la mesa (женский род, ед. число)\n- el libro (мужской род, ед. число)",
+    "hint": "mesa оканчивается на -a"
+  },
+  "q_gram_a1_01_012": {
+    "question": "___ gatos son grandes.",
+    "correct": "Los",
+    "wrong": [
+      "El",
+      "La",
+      "Las"
+    ],
+    "explanation": "'gatos' — множественное число от 'gato' (мужской род, -o), поэтому артикль — 'los'.\n- el gato → los gatos",
+    "hint": "gato оканчивается на -o, и их несколько"
+  },
+  "q_gram_a1_01_013": {
+    "question": "___ casas son grandes.",
+    "correct": "Las",
+    "wrong": [
+      "El",
+      "La",
+      "Los"
+    ],
+    "explanation": "'casas' — множественное число от 'casa' (женский род, -a), поэтому артикль — 'las'.\n- la casa → las casas",
+    "hint": "casa оканчивается на -a, и их несколько"
+  },
+  "q_gram_a1_01_014": {
+    "question": "___ niño es inteligente.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'niño' оканчивается на -o, поэтому это существительное мужского рода в единственном числе: el niño.\n- el niño (мальчик) · la niña (девочка)",
+    "hint": "niño оканчивается на -o"
+  },
+  "q_gram_a1_01_015": {
+    "question": "___ ventana es grande.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'ventana' оканчивается на -a, поэтому это существительное женского рода в единственном числе: la ventana.",
+    "hint": "ventana оканчивается на -a"
+  },
+  "q_gram_a1_01_016": {
+    "question": "___ perros son inteligentes.",
+    "correct": "Los",
+    "wrong": [
+      "El",
+      "La",
+      "Las"
+    ],
+    "explanation": "'perros' — множественное число от 'perro' (мужской род, -o), поэтому артикль — 'los'.\n- el perro → los perros",
+    "hint": "perro оканчивается на -o, и их несколько"
+  },
+  "q_gram_a1_01_017": {
+    "question": "___ chicas son interesantes.",
+    "correct": "Las",
+    "wrong": [
+      "El",
+      "La",
+      "Los"
+    ],
+    "explanation": "'chicas' — множественное число от 'chica' (женский род, -a), поэтому артикль — 'las'.\n- la chica → las chicas",
+    "hint": "chica оканчивается на -a, и их несколько"
+  },
+  "q_gram_a1_01_018": {
+    "question": "Стол большой.",
+    "correct": "La mesa es grande.",
+    "wrong": [
+      "El mesa es grande.",
+      "Las mesa es grande.",
+      "La mesas es grande."
+    ],
+    "explanation": "'mesa' — существительное женского рода в единственном числе, поэтому нужен артикль 'la'.\n«большой» = 'grande'; эта форма одинакова для мужского и женского рода.",
+    "hint": null
+  },
+  "q_gram_a1_01_019": {
+    "question": "Книги интересные.",
+    "correct": "Los libros son interesantes.",
+    "wrong": [
+      "Las libros son interesantes.",
+      "El libros son interesantes.",
+      "Los libro son interesantes."
+    ],
+    "explanation": "'libros' — существительное мужского рода во множественном числе, поэтому нужен артикль 'los'.\nИ существительное, и артикль показывают множественное число: los libros.",
+    "hint": null
+  },
+  "q_gram_a1_01_020": {
+    "question": "___ canción es alegre.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'canción' оканчивается на -ción, а существительные на -ción — женского рода: la canción.\n- la canción · la nación · la estación",
+    "hint": "Посмотрите на окончание -ción"
+  },
+  "q_gram_a1_01_021": {
+    "question": "___ color es verde.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'color' оканчивается на -or, а существительные на -or обычно мужского рода: el color.\n- el color · el amor · el profesor",
+    "hint": "Посмотрите на окончание -or"
+  },
+  "q_gram_a1_01_022": {
+    "question": "___ viaje es increíble.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'viaje' оканчивается на -aje, а существительные на -aje — мужского рода: el viaje.\n- el viaje · el paisaje · el mensaje",
+    "hint": "Посмотрите на окончание -aje"
   }
 }

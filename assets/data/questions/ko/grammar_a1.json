@@ -11,7 +11,7 @@
     "hint": "libro는 -o로 끝나는데, 보통 남성 명사임을 나타냅니다"
   },
   "q_gram_a1_01_002": {
-    "question": "___ mano es pequeña.",
+    "question": "___ mano es grande.",
     "correct": "La",
     "wrong": [
       "El",
@@ -33,7 +33,7 @@
     "hint": null
   },
   "q_gram_a1_01_004": {
-    "question": "___ ciudad es grande. (여성 명사에 맞는 관사를 쓰세요)",
+    "question": "___ ciudad es grande.",
     "correct": "La",
     "wrong": [
       "El",
@@ -41,7 +41,6 @@
       "Las"
     ],
     "explanation": "'ciudad'는 -dad로 끝나며, 이는 여성 명사의 어미입니다.\n-ción, -sión, -dad, -tad로 끝나는 명사는 보통 여성입니다.",
-    "conjugation_info": "여성형 어미: -a, -cion, -sion, -dad, -tad, -tud",
     "hint": null
   },
   "q_gram_a1_01_005": {
@@ -56,7 +55,7 @@
     "hint": "-ma로 끝나는 그리스어 기원 단어는 남성입니다"
   },
   "q_gram_a1_01_006": {
-    "question": "___ televisión es nueva. (알맞은 관사를 고르세요)",
+    "question": "___ televisión es grande.",
     "correct": "La",
     "wrong": [
       "El",
@@ -64,7 +63,6 @@
       "Las"
     ],
     "explanation": "'televisión'은 -sión으로 끝나므로 여성 명사입니다.\n스페인어에서 -ción, -sión으로 끝나는 명사는 모두 여성입니다.",
-    "conjugation_info": "여성형 어미: -cion (nacion), -sion (television), -dad (ciudad)",
     "hint": null
   },
   "q_gram_a1_01_007": {
@@ -90,7 +88,7 @@
     "hint": null
   },
   "q_gram_a1_01_009": {
-    "question": "___ fotos son de mi familia. (여성 복수 명사에 맞는 관사를 고르세요)",
+    "question": "___ fotos son de mi familia.",
     "correct": "Las",
     "wrong": [
       "Los",
@@ -98,7 +96,6 @@
       "El"
     ],
     "explanation": "'foto'는 'fotografía'의 줄임말이며, 여성 명사입니다.\n- la foto → las fotos\n줄임말은 원래 단어의 성을 그대로 따릅니다.",
-    "conjugation_info": "la foto (fotografia), la moto (motocicleta), la radio (radiodifusion)",
     "hint": null
   },
   "q_gram_a1_01_010": {
@@ -798,8 +795,9 @@
       "altos",
       "altas"
     ],
-    "explanation": "-o로 끝나는 형용사는 여성 명사에 맞춰 -a로 변합니다.\n- el chico alto → la chica alta\n형용사는 명사의 성에 일치해야 합니다.",
-    "conjugation_info": "alto/alta/altos/altas — -o로 끝나는 형용사는 4가지 형태를 가짐"
+    "explanation": "-o로 끝나는 형용사는 여성 명사를 꾸밀 때 -a로 바뀝니다.\n- el chico alto → la chica alta\n형용사는 명사의 성에 일치해야 합니다.",
+    "conjugation_info": "alto/alta/altos/altas — -o로 끝나는 형용사는 4가지 형태를 가짐",
+    "hint": null
   },
   "q_gram_a1_08_002": {
     "question": "Los chicos son ___. (똑똑한)",
@@ -809,61 +807,64 @@
       "inteligento",
       "inteligenta"
     ],
-    "explanation": "-e로 끝나는 형용사는 성별이 아닌 수에 따라서만 변합니다.\n- inteligente (단수) → inteligentes (복수)\n-e로 끝나는 형용사는 남성/여성 구분이 없습니다.",
+    "explanation": "-e로 끝나는 형용사는 성이 아니라 수에 따라서만 변합니다.\n- inteligente (단수) → inteligentes (복수)\n-e로 끝나는 형용사는 남성/여성 구분이 없습니다.",
     "hint": "-e로 끝나는 형용사는 수에 따라서만 변합니다"
   },
   "q_gram_a1_08_003": {
-    "question": "Es un ___ libro. (좋은 — 단축형)",
+    "question": "Es un ___ libro. (좋은 — 축약형)",
     "correct": "buen",
     "wrong": [
       "bueno",
       "buena",
       "buenos"
     ],
-    "explanation": "'bueno'는 남성 단수 명사 앞에서 'buen'으로 단축됩니다.\n- un buen libro (명사 앞에서)\n- El libro es bueno. (명사 뒤에서, 완전한 형태)\nmalo → mal, grande → gran도 비슷합니다.",
-    "hint": "일부 형용사는 명사 앞에서 단축형을 가집니다"
+    "explanation": "'bueno'는 남성 단수 명사 앞에서 'buen'으로 줄어듭니다.\n- un buen libro (명사 앞)\n- El libro es bueno. (명사 뒤, 원래 형태)\n비슷한 예: malo → mal, grande → gran.",
+    "hint": "일부 형용사는 명사 앞에서 축약형을 씁니다"
   },
   "q_gram_a1_08_004": {
-    "question": "'bonito'의 여성 복수형은 무엇인가요?",
+    "question": "'bonito'의 올바른 여성 복수형은 무엇일까요?",
     "correct": "bonitas",
     "wrong": [
       "bonitos",
       "bonita",
       "bonite"
     ],
-    "explanation": "-o로 끝나는 형용사는 4가지 형태를 가집니다.\n- bonito (남성 단수) → bonita (여성 단수)\n- bonitos (남성 복수) → bonitas (여성 복수)"
+    "explanation": "-o로 끝나는 형용사는 네 가지 형태가 있습니다.\n- bonito (남성 단수) → bonita (여성 단수)\n- bonitos (남성 복수) → bonitas (여성 복수)",
+    "hint": null
   },
   "q_gram_a1_08_005": {
-    "question": "Las lecciones son ___. (쉬운, 복수형)",
+    "question": "Las lecciones son ___. (쉬운, 복수)",
     "correct": "fáciles",
     "wrong": [
       "fácil",
       "fácila",
       "fácilas"
     ],
-    "explanation": "자음으로 끝나는 형용사는 복수형에 -es를 붙이며, 성별 변화가 없습니다.\n- fácil (단수) → fáciles (복수)\n- difícil → difíciles\n자음으로 끝나는 형용사는 수에 따라서만 변합니다.",
-    "conjugation_info": "자음으로 끝나는 형용사: fácil/fáciles, difícil/difíciles, azul/azules"
+    "explanation": "자음으로 끝나는 형용사는 복수형에서 -es를 붙이며 성에 따른 변화는 없습니다.\n- fácil (단수) → fáciles (복수)\n- difícil → difíciles\n자음으로 끝나는 형용사는 수에 따라서만 변합니다.",
+    "conjugation_info": "자음으로 끝나는 형용사: fácil/fáciles, difícil/difíciles, azul/azules",
+    "hint": null
   },
   "q_gram_a1_08_006": {
-    "question": "Las casas son ___. (작은, 여성 복수형)",
+    "question": "Las casas son ___. (작은, 여성 복수)",
     "correct": "pequeñas",
     "wrong": [
       "pequeño",
       "pequeños",
       "pequeña"
     ],
-    "explanation": "'casas'는 여성 복수 명사이므로 형용사도 여성 복수형이어야 합니다.\n- la casa pequeña → las casas pequeñas\n-o로 끝나는 형용사는 -a/-os/-as로 변합니다.",
-    "hint": "형용사는 명사의 성과 수 모두에 일치해야 합니다"
+    "explanation": "'casas'는 여성 복수이므로 형용사도 여성 복수여야 합니다.\n- la casa pequeña → las casas pequeñas\n-o로 끝나는 형용사는 -a/-os/-as로 바뀝니다.",
+    "hint": "형용사는 명사의 성과 수에 모두 일치해야 합니다"
   },
   "q_gram_a1_08_007": {
-    "question": "그녀는 위대한 여성이다.",
+    "question": "그녀는 위대한 여성입니다.",
     "correct": "Ella es una gran mujer.",
     "wrong": [
       "Ella es una grande mujer.",
       "Ella es un gran mujer.",
       "Ella es una gran mujera."
     ],
-    "explanation": "'grande'는 단수 명사(남성/여성 모두) 앞에서 'gran'으로 단축됩니다.\n- una gran mujer = 위대한 여성\n- un gran hombre = 위대한 남성\n참고: 명사 앞 'gran'은 '위대한', 명사 뒤 'grande'는 '큰'을 의미합니다."
+    "explanation": "'grande'는 남성·여성 상관없이 단수 명사 앞에서 'gran'으로 줄어듭니다.\n- una gran mujer = 위대한 여성\n- un gran hombre = 위대한 남성\n참고: 'gran'은 '위대한'을 뜻하고, 명사 뒤의 'grande'는 '큰'을 뜻합니다.",
+    "hint": null
   },
   "q_gram_a1_08_008": {
     "question": "Es una ciudad ___. (아름다운, 여성형)",
@@ -877,26 +878,27 @@
     "hint": "스페인어에서 형용사는 보통 명사 뒤에 옵니다"
   },
   "q_gram_a1_08_009": {
-    "question": "학생들은 똑똑하다. (남녀 혼성 그룹)",
+    "question": "학생들은 똑똑합니다. (혼성 그룹)",
     "correct": "Los estudiantes son inteligentes.",
     "wrong": [
       "Las estudiantes son inteligentes.",
       "Los estudiantes son inteligente.",
       "Los estudiantes es inteligentes."
     ],
-    "explanation": "남녀가 섞인 그룹에는 남성 복수형을 씁니다.\n- los estudiantes = 학생들 (혼성 또는 남학생만의 그룹)\n- 'inteligentes'는 성에 따라 변하지 않고 수에 따라서만 변합니다.\n혼성 그룹의 기본형은 남성 복수입니다.",
+    "explanation": "남녀가 섞인 그룹에는 남성 복수형을 씁니다.\n- los estudiantes = 학생들 (혼성 또는 모두 남성 그룹)\n- 'inteligentes'는 성에 따라 변하지 않고 수에 따라서만 변합니다.\n혼성 그룹에서는 남성 복수형이 기본입니다.",
     "hint": null
   },
   "q_gram_a1_08_010": {
-    "question": "Es un ___ día. (나쁜 — 남성 단수 명사 앞 단축형)",
+    "question": "Es un ___ día. (나쁜 — 남성 단수 명사 앞 축약형)",
     "correct": "mal",
     "wrong": [
       "malo",
       "mala",
       "malos"
     ],
-    "explanation": "'malo'는 남성 단수 명사 앞에서 'mal'로 단축됩니다.\n- un mal día = 나쁜 날\n- El día es malo. (명사 뒤에서, 완전한 형태)\nbueno → buen처럼, 이 단축은 남성 단수 명사 앞에서만 일어납니다.",
-    "conjugation_info": "남성 단수 명사 앞 단축형: bueno → buen, malo → mal, grande → gran (모든 단수 명사)"
+    "explanation": "'malo'는 남성 단수 명사 앞에서 'mal'로 줄어듭니다.\n- un mal día = 나쁜 날\n- El día es malo. (명사 뒤, 원래 형태)\nbueno → buen처럼, 이 축약은 남성 단수 명사 앞에서만 일어납니다.",
+    "conjugation_info": "남성 단수 명사 앞 단축형: bueno → buen, malo → mal, grande → gran (모든 단수 명사)",
+    "hint": null
   },
   "q_gram_a1_09_001": {
     "question": "Yo ___ español todos los días.",
@@ -2199,5 +2201,137 @@
     ],
     "explanation": "16~19까지의 숫자는 합성어입니다: dieci + 일의 자리 (한 단어).\n- 16 = dieciséis, 17 = diecisiete, 18 = dieciocho, 19 = diecinueve\n원래 'diez y seis' 등이었지만 현재는 한 단어로 씁니다.",
     "conjugation_info": "16-19: dieciséis, diecisiete, dieciocho, diecinueve (모두 한 단어)"
+  },
+  "q_gram_a1_01_011": {
+    "question": "___ mesa es grande.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'mesa'는 -a로 끝나므로 여성 단수입니다: la mesa.\n- la mesa (여성 단수)\n- el libro (남성 단수)",
+    "hint": "mesa는 -a로 끝나요"
+  },
+  "q_gram_a1_01_012": {
+    "question": "___ gatos son grandes.",
+    "correct": "Los",
+    "wrong": [
+      "El",
+      "La",
+      "Las"
+    ],
+    "explanation": "'gatos'는 'gato'(남성, -o)의 복수형이므로 관사는 'los'입니다.\n- el gato → los gatos",
+    "hint": "gato는 -o로 끝나고, 하나가 아니라 여러 마리예요"
+  },
+  "q_gram_a1_01_013": {
+    "question": "___ casas son grandes.",
+    "correct": "Las",
+    "wrong": [
+      "El",
+      "La",
+      "Los"
+    ],
+    "explanation": "'casas'는 'casa'(여성, -a)의 복수형이므로 관사는 'las'입니다.\n- la casa → las casas",
+    "hint": "casa는 -a로 끝나고, 하나가 아니라 여러 채예요"
+  },
+  "q_gram_a1_01_014": {
+    "question": "___ niño es inteligente.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'niño'는 -o로 끝나므로 남성 단수입니다: el niño.\n- el niño (남자아이) · la niña (여자아이)",
+    "hint": "niño는 -o로 끝나요"
+  },
+  "q_gram_a1_01_015": {
+    "question": "___ ventana es grande.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'ventana'는 -a로 끝나므로 여성 단수입니다: la ventana.",
+    "hint": "ventana는 -a로 끝나요"
+  },
+  "q_gram_a1_01_016": {
+    "question": "___ perros son inteligentes.",
+    "correct": "Los",
+    "wrong": [
+      "El",
+      "La",
+      "Las"
+    ],
+    "explanation": "'perros'는 'perro'(남성, -o)의 복수형이므로 관사는 'los'입니다.\n- el perro → los perros",
+    "hint": "perro는 -o로 끝나고, 하나가 아니라 여러 마리예요"
+  },
+  "q_gram_a1_01_017": {
+    "question": "___ chicas son interesantes.",
+    "correct": "Las",
+    "wrong": [
+      "El",
+      "La",
+      "Los"
+    ],
+    "explanation": "'chicas'는 'chica'(여성, -a)의 복수형이므로 관사는 'las'입니다.\n- la chica → las chicas",
+    "hint": "chica는 -a로 끝나고, 한 명이 아니라 여러 명이에요"
+  },
+  "q_gram_a1_01_018": {
+    "question": "테이블은 큽니다.",
+    "correct": "La mesa es grande.",
+    "wrong": [
+      "El mesa es grande.",
+      "Las mesa es grande.",
+      "La mesas es grande."
+    ],
+    "explanation": "'mesa'는 여성 단수이므로 'la'를 씁니다.\n'큰'은 'grande'이며, 남성형과 여성형이 같습니다.",
+    "hint": null
+  },
+  "q_gram_a1_01_019": {
+    "question": "그 책들은 흥미롭습니다.",
+    "correct": "Los libros son interesantes.",
+    "wrong": [
+      "Las libros son interesantes.",
+      "El libros son interesantes.",
+      "Los libro son interesantes."
+    ],
+    "explanation": "'libros'는 남성 복수이므로 'los'를 씁니다.\n명사와 관사 모두 복수를 나타냅니다: los libros.",
+    "hint": null
+  },
+  "q_gram_a1_01_020": {
+    "question": "___ canción es alegre.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'canción'은 -ción으로 끝나는데, -ción으로 끝나는 명사는 여성입니다: la canción.\n- la canción · la nación · la estación",
+    "hint": "-ción이라는 어미를 보세요"
+  },
+  "q_gram_a1_01_021": {
+    "question": "___ color es verde.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'color'는 -or로 끝나는데, -or로 끝나는 명사는 대개 남성입니다: el color.\n- el color · el amor · el profesor",
+    "hint": "-or이라는 어미를 보세요"
+  },
+  "q_gram_a1_01_022": {
+    "question": "___ viaje es increíble.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'viaje'는 -aje로 끝나는데, -aje로 끝나는 명사는 남성입니다: el viaje.\n- el viaje · el paisaje · el mensaje",
+    "hint": "-aje라는 어미를 보세요"
   }
 }

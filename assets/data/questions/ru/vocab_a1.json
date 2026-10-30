@@ -675,31 +675,34 @@
     "question": "Что означает 'cabeza'?",
     "correct": "голова",
     "wrong": [
-      "рука",
-      "нога",
-      "рука (от плеча до кисти)"
+      "рука (кисть)",
+      "ступня",
+      "рука (от плеча)"
     ],
-    "explanation": "'Cabeza' означает 'голова'. 'Me duele la cabeza' означает 'У меня болит голова' (головная боль)."
+    "explanation": "'Cabeza' означает «голова». 'Me duele la cabeza' значит «У меня болит голова».",
+    "hint": null
   },
   "q_vocab_a1_07_002": {
     "question": "Что означает 'mano'?",
-    "correct": "рука (кисть)",
+    "correct": "кисть руки",
     "wrong": [
-      "нога",
-      "рука (от плеча до кисти)",
+      "ступня",
+      "рука (от плеча)",
       "палец"
     ],
-    "explanation": "'Mano' означает 'рука' (кисть). Примечание: несмотря на окончание -o, 'mano' женского рода (la mano)."
+    "explanation": "'Mano' означает «кисть руки». Обратите внимание: несмотря на окончание -o, 'mano' — женского рода (la mano).",
+    "hint": null
   },
   "q_vocab_a1_07_003": {
-    "question": "No puedo caminar, me duele el ___.",
+    "question": "no puedo caminar, me duele el ___.",
     "correct": "pie",
     "wrong": [
       "ojo",
-      "dedo",
+      "brazo",
       "diente"
     ],
-    "explanation": "'Pie' означает 'нога' (ступня). Предложение означает 'Я не могу ходить, у меня болит нога'."
+    "explanation": "'Pie' означает «ступня, нога». Предложение значит: «Я не могу ходить, у меня болит нога».",
+    "hint": null
   },
   "q_vocab_a1_07_004": {
     "question": "Что означает 'ojo'?",
@@ -709,17 +712,19 @@
       "нос",
       "рот"
     ],
-    "explanation": "'Ojo' означает 'глаз'. Множественное число — 'ojos'. 'Tiene los ojos azules' = 'У него/нее голубые глаза'."
+    "explanation": "'Ojo' означает «глаз». Множественное число — 'ojos'. 'Tiene los ojos azules' = «У него/неё голубые глаза».",
+    "hint": null
   },
   "q_vocab_a1_07_005": {
-    "question": "Что означает 'espalda' в 'Me duele la espalda'?",
+    "question": "Что означает 'espalda' во фразе 'Me duele la espalda'?",
     "correct": "спина",
     "wrong": [
       "живот",
       "грудь",
       "шея"
     ],
-    "explanation": "'Espalda' означает 'спина' (часть тела). Предложение означает 'У меня болит спина'."
+    "explanation": "'Espalda' означает «спина» (часть тела). Предложение значит «У меня болит спина».",
+    "hint": null
   },
   "q_vocab_a1_07_006": {
     "question": "Я чищу зубы каждое утро.",
@@ -729,17 +734,19 @@
       "Me lavo el pelo cada mañana.",
       "Me lavo los ojos cada mañana."
     ],
-    "explanation": "'Dientes' означает 'зубы' (единственное число: 'diente'). В испанском языке мы говорим 'lavarse los dientes' (мыть зубы), а не 'чистить'."
+    "explanation": "'Dientes' означает «зубы» (единственное число: 'diente'). Испанцы часто говорят 'lavarse los dientes' (буквально «мыть зубы»); 'cepillarse los dientes' (чистить щёткой) тоже правильно.",
+    "hint": null
   },
   "q_vocab_a1_07_007": {
-    "question": "Что означает 'boca' в 'Abre la boca'?",
+    "question": "Что означает 'boca' во фразе 'Abre la boca'?",
     "correct": "рот",
     "wrong": [
       "глаз",
-      "рука",
+      "рука (кисть)",
       "ухо"
     ],
-    "explanation": "'Boca' означает 'рот'. 'Abre la boca' означает 'Открой рот', обычно слышимое у стоматолога."
+    "explanation": "'Boca' означает «рот». 'Abre la boca' значит «Откройте рот» — эту фразу часто слышишь у стоматолога.",
+    "hint": null
   },
   "q_vocab_a1_07_008": {
     "question": "Tengo el pelo largo y los ojos marrones.",
@@ -747,31 +754,34 @@
     "wrong": [
       "У меня короткие волосы и голубые глаза.",
       "У меня длинные руки и карие глаза.",
-      "У меня длинные волосы и зеленые глаза."
+      "У меня длинные волосы и зелёные глаза."
     ],
-    "explanation": "'Pelo' означает 'волосы', 'largo' означает 'длинный', а 'ojos marrones' означает 'карие глаза'."
+    "explanation": "'Pelo' означает «волосы», 'largo' — «длинный», а 'ojos marrones' — «карие глаза».",
+    "hint": null
   },
   "q_vocab_a1_07_009": {
-    "question": "Вы у врача и вам нужно сказать, где болит. Как сказать 'У меня болит живот'?",
+    "question": "Вы на приёме у врача и хотите сказать, где болит. Как сказать «У меня болит живот»?",
     "correct": "Me duele el estómago.",
     "wrong": [
       "Me duele la cabeza.",
       "Me duele la espalda.",
       "Me duele el brazo."
     ],
-    "explanation": "'Estómago' означает 'живот'. 'Me duele' используется для частей тела в единственном числе, которые болят.",
-    "context": "Визит к врачу с болью в животе"
+    "explanation": "'Estómago' означает «желудок, живот». 'Me duele' используется, когда болит одна часть тела (единственное число).",
+    "context": "Визит к врачу с болью в животе",
+    "hint": null
   },
   "q_vocab_a1_07_010": {
-    "question": "Вы описываете внешность друга. Как сказать 'У нее большие уши и маленький нос'?",
+    "question": "Вы описываете внешность подруги. Как сказать «У неё большие уши и маленький нос»?",
     "correct": "Tiene las orejas grandes y la nariz pequeña.",
     "wrong": [
       "Tiene los ojos grandes y la boca pequeña.",
       "Tiene las orejas pequeñas y la nariz grande.",
       "Tiene las manos grandes y los pies pequeños."
     ],
-    "explanation": "'Orejas' означает 'уши', а 'nariz' означает 'нос'. В испанском языке мы используем 'tener' (иметь) для описания физических характеристик.",
-    "context": "Описание физических особенностей друга"
+    "explanation": "'Orejas' означает «уши», а 'nariz' — «нос». Для описания внешности в испанском используется глагол 'tener' (иметь).",
+    "context": "Описание физических особенностей друга",
+    "hint": null
   },
   "q_vocab_a1_08_001": {
     "question": "Что означает 'zapatos'?",

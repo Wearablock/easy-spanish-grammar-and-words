@@ -672,111 +672,116 @@
     "hint": null
   },
   "q_vocab_a1_07_001": {
-    "question": "'cabeza' แปลว่าอะไร?",
-    "correct": "หัว",
+    "question": "'cabeza' แปลว่าอะไร",
+    "correct": "ศีรษะ",
     "wrong": [
       "มือ",
       "เท้า",
       "แขน"
     ],
-    "explanation": "'Cabeza' แปลว่า 'หัว' ส่วน 'Me duele la cabeza' แปลว่า 'ฉันปวดหัว' (ฉันเป็นไมเกรน/ปวดศีรษะ)",
+    "explanation": "'Cabeza' แปลว่า 'ศีรษะ' ประโยค 'Me duele la cabeza' แปลว่า 'ฉันปวดหัว'",
     "hint": null
   },
   "q_vocab_a1_07_002": {
-    "question": "'mano' แปลว่าอะไร?",
+    "question": "'mano' แปลว่าอะไร",
     "correct": "มือ",
     "wrong": [
       "เท้า",
       "แขน",
       "นิ้ว"
     ],
-    "explanation": "'Mano' แปลว่า 'มือ' ข้อควรระวัง: แม้จะลงท้ายด้วย -o แต่ 'mano' เป็นเพศหญิง (la mano)",
+    "explanation": "'Mano' แปลว่า 'มือ' หมายเหตุ: แม้ลงท้ายด้วย -o แต่ 'mano' เป็นเพศหญิง (la mano)",
     "hint": null
   },
   "q_vocab_a1_07_003": {
-    "question": "No puedo caminar, me duele el ___.",
+    "question": "no puedo caminar, me duele el ___.",
     "correct": "pie",
     "wrong": [
       "ojo",
-      "dedo",
+      "brazo",
       "diente"
     ],
-    "explanation": "'Pie' แปลว่า 'foot'. senสิบce says 'I cannot walk, my foot hurts'."
+    "explanation": "'Pie' แปลว่า 'เท้า' ประโยคนี้หมายความว่า 'ฉันเดินไม่ได้ เท้าของฉันเจ็บ'",
+    "hint": null
   },
   "q_vocab_a1_07_004": {
-    "question": "'ojo' แปลว่าอะไร?",
+    "question": "'ojo' แปลว่าอะไร",
     "correct": "ตา",
     "wrong": [
       "หู",
       "จมูก",
       "ปาก"
     ],
-    "explanation": "'Ojo' แปลว่า 'ตา' พหูพจน์คือ 'ojos' ส่วน 'Tiene los ojos azules' = 'เขามีดวงตาสีฟ้า'",
+    "explanation": "'Ojo' แปลว่า 'ตา' รูปพหูพจน์คือ 'ojos' 'Tiene los ojos azules' = 'เขา/เธอมีตาสีฟ้า'",
     "hint": null
   },
   "q_vocab_a1_07_005": {
-    "question": "'espalda' ในประโยค 'Me duele la espalda' แปลว่าอะไร?",
+    "question": "'espalda' ในประโยค 'Me duele la espalda' แปลว่าอะไร",
     "correct": "หลัง",
     "wrong": [
       "ท้อง",
       "หน้าอก",
       "คอ"
     ],
-    "explanation": "'Espalda' แปลว่า 'หลัง' (ส่วนของร่างกาย) ประโยคนี้แปลว่า 'ฉันปวดหลัง'",
+    "explanation": "'Espalda' แปลว่า 'หลัง' (ส่วนของร่างกาย) ประโยคนี้หมายความว่า 'ฉันปวดหลัง'",
     "hint": null
   },
   "q_vocab_a1_07_006": {
-    "question": "I brush my teeth every ตอนเช้า.",
+    "question": "ฉันแปรงฟันทุกเช้า",
     "correct": "Me lavo los dientes cada mañana.",
     "wrong": [
       "Me lavo las manos cada mañana.",
       "Me lavo el pelo cada mañana.",
       "Me lavo los ojos cada mañana."
     ],
-    "explanation": "'Dientes' แปลว่า 'teeth' (เอกพจน์: 'diente'). ในภาษาสเปน, we say 'lavarse los dientes' (wash teeth) rather than 'brush'."
+    "explanation": "'Dientes' แปลว่า 'ฟัน' (เอกพจน์: 'diente') ชาวสเปนมักพูดว่า 'lavarse los dientes' (แปลตรงตัวว่า 'ล้างฟัน') ส่วน 'cepillarse los dientes' (แปรงฟัน) ก็ถูกต้องเช่นกัน",
+    "hint": null
   },
   "q_vocab_a1_07_007": {
-    "question": "'boca' ในประโยค 'Abre la boca' แปลว่าอะไร?",
+    "question": "'boca' ในประโยค 'Abre la boca' แปลว่าอะไร",
     "correct": "ปาก",
     "wrong": [
       "ตา",
       "มือ",
       "หู"
     ],
-    "explanation": "'Boca' แปลว่า 'ปาก' ส่วน 'Abre la boca' แปลว่า 'อ้าปาก' ซึ่งมักได้ยินเวลาไปหาหมอฟัน",
+    "explanation": "'Boca' แปลว่า 'ปาก' 'Abre la boca' แปลว่า 'อ้าปาก' ซึ่งมักได้ยินที่คลินิกทันตกรรม",
     "hint": null
   },
   "q_vocab_a1_07_008": {
     "question": "Tengo el pelo largo y los ojos marrones.",
-    "correct": "I have ยาว hair และ สีน้ำตาล eyes.",
+    "correct": "ฉันมีผมยาวและตาสีน้ำตาล",
     "wrong": [
-      "I have เตี้ย hair และ สีน้ำเงิน eyes.",
-      "I have ยาว arms และ สีน้ำตาล eyes.",
-      "I have ยาว hair และ สีเขียว eyes."
+      "ฉันมีผมสั้นและตาสีฟ้า",
+      "ฉันมีแขนยาวและตาสีน้ำตาล",
+      "ฉันมีผมยาวและตาสีเขียว"
     ],
-    "explanation": "'Pelo' แปลว่า 'hair', 'largo' แปลว่า 'ยาว', และ 'ojos marrหนึ่งs' แปลว่า 'สีน้ำตาล eyes'."
+    "explanation": "'Pelo' แปลว่า 'ผม' 'largo' แปลว่า 'ยาว' และ 'ojos marrones' แปลว่า 'ตาสีน้ำตาล'",
+    "hint": null
   },
   "q_vocab_a1_07_009": {
-    "question": "คุณ เป็น at หมอ's office และ need เพื่อพูด ที่ไหน มัน hurts. อย่างไร do คุณ say 'My stomach hurts'?",
+    "question": "คุณอยู่ที่ห้องตรวจของแพทย์และต้องบอกว่าเจ็บตรงไหน คุณจะพูดว่า 'ฉันปวดท้อง' อย่างไร",
     "correct": "Me duele el estómago.",
     "wrong": [
       "Me duele la cabeza.",
       "Me duele la espalda.",
       "Me duele el brazo."
     ],
-    "explanation": "'Estómago' แปลว่า 'stomach'. 'Me duele' ใช้ สำหรับ เอกพจน์ body parts นั้น hurt.",
-    "context": "Visiting the หมอ with stomach pain"
+    "explanation": "'Estómago' แปลว่า 'ท้อง/กระเพาะอาหาร' 'Me duele' ใช้กับอวัยวะที่เป็นเอกพจน์ที่รู้สึกเจ็บ",
+    "context": "Visiting the หมอ with stomach pain",
+    "hint": null
   },
   "q_vocab_a1_07_010": {
-    "question": "คุณ เป็น describing a เพื่อน's appearance. อย่างไร do คุณ say 'She มี ใหญ่ ears และ a เล็ก nose'?",
+    "question": "คุณกำลังบรรยายรูปลักษณ์ของเพื่อน คุณจะพูดว่า 'เธอมีหูใหญ่และจมูกเล็ก' อย่างไร",
     "correct": "Tiene las orejas grandes y la nariz pequeña.",
     "wrong": [
       "Tiene los ojos grandes y la boca pequeña.",
       "Tiene las orejas pequeñas y la nariz grande.",
       "Tiene las manos grandes y los pies pequeños."
     ],
-    "explanation": "'Orejas' แปลว่า 'ears' และ 'nariz' แปลว่า 'nose'. ในภาษาสเปน, we use 'สิบer' (ไปยัง มี) เพื่ออธิบาย physical features.",
-    "context": "Describing a เพื่อน's physical features"
+    "explanation": "'Orejas' แปลว่า 'หู' และ 'nariz' แปลว่า 'จมูก' ในภาษาสเปนเราใช้ 'tener' (มี) เพื่อบรรยายลักษณะทางกายภาพ",
+    "context": "Describing a เพื่อน's physical features",
+    "hint": null
   },
   "q_vocab_a1_08_001": {
     "question": "'zapatos' แปลว่าอะไร?",

@@ -1,3 +1,5 @@
+import 'dart:ui' show Locale, PlatformDispatcher;
+
 /// 사용자 설정 키 상수
 abstract class SettingKeys {
   // 학습 관련
@@ -105,6 +107,22 @@ enum LanguageOption {
   final String? localeCode;
 
   const LanguageOption(this.value, this.localeCode);
+
+  /// Content language actually used — «system» follows the device when we have that language, else English.
+  /// Until 1.5.1 «system» became Korean or English only, so a French or Japanese device saw English content.
+  String get contentLocale => localeCode ?? contentLocaleFor(PlatformDispatcher.instance.locale);
+
+  /// Chinese splits by script: zh-Hant (or TW · HK · MO) → Traditional, other zh → Simplified.
+  static String contentLocaleFor(Locale device) {
+    if (device.languageCode == 'zh') {
+      final hant = device.scriptCode == 'Hant' || const ['TW', 'HK', 'MO'].contains(device.countryCode);
+      return hant ? 'zh-Hant' : 'zh-Hans';
+    }
+    for (final o in values) {
+      if (o.localeCode == device.languageCode) return o.localeCode!;
+    }
+    return 'en';
+  }
 
   /// 각 언어의 네이티브 이름 (시스템 옵션은 null → l10n 사용)
   String? get nativeLabel {

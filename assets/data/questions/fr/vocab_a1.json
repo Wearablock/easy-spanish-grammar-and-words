@@ -672,106 +672,116 @@
     "hint": null
   },
   "q_vocab_a1_07_001": {
-    "question": "Que 'cabeza' signifier?",
-    "correct": "head",
+    "question": "Que signifie « cabeza » ?",
+    "correct": "la tête",
     "wrong": [
-      "hand",
-      "foot",
-      "arm"
+      "la main",
+      "le pied",
+      "le bras"
     ],
-    "explanation": "'Cabeza' signifie 'head'. 'Me duele la cabeza' signifie 'My head hurts' (I avoir a headache)."
+    "explanation": "« Cabeza » signifie « tête ». « Me duele la cabeza » signifie « J'ai mal à la tête » (j'ai un mal de tête).",
+    "hint": null
   },
   "q_vocab_a1_07_002": {
-    "question": "Que 'mano' signifier?",
-    "correct": "hand",
+    "question": "Que signifie « mano » ?",
+    "correct": "la main",
     "wrong": [
-      "foot",
-      "arm",
-      "finger"
+      "le pied",
+      "le bras",
+      "le doigt"
     ],
-    "explanation": "'Mano' signifie 'hand'. Note: despite terminaison dans -o, 'mano' est féminin (la mano)."
+    "explanation": "« Mano » signifie « main ». Attention : bien qu'il se termine par -o, « mano » est féminin (la mano).",
+    "hint": null
   },
   "q_vocab_a1_07_003": {
-    "question": "No puedo caminar, me duele el ___.",
+    "question": "no puedo caminar, me duele el ___.",
     "correct": "pie",
     "wrong": [
       "ojo",
-      "dedo",
+      "brazo",
       "diente"
     ],
-    "explanation": "'Pie' signifie 'foot'. Le/La phrase says 'I ne peut pas walk, my foot hurts'."
+    "explanation": "« Pie » signifie « pied ». La phrase dit « Je ne peux pas marcher, mon pied me fait mal ».",
+    "hint": null
   },
   "q_vocab_a1_07_004": {
-    "question": "Que 'ojo' signifier?",
-    "correct": "eye",
+    "question": "Que signifie « ojo » ?",
+    "correct": "l'œil",
     "wrong": [
-      "ear",
-      "nose",
-      "mouth"
+      "l'oreille",
+      "le nez",
+      "la bouche"
     ],
-    "explanation": "'Ojo' signifie 'eye'. Le/La pluriel est 'ojos'. 'Tiene los ojos azules' = 'He/She a blue eyes'."
+    "explanation": "« Ojo » signifie « œil ». Le pluriel est « ojos ». « Tiene los ojos azules » = « Il/Elle a les yeux bleus ».",
+    "hint": null
   },
   "q_vocab_a1_07_005": {
-    "question": "Que 'espalda' signifier dans 'Me duele la espalda'?",
-    "correct": "back",
+    "question": "Que signifie « espalda » dans « Me duele la espalda » ?",
+    "correct": "le dos",
     "wrong": [
-      "stomach",
-      "chest",
-      "neck"
+      "le ventre",
+      "la poitrine",
+      "le cou"
     ],
-    "explanation": "'Espalda' signifie 'back' (body part). Le/La phrase signifie 'My back hurts'."
+    "explanation": "« Espalda » signifie « dos » (partie du corps). La phrase signifie « J'ai mal au dos ».",
+    "hint": null
   },
   "q_vocab_a1_07_006": {
-    "question": "I brush my teeth chaque matin.",
+    "question": "Je me brosse les dents tous les matins.",
     "correct": "Me lavo los dientes cada mañana.",
     "wrong": [
       "Me lavo las manos cada mañana.",
       "Me lavo el pelo cada mañana.",
       "Me lavo los ojos cada mañana."
     ],
-    "explanation": "'Dientes' signifie 'teeth' (singulier: 'diente'). En espagnol, we say 'lavarse los dientes' (wash Le/La teeth) rather than 'brush'."
+    "explanation": "« Dientes » signifie « dents » (singulier : « diente »). Les hispanophones disent souvent « lavarse los dientes » (littéralement « se laver les dents ») ; « cepillarse los dientes » (se brosser) est également correct.",
+    "hint": null
   },
   "q_vocab_a1_07_007": {
-    "question": "Que 'boca' signifier dans 'Abre la boca'?",
-    "correct": "mouth",
+    "question": "Que signifie « boca » dans « Abre la boca » ?",
+    "correct": "la bouche",
     "wrong": [
-      "eye",
-      "hand",
-      "ear"
+      "l'œil",
+      "la main",
+      "l'oreille"
     ],
-    "explanation": "'Boca' signifie 'mouth'. 'Abre la boca' signifie 'Open votre mouth', couramment heard à Le/La dentist."
+    "explanation": "« Boca » signifie « bouche ». « Abre la boca » signifie « Ouvre la bouche », une phrase que l'on entend souvent chez le dentiste.",
+    "hint": null
   },
   "q_vocab_a1_07_008": {
     "question": "Tengo el pelo largo y los ojos marrones.",
-    "correct": "I have long hair and brown eyes.",
+    "correct": "J'ai les cheveux longs et les yeux marron.",
     "wrong": [
-      "I have short hair and blue eyes.",
-      "I have long arms and brown eyes.",
-      "I have long hair and green eyes."
+      "J'ai les cheveux courts et les yeux bleus.",
+      "J'ai les bras longs et les yeux marron.",
+      "J'ai les cheveux longs et les yeux verts."
     ],
-    "explanation": "'Pelo' signifie 'hair', 'largo' signifie 'long', et 'ojos marrones' signifie 'brown eyes'."
+    "explanation": "« Pelo » signifie « cheveux », « largo » signifie « long » et « ojos marrones » signifie « yeux marron ».",
+    "hint": null
   },
   "q_vocab_a1_07_009": {
-    "question": "Vous sont à Le/La doctor's office et need pour dire où il hurts. Comment say 'My stomach hurts'?",
+    "question": "Vous êtes chez le médecin et devez dire où vous avez mal. Comment dit-on « J'ai mal au ventre » ?",
     "correct": "Me duele el estómago.",
     "wrong": [
       "Me duele la cabeza.",
       "Me duele la espalda.",
       "Me duele el brazo."
     ],
-    "explanation": "'Estómago' signifie 'stomach'. 'Me duele' est utilisé pour singulier body parts Cela hurt.",
-    "context": "Visiting the doctor with stomach pain"
+    "explanation": "« Estómago » signifie « estomac ». « Me duele » s'emploie pour une partie du corps au singulier qui fait mal.",
+    "context": "Visiting the doctor with stomach pain",
+    "hint": null
   },
   "q_vocab_a1_07_010": {
-    "question": "Vous sont describing a ami's appearance. Comment say 'She a grand ears et a petit nose'?",
+    "question": "Vous décrivez l'apparence d'un ami. Comment dit-on « Elle a de grandes oreilles et un petit nez » ?",
     "correct": "Tiene las orejas grandes y la nariz pequeña.",
     "wrong": [
       "Tiene los ojos grandes y la boca pequeña.",
       "Tiene las orejas pequeñas y la nariz grande.",
       "Tiene las manos grandes y los pies pequeños."
     ],
-    "explanation": "'Orejas' signifie 'ears' et 'nariz' signifie 'nose'. En espagnol, we use 'tener' (à avoir) pour décrire physical features.",
-    "context": "Describing a friend's physical features"
+    "explanation": "« Orejas » signifie « oreilles » et « nariz » signifie « nez ». En espagnol, on utilise « tener » (avoir) pour décrire les traits physiques.",
+    "context": "Describing a friend's physical features",
+    "hint": null
   },
   "q_vocab_a1_08_001": {
     "question": "Que 'zapatos' signifier?",

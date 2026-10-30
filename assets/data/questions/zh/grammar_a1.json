@@ -11,7 +11,7 @@
     "hint": "libro 以 -o 结尾,通常表示阳性"
   },
   "q_gram_a1_01_002": {
-    "question": "___ mano es pequeña.",
+    "question": "___ mano es grande.",
     "correct": "La",
     "wrong": [
       "El",
@@ -33,7 +33,7 @@
     "hint": null
   },
   "q_gram_a1_01_004": {
-    "question": "___ ciudad es grande. (请为这个阴性名词选择正确的冠词)",
+    "question": "___ ciudad es grande.",
     "correct": "La",
     "wrong": [
       "El",
@@ -41,7 +41,6 @@
       "Las"
     ],
     "explanation": "'ciudad' 以 -dad 结尾,这是阴性名词的词尾。\n以 -ción、-sión、-dad 和 -tad 结尾的名词通常是阴性。",
-    "conjugation_info": "女性 词尾: -a, -ción, -sión, -dad, -tad, -tud",
     "hint": null
   },
   "q_gram_a1_01_005": {
@@ -56,7 +55,7 @@
     "hint": "以 -ma 结尾的希腊语来源的词是阳性"
   },
   "q_gram_a1_01_006": {
-    "question": "___ televisión es nueva. (请选择正确的冠词)",
+    "question": "___ televisión es grande.",
     "correct": "La",
     "wrong": [
       "El",
@@ -64,7 +63,6 @@
       "Las"
     ],
     "explanation": "'televisión' 以 -sión 结尾,所以是阴性。\n西班牙语中所有以 -ción 和 -sión 结尾的名词都是阴性。",
-    "conjugation_info": "女性 词尾: -ción (nación), -sión (televisión), -dad (ciudad)",
     "hint": null
   },
   "q_gram_a1_01_007": {
@@ -90,7 +88,7 @@
     "hint": null
   },
   "q_gram_a1_01_009": {
-    "question": "___ fotos son de mi familia. (请为这个阴性复数名词选择正确的冠词)",
+    "question": "___ fotos son de mi familia.",
     "correct": "Las",
     "wrong": [
       "Los",
@@ -98,7 +96,6 @@
       "El"
     ],
     "explanation": "'foto' 是 'fotografía' 的简称,而 'fotografía' 是阴性。\n- la foto → las fotos\n缩略词沿用完整词的性别。",
-    "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)",
     "hint": null
   },
   "q_gram_a1_01_010": {
@@ -791,112 +788,117 @@
     "hint": null
   },
   "q_gram_a1_08_001": {
-    "question": "La chica es ___. (tall, 阴性 form)",
+    "question": "La chica es ___. (高,阴性形式)",
     "correct": "alta",
     "wrong": [
       "alto",
       "altos",
       "altas"
     ],
-    "explanation": "以...结尾的形容词 -o 改为 -a 为 女性 名词.\n- el chico alto → la chica alta\n形容词必须一致 与 名词 在 性别.",
-    "conjugation_info": "alto/alta/altos/altas — 4 形式 for 以...结尾的形容词 -o"
+    "explanation": "以 -o 结尾的形容词修饰阴性名词时,变为 -a。\n- el chico alto → la chica alta\n形容词必须在性上与名词保持一致。",
+    "conjugation_info": "alto/alta/altos/altas — 4 形式 for 以...结尾的形容词 -o",
+    "hint": null
   },
   "q_gram_a1_08_002": {
-    "question": "Los chicos son ___. (intelligent)",
+    "question": "Los chicos son ___. (聪明的)",
     "correct": "inteligentes",
     "wrong": [
       "inteligente",
       "inteligento",
       "inteligenta"
     ],
-    "explanation": "以-e结尾的形容词仅改变数, not 性别.\n- inteligente (单数) → inteligentes (复数)\nNo 男性/女性 distinction 为 -e 形容词.",
-    "hint": "以-e结尾的形容词仅改变数"
+    "explanation": "以 -e 结尾的形容词只有数的变化,没有性的变化。\n- inteligente(单数)→ inteligentes(复数)\n以 -e 结尾的形容词不分阳性和阴性。",
+    "hint": "以 -e 结尾的形容词只变数"
   },
   "q_gram_a1_08_003": {
-    "question": "Es un ___ libro. (good — shortened form)",
+    "question": "Es un ___ libro. (好——缩短形式)",
     "correct": "buen",
     "wrong": [
       "bueno",
       "buena",
       "buenos"
     ],
-    "explanation": "'bueno' shortens 到 'buen' 在男性单数名词之前.\n- un buen libro (之前 名词)\n- El libro es bueno. (之后 名词, full 形式)\n相似: malo → mal, grande → gran.",
-    "hint": "Some 形容词 有 a shortened 形式 之前 名词"
+    "explanation": "'bueno' 用在阳性单数名词前时缩短为 'buen'。\n- un buen libro(名词前)\n- El libro es bueno.(名词后,用完整形式)\n类似的还有:malo → mal,grande → gran。",
+    "hint": "有些形容词在名词前有缩短形式"
   },
   "q_gram_a1_08_004": {
-    "question": "什么 是 正确 阴性 复数 form 的 'bonito'?",
+    "question": "'bonito' 的阴性复数形式是什么?",
     "correct": "bonitas",
     "wrong": [
       "bonitos",
       "bonita",
       "bonite"
     ],
-    "explanation": "以-o结尾的形容词有四种形式:\n- bonito (m. sg.) → bonita (f. sg.)\n- bonitos (m. pl.) → bonitas (f. pl.)"
+    "explanation": "以 -o 结尾的形容词有四种形式:\n- bonito(阳性单数)→ bonita(阴性单数)\n- bonitos(阳性复数)→ bonitas(阴性复数)",
+    "hint": null
   },
   "q_gram_a1_08_005": {
-    "question": "Las lecciones son ___. (easy, 复数)",
+    "question": "Las lecciones son ___. (容易的,复数)",
     "correct": "fáciles",
     "wrong": [
       "fácil",
       "fácila",
       "fácilas"
     ],
-    "explanation": "以辅音结尾的形容词复数加-es, 与 no 性别 改变.\n- fácil (单数) → fáciles (复数)\n- difícil → difíciles\nConsonant-词尾 形容词 仅 vary 在 数.",
-    "conjugation_info": "Consonant-词尾 形容词: fácil/fáciles, difícil/difíciles, azul/azules"
+    "explanation": "以辅音结尾的形容词变复数时加 -es,没有性的变化。\n- fácil(单数)→ fáciles(复数)\n- difícil → difíciles\n以辅音结尾的形容词只有数的变化。",
+    "conjugation_info": "Consonant-词尾 形容词: fácil/fáciles, difícil/difíciles, azul/azules",
+    "hint": null
   },
   "q_gram_a1_08_006": {
-    "question": "Las casas son ___. (small, 阴性 复数)",
+    "question": "Las casas son ___. (小的,阴性复数)",
     "correct": "pequeñas",
     "wrong": [
       "pequeño",
       "pequeños",
       "pequeña"
     ],
-    "explanation": "'casas' 是 女性 复数, so 形容词必须是 女性 复数 too.\n- la casa pequeña → las casas pequeñas\n以...结尾的形容词 -o 改为 -a/-os/-as.",
-    "hint": " 形容词 必须 match 名词 在 性别 和 数"
+    "explanation": "'casas' 是阴性复数,所以形容词也必须是阴性复数。\n- la casa pequeña → las casas pequeñas\n以 -o 结尾的形容词有 -o/-a/-os/-as 四种变化。",
+    "hint": "形容词必须在性和数上都与名词一致"
   },
   "q_gram_a1_08_007": {
-    "question": "She 是 a great woman.",
+    "question": "她是一位伟大的女性。",
     "correct": "Ella es una gran mujer.",
     "wrong": [
       "Ella es una grande mujer.",
       "Ella es un gran mujer.",
       "Ella es una gran mujera."
     ],
-    "explanation": "'grande' shortens 到 'gran' 之前 any 单数 名词 (男性 或 女性).\n- una gran mujer = a great woman\n- un gran hombre = a great man\n注意: 'gran' 意思是'伟大', 当...时 'grande' 之后 名词 意思是'大'."
+    "explanation": "'grande' 用在任何单数名词(阳性或阴性)前都缩短为 'gran'。\n- una gran mujer = 一位伟大的女性\n- un gran hombre = 一位伟大的男人\n注意:'gran' 表示“伟大的”,而 'grande' 放在名词后则表示“大的”。",
+    "hint": null
   },
   "q_gram_a1_08_008": {
-    "question": "Es una ciudad ___. (beautiful, 阴性)",
+    "question": "Es una ciudad ___. (美丽的,阴性)",
     "correct": "bonita",
     "wrong": [
       "bonito",
       "bonitas",
       "bonitos"
     ],
-    "explanation": "大多数形容词跟在名词之后 在 西班牙语.\n- una ciudad bonita = a beautiful city\n'ciudad' 是 女性 单数, so 'bonita' agrees 在 性别 和 数.",
-    "hint": "在 西班牙语, 形容词 通常 come 在名词之后"
+    "explanation": "西班牙语中大多数形容词放在名词之后。\n- una ciudad bonita = 一座美丽的城市\n'ciudad' 是阴性单数,所以 'bonita' 在性和数上与之一致。",
+    "hint": "西班牙语中,形容词通常放在名词后面"
   },
   "q_gram_a1_08_009": {
-    "question": "学生们很聪明。(男女混合的群体)",
+    "question": "学生们很聪明。(混合群体)",
     "correct": "Los estudiantes son inteligentes.",
     "wrong": [
       "Las estudiantes son inteligentes.",
       "Los estudiantes son inteligente.",
       "Los estudiantes es inteligentes."
     ],
-    "explanation": "男女混合的群体用阳性复数形式。\n- los estudiantes = 学生们(男女混合或全是男生)\n- 'inteligentes' 不随性别变化,只随数变化。\n混合群体默认使用阳性复数。",
+    "explanation": "对于男女混合的群体,使用阳性复数形式。\n- los estudiantes = 学生们(混合或全为男性的群体)\n- 'inteligentes' 不随性变化,只随数变化。\n阳性复数是混合群体的默认形式。",
     "hint": null
   },
   "q_gram_a1_08_010": {
-    "question": "Es un ___ día. (bad — shortened form 之前 masc. sg. 名词)",
+    "question": "Es un ___ día. (坏——阳性单数名词前的缩短形式)",
     "correct": "mal",
     "wrong": [
       "malo",
       "mala",
       "malos"
     ],
-    "explanation": "'malo' shortens 到 'mal' 在男性单数名词之前.\n- un mal día = a bad 天\n- El día es malo. (之后 名词, full 形式)\nLike bueno → buen, 这 shortening 仅 happens 之前 masc. sg. 名词.",
-    "conjugation_info": "Shortened 形式 before masc. sg. 名词: bueno → buen, malo → mal, grande → gran (any sg. 名词)"
+    "explanation": "'malo' 用在阳性单数名词前时缩短为 'mal'。\n- un mal día = 糟糕的一天\n- El día es malo.(名词后,用完整形式)\n和 bueno → buen 一样,这种缩短只出现在阳性单数名词之前。",
+    "conjugation_info": "Shortened 形式 before masc. sg. 名词: bueno → buen, malo → mal, grande → gran (any sg. 名词)",
+    "hint": null
   },
   "q_gram_a1_09_001": {
     "question": "Yo ___ español todos los días.",
@@ -2203,5 +2205,137 @@
     ],
     "explanation": "Numbers 16-19 是 compounds: dieci + unit (one 词).\n- 16 = dieciséis, 17 = diecisiete, 18 = dieciocho, 19 = diecinueve\nThese 是 originally 'diez y seis' etc. 但是 是 now written as one 词.",
     "conjugation_info": "16-19: dieciséis, diecisiete, dieciocho, diecinueve (all one word)"
+  },
+  "q_gram_a1_01_011": {
+    "question": "___ mesa es grande.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'mesa' 以 -a 结尾,是阴性单数名词,所以用 la mesa。\n- la mesa(阴性单数)\n- el libro(阳性单数)",
+    "hint": "mesa 以 -a 结尾"
+  },
+  "q_gram_a1_01_012": {
+    "question": "___ gatos son grandes.",
+    "correct": "Los",
+    "wrong": [
+      "El",
+      "La",
+      "Las"
+    ],
+    "explanation": "'gatos' 是 'gato'(阳性,以 -o 结尾)的复数,所以冠词用 'los'。\n- el gato → los gatos",
+    "hint": "gato 以 -o 结尾,而且是多只"
+  },
+  "q_gram_a1_01_013": {
+    "question": "___ casas son grandes.",
+    "correct": "Las",
+    "wrong": [
+      "El",
+      "La",
+      "Los"
+    ],
+    "explanation": "'casas' 是 'casa'(阴性,以 -a 结尾)的复数,所以冠词用 'las'。\n- la casa → las casas",
+    "hint": "casa 以 -a 结尾,而且是多个"
+  },
+  "q_gram_a1_01_014": {
+    "question": "___ niño es inteligente.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'niño' 以 -o 结尾,是阳性单数名词,所以用 el niño。\n- el niño(男孩)· la niña(女孩)",
+    "hint": "niño 以 -o 结尾"
+  },
+  "q_gram_a1_01_015": {
+    "question": "___ ventana es grande.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'ventana' 以 -a 结尾,是阴性单数名词,所以用 la ventana。",
+    "hint": "ventana 以 -a 结尾"
+  },
+  "q_gram_a1_01_016": {
+    "question": "___ perros son inteligentes.",
+    "correct": "Los",
+    "wrong": [
+      "El",
+      "La",
+      "Las"
+    ],
+    "explanation": "'perros' 是 'perro'(阳性,以 -o 结尾)的复数,所以冠词用 'los'。\n- el perro → los perros",
+    "hint": "perro 以 -o 结尾,而且是多只"
+  },
+  "q_gram_a1_01_017": {
+    "question": "___ chicas son interesantes.",
+    "correct": "Las",
+    "wrong": [
+      "El",
+      "La",
+      "Los"
+    ],
+    "explanation": "'chicas' 是 'chica'(阴性,以 -a 结尾)的复数,所以冠词用 'las'。\n- la chica → las chicas",
+    "hint": "chica 以 -a 结尾,而且是多个"
+  },
+  "q_gram_a1_01_018": {
+    "question": "这张桌子很大。",
+    "correct": "La mesa es grande.",
+    "wrong": [
+      "El mesa es grande.",
+      "Las mesa es grande.",
+      "La mesas es grande."
+    ],
+    "explanation": "'mesa' 是阴性单数名词,所以要用 'la'。\n'大' = 'grande',阳性和阴性形式相同。",
+    "hint": null
+  },
+  "q_gram_a1_01_019": {
+    "question": "这些书很有趣。",
+    "correct": "Los libros son interesantes.",
+    "wrong": [
+      "Las libros son interesantes.",
+      "El libros son interesantes.",
+      "Los libro son interesantes."
+    ],
+    "explanation": "'libros' 是阳性复数名词,所以要用 'los'。\n名词和冠词都要体现复数:los libros。",
+    "hint": null
+  },
+  "q_gram_a1_01_020": {
+    "question": "___ canción es alegre.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'canción' 以 -ción 结尾,以 -ción 结尾的名词是阴性:la canción。\n- la canción · la nación · la estación",
+    "hint": "注意词尾 -ción"
+  },
+  "q_gram_a1_01_021": {
+    "question": "___ color es verde.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'color' 以 -or 结尾,以 -or 结尾的名词通常是阳性:el color。\n- el color · el amor · el profesor",
+    "hint": "注意词尾 -or"
+  },
+  "q_gram_a1_01_022": {
+    "question": "___ viaje es increíble.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'viaje' 以 -aje 结尾,以 -aje 结尾的名词是阳性:el viaje。\n- el viaje · el paisaje · el mensaje",
+    "hint": "注意词尾 -aje"
   }
 }

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "q_vocab_a1_07_006",
+    "problem": "The English prompt says 'brush my teeth', but the correct answer says 'wash' (lavarse). The explanation 'we say wash rather than brush' is misleading. Spanish uses 'cepillarse los dientes' for brushing, and 'lavarse los dientes' is a looser equivalent.",
+    "fix": "Change the correct answer to 'Me cepillo los dientes cada mañana.' and change the distractors to match (for example 'Me cepillo el pelo…', 'Me lavo las manos…', 'Me lavo la cara…'). Or change the prompt to 'I wash my teeth every morning.' Remove the claim that Spanish says 'wash' rather than 'brush'.",
+    "topic": "ch_vocab_a1_07"
+  },
+  {
+    "id": "q_vocab_a1_07_003",
+    "problem": "The distractor 'dedo' is arguably also correct. 'Dedo' covers toes as well as fingers, and a sore toe can stop someone from walking, so the item is ambiguous.",
+    "fix": "Replace 'dedo' with an unambiguous distractor such as 'brazo', 'oreja' or 'mano'.",
+    "topic": "ch_vocab_a1_07"
+  }
+]

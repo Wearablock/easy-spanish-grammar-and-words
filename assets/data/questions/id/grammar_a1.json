@@ -11,7 +11,7 @@
     "hint": "libro berakhiran -o, yang biasanya menandakan gender maskulin"
   },
   "q_gram_a1_01_002": {
-    "question": "___ mano es pequeña.",
+    "question": "___ mano es grande.",
     "correct": "La",
     "wrong": [
       "El",
@@ -33,7 +33,7 @@
     "hint": null
   },
   "q_gram_a1_01_004": {
-    "question": "___ ciudad es grande. (gunakan artikel yang tepat untuk kata benda feminin)",
+    "question": "___ ciudad es grande.",
     "correct": "La",
     "wrong": [
       "El",
@@ -41,7 +41,6 @@
       "Las"
     ],
     "explanation": "'ciudad' berakhiran -dad, yang merupakan akhiran feminin.\nKata benda berakhiran -ción, -sión, -dad, dan -tad biasanya feminin.",
-    "conjugation_info": "Akhiran feminin: -a, -ción, -sión, -dad, -tad, -tud",
     "hint": null
   },
   "q_gram_a1_01_005": {
@@ -56,7 +55,7 @@
     "hint": "Kata asal Yunani yang berakhiran -ma adalah maskulin"
   },
   "q_gram_a1_01_006": {
-    "question": "___ televisión es nueva. (pilih artikel yang tepat)",
+    "question": "___ televisión es grande.",
     "correct": "La",
     "wrong": [
       "El",
@@ -64,7 +63,6 @@
       "Las"
     ],
     "explanation": "'televisión' berakhiran -sión, sehingga feminin.\nSemua kata benda berakhiran -ción dan -sión adalah feminin dalam bahasa Spanyol.",
-    "conjugation_info": "Akhiran feminin: -ción (nación), -sión (televisión), -dad (ciudad)",
     "hint": null
   },
   "q_gram_a1_01_007": {
@@ -90,7 +88,7 @@
     "hint": null
   },
   "q_gram_a1_01_009": {
-    "question": "___ fotos son de mi familia. (pilih artikel yang tepat untuk kata benda feminin jamak)",
+    "question": "___ fotos son de mi familia.",
     "correct": "Las",
     "wrong": [
       "Los",
@@ -98,7 +96,6 @@
       "El"
     ],
     "explanation": "'foto' adalah singkatan dari 'fotografía', yang feminin.\n- la foto → las fotos\nSingkatan mengikuti gender kata lengkapnya.",
-    "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)",
     "hint": null
   },
   "q_gram_a1_01_010": {
@@ -791,90 +788,94 @@
     "hint": null
   },
   "q_gram_a1_08_001": {
-    "question": "La chica es ___. (tall, feminin form)",
+    "question": "La chica es ___. (tinggi, bentuk feminin)",
     "correct": "alta",
     "wrong": [
       "alto",
       "altos",
       "altas"
     ],
-    "explanation": "Adjectives berakhiran -o change ke -a untuk feminin nouns.\n- el chico alto → la chica alta\nini/itu kata sifat harus agree dengan kata benda di gender.",
-    "conjugation_info": "alto/alta/altos/altas — 4 forms for adjectives ending in -o"
+    "explanation": "Adjektiva yang berakhiran -o berubah menjadi -a untuk kata benda feminin.\n- el chico alto → la chica alta\nAdjektiva harus sesuai dengan kata benda dalam hal gender.",
+    "conjugation_info": "alto/alta/altos/altas — 4 forms for adjectives ending in -o",
+    "hint": null
   },
   "q_gram_a1_08_002": {
-    "question": "Los chicos son ___. (intelligent)",
+    "question": "Los chicos son ___. (pintar)",
     "correct": "inteligentes",
     "wrong": [
       "inteligente",
       "inteligento",
       "inteligenta"
     ],
-    "explanation": "Adjectives berakhiran -e hanya change untuk number, not gender.\n- inteligente (tunggal) → inteligentes (jamak)\nNo maskulin/feminin distinction untuk -e adjectives.",
-    "hint": "Adjectives berakhiran -e hanya change untuk number"
+    "explanation": "Adjektiva yang berakhiran -e hanya berubah menurut jumlah, bukan gender.\n- inteligente (tunggal) → inteligentes (jamak)\nTidak ada perbedaan maskulin/feminin pada adjektiva berakhiran -e.",
+    "hint": "Adjektiva yang berakhiran -e hanya berubah menurut jumlah"
   },
   "q_gram_a1_08_003": {
-    "question": "Es un ___ libro. (good — shortened form)",
+    "question": "Es un ___ libro. (bagus — bentuk singkat)",
     "correct": "buen",
     "wrong": [
       "bueno",
       "buena",
       "buenos"
     ],
-    "explanation": "'bueno' shortens ke 'buen' sebelum a maskulin tunggal kata benda.\n- un buen libro (sebelum kata benda)\n- El libro es bueno. (setelah kata benda, full form)\nSimilar: malo → mal, grande → gran.",
-    "hint": "Some adjectives memiliki a shortened form sebelum nouns"
+    "explanation": "'bueno' disingkat menjadi 'buen' sebelum kata benda maskulin tunggal.\n- un buen libro (sebelum kata benda)\n- El libro es bueno. (setelah kata benda, bentuk lengkap)\nSerupa: malo → mal, grande → gran.",
+    "hint": "Beberapa adjektiva punya bentuk singkat sebelum kata benda"
   },
   "q_gram_a1_08_004": {
-    "question": "apa adalah ini/itu benar feminin jamak form dari 'bonito'?",
+    "question": "Apa bentuk feminin jamak yang benar dari 'bonito'?",
     "correct": "bonitas",
     "wrong": [
       "bonitos",
       "bonita",
       "bonite"
     ],
-    "explanation": "Adjectives berakhiran -o memiliki four forms:\n- bonito (m. sg.) → bonita (f. sg.)\n- bonitos (m. pl.) → bonitas (f. pl.)"
+    "explanation": "Adjektiva yang berakhiran -o memiliki empat bentuk:\n- bonito (m. tunggal) → bonita (f. tunggal)\n- bonitos (m. jamak) → bonitas (f. jamak)",
+    "hint": null
   },
   "q_gram_a1_08_005": {
-    "question": "Las lecciones son ___. (easy, jamak)",
+    "question": "Las lecciones son ___. (mudah, jamak)",
     "correct": "fáciles",
     "wrong": [
       "fácil",
       "fácila",
       "fácilas"
     ],
-    "explanation": "Adjectives berakhiran a consonant add -es untuk ini/itu jamak, dengan no gender change.\n- fácil (tunggal) → fáciles (jamak)\n- difícil → difíciles\nConsonant-ending adjectives hanya vary di number.",
-    "conjugation_info": "Consonant-ending adjectives: fácil/fáciles, difícil/difíciles, azul/azules"
+    "explanation": "Adjektiva yang berakhiran konsonan menambahkan -es untuk bentuk jamak, tanpa perubahan gender.\n- fácil (tunggal) → fáciles (jamak)\n- difícil → difíciles\nAdjektiva berakhiran konsonan hanya berubah menurut jumlah.",
+    "conjugation_info": "Consonant-ending adjectives: fácil/fáciles, difícil/difíciles, azul/azules",
+    "hint": null
   },
   "q_gram_a1_08_006": {
-    "question": "Las casas son ___. (small, feminin jamak)",
+    "question": "Las casas son ___. (kecil, feminin jamak)",
     "correct": "pequeñas",
     "wrong": [
       "pequeño",
       "pequeños",
       "pequeña"
     ],
-    "explanation": "'casas' adalah feminin jamak, so ini/itu kata sifat harus feminin jamak juga.\n- la casa pequeña → las casas pequeñas\nAdjectives berakhiran -o change ke -a/-os/-as.",
-    "hint": "ini/itu kata sifat harus match kata benda di gender dan number"
+    "explanation": "'casas' adalah feminin jamak, jadi adjektiva juga harus feminin jamak.\n- la casa pequeña → las casas pequeñas\nAdjektiva berakhiran -o berubah menjadi -a/-os/-as.",
+    "hint": "Adjektiva harus sesuai dengan kata benda dalam gender DAN jumlah"
   },
   "q_gram_a1_08_007": {
-    "question": "She adalah a great woman.",
+    "question": "Dia adalah wanita yang hebat.",
     "correct": "Ella es una gran mujer.",
     "wrong": [
       "Ella es una grande mujer.",
       "Ella es un gran mujer.",
       "Ella es una gran mujera."
     ],
-    "explanation": "'grande' shortens ke 'gran' sebelum any tunggal kata benda (maskulin atau feminin).\n- una gran mujer = a great woman\n- un gran hombre = a great man\nCatatan: 'gran' berarti 'great', sementara 'grande' setelah kata benda berarti 'big'."
+    "explanation": "'grande' disingkat menjadi 'gran' sebelum kata benda tunggal apa pun (maskulin maupun feminin).\n- una gran mujer = seorang wanita hebat\n- un gran hombre = seorang pria hebat\nCatatan: 'gran' berarti 'hebat', sedangkan 'grande' setelah kata benda berarti 'besar'.",
+    "hint": null
   },
   "q_gram_a1_08_008": {
-    "question": "Es una ciudad ___. (beautiful, feminin)",
+    "question": "Es una ciudad ___. (indah, feminin)",
     "correct": "bonita",
     "wrong": [
       "bonito",
       "bonitas",
       "bonitos"
     ],
-    "explanation": "paling adjectives follow kata benda dalam bahasa Spanyol.\n- una ciudad bonita = a beautiful city\n'ciudad' adalah feminin tunggal, so 'bonita' agrees di gender dan number.",
-    "hint": "dalam bahasa Spanyol, adjectives biasanya come setelah kata benda"
+    "explanation": "Sebagian besar adjektiva dalam bahasa Spanyol diletakkan setelah kata benda.\n- una ciudad bonita = sebuah kota yang indah\n'ciudad' adalah feminin tunggal, jadi 'bonita' sesuai dalam gender dan jumlah.",
+    "hint": "Dalam bahasa Spanyol, adjektiva biasanya diletakkan setelah kata benda"
   },
   "q_gram_a1_08_009": {
     "question": "Para siswa itu pintar. (kelompok campuran)",
@@ -884,19 +885,20 @@
       "Los estudiantes son inteligente.",
       "Los estudiantes es inteligentes."
     ],
-    "explanation": "Untuk kelompok campuran laki-laki dan perempuan, gunakan bentuk maskulin jamak.\n- los estudiantes = para siswa (kelompok campuran atau semuanya laki-laki)\n- 'inteligentes' tidak berubah menurut gender, hanya menurut jumlah.\nMaskulin jamak adalah bentuk standar untuk kelompok campuran.",
+    "explanation": "Untuk kelompok campuran gender, gunakan bentuk maskulin jamak.\n- los estudiantes = para siswa (kelompok campuran atau semuanya laki-laki)\n- 'inteligentes' tidak berubah menurut gender, hanya menurut jumlah.\nMaskulin jamak adalah bentuk standar untuk kelompok campuran.",
     "hint": null
   },
   "q_gram_a1_08_010": {
-    "question": "Es un ___ día. (bad — shortened form sebelum masc. sg. kata benda)",
+    "question": "Es un ___ día. (buruk — bentuk singkat sebelum kata benda maskulin tunggal)",
     "correct": "mal",
     "wrong": [
       "malo",
       "mala",
       "malos"
     ],
-    "explanation": "'malo' shortens ke 'mal' sebelum a maskulin tunggal kata benda.\n- un mal día = a bad day\n- El día es malo. (setelah kata benda, full form)\nLike bueno → buen, ini shortening hanya happens sebelum masc. sg. nouns.",
-    "conjugation_info": "Shortened forms before masc. sg. nouns: bueno → buen, malo → mal, grande → gran (any sg. noun)"
+    "explanation": "'malo' disingkat menjadi 'mal' sebelum kata benda maskulin tunggal.\n- un mal día = hari yang buruk\n- El día es malo. (setelah kata benda, bentuk lengkap)\nSeperti bueno → buen, penyingkatan ini hanya terjadi sebelum kata benda maskulin tunggal.",
+    "conjugation_info": "Shortened forms before masc. sg. nouns: bueno → buen, malo → mal, grande → gran (any sg. noun)",
+    "hint": null
   },
   "q_gram_a1_09_001": {
     "question": "Yo ___ español todos los días.",
@@ -2200,5 +2202,137 @@
     ],
     "explanation": "Numbers 16-19 adalah compounds: dieci + unit (one kata).\n- 16 = dieciséis, 17 = diecisiete, 18 = dieciocho, 19 = diecinueve\nThese adalah originally 'diez y seis' etc. tetapi adalah now written as one kata.",
     "conjugation_info": "16-19: dieciséis, diecisiete, dieciocho, diecinueve (all one word)"
+  },
+  "q_gram_a1_01_011": {
+    "question": "___ mesa es grande.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'mesa' berakhiran -a, jadi berjenis feminin tunggal: la mesa.\n- la mesa (feminin tunggal)\n- el libro (maskulin tunggal)",
+    "hint": "mesa berakhiran -a"
+  },
+  "q_gram_a1_01_012": {
+    "question": "___ gatos son grandes.",
+    "correct": "Los",
+    "wrong": [
+      "El",
+      "La",
+      "Las"
+    ],
+    "explanation": "'gatos' adalah bentuk jamak dari 'gato' (maskulin, -o), jadi artikelnya 'los'.\n- el gato → los gatos",
+    "hint": "gato berakhiran -o, dan jumlahnya lebih dari satu"
+  },
+  "q_gram_a1_01_013": {
+    "question": "___ casas son grandes.",
+    "correct": "Las",
+    "wrong": [
+      "El",
+      "La",
+      "Los"
+    ],
+    "explanation": "'casas' adalah bentuk jamak dari 'casa' (feminin, -a), jadi artikelnya 'las'.\n- la casa → las casas",
+    "hint": "casa berakhiran -a, dan jumlahnya lebih dari satu"
+  },
+  "q_gram_a1_01_014": {
+    "question": "___ niño es inteligente.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'niño' berakhiran -o, jadi berjenis maskulin tunggal: el niño.\n- el niño (anak laki-laki) · la niña (anak perempuan)",
+    "hint": "niño berakhiran -o"
+  },
+  "q_gram_a1_01_015": {
+    "question": "___ ventana es grande.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'ventana' berakhiran -a, jadi berjenis feminin tunggal: la ventana.",
+    "hint": "ventana berakhiran -a"
+  },
+  "q_gram_a1_01_016": {
+    "question": "___ perros son inteligentes.",
+    "correct": "Los",
+    "wrong": [
+      "El",
+      "La",
+      "Las"
+    ],
+    "explanation": "'perros' adalah bentuk jamak dari 'perro' (maskulin, -o), jadi artikelnya 'los'.\n- el perro → los perros",
+    "hint": "perro berakhiran -o, dan jumlahnya lebih dari satu"
+  },
+  "q_gram_a1_01_017": {
+    "question": "___ chicas son interesantes.",
+    "correct": "Las",
+    "wrong": [
+      "El",
+      "La",
+      "Los"
+    ],
+    "explanation": "'chicas' adalah bentuk jamak dari 'chica' (feminin, -a), jadi artikelnya 'las'.\n- la chica → las chicas",
+    "hint": "chica berakhiran -a, dan jumlahnya lebih dari satu"
+  },
+  "q_gram_a1_01_018": {
+    "question": "Mejanya besar.",
+    "correct": "La mesa es grande.",
+    "wrong": [
+      "El mesa es grande.",
+      "Las mesa es grande.",
+      "La mesas es grande."
+    ],
+    "explanation": "'mesa' berjenis feminin tunggal, jadi memakai 'la'.\n'besar' = 'grande', yang bentuknya sama untuk maskulin dan feminin.",
+    "hint": null
+  },
+  "q_gram_a1_01_019": {
+    "question": "Buku-buku itu menarik.",
+    "correct": "Los libros son interesantes.",
+    "wrong": [
+      "Las libros son interesantes.",
+      "El libros son interesantes.",
+      "Los libro son interesantes."
+    ],
+    "explanation": "'libros' berjenis maskulin jamak, jadi memakai 'los'.\nNomina dan artikelnya sama-sama menunjukkan bentuk jamak: los libros.",
+    "hint": null
+  },
+  "q_gram_a1_01_020": {
+    "question": "___ canción es alegre.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'canción' berakhiran -ción, dan kata benda berakhiran -ción berjenis feminin: la canción.\n- la canción · la nación · la estación",
+    "hint": "Perhatikan akhiran -ción"
+  },
+  "q_gram_a1_01_021": {
+    "question": "___ color es verde.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'color' berakhiran -or, dan kata benda berakhiran -or biasanya berjenis maskulin: el color.\n- el color · el amor · el profesor",
+    "hint": "Perhatikan akhiran -or"
+  },
+  "q_gram_a1_01_022": {
+    "question": "___ viaje es increíble.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'viaje' berakhiran -aje, dan kata benda berakhiran -aje berjenis maskulin: el viaje.\n- el viaje · el paisaje · el mensaje",
+    "hint": "Perhatikan akhiran -aje"
   }
 }

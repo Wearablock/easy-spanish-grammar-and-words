@@ -13,7 +13,9 @@ import '../../data/providers/tts_providers.dart';
 import '../../l10n/app_localizations.dart';
 import '../../services/iap_service.dart';
 import '../../services/tts_service.dart';
+import '../speaking_practice/data/speaking_review_provider.dart';
 import 'webview_screen.dart';
+import '../../core/utils/level_label.dart';
 
 class SettingsScreen extends ConsumerStatefulWidget {
   const SettingsScreen({super.key});
@@ -149,7 +151,7 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
                 borderRadius: BorderRadius.circular(6),
               ),
               child: Text(
-                _targetLevel.toUpperCase(),
+                levelLabel(_targetLevel),
                 style: TextStyle(
                   fontWeight: FontWeight.w800,
                   fontSize: 12,
@@ -537,7 +539,7 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
                     ),
                     child: Center(
                       child: Text(
-                        level.toUpperCase(),
+                        levelLabel(level),
                         style: TextStyle(
                           fontWeight: FontWeight.w800,
                           fontSize: 12,
@@ -699,8 +701,7 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
       ref.invalidate(appLocaleProvider);
       // Update content locale too
       final option = LanguageOption.fromValue(result);
-      ref.read(currentLocaleProvider.notifier).state =
-          option.localeCode ?? 'ko';
+      ref.read(currentLocaleProvider.notifier).state = option.contentLocale;
     }
   }
 
@@ -785,18 +786,12 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
     );
 
     if (confirmed == true) {
-      final studyRecordsDao = ref.read(studyRecordsDaoProvider);
-      final wrongAnswersDao = ref.read(wrongAnswersDaoProvider);
-      final dailyStatsDao = ref.read(dailyStatsDaoProvider);
+      await ref.read(appDatabaseProvider).resetLearning();
 
-      await Future.wait([
-        studyRecordsDao.deleteAll(),
-        wrongAnswersDao.deleteAll(),
-        dailyStatsDao.deleteAll(),
-      ]);
-
-      ref.invalidate(appStatsProvider);
-      ref.invalidate(wrongAnswersWithQuestionsProvider);
+      for (final p in learningProgressProviders) {
+        ref.invalidate(p);
+      }
+      ref.invalidate(speakingReviewDueCountProvider);
 
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(

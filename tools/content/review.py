@@ -22,7 +22,9 @@ def path_topics():
             topics.setdefault(m["topic_id"], []).append((lv, qid))
     def key(t):
         p = t.split("_")
-        return (ORDER.get(p[2], 9), int(p[-1]), 1 if "_vocab_" in t else 0)
+        m = re.match(r"(\d+)([a-z]?)$", p[-1])   # 01b (10-31 split topic) right after 01 — same rule as the app
+        no = int(m[1]) * 10 + (ord(m[2]) - 96 if m[2] else 0) if m else 0
+        return (ORDER.get(p[2], 9), no, 1 if "_vocab_" in t else 0)
     return [(t, topics[t]) for t in sorted(topics, key=key) if t.split("_")[2] in ORDER]
 
 

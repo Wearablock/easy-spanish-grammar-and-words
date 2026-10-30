@@ -11,7 +11,7 @@
     "hint": "libro ends in -o, which typically indicates masculine gender"
   },
   "q_gram_a1_01_002": {
-    "question": "___ mano es pequeña.",
+    "question": "___ mano es grande.",
     "correct": "La",
     "wrong": [
       "El",
@@ -32,15 +32,14 @@
     "explanation": "'casa' means 'house' and is a feminine noun ending in -a.\n- la casa = the house\n- una casa = a house"
   },
   "q_gram_a1_01_004": {
-    "question": "___ ciudad es grande. (use the correct article for the feminine noun)",
+    "question": "___ ciudad es grande.",
     "correct": "La",
     "wrong": [
       "El",
       "Los",
       "Las"
     ],
-    "explanation": "'ciudad' ends in -dad, which is a feminine ending.\nNouns ending in -ción, -sión, -dad, and -tad are typically feminine.",
-    "conjugation_info": "Feminine endings: -a, -ción, -sión, -dad, -tad, -tud"
+    "explanation": "'ciudad' ends in -dad, which is a feminine ending.\nNouns ending in -ción, -sión, -dad, and -tad are typically feminine."
   },
   "q_gram_a1_01_005": {
     "question": "___ problema es difícil.",
@@ -54,15 +53,14 @@
     "hint": "Greek-origin words ending in -ma are masculine"
   },
   "q_gram_a1_01_006": {
-    "question": "___ televisión es nueva. (select the correct article)",
+    "question": "___ televisión es grande.",
     "correct": "La",
     "wrong": [
       "El",
       "Los",
       "Las"
     ],
-    "explanation": "'televisión' ends in -sión, making it feminine.\nAll nouns ending in -ción and -sión are feminine in Spanish.",
-    "conjugation_info": "Feminine endings: -ción (nación), -sión (televisión), -dad (ciudad)"
+    "explanation": "'televisión' ends in -sión, making it feminine.\nAll nouns ending in -ción and -sión are feminine in Spanish."
   },
   "q_gram_a1_01_007": {
     "question": "___ día es bonito.",
@@ -86,15 +84,14 @@
     "explanation": "'mapa' is masculine despite ending in -a (another exception to the -a = feminine rule).\n'big' = 'grande', which doesn't change for gender."
   },
   "q_gram_a1_01_009": {
-    "question": "___ fotos son de mi familia. (select the correct article for the plural feminine noun)",
+    "question": "___ fotos son de mi familia.",
     "correct": "Las",
     "wrong": [
       "Los",
       "La",
       "El"
     ],
-    "explanation": "'foto' is short for 'fotografía', which is feminine.\n- la foto → las fotos\nAbbreviations keep the gender of the full word.",
-    "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)"
+    "explanation": "'foto' is short for 'fotografía', which is feminine.\n- la foto → las fotos\nAbbreviations keep the gender of the full word."
   },
   "q_gram_a1_01_010": {
     "question": "The hand is cold.",
@@ -2145,5 +2142,135 @@
     ],
     "explanation": "Numbers 16-19 are compounds: dieci + unit (one word).\n- 16 = dieciséis, 17 = diecisiete, 18 = dieciocho, 19 = diecinueve\nThese were originally 'diez y seis' etc. but are now written as one word.",
     "conjugation_info": "16-19: dieciséis, diecisiete, dieciocho, diecinueve (all one word)"
+  },
+  "q_gram_a1_01_011": {
+    "question": "___ mesa es grande.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'mesa' ends in -a, so it is feminine singular: la mesa.\n- la mesa (feminine singular)\n- el libro (masculine singular)",
+    "hint": "mesa ends in -a"
+  },
+  "q_gram_a1_01_012": {
+    "question": "___ gatos son grandes.",
+    "correct": "Los",
+    "wrong": [
+      "El",
+      "La",
+      "Las"
+    ],
+    "explanation": "'gatos' is the plural of 'gato' (masculine, -o), so the article is 'los'.\n- el gato → los gatos",
+    "hint": "gato ends in -o, and there is more than one"
+  },
+  "q_gram_a1_01_013": {
+    "question": "___ casas son grandes.",
+    "correct": "Las",
+    "wrong": [
+      "El",
+      "La",
+      "Los"
+    ],
+    "explanation": "'casas' is the plural of 'casa' (feminine, -a), so the article is 'las'.\n- la casa → las casas",
+    "hint": "casa ends in -a, and there is more than one"
+  },
+  "q_gram_a1_01_014": {
+    "question": "___ niño es inteligente.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'niño' ends in -o, so it is masculine singular: el niño.\n- el niño (boy) · la niña (girl)",
+    "hint": "niño ends in -o"
+  },
+  "q_gram_a1_01_015": {
+    "question": "___ ventana es grande.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'ventana' ends in -a, so it is feminine singular: la ventana.",
+    "hint": "ventana ends in -a"
+  },
+  "q_gram_a1_01_016": {
+    "question": "___ perros son inteligentes.",
+    "correct": "Los",
+    "wrong": [
+      "El",
+      "La",
+      "Las"
+    ],
+    "explanation": "'perros' is the plural of 'perro' (masculine, -o), so the article is 'los'.\n- el perro → los perros",
+    "hint": "perro ends in -o, and there is more than one"
+  },
+  "q_gram_a1_01_017": {
+    "question": "___ chicas son interesantes.",
+    "correct": "Las",
+    "wrong": [
+      "El",
+      "La",
+      "Los"
+    ],
+    "explanation": "'chicas' is the plural of 'chica' (feminine, -a), so the article is 'las'.\n- la chica → las chicas",
+    "hint": "chica ends in -a, and there is more than one"
+  },
+  "q_gram_a1_01_018": {
+    "question": "The table is big.",
+    "correct": "La mesa es grande.",
+    "wrong": [
+      "El mesa es grande.",
+      "Las mesa es grande.",
+      "La mesas es grande."
+    ],
+    "explanation": "'mesa' is feminine singular, so it takes 'la'.\n'big' = 'grande', which is the same for masculine and feminine."
+  },
+  "q_gram_a1_01_019": {
+    "question": "The books are interesting.",
+    "correct": "Los libros son interesantes.",
+    "wrong": [
+      "Las libros son interesantes.",
+      "El libros son interesantes.",
+      "Los libro son interesantes."
+    ],
+    "explanation": "'libros' is masculine plural, so it takes 'los'.\nThe noun and the article both show the plural: los libros."
+  },
+  "q_gram_a1_01_020": {
+    "question": "___ canción es alegre.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'canción' ends in -ción, and nouns ending in -ción are feminine: la canción.\n- la canción · la nación · la estación",
+    "hint": "Look at the ending -ción"
+  },
+  "q_gram_a1_01_021": {
+    "question": "___ color es verde.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'color' ends in -or, and nouns ending in -or are usually masculine: el color.\n- el color · el amor · el profesor",
+    "hint": "Look at the ending -or"
+  },
+  "q_gram_a1_01_022": {
+    "question": "___ viaje es increíble.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'viaje' ends in -aje, and nouns ending in -aje are masculine: el viaje.\n- el viaje · el paisaje · el mensaje",
+    "hint": "Look at the ending -aje"
   }
 }

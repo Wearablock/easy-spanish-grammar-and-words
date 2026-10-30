@@ -11,7 +11,7 @@
     "hint": "libro ลงท้ายด้วย -o ซึ่งโดยทั่วไปบ่งบอกว่าเป็นเพศชาย"
   },
   "q_gram_a1_01_002": {
-    "question": "___ mano es pequeña.",
+    "question": "___ mano es grande.",
     "correct": "La",
     "wrong": [
       "El",
@@ -33,7 +33,7 @@
     "hint": null
   },
   "q_gram_a1_01_004": {
-    "question": "___ ciudad es grande. (ใช้คำนำหน้านามที่ถูกต้องสำหรับคำนามเพศหญิง)",
+    "question": "___ ciudad es grande.",
     "correct": "La",
     "wrong": [
       "El",
@@ -41,7 +41,6 @@
       "Las"
     ],
     "explanation": "'ciudad' ลงท้ายด้วย -dad ซึ่งเป็นตัวลงท้ายของเพศหญิง\nคำนามที่ลงท้ายด้วย -ción, -sión, -dad และ -tad โดยทั่วไปเป็นเพศหญิง",
-    "conjugation_info": "คำลงท้ายเพศหญิง: -a, -ción, -sión, -dad, -tad, -tud",
     "hint": null
   },
   "q_gram_a1_01_005": {
@@ -56,7 +55,7 @@
     "hint": "คำที่มาจากภาษากรีกและลงท้ายด้วย -ma เป็นเพศชาย"
   },
   "q_gram_a1_01_006": {
-    "question": "___ televisión es nueva. (เลือกคำนำหน้านามที่ถูกต้อง)",
+    "question": "___ televisión es grande.",
     "correct": "La",
     "wrong": [
       "El",
@@ -64,7 +63,6 @@
       "Las"
     ],
     "explanation": "'televisión' ลงท้ายด้วย -sión จึงเป็นเพศหญิง\nคำนามทุกคำที่ลงท้ายด้วย -ción และ -sión ในภาษาสเปนเป็นเพศหญิง",
-    "conjugation_info": "คำลงท้ายเพศหญิง: -ción (nación), -sión (televisión), -dad (ciudad)",
     "hint": null
   },
   "q_gram_a1_01_007": {
@@ -90,7 +88,7 @@
     "hint": null
   },
   "q_gram_a1_01_009": {
-    "question": "___ fotos son de mi familia. (เลือกคำนำหน้านามที่ถูกต้องสำหรับคำนามเพศหญิงพหูพจน์)",
+    "question": "___ fotos son de mi familia.",
     "correct": "Las",
     "wrong": [
       "Los",
@@ -98,7 +96,6 @@
       "El"
     ],
     "explanation": "'foto' เป็นคำย่อของ 'fotografía' ซึ่งเป็นเพศหญิง\n- la foto → las fotos\nคำย่อยังคงเพศเดียวกับคำเต็ม",
-    "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)",
     "hint": null
   },
   "q_gram_a1_01_010": {
@@ -791,112 +788,117 @@
     "hint": null
   },
   "q_gram_a1_08_001": {
-    "question": "La chica es ___. (tall, เพศหญิง form)",
+    "question": "La chica es ___. (สูง, รูปเพศหญิง)",
     "correct": "alta",
     "wrong": [
       "alto",
       "altos",
       "altas"
     ],
-    "explanation": "Adjectives ลงท้ายด้วย -o change ไปยัง -a สำหรับ เพศหญิง nouns.\n- el chico alto → la chica alta\n คำคุณศัพท์ ต้อง agree กับ คำนาม ใน gender.",
-    "conjugation_info": "alto/alta/altos/altas — 4 สำหรับms สำหรับ adjectives ending in -o"
+    "explanation": "คำคุณศัพท์ที่ลงท้ายด้วย -o จะเปลี่ยนเป็น -a เมื่อขยายคำนามเพศหญิง\n- el chico alto → la chica alta\nคำคุณศัพท์ต้องสอดคล้องกับคำนามในเรื่องเพศ",
+    "conjugation_info": "alto/alta/altos/altas — 4 สำหรับms สำหรับ adjectives ending in -o",
+    "hint": null
   },
   "q_gram_a1_08_002": {
-    "question": "Los chicos son ___. (intelligent)",
+    "question": "Los chicos son ___. (ฉลาด)",
     "correct": "inteligentes",
     "wrong": [
       "inteligente",
       "inteligento",
       "inteligenta"
     ],
-    "explanation": "Adjectives ลงท้ายด้วย -e เท่านั้น change สำหรับ number, not gender.\n- inteligente (เอกพจน์) → inteligentes (พหูพจน์)\nNo เพศชาย/เพศหญิง distinction สำหรับ -e adjectives.",
-    "hint": "Adjectives ลงท้ายด้วย -e เท่านั้น change สำหรับ number"
+    "explanation": "คำคุณศัพท์ที่ลงท้ายด้วย -e จะเปลี่ยนตามจำนวนเท่านั้น ไม่เปลี่ยนตามเพศ\n- inteligente (เอกพจน์) → inteligentes (พหูพจน์)\nคำคุณศัพท์ที่ลงท้ายด้วย -e ไม่แยกเพศชาย/หญิง",
+    "hint": "คำคุณศัพท์ที่ลงท้ายด้วย -e เปลี่ยนตามจำนวนเท่านั้น"
   },
   "q_gram_a1_08_003": {
-    "question": "Es un ___ libro. (good — shortened form)",
+    "question": "Es un ___ libro. (ดี — รูปย่อ)",
     "correct": "buen",
     "wrong": [
       "bueno",
       "buena",
       "buenos"
     ],
-    "explanation": "'bueno' shorสิบs ไปยัง 'buen' beสำหรับe a เพศชาย เอกพจน์ คำนาม.\n- un buen libro (beสำหรับe คำนาม)\n- El libro es bueno. (after คำนาม, full สำหรับm)\nSimilar: malo → mal, grande → gran.",
-    "hint": "Some adjectives มี a shorสิบed สำหรับm beสำหรับe nouns"
+    "explanation": "'bueno' จะย่อเป็น 'buen' เมื่ออยู่หน้าคำนามเพศชายเอกพจน์\n- un buen libro (อยู่หน้าคำนาม)\n- El libro es bueno. (อยู่หลังคำนาม ใช้รูปเต็ม)\nคำที่คล้ายกัน: malo → mal, grande → gran",
+    "hint": "คำคุณศัพท์บางคำมีรูปย่อเมื่ออยู่หน้าคำนาม"
   },
   "q_gram_a1_08_004": {
-    "question": "อะไร เป็น ถูกต้อง เพศหญิง พหูพจน์ สำหรับm ของ 'bonito'?",
+    "question": "รูปพหูพจน์เพศหญิงที่ถูกต้องของ 'bonito' คืออะไร",
     "correct": "bonitas",
     "wrong": [
       "bonitos",
       "bonita",
       "bonite"
     ],
-    "explanation": "Adjectives ลงท้ายด้วย -o มี สี่ สำหรับms:\n- bonito (m. sg.) → bonita (f. sg.)\n- bonitos (m. pl.) → bonitas (f. pl.)"
+    "explanation": "คำคุณศัพท์ที่ลงท้ายด้วย -o มีสี่รูป:\n- bonito (ช. เอกพจน์) → bonita (ญ. เอกพจน์)\n- bonitos (ช. พหูพจน์) → bonitas (ญ. พหูพจน์)",
+    "hint": null
   },
   "q_gram_a1_08_005": {
-    "question": "Las lecciones son ___. (easy, พหูพจน์)",
+    "question": "Las lecciones son ___. (ง่าย, พหูพจน์)",
     "correct": "fáciles",
     "wrong": [
       "fácil",
       "fácila",
       "fácilas"
     ],
-    "explanation": "Adjectives ลงท้ายด้วย a conลูกชายant add -es สำหรับ พหูพจน์, กับ no gender change.\n- fácil (เอกพจน์) → fáciles (พหูพจน์)\n- difícil → difíciles\nConลูกชายant-ending adjectives เท่านั้น vary ใน number.",
-    "conjugation_info": "Conลูกชายant-ending adjectives: fácil/fáciles, difícil/difíciles, azul/azules"
+    "explanation": "คำคุณศัพท์ที่ลงท้ายด้วยพยัญชนะจะเติม -es เพื่อทำเป็นพหูพจน์ และไม่เปลี่ยนตามเพศ\n- fácil (เอกพจน์) → fáciles (พหูพจน์)\n- difícil → difíciles\nคำคุณศัพท์ที่ลงท้ายด้วยพยัญชนะเปลี่ยนตามจำนวนเท่านั้น",
+    "conjugation_info": "Conลูกชายant-ending adjectives: fácil/fáciles, difícil/difíciles, azul/azules",
+    "hint": null
   },
   "q_gram_a1_08_006": {
-    "question": "Las casas son ___. (small, เพศหญิง พหูพจน์)",
+    "question": "Las casas son ___. (เล็ก, เพศหญิงพหูพจน์)",
     "correct": "pequeñas",
     "wrong": [
       "pequeño",
       "pequeños",
       "pequeña"
     ],
-    "explanation": "'casas' เป็น เพศหญิง พหูพจน์, so คำคุณศัพท์ ต้องเป็น เพศหญิง พหูพจน์ too.\n- la casa pequeña → las casas pequeñas\nAdjectives ลงท้ายด้วย -o change ไปยัง -a/-os/-as.",
-    "hint": " คำคุณศัพท์ ต้อง match คำนาม ใน gender และ number"
+    "explanation": "'casas' เป็นเพศหญิงพหูพจน์ คำคุณศัพท์จึงต้องเป็นเพศหญิงพหูพจน์ด้วย\n- la casa pequeña → las casas pequeñas\nคำคุณศัพท์ที่ลงท้ายด้วย -o จะเปลี่ยนเป็น -a/-os/-as",
+    "hint": "คำคุณศัพท์ต้องสอดคล้องกับคำนามทั้งเพศและจำนวน"
   },
   "q_gram_a1_08_007": {
-    "question": "She เป็น a great ผู้หญิง.",
+    "question": "เธอเป็นผู้หญิงที่ยิ่งใหญ่",
     "correct": "Ella es una gran mujer.",
     "wrong": [
       "Ella es una grande mujer.",
       "Ella es un gran mujer.",
       "Ella es una gran mujera."
     ],
-    "explanation": "'grande' shorสิบs ไปยัง 'gran' beสำหรับe any เอกพจน์ คำนาม (เพศชาย หรือ เพศหญิง).\n- una gran mujer = a great ผู้หญิง\n- un gran hombre = a great ผู้ชาย\nNote: 'gran' แปลว่า 'great', while 'grande' after คำนาม แปลว่า 'ใหญ่'."
+    "explanation": "'grande' ย่อเป็น 'gran' เมื่ออยู่หน้าคำนามเอกพจน์ทุกเพศ (ทั้งชายและหญิง)\n- una gran mujer = ผู้หญิงที่ยิ่งใหญ่\n- un gran hombre = ผู้ชายที่ยิ่งใหญ่\nหมายเหตุ: 'gran' แปลว่า 'ยิ่งใหญ่' ส่วน 'grande' ที่อยู่หลังคำนามแปลว่า 'ใหญ่'",
+    "hint": null
   },
   "q_gram_a1_08_008": {
-    "question": "Es una ciudad ___. (beautiful, เพศหญิง)",
+    "question": "Es una ciudad ___. (สวย, เพศหญิง)",
     "correct": "bonita",
     "wrong": [
       "bonito",
       "bonitas",
       "bonitos"
     ],
-    "explanation": "ส่วนใหญ่ adjectives follow คำนาม ในภาษาสเปน.\n- una ciudad bonita = a สวยงาม เมือง\n'ciudad' เป็น เพศหญิง เอกพจน์, so 'bonita' agrees ใน gender และ number.",
-    "hint": "ในภาษาสเปน, adjectives โดยปกติ come after คำนาม"
+    "explanation": "คำคุณศัพท์ส่วนใหญ่ในภาษาสเปนวางไว้หลังคำนาม\n- una ciudad bonita = เมืองที่สวย\n'ciudad' เป็นเพศหญิงเอกพจน์ 'bonita' จึงสอดคล้องทั้งเพศและจำนวน",
+    "hint": "ในภาษาสเปน คำคุณศัพท์มักอยู่หลังคำนาม"
   },
   "q_gram_a1_08_009": {
-    "question": "นักเรียนฉลาด (กลุ่มผสมชายหญิง)",
+    "question": "นักเรียนเหล่านี้ฉลาด (กลุ่มผสมชายหญิง)",
     "correct": "Los estudiantes son inteligentes.",
     "wrong": [
       "Las estudiantes son inteligentes.",
       "Los estudiantes son inteligente.",
       "Los estudiantes es inteligentes."
     ],
-    "explanation": "สำหรับกลุ่มที่มีทั้งชายและหญิง ให้ใช้รูปเพศชายพหูพจน์\n- los estudiantes = นักเรียน (กลุ่มผสม หรือผู้ชายล้วน)\n- 'inteligentes' ไม่เปลี่ยนตามเพศ เปลี่ยนเฉพาะตามจำนวน\nเพศชายพหูพจน์เป็นค่าเริ่มต้นสำหรับกลุ่มผสม",
+    "explanation": "สำหรับกลุ่มที่มีทั้งชายและหญิง ให้ใช้รูปพหูพจน์เพศชาย\n- los estudiantes = นักเรียน (กลุ่มผสม หรือชายล้วน)\n- 'inteligentes' ไม่เปลี่ยนตามเพศ เปลี่ยนตามจำนวนเท่านั้น\nพหูพจน์เพศชายเป็นรูปมาตรฐานสำหรับกลุ่มผสม",
     "hint": null
   },
   "q_gram_a1_08_010": {
-    "question": "Es un ___ día. (bad — shortened form before masc. sg. คำนาม)",
+    "question": "Es un ___ día. (แย่ — รูปย่อก่อนคำนามเพศชายเอกพจน์)",
     "correct": "mal",
     "wrong": [
       "malo",
       "mala",
       "malos"
     ],
-    "explanation": "'malo' shorสิบs ไปยัง 'mal' beสำหรับe a เพศชาย เอกพจน์ คำนาม.\n- un mal día = a แย่ วัน\n- El día es malo. (after คำนาม, full สำหรับm)\nLike bueno → buen, นี้ shorสิบing เท่านั้น happens beสำหรับe masc. sg. nouns.",
-    "conjugation_info": "Shorสิบed สำหรับms beสำหรับe masc. sg. nouns: bueno → buen, malo → mal, grande → gran (any sg. noun)"
+    "explanation": "'malo' ย่อเป็น 'mal' เมื่ออยู่หน้าคำนามเพศชายเอกพจน์\n- un mal día = วันที่แย่\n- El día es malo. (อยู่หลังคำนาม ใช้รูปเต็ม)\nเช่นเดียวกับ bueno → buen การย่อนี้เกิดขึ้นเฉพาะก่อนคำนามเพศชายเอกพจน์เท่านั้น",
+    "conjugation_info": "Shorสิบed สำหรับms beสำหรับe masc. sg. nouns: bueno → buen, malo → mal, grande → gran (any sg. noun)",
+    "hint": null
   },
   "q_gram_a1_09_001": {
     "question": "Yo ___ español todos los días.",
@@ -2205,5 +2207,137 @@
     ],
     "explanation": "Numbers 16-19 เป็น compounds: dieci + unit (หนึ่ง คำ).\n- 16 = dieciséis, 17 = diecisiete, 18 = dieciocho, 19 = diecinueve\nThese เคย originally 'diez y seis' etc. แต่ เป็น now writสิบ as หนึ่ง คำ.",
     "conjugation_info": "16-19: dieciséis, diecisiete, dieciocho, diecinueve (all หนึ่ง word)"
+  },
+  "q_gram_a1_01_011": {
+    "question": "___ mesa es grande.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'mesa' ลงท้ายด้วย -a จึงเป็นเพศหญิงเอกพจน์: la mesa\n- la mesa (เพศหญิง เอกพจน์)\n- el libro (เพศชาย เอกพจน์)",
+    "hint": "mesa ลงท้ายด้วย -a"
+  },
+  "q_gram_a1_01_012": {
+    "question": "___ gatos son grandes.",
+    "correct": "Los",
+    "wrong": [
+      "El",
+      "La",
+      "Las"
+    ],
+    "explanation": "'gatos' เป็นรูปพหูพจน์ของ 'gato' (เพศชาย ลงท้ายด้วย -o) จึงใช้คำนำหน้านามว่า 'los'\n- el gato → los gatos",
+    "hint": "gato ลงท้ายด้วย -o และมีมากกว่าหนึ่งตัว"
+  },
+  "q_gram_a1_01_013": {
+    "question": "___ casas son grandes.",
+    "correct": "Las",
+    "wrong": [
+      "El",
+      "La",
+      "Los"
+    ],
+    "explanation": "'casas' เป็นรูปพหูพจน์ของ 'casa' (เพศหญิง ลงท้ายด้วย -a) จึงใช้คำนำหน้านามว่า 'las'\n- la casa → las casas",
+    "hint": "casa ลงท้ายด้วย -a และมีมากกว่าหนึ่งหลัง"
+  },
+  "q_gram_a1_01_014": {
+    "question": "___ niño es inteligente.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'niño' ลงท้ายด้วย -o จึงเป็นเพศชายเอกพจน์: el niño\n- el niño (เด็กชาย) · la niña (เด็กหญิง)",
+    "hint": "niño ลงท้ายด้วย -o"
+  },
+  "q_gram_a1_01_015": {
+    "question": "___ ventana es grande.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'ventana' ลงท้ายด้วย -a จึงเป็นเพศหญิงเอกพจน์: la ventana",
+    "hint": "ventana ลงท้ายด้วย -a"
+  },
+  "q_gram_a1_01_016": {
+    "question": "___ perros son inteligentes.",
+    "correct": "Los",
+    "wrong": [
+      "El",
+      "La",
+      "Las"
+    ],
+    "explanation": "'perros' เป็นรูปพหูพจน์ของ 'perro' (เพศชาย ลงท้ายด้วย -o) จึงใช้คำนำหน้านามว่า 'los'\n- el perro → los perros",
+    "hint": "perro ลงท้ายด้วย -o และมีมากกว่าหนึ่งตัว"
+  },
+  "q_gram_a1_01_017": {
+    "question": "___ chicas son interesantes.",
+    "correct": "Las",
+    "wrong": [
+      "El",
+      "La",
+      "Los"
+    ],
+    "explanation": "'chicas' เป็นรูปพหูพจน์ของ 'chica' (เพศหญิง ลงท้ายด้วย -a) จึงใช้คำนำหน้านามว่า 'las'\n- la chica → las chicas",
+    "hint": "chica ลงท้ายด้วย -a และมีมากกว่าหนึ่งคน"
+  },
+  "q_gram_a1_01_018": {
+    "question": "โต๊ะตัวนี้ใหญ่",
+    "correct": "La mesa es grande.",
+    "wrong": [
+      "El mesa es grande.",
+      "Las mesa es grande.",
+      "La mesas es grande."
+    ],
+    "explanation": "'mesa' เป็นเพศหญิงเอกพจน์ จึงใช้คู่กับ 'la'\n'ใหญ่' = 'grande' ซึ่งใช้เหมือนกันทั้งเพศชายและเพศหญิง",
+    "hint": null
+  },
+  "q_gram_a1_01_019": {
+    "question": "หนังสือเหล่านั้นน่าสนใจ",
+    "correct": "Los libros son interesantes.",
+    "wrong": [
+      "Las libros son interesantes.",
+      "El libros son interesantes.",
+      "Los libro son interesantes."
+    ],
+    "explanation": "'libros' เป็นเพศชายพหูพจน์ จึงใช้คู่กับ 'los'\nทั้งคำนามและคำนำหน้านามต้องบอกว่าเป็นพหูพจน์: los libros",
+    "hint": null
+  },
+  "q_gram_a1_01_020": {
+    "question": "___ canción es alegre.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'canción' ลงท้ายด้วย -ción และคำนามที่ลงท้ายด้วย -ción เป็นเพศหญิง: la canción\n- la canción · la nación · la estación",
+    "hint": "ดูที่คำลงท้าย -ción"
+  },
+  "q_gram_a1_01_021": {
+    "question": "___ color es verde.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'color' ลงท้ายด้วย -or และคำนามที่ลงท้ายด้วย -or ส่วนใหญ่เป็นเพศชาย: el color\n- el color · el amor · el profesor",
+    "hint": "ดูที่คำลงท้าย -or"
+  },
+  "q_gram_a1_01_022": {
+    "question": "___ viaje es increíble.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'viaje' ลงท้ายด้วย -aje และคำนามที่ลงท้ายด้วย -aje เป็นเพศชาย: el viaje\n- el viaje · el paisaje · el mensaje",
+    "hint": "ดูที่คำลงท้าย -aje"
   }
 }

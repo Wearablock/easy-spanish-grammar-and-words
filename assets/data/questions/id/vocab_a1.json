@@ -679,7 +679,7 @@
       "kaki",
       "lengan"
     ],
-    "explanation": "'Cabeza' berarti 'kepala'. 'Me duele la cabeza' berarti 'Kepalaku sakit' (aku sakit kepala).",
+    "explanation": "'Cabeza' berarti 'kepala'. 'Me duele la cabeza' berarti 'Kepala saya sakit' (saya sakit kepala).",
     "hint": null
   },
   "q_vocab_a1_07_002": {
@@ -690,18 +690,19 @@
       "lengan",
       "jari"
     ],
-    "explanation": "'Mano' berarti 'tangan'. Perhatikan: meskipun berakhiran -o, 'mano' berjenis feminin (la mano).",
+    "explanation": "'Mano' berarti 'tangan'. Catatan: meskipun berakhiran -o, 'mano' bergender feminin (la mano).",
     "hint": null
   },
   "q_vocab_a1_07_003": {
-    "question": "No puedo caminar, me duele el ___.",
+    "question": "no puedo caminar, me duele el ___.",
     "correct": "pie",
     "wrong": [
       "ojo",
-      "dedo",
+      "brazo",
       "diente"
     ],
-    "explanation": "'Pie' berarti 'foot'. ini/itu sentence says 'I cannot walk, my foot hurts'."
+    "explanation": "'Pie' berarti 'kaki'. Kalimat ini berarti 'Saya tidak bisa berjalan, kaki saya sakit'.",
+    "hint": null
   },
   "q_vocab_a1_07_004": {
     "question": "Apa arti 'ojo'?",
@@ -715,28 +716,29 @@
     "hint": null
   },
   "q_vocab_a1_07_005": {
-    "question": "Apa arti 'espalda' dalam kalimat 'Me duele la espalda'?",
+    "question": "Apa arti 'espalda' dalam 'Me duele la espalda'?",
     "correct": "punggung",
     "wrong": [
       "perut",
       "dada",
       "leher"
     ],
-    "explanation": "'Espalda' berarti 'punggung' (bagian tubuh). Kalimat ini berarti 'Punggungku sakit'.",
+    "explanation": "'Espalda' berarti 'punggung' (bagian tubuh). Kalimat ini berarti 'Punggung saya sakit'.",
     "hint": null
   },
   "q_vocab_a1_07_006": {
-    "question": "I brush my teeth every morning.",
+    "question": "Saya menggosok gigi setiap pagi.",
     "correct": "Me lavo los dientes cada mañana.",
     "wrong": [
       "Me lavo las manos cada mañana.",
       "Me lavo el pelo cada mañana.",
       "Me lavo los ojos cada mañana."
     ],
-    "explanation": "'Dientes' berarti 'teeth' (tunggal: 'diente'). dalam bahasa Spanyol, we say 'lavarse los dientes' (wash ini/itu teeth) rather than 'brush'."
+    "explanation": "'Dientes' berarti 'gigi' (tunggal: 'diente'). Penutur bahasa Spanyol sering mengatakan 'lavarse los dientes' (secara harfiah 'mencuci gigi'); 'cepillarse los dientes' (menyikat) juga benar.",
+    "hint": null
   },
   "q_vocab_a1_07_007": {
-    "question": "Apa arti 'boca' dalam kalimat 'Abre la boca'?",
+    "question": "Apa arti 'boca' dalam 'Abre la boca'?",
     "correct": "mulut",
     "wrong": [
       "mata",
@@ -748,35 +750,38 @@
   },
   "q_vocab_a1_07_008": {
     "question": "Tengo el pelo largo y los ojos marrones.",
-    "correct": "I have long hair and brown eyes.",
+    "correct": "Saya berambut panjang dan bermata cokelat.",
     "wrong": [
-      "I have short hair and blue eyes.",
-      "I have long arms and brown eyes.",
-      "I have long hair and green eyes."
+      "Saya berambut pendek dan bermata biru.",
+      "Saya berlengan panjang dan bermata cokelat.",
+      "Saya berambut panjang dan bermata hijau."
     ],
-    "explanation": "'Pelo' berarti 'hair', 'largo' berarti 'long', dan 'ojos marrones' berarti 'brown eyes'."
+    "explanation": "'Pelo' berarti 'rambut', 'largo' berarti 'panjang', dan 'ojos marrones' berarti 'mata cokelat'.",
+    "hint": null
   },
   "q_vocab_a1_07_009": {
-    "question": "kamu adalah at ini/itu doctor's office dan need untuk mengatakan di mana itu hurts. bagaimana do kamu say 'My stomach hurts'?",
+    "question": "Kamu sedang di ruang praktik dokter dan perlu mengatakan bagian mana yang sakit. Bagaimana mengatakan 'Perut saya sakit'?",
     "correct": "Me duele el estómago.",
     "wrong": [
       "Me duele la cabeza.",
       "Me duele la espalda.",
       "Me duele el brazo."
     ],
-    "explanation": "'Estómago' berarti 'stomach'. 'Me duele' digunakan untuk tunggal body parts itu hurt.",
-    "context": "Visiting the doctor with stomach pain"
+    "explanation": "'Estómago' berarti 'perut/lambung'. 'Me duele' dipakai untuk bagian tubuh tunggal yang sakit.",
+    "context": "Visiting the doctor with stomach pain",
+    "hint": null
   },
   "q_vocab_a1_07_010": {
-    "question": "kamu adalah describing a friend's appearance. bagaimana do kamu say 'She memiliki big ears dan a small nose'?",
+    "question": "Kamu sedang mendeskripsikan penampilan seorang teman. Bagaimana mengatakan 'Dia bertelinga besar dan berhidung kecil'?",
     "correct": "Tiene las orejas grandes y la nariz pequeña.",
     "wrong": [
       "Tiene los ojos grandes y la boca pequeña.",
       "Tiene las orejas pequeñas y la nariz grande.",
       "Tiene las manos grandes y los pies pequeños."
     ],
-    "explanation": "'Orejas' berarti 'ears' dan 'nariz' berarti 'nose'. dalam bahasa Spanyol, we use 'tener' (ke memiliki) untuk menggambarkan physical features.",
-    "context": "Describing teman's physical features"
+    "explanation": "'Orejas' berarti 'telinga' dan 'nariz' berarti 'hidung'. Dalam bahasa Spanyol, kita memakai 'tener' (memiliki) untuk mendeskripsikan ciri fisik.",
+    "context": "Describing teman's physical features",
+    "hint": null
   },
   "q_vocab_a1_08_001": {
     "question": "Apa arti 'zapatos'?",

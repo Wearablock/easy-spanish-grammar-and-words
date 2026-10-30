@@ -4,6 +4,7 @@ import '../../../core/theme/app_colors.dart';
 import '../../../l10n/app_localizations.dart';
 import '../../../services/study_service.dart';
 import '../topic_list_screen.dart';
+import '../../../core/utils/level_label.dart';
 
 class LevelProgressList extends StatelessWidget {
   final Map<String, LevelProgress> levelProgress;
@@ -62,13 +63,13 @@ class LevelProgressList extends StatelessWidget {
           final studiedProg = totalQ > 0 ? studiedQ / totalQ : 0.0;
           final masteredProg = totalQ > 0 ? masteredQ / totalQ : 0.0;
           final color = AppColors.getLevelColor(level);
-          final levelLabel = level.toUpperCase();
+          final label = levelLabel(level);
           final subtitle = levelNames[level] ?? '';
 
           return _buildLevelTile(
             context,
             level,
-            levelLabel,
+            label,
             subtitle,
             color,
             studiedProg,

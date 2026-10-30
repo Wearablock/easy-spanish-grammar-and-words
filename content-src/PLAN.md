@@ -9,7 +9,7 @@
 |---|---|---|---|
 | **10-29** | LV1 | gram_a1_01 · vocab_a1_01 · gram_a1_02 · vocab_a1_02 · gram_a1_03 · vocab_a1_03 · gram_a1_04 · vocab_a1_04 · gram_a1_05 · vocab_a1_05 · gram_a1_06 | ✅ 10-30 00:5x 배포 · 원본 수정 12 · 1,540칸 |
 | 10-30 | LV2 | vocab_a1_06 · gram_a1_07 | ✅ 03:5x 배포 · 원본 1(07_002 «always estar» → 행사는 ser) · 280칸 · 뜻 검수 1(ko) · es UI 번역 문제 44개는 문제=정답 → 🙋 10-30 그대로 둠(문제 되면 es 화면을 뺀다) |
-| 10-31 | LV2 | vocab_a1_07 · gram_a1_08 | |
+| 10-31 | LV2 | vocab_a1_07 · gram_a1_08 | ✅ 08:5x 배포(이론 6개 언어 새로 · 1,887/1,888 같이) · 원본 2(07_006 설명 «brush 라고 안 한다» → cepillarse 도 맞다 · 07_003 보기 dedo → brazo 15개 언어) · 280칸 · 뜻 검수 5(it · ko 반영 · pt 2 · es 1 되돌림) · 🔁 01b 주제가 경로 맨 앞에 오던 정렬 고침(앱 · review.py) → LV 경계 한 칸 밀림 |
 | 11-01 | LV2 | vocab_a1_08 · gram_a1_09 | |
 | 11-02 | LV2 | vocab_a1_09 · gram_a1_10 | |
 | 11-03 | LV2 | vocab_a1_10 · gram_a1_11 | |

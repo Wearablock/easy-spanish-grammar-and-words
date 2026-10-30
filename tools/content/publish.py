@@ -63,6 +63,15 @@ def main():
     if master.check():
         bad += 1
         print("❌ some locales ask a different question than the master — run master.py repair / translate.py")
+    # render theory/explanations like the app and refuse raw ** on screen (tool/check_bold.dart) — 10-31
+    dart = shutil.which("dart") or os.path.expanduser("~/development/flutter/bin/dart")
+    r = subprocess.run([dart, "run", "tool/check_bold.dart"], cwd=ROOT, capture_output=True, text=True)
+    if r.returncode:
+        bad += 1
+        print("\n".join(r.stdout.strip().splitlines()[-6:]))
+        print("❌ broken bold would show as ** in the app — move ** outside the punctuation")
+    else:
+        print("bold: no raw ** after rendering")
     if bad:
         sys.exit("🔴 fix the files above — nothing published")
     if "--check" in sys.argv:

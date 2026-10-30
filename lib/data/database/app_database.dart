@@ -64,6 +64,15 @@ class AppDatabase extends _$AppDatabase {
     );
   }
 
+  /// Clears every learning table — everything except user settings — in one transaction.
+  /// Walks [allTables] so a table added later is reset too (speaking was missed until 1.5.1).
+  Future<void> resetLearning() => transaction(() async {
+        for (final table in allTables) {
+          if (table is $UserSettingsTable) continue;
+          await delete(table).go();
+        }
+      });
+
   @override
   StudyRecordsDao get studyRecordsDao => StudyRecordsDao(this);
   @override

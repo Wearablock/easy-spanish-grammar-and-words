@@ -1,3 +1,24 @@
+import 'package:markdown/markdown.dart' as md;
+
+/// Bold that does not care what sits around the `**`.
+///
+/// CommonMark only closes `**` after punctuation when a space or punctuation follows, so
+/// `**여성(femenino)**으로` or `**¿Aló?**를` stayed raw on screen (1.5.0, 10-30). This syntax runs
+/// before the default emphasis rules and turns any `**…**` pair on one line into bold. Pass it to
+/// every MarkdownBody as `inlineSyntaxes: markdownInlineSyntaxes`.
+class BoldSyntax extends md.InlineSyntax {
+  BoldSyntax() : super(r'\*\*(?!\s)((?:[^*\n]|\*(?!\*))+?)(?<!\s)\*\*');
+
+  @override
+  bool onMatch(md.InlineParser parser, Match match) {
+    final inner = md.InlineParser(match[1]!, parser.document).parse();
+    parser.addNode(md.Element('strong', inner));
+    return true;
+  }
+}
+
+final List<md.InlineSyntax> markdownInlineSyntaxes = [BoldSyntax()];
+
 /// Fixes markdown bold syntax that breaks when Korean (or other CJK)
 /// characters are directly adjacent to ** delimiters.
 ///

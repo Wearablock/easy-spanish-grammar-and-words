@@ -11,7 +11,7 @@
     "hint": "ينتهي libro بحرف -o، وهذا يدل عادةً على المذكر"
   },
   "q_gram_a1_01_002": {
-    "question": "___ mano es pequeña.",
+    "question": "___ mano es grande.",
     "correct": "La",
     "wrong": [
       "El",
@@ -33,7 +33,7 @@
     "hint": null
   },
   "q_gram_a1_01_004": {
-    "question": "___ ciudad es grande. (استخدم أداة التعريف الصحيحة للاسم المؤنث)",
+    "question": "___ ciudad es grande.",
     "correct": "La",
     "wrong": [
       "El",
@@ -41,7 +41,6 @@
       "Las"
     ],
     "explanation": "'ciudad' تنتهي بـ -dad، وهي نهاية مؤنثة.\nالأسماء المنتهية بـ -ción و-sión و-dad و-tad تكون عادةً مؤنثة.",
-    "conjugation_info": "مؤنث endings: -a, -ción, -sión, -dad, -tad, -tud",
     "hint": null
   },
   "q_gram_a1_01_005": {
@@ -56,7 +55,7 @@
     "hint": "الكلمات ذات الأصل اليوناني المنتهية بـ -ma مذكرة"
   },
   "q_gram_a1_01_006": {
-    "question": "___ televisión es nueva. (اختر أداة التعريف الصحيحة)",
+    "question": "___ televisión es grande.",
     "correct": "La",
     "wrong": [
       "El",
@@ -64,7 +63,6 @@
       "Las"
     ],
     "explanation": "'televisión' تنتهي بـ -sión، لذلك فهي مؤنثة.\nجميع الأسماء المنتهية بـ -ción و-sión في الإسبانية مؤنثة.",
-    "conjugation_info": "مؤنث endings: -ción (nación), -sión (televisión), -dad (ciudad)",
     "hint": null
   },
   "q_gram_a1_01_007": {
@@ -90,7 +88,7 @@
     "hint": null
   },
   "q_gram_a1_01_009": {
-    "question": "___ fotos son de mi familia. (اختر أداة التعريف الصحيحة للاسم المؤنث الجمع)",
+    "question": "___ fotos son de mi familia.",
     "correct": "Las",
     "wrong": [
       "Los",
@@ -98,7 +96,6 @@
       "El"
     ],
     "explanation": "'foto' اختصار لكلمة 'fotografía'، وهي مؤنثة.\n- la foto → las fotos\nالاختصارات تحتفظ بجنس الكلمة الكاملة.",
-    "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)",
     "hint": null
   },
   "q_gram_a1_01_010": {
@@ -791,90 +788,94 @@
     "hint": null
   },
   "q_gram_a1_08_001": {
-    "question": "La chica es ___. (tall, مؤنث form)",
+    "question": "La chica es ___. (طويلة، صيغة المؤنث)",
     "correct": "alta",
     "wrong": [
       "alto",
       "altos",
       "altas"
     ],
-    "explanation": "Adjectives ينتهي بـ -o change إلى -a لـ مؤنث nouns.\n- el chico alto → la chica alta\nالـ صفة يجب agree مع الـ اسم في جنس.",
-    "conjugation_info": "alto/alta/altos/altas — 4 forms for adjectives ينتهي بـ -o"
+    "explanation": "الصفات التي تنتهي بـ -o تتحول إلى -a مع الأسماء المؤنثة.\n- el chico alto → la chica alta\nيجب أن تتطابق الصفة مع الاسم في الجنس.",
+    "conjugation_info": "alto/alta/altos/altas — 4 forms for adjectives ينتهي بـ -o",
+    "hint": null
   },
   "q_gram_a1_08_002": {
-    "question": "Los chicos son ___. (intelligent)",
+    "question": "Los chicos son ___. (ذكيّ)",
     "correct": "inteligentes",
     "wrong": [
       "inteligente",
       "inteligento",
       "inteligenta"
     ],
-    "explanation": "Adjectives ينتهي بـ -e فقط change لـ number, not جنس.\n- inteligente (مفرد) → inteligentes (جمع)\nNo مذكر/مؤنث distinction لـ -e adjectives.",
-    "hint": "Adjectives ينتهي بـ -e فقط change لـ number"
+    "explanation": "الصفات التي تنتهي بـ -e تتغير حسب العدد فقط وليس الجنس.\n- inteligente (مفرد) → inteligentes (جمع)\nلا فرق بين المذكر والمؤنث في الصفات المنتهية بـ -e.",
+    "hint": "الصفات المنتهية بـ -e تتغير حسب العدد فقط"
   },
   "q_gram_a1_08_003": {
-    "question": "Es un ___ libro. (good — shortened form)",
+    "question": "Es un ___ libro. (جيّد — الصيغة المختصرة)",
     "correct": "buen",
     "wrong": [
       "bueno",
       "buena",
       "buenos"
     ],
-    "explanation": "'bueno' shortens إلى 'buen' قبل a مذكر مفرد اسم.\n- un buen libro (قبل اسم)\n- El libro es bueno. (بعد اسم, full form)\nSimilar: malo → mal, grande → gran.",
-    "hint": "Some adjectives يملك a shortened form قبل nouns"
+    "explanation": "تُختصر 'bueno' إلى 'buen' قبل الاسم المذكر المفرد.\n- un buen libro (قبل الاسم)\n- El libro es bueno. (بعد الاسم، الصيغة الكاملة)\nومثلها: malo → mal، grande → gran.",
+    "hint": "بعض الصفات لها صيغة مختصرة قبل الأسماء"
   },
   "q_gram_a1_08_004": {
-    "question": "ماذا هو الـ صحيح مؤنث جمع form من 'bonito'?",
+    "question": "ما هي صيغة المؤنث الجمع الصحيحة للكلمة 'bonito'؟",
     "correct": "bonitas",
     "wrong": [
       "bonitos",
       "bonita",
       "bonite"
     ],
-    "explanation": "Adjectives ينتهي بـ -o يملك four forms:\n- bonito (m. sg.) → bonita (f. sg.)\n- bonitos (m. pl.) → bonitas (f. pl.)"
+    "explanation": "الصفات التي تنتهي بـ -o لها أربع صيغ:\n- bonito (مذكر مفرد) → bonita (مؤنث مفرد)\n- bonitos (مذكر جمع) → bonitas (مؤنث جمع)",
+    "hint": null
   },
   "q_gram_a1_08_005": {
-    "question": "Las lecciones son ___. (easy, جمع)",
+    "question": "Las lecciones son ___. (سهلة، جمع)",
     "correct": "fáciles",
     "wrong": [
       "fácil",
       "fácila",
       "fácilas"
     ],
-    "explanation": "Adjectives ينتهي بـ a consonant add -es لـ الـ جمع, مع no جنس change.\n- fácil (مفرد) → fáciles (جمع)\n- difícil → difíciles\nConsonant-نهاية adjectives فقط vary في number.",
-    "conjugation_info": "Consonant-نهاية adjectives: fácil/fáciles, difícil/difíciles, azul/azules"
+    "explanation": "الصفات التي تنتهي بحرف ساكن تضيف -es في الجمع دون تغيير الجنس.\n- fácil (مفرد) → fáciles (جمع)\n- difícil → difíciles\nالصفات المنتهية بحرف ساكن تتغير حسب العدد فقط.",
+    "conjugation_info": "Consonant-نهاية adjectives: fácil/fáciles, difícil/difíciles, azul/azules",
+    "hint": null
   },
   "q_gram_a1_08_006": {
-    "question": "Las casas son ___. (small, مؤنث جمع)",
+    "question": "Las casas son ___. (صغيرة، مؤنث جمع)",
     "correct": "pequeñas",
     "wrong": [
       "pequeño",
       "pequeños",
       "pequeña"
     ],
-    "explanation": "'\u0001' مؤنث جمع, لذا صفة يجب أن يكون مؤنث جمع too.\n- la casa pequeña → las casas pequeñas\nAdjectives ينتهي بـ -o change إلى -a/-os/-as.",
-    "hint": "الـ صفة يجب match الـ اسم في جنس و number"
+    "explanation": "'casas' مؤنث جمع، لذا يجب أن تكون الصفة مؤنثًا جمعًا أيضًا.\n- la casa pequeña → las casas pequeñas\nالصفات المنتهية بـ -o تتحول إلى -a/-os/-as.",
+    "hint": "يجب أن تتطابق الصفة مع الاسم في الجنس والعدد معًا"
   },
   "q_gram_a1_08_007": {
-    "question": "She هو a great woman.",
+    "question": "إنها امرأة عظيمة.",
     "correct": "Ella es una gran mujer.",
     "wrong": [
       "Ella es una grande mujer.",
       "Ella es un gran mujer.",
       "Ella es una gran mujera."
     ],
-    "explanation": "'grande' shortens إلى 'gran' قبل any مفرد اسم (مذكر أو مؤنث).\n- una gran mujer = a رائع امرأة\n- un gran hombre = a رائع رجل\nNote: 'gran' يعني 'رائع', بينما 'grande' بعد اسم يعني 'كبير'."
+    "explanation": "تُختصر 'grande' إلى 'gran' قبل أي اسم مفرد (مذكر أو مؤنث).\n- una gran mujer = امرأة عظيمة\n- un gran hombre = رجل عظيم\nملاحظة: 'gran' تعني 'عظيم'، بينما 'grande' بعد الاسم تعني 'كبير'.",
+    "hint": null
   },
   "q_gram_a1_08_008": {
-    "question": "Es una ciudad ___. (beautiful, مؤنث)",
+    "question": "Es una ciudad ___. (جميلة، مؤنث)",
     "correct": "bonita",
     "wrong": [
       "bonito",
       "bonitas",
       "bonitos"
     ],
-    "explanation": "معظم adjectives follow الـ اسم في الإسبانية.\n- una ciudad bonita = a جميل مدينة\n'\u0001' مؤنث مفرد, so 'bonita' agrees في جنس و number.",
-    "hint": "في الإسبانية, adjectives عادة يأتي بعد الـ اسم"
+    "explanation": "معظم الصفات في الإسبانية تأتي بعد الاسم.\n- una ciudad bonita = مدينة جميلة\n'ciudad' مؤنث مفرد، لذا تتطابق معه 'bonita' في الجنس والعدد.",
+    "hint": "في الإسبانية، تأتي الصفة عادةً بعد الاسم"
   },
   "q_gram_a1_08_009": {
     "question": "الطلاب أذكياء. (مجموعة مختلطة)",
@@ -884,19 +885,20 @@
       "Los estudiantes son inteligente.",
       "Los estudiantes es inteligentes."
     ],
-    "explanation": "في المجموعات المختلطة بين الذكور والإناث نستخدم صيغة المذكر الجمع.\n- los estudiantes = الطلاب (مجموعة مختلطة أو كلها من الذكور)\n- 'inteligentes' لا تتغير بحسب الجنس، بل بحسب العدد فقط.\nالمذكر الجمع هو الأصل في المجموعات المختلطة.",
+    "explanation": "في المجموعات المختلطة نستخدم صيغة المذكر الجمع.\n- los estudiantes = الطلاب (مجموعة مختلطة أو من الذكور فقط)\n- 'inteligentes' لا تتغير حسب الجنس، بل حسب العدد فقط.\nصيغة المذكر الجمع هي الأصل في المجموعات المختلطة.",
     "hint": null
   },
   "q_gram_a1_08_010": {
-    "question": "Es un ___ día. (bad — shortened form قبل masc. sg. اسم)",
+    "question": "Es un ___ día. (سيّئ — الصيغة المختصرة قبل اسم مذكر مفرد)",
     "correct": "mal",
     "wrong": [
       "malo",
       "mala",
       "malos"
     ],
-    "explanation": "'malo' shortens إلى 'mal' قبل a مذكر مفرد اسم.\n- un mal día = a سيء يوم\n- El día es malo. (بعد اسم, full form)\nLike bueno → buen, هذا shortening فقط happens قبل masc. sg. nouns.",
-    "conjugation_info": "Shortened forms before masc. sg. nouns: bueno → buen, malo → mal, grande → gran (any sg. اسم)"
+    "explanation": "تُختصر 'malo' إلى 'mal' قبل الاسم المذكر المفرد.\n- un mal día = يوم سيئ\n- El día es malo. (بعد الاسم، الصيغة الكاملة)\nمثل bueno → buen، يحدث هذا الاختصار فقط قبل الأسماء المذكرة المفردة.",
+    "conjugation_info": "Shortened forms before masc. sg. nouns: bueno → buen, malo → mal, grande → gran (any sg. اسم)",
+    "hint": null
   },
   "q_gram_a1_09_001": {
     "question": "Yo ___ español todos los días.",
@@ -2202,5 +2204,137 @@
     ],
     "explanation": "Numbers 16-19 هم compounds: dieci + unit (one كلمة).\n- 16 = dieciséis, 17 = diecisiete, 18 = dieciocho, 19 = diecinueve\nThese كانوا originally 'diez y seis' etc. لكن هم now written as one كلمة.",
     "conjugation_info": "16-19: dieciséis, diecisiete, dieciocho, diecinueve (all one word)"
+  },
+  "q_gram_a1_01_011": {
+    "question": "___ mesa es grande.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'mesa' تنتهي بـ -a، لذلك هي مؤنث مفرد: la mesa.\n- la mesa (مؤنث مفرد)\n- el libro (مذكر مفرد)",
+    "hint": "mesa تنتهي بـ -a"
+  },
+  "q_gram_a1_01_012": {
+    "question": "___ gatos son grandes.",
+    "correct": "Los",
+    "wrong": [
+      "El",
+      "La",
+      "Las"
+    ],
+    "explanation": "'gatos' هي جمع 'gato' (مذكر، -o)، لذلك أداة التعريف هي 'los'.\n- el gato → los gatos",
+    "hint": "gato تنتهي بـ -o، وهناك أكثر من واحد"
+  },
+  "q_gram_a1_01_013": {
+    "question": "___ casas son grandes.",
+    "correct": "Las",
+    "wrong": [
+      "El",
+      "La",
+      "Los"
+    ],
+    "explanation": "'casas' هي جمع 'casa' (مؤنث، -a)، لذلك أداة التعريف هي 'las'.\n- la casa → las casas",
+    "hint": "casa تنتهي بـ -a، وهناك أكثر من واحدة"
+  },
+  "q_gram_a1_01_014": {
+    "question": "___ niño es inteligente.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'niño' تنتهي بـ -o، لذلك هي مذكر مفرد: el niño.\n- el niño (الولد) · la niña (البنت)",
+    "hint": "niño تنتهي بـ -o"
+  },
+  "q_gram_a1_01_015": {
+    "question": "___ ventana es grande.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'ventana' تنتهي بـ -a، لذلك هي مؤنث مفرد: la ventana.",
+    "hint": "ventana تنتهي بـ -a"
+  },
+  "q_gram_a1_01_016": {
+    "question": "___ perros son inteligentes.",
+    "correct": "Los",
+    "wrong": [
+      "El",
+      "La",
+      "Las"
+    ],
+    "explanation": "'perros' هي جمع 'perro' (مذكر، -o)، لذلك أداة التعريف هي 'los'.\n- el perro → los perros",
+    "hint": "perro تنتهي بـ -o، وهناك أكثر من واحد"
+  },
+  "q_gram_a1_01_017": {
+    "question": "___ chicas son interesantes.",
+    "correct": "Las",
+    "wrong": [
+      "El",
+      "La",
+      "Los"
+    ],
+    "explanation": "'chicas' هي جمع 'chica' (مؤنث، -a)، لذلك أداة التعريف هي 'las'.\n- la chica → las chicas",
+    "hint": "chica تنتهي بـ -a، وهناك أكثر من واحدة"
+  },
+  "q_gram_a1_01_018": {
+    "question": "الطاولة كبيرة.",
+    "correct": "La mesa es grande.",
+    "wrong": [
+      "El mesa es grande.",
+      "Las mesa es grande.",
+      "La mesas es grande."
+    ],
+    "explanation": "'mesa' مؤنث مفرد، لذلك تأخذ 'la'.\n'big' = 'grande'، وهي نفسها للمذكر والمؤنث.",
+    "hint": null
+  },
+  "q_gram_a1_01_019": {
+    "question": "الكتب مثيرة للاهتمام.",
+    "correct": "Los libros son interesantes.",
+    "wrong": [
+      "Las libros son interesantes.",
+      "El libros son interesantes.",
+      "Los libro son interesantes."
+    ],
+    "explanation": "'libros' مذكر جمع، لذلك يأخذ 'los'.\nكل من الاسم وأداة التعريف يدلان على الجمع: los libros.",
+    "hint": null
+  },
+  "q_gram_a1_01_020": {
+    "question": "___ canción es alegre.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'canción' تنتهي بـ -ción، والأسماء المنتهية بـ -ción مؤنثة: la canción.\n- la canción · la nación · la estación",
+    "hint": "انظر إلى النهاية -ción"
+  },
+  "q_gram_a1_01_021": {
+    "question": "___ color es verde.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'color' تنتهي بـ -or، والأسماء المنتهية بـ -or تكون مذكرة في الغالب: el color.\n- el color · el amor · el profesor",
+    "hint": "انظر إلى النهاية -or"
+  },
+  "q_gram_a1_01_022": {
+    "question": "___ viaje es increíble.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'viaje' تنتهي بـ -aje، والأسماء المنتهية بـ -aje مذكرة: el viaje.\n- el viaje · el paisaje · el mensaje",
+    "hint": "انظر إلى النهاية -aje"
   }
 }

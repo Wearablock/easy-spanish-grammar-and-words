@@ -11,7 +11,7 @@
     "hint": "libro se termine par -o, ce qui indique généralement le genre masculin"
   },
   "q_gram_a1_01_002": {
-    "question": "___ mano es pequeña.",
+    "question": "___ mano es grande.",
     "correct": "La",
     "wrong": [
       "El",
@@ -33,7 +33,7 @@
     "hint": null
   },
   "q_gram_a1_01_004": {
-    "question": "___ ciudad es grande. (utilisez l'article correct pour le nom féminin)",
+    "question": "___ ciudad es grande.",
     "correct": "La",
     "wrong": [
       "El",
@@ -41,7 +41,6 @@
       "Las"
     ],
     "explanation": "'ciudad' se termine par -dad, une terminaison féminine.\nLes noms en -ción, -sión, -dad et -tad sont généralement féminins.",
-    "conjugation_info": "Feminine endings: -a, -ción, -sión, -dad, -tad, -tud",
     "hint": null
   },
   "q_gram_a1_01_005": {
@@ -56,7 +55,7 @@
     "hint": "Les mots d'origine grecque en -ma sont masculins"
   },
   "q_gram_a1_01_006": {
-    "question": "___ televisión es nueva. (choisissez l'article correct)",
+    "question": "___ televisión es grande.",
     "correct": "La",
     "wrong": [
       "El",
@@ -64,7 +63,6 @@
       "Las"
     ],
     "explanation": "'televisión' se termine par -sión, ce qui le rend féminin.\nTous les noms en -ción et -sión sont féminins en espagnol.",
-    "conjugation_info": "Feminine endings: -ción (nación), -sión (televisión), -dad (ciudad)",
     "hint": null
   },
   "q_gram_a1_01_007": {
@@ -90,7 +88,7 @@
     "hint": null
   },
   "q_gram_a1_01_009": {
-    "question": "___ fotos son de mi familia. (choisissez l'article correct pour le nom féminin pluriel)",
+    "question": "___ fotos son de mi familia.",
     "correct": "Las",
     "wrong": [
       "Los",
@@ -98,7 +96,6 @@
       "El"
     ],
     "explanation": "'foto' est l'abréviation de 'fotografía', qui est féminin.\n- la foto → las fotos\nLes abréviations gardent le genre du mot complet.",
-    "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)",
     "hint": null
   },
   "q_gram_a1_01_010": {
@@ -791,15 +788,16 @@
     "hint": null
   },
   "q_gram_a1_08_001": {
-    "question": "La chica es ___. (tall, forme féminine)",
+    "question": "La chica es ___. (grande, forme féminine)",
     "correct": "alta",
     "wrong": [
       "alto",
       "altos",
       "altas"
     ],
-    "explanation": "Adjectifs terminaison dans -o change en -a pour féminin noms.\n- el chico alto → la chica alta\nL'adjectif doit s'accordent avec le nom dans genre.",
-    "conjugation_info": "alto/alta/altos/altas — 4 forms for adjectives ending in -o"
+    "explanation": "Les adjectifs en -o prennent la terminaison -a avec un nom féminin.\n- el chico alto → la chica alta\nL'adjectif doit s'accorder en genre avec le nom.",
+    "conjugation_info": "alto/alta/altos/altas — 4 forms for adjectives ending in -o",
+    "hint": null
   },
   "q_gram_a1_08_002": {
     "question": "Los chicos son ___. (intelligent)",
@@ -809,40 +807,42 @@
       "inteligento",
       "inteligenta"
     ],
-    "explanation": "Adjectifs terminaison dans -e seulement change pour nombre, not genre.\n- inteligente (singulier) → inteligentes (pluriel)\nNo masculin/féminin distinction pour -e adjectifs.",
-    "hint": "Adjectifs terminaison dans -e seulement change pour nombre"
+    "explanation": "Les adjectifs en -e ne varient qu'en nombre, pas en genre.\n- inteligente (singulier) → inteligentes (pluriel)\nPas de distinction masculin/féminin pour les adjectifs en -e.",
+    "hint": "Les adjectifs en -e ne varient qu'en nombre"
   },
   "q_gram_a1_08_003": {
-    "question": "Es un ___ libro. (bon — shortened form)",
+    "question": "Es un ___ libro. (bon — forme abrégée)",
     "correct": "buen",
     "wrong": [
       "bueno",
       "buena",
       "buenos"
     ],
-    "explanation": "'bueno' shortens à 'buen' avant a masculin singulier nom.\n- un buen libro (avant nom)\n- El libro es bueno. (après nom, full form)\nSimilar: malo → mal, grande → gran.",
-    "hint": "Quelques adjectifs avoir a shortened form avant noms"
+    "explanation": "« bueno » devient « buen » devant un nom masculin singulier.\n- un buen libro (devant le nom)\n- El libro es bueno. (après le nom, forme complète)\nDe même : malo → mal, grande → gran.",
+    "hint": "Certains adjectifs ont une forme abrégée devant le nom"
   },
   "q_gram_a1_08_004": {
-    "question": "Quel est Le/La correct féminin forme plurielle de 'bonito'?",
+    "question": "Quelle est la bonne forme du féminin pluriel de « bonito » ?",
     "correct": "bonitas",
     "wrong": [
       "bonitos",
       "bonita",
       "bonite"
     ],
-    "explanation": "Adjectifs terminaison dans -o avoir four forms:\n- bonito (m. sg.) → bonita (f. sg.)\n- bonitos (m. pl.) → bonitas (f. pl.)"
+    "explanation": "Les adjectifs en -o ont quatre formes :\n- bonito (m. sg.) → bonita (f. sg.)\n- bonitos (m. pl.) → bonitas (f. pl.)",
+    "hint": null
   },
   "q_gram_a1_08_005": {
-    "question": "Las lecciones son ___. (easy, pluriel)",
+    "question": "Las lecciones son ___. (facile, pluriel)",
     "correct": "fáciles",
     "wrong": [
       "fácil",
       "fácila",
       "fácilas"
     ],
-    "explanation": "Adjectifs terminaison dans a consonant add -es pour Le/La pluriel, avec no genre change.\n- fácil (singulier) → fáciles (pluriel)\n- difícil → difíciles\nConsonant-terminaison adjectifs seulement vary dans nombre.",
-    "conjugation_info": "Consonant-ending adjectives: fácil/fáciles, difícil/difíciles, azul/azules"
+    "explanation": "Les adjectifs terminés par une consonne ajoutent -es au pluriel, sans changement de genre.\n- fácil (singulier) → fáciles (pluriel)\n- difícil → difíciles\nLes adjectifs terminés par une consonne ne varient qu'en nombre.",
+    "conjugation_info": "Consonant-ending adjectives: fácil/fáciles, difícil/difíciles, azul/azules",
+    "hint": null
   },
   "q_gram_a1_08_006": {
     "question": "Las casas son ___. (petit, féminin pluriel)",
@@ -852,29 +852,30 @@
       "pequeños",
       "pequeña"
     ],
-    "explanation": "'casas' est féminin pluriel, donc l'adjectif doit être féminin pluriel too.\n- la casa pequeña → las casas pequeñas\nAdjectifs terminaison dans -o change en -a/-os/-as.",
-    "hint": "L'adjectif doit match le nom dans genre Et nombre"
+    "explanation": "« casas » est un féminin pluriel, l'adjectif doit donc être lui aussi au féminin pluriel.\n- la casa pequeña → las casas pequeñas\nLes adjectifs en -o deviennent -a/-os/-as.",
+    "hint": "L'adjectif doit s'accorder avec le nom en genre ET en nombre"
   },
   "q_gram_a1_08_007": {
-    "question": "She est a great woman.",
+    "question": "C'est une grande femme.",
     "correct": "Ella es una gran mujer.",
     "wrong": [
       "Ella es una grande mujer.",
       "Ella es un gran mujer.",
       "Ella es una gran mujera."
     ],
-    "explanation": "'grande' shortens à 'gran' avant n'importe quel singulier nom (masculin ou féminin).\n- una gran mujer = a great woman\n- un gran hombre = a great man\nNote: 'gran' signifie 'great', pendant que 'grande' après nom signifie 'grand'."
+    "explanation": "« grande » devient « gran » devant tout nom singulier (masculin ou féminin).\n- una gran mujer = une grande femme (une femme remarquable)\n- un gran hombre = un grand homme\nAttention : « gran » signifie « grand » au sens de « remarquable », alors que « grande » placé après le nom signifie « de grande taille ».",
+    "hint": null
   },
   "q_gram_a1_08_008": {
-    "question": "Es una ciudad ___. (beautiful, féminin)",
+    "question": "Es una ciudad ___. (belle, féminin)",
     "correct": "bonita",
     "wrong": [
       "bonito",
       "bonitas",
       "bonitos"
     ],
-    "explanation": "La plupart adjectifs follow le nom en espagnol.\n- una ciudad bonita = a beautiful city\n'ciudad' est féminin singulier, donc 'bonita' s'accorde en genre et nombre.",
-    "hint": "En espagnol, adjectifs habituellement come après le nom"
+    "explanation": "En espagnol, la plupart des adjectifs se placent après le nom.\n- una ciudad bonita = une belle ville\n« ciudad » est un féminin singulier, donc « bonita » s'accorde en genre et en nombre.",
+    "hint": "En espagnol, l'adjectif se place généralement après le nom"
   },
   "q_gram_a1_08_009": {
     "question": "Les étudiants sont intelligents. (groupe mixte)",
@@ -884,19 +885,20 @@
       "Los estudiantes son inteligente.",
       "Los estudiantes es inteligentes."
     ],
-    "explanation": "Pour les groupes mixtes, on utilise la forme du masculin pluriel.\n- los estudiantes = les étudiants (groupe mixte ou uniquement masculin)\n- « inteligentes » ne change pas selon le genre, seulement selon le nombre.\nLe masculin pluriel est la forme par défaut pour les groupes mixtes.",
+    "explanation": "Pour un groupe mixte, on utilise le masculin pluriel.\n- los estudiantes = les étudiants (groupe mixte ou uniquement masculin)\n- « inteligentes » ne change pas selon le genre, seulement selon le nombre.\nLe masculin pluriel est la forme par défaut pour les groupes mixtes.",
     "hint": null
   },
   "q_gram_a1_08_010": {
-    "question": "Es un ___ día. (mauvais — shortened form avant masc. sg. nom)",
+    "question": "Es un ___ día. (mauvais — forme abrégée devant un nom masc. sg.)",
     "correct": "mal",
     "wrong": [
       "malo",
       "mala",
       "malos"
     ],
-    "explanation": "'malo' shortens à 'mal' avant a masculin singulier nom.\n- un mal día = a mauvais jour\n- El día es malo. (après nom, full form)\nLike bueno → buen, Ce shortening seulement happens avant masc. sg. noms.",
-    "conjugation_info": "Shortened forms before masc. sg. nouns: bueno → buen, malo → mal, grande → gran (any sg. noun)"
+    "explanation": "« malo » devient « mal » devant un nom masculin singulier.\n- un mal día = une mauvaise journée\n- El día es malo. (après le nom, forme complète)\nComme bueno → buen, cette abréviation n'a lieu que devant un nom masc. sg.",
+    "conjugation_info": "Shortened forms before masc. sg. nouns: bueno → buen, malo → mal, grande → gran (any sg. noun)",
+    "hint": null
   },
   "q_gram_a1_09_001": {
     "question": "Yo ___ español todos los días.",
@@ -2192,5 +2194,137 @@
     ],
     "explanation": "Numbers 16-19 sont compounds: dieci + unit (one mot).\n- 16 = dieciséis, 17 = diecisiete, 18 = dieciocho, 19 = diecinueve\nCes étaient originally 'diez y seis' etc. mais sont maintenant written as one mot.",
     "conjugation_info": "16-19: dieciséis, diecisiete, dieciocho, diecinueve (all one word)"
+  },
+  "q_gram_a1_01_011": {
+    "question": "___ mesa es grande.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'mesa' se termine par -a, c'est donc un nom féminin singulier : la mesa.\n- la mesa (féminin singulier)\n- el libro (masculin singulier)",
+    "hint": "mesa se termine par -a"
+  },
+  "q_gram_a1_01_012": {
+    "question": "___ gatos son grandes.",
+    "correct": "Los",
+    "wrong": [
+      "El",
+      "La",
+      "Las"
+    ],
+    "explanation": "'gatos' est le pluriel de 'gato' (masculin, -o), donc l'article est 'los'.\n- el gato → los gatos",
+    "hint": "gato se termine par -o, et il y en a plusieurs"
+  },
+  "q_gram_a1_01_013": {
+    "question": "___ casas son grandes.",
+    "correct": "Las",
+    "wrong": [
+      "El",
+      "La",
+      "Los"
+    ],
+    "explanation": "'casas' est le pluriel de 'casa' (féminin, -a), donc l'article est 'las'.\n- la casa → las casas",
+    "hint": "casa se termine par -a, et il y en a plusieurs"
+  },
+  "q_gram_a1_01_014": {
+    "question": "___ niño es inteligente.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'niño' se termine par -o, c'est donc un nom masculin singulier : el niño.\n- el niño (garçon) · la niña (fille)",
+    "hint": "niño se termine par -o"
+  },
+  "q_gram_a1_01_015": {
+    "question": "___ ventana es grande.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'ventana' se termine par -a, c'est donc un nom féminin singulier : la ventana.",
+    "hint": "ventana se termine par -a"
+  },
+  "q_gram_a1_01_016": {
+    "question": "___ perros son inteligentes.",
+    "correct": "Los",
+    "wrong": [
+      "El",
+      "La",
+      "Las"
+    ],
+    "explanation": "'perros' est le pluriel de 'perro' (masculin, -o), donc l'article est 'los'.\n- el perro → los perros",
+    "hint": "perro se termine par -o, et il y en a plusieurs"
+  },
+  "q_gram_a1_01_017": {
+    "question": "___ chicas son interesantes.",
+    "correct": "Las",
+    "wrong": [
+      "El",
+      "La",
+      "Los"
+    ],
+    "explanation": "'chicas' est le pluriel de 'chica' (féminin, -a), donc l'article est 'las'.\n- la chica → las chicas",
+    "hint": "chica se termine par -a, et il y en a plusieurs"
+  },
+  "q_gram_a1_01_018": {
+    "question": "La table est grande.",
+    "correct": "La mesa es grande.",
+    "wrong": [
+      "El mesa es grande.",
+      "Las mesa es grande.",
+      "La mesas es grande."
+    ],
+    "explanation": "'mesa' est un nom féminin singulier, il se construit donc avec 'la'.\n'grand' = 'grande', qui est identique au masculin et au féminin.",
+    "hint": null
+  },
+  "q_gram_a1_01_019": {
+    "question": "Les livres sont intéressants.",
+    "correct": "Los libros son interesantes.",
+    "wrong": [
+      "Las libros son interesantes.",
+      "El libros son interesantes.",
+      "Los libro son interesantes."
+    ],
+    "explanation": "'libros' est un nom masculin pluriel, il se construit donc avec 'los'.\nLe nom et l'article marquent tous deux le pluriel : los libros.",
+    "hint": null
+  },
+  "q_gram_a1_01_020": {
+    "question": "___ canción es alegre.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'canción' se termine par -ción, et les noms en -ción sont féminins : la canción.\n- la canción · la nación · la estación",
+    "hint": "Regardez la terminaison -ción"
+  },
+  "q_gram_a1_01_021": {
+    "question": "___ color es verde.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'color' se termine par -or, et les noms en -or sont généralement masculins : el color.\n- el color · el amor · el profesor",
+    "hint": "Regardez la terminaison -or"
+  },
+  "q_gram_a1_01_022": {
+    "question": "___ viaje es increíble.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'viaje' se termine par -aje, et les noms en -aje sont masculins : el viaje.\n- el viaje · el paisaje · el mensaje",
+    "hint": "Regardez la terminaison -aje"
   }
 }

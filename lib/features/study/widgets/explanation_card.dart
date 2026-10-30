@@ -32,6 +32,7 @@ class ExplanationCard extends StatelessWidget {
           Expanded(
             child: MarkdownBody(
               data: fixMarkdownBold(explanation),
+              inlineSyntaxes: markdownInlineSyntaxes,
               styleSheet: MarkdownStyleSheet.fromTheme(theme).copyWith(
                 p: theme.textTheme.bodyMedium,
               ),

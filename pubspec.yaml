@@ -1,7 +1,7 @@
 name: easy_spanish_grammar_and_words
 description: "DELE Spanish Grammar & Vocabulary Learning App"
 publish_to: 'none'
-version: 1.5.0+15
+version: 1.5.1+16
 
 environment:
   sdk: ^3.10.0
@@ -39,6 +39,7 @@ dependencies:
 
   # Markdown Rendering
   flutter_markdown: ^0.7.6+2
+  markdown: ^7.3.0  # BoldSyntax (lib/core/markdown_utils.dart)
 
   # WebView
   webview_flutter: ^4.13.0

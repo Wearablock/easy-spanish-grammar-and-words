@@ -111,8 +111,10 @@ class QuestionRepository {
     }
 
     try {
+      // the app calls Simplified Chinese 'zh-Hans'; its question folder is 'zh' (1.5.1)
+      final dir = locale == 'zh-Hans' ? 'zh' : locale;
       final jsonString = await ContentStore.load(
-        'assets/data/questions/$locale/$levelId.json',
+        'assets/data/questions/$dir/$levelId.json',
       );
       final jsonData = json.decode(jsonString) as Map<String, dynamic>;
 

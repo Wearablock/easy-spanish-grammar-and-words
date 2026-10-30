@@ -254,16 +254,11 @@ class StudySessionController extends StateNotifier<StudySessionState> {
     );
   }
 
-  /// providers 무효화
+  /// providers 무효화 — 목록은 study_providers.dart learningProgressProviders 한 곳
   void _invalidateProgressProviders() {
-    _ref.invalidate(appStatsProvider);
-    _ref.invalidate(levelDistributionProvider);
-    _ref.invalidate(wrongAnswersWithQuestionsProvider);
-    // 10-29 — 진도 탭이 읽는 넷이 빠져 있어서 한 판을 끝내도 «공부 0 · 0% · 0일» 이 남았다
-    _ref.invalidate(overallSummaryProvider);
-    _ref.invalidate(todaySummaryProvider);
-    _ref.invalidate(overallProgressProvider);
-    _ref.invalidate(levelProgressProvider);
+    for (final p in learningProgressProviders) {
+      _ref.invalidate(p);
+    }
   }
 
   /// 세션 중단

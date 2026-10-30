@@ -11,7 +11,7 @@
     "hint": "libro termina en -o, lo que normalmente indica género masculino"
   },
   "q_gram_a1_01_002": {
-    "question": "___ mano es pequeña.",
+    "question": "___ mano es grande.",
     "correct": "La",
     "wrong": [
       "El",
@@ -33,7 +33,7 @@
     "hint": null
   },
   "q_gram_a1_01_004": {
-    "question": "___ ciudad es grande. (usa el artículo correcto para el sustantivo femenino)",
+    "question": "___ ciudad es grande.",
     "correct": "La",
     "wrong": [
       "El",
@@ -41,7 +41,6 @@
       "Las"
     ],
     "explanation": "'ciudad' termina en -dad, que es una terminación femenina.\nLos sustantivos que terminan en -ción, -sión, -dad y -tad suelen ser femeninos.",
-    "conjugation_info": "Feminine endings: -a, -ción, -sión, -dad, -tad, -tud",
     "hint": null
   },
   "q_gram_a1_01_005": {
@@ -56,7 +55,7 @@
     "hint": "Las palabras de origen griego terminadas en -ma son masculinas"
   },
   "q_gram_a1_01_006": {
-    "question": "___ televisión es nueva. (elige el artículo correcto)",
+    "question": "___ televisión es grande.",
     "correct": "La",
     "wrong": [
       "El",
@@ -64,7 +63,6 @@
       "Las"
     ],
     "explanation": "'televisión' termina en -sión, por lo que es femenina.\nTodos los sustantivos que terminan en -ción y -sión son femeninos en español.",
-    "conjugation_info": "Feminine endings: -ción (nación), -sión (televisión), -dad (ciudad)",
     "hint": null
   },
   "q_gram_a1_01_007": {
@@ -90,7 +88,7 @@
     "hint": null
   },
   "q_gram_a1_01_009": {
-    "question": "___ fotos son de mi familia. (elige el artículo correcto para el sustantivo femenino plural)",
+    "question": "___ fotos son de mi familia.",
     "correct": "Las",
     "wrong": [
       "Los",
@@ -98,7 +96,6 @@
       "El"
     ],
     "explanation": "'foto' es la forma abreviada de 'fotografía', que es femenina.\n- la foto → las fotos\nLas abreviaturas conservan el género de la palabra completa.",
-    "conjugation_info": "la foto (fotografía), la moto (motocicleta), la radio (radiodifusión)",
     "hint": null
   },
   "q_gram_a1_01_010": {
@@ -791,37 +788,38 @@
     "hint": null
   },
   "q_gram_a1_08_001": {
-    "question": "La chica es ___. (tall, femenino form)",
+    "question": "La chica es ___. (alto, forma femenina)",
     "correct": "alta",
     "wrong": [
       "alto",
       "altos",
       "altas"
     ],
-    "explanation": "Adjetivos que termina en -o cambiar a -a para femenino sustantivos.\n- el chico alto → la chica alta\nEl adjetivo debe concuerdan con el sustantivo en género.",
-    "conjugation_info": "alto/alta/altos/altas — 4 forms for adjectives que termina en -o"
+    "explanation": "Los adjetivos que terminan en -o cambian a -a cuando acompañan a sustantivos femeninos.\n- el chico alto → la chica alta\nEl adjetivo debe concordar con el sustantivo en género.",
+    "conjugation_info": "alto/alta/altos/altas — 4 forms for adjectives que termina en -o",
+    "hint": null
   },
   "q_gram_a1_08_002": {
-    "question": "Los chicos son ___. (intelligent)",
+    "question": "Los chicos son ___. (inteligente)",
     "correct": "inteligentes",
     "wrong": [
       "inteligente",
       "inteligento",
       "inteligenta"
     ],
-    "explanation": "Adjetivos que termina en -e solo change para número, not género.\n- inteligente (singular) → inteligentes (plural)\nno masculino/femenino distinction para -e adjetivos.",
-    "hint": "Adjetivos que termina en -e solo change para número"
+    "explanation": "Los adjetivos que terminan en -e solo cambian en número, no en género.\n- inteligente (singular) → inteligentes (plural)\nLos adjetivos terminados en -e no distinguen entre masculino y femenino.",
+    "hint": "Los adjetivos terminados en -e solo cambian en número"
   },
   "q_gram_a1_08_003": {
-    "question": "Es un ___ libro. (good — shortened form)",
+    "question": "Es un ___ libro. (bueno, forma apocopada)",
     "correct": "buen",
     "wrong": [
       "bueno",
       "buena",
       "buenos"
     ],
-    "explanation": "'bueno' shortens a 'buen' antes de a singular masculino noun.\n- un buen libro (antes de noun)\n- El libro es bueno. (después de noun, full form)\nSimilar: malo → mal, grande → gran.",
-    "hint": "Algunos adjetivos tener a shortened form antes de sustantivos"
+    "explanation": "'bueno' se apocopa en 'buen' delante de un sustantivo masculino singular.\n- un buen libro (antes del sustantivo)\n- El libro es bueno. (después del sustantivo, forma completa)\nSimilares: malo → mal, grande → gran.",
+    "hint": "Algunos adjetivos tienen una forma apocopada delante del sustantivo"
   },
   "q_gram_a1_08_004": {
     "question": "¿Cuál es la forma correcta del femenino plural de 'bonito'?",
@@ -835,69 +833,72 @@
     "hint": null
   },
   "q_gram_a1_08_005": {
-    "question": "Las lecciones son ___. (easy, plural)",
+    "question": "Las lecciones son ___. (fácil, plural)",
     "correct": "fáciles",
     "wrong": [
       "fácil",
       "fácila",
       "fácilas"
     ],
-    "explanation": "Adjetivos que termina en a consonant add -es para el plural, with no género change.\n- fácil (singular) → fáciles (plural)\n- difícil → difíciles\nConsonant-terminación adjetivos solo vary en número.",
-    "conjugation_info": "Consonant-ending adjectives: fácil/fáciles, difícil/difíciles, azul/azules"
+    "explanation": "Los adjetivos que terminan en consonante añaden -es en plural y no cambian de género.\n- fácil (singular) → fáciles (plural)\n- difícil → difíciles\nLos adjetivos terminados en consonante solo varían en número.",
+    "conjugation_info": "Consonant-ending adjectives: fácil/fáciles, difícil/difíciles, azul/azules",
+    "hint": null
   },
   "q_gram_a1_08_006": {
-    "question": "Las casas son ___. (small, plural femenino)",
+    "question": "Las casas son ___. (pequeño, femenino plural)",
     "correct": "pequeñas",
     "wrong": [
       "pequeño",
       "pequeños",
       "pequeña"
     ],
-    "explanation": "'casas' es plural femenino, así el adjetivo debe ser plural femenino too.\n- la casa pequeña → las casas pequeñas\nAdjetivos que termina en -o cambiar a -a/-os/-as.",
-    "hint": "El adjetivo debe match el sustantivo en género Y número"
+    "explanation": "'casas' es femenino plural, así que el adjetivo también debe ir en femenino plural.\n- la casa pequeña → las casas pequeñas\nLos adjetivos terminados en -o cambian a -a/-os/-as.",
+    "hint": "El adjetivo debe concordar con el sustantivo en género Y número"
   },
   "q_gram_a1_08_007": {
-    "question": "She is a great woman.",
+    "question": "Ella es una mujer admirable.",
     "correct": "Ella es una gran mujer.",
     "wrong": [
       "Ella es una grande mujer.",
       "Ella es un gran mujer.",
       "Ella es una gran mujera."
     ],
-    "explanation": "'grande' shortens a 'gran' antes de cualquier singular noun (masculino o femenino).\n- una gran mujer = a great woman\n- un gran hombre = a great man\nnote: 'gran' significa 'great', mientras 'grande' después de noun significa 'grande'."
+    "explanation": "'grande' se apocopa en 'gran' delante de cualquier sustantivo singular (masculino o femenino).\n- una gran mujer = una mujer admirable\n- un gran hombre = un hombre admirable\nNota: 'gran' antes del sustantivo significa 'admirable, notable', mientras que 'grande' después del sustantivo significa 'de tamaño grande'.",
+    "hint": null
   },
   "q_gram_a1_08_008": {
-    "question": "Es una ciudad ___. (beautiful, femenino)",
+    "question": "Es una ciudad ___. (hermosa, femenino)",
     "correct": "bonita",
     "wrong": [
       "bonito",
       "bonitas",
       "bonitos"
     ],
-    "explanation": "La mayoría adjetivos follow el sustantivo en español.\n- una ciudad bonita = a beautiful city\n'ciudad' es singular femenino, así 'bonita' concuerda en género y número.",
-    "hint": "En español, adjetivos normalmente venir después de el sustantivo"
+    "explanation": "En español, la mayoría de los adjetivos van después del sustantivo.\n- una ciudad bonita = una ciudad hermosa\n'ciudad' es femenino singular, así que 'bonita' concuerda en género y número.",
+    "hint": "En español, los adjetivos suelen ir después del sustantivo"
   },
   "q_gram_a1_08_009": {
-    "question": "Los estudiantes son inteligentes. (grupo mixto)",
+    "question": "Los alumnos son listos. (grupo mixto)",
     "correct": "Los estudiantes son inteligentes.",
     "wrong": [
       "Las estudiantes son inteligentes.",
       "Los estudiantes son inteligente.",
       "Los estudiantes es inteligentes."
     ],
-    "explanation": "En los grupos de género mixto se usa el plural masculino.\n- los estudiantes = grupo mixto o solo de chicos\n- 'inteligentes' no cambia según el género, solo según el número.\nEl plural masculino es la forma por defecto en los grupos mixtos.",
+    "explanation": "Para grupos de género mixto se usa el masculino plural.\n- los estudiantes = grupo mixto o solo de chicos\n- 'inteligentes' no cambia según el género, solo según el número.\nEl masculino plural es la forma por defecto en los grupos mixtos.",
     "hint": null
   },
   "q_gram_a1_08_010": {
-    "question": "Es un ___ día. (bad — shortened form before masc. sg. noun)",
+    "question": "Es un ___ día. (malo, forma apocopada delante de sustantivo masc. sing.)",
     "correct": "mal",
     "wrong": [
       "malo",
       "mala",
       "malos"
     ],
-    "explanation": "'malo' shortens a 'mal' antes de a singular masculino noun.\n- un mal día = a malo día\n- El día es malo. (después de noun, full form)\nComo bueno → buen, esto shortening solo happens antes de masc. sg. sustantivos.",
-    "conjugation_info": "Shortened forms before masc. sg. nouns: bueno → buen, malo → mal, grande → gran (any sg. noun)"
+    "explanation": "'malo' se apocopa en 'mal' delante de un sustantivo masculino singular.\n- un mal día\n- El día es malo. (después del sustantivo, forma completa)\nIgual que bueno → buen, esta apócope solo ocurre delante de sustantivos masc. sing.",
+    "conjugation_info": "Shortened forms before masc. sg. nouns: bueno → buen, malo → mal, grande → gran (any sg. noun)",
+    "hint": null
   },
   "q_gram_a1_09_001": {
     "question": "Yo ___ español todos los días.",
@@ -2205,5 +2206,137 @@
     "explanation": "Los números del 16 al 19 son compuestos: dieci + unidad (una sola palabra).\n- 16 = dieciséis, 17 = diecisiete, 18 = dieciocho, 19 = diecinueve\nOriginalmente eran 'diez y seis', etc., pero hoy se escriben en una sola palabra.",
     "conjugation_info": "16-19: dieciséis, diecisiete, dieciocho, diecinueve (all one word)",
     "hint": null
+  },
+  "q_gram_a1_01_011": {
+    "question": "___ mesa es grande.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'mesa' termina en -a, así que es femenino singular: la mesa.\n- la mesa (femenino singular)\n- el libro (masculino singular)",
+    "hint": "mesa termina en -a"
+  },
+  "q_gram_a1_01_012": {
+    "question": "___ gatos son grandes.",
+    "correct": "Los",
+    "wrong": [
+      "El",
+      "La",
+      "Las"
+    ],
+    "explanation": "'gatos' es el plural de 'gato' (masculino, -o), así que el artículo es 'los'.\n- el gato → los gatos",
+    "hint": "gato termina en -o, y hay más de uno"
+  },
+  "q_gram_a1_01_013": {
+    "question": "___ casas son grandes.",
+    "correct": "Las",
+    "wrong": [
+      "El",
+      "La",
+      "Los"
+    ],
+    "explanation": "'casas' es el plural de 'casa' (femenino, -a), así que el artículo es 'las'.\n- la casa → las casas",
+    "hint": "casa termina en -a, y hay más de una"
+  },
+  "q_gram_a1_01_014": {
+    "question": "___ niño es inteligente.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'niño' termina en -o, así que es masculino singular: el niño.\n- el niño (chico) · la niña (chica)",
+    "hint": "niño termina en -o"
+  },
+  "q_gram_a1_01_015": {
+    "question": "___ ventana es grande.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'ventana' termina en -a, así que es femenino singular: la ventana.",
+    "hint": "ventana termina en -a"
+  },
+  "q_gram_a1_01_016": {
+    "question": "___ perros son inteligentes.",
+    "correct": "Los",
+    "wrong": [
+      "El",
+      "La",
+      "Las"
+    ],
+    "explanation": "'perros' es el plural de 'perro' (masculino, -o), así que el artículo es 'los'.\n- el perro → los perros",
+    "hint": "perro termina en -o, y hay más de uno"
+  },
+  "q_gram_a1_01_017": {
+    "question": "___ chicas son interesantes.",
+    "correct": "Las",
+    "wrong": [
+      "El",
+      "La",
+      "Los"
+    ],
+    "explanation": "'chicas' es el plural de 'chica' (femenino, -a), así que el artículo es 'las'.\n- la chica → las chicas",
+    "hint": "chica termina en -a, y hay más de una"
+  },
+  "q_gram_a1_01_018": {
+    "question": "La mesa es grande.",
+    "correct": "La mesa es grande.",
+    "wrong": [
+      "El mesa es grande.",
+      "Las mesa es grande.",
+      "La mesas es grande."
+    ],
+    "explanation": "'mesa' es femenino singular, por eso lleva 'la'.\n'big' = 'grande', que es igual para el masculino y el femenino.",
+    "hint": null
+  },
+  "q_gram_a1_01_019": {
+    "question": "Los libros son interesantes.",
+    "correct": "Los libros son interesantes.",
+    "wrong": [
+      "Las libros son interesantes.",
+      "El libros son interesantes.",
+      "Los libro son interesantes."
+    ],
+    "explanation": "'libros' es masculino plural, por eso lleva 'los'.\nTanto el sustantivo como el artículo marcan el plural: los libros.",
+    "hint": null
+  },
+  "q_gram_a1_01_020": {
+    "question": "___ canción es alegre.",
+    "correct": "La",
+    "wrong": [
+      "El",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'canción' termina en -ción, y los sustantivos que terminan en -ción son femeninos: la canción.\n- la canción · la nación · la estación",
+    "hint": "Fíjate en la terminación -ción"
+  },
+  "q_gram_a1_01_021": {
+    "question": "___ color es verde.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'color' termina en -or, y los sustantivos que terminan en -or suelen ser masculinos: el color.\n- el color · el amor · el profesor",
+    "hint": "Fíjate en la terminación -or"
+  },
+  "q_gram_a1_01_022": {
+    "question": "___ viaje es increíble.",
+    "correct": "El",
+    "wrong": [
+      "La",
+      "Los",
+      "Las"
+    ],
+    "explanation": "'viaje' termina en -aje, y los sustantivos que terminan en -aje son masculinos: el viaje.\n- el viaje · el paisaje · el mensaje",
+    "hint": "Fíjate en la terminación -aje"
   }
 }

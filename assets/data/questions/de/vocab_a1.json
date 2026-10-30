@@ -679,7 +679,7 @@
       "Fuß",
       "Arm"
     ],
-    "explanation": "'Cabeza' bedeutet 'Kopf'. 'Me duele la cabeza' bedeutet 'Mein Kopf tut weh' (ich habe Kopfschmerzen).",
+    "explanation": "'Cabeza' bedeutet 'Kopf'. 'Me duele la cabeza' heißt 'Mein Kopf tut weh' (Ich habe Kopfschmerzen).",
     "hint": null
   },
   "q_vocab_a1_07_002": {
@@ -690,18 +690,18 @@
       "Arm",
       "Finger"
     ],
-    "explanation": "'Mano' bedeutet 'Hand'. Achtung: Obwohl es auf -o endet, ist 'mano' feminin (la mano).",
+    "explanation": "'Mano' bedeutet 'Hand'. Beachte: Obwohl es auf -o endet, ist 'mano' weiblich (la mano).",
     "hint": null
   },
   "q_vocab_a1_07_003": {
-    "question": "No puedo caminar, me duele el ___.",
+    "question": "no puedo caminar, me duele el ___.",
     "correct": "pie",
     "wrong": [
       "ojo",
-      "dedo",
+      "brazo",
       "diente"
     ],
-    "explanation": "'Pie' bedeutet 'Fuß'. Der Satz heißt: 'Ich kann nicht gehen, mir tut der Fuß weh'.",
+    "explanation": "'Pie' bedeutet 'Fuß'. Der Satz lautet: 'Ich kann nicht gehen, mein Fuß tut weh'.",
     "hint": null
   },
   "q_vocab_a1_07_004": {
@@ -734,7 +734,7 @@
       "Me lavo el pelo cada mañana.",
       "Me lavo los ojos cada mañana."
     ],
-    "explanation": "'Dientes' bedeutet 'Zähne' (Singular: 'diente'). Im Spanischen sagt man 'lavarse los dientes' (die Zähne waschen) und nicht 'putzen'.",
+    "explanation": "'Dientes' bedeutet 'Zähne' (Singular: 'diente'). Spanischsprachige sagen oft 'lavarse los dientes' (wörtlich 'die Zähne waschen'); 'cepillarse los dientes' (bürsten) ist ebenfalls richtig.",
     "hint": null
   },
   "q_vocab_a1_07_007": {
@@ -745,18 +745,19 @@
       "Hand",
       "Ohr"
     ],
-    "explanation": "'Boca' bedeutet 'Mund'. 'Abre la boca' heißt 'Mach den Mund auf' und ist beim Zahnarzt oft zu hören.",
+    "explanation": "'Boca' bedeutet 'Mund'. 'Abre la boca' heißt 'Mach den Mund auf', das hört man häufig beim Zahnarzt.",
     "hint": null
   },
   "q_vocab_a1_07_008": {
     "question": "Tengo el pelo largo y los ojos marrones.",
-    "correct": "I have long hair and brown eyes.",
+    "correct": "Ich habe lange Haare und braune Augen.",
     "wrong": [
-      "I have short hair and blue eyes.",
-      "I have long arms and brown eyes.",
-      "I have long hair and green eyes."
+      "Ich habe kurze Haare und blaue Augen.",
+      "Ich habe lange Arme und braune Augen.",
+      "Ich habe lange Haare und grüne Augen."
     ],
-    "explanation": "'Pelo' bedeutet 'hair', 'largo' bedeutet 'long', und 'ojos marrones' bedeutet 'brown eyes'."
+    "explanation": "'Pelo' bedeutet 'Haar', 'largo' bedeutet 'lang' und 'ojos marrones' bedeutet 'braune Augen'.",
+    "hint": null
   },
   "q_vocab_a1_07_009": {
     "question": "Du bist in der Arztpraxis und musst sagen, wo es wehtut. Wie sagst du 'Mein Bauch tut weh'?",
@@ -766,20 +767,21 @@
       "Me duele la espalda.",
       "Me duele el brazo."
     ],
-    "explanation": "'Estómago' bedeutet 'Magen'. 'Me duele' verwendet man für einzelne Körperteile (Singular), die wehtun.",
+    "explanation": "'Estómago' bedeutet 'Magen/Bauch'. 'Me duele' verwendet man für einzelne Körperteile, die wehtun.",
     "context": "Visiting the doctor with stomach pain",
     "hint": null
   },
   "q_vocab_a1_07_010": {
-    "question": "Du sind describing a friend's appearance. Wie do du say 'She hat big ears und a small nose'?",
+    "question": "Du beschreibst das Aussehen einer Freundin. Wie sagst du 'Sie hat große Ohren und eine kleine Nase'?",
     "correct": "Tiene las orejas grandes y la nariz pequeña.",
     "wrong": [
       "Tiene los ojos grandes y la boca pequeña.",
       "Tiene las orejas pequeñas y la nariz grande.",
       "Tiene las manos grandes y los pies pequeños."
     ],
-    "explanation": "'Orejas' bedeutet 'ears' und 'nariz' bedeutet 'nose'. Auf Spanisch, we use 'tener' (zu haben) um zu beschreiben physical features.",
-    "context": "Describing a friend's physical features"
+    "explanation": "'Orejas' bedeutet 'Ohren' und 'nariz' bedeutet 'Nase'. Auf Spanisch verwendet man 'tener' (haben), um körperliche Merkmale zu beschreiben.",
+    "context": "Describing a friend's physical features",
+    "hint": null
   },
   "q_vocab_a1_08_001": {
     "question": "Was bedeutet 'zapatos'?",

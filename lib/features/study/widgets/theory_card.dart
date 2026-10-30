@@ -79,6 +79,7 @@ class TheoryCard extends ConsumerWidget {
           if (topic.theory.isNotEmpty)
             MarkdownBody(
               data: fixMarkdownBold(topic.theory),
+              inlineSyntaxes: markdownInlineSyntaxes,
               styleSheet: MarkdownStyleSheet.fromTheme(theme).copyWith(
                 p: theme.textTheme.bodyLarge?.copyWith(height: 1.6),
               ),

@@ -1,5 +1,3 @@
-import 'dart:ui' show PlatformDispatcher;
-
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
@@ -45,14 +43,7 @@ class _MainShellState extends ConsumerState<MainShell>
     final saved = await dao.getLocale(); // 'system', 'ko', 'en', ...
     final option = LanguageOption.fromValue(saved);
 
-    final String contentLocale;
-    if (option.localeCode != null) {
-      contentLocale = option.localeCode!;
-    } else {
-      // system: 기기 언어 기반 결정
-      final deviceLang = PlatformDispatcher.instance.locale.languageCode;
-      contentLocale = deviceLang == 'ko' ? 'ko' : 'en';
-    }
+    final contentLocale = option.contentLocale;
 
     ref.read(currentLocaleProvider.notifier).state = contentLocale;
   }

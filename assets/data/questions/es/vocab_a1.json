@@ -672,94 +672,102 @@
     "hint": null
   },
   "q_vocab_a1_07_001": {
-    "question": "¿Qué significa 'cabeza' ?",
-    "correct": "head",
+    "question": "¿Qué significa 'cabeza'?",
+    "correct": "la parte superior del cuerpo",
     "wrong": [
-      "hand",
-      "foot",
-      "arm"
+      "la parte del cuerpo con cinco dedos",
+      "la parte del cuerpo que usamos para caminar",
+      "la parte entre el hombro y la mano"
     ],
-    "explanation": "'Cabeza' significa 'head'. 'Me duele la cabeza' significa 'My head hurts' (I tener a headache)."
+    "explanation": "'Cabeza' es la parte superior del cuerpo, donde están los ojos, la nariz y la boca. 'Me duele la cabeza' se dice cuando se tiene dolor de cabeza.",
+    "hint": null
   },
   "q_vocab_a1_07_002": {
-    "question": "¿Qué significa 'mano' ?",
-    "correct": "hand",
+    "question": "¿Qué significa 'mano'?",
+    "correct": "la parte del cuerpo con cinco dedos",
     "wrong": [
-      "foot",
-      "arm",
-      "finger"
+      "la parte del cuerpo que usamos para caminar",
+      "la parte entre el hombro y la mano",
+      "cada una de las partes alargadas de la mano"
     ],
-    "explanation": "'Mano' significa 'hand'. note: a pesar de terminar en -o, 'mano' es femenino (la mano)."
+    "explanation": "'Mano' es la parte del cuerpo con cinco dedos, al final del brazo. Nota: aunque termina en -o, 'mano' es femenino (la mano).",
+    "hint": null
   },
   "q_vocab_a1_07_003": {
     "question": "no puedo caminar, me duele el ___.",
     "correct": "pie",
     "wrong": [
       "ojo",
-      "dedo",
+      "brazo",
       "diente"
     ],
-    "explanation": "'Pie' significa 'foot'. El/la sentence dice 'I no puede walk, my foot hurts'."
+    "explanation": "'Pie' es la parte del cuerpo que usamos para caminar. La frase dice que no puedes caminar porque te duele el pie.",
+    "hint": null
   },
   "q_vocab_a1_07_004": {
-    "question": "¿Qué significa 'ojo' ?",
-    "correct": "eye",
+    "question": "¿Qué significa 'ojo'?",
+    "correct": "el órgano con el que vemos",
     "wrong": [
-      "ear",
-      "nose",
-      "mouth"
+      "el órgano con el que oímos",
+      "el órgano con el que olemos",
+      "la parte de la cara con la que comemos y hablamos"
     ],
-    "explanation": "'Ojo' significa 'eye'. El plural es 'ojos'. 'Tiene los ojos azules' = 'He/She tiene blue esí'."
+    "explanation": "'Ojo' es el órgano de la vista. El plural es 'ojos'. 'Tiene los ojos azules' describe el color de los ojos de una persona.",
+    "hint": null
   },
   "q_vocab_a1_07_005": {
     "question": "¿Qué significa 'espalda' en 'Me duele la espalda'?",
-    "correct": "back",
+    "correct": "la parte posterior del tronco",
     "wrong": [
-      "stomach",
-      "chest",
-      "neck"
+      "la parte del cuerpo donde se digiere la comida",
+      "la parte delantera del tronco, donde están los pulmones",
+      "la parte que une la cabeza con el tronco"
     ],
-    "explanation": "'Espalda' significa 'back' (body part). El/la sentence significa 'My back hurts'."
+    "explanation": "'Espalda' es la parte posterior del tronco. La frase significa que sientes dolor en esa zona del cuerpo.",
+    "hint": null
   },
   "q_vocab_a1_07_006": {
-    "question": "I brush my teeth every morning.",
+    "question": "Me cepillo los dientes cada mañana.",
     "correct": "Me lavo los dientes cada mañana.",
     "wrong": [
       "Me lavo las manos cada mañana.",
       "Me lavo el pelo cada mañana.",
       "Me lavo los ojos cada mañana."
     ],
-    "explanation": "'Dientes' significa 'teeth' (singular: 'diente'). En español, we decir 'lavarse los dientes' (wash el/la teeth) rather than 'brush'."
+    "explanation": "'Dientes' es el plural de 'diente'. Los hispanohablantes dicen a menudo 'lavarse los dientes'; 'cepillarse los dientes' también es correcto.",
+    "hint": null
   },
   "q_vocab_a1_07_007": {
     "question": "¿Qué significa 'boca' en 'Abre la boca'?",
-    "correct": "mouth",
+    "correct": "la parte de la cara con la que comemos y hablamos",
     "wrong": [
-      "eye",
-      "hand",
-      "ear"
+      "el órgano con el que vemos",
+      "la parte del cuerpo con cinco dedos",
+      "el órgano con el que oímos"
     ],
-    "explanation": "'Boca' significa 'mouth'. 'Abre la boca' significa 'Open tu mouth', comúnmente heard en el/la dentist."
+    "explanation": "'Boca' es la parte de la cara con la que comemos y hablamos. 'Abre la boca' es una frase que se oye con frecuencia en el dentista.",
+    "hint": null
   },
   "q_vocab_a1_07_008": {
     "question": "Tengo el pelo largo y los ojos marrones.",
-    "correct": "I have long hair and brown eyes.",
+    "correct": "Mi cabello es largo y mis ojos son de color café.",
     "wrong": [
-      "I have short hair and blue eyes.",
-      "I have long arms and brown eyes.",
-      "I have long hair and green eyes."
+      "Mi cabello es corto y mis ojos son azules.",
+      "Tengo los brazos largos y los ojos de color café.",
+      "Mi cabello es largo y mis ojos son verdes."
     ],
-    "explanation": "'Pelo' significa 'hair', 'largo' significa 'long', y 'ojos marrones' significa 'brown esí'."
+    "explanation": "'Pelo' es el cabello, 'largo' indica que mide mucho y 'ojos marrones' son los ojos de color café.",
+    "hint": null
   },
   "q_vocab_a1_07_009": {
-    "question": "Estás en la consulta del médico y tienes que decir dónde te duele. ¿Cómo dices que te duele el estómago?",
+    "question": "Estás en el consultorio del médico y necesitas decir dónde te duele. ¿Cómo dices que te duele el vientre?",
     "correct": "Me duele el estómago.",
     "wrong": [
       "Me duele la cabeza.",
       "Me duele la espalda.",
       "Me duele el brazo."
     ],
-    "explanation": "'Estómago' es el órgano donde se digiere la comida. 'Me duele' se usa cuando duele una parte del cuerpo en singular.",
+    "explanation": "'Estómago' es el órgano de la digestión, en el vientre. 'Me duele' se usa con partes del cuerpo en singular que duelen.",
     "context": "Visiting the doctor with stomach pain",
     "hint": null
   },
@@ -771,7 +779,7 @@
       "Tiene las orejas pequeñas y la nariz grande.",
       "Tiene las manos grandes y los pies pequeños."
     ],
-    "explanation": "'Orejas' son las partes del cuerpo con las que oímos y 'nariz' es la parte de la cara con la que olemos. En español usamos el verbo 'tener' para describir rasgos físicos.",
+    "explanation": "'Orejas' son las partes externas del oído y 'nariz' es el órgano del olfato. En español usamos 'tener' para describir rasgos físicos.",
     "context": "Describing a friend's physical features",
     "hint": null
   },

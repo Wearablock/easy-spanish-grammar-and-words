@@ -679,7 +679,8 @@
       "pé",
       "braço"
     ],
-    "explanation": "'Cabeza' significa 'cabeça'. 'Me duele la cabeza' significa 'Minha cabeça dói' (tenho dor de cabeça)."
+    "explanation": "'Cabeza' significa 'cabeça'. 'Me duele la cabeza' significa 'Minha cabeça dói' (estou com dor de cabeça).",
+    "hint": null
   },
   "q_vocab_a1_07_002": {
     "question": "O que significa 'mano'?",
@@ -689,27 +690,30 @@
       "braço",
       "dedo"
     ],
-    "explanation": "'Mano' significa 'mão'. Nota: apesar de terminar em -o, 'mano' é feminino (la mano)."
+    "explanation": "'Mano' significa 'mão'. Atenção: apesar de terminar em -o, 'mano' é feminino (la mano).",
+    "hint": null
   },
   "q_vocab_a1_07_003": {
-    "question": "No puedo caminar, me duele el ___.",
+    "question": "no puedo caminar, me duele el ___.",
     "correct": "pie",
     "wrong": [
       "ojo",
-      "dedo",
+      "brazo",
       "diente"
     ],
-    "explanation": "'Pie' significa 'pé'. A frase diz 'Não posso caminhar, meu pé dói'."
+    "explanation": "'Pie' significa 'pé'. A frase diz 'Não consigo andar, meu pé dói'.",
+    "hint": null
   },
   "q_vocab_a1_07_004": {
     "question": "O que significa 'ojo'?",
     "correct": "olho",
     "wrong": [
-      "ouvido",
+      "orelha",
       "nariz",
       "boca"
     ],
-    "explanation": "'Ojo' significa 'olho'. O plural é 'ojos'. 'Tiene los ojos azules' = 'Ele/Ela tem olhos azuis'."
+    "explanation": "'Ojo' significa 'olho'. O plural é 'ojos'. 'Tiene los ojos azules' = 'Ele/Ela tem olhos azuis'.",
+    "hint": null
   },
   "q_vocab_a1_07_005": {
     "question": "O que significa 'espalda' em 'Me duele la espalda'?",
@@ -719,17 +723,19 @@
       "peito",
       "pescoço"
     ],
-    "explanation": "'Espalda' significa 'costas' (parte do corpo). A frase significa 'Minhas costas doem'."
+    "explanation": "'Espalda' significa 'costas' (parte do corpo). A frase significa 'Minhas costas doem'.",
+    "hint": null
   },
   "q_vocab_a1_07_006": {
-    "question": "Escovo meus dentes toda manhã.",
+    "question": "Eu escovo os dentes toda manhã.",
     "correct": "Me lavo los dientes cada mañana.",
     "wrong": [
       "Me lavo las manos cada mañana.",
       "Me lavo el pelo cada mañana.",
       "Me lavo los ojos cada mañana."
     ],
-    "explanation": "'Dientes' significa 'dentes' (singular: 'diente'). Em espanhol, dizemos 'lavarse los dientes' (lavar os dentes) em vez de 'escovar'."
+    "explanation": "'Dientes' significa 'dentes' (singular: 'diente'). Os falantes de espanhol costumam dizer 'lavarse los dientes' (literalmente 'lavar os dentes'); 'cepillarse los dientes' (escovar) também está correto.",
+    "hint": null
   },
   "q_vocab_a1_07_007": {
     "question": "O que significa 'boca' em 'Abre la boca'?",
@@ -737,9 +743,10 @@
     "wrong": [
       "olho",
       "mão",
-      "ouvido"
+      "orelha"
     ],
-    "explanation": "'Boca' significa 'boca'. 'Abre la boca' significa 'Abra a boca', comumente ouvido no dentista."
+    "explanation": "'Boca' significa 'boca'. 'Abre la boca' significa 'Abra a boca', algo muito ouvido no dentista.",
+    "hint": null
   },
   "q_vocab_a1_07_008": {
     "question": "Tengo el pelo largo y los ojos marrones.",
@@ -749,21 +756,23 @@
       "Tenho braços compridos e olhos castanhos.",
       "Tenho cabelo comprido e olhos verdes."
     ],
-    "explanation": "'Pelo' significa 'cabelo', 'largo' significa 'comprido', e 'ojos marrones' significa 'olhos castanhos'."
+    "explanation": "'Pelo' significa 'cabelo', 'largo' significa 'comprido' e 'ojos marrones' significa 'olhos castanhos'.",
+    "hint": null
   },
   "q_vocab_a1_07_009": {
-    "question": "Você está no consultório médico e precisa dizer onde dói. Como você diz 'Meu estômago dói'?",
+    "question": "Você está no consultório médico e precisa dizer onde dói. Como se diz 'Meu estômago dói'?",
     "correct": "Me duele el estómago.",
     "wrong": [
       "Me duele la cabeza.",
       "Me duele la espalda.",
       "Me duele el brazo."
     ],
-    "explanation": "'Estómago' significa 'estômago'. 'Me duele' é usado para partes do corpo singulares que doem.",
-    "context": "Visitando o médico com dor de estômago"
+    "explanation": "'Estómago' significa 'estômago'. 'Me duele' é usado para partes do corpo no singular que doem.",
+    "context": "Visitando o médico com dor de estômago",
+    "hint": null
   },
   "q_vocab_a1_07_010": {
-    "question": "Você está descrevendo a aparência de um amigo. Como você diz 'Ela tem orelhas grandes e nariz pequeno'?",
+    "question": "Você está descrevendo a aparência de um amigo. Como se diz 'Ela tem orelhas grandes e nariz pequeno'?",
     "correct": "Tiene las orejas grandes y la nariz pequeña.",
     "wrong": [
       "Tiene los ojos grandes y la boca pequeña.",
@@ -771,7 +780,8 @@
       "Tiene las manos grandes y los pies pequeños."
     ],
     "explanation": "'Orejas' significa 'orelhas' e 'nariz' significa 'nariz'. Em espanhol, usamos 'tener' (ter) para descrever características físicas.",
-    "context": "Descrevendo as características físicas de um amigo"
+    "context": "Descrevendo as características físicas de um amigo",
+    "hint": null
   },
   "q_vocab_a1_08_001": {
     "question": "O que significa 'zapatos'?",

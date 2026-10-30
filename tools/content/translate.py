@@ -5,6 +5,7 @@
     python3 tools/content/translate.py --locale it --limit 25   try one small batch first
     python3 tools/content/translate.py                     everything, 4 batches in parallel
     python3 tools/content/translate.py --lv 1              regenerate one LV of the daily path (all 14 locales)
+    python3 tools/content/translate.py --only q_gram_a1_01_   just the queued ids with this prefix (new questions of one topic)
 
 Each batch (25 questions) goes to `claude -p` with the master English entry and the rules for its type.
 The result is accepted only if the Spanish part is untouched (master.same), the correct answer is not
@@ -161,6 +162,10 @@ def main():
     if "--locale" in sys.argv:
         only = sys.argv[sys.argv.index("--locale") + 1]
         jobs = {only: jobs.get(only, [])}
+    if "--only" in sys.argv:
+        prefix = sys.argv[sys.argv.index("--only") + 1]
+        jobs = {l: [x for x in ids if x[1].startswith(prefix)] for l, ids in jobs.items()}
+        jobs = {l: ids for l, ids in jobs.items() if ids}
     if "--plan" in sys.argv:
         print({l: len(v) for l, v in sorted(jobs.items(), key=lambda x: -len(x[1]))}, "total", sum(map(len, jobs.values())))
         return

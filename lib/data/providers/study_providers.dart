@@ -1,5 +1,6 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_riverpod/legacy.dart';
+import 'package:flutter_riverpod/misc.dart' show ProviderOrFamily;
 import '../../core/utils/question_selector.dart';
 import '../../services/study_service.dart';
 import '../database/app_database.dart';
@@ -181,3 +182,17 @@ final wrongAnswersWithQuestionsProvider =
     );
   }).toList();
 });
+
+/// Everything that shows learning progress — refresh after a study session or a reset.
+/// One list for both, so a screen added later can't be missed in one of them
+/// (10-29 the progress tab after a session · 10-31 «1 studied» left on it after a reset).
+final List<ProviderOrFamily> learningProgressProviders = [
+  appStatsProvider,
+  levelDistributionProvider,
+  wrongAnswersWithQuestionsProvider,
+  overallSummaryProvider,
+  todaySummaryProvider,
+  overallProgressProvider,
+  levelProgressProvider,
+  studyRecordsByLevelProvider,
+];
