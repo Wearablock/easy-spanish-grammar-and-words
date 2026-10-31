@@ -12,6 +12,14 @@ def api_key
   )
 end
 
+# 방금 구운 IPA — 파일 이름을 박지 않는다(10-28 easy_budget 에서 옛 IPA 를 올리려 한 사고 · RELEASE-CHECKLIST E)
+def latest_ipa
+  ipa = Dir[File.expand_path("../../build/ios/ipa/*.ipa", __dir__)].max_by { |f| File.mtime(f) }
+  UI.user_error!("IPA 가 없다 — flutter build ipa 가 먼저다") unless ipa
+  UI.message("올릴 IPA: #{ipa}")
+  ipa
+end
+
 platform :ios do
   desc "TestFlight에 업로드"
   lane :beta do
@@ -24,7 +32,7 @@ platform :ios do
 
     # TestFlight 업로드
     upload_to_testflight(
-      ipa: "../build/ios/ipa/Easy Spanish.ipa",
+      ipa: latest_ipa,
       skip_waiting_for_build_processing: true
     )
   end
@@ -34,7 +42,7 @@ platform :ios do
     api_key
 
     upload_to_testflight(
-      ipa: "../build/ios/ipa/Easy Spanish.ipa",
+      ipa: latest_ipa,
       skip_waiting_for_build_processing: true
     )
   end
@@ -50,7 +58,7 @@ platform :ios do
 
     # App Store 업로드
     upload_to_app_store(
-      ipa: "../build/ios/ipa/Easy Spanish.ipa",
+      ipa: latest_ipa,
       skip_screenshots: true,
       skip_metadata: true,
       submit_for_review: false,
@@ -86,6 +94,38 @@ platform :ios do
       submit_for_review: false,
       force: true,
       run_precheck_before_submit: false,
+      precheck_include_in_app_purchases: false
+    )
+  end
+
+  desc "스토어 글만 올리기 — fastlane texts version:1.5.1 (기본은 출시 노트만 · all:true 면 설명 · 키워드 · 홍보 문구 · 부제도)"
+  lane :texts do |options|
+    api_key
+
+    # metadata/ 에서 고른 파일만 임시 폴더로 — 이름 · URL · 저작권 같은 나머지는 건드리지 않는다
+    require "tmpdir"
+    files = ["release_notes.txt"]
+    files += ["description.txt", "keywords.txt", "promotional_text.txt", "subtitle.txt"] if options[:all]
+    dir = Dir.mktmpdir("texts")
+    Dir.glob(File.expand_path("metadata/*/", __dir__)).each do |loc|
+      next unless File.directory?(loc)
+      files.each do |n|
+        f = File.join(loc, n)
+        next unless File.exist?(f)
+        dest = File.join(dir, File.basename(loc))
+        FileUtils.mkdir_p(dest)
+        FileUtils.cp(f, dest)
+      end
+    end
+
+    deliver(
+      app_version: options[:version],
+      metadata_path: dir,
+      skip_binary_upload: true,
+      skip_screenshots: true,
+      submit_for_review: false,
+      automatic_release: true,
+      force: true,
       precheck_include_in_app_purchases: false
     )
   end
