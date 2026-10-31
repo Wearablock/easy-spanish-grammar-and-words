@@ -55,6 +55,14 @@ App Store에 제출
 
 스크린샷만 업로드
 
+### ios texts
+
+```sh
+[bundle exec] fastlane ios texts
+```
+
+스토어 글만 올리기 — fastlane texts version:1.5.1 (기본은 출시 노트만 · all:true 면 설명 · 키워드 · 홍보 문구 · 부제도)
+
 ----
 
 This README.md is auto-generated and will be re-generated every time [_fastlane_](https://fastlane.tools) is run.

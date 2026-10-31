@@ -63,3 +63,9 @@
 ## 🔁 10-30 — 하루 2주제 돌리는 법
     export ES_TOPICS=ch_<a>,ch_<b> ES_TAG=<MMDD>
     review.py LV<n> → fix_master.py LV<n> --propose → (보고) --apply → master.py build → translate.py --lv <n> → meaning.py --lv <n> → (es · pt 과잉 수정 되돌림) → master.py → publish.py
+
+## ⬜ 10-31 남은 작은 일 둘 (1.5.1 제출 뒤 · 출시를 막지 않아 뒤로 뺌)
+    ① de 이론 `ch_gram_c2_13` 영어로 남음 — translate_topics.py 세 번 다 번역본이 ** 한 쌍을 더 넣어 모양 검사에서 탈락
+       영향: 독일어 사용자가 C2 주제 하나의 설명을 영어로 본다(문제는 독일어 정상) · 고치기 = 독일어 본문 손질 → check_bold → publish.py(앱 업데이트 불필요)
+    ② test/widget_test.dart 스모크 테스트 실패 — 첫 커밋(0d40c81) 그대로 · ProviderScope 없이 앱을 띄움(앱 main.dart:39 는 감싸서 실제 사용엔 영향 없음)
+       오래 두면 진짜 실패가 «원래 빨간 것» 에 묻힌다 → ProviderScope + 테스트용 DB/플러그인 대역으로 고친다
