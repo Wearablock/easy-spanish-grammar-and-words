@@ -908,8 +908,8 @@
       "habla",
       "hablamos"
     ],
-    "explanation": "Pour -ar verbes, Le/La forme yo se termine par -o.\n- hablar → habl + o = hablo\n- Yo hablo español = I speak Espagnol.",
-    "hint": "Remove -ar et add Le/La yo terminaison"
+    "explanation": "Pour les verbes en -ar, la forme yo se termine par -o.\n- hablar → habl + o = hablo\n- Yo hablo español = Je parle espagnol.",
+    "hint": "Enlevez -ar et ajoutez la terminaison de yo"
   },
   "q_gram_a1_09_002": {
     "question": "María ___ en un banco.",
@@ -919,29 +919,31 @@
       "trabajas",
       "trabajan"
     ],
-    "explanation": "Pour -ar verbes, Le/La él/ella/forme usted se termine par -a.\n- trabajar → trabaj + a = trabaja\n- María trabaja = María works.",
-    "hint": "María est 3rd personne singulier (ella)"
+    "explanation": "Pour les verbes en -ar, la forme él/ella/usted se termine par -a.\n- trabajar → trabaj + a = trabaja\n- María trabaja = María travaille.",
+    "hint": "María est à la 3e personne du singulier (ella)"
   },
   "q_gram_a1_09_003": {
-    "question": "Que 'estudiar' signifier?",
-    "correct": "to study",
+    "question": "Que signifie « estudiar » ?",
+    "correct": "étudier",
     "wrong": [
-      "to work",
-      "to speak",
-      "to buy"
+      "travailler",
+      "parler",
+      "acheter"
     ],
-    "explanation": "'estudiar' signifie 'à study'. Il est a régulier -ar verbe.\n- Yo estudio, tú estudias, él estudia..."
+    "explanation": "« estudiar » signifie « étudier ». C'est un verbe régulier en -ar.\n- Yo estudio, tú estudias, él estudia...",
+    "hint": null
   },
   "q_gram_a1_09_004": {
-    "question": "Nosotros ___ mucho. (conjugate trabajar)",
+    "question": "Nosotros ___ mucho. (conjugue trabajar)",
     "correct": "trabajamos",
     "wrong": [
       "trabajo",
       "trabajan",
       "trabajáis"
     ],
-    "explanation": "Pour -ar verbes, Le/La forme nosotros se termine par -amos.\n- trabajar → trabaj + amos = trabajamos\n- Nosotros trabajamos = We work.",
-    "conjugation_info": "trabajar - present: trabajo, trabajas, trabaja, trabajamos, trabajáis, trabajan"
+    "explanation": "Pour les verbes en -ar, la forme nosotros se termine par -amos.\n- trabajar → trabaj + amos = trabajamos\n- Nosotros trabajamos = Nous travaillons.",
+    "conjugation_info": "trabajar - present: trabajo, trabajas, trabaja, trabajamos, trabajáis, trabajan",
+    "hint": null
   },
   "q_gram_a1_09_005": {
     "question": "¿Tú ___ el pan en la panadería?",
@@ -951,19 +953,20 @@
       "compro",
       "compran"
     ],
-    "explanation": "Pour les verbes en -ar, la forme tú se termine en -as.\n- comprar → compr + as = compras\n- ¿Tú compras? = Tu achètes ?",
-    "hint": "Quelle terminaison tú prend-il pour les verbes en -ar ?"
+    "explanation": "Pour les verbes en -ar, la forme tú se termine par -as.\n- comprar → compr + as = compras\n- ¿Tú compras? = Tu achètes ?",
+    "hint": "Quelle terminaison prend tú avec les verbes en -ar ?"
   },
   "q_gram_a1_09_006": {
-    "question": "Ellos ___ muy bien. (conjugate cocinar)",
+    "question": "Ellos ___ muy bien. (conjugue cocinar)",
     "correct": "cocinan",
     "wrong": [
       "cocina",
       "cocinamos",
       "cocino"
     ],
-    "explanation": "Pour -ar verbes, Le/La ellos/ellas/forme ustedes se termine par -an.\n- cocinar → cocin + an = cocinan\n- Ellos cocinan = Ils cook.",
-    "conjugation_info": "cocinar - present: cocino, cocinas, cocina, cocinamos, cocináis, cocinan"
+    "explanation": "Pour les verbes en -ar, la forme ellos/ellas/ustedes se termine par -an.\n- cocinar → cocin + an = cocinan\n- Ellos cocinan = Ils cuisinent.",
+    "conjugation_info": "cocinar - present: cocino, cocinas, cocina, cocinamos, cocináis, cocinan",
+    "hint": null
   },
   "q_gram_a1_09_007": {
     "question": "Los niños ___ al parque.",
@@ -973,40 +976,42 @@
       "caminamos",
       "camino"
     ],
-    "explanation": "'los niños' est a troisième personne pluriel subject (= ellos).\n- caminar → camin + an = caminan\n- Los niños caminan = Le/La children walk.",
-    "hint": "los niños = ils (3rd personne pluriel)"
+    "explanation": "« los niños » est un sujet à la 3e personne du pluriel (= ellos).\n- caminar → camin + an = caminan\n- Los niños caminan = Les enfants marchent.",
+    "hint": "los niños = ils (3e personne du pluriel)"
   },
   "q_gram_a1_09_008": {
-    "question": "She studies medicine.",
+    "question": "Elle étudie la médecine.",
     "correct": "Ella estudia medicina.",
     "wrong": [
       "Ella estudio medicina.",
       "Ella estudias medicina.",
       "Ella estudian medicina."
     ],
-    "explanation": "Pour -ar verbes, Le/La forme ella se termine par -a.\n- estudiar → estudi + a = estudia\n- Tous -ar verbes follow Le/La same pattern: -o, -as, -a, -amos, -áis, -an."
+    "explanation": "Pour les verbes en -ar, la forme ella se termine par -a.\n- estudiar → estudi + a = estudia\n- Tous les verbes en -ar suivent le même schéma : -o, -as, -a, -amos, -áis, -an.",
+    "hint": null
   },
   "q_gram_a1_09_009": {
-    "question": "Vosotros ___ muy bien. (conjuguer cantar)",
+    "question": "Vosotros ___ muy bien. (conjugue cantar)",
     "correct": "cantáis",
     "wrong": [
       "cantamos",
       "cantan",
       "cantas"
     ],
-    "explanation": "Pour les verbes en -ar, la forme vosotros se termine par -áis.\n- cantar → cant + áis = cantáis\nCette forme est utilisée principalement en Espagne.",
+    "explanation": "Pour les verbes en -ar, la forme vosotros se termine par -áis.\n- cantar → cant + áis = cantáis\nCette forme est surtout utilisée en Espagne.",
     "conjugation_info": "cantar - present: canto, cantas, canta, cantamos, cantáis, cantan",
     "hint": null
   },
   "q_gram_a1_09_010": {
-    "question": "We speak Spanish and English.",
+    "question": "Nous parlons espagnol et anglais.",
     "correct": "Hablamos español e inglés.",
     "wrong": [
       "Hablamos español y inglés.",
       "Hablan español e inglés.",
       "Hablo español e inglés."
     ],
-    "explanation": "Avant mots starting avec 'i-' ou 'hi-', 'y' (et) change en 'e'.\n- español e inglés (not *español y inglés)\nCeci est un phonetic règle à avoid Le/La repeated 'ee' sound."
+    "explanation": "Devant un mot qui commence par le son /i/ (i-, hi-), « y » (et) devient « e ».\n- español e inglés (et non *español y inglés)\n- padre e hijo\n- Exception : devant hie-/hia-, on garde « y » (agua y hielo).",
+    "hint": null
   },
   "q_gram_a1_10_001": {
     "question": "Yo ___ en Madrid. (conjugate vivir)",

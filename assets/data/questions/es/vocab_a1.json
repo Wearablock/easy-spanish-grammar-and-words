@@ -784,14 +784,15 @@
     "hint": null
   },
   "q_vocab_a1_08_001": {
-    "question": "¿Qué significa 'zapatos' ?",
-    "correct": "shoes",
+    "question": "¿Qué significa 'zapatos'?",
+    "correct": "calzado para los pies",
     "wrong": [
-      "boots",
-      "socks",
-      "sandals"
+      "calzado alto que cubre parte de la pierna",
+      "prenda suave que se pone antes del calzado",
+      "calzado abierto para el verano"
     ],
-    "explanation": "'Zapatos' significa 'shoes' (singular: 'zapato'). 'Un par de zapatos' = 'a pair de shoes'."
+    "explanation": "'Zapatos' es el calzado que se usa en los pies (singular: 'zapato'). 'Un par de zapatos' = dos zapatos que van juntos.",
+    "hint": null
   },
   "q_vocab_a1_08_002": {
     "question": "Hace frío, necesito mi ___.",
@@ -801,47 +802,52 @@
       "falda",
       "sombrero"
     ],
-    "explanation": "'Abrigo' significa 'coat'. El/la sentence dice 'Ello's frío, I need my coat'."
+    "explanation": "'Abrigo' es una prenda gruesa para el frío. La frase dice 'Hace frío, necesito mi abrigo'.",
+    "hint": null
   },
   "q_vocab_a1_08_003": {
-    "question": "¿Qué significa 'camisa' ?",
-    "correct": "shirt",
+    "question": "¿Qué significa 'camisa'?",
+    "correct": "prenda con cuello y botones para la parte de arriba",
     "wrong": [
-      "t-shirt",
-      "jacket",
-      "dress"
+      "prenda de algodón, sin cuello ni botones",
+      "prenda de abrigo ligera",
+      "prenda de una sola pieza que cubre el cuerpo y las piernas"
     ],
-    "explanation": "'Camisa' significa 'shirt' (típicamente a formal/button-up shirt). A 'camiseta' es a t-shirt."
+    "explanation": "'Camisa' es una prenda con cuello y botones, más bien formal. Una 'camiseta' es una prenda de algodón sin botones.",
+    "hint": null
   },
   "q_vocab_a1_08_004": {
-    "question": "¿Qué significa 'vestido' ?",
-    "correct": "dress",
+    "question": "¿Qué significa 'vestido'?",
+    "correct": "prenda de una sola pieza que cubre el cuerpo y las piernas",
     "wrong": [
-      "skirt",
-      "blouse",
-      "pants"
+      "prenda que cuelga desde la cintura",
+      "prenda ligera para la parte de arriba",
+      "prenda con dos perneras"
     ],
-    "explanation": "'Vestido' significa 'dress'. Ello viene de el verbo 'vestir' (a dress/a wear)."
+    "explanation": "'Vestido' es una prenda de una sola pieza. Viene del verbo 'vestir' (ponerse ropa).",
+    "hint": null
   },
   "q_vocab_a1_08_005": {
-    "question": "I am wearing black pants.",
+    "question": "Llevo pantalones negros.",
     "correct": "Llevo pantalones negros.",
     "wrong": [
       "Llevo pantalones blancos.",
       "Llevo una falda negra.",
       "Llevo zapatos negros."
     ],
-    "explanation": "'Pantalones' significa 'pants/trousers'. 'Llevar' es comúnmente se usa para 'a wear' en español."
+    "explanation": "'Pantalones' son la prenda con dos perneras. 'Llevar' se usa mucho en español con el sentido de 'tener puesto'.",
+    "hint": null
   },
   "q_vocab_a1_08_006": {
     "question": "¿Qué significa 'bolso' en 'Llevo mi bolso al trabajo'?",
-    "correct": "bag / handbag",
+    "correct": "bolsa para llevar objetos personales",
     "wrong": [
-      "wallet",
-      "belt",
-      "hat"
+      "objeto pequeño para guardar billetes y tarjetas",
+      "banda que se ajusta a la cintura",
+      "prenda para cubrir la cabeza"
     ],
-    "explanation": "'Bolso' significa 'bag' o 'handbag'. El/la sentence significa 'I tomar my bag a work'."
+    "explanation": "'Bolso' es una bolsa para llevar objetos personales. La frase significa que la persona lleva su bolso cuando va al trabajo.",
+    "hint": null
   },
   "q_vocab_a1_08_007": {
     "question": "Vas a la playa. ¿Qué prenda NO llevarías normalmente?",
@@ -851,29 +857,31 @@
       "sombrero",
       "camiseta"
     ],
-    "explanation": "'Botas' son un calzado cerrado que no es habitual en la playa. Las 'gafas' (de sol) y el 'sombrero' son muy útiles allí.",
+    "explanation": "'Botas' es un calzado cerrado y pesado que no es típico de la playa. 'Gafas' (de sol) y 'sombrero' son útiles en la playa.",
     "context": "Preparing for a day at the beach",
     "hint": null
   },
   "q_vocab_a1_08_008": {
     "question": "¿Qué significa 'falda' en 'La falda es roja'?",
-    "correct": "skirt",
+    "correct": "prenda que cuelga desde la cintura, sin perneras",
     "wrong": [
-      "dress",
-      "shirt",
-      "jacket"
+      "prenda de una sola pieza que cubre el cuerpo y las piernas",
+      "prenda con cuello y botones para la parte de arriba",
+      "prenda de abrigo ligera"
     ],
-    "explanation": "'Falda' significa 'skirt'. El/la sentence significa 'El/la skirt es red'."
+    "explanation": "'Falda' es una prenda que cuelga desde la cintura. La frase dice que la falda tiene color rojo.",
+    "hint": null
   },
   "q_vocab_a1_08_009": {
     "question": "Necesito un cinturón para estos pantalones.",
-    "correct": "I need a belt for these pants.",
+    "correct": "Me hace falta un cinturón para estos pantalones.",
     "wrong": [
-      "I need a jacket for these pants.",
-      "I need socks for these shoes.",
-      "I need a hat for this dress."
+      "Me hace falta una chaqueta para estos pantalones.",
+      "Me hacen falta calcetines para estos zapatos.",
+      "Me hace falta un sombrero para este vestido."
     ],
-    "explanation": "'Cinturón' significa 'belt'. El/la sentence significa tú need a belt porque el/la pants son too loose."
+    "explanation": "'Cinturón' es la banda que se ajusta a la cintura. La frase dice que se necesita un cinturón para estos pantalones.",
+    "hint": null
   },
   "q_vocab_a1_08_010": {
     "question": "Estás en una tienda de ropa y quieres probarte una chaqueta. ¿Qué dices?",
@@ -883,7 +891,7 @@
       "¿Puedo ver esta chaqueta?",
       "¿Puedo devolver esta chaqueta?"
     ],
-    "explanation": "'Probarme' es ponerse una prenda para ver si nos queda bien. 'Chaqueta' es una prenda de abrigo para la parte superior del cuerpo. Es una forma educada de pedir permiso para probarse ropa.",
+    "explanation": "'Probarme' es ponerse una prenda para ver cómo queda. 'Chaqueta' es una prenda de abrigo ligera. Es una manera educada de pedir permiso para probarse ropa.",
     "context": "Shopping at a clothing store",
     "hint": null
   },

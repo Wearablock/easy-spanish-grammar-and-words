@@ -1,0 +1,14 @@
+[
+  {
+    "id": "q_vocab_a1_08_009",
+    "problem": "The explanation says you need a belt 'because the pants are too loose'. The sentence doesn't say that, so it adds an unsupported reason that could mislead learners.",
+    "fix": "Change the explanation to: \"'Cinturón' means 'belt'. The sentence means 'I need a belt for these pants'.\"",
+    "topic": "ch_vocab_a1_08"
+  },
+  {
+    "id": "q_gram_a1_09_010",
+    "problem": "The explanation overgeneralizes. Saying 'y' becomes 'e' before any word starting with 'hi-' is wrong for words beginning 'hie-' or 'hia-'. Examples are 'cobre y hierro' and 'agua y hielo', which keep 'y'. The rule depends on the /i/ sound.",
+    "fix": "Reword to: 'Before a word that starts with the sound /i/ (i-, hi-), y becomes e: español e inglés, padre e hijo. Exception: before hie-/hia- it stays y (agua y hielo).' Alternatively, drop 'or hi-' and the 'ee sound' remark. This rule is also arguably above A1, so consider moving the item to a higher level.",
+    "topic": "ch_gram_a1_09"
+  }
+]

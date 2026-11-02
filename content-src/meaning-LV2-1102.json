@@ -1,0 +1,83 @@
+[
+ {
+  "id": "q_vocab_a1_08_005",
+  "locale": "es",
+  "reason": "Question is identical to the correct answer (master has a translation prompt), so it gives the answer away.",
+  "before": {
+   "question": "Llevo pantalones negros.",
+   "explanation": "'Pantalones' son la prenda con dos perneras. 'Llevar' se usa mucho en español con el sentido de 'tener puesto'.",
+   "hint": null,
+   "correct": "Llevo pantalones negros.",
+   "wrong": [
+    "Llevo pantalones blancos.",
+    "Llevo una falda negra.",
+    "Llevo zapatos negros."
+   ]
+  },
+  "after": {
+   "question": "Me visto con unos pantalones de color negro.",
+   "explanation": "'Pantalones' son la prenda con dos perneras. 'Llevar' se usa mucho en español con el sentido de 'tener puesto'.",
+   "hint": null,
+   "correct": "Llevo pantalones negros.",
+   "wrong": [
+    "Llevo pantalones blancos.",
+    "Llevo una falda negra.",
+    "Llevo zapatos negros."
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_09_008",
+  "locale": "es",
+  "reason": "Question is identical to the correct answer (master has a translation prompt), so it gives the answer away.",
+  "before": {
+   "question": "Ella estudia medicina.",
+   "explanation": "En los verbos en -ar, la forma de ella termina en -a.\n- estudiar → estudi + a = estudia\n- Todos los verbos en -ar siguen el mismo patrón: -o, -as, -a, -amos, -áis, -an.",
+   "hint": null,
+   "correct": "Ella estudia medicina.",
+   "wrong": [
+    "Ella estudio medicina.",
+    "Ella estudias medicina.",
+    "Ella estudian medicina."
+   ]
+  },
+  "after": {
+   "question": "Ella cursa estudios de medicina.",
+   "explanation": "En los verbos en -ar, la forma de ella termina en -a.\n- estudiar → estudi + a = estudia\n- Todos los verbos en -ar siguen el mismo patrón: -o, -as, -a, -amos, -áis, -an.",
+   "hint": null,
+   "correct": "Ella estudia medicina.",
+   "wrong": [
+    "Ella estudio medicina.",
+    "Ella estudias medicina.",
+    "Ella estudian medicina."
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_09_010",
+  "locale": "es",
+  "reason": "Question is identical to the correct answer (master has a translation prompt), so it gives the answer away.",
+  "before": {
+   "question": "Hablamos español e inglés.",
+   "explanation": "Ante una palabra que empieza por el sonido /i/ (i-, hi-), 'y' (conjunción) cambia a 'e'.\n- español e inglés (no *español y inglés)\n- padre e hijo\n- Excepción: ante hie-/hia- se mantiene 'y' (agua y hielo).",
+   "hint": null,
+   "correct": "Hablamos español e inglés.",
+   "wrong": [
+    "Hablamos español y inglés.",
+    "Hablan español e inglés.",
+    "Hablo español e inglés."
+   ]
+  },
+  "after": {
+   "question": "Nosotros nos comunicamos en español y en inglés.",
+   "explanation": "Ante una palabra que empieza por el sonido /i/ (i-, hi-), 'y' (conjunción) cambia a 'e'.\n- español e inglés (no *español y inglés)\n- padre e hijo\n- Excepción: ante hie-/hia- se mantiene 'y' (agua y hielo).",
+   "hint": null,
+   "correct": "Hablamos español e inglés.",
+   "wrong": [
+    "Hablamos español y inglés.",
+    "Hablan español e inglés.",
+    "Hablo español e inglés."
+   ]
+  }
+ }
+]

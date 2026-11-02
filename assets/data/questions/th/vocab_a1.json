@@ -787,11 +787,11 @@
     "question": "'zapatos' แปลว่าอะไร?",
     "correct": "รองเท้า",
     "wrong": [
-      "รองเท้าบู๊ต",
+      "รองเท้าบูต",
       "ถุงเท้า",
       "รองเท้าแตะ"
     ],
-    "explanation": "'Zapatos' แปลว่า 'รองเท้า' (เอกพจน์: 'zapato') ส่วน 'Un par de zapatos' = 'รองเท้าหนึ่งคู่'",
+    "explanation": "'Zapatos' แปลว่า 'รองเท้า' (เอกพจน์: 'zapato') 'Un par de zapatos' = 'รองเท้าหนึ่งคู่'",
     "hint": null
   },
   "q_vocab_a1_08_002": {
@@ -802,7 +802,8 @@
       "falda",
       "sombrero"
     ],
-    "explanation": "'Abrigo' แปลว่า 'coat'. senสิบce says 'มัน's เย็น, I need my coat'."
+    "explanation": "'Abrigo' แปลว่า 'เสื้อโค้ท' ประโยคนี้แปลว่า 'อากาศหนาว ฉันต้องการเสื้อโค้ทของฉัน'",
+    "hint": null
   },
   "q_vocab_a1_08_003": {
     "question": "'camisa' แปลว่าอะไร?",
@@ -820,21 +821,22 @@
     "correct": "ชุดเดรส",
     "wrong": [
       "กระโปรง",
-      "เสื้อผู้หญิง",
+      "เสื้อสตรี",
       "กางเกง"
     ],
-    "explanation": "'Vestido' แปลว่า 'ชุดเดรส' มาจากกริยา 'vestir' (แต่งตัว/สวมใส่)",
+    "explanation": "'Vestido' แปลว่า 'ชุดเดรส' มาจากกริยา 'vestir' (แต่งตัว / สวมใส่)",
     "hint": null
   },
   "q_vocab_a1_08_005": {
-    "question": "I am wearing สีดำ pants.",
+    "question": "ฉันใส่กางเกงสีดำ",
     "correct": "Llevo pantalones negros.",
     "wrong": [
       "Llevo pantalones blancos.",
       "Llevo una falda negra.",
       "Llevo zapatos negros."
     ],
-    "explanation": "'Pantalหนึ่งs' แปลว่า 'pants/trousers'. 'Llevar' เป็น commonly used สำหรับ 'ไปยัง wear' ในภาษาสเปน."
+    "explanation": "'Pantalones' แปลว่า 'กางเกง' ส่วน 'Llevar' เป็นกริยาที่ใช้บ่อยในภาษาสเปนสำหรับความหมายว่า 'สวมใส่'",
+    "hint": null
   },
   "q_vocab_a1_08_006": {
     "question": "'bolso' ในประโยค 'Llevo mi bolso al trabajo' แปลว่าอะไร?",
@@ -848,14 +850,14 @@
     "hint": null
   },
   "q_vocab_a1_08_007": {
-    "question": "คุณกำลังจะไปชายหาด ของสิ่งใดที่โดยทั่วไปคุณจะไม่นำไป?",
+    "question": "คุณกำลังจะไปทะเล สิ่งของชิ้นไหนที่โดยปกติแล้วคุณจะไม่นำไป?",
     "correct": "botas",
     "wrong": [
       "gafas",
       "sombrero",
       "camiseta"
     ],
-    "explanation": "'Botas' หมายถึง 'รองเท้าบูต' ซึ่งไม่ใช่เครื่องแต่งกายทั่วไปสำหรับชายหาด ส่วน 'gafas' (แว่นตา/แว่นกันแดด) และ 'sombrero' (หมวก) มีประโยชน์ที่ชายหาด",
+    "explanation": "'Botas' แปลว่า 'รองเท้าบูต' ซึ่งไม่ใช่สิ่งที่สวมใส่ไปทะเลทั่วไป ส่วน 'Gafas' (แว่นตา / แว่นกันแดด) และ 'sombrero' (หมวก) มีประโยชน์เวลาอยู่ที่ชายหาด",
     "context": "Preparing สำหรับ a วัน at the ชายหาด",
     "hint": null
   },
@@ -872,23 +874,24 @@
   },
   "q_vocab_a1_08_009": {
     "question": "Necesito un cinturón para estos pantalones.",
-    "correct": "I need a belt for these pants.",
+    "correct": "ฉันต้องการเข็มขัดสำหรับกางเกงตัวนี้",
     "wrong": [
-      "I need a jacket for these pants.",
-      "I need socks for these shoes.",
-      "I need a hat for this dress."
+      "ฉันต้องการแจ็คเก็ตสำหรับกางเกงตัวนี้",
+      "ฉันต้องการถุงเท้าสำหรับรองเท้าคู่นี้",
+      "ฉันต้องการหมวกสำหรับชุดเดรสตัวนี้"
     ],
-    "explanation": "'Cinturón' แปลว่า 'belt'. senสิบce แปลว่า คุณ need a belt เพราะ pants เป็น too loose."
+    "explanation": "'Cinturón' แปลว่า 'เข็มขัด' ประโยคนี้แปลว่า 'ฉันต้องการเข็มขัดสำหรับกางเกงตัวนี้'",
+    "hint": null
   },
   "q_vocab_a1_08_010": {
-    "question": "คุณอยู่ที่ร้านเสื้อผ้าและอยากลองแจ็กเก็ต คุณจะพูดว่าอะไร?",
+    "question": "คุณอยู่ที่ร้านเสื้อผ้าและอยากลองแจ็คเก็ต คุณจะพูดว่าอย่างไร?",
     "correct": "¿Puedo probarme esta chaqueta?",
     "wrong": [
       "¿Puedo comprar esta chaqueta?",
       "¿Puedo ver esta chaqueta?",
       "¿Puedo devolver esta chaqueta?"
     ],
-    "explanation": "'Probarme' หมายถึง 'ลอง (สวมใส่)' 'Chaqueta' หมายถึง 'แจ็กเก็ต' นี่เป็นวิธีขอลองเสื้อผ้าอย่างสุภาพ",
+    "explanation": "'Probarme' แปลว่า 'ลอง (สวม)' ส่วน 'Chaqueta' แปลว่า 'แจ็คเก็ต' นี่เป็นวิธีขอลองเสื้อผ้าอย่างสุภาพ",
     "context": "Shopping at a clothing ร้านค้า",
     "hint": null
   },

@@ -908,8 +908,8 @@
       "habla",
       "hablamos"
     ],
-    "explanation": "สำหรับ -ar verbs, yo สำหรับm ลงท้ายด้วย -o.\n- hablar → habl + o = hablo\n- Yo hablo español = I speak สเปน.",
-    "hint": "Remove -ar และ add yo ending"
+    "explanation": "กริยาลงท้าย -ar เมื่อใช้กับ yo จะลงท้ายด้วย -o\n- hablar → habl + o = hablo\n- Yo hablo español = ฉันพูดภาษาสเปน",
+    "hint": "ตัด -ar ออก แล้วเติมท้ายคำของ yo"
   },
   "q_gram_a1_09_002": {
     "question": "María ___ en un banco.",
@@ -919,30 +919,31 @@
       "trabajas",
       "trabajan"
     ],
-    "explanation": "สำหรับ -ar verbs, él/ella/usted สำหรับm ลงท้ายด้วย -a.\n- trabajar → trabaj + a = trabaja\n- María trabaja = María works.",
-    "hint": "María เป็น 3rd คน เอกพจน์ (ella)"
+    "explanation": "กริยาลงท้าย -ar เมื่อใช้กับ él/ella/usted จะลงท้ายด้วย -a\n- trabajar → trabaj + a = trabaja\n- María trabaja = มารีอาทำงาน",
+    "hint": "María เป็นบุรุษที่ 3 เอกพจน์ (ella)"
   },
   "q_gram_a1_09_003": {
-    "question": "'estudiar' หมายถึงอะไร?",
-    "correct": "เรียน/ศึกษา",
+    "question": "'estudiar' แปลว่าอะไร?",
+    "correct": "เรียน / ศึกษา",
     "wrong": [
       "ทำงาน",
       "พูด",
       "ซื้อ"
     ],
-    "explanation": "'estudiar' แปลว่า 'เรียน/ศึกษา' เป็นกริยา -ar ปกติ\n- Yo estudio, tú estudias, él estudia...",
+    "explanation": "'estudiar' แปลว่า 'เรียน / ศึกษา' เป็นกริยาลงท้าย -ar ที่เปลี่ยนรูปตามกฎปกติ\n- Yo estudio, tú estudias, él estudia...",
     "hint": null
   },
   "q_gram_a1_09_004": {
-    "question": "Nosotros ___ mucho. (conjugate trabajar)",
+    "question": "Nosotros ___ mucho. (เติมรูปของ trabajar)",
     "correct": "trabajamos",
     "wrong": [
       "trabajo",
       "trabajan",
       "trabajáis"
     ],
-    "explanation": "สำหรับ -ar verbs, nosotros สำหรับm ลงท้ายด้วย -amos.\n- trabajar → trabaj + amos = trabajamos\n- Nosotros trabajamos = We work.",
-    "conjugation_info": "trabajar - present: trabajo, trabajas, trabaja, trabajamos, trabajáis, trabajan"
+    "explanation": "กริยาลงท้าย -ar เมื่อใช้กับ nosotros จะลงท้ายด้วย -amos\n- trabajar → trabaj + amos = trabajamos\n- Nosotros trabajamos = พวกเราทำงาน",
+    "conjugation_info": "trabajar - present: trabajo, trabajas, trabaja, trabajamos, trabajáis, trabajan",
+    "hint": null
   },
   "q_gram_a1_09_005": {
     "question": "¿Tú ___ el pan en la panadería?",
@@ -952,19 +953,20 @@
       "compro",
       "compran"
     ],
-    "explanation": "กริยา -ar รูป tú ลงท้ายด้วย -as\n- comprar → compr + as = compras\n- ¿Tú compras? = คุณซื้อไหม?",
+    "explanation": "กริยาลงท้าย -ar เมื่อใช้กับ tú จะลงท้ายด้วย -as\n- comprar → compr + as = compras\n- ¿Tú compras? = คุณซื้อไหม?",
     "hint": "tú ใช้คำลงท้ายอะไรกับกริยา -ar?"
   },
   "q_gram_a1_09_006": {
-    "question": "Ellos ___ muy bien. (conjugate cocinar)",
+    "question": "Ellos ___ muy bien. (เติมรูปของ cocinar)",
     "correct": "cocinan",
     "wrong": [
       "cocina",
       "cocinamos",
       "cocino"
     ],
-    "explanation": "สำหรับ -ar verbs, ellos/ellas/ustedes สำหรับm ลงท้ายด้วย -an.\n- cocinar → cocin + an = cocinan\n- Ellos cocinan = พวกเขา cook.",
-    "conjugation_info": "cocinar - present: cocino, cocinas, cocina, cocinamos, cocináis, cocinan"
+    "explanation": "กริยาลงท้าย -ar เมื่อใช้กับ ellos/ellas/ustedes จะลงท้ายด้วย -an\n- cocinar → cocin + an = cocinan\n- Ellos cocinan = พวกเขาทำอาหาร",
+    "conjugation_info": "cocinar - present: cocino, cocinas, cocina, cocinamos, cocináis, cocinan",
+    "hint": null
   },
   "q_gram_a1_09_007": {
     "question": "Los niños ___ al parque.",
@@ -974,40 +976,42 @@
       "caminamos",
       "camino"
     ],
-    "explanation": "'los niños' เป็น a third คน พหูพจน์ subject (= ellos).\n- caminar → camin + an = caminan\n- Los niños caminan = children walk.",
-    "hint": "los niños = พวกเขา (3rd คน พหูพจน์)"
+    "explanation": "'los niños' เป็นประธานบุรุษที่ 3 พหูพจน์ (= ellos)\n- caminar → camin + an = caminan\n- Los niños caminan = เด็ก ๆ เดินไปสวนสาธารณะ",
+    "hint": "los niños = พวกเขา (บุรุษที่ 3 พหูพจน์)"
   },
   "q_gram_a1_09_008": {
-    "question": "She studies medicine.",
+    "question": "เธอเรียนแพทยศาสตร์",
     "correct": "Ella estudia medicina.",
     "wrong": [
       "Ella estudio medicina.",
       "Ella estudias medicina.",
       "Ella estudian medicina."
     ],
-    "explanation": "สำหรับ -ar verbs, ella สำหรับm ลงท้ายด้วย -a.\n- estudiar → estudi + a = estudia\n- ทั้งหมด -ar verbs follow same pattern: -o, -as, -a, -amos, -áis, -an."
+    "explanation": "กริยาลงท้าย -ar เมื่อใช้กับ ella จะลงท้ายด้วย -a\n- estudiar → estudi + a = estudia\n- กริยา -ar ทุกตัวใช้รูปแบบเดียวกัน: -o, -as, -a, -amos, -áis, -an",
+    "hint": null
   },
   "q_gram_a1_09_009": {
-    "question": "Vosotros ___ muy bien. (ผันกริยา cantar)",
+    "question": "Vosotros ___ muy bien. (เติมรูปของ cantar)",
     "correct": "cantáis",
     "wrong": [
       "cantamos",
       "cantan",
       "cantas"
     ],
-    "explanation": "สำหรับกริยากลุ่ม -ar รูป vosotros จะลงท้ายด้วย -áis\n- cantar → cant + áis = cantáis\nรูปนี้ใช้เป็นหลักในสเปน",
+    "explanation": "กริยาลงท้าย -ar เมื่อใช้กับ vosotros จะลงท้ายด้วย -áis\n- cantar → cant + áis = cantáis\nรูปนี้ใช้เป็นหลักในสเปน",
     "conjugation_info": "cantar - present: canto, cantas, canta, cantamos, cantáis, cantan",
     "hint": null
   },
   "q_gram_a1_09_010": {
-    "question": "We speak Spanish and English.",
+    "question": "เราพูดภาษาสเปนและภาษาอังกฤษ",
     "correct": "Hablamos español e inglés.",
     "wrong": [
       "Hablamos español y inglés.",
       "Hablan español e inglés.",
       "Hablo español e inglés."
     ],
-    "explanation": "Beสำหรับe words starting กับ 'i-' หรือ 'hi-', 'y' (และ) changes ไปยัง 'e'.\n- español e inglés (not *español y inglés)\nนี่คือ a phหนึ่งtic กฎ ไปยัง avoid repeated 'ee' sound."
+    "explanation": "ก่อนคำที่ขึ้นต้นด้วยเสียง /i/ (i-, hi-) คำว่า 'y' (และ) จะเปลี่ยนเป็น 'e'\n- español e inglés (ไม่ใช่ *español y inglés)\n- padre e hijo\n- ข้อยกเว้น: ก่อน hie-/hia- ยังคงเป็น 'y' (agua y hielo)",
+    "hint": null
   },
   "q_gram_a1_10_001": {
     "question": "Yo ___ en Madrid. (conjugate vivir)",

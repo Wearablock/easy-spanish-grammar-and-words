@@ -787,7 +787,7 @@
     "question": "Apa arti 'zapatos'?",
     "correct": "sepatu",
     "wrong": [
-      "sepatu bot",
+      "bot",
       "kaus kaki",
       "sandal"
     ],
@@ -802,7 +802,8 @@
       "falda",
       "sombrero"
     ],
-    "explanation": "'Abrigo' berarti 'coat'. ini/itu sentence says 'itu's cold, I need my coat'."
+    "explanation": "'Abrigo' berarti 'mantel'. Kalimat ini berarti 'Dingin, saya butuh mantel saya'.",
+    "hint": null
   },
   "q_vocab_a1_08_003": {
     "question": "Apa arti 'camisa'?",
@@ -823,28 +824,29 @@
       "blus",
       "celana panjang"
     ],
-    "explanation": "'Vestido' berarti 'gaun'. Kata ini berasal dari kata kerja 'vestir' (berpakaian/mengenakan).",
+    "explanation": "'Vestido' berarti 'gaun'. Kata ini berasal dari verba 'vestir' (berpakaian/mengenakan).",
     "hint": null
   },
   "q_vocab_a1_08_005": {
-    "question": "I am wearing black pants.",
+    "question": "Saya memakai celana panjang hitam.",
     "correct": "Llevo pantalones negros.",
     "wrong": [
       "Llevo pantalones blancos.",
       "Llevo una falda negra.",
       "Llevo zapatos negros."
     ],
-    "explanation": "'Pantalones' berarti 'pants/trousers'. 'Llevar' adalah commonly used untuk 'ke wear' dalam bahasa Spanyol."
+    "explanation": "'Pantalones' berarti 'celana panjang'. 'Llevar' sering dipakai untuk 'memakai/mengenakan' dalam bahasa Spanyol.",
+    "hint": null
   },
   "q_vocab_a1_08_006": {
-    "question": "Apa arti 'bolso' dalam kalimat 'Llevo mi bolso al trabajo'?",
+    "question": "Apa arti 'bolso' dalam 'Llevo mi bolso al trabajo'?",
     "correct": "tas / tas tangan",
     "wrong": [
       "dompet",
       "ikat pinggang",
       "topi"
     ],
-    "explanation": "'Bolso' berarti 'tas' atau 'tas tangan'. Kalimat ini berarti 'Aku membawa tasku ke tempat kerja'.",
+    "explanation": "'Bolso' berarti 'tas' atau 'tas tangan'. Kalimat ini berarti 'Saya membawa tas saya ke tempat kerja'.",
     "hint": null
   },
   "q_vocab_a1_08_007": {
@@ -855,30 +857,31 @@
       "sombrero",
       "camiseta"
     ],
-    "explanation": "'Botas' berarti 'sepatu bot', yang bukan pakaian khas untuk pantai. 'Gafas' (kacamata/kacamata hitam) dan 'sombrero' (topi) berguna di pantai.",
+    "explanation": "'Botas' berarti 'bot', yang bukan pakaian khas untuk pantai. 'Gafas' (kacamata/kacamata hitam) dan 'sombrero' (topi) berguna di pantai.",
     "context": "Preparing for a day at the beach",
     "hint": null
   },
   "q_vocab_a1_08_008": {
-    "question": "Apa arti 'falda' dalam kalimat 'La falda es roja'?",
+    "question": "Apa arti 'falda' dalam 'La falda es roja'?",
     "correct": "rok",
     "wrong": [
       "gaun",
       "kemeja",
       "jaket"
     ],
-    "explanation": "'Falda' berarti 'rok'. Kalimat ini berarti 'Roknya berwarna merah'.",
+    "explanation": "'Falda' berarti 'rok'. Kalimat ini berarti 'Rok itu berwarna merah'.",
     "hint": null
   },
   "q_vocab_a1_08_009": {
     "question": "Necesito un cinturón para estos pantalones.",
-    "correct": "I need a belt for these pants.",
+    "correct": "Saya butuh ikat pinggang untuk celana ini.",
     "wrong": [
-      "I need a jacket for these pants.",
-      "I need socks for these shoes.",
-      "I need a hat for this dress."
+      "Saya butuh jaket untuk celana ini.",
+      "Saya butuh kaus kaki untuk sepatu ini.",
+      "Saya butuh topi untuk gaun ini."
     ],
-    "explanation": "'Cinturón' berarti 'belt'. ini/itu kalimat berarti kamu need a belt karena ini/itu pants adalah juga loose."
+    "explanation": "'Cinturón' berarti 'ikat pinggang'. Kalimat ini berarti 'Saya butuh ikat pinggang untuk celana ini'.",
+    "hint": null
   },
   "q_vocab_a1_08_010": {
     "question": "Kamu berada di toko pakaian dan ingin mencoba sebuah jaket. Apa yang kamu katakan?",
@@ -888,7 +891,7 @@
       "¿Puedo ver esta chaqueta?",
       "¿Puedo devolver esta chaqueta?"
     ],
-    "explanation": "'Probarme' berarti 'mencoba (pakaian)'. 'Chaqueta' berarti 'jaket'. Ini cara yang sopan untuk meminta izin mencoba pakaian.",
+    "explanation": "'Probarme' berarti 'mencoba (pakaian)'. 'Chaqueta' berarti 'jaket'. Ini cara sopan untuk meminta izin mencoba pakaian.",
     "context": "Shopping at a clothing store",
     "hint": null
   },

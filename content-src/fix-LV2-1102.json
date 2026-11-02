@@ -1,0 +1,24 @@
+{
+  "q_vocab_a1_08_009": {
+    "question": "Necesito un cinturón para estos pantalones.",
+    "correct": "I need a belt for these pants.",
+    "wrong": [
+      "I need a jacket for these pants.",
+      "I need socks for these shoes.",
+      "I need a hat for this dress."
+    ],
+    "explanation": "'Cinturón' means 'belt'. The sentence means 'I need a belt for these pants'.",
+    "hint": null
+  },
+  "q_gram_a1_09_010": {
+    "question": "We speak Spanish and English.",
+    "correct": "Hablamos español e inglés.",
+    "wrong": [
+      "Hablamos español y inglés.",
+      "Hablan español e inglés.",
+      "Hablo español e inglés."
+    ],
+    "explanation": "Before a word that starts with the sound /i/ (i-, hi-), 'y' (and) changes to 'e'.\n- español e inglés (not *español y inglés)\n- padre e hijo\n- Exception: before hie-/hia- it stays 'y' (agua y hielo).",
+    "hint": null
+  }
+}

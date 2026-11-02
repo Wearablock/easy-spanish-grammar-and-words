@@ -784,14 +784,15 @@
     "hint": null
   },
   "q_vocab_a1_08_001": {
-    "question": "Que 'zapatos' signifier?",
-    "correct": "shoes",
+    "question": "Que signifie « zapatos » ?",
+    "correct": "chaussures",
     "wrong": [
-      "boots",
-      "socks",
-      "sandals"
+      "bottes",
+      "chaussettes",
+      "sandales"
     ],
-    "explanation": "'Zapatos' signifie 'shoes' (singulier: 'zapato'). 'Un par de zapatos' = 'a pair de shoes'."
+    "explanation": "« Zapatos » signifie « chaussures » (singulier : « zapato »). « Un par de zapatos » = « une paire de chaussures ».",
+    "hint": null
   },
   "q_vocab_a1_08_002": {
     "question": "Hace frío, necesito mi ___.",
@@ -801,89 +802,98 @@
       "falda",
       "sombrero"
     ],
-    "explanation": "'Abrigo' signifie 'coat'. Le/La phrase says 'Il's cold, I need my coat'."
+    "explanation": "« Abrigo » signifie « manteau ». La phrase dit « Il fait froid, j'ai besoin de mon manteau ».",
+    "hint": null
   },
   "q_vocab_a1_08_003": {
-    "question": "Que 'camisa' signifier?",
-    "correct": "shirt",
+    "question": "Que signifie « camisa » ?",
+    "correct": "chemise",
     "wrong": [
       "t-shirt",
-      "jacket",
-      "dress"
+      "veste",
+      "robe"
     ],
-    "explanation": "'Camisa' signifie 'shirt' (typiquement a formel/button-up shirt). A 'camiseta' est a t-shirt."
+    "explanation": "« Camisa » signifie « chemise » (en général une chemise habillée à boutons). Une « camiseta » est un t-shirt.",
+    "hint": null
   },
   "q_vocab_a1_08_004": {
-    "question": "Que 'vestido' signifier?",
-    "correct": "dress",
+    "question": "Que signifie « vestido » ?",
+    "correct": "robe",
     "wrong": [
-      "skirt",
-      "blouse",
-      "pants"
+      "jupe",
+      "chemisier",
+      "pantalon"
     ],
-    "explanation": "'Vestido' signifie 'dress'. Il vient de le verbe 'vestir' (à dress/à wear)."
+    "explanation": "« Vestido » signifie « robe ». Le mot vient du verbe « vestir » (habiller / porter).",
+    "hint": null
   },
   "q_vocab_a1_08_005": {
-    "question": "I am wearing black pants.",
+    "question": "Je porte un pantalon noir.",
     "correct": "Llevo pantalones negros.",
     "wrong": [
       "Llevo pantalones blancos.",
       "Llevo una falda negra.",
       "Llevo zapatos negros."
     ],
-    "explanation": "'Pantalones' signifie 'pants/trousers'. 'Llevar' est couramment used pour 'à wear' en espagnol."
+    "explanation": "« Pantalones » signifie « pantalon ». « Llevar » est couramment utilisé pour dire « porter » en espagnol.",
+    "hint": null
   },
   "q_vocab_a1_08_006": {
-    "question": "Que 'bolso' signifier dans 'Llevo mi bolso al trabajo'?",
-    "correct": "bag / handbag",
+    "question": "Que signifie « bolso » dans « Llevo mi bolso al trabajo » ?",
+    "correct": "sac / sac à main",
     "wrong": [
-      "wallet",
-      "belt",
-      "hat"
+      "portefeuille",
+      "ceinture",
+      "chapeau"
     ],
-    "explanation": "'Bolso' signifie 'bag' ou 'handbag'. Le/La phrase signifie 'I take my bag à work'."
+    "explanation": "« Bolso » signifie « sac » ou « sac à main ». La phrase veut dire « J'emporte mon sac au travail ».",
+    "hint": null
   },
   "q_vocab_a1_08_007": {
-    "question": "Vous sont going à Le/La beach. Quel item serait vous NOT typiquement bring?",
+    "question": "Vous allez à la plage. Quel objet n'emporteriez-vous normalement PAS ?",
     "correct": "botas",
     "wrong": [
       "gafas",
       "sombrero",
       "camiseta"
     ],
-    "explanation": "'Botas' signifie 'boots', quel sont not typical beach wear. 'Gafas' (glasses/sunglasses) et 'sombrero' (hat) sont useful à Le/La beach.",
-    "context": "Preparing for a day at the beach"
+    "explanation": "« Botas » signifie « bottes », qui ne sont pas typiques de la plage. « Gafas » (lunettes / lunettes de soleil) et « sombrero » (chapeau) sont utiles à la plage.",
+    "context": "Preparing for a day at the beach",
+    "hint": null
   },
   "q_vocab_a1_08_008": {
-    "question": "Que 'falda' signifier dans 'La falda es roja'?",
-    "correct": "skirt",
+    "question": "Que signifie « falda » dans « La falda es roja » ?",
+    "correct": "jupe",
     "wrong": [
-      "dress",
-      "shirt",
-      "jacket"
+      "robe",
+      "chemise",
+      "veste"
     ],
-    "explanation": "'Falda' signifie 'skirt'. Le/La phrase signifie 'Le/La skirt est red'."
+    "explanation": "« Falda » signifie « jupe ». La phrase veut dire « La jupe est rouge ».",
+    "hint": null
   },
   "q_vocab_a1_08_009": {
     "question": "Necesito un cinturón para estos pantalones.",
-    "correct": "I need a belt for these pants.",
+    "correct": "J'ai besoin d'une ceinture pour ce pantalon.",
     "wrong": [
-      "I need a jacket for these pants.",
-      "I need socks for these shoes.",
-      "I need a hat for this dress."
+      "J'ai besoin d'une veste pour ce pantalon.",
+      "J'ai besoin de chaussettes pour ces chaussures.",
+      "J'ai besoin d'un chapeau pour cette robe."
     ],
-    "explanation": "'Cinturón' signifie 'belt'. Le/La phrase signifie vous need a belt parce que Le/La pants sont too loose."
+    "explanation": "« Cinturón » signifie « ceinture ». La phrase veut dire « J'ai besoin d'une ceinture pour ce pantalon ».",
+    "hint": null
   },
   "q_vocab_a1_08_010": {
-    "question": "Vous sont à a clothing store et want à try sur a jacket. Que do vous say?",
+    "question": "Vous êtes dans un magasin de vêtements et vous voulez essayer une veste. Que dites-vous ?",
     "correct": "¿Puedo probarme esta chaqueta?",
     "wrong": [
       "¿Puedo comprar esta chaqueta?",
       "¿Puedo ver esta chaqueta?",
       "¿Puedo devolver esta chaqueta?"
     ],
-    "explanation": "'Probarme' signifie 'à try sur'. 'Chaqueta' signifie 'jacket'. Ceci est un poli way pour demander à try sur clothing.",
-    "context": "Shopping at a clothing store"
+    "explanation": "« Probarme » signifie « essayer » (un vêtement). « Chaqueta » signifie « veste ». C'est une façon polie de demander à essayer un vêtement.",
+    "context": "Shopping at a clothing store",
+    "hint": null
   },
   "q_vocab_a1_09_001": {
     "question": "Que 'cocina' signifier?",

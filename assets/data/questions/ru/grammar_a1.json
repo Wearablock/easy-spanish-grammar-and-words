@@ -908,8 +908,8 @@
       "habla",
       "hablamos"
     ],
-    "explanation": "для -ar verbs, yo форма оканчивается на -o. - hablar → habl + o = hablo - Yo hablo español = I speak испанский.",
-    "hint": "Remove -ar и add yo окончание"
+    "explanation": "У глаголов на -ar форма yo оканчивается на -o.\n- hablar → habl + o = hablo\n- Yo hablo español = Я говорю по-испански.",
+    "hint": "Отбросьте -ar и добавьте окончание формы yo"
   },
   "q_gram_a1_09_002": {
     "question": "María ___ en un banco.",
@@ -919,29 +919,31 @@
       "trabajas",
       "trabajan"
     ],
-    "explanation": "для -ar verbs, él/ella/usted форма оканчивается на -a. - trabajar → trabaj + = trabaja - María trabaja = María works.",
-    "hint": "María есть 3rd человек единственного числа (ella)"
+    "explanation": "У глаголов на -ar форма él/ella/usted оканчивается на -a.\n- trabajar → trabaj + a = trabaja\n- María trabaja = Мария работает.",
+    "hint": "María — 3-е лицо единственного числа (ella)"
   },
   "q_gram_a1_09_003": {
-    "question": "Что означает 'estudiar'?",
-    "correct": "to study",
+    "question": "Что означает «estudiar»?",
+    "correct": "учиться, изучать",
     "wrong": [
-      "to work",
-      "to speak",
-      "to buy"
+      "работать",
+      "говорить",
+      "покупать"
     ],
-    "explanation": "'estudiar' означает 'к study'. это является правильный -ar глагол. - Yo estudio, tú estudias, él estudia..."
+    "explanation": "«estudiar» означает «учиться, изучать». Это правильный глагол на -ar.\n- Yo estudio, tú estudias, él estudia...",
+    "hint": null
   },
   "q_gram_a1_09_004": {
-    "question": "Nosotros ___ mucho. (conjugate trabajar)",
+    "question": "Nosotros ___ mucho. (спрягите trabajar)",
     "correct": "trabajamos",
     "wrong": [
       "trabajo",
       "trabajan",
       "trabajáis"
     ],
-    "explanation": "для -ar verbs, nosotros форма оканчивается на -amos. - trabajar → trabaj + amos = trabajamos - Nosotros trabajamos = We work.",
-    "conjugation_info": "trabajar - present: trabajo, trabajas, trabaja, trabajamos, trabajáis, trabajan"
+    "explanation": "У глаголов на -ar форма nosotros оканчивается на -amos.\n- trabajar → trabaj + amos = trabajamos\n- Nosotros trabajamos = Мы много работаем.",
+    "conjugation_info": "trabajar - present: trabajo, trabajas, trabaja, trabajamos, trabajáis, trabajan",
+    "hint": null
   },
   "q_gram_a1_09_005": {
     "question": "¿Tú ___ el pan en la panadería?",
@@ -952,18 +954,19 @@
       "compran"
     ],
     "explanation": "У глаголов на -ar форма tú оканчивается на -as.\n- comprar → compr + as = compras\n- ¿Tú compras? = Ты покупаешь?",
-    "hint": "Какое окончание принимает tú у глаголов на -ar?"
+    "hint": "Какое окончание получает tú у глаголов на -ar?"
   },
   "q_gram_a1_09_006": {
-    "question": "Ellos ___ muy bien. (conjugate cocinar)",
+    "question": "Ellos ___ muy bien. (спрягите cocinar)",
     "correct": "cocinan",
     "wrong": [
       "cocina",
       "cocinamos",
       "cocino"
     ],
-    "explanation": "для -ar verbs, ellos/ellas/ustedes форма оканчивается на -an. - cocinar → cocin + = cocinan - Ellos cocinan = они cook.",
-    "conjugation_info": "cocinar - present: cocino, cocinas, cocina, cocinamos, cocináis, cocinan"
+    "explanation": "У глаголов на -ar форма ellos/ellas/ustedes оканчивается на -an.\n- cocinar → cocin + an = cocinan\n- Ellos cocinan = Они готовят.",
+    "conjugation_info": "cocinar - present: cocino, cocinas, cocina, cocinamos, cocináis, cocinan",
+    "hint": null
   },
   "q_gram_a1_09_007": {
     "question": "Los niños ___ al parque.",
@@ -973,21 +976,22 @@
       "caminamos",
       "camino"
     ],
-    "explanation": "'los niños' является third человек множественного числа subject (= ellos). - caminar → camin + = caminan - Los niños caminan = дети walk.",
-    "hint": "los niños = они (3rd человек множественного числа)"
+    "explanation": "«los niños» — подлежащее в 3-м лице множественного числа (= ellos).\n- caminar → camin + an = caminan\n- Los niños caminan = Дети идут пешком.",
+    "hint": "los niños = они (3-е лицо множественного числа)"
   },
   "q_gram_a1_09_008": {
-    "question": "She studies medicine.",
+    "question": "Она изучает медицину.",
     "correct": "Ella estudia medicina.",
     "wrong": [
       "Ella estudio medicina.",
       "Ella estudias medicina.",
       "Ella estudian medicina."
     ],
-    "explanation": "для -ar verbs, ella форма оканчивается на -a. - estudiar → estudi + = estudia - все -ar verbs follow same pattern: -o, -as, -a, -amos, -áis, -an."
+    "explanation": "У глаголов на -ar форма ella оканчивается на -a.\n- estudiar → estudi + a = estudia\n- Все глаголы на -ar спрягаются одинаково: -o, -as, -a, -amos, -áis, -an.",
+    "hint": null
   },
   "q_gram_a1_09_009": {
-    "question": "Vosotros ___ muy bien. (спрягите глагол cantar)",
+    "question": "Vosotros ___ muy bien. (спрягите cantar)",
     "correct": "cantáis",
     "wrong": [
       "cantamos",
@@ -999,14 +1003,15 @@
     "hint": null
   },
   "q_gram_a1_09_010": {
-    "question": "We speak Spanish and English.",
+    "question": "Мы говорим по-испански и по-английски.",
     "correct": "Hablamos español e inglés.",
     "wrong": [
       "Hablamos español y inglés.",
       "Hablan español e inglés.",
       "Hablo español e inglés."
     ],
-    "explanation": "перед words starting с 'i-' или 'hi-', 'y' (и) изменяется на 'e'. - español e inglés (не *español y inglés) это является phonetic правило к avoid repeated 'ee' sound."
+    "explanation": "Перед словом, которое начинается со звука /i/ (i-, hi-), союз 'y' («и») меняется на 'e'.\n- español e inglés (а не *español y inglés)\n- padre e hijo\n- Исключение: перед hie-/hia- остаётся 'y' (agua y hielo).",
+    "hint": null
   },
   "q_gram_a1_10_001": {
     "question": "Yo ___ en Madrid. (conjugate vivir)",

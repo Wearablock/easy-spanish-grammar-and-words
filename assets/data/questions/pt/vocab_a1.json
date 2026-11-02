@@ -791,7 +791,8 @@
       "meias",
       "sandálias"
     ],
-    "explanation": "'Zapatos' significa 'sapatos' (singular: 'zapato'). 'Un par de zapatos' = 'um par de sapatos'."
+    "explanation": "'Zapatos' significa 'sapatos' (singular: 'zapato'). 'Un par de zapatos' = 'um par de sapatos'.",
+    "hint": null
   },
   "q_vocab_a1_08_002": {
     "question": "Hace frío, necesito mi ___.",
@@ -801,7 +802,8 @@
       "falda",
       "sombrero"
     ],
-    "explanation": "'Abrigo' significa 'casaco'. A frase diz 'Está frio, preciso do meu casaco'."
+    "explanation": "'Abrigo' significa 'casaco'. A frase diz 'Está frio, preciso do meu casaco'.",
+    "hint": null
   },
   "q_vocab_a1_08_003": {
     "question": "O que significa 'camisa'?",
@@ -811,7 +813,8 @@
       "jaqueta",
       "vestido"
     ],
-    "explanation": "'Camisa' significa 'camisa' (tipicamente uma camisa formal/de botões). Uma 'camiseta' é uma camiseta."
+    "explanation": "'Camisa' significa 'camisa' (normalmente uma camisa social, com botões). 'Camiseta' é a camiseta.",
+    "hint": null
   },
   "q_vocab_a1_08_004": {
     "question": "O que significa 'vestido'?",
@@ -819,19 +822,21 @@
     "wrong": [
       "saia",
       "blusa",
-      "calças"
+      "calça"
     ],
-    "explanation": "'Vestido' significa 'vestido'. Vem do verbo 'vestir' (vestir/usar)."
+    "explanation": "'Vestido' significa 'vestido'. Vem do verbo 'vestir' (vestir/usar roupa).",
+    "hint": null
   },
   "q_vocab_a1_08_005": {
-    "question": "Estou usando calças pretas.",
+    "question": "Estou usando uma calça preta.",
     "correct": "Llevo pantalones negros.",
     "wrong": [
       "Llevo pantalones blancos.",
       "Llevo una falda negra.",
       "Llevo zapatos negros."
     ],
-    "explanation": "'Pantalones' significa 'calças'. 'Llevar' é comumente usado para 'usar' em espanhol."
+    "explanation": "'Pantalones' significa 'calça'. 'Llevar' é muito usado em espanhol para 'usar (roupa)'.",
+    "hint": null
   },
   "q_vocab_a1_08_006": {
     "question": "O que significa 'bolso' em 'Llevo mi bolso al trabajo'?",
@@ -841,7 +846,8 @@
       "cinto",
       "chapéu"
     ],
-    "explanation": "'Bolso' significa 'bolsa'. A frase significa 'Levo minha bolsa ao trabalho'."
+    "explanation": "'Bolso' significa 'bolsa'. A frase quer dizer 'Levo minha bolsa para o trabalho'.",
+    "hint": null
   },
   "q_vocab_a1_08_007": {
     "question": "Você vai à praia. Qual item você normalmente NÃO levaria?",
@@ -851,8 +857,9 @@
       "sombrero",
       "camiseta"
     ],
-    "explanation": "'Botas' significa 'botas', que não são típicas da praia. 'Gafas' (óculos/óculos de sol) e 'sombrero' (chapéu) são úteis na praia.",
-    "context": "Preparando-se para um dia na praia"
+    "explanation": "'Botas' significa 'botas', que não são roupa típica de praia. 'Gafas' (óculos/óculos de sol) e 'sombrero' (chapéu) são úteis na praia.",
+    "context": "Preparando-se para um dia na praia",
+    "hint": null
   },
   "q_vocab_a1_08_008": {
     "question": "O que significa 'falda' em 'La falda es roja'?",
@@ -862,28 +869,31 @@
       "camisa",
       "jaqueta"
     ],
-    "explanation": "'Falda' significa 'saia'. A frase significa 'A saia é vermelha'."
+    "explanation": "'Falda' significa 'saia'. A frase quer dizer 'A saia é vermelha'.",
+    "hint": null
   },
   "q_vocab_a1_08_009": {
     "question": "Necesito un cinturón para estos pantalones.",
-    "correct": "Preciso de um cinto para estas calças.",
+    "correct": "Preciso de um cinto para essas calças.",
     "wrong": [
-      "Preciso de uma jaqueta para estas calças.",
-      "Preciso de meias para estes sapatos.",
+      "Preciso de uma jaqueta para essas calças.",
+      "Preciso de meias para esses sapatos.",
       "Preciso de um chapéu para este vestido."
     ],
-    "explanation": "'Cinturón' significa 'cinto'. A frase significa que você precisa de um cinto porque as calças estão muito largas."
+    "explanation": "'Cinturón' significa 'cinto'. A frase quer dizer 'Preciso de um cinto para essas calças'.",
+    "hint": null
   },
   "q_vocab_a1_08_010": {
-    "question": "Você está em uma loja de roupas e quer experimentar uma jaqueta. O que você diz?",
+    "question": "Você está em uma loja de roupas e quer provar uma jaqueta. O que você diz?",
     "correct": "¿Puedo probarme esta chaqueta?",
     "wrong": [
       "¿Puedo comprar esta chaqueta?",
       "¿Puedo ver esta chaqueta?",
       "¿Puedo devolver esta chaqueta?"
     ],
-    "explanation": "'Probarme' significa 'experimentar'. 'Chaqueta' significa 'jaqueta'. Esta é uma maneira educada de pedir para experimentar roupas.",
-    "context": "Comprando em uma loja de roupas"
+    "explanation": "'Probarme' significa 'provar (roupa)'. 'Chaqueta' significa 'jaqueta'. Essa é uma maneira educada de pedir para provar uma roupa.",
+    "context": "Comprando em uma loja de roupas",
+    "hint": null
   },
   "q_vocab_a1_09_001": {
     "question": "O que significa 'cocina'?",

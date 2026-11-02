@@ -784,14 +784,15 @@
     "hint": null
   },
   "q_vocab_a1_08_001": {
-    "question": "Что означает 'zapatos'?",
-    "correct": "туфли / ботинки",
+    "question": "Что означает «zapatos»?",
+    "correct": "туфли, обувь",
     "wrong": [
-      "сапоги",
+      "ботинки",
       "носки",
       "сандалии"
     ],
-    "explanation": "'Zapatos' означает 'туфли / ботинки' (единственное число: 'zapato'). 'Un par de zapatos' = 'пара обуви'."
+    "explanation": "'Zapatos' означает «туфли, обувь» (единственное число: 'zapato'). 'Un par de zapatos' = «пара обуви».",
+    "hint": null
   },
   "q_vocab_a1_08_002": {
     "question": "Hace frío, necesito mi ___.",
@@ -801,89 +802,98 @@
       "falda",
       "sombrero"
     ],
-    "explanation": "'Abrigo' означает 'пальто'. Предложение означает 'Холодно, мне нужно пальто'."
+    "explanation": "'Abrigo' означает «пальто». Предложение значит: «Холодно, мне нужно моё пальто».",
+    "hint": null
   },
   "q_vocab_a1_08_003": {
-    "question": "Что означает 'camisa'?",
+    "question": "Что означает «camisa»?",
     "correct": "рубашка",
     "wrong": [
       "футболка",
       "куртка",
       "платье"
     ],
-    "explanation": "'Camisa' означает 'рубашка' (обычно формальная/с пуговицами). 'Camiseta' — футболка."
+    "explanation": "'Camisa' означает «рубашка» (обычно классическая, на пуговицах). 'Camiseta' — это футболка.",
+    "hint": null
   },
   "q_vocab_a1_08_004": {
-    "question": "Что означает 'vestido'?",
+    "question": "Что означает «vestido»?",
     "correct": "платье",
     "wrong": [
       "юбка",
       "блузка",
       "брюки"
     ],
-    "explanation": "'Vestido' означает 'платье'. Оно происходит от глагола 'vestir' (одевать/носить)."
+    "explanation": "'Vestido' означает «платье». Слово происходит от глагола 'vestir' (одевать, носить одежду).",
+    "hint": null
   },
   "q_vocab_a1_08_005": {
-    "question": "Я ношу черные брюки.",
+    "question": "Я ношу чёрные брюки.",
     "correct": "Llevo pantalones negros.",
     "wrong": [
       "Llevo pantalones blancos.",
       "Llevo una falda negra.",
       "Llevo zapatos negros."
     ],
-    "explanation": "'Pantalones' означает 'брюки'. 'Llevar' обычно используется для 'носить' в испанском языке."
+    "explanation": "'Pantalones' означает «брюки». В испанском для «носить (одежду)» обычно используют 'llevar'.",
+    "hint": null
   },
   "q_vocab_a1_08_006": {
-    "question": "Что означает 'bolso' в 'Llevo mi bolso al trabajo'?",
-    "correct": "сумка / дамская сумочка",
+    "question": "Что означает «bolso» во фразе «Llevo mi bolso al trabajo»?",
+    "correct": "сумка / сумочка",
     "wrong": [
-      "кошелек",
+      "кошелёк",
       "ремень",
       "шляпа"
     ],
-    "explanation": "'Bolso' означает 'сумка' или 'дамская сумочка'. Предложение означает 'Я беру свою сумку на работу'."
+    "explanation": "'Bolso' означает «сумка» или «сумочка». Предложение значит: «Я беру свою сумку на работу».",
+    "hint": null
   },
   "q_vocab_a1_08_007": {
-    "question": "Вы собираетесь на пляж. Какой предмет вы обычно НЕ берете?",
+    "question": "Вы идёте на пляж. Что вы, скорее всего, НЕ возьмёте с собой?",
     "correct": "botas",
     "wrong": [
       "gafas",
       "sombrero",
       "camiseta"
     ],
-    "explanation": "'Botas' означает 'сапоги', которые не являются типичной пляжной обувью. 'Gafas' (очки/солнцезащитные очки) и 'sombrero' (шляпа) полезны на пляже.",
-    "context": "Подготовка к дню на пляже"
+    "explanation": "'Botas' означает «сапоги, ботинки» — это нетипичная одежда для пляжа. 'Gafas' (очки / солнцезащитные очки) и 'sombrero' (шляпа) на пляже полезны.",
+    "context": "Подготовка к дню на пляже",
+    "hint": null
   },
   "q_vocab_a1_08_008": {
-    "question": "Что означает 'falda' в 'La falda es roja'?",
+    "question": "Что означает «falda» во фразе «La falda es roja»?",
     "correct": "юбка",
     "wrong": [
       "платье",
       "рубашка",
       "куртка"
     ],
-    "explanation": "'Falda' означает 'юбка'. Предложение означает 'Юбка красная'."
+    "explanation": "'Falda' означает «юбка». Предложение значит: «Юбка красная».",
+    "hint": null
   },
   "q_vocab_a1_08_009": {
     "question": "Necesito un cinturón para estos pantalones.",
     "correct": "Мне нужен ремень для этих брюк.",
     "wrong": [
       "Мне нужна куртка для этих брюк.",
-      "Мне нужны носки для этих туфель.",
+      "Мне нужны носки для этой обуви.",
       "Мне нужна шляпа для этого платья."
     ],
-    "explanation": "'Cinturón' означает 'ремень'. Предложение означает, что вам нужен ремень, потому что брюки слишком свободные."
+    "explanation": "'Cinturón' означает «ремень». Предложение значит: «Мне нужен ремень для этих брюк».",
+    "hint": null
   },
   "q_vocab_a1_08_010": {
-    "question": "Вы в магазине одежды и хотите примерить куртку. Что вы говорите?",
+    "question": "Вы в магазине одежды и хотите примерить куртку. Что вы скажете?",
     "correct": "¿Puedo probarme esta chaqueta?",
     "wrong": [
       "¿Puedo comprar esta chaqueta?",
       "¿Puedo ver esta chaqueta?",
       "¿Puedo devolver esta chaqueta?"
     ],
-    "explanation": "'Probarme' означает 'примерить'. 'Chaqueta' означает 'куртка'. Это вежливый способ попросить примерить одежду.",
-    "context": "Покупки в магазине одежды"
+    "explanation": "'Probarme' означает «примерить». 'Chaqueta' — «куртка». Это вежливый способ попросить разрешения примерить одежду.",
+    "context": "Покупки в магазине одежды",
+    "hint": null
   },
   "q_vocab_a1_09_001": {
     "question": "Что означает 'cocina'?",

@@ -908,8 +908,8 @@
       "habla",
       "hablamos"
     ],
-    "explanation": "-ar動詞のyo形は-oで終わります。\n- hablar → habl + o = hablo\n- Yo hablo español = 私はスペイン語を話す。",
-    "hint": "-arを取って、yo語尾を付けてください"
+    "explanation": "-ar動詞では、yo の活用語尾は -o になります。\n- hablar → habl + o = hablo\n- Yo hablo español = 私は毎日スペイン語を話します。",
+    "hint": "-ar を取って、yo の語尾をつけます"
   },
   "q_gram_a1_09_002": {
     "question": "María ___ en un banco.",
@@ -919,29 +919,31 @@
       "trabajas",
       "trabajan"
     ],
-    "explanation": "-ar動詞のél/ella/usted形は-aで終わります。\n- trabajar → trabaj + = trabaja\n- María trabaja = マリアは働いている。",
-    "hint": "Maríaは三人称単数（ella）です"
+    "explanation": "-ar動詞では、él/ella/usted の活用語尾は -a になります。\n- trabajar → trabaj + a = trabaja\n- María trabaja = マリアは働いています。",
+    "hint": "María は3人称単数(ella)です"
   },
   "q_gram_a1_09_003": {
-    "question": "'estudiar'はどういう意味ですか？",
+    "question": "'estudiar' はどんな意味ですか?",
     "correct": "勉強する",
     "wrong": [
       "働く",
       "話す",
       "買う"
     ],
-    "explanation": "'estudiar'は「勉強する」を意味する規則的な-ar動詞です。\n- Yo estudio, tú estudias, él estudia..."
+    "explanation": "'estudiar' は「勉強する」という意味です。規則変化の -ar 動詞です。\n- Yo estudio, tú estudias, él estudia...",
+    "hint": null
   },
   "q_gram_a1_09_004": {
-    "question": "Nosotros ___ mucho.（trabajar動詞活用）",
+    "question": "Nosotros ___ mucho. (trabajar を活用させましょう)",
     "correct": "trabajamos",
     "wrong": [
       "trabajo",
       "trabajan",
       "trabajáis"
     ],
-    "explanation": "-ar動詞のnosotros形は-amosで終わります。\n- trabajar → trabaj + amos = trabajamos\n- Nosotros trabajamos = 私たちは働く。",
-    "conjugation_info": "trabajar - 現在形: trabajo, trabajas, trabaja, trabajamos, trabajáis, trabajan"
+    "explanation": "-ar動詞では、nosotros の活用語尾は -amos になります。\n- trabajar → trabaj + amos = trabajamos\n- Nosotros trabajamos = 私たちはたくさん働きます。",
+    "conjugation_info": "trabajar - 現在形: trabajo, trabajas, trabaja, trabajamos, trabajáis, trabajan",
+    "hint": null
   },
   "q_gram_a1_09_005": {
     "question": "¿Tú ___ el pan en la panadería?",
@@ -951,19 +953,20 @@
       "compro",
       "compran"
     ],
-    "explanation": "-ar動詞のtú形は-asで終わります。\n- comprar → compr + as = compras\n- ¿Tú compras? = 君は買うの？",
-    "hint": "-ar動詞でtúはどの語尾を付けますか？"
+    "explanation": "-ar動詞では、tú の活用語尾は -as になります。\n- comprar → compr + as = compras\n- ¿Tú compras? = 君は買う?",
+    "hint": "-ar動詞で tú につく語尾は何でしょう?"
   },
   "q_gram_a1_09_006": {
-    "question": "Ellos ___ muy bien.（cocinar動詞活用）",
+    "question": "Ellos ___ muy bien. (cocinar を活用させましょう)",
     "correct": "cocinan",
     "wrong": [
       "cocina",
       "cocinamos",
       "cocino"
     ],
-    "explanation": "-ar動詞のellos/ellas/ustedes形は-anで終わります。\n- cocinar → cocin + = cocinan\n- Ellos cocinan = 彼らは料理する。",
-    "conjugation_info": "cocinar - 現在形: cocino, cocinas, cocina, cocinamos, cocináis, cocinan"
+    "explanation": "-ar動詞では、ellos/ellas/ustedes の活用語尾は -an になります。\n- cocinar → cocin + an = cocinan\n- Ellos cocinan = 彼らは料理します。",
+    "conjugation_info": "cocinar - 現在形: cocino, cocinas, cocina, cocinamos, cocináis, cocinan",
+    "hint": null
   },
   "q_gram_a1_09_007": {
     "question": "Los niños ___ al parque.",
@@ -973,28 +976,29 @@
       "caminamos",
       "camino"
     ],
-    "explanation": "'los niños'は三人称複数の主語です（= ellos）。\n- caminar → camin + = caminan\n- Los niños caminan = 子どもたちは公園に歩いていく。",
-    "hint": "los niños = 彼ら（三人称複数）"
+    "explanation": "'los niños' は3人称複数の主語(= ellos)です。\n- caminar → camin + an = caminan\n- Los niños caminan = 子どもたちは公園へ歩いて行きます。",
+    "hint": "los niños = 彼ら(3人称複数)"
   },
   "q_gram_a1_09_008": {
-    "question": "彼女は医学を勉強している。",
+    "question": "彼女は医学を学んでいます。",
     "correct": "Ella estudia medicina.",
     "wrong": [
       "Ella estudio medicina.",
       "Ella estudias medicina.",
       "Ella estudian medicina."
     ],
-    "explanation": "-ar動詞のella形は-aで終わります。\n- estudiar → estudi + = estudia\n- すべての-ar動詞は同じパターンに従います: -o, -as, -, -amos, -áis, -。"
+    "explanation": "-ar動詞では、ella の活用語尾は -a になります。\n- estudiar → estudi + a = estudia\n- すべての -ar 動詞は同じパターンです: -o, -as, -a, -amos, -áis, -an。",
+    "hint": null
   },
   "q_gram_a1_09_009": {
-    "question": "Vosotros ___ muy bien. (cantar を活用させる)",
+    "question": "Vosotros ___ muy bien. (cantar を活用させましょう)",
     "correct": "cantáis",
     "wrong": [
       "cantamos",
       "cantan",
       "cantas"
     ],
-    "explanation": "-ar動詞では、vosotrosの活用語尾は -áis になります。\n- cantar → cant + áis = cantáis\nこの形は主にスペインで使われます。",
+    "explanation": "-ar動詞では、vosotros の活用語尾は -áis になります。\n- cantar → cant + áis = cantáis\nこの形は主にスペインで使われます。",
     "conjugation_info": "cantar - 現在形: canto, cantas, canta, cantamos, cantáis, cantan",
     "hint": null
   },
@@ -1006,7 +1010,7 @@
       "Hablan español e inglés.",
       "Hablo español e inglés."
     ],
-    "explanation": "'i-' や 'hi-' で始まる語の前では、'y'(と)は 'e' に変わります。\n- español e inglés(*español y inglés ではない)\nこれは「イー」の音が重なるのを避けるための音声上の規則です。",
+    "explanation": "/i/ の音で始まる語(i-, hi-)の前では、'y'(と)は 'e' に変わります。\n- español e inglés(*español y inglés ではない)\n- padre e hijo\n- 例外: hie-/hia- の前では 'y' のままです(agua y hielo)。",
     "hint": null
   },
   "q_gram_a1_10_001": {
