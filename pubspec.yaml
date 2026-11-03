@@ -1,7 +1,7 @@
 name: easy_spanish_grammar_and_words
 description: "DELE Spanish Grammar & Vocabulary Learning App"
 publish_to: 'none'
-version: 1.5.1+16
+version: 1.5.2+17
 
 environment:
   sdk: ^3.10.0
@@ -27,7 +27,7 @@ dependencies:
 
   # Monetization
   google_mobile_ads: ^7.0.0
-  in_app_purchase: ^3.2.3
+  in_app_purchase: ^3.3.0
 
   # TTS (Text-to-Speech)
   flutter_tts: ^4.2.0
