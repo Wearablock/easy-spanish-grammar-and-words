@@ -1376,6 +1376,30 @@ abstract class AppLocalizations {
   /// In ko, this message translates to:
   /// **'NEW'**
   String get badgeNew;
+
+  /// No description provided for @speakPass.
+  ///
+  /// In ko, this message translates to:
+  /// **'좋아요! 잘 맞았어요.'**
+  String get speakPass;
+
+  /// No description provided for @speakAlmost.
+  ///
+  /// In ko, this message translates to:
+  /// **'거의 다 왔어요. 듣고 다시 해 봐요.'**
+  String get speakAlmost;
+
+  /// No description provided for @speakTryAgain.
+  ///
+  /// In ko, this message translates to:
+  /// **'아직이에요. 한 번 더 들어 봐요.'**
+  String get speakTryAgain;
+
+  /// No description provided for @speakSkip.
+  ///
+  /// In ko, this message translates to:
+  /// **'건너뛰기'**
+  String get speakSkip;
 }
 
 class _AppLocalizationsDelegate

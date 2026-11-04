@@ -10,11 +10,7 @@ class TheoryCard extends ConsumerWidget {
   final Topic topic;
   final VoidCallback onCompleted;
 
-  const TheoryCard({
-    super.key,
-    required this.topic,
-    required this.onCompleted,
-  });
+  const TheoryCard({super.key, required this.topic, required this.onCompleted});
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
@@ -29,8 +25,11 @@ class TheoryCard extends ConsumerWidget {
           // 이론 헤더 아이콘
           Row(
             children: [
-              Icon(Icons.menu_book,
-                  color: theme.colorScheme.secondary, size: 20),
+              Icon(
+                Icons.menu_book,
+                color: theme.colorScheme.secondary,
+                size: 20,
+              ),
               const SizedBox(width: 8),
               Text(
                 l10n.newLearning,
@@ -80,9 +79,9 @@ class TheoryCard extends ConsumerWidget {
             MarkdownBody(
               data: fixMarkdownBold(topic.theory),
               inlineSyntaxes: markdownInlineSyntaxes,
-              styleSheet: MarkdownStyleSheet.fromTheme(theme).copyWith(
-                p: theme.textTheme.bodyLarge?.copyWith(height: 1.6),
-              ),
+              styleSheet: MarkdownStyleSheet.fromTheme(
+                theme,
+              ).copyWith(p: theme.textTheme.bodyLarge?.copyWith(height: 1.6)),
               shrinkWrap: true,
               softLineBreak: true,
             ),
@@ -97,20 +96,24 @@ class TheoryCard extends ConsumerWidget {
               ),
             ),
             const SizedBox(height: 8),
-            ...topic.keyPoints!.map((point) => Padding(
-                  padding: const EdgeInsets.only(bottom: 4),
-                  child: Row(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      Text('• ',
-                          style: TextStyle(
-                            fontWeight: FontWeight.bold,
-                            color: theme.colorScheme.primary,
-                          )),
-                      Expanded(child: Text(point)),
-                    ],
-                  ),
-                )),
+            ...topic.keyPoints!.map(
+              (point) => Padding(
+                padding: const EdgeInsets.only(bottom: 4),
+                child: Row(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text(
+                      '• ',
+                      style: TextStyle(
+                        fontWeight: FontWeight.bold,
+                        color: theme.colorScheme.primary,
+                      ),
+                    ),
+                    Expanded(child: Text(point)),
+                  ],
+                ),
+              ),
+            ),
           ],
 
           // 어휘 목록
@@ -123,60 +126,62 @@ class TheoryCard extends ConsumerWidget {
               ),
             ),
             const SizedBox(height: 8),
-            ...topic.vocabList!.map((vocab) => Card(
-                  margin: const EdgeInsets.only(bottom: 8),
-                  child: Padding(
-                    padding: const EdgeInsets.all(12),
-                    child: Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
+            ...topic.vocabList!.map(
+              (vocab) => Card(
+                margin: const EdgeInsets.only(bottom: 8),
+                child: Padding(
+                  padding: const EdgeInsets.all(12),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Row(
+                        children: [
+                          Expanded(
+                            child: Text(
+                              vocab.word,
+                              style: theme.textTheme.titleSmall?.copyWith(
+                                fontWeight: FontWeight.bold,
+                                color: theme.colorScheme.primary,
+                              ),
+                            ),
+                          ),
+                          TtsButton(text: vocab.word, iconSize: 18),
+                          if (vocab.pronunciation != null) ...[
+                            const SizedBox(width: 4),
+                            Text(
+                              vocab.pronunciation!,
+                              style: theme.textTheme.bodySmall?.copyWith(
+                                color: theme.colorScheme.outline,
+                              ),
+                            ),
+                          ],
+                        ],
+                      ),
+                      const SizedBox(height: 4),
+                      Text(vocab.meaning),
+                      if (vocab.example != null) ...[
+                        const SizedBox(height: 4),
                         Row(
                           children: [
                             Expanded(
                               child: Text(
-                                vocab.word,
-                                style: theme.textTheme.titleSmall?.copyWith(
-                                  fontWeight: FontWeight.bold,
-                                  color: theme.colorScheme.primary,
-                                ),
-                              ),
-                            ),
-                            TtsButton(text: vocab.word, iconSize: 18),
-                            if (vocab.pronunciation != null) ...[
-                              const SizedBox(width: 4),
-                              Text(
-                                vocab.pronunciation!,
+                                vocab.example!,
                                 style: theme.textTheme.bodySmall?.copyWith(
+                                  fontStyle: FontStyle.italic,
                                   color: theme.colorScheme.outline,
                                 ),
                               ),
-                            ],
+                            ),
+                            const SizedBox(width: 4),
+                            TtsButton(text: vocab.example!, iconSize: 16),
                           ],
                         ),
-                        const SizedBox(height: 4),
-                        Text(vocab.meaning),
-                        if (vocab.example != null) ...[
-                          const SizedBox(height: 4),
-                          Row(
-                            children: [
-                              Expanded(
-                                child: Text(
-                                  vocab.example!,
-                                  style: theme.textTheme.bodySmall?.copyWith(
-                                    fontStyle: FontStyle.italic,
-                                    color: theme.colorScheme.outline,
-                                  ),
-                                ),
-                              ),
-                              const SizedBox(width: 4),
-                              TtsButton(text: vocab.example!, iconSize: 16),
-                            ],
-                          ),
-                        ],
                       ],
-                    ),
+                    ],
                   ),
-                )),
+                ),
+              ),
+            ),
           ],
 
           const SizedBox(height: 32),

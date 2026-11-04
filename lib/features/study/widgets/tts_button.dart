@@ -7,11 +7,7 @@ class TtsButton extends ConsumerWidget {
   final String text;
   final double iconSize;
 
-  const TtsButton({
-    super.key,
-    required this.text,
-    this.iconSize = 20,
-  });
+  const TtsButton({super.key, required this.text, this.iconSize = 20});
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {

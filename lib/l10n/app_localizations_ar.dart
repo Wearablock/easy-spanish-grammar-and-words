@@ -688,4 +688,16 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get badgeNew => 'جديد';
+
+  @override
+  String get speakPass => 'رائع! مطابق.';
+
+  @override
+  String get speakAlmost => 'تقريبًا. استمع وحاول مرة أخرى.';
+
+  @override
+  String get speakTryAgain => 'ليس بعد. استمع مرة أخرى.';
+
+  @override
+  String get speakSkip => 'تخطٍّ';
 }

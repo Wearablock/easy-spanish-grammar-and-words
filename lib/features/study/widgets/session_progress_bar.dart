@@ -11,10 +11,7 @@ class SessionProgressBar extends StatelessWidget {
       padding: const EdgeInsets.symmetric(horizontal: 24),
       child: ClipRRect(
         borderRadius: BorderRadius.circular(4),
-        child: LinearProgressIndicator(
-          value: progress,
-          minHeight: 6,
-        ),
+        child: LinearProgressIndicator(value: progress, minHeight: 6),
       ),
     );
   }

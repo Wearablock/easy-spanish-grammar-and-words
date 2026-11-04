@@ -692,4 +692,16 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get badgeNew => 'НОВОЕ';
+
+  @override
+  String get speakPass => 'Отлично! Совпадает.';
+
+  @override
+  String get speakAlmost => 'Почти. Послушайте и попробуйте ещё раз.';
+
+  @override
+  String get speakTryAgain => 'Пока нет. Послушайте ещё раз.';
+
+  @override
+  String get speakSkip => 'Пропустить';
 }

@@ -692,4 +692,16 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get badgeNew => 'NEW';
+
+  @override
+  String get speakPass => 'Nice! That matches.';
+
+  @override
+  String get speakAlmost => 'Almost. Listen and try again.';
+
+  @override
+  String get speakTryAgain => 'Not yet. Listen once more.';
+
+  @override
+  String get speakSkip => 'Skip';
 }

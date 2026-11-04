@@ -690,4 +690,16 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String get badgeNew => 'BARU';
+
+  @override
+  String get speakPass => 'Bagus! Sudah cocok.';
+
+  @override
+  String get speakAlmost => 'Hampir. Dengarkan dan coba lagi.';
+
+  @override
+  String get speakTryAgain => 'Belum. Dengarkan sekali lagi.';
+
+  @override
+  String get speakSkip => 'Lewati';
 }

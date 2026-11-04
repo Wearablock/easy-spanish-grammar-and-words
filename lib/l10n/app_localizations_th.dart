@@ -689,4 +689,16 @@ class AppLocalizationsTh extends AppLocalizations {
 
   @override
   String get badgeNew => 'ใหม่';
+
+  @override
+  String get speakPass => 'ดีมาก! ตรงกันแล้ว';
+
+  @override
+  String get speakAlmost => 'เกือบแล้ว ฟังแล้วลองอีกครั้ง';
+
+  @override
+  String get speakTryAgain => 'ยังไม่ใช่ ลองฟังอีกครั้ง';
+
+  @override
+  String get speakSkip => 'ข้าม';
 }

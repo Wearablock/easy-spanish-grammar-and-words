@@ -690,4 +690,16 @@ class AppLocalizationsVi extends AppLocalizations {
 
   @override
   String get badgeNew => 'MỚI';
+
+  @override
+  String get speakPass => 'Tốt lắm! Khớp rồi.';
+
+  @override
+  String get speakAlmost => 'Gần đúng. Nghe rồi thử lại nhé.';
+
+  @override
+  String get speakTryAgain => 'Chưa đúng. Nghe lại một lần nữa.';
+
+  @override
+  String get speakSkip => 'Bỏ qua';
 }

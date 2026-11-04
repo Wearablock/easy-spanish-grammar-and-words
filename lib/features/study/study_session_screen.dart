@@ -21,8 +21,7 @@ class StudySessionScreen extends ConsumerStatefulWidget {
   });
 
   @override
-  ConsumerState<StudySessionScreen> createState() =>
-      _StudySessionScreenState();
+  ConsumerState<StudySessionScreen> createState() => _StudySessionScreenState();
 }
 
 class _StudySessionScreenState extends ConsumerState<StudySessionScreen> {
@@ -156,8 +155,9 @@ class _StudySessionScreenState extends ConsumerState<StudySessionScreen> {
             const SizedBox(height: 24),
             ElevatedButton(
               onPressed: () {
-                final controller =
-                    ref.read(studySessionControllerProvider.notifier);
+                final controller = ref.read(
+                  studySessionControllerProvider.notifier,
+                );
                 if (widget.wrongAnswerIds != null) {
                   controller.startWrongAnswersSession(widget.wrongAnswerIds!);
                 } else if (widget.isReviewOnly) {

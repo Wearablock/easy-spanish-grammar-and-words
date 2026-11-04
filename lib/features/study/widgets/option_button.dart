@@ -113,8 +113,8 @@ class OptionButton extends StatelessWidget {
         final color = optionState == OptionState.selected
             ? Colors.white
             : (optionState == OptionState.disabled
-                ? theme.colorScheme.outline
-                : theme.colorScheme.onSurface);
+                  ? theme.colorScheme.outline
+                  : theme.colorScheme.onSurface);
         return Text(
           '${index + 1}',
           style: TextStyle(

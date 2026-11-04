@@ -33,10 +33,7 @@ class QuestionHeader extends StatelessWidget {
           ),
           const SizedBox(height: 16),
         ],
-        Text(
-          questionText,
-          style: theme.textTheme.titleLarge,
-        ),
+        Text(questionText, style: theme.textTheme.titleLarge),
       ],
     );
   }

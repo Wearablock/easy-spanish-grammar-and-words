@@ -680,6 +680,18 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get badgeNew => '新';
+
+  @override
+  String get speakPass => '很好！说对了。';
+
+  @override
+  String get speakAlmost => '差一点。听一听再试一次。';
+
+  @override
+  String get speakTryAgain => '还不够。再听一遍。';
+
+  @override
+  String get speakSkip => '跳过';
 }
 
 /// The translations for Chinese, using the Han script (`zh_Hant`).
@@ -1358,4 +1370,16 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
 
   @override
   String get badgeNew => '新';
+
+  @override
+  String get speakPass => '很好！說對了。';
+
+  @override
+  String get speakAlmost => '差一點。聽一聽再試一次。';
+
+  @override
+  String get speakTryAgain => '還不夠。再聽一遍。';
+
+  @override
+  String get speakSkip => '略過';
 }

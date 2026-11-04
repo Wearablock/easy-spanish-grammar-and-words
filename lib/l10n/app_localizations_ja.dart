@@ -681,4 +681,16 @@ class AppLocalizationsJa extends AppLocalizations {
 
   @override
   String get badgeNew => 'NEW';
+
+  @override
+  String get speakPass => 'いいですね！合っています。';
+
+  @override
+  String get speakAlmost => 'あと少し。聞いてもう一度。';
+
+  @override
+  String get speakTryAgain => 'まだです。もう一度聞いてみましょう。';
+
+  @override
+  String get speakSkip => 'スキップ';
 }

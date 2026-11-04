@@ -681,4 +681,16 @@ class AppLocalizationsKo extends AppLocalizations {
 
   @override
   String get badgeNew => 'NEW';
+
+  @override
+  String get speakPass => '좋아요! 잘 맞았어요.';
+
+  @override
+  String get speakAlmost => '거의 다 왔어요. 듣고 다시 해 봐요.';
+
+  @override
+  String get speakTryAgain => '아직이에요. 한 번 더 들어 봐요.';
+
+  @override
+  String get speakSkip => '건너뛰기';
 }

@@ -225,5 +225,21 @@
   "badgeNew": "NEW",
   "@badgeNew": {
     "description": "Small badge on a new feature card"
+  },
+  "speakPass": "Nice! That matches.",
+  "speakAlmost": "Almost. Listen and try again.",
+  "speakTryAgain": "Not yet. Listen once more.",
+  "speakSkip": "Skip",
+  "@speakPass": {
+    "description": "Speaking result 80%+ (1.6.0 speak step in every question)"
+  },
+  "@speakAlmost": {
+    "description": "Speaking result 60-79%"
+  },
+  "@speakTryAgain": {
+    "description": "Speaking result under 60%"
+  },
+  "@speakSkip": {
+    "description": "Skip the speak step for this question"
   }
 }

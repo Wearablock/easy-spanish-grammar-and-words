@@ -9,13 +9,7 @@ import '../../../data/providers/topic_providers.dart';
 import '../../../data/providers/database_providers.dart';
 import '../../../services/ad_service.dart';
 
-enum StudySessionStatus {
-  initial,
-  loading,
-  inProgress,
-  completed,
-  error,
-}
+enum StudySessionStatus { initial, loading, inProgress, completed, error }
 
 class StudySessionState {
   final StudySessionStatus status;
@@ -125,8 +119,7 @@ class StudySessionController extends StateNotifier<StudySessionState> {
     state = state.copyWith(status: StudySessionStatus.loading);
     try {
       final studyService = _ref.read(studyServiceProvider);
-      final session =
-          studyService.createWrongAnswersRetrySession(questionIds);
+      final session = studyService.createWrongAnswersRetrySession(questionIds);
 
       if (session.isEmpty) {
         state = state.copyWith(
@@ -270,5 +263,5 @@ class StudySessionController extends StateNotifier<StudySessionState> {
 /// Provider 정의
 final studySessionControllerProvider =
     StateNotifierProvider<StudySessionController, StudySessionState>((ref) {
-  return StudySessionController(ref);
-});
+      return StudySessionController(ref);
+    });

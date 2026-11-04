@@ -273,20 +273,20 @@ class _StudyResultScreenState extends ConsumerState<StudyResultScreen> {
               ElevatedButton(
                 onPressed: () => _startNewSession(isReview: true),
                 child: Text(
-                    l10n.continueReviewWithCount(summary.reviewDueCount)),
+                  l10n.continueReviewWithCount(summary.reviewDueCount),
+                ),
               ),
             if (!summary.allTopicsCompleted)
               ElevatedButton(
                 onPressed: () => _startNewSession(isReview: false),
-                child: Text(widget.isReviewSession
-                    ? l10n.newLearning
-                    : l10n.additionalStudy),
+                child: Text(
+                  widget.isReviewSession
+                      ? l10n.newLearning
+                      : l10n.additionalStudy,
+                ),
               ),
             const SizedBox(height: 12),
-            OutlinedButton(
-              onPressed: _goHome,
-              child: Text(l10n.goHome),
-            ),
+            OutlinedButton(onPressed: _goHome, child: Text(l10n.goHome)),
           ],
         );
       },
@@ -296,12 +296,7 @@ class _StudyResultScreenState extends ConsumerState<StudyResultScreen> {
   Widget _buildDefaultButtons(BuildContext context, AppLocalizations l10n) {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.stretch,
-      children: [
-        OutlinedButton(
-          onPressed: _goHome,
-          child: Text(l10n.goHome),
-        ),
-      ],
+      children: [OutlinedButton(onPressed: _goHome, child: Text(l10n.goHome))],
     );
   }
 
