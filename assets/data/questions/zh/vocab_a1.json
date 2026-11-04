@@ -884,7 +884,7 @@
     "correct": "厨房",
     "wrong": [
       "卧室",
-      "浴室",
+      "卫生间",
       "客厅"
     ],
     "explanation": "“Cocina”的意思是“厨房”。根据语境,它也可以表示“烹饪”或“炉灶”。",
@@ -898,7 +898,7 @@
       "墙",
       "屋顶"
     ],
-    "explanation": "“Ventana”的意思是“窗户”。“Abrir la ventana”= “打开窗户”。",
+    "explanation": "“Ventana”的意思是“窗户”。“Abrir la ventana”= 打开窗户。",
     "hint": null
   },
   "q_vocab_a1_09_003": {
@@ -909,7 +909,8 @@
       "silla",
       "puerta"
     ],
-    "explanation": "'Cama' 意思是 'bed'. sentence says 'I sleep 在 bed every night'."
+    "explanation": "“Cama”的意思是“床”。这句话的意思是“我每天晚上睡在床上”。",
+    "hint": null
   },
   "q_vocab_a1_09_004": {
     "question": "“puerta”是什么意思?",
@@ -919,7 +920,7 @@
       "地板",
       "天花板"
     ],
-    "explanation": "“Puerta”的意思是“门”。“Abrir la puerta”= “开门”,“cerrar la puerta”= “关门”。",
+    "explanation": "“Puerta”的意思是“门”。“Abrir la puerta”= 开门,“cerrar la puerta”= 关门。",
     "hint": null
   },
   "q_vocab_a1_09_005": {
@@ -930,18 +931,19 @@
       "床",
       "桌子"
     ],
-    "explanation": "“Sofá”的意思是“沙发”。整句话的意思是“我坐在沙发上”。沙发通常放在“salón”(客厅)里。",
+    "explanation": "“Sofá”的意思是“沙发”。这句话的意思是“我坐在沙发上”。沙发通常放在“salón”(客厅)里。",
     "hint": null
   },
   "q_vocab_a1_09_006": {
-    "question": " mirror 是 在 bathroom.",
+    "question": "镜子在卫生间里。",
     "correct": "El espejo está en el baño.",
     "wrong": [
       "El espejo está en la cocina.",
       "La lámpara está en el baño.",
       "El armario está en el baño."
     ],
-    "explanation": "'Espejo' 意思是 'mirror' 和 'baño' 意思是 'bathroom'. We 使用 'está' 为 位置."
+    "explanation": "“Espejo”的意思是“镜子”,“baño”的意思是“卫生间”。表示位置时我们用“está”。",
+    "hint": null
   },
   "q_vocab_a1_09_007": {
     "question": "在“La ropa está en el armario”中,“armario”是什么意思?",
@@ -951,38 +953,41 @@
       "架子",
       "盒子"
     ],
-    "explanation": "“Armario”的意思是“衣柜”或“柜子”。整句话的意思是“衣服在衣柜里”。",
+    "explanation": "“Armario”的意思是“衣柜”。这句话的意思是“衣服在衣柜里”。",
     "hint": null
   },
   "q_vocab_a1_09_008": {
     "question": "Hay una estantería con muchos libros en el salón.",
-    "correct": "There is a bookshelf with many books in the living room.",
+    "correct": "客厅里有一个放着很多书的书架。",
     "wrong": [
-      "There is a table with many books in the kitchen.",
-      "There is a bookshelf with many books in the bedroom.",
-      "There is a lamp with many books in the living room."
+      "厨房里有一张放着很多书的桌子。",
+      "卧室里有一个放着很多书的书架。",
+      "客厅里有一盏放着很多书的灯。"
     ],
-    "explanation": "'Estantería' 意思是 'bookshelf/shelving unit' 和 'salón' 意思是 'living room'. 'Hay' 意思是 '那里 是/那里 是'."
+    "explanation": "“Estantería”的意思是“书架/置物架”,“salón”的意思是“客厅”。“Hay”表示“有”。",
+    "hint": null
   },
   "q_vocab_a1_09_009": {
-    "question": "你 是 looking 为 an apartment 和 want 到 ask if 它 有 a garden. 什么 do 你 say?",
+    "question": "你在找公寓,想问问它有没有花园。你会怎么说?",
     "correct": "¿El piso tiene jardín?",
     "wrong": [
       "¿El piso tiene cocina?",
       "¿El piso tiene dormitorio?",
       "¿El piso tiene baño?"
     ],
-    "explanation": "'Jardín' 意思是 'garden'. 'Piso' 意思是 'apartment' 在 西班牙. 这 是 a 常见 question 什么时候 apartment hunting."
+    "explanation": "“Jardín”的意思是“花园”。在西班牙,“piso”指“公寓”。这是找房子时常问的问题。",
+    "hint": null
   },
   "q_vocab_a1_09_010": {
-    "question": "A friend 是 visiting 你的 home. 如何 do 你 say ' bedroom 是 next 到 bathroom'?",
+    "question": "朋友来你家做客。你怎么说“卧室在卫生间旁边”?",
     "correct": "El dormitorio está al lado del baño.",
     "wrong": [
       "El dormitorio está lejos del baño.",
       "La cocina está al lado del baño.",
       "El dormitorio está en el baño."
     ],
-    "explanation": "'Dormitorio' 意思是 'bedroom', 'al lado de' 意思是 'next 到', 和 'baño' 意思是 'bathroom'."
+    "explanation": "“Dormitorio”的意思是“卧室”,“al lado de”的意思是“在……旁边”,“baño”的意思是“卫生间”。",
+    "hint": null
   },
   "q_vocab_a1_10_001": {
     "question": "“libro”是什么意思?",
@@ -999,11 +1004,12 @@
     "question": "El estudiante escribe en el ___.",
     "correct": "cuaderno",
     "wrong": [
-      "libro",
-      "examen",
+      "lápiz",
+      "bolígrafo",
       "pizarra"
     ],
-    "explanation": "'Cuaderno' 意思是 'notebook'. sentence says ' student writes 在 notebook'."
+    "explanation": "“Cuaderno”的意思是“笔记本”。这句话的意思是“学生在笔记本上写字”。\n- 在笔记本上写:escribir en el cuaderno\n- 用铅笔或钢笔写:escribir con el lápiz / el bolígrafo",
+    "hint": null
   },
   "q_vocab_a1_10_003": {
     "question": "“profesor”是什么意思?",
@@ -1024,18 +1030,19 @@
       "课",
       "成绩"
     ],
-    "explanation": "“Examen”的意思是“考试”或“测验”。复数是“exámenes”(注意重音位置的变化)。",
+    "explanation": "“Examen”的意思是“考试”或“测验”。复数形式是“exámenes”。\n- 重音始终落在“exa-”的“a”上,所以复数形式需要加重音符号。",
     "hint": null
   },
   "q_vocab_a1_10_005": {
-    "question": "I study at library.",
+    "question": "我在图书馆学习。",
     "correct": "Estudio en la biblioteca.",
     "wrong": [
       "Estudio en la librería.",
       "Estudio en la escuela.",
       "Estudio en el aula."
     ],
-    "explanation": "'Biblioteca' 意思是 'library'. 是 careful: 'librería' 意思是 'bookstore', not 'library'."
+    "explanation": "“Biblioteca”的意思是“图书馆”。注意:“librería”是“书店”,不是“图书馆”。",
+    "hint": null
   },
   "q_vocab_a1_10_006": {
     "question": "在“El profesor escribe en la pizarra”中,“pizarra”是什么意思?",
@@ -1045,18 +1052,19 @@
       "笔记本",
       "课本"
     ],
-    "explanation": "“Pizarra”的意思是“黑板”或“白板”。整句话的意思是“老师在黑板上写字”。",
+    "explanation": "“Pizarra”的意思是“黑板”或“白板”。这句话的意思是“老师在黑板上写字”。",
     "hint": null
   },
   "q_vocab_a1_10_007": {
-    "question": "你 forgot 到 do 你的 homework. 如何 do 你 tell 你的 teacher?",
+    "question": "你忘了做作业。你怎么对老师说?",
     "correct": "Lo siento, no tengo la tarea.",
     "wrong": [
       "Lo siento, no tengo el libro.",
       "Lo siento, no tengo el bolígrafo.",
       "Lo siento, no tengo el examen."
     ],
-    "explanation": "'Tarea' 意思是 'homework' 或 'assignment'. 'Deberes' 是 也 用过的 在 西班牙 为 homework."
+    "explanation": "“Tarea”的意思是“作业”或“任务”。在西班牙,“deberes”也常用来指作业。",
+    "hint": null
   },
   "q_vocab_a1_10_008": {
     "question": "在“Necesito un lápiz”中,“lápiz”是什么意思?",
@@ -1066,28 +1074,29 @@
       "橡皮",
       "尺子"
     ],
-    "explanation": "“Lápiz”的意思是“铅笔”。复数形式是“lápices”。钢笔是“bolígrafo”(口语中也说“boli”)。",
+    "explanation": "“Lápiz”的意思是“铅笔”。复数形式是“lápices”。钢笔是“bolígrafo”(口语中说“boli”)。",
     "hint": null
   },
   "q_vocab_a1_10_009": {
     "question": "Mi hermana estudia en la universidad.",
-    "correct": "My sister studies at the university.",
+    "correct": "我姐姐/妹妹在大学读书。",
     "wrong": [
-      "My sister studies at the school.",
-      "My brother studies at the university.",
-      "My sister works at the university."
+      "我姐姐/妹妹在中小学读书。",
+      "我哥哥/弟弟在大学读书。",
+      "我姐姐/妹妹在大学工作。"
     ],
-    "explanation": "'Universidad' 意思是 'university'. 'Estudiar en la universidad' = '到 study at university'."
+    "explanation": "“Universidad”的意思是“大学”。“Estudiar en la universidad”就是“上大学、在大学读书”。",
+    "hint": null
   },
   "q_vocab_a1_10_010": {
-    "question": "你需要向同学借一支笔。你会怎么说?",
+    "question": "你需要向同学借一支钢笔。你会怎么说?",
     "correct": "¿Me prestas un bolígrafo?",
     "wrong": [
       "¿Me prestas un lápiz?",
       "¿Me prestas un cuaderno?",
       "¿Me prestas un libro?"
     ],
-    "explanation": "“Bolígrafo”的意思是“钢笔/圆珠笔”。“¿Me prestas...?”的意思是“你能借我……吗?”,在同学之间很常用。",
+    "explanation": "“Bolígrafo”的意思是“钢笔”(圆珠笔)。“¿Me prestas...?”的意思是“你能借我……吗?”,同学之间很常用。",
     "hint": null
   },
   "q_vocab_a1_11_001": {
@@ -1120,7 +1129,8 @@
       "dentista",
       "policía"
     ],
-    "explanation": "'Cocinero' 意思是 'cook/chef'. sentence says ' cook prepares food 在 restaurant'."
+    "explanation": "“Cocinero”的意思是“厨师”。这句话的意思是“厨师在餐厅准备饭菜”。",
+    "hint": null
   },
   "q_vocab_a1_11_004": {
     "question": "“enfermero”是什么意思?",
@@ -1130,7 +1140,7 @@
       "牙医",
       "病人"
     ],
-    "explanation": "“Enfermero”的意思是“护士”(男性)。“Enfermera”是阴性形式。他们在医院和诊所工作。",
+    "explanation": "“Enfermero”的意思是“护士”(男)。“Enfermera”是阴性形式。他们在医院和诊所工作。",
     "hint": null
   },
   "q_vocab_a1_11_005": {
@@ -1141,18 +1151,19 @@
       "编辑",
       "摄影师"
     ],
-    "explanation": "“Periodista”的意思是“记者”。这个词的阳性和阴性形式相同。这句话的意思是“这位记者在一家报社工作”。",
+    "explanation": "“Periodista”的意思是“记者”。这个词的阳性和阴性形式相同。这句话的意思是“记者在报社工作”。",
     "hint": null
   },
   "q_vocab_a1_11_006": {
-    "question": "My father 是 an engineer.",
+    "question": "我的父亲是工程师。",
     "correct": "Mi padre es ingeniero.",
     "wrong": [
       "Mi padre es abogado.",
       "Mi padre es profesor.",
       "Mi padre es médico."
     ],
-    "explanation": "'Ingeniero' 意思是 'engineer'. 在 西班牙语, professions 之后 'ser' typically don't 使用 an 冠词 (no 'un')."
+    "explanation": "“Ingeniero”的意思是“工程师”。在西班牙语中,ser 后面表示职业时通常不用冠词(不加“un”)。",
+    "hint": null
   },
   "q_vocab_a1_11_007": {
     "question": "在“El camarero trae la cuenta”中,“camarero”是什么意思?",
@@ -1167,33 +1178,36 @@
   },
   "q_vocab_a1_11_008": {
     "question": "Soy estudiante de medicina. Quiero ser médico.",
-    "correct": "I am a medical student. I want to be a doctor.",
+    "correct": "我是医学院的学生。我想当医生。",
     "wrong": [
-      "I am a law student. I want to be a lawyer.",
-      "I am a medical student. I want to be a nurse.",
-      "I am an art student. I want to be a doctor."
+      "我是法学院的学生。我想当律师。",
+      "我是医学院的学生。我想当护士。",
+      "我是艺术专业的学生。我想当医生。"
     ],
-    "explanation": "'Estudiante de medicina' 意思是 'medical student'. 'Quiero ser' 意思是 'I want 到 是'."
+    "explanation": "“Estudiante de medicina”的意思是“医学生”。“Quiero ser”的意思是“我想成为”。",
+    "hint": null
   },
   "q_vocab_a1_11_009": {
-    "question": "你 meet someone at a party 和 他们 ask 什么 你 do. 如何 do 你 say 'I am a teacher'?",
+    "question": "你在派对上遇到一个人,对方问你做什么工作。你怎么说“我是老师”?",
     "correct": "Soy profesor.",
     "wrong": [
       "Soy estudiante.",
-      "Soy un profesor.",
+      "Es profesor.",
       "Estoy profesor."
     ],
-    "explanation": "We 使用 'soy' (not 'estoy') 为 professions 因为 他们 是 considered 永久 traits. No 冠词 是 needed 之前 职业."
+    "explanation": "表示职业用“ser”(soy),而不是“estar”。\n- Soy profesor. = 我是老师。\n- Es profesor. = 他是老师。\n- 只说职业名称时,西班牙语省略“un”:Soy profesor.",
+    "hint": null
   },
   "q_vocab_a1_11_010": {
-    "question": "你 call emergency services. 如何 do 你 ask 为 police?",
+    "question": "你拨打紧急电话。你怎么请求警察?",
     "correct": "¡Necesito la policía!",
     "wrong": [
       "¡Necesito un médico!",
       "¡Necesito un bombero!",
       "¡Necesito una ambulancia!"
     ],
-    "explanation": "'Policía' 可以 意思 'police' ( force) 或 'police officer'. 这里 它 指 calling police."
+    "explanation": "“Policía”既可以指“警察部门”(整个机构),也可以指“警察”(个人)。这里指的是叫警察。",
+    "hint": null
   },
   "q_vocab_a1_12_001": {
     "question": "“sol”是什么意思?",

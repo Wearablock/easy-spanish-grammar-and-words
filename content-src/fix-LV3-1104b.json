@@ -1,0 +1,57 @@
+{
+  "q_vocab_a1_11_009": {
+    "question": "You meet someone at a party and they ask what you do. How do you say 'I am a teacher'?",
+    "correct": "Soy profesor.",
+    "wrong": [
+      "Soy estudiante.",
+      "Es profesor.",
+      "Estoy profesor."
+    ],
+    "explanation": "For jobs we use 'ser' (soy), not 'estar'.\n- Soy profesor. = I am a teacher.\n- Es profesor. = He is a teacher.\n- With a job title alone, Spanish leaves out 'un': Soy profesor.",
+    "hint": null
+  },
+  "q_gram_a1_12_002": {
+    "question": "___ amigos son simpáticos. (my friends)",
+    "correct": "Mis",
+    "wrong": [
+      "Mi",
+      "Tus",
+      "Su"
+    ],
+    "explanation": "'amigos' is plural, so we use 'mis' (my, plural).\n- mi amigo → mis amigos\nmi/tu/su change only for number, not gender.",
+    "hint": "What is the plural form of 'mi'?"
+  },
+  "q_gram_a1_12_003": {
+    "question": "¿Cuál es ___ nombre? (your, informal)",
+    "correct": "tu",
+    "wrong": [
+      "tú",
+      "su",
+      "mi"
+    ],
+    "explanation": "'tu' (without accent) is a possessive adjective meaning 'your'.\n- ¿Cuál es tu nombre? = What is your name?\nNote: 'tú' (with accent) is the subject pronoun 'you'.",
+    "hint": "The possessive 'your' has no accent mark"
+  },
+  "q_gram_a1_12_006": {
+    "question": "Ella habla con ___ padres. (her parents)",
+    "correct": "sus",
+    "wrong": [
+      "su",
+      "mis",
+      "tus"
+    ],
+    "explanation": "'padres' is plural, so the possessive must also be plural: 'sus'.\n- su padre → sus padres\nRemember: possessives agree with the thing possessed.",
+    "hint": "Plural nouns need plural possessives"
+  },
+  "q_gram_a1_12_010": {
+    "question": "___ profesores son muy buenos. (our teachers — fill in the correct possessive)",
+    "correct": "Nuestros",
+    "wrong": [
+      "Nuestro",
+      "Nuestra",
+      "Nuestras"
+    ],
+    "explanation": "'profesores' is masculine plural, so we need 'nuestros'.\n- nuestro profesor → nuestros profesores\nnuestro/a/os/as and vuestro/a/os/as change for both gender and number. mi/tu/su change only for number.",
+    "hint": null
+  }
+}

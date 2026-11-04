@@ -896,24 +896,26 @@
     "hint": null
   },
   "q_vocab_a1_09_001": {
-    "question": "Nghĩa của 'cocina' là gì?",
-    "correct": "kitchen",
+    "question": "'cocina' có nghĩa là gì?",
+    "correct": "nhà bếp",
     "wrong": [
-      "bedroom",
-      "bathroom",
-      "living room"
+      "phòng ngủ",
+      "phòng tắm",
+      "phòng khách"
     ],
-    "explanation": "'Cocina' có nghĩa là 'kitchen'. nó có thể cũng có nghĩa 'cooking' hoặc 'stove' depending on context."
+    "explanation": "'Cocina' nghĩa là 'nhà bếp'. Tùy ngữ cảnh, từ này còn có thể nghĩa là 'việc nấu nướng' hoặc 'bếp lò'.",
+    "hint": null
   },
   "q_vocab_a1_09_002": {
-    "question": "Nghĩa của 'ventana' là gì?",
-    "correct": "window",
+    "question": "'ventana' có nghĩa là gì?",
+    "correct": "cửa sổ",
     "wrong": [
-      "door",
-      "wall",
-      "roof"
+      "cửa ra vào",
+      "bức tường",
+      "mái nhà"
     ],
-    "explanation": "'Ventana' có nghĩa là 'window'. 'Abrir la ventana' = 'để open window'."
+    "explanation": "'Ventana' nghĩa là 'cửa sổ'. 'Abrir la ventana' = 'mở cửa sổ'.",
+    "hint": null
   },
   "q_vocab_a1_09_003": {
     "question": "Duermo en la ___ todas las noches.",
@@ -923,201 +925,221 @@
       "silla",
       "puerta"
     ],
-    "explanation": "'Cama' có nghĩa là 'bed'. Câu nói 'I sleep trong bed every night'."
+    "explanation": "'Cama' nghĩa là 'giường'. Câu này nói 'Tôi ngủ trên giường mỗi đêm'.",
+    "hint": null
   },
   "q_vocab_a1_09_004": {
-    "question": "Nghĩa của 'puerta' là gì?",
-    "correct": "door",
+    "question": "'puerta' có nghĩa là gì?",
+    "correct": "cửa ra vào",
     "wrong": [
-      "window",
-      "floor",
-      "ceiling"
+      "cửa sổ",
+      "sàn nhà",
+      "trần nhà"
     ],
-    "explanation": "'Puerta' có nghĩa là 'door'. 'Abrir la puerta' = 'để open door', 'cerrar la puerta' = 'để close door'."
+    "explanation": "'Puerta' nghĩa là 'cửa ra vào'. 'Abrir la puerta' = 'mở cửa', 'cerrar la puerta' = 'đóng cửa'.",
+    "hint": null
   },
   "q_vocab_a1_09_005": {
-    "question": "Nghĩa của 'sofá' trong 'Me siento en el sofá' là gì?",
-    "correct": "sofa / couch",
+    "question": "'sofá' có nghĩa là gì trong câu 'Me siento en el sofá'?",
+    "correct": "ghế sofa",
     "wrong": [
-      "ghế",
-      "bed",
-      "bàn"
+      "cái ghế",
+      "cái giường",
+      "cái bàn"
     ],
-    "explanation": "'Sofá' có nghĩa là 'sofa' hoặc 'couch'. sentence có nghĩa là 'I sit on sofa'. nó là thường trong 'salón' (living room)."
+    "explanation": "'Sofá' nghĩa là 'ghế sofa'. Câu này có nghĩa là 'Tôi ngồi trên ghế sofa'. Nó thường được đặt ở 'salón' (phòng khách).",
+    "hint": null
   },
   "q_vocab_a1_09_006": {
-    "question": " mirror là trong bathroom.",
+    "question": "Cái gương ở trong phòng tắm.",
     "correct": "El espejo está en el baño.",
     "wrong": [
       "El espejo está en la cocina.",
       "La lámpara está en el baño.",
       "El armario está en el baño."
     ],
-    "explanation": "'Espejo' có nghĩa là 'mirror' và 'baño' có nghĩa là 'bathroom'. Chúng ta sử dụng 'está' cho location."
+    "explanation": "'Espejo' nghĩa là 'cái gương' và 'baño' nghĩa là 'phòng tắm'. Ta dùng 'está' để nói về vị trí.",
+    "hint": null
   },
   "q_vocab_a1_09_007": {
-    "question": "Nghĩa của 'armario' trong 'La ropa está en el armario' là gì?",
-    "correct": "wardrobe / closet",
+    "question": "'armario' có nghĩa là gì trong câu 'La ropa está en el armario'?",
+    "correct": "tủ quần áo",
     "wrong": [
-      "drawer",
-      "shelf",
-      "box"
+      "ngăn kéo",
+      "kệ",
+      "cái hộp"
     ],
-    "explanation": "'Armario' có nghĩa là 'wardrobe' hoặc 'closet'. sentence có nghĩa là ' clothes là trong wardrobe'."
+    "explanation": "'Armario' nghĩa là 'tủ quần áo'. Câu này có nghĩa là 'Quần áo ở trong tủ'.",
+    "hint": null
   },
   "q_vocab_a1_09_008": {
     "question": "Hay una estantería con muchos libros en el salón.",
-    "correct": "There is a bookshelf with many books in the living room.",
+    "correct": "Có một giá sách với nhiều quyển sách trong phòng khách.",
     "wrong": [
-      "There is a table with many books in the kitchen.",
-      "There is a bookshelf with many books in the bedroom.",
-      "There is a lamp with many books in the living room."
+      "Có một cái bàn với nhiều quyển sách trong nhà bếp.",
+      "Có một giá sách với nhiều quyển sách trong phòng ngủ.",
+      "Có một cái đèn với nhiều quyển sách trong phòng khách."
     ],
-    "explanation": "'Estantería' có nghĩa là 'bookshelf/shelving unit' và 'salón' có nghĩa là 'living room'. 'Hay' có nghĩa là 'Có/Có'."
+    "explanation": "'Estantería' nghĩa là 'giá sách/kệ sách' và 'salón' nghĩa là 'phòng khách'. 'Hay' nghĩa là 'có'.",
+    "hint": null
   },
   "q_vocab_a1_09_009": {
-    "question": "bạn là looking cho an apartment và want đến ask if nó có a garden. gì do bạn say?",
+    "question": "Bạn đang tìm căn hộ và muốn hỏi xem nó có vườn không. Bạn nói gì?",
     "correct": "¿El piso tiene jardín?",
     "wrong": [
       "¿El piso tiene cocina?",
       "¿El piso tiene dormitorio?",
       "¿El piso tiene baño?"
     ],
-    "explanation": "'Jardín' có nghĩa là 'garden'. 'Piso' có nghĩa là 'apartment' trong Spain. Đây là a phổ biến question khi nào apartment hunting.",
-    "context": "Looking tại apartments with a real estate agent"
+    "explanation": "'Jardín' nghĩa là 'vườn'. 'Piso' nghĩa là 'căn hộ' ở Tây Ban Nha. Đây là câu hỏi thường gặp khi đi tìm nhà.",
+    "context": "Looking tại apartments with a real estate agent",
+    "hint": null
   },
   "q_vocab_a1_09_010": {
-    "question": "A friend là visiting của bạn home. như thế nào do bạn say ' bedroom là next đến bathroom'?",
+    "question": "Một người bạn đến chơi nhà bạn. Bạn nói 'Phòng ngủ ở cạnh phòng tắm' như thế nào?",
     "correct": "El dormitorio está al lado del baño.",
     "wrong": [
       "El dormitorio está lejos del baño.",
       "La cocina está al lado del baño.",
       "El dormitorio está en el baño."
     ],
-    "explanation": "'Dormitorio' có nghĩa là 'bedroom', 'al lado de' có nghĩa là 'next để', và 'baño' có nghĩa là 'bathroom'.",
-    "context": "Giving a tour của your home để a friend"
+    "explanation": "'Dormitorio' nghĩa là 'phòng ngủ', 'al lado de' nghĩa là 'bên cạnh', và 'baño' nghĩa là 'phòng tắm'.",
+    "context": "Giving a tour của your home để a friend",
+    "hint": null
   },
   "q_vocab_a1_10_001": {
-    "question": "Nghĩa của 'libro' là gì?",
+    "question": "'libro' nghĩa là gì?",
     "correct": "sách",
     "wrong": [
-      "notebook",
-      "pencil",
-      "bút"
+      "vở",
+      "bút chì",
+      "bút bi"
     ],
-    "explanation": "'Libro' có nghĩa là 'book'. 'Librería' có nghĩa là 'bookstore' (not 'library', là 'biblioteca')."
+    "explanation": "'Libro' nghĩa là 'sách'. 'Librería' nghĩa là 'hiệu sách' (không phải 'thư viện', từ đó là 'biblioteca').",
+    "hint": null
   },
   "q_vocab_a1_10_002": {
     "question": "El estudiante escribe en el ___.",
     "correct": "cuaderno",
     "wrong": [
-      "libro",
-      "examen",
+      "lápiz",
+      "bolígrafo",
       "pizarra"
     ],
-    "explanation": "'Cuaderno' có nghĩa là 'notebook'. Câu nói ' student writes trong notebook'."
+    "explanation": "'Cuaderno' nghĩa là 'quyển vở'. Câu này có nghĩa là 'Học sinh viết vào quyển vở'.\n- Viết vào vở: escribir en el cuaderno\n- Viết bằng bút chì hoặc bút bi: escribir con el lápiz / el bolígrafo",
+    "hint": null
   },
   "q_vocab_a1_10_003": {
-    "question": "Nghĩa của 'profesor' là gì?",
-    "correct": "teacher / professor",
+    "question": "'profesor' nghĩa là gì?",
+    "correct": "giáo viên / giáo sư",
     "wrong": [
       "học sinh",
-      "principal",
-      "classmate"
+      "hiệu trưởng",
+      "bạn cùng lớp"
     ],
-    "explanation": "'Profesor' có nghĩa là 'teacher' hoặc 'professor'. nữ tính form là 'profesora'."
+    "explanation": "'Profesor' nghĩa là 'giáo viên' hoặc 'giáo sư'. Dạng giống cái là 'profesora'.",
+    "hint": null
   },
   "q_vocab_a1_10_004": {
-    "question": "Nghĩa của 'examen' là gì?",
-    "correct": "exam / test",
+    "question": "'examen' nghĩa là gì?",
+    "correct": "kỳ thi / bài kiểm tra",
     "wrong": [
-      "homework",
-      "class",
-      "grade"
+      "bài tập về nhà",
+      "lớp học",
+      "điểm số"
     ],
-    "explanation": "'Examen' có nghĩa là 'exam' hoặc 'test'. số nhiều là 'exámenes' (note accent shift)."
+    "explanation": "'Examen' nghĩa là 'kỳ thi' hoặc 'bài kiểm tra'. Dạng số nhiều là 'exámenes'.\n- Trọng âm vẫn nằm ở chữ 'a' trong 'exa-', nên dạng số nhiều cần có dấu sắc.",
+    "hint": null
   },
   "q_vocab_a1_10_005": {
-    "question": "I study at library.",
+    "question": "Tôi học ở thư viện.",
     "correct": "Estudio en la biblioteca.",
     "wrong": [
       "Estudio en la librería.",
       "Estudio en la escuela.",
       "Estudio en el aula."
     ],
-    "explanation": "'Biblioteca' có nghĩa là 'library'. là careful: 'librería' có nghĩa là 'bookstore', not 'library'."
+    "explanation": "'Biblioteca' nghĩa là 'thư viện'. Hãy cẩn thận: 'librería' nghĩa là 'hiệu sách', không phải 'thư viện'.",
+    "hint": null
   },
   "q_vocab_a1_10_006": {
-    "question": "Nghĩa của 'pizarra' trong 'El profesor escribe en la pizarra' là gì?",
-    "correct": "blackboard / whiteboard",
+    "question": "'pizarra' nghĩa là gì trong câu 'El profesor escribe en la pizarra'?",
+    "correct": "bảng đen / bảng trắng",
     "wrong": [
-      "desk",
-      "notebook",
-      "textbook"
+      "bàn học",
+      "quyển vở",
+      "sách giáo khoa"
     ],
-    "explanation": "'Pizarra' có nghĩa là 'blackboard' hoặc 'whiteboard'. sentence có nghĩa là ' teacher writes on board'."
+    "explanation": "'Pizarra' nghĩa là 'bảng đen' hoặc 'bảng trắng'. Câu này có nghĩa là 'Thầy giáo viết lên bảng'.",
+    "hint": null
   },
   "q_vocab_a1_10_007": {
-    "question": "bạn forgot đến do của bạn homework. như thế nào do bạn tell của bạn teacher?",
+    "question": "Bạn quên làm bài tập về nhà. Bạn nói với giáo viên thế nào?",
     "correct": "Lo siento, no tengo la tarea.",
     "wrong": [
       "Lo siento, no tengo el libro.",
       "Lo siento, no tengo el bolígrafo.",
       "Lo siento, no tengo el examen."
     ],
-    "explanation": "'Tarea' có nghĩa là 'homework' hoặc 'assignment'. 'Deberes' là cũng used trong Spain cho homework.",
-    "context": "Arriving tại class without homework"
+    "explanation": "'Tarea' nghĩa là 'bài tập về nhà' hoặc 'bài tập'. Ở Tây Ban Nha người ta cũng dùng 'deberes' để chỉ bài tập về nhà.",
+    "context": "Arriving tại class without homework",
+    "hint": null
   },
   "q_vocab_a1_10_008": {
-    "question": "Nghĩa của 'lápiz' trong 'Necesito un lápiz' là gì?",
-    "correct": "pencil",
+    "question": "'lápiz' nghĩa là gì trong câu 'Necesito un lápiz'?",
+    "correct": "bút chì",
     "wrong": [
-      "bút",
-      "eraser",
-      "ruler"
+      "bút bi",
+      "cục tẩy",
+      "thước kẻ"
     ],
-    "explanation": "'Lápiz' có nghĩa là 'pencil'. số nhiều là 'lápices'. A pen là 'bolígrafo' (hoặc 'boli' informally)."
+    "explanation": "'Lápiz' nghĩa là 'bút chì'. Dạng số nhiều là 'lápices'. Bút bi là 'bolígrafo' (hoặc 'boli' theo cách nói thân mật).",
+    "hint": null
   },
   "q_vocab_a1_10_009": {
     "question": "Mi hermana estudia en la universidad.",
-    "correct": "My sister studies at the university.",
+    "correct": "Chị/em gái tôi học ở trường đại học.",
     "wrong": [
-      "My sister studies at the school.",
-      "My brother studies at the university.",
-      "My sister works at the university."
+      "Chị/em gái tôi học ở trường phổ thông.",
+      "Anh/em trai tôi học ở trường đại học.",
+      "Chị/em gái tôi làm việc ở trường đại học."
     ],
-    "explanation": "'Universidad' có nghĩa là 'university'. 'Estudiar en la universidad' = 'để study tại university'."
+    "explanation": "'Universidad' nghĩa là 'trường đại học'. 'Estudiar en la universidad' = 'học ở trường đại học'.",
+    "hint": null
   },
   "q_vocab_a1_10_010": {
-    "question": "bạn need đến borrow a pen từ a classmate. gì do bạn say?",
+    "question": "Bạn cần mượn một cây bút bi của bạn cùng lớp. Bạn nói gì?",
     "correct": "¿Me prestas un bolígrafo?",
     "wrong": [
       "¿Me prestas un lápiz?",
       "¿Me prestas un cuaderno?",
       "¿Me prestas un libro?"
     ],
-    "explanation": "'Bolígrafo' có nghĩa là 'pen'. '¿Me prestas...?' có nghĩa là 'có thể bạn lend me...?' là phổ biến among classmates.",
-    "context": "trong class without a pen"
+    "explanation": "'Bolígrafo' nghĩa là 'bút bi'. '¿Me prestas...?' nghĩa là 'Bạn cho mình mượn... được không?', cách nói thường dùng giữa các bạn cùng lớp.",
+    "context": "trong class without a pen",
+    "hint": null
   },
   "q_vocab_a1_11_001": {
-    "question": "Nghĩa của 'médico' là gì?",
+    "question": "'médico' có nghĩa là gì?",
     "correct": "bác sĩ",
     "wrong": [
-      "nurse",
-      "dentist",
-      "pharmacist"
+      "y tá",
+      "nha sĩ",
+      "dược sĩ"
     ],
-    "explanation": "'Médico' có nghĩa là 'doctor'. nữ tính form là 'médica'. 'Doctor/Doctora' là cũng commonly used."
+    "explanation": "'Médico' nghĩa là 'bác sĩ'. Dạng giống cái là 'médica'. 'Doctor/Doctora' cũng thường được dùng.",
+    "hint": null
   },
   "q_vocab_a1_11_002": {
-    "question": "Nghĩa của 'abogado' là gì?",
-    "correct": "lawyer",
+    "question": "'abogado' có nghĩa là gì?",
+    "correct": "luật sư",
     "wrong": [
-      "engineer",
-      "journalist",
-      "accountant"
+      "kỹ sư",
+      "nhà báo",
+      "kế toán"
     ],
-    "explanation": "'Abogado' có nghĩa là 'lawyer'. nữ tính form là 'abogada'."
+    "explanation": "'Abogado' nghĩa là 'luật sư'. Dạng giống cái là 'abogada'.",
+    "hint": null
   },
   "q_vocab_a1_11_003": {
     "question": "El ___ prepara la comida en el restaurante.",
@@ -1127,79 +1149,87 @@
       "dentista",
       "policía"
     ],
-    "explanation": "'Cocinero' có nghĩa là 'cook/chef'. Câu nói ' cook prepares food trong restaurant'."
+    "explanation": "'Cocinero' nghĩa là 'đầu bếp'. Câu này nói: 'Đầu bếp chuẩn bị đồ ăn trong nhà hàng'.",
+    "hint": null
   },
   "q_vocab_a1_11_004": {
-    "question": "Nghĩa của 'enfermero' là gì?",
-    "correct": "nurse",
+    "question": "'enfermero' có nghĩa là gì?",
+    "correct": "y tá",
     "wrong": [
       "bác sĩ",
-      "dentist",
-      "patient"
+      "nha sĩ",
+      "bệnh nhân"
     ],
-    "explanation": "'Enfermero' có nghĩa là 'nurse' (male). 'Enfermera' là dạng nữ tính. họ work trong hospitals và clinics."
+    "explanation": "'Enfermero' nghĩa là 'y tá' (nam). 'Enfermera' là dạng giống cái. Họ làm việc trong bệnh viện và phòng khám.",
+    "hint": null
   },
   "q_vocab_a1_11_005": {
-    "question": "Nghĩa của 'periodista' trong 'El periodista trabaja en un periódico' là gì?",
-    "correct": "journalist",
+    "question": "'periodista' có nghĩa là gì trong câu 'El periodista trabaja en un periódico'?",
+    "correct": "nhà báo",
     "wrong": [
-      "writer",
-      "editor",
-      "photographer"
+      "nhà văn",
+      "biên tập viên",
+      "nhiếp ảnh gia"
     ],
-    "explanation": "'Periodista' có nghĩa là 'journalist'. này từ là same cho nam tính và nữ tính. sentence có nghĩa là ' journalist works tại a newspaper'."
+    "explanation": "'Periodista' nghĩa là 'nhà báo'. Từ này giống nhau cho cả nam và nữ. Câu này có nghĩa là 'Nhà báo làm việc tại một tờ báo'.",
+    "hint": null
   },
   "q_vocab_a1_11_006": {
-    "question": "My father là an engineer.",
+    "question": "Bố tôi là kỹ sư.",
     "correct": "Mi padre es ingeniero.",
     "wrong": [
       "Mi padre es abogado.",
       "Mi padre es profesor.",
       "Mi padre es médico."
     ],
-    "explanation": "'Ingeniero' có nghĩa là 'engineer'. trong tiếng Tây Ban Nha, professions after 'ser' thường don't use an mạo từ (no 'un')."
+    "explanation": "'Ingeniero' nghĩa là 'kỹ sư'. Trong tiếng Tây Ban Nha, nghề nghiệp đứng sau 'ser' thường không dùng mạo từ (không có 'un').",
+    "hint": null
   },
   "q_vocab_a1_11_007": {
-    "question": "Nghĩa của 'camarero' trong 'El camarero trae la cuenta' là gì?",
-    "correct": "waiter",
+    "question": "'camarero' có nghĩa là gì trong câu 'El camarero trae la cuenta'?",
+    "correct": "nhân viên phục vụ (nam)",
     "wrong": [
-      "chef",
-      "manager",
-      "customer"
+      "đầu bếp",
+      "quản lý",
+      "khách hàng"
     ],
-    "explanation": "'Camarero' có nghĩa là 'waiter'. sentence có nghĩa là ' waiter brings bill'. 'Camarera' là a waitress."
+    "explanation": "'Camarero' nghĩa là 'nhân viên phục vụ' (nam). Câu này có nghĩa là 'Nhân viên phục vụ mang hóa đơn đến'. 'Camarera' là nữ phục vụ.",
+    "hint": null
   },
   "q_vocab_a1_11_008": {
     "question": "Soy estudiante de medicina. Quiero ser médico.",
-    "correct": "I am a medical student. I want to be a doctor.",
+    "correct": "Tôi là sinh viên y khoa. Tôi muốn trở thành bác sĩ.",
     "wrong": [
-      "I am a law student. I want to be a lawyer.",
-      "I am a medical student. I want to be a nurse.",
-      "I am an art student. I want to be a doctor."
+      "Tôi là sinh viên luật. Tôi muốn trở thành luật sư.",
+      "Tôi là sinh viên y khoa. Tôi muốn trở thành y tá.",
+      "Tôi là sinh viên mỹ thuật. Tôi muốn trở thành bác sĩ."
     ],
-    "explanation": "'Estudiante de medicina' có nghĩa là 'medical student'. 'Quiero ser' có nghĩa là 'I want để là'."
+    "explanation": "'Estudiante de medicina' nghĩa là 'sinh viên y khoa'. 'Quiero ser' nghĩa là 'tôi muốn trở thành'.",
+    "hint": null
   },
   "q_vocab_a1_11_009": {
-    "question": "bạn meet someone at a party và họ ask gì bạn do. như thế nào do bạn say 'I am a teacher'?",
+    "question": "Bạn gặp một người trong bữa tiệc và họ hỏi bạn làm nghề gì. Bạn nói 'Tôi là giáo viên' như thế nào?",
     "correct": "Soy profesor.",
     "wrong": [
       "Soy estudiante.",
-      "Soy un profesor.",
+      "Es profesor.",
       "Estoy profesor."
     ],
-    "explanation": "Chúng ta sử dụng 'soy' (not 'estoy') cho professions vì chúng là considered permanent traits. No mạo từ là needed before profession.",
-    "context": "Meeting someone new tại a party"
+    "explanation": "Với nghề nghiệp, ta dùng 'ser' (soy), không dùng 'estar'.\n- Soy profesor. = Tôi là giáo viên.\n- Es profesor. = Anh ấy là giáo viên.\n- Khi chỉ nêu chức danh nghề nghiệp, tiếng Tây Ban Nha bỏ 'un': Soy profesor.",
+    "context": "Meeting someone new tại a party",
+    "hint": null
   },
   "q_vocab_a1_11_010": {
-    "question": "bạn call emergency services. như thế nào do bạn ask cho police?",
+    "question": "Bạn gọi số khẩn cấp. Bạn yêu cầu cảnh sát như thế nào?",
     "correct": "¡Necesito la policía!",
     "wrong": [
       "¡Necesito un médico!",
       "¡Necesito un bombero!",
       "¡Necesito una ambulancia!"
     ],
-    "explanation": "'Policía' có thể có nghĩa là 'police' ( force) hoặc 'police officer'. ở đây nó refers để calling police.",
-    "context": "Making an emergency phone call"
+    "explanation": "'Policía' có thể nghĩa là 'cảnh sát' (lực lượng) hoặc 'cảnh sát viên'. Ở đây nó chỉ việc gọi cảnh sát.",
+    "context": "Making an emergency phone call",
+    "hint": null
   },
   "q_vocab_a1_12_001": {
     "question": "Nghĩa của 'sol' là gì?",

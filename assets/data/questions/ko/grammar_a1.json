@@ -1014,15 +1014,16 @@
     "hint": null
   },
   "q_gram_a1_10_001": {
-    "question": "Yo ___ en Madrid. (vivir 동사 활용)",
+    "question": "Yo ___ en Madrid. (vivir를 활용하세요)",
     "correct": "vivo",
     "wrong": [
       "vives",
       "vive",
       "vivimos"
     ],
-    "explanation": "-ir 동사의 yo 형태는 -o로 끝납니다 (-ar, -er와 동일).\n- vivir → viv + o = vivo\n- Yo vivo = 나는 산다.",
-    "conjugation_info": "vivir - 현재형: vivo, vives, vive, vivimos, vivís, viven"
+    "explanation": "-ir 동사의 yo 형은 -o로 끝납니다(-ar, -er 동사와 같습니다).\n- vivir → viv + o = vivo\n- Yo vivo = 나는 산다.",
+    "conjugation_info": "vivir - 현재형: vivo, vives, vive, vivimos, vivís, viven",
+    "hint": null
   },
   "q_gram_a1_10_002": {
     "question": "Nosotros ___ a las dos.",
@@ -1032,7 +1033,7 @@
       "comen",
       "come"
     ],
-    "explanation": "-er 동사의 nosotros 형태는 -emos로 끝납니다.\n- comer → com + emos = comemos\n- Nosotros comemos = 우리는 먹는다.",
+    "explanation": "-er 동사의 nosotros 형은 -emos로 끝납니다.\n- comer → com + emos = comemos\n- Nosotros comemos = 우리는 먹는다.",
     "hint": "-er 동사의 nosotros 어미는 무엇일까요?"
   },
   "q_gram_a1_10_003": {
@@ -1043,29 +1044,31 @@
       "escribes",
       "escriben"
     ],
-    "explanation": "-ir 동사의 ella 형태는 -e로 끝납니다 (-er 동사와 동일).\n- escribir → escrib + e = escribe\n- Ella escribe = 그녀는 쓴다.",
+    "explanation": "-ir 동사의 ella 형은 -e로 끝납니다(-er 동사와 같습니다).\n- escribir → escrib + e = escribe\n- Ella escribe = 그녀는 편지를 쓴다.",
     "hint": "ella는 3인칭 단수입니다"
   },
   "q_gram_a1_10_004": {
-    "question": "-er 동사와 -ir 동사 어미의 핵심 차이점은 무엇인가요?",
-    "correct": "nosotros와 vosotros 형태만 다르다",
+    "question": "-er 동사와 -ir 동사 어미의 핵심 차이는 무엇일까요?",
+    "correct": "nosotros와 vosotros 형만 다르다",
     "wrong": [
       "모든 형태가 다르다",
-      "yo 형태만 다르다",
-      "차이가 전혀 없다"
+      "yo 형만 다르다",
+      "전혀 차이가 없다"
     ],
-    "explanation": "-er와 -ir 활용은 거의 동일합니다.\n- nosotros와 vosotros만 다릅니다:\n  -er: comemos, coméis / -ir: vivimos, vivís\n  나머지 형태는 같은 어미를 공유합니다: -o, -es, -e, -en."
+    "explanation": "-er 활용과 -ir 활용은 거의 같습니다.\n- nosotros와 vosotros만 다릅니다:\n  -er: comemos, coméis / -ir: vivimos, vivís\n  나머지 형태는 모두 같은 어미(-o, -es, -e, -en)를 씁니다.",
+    "hint": null
   },
   "q_gram_a1_10_005": {
-    "question": "¿Tú ___ café? (beber 동사 활용)",
+    "question": "¿Tú ___ café? (beber를 활용하세요)",
     "correct": "bebes",
     "wrong": [
       "bebo",
       "bebe",
       "beben"
     ],
-    "explanation": "-er 동사의 tú 형태는 -es로 끝납니다.\n- beber → beb + es = bebes\n- ¿Tú bebes café? = 너는 커피를 마시니?",
-    "conjugation_info": "beber - 현재형: bebo, bebes, bebe, bebemos, bebéis, beben"
+    "explanation": "-er 동사의 tú 형은 -es로 끝납니다.\n- beber → beb + es = bebes\n- ¿Tú bebes café? = 너는 커피를 마시니?",
+    "conjugation_info": "beber - 현재형: bebo, bebes, bebe, bebemos, bebéis, beben",
+    "hint": null
   },
   "q_gram_a1_10_006": {
     "question": "Los estudiantes ___ muchos libros.",
@@ -1075,28 +1078,29 @@
       "leo",
       "lees"
     ],
-    "explanation": "-er 동사의 ellos 형태는 -en으로 끝납니다.\n- leer → le + en = leen\n- Los estudiantes leen = 학생들은 읽는다.",
-    "hint": "los estudiantes = 그들 (3인칭 복수)"
+    "explanation": "-er 동사의 ellos 형은 -en으로 끝납니다.\n- leer → le + en = leen\n- Los estudiantes leen = 학생들은 책을 많이 읽는다.",
+    "hint": "los estudiantes = 그들(3인칭 복수)"
   },
   "q_gram_a1_10_007": {
-    "question": "너는 문을 연다. (비격식)",
+    "question": "너는 문을 연다.",
     "correct": "Tú abres la puerta.",
     "wrong": [
       "Tú abre la puerta.",
       "Tú abro la puerta.",
       "Tú abren la puerta."
     ],
-    "explanation": "-ir 동사의 tú 형태는 -es로 끝납니다.\n- abrir → abr + es = abres\n- Tú abres = 너는 연다."
+    "explanation": "-ir 동사의 tú 형은 -es로 끝납니다.\n- abrir → abr + es = abres\n- Tú abres = 너는 연다.",
+    "hint": null
   },
   "q_gram_a1_10_008": {
-    "question": "Vosotros ___ en un apartamento. (vivir 동사 활용)",
+    "question": "Vosotros ___ en un apartamento. (vivir를 활용하세요)",
     "correct": "vivís",
     "wrong": [
       "vivimos",
       "viven",
       "vivis"
     ],
-    "explanation": "-ir 동사의 vosotros 형태는 -ís로 끝납니다.\n- vivir → viv + ís = vivís\n'i' 위에 악센트 부호가 있는 점에 주의하세요.",
+    "explanation": "-ir 동사의 vosotros 형은 -ís로 끝납니다.\n- vivir → viv + ís = vivís\n'i' 위의 악센트 부호에 주의하세요.",
     "hint": "-ir 동사의 vosotros 어미에는 악센트가 있습니다"
   },
   "q_gram_a1_10_009": {
@@ -1111,15 +1115,16 @@
     "hint": null
   },
   "q_gram_a1_10_010": {
-    "question": "Nosotros ___ en un piso. (vivir 동사 활용)",
+    "question": "Nosotros ___ en un piso. (vivir를 활용하세요)",
     "correct": "vivimos",
     "wrong": [
       "vivemos",
       "viven",
       "vivís"
     ],
-    "explanation": "-ir 동사의 nosotros 형태는 -imos로 끝납니다 (-er 동사의 -emos와 다릅니다).\n- vivir → viv + imos = vivimos\n이것은 -er와 -ir가 다른 단 두 가지 형태 중 하나입니다.",
-    "conjugation_info": "-er: comemos, coméis / -ir: vivimos, vivís (유일한 차이점)"
+    "explanation": "-ir 동사의 nosotros 형은 -imos로 끝납니다(-er 동사처럼 -emos가 아닙니다).\n- vivir → viv + imos = vivimos\n-er 동사와 -ir 동사가 다른 두 형태 중 하나입니다.",
+    "conjugation_info": "-er: comemos, coméis / -ir: vivimos, vivís (유일한 차이점)",
+    "hint": null
   },
   "q_gram_a1_11_001": {
     "question": "___ un banco cerca de aquí.",
@@ -1129,8 +1134,8 @@
       "Es",
       "Están"
     ],
-    "explanation": "'Hay'는 존재(~이 있다/없다)를 나타냅니다.\n- Hay un banco = 은행이 있다.\nhay + 부정관사/숫자: 무언가가 존재한다는 것을 나타냄.",
-    "hint": "'~이 있다/없다'는 어떤 단어를 사용할까요?"
+    "explanation": "'Hay'는 존재(~이 있다)를 나타낼 때 씁니다.\n- Hay un banco = 은행이 하나 있다.\nHay + 부정관사/수량 표현으로 무언가가 존재함을 말합니다.",
+    "hint": "'~이 있다'를 뜻하는 말은 무엇일까요?"
   },
   "q_gram_a1_11_002": {
     "question": "El banco ___ en la esquina.",
@@ -1140,18 +1145,19 @@
       "es",
       "están"
     ],
-    "explanation": "특정한 것의 위치를 나타낼 때는 estar를 사용합니다.\n- El banco está en la esquina = 그 은행은 모퉁이에 있다.\n정관사 'el'이 있으면 특정한 대상이므로 estar를 씁니다.",
-    "hint": "특정 은행(el banco)에는 어떤 동사를 사용할까요?"
+    "explanation": "특정한 대상의 위치를 말할 때는 estar를 씁니다.\n- El banco está en la esquina = 그 은행은 모퉁이에 있다.\n정관사 'el'은 특정한 은행을 가리키므로 estar를 씁니다.",
+    "hint": "특정한 은행(el banco)에는 어떤 동사를 쓸까요?"
   },
   "q_gram_a1_11_003": {
-    "question": "'hay'와 'está'의 차이점은 무엇일까요?",
-    "correct": "hay = 존재, está = 특정 대상의 위치",
+    "question": "'hay'와 'está'의 차이는 무엇일까요?",
+    "correct": "hay = 존재, está = 특정한 대상의 위치",
     "wrong": [
       "hay = 위치, está = 존재",
-      "hay = 복수만, está = 단수만",
+      "hay = 복수에만, está = 단수에만 쓴다",
       "서로 바꿔 쓸 수 있다"
     ],
-    "explanation": "'Hay'는 존재(있다/없다)를 나타내며 부정관사와 함께 사용합니다.\n'Está/Están'은 특정한 것의 위치를 나타냅니다.\n- Hay un libro. (책이 있다) / El libro está aquí. (그 책은 여기 있다)"
+    "explanation": "'Hay'는 존재(~이 있다)를 나타내며 부정관사와 함께 씁니다.\n'Está/Están'은 이미 알고 있는 특정한 대상의 위치를 나타냅니다.\n- Hay un libro. (책이 한 권 있다.) / El libro está aquí. (그 책은 여기에 있다.)",
+    "hint": null
   },
   "q_gram_a1_11_004": {
     "question": "___ muchos estudiantes en la clase. ('~이 있다'의 올바른 형태를 선택하세요)",
@@ -1172,8 +1178,8 @@
       "es",
       "está"
     ],
-    "explanation": "'las llaves'(그 열쇠들)는 특정한 대상이므로 위치에는 estar를 사용합니다.\n- Las llaves están en la mesa. = 열쇠들은 탁자 위에 있다.\n복수 주어이므로 'están'을 사용합니다.",
-    "hint": "특정한 대상(정관사 포함)의 위치에는 estar를 사용합니다"
+    "explanation": "'las llaves'(그 열쇠들)는 특정한 대상이므로 위치를 말할 때 estar를 씁니다.\n- Las llaves están en la mesa. = 열쇠들은 탁자 위에 있다.\n복수 주어에 맞춰 복수형 'están'을 씁니다.",
+    "hint": "특정한 물건(정관사 포함)의 위치에는 estar를 씁니다"
   },
   "q_gram_a1_11_006": {
     "question": "¿___ una farmacia por aquí? (이 근처에 약국이 있나요?)",
@@ -1183,8 +1189,9 @@
       "Es",
       "Están"
     ],
-    "explanation": "어떤 장소에 무언가가 존재하는지 물을 때 'hay'를 사용합니다.\n- ¿Hay una farmacia? = 약국이 있나요? (존재)\n- ¿Dónde está la farmacia? = 약국이 어디에 있나요? (특정 장소의 위치)",
-    "conjugation_info": "Hay + 부정관사(un/una): ¿Hay un banco? / Está + 정관사(el/la): ¿Dónde está el banco?"
+    "explanation": "어떤 지역에 무언가가 있는지 물을 때는 'hay'를 씁니다.\n- ¿Hay una farmacia? = 약국이 있나요? (존재)\n- ¿Dónde está la farmacia? = 그 약국은 어디에 있나요? (특정한 대상의 위치)",
+    "conjugation_info": "Hay + 부정관사(un/una): ¿Hay un banco? / Está + 정관사(el/la): ¿Dónde está el banco?",
+    "hint": null
   },
   "q_gram_a1_11_007": {
     "question": "___ mucha gente en la plaza.",
@@ -1194,8 +1201,8 @@
       "Es",
       "Están"
     ],
-    "explanation": "수량(mucha, poca 등)과 함께 존재를 나타낼 때 'hay'를 사용합니다.\n- Hay mucha gente = 사람이 많다.\n'Gente'는 스페인어에서 단수이지만, 'hay'는 수에 관계없이 사용합니다.",
-    "hint": "수량과 함께 '~이 있다'를 표현할 때는 hay를 사용합니다"
+    "explanation": "수량 표현(mucha, poca 등)과 함께 존재를 나타낼 때는 'hay'를 씁니다.\n- Hay mucha gente = 사람들이 많이 있다.\n'Gente'는 스페인어에서 단수이지만, 'hay'는 수와 관계없이 쓰입니다.",
+    "hint": "수량과 함께 '~이 있다'를 나타낼 때는 hay를 씁니다"
   },
   "q_gram_a1_11_008": {
     "question": "슈퍼마켓은 학교 옆에 있다.",
@@ -1205,7 +1212,8 @@
       "El supermercado es al lado de la escuela.",
       "El supermercado hay al lado de la escuela."
     ],
-    "explanation": "특정 슈퍼마켓(el supermercado)에 대해 말하고 있으므로 위치에는 estar를 사용합니다.\n- estar + al lado de = ~옆에 있다\nhay를 쓰면 '슈퍼마켓이 하나 있다'(존재)의 의미가 됩니다."
+    "explanation": "특정한 슈퍼마켓(el supermercado)에 대해 말하고 있으므로 위치를 나타내는 estar를 씁니다.\n- estar + al lado de = ~ 옆에 있다\n'슈퍼마켓이 하나 있다...'(존재)라고 말할 때는 Hay를 씁니다.",
+    "hint": null
   },
   "q_gram_a1_11_009": {
     "question": "No ___ nadie en la oficina. ('haber' 동사의 '~이 있다' 형태를 채우세요)",
@@ -1226,83 +1234,87 @@
       "Es un parque en mi ciudad.",
       "Están un parque en mi ciudad."
     ],
-    "explanation": "무언가를 처음 소개할 때(존재)는 'hay'를 씁니다.\n- Hay un parque = 공원이 하나 있다 (처음 언급, 불특정).\n그다음 그 공원을 구체적으로 말할 때는: El parque está cerca.",
+    "explanation": "무언가를 처음 소개할 때(존재)는 'hay'를 씁니다.\n- Hay un parque = 공원이 하나 있다. (처음 언급, 불특정)\n그 공원에 대해 구체적으로 이야기할 때는: El parque está cerca.",
     "hint": null
   },
   "q_gram_a1_12_001": {
-    "question": "___ hermana se llama Ana. (여성 명사에 대해 '나의'를 채우세요)",
+    "question": "___ hermana se llama Ana. (빈칸 채우기: 여성 명사 앞에 쓰는 '나의')",
     "correct": "Mi",
     "wrong": [
       "Mis",
       "Tu",
       "Su"
     ],
-    "explanation": "'hermana'는 단수이므로 'mi'(나의, 단수)를 사용합니다.\n- mi hermana = 나의 자매\n소유 형용사는 소유자가 아닌 소유되는 대상에 일치시킵니다.",
-    "conjugation_info": "소유 형용사: mi/mis, tu/tus, su/sus, nuestro(a)/nuestros(as), vuestro(a)/vuestros(as)"
+    "explanation": "'hermana'는 단수이므로 'mi'(나의, 단수)를 씁니다.\n- mi hermana = 내 여동생/누나\n소유형용사는 소유하는 사람이 아니라 소유되는 대상에 일치시킵니다.",
+    "conjugation_info": "소유 형용사: mi/mis, tu/tus, su/sus, nuestro(a)/nuestros(as), vuestro(a)/vuestros(as)",
+    "hint": null
   },
   "q_gram_a1_12_002": {
-    "question": "___ amigos son simpáticos.",
+    "question": "___ amigos son simpáticos. (나의 친구들)",
     "correct": "Mis",
     "wrong": [
       "Mi",
       "Tus",
       "Su"
     ],
-    "explanation": "'amigos'는 복수이므로 'mis'(나의, 복수)를 사용합니다.\n- mi amigo → mis amigos\nmi/tu/su는 성별이 아닌 수(단수/복수)만 변합니다.",
+    "explanation": "'amigos'는 복수이므로 'mis'(나의, 복수)를 씁니다.\n- mi amigo → mis amigos\nmi/tu/su는 성별이 아니라 수에 따라서만 변합니다.",
     "hint": "'mi'의 복수형은 무엇일까요?"
   },
   "q_gram_a1_12_003": {
-    "question": "¿Cuál es ___ nombre?",
+    "question": "¿Cuál es ___ nombre? (너의, 친근한 표현)",
     "correct": "tu",
     "wrong": [
       "tú",
       "su",
       "mi"
     ],
-    "explanation": "'tu'(악센트 없음)는 '너의'를 의미하는 소유 형용사입니다.\n- ¿Cuál es tu nombre? = 너의 이름은 무엇이니?\n참고: 'tú'(악센트 있음)는 주격 대명사 '너'입니다.",
-    "hint": "소유 형용사 '너의'에는 악센트가 없습니다"
+    "explanation": "악센트가 없는 'tu'는 '너의'를 뜻하는 소유형용사입니다.\n- ¿Cuál es tu nombre? = 네 이름이 뭐야?\n참고: 악센트가 있는 'tú'는 '너'를 뜻하는 주격 인칭대명사입니다.",
+    "hint": "'너의'를 뜻하는 소유형용사에는 악센트 표시가 없습니다"
   },
   "q_gram_a1_12_004": {
-    "question": "'su casa'에서 'su'는 무엇을 의미할까요?",
+    "question": "'su casa'에서 'su'는 무슨 뜻일까요?",
     "correct": "그의/그녀의/당신의(격식)/그들의",
     "wrong": [
-      "'그의'만 의미한다",
-      "'그녀의'만 의미한다",
+      "'그의'만 뜻한다",
+      "'그녀의'만 뜻한다",
       "나의"
     ],
-    "explanation": "'su'는 여러 뜻을 가질 수 있습니다 — 그의, 그녀의, 당신의(격식), 그들의.\n- su casa = 그의/그녀의/당신의/그들의 집\n명확히 하려면: la casa de él (그의), la casa de ella (그녀의)."
+    "explanation": "'su'는 모호해서 그의, 그녀의, 당신의(격식), 그들의 중 어느 것도 될 수 있습니다.\n- su casa = 그의/그녀의/당신의/그들의 집\n분명히 하려면: la casa de él(그의 집), la casa de ella(그녀의 집)처럼 말합니다.",
+    "hint": null
   },
   "q_gram_a1_12_005": {
-    "question": "___ casa es bonita. (우리의 집 — 올바른 형태를 선택하세요)",
+    "question": "___ casa es bonita. (우리 집 — 알맞은 형태를 고르세요)",
     "correct": "Nuestra",
     "wrong": [
       "Nuestro",
       "Nuestros",
       "Nuestras"
     ],
-    "explanation": "'nuestro/a'는 소유되는 명사의 성별에 일치해야 합니다.\n- nuestra casa (여성) = 우리의 집\n- nuestro coche (남성) = 우리의 차\nnuestro/vuestro만 성별 형태가 있습니다.",
-    "conjugation_info": "nuestro/nuestra/nuestros/nuestras — 성별과 수 모두 일치"
+    "explanation": "'nuestro/a'는 소유되는 명사의 성에 일치해야 합니다.\n- nuestra casa(여성) = 우리 집\n- nuestro coche(남성) = 우리 자동차\n성 변화형이 있는 것은 nuestro/vuestro뿐입니다.",
+    "conjugation_info": "nuestro/nuestra/nuestros/nuestras — 성별과 수 모두 일치",
+    "hint": null
   },
   "q_gram_a1_12_006": {
-    "question": "Ella habla con ___ padres.",
+    "question": "Ella habla con ___ padres. (그녀의 부모님)",
     "correct": "sus",
     "wrong": [
       "su",
       "mis",
       "tus"
     ],
-    "explanation": "'padres'는 복수이므로 소유 형용사도 복수여야 합니다: 'sus'.\n- su padre → sus padres\n소유 형용사는 소유되는 대상에 일치시킨다는 것을 기억하세요.",
-    "hint": "복수 명사에는 복수 소유 형용사가 필요합니다"
+    "explanation": "'padres'는 복수이므로 소유형용사도 복수인 'sus'여야 합니다.\n- su padre → sus padres\n기억하세요: 소유형용사는 소유되는 대상에 일치합니다.",
+    "hint": "복수 명사에는 복수 소유형용사가 필요합니다"
   },
   "q_gram_a1_12_007": {
-    "question": "우리나라는 아름답다.",
+    "question": "우리나라는 아름답습니다.",
     "correct": "Nuestro país es bonito.",
     "wrong": [
       "Nuestra país es bonita.",
       "Su país es bonito.",
       "Nuestros país es bonito."
     ],
-    "explanation": "'país'는 남성 명사이므로 'nuestro'(nuestra가 아님)를 사용합니다.\n- nuestro país = 우리나라 (남성)\n- nuestra ciudad = 우리 도시 (여성)"
+    "explanation": "'país'는 남성 명사이므로 'nuestro'를 씁니다(nuestra가 아닙니다).\n- nuestro país = 우리나라 (남성)\n- nuestra ciudad = 우리 도시 (여성)",
+    "hint": null
   },
   "q_gram_a1_12_008": {
     "question": "___ hijos son simpáticos. (그/그녀의 자녀들)",
@@ -1312,29 +1324,31 @@
       "Mis",
       "Tus"
     ],
-    "explanation": "'hijos'는 복수이므로 복수형 소유 형용사 'sus'가 필요합니다.\n- su hijo (단수) → sus hijos (복수)\n소유 형용사는 소유되는 대상의 수에 따라 변합니다.",
+    "explanation": "'hijos'는 복수이므로 복수 소유형용사 'sus'가 필요합니다.\n- su hijo (단수) → sus hijos (복수)\n소유형용사는 소유되는 대상의 수에 따라 변합니다.",
     "hint": "hijos는 복수입니다"
   },
   "q_gram_a1_12_009": {
-    "question": "I love my family.",
+    "question": "나는 내 가족을 사랑합니다.",
     "correct": "Quiero a mi familia.",
     "wrong": [
       "Quiero mi familia.",
       "Quiero a mis familia.",
       "Quiero a su familia."
     ],
-    "explanation": "사람이나 가족을 직접목적어로 쓸 때는 전치사 'a'(인칭 전치사)가 필요합니다.\n- Quiero a mi familia. = 나는 가족을 사랑한다.\n'familia'는 단수 명사이므로 'mi'를 사용합니다."
+    "explanation": "직접목적어가 사람/가족일 때는 인칭의 'a'가 반드시 필요합니다.\n- Quiero a mi familia. = 나는 내 가족을 사랑합니다.\n'familia'가 단수 명사이므로 'mi'는 단수 그대로입니다.",
+    "hint": null
   },
   "q_gram_a1_12_010": {
-    "question": "___ profesores son muy buenos. (우리의 선생님들 — 올바른 소유 형용사를 채우세요)",
+    "question": "___ profesores son muy buenos. (우리 선생님들 — 알맞은 소유형용사를 넣으세요)",
     "correct": "Nuestros",
     "wrong": [
       "Nuestro",
       "Nuestra",
       "Nuestras"
     ],
-    "explanation": "'profesores'는 남성 복수이므로 'nuestros'가 필요합니다.\n- nuestro profesor → nuestros profesores\nnuestro/a/os/as는 성별과 수 모두 변하는 유일한 소유 형용사입니다.",
-    "conjugation_info": "nuestro (남성 단수), nuestra (여성 단수), nuestros (남성 복수), nuestras (여성 복수)"
+    "explanation": "'profesores'는 남성 복수이므로 'nuestros'가 필요합니다.\n- nuestro profesor → nuestros profesores\nnuestro/a/os/as와 vuestro/a/os/as는 성과 수 모두에 따라 변하고, mi/tu/su는 수에 따라서만 변합니다.",
+    "conjugation_info": "nuestro (남성 단수), nuestra (여성 단수), nuestros (남성 복수), nuestras (여성 복수)",
+    "hint": null
   },
   "q_gram_a1_13_001": {
     "question": "___ libro es muy interesante.",

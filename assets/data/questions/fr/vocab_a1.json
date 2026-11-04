@@ -896,24 +896,26 @@
     "hint": null
   },
   "q_vocab_a1_09_001": {
-    "question": "Que 'cocina' signifier?",
-    "correct": "kitchen",
+    "question": "Que signifie 'cocina' ?",
+    "correct": "cuisine (la pièce)",
     "wrong": [
-      "bedroom",
-      "bathroom",
-      "living room"
+      "chambre",
+      "salle de bains",
+      "salon"
     ],
-    "explanation": "'Cocina' signifie 'kitchen'. Il peut aussi signifier 'cooking' ou 'stove' depending sur context."
+    "explanation": "'Cocina' signifie 'cuisine' (la pièce). Selon le contexte, il peut aussi signifier 'cuisine' (l'art de cuisiner) ou 'cuisinière'.",
+    "hint": null
   },
   "q_vocab_a1_09_002": {
-    "question": "Que 'ventana' signifier?",
-    "correct": "window",
+    "question": "Que signifie 'ventana' ?",
+    "correct": "fenêtre",
     "wrong": [
-      "door",
-      "wall",
-      "roof"
+      "porte",
+      "mur",
+      "toit"
     ],
-    "explanation": "'Ventana' signifie 'window'. 'Abrir la ventana' = 'à open Le/La window'."
+    "explanation": "'Ventana' signifie 'fenêtre'. 'Abrir la ventana' = 'ouvrir la fenêtre'.",
+    "hint": null
   },
   "q_vocab_a1_09_003": {
     "question": "Duermo en la ___ todas las noches.",
@@ -923,201 +925,221 @@
       "silla",
       "puerta"
     ],
-    "explanation": "'Cama' signifie 'bed'. Le/La phrase says 'I sleep dans Le/La bed chaque nuit'."
+    "explanation": "'Cama' signifie 'lit'. La phrase veut dire « Je dors dans le lit toutes les nuits ».",
+    "hint": null
   },
   "q_vocab_a1_09_004": {
-    "question": "Que 'puerta' signifier?",
-    "correct": "door",
+    "question": "Que signifie 'puerta' ?",
+    "correct": "porte",
     "wrong": [
-      "window",
-      "floor",
-      "ceiling"
+      "fenêtre",
+      "sol",
+      "plafond"
     ],
-    "explanation": "'Puerta' signifie 'door'. 'Abrir la puerta' = 'à open Le/La door', 'cerrar la puerta' = 'à close Le/La door'."
+    "explanation": "'Puerta' signifie 'porte'. 'Abrir la puerta' = 'ouvrir la porte', 'cerrar la puerta' = 'fermer la porte'.",
+    "hint": null
   },
   "q_vocab_a1_09_005": {
-    "question": "Que 'sofá' signifier dans 'Me siento en el sofá'?",
-    "correct": "sofa / couch",
+    "question": "Que signifie 'sofá' dans « Me siento en el sofá » ?",
+    "correct": "canapé",
     "wrong": [
-      "chair",
-      "bed",
+      "chaise",
+      "lit",
       "table"
     ],
-    "explanation": "'Sofá' signifie 'sofa' ou 'couch'. Le/La phrase signifie 'I sit sur Le/La sofa'. Il est habituellement dans Le/La 'salón' (living room)."
+    "explanation": "'Sofá' signifie 'canapé'. La phrase veut dire « Je m'assois sur le canapé ». Il se trouve généralement dans le 'salón' (le salon).",
+    "hint": null
   },
   "q_vocab_a1_09_006": {
-    "question": "Le/La mirror est dans Le/La bathroom.",
+    "question": "Le miroir est dans la salle de bains.",
     "correct": "El espejo está en el baño.",
     "wrong": [
       "El espejo está en la cocina.",
       "La lámpara está en el baño.",
       "El armario está en el baño."
     ],
-    "explanation": "'Espejo' signifie 'mirror' et 'baño' signifie 'bathroom'. We use 'está' pour location."
+    "explanation": "'Espejo' signifie 'miroir' et 'baño' signifie 'salle de bains'. On utilise 'está' pour indiquer un lieu.",
+    "hint": null
   },
   "q_vocab_a1_09_007": {
-    "question": "Que 'armario' signifier dans 'La ropa está en el armario'?",
-    "correct": "wardrobe / closet",
+    "question": "Que signifie 'armario' dans « La ropa está en el armario » ?",
+    "correct": "armoire / placard",
     "wrong": [
-      "drawer",
-      "shelf",
-      "box"
+      "tiroir",
+      "étagère",
+      "boîte"
     ],
-    "explanation": "'Armario' signifie 'wardrobe' ou 'closet'. Le/La phrase signifie 'Le/La clothes sont dans Le/La wardrobe'."
+    "explanation": "'Armario' signifie 'armoire' ou 'placard'. La phrase veut dire « Les vêtements sont dans l'armoire ».",
+    "hint": null
   },
   "q_vocab_a1_09_008": {
     "question": "Hay una estantería con muchos libros en el salón.",
-    "correct": "There is a bookshelf with many books in the living room.",
+    "correct": "Il y a une bibliothèque avec beaucoup de livres dans le salon.",
     "wrong": [
-      "There is a table with many books in the kitchen.",
-      "There is a bookshelf with many books in the bedroom.",
-      "There is a lamp with many books in the living room."
+      "Il y a une table avec beaucoup de livres dans la cuisine.",
+      "Il y a une bibliothèque avec beaucoup de livres dans la chambre.",
+      "Il y a une lampe avec beaucoup de livres dans le salon."
     ],
-    "explanation": "'Estantería' signifie 'bookshelf/shelving unit' et 'salón' signifie 'living room'. 'Hay' signifie 'Il y a/Il y a'."
+    "explanation": "'Estantería' signifie 'bibliothèque / étagères' et 'salón' signifie 'salon'. 'Hay' signifie 'il y a'.",
+    "hint": null
   },
   "q_vocab_a1_09_009": {
-    "question": "Vous sont looking pour an apartment et want pour demander si il a a garden. Que do vous say?",
+    "question": "Vous cherchez un appartement et vous voulez demander s'il a un jardin. Que dites-vous ?",
     "correct": "¿El piso tiene jardín?",
     "wrong": [
       "¿El piso tiene cocina?",
       "¿El piso tiene dormitorio?",
       "¿El piso tiene baño?"
     ],
-    "explanation": "'Jardín' signifie 'garden'. 'Piso' signifie 'apartment' dans Spain. Ceci est un commun question quand apartment hunting.",
-    "context": "Looking at apartments with a real estate agent"
+    "explanation": "'Jardín' signifie 'jardin'. 'Piso' signifie 'appartement' en Espagne. C'est une question courante quand on cherche un appartement.",
+    "context": "Looking at apartments with a real estate agent",
+    "hint": null
   },
   "q_vocab_a1_09_010": {
-    "question": "A ami est visiting votre home. Comment say 'Le/La bedroom est suivant à Le/La bathroom'?",
+    "question": "Un ami vient chez vous. Comment dit-on « La chambre est à côté de la salle de bains » ?",
     "correct": "El dormitorio está al lado del baño.",
     "wrong": [
       "El dormitorio está lejos del baño.",
       "La cocina está al lado del baño.",
       "El dormitorio está en el baño."
     ],
-    "explanation": "'Dormitorio' signifie 'bedroom', 'al lado de' signifie 'suivant à', et 'baño' signifie 'bathroom'.",
-    "context": "Giving a tour of your home to a friend"
+    "explanation": "'Dormitorio' signifie 'chambre', 'al lado de' signifie 'à côté de' et 'baño' signifie 'salle de bains'.",
+    "context": "Giving a tour of your home to a friend",
+    "hint": null
   },
   "q_vocab_a1_10_001": {
-    "question": "Que 'libro' signifier?",
-    "correct": "book",
+    "question": "Que signifie 'libro' ?",
+    "correct": "livre",
     "wrong": [
-      "notebook",
-      "pencil",
-      "pen"
+      "cahier",
+      "crayon à papier",
+      "stylo"
     ],
-    "explanation": "'Libro' signifie 'book'. 'Librería' signifie 'bookstore' (not 'library', quel est 'biblioteca')."
+    "explanation": "'Libro' signifie 'livre'. 'Librería' signifie 'librairie' (et non 'bibliothèque', qui se dit 'biblioteca').",
+    "hint": null
   },
   "q_vocab_a1_10_002": {
     "question": "El estudiante escribe en el ___.",
     "correct": "cuaderno",
     "wrong": [
-      "libro",
-      "examen",
+      "lápiz",
+      "bolígrafo",
       "pizarra"
     ],
-    "explanation": "'Cuaderno' signifie 'notebook'. Le/La phrase says 'Le/La student writes dans Le/La notebook'."
+    "explanation": "'Cuaderno' signifie 'cahier'. La phrase veut dire « L'étudiant écrit dans le cahier ».\n- On écrit dans un cahier : escribir en el cuaderno\n- On écrit avec un crayon ou un stylo : escribir con el lápiz / el bolígrafo",
+    "hint": null
   },
   "q_vocab_a1_10_003": {
-    "question": "Que 'profesor' signifier?",
-    "correct": "teacher / professor",
+    "question": "Que signifie 'profesor' ?",
+    "correct": "professeur / enseignant",
     "wrong": [
-      "student",
-      "principal",
-      "classmate"
+      "étudiant",
+      "directeur",
+      "camarade de classe"
     ],
-    "explanation": "'Profesor' signifie 'teacher' ou 'professor'. La forme féminine est 'profesora'."
+    "explanation": "'Profesor' signifie « professeur » ou « enseignant ». Le féminin est 'profesora'.",
+    "hint": null
   },
   "q_vocab_a1_10_004": {
-    "question": "Que 'examen' signifier?",
-    "correct": "exam / test",
+    "question": "Que signifie 'examen' ?",
+    "correct": "examen / contrôle",
     "wrong": [
-      "homework",
-      "class",
-      "grade"
+      "devoirs",
+      "cours",
+      "note"
     ],
-    "explanation": "'Examen' signifie 'exam' ou 'test'. Le/La pluriel est 'exámenes' (note Le/La accent shift)."
+    "explanation": "'Examen' signifie « examen » ou « contrôle ». Le pluriel est 'exámenes'.\n- L'accent tonique reste sur le 'a' de 'exa-', donc le pluriel prend un accent écrit.",
+    "hint": null
   },
   "q_vocab_a1_10_005": {
-    "question": "I study à Le/La library.",
+    "question": "J'étudie à la bibliothèque.",
     "correct": "Estudio en la biblioteca.",
     "wrong": [
       "Estudio en la librería.",
       "Estudio en la escuela.",
       "Estudio en el aula."
     ],
-    "explanation": "'Biblioteca' signifie 'library'. Être careful: 'librería' signifie 'bookstore', not 'library'."
+    "explanation": "'Biblioteca' signifie « bibliothèque ». Attention : 'librería' signifie « librairie », pas « bibliothèque ».",
+    "hint": null
   },
   "q_vocab_a1_10_006": {
-    "question": "Que 'pizarra' signifier dans 'El profesor escribe en la pizarra'?",
-    "correct": "blackboard / whiteboard",
+    "question": "Que signifie 'pizarra' dans 'El profesor escribe en la pizarra' ?",
+    "correct": "tableau noir / tableau blanc",
     "wrong": [
-      "desk",
-      "notebook",
-      "textbook"
+      "bureau (table de travail)",
+      "cahier",
+      "manuel scolaire"
     ],
-    "explanation": "'Pizarra' signifie 'blackboard' ou 'whiteboard'. Le/La phrase signifie 'Le/La teacher writes sur Le/La board'."
+    "explanation": "'Pizarra' signifie « tableau noir » ou « tableau blanc ». La phrase veut dire « Le professeur écrit au tableau ».",
+    "hint": null
   },
   "q_vocab_a1_10_007": {
-    "question": "Vous forgot à do votre homework. Comment tell votre teacher?",
+    "question": "Vous avez oublié de faire vos devoirs. Comment le dites-vous à votre professeur ?",
     "correct": "Lo siento, no tengo la tarea.",
     "wrong": [
       "Lo siento, no tengo el libro.",
       "Lo siento, no tengo el bolígrafo.",
       "Lo siento, no tengo el examen."
     ],
-    "explanation": "'Tarea' signifie 'homework' ou 'assignment'. 'Deberes' est aussi used dans Spain pour homework.",
-    "context": "Arriving at class without homework"
+    "explanation": "'Tarea' signifie « devoirs » ou « travail à rendre ». En Espagne, on emploie aussi 'deberes' pour les devoirs.",
+    "context": "Arriving at class without homework",
+    "hint": null
   },
   "q_vocab_a1_10_008": {
-    "question": "Que 'lápiz' signifier dans 'Necesito un lápiz'?",
-    "correct": "pencil",
+    "question": "Que signifie 'lápiz' dans 'Necesito un lápiz' ?",
+    "correct": "crayon à papier",
     "wrong": [
-      "pen",
-      "eraser",
-      "ruler"
+      "stylo",
+      "gomme",
+      "règle"
     ],
-    "explanation": "'Lápiz' signifie 'pencil'. Le/La pluriel est 'lápices'. A pen est 'bolígrafo' (ou 'boli' informally)."
+    "explanation": "'Lápiz' signifie « crayon à papier ». Le pluriel est 'lápices'. Un stylo se dit 'bolígrafo' (ou 'boli' en langage familier).",
+    "hint": null
   },
   "q_vocab_a1_10_009": {
     "question": "Mi hermana estudia en la universidad.",
-    "correct": "My sister studies at the university.",
+    "correct": "Ma sœur étudie à l'université.",
     "wrong": [
-      "My sister studies at the school.",
-      "My brother studies at the university.",
-      "My sister works at the university."
+      "Ma sœur étudie à l'école.",
+      "Mon frère étudie à l'université.",
+      "Ma sœur travaille à l'université."
     ],
-    "explanation": "'Universidad' signifie 'university'. 'Estudiar en la universidad' = 'à study à university'."
+    "explanation": "'Universidad' signifie « université ». 'Estudiar en la universidad' = « étudier à l'université ».",
+    "hint": null
   },
   "q_vocab_a1_10_010": {
-    "question": "Vous need à borrow a pen de a classmate. Que do vous say?",
+    "question": "Vous devez emprunter un stylo à un camarade de classe. Que dites-vous ?",
     "correct": "¿Me prestas un bolígrafo?",
     "wrong": [
       "¿Me prestas un lápiz?",
       "¿Me prestas un cuaderno?",
       "¿Me prestas un libro?"
     ],
-    "explanation": "'Bolígrafo' signifie 'pen'. '¿Me prestas...?' signifie 'Peut vous lend me...?' quel est commun among classmates.",
-    "context": "In class without a pen"
+    "explanation": "'Bolígrafo' signifie « stylo ». '¿Me prestas...?' signifie « Tu peux me prêter... ? », une formule courante entre camarades de classe.",
+    "context": "In class without a pen",
+    "hint": null
   },
   "q_vocab_a1_11_001": {
-    "question": "Que 'médico' signifier?",
-    "correct": "doctor",
+    "question": "Que signifie 'médico' ?",
+    "correct": "médecin",
     "wrong": [
-      "nurse",
-      "dentist",
-      "pharmacist"
+      "infirmier",
+      "dentiste",
+      "pharmacien"
     ],
-    "explanation": "'Médico' signifie 'doctor'. La forme féminine est 'médica'. 'Doctor/Doctora' est aussi couramment used."
+    "explanation": "'Médico' signifie 'médecin'. Le féminin est 'médica'. 'Doctor/Doctora' s'emploie aussi couramment.",
+    "hint": null
   },
   "q_vocab_a1_11_002": {
-    "question": "Que 'abogado' signifier?",
-    "correct": "lawyer",
+    "question": "Que signifie 'abogado' ?",
+    "correct": "avocat",
     "wrong": [
-      "engineer",
-      "journalist",
-      "accountant"
+      "ingénieur",
+      "journaliste",
+      "comptable"
     ],
-    "explanation": "'Abogado' signifie 'lawyer'. La forme féminine est 'abogada'."
+    "explanation": "'Abogado' signifie 'avocat'. Le féminin est 'abogada'.",
+    "hint": null
   },
   "q_vocab_a1_11_003": {
     "question": "El ___ prepara la comida en el restaurante.",
@@ -1127,79 +1149,87 @@
       "dentista",
       "policía"
     ],
-    "explanation": "'Cocinero' signifie 'cook/chef'. Le/La phrase says 'Le/La cook prepares Le/La food dans Le/La restaurant'."
+    "explanation": "'Cocinero' signifie 'cuisinier/chef'. La phrase veut dire « Le cuisinier prépare le repas au restaurant ».",
+    "hint": null
   },
   "q_vocab_a1_11_004": {
-    "question": "Que 'enfermero' signifier?",
-    "correct": "nurse",
+    "question": "Que signifie 'enfermero' ?",
+    "correct": "infirmier",
     "wrong": [
-      "doctor",
-      "dentist",
+      "médecin",
+      "dentiste",
       "patient"
     ],
-    "explanation": "'Enfermero' signifie 'nurse' (male). 'Enfermera' est la forme féminine. Ils work dans hospitals et clinics."
+    "explanation": "'Enfermero' signifie 'infirmier' (homme). 'Enfermera' est le féminin. Ils travaillent dans les hôpitaux et les cliniques.",
+    "hint": null
   },
   "q_vocab_a1_11_005": {
-    "question": "Que 'periodista' signifier dans 'El periodista trabaja en un periódico'?",
-    "correct": "journalist",
+    "question": "Que signifie 'periodista' dans 'El periodista trabaja en un periódico' ?",
+    "correct": "journaliste",
     "wrong": [
-      "writer",
-      "editor",
-      "photographer"
+      "écrivain",
+      "rédacteur en chef",
+      "photographe"
     ],
-    "explanation": "'Periodista' signifie 'journalist'. Ce mot est Le/La same pour masculin et féminin. Le/La phrase signifie 'Le/La journalist works à a newspaper'."
+    "explanation": "'Periodista' signifie 'journaliste'. Ce mot est identique au masculin et au féminin. La phrase veut dire « Le journaliste travaille dans un journal ».",
+    "hint": null
   },
   "q_vocab_a1_11_006": {
-    "question": "My father est an engineer.",
+    "question": "Mon père est ingénieur.",
     "correct": "Mi padre es ingeniero.",
     "wrong": [
       "Mi padre es abogado.",
       "Mi padre es profesor.",
       "Mi padre es médico."
     ],
-    "explanation": "'Ingeniero' signifie 'engineer'. En espagnol, professions après 'ser' typiquement ne pas use an article (no 'un')."
+    "explanation": "'Ingeniero' signifie 'ingénieur'. En espagnol, les professions après 'ser' s'emploient en général sans article (pas de 'un').",
+    "hint": null
   },
   "q_vocab_a1_11_007": {
-    "question": "Que 'camarero' signifier dans 'El camarero trae la cuenta'?",
-    "correct": "waiter",
+    "question": "Que signifie 'camarero' dans 'El camarero trae la cuenta' ?",
+    "correct": "serveur",
     "wrong": [
-      "chef",
-      "manager",
-      "customer"
+      "chef cuisinier",
+      "directeur",
+      "client"
     ],
-    "explanation": "'Camarero' signifie 'waiter'. Le/La phrase signifie 'Le/La waiter brings Le/La bill'. 'Camarera' est a waitress."
+    "explanation": "'Camarero' signifie 'serveur'. La phrase veut dire « Le serveur apporte l'addition ». 'Camarera' est la serveuse.",
+    "hint": null
   },
   "q_vocab_a1_11_008": {
     "question": "Soy estudiante de medicina. Quiero ser médico.",
-    "correct": "I am a medical student. I want to be a doctor.",
+    "correct": "Je suis étudiant en médecine. Je veux devenir médecin.",
     "wrong": [
-      "I am a law student. I want to be a lawyer.",
-      "I am a medical student. I want to be a nurse.",
-      "I am an art student. I want to be a doctor."
+      "Je suis étudiant en droit. Je veux devenir avocat.",
+      "Je suis étudiant en médecine. Je veux devenir infirmier.",
+      "Je suis étudiant en art. Je veux devenir médecin."
     ],
-    "explanation": "'Estudiante de medicina' signifie 'medical student'. 'Quiero ser' signifie 'I want à être'."
+    "explanation": "'Estudiante de medicina' signifie 'étudiant en médecine'. 'Quiero ser' signifie 'je veux être/devenir'.",
+    "hint": null
   },
   "q_vocab_a1_11_009": {
-    "question": "Vous meet someone à a party et ils ask que vous do. Comment say 'I am a teacher'?",
+    "question": "Vous rencontrez quelqu'un à une fête et cette personne vous demande ce que vous faites dans la vie. Comment dites-vous « Je suis professeur » ?",
     "correct": "Soy profesor.",
     "wrong": [
       "Soy estudiante.",
-      "Soy un profesor.",
+      "Es profesor.",
       "Estoy profesor."
     ],
-    "explanation": "We use 'soy' (not 'estoy') pour professions parce que ils sont considered permanent traits. No article est nécessaire avant Le/La profession.",
-    "context": "Meeting someone new at a party"
+    "explanation": "Pour les métiers, on utilise 'ser' (soy), pas 'estar'.\n- Soy profesor. = Je suis professeur.\n- Es profesor. = Il est professeur.\n- Avec un nom de métier seul, l'espagnol omet 'un' : Soy profesor.",
+    "context": "Meeting someone new at a party",
+    "hint": null
   },
   "q_vocab_a1_11_010": {
-    "question": "Vous call emergency services. Comment ask pour Le/La police?",
+    "question": "Vous appelez les secours. Comment demandez-vous la police ?",
     "correct": "¡Necesito la policía!",
     "wrong": [
       "¡Necesito un médico!",
       "¡Necesito un bombero!",
       "¡Necesito una ambulancia!"
     ],
-    "explanation": "'Policía' peut signifier 'police' (Le/La force) ou 'police officer'. Ici il se réfère à calling Le/La police.",
-    "context": "Making an emergency phone call"
+    "explanation": "'Policía' peut désigner la police (l'institution) ou un policier. Ici, il s'agit d'appeler la police.",
+    "context": "Making an emergency phone call",
+    "hint": null
   },
   "q_vocab_a1_12_001": {
     "question": "Que 'sol' signifier?",

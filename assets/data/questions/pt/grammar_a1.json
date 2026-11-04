@@ -1014,15 +1014,16 @@
     "hint": null
   },
   "q_gram_a1_10_001": {
-    "question": "Yo ___ en Madrid. (conjugate vivir)",
+    "question": "Yo ___ en Madrid. (conjugue vivir)",
     "correct": "vivo",
     "wrong": [
       "vives",
       "vive",
       "vivimos"
     ],
-    "explanation": "Para -ir verbos, o forma yo termina em -o (same as -ar e -er).\n- vivir → viv + o = vivo\n- Yo vivo = I live.",
-    "conjugation_info": "vivir - present: vivo, vives, vive, vivimos, vivís, viven"
+    "explanation": "Nos verbos em -ir, a forma de yo termina em -o (igual aos verbos em -ar e -er).\n- vivir → viv + o = vivo\n- Yo vivo = Eu moro.",
+    "conjugation_info": "vivir - present: vivo, vives, vive, vivimos, vivís, viven",
+    "hint": null
   },
   "q_gram_a1_10_002": {
     "question": "Nosotros ___ a las dos.",
@@ -1033,7 +1034,7 @@
       "come"
     ],
     "explanation": "Nos verbos em -er, a forma de nosotros termina em -emos.\n- comer → com + emos = comemos\n- Nosotros comemos = Nós comemos.",
-    "hint": "Qual é a terminação de nosotros para verbos em -er?"
+    "hint": "Qual é a terminação de nosotros nos verbos em -er?"
   },
   "q_gram_a1_10_003": {
     "question": "Ella ___ una carta.",
@@ -1047,25 +1048,27 @@
     "hint": "ella é a 3ª pessoa do singular"
   },
   "q_gram_a1_10_004": {
-    "question": "O que é/está o/a key difference between -er e -ir verbo endings?",
-    "correct": "Only the nosotros and vosotros forms differ",
+    "question": "Qual é a principal diferença entre as terminações dos verbos em -er e em -ir?",
+    "correct": "Só as formas de nosotros e vosotros são diferentes",
     "wrong": [
-      "All forms são/estão different",
-      "Only the yo form differs",
-      "There é/está no difference at all"
+      "Todas as formas são diferentes",
+      "Só a forma de yo é diferente",
+      "Não há nenhuma diferença"
     ],
-    "explanation": "O/a -er e -ir conjugations são/estão nearly identical.\n- Apenas nosotros e vosotros differ:\n -er: comemos, coméis / -ir: vivimos, vivís\n Todos other forms share o same endings: -o, -es, -e, -en."
+    "explanation": "As conjugações em -er e em -ir são quase idênticas.\n- Só nosotros e vosotros diferem:\n  -er: comemos, coméis / -ir: vivimos, vivís\n  Todas as outras formas têm as mesmas terminações: -o, -es, -e, -en.",
+    "hint": null
   },
   "q_gram_a1_10_005": {
-    "question": "¿Tú ___ café? (conjugate beber)",
+    "question": "¿Tú ___ café? (conjugue beber)",
     "correct": "bebes",
     "wrong": [
       "bebo",
       "bebe",
       "beben"
     ],
-    "explanation": "Para -er verbos, o forma tú termina em -es.\n- beber → beb + es = bebes\n- ¿Tú bebes café? = Do você drink café?",
-    "conjugation_info": "beber - present: bebo, bebes, bebe, bebemos, bebéis, beben"
+    "explanation": "Nos verbos em -er, a forma de tú termina em -es.\n- beber → beb + es = bebes\n- ¿Tú bebes café? = Você bebe café?",
+    "conjugation_info": "beber - present: bebo, bebes, bebe, bebemos, bebéis, beben",
+    "hint": null
   },
   "q_gram_a1_10_006": {
     "question": "Los estudiantes ___ muchos libros.",
@@ -1075,29 +1078,30 @@
       "leo",
       "lees"
     ],
-    "explanation": "Para -er verbos, o forma ellos termina em -en.\n- leer → le + en = leen\n- Los estudiantes leen = O/a students read.",
-    "hint": "los estudiantes = eles (3rd pessoa plural)"
+    "explanation": "Nos verbos em -er, a forma de ellos termina em -en.\n- leer → le + en = leen\n- Los estudiantes leen = Os estudantes leem.",
+    "hint": "los estudiantes = eles (3ª pessoa do plural)"
   },
   "q_gram_a1_10_007": {
-    "question": "Você (informal) open o/a door.",
+    "question": "Você abre a porta.",
     "correct": "Tú abres la puerta.",
     "wrong": [
       "Tú abre la puerta.",
       "Tú abro la puerta.",
       "Tú abren la puerta."
     ],
-    "explanation": "Para -ir verbos, o forma tú termina em -es.\n- abrir → abr + es = abres\n- Tú abres = Você open."
+    "explanation": "Nos verbos em -ir, a forma de tú termina em -es.\n- abrir → abr + es = abres\n- Tú abres = Você abre.",
+    "hint": null
   },
   "q_gram_a1_10_008": {
-    "question": "Vosotros ___ en un apartamento. (conjugate vivir)",
+    "question": "Vosotros ___ en un apartamento. (conjugue vivir)",
     "correct": "vivís",
     "wrong": [
       "vivimos",
       "viven",
       "vivis"
     ],
-    "explanation": "Para -ir verbos, o forma vosotros termina em -ís.\n- vivir → viv + ís = vivís\nNote o accent mark em o 'i'.",
-    "hint": "O/a vosotros terminação para -ir verbos tem an accent"
+    "explanation": "Nos verbos em -ir, a forma de vosotros termina em -ís.\n- vivir → viv + ís = vivís\nObserve o acento no 'i'.",
+    "hint": "A terminação de vosotros nos verbos em -ir leva acento"
   },
   "q_gram_a1_10_009": {
     "question": "Ela lê o jornal toda manhã.",
@@ -1107,7 +1111,7 @@
       "Ella leen el periódico cada mañana.",
       "Ella leo el periódico cada mañana."
     ],
-    "explanation": "Nos verbos em -er, a forma de ella termina em -e.\n- leer → le + e = lee\nObserve o 'e' duplo em lee — está correto para a 3ª pessoa de leer.",
+    "explanation": "Nos verbos em -er, a forma de ella termina em -e.\n- leer → le + e = lee\nObserve o 'e' duplo em lee — isso está correto para a 3ª pessoa de leer.",
     "hint": null
   },
   "q_gram_a1_10_010": {
@@ -1118,7 +1122,7 @@
       "viven",
       "vivís"
     ],
-    "explanation": "Nos verbos em -ir, a forma de nosotros termina em -imos (e não em -emos, como os verbos em -er).\n- vivir → viv + imos = vivimos\nEssa é uma das duas únicas formas em que -er e -ir diferem.",
+    "explanation": "Nos verbos em -ir, a forma de nosotros termina em -imos (e não em -emos como nos verbos em -er).\n- vivir → viv + imos = vivimos\nEsta é uma das únicas duas formas em que -er e -ir diferem.",
     "conjugation_info": "-er: comemos, coméis / -ir: vivimos, vivís (the only differences)",
     "hint": null
   },
@@ -1130,7 +1134,7 @@
       "Es",
       "Están"
     ],
-    "explanation": "'Hay' é usado para expressar existência (há/existe/existem).\n- Hay un banco = Há um banco.\nHay + artigo indefinido/número serve para afirmar que algo existe.",
+    "explanation": "'Hay' é usado para expressar existência (há/existe/existem).\n- Hay un banco = Há um banco.\nHay + artigo indefinido/número serve para dizer que algo existe.",
     "hint": "Qual palavra significa 'há/existe/existem'?"
   },
   "q_gram_a1_11_002": {
@@ -1152,18 +1156,18 @@
       "hay = só plural, está = só singular",
       "são intercambiáveis"
     ],
-    "explanation": "'Hay' expressa existência (há/existe/existem) e é usado com artigos indefinidos.\n'Está/Están' expressa a localização de coisas específicas e já conhecidas.\n- Hay un libro. (Existe um livro.) / El libro está aquí. (O livro está aqui.)",
+    "explanation": "'Hay' expressa existência (há/existe/existem) e é usado com artigos indefinidos.\n'Está/Están' expressa a localização de coisas específicas, já conhecidas.\n- Hay un libro. (Existe um livro.) / El libro está aquí. (O livro está aqui.)",
     "hint": null
   },
   "q_gram_a1_11_004": {
-    "question": "___ muchos estudiantes en la clase. (escolha a forma correta que significa 'há / existem')",
+    "question": "___ muchos estudiantes en la clase. (escolha a forma correta que significa 'há/existem')",
     "correct": "Hay",
     "wrong": [
       "Están",
       "Son",
       "Es"
     ],
-    "explanation": "'Hay' é invariável — a mesma forma para o singular E para o plural.\n- Hay un libro. (Há um livro.)\n- Hay muchos libros. (Há muitos livros.)\nNunca diga *hayen nem *han.",
+    "explanation": "'Hay' é invariável — a mesma forma para singular E plural.\n- Hay un libro. (Há um livro.)\n- Hay muchos libros. (Há muitos livros.)\nNunca diga *hayen nem *han.",
     "conjugation_info": "Hay (invariable): Hay un gato. Hay tres gatos. Hay mucha gente.",
     "hint": null
   },
@@ -1175,18 +1179,18 @@
       "es",
       "está"
     ],
-    "explanation": "'las llaves' (as chaves) é um sujeito específico e definido — use estar para indicar sua localização.\n- Las llaves están en la mesa. = As chaves estão na mesa.\nO plural 'están' concorda com o sujeito no plural.",
-    "hint": "Itens específicos (com artigo definido) usam estar para indicar localização"
+    "explanation": "'las llaves' (as chaves) é um sujeito específico e definido — use estar para a localização.\n- Las llaves están en la mesa. = As chaves estão na mesa.\nO plural 'están' concorda com o sujeito plural.",
+    "hint": "Coisas específicas (com artigo definido) usam estar para localização"
   },
   "q_gram_a1_11_006": {
-    "question": "¿___ una farmacia por aquí? (Tem uma farmácia por aqui?)",
+    "question": "¿___ una farmacia por aquí? (Há uma farmácia por aqui?)",
     "correct": "Hay",
     "wrong": [
       "Está",
       "Es",
       "Están"
     ],
-    "explanation": "Ao perguntar se algo existe em uma área geral, use 'hay'.\n- ¿Hay una farmacia? = Tem uma farmácia? (existência)\n- ¿Dónde está la farmacia? = Onde fica a farmácia? (localização de uma específica)",
+    "explanation": "Ao perguntar se algo existe em uma área geral, use 'hay'.\n- ¿Hay una farmacia? = Há uma farmácia? (existência)\n- ¿Dónde está la farmacia? = Onde fica a farmácia? (localização de uma específica)",
     "conjugation_info": "Hay + indefinite (un/una): ¿Hay un banco? / Está + definite (el/la): ¿Dónde está el banco?",
     "hint": null
   },
@@ -1209,7 +1213,7 @@
       "El supermercado es al lado de la escuela.",
       "El supermercado hay al lado de la escuela."
     ],
-    "explanation": "Estamos falando de um supermercado específico (el supermercado), por isso usamos estar para indicar sua localização.\n- estar + al lado de = ficar ao lado de\nHay seria usado se disséssemos 'Há um supermercado...' (existência).",
+    "explanation": "Estamos falando de um supermercado específico (el supermercado), por isso usamos estar para a localização.\n- estar + al lado de = ficar ao lado de\nHay seria usado se disséssemos 'Há um supermercado...' (existência).",
     "hint": null
   },
   "q_gram_a1_11_009": {
@@ -1232,42 +1236,42 @@
       "Es un parque en mi ciudad.",
       "Están un parque en mi ciudad."
     ],
-    "explanation": "Usamos 'hay' para apresentar algo pela primeira vez (existência).\n- Hay un parque = Há um parque (primeira menção, não específico).\nSe depois falarmos desse parque em particular: El parque está cerca.",
+    "explanation": "Usamos 'hay' para apresentar algo pela primeira vez (existência).\n- Hay un parque = Há um parque (primeira menção, não específico).\nSe depois falarmos desse parque especificamente: El parque está cerca.",
     "hint": null
   },
   "q_gram_a1_12_001": {
-    "question": "___ hermana se llama Ana. (complete com: minha, para um substantivo feminino)",
+    "question": "___ hermana se llama Ana. (complete: meu/minha, para um substantivo feminino)",
     "correct": "Mi",
     "wrong": [
       "Mis",
       "Tu",
       "Su"
     ],
-    "explanation": "'hermana' está no singular, por isso usamos 'mi' (minha, singular).\n- mi hermana = minha irmã\nOs adjetivos possessivos concordam com a coisa possuída, não com o possuidor.",
+    "explanation": "'hermana' está no singular, por isso usamos 'mi' (meu/minha, singular).\n- mi hermana = minha irmã\nOs adjetivos possessivos concordam com a coisa possuída, não com o possuidor.",
     "conjugation_info": "Possessives: mi/mis, tu/tus, su/sus, nuestro(a)/nuestros(as), vuestro(a)/vuestros(as)",
     "hint": null
   },
   "q_gram_a1_12_002": {
-    "question": "___ amigos son simpáticos.",
+    "question": "___ amigos son simpáticos. (meus amigos)",
     "correct": "Mis",
     "wrong": [
       "Mi",
       "Tus",
       "Su"
     ],
-    "explanation": "'amigos' está no plural, por isso usamos 'mis' (meus, plural).\n- mi amigo → mis amigos\nmi/tu/su mudam apenas de número, não de gênero.",
+    "explanation": "'amigos' está no plural, por isso usamos 'mis' (meus/minhas, plural).\n- mi amigo → mis amigos\nmi/tu/su mudam apenas de número, não de gênero.",
     "hint": "Qual é a forma plural de 'mi'?"
   },
   "q_gram_a1_12_003": {
-    "question": "¿Cuál es ___ nombre?",
+    "question": "¿Cuál es ___ nombre? (seu/teu, informal)",
     "correct": "tu",
     "wrong": [
       "tú",
       "su",
       "mi"
     ],
-    "explanation": "'tu' (sem acento) é um adjetivo possessivo que significa 'seu/teu'.\n- ¿Cuál es tu nombre? = Qual é o seu nome?\nObserve: 'tú' (com acento) é o pronome pessoal 'você/tu'.",
-    "hint": "O possessivo 'seu/teu' não leva acento"
+    "explanation": "'tu' (sem acento) é um adjetivo possessivo que significa 'teu/seu'.\n- ¿Cuál es tu nombre? = Qual é o seu nome?\nAtenção: 'tú' (com acento) é o pronome pessoal 'tu/você'.",
+    "hint": "O possessivo 'teu/seu' não leva acento"
   },
   "q_gram_a1_12_004": {
     "question": "O que significa 'su' em 'su casa'?",
@@ -1281,36 +1285,37 @@
     "hint": null
   },
   "q_gram_a1_12_005": {
-    "question": "___ casa es bonita. (our house — select o/a correto form)",
+    "question": "___ casa es bonita. (nossa casa — escolha a forma correta)",
     "correct": "Nuestra",
     "wrong": [
       "Nuestro",
       "Nuestros",
       "Nuestras"
     ],
-    "explanation": "'nuestro/a' deve agree em gênero com o substantivo possessed.\n- nuestra casa (feminino) = our casa\n- nuestro coche (masculino) = our carro\nApenas nuestro/vuestro ter gênero forms.",
-    "conjugation_info": "nuestro/nuestra/nuestros/nuestras — agrees em gênero AND number"
+    "explanation": "'nuestro/a' deve concordar em gênero com o substantivo possuído.\n- nuestra casa (feminino) = nossa casa\n- nuestro coche (masculino) = nosso carro\nSomente nuestro/vuestro têm formas de gênero.",
+    "conjugation_info": "nuestro/nuestra/nuestros/nuestras — agrees em gênero AND number",
+    "hint": null
   },
   "q_gram_a1_12_006": {
-    "question": "Ella habla con ___ padres.",
+    "question": "Ella habla con ___ padres. (os pais dela)",
     "correct": "sus",
     "wrong": [
       "su",
       "mis",
       "tus"
     ],
-    "explanation": "'padres' está no plural, então o possessivo também deve estar no plural: 'sus'.\n- su padre → sus padres\nLembre-se: os possessivos concordam com a coisa possuída.",
+    "explanation": "'padres' está no plural, então o possessivo também deve ficar no plural: 'sus'.\n- su padre → sus padres\nLembre-se: os possessivos concordam com a coisa possuída.",
     "hint": "Substantivos no plural exigem possessivos no plural"
   },
   "q_gram_a1_12_007": {
-    "question": "O nosso país é bonito.",
+    "question": "Nosso país é lindo.",
     "correct": "Nuestro país es bonito.",
     "wrong": [
       "Nuestra país es bonita.",
       "Su país es bonito.",
       "Nuestros país es bonito."
     ],
-    "explanation": "'país' é masculino, por isso usamos 'nuestro' (não nuestra).\n- nuestro país = nosso país (masculino)\n- nuestra ciudad = nossa cidade (feminino)",
+    "explanation": "'país' é masculino, por isso usamos 'nuestro' (e não nuestra).\n- nuestro país = nosso país (masculino)\n- nuestra ciudad = nossa cidade (feminino)",
     "hint": null
   },
   "q_gram_a1_12_008": {
@@ -1321,18 +1326,18 @@
       "Mis",
       "Tus"
     ],
-    "explanation": "'hijos' está no plural, então é necessário o possessivo 'sus' (plural).\n- su hijo (singular) → sus hijos (plural)\nO possessivo muda conforme o número de coisas possuídas.",
+    "explanation": "'hijos' está no plural, então é necessário o possessivo 'sus' (plural).\n- su hijo (singular) → sus hijos (plural)\nO possessivo muda de acordo com o número de coisas possuídas.",
     "hint": "hijos está no plural"
   },
   "q_gram_a1_12_009": {
-    "question": "Eu amo a minha família.",
+    "question": "Eu amo minha família.",
     "correct": "Quiero a mi familia.",
     "wrong": [
       "Quiero mi familia.",
       "Quiero a mis familia.",
       "Quiero a su familia."
     ],
-    "explanation": "O 'a' pessoal é obrigatório antes de pessoas/familiares quando são objeto direto.\n- Quiero a mi familia. = Eu amo a minha família.\n'mi' continua no singular porque 'familia' é um substantivo singular.",
+    "explanation": "O 'a' pessoal é obrigatório antes de pessoas/familiares que funcionam como objeto direto.\n- Quiero a mi familia. = Eu amo minha família.\n'mi' fica no singular porque 'familia' é um substantivo singular.",
     "hint": null
   },
   "q_gram_a1_12_010": {
@@ -1343,7 +1348,7 @@
       "Nuestra",
       "Nuestras"
     ],
-    "explanation": "'profesores' é masculino plural, por isso precisamos de 'nuestros'.\n- nuestro profesor → nuestros profesores\nnuestro/a/os/as é o único possessivo que muda tanto de gênero quanto de número.",
+    "explanation": "'profesores' é masculino plural, então precisamos de 'nuestros'.\n- nuestro profesor → nuestros profesores\nnuestro/a/os/as e vuestro/a/os/as mudam em gênero e número. mi/tu/su mudam apenas em número.",
     "conjugation_info": "nuestro (m.sg.), nuestra (f.sg.), nuestros (m.pl.), nuestras (f.pl.)",
     "hint": null
   },

@@ -1,0 +1,83 @@
+[
+ {
+  "id": "q_gram_a1_12_004",
+  "locale": "it",
+  "reason": "'your (formal)' (usted) was translated as 'vostro/a', which is the plural 'you'; it should be formal singular 'Suo/Sua'.",
+  "before": {
+   "question": "Che cosa significa 'su' in 'su casa'?",
+   "explanation": "'su' è ambiguo: può significare suo (di lui), sua (di lei), vostro/a (formale) o loro.\n- su casa = la casa di lui/di lei/di Lei/loro\nPer chiarire: la casa de él (di lui), la casa de ella (di lei).",
+   "hint": null,
+   "correct": "suo/sua / vostro/a (formale) / loro",
+   "wrong": [
+    "solo 'suo' (di lui)",
+    "solo 'sua' (di lei)",
+    "mio/mia"
+   ]
+  },
+  "after": {
+   "question": "Che cosa significa 'su' in 'su casa'?",
+   "explanation": "'su' è ambiguo: può significare suo (di lui), sua (di lei), Suo/Sua (formale) o loro.\n- su casa = la casa di lui/di lei/di Lei/loro\nPer chiarire: la casa de él (di lui), la casa de ella (di lei).",
+   "hint": null,
+   "correct": "suo/sua / Suo/Sua (formale) / loro",
+   "wrong": [
+    "solo 'suo' (di lui)",
+    "solo 'sua' (di lei)",
+    "mio/mia"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_12_001",
+  "locale": "vi",
+  "reason": "Question hint leaves the English word 'my' untranslated.",
+  "before": {
+   "question": "___ hermana se llama Ana. (điền: my, dùng cho danh từ giống cái)",
+   "explanation": "'hermana' là số ít nên ta dùng 'mi' (của tôi, số ít).\n- mi hermana = chị/em gái của tôi\nTính từ sở hữu phải hợp với vật được sở hữu, không phải với người sở hữu.",
+   "hint": null,
+   "correct": "Mi",
+   "wrong": [
+    "Mis",
+    "Tu",
+    "Su"
+   ]
+  },
+  "after": {
+   "question": "___ hermana se llama Ana. (điền: của tôi, dùng cho danh từ giống cái)",
+   "explanation": "'hermana' là số ít nên ta dùng 'mi' (của tôi, số ít).\n- mi hermana = chị/em gái của tôi\nTính từ sở hữu phải hợp với vật được sở hữu, không phải với người sở hữu.",
+   "hint": null,
+   "correct": "Mi",
+   "wrong": [
+    "Mis",
+    "Tu",
+    "Su"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_12_003",
+  "locale": "th",
+  "reason": "'เครื่องหมายสำเสียง' is a garbled term for 'accent mark'; the correct Thai is 'เครื่องหมายเน้นเสียง'.",
+  "before": {
+   "question": "¿Cuál es ___ nombre? (ของคุณ แบบไม่เป็นทางการ)",
+   "explanation": "'tu' (ไม่มีเครื่องหมายสำเสียง) เป็นคำคุณศัพท์แสดงความเป็นเจ้าของ แปลว่า 'ของคุณ'\n- ¿Cuál es tu nombre? = คุณชื่ออะไร\nหมายเหตุ: 'tú' (มีเครื่องหมายสำเสียง) เป็นสรรพนามประธาน แปลว่า 'คุณ'",
+   "hint": "คำแสดงความเป็นเจ้าของที่แปลว่า 'ของคุณ' ไม่มีเครื่องหมายสำเสียง",
+   "correct": "tu",
+   "wrong": [
+    "tú",
+    "su",
+    "mi"
+   ]
+  },
+  "after": {
+   "question": "¿Cuál es ___ nombre? (ของคุณ แบบไม่เป็นทางการ)",
+   "explanation": "'tu' (ไม่มีเครื่องหมายเน้นเสียง) เป็นคำคุณศัพท์แสดงความเป็นเจ้าของ แปลว่า 'ของคุณ'\n- ¿Cuál es tu nombre? = คุณชื่ออะไร\nหมายเหตุ: 'tú' (มีเครื่องหมายเน้นเสียง) เป็นสรรพนามประธาน แปลว่า 'คุณ'",
+   "hint": "คำแสดงความเป็นเจ้าของที่แปลว่า 'ของคุณ' ไม่มีเครื่องหมายเน้นเสียง",
+   "correct": "tu",
+   "wrong": [
+    "tú",
+    "su",
+    "mi"
+   ]
+  }
+ }
+]

@@ -894,24 +894,26 @@
     "hint": null
   },
   "q_vocab_a1_09_001": {
-    "question": "〜は何を 'cocina' 意味する?",
-    "correct": "kitchen",
+    "question": "'cocina' はどういう意味ですか?",
+    "correct": "キッチン、台所",
     "wrong": [
-      "bedroom",
-      "bathroom",
-      "living room"
+      "寝室",
+      "バスルーム、浴室",
+      "リビング"
     ],
-    "explanation": "'Cocina' 〜を意味する 'kitchen'. それ 〜できる また 意味する 'cooking' または 'stove' depending 〜に 文脈."
+    "explanation": "'Cocina' は「キッチン、台所」という意味です。文脈によっては「料理」や「コンロ」の意味にもなります。",
+    "hint": null
   },
   "q_vocab_a1_09_002": {
-    "question": "〜は何を 'ventana' 意味する?",
-    "correct": "window",
+    "question": "'ventana' はどういう意味ですか?",
+    "correct": "窓",
     "wrong": [
-      "door",
-      "wall",
-      "roof"
+      "ドア",
+      "壁",
+      "屋根"
     ],
-    "explanation": "'Ventana' 〜を意味する 'window'. 'Abrir la ventana' = '〜に open この window'."
+    "explanation": "'Ventana' は「窓」という意味です。'Abrir la ventana' =「窓を開ける」。",
+    "hint": null
   },
   "q_vocab_a1_09_003": {
     "question": "Duermo en la ___ todas las noches.",
@@ -921,204 +923,221 @@
       "silla",
       "puerta"
     ],
-    "explanation": "'Cama' 〜を意味する 'bed'. この 文 says 'I sleep 〜で この bed every night'."
+    "explanation": "'Cama' は「ベッド」という意味です。この文は「私は毎晩ベッドで寝ます」という意味です。",
+    "hint": null
   },
   "q_vocab_a1_09_004": {
-    "question": "〜は何を 'puerta' 意味する?",
-    "correct": "door",
+    "question": "'puerta' はどういう意味ですか?",
+    "correct": "ドア、扉",
     "wrong": [
-      "window",
-      "floor",
-      "ceiling"
+      "窓",
+      "床",
+      "天井"
     ],
-    "explanation": "'Puerta' 〜を意味する 'door'. 'Abrir la puerta' = '〜に open この door', 'cerrar la puerta' = '〜に close この door'."
+    "explanation": "'Puerta' は「ドア、扉」という意味です。'Abrir la puerta' =「ドアを開ける」、'cerrar la puerta' =「ドアを閉める」。",
+    "hint": null
   },
   "q_vocab_a1_09_005": {
-    "question": "〜は何を 'sofá' 意味する 〜で 'Me siento en el sofá'?",
-    "correct": "sofa / couch",
+    "question": "'Me siento en el sofá' の 'sofá' はどういう意味ですか?",
+    "correct": "ソファ",
     "wrong": [
-      "chair",
-      "bed",
-      "table"
+      "椅子",
+      "ベッド",
+      "テーブル"
     ],
-    "explanation": "'Sofá' 〜を意味する 'sofa' または 'couch'. この 文 〜を意味する 'I sit 〜に この sofa'. それ は 通常 〜で この 'salón' (living room)."
+    "explanation": "'Sofá' は「ソファ」という意味です。この文は「私はソファに座ります」という意味です。ふつう 'salón'(リビング)にあります。",
+    "hint": null
   },
   "q_vocab_a1_09_006": {
-    "question": "この mirror は 〜で この bathroom.",
+    "question": "鏡はバスルームにあります。",
     "correct": "El espejo está en el baño.",
     "wrong": [
       "El espejo está en la cocina.",
       "La lámpara está en el baño.",
       "El armario está en el baño."
     ],
-    "explanation": "'Espejo' 〜を意味する 'mirror' そして 'baño' 〜を意味する 'bathroom'. We 使う 'está' 〜のために location."
+    "explanation": "'Espejo' は「鏡」、'baño' は「バスルーム、浴室」という意味です。場所を表すときは 'está' を使います。",
+    "hint": null
   },
   "q_vocab_a1_09_007": {
-    "question": "〜は何を 'armario' 意味する 〜で 'La ropa está en el armario'?",
-    "correct": "wardrobe / closet",
+    "question": "'La ropa está en el armario' の 'armario' はどういう意味ですか?",
+    "correct": "クローゼット、衣装だんす",
     "wrong": [
-      "drawer",
-      "shelf",
-      "box"
+      "引き出し",
+      "棚",
+      "箱"
     ],
-    "explanation": "'Armario' 〜を意味する 'wardrobe' または 'closet'. この 文 〜を意味する 'この clothes は 〜で この wardrobe'."
+    "explanation": "'Armario' は「クローゼット、衣装だんす」という意味です。この文は「服はクローゼットの中にあります」という意味です。",
+    "hint": null
   },
   "q_vocab_a1_09_008": {
     "question": "Hay una estantería con muchos libros en el salón.",
-    "correct": "There is a bookshelf with many books in the living room.",
+    "correct": "リビングに、たくさんの本が並んだ本棚があります。",
     "wrong": [
-      "There is a table with many books in the kitchen.",
-      "There is a bookshelf with many books in the bedroom.",
-      "There is a lamp with many books in the living room."
+      "キッチンに、たくさんの本が置かれたテーブルがあります。",
+      "寝室に、たくさんの本が並んだ本棚があります。",
+      "リビングに、たくさんの本が置かれたランプがあります。"
     ],
-    "explanation": "'Estantería' 〜を意味する 'bookshelf/shelving unit' そして 'salón' 〜を意味する 'living room'. 'Hay' 〜を意味する '〜がある/〜がある'."
+    "explanation": "'Estantería' は「本棚、棚」、'salón' は「リビング」という意味です。'Hay' は「〜がある」という意味です。",
+    "hint": null
   },
   "q_vocab_a1_09_009": {
-    "question": "アパートを探していて、庭があるか聞きたいです。何と言いますか?",
+    "question": "あなたは部屋を探していて、庭があるかどうか尋ねたいです。何と言いますか?",
     "correct": "¿El piso tiene jardín?",
     "wrong": [
       "¿El piso tiene cocina?",
       "¿El piso tiene dormitorio?",
       "¿El piso tiene baño?"
     ],
-    "explanation": "'Jardín' は「庭」という意味です。'Piso' はスペインでは「アパート(マンションの一室)」を指します。部屋探しでよくする質問です。",
+    "explanation": "'Jardín' は「庭」という意味です。'Piso' はスペインでは「アパート、マンションの部屋」を指します。部屋探しのときによく使う質問です。",
     "context": "Looking at apartments with a real estate agent",
     "hint": null
   },
   "q_vocab_a1_09_010": {
-    "question": " friend は visiting あなたの home. どのように〜する say 'この bedroom は next 〜に この bathroom'?",
+    "question": "友達が家に遊びに来ています。「寝室はバスルームの隣です」はどう言いますか?",
     "correct": "El dormitorio está al lado del baño.",
     "wrong": [
       "El dormitorio está lejos del baño.",
       "La cocina está al lado del baño.",
       "El dormitorio está en el baño."
     ],
-    "explanation": "'Dormitorio' 〜を意味する 'bedroom', 'al lado de' 〜を意味する 'next 〜に', そして 'baño' 〜を意味する 'bathroom'.",
-    "context": "Giving a tour of your home to a friend"
+    "explanation": "'Dormitorio' は「寝室」、'al lado de' は「〜の隣に」、'baño' は「バスルーム、浴室」という意味です。",
+    "context": "Giving a tour of your home to a friend",
+    "hint": null
   },
   "q_vocab_a1_10_001": {
-    "question": "'libro' はどういう意味ですか?",
+    "question": "「libro」はどういう意味ですか?",
     "correct": "本",
     "wrong": [
       "ノート",
       "鉛筆",
       "ペン"
     ],
-    "explanation": "'Libro' は「本」という意味です。'Librería' は「書店」という意味です(「図書館」は 'biblioteca' です)。",
+    "explanation": "「Libro」は「本」という意味です。「Librería」は「書店」という意味です(「図書館」ではありません。図書館は「biblioteca」です)。",
     "hint": null
   },
   "q_vocab_a1_10_002": {
     "question": "El estudiante escribe en el ___.",
     "correct": "cuaderno",
     "wrong": [
-      "libro",
-      "examen",
+      "lápiz",
+      "bolígrafo",
       "pizarra"
     ],
-    "explanation": "'Cuaderno' 〜を意味する 'notebook'. この 文 says 'この student writes 〜で この notebook'."
+    "explanation": "「Cuaderno」は「ノート」という意味です。この文は「生徒はノートに書く」という意味です。\n- ノートに書く:escribir en el cuaderno\n- 鉛筆やペンで書く:escribir con el lápiz / el bolígrafo",
+    "hint": null
   },
   "q_vocab_a1_10_003": {
-    "question": "〜は何を 'profesor' 意味する?",
-    "correct": "teacher / professor",
+    "question": "「profesor」はどういう意味ですか?",
+    "correct": "先生 / 教授",
     "wrong": [
-      "student",
-      "principal",
-      "classmate"
+      "生徒",
+      "校長",
+      "クラスメート"
     ],
-    "explanation": "'Profesor' 〜を意味する 'teacher' または 'professor'. 女性形 は 'profesora'."
+    "explanation": "「Profesor」は「先生」または「教授」という意味です。女性形は「profesora」です。",
+    "hint": null
   },
   "q_vocab_a1_10_004": {
-    "question": "〜は何を 'examen' 意味する?",
-    "correct": "exam / test",
+    "question": "「examen」はどういう意味ですか?",
+    "correct": "試験 / テスト",
     "wrong": [
-      "homework",
-      "class",
-      "grade"
+      "宿題",
+      "授業",
+      "成績"
     ],
-    "explanation": "'Examen' 〜を意味する 'exam' または 'test'. この 複数 は 'exámenes' (ノート この accent shift)."
+    "explanation": "「Examen」は「試験」または「テスト」という意味です。複数形は「exámenes」です。\n- アクセントは「exa-」の「a」にあるため、複数形ではアクセント記号が必要になります。",
+    "hint": null
   },
   "q_vocab_a1_10_005": {
-    "question": "I study 〜で この library.",
+    "question": "私は図書館で勉強します。",
     "correct": "Estudio en la biblioteca.",
     "wrong": [
       "Estudio en la librería.",
       "Estudio en la escuela.",
       "Estudio en el aula."
     ],
-    "explanation": "'Biblioteca' 〜を意味する 'library'. Be careful: 'librería' 〜を意味する 'bookstore', not 'library'."
+    "explanation": "「Biblioteca」は「図書館」という意味です。注意:「librería」は「書店」であり、「図書館」ではありません。",
+    "hint": null
   },
   "q_vocab_a1_10_006": {
-    "question": "〜は何を 'pizarra' 意味する 〜で 'El profesor escribe en la pizarra'?",
-    "correct": "blackboard / whiteboard",
+    "question": "「El profesor escribe en la pizarra」の「pizarra」はどういう意味ですか?",
+    "correct": "黒板 / ホワイトボード",
     "wrong": [
-      "desk",
-      "notebook",
-      "textbook"
+      "机",
+      "ノート",
+      "教科書"
     ],
-    "explanation": "'Pizarra' 〜を意味する 'blackboard' または 'whiteboard'. この 文 〜を意味する 'この teacher writes 〜に この board'."
+    "explanation": "「Pizarra」は「黒板」または「ホワイトボード」という意味です。この文は「先生は黒板に書く」という意味です。",
+    "hint": null
   },
   "q_vocab_a1_10_007": {
-    "question": "あなた forgot 〜に do あなたの homework. どのように〜する tell あなたの teacher?",
+    "question": "宿題をするのを忘れました。先生に何と言いますか?",
     "correct": "Lo siento, no tengo la tarea.",
     "wrong": [
       "Lo siento, no tengo el libro.",
       "Lo siento, no tengo el bolígrafo.",
       "Lo siento, no tengo el examen."
     ],
-    "explanation": "'Tarea' 〜を意味する 'homework' または 'assignment'. 'Deberes' は また 使われた 〜で Spain 〜のために homework.",
-    "context": "Arriving at class without homework"
+    "explanation": "「Tarea」は「宿題」や「課題」という意味です。スペインでは宿題を「deberes」ともいいます。",
+    "context": "Arriving at class without homework",
+    "hint": null
   },
   "q_vocab_a1_10_008": {
-    "question": "〜は何を 'lápiz' 意味する 〜で 'Necesito un lápiz'?",
-    "correct": "pencil",
+    "question": "「Necesito un lápiz」の「lápiz」はどういう意味ですか?",
+    "correct": "鉛筆",
     "wrong": [
-      "pen",
-      "eraser",
-      "ruler"
+      "ペン",
+      "消しゴム",
+      "定規"
     ],
-    "explanation": "'Lápiz' 〜を意味する 'pencil'. この 複数 は 'lápices'. pen は 'bolígrafo' (または 'boli' informally)."
+    "explanation": "「Lápiz」は「鉛筆」という意味です。複数形は「lápices」です。ペンは「bolígrafo」(くだけた言い方では「boli」)といいます。",
+    "hint": null
   },
   "q_vocab_a1_10_009": {
     "question": "Mi hermana estudia en la universidad.",
-    "correct": "My sister studies at the university.",
+    "correct": "私の姉(妹)は大学で勉強しています。",
     "wrong": [
-      "My sister studies at the school.",
-      "My brother studies at the university.",
-      "My sister works at the university."
+      "私の姉(妹)は学校で勉強しています。",
+      "私の兄(弟)は大学で勉強しています。",
+      "私の姉(妹)は大学で働いています。"
     ],
-    "explanation": "'Universidad' 〜を意味する 'university'. 'Estudiar en la universidad' = '〜に study 〜で university'."
+    "explanation": "「Universidad」は「大学」という意味です。「Estudiar en la universidad」は「大学で勉強する」という意味です。",
+    "hint": null
   },
   "q_vocab_a1_10_010": {
-    "question": "クラスメートからペンを借りたいです。何と言いますか?",
+    "question": "クラスメートからペンを借りる必要があります。何と言いますか?",
     "correct": "¿Me prestas un bolígrafo?",
     "wrong": [
       "¿Me prestas un lápiz?",
       "¿Me prestas un cuaderno?",
       "¿Me prestas un libro?"
     ],
-    "explanation": "'Bolígrafo' は「ボールペン」という意味です。'¿Me prestas...?' は「…を貸してくれる?」という意味で、クラスメート同士でよく使います。",
+    "explanation": "「Bolígrafo」は「ペン」という意味です。「¿Me prestas...?」は「…を貸してくれる?」という意味で、クラスメート同士でよく使われます。",
     "context": "In class without a pen",
     "hint": null
   },
   "q_vocab_a1_11_001": {
-    "question": "〜は何を 'médico' 意味する?",
-    "correct": "doctor",
+    "question": "'médico' はどういう意味ですか?",
+    "correct": "医者",
     "wrong": [
-      "nurse",
-      "dentist",
-      "pharmacist"
+      "看護師",
+      "歯科医",
+      "薬剤師"
     ],
-    "explanation": "'Médico' 〜を意味する 'doctor'. 女性形 は 'médica'. 'Doctor/Doctora' は また 一般的に 使われた."
+    "explanation": "'Médico' は「医者」という意味です。女性形は 'médica' です。'Doctor/Doctora' もよく使われます。",
+    "hint": null
   },
   "q_vocab_a1_11_002": {
-    "question": "〜は何を 'abogado' 意味する?",
-    "correct": "lawyer",
+    "question": "'abogado' はどういう意味ですか?",
+    "correct": "弁護士",
     "wrong": [
-      "engineer",
-      "journalist",
-      "accountant"
+      "エンジニア",
+      "ジャーナリスト",
+      "会計士"
     ],
-    "explanation": "'Abogado' 〜を意味する 'lawyer'. 女性形 は 'abogada'."
+    "explanation": "'Abogado' は「弁護士」という意味です。女性形は 'abogada' です。",
+    "hint": null
   },
   "q_vocab_a1_11_003": {
     "question": "El ___ prepara la comida en el restaurante.",
@@ -1128,80 +1147,87 @@
       "dentista",
       "policía"
     ],
-    "explanation": "'Cocinero' 〜を意味する 'cook/chef'. この 文 says 'この cook prepares この food 〜で この restaurant'."
+    "explanation": "'Cocinero' は「料理人・シェフ」という意味です。この文は「料理人はレストランで料理を作ります」という意味です。",
+    "hint": null
   },
   "q_vocab_a1_11_004": {
-    "question": "〜は何を 'enfermero' 意味する?",
-    "correct": "nurse",
+    "question": "'enfermero' はどういう意味ですか?",
+    "correct": "看護師",
     "wrong": [
-      "doctor",
-      "dentist",
-      "patient"
+      "医者",
+      "歯科医",
+      "患者"
     ],
-    "explanation": "'Enfermero' 〜を意味する 'nurse' (male). 'Enfermera' は 女性形. 彼ら work 〜で hospitals そして clinics."
+    "explanation": "'Enfermero' は「看護師」(男性)という意味です。'Enfermera' は女性形です。病院やクリニックで働きます。",
+    "hint": null
   },
   "q_vocab_a1_11_005": {
-    "question": "〜は何を 'periodista' 意味する 〜で 'El periodista trabaja en un periódico'?",
-    "correct": "journalist",
+    "question": "'El periodista trabaja en un periódico' の 'periodista' はどういう意味ですか?",
+    "correct": "ジャーナリスト",
     "wrong": [
-      "writer",
-      "editor",
-      "photographer"
+      "作家",
+      "編集者",
+      "カメラマン"
     ],
-    "explanation": "'Periodista' 〜を意味する 'journalist'. This 語 は この same 〜のために 男性 そして 女性. この 文 〜を意味する 'この journalist works 〜で newspaper'."
+    "explanation": "'Periodista' は「ジャーナリスト」という意味です。この語は男性形も女性形も同じです。この文は「ジャーナリストは新聞社で働いています」という意味です。",
+    "hint": null
   },
   "q_vocab_a1_11_006": {
-    "question": "My father は engineer.",
+    "question": "私の父はエンジニアです。",
     "correct": "Mi padre es ingeniero.",
     "wrong": [
       "Mi padre es abogado.",
       "Mi padre es profesor.",
       "Mi padre es médico."
     ],
-    "explanation": "'Ingeniero' 〜を意味する 'engineer'. スペイン語では, professions 〜の後 'ser' 典型的に don't 使う article (no 'un')."
+    "explanation": "'Ingeniero' は「エンジニア」という意味です。スペイン語では、'ser' の後に職業が来るとき、ふつう冠詞('un')は使いません。",
+    "hint": null
   },
   "q_vocab_a1_11_007": {
-    "question": "〜は何を 'camarero' 意味する 〜で 'El camarero trae la cuenta'?",
-    "correct": "waiter",
+    "question": "'El camarero trae la cuenta' の 'camarero' はどういう意味ですか?",
+    "correct": "ウェイター",
     "wrong": [
-      "chef",
-      "manager",
-      "customer"
+      "シェフ",
+      "支配人",
+      "客"
     ],
-    "explanation": "'Camarero' 〜を意味する 'waiter'. この 文 〜を意味する 'この waiter brings この bill'. 'Camarera' は waitress."
+    "explanation": "'Camarero' は「ウェイター」という意味です。この文は「ウェイターが会計(伝票)を持ってきます」という意味です。'Camarera' はウェイトレスです。",
+    "hint": null
   },
   "q_vocab_a1_11_008": {
     "question": "Soy estudiante de medicina. Quiero ser médico.",
-    "correct": "I am a medical student. I want to be a doctor.",
+    "correct": "私は医学生です。医者になりたいです。",
     "wrong": [
-      "I am a law student. I want to be a lawyer.",
-      "I am a medical student. I want to be a nurse.",
-      "I am an art student. I want to be a doctor."
+      "私は法学生です。弁護士になりたいです。",
+      "私は医学生です。看護師になりたいです。",
+      "私は美術学生です。医者になりたいです。"
     ],
-    "explanation": "'Estudiante de medicina' 〜を意味する 'medical student'. 'Quiero ser' 〜を意味する 'I want 〜に be'."
+    "explanation": "'Estudiante de medicina' は「医学生」という意味です。'Quiero ser' は「〜になりたい」という意味です。",
+    "hint": null
   },
   "q_vocab_a1_11_009": {
-    "question": "パーティーで知り合った人に仕事を聞かれました。「私は教師です」はどう言いますか?",
+    "question": "パーティーで知り合った人に、仕事を聞かれました。「私は教師です」はスペイン語でどう言いますか?",
     "correct": "Soy profesor.",
     "wrong": [
       "Soy estudiante.",
-      "Soy un profesor.",
+      "Es profesor.",
       "Estoy profesor."
     ],
-    "explanation": "職業には、永続的な特徴とみなされるため 'estoy' ではなく 'soy' を使います。職業名の前に冠詞は不要です。",
+    "explanation": "職業には 'estar' ではなく 'ser'(soy)を使います。\n- Soy profesor. = 私は教師です。\n- Es profesor. = 彼は教師です。\n- 職業名だけを言うときは、スペイン語では 'un' を省きます:Soy profesor.",
     "context": "Meeting someone new at a party",
     "hint": null
   },
   "q_vocab_a1_11_010": {
-    "question": "あなた call emergency services. どのように〜する ask 〜のために この police?",
+    "question": "緊急通報をします。警察を呼んでほしいとき、どう言いますか?",
     "correct": "¡Necesito la policía!",
     "wrong": [
       "¡Necesito un médico!",
       "¡Necesito un bombero!",
       "¡Necesito una ambulancia!"
     ],
-    "explanation": "'Policía' 〜できる 意味する 'police' (この force) または 'police officer'. ここ それ 〜を指す calling この police.",
-    "context": "Making an emergency phone call"
+    "explanation": "'Policía' は「警察」(組織)にも「警察官」にもなります。ここでは警察を呼ぶ意味です。",
+    "context": "Making an emergency phone call",
+    "hint": null
   },
   "q_vocab_a1_12_001": {
     "question": "〜は何を 'sol' 意味する?",

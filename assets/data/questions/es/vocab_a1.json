@@ -896,24 +896,26 @@
     "hint": null
   },
   "q_vocab_a1_09_001": {
-    "question": "¿Qué significa 'cocina' ?",
-    "correct": "kitchen",
+    "question": "¿Qué significa 'cocina'?",
+    "correct": "La habitación de la casa donde se prepara la comida",
     "wrong": [
-      "bedroom",
-      "bathroom",
-      "living room"
+      "La habitación donde se duerme",
+      "La habitación donde uno se ducha y se asea",
+      "La habitación donde se recibe a las visitas y se ve la tele"
     ],
-    "explanation": "'Cocina' significa 'kitchen'. Ello can también significar 'cooking' o 'stove' depending en context."
+    "explanation": "'Cocina' es la habitación de la casa donde se prepara la comida. Según el contexto, también puede significar 'el arte de cocinar' o 'el aparato con fogones para cocinar'.",
+    "hint": null
   },
   "q_vocab_a1_09_002": {
-    "question": "¿Qué significa 'ventana' ?",
-    "correct": "window",
+    "question": "¿Qué significa 'ventana'?",
+    "correct": "La abertura de la pared con cristal por donde entra la luz",
     "wrong": [
-      "door",
-      "wall",
-      "roof"
+      "La abertura de la pared por donde se entra y se sale de la casa",
+      "Cada una de las superficies verticales que cierran una habitación",
+      "La parte de arriba de una casa que la protege de la lluvia"
     ],
-    "explanation": "'Ventana' significa 'window'. 'Abrir la ventana' = 'a open el/la window'."
+    "explanation": "'Ventana' es la abertura con cristal en una pared por donde entran la luz y el aire. 'Abrir la ventana' es lo contrario de 'cerrar la ventana'.",
+    "hint": null
   },
   "q_vocab_a1_09_003": {
     "question": "Duermo en la ___ todas las noches.",
@@ -923,58 +925,63 @@
       "silla",
       "puerta"
     ],
-    "explanation": "'Cama' significa 'bed'. El/la sentence dice 'I sleep en el/la bed cada noche'."
+    "explanation": "'Cama' es el mueble donde se duerme. La frase significa que duermes en ese mueble todas las noches.",
+    "hint": null
   },
   "q_vocab_a1_09_004": {
-    "question": "¿Qué significa 'puerta' ?",
-    "correct": "door",
+    "question": "¿Qué significa 'puerta'?",
+    "correct": "La abertura que se usa para entrar y salir de un lugar",
     "wrong": [
-      "window",
-      "floor",
-      "ceiling"
+      "La abertura con cristal por donde entra la luz",
+      "La superficie sobre la que se camina en una habitación",
+      "La superficie de arriba que cubre una habitación"
     ],
-    "explanation": "'Puerta' significa 'door'. 'Abrir la puerta' = 'a open el/la door', 'cerrar la puerta' = 'a close el/la door'."
+    "explanation": "'Puerta' es la abertura por donde se entra y se sale de un lugar. 'Abrir la puerta' es lo contrario de 'cerrar la puerta'.",
+    "hint": null
   },
   "q_vocab_a1_09_005": {
     "question": "¿Qué significa 'sofá' en 'Me siento en el sofá'?",
-    "correct": "sofa / couch",
+    "correct": "Asiento largo y cómodo para varias personas",
     "wrong": [
-      "chair",
-      "bed",
-      "table"
+      "Asiento individual con cuatro patas y respaldo",
+      "Mueble donde se duerme por la noche",
+      "Mueble con una superficie plana para comer"
     ],
-    "explanation": "'Sofá' significa 'sofa' o 'couch'. El/la sentence significa 'I sit en el/la sofa'. Ello es normalmente en el/la 'salón' (living room)."
+    "explanation": "'Sofá' es un asiento largo y cómodo para varias personas. La frase quiere decir que te sientas en ese asiento. Suele estar en el 'salón'.",
+    "hint": null
   },
   "q_vocab_a1_09_006": {
-    "question": "El espejo se encuentra en el cuarto de baño.",
+    "question": "El espejo está en el baño.",
     "correct": "El espejo está en el baño.",
     "wrong": [
       "El espejo está en la cocina.",
       "La lámpara está en el baño.",
       "El armario está en el baño."
     ],
-    "explanation": "'Espejo' es el objeto en el que nos vemos reflejados y 'baño' es la habitación donde nos aseamos. Usamos 'está' para indicar la ubicación.",
+    "explanation": "'Espejo' es el objeto de cristal en el que te ves y 'baño' es la habitación donde uno se asea. Usamos 'está' para indicar la ubicación.",
     "hint": null
   },
   "q_vocab_a1_09_007": {
     "question": "¿Qué significa 'armario' en 'La ropa está en el armario'?",
-    "correct": "wardrobe / closet",
+    "correct": "Mueble grande con puertas donde se guarda la ropa",
     "wrong": [
-      "drawer",
-      "shelf",
-      "box"
+      "Parte pequeña de un mueble que se saca tirando de ella",
+      "Tabla fija en la pared para colocar objetos",
+      "Recipiente pequeño, normalmente de cartón, para guardar cosas"
     ],
-    "explanation": "'Armario' significa 'wardrobe' o 'closet'. El/la sentence significa 'El/la clothes son en el/la wardrobe'."
+    "explanation": "'Armario' es un mueble grande con puertas donde se guarda la ropa. La frase significa que la ropa está guardada en ese mueble.",
+    "hint": null
   },
   "q_vocab_a1_09_008": {
     "question": "Hay una estantería con muchos libros en el salón.",
-    "correct": "There is a bookshelf with many books in the living room.",
+    "correct": "En el salón hay un mueble con baldas lleno de libros.",
     "wrong": [
-      "There is a table with many books in the kitchen.",
-      "There is a bookshelf with many books in the bedroom.",
-      "There is a lamp with many books in the living room."
+      "En la cocina hay una mesa con muchos libros.",
+      "En el dormitorio hay un mueble con baldas lleno de libros.",
+      "En el salón hay una lámpara con muchos libros."
     ],
-    "explanation": "'Estantería' significa 'bookshelf/shelving unit' y 'salón' significa 'living room'. 'Hay' significa 'Hay/Hay'."
+    "explanation": "'Estantería' es un mueble con baldas para colocar libros y 'salón' es la sala principal de la casa. 'Hay' se usa para decir que algo existe o está en un lugar.",
+    "hint": null
   },
   "q_vocab_a1_09_009": {
     "question": "Estás buscando piso y quieres preguntar si tiene jardín. ¿Qué dices?",
@@ -984,60 +991,65 @@
       "¿El piso tiene dormitorio?",
       "¿El piso tiene baño?"
     ],
-    "explanation": "'Jardín' es un terreno con plantas y flores junto a una casa. 'Piso' es la palabra habitual en España para un apartamento. Es una pregunta frecuente al buscar vivienda.",
+    "explanation": "'Jardín' es el terreno con plantas y césped junto a una casa. 'Piso' es el apartamento en España. Es una pregunta muy habitual al buscar vivienda.",
     "context": "Looking at apartments with a real estate agent",
     "hint": null
   },
   "q_vocab_a1_09_010": {
-    "question": "A friend is visiting your home. ¿Cómo se dice 'The bedroom is next a the bathroom'?",
+    "question": "Un amigo viene a tu casa. ¿Cómo dices que el dormitorio está junto al baño?",
     "correct": "El dormitorio está al lado del baño.",
     "wrong": [
       "El dormitorio está lejos del baño.",
       "La cocina está al lado del baño.",
       "El dormitorio está en el baño."
     ],
-    "explanation": "'Dormitorio' significa 'bedroom', 'al lado de' significa 'siguiente a', y 'baño' significa 'bathroom'.",
-    "context": "Giving a tour of your home to a friend"
+    "explanation": "'Dormitorio' es la habitación donde se duerme, 'al lado de' indica que algo está junto a otra cosa y 'baño' es la habitación donde uno se asea.",
+    "context": "Giving a tour of your home to a friend",
+    "hint": null
   },
   "q_vocab_a1_10_001": {
-    "question": "¿Qué significa 'libro' ?",
-    "correct": "book",
+    "question": "¿Qué significa 'libro'?",
+    "correct": "libro (objeto para leer)",
     "wrong": [
-      "notebook",
-      "pencil",
-      "pen"
+      "cuaderno",
+      "lápiz",
+      "bolígrafo"
     ],
-    "explanation": "'Libro' significa 'book'. 'Librería' significa 'bookstore' (not 'library', que es 'biblioteca')."
+    "explanation": "'Libro' es el objeto que se lee, hecho de páginas. 'Librería' es la tienda donde se venden libros (no la 'biblioteca', donde se prestan).",
+    "hint": null
   },
   "q_vocab_a1_10_002": {
     "question": "El estudiante escribe en el ___.",
     "correct": "cuaderno",
     "wrong": [
-      "libro",
-      "examen",
+      "lápiz",
+      "bolígrafo",
       "pizarra"
     ],
-    "explanation": "'Cuaderno' significa 'notebook'. El/la sentence dice 'El/la student writes en el/la notebook'."
+    "explanation": "'Cuaderno' es un conjunto de hojas para escribir apuntes. La frase dice que el estudiante escribe en el cuaderno.\n- Se escribe en un cuaderno: escribir en el cuaderno\n- Se escribe con un lápiz o un bolígrafo: escribir con el lápiz / el bolígrafo",
+    "hint": null
   },
   "q_vocab_a1_10_003": {
-    "question": "¿Qué significa 'profesor' ?",
-    "correct": "teacher / professor",
+    "question": "¿Qué significa 'profesor'?",
+    "correct": "persona que enseña en una escuela o universidad",
     "wrong": [
-      "student",
-      "principal",
-      "classmate"
+      "persona que estudia en una escuela",
+      "persona que dirige una escuela",
+      "persona que está en la misma clase"
     ],
-    "explanation": "'Profesor' significa 'teacher' o 'professor'. La forma femenina es 'profesora'."
+    "explanation": "'Profesor' es la persona que enseña en una escuela o universidad. La forma femenina es 'profesora'.",
+    "hint": null
   },
   "q_vocab_a1_10_004": {
-    "question": "¿Qué significa 'examen' ?",
-    "correct": "exam / test",
+    "question": "¿Qué significa 'examen'?",
+    "correct": "prueba para evaluar lo que se ha aprendido",
     "wrong": [
-      "homework",
-      "class",
-      "grade"
+      "trabajo que se hace en casa",
+      "hora en que el profesor enseña",
+      "número que muestra el resultado"
     ],
-    "explanation": "'Examen' significa 'exam' o 'test'. El plural es 'exámenes' (note el/la accent shift)."
+    "explanation": "'Examen' es una prueba para evaluar lo que se ha aprendido. El plural es 'exámenes'.\n- El acento se mantiene en la 'a' de 'exa-', por eso el plural necesita tilde.",
+    "hint": null
   },
   "q_vocab_a1_10_005": {
     "question": "Estudio en la biblioteca.",
@@ -1047,81 +1059,87 @@
       "Estudio en la escuela.",
       "Estudio en el aula."
     ],
-    "explanation": "'Biblioteca' es el lugar donde se leen y se prestan libros. Ojo: 'librería' es el lugar donde se compran libros, no una biblioteca.",
+    "explanation": "'Biblioteca' es el lugar donde se leen y se prestan libros. Ojo: 'librería' es la tienda donde se venden libros, no una biblioteca.",
     "hint": null
   },
   "q_vocab_a1_10_006": {
     "question": "¿Qué significa 'pizarra' en 'El profesor escribe en la pizarra'?",
-    "correct": "blackboard / whiteboard",
+    "correct": "superficie grande de la pared donde se escribe con tiza o rotulador",
     "wrong": [
-      "desk",
-      "notebook",
-      "textbook"
+      "mesa donde se sienta el estudiante",
+      "cuaderno para tomar apuntes",
+      "libro de texto de la clase"
     ],
-    "explanation": "'Pizarra' significa 'blackboard' o 'whiteboard'. El/la sentence significa 'El/la teacher writes en el/la board'."
+    "explanation": "'Pizarra' es la superficie grande donde se escribe con tiza o rotulador. La frase significa que el profesor escribe en la pizarra.",
+    "hint": null
   },
   "q_vocab_a1_10_007": {
-    "question": "You forgot para hacer your homework. How ¿ tell your teacher?",
+    "question": "Olvidaste hacer la tarea. ¿Cómo se lo dices a tu profesor?",
     "correct": "Lo siento, no tengo la tarea.",
     "wrong": [
       "Lo siento, no tengo el libro.",
       "Lo siento, no tengo el bolígrafo.",
       "Lo siento, no tengo el examen."
     ],
-    "explanation": "'Tarea' significa 'homework' o 'assignment'. 'Deberes' es también se usa en Spain para homework.",
-    "context": "Arriving at class without homework"
+    "explanation": "'Tarea' es el trabajo que el profesor manda hacer en casa. En España también se usa 'deberes'.",
+    "context": "Arriving at class without homework",
+    "hint": null
   },
   "q_vocab_a1_10_008": {
     "question": "¿Qué significa 'lápiz' en 'Necesito un lápiz'?",
-    "correct": "pencil",
+    "correct": "instrumento de madera con mina para escribir y borrar",
     "wrong": [
-      "pen",
-      "eraser",
-      "ruler"
+      "instrumento con tinta para escribir",
+      "objeto de goma para borrar",
+      "objeto largo para medir y trazar líneas"
     ],
-    "explanation": "'Lápiz' significa 'pencil'. El plural es 'lápices'. A pen es 'bolígrafo' (o 'boli' informally)."
+    "explanation": "'Lápiz' es un instrumento con mina para escribir. El plural es 'lápices'. El que escribe con tinta es el 'bolígrafo' (o 'boli', en lenguaje informal).",
+    "hint": null
   },
   "q_vocab_a1_10_009": {
     "question": "Mi hermana estudia en la universidad.",
-    "correct": "My sister studies at the university.",
+    "correct": "Mi hermana estudia en la universidad.",
     "wrong": [
-      "My sister studies at the school.",
-      "My brother studies at the university.",
-      "My sister works at the university."
+      "Mi hermana estudia en el colegio.",
+      "Mi hermano estudia en la universidad.",
+      "Mi hermana trabaja en la universidad."
     ],
-    "explanation": "'Universidad' significa 'university'. 'Estudiar en la universidad' = 'a study en university'."
+    "explanation": "'Universidad' es el centro de estudios superiores. 'Estudiar en la universidad' es cursar estudios superiores.",
+    "hint": null
   },
   "q_vocab_a1_10_010": {
-    "question": "Necesitas pedirle prestado un bolígrafo a un compañero de clase. ¿Qué dices?",
+    "question": "Necesitas que un compañero te preste un bolígrafo. ¿Qué dices?",
     "correct": "¿Me prestas un bolígrafo?",
     "wrong": [
       "¿Me prestas un lápiz?",
       "¿Me prestas un cuaderno?",
       "¿Me prestas un libro?"
     ],
-    "explanation": "'Bolígrafo' es el instrumento para escribir con tinta. '¿Me prestas...?' es una forma habitual de pedir algo prestado entre compañeros.",
+    "explanation": "'Bolígrafo' es el instrumento para escribir con tinta. '¿Me prestas...?' es una forma habitual entre compañeros para pedir algo prestado.",
     "context": "In class without a pen",
     "hint": null
   },
   "q_vocab_a1_11_001": {
-    "question": "¿Qué significa 'médico' ?",
+    "question": "¿Qué significa 'médico'?",
     "correct": "doctor",
     "wrong": [
-      "nurse",
-      "dentist",
-      "pharmacist"
+      "enfermero",
+      "dentista",
+      "farmacéutico"
     ],
-    "explanation": "'Médico' significa 'doctor'. La forma femenina es 'médica'. 'Doctor/Doctora' es también comúnmente used."
+    "explanation": "'Médico' es la persona que atiende a los enfermos; es un 'doctor'. El femenino es 'médica'. También se usa mucho 'doctor/doctora'.",
+    "hint": null
   },
   "q_vocab_a1_11_002": {
-    "question": "¿Qué significa 'abogado' ?",
-    "correct": "lawyer",
+    "question": "¿Qué significa 'abogado'?",
+    "correct": "jurista que defiende a sus clientes",
     "wrong": [
-      "engineer",
-      "journalist",
-      "accountant"
+      "ingeniero",
+      "periodista",
+      "contable"
     ],
-    "explanation": "'Abogado' significa 'lawyer'. La forma femenina es 'abogada'."
+    "explanation": "'Abogado' es la persona que defiende a otras ante la ley. El femenino es 'abogada'.",
+    "hint": null
   },
   "q_vocab_a1_11_003": {
     "question": "El ___ prepara la comida en el restaurante.",
@@ -1131,79 +1149,85 @@
       "dentista",
       "policía"
     ],
-    "explanation": "'Cocinero' significa 'cook/chef'. El/la sentence dice 'El/la cook prepares el/la food en el/la restaurant'."
+    "explanation": "'Cocinero' es la persona que cocina. La frase dice que el cocinero prepara la comida en el restaurante.",
+    "hint": null
   },
   "q_vocab_a1_11_004": {
-    "question": "¿Qué significa 'enfermero' ?",
-    "correct": "nurse",
+    "question": "¿Qué significa 'enfermero'?",
+    "correct": "persona que cuida a los pacientes",
     "wrong": [
       "doctor",
-      "dentist",
-      "patient"
+      "dentista",
+      "paciente"
     ],
-    "explanation": "'Enfermero' significa 'nurse' (male). 'Enfermera' es la forma femenina. Ellos work en hospitals y clinics."
+    "explanation": "'Enfermero' es el profesional que cuida a los enfermos (masculino). 'Enfermera' es el femenino. Trabajan en hospitales y clínicas.",
+    "hint": null
   },
   "q_vocab_a1_11_005": {
     "question": "¿Qué significa 'periodista' en 'El periodista trabaja en un periódico'?",
-    "correct": "journalist",
+    "correct": "persona que informa de las noticias",
     "wrong": [
-      "writer",
+      "escritor",
       "editor",
-      "photographer"
+      "fotógrafo"
     ],
-    "explanation": "'Periodista' significa 'journalist'. Esto palabra es el/la same para masculino y femenino. El/la sentence significa 'El/la journalist works en a newspaper'."
+    "explanation": "'Periodista' es quien trabaja informando de las noticias. Esta palabra es igual en masculino y femenino. La frase quiere decir que esa persona trabaja en un periódico.",
+    "hint": null
   },
   "q_vocab_a1_11_006": {
-    "question": "My father is an engineer.",
+    "question": "Mi padre es ingeniero.",
     "correct": "Mi padre es ingeniero.",
     "wrong": [
       "Mi padre es abogado.",
       "Mi padre es profesor.",
       "Mi padre es médico."
     ],
-    "explanation": "'Ingeniero' significa 'engineer'. En español, professions después de 'ser' típicamente no use an article (no 'un')."
+    "explanation": "'Ingeniero' es el profesional que diseña y construye proyectos técnicos. En español, las profesiones después de 'ser' normalmente no llevan artículo (no se dice 'un').",
+    "hint": null
   },
   "q_vocab_a1_11_007": {
     "question": "¿Qué significa 'camarero' en 'El camarero trae la cuenta'?",
-    "correct": "waiter",
+    "correct": "persona que atiende las mesas",
     "wrong": [
-      "chef",
-      "manager",
-      "customer"
+      "cocinero",
+      "gerente",
+      "cliente"
     ],
-    "explanation": "'Camarero' significa 'waiter'. El/la sentence significa 'El/la waiter brings el/la bill'. 'Camarera' es a waitress."
+    "explanation": "'Camarero' es quien sirve a los clientes en un restaurante o bar. La frase significa que trae la cuenta. 'Camarera' es el femenino.",
+    "hint": null
   },
   "q_vocab_a1_11_008": {
     "question": "Soy estudiante de medicina. Quiero ser médico.",
-    "correct": "I am a medical student. I want to be a doctor.",
+    "correct": "Estudio medicina y quiero ser doctor.",
     "wrong": [
-      "I am a law student. I want to be a lawyer.",
-      "I am a medical student. I want to be a nurse.",
-      "I am an art student. I want to be a doctor."
+      "Estudio derecho y quiero ser abogado.",
+      "Estudio medicina y quiero ser enfermero.",
+      "Estudio arte y quiero ser doctor."
     ],
-    "explanation": "'Estudiante de medicina' significa 'medical student'. 'Quiero ser' significa 'I want a ser'."
+    "explanation": "'Estudiante de medicina' es quien estudia medicina. 'Quiero ser' expresa el deseo de llegar a ser algo.",
+    "hint": null
   },
   "q_vocab_a1_11_009": {
     "question": "Conoces a alguien en una fiesta y te pregunta a qué te dedicas. ¿Cómo dices que eres profesor?",
     "correct": "Soy profesor.",
     "wrong": [
       "Soy estudiante.",
-      "Soy un profesor.",
+      "Es profesor.",
       "Estoy profesor."
     ],
-    "explanation": "Con las profesiones se usa 'soy' (no 'estoy') porque se consideran una característica permanente. No hace falta artículo delante de la profesión.",
+    "explanation": "Para las profesiones usamos 'ser' (soy), no 'estar'.\n- Soy profesor. (hablo de mí)\n- Es profesor. (hablo de otra persona)\n- Con una profesión sola, en español se omite el artículo 'un': Soy profesor.",
     "context": "Meeting someone new at a party",
     "hint": null
   },
   "q_vocab_a1_11_010": {
-    "question": "Llamas a los servicios de emergencia. ¿Cómo pides la policía?",
+    "question": "Llamas a emergencias. ¿Cómo pides la policía?",
     "correct": "¡Necesito la policía!",
     "wrong": [
       "¡Necesito un médico!",
       "¡Necesito un bombero!",
       "¡Necesito una ambulancia!"
     ],
-    "explanation": "'Policía' puede referirse al cuerpo de seguridad o a un agente. Aquí se refiere a llamar a la policía.",
+    "explanation": "'Policía' puede significar el cuerpo de policía o un agente de policía. Aquí se refiere a llamar a la policía.",
     "context": "Making an emergency phone call",
     "hint": null
   },

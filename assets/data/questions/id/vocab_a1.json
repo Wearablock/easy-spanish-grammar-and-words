@@ -925,7 +925,8 @@
       "silla",
       "puerta"
     ],
-    "explanation": "'Cama' berarti 'bed'. ini/itu sentence says 'I sleep di ini/itu bed every night'."
+    "explanation": "'Cama' berarti 'tempat tidur'. Kalimat ini berarti 'Saya tidur di tempat tidur setiap malam'.",
+    "hint": null
   },
   "q_vocab_a1_09_004": {
     "question": "Apa arti 'puerta'?",
@@ -940,24 +941,25 @@
   },
   "q_vocab_a1_09_005": {
     "question": "Apa arti 'sofá' dalam kalimat 'Me siento en el sofá'?",
-    "correct": "sofa / sofa panjang",
+    "correct": "sofa",
     "wrong": [
       "kursi",
       "tempat tidur",
       "meja"
     ],
-    "explanation": "'Sofá' berarti 'sofa'. Kalimat ini berarti 'Aku duduk di sofa'. Biasanya sofa ada di 'salón' (ruang tamu).",
+    "explanation": "'Sofá' berarti 'sofa'. Kalimat ini berarti 'Saya duduk di sofa'. Sofa biasanya ada di 'salón' (ruang tamu).",
     "hint": null
   },
   "q_vocab_a1_09_006": {
-    "question": "ini/itu mirror adalah di ini/itu bathroom.",
+    "question": "Cermin ada di kamar mandi.",
     "correct": "El espejo está en el baño.",
     "wrong": [
       "El espejo está en la cocina.",
       "La lámpara está en el baño.",
       "El armario está en el baño."
     ],
-    "explanation": "'Espejo' berarti 'mirror' dan 'baño' berarti 'bathroom'. Kita menggunakan 'está' untuk location."
+    "explanation": "'Espejo' berarti 'cermin' dan 'baño' berarti 'kamar mandi'. Kita memakai 'está' untuk menyatakan lokasi.",
+    "hint": null
   },
   "q_vocab_a1_09_007": {
     "question": "Apa arti 'armario' dalam kalimat 'La ropa está en el armario'?",
@@ -967,46 +969,49 @@
       "rak",
       "kotak"
     ],
-    "explanation": "'Armario' berarti 'lemari pakaian'. Kalimat tersebut berarti 'Pakaian ada di dalam lemari'.",
+    "explanation": "'Armario' berarti 'lemari pakaian'. Kalimat ini berarti 'Pakaian ada di lemari'.",
     "hint": null
   },
   "q_vocab_a1_09_008": {
     "question": "Hay una estantería con muchos libros en el salón.",
-    "correct": "There is a bookshelf with many books in the living room.",
+    "correct": "Ada rak buku dengan banyak buku di ruang tamu.",
     "wrong": [
-      "There is a table with many books in the kitchen.",
-      "There is a bookshelf with many books in the bedroom.",
-      "There is a lamp with many books in the living room."
+      "Ada meja dengan banyak buku di dapur.",
+      "Ada rak buku dengan banyak buku di kamar tidur.",
+      "Ada lampu dengan banyak buku di ruang tamu."
     ],
-    "explanation": "'Estantería' berarti 'bookshelf/shelving unit' dan 'salón' berarti 'living room'. 'Hay' berarti 'Ada/Ada'."
+    "explanation": "'Estantería' berarti 'rak buku' dan 'salón' berarti 'ruang tamu'. 'Hay' berarti 'ada'.",
+    "hint": null
   },
   "q_vocab_a1_09_009": {
-    "question": "kamu adalah looking untuk an apartment dan want ke ask if itu memiliki a garden. apa do kamu say?",
+    "question": "Kamu sedang mencari apartemen dan ingin bertanya apakah apartemen itu punya taman. Apa yang kamu katakan?",
     "correct": "¿El piso tiene jardín?",
     "wrong": [
       "¿El piso tiene cocina?",
       "¿El piso tiene dormitorio?",
       "¿El piso tiene baño?"
     ],
-    "explanation": "'Jardín' berarti 'garden'. 'Piso' berarti 'apartment' di Spain. ini adalah umum question kapan apartment hunting.",
-    "context": "Looking at apartments with a real estate agent"
+    "explanation": "'Jardín' berarti 'taman'. 'Piso' berarti 'apartemen' di Spanyol. Ini pertanyaan yang umum saat mencari apartemen.",
+    "context": "Looking at apartments with a real estate agent",
+    "hint": null
   },
   "q_vocab_a1_09_010": {
-    "question": "A friend adalah visiting milikmu home. bagaimana do kamu say 'ini/itu bedroom adalah next ke ini/itu bathroom'?",
+    "question": "Seorang teman berkunjung ke rumahmu. Bagaimana cara mengatakan 'Kamar tidur ada di sebelah kamar mandi'?",
     "correct": "El dormitorio está al lado del baño.",
     "wrong": [
       "El dormitorio está lejos del baño.",
       "La cocina está al lado del baño.",
       "El dormitorio está en el baño."
     ],
-    "explanation": "'Dormitorio' berarti 'bedroom', 'al lado de' berarti 'next ke', dan 'baño' berarti 'bathroom'.",
-    "context": "Giving a tour of your home to teman"
+    "explanation": "'Dormitorio' berarti 'kamar tidur', 'al lado de' berarti 'di sebelah', dan 'baño' berarti 'kamar mandi'.",
+    "context": "Giving a tour of your home to teman",
+    "hint": null
   },
   "q_vocab_a1_10_001": {
     "question": "Apa arti 'libro'?",
     "correct": "buku",
     "wrong": [
-      "buku tulis",
+      "buku catatan",
       "pensil",
       "pulpen"
     ],
@@ -1017,17 +1022,18 @@
     "question": "El estudiante escribe en el ___.",
     "correct": "cuaderno",
     "wrong": [
-      "libro",
-      "examen",
+      "lápiz",
+      "bolígrafo",
       "pizarra"
     ],
-    "explanation": "'Cuaderno' berarti 'notebook'. ini/itu sentence says 'ini/itu student writes di ini/itu notebook'."
+    "explanation": "'Cuaderno' berarti 'buku catatan'. Kalimat ini artinya 'Siswa itu menulis di buku catatan'.\n- Menulis di buku catatan: escribir en el cuaderno\n- Menulis dengan pensil atau pulpen: escribir con el lápiz / el bolígrafo",
+    "hint": null
   },
   "q_vocab_a1_10_003": {
     "question": "Apa arti 'profesor'?",
     "correct": "guru / dosen",
     "wrong": [
-      "murid",
+      "siswa",
       "kepala sekolah",
       "teman sekelas"
     ],
@@ -1036,46 +1042,48 @@
   },
   "q_vocab_a1_10_004": {
     "question": "Apa arti 'examen'?",
-    "correct": "ujian",
+    "correct": "ujian / tes",
     "wrong": [
       "pekerjaan rumah",
       "kelas",
       "nilai"
     ],
-    "explanation": "'Examen' berarti 'ujian'. Bentuk jamaknya adalah 'exámenes' (perhatikan perpindahan aksennya).",
+    "explanation": "'Examen' berarti 'ujian' atau 'tes'. Bentuk jamaknya adalah 'exámenes'.\n- Tekanan tetap berada pada huruf 'a' di 'exa-', sehingga bentuk jamaknya membutuhkan tanda aksen tertulis.",
     "hint": null
   },
   "q_vocab_a1_10_005": {
-    "question": "I study at ini/itu library.",
+    "question": "Saya belajar di perpustakaan.",
     "correct": "Estudio en la biblioteca.",
     "wrong": [
       "Estudio en la librería.",
       "Estudio en la escuela.",
       "Estudio en el aula."
     ],
-    "explanation": "'Biblioteca' berarti 'library'. menjadi careful: 'librería' berarti 'bookstore', not 'library'."
+    "explanation": "'Biblioteca' berarti 'perpustakaan'. Hati-hati: 'librería' berarti 'toko buku', bukan 'perpustakaan'.",
+    "hint": null
   },
   "q_vocab_a1_10_006": {
     "question": "Apa arti 'pizarra' dalam kalimat 'El profesor escribe en la pizarra'?",
     "correct": "papan tulis",
     "wrong": [
       "meja belajar",
-      "buku tulis",
+      "buku catatan",
       "buku pelajaran"
     ],
-    "explanation": "'Pizarra' berarti 'papan tulis'. Kalimat tersebut berarti 'Gurunya menulis di papan tulis'.",
+    "explanation": "'Pizarra' berarti 'papan tulis' (papan hitam atau papan putih). Kalimat ini artinya 'Guru menulis di papan tulis'.",
     "hint": null
   },
   "q_vocab_a1_10_007": {
-    "question": "kamu forgot ke do milikmu homework. bagaimana do kamu tell milikmu teacher?",
+    "question": "Kamu lupa mengerjakan PR. Bagaimana kamu mengatakannya kepada gurumu?",
     "correct": "Lo siento, no tengo la tarea.",
     "wrong": [
       "Lo siento, no tengo el libro.",
       "Lo siento, no tengo el bolígrafo.",
       "Lo siento, no tengo el examen."
     ],
-    "explanation": "'Tarea' berarti 'homework' atau 'assignment'. 'Deberes' adalah juga used di Spain untuk homework.",
-    "context": "Arriving at class without homework"
+    "explanation": "'Tarea' berarti 'pekerjaan rumah' atau 'tugas'. Di Spanyol, 'deberes' juga digunakan untuk menyebut pekerjaan rumah.",
+    "context": "Arriving at class without homework",
+    "hint": null
   },
   "q_vocab_a1_10_008": {
     "question": "Apa arti 'lápiz' dalam kalimat 'Necesito un lápiz'?",
@@ -1085,29 +1093,31 @@
       "penghapus",
       "penggaris"
     ],
-    "explanation": "'Lápiz' berarti 'pensil'. Bentuk jamaknya adalah 'lápices'. Pulpen dalam bahasa Spanyol adalah 'bolígrafo' (atau 'boli' dalam percakapan santai).",
+    "explanation": "'Lápiz' berarti 'pensil'. Bentuk jamaknya adalah 'lápices'. Pulpen adalah 'bolígrafo' (atau 'boli' dalam bahasa sehari-hari).",
     "hint": null
   },
   "q_vocab_a1_10_009": {
     "question": "Mi hermana estudia en la universidad.",
-    "correct": "My sister studies at the university.",
+    "correct": "Adik/kakak perempuan saya belajar di universitas.",
     "wrong": [
-      "My sister studies at the school.",
-      "My brother studies at the university.",
-      "My sister works at the university."
+      "Adik/kakak perempuan saya belajar di sekolah.",
+      "Adik/kakak laki-laki saya belajar di universitas.",
+      "Adik/kakak perempuan saya bekerja di universitas."
     ],
-    "explanation": "'Universidad' berarti 'university'. 'Estudiar en la universidad' = 'ke study at university'."
+    "explanation": "'Universidad' berarti 'universitas'. 'Estudiar en la universidad' = 'kuliah / belajar di universitas'.",
+    "hint": null
   },
   "q_vocab_a1_10_010": {
-    "question": "kamu need ke borrow a pen dari a classmate. apa do kamu say?",
+    "question": "Kamu perlu meminjam pulpen dari teman sekelas. Apa yang kamu katakan?",
     "correct": "¿Me prestas un bolígrafo?",
     "wrong": [
       "¿Me prestas un lápiz?",
       "¿Me prestas un cuaderno?",
       "¿Me prestas un libro?"
     ],
-    "explanation": "'Bolígrafo' berarti 'pen'. '¿Me prestas...?' berarti 'bisa kamu lend me...?' yang merupakan umum among classmates.",
-    "context": "In class without a pen"
+    "explanation": "'Bolígrafo' berarti 'pulpen'. '¿Me prestas...?' berarti 'Bisa pinjamkan aku...?', ungkapan yang umum di antara teman sekelas.",
+    "context": "In class without a pen",
+    "hint": null
   },
   "q_vocab_a1_11_001": {
     "question": "Apa arti 'médico'?",
@@ -1117,7 +1127,7 @@
       "dokter gigi",
       "apoteker"
     ],
-    "explanation": "'Médico' berarti 'dokter'. Bentuk femininnya adalah 'médica'. 'Doctor/Doctora' juga umum digunakan.",
+    "explanation": "'Médico' berarti 'dokter'. Bentuk femininnya adalah 'médica'. 'Doctor/Doctora' juga umum dipakai.",
     "hint": null
   },
   "q_vocab_a1_11_002": {
@@ -1139,7 +1149,8 @@
       "dentista",
       "policía"
     ],
-    "explanation": "'Cocinero' berarti 'cook/chef'. ini/itu sentence says 'ini/itu cook prepares ini/itu food di ini/itu restaurant'."
+    "explanation": "'Cocinero' berarti 'koki'. Kalimat ini berarti 'Koki menyiapkan makanan di restoran'.",
+    "hint": null
   },
   "q_vocab_a1_11_004": {
     "question": "Apa arti 'enfermero'?",
@@ -1153,68 +1164,72 @@
     "hint": null
   },
   "q_vocab_a1_11_005": {
-    "question": "Apa arti 'periodista' dalam kalimat 'El periodista trabaja en un periódico'?",
-    "correct": "jurnalis / wartawan",
+    "question": "Apa arti 'periodista' dalam 'El periodista trabaja en un periódico'?",
+    "correct": "jurnalis",
     "wrong": [
       "penulis",
       "editor",
       "fotografer"
     ],
-    "explanation": "'Periodista' berarti 'jurnalis' atau 'wartawan'. Kata ini sama untuk maskulin dan feminin. Kalimat tersebut berarti 'Jurnalis itu bekerja di sebuah surat kabar'.",
+    "explanation": "'Periodista' berarti 'jurnalis'. Kata ini sama untuk maskulin dan feminin. Kalimat ini berarti 'Jurnalis itu bekerja di sebuah surat kabar'.",
     "hint": null
   },
   "q_vocab_a1_11_006": {
-    "question": "My father adalah an engineer.",
+    "question": "Ayahku seorang insinyur.",
     "correct": "Mi padre es ingeniero.",
     "wrong": [
       "Mi padre es abogado.",
       "Mi padre es profesor.",
       "Mi padre es médico."
     ],
-    "explanation": "'Ingeniero' berarti 'engineer'. dalam bahasa Spanyol, professions setelah 'ser' typically don't use an artikel (no 'un')."
+    "explanation": "'Ingeniero' berarti 'insinyur'. Dalam bahasa Spanyol, profesi setelah 'ser' biasanya tidak memakai artikel (tanpa 'un').",
+    "hint": null
   },
   "q_vocab_a1_11_007": {
-    "question": "Apa arti 'camarero' dalam kalimat 'El camarero trae la cuenta'?",
+    "question": "Apa arti 'camarero' dalam 'El camarero trae la cuenta'?",
     "correct": "pelayan",
     "wrong": [
       "koki",
       "manajer",
       "pelanggan"
     ],
-    "explanation": "'Camarero' berarti 'pelayan'. Kalimat tersebut berarti 'Pelayan membawakan tagihan'. 'Camarera' adalah pelayan perempuan.",
+    "explanation": "'Camarero' berarti 'pelayan'. Kalimat ini berarti 'Pelayan membawakan tagihan'. 'Camarera' adalah pelayan perempuan.",
     "hint": null
   },
   "q_vocab_a1_11_008": {
     "question": "Soy estudiante de medicina. Quiero ser médico.",
-    "correct": "I am a medical student. I want to be a doctor.",
+    "correct": "Aku mahasiswa kedokteran. Aku ingin menjadi dokter.",
     "wrong": [
-      "I am a law student. I want to be a lawyer.",
-      "I am a medical student. I want to be a nurse.",
-      "I am an art student. I want to be a doctor."
+      "Aku mahasiswa hukum. Aku ingin menjadi pengacara.",
+      "Aku mahasiswa kedokteran. Aku ingin menjadi perawat.",
+      "Aku mahasiswa seni. Aku ingin menjadi dokter."
     ],
-    "explanation": "'Estudiante de medicina' berarti 'medical student'. 'Quiero ser' berarti 'I want ke menjadi'."
+    "explanation": "'Estudiante de medicina' berarti 'mahasiswa kedokteran'. 'Quiero ser' berarti 'aku ingin menjadi'.",
+    "hint": null
   },
   "q_vocab_a1_11_009": {
-    "question": "kamu meet someone at a party dan mereka ask apa kamu do. bagaimana do kamu say 'I am a teacher'?",
+    "question": "Kamu bertemu seseorang di pesta dan mereka menanyakan pekerjaanmu. Bagaimana cara mengatakan 'Saya seorang guru'?",
     "correct": "Soy profesor.",
     "wrong": [
       "Soy estudiante.",
-      "Soy un profesor.",
+      "Es profesor.",
       "Estoy profesor."
     ],
-    "explanation": "Kita menggunakan 'soy' (not 'estoy') untuk profesi karena mereka adalah considered permanent traits. No artikel adalah needed sebelum ini/itu profession.",
-    "context": "Meeting someone new at a party"
+    "explanation": "Untuk pekerjaan kita memakai 'ser' (soy), bukan 'estar'.\n- Soy profesor. = Saya seorang guru.\n- Es profesor. = Dia seorang guru.\n- Jika hanya menyebut nama pekerjaan, bahasa Spanyol menghilangkan 'un': Soy profesor.",
+    "context": "Meeting someone new at a party",
+    "hint": null
   },
   "q_vocab_a1_11_010": {
-    "question": "kamu call emergency services. bagaimana do kamu ask untuk ini/itu police?",
+    "question": "Kamu menelepon layanan darurat. Bagaimana cara meminta polisi?",
     "correct": "¡Necesito la policía!",
     "wrong": [
       "¡Necesito un médico!",
       "¡Necesito un bombero!",
       "¡Necesito una ambulancia!"
     ],
-    "explanation": "'Policía' bisa berarti 'police' (ini/itu force) atau 'police officer'. di sini itu mengacu pada calling ini/itu police.",
-    "context": "Making an emergency phone call"
+    "explanation": "'Policía' bisa berarti 'polisi' (kesatuan) atau 'petugas polisi'. Di sini maksudnya memanggil polisi.",
+    "context": "Making an emergency phone call",
+    "hint": null
   },
   "q_vocab_a1_12_001": {
     "question": "Apa arti 'sol'?",

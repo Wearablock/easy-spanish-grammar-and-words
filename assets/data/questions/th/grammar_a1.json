@@ -1014,15 +1014,16 @@
     "hint": null
   },
   "q_gram_a1_10_001": {
-    "question": "Yo ___ en Madrid. (conjugate vivir)",
+    "question": "Yo ___ en Madrid. (ผันกริยา vivir)",
     "correct": "vivo",
     "wrong": [
       "vives",
       "vive",
       "vivimos"
     ],
-    "explanation": "สำหรับ -ir verbs, yo สำหรับm ลงท้ายด้วย -o (same as -ar และ -er).\n- vivir → viv + o = vivo\n- Yo vivo = I live.",
-    "conjugation_info": "vivir - present: vivo, vives, vive, vivimos, vivís, viven"
+    "explanation": "กริยากลุ่ม -ir เมื่อใช้กับ yo จะลงท้ายด้วย -o (เหมือนกลุ่ม -ar และ -er)\n- vivir → viv + o = vivo\n- Yo vivo = ฉันอาศัยอยู่",
+    "conjugation_info": "vivir - present: vivo, vives, vive, vivimos, vivís, viven",
+    "hint": null
   },
   "q_gram_a1_10_002": {
     "question": "Nosotros ___ a las dos.",
@@ -1032,8 +1033,8 @@
       "comen",
       "come"
     ],
-    "explanation": "สำหรับ -er verbs, nosotros สำหรับm ลงท้ายด้วย -emos.\n- comer → com + emos = comemos\n- Nosotros comemos = We eat.",
-    "hint": "อะไร เป็น nosotros ending สำหรับ -er verbs?"
+    "explanation": "กริยากลุ่ม -er เมื่อใช้กับ nosotros จะลงท้ายด้วย -emos\n- comer → com + emos = comemos\n- Nosotros comemos = พวกเรากิน",
+    "hint": "กริยากลุ่ม -er ที่ใช้กับ nosotros ลงท้ายด้วยอะไร?"
   },
   "q_gram_a1_10_003": {
     "question": "Ella ___ una carta.",
@@ -1043,30 +1044,31 @@
       "escribes",
       "escriben"
     ],
-    "explanation": "สำหรับ -ir verbs, ella สำหรับm ลงท้ายด้วย -e (same as -er verbs).\n- escribir → escrib + e = escribe\n- Ella escribe = She writes.",
-    "hint": "ella เป็น 3rd คน เอกพจน์"
+    "explanation": "กริยากลุ่ม -ir เมื่อใช้กับ ella จะลงท้ายด้วย -e (เหมือนกลุ่ม -er)\n- escribir → escrib + e = escribe\n- Ella escribe = เธอเขียน",
+    "hint": "ella เป็นบุรุษที่ 3 เอกพจน์"
   },
   "q_gram_a1_10_004": {
-    "question": "คำลงท้ายกริยา -er กับ -ir ต่างกันที่จุดสำคัญอะไร?",
+    "question": "ความแตกต่างสำคัญระหว่างการลงท้ายของกริยากลุ่ม -er และ -ir คืออะไร?",
     "correct": "ต่างกันเฉพาะรูป nosotros และ vosotros",
     "wrong": [
-      "ต่างกันทุกรูป",
+      "ทุกรูปแตกต่างกันหมด",
       "ต่างกันเฉพาะรูป yo",
-      "ไม่ต่างกันเลย"
+      "ไม่มีความแตกต่างเลย"
     ],
-    "explanation": "การผันกริยา -er และ -ir เกือบเหมือนกันทั้งหมด\n- ต่างกันเฉพาะ nosotros และ vosotros\n  -er: comemos, coméis / -ir: vivimos, vivís\n  รูปอื่นทั้งหมดใช้คำลงท้ายเหมือนกัน: -o, -es, -e, -en",
+    "explanation": "การผันกริยากลุ่ม -er และ -ir เกือบเหมือนกันทุกประการ\n- ต่างกันเฉพาะ nosotros และ vosotros:\n  -er: comemos, coméis / -ir: vivimos, vivís\n  รูปอื่นทั้งหมดใช้การลงท้ายเหมือนกัน: -o, -es, -e, -en",
     "hint": null
   },
   "q_gram_a1_10_005": {
-    "question": "¿Tú ___ café? (conjugate beber)",
+    "question": "¿Tú ___ café? (ผันกริยา beber)",
     "correct": "bebes",
     "wrong": [
       "bebo",
       "bebe",
       "beben"
     ],
-    "explanation": "สำหรับ -er verbs, tú สำหรับm ลงท้ายด้วย -es.\n- beber → beb + es = bebes\n- ¿Tú bebes café? = Do คุณ drink กาแฟ?",
-    "conjugation_info": "beber - present: bebo, bebes, bebe, bebemos, bebéis, beben"
+    "explanation": "กริยากลุ่ม -er เมื่อใช้กับ tú จะลงท้ายด้วย -es\n- beber → beb + es = bebes\n- ¿Tú bebes café? = คุณดื่มกาแฟไหม?",
+    "conjugation_info": "beber - present: bebo, bebes, bebe, bebemos, bebéis, beben",
+    "hint": null
   },
   "q_gram_a1_10_006": {
     "question": "Los estudiantes ___ muchos libros.",
@@ -1076,29 +1078,30 @@
       "leo",
       "lees"
     ],
-    "explanation": "สำหรับ -er verbs, ellos สำหรับm ลงท้ายด้วย -en.\n- leer → le + en = leen\n- Los estudiantes leen = students read.",
-    "hint": "los estudiantes = พวกเขา (3rd คน พหูพจน์)"
+    "explanation": "กริยากลุ่ม -er เมื่อใช้กับ ellos จะลงท้ายด้วย -en\n- leer → le + en = leen\n- Los estudiantes leen = นักเรียนอ่านหนังสือหลายเล่ม",
+    "hint": "los estudiantes = พวกเขา (บุรุษที่ 3 พหูพจน์)"
   },
   "q_gram_a1_10_007": {
-    "question": "คุณ (inสำหรับmal) open door.",
+    "question": "คุณ (แบบไม่เป็นทางการ) เปิดประตู",
     "correct": "Tú abres la puerta.",
     "wrong": [
       "Tú abre la puerta.",
       "Tú abro la puerta.",
       "Tú abren la puerta."
     ],
-    "explanation": "สำหรับ -ir verbs, tú สำหรับm ลงท้ายด้วย -es.\n- abrir → abr + es = abres\n- Tú abres = คุณ open."
+    "explanation": "กริยากลุ่ม -ir เมื่อใช้กับ tú จะลงท้ายด้วย -es\n- abrir → abr + es = abres\n- Tú abres = คุณเปิด",
+    "hint": null
   },
   "q_gram_a1_10_008": {
-    "question": "Vosotros ___ en un apartamento. (conjugate vivir)",
+    "question": "Vosotros ___ en un apartamento. (ผันกริยา vivir)",
     "correct": "vivís",
     "wrong": [
       "vivimos",
       "viven",
       "vivis"
     ],
-    "explanation": "สำหรับ -ir verbs, vosotros สำหรับm ลงท้ายด้วย -ís.\n- vivir → viv + ís = vivís\nNote accent mark on 'i'.",
-    "hint": " vosotros ending สำหรับ -ir verbs มี an accent"
+    "explanation": "กริยากลุ่ม -ir เมื่อใช้กับ vosotros จะลงท้ายด้วย -ís\n- vivir → viv + ís = vivís\nสังเกตเครื่องหมายสำเนียงบนตัว 'i'",
+    "hint": "การลงท้ายของกริยากลุ่ม -ir ที่ใช้กับ vosotros มีเครื่องหมายสำเนียง"
   },
   "q_gram_a1_10_009": {
     "question": "เธออ่านหนังสือพิมพ์ทุกเช้า",
@@ -1108,19 +1111,20 @@
       "Ella leen el periódico cada mañana.",
       "Ella leo el periódico cada mañana."
     ],
-    "explanation": "กริยา -er รูป ella ลงท้ายด้วย -e\n- leer → le + e = lee\nสังเกตว่า lee มี 'e' สองตัวติดกัน ซึ่งถูกต้องแล้วสำหรับบุรุษที่ 3 ของ leer",
+    "explanation": "กริยากลุ่ม -er เมื่อใช้กับ ella จะลงท้ายด้วย -e\n- leer → le + e = lee\nสังเกตว่า lee มี 'e' สองตัวติดกัน ซึ่งถูกต้องแล้วสำหรับบุรุษที่ 3 ของ leer",
     "hint": null
   },
   "q_gram_a1_10_010": {
-    "question": "Nosotros ___ en un piso. (conjugate vivir)",
+    "question": "Nosotros ___ en un piso. (ผันกริยา vivir)",
     "correct": "vivimos",
     "wrong": [
       "vivemos",
       "viven",
       "vivís"
     ],
-    "explanation": "สำหรับ -ir verbs, nosotros สำหรับm ลงท้ายด้วย -imos (not -emos like -er verbs).\n- vivir → viv + imos = vivimos\nนี่คือ หนึ่ง ของ เท่านั้น สอง สำหรับms ที่ไหน -er และ -ir differ.",
-    "conjugation_info": "-er: comemos, coméis / -ir: vivimos, vivís (the only differences)"
+    "explanation": "กริยากลุ่ม -ir เมื่อใช้กับ nosotros จะลงท้ายด้วย -imos (ไม่ใช่ -emos เหมือนกลุ่ม -er)\n- vivir → viv + imos = vivimos\nนี่เป็นเพียงหนึ่งในสองรูปที่ -er และ -ir ต่างกัน",
+    "conjugation_info": "-er: comemos, coméis / -ir: vivimos, vivís (the only differences)",
+    "hint": null
   },
   "q_gram_a1_11_001": {
     "question": "___ un banco cerca de aquí.",
@@ -1130,8 +1134,8 @@
       "Es",
       "Están"
     ],
-    "explanation": "'Hay' ใช้บอกการมีอยู่ (มี...)\n- Hay un banco = มีธนาคารแห่งหนึ่ง\nHay + คำนำหน้านามไม่เจาะจง/ตัวเลข ใช้เพื่อบอกว่ามีสิ่งนั้นอยู่",
-    "hint": "คำไหนแปลว่า 'มี (มีอยู่)'?"
+    "explanation": "'Hay' ใช้บอกการมีอยู่ (มี...อยู่)\n- Hay un banco = มีธนาคารแห่งหนึ่ง\nHay + คำนำหน้านามไม่เจาะจง/จำนวน ใช้บอกว่ามีสิ่งนั้นอยู่",
+    "hint": "คำไหนแปลว่า 'มี...อยู่'?"
   },
   "q_gram_a1_11_002": {
     "question": "El banco ___ en la esquina.",
@@ -1141,8 +1145,8 @@
       "es",
       "están"
     ],
-    "explanation": "ใช้ Estar บอกที่ตั้งของสิ่งที่เฉพาะเจาะจง\n- El banco está en la esquina = ธนาคารอยู่ตรงหัวมุม\nคำนำหน้านามเฉพาะ 'el' บอกว่าเป็นธนาคารแห่งใดแห่งหนึ่งโดยเฉพาะ จึงต้องใช้ estar",
-    "hint": "ธนาคารที่เฉพาะเจาะจง (el banco) ใช้กริยาตัวไหน?"
+    "explanation": "Estar ใช้บอกที่ตั้งของสิ่งที่เฉพาะเจาะจง\n- El banco está en la esquina = ธนาคารอยู่ตรงหัวมุม\nคำนำหน้านาม 'el' ชี้ว่าเป็นธนาคารที่เจาะจง จึงใช้ estar",
+    "hint": "ธนาคารที่เจาะจง (el banco) ใช้กริยาตัวไหน?"
   },
   "q_gram_a1_11_003": {
     "question": "'hay' กับ 'está' ต่างกันอย่างไร?",
@@ -1152,19 +1156,20 @@
       "hay = ใช้กับพหูพจน์เท่านั้น, está = ใช้กับเอกพจน์เท่านั้น",
       "ใช้แทนกันได้"
     ],
-    "explanation": "'Hay' ใช้บอกการมีอยู่ (มี...อยู่) และใช้กับคำนำหน้านามไม่เฉพาะเจาะจง\n'Está/Están' ใช้บอกที่ตั้งของสิ่งที่เฉพาะเจาะจงและรู้จักกันอยู่แล้ว\n- Hay un libro. (มีหนังสือเล่มหนึ่งอยู่) / El libro está aquí. (หนังสืออยู่ที่นี่)",
+    "explanation": "'Hay' บอกการมีอยู่ (มี...อยู่) และใช้กับคำนำหน้านามไม่เจาะจง\n'Está/Están' บอกที่ตั้งของสิ่งที่เฉพาะเจาะจงและรู้จักกันอยู่แล้ว\n- Hay un libro. (มีหนังสือเล่มหนึ่ง) / El libro está aquí. (หนังสืออยู่ที่นี่)",
     "hint": null
   },
   "q_gram_a1_11_004": {
-    "question": "___ muchos estudiantes en la clase. (choose ถูกต้อง form ความหมาย 'มี')",
+    "question": "___ muchos estudiantes en la clase. (เลือกรูปที่ถูกต้องซึ่งแปลว่า 'มี...อยู่' แบบพหูพจน์)",
     "correct": "Hay",
     "wrong": [
       "Están",
       "Son",
       "Es"
     ],
-    "explanation": "'Hay' เป็น invariable — same สำหรับm สำหรับ เอกพจน์ และ พหูพจน์.\n- Hay un libro. (มี a หนังสือ.)\n- Hay muchos libros. (มี ผู้ชายy หนังสือs.)\nไม่เคย say *hayen หรือ *han.",
-    "conjugation_info": "Hay (invariable): Hay un gato. Hay tres gatos. Hay mucha gente."
+    "explanation": "'Hay' ไม่เปลี่ยนรูป — ใช้รูปเดียวกันทั้งเอกพจน์และพหูพจน์\n- Hay un libro. (มีหนังสือเล่มหนึ่ง)\n- Hay muchos libros. (มีหนังสือหลายเล่ม)\nอย่าพูดว่า *hayen หรือ *han",
+    "conjugation_info": "Hay (invariable): Hay un gato. Hay tres gatos. Hay mucha gente.",
+    "hint": null
   },
   "q_gram_a1_11_005": {
     "question": "Las llaves ___ en la mesa.",
@@ -1174,19 +1179,20 @@
       "es",
       "está"
     ],
-    "explanation": "'las llaves' ( keys) เป็น a specific, definite subject — use estar สำหรับ its loแมวion.\n- Las llaves están en la mesa. = keys เป็น on โต๊ะ.\n พหูพจน์ 'están' matches พหูพจน์ subject.",
-    "hint": "Specific items (กับ definite คำนำหน้านาม) use estar สำหรับ loแมวion"
+    "explanation": "'las llaves' (กุญแจ) เป็นประธานที่เจาะจง — ใช้ estar บอกที่ตั้ง\n- Las llaves están en la mesa. = กุญแจอยู่บนโต๊ะ\n'están' เป็นพหูพจน์ให้ตรงกับประธานที่เป็นพหูพจน์",
+    "hint": "สิ่งของที่เจาะจง (มีคำนำหน้านามเฉพาะ) ใช้ estar บอกที่ตั้ง"
   },
   "q_gram_a1_11_006": {
-    "question": "¿___ una farmacia por aquí? (เป็น there a pharmacy around here?)",
+    "question": "¿___ una farmacia por aquí? (แถวนี้มีร้านขายยาไหม?)",
     "correct": "Hay",
     "wrong": [
       "Está",
       "Es",
       "Están"
     ],
-    "explanation": "เมื่อไหร่ asking if something exists ใน a general area, use 'hay'.\n- ¿Hay una farmacia? = เป็น there a pharmacy? (exisสิบce)\n- ¿Dónde está la farmacia? = ที่ไหน เป็น pharmacy? (loแมวion ของ specific หนึ่ง)",
-    "conjugation_info": "Hay + indefinite (un/una): ¿Hay un banco? / Está + definite (el/la): ¿Dónde está el banco?"
+    "explanation": "เมื่อถามว่าในบริเวณหนึ่งมีสิ่งนั้นอยู่หรือไม่ ให้ใช้ 'hay'\n- ¿Hay una farmacia? = มีร้านขายยาไหม? (การมีอยู่)\n- ¿Dónde está la farmacia? = ร้านขายยาอยู่ที่ไหน? (ที่ตั้งของร้านที่เจาะจง)",
+    "conjugation_info": "Hay + indefinite (un/una): ¿Hay un banco? / Está + definite (el/la): ¿Dónde está el banco?",
+    "hint": null
   },
   "q_gram_a1_11_007": {
     "question": "___ mucha gente en la plaza.",
@@ -1196,8 +1202,8 @@
       "Es",
       "Están"
     ],
-    "explanation": "Use 'hay' กับ quantities (mucha, poca, etc.) เพื่อแสดง exisสิบce.\n- Hay mucha gente = มี ผู้ชายy people.\n'Gente' เป็น เอกพจน์ ในภาษาสเปน, แต่ 'hay' works regardless ของ number.",
-    "hint": "Expressing 'มี' กับ quantities uses hay"
+    "explanation": "ใช้ 'hay' กับคำบอกปริมาณ (mucha, poca ฯลฯ) เพื่อบอกการมีอยู่\n- Hay mucha gente = มีคนมากมาย\n'Gente' เป็นเอกพจน์ในภาษาสเปน แต่ 'hay' ใช้ได้ไม่ว่าจะเป็นจำนวนใด",
+    "hint": "การบอกว่า 'มี...อยู่' พร้อมปริมาณใช้ hay"
   },
   "q_gram_a1_11_008": {
     "question": "ซูเปอร์มาร์เก็ตอยู่ข้างโรงเรียน",
@@ -1207,7 +1213,7 @@
       "El supermercado es al lado de la escuela.",
       "El supermercado hay al lado de la escuela."
     ],
-    "explanation": "เรากำลังพูดถึงซูเปอร์มาร์เก็ตที่เฉพาะเจาะจง (el supermercado) จึงใช้ estar บอกที่ตั้ง\n- estar + al lado de = อยู่ข้าง ๆ\nhay จะใช้เมื่อพูดว่า 'มีซูเปอร์มาร์เก็ตอยู่...' (บอกว่ามีอยู่)",
+    "explanation": "เรากำลังพูดถึงซูเปอร์มาร์เก็ตที่เจาะจง (el supermercado) จึงใช้ estar บอกที่ตั้ง\n- estar + al lado de = อยู่ข้าง ๆ\nจะใช้ Hay ถ้าพูดว่า 'มีซูเปอร์มาร์เก็ตแห่งหนึ่ง...' (การมีอยู่)",
     "hint": null
   },
   "q_gram_a1_11_009": {
@@ -1218,128 +1224,133 @@
       "es",
       "están"
     ],
-    "explanation": "'No hay nadie' = ไม่มีใครอยู่ นี่คือประโยคปฏิเสธซ้อน ซึ่งถูกต้องในภาษาสเปน\n- hay + คำปฏิเสธ = ไม่มี...อยู่\nจำไว้ว่า hay ไม่เปลี่ยนรูป",
+    "explanation": "'No hay nadie' = ไม่มีใครอยู่เลย นี่เป็นประโยคปฏิเสธซ้อน ซึ่งถูกต้องในภาษาสเปน\n- hay + คำปฏิเสธ = ไม่มี...\nจำไว้ว่า hay ไม่เปลี่ยนรูป",
     "conjugation_info": "Hay in negative: No hay nada (nothing), No hay nadie (nobody), No hay ningún... (not any)",
     "hint": null
   },
   "q_gram_a1_11_010": {
-    "question": "ในเมืองของฉันมีสวนสาธารณะแห่งหนึ่ง",
+    "question": "มีสวนสาธารณะแห่งหนึ่งในเมืองของฉัน",
     "correct": "Hay un parque en mi ciudad.",
     "wrong": [
       "El parque está en mi ciudad.",
       "Es un parque en mi ciudad.",
       "Están un parque en mi ciudad."
     ],
-    "explanation": "เราใช้ 'hay' เพื่อแนะนำสิ่งใดสิ่งหนึ่งเป็นครั้งแรก (การมีอยู่)\n- Hay un parque = มีสวนสาธารณะแห่งหนึ่ง (พูดถึงครั้งแรก ไม่เจาะจง)\nถ้าต่อจากนั้นพูดถึงสวนนั้นโดยเฉพาะ: El parque está cerca.",
+    "explanation": "เราใช้ 'hay' เพื่อแนะนำสิ่งที่พูดถึงเป็นครั้งแรก (การมีอยู่)\n- Hay un parque = มีสวนสาธารณะแห่งหนึ่ง (พูดถึงครั้งแรก ไม่เจาะจง)\nถ้าต่อไปพูดถึงสวนนั้นโดยเฉพาะ: El parque está cerca.",
     "hint": null
   },
   "q_gram_a1_12_001": {
-    "question": "___ hermana se llama Ana. (fill ใน: my, สำหรับ a เพศหญิง คำนาม)",
+    "question": "___ hermana se llama Ana. (เติมคำ: ของฉัน สำหรับคำนามเพศหญิง)",
     "correct": "Mi",
     "wrong": [
       "Mis",
       "Tu",
       "Su"
     ],
-    "explanation": "'herผู้ชายa' เป็น เอกพจน์, so we use 'mi' (my, เอกพจน์).\n- mi herผู้ชายa = my พี่สาว/น้องสาว\nPossessive adjectives agree กับ thing possessed, not owner.",
-    "conjugation_info": "Possessives: mi/mis, tu/tus, su/sus, nuestro(a)/nuestros(as), vuestro(a)/vuestros(as)"
+    "explanation": "'hermana' เป็นเอกพจน์ จึงใช้ 'mi' (ของฉัน เอกพจน์)\n- mi hermana = พี่สาว/น้องสาวของฉัน\nคำคุณศัพท์แสดงความเป็นเจ้าของต้องสอดคล้องกับสิ่งที่ถูกครอบครอง ไม่ใช่เจ้าของ",
+    "conjugation_info": "Possessives: mi/mis, tu/tus, su/sus, nuestro(a)/nuestros(as), vuestro(a)/vuestros(as)",
+    "hint": null
   },
   "q_gram_a1_12_002": {
-    "question": "___ amigos son simpáticos.",
+    "question": "___ amigos son simpáticos. (เพื่อนของฉัน)",
     "correct": "Mis",
     "wrong": [
       "Mi",
       "Tus",
       "Su"
     ],
-    "explanation": "'amigos' เป็น พหูพจน์, so we use 'mis' (my, พหูพจน์).\n- mi amigo → mis amigos\nmi/tu/su change เท่านั้น สำหรับ number, not gender.",
-    "hint": "อะไร เป็น พหูพจน์ สำหรับm ของ 'mi'?"
+    "explanation": "'amigos' เป็นพหูพจน์ จึงใช้ 'mis' (ของฉัน พหูพจน์)\n- mi amigo → mis amigos\nmi/tu/su เปลี่ยนตามจำนวนเท่านั้น ไม่เปลี่ยนตามเพศ",
+    "hint": "รูปพหูพจน์ของ 'mi' คืออะไร?"
   },
   "q_gram_a1_12_003": {
-    "question": "¿Cuál es ___ nombre?",
+    "question": "¿Cuál es ___ nombre? (ของคุณ แบบไม่เป็นทางการ)",
     "correct": "tu",
     "wrong": [
       "tú",
       "su",
       "mi"
     ],
-    "explanation": "'tu' (โดยไม่มี accent) เป็น a possessive คำคุณศัพท์ หมายถึง 'your'.\n- ¿Cuál es tu nombre? = อะไร เป็น your name?\nNote: 'tú' (กับ accent) เป็น subject สรรพนาม 'คุณ'.",
-    "hint": " possessive 'your' มี no accent mark"
+    "explanation": "'tu' (ไม่มีเครื่องหมายเน้นเสียง) เป็นคำคุณศัพท์แสดงความเป็นเจ้าของ แปลว่า 'ของคุณ'\n- ¿Cuál es tu nombre? = คุณชื่ออะไร\nหมายเหตุ: 'tú' (มีเครื่องหมายเน้นเสียง) เป็นสรรพนามประธาน แปลว่า 'คุณ'",
+    "hint": "คำแสดงความเป็นเจ้าของที่แปลว่า 'ของคุณ' ไม่มีเครื่องหมายเน้นเสียง"
   },
   "q_gram_a1_12_004": {
     "question": "'su' ในประโยค 'su casa' หมายถึงอะไร?",
     "correct": "ของเขา/ของเธอ/ของคุณ (สุภาพ)/ของพวกเขา",
     "wrong": [
-      "หมายถึง 'ของเขา' (ผู้ชาย) เท่านั้น",
-      "หมายถึง 'ของเธอ' (ผู้หญิง) เท่านั้น",
+      "หมายถึง 'ของเขา (ผู้ชาย)' เท่านั้น",
+      "หมายถึง 'ของเธอ (ผู้หญิง)' เท่านั้น",
       "ของฉัน"
     ],
-    "explanation": "'su' กำกวม — อาจหมายถึง ของเขา ของเธอ ของคุณ (สุภาพ) หรือของพวกเขา\n- su casa = บ้านของเขา/ของเธอ/ของคุณ/ของพวกเขา\nหากต้องการให้ชัดเจน: la casa de él (ของเขา), la casa de ella (ของเธอ)",
+    "explanation": "'su' มีความหมายกำกวม — อาจแปลว่า ของเขา ของเธอ ของคุณ (สุภาพ) หรือของพวกเขา\n- su casa = บ้านของเขา/ของเธอ/ของคุณ/ของพวกเขา\nเพื่อให้ชัดเจน: la casa de él (บ้านของเขา), la casa de ella (บ้านของเธอ)",
     "hint": null
   },
   "q_gram_a1_12_005": {
-    "question": "___ casa es bonita. (our house — select ถูกต้อง form)",
+    "question": "___ casa es bonita. (บ้านของเรา — เลือกรูปที่ถูกต้อง)",
     "correct": "Nuestra",
     "wrong": [
       "Nuestro",
       "Nuestros",
       "Nuestras"
     ],
-    "explanation": "'nuestro/a' ต้อง agree ใน gender กับ คำนาม possessed.\n- nuestra casa (เพศหญิง) = our บ้าน\n- nuestro coche (เพศชาย) = our รถยนต์\nเท่านั้น nuestro/vuestro มี gender สำหรับms.",
-    "conjugation_info": "nuestro/nuestra/nuestros/nuestras — agrees in gender AND number"
+    "explanation": "'nuestro/a' ต้องสอดคล้องกับเพศของคำนามที่ถูกครอบครอง\n- nuestra casa (เพศหญิง) = บ้านของเรา\n- nuestro coche (เพศชาย) = รถของเรา\nมีเพียง nuestro/vuestro เท่านั้นที่มีรูปตามเพศ",
+    "conjugation_info": "nuestro/nuestra/nuestros/nuestras — agrees in gender AND number",
+    "hint": null
   },
   "q_gram_a1_12_006": {
-    "question": "Ella habla con ___ padres.",
+    "question": "Ella habla con ___ padres. (พ่อแม่ของเธอ)",
     "correct": "sus",
     "wrong": [
       "su",
       "mis",
       "tus"
     ],
-    "explanation": "'padres' เป็น พหูพจน์, so possessive ต้อง ด้วย เป็น พหูพจน์: 'sus'.\n- su padre → sus padres\nRemember: possessives agree กับ thing possessed.",
-    "hint": "พหูพจน์ nouns need พหูพจน์ possessives"
+    "explanation": "'padres' เป็นพหูพจน์ คำแสดงความเป็นเจ้าของจึงต้องเป็นพหูพจน์ด้วย: 'sus'\n- su padre → sus padres\nจำไว้: คำแสดงความเป็นเจ้าของต้องสอดคล้องกับสิ่งที่ถูกครอบครอง",
+    "hint": "คำนามพหูพจน์ต้องใช้คำแสดงความเป็นเจ้าของพหูพจน์"
   },
   "q_gram_a1_12_007": {
-    "question": "Our ประเทศ เป็น สวยงาม.",
+    "question": "ประเทศของเราสวยงาม",
     "correct": "Nuestro país es bonito.",
     "wrong": [
       "Nuestra país es bonita.",
       "Su país es bonito.",
       "Nuestros país es bonito."
     ],
-    "explanation": "'país' เป็น เพศชาย, so we use 'nuestro' (not nuestra).\n- nuestro país = our ประเทศ (เพศชาย)\n- nuestra ciudad = our เมือง (เพศหญิง)"
+    "explanation": "'país' เป็นเพศชาย จึงใช้ 'nuestro' (ไม่ใช่ nuestra)\n- nuestro país = ประเทศของเรา (เพศชาย)\n- nuestra ciudad = เมืองของเรา (เพศหญิง)",
+    "hint": null
   },
   "q_gram_a1_12_008": {
-    "question": "___ hijos son simpáticos. (his/her children)",
+    "question": "___ hijos son simpáticos. (ลูก ๆ ของเขา/ของเธอ)",
     "correct": "Sus",
     "wrong": [
       "Su",
       "Mis",
       "Tus"
     ],
-    "explanation": "'hijos' เป็น พหูพจน์, so possessive 'sus' (พหูพจน์) เป็น needed.\n- su hijo (เอกพจน์) → sus hijos (พหูพจน์)\n possessive changes based on number ของ things possessed.",
-    "hint": "hijos เป็น พหูพจน์"
+    "explanation": "'hijos' เป็นพหูพจน์ จึงต้องใช้ 'sus' (พหูพจน์)\n- su hijo (เอกพจน์) → sus hijos (พหูพจน์)\nคำแสดงความเป็นเจ้าของเปลี่ยนตามจำนวนของสิ่งที่ถูกครอบครอง",
+    "hint": "hijos เป็นพหูพจน์"
   },
   "q_gram_a1_12_009": {
-    "question": "I love my family.",
+    "question": "ฉันรักครอบครัวของฉัน",
     "correct": "Quiero a mi familia.",
     "wrong": [
       "Quiero mi familia.",
       "Quiero a mis familia.",
       "Quiero a su familia."
     ],
-    "explanation": " perลูกชายal 'a' เป็น requiสีแดง beสำหรับe people/ครอบครัว members as direct objects.\n- Quiero a mi familia. = I love my ครอบครัว.\n'mi' stays เอกพจน์ เพราะ 'familia' เป็น a เอกพจน์ คำนาม."
+    "explanation": "ต้องใช้ 'a' นำหน้าบุคคล/สมาชิกครอบครัวเมื่อเป็นกรรมตรง\n- Quiero a mi familia. = ฉันรักครอบครัวของฉัน\n'mi' ยังคงเป็นเอกพจน์ เพราะ 'familia' เป็นคำนามเอกพจน์",
+    "hint": null
   },
   "q_gram_a1_12_010": {
-    "question": "___ profesores son muy buenos. (our teachers — fill ใน ถูกต้อง possessive)",
+    "question": "___ profesores son muy buenos. (อาจารย์ของเรา — เติมคำแสดงความเป็นเจ้าของที่ถูกต้อง)",
     "correct": "Nuestros",
     "wrong": [
       "Nuestro",
       "Nuestra",
       "Nuestras"
     ],
-    "explanation": "'profesores' เป็น เพศชาย พหูพจน์, so we need 'nuestros'.\n- nuestro profesor → nuestros profesores\nnuestro/a/os/as เป็น เท่านั้น possessive นั้น changes สำหรับ both gender และ number.",
-    "conjugation_info": "nuestro (m.sg.), nuestra (f.sg.), nuestros (m.pl.), nuestras (f.pl.)"
+    "explanation": "'profesores' เป็นเพศชายพหูพจน์ จึงต้องใช้ 'nuestros'\n- nuestro profesor → nuestros profesores\nnuestro/a/os/as และ vuestro/a/os/as เปลี่ยนตามทั้งเพศและจำนวน ส่วน mi/tu/su เปลี่ยนตามจำนวนเท่านั้น",
+    "conjugation_info": "nuestro (m.sg.), nuestra (f.sg.), nuestros (m.pl.), nuestras (f.pl.)",
+    "hint": null
   },
   "q_gram_a1_13_001": {
     "question": "___ libro es muy interesante.",

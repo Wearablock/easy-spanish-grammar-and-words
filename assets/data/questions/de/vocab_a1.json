@@ -925,7 +925,7 @@
       "silla",
       "puerta"
     ],
-    "explanation": "'Cama' bedeutet 'Bett'. Der Satz heißt 'Ich schlafe jede Nacht im Bett'.",
+    "explanation": "'Cama' bedeutet 'Bett'. Der Satz heißt: 'Ich schlafe jede Nacht im Bett.'",
     "hint": null
   },
   "q_vocab_a1_09_004": {
@@ -947,7 +947,7 @@
       "Bett",
       "Tisch"
     ],
-    "explanation": "'Sofá' bedeutet 'Sofa' oder 'Couch'. Der Satz bedeutet 'Ich setze mich aufs Sofa'. Es steht meist im 'salón' (Wohnzimmer).",
+    "explanation": "'Sofá' bedeutet 'Sofa' oder 'Couch'. Der Satz heißt: 'Ich setze mich aufs Sofa.' Es steht meist im 'salón' (Wohnzimmer).",
     "hint": null
   },
   "q_vocab_a1_09_006": {
@@ -969,29 +969,31 @@
       "Regal",
       "Kiste"
     ],
-    "explanation": "'Armario' bedeutet 'Kleiderschrank' oder 'Schrank'. Der Satz bedeutet 'Die Kleidung ist im Schrank'.",
+    "explanation": "'Armario' bedeutet 'Kleiderschrank' oder 'Schrank'. Der Satz heißt: 'Die Kleidung ist im Schrank.'",
     "hint": null
   },
   "q_vocab_a1_09_008": {
     "question": "Hay una estantería con muchos libros en el salón.",
-    "correct": "There is a bookshelf with many books in the living room.",
+    "correct": "Im Wohnzimmer steht ein Bücherregal mit vielen Büchern.",
     "wrong": [
-      "There is a table with many books in the kitchen.",
-      "There is a bookshelf with many books in the bedroom.",
-      "There is a lamp with many books in the living room."
+      "In der Küche steht ein Tisch mit vielen Büchern.",
+      "Im Schlafzimmer steht ein Bücherregal mit vielen Büchern.",
+      "Im Wohnzimmer steht eine Lampe mit vielen Büchern."
     ],
-    "explanation": "'Estantería' bedeutet 'bookshelf/shelving unit' und 'salón' bedeutet 'living room'. 'Hay' bedeutet 'Es gibt/Es gibt'."
+    "explanation": "'Estantería' bedeutet 'Bücherregal/Regal' und 'salón' bedeutet 'Wohnzimmer'. 'Hay' bedeutet 'es gibt / da ist / da sind'.",
+    "hint": null
   },
   "q_vocab_a1_09_009": {
-    "question": "Du sind looking für an apartment und want zu ask if es hat a garden. War do du say?",
+    "question": "Du suchst eine Wohnung und möchtest fragen, ob sie einen Garten hat. Was sagst du?",
     "correct": "¿El piso tiene jardín?",
     "wrong": [
       "¿El piso tiene cocina?",
       "¿El piso tiene dormitorio?",
       "¿El piso tiene baño?"
     ],
-    "explanation": "'Jardín' bedeutet 'garden'. 'Piso' bedeutet 'apartment' in Spain. Das ist ein häufig question wann apartment hunting.",
-    "context": "Looking at apartments with a real estate agent"
+    "explanation": "'Jardín' bedeutet 'Garten'. 'Piso' bedeutet in Spanien 'Wohnung'. Das ist eine typische Frage bei der Wohnungssuche.",
+    "context": "Looking at apartments with a real estate agent",
+    "hint": null
   },
   "q_vocab_a1_09_010": {
     "question": "Ein Freund besucht dich zu Hause. Wie sagst du 'Das Schlafzimmer ist neben dem Badezimmer'?",
@@ -1020,11 +1022,11 @@
     "question": "El estudiante escribe en el ___.",
     "correct": "cuaderno",
     "wrong": [
-      "libro",
-      "examen",
+      "lápiz",
+      "bolígrafo",
       "pizarra"
     ],
-    "explanation": "'Cuaderno' bedeutet 'Heft'. Der Satz heißt 'Der Schüler schreibt ins Heft'.",
+    "explanation": "'Cuaderno' bedeutet 'Heft'. Der Satz heißt 'Der Student schreibt in das Heft'.\n- In ein Heft schreibt man: escribir en el cuaderno\n- Mit einem Bleistift oder Kugelschreiber schreibt man: escribir con el lápiz / el bolígrafo",
     "hint": null
   },
   "q_vocab_a1_10_003": {
@@ -1040,13 +1042,13 @@
   },
   "q_vocab_a1_10_004": {
     "question": "Was bedeutet 'examen'?",
-    "correct": "Prüfung / Test",
+    "correct": "Prüfung / Klausur",
     "wrong": [
       "Hausaufgabe",
-      "Unterricht",
+      "Unterrichtsstunde",
       "Note"
     ],
-    "explanation": "'Examen' bedeutet 'Prüfung' oder 'Test'. Der Plural ist 'exámenes' (beachte die Verschiebung des Akzents).",
+    "explanation": "'Examen' bedeutet 'Prüfung' oder 'Klausur'. Der Plural ist 'exámenes'.\n- Die Betonung bleibt auf dem 'a' von 'exa-', deshalb braucht der Plural einen geschriebenen Akzent.",
     "hint": null
   },
   "q_vocab_a1_10_005": {
@@ -1072,15 +1074,16 @@
     "hint": null
   },
   "q_vocab_a1_10_007": {
-    "question": "Du forgot zu do dein homework. Wie do du tell dein teacher?",
+    "question": "Du hast vergessen, deine Hausaufgabe zu machen. Wie sagst du es deinem Lehrer?",
     "correct": "Lo siento, no tengo la tarea.",
     "wrong": [
       "Lo siento, no tengo el libro.",
       "Lo siento, no tengo el bolígrafo.",
       "Lo siento, no tengo el examen."
     ],
-    "explanation": "'Tarea' bedeutet 'homework' oder 'assignment'. 'Deberes' ist auch used in Spain für homework.",
-    "context": "Arriving at class without homework"
+    "explanation": "'Tarea' bedeutet 'Hausaufgabe' oder 'Aufgabe'. In Spanien wird für Hausaufgaben auch 'deberes' verwendet.",
+    "context": "Arriving at class without homework",
+    "hint": null
   },
   "q_vocab_a1_10_008": {
     "question": "Was bedeutet 'lápiz' in 'Necesito un lápiz'?",
@@ -1095,24 +1098,26 @@
   },
   "q_vocab_a1_10_009": {
     "question": "Mi hermana estudia en la universidad.",
-    "correct": "My sister studies at the university.",
+    "correct": "Meine Schwester studiert an der Universität.",
     "wrong": [
-      "My sister studies at the school.",
-      "My brother studies at the university.",
-      "My sister works at the university."
+      "Meine Schwester lernt in der Schule.",
+      "Mein Bruder studiert an der Universität.",
+      "Meine Schwester arbeitet an der Universität."
     ],
-    "explanation": "'Universidad' bedeutet 'university'. 'Estudiar en la universidad' = 'zu study an university'."
+    "explanation": "'Universidad' bedeutet 'Universität'. 'Estudiar en la universidad' = 'an der Universität studieren'.",
+    "hint": null
   },
   "q_vocab_a1_10_010": {
-    "question": "Du need zu borrow a pen von a classmate. War do du say?",
+    "question": "Du musst dir von einem Mitschüler einen Kugelschreiber leihen. Was sagst du?",
     "correct": "¿Me prestas un bolígrafo?",
     "wrong": [
       "¿Me prestas un lápiz?",
       "¿Me prestas un cuaderno?",
       "¿Me prestas un libro?"
     ],
-    "explanation": "'Bolígrafo' bedeutet 'pen'. '¿Me prestas...?' bedeutet 'Kann du lend me...?' welche ist häufig among classmates.",
-    "context": "In class without a pen"
+    "explanation": "'Bolígrafo' bedeutet 'Kugelschreiber'. '¿Me prestas...?' bedeutet 'Kannst du mir ... leihen?' und ist unter Mitschülern üblich.",
+    "context": "In class without a pen",
+    "hint": null
   },
   "q_vocab_a1_11_001": {
     "question": "Was bedeutet 'médico'?",
@@ -1127,13 +1132,13 @@
   },
   "q_vocab_a1_11_002": {
     "question": "Was bedeutet 'abogado'?",
-    "correct": "Rechtsanwalt",
+    "correct": "Anwalt",
     "wrong": [
       "Ingenieur",
       "Journalist",
       "Buchhalter"
     ],
-    "explanation": "'Abogado' bedeutet 'Rechtsanwalt'. Die weibliche Form ist 'abogada'.",
+    "explanation": "'Abogado' bedeutet 'Anwalt'. Die weibliche Form ist 'abogada'.",
     "hint": null
   },
   "q_vocab_a1_11_003": {
@@ -1144,7 +1149,7 @@
       "dentista",
       "policía"
     ],
-    "explanation": "'Cocinero' bedeutet 'Koch'. Der Satz bedeutet 'Der Koch bereitet das Essen im Restaurant zu'.",
+    "explanation": "'Cocinero' bedeutet 'Koch'. Der Satz lautet: 'Der Koch bereitet das Essen im Restaurant zu'.",
     "hint": null
   },
   "q_vocab_a1_11_004": {
@@ -1166,18 +1171,19 @@
       "Redakteur",
       "Fotograf"
     ],
-    "explanation": "'Periodista' bedeutet 'Journalist'. Dieses Wort ist für männlich und weiblich gleich. Der Satz bedeutet 'Der Journalist arbeitet bei einer Zeitung'.",
+    "explanation": "'Periodista' bedeutet 'Journalist'. Dieses Wort ist für Männer und Frauen gleich. Der Satz bedeutet 'Der Journalist arbeitet bei einer Zeitung'.",
     "hint": null
   },
   "q_vocab_a1_11_006": {
-    "question": "My father ist an engineer.",
+    "question": "Mein Vater ist Ingenieur.",
     "correct": "Mi padre es ingeniero.",
     "wrong": [
       "Mi padre es abogado.",
       "Mi padre es profesor.",
       "Mi padre es médico."
     ],
-    "explanation": "'Ingeniero' bedeutet 'engineer'. Auf Spanisch, professions nach 'ser' typically don't use an Artikel (no 'un')."
+    "explanation": "'Ingeniero' bedeutet 'Ingenieur'. Im Spanischen steht bei Berufen nach 'ser' normalerweise kein Artikel (kein 'un').",
+    "hint": null
   },
   "q_vocab_a1_11_007": {
     "question": "Was bedeutet 'camarero' in 'El camarero trae la cuenta'?",
@@ -1192,23 +1198,24 @@
   },
   "q_vocab_a1_11_008": {
     "question": "Soy estudiante de medicina. Quiero ser médico.",
-    "correct": "I am a medical student. I want to be a doctor.",
+    "correct": "Ich bin Medizinstudent. Ich möchte Arzt werden.",
     "wrong": [
-      "I am a law student. I want to be a lawyer.",
-      "I am a medical student. I want to be a nurse.",
-      "I am an art student. I want to be a doctor."
+      "Ich bin Jurastudent. Ich möchte Anwalt werden.",
+      "Ich bin Medizinstudent. Ich möchte Krankenpfleger werden.",
+      "Ich bin Kunststudent. Ich möchte Arzt werden."
     ],
-    "explanation": "'Estudiante de medicina' bedeutet 'medical student'. 'Quiero ser' bedeutet 'I want zu sein'."
+    "explanation": "'Estudiante de medicina' bedeutet 'Medizinstudent'. 'Quiero ser' bedeutet 'Ich möchte ... werden'.",
+    "hint": null
   },
   "q_vocab_a1_11_009": {
     "question": "Du lernst auf einer Party jemanden kennen und wirst gefragt, was du beruflich machst. Wie sagst du 'Ich bin Lehrer'?",
     "correct": "Soy profesor.",
     "wrong": [
       "Soy estudiante.",
-      "Soy un profesor.",
+      "Es profesor.",
       "Estoy profesor."
     ],
-    "explanation": "Für Berufe verwenden wir 'soy' (nicht 'estoy'), weil sie als dauerhafte Eigenschaften gelten. Vor dem Beruf ist kein Artikel nötig.",
+    "explanation": "Bei Berufen verwenden wir 'ser' (soy), nicht 'estar'.\n- Soy profesor. = Ich bin Lehrer.\n- Es profesor. = Er ist Lehrer.\n- Bei einer Berufsbezeichnung allein lässt das Spanische 'un' weg: Soy profesor.",
     "context": "Meeting someone new at a party",
     "hint": null
   },
@@ -1220,7 +1227,7 @@
       "¡Necesito un bombero!",
       "¡Necesito una ambulancia!"
     ],
-    "explanation": "'Policía' kann 'Polizei' (die Behörde) oder 'Polizist/in' bedeuten. Hier geht es darum, die Polizei zu rufen.",
+    "explanation": "'Policía' kann 'Polizei' (die Einrichtung) oder 'Polizist/in' bedeuten. Hier ist gemeint, die Polizei zu rufen.",
     "context": "Making an emergency phone call",
     "hint": null
   },

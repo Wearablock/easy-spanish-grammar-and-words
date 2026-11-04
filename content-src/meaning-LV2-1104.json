@@ -1,0 +1,218 @@
+[
+ {
+  "id": "q_vocab_a1_10_005",
+  "locale": "es",
+  "reason": "Question is identical to the correct answer, so it gives the answer away; the master question is a translation prompt.",
+  "before": {
+   "question": "Estudio en la biblioteca.",
+   "explanation": "'Biblioteca' es el lugar donde se leen y se prestan libros. Cuidado: 'librería' es la tienda donde se venden libros, no la biblioteca.",
+   "hint": null,
+   "correct": "Estudio en la biblioteca.",
+   "wrong": [
+    "Estudio en la librería.",
+    "Estudio en la escuela.",
+    "Estudio en el aula."
+   ]
+  },
+  "after": {
+   "question": "Paso el tiempo de estudio en el lugar donde se leen y se prestan libros.",
+   "explanation": "'Biblioteca' es el lugar donde se leen y se prestan libros. Cuidado: 'librería' es la tienda donde se venden libros, no la biblioteca.",
+   "hint": null,
+   "correct": "Estudio en la biblioteca.",
+   "wrong": [
+    "Estudio en la librería.",
+    "Estudio en la escuela.",
+    "Estudio en el aula."
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_10_008",
+  "locale": "ar",
+  "reason": "'شدّة' means the Arabic shadda diacritic, not the Spanish accent mark (tilde); should be 'علامة النبر'.",
+  "before": {
+   "question": "Vosotros ___ en un apartamento. (صرّف الفعل vivir)",
+   "explanation": "في الأفعال المنتهية بـ -ir تنتهي صيغة vosotros بـ -ís.\n- vivir → viv + ís = vivís\nانتبه إلى علامة الشدّة (التشكيل) على حرف 'i'.",
+   "hint": "نهاية vosotros في أفعال -ir عليها علامة شدّة",
+   "correct": "vivís",
+   "wrong": [
+    "vivimos",
+    "viven",
+    "vivis"
+   ]
+  },
+  "after": {
+   "question": "Vosotros ___ en un apartamento. (صرّف الفعل vivir)",
+   "explanation": "في الأفعال المنتهية بـ -ir تنتهي صيغة vosotros بـ -ís.\n- vivir → viv + ís = vivís\nانتبه إلى علامة النبر على حرف 'i'.",
+   "hint": "نهاية vosotros في أفعال -ir عليها علامة نبر",
+   "correct": "vivís",
+   "wrong": [
+    "vivimos",
+    "viven",
+    "vivis"
+   ]
+  }
+ },
+ {
+  "id": "q_vocab_a1_09_006",
+  "locale": "es",
+  "reason": "Question is identical to the correct answer, so it gives the answer away; the master asks for a translation.",
+  "before": {
+   "question": "El espejo está en el baño.",
+   "explanation": "'Espejo' es el objeto de cristal en el que te ves y 'baño' es la habitación donde uno se asea. Usamos 'está' para indicar la ubicación.",
+   "hint": null,
+   "correct": "El espejo está en el baño.",
+   "wrong": [
+    "El espejo está en la cocina.",
+    "La lámpara está en el baño.",
+    "El armario está en el baño."
+   ]
+  },
+  "after": {
+   "question": "Describe dónde está el espejo: en la habitación donde uno se asea.",
+   "explanation": "'Espejo' es el objeto de cristal en el que te ves y 'baño' es la habitación donde uno se asea. Usamos 'está' para indicar la ubicación.",
+   "hint": null,
+   "correct": "El espejo está en el baño.",
+   "wrong": [
+    "El espejo está en la cocina.",
+    "La lámpara está en el baño.",
+    "El armario está en el baño."
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_10_007",
+  "locale": "es",
+  "reason": "Question uses the conjugated form 'Abres', giving the answer away; the master only gives the infinitive idea.",
+  "before": {
+   "question": "Abres la puerta (tú, trato informal).",
+   "explanation": "En los verbos en -ir, la forma de tú termina en -es.\n- abrir → abr + es = abres\n- Tú abres = segunda persona del singular de abrir.",
+   "hint": null,
+   "correct": "Tú abres la puerta.",
+   "wrong": [
+    "Tú abre la puerta.",
+    "Tú abro la puerta.",
+    "Tú abren la puerta."
+   ]
+  },
+  "after": {
+   "question": "Describe que tú (trato informal) realizas la acción de abrir la puerta.",
+   "explanation": "En los verbos en -ir, la forma de tú termina en -es.\n- abrir → abr + es = abres\n- Tú abres = segunda persona del singular de abrir.",
+   "hint": null,
+   "correct": "Tú abres la puerta.",
+   "wrong": [
+    "Tú abre la puerta.",
+    "Tú abro la puerta.",
+    "Tú abren la puerta."
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_10_009",
+  "locale": "es",
+  "reason": "Question uses the conjugated form 'Lee', giving the answer away; the master only gives the meaning.",
+  "before": {
+   "question": "Lee el periódico todas las mañanas (ella).",
+   "explanation": "En los verbos en -er, la forma de ella termina en -e.\n- leer → le + e = lee\nFíjate en la doble 'e' de lee: es correcta en la tercera persona de leer.",
+   "hint": null,
+   "correct": "Ella lee el periódico cada mañana.",
+   "wrong": [
+    "Ella lees el periódico cada mañana.",
+    "Ella leen el periódico cada mañana.",
+    "Ella leo el periódico cada mañana."
+   ]
+  },
+  "after": {
+   "question": "Describe que ella realiza la acción de leer el periódico cada mañana.",
+   "explanation": "En los verbos en -er, la forma de ella termina en -e.\n- leer → le + e = lee\nFíjate en la doble 'e' de lee: es correcta en la tercera persona de leer.",
+   "hint": null,
+   "correct": "Ella lee el periódico cada mañana.",
+   "wrong": [
+    "Ella lees el periódico cada mañana.",
+    "Ella leen el periódico cada mañana.",
+    "Ella leo el periódico cada mañana."
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_11_004",
+  "locale": "vi",
+  "reason": "Question and explanation are mixed English/Vietnamese (e.g. 'choose đúng form', 'invariable — same form cho', 'a book', 'say'); retranslated fully into Vietnamese.",
+  "before": {
+   "question": "___ muchos estudiantes en la clase. (choose đúng form có nghĩa là 'Có')",
+   "explanation": "'Hay' là invariable — same form cho số ít và số nhiều.\n- Hay un libro. (Có a book.)\n- Hay muchos libros. (Có nhiều books.)\nkhông bao giờ say *hayen hoặc *han.",
+   "hint": null,
+   "correct": "Hay",
+   "wrong": [
+    "Están",
+    "Son",
+    "Es"
+   ]
+  },
+  "after": {
+   "question": "___ muchos estudiantes en la clase. (chọn dạng đúng có nghĩa là 'có')",
+   "explanation": "'Hay' là dạng bất biến — dùng cùng một dạng cho cả số ít VÀ số nhiều.\n- Hay un libro. (Có một quyển sách.)\n- Hay muchos libros. (Có nhiều quyển sách.)\nKhông bao giờ nói *hayen hoặc *han.",
+   "hint": null,
+   "correct": "Hay",
+   "wrong": [
+    "Están",
+    "Son",
+    "Es"
+   ]
+  }
+ },
+ {
+  "id": "q_vocab_a1_10_001",
+  "locale": "pt",
+  "reason": "Explanation is confusing and wrongly implies 'biblioteca' has a different sense; master just says librería is not library (biblioteca).",
+  "before": {
+   "question": "O que significa 'libro'?",
+   "explanation": "'Libro' significa 'livro'. 'Librería' significa 'livraria' (não 'biblioteca', que é 'biblioteca' em espanhol também, mas com sentido de lugar de empréstimo).",
+   "hint": null,
+   "correct": "livro",
+   "wrong": [
+    "caderno",
+    "lápis",
+    "caneta"
+   ]
+  },
+  "after": {
+   "question": "O que significa 'libro'?",
+   "explanation": "'Libro' significa 'livro'. 'Librería' significa 'livraria' (não 'biblioteca', que em espanhol é 'biblioteca').",
+   "hint": null,
+   "correct": "livro",
+   "wrong": [
+    "caderno",
+    "lápis",
+    "caneta"
+   ]
+  }
+ },
+ {
+  "id": "q_gram_a1_11_004",
+  "locale": "zh-Hant",
+  "reason": "Question hint and explanation are broken mixed English/Chinese text.",
+  "before": {
+   "question": "___ muchos estudiantes en la clase. (choose 正確 form 含義 '有')",
+   "explanation": "'Hay' 是不變的 — 相同 形式 爲 單數 和 複數.\n- Hay un libro. (那裡 是 a book.)\n- Hay muchos libros. (那裡 是 許多 books.)\n從不 say *hayen 或 *han.",
+   "hint": null,
+   "correct": "Hay",
+   "wrong": [
+    "Están",
+    "Son",
+    "Es"
+   ]
+  },
+  "after": {
+   "question": "___ muchos estudiantes en la clase. (請選擇表示「有」的正確形式)",
+   "explanation": "'Hay' 是不變的——單數和複數都使用同一個形式。\n- Hay un libro.(有一本書。)\n- Hay muchos libros.(有很多書。)\n千萬不要說 *hayen 或 *han。",
+   "hint": null,
+   "correct": "Hay",
+   "wrong": [
+    "Están",
+    "Son",
+    "Es"
+   ]
+  }
+ }
+]

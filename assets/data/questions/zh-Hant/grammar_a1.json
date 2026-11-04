@@ -1014,15 +1014,16 @@
     "hint": null
   },
   "q_gram_a1_10_001": {
-    "question": "Yo ___ en Madrid. (conjugate vivir)",
+    "question": "Yo ___ en Madrid. (變位 vivir)",
     "correct": "vivo",
     "wrong": [
       "vives",
       "vive",
       "vivimos"
     ],
-    "explanation": "對於-ir動詞, yo形式以...結尾 -o (相同 as -ar 和 -er).\n- vivir → viv + o = vivo\n- Yo vivo = I live.",
-    "conjugation_info": "vivir - present: vivo, vives, vive, vivimos, vivís, viven"
+    "explanation": "-ir 動詞的 yo 變位以 -o 結尾(與 -ar 和 -er 動詞相同)。\n- vivir → viv + o = vivo\n- Yo vivo = 我住在……。",
+    "conjugation_info": "vivir - present: vivo, vives, vive, vivimos, vivís, viven",
+    "hint": null
   },
   "q_gram_a1_10_002": {
     "question": "Nosotros ___ a las dos.",
@@ -1032,8 +1033,8 @@
       "comen",
       "come"
     ],
-    "explanation": "對於-er動詞, nosotros形式以...結尾 -emos.\n- comer → com + emos = comemos\n- Nosotros comemos = We eat.",
-    "hint": "什麼 是 nosotros 詞尾 對於-er動詞?"
+    "explanation": "-er 動詞的 nosotros 變位以 -emos 結尾。\n- comer → com + emos = comemos\n- Nosotros comemos = 我們吃飯。",
+    "hint": "-er 動詞的 nosotros 詞尾是什麼?"
   },
   "q_gram_a1_10_003": {
     "question": "Ella ___ una carta.",
@@ -1043,30 +1044,31 @@
       "escribes",
       "escriben"
     ],
-    "explanation": "對於-ir動詞, ella 形式 結尾 -e (相同 as -er 動詞).\n- escribir → escrib + e = escribe\n- Ella escribe = She writes.",
-    "hint": "ella 是 3rd 人稱 單數"
+    "explanation": "-ir 動詞的 ella 變位以 -e 結尾(與 -er 動詞相同)。\n- escribir → escrib + e = escribe\n- Ella escribe = 她寫信。",
+    "hint": "ella 是第三人稱單數"
   },
   "q_gram_a1_10_004": {
-    "question": "-er 和 -ir 動詞詞尾的主要差別是什麼?",
-    "correct": "只有 nosotros 和 vosotros 的變化形不同",
+    "question": "-er 動詞與 -ir 動詞的詞尾,關鍵差異是什麼?",
+    "correct": "只有 nosotros 和 vosotros 的變位不同",
     "wrong": [
-      "所有變化形都不同",
-      "只有 yo 的變化形不同",
-      "完全沒有差別"
+      "所有變位都不同",
+      "只有 yo 的變位不同",
+      "完全沒有差異"
     ],
-    "explanation": "-er 和 -ir 的變位幾乎完全相同。\n- 只有 nosotros 和 vosotros 不同:\n  -er:comemos, coméis / -ir:vivimos, vivís\n  其他所有人稱的詞尾都一樣:-o, -es, -e, -en。",
+    "explanation": "-er 和 -ir 的變位幾乎相同。\n- 只有 nosotros 和 vosotros 不同:\n  -er: comemos, coméis / -ir: vivimos, vivís\n  其他所有人稱的詞尾都一樣:-o, -es, -e, -en。",
     "hint": null
   },
   "q_gram_a1_10_005": {
-    "question": "¿Tú ___ café? (conjugate beber)",
+    "question": "¿Tú ___ café? (變位 beber)",
     "correct": "bebes",
     "wrong": [
       "bebo",
       "bebe",
       "beben"
     ],
-    "explanation": "對於-er動詞, tú形式以...結尾 -es.\n- beber → beb + es = bebes\n- ¿Tú bebes café? = 做 你 drink coffee?",
-    "conjugation_info": "beber - present: bebo, bebes, bebe, bebemos, bebéis, beben"
+    "explanation": "-er 動詞的 tú 變位以 -es 結尾。\n- beber → beb + es = bebes\n- ¿Tú bebes café? = 你喝咖啡嗎?",
+    "conjugation_info": "beber - present: bebo, bebes, bebe, bebemos, bebéis, beben",
+    "hint": null
   },
   "q_gram_a1_10_006": {
     "question": "Los estudiantes ___ muchos libros.",
@@ -1076,51 +1078,53 @@
       "leo",
       "lees"
     ],
-    "explanation": "對於-er動詞, ellos形式以...結尾 -en.\n- leer → le + en = leen\n- Los estudiantes leen = students read.",
-    "hint": "los estudiantes = 他們 (3rd 人稱 複數)"
+    "explanation": "-er 動詞的 ellos 變位以 -en 結尾。\n- leer → le + en = leen\n- Los estudiantes leen = 學生們讀很多書。",
+    "hint": "los estudiantes = 他們(第三人稱複數)"
   },
   "q_gram_a1_10_007": {
-    "question": "你 (非正式) open door.",
+    "question": "你(非正式)打開門。",
     "correct": "Tú abres la puerta.",
     "wrong": [
       "Tú abre la puerta.",
       "Tú abro la puerta.",
       "Tú abren la puerta."
     ],
-    "explanation": "對於-ir動詞, tú形式以...結尾 -es.\n- abrir → abr + es = abres\n- Tú abres = 你 打開."
+    "explanation": "-ir 動詞的 tú 變位以 -es 結尾。\n- abrir → abr + es = abres\n- Tú abres = 你打開。",
+    "hint": null
   },
   "q_gram_a1_10_008": {
-    "question": "Vosotros ___ en un apartamento. (conjugate vivir)",
+    "question": "Vosotros ___ en un apartamento. (變位 vivir)",
     "correct": "vivís",
     "wrong": [
       "vivimos",
       "viven",
       "vivis"
     ],
-    "explanation": "對於-ir動詞, vosotros 形式 結尾 -ís.\n- vivir → viv + ís = vivís\n注意 重音 mark on 'i'.",
-    "hint": " vosotros 詞尾 對於-ir動詞 有 an 重音"
+    "explanation": "-ir 動詞的 vosotros 變位以 -ís 結尾。\n- vivir → viv + ís = vivís\n請注意 'i' 上的重音符號。",
+    "hint": "-ir 動詞的 vosotros 詞尾帶有重音符號"
   },
   "q_gram_a1_10_009": {
-    "question": "她每天早上都會看報紙。",
+    "question": "她每天早上看報紙。",
     "correct": "Ella lee el periódico cada mañana.",
     "wrong": [
       "Ella lees el periódico cada mañana.",
       "Ella leen el periódico cada mañana.",
       "Ella leo el periódico cada mañana."
     ],
-    "explanation": "-er 結尾動詞搭配 ella 時,字尾變成 -e。\n- leer → le + e = lee\n注意 lee 裡有兩個 e,這是 leer 第三人稱單數的正確形式。",
+    "explanation": "-er 動詞的 ella 變位以 -e 結尾。\n- leer → le + e = lee\n請注意 lee 中有兩個 'e'——這是 leer 第三人稱的正確寫法。",
     "hint": null
   },
   "q_gram_a1_10_010": {
-    "question": "Nosotros ___ en un piso. (conjugate vivir)",
+    "question": "Nosotros ___ en un piso. (變位 vivir)",
     "correct": "vivimos",
     "wrong": [
       "vivemos",
       "viven",
       "vivís"
     ],
-    "explanation": "對於-ir動詞, nosotros形式以...結尾 -imos (not -emos like -er 動詞).\n- vivir → viv + imos = vivimos\n這 是 one 的 僅 two 形式 哪裡 -er 和 -ir differ.",
-    "conjugation_info": "-er: comemos, coméis / -ir: vivimos, vivís (the 僅 differences)"
+    "explanation": "-ir 動詞的 nosotros 變位以 -imos 結尾(不像 -er 動詞是 -emos)。\n- vivir → viv + imos = vivimos\n這是 -er 與 -ir 僅有的兩個不同變位之一。",
+    "conjugation_info": "-er: comemos, coméis / -ir: vivimos, vivís (the 僅 differences)",
+    "hint": null
   },
   "q_gram_a1_11_001": {
     "question": "___ un banco cerca de aquí.",
@@ -1130,8 +1134,8 @@
       "Es",
       "Están"
     ],
-    "explanation": "「Hay」用來表示「存在」(有……)。\n- Hay un banco = 有一間銀行。\nHay + 不定冠詞/數字,用來表示某物存在。",
-    "hint": "哪個詞表示「有……」?"
+    "explanation": "'Hay' 用來表示「存在」(有……)。\n- Hay un banco = 有一間銀行。\nHay + 不定冠詞/數量,用來說明某物存在。",
+    "hint": "哪個詞表示「有」?"
   },
   "q_gram_a1_11_002": {
     "question": "El banco ___ en la esquina.",
@@ -1141,29 +1145,29 @@
       "es",
       "están"
     ],
-    "explanation": "Estar 用來表示特定事物的位置。\n- El banco está en la esquina = 銀行在轉角。\n定冠詞 'el' 表示特定的那間銀行,所以要用 estar。",
+    "explanation": "Estar 用來表示特定事物所在的位置。\n- El banco está en la esquina = 那間銀行在轉角。\n定冠詞 'el' 表示特定的那間銀行,所以要用 estar。",
     "hint": "特定的銀行(el banco)要用哪個動詞?"
   },
   "q_gram_a1_11_003": {
-    "question": "「hay」和「está」有什麼差別?",
-    "correct": "hay = 表示存在,está = 表示特定事物的位置",
+    "question": "'hay' 和 'está' 有什麼差別?",
+    "correct": "hay = 存在,está = 特定事物的位置",
     "wrong": [
-      "hay = 表示位置,está = 表示存在",
+      "hay = 位置,está = 存在",
       "hay = 只用於複數,está = 只用於單數",
-      "兩者可以互換使用"
+      "兩者可以互換"
     ],
-    "explanation": "「Hay」表示存在(有……),搭配不定冠詞使用。\n「Está/Están」表示特定、已知事物的位置。\n- Hay un libro.(有一本書。)/ El libro está aquí.(那本書在這裡。)",
+    "explanation": "'Hay' 表示存在(有……),搭配不定冠詞使用。\n'Está/Están' 表示特定、已知事物的位置。\n- Hay un libro.(有一本書。)/ El libro está aquí.(那本書在這裡。)",
     "hint": null
   },
   "q_gram_a1_11_004": {
-    "question": "___ muchos estudiantes en la clase. (choose 正確 form 含義 '有')",
+    "question": "___ muchos estudiantes en la clase. (請選擇表示「有」的正確形式)",
     "correct": "Hay",
     "wrong": [
       "Están",
       "Son",
       "Es"
     ],
-    "explanation": "'Hay' 是不變的 — 相同 形式 爲 單數 和 複數.\n- Hay un libro. (那裡 是 a book.)\n- Hay muchos libros. (那裡 是 許多 books.)\n從不 say *hayen 或 *han.",
+    "explanation": "'Hay' 是不變的——單數和複數都使用同一個形式。\n- Hay un libro.(有一本書。)\n- Hay muchos libros.(有很多書。)\n千萬不要說 *hayen 或 *han。",
     "conjugation_info": "Hay (invariable): Hay un gato. Hay tres gatos. Hay mucha gente."
   },
   "q_gram_a1_11_005": {
@@ -1174,19 +1178,20 @@
       "es",
       "está"
     ],
-    "explanation": "'las llaves' ( keys) 是 a specific, definite subject — 使用 estar 爲 its 位置.\n- Las llaves están en la mesa. = keys 是 on table.\n 複數 'están' matches 複數 subject.",
-    "hint": "Specific items (與 definite 冠詞) 使用 estar 爲 位置"
+    "explanation": "'las llaves'(那些鑰匙)是特定、確定的主語——表示它的位置要用 estar。\n- Las llaves están en la mesa. = 鑰匙在桌上。\n複數 'están' 與複數主語一致。",
+    "hint": "特定的物品(帶定冠詞)要用 estar 表示位置"
   },
   "q_gram_a1_11_006": {
-    "question": "¿___ una farmacia por aquí? (是 那裡 a pharmacy around 這裡?)",
+    "question": "¿___ una farmacia por aquí? (這附近有藥局嗎?)",
     "correct": "Hay",
     "wrong": [
       "Está",
       "Es",
       "Están"
     ],
-    "explanation": "什麼時候 asking if something exists 在 a general area, 使用 'hay'.\n- ¿Hay una farmacia? = 是 那裡 a pharmacy? (existence)\n- ¿Dónde está la farmacia? = 哪裡 是 pharmacy? (位置 的 specific one)",
-    "conjugation_info": "Hay + indefinite (un/una): ¿Hay un banco? / Está + definite (el/la): ¿Dónde está el banco?"
+    "explanation": "詢問某個大範圍內是否有某物時,用 'hay'。\n- ¿Hay una farmacia? = 有藥局嗎?(存在)\n- ¿Dónde está la farmacia? = 那間藥局在哪裡?(特定藥局的位置)",
+    "conjugation_info": "Hay + indefinite (un/una): ¿Hay un banco? / Está + definite (el/la): ¿Dónde está el banco?",
+    "hint": null
   },
   "q_gram_a1_11_007": {
     "question": "___ mucha gente en la plaza.",
@@ -1196,8 +1201,8 @@
       "Es",
       "Están"
     ],
-    "explanation": "使用 'hay' 與 quantities (mucha, poca, etc.) 用來表達 existence.\n- Hay mucha gente = 那裡 是 許多 人們.\n'Gente' 是 單數 在 西班牙語, 但是 'hay' works regardless 的 數.",
-    "hint": "Expressing '那裡 是' 與 quantities uses hay"
+    "explanation": "搭配數量詞(mucha, poca 等)表示存在時,用 'hay'。\n- Hay mucha gente = 有很多人。\n'Gente' 在西班牙語中是單數,但 'hay' 不受單複數影響。",
+    "hint": "表示「有」並搭配數量時要用 hay"
   },
   "q_gram_a1_11_008": {
     "question": "超市在學校旁邊。",
@@ -1207,18 +1212,18 @@
       "El supermercado es al lado de la escuela.",
       "El supermercado hay al lado de la escuela."
     ],
-    "explanation": "這裡說的是某一間特定的超市(el supermercado),所以要用 estar 來表示位置。\n- estar + al lado de = 在……旁邊\n如果要說「有一間超市……」(表示存在),才會用 hay。",
+    "explanation": "我們談的是一間特定的超市(el supermercado),所以用 estar 表示位置。\n- estar + al lado de = 在……旁邊\n如果要說「有一間超市……」(存在),才會用 Hay。",
     "hint": null
   },
   "q_gram_a1_11_009": {
-    "question": "No ___ nadie en la oficina. (請填入表示「有」的 'haber' 變化形)",
+    "question": "No ___ nadie en la oficina. (請填入表示「有」的 haber 變位)",
     "correct": "hay",
     "wrong": [
       "está",
       "es",
       "están"
     ],
-    "explanation": "「No hay nadie」= 沒有人。這是雙重否定,在西班牙語中是正確的用法。\n- hay + 否定詞 = 沒有……\n記住:hay 不會變化形態。",
+    "explanation": "'No hay nadie' = 沒有人。這是雙重否定,在西班牙語中是正確的。\n- hay + 否定詞 = 沒有……\n請記住:hay 不會變化,形式永遠不變。",
     "conjugation_info": "Hay in negative: No hay nada (nothing), No hay nadie (nobody), No hay ningún... (not any)",
     "hint": null
   },
@@ -1230,116 +1235,121 @@
       "Es un parque en mi ciudad.",
       "Están un parque en mi ciudad."
     ],
-    "explanation": "第一次介紹某樣事物(表示存在)時用 'hay'。\n- Hay un parque = 有一座公園(第一次提到、不特定)。\n接著如果特別談到那座公園:El parque está cerca.",
+    "explanation": "我們用 'hay' 來首次介紹某樣事物(存在)。\n- Hay un parque = 有一座公園(第一次提到,非特定)。\n如果接著要具體談論那座公園:El parque está cerca.",
     "hint": null
   },
   "q_gram_a1_12_001": {
-    "question": "___ hermana se llama Ana. (fill 在: my, 爲 a 陰性名詞)",
+    "question": "___ hermana se llama Ana. (填空:我的,用於陰性名詞)",
     "correct": "Mi",
     "wrong": [
       "Mis",
       "Tu",
       "Su"
     ],
-    "explanation": "'hermana' 是 單數, so we 使用 'mi' (my, 單數).\n- mi hermana = my sister\n所有者形容詞一致 與 thing possessed, not owner.",
-    "conjugation_info": "Possessives: mi/mis, tu/tus, su/sus, nuestro(a)/nuestros(as), vuestro(a)/vuestros(as)"
+    "explanation": "'hermana' 是單數,所以要用 'mi'(我的,單數)。\n- mi hermana = 我的姊妹\n所有格形容詞要和被擁有的事物一致,而不是和擁有者一致。",
+    "conjugation_info": "Possessives: mi/mis, tu/tus, su/sus, nuestro(a)/nuestros(as), vuestro(a)/vuestros(as)",
+    "hint": null
   },
   "q_gram_a1_12_002": {
-    "question": "___ amigos son simpáticos.",
+    "question": "___ amigos son simpáticos. (我的朋友們)",
     "correct": "Mis",
     "wrong": [
       "Mi",
       "Tus",
       "Su"
     ],
-    "explanation": "'amigos' 是 複數, so we 使用 'mis' (my, 複數).\n- mi amigo → mis amigos\nmi/tu/su 改變 僅 爲 數, not 性別.",
-    "hint": "什麼 是 複數 形式的 'mi'?"
+    "explanation": "'amigos' 是複數,所以要用 'mis'(我的,複數)。\n- mi amigo → mis amigos\nmi/tu/su 只隨單複數變化,不分陰陽性。",
+    "hint": "'mi' 的複數形是什麼?"
   },
   "q_gram_a1_12_003": {
-    "question": "¿Cuál es ___ nombre?",
+    "question": "¿Cuál es ___ nombre? (你的,非正式)",
     "correct": "tu",
     "wrong": [
       "tú",
       "su",
       "mi"
     ],
-    "explanation": "'tu' (沒有 重音) 是 a possessive 形容詞 含義 '你的'.\n- ¿Cuál es tu nombre? = 什麼 是 你的 name?\n注意: 'tú' (與 重音) 是 主語 代詞 '你'.",
-    "hint": " possessive '你的' 有 no 重音 mark"
+    "explanation": "'tu'(沒有重音符號)是所有格形容詞,意思是「你的」。\n- ¿Cuál es tu nombre? = 你叫什麼名字?\n注意:'tú'(有重音符號)是主詞代名詞「你」。",
+    "hint": "表示「你的」的所有格沒有重音符號"
   },
   "q_gram_a1_12_004": {
-    "question": "「su casa」裡的「su」是什麼意思?",
-    "correct": "他的/她的/您的(敬稱)/他們的",
+    "question": "'su casa' 裡的 'su' 是什麼意思?",
+    "correct": "他的/她的/您的(正式)/他們的",
     "wrong": [
       "只有「他的」",
       "只有「她的」",
       "我的"
     ],
-    "explanation": "「su」有歧義,可以指他的、她的、您的(敬稱)或他們的。\n- su casa = 他的/她的/您的/他們的房子\n要說清楚時可以用:la casa de él(他的)、la casa de ella(她的)。",
+    "explanation": "'su' 有歧義,可以指他的、她的、您的(正式)或他們的。\n- su casa = 他的/她的/您的/他們的房子\n要說清楚時可以用:la casa de él(他的)、la casa de ella(她的)。",
     "hint": null
   },
   "q_gram_a1_12_005": {
-    "question": "___ casa es bonita. (our house — select 正確 form)",
+    "question": "___ casa es bonita. (我們的房子——選出正確的形式)",
     "correct": "Nuestra",
     "wrong": [
       "Nuestro",
       "Nuestros",
       "Nuestras"
     ],
-    "explanation": "'nuestro/a' 必須 agree 在 性別 與 名詞 possessed.\n- nuestra casa (女性) = our house\n- nuestro coche (男性) = our car\n僅 nuestro/vuestro 有 性別 形式.",
-    "conjugation_info": "nuestro/nuestra/nuestros/nuestras — agrees in 性別 和 數"
+    "explanation": "'nuestro/a' 必須和被擁有的名詞在陰陽性上一致。\n- nuestra casa(陰性)= 我們的房子\n- nuestro coche(陽性)= 我們的車\n只有 nuestro/vuestro 有陰陽性變化。",
+    "conjugation_info": "nuestro/nuestra/nuestros/nuestras — agrees in 性別 和 數",
+    "hint": null
   },
   "q_gram_a1_12_006": {
-    "question": "Ella habla con ___ padres.",
+    "question": "Ella habla con ___ padres. (她的父母)",
     "correct": "sus",
     "wrong": [
       "su",
       "mis",
       "tus"
     ],
-    "explanation": "'padres' 是 複數, so possessive 必須 也 是 複數: 'sus'.\n- su padre → sus padres\n記住: possessives agree 與 thing possessed.",
-    "hint": "複數 名詞 need 複數 possessives"
+    "explanation": "'padres' 是複數,所以所有格也必須用複數:'sus'。\n- su padre → sus padres\n記住:所有格要和被擁有的事物一致。",
+    "hint": "複數名詞要搭配複數所有格"
   },
   "q_gram_a1_12_007": {
-    "question": "Our country 是 beautiful.",
+    "question": "我們的國家很美。",
     "correct": "Nuestro país es bonito.",
     "wrong": [
       "Nuestra país es bonita.",
       "Su país es bonito.",
       "Nuestros país es bonito."
     ],
-    "explanation": "'país' 是 男性, so we 使用 'nuestro' (not nuestra).\n- nuestro país = our country (男性)\n- nuestra ciudad = our city (女性)"
+    "explanation": "'país' 是陽性,所以要用 'nuestro'(不是 nuestra)。\n- nuestro país = 我們的國家(陽性)\n- nuestra ciudad = 我們的城市(陰性)",
+    "hint": null
   },
   "q_gram_a1_12_008": {
-    "question": "___ hijos son simpáticos. (his/her children)",
+    "question": "___ hijos son simpáticos. (他/她的孩子們)",
     "correct": "Sus",
     "wrong": [
       "Su",
       "Mis",
       "Tus"
     ],
-    "explanation": "'hijos' 是 複數, so possessive 'sus' (複數) 是 needed.\n- su hijo (單數) → sus hijos (複數)\n所有者代詞改變 based on 數 的 things possessed.",
-    "hint": "hijos 是 複數"
+    "explanation": "'hijos' 是複數,所以需要複數所有格 'sus'。\n- su hijo(單數)→ sus hijos(複數)\n所有格會依被擁有事物的數量而變化。",
+    "hint": "hijos 是複數"
   },
   "q_gram_a1_12_009": {
-    "question": "I love my family.",
+    "question": "我愛我的家人。",
     "correct": "Quiero a mi familia.",
     "wrong": [
       "Quiero mi familia.",
       "Quiero a mis familia.",
       "Quiero a su familia."
     ],
-    "explanation": "需要人稱'a' 之前 人們/family members as direct objects.\n- Quiero a mi familia. = I love my family.\n'mi' stays 單數 因爲 'familia' 是 a 單數 名詞."
+    "explanation": "當人或家人作為直接受詞時,前面必須加人稱的 'a'。\n- Quiero a mi familia. = 我愛我的家人。\n'mi' 維持單數,因為 'familia' 是單數名詞。",
+    "hint": null
   },
   "q_gram_a1_12_010": {
-    "question": "___ profesores son muy buenos. (our teachers — fill 在 正確 possessive)",
+    "question": "___ profesores son muy buenos. (我們的老師們——填入正確的所有格)",
     "correct": "Nuestros",
     "wrong": [
       "Nuestro",
       "Nuestra",
       "Nuestras"
     ],
-    "explanation": "'profesores' 是 男性 複數, so we need 'nuestros'.\n- nuestro profesor → nuestros profesores\nnuestro/a/os/as 是 僅 possessive 那 改變 爲 兩者 性別 和 數.",
-    "conjugation_info": "nuestro (m.sg.), nuestra (f.sg.), nuestros (m.pl.), nuestras (f.pl.)"
+    "explanation": "'profesores' 是陽性複數,所以需要 'nuestros'。\n- nuestro profesor → nuestros profesores\nnuestro/a/os/as 和 vuestro/a/os/as 會隨陰陽性和單複數變化,而 mi/tu/su 只隨單複數變化。",
+    "conjugation_info": "nuestro (m.sg.), nuestra (f.sg.), nuestros (m.pl.), nuestras (f.pl.)",
+    "hint": null
   },
   "q_gram_a1_13_001": {
     "question": "___ libro es muy interesante.",

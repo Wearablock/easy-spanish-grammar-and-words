@@ -896,24 +896,26 @@
     "hint": null
   },
   "q_vocab_a1_09_001": {
-    "question": "ما معنى 'cocina'؟",
-    "correct": "kitchen",
+    "question": "ماذا تعني 'cocina'؟",
+    "correct": "مطبخ",
     "wrong": [
-      "bedroom",
-      "bathroom",
-      "living room"
+      "غرفة نوم",
+      "حمّام",
+      "غرفة معيشة"
     ],
-    "explanation": "'Cocina' يعني 'kitchen'. هو يمكن أيضاً يعني 'cooking' أو 'stove' depending on context."
+    "explanation": "'Cocina' تعني 'مطبخ'. وقد تعني أيضًا 'الطبخ' أو 'الموقد' بحسب السياق.",
+    "hint": null
   },
   "q_vocab_a1_09_002": {
-    "question": "ما معنى 'ventana'؟",
-    "correct": "window",
+    "question": "ماذا تعني 'ventana'؟",
+    "correct": "نافذة",
     "wrong": [
-      "door",
-      "wall",
-      "roof"
+      "باب",
+      "جدار",
+      "سقف"
     ],
-    "explanation": "'Ventana' يعني 'window'. 'Abrir la ventana' = 'إلى open الـ window'."
+    "explanation": "'Ventana' تعني 'نافذة'. 'Abrir la ventana' = 'فتح النافذة'.",
+    "hint": null
   },
   "q_vocab_a1_09_003": {
     "question": "Duermo en la ___ todas las noches.",
@@ -923,203 +925,221 @@
       "silla",
       "puerta"
     ],
-    "explanation": "'Cama' يعني 'bed'. الـ sentence says 'I sleep في الـ bed every ليل'."
+    "explanation": "'Cama' تعني 'سرير'. الجملة تعني: 'أنام على السرير كل ليلة'.",
+    "hint": null
   },
   "q_vocab_a1_09_004": {
-    "question": "ما معنى 'puerta'؟",
-    "correct": "door",
+    "question": "ماذا تعني 'puerta'؟",
+    "correct": "باب",
     "wrong": [
-      "window",
-      "floor",
-      "ceiling"
+      "نافذة",
+      "أرضية",
+      "سقف"
     ],
-    "explanation": "'Puerta' يعني 'door'. 'Abrir la puerta' = 'إلى open الـ door', 'cerrar la puerta' = 'إلى close الـ door'."
+    "explanation": "'Puerta' تعني 'باب'. 'Abrir la puerta' = 'فتح الباب'، و'cerrar la puerta' = 'إغلاق الباب'.",
+    "hint": null
   },
   "q_vocab_a1_09_005": {
-    "question": "ما معنى 'sofá' في 'Me siento en el sofá'؟",
-    "correct": "sofa / couch",
+    "question": "ماذا تعني 'sofá' في الجملة 'Me siento en el sofá'؟",
+    "correct": "أريكة / كنبة",
     "wrong": [
-      "chair",
-      "bed",
+      "كرسي",
+      "سرير",
       "طاولة"
     ],
-    "explanation": "'Sofá' يعني 'sofa' أو 'couch'. الـ sentence يعني 'I sit on الـ sofa'. هو هو عادة في الـ 'salón' (living room)."
+    "explanation": "'Sofá' تعني 'أريكة' أو 'كنبة'. معنى الجملة: 'أجلس على الأريكة'. وتكون عادةً في 'salón' (غرفة المعيشة).",
+    "hint": null
   },
   "q_vocab_a1_09_006": {
-    "question": "الـ mirror هو في الـ bathroom.",
+    "question": "المرآة في الحمّام.",
     "correct": "El espejo está en el baño.",
     "wrong": [
       "El espejo está en la cocina.",
       "La lámpara está en el baño.",
       "El armario está en el baño."
     ],
-    "explanation": "'Espejo' يعني 'mirror' و 'baño' يعني 'bathroom'. We use 'está' لـ location."
+    "explanation": "'Espejo' تعني 'مرآة' و'baño' تعني 'حمّام'. نستخدم 'está' للدلالة على المكان.",
+    "hint": null
   },
   "q_vocab_a1_09_007": {
-    "question": "ما معنى 'armario' في 'La ropa está en el armario'؟",
-    "correct": "wardrobe / closet",
+    "question": "ماذا تعني 'armario' في الجملة 'La ropa está en el armario'؟",
+    "correct": "خزانة ملابس",
     "wrong": [
-      "drawer",
-      "shelf",
-      "box"
+      "درج",
+      "رف",
+      "صندوق"
     ],
-    "explanation": "'Armario' يعني 'wardrobe' أو 'closet'. الـ sentence يعني 'الـ clothes هم في الـ wardrobe'."
+    "explanation": "'Armario' تعني 'خزانة ملابس'. معنى الجملة: 'الملابس في الخزانة'.",
+    "hint": null
   },
   "q_vocab_a1_09_008": {
     "question": "Hay una estantería con muchos libros en el salón.",
-    "correct": "There is a bookshelf with many books in the living room.",
+    "correct": "يوجد رف كتب عليه كتب كثيرة في غرفة المعيشة.",
     "wrong": [
-      "There is a table with many books in the kitchen.",
-      "There is a bookshelf with many books in the bedroom.",
-      "There is a lamp with many books in the living room."
+      "توجد طاولة عليها كتب كثيرة في المطبخ.",
+      "يوجد رف كتب عليه كتب كثيرة في غرفة النوم.",
+      "يوجد مصباح مع كتب كثيرة في غرفة المعيشة."
     ],
-    "explanation": "'Estantería' يعني 'bookshelf/shelving unit' و 'salón' يعني 'living room'. 'Hay' يعني 'هناك/هناك'."
+    "explanation": "'Estantería' تعني 'رف كتب / وحدة رفوف' و'salón' تعني 'غرفة المعيشة'. 'Hay' تعني 'يوجد / توجد'.",
+    "hint": null
   },
   "q_vocab_a1_09_009": {
-    "question": "أنت هم looking لـ an apartment و want إلى ask if هو يملك a garden. ماذا do أنت say?",
+    "question": "أنت تبحث عن شقة وتريد أن تسأل إن كانت فيها حديقة. ماذا تقول؟",
     "correct": "¿El piso tiene jardín?",
     "wrong": [
       "¿El piso tiene cocina?",
       "¿El piso tiene dormitorio?",
       "¿El piso tiene baño?"
     ],
-    "explanation": "'Jardín' يعني 'garden'. 'Piso' يعني 'apartment' في Spain. هذا a شائع question متى apartment hunting.",
-    "context": "Looking at apartments with a real estate agent"
+    "explanation": "'Jardín' تعني 'حديقة'. و'Piso' تعني 'شقة' في إسبانيا. هذا سؤال شائع عند البحث عن شقة.",
+    "context": "Looking at apartments with a real estate agent",
+    "hint": null
   },
   "q_vocab_a1_09_010": {
-    "question": "A friend هو visiting لك home. كيف do أنت say 'الـ bedroom هو next إلى الـ bathroom'?",
+    "question": "صديق يزور منزلك. كيف تقول: 'غرفة النوم بجانب الحمّام'؟",
     "correct": "El dormitorio está al lado del baño.",
     "wrong": [
       "El dormitorio está lejos del baño.",
       "La cocina está al lado del baño.",
       "El dormitorio está en el baño."
     ],
-    "explanation": "'Dormitorio' يعني 'bedroom', 'al lado de' يعني 'next إلى', و 'baño' يعني 'bathroom'.",
-    "context": "Giving a tour of your home to a صديق"
+    "explanation": "'Dormitorio' تعني 'غرفة نوم'، و'al lado de' تعني 'بجانب'، و'baño' تعني 'حمّام'.",
+    "context": "Giving a tour of your home to a صديق",
+    "hint": null
   },
   "q_vocab_a1_10_001": {
-    "question": "ماذا تعني 'libro'؟",
+    "question": "ماذا تعني كلمة 'libro'؟",
     "correct": "كتاب",
     "wrong": [
       "دفتر",
       "قلم رصاص",
       "قلم حبر"
     ],
-    "explanation": "'Libro' تعني 'كتاب'. أما 'Librería' فتعني 'مكتبة لبيع الكتب' (وليست 'مكتبة عامة للقراءة' التي تُقال لها 'biblioteca').",
+    "explanation": "'Libro' تعني «كتاب». أمّا 'Librería' فتعني «محل بيع الكتب» (وليست المكتبة العامة التي تُسمّى 'biblioteca').",
     "hint": null
   },
   "q_vocab_a1_10_002": {
     "question": "El estudiante escribe en el ___.",
     "correct": "cuaderno",
     "wrong": [
-      "libro",
-      "examen",
+      "lápiz",
+      "bolígrafo",
       "pizarra"
     ],
-    "explanation": "'Cuaderno' يعني 'notebook'. الـ sentence says 'الـ طالب writes في الـ notebook'."
+    "explanation": "'Cuaderno' تعني «دفتر». الجملة تعني «الطالب يكتب في الدفتر».\n- تكتب في الدفتر: escribir en el cuaderno\n- تكتب بقلم الرصاص أو بالقلم الحبر: escribir con el lápiz / el bolígrafo",
+    "hint": null
   },
   "q_vocab_a1_10_003": {
-    "question": "ما معنى 'profesor'؟",
-    "correct": "teacher / professor",
+    "question": "ماذا تعني كلمة 'profesor'؟",
+    "correct": "معلّم / أستاذ",
     "wrong": [
       "طالب",
-      "principal",
-      "classmate"
+      "مدير المدرسة",
+      "زميل الصف"
     ],
-    "explanation": "'Profesor' يعني 'معلم' أو 'professor'. الـ مؤنث لـm هو 'profesora'."
+    "explanation": "'Profesor' تعني «معلّم» أو «أستاذ». وصيغة المؤنث هي 'profesora'.",
+    "hint": null
   },
   "q_vocab_a1_10_004": {
-    "question": "ما معنى 'examen'؟",
-    "correct": "exam / test",
+    "question": "ماذا تعني كلمة 'examen'؟",
+    "correct": "امتحان / اختبار",
     "wrong": [
-      "homework",
-      "class",
-      "grade"
+      "واجب منزلي",
+      "حصة دراسية",
+      "درجة"
     ],
-    "explanation": "'Examen' يعني 'exam' أو 'test'. الـ جمع هو 'exámenes' (note الـ accent shift)."
+    "explanation": "'Examen' تعني «امتحان» أو «اختبار». والجمع هو 'exámenes'.\n- يبقى النبر على حرف 'a' في 'exa-'، ولذلك يحتاج الجمع إلى علامة نبر مكتوبة.",
+    "hint": null
   },
   "q_vocab_a1_10_005": {
-    "question": "I study at الـ library.",
+    "question": "أدرس في المكتبة.",
     "correct": "Estudio en la biblioteca.",
     "wrong": [
       "Estudio en la librería.",
       "Estudio en la escuela.",
       "Estudio en el aula."
     ],
-    "explanation": "'Biblioteca' يعني 'library'. يكون careful: 'librería' يعني 'bookstore', not 'library'."
+    "explanation": "'Biblioteca' تعني «مكتبة» (للقراءة والاستعارة). انتبه: 'librería' تعني «محل بيع الكتب» وليست المكتبة العامة.",
+    "hint": null
   },
   "q_vocab_a1_10_006": {
-    "question": "ما معنى 'pizarra' في 'El profesor escribe en la pizarra'؟",
-    "correct": "blackboard / whiteboard",
+    "question": "ماذا تعني كلمة 'pizarra' في الجملة 'El profesor escribe en la pizarra'؟",
+    "correct": "سبّورة / لوح أبيض",
     "wrong": [
-      "desk",
-      "notebook",
-      "textbook"
+      "مكتب",
+      "دفتر",
+      "كتاب مدرسي"
     ],
-    "explanation": "'Pizarra' يعني 'blackboard' أو 'whiteboard'. الـ sentence يعني 'الـ معلم writes on الـ board'."
+    "explanation": "'Pizarra' تعني «سبّورة» أو «لوح أبيض». والجملة تعني «المعلّم يكتب على السبّورة».",
+    "hint": null
   },
   "q_vocab_a1_10_007": {
-    "question": "أنت forgot إلى do لك homework. كيف do أنت tell لك teacher?",
+    "question": "نسيتَ أن تنجز واجبك المنزلي. كيف تخبر معلّمك؟",
     "correct": "Lo siento, no tengo la tarea.",
     "wrong": [
       "Lo siento, no tengo el libro.",
       "Lo siento, no tengo el bolígrafo.",
       "Lo siento, no tengo el examen."
     ],
-    "explanation": "'Tarea' يعني 'homework' أو 'assignment'. 'Deberes' هو أيضاً used في Spain لـ homework.",
-    "context": "Arriving at class without homework"
+    "explanation": "'Tarea' تعني «واجب منزلي» أو «مهمّة». وتُستخدم كلمة 'Deberes' أيضًا في إسبانيا للواجب المنزلي.",
+    "context": "Arriving at class without homework",
+    "hint": null
   },
   "q_vocab_a1_10_008": {
-    "question": "ما معنى 'lápiz' في 'Necesito un lápiz'؟",
-    "correct": "pencil",
+    "question": "ماذا تعني كلمة 'lápiz' في الجملة 'Necesito un lápiz'؟",
+    "correct": "قلم رصاص",
     "wrong": [
-      "pen",
-      "eraser",
-      "ruler"
+      "قلم حبر",
+      "ممحاة",
+      "مسطرة"
     ],
-    "explanation": "'Lápiz' يعني 'pencil'. الـ جمع هو 'lápices'. A pen هو 'bolígrafo' (أو 'boli' inلـmally)."
+    "explanation": "'Lápiz' تعني «قلم رصاص». والجمع هو 'lápices'. أمّا القلم الحبر فهو 'bolígrafo' (أو 'boli' في الكلام العامي).",
+    "hint": null
   },
   "q_vocab_a1_10_009": {
     "question": "Mi hermana estudia en la universidad.",
-    "correct": "My sister studies at the university.",
+    "correct": "أختي تدرس في الجامعة.",
     "wrong": [
-      "My sister studies at the school.",
-      "My brother studies at the university.",
-      "My sister works at the university."
+      "أختي تدرس في المدرسة.",
+      "أخي يدرس في الجامعة.",
+      "أختي تعمل في الجامعة."
     ],
-    "explanation": "'Universidad' يعني 'university'. 'Estudiar en la universidad' = 'يدرس at university'."
+    "explanation": "'Universidad' تعني «جامعة». و'Estudiar en la universidad' تعني «الدراسة في الجامعة».",
+    "hint": null
   },
   "q_vocab_a1_10_010": {
-    "question": "تحتاج إلى استعارة قلم حبر من زميل في الصف. ماذا تقول؟",
+    "question": "تحتاج أن تستعير قلمًا من زميل في الصف. ماذا تقول؟",
     "correct": "¿Me prestas un bolígrafo?",
     "wrong": [
       "¿Me prestas un lápiz?",
       "¿Me prestas un cuaderno?",
       "¿Me prestas un libro?"
     ],
-    "explanation": "'Bolígrafo' تعني 'قلم حبر'. '¿Me prestas...?' تعني 'هل يمكنك أن تعيرني...؟' وهي عبارة شائعة بين زملاء الصف.",
+    "explanation": "'Bolígrafo' تعني «قلم حبر». و'¿Me prestas...?' تعني «هل يمكنك أن تعيرني...؟» وهي عبارة شائعة بين زملاء الصف.",
     "context": "In class without a pen",
     "hint": null
   },
   "q_vocab_a1_11_001": {
-    "question": "ما معنى 'médico'؟",
-    "correct": "doctor",
+    "question": "ماذا تعني 'médico'؟",
+    "correct": "طبيب",
     "wrong": [
-      "nurse",
-      "dentist",
-      "pharmacist"
+      "ممرّض",
+      "طبيب أسنان",
+      "صيدلاني"
     ],
-    "explanation": "'Médico' يعني 'doctor'. الـ مؤنث لـm هو 'médica'. 'Doctor/Doctora' هو أيضاً commonly used."
+    "explanation": "'Médico' تعني «طبيب». صيغة المؤنث هي 'médica'. كما تُستخدم 'Doctor/Doctora' كثيرًا.",
+    "hint": null
   },
   "q_vocab_a1_11_002": {
-    "question": "ما معنى 'abogado'؟",
-    "correct": "lawyer",
+    "question": "ماذا تعني 'abogado'؟",
+    "correct": "محامٍ",
     "wrong": [
-      "engineer",
-      "journalist",
-      "accountant"
+      "مهندس",
+      "صحفي",
+      "محاسب"
     ],
-    "explanation": "'Abogado' يعني 'lawyer'. الـ مؤنث لـm هو 'abogada'."
+    "explanation": "'Abogado' تعني «محامٍ». صيغة المؤنث هي 'abogada'.",
+    "hint": null
   },
   "q_vocab_a1_11_003": {
     "question": "El ___ prepara la comida en el restaurante.",
@@ -1129,79 +1149,87 @@
       "dentista",
       "policía"
     ],
-    "explanation": "'Cocinero' يعني 'cook/chef'. الـ sentence says 'الـ cook prepares الـ طعام في الـ مطعم'."
+    "explanation": "'Cocinero' تعني «طبّاخ / شيف». معنى الجملة: «الطبّاخ يُحضّر الطعام في المطعم».",
+    "hint": null
   },
   "q_vocab_a1_11_004": {
-    "question": "ما معنى 'enfermero'؟",
-    "correct": "nurse",
+    "question": "ماذا تعني 'enfermero'؟",
+    "correct": "ممرّض",
     "wrong": [
-      "doctor",
-      "dentist",
-      "patient"
+      "طبيب",
+      "طبيب أسنان",
+      "مريض"
     ],
-    "explanation": "'Enfermero' يعني 'nurse' (male). 'Enfermera' هو الـ مؤنث لـm. هم work في hospitals و clinics."
+    "explanation": "'Enfermero' تعني «ممرّض» (مذكر). و'Enfermera' هي صيغة المؤنث. يعملون في المستشفيات والعيادات.",
+    "hint": null
   },
   "q_vocab_a1_11_005": {
-    "question": "ما معنى 'periodista' في 'El periodista trabaja en un periódico'؟",
-    "correct": "journalist",
+    "question": "ماذا تعني 'periodista' في 'El periodista trabaja en un periódico'؟",
+    "correct": "صحفي",
     "wrong": [
-      "writer",
-      "editor",
-      "photographer"
+      "كاتب",
+      "محرّر",
+      "مصوّر"
     ],
-    "explanation": "'Periodista' يعني 'journalist'. هذا كلمة هو الـ same لـ مذكر و مؤنث. الـ sentence يعني 'الـ journalist works at a newspaper'."
+    "explanation": "'Periodista' تعني «صحفي». هذه الكلمة نفسها للمذكر والمؤنث. معنى الجملة: «الصحفي يعمل في جريدة».",
+    "hint": null
   },
   "q_vocab_a1_11_006": {
-    "question": "My father هو an engineer.",
+    "question": "والدي مهندس.",
     "correct": "Mi padre es ingeniero.",
     "wrong": [
       "Mi padre es abogado.",
       "Mi padre es profesor.",
       "Mi padre es médico."
     ],
-    "explanation": "'Ingeniero' يعني 'engineer'. في الإسبانية, professions بعد 'ser' typically don't use an أداة تعريف (no 'un')."
+    "explanation": "'Ingeniero' تعني «مهندس». في الإسبانية لا نستخدم عادةً أداة التنكير (un) مع المهن بعد 'ser'.",
+    "hint": null
   },
   "q_vocab_a1_11_007": {
-    "question": "ما معنى 'camarero' في 'El camarero trae la cuenta'؟",
-    "correct": "waiter",
+    "question": "ماذا تعني 'camarero' في 'El camarero trae la cuenta'؟",
+    "correct": "نادل",
     "wrong": [
-      "chef",
-      "manager",
-      "customer"
+      "شيف",
+      "مدير",
+      "زبون"
     ],
-    "explanation": "'Camarero' يعني 'waiter'. الـ sentence يعني 'الـ waiter brings الـ bill'. 'Camarera' هو a waitress."
+    "explanation": "'Camarero' تعني «نادل». معنى الجملة: «النادل يحضر الفاتورة». أما 'Camarera' فهي نادلة.",
+    "hint": null
   },
   "q_vocab_a1_11_008": {
     "question": "Soy estudiante de medicina. Quiero ser médico.",
-    "correct": "I am a medical student. I want to be a doctor.",
+    "correct": "أنا طالب طب. أريد أن أصبح طبيبًا.",
     "wrong": [
-      "I am a law student. I want to be a lawyer.",
-      "I am a medical student. I want to be a nurse.",
-      "I am an art student. I want to be a doctor."
+      "أنا طالب حقوق. أريد أن أصبح محاميًا.",
+      "أنا طالب طب. أريد أن أصبح ممرّضًا.",
+      "أنا طالب فنون. أريد أن أصبح طبيبًا."
     ],
-    "explanation": "'Estudiante de medicina' يعني 'medical طالب'. 'Quiero ser' يعني 'I want إلى يكون'."
+    "explanation": "'Estudiante de medicina' تعني «طالب طب». و'Quiero ser' تعني «أريد أن أكون / أصبح».",
+    "hint": null
   },
   "q_vocab_a1_11_009": {
-    "question": "أنت meet someone at a party و هم ask ماذا أنت do. كيف do أنت say 'I am a teacher'?",
+    "question": "تقابل شخصًا في حفلة فيسألك عن عملك. كيف تقول «أنا معلّم»؟",
     "correct": "Soy profesor.",
     "wrong": [
       "Soy estudiante.",
-      "Soy un profesor.",
+      "Es profesor.",
       "Estoy profesor."
     ],
-    "explanation": "We use 'soy' (not 'estoy') لـ professions لأن هم هم considered permanent traits. No أداة تعريف هو needed beلـe الـ profession.",
-    "context": "Meeting someone new at a party"
+    "explanation": "نستخدم 'ser' (soy) مع المهن، وليس 'estar'.\n- Soy profesor. = أنا معلّم.\n- Es profesor. = هو معلّم.\n- عند ذكر المهنة وحدها تحذف الإسبانية 'un': Soy profesor.",
+    "context": "Meeting someone new at a party",
+    "hint": null
   },
   "q_vocab_a1_11_010": {
-    "question": "أنت call emergency services. كيف do أنت ask لـ الـ police?",
+    "question": "تتصل بالطوارئ. كيف تطلب الشرطة؟",
     "correct": "¡Necesito la policía!",
     "wrong": [
       "¡Necesito un médico!",
       "¡Necesito un bombero!",
       "¡Necesito una ambulancia!"
     ],
-    "explanation": "'Policía' يمكن يعني 'police' (الـ لـce) أو 'police officer'. هنا هو يشير إلى calling الـ police.",
-    "context": "Making an emergency phone call"
+    "explanation": "قد تعني 'Policía' «الشرطة» (الجهاز) أو «رجل الشرطة». هنا المقصود طلب الشرطة.",
+    "context": "Making an emergency phone call",
+    "hint": null
   },
   "q_vocab_a1_12_001": {
     "question": "ما معنى 'sol'؟",

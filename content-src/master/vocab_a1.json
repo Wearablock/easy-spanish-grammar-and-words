@@ -1677,7 +1677,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "12/15",
+    "votes": "11/15",
     "spanish": [
       "sofá"
     ],
@@ -1716,7 +1716,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "12/15",
+    "votes": "11/15",
     "spanish": [
       "armario"
     ],
@@ -1773,9 +1773,9 @@
     "type": "context",
     "translation_dir": null,
     "ref": "en",
-    "votes": "2/11",
+    "votes": "1/6",
     "spanish": [
-      "bedroom 是 next 到 bathroom"
+      "das schlafzimmer ist neben dem badezimmer"
     ],
     "entry": {
       "question": "A friend is visiting your home. How do you say 'The bedroom is next to the bathroom'?",
@@ -1817,8 +1817,8 @@
       "el estudiante escribe en el ___.",
       "cuaderno",
       [
-        "examen",
-        "libro",
+        "bolígrafo",
+        "lápiz",
         "pizarra"
       ]
     ],
@@ -1826,11 +1826,12 @@
       "question": "El estudiante escribe en el ___.",
       "correct": "cuaderno",
       "wrong": [
-        "libro",
-        "examen",
+        "lápiz",
+        "bolígrafo",
         "pizarra"
       ],
-      "explanation": "'Cuaderno' means 'notebook'. The sentence says 'The student writes in the notebook'."
+      "explanation": "'Cuaderno' means 'notebook'. The sentence says 'The student writes in the notebook'.\n- You write in a notebook: escribir en el cuaderno\n- You write with a pencil or pen: escribir con el lápiz / el bolígrafo",
+      "hint": null
     }
   },
   "q_vocab_a1_10_003": {
@@ -1868,7 +1869,8 @@
         "class",
         "grade"
       ],
-      "explanation": "'Examen' means 'exam' or 'test'. The plural is 'exámenes' (note the accent shift)."
+      "explanation": "'Examen' means 'exam' or 'test'. The plural is 'exámenes'.\n- The stress stays on the 'a' of 'exa-', so the plural needs a written accent.",
+      "hint": null
     }
   },
   "q_vocab_a1_10_005": {
@@ -1895,7 +1897,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "12/15",
+    "votes": "11/15",
     "spanish": [
       "pizarra"
     ],
@@ -1932,7 +1934,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "12/15",
+    "votes": "11/15",
     "spanish": [
       "lápiz"
     ],
@@ -2071,7 +2073,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "12/15",
+    "votes": "11/15",
     "spanish": [
       "periodista"
     ],
@@ -2110,7 +2112,7 @@
     "type": "meaning",
     "translation_dir": null,
     "ref": "en",
-    "votes": "12/15",
+    "votes": "11/15",
     "spanish": [
       "camarero"
     ],
@@ -2149,7 +2151,7 @@
     "type": "context",
     "translation_dir": null,
     "ref": "en",
-    "votes": "1/3",
+    "votes": "1/5",
     "spanish": [
       "ich bin lehrer"
     ],
@@ -2158,11 +2160,12 @@
       "correct": "Soy profesor.",
       "wrong": [
         "Soy estudiante.",
-        "Soy un profesor.",
+        "Es profesor.",
         "Estoy profesor."
       ],
-      "explanation": "We use 'soy' (not 'estoy') for professions because they are considered permanent traits. No article is needed before the profession.",
-      "context": "Meeting someone new at a party"
+      "explanation": "For jobs we use 'ser' (soy), not 'estar'.\n- Soy profesor. = I am a teacher.\n- Es profesor. = He is a teacher.\n- With a job title alone, Spanish leaves out 'un': Soy profesor.",
+      "context": "Meeting someone new at a party",
+      "hint": null
     }
   },
   "q_vocab_a1_11_010": {

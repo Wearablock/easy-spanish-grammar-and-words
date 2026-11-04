@@ -11,9 +11,9 @@
 | 10-30 | LV2 | vocab_a1_06 · gram_a1_07 | ✅ 03:5x 배포 · 원본 1(07_002 «always estar» → 행사는 ser) · 280칸 · 뜻 검수 1(ko) · es UI 번역 문제 44개는 문제=정답 → 🙋 10-30 그대로 둠(문제 되면 es 화면을 뺀다) |
 | 10-31 | LV2 | vocab_a1_07 · gram_a1_08 | ✅ 08:5x 배포(이론 6개 언어 새로 · 1,887/1,888 같이) · 원본 2(07_006 설명 «brush 라고 안 한다» → cepillarse 도 맞다 · 07_003 보기 dedo → brazo 15개 언어) · 280칸 · 뜻 검수 5(it · ko 반영 · pt 2 · es 1 되돌림) · 🔁 01b 주제가 경로 맨 앞에 오던 정렬 고침(앱 · review.py) → LV 경계 한 칸 밀림 |
 | 11-01 | LV2 | vocab_a1_08 · gram_a1_09 | ✅ 11-02 23시대 배포(하루 늦음) · 원본 2(08_009 설명 «바지가 헐렁해서» 근거 없음 → 뺌 · 09_010 y → e 규칙에 hie-/hia- 예외) · 280칸 · 뜻 검수 3(전부 es «문제 = 정답» → 10-30 규칙대로 되돌림) |
-| 11-02 | LV2 | vocab_a1_09 · gram_a1_10 | |
-| 11-03 | LV2 | vocab_a1_10 · gram_a1_11 | |
-| 11-04 | LV2 | vocab_a1_11 · gram_a1_12 | |
+| 11-02 | LV2 | vocab_a1_09 · gram_a1_10 | ✅ 11-04 20시대 배포(이틀 늦음 · 11-03 · 11-04 몫과 한 번에) · 원본 0 · 뜻 검수 es «문제 = 정답» 2 되돌림 · ar 1 |
+| 11-03 | LV2 | vocab_a1_10 · gram_a1_11 | ✅ 11-04 배포 · 원본 2(10_002 오답 libro · examen 도 말이 됨 → lápiz · bolígrafo · 15개 언어 보기 직접 · 10_004 «강세가 옮겨간다» 틀림 → 그대로라 표시) · 뜻 검수 vi · zh-Hant 섞인 글 · pt 1 · es 2 되돌림 · 🔴 보기(스페인어)만 바꾸면 master build 가 다수결로 옛 보기로 되돌린다 → 15개 언어 파일을 같이 고친 뒤 build |
+| 11-04 | LV3 | vocab_a1_11 · gram_a1_12 | ✅ 11-04 배포 · 원본 5(11_009 «Soy un profesor» 도 됨 → Es profesor · ser 설명 · 12_002 · 003 · 006 주인 없음 → (my friends) · (your, informal) · (her parents) · 12_010 vuestro 빠짐) · 뜻 검수 it · vi · th 1씩 · 🔵 이 두 주제는 LV3 칸(review.py LV2 에 안 잡힘) |
 | 11-05 | LV3 | vocab_a1_12 · gram_a1_13 | |
 | 11-06 | LV3 | vocab_a1_13 · gram_a1_14 | |
 | 11-07 | LV3 | vocab_a1_14 · gram_a1_15 | |

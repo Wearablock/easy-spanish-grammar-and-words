@@ -903,7 +903,7 @@
       "ห้องน้ำ",
       "ห้องนั่งเล่น"
     ],
-    "explanation": "'Cocina' แปลว่า 'ห้องครัว' และขึ้นอยู่กับบริบทอาจหมายถึง 'การทำอาหาร' หรือ 'เตา' ก็ได้",
+    "explanation": "'Cocina' แปลว่า 'ห้องครัว' และยังอาจหมายถึง 'การทำอาหาร' หรือ 'เตา' ได้ขึ้นอยู่กับบริบท",
     "hint": null
   },
   "q_vocab_a1_09_002": {
@@ -914,7 +914,7 @@
       "กำแพง",
       "หลังคา"
     ],
-    "explanation": "'Ventana' แปลว่า 'หน้าต่าง' ส่วน 'Abrir la ventana' = 'เปิดหน้าต่าง'",
+    "explanation": "'Ventana' แปลว่า 'หน้าต่าง' เช่น 'Abrir la ventana' = 'เปิดหน้าต่าง'",
     "hint": null
   },
   "q_vocab_a1_09_003": {
@@ -925,7 +925,8 @@
       "silla",
       "puerta"
     ],
-    "explanation": "'Cama' แปลว่า 'bed'. senสิบce says 'I sleep ใน bed every กลางคืน'."
+    "explanation": "'Cama' แปลว่า 'เตียง' ประโยคนี้หมายความว่า 'ฉันนอนบนเตียงทุกคืน'",
+    "hint": null
   },
   "q_vocab_a1_09_004": {
     "question": "'puerta' แปลว่าอะไร?",
@@ -935,7 +936,7 @@
       "พื้น",
       "เพดาน"
     ],
-    "explanation": "'Puerta' แปลว่า 'ประตู' ส่วน 'Abrir la puerta' = 'เปิดประตู' และ 'cerrar la puerta' = 'ปิดประตู'",
+    "explanation": "'Puerta' แปลว่า 'ประตู' เช่น 'Abrir la puerta' = 'เปิดประตู' และ 'cerrar la puerta' = 'ปิดประตู'",
     "hint": null
   },
   "q_vocab_a1_09_005": {
@@ -946,64 +947,68 @@
       "เตียง",
       "โต๊ะ"
     ],
-    "explanation": "'Sofá' แปลว่า 'โซฟา' ประโยคนี้แปลว่า 'ฉันนั่งบนโซฟา' โดยปกติโซฟาจะอยู่ใน 'salón' (ห้องนั่งเล่น)",
+    "explanation": "'Sofá' แปลว่า 'โซฟา' ประโยคนี้หมายความว่า 'ฉันนั่งบนโซฟา' โดยปกติโซฟาจะอยู่ใน 'salón' (ห้องนั่งเล่น)",
     "hint": null
   },
   "q_vocab_a1_09_006": {
-    "question": " mirror เป็น ใน ห้องน้ำ.",
+    "question": "กระจกอยู่ในห้องน้ำ",
     "correct": "El espejo está en el baño.",
     "wrong": [
       "El espejo está en la cocina.",
       "La lámpara está en el baño.",
       "El armario está en el baño."
     ],
-    "explanation": "'Espejo' แปลว่า 'mirror' และ 'baño' แปลว่า 'ห้องน้ำ'. We use 'está' สำหรับ loแมวion."
+    "explanation": "'Espejo' แปลว่า 'กระจก' และ 'baño' แปลว่า 'ห้องน้ำ' เราใช้ 'está' เมื่อบอกตำแหน่งที่ตั้ง",
+    "hint": null
   },
   "q_vocab_a1_09_007": {
     "question": "'armario' ในประโยค 'La ropa está en el armario' แปลว่าอะไร?",
     "correct": "ตู้เสื้อผ้า",
     "wrong": [
       "ลิ้นชัก",
-      "ชั้นวาง",
+      "ชั้นวางของ",
       "กล่อง"
     ],
-    "explanation": "'Armario' แปลว่า 'ตู้เสื้อผ้า' ประโยคนี้แปลว่า 'เสื้อผ้าอยู่ในตู้เสื้อผ้า'",
+    "explanation": "'Armario' แปลว่า 'ตู้เสื้อผ้า' ประโยคนี้หมายความว่า 'เสื้อผ้าอยู่ในตู้เสื้อผ้า'",
     "hint": null
   },
   "q_vocab_a1_09_008": {
     "question": "Hay una estantería con muchos libros en el salón.",
-    "correct": "There is a bookshelf with many books in the living ห้อง.",
+    "correct": "มีชั้นหนังสือที่มีหนังสือมากมายอยู่ในห้องนั่งเล่น",
     "wrong": [
-      "There is a โต๊ะ with ผู้ชายy books in the ครัว.",
-      "There is a bookshelf with many books in the ห้องนอน.",
-      "There is a lamp with many books in the living ห้อง."
+      "มีโต๊ะที่มีหนังสือมากมายอยู่ในห้องครัว",
+      "มีชั้นหนังสือที่มีหนังสือมากมายอยู่ในห้องนอน",
+      "มีโคมไฟที่มีหนังสือมากมายอยู่ในห้องนั่งเล่น"
     ],
-    "explanation": "'Estantería' แปลว่า 'bookshelf/shelving unit' และ 'salón' แปลว่า 'living ห้อง'. 'Hay' แปลว่า 'มี/มี'."
+    "explanation": "'Estantería' แปลว่า 'ชั้นหนังสือ/ชั้นวางของ' และ 'salón' แปลว่า 'ห้องนั่งเล่น' ส่วน 'Hay' แปลว่า 'มี' (there is/there are)",
+    "hint": null
   },
   "q_vocab_a1_09_009": {
-    "question": "คุณ เป็น looking สำหรับ an apartment และ want ไปยัง ask if มัน มี a garden. อะไร do คุณ say?",
+    "question": "คุณกำลังหาอพาร์ตเมนต์และอยากถามว่ามีสวนไหม คุณจะพูดว่าอย่างไร?",
     "correct": "¿El piso tiene jardín?",
     "wrong": [
       "¿El piso tiene cocina?",
       "¿El piso tiene dormitorio?",
       "¿El piso tiene baño?"
     ],
-    "explanation": "'Jardín' แปลว่า 'garden'. 'Piso' แปลว่า 'apartment' ใน Spain. นี่คือ a ทั่วไป question เมื่อไหร่ apartment hunting.",
-    "context": "Looking at apartments with a real estate agent"
+    "explanation": "'Jardín' แปลว่า 'สวน' ส่วน 'piso' ในประเทศสเปนหมายถึง 'อพาร์ตเมนต์' นี่เป็นคำถามที่พบบ่อยเวลาหาที่พัก",
+    "context": "Looking at apartments with a real estate agent",
+    "hint": null
   },
   "q_vocab_a1_09_010": {
-    "question": "A เพื่อน เป็น visiting your บ้าน. อย่างไร do คุณ say ' ห้องนอน เป็น next ไปยัง ห้องน้ำ'?",
+    "question": "เพื่อนมาเยี่ยมบ้านคุณ คุณจะพูดว่า 'ห้องนอนอยู่ติดกับห้องน้ำ' อย่างไร?",
     "correct": "El dormitorio está al lado del baño.",
     "wrong": [
       "El dormitorio está lejos del baño.",
       "La cocina está al lado del baño.",
       "El dormitorio está en el baño."
     ],
-    "explanation": "'Dormitorio' แปลว่า 'ห้องนอน', 'al lado de' แปลว่า 'next ไปยัง', และ 'baño' แปลว่า 'ห้องน้ำ'.",
-    "context": "Giving a tour of your บ้าน to a เพื่อน"
+    "explanation": "'Dormitorio' แปลว่า 'ห้องนอน', 'al lado de' แปลว่า 'ติดกับ' และ 'baño' แปลว่า 'ห้องน้ำ'",
+    "context": "Giving a tour of your บ้าน to a เพื่อน",
+    "hint": null
   },
   "q_vocab_a1_10_001": {
-    "question": "'libro' แปลว่าอะไร?",
+    "question": "'libro' หมายความว่าอะไร",
     "correct": "หนังสือ",
     "wrong": [
       "สมุด",
@@ -1017,86 +1022,90 @@
     "question": "El estudiante escribe en el ___.",
     "correct": "cuaderno",
     "wrong": [
-      "libro",
-      "examen",
+      "lápiz",
+      "bolígrafo",
       "pizarra"
     ],
-    "explanation": "'Cuaderno' แปลว่า 'notebook'. senสิบce says ' นักเรียน writes ใน notebook'."
+    "explanation": "'Cuaderno' แปลว่า 'สมุด' ประโยคนี้หมายความว่า 'นักเรียนเขียนในสมุด'\n- เขียนลงในสมุด: escribir en el cuaderno\n- เขียนด้วยดินสอหรือปากกา: escribir con el lápiz / el bolígrafo",
+    "hint": null
   },
   "q_vocab_a1_10_003": {
-    "question": "'profesor' แปลว่าอะไร?",
+    "question": "'profesor' หมายความว่าอะไร",
     "correct": "ครู / อาจารย์",
     "wrong": [
       "นักเรียน",
-      "ครูใหญ่",
+      "ผู้อำนวยการ",
       "เพื่อนร่วมชั้น"
     ],
     "explanation": "'Profesor' แปลว่า 'ครู' หรือ 'อาจารย์' รูปเพศหญิงคือ 'profesora'",
     "hint": null
   },
   "q_vocab_a1_10_004": {
-    "question": "'examen' แปลว่าอะไร?",
+    "question": "'examen' หมายความว่าอะไร",
     "correct": "การสอบ / ข้อสอบ",
     "wrong": [
       "การบ้าน",
-      "ชั้นเรียน",
-      "คะแนน"
+      "คาบเรียน",
+      "เกรด"
     ],
-    "explanation": "'Examen' แปลว่า 'การสอบ' หรือ 'ข้อสอบ' พหูพจน์คือ 'exámenes' (สังเกตว่าตำแหน่งเครื่องหมายเน้นเสียงเปลี่ยนไป)",
+    "explanation": "'Examen' แปลว่า 'การสอบ' หรือ 'ข้อสอบ' รูปพหูพจน์คือ 'exámenes'\n- การเน้นเสียงยังคงอยู่ที่ตัว 'a' ใน 'exa-' ดังนั้นรูปพหูพจน์จึงต้องใส่เครื่องหมายเน้นเสียง",
     "hint": null
   },
   "q_vocab_a1_10_005": {
-    "question": "I study at library.",
+    "question": "ฉันเรียนที่ห้องสมุด",
     "correct": "Estudio en la biblioteca.",
     "wrong": [
       "Estudio en la librería.",
       "Estudio en la escuela.",
       "Estudio en el aula."
     ],
-    "explanation": "'Biblioteca' แปลว่า 'library'. เป็น รถยนต์eful: 'librería' แปลว่า 'bookstore', not 'library'."
+    "explanation": "'Biblioteca' แปลว่า 'ห้องสมุด' ระวัง: 'librería' แปลว่า 'ร้านหนังสือ' ไม่ใช่ 'ห้องสมุด'",
+    "hint": null
   },
   "q_vocab_a1_10_006": {
-    "question": "'pizarra' ในประโยค 'El profesor escribe en la pizarra' แปลว่าอะไร?",
-    "correct": "กระดานดำ / กระดานไวท์บอร์ด",
+    "question": "'pizarra' ในประโยค 'El profesor escribe en la pizarra' หมายความว่าอะไร",
+    "correct": "กระดานดำ / กระดานไวต์บอร์ด",
     "wrong": [
       "โต๊ะเรียน",
       "สมุด",
       "หนังสือเรียน"
     ],
-    "explanation": "'Pizarra' แปลว่า 'กระดานดำ' หรือ 'ไวท์บอร์ด' ประโยคนี้แปลว่า 'ครูเขียนบนกระดาน'",
+    "explanation": "'Pizarra' แปลว่า 'กระดานดำ' หรือ 'ไวต์บอร์ด' ประโยคนี้หมายความว่า 'ครูเขียนบนกระดาน'",
     "hint": null
   },
   "q_vocab_a1_10_007": {
-    "question": "คุณ forgot ไปยัง do your homework. อย่างไร do คุณ tell your ครู?",
+    "question": "คุณลืมทำการบ้าน คุณจะบอกครูว่าอย่างไร",
     "correct": "Lo siento, no tengo la tarea.",
     "wrong": [
       "Lo siento, no tengo el libro.",
       "Lo siento, no tengo el bolígrafo.",
       "Lo siento, no tengo el examen."
     ],
-    "explanation": "'Tarea' แปลว่า 'homework' หรือ 'assignment'. 'Deberes' เป็น ด้วย used ใน Spain สำหรับ homework.",
-    "context": "Arriving at class without homework"
+    "explanation": "'Tarea' แปลว่า 'การบ้าน' หรือ 'งานที่ได้รับมอบหมาย' ในสเปนยังใช้คำว่า 'deberes' สำหรับการบ้านด้วย",
+    "context": "Arriving at class without homework",
+    "hint": null
   },
   "q_vocab_a1_10_008": {
-    "question": "'lápiz' ในประโยค 'Necesito un lápiz' แปลว่าอะไร?",
+    "question": "'lápiz' ในประโยค 'Necesito un lápiz' หมายความว่าอะไร",
     "correct": "ดินสอ",
     "wrong": [
       "ปากกา",
       "ยางลบ",
       "ไม้บรรทัด"
     ],
-    "explanation": "'Lápiz' แปลว่า 'ดินสอ' พหูพจน์คือ 'lápices' ส่วนปากกาคือ 'bolígrafo' (หรือ 'boli' แบบไม่เป็นทางการ)",
+    "explanation": "'Lápiz' แปลว่า 'ดินสอ' รูปพหูพจน์คือ 'lápices' ส่วนปากกาคือ 'bolígrafo' (หรือ 'boli' ในภาษาพูด)",
     "hint": null
   },
   "q_vocab_a1_10_009": {
     "question": "Mi hermana estudia en la universidad.",
-    "correct": "My พี่สาว/น้องสาว studies at the university.",
+    "correct": "พี่สาว/น้องสาวของฉันเรียนอยู่ที่มหาวิทยาลัย",
     "wrong": [
-      "My พี่สาว/น้องสาว studies at the โรงเรียน.",
-      "My พี่ชาย/น้องชาย studies at the university.",
-      "My พี่สาว/น้องสาว works at the university."
+      "พี่สาว/น้องสาวของฉันเรียนอยู่ที่โรงเรียน",
+      "พี่ชาย/น้องชายของฉันเรียนอยู่ที่มหาวิทยาลัย",
+      "พี่สาว/น้องสาวของฉันทำงานอยู่ที่มหาวิทยาลัย"
     ],
-    "explanation": "'Universidad' แปลว่า 'university'. 'Estudiar en la universidad' = 'ไปยัง study at university'."
+    "explanation": "'Universidad' แปลว่า 'มหาวิทยาลัย' 'Estudiar en la universidad' = 'เรียนที่มหาวิทยาลัย'",
+    "hint": null
   },
   "q_vocab_a1_10_010": {
     "question": "คุณต้องการยืมปากกาจากเพื่อนร่วมชั้น คุณจะพูดว่าอย่างไร",
@@ -1106,23 +1115,23 @@
       "¿Me prestas un cuaderno?",
       "¿Me prestas un libro?"
     ],
-    "explanation": "'Bolígrafo' แปลว่า 'ปากกา' ส่วน '¿Me prestas...?' แปลว่า 'ให้ฉันยืม...ได้ไหม?' เป็นประโยคที่ใช้บ่อยระหว่างเพื่อนร่วมชั้น",
+    "explanation": "'Bolígrafo' แปลว่า 'ปากกา' ส่วน '¿Me prestas...?' แปลว่า 'ช่วยให้ยืม...หน่อยได้ไหม' ซึ่งเป็นประโยคที่เพื่อนร่วมชั้นใช้กันทั่วไป",
     "context": "In class without a pen",
     "hint": null
   },
   "q_vocab_a1_11_001": {
-    "question": "'médico' แปลว่าอะไร",
-    "correct": "หมอ / แพทย์",
+    "question": "'médico' แปลว่าอะไร?",
+    "correct": "แพทย์",
     "wrong": [
       "พยาบาล",
       "ทันตแพทย์",
       "เภสัชกร"
     ],
-    "explanation": "'Médico' แปลว่า 'แพทย์' รูปเพศหญิงคือ 'médica' นอกจากนี้ยังนิยมใช้ 'Doctor/Doctora' ด้วย",
+    "explanation": "'Médico' แปลว่า 'แพทย์' รูปเพศหญิงคือ 'médica' และมักใช้ 'Doctor/Doctora' ด้วยเช่นกัน",
     "hint": null
   },
   "q_vocab_a1_11_002": {
-    "question": "'abogado' แปลว่าอะไร",
+    "question": "'abogado' แปลว่าอะไร?",
     "correct": "ทนายความ",
     "wrong": [
       "วิศวกร",
@@ -1140,82 +1149,87 @@
       "dentista",
       "policía"
     ],
-    "explanation": "'Cocinero' แปลว่า 'พ่อครัว/chef'. senสิบce says ' พ่อครัว prepares food ใน ร้านอาหาร'."
+    "explanation": "'Cocinero' แปลว่า 'พ่อครัว/เชฟ' ประโยคนี้หมายความว่า 'พ่อครัวเตรียมอาหารในร้านอาหาร'",
+    "hint": null
   },
   "q_vocab_a1_11_004": {
-    "question": "'enfermero' แปลว่าอะไร",
+    "question": "'enfermero' แปลว่าอะไร?",
     "correct": "พยาบาล",
     "wrong": [
-      "หมอ",
+      "แพทย์",
       "ทันตแพทย์",
       "ผู้ป่วย"
     ],
-    "explanation": "'Enfermero' แปลว่า 'พยาบาล' (ชาย) ส่วน 'Enfermera' เป็นรูปเพศหญิง พวกเขาทำงานในโรงพยาบาลและคลินิก",
+    "explanation": "'Enfermero' แปลว่า 'พยาบาล' (ชาย) 'Enfermera' เป็นรูปเพศหญิง พวกเขาทำงานในโรงพยาบาลและคลินิก",
     "hint": null
   },
   "q_vocab_a1_11_005": {
-    "question": "'periodista' ในประโยค 'El periodista trabaja en un periódico' แปลว่าอะไร",
+    "question": "'periodista' ในประโยค 'El periodista trabaja en un periódico' แปลว่าอะไร?",
     "correct": "นักข่าว",
     "wrong": [
       "นักเขียน",
       "บรรณาธิการ",
       "ช่างภาพ"
     ],
-    "explanation": "'Periodista' แปลว่า 'นักข่าว' คำนี้ใช้เหมือนกันทั้งเพศชายและเพศหญิง ประโยคนี้แปลว่า 'นักข่าวทำงานที่หนังสือพิมพ์'",
+    "explanation": "'Periodista' แปลว่า 'นักข่าว' คำนี้ใช้เหมือนกันทั้งเพศชายและเพศหญิง ประโยคนี้หมายความว่า 'นักข่าวทำงานที่หนังสือพิมพ์'",
     "hint": null
   },
   "q_vocab_a1_11_006": {
-    "question": "My พ่อ เป็น an engineer.",
+    "question": "พ่อของฉันเป็นวิศวกร",
     "correct": "Mi padre es ingeniero.",
     "wrong": [
       "Mi padre es abogado.",
       "Mi padre es profesor.",
       "Mi padre es médico."
     ],
-    "explanation": "'Ingeniero' แปลว่า 'engineer'. ในภาษาสเปน, professions after 'ser' typically don't use an คำนำหน้านาม (no 'un')."
+    "explanation": "'Ingeniero' แปลว่า 'วิศวกร' ในภาษาสเปน อาชีพที่ตามหลัง 'ser' โดยปกติไม่ใช้คำนำหน้านาม (ไม่มี 'un')",
+    "hint": null
   },
   "q_vocab_a1_11_007": {
-    "question": "'camarero' ในประโยค 'El camarero trae la cuenta' แปลว่าอะไร",
-    "correct": "พนักงานเสิร์ฟ (ชาย)",
+    "question": "'camarero' ในประโยค 'El camarero trae la cuenta' แปลว่าอะไร?",
+    "correct": "บริกร",
     "wrong": [
       "เชฟ",
       "ผู้จัดการ",
       "ลูกค้า"
     ],
-    "explanation": "'Camarero' แปลว่า 'พนักงานเสิร์ฟ' ประโยคนี้แปลว่า 'พนักงานเสิร์ฟนำใบเสร็จมาให้' ส่วน 'Camarera' คือพนักงานเสิร์ฟหญิง",
+    "explanation": "'Camarero' แปลว่า 'บริกร' ประโยคนี้หมายความว่า 'บริกรนำใบเสร็จมาให้' 'Camarera' คือบริกรหญิง",
     "hint": null
   },
   "q_vocab_a1_11_008": {
     "question": "Soy estudiante de medicina. Quiero ser médico.",
-    "correct": "I am a medical นักเรียน. I want to be a หมอ.",
+    "correct": "ฉันเป็นนักศึกษาแพทย์ ฉันอยากเป็นแพทย์",
     "wrong": [
-      "I am a law นักเรียน. I want to be a lawyer.",
-      "I am a medical นักเรียน. I want to be a พยาบาล.",
-      "I am an art นักเรียน. I want to be a หมอ."
+      "ฉันเป็นนักศึกษากฎหมาย ฉันอยากเป็นทนายความ",
+      "ฉันเป็นนักศึกษาแพทย์ ฉันอยากเป็นพยาบาล",
+      "ฉันเป็นนักศึกษาศิลปะ ฉันอยากเป็นแพทย์"
     ],
-    "explanation": "'Estudiante de medicina' แปลว่า 'medical นักเรียน'. 'Quiero ser' แปลว่า 'I want ไปยัง เป็น'."
+    "explanation": "'Estudiante de medicina' แปลว่า 'นักศึกษาแพทย์' ส่วน 'Quiero ser' แปลว่า 'ฉันอยากเป็น'",
+    "hint": null
   },
   "q_vocab_a1_11_009": {
-    "question": "คุณ meet someหนึ่ง at a party และ พวกเขา ask อะไร คุณ do. อย่างไร do คุณ say 'I am a ครู'?",
+    "question": "คุณพบใครสักคนในงานปาร์ตี้ แล้วเขาถามว่าคุณทำอาชีพอะไร คุณจะพูดว่า 'ฉันเป็นครู' อย่างไร?",
     "correct": "Soy profesor.",
     "wrong": [
       "Soy estudiante.",
-      "Soy un profesor.",
+      "Es profesor.",
       "Estoy profesor."
     ],
-    "explanation": "We use 'soy' (not 'estoy') สำหรับ professions เพราะ พวกเขา เป็น consideสีแดง perผู้ชายent traits. No คำนำหน้านาม เป็น needed beสำหรับe profession.",
-    "context": "Meeting someหนึ่ง ใหม่ at a party"
+    "explanation": "สำหรับอาชีพเราใช้ 'ser' (soy) ไม่ใช่ 'estar'\n- Soy profesor. = ฉันเป็นครู\n- Es profesor. = เขาเป็นครู\n- เมื่อบอกเพียงตำแหน่งอาชีพ ภาษาสเปนจะละ 'un' ไว้: Soy profesor.",
+    "context": "Meeting someหนึ่ง ใหม่ at a party",
+    "hint": null
   },
   "q_vocab_a1_11_010": {
-    "question": "คุณ call emergency services. อย่างไร do คุณ ask สำหรับ police?",
+    "question": "คุณโทรหาหน่วยบริการฉุกเฉิน คุณจะขอตำรวจอย่างไร?",
     "correct": "¡Necesito la policía!",
     "wrong": [
       "¡Necesito un médico!",
       "¡Necesito un bombero!",
       "¡Necesito una ambulancia!"
     ],
-    "explanation": "'Policía' สามารถ หมายความว่า 'police' ( สำหรับce) หรือ 'police officer'. Here มัน refers ไปยัง calling police.",
-    "context": "Making an emergency phหนึ่ง call"
+    "explanation": "'Policía' อาจหมายถึง 'ตำรวจ' (หน่วยงาน) หรือ 'เจ้าหน้าที่ตำรวจ' ในที่นี้หมายถึงการเรียกตำรวจ",
+    "context": "Making an emergency phหนึ่ง call",
+    "hint": null
   },
   "q_vocab_a1_12_001": {
     "question": "'sol' แปลว่าอะไร",
